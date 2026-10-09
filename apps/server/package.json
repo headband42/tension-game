@@ -1,0 +1,23 @@
+{
+  "name": "@tension/server",
+  "version": "0.1.0",
+  "type": "module",
+  "scripts": {
+    "dev": "bun run --hot src/index.ts",
+    "build": "bun build src/index.ts --outdir dist --target bun",
+    "start": "bun dist/index.js",
+    "seed": "bun run src/seed.ts"
+  },
+  "dependencies": {
+    "@prisma/client": "^5.10.0",
+    "hono": "^4.0.0",
+    "socket.io": "^4.7.0",
+    "zod": "^3.22.0",
+    "uuid": "^9.0.0"
+  },
+  "devDependencies": {
+    "@types/uuid": "^9.0.0",
+    "prisma": "^5.10.0",
+    "bun-types": "latest"
+  }
+}

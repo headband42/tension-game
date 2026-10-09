@@ -1,0 +1,146 @@
+generator client {
+  provider = "prisma-client-js"
+}
+
+datasource db {
+  provider = "sqlite"
+  url      = env("DATABASE_URL")
+}
+
+model Category {
+  id             String       @id
+  name           String
+  parentId       String?      @map("parent_id")
+  depth          Int          @default(0)
+  path           String
+  questionCount  Int          @default(0) @map("question_count")
+  active         Boolean      @default(true)
+  createdAt      DateTime     @default(now()) @map("created_at")
+  
+  parent         Category?    @relation("CategoryChildren", fields: [parentId], references: [id])
+  children       Category[]   @relation("CategoryChildren")
+  questions      Question[]
+  
+  @@index([parentId])
+  @@index([path])
+  @@map("categories")
+}
+
+model Question {
+  id             String       @id @default(cuid())
+  categoryId     String       @map("category_id")
+  difficulty     Int          @default(1)
+  questionText   String       @map("question_text")
+  tensionCutoff  Int          @default(10) @map("tension_cutoff")
+  submitter      String?
+  source         String?
+  tags           String       @default("[]") // JSON array as string
+  active         Boolean      @default(true)
+  usageCount     Int          @default(0) @map("usage_count")
+  createdAt      DateTime     @default(now()) @map("created_at")
+  
+  category       Category     @relation(fields: [categoryId], references: [id])
+  answers        Answer[]
+  games          GameQuestion[]
+  
+  @@index([categoryId])
+  @@index([difficulty])
+  @@index([active])
+  @@map("questions")
+}
+
+model Answer {
+  id             String       @id @default(cuid())
+  questionId     String       @map("question_id")
+  rank           Int
+  answerText     String       @map("answer_text")
+  displayValue   String?      @map("display_value")
+  points         Int
+  aliases        String       @default("[]") // JSON array as string
+  
+  question       Question     @relation(fields: [questionId], references: [id], onDelete: Cascade)
+  
+  @@index([questionId])
+  @@index([questionId, rank])
+  @@map("answers")
+}
+
+model Game {
+  id                   String       @id @default(cuid())
+  code                 String       @unique
+  hostId               String       @map("host_id")
+  status               String       @default("setup") // setup, waiting, active, completed
+  currentRound         Int          @default(0) @map("current_round")
+  totalRounds          Int          @default(5) @map("total_rounds")
+  timePerRound         Int          @default(45) @map("time_per_round")
+  doublesPerPlayer     Int          @default(1) @map("doubles_per_player")
+  waitForReconnects    Boolean      @default(true) @map("wait_for_reconnects")
+  selectedCategories   String       @default("[]") @map("selected_categories") // JSON array
+  settings             String       @default("{}") // JSON object
+  createdAt            DateTime     @default(now()) @map("created_at")
+  startedAt            DateTime?    @map("started_at")
+  completedAt          DateTime?    @map("completed_at")
+  
+  players              Player[]
+  submissions          Submission[]
+  questions            GameQuestion[]
+  
+  @@index([code])
+  @@index([status])
+  @@map("games")
+}
+
+model GameQuestion {
+  id           String     @id @default(cuid())
+  gameId       String     @map("game_id")
+  questionId   String     @map("question_id")
+  roundNumber  Int        @map("round_number")
+  askedAt      DateTime?  @map("asked_at")
+  
+  game         Game       @relation(fields: [gameId], references: [id], onDelete: Cascade)
+  question     Question   @relation(fields: [questionId], references: [id])
+  
+  @@unique([gameId, roundNumber])
+  @@index([gameId])
+  @@map("game_questions")
+}
+
+model Player {
+  id                String       @id @default(cuid())
+  gameId            String       @map("game_id")
+  name              String
+  deviceId          String       @map("device_id")
+  score             Int          @default(0)
+  doublesRemaining  Int          @default(1) @map("doubles_remaining")
+  connected         Boolean      @default(true)
+  joinedAt          DateTime     @default(now()) @map("joined_at")
+  lastSeen          DateTime     @default(now()) @map("last_seen")
+  
+  game              Game         @relation(fields: [gameId], references: [id], onDelete: Cascade)
+  submissions       Submission[]
+  
+  @@index([gameId])
+  @@map("players")
+}
+
+model Submission {
+  id                String       @id @default(cuid())
+  gameId            String       @map("game_id")
+  playerId          String       @map("player_id")
+  round             Int
+  submittedAnswer   String       @map("submitted_answer")
+  normalizedAnswer  String?      @map("normalized_answer")
+  answerMatchId     String?      @map("answer_match_id")
+  matchedRank       Int?         @map("matched_rank")
+  pointsAwarded     Int?         @map("points_awarded")
+  usedDouble        Boolean      @default(false) @map("used_double")
+  lockedAt          DateTime?    @map("locked_at")
+  createdAt         DateTime     @default(now()) @map("created_at")
+  
+  game              Game         @relation(fields: [gameId], references: [id], onDelete: Cascade)
+  player            Player       @relation(fields: [playerId], references: [id], onDelete: Cascade)
+  
+  @@index([gameId])
+  @@index([gameId, round])
+  @@map("submissions")
+}
