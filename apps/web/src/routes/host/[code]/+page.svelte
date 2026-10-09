@@ -1,175 +1,63 @@
 <script lang="ts">
-  import { onMount } from 'svelte';
-  import { page } from '$app/stores';
-  import { goto } from '$app/navigation';
-  import { socketStore } from '$lib/socket';
+  import { page } from '$app/state';
+  import { normalizeCode } from '@tension/shared';
+  import { untrack } from 'svelte';
+  import FinalStandings from '$lib/components/FinalStandings.svelte';
+  import HostLobby from '$lib/components/HostLobby.svelte';
+  import HostReveal from '$lib/components/HostReveal.svelte';
+  import HostRound from '$lib/components/HostRound.svelte';
+  import { game } from '$lib/game.svelte';
+  import { hostToken } from '$lib/storage';
 
-  const gameCode = $page.params.code as string;
-  let gameId: string | null = null;
-  let loading = true;
-  let error = '';
-  let copyMsg = '';
-  let starting = false;
+  const code = $derived(normalizeCode(page.params.code ?? ''));
+  let notHost = $state(false);
+  let problem = $state<string | null>(null);
 
-  $: gameState = $socketStore.gameState;
-  $: players = gameState.players.length
-    ? gameState.players
-    : [];
-  $: disconnectedCount = players.filter((p) => !p.connected).length;
-
-  let navigatedToGame = false;
-
-  // Navigate to game screen when host starts / game becomes active
-  $: if (
-    !loading &&
-    !navigatedToGame &&
-    gameState.isHost &&
-    (gameState.status === 'active' || gameState.status === 'completed')
-  ) {
-    navigatedToGame = true;
-    goto(`/game/${gameCode}`);
+  async function connect(target: string) {
+    if (game.isSeated('host', target)) return;
+    const token = hostToken(target);
+    notHost = !token;
+    problem = null;
+    if (!token) return;
+    const result = await game.hostGame(target, token);
+    if (!result.ok && target === code) problem = result.error;
   }
 
-  onMount(async () => {
-    try {
-      const res = await fetch(`/api/games/${gameCode}`);
-      const data = await res.json();
-
-      if (!data.game) {
-        goto('/');
-        return;
-      }
-
-      gameId = data.game.id;
-      loading = false;
-
-      // Seed players from REST until socket syncs
-      if (data.game.players?.length) {
-        // Will be overwritten by game:state from host:join
-      }
-
-      const hostId = localStorage.getItem('hostId') || undefined;
-
-      socketStore.connect();
-      // Small delay so socket is connecting
-      setTimeout(() => {
-        if (gameId) socketStore.hostJoin(gameId, hostId);
-      }, 200);
-    } catch (e: any) {
-      error = e?.message || 'Failed to load game';
-      loading = false;
-    }
+  $effect(() => {
+    const target = code;
+    untrack(() => void connect(target));
   });
 
-  function startGame() {
-    if (players.length < 1) {
-      alert('Need at least 1 player to start');
-      return;
-    }
-    starting = true;
-    error = '';
-    socketStore.clearError();
-    socketStore.startGame();
-  }
-
-  // Surface server errors
-  $: if ($socketStore.error) {
-    error = $socketStore.error;
-    starting = false;
-  }
-
-  async function copyCode() {
-    copyMsg = '';
-    try {
-      if (navigator.clipboard?.writeText) {
-        await navigator.clipboard.writeText(gameCode);
-        copyMsg = 'Copied!';
-      } else {
-        throw new Error('clipboard unavailable');
-      }
-    } catch {
-      // Fallback: select a temporary input
-      const el = document.createElement('textarea');
-      el.value = gameCode;
-      el.setAttribute('readonly', '');
-      el.style.position = 'absolute';
-      el.style.left = '-9999px';
-      document.body.appendChild(el);
-      el.select();
-      try {
-        document.execCommand('copy');
-        copyMsg = 'Copied!';
-      } catch {
-        copyMsg = 'Select and copy: ' + gameCode;
-      }
-      document.body.removeChild(el);
-    }
-    setTimeout(() => (copyMsg = ''), 2500);
-  }
+  const view = $derived(game.isSeated('host', code) ? game.game : null);
 </script>
 
-<div class="min-h-screen p-6">
-  {#if loading}
-    <div class="flex items-center justify-center h-screen">
-      <div class="text-2xl">Loading...</div>
+<svelte:head><title>Tension · {code}</title></svelte:head>
+
+{#if notHost}
+  <div class="card mx-auto mt-16 max-w-md space-y-4 text-center">
+    <h1 class="text-2xl font-bold">Game {code}</h1>
+    <p class="text-gray-400">This browser didn't create this game, so it can't be the host screen.</p>
+    <div class="flex justify-center gap-3">
+      <a class="btn btn-primary" href="/join?code={code}">Join as a player</a>
+      <a class="btn btn-secondary" href="/host">New game</a>
     </div>
-  {:else}
-    <div class="max-w-2xl mx-auto text-center">
-      <h1 class="text-4xl font-bold mb-2">Waiting Room</h1>
-
-      <div class="card mb-8">
-        <p class="text-gray-400 mb-2">Game Code</p>
-        <button
-          on:click={copyCode}
-          class="text-5xl font-mono font-bold text-tension-400 hover:text-tension-300 transition-colors"
-        >
-          {gameCode}
-        </button>
-        <p class="text-sm text-gray-500 mt-2">
-          {copyMsg || 'Click to copy'}
-        </p>
-      </div>
-
-      <div class="card mb-8">
-        <h2 class="text-xl font-semibold mb-4">
-          Players ({players.length})
-        </h2>
-
-        {#if players.length === 0}
-          <p class="text-gray-500">Waiting for players to join...</p>
-        {:else}
-          <div class="space-y-2">
-            {#each players as player (player.id)}
-              <div
-                class="flex items-center justify-between p-3 bg-gray-700 rounded-lg"
-              >
-                <span class="font-medium">{player.name}</span>
-                <span class={player.connected ? 'text-green-400' : 'text-red-400'}>
-                  {player.connected ? '🟢' : '🔴'}
-                </span>
-              </div>
-            {/each}
-          </div>
-        {/if}
-
-        {#if disconnectedCount > 0}
-          <p class="text-sm text-yellow-400 mt-4">
-            {disconnectedCount} player{disconnectedCount === 1 ? '' : 's'} disconnected
-          </p>
-        {/if}
-      </div>
-
-      {#if error}
-        <div class="text-tension-400 text-sm mb-4">{error}</div>
-      {/if}
-
-      <button
-        on:click={startGame}
-        disabled={starting || players.length < 1}
-        class="btn-success text-lg px-12 py-4 disabled:opacity-50"
-      >
-        {starting ? 'Starting...' : 'Start Game'}
-      </button>
-    </div>
-  {/if}
-</div>
+  </div>
+{:else if problem}
+  <div class="card mx-auto mt-16 max-w-md space-y-4 text-center">
+    <p class="text-red-400">{problem}</p>
+    <a class="btn btn-secondary" href="/">Home</a>
+  </div>
+{:else if !view}
+  <p class="mt-16 text-center text-2xl text-gray-400">Connecting…</p>
+{:else if view.phase === 'lobby'}
+  <HostLobby {view} />
+{:else if view.phase === 'playing'}
+  <HostRound {view} />
+{:else if view.phase === 'reveal'}
+  <HostReveal {view} />
+{:else}
+  <div class="mx-auto max-w-2xl space-y-8">
+    <FinalStandings players={view.players} />
+    <div class="text-center"><a href="/host" class="btn btn-primary">New game</a></div>
+  </div>
+{/if}

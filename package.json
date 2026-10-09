@@ -1,27 +1,27 @@
 {
   "name": "tension-game",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "private": true,
+  "type": "module",
   "workspaces": [
     "apps/*",
     "packages/*"
   ],
   "scripts": {
-    "dev": "concurrently \"bun run dev:server\" \"bun run dev:web\"",
-    "dev:server": "cd apps/server && bun run dev",
-    "dev:web": "cd apps/web && bun run dev",
-    "build": "bun run build:server && bun run build:web",
-    "build:server": "cd apps/server && bun run build",
-    "build:web": "cd apps/web && bun run build",
-    "db:generate": "cd apps/server && bunx prisma generate",
-    "db:migrate": "cd apps/server && bunx prisma migrate dev",
-    "db:studio": "cd apps/server && bunx prisma studio",
-    "db:seed": "cd apps/server && bun run seed"
-  },
-  "devDependencies": {
-    "concurrently": "^8.2.2"
+    "setup": "bun run --cwd apps/server setup",
+    "dev": "bun run --parallel dev:server dev:web",
+    "dev:server": "bun run --cwd apps/server dev",
+    "dev:web": "bun run --cwd apps/web dev",
+    "build": "bun run --cwd apps/web build",
+    "start": "bun run --cwd apps/server start",
+    "test": "bun run --cwd apps/server test",
+    "check": "bun run --cwd apps/server check && bun run --cwd apps/web check",
+    "import": "bun apps/server/src/content/import-cli.ts",
+    "db:migrate": "bun run --cwd apps/server db:migrate",
+    "db:reset": "bun run --cwd apps/server db:reset",
+    "db:studio": "bun run --cwd apps/server db:studio"
   },
   "engines": {
-    "bun": ">=1.0.0"
+    "bun": ">=1.2"
   }
 }

@@ -1,23 +1,32 @@
 {
   "name": "@tension/server",
-  "version": "0.1.0",
+  "version": "0.2.0",
+  "private": true,
   "type": "module",
   "scripts": {
-    "dev": "bun run --hot src/index.ts",
-    "build": "bun build src/index.ts --outdir dist --target bun",
-    "start": "bun dist/index.js",
-    "seed": "bun run src/seed.ts"
+    "setup": "bun scripts/setup.ts",
+    "dev": "bun --watch src/index.ts --api-only",
+    "start": "bun src/index.ts",
+    "test": "bun test",
+    "check": "prisma generate --no-hints && tsc --noEmit",
+    "import": "bun src/content/import-cli.ts",
+    "seed": "bun src/content/import-cli.ts data/questions.json",
+    "db:migrate": "prisma migrate dev",
+    "db:reset": "prisma migrate reset --force --skip-seed && bun run seed",
+    "db:studio": "prisma studio"
   },
   "dependencies": {
-    "@prisma/client": "^5.10.0",
-    "hono": "^4.0.0",
-    "socket.io": "^4.7.0",
-    "zod": "^3.22.0",
-    "uuid": "^9.0.0"
+    "@hono/node-server": "^2.1.4",
+    "@prisma/client": "^6.19.3",
+    "@tension/shared": "workspace:*",
+    "hono": "^4.13.13",
+    "socket.io": "^4.8.4",
+    "zod": "^4.6.5"
   },
   "devDependencies": {
-    "@types/uuid": "^9.0.0",
-    "prisma": "^5.10.0",
-    "bun-types": "latest"
+    "@types/bun": "^1.4.2",
+    "prisma": "^6.19.3",
+    "socket.io-client": "^4.8.4",
+    "typescript": "^6.0.3"
   }
 }

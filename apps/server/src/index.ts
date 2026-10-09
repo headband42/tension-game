@@ -1,94 +1,32 @@
-import { Hono } from 'hono';
-import { Server } from 'socket.io';
-import { PrismaClient } from '@prisma/client';
-import http from 'http';
-import { gameSocketHandler } from './socket/game.js';
-import { gameRoutes } from './routes/games.js';
-import { categoryRoutes } from './routes/categories.js';
-import { questionRoutes } from './routes/questions.js';
+import { resolve } from 'node:path';
+import { createPrisma } from './db';
+import { lanAddresses } from './http/api';
+import { createTensionServer } from './server';
 
-const app = new Hono();
-const prisma = new PrismaClient();
+const port = Number(process.env.PORT) || 3001;
+const host = process.env.HOST || '0.0.0.0';
+// In development Vite serves the UI (see apps/web/vite.config.ts), so skip any stale build.
+const apiOnly = process.argv.includes('--api-only');
+const webDir = apiOnly ? undefined : process.env.WEB_DIR || resolve(import.meta.dir, '../../web/build');
 
-// Middleware
-app.use('*', async (c, next) => {
-  c.set('prisma', prisma);
-  await next();
-});
+const prisma = createPrisma();
+const server = createTensionServer({ prisma, webDir });
 
-// Health check
-app.get('/', (c) => c.json({ status: 'ok', service: 'tension-game-api' }));
-
-// API Routes
-app.route('/api/games', gameRoutes);
-app.route('/api/categories', categoryRoutes);
-app.route('/api/questions', questionRoutes);
-
-// Create HTTP server
-const PORT = parseInt(process.env.PORT || '3001');
-
-const server = http.createServer(async (req, res) => {
-  try {
-    const url = `http://${req.headers.host}${req.url}`;
-    const method = req.method || 'GET';
-    const headers = new Headers();
-    
-    Object.entries(req.headers).forEach(([key, value]) => {
-      if (value && typeof value === 'string') {
-        headers.set(key, value);
-      }
-    });
-
-    let body: BodyInit | undefined;
-    if (method !== 'GET' && method !== 'HEAD') {
-      const chunks: Buffer[] = [];
-      for await (const chunk of req) {
-        chunks.push(chunk);
-      }
-      if (chunks.length > 0) {
-        body = Buffer.concat(chunks);
-      }
-    }
-
-    const request = new Request(url, { method, headers, body });
-    const response = await app.fetch(request);
-    
-    res.statusCode = response.status;
-    res.statusMessage = response.statusText;
-    
-    response.headers.forEach((value, key) => {
-      res.setHeader(key, value);
-    });
-
-    const responseBody = await response.arrayBuffer();
-    res.end(Buffer.from(responseBody));
-  } catch (error) {
-    console.error('Server error:', error);
-    res.statusCode = 500;
-    res.end(JSON.stringify({ error: 'Internal server error' }));
+server.httpServer.listen(port, host, () => {
+  console.log(`Tension server listening on http://localhost:${port}`);
+  if (server.servesWeb) {
+    for (const address of lanAddresses()) console.log(`  Phones on your network: http://${address}:${port}`);
+  } else if (apiOnly) {
+    console.log('  API only — open the web app from the Vite dev server.');
+  } else {
+    console.log('  No web build found, so only the API is served. Run `bun run build` first.');
   }
 });
 
-// Setup Socket.io
-const io = new Server(server, {
-  cors: {
-    origin: process.env.WEB_URL || '*',
-    methods: ['GET', 'POST'],
-  },
-  transports: ['websocket', 'polling'],
-});
-
-// Socket.io game handler
-gameSocketHandler(io, prisma);
-
-server.listen(PORT, () => {
-  console.log(`🎮 Tension Game Server running on http://localhost:${PORT}`);
-});
-
-// Graceful shutdown
-process.on('SIGINT', async () => {
-  console.log('Shutting down...');
+async function shutdown() {
+  await server.close();
   await prisma.$disconnect();
-  server.close();
   process.exit(0);
-});
+}
+process.on('SIGINT', shutdown);
+process.on('SIGTERM', shutdown);
