@@ -1,0 +1,1799 @@
+{
+  "categories": [
+    {
+      "path": "geography/subdivisions",
+      "name": "Country Subdivisions"
+    },
+    {
+      "path": "geography/subdivisions/united-states",
+      "name": "United States subdivisions"
+    },
+    {
+      "path": "geography/subdivisions/brazil",
+      "name": "Brazil subdivisions"
+    },
+    {
+      "path": "geography/subdivisions/spain",
+      "name": "Spain subdivisions"
+    },
+    {
+      "path": "geography/subdivisions/germany",
+      "name": "Germany subdivisions"
+    },
+    {
+      "path": "geography/subdivisions/turkey",
+      "name": "Turkey subdivisions"
+    },
+    {
+      "path": "geography/subdivisions/italy",
+      "name": "Italy subdivisions"
+    },
+    {
+      "path": "geography/subdivisions/poland",
+      "name": "Poland subdivisions"
+    },
+    {
+      "path": "geography/subdivisions/romania",
+      "name": "Romania subdivisions"
+    },
+    {
+      "path": "geography/subdivisions/colombia",
+      "name": "Colombia subdivisions"
+    },
+    {
+      "path": "geography/subdivisions/sweden",
+      "name": "Sweden subdivisions"
+    },
+    {
+      "path": "geography/subdivisions/chile",
+      "name": "Chile subdivisions"
+    },
+    {
+      "path": "geography/subdivisions/ukraine",
+      "name": "Ukraine subdivisions"
+    },
+    {
+      "path": "geography/subdivisions/france",
+      "name": "France subdivisions"
+    },
+    {
+      "path": "geography/subdivisions/russia",
+      "name": "Russia subdivisions"
+    },
+    {
+      "path": "geography/subdivisions/mexico",
+      "name": "Mexico subdivisions"
+    }
+  ],
+  "questions": [
+    {
+      "category": "geography/subdivisions/united-states",
+      "difficulty": 1,
+      "question": "Top 10 US states by GDP (2025; District of Columbia excluded)",
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1377403090 | table 2 | name: State or federal | value: millions of U.S. dollars) / 2025 | header rows: 2 | where: State or federal district!=District of Columbia | where: State or federal district!=United States",
+      "tags": [
+        "geography",
+        "subdivisions",
+        "united-states",
+        "gdp",
+        "economy"
+      ],
+      "answers": [
+        {
+          "answer": "California",
+          "display": "$4,250.8B"
+        },
+        {
+          "answer": "Texas",
+          "display": "$2,904.4B"
+        },
+        {
+          "answer": "New York",
+          "display": "$2,467.7B"
+        },
+        {
+          "answer": "Florida",
+          "display": "$1,834.6B"
+        },
+        {
+          "answer": "Illinois",
+          "display": "$1,202.0B"
+        },
+        {
+          "answer": "Pennsylvania",
+          "display": "$1,056.4B"
+        },
+        {
+          "answer": "Ohio",
+          "display": "$966.8B"
+        },
+        {
+          "answer": "Georgia",
+          "display": "$924.8B"
+        },
+        {
+          "answer": "Washington",
+          "display": "$895.0B"
+        },
+        {
+          "answer": "North Carolina",
+          "display": "$893.8B"
+        },
+        {
+          "answer": "New Jersey",
+          "display": "$887.2B"
+        },
+        {
+          "answer": "Massachusetts",
+          "display": "$820.1B"
+        },
+        {
+          "answer": "Virginia",
+          "display": "$798.4B"
+        },
+        {
+          "answer": "Michigan",
+          "display": "$730.1B"
+        }
+      ]
+    },
+    {
+      "category": "geography/subdivisions/brazil",
+      "difficulty": 2,
+      "question": "Top 10 Brazilian states by GDP (2023, in reais; Federal District included, regions excluded)",
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1353196391 | table 2 | name: Federative unit | value: GDP in BRL billion | header rows: 2 | where: Federative unit!~Region | where: Federative unit!=Total",
+      "tags": [
+        "geography",
+        "subdivisions",
+        "brazil",
+        "gdp",
+        "economy"
+      ],
+      "answers": [
+        {
+          "answer": "São Paulo",
+          "display": "R$3,444.8B",
+          "aliases": [
+            "SP"
+          ]
+        },
+        {
+          "answer": "Rio de Janeiro",
+          "display": "R$1,172.9B",
+          "aliases": [
+            "Rio"
+          ]
+        },
+        {
+          "answer": "Minas Gerais",
+          "display": "R$972.0B",
+          "aliases": [
+            "MG"
+          ]
+        },
+        {
+          "answer": "Paraná",
+          "display": "R$670.9B"
+        },
+        {
+          "answer": "Rio Grande do Sul",
+          "display": "R$650.1B",
+          "aliases": [
+            "RS"
+          ]
+        },
+        {
+          "answer": "Santa Catarina",
+          "display": "R$513.4B",
+          "aliases": [
+            "SC"
+          ]
+        },
+        {
+          "answer": "Bahia",
+          "display": "R$431.0B"
+        },
+        {
+          "answer": "Federal District",
+          "display": "R$365.7B",
+          "aliases": [
+            "Distrito Federal",
+            "Brasília",
+            "DF"
+          ]
+        },
+        {
+          "answer": "Goiás",
+          "display": "R$336.7B"
+        },
+        {
+          "answer": "Mato Grosso",
+          "display": "R$273.0B"
+        },
+        {
+          "answer": "Pernambuco",
+          "display": "R$270.5B"
+        },
+        {
+          "answer": "Pará",
+          "display": "R$254.5B"
+        },
+        {
+          "answer": "Ceará",
+          "display": "R$232.2B"
+        }
+      ]
+    },
+    {
+      "category": "geography/subdivisions/spain",
+      "difficulty": 1,
+      "question": "Top 5 most populous autonomous communities of Spain (2024; Ceuta and Melilla excluded)",
+      "submitter": "claude",
+      "cutoff": 5,
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1378548271 | table 1 | name: Autonomous | value: Pop. (2024)",
+      "tags": [
+        "geography",
+        "subdivisions",
+        "spain",
+        "population"
+      ],
+      "answers": [
+        {
+          "answer": "Andalusia",
+          "display": "8,631,862 people",
+          "aliases": [
+            "Andalucía"
+          ]
+        },
+        {
+          "answer": "Catalonia",
+          "display": "8,012,231 people",
+          "aliases": [
+            "Cataluña",
+            "Catalunya"
+          ]
+        },
+        {
+          "answer": "Madrid",
+          "display": "7,009,268 people",
+          "aliases": [
+            "Community of Madrid",
+            "Comunidad de Madrid"
+          ]
+        },
+        {
+          "answer": "Valencia",
+          "display": "5,319,285 people",
+          "aliases": [
+            "Valencian Community",
+            "Comunidad Valenciana"
+          ]
+        },
+        {
+          "answer": "Galicia",
+          "display": "2,705,833 people"
+        },
+        {
+          "answer": "Castile and León",
+          "display": "2,391,682 people",
+          "aliases": [
+            "Castilla y León"
+          ]
+        },
+        {
+          "answer": "Canary Islands",
+          "display": "2,238,754 people",
+          "aliases": [
+            "Canarias"
+          ]
+        },
+        {
+          "answer": "Basque Country",
+          "display": "2,227,684 people",
+          "aliases": [
+            "Euskadi",
+            "País Vasco"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "geography/subdivisions/germany",
+      "difficulty": 1,
+      "question": "Top 5 most populous states of Germany (31 December 2023)",
+      "submitter": "claude",
+      "cutoff": 5,
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1379349192 | table 1 | name: State | value: Pop. (2023",
+      "tags": [
+        "geography",
+        "subdivisions",
+        "germany",
+        "population"
+      ],
+      "answers": [
+        {
+          "answer": "North Rhine-Westphalia",
+          "display": "18,017,520 people",
+          "aliases": [
+            "NRW",
+            "Nordrhein-Westfalen"
+          ]
+        },
+        {
+          "answer": "Bavaria",
+          "display": "13,176,426 people",
+          "aliases": [
+            "Bayern"
+          ]
+        },
+        {
+          "answer": "Baden-Württemberg",
+          "display": "11,230,740 people"
+        },
+        {
+          "answer": "Lower Saxony",
+          "display": "8,008,135 people",
+          "aliases": [
+            "Niedersachsen"
+          ]
+        },
+        {
+          "answer": "Hesse",
+          "display": "6,267,546 people",
+          "aliases": [
+            "Hessen"
+          ]
+        },
+        {
+          "answer": "Rhineland-Palatinate",
+          "display": "4,125,163 people",
+          "aliases": [
+            "Rheinland-Pfalz"
+          ]
+        },
+        {
+          "answer": "Saxony",
+          "display": "4,054,689 people",
+          "aliases": [
+            "Sachsen"
+          ]
+        },
+        {
+          "answer": "Berlin",
+          "display": "3,662,381 people"
+        }
+      ]
+    },
+    {
+      "category": "geography/subdivisions/germany",
+      "difficulty": 2,
+      "question": "Top 5 largest states of Germany by area (km²)",
+      "submitter": "claude",
+      "cutoff": 5,
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1379349192 | table 1 | name: State | value: Area",
+      "tags": [
+        "geography",
+        "subdivisions",
+        "germany",
+        "area"
+      ],
+      "answers": [
+        {
+          "answer": "Bavaria",
+          "display": "70,541 km²",
+          "aliases": [
+            "Bayern"
+          ]
+        },
+        {
+          "answer": "Lower Saxony",
+          "display": "47,710 km²",
+          "aliases": [
+            "Niedersachsen"
+          ]
+        },
+        {
+          "answer": "Baden-Württemberg",
+          "display": "35,748 km²"
+        },
+        {
+          "answer": "North Rhine-Westphalia",
+          "display": "34,112 km²",
+          "aliases": [
+            "NRW",
+            "Nordrhein-Westfalen"
+          ]
+        },
+        {
+          "answer": "Brandenburg",
+          "display": "29,654 km²"
+        },
+        {
+          "answer": "Mecklenburg-Western Pomerania",
+          "display": "23,295 km²",
+          "aliases": [
+            "Mecklenburg-Vorpommern"
+          ]
+        },
+        {
+          "answer": "Hesse",
+          "display": "21,116 km²",
+          "aliases": [
+            "Hessen"
+          ]
+        },
+        {
+          "answer": "Saxony-Anhalt",
+          "display": "20,464 km²",
+          "aliases": [
+            "Sachsen-Anhalt"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "geography/subdivisions/turkey",
+      "difficulty": 2,
+      "question": "Top 10 largest provinces of Turkey by area (km²)",
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1374534964 | table 1 | name: Name | value: 4",
+      "tags": [
+        "geography",
+        "subdivisions",
+        "turkey",
+        "area"
+      ],
+      "answers": [
+        {
+          "answer": "Konya",
+          "display": "40,813.52 km²"
+        },
+        {
+          "answer": "Sivas",
+          "display": "28,567.34 km²"
+        },
+        {
+          "answer": "Ankara",
+          "display": "25,401.94 km²"
+        },
+        {
+          "answer": "Erzurum",
+          "display": "25,330.90 km²"
+        },
+        {
+          "answer": "Antalya",
+          "display": "20,790.56 km²"
+        },
+        {
+          "answer": "Van",
+          "display": "19,414.14 km²"
+        },
+        {
+          "answer": "Şanlıurfa",
+          "display": "19,336.21 km²",
+          "aliases": [
+            "Urfa"
+          ]
+        },
+        {
+          "answer": "Kayseri",
+          "display": "17,109.33 km²"
+        },
+        {
+          "answer": "Mersin",
+          "display": "15,512.25 km²"
+        },
+        {
+          "answer": "Diyarbakır",
+          "display": "15,204.01 km²"
+        },
+        {
+          "answer": "Afyonkarahisar",
+          "display": "14,718.63 km²",
+          "aliases": [
+            "Afyon"
+          ]
+        },
+        {
+          "answer": "Balıkesir",
+          "display": "14,472.73 km²"
+        },
+        {
+          "answer": "Kahramanmaraş",
+          "display": "14,456.74 km²"
+        }
+      ]
+    },
+    {
+      "category": "geography/subdivisions/italy",
+      "difficulty": 2,
+      "question": "Top 7 largest regions of Italy by area (km²)",
+      "submitter": "claude",
+      "cutoff": 7,
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1380609944 | table 1 | name: Region | value: Area / km2 | header rows: 3 | where: Region!=Italy Italia",
+      "tags": [
+        "geography",
+        "subdivisions",
+        "italy",
+        "area"
+      ],
+      "answers": [
+        {
+          "answer": "Sicily",
+          "display": "25,832 km²",
+          "aliases": [
+            "Sicilia"
+          ]
+        },
+        {
+          "answer": "Piedmont",
+          "display": "25,387 km²",
+          "aliases": [
+            "Piemonte"
+          ]
+        },
+        {
+          "answer": "Sardinia",
+          "display": "24,100 km²",
+          "aliases": [
+            "Sardegna"
+          ]
+        },
+        {
+          "answer": "Lombardy",
+          "display": "23,864 km²",
+          "aliases": [
+            "Lombardia"
+          ]
+        },
+        {
+          "answer": "Tuscany",
+          "display": "22,987 km²",
+          "aliases": [
+            "Toscana"
+          ]
+        },
+        {
+          "answer": "Emilia-Romagna",
+          "display": "22,453 km²"
+        },
+        {
+          "answer": "Apulia",
+          "display": "19,541 km²",
+          "aliases": [
+            "Puglia"
+          ]
+        },
+        {
+          "answer": "Veneto",
+          "display": "18,345 km²"
+        },
+        {
+          "answer": "Lazio",
+          "display": "17,232 km²"
+        },
+        {
+          "answer": "Calabria",
+          "display": "15,222 km²"
+        }
+      ]
+    },
+    {
+      "category": "geography/subdivisions/poland",
+      "difficulty": 1,
+      "question": "Top 5 most populous voivodeships of Poland (2025 estimate)",
+      "submitter": "claude",
+      "cutoff": 5,
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1379695046 | table 1 | name: English name | value: Population (2025) | header rows: 2",
+      "tags": [
+        "geography",
+        "subdivisions",
+        "poland",
+        "population"
+      ],
+      "answers": [
+        {
+          "answer": "Masovian",
+          "display": "5,506,411 people"
+        },
+        {
+          "answer": "Silesian",
+          "display": "4,275,429 people"
+        },
+        {
+          "answer": "Greater Poland",
+          "display": "3,474,825 people"
+        },
+        {
+          "answer": "Lesser Poland",
+          "display": "3,427,656 people"
+        },
+        {
+          "answer": "Lower Silesian",
+          "display": "2,862,442 people"
+        },
+        {
+          "answer": "Pomeranian",
+          "display": "2,358,779 people"
+        },
+        {
+          "answer": "Łódź",
+          "display": "2,336,680 people"
+        },
+        {
+          "answer": "Subcarpathian",
+          "display": "2,057,923 people"
+        }
+      ]
+    },
+    {
+      "category": "geography/subdivisions/poland",
+      "difficulty": 2,
+      "question": "Top 5 largest voivodeships of Poland by area (km²)",
+      "submitter": "claude",
+      "cutoff": 5,
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1379695046 | table 1 | name: English name | value: Area / km2 | header rows: 2",
+      "tags": [
+        "geography",
+        "subdivisions",
+        "poland",
+        "area"
+      ],
+      "answers": [
+        {
+          "answer": "Masovian",
+          "display": "35,559 km²"
+        },
+        {
+          "answer": "Greater Poland",
+          "display": "29,826 km²"
+        },
+        {
+          "answer": "Lublin",
+          "display": "25,123 km²"
+        },
+        {
+          "answer": "Warmian–Masurian",
+          "display": "24,173 km²"
+        },
+        {
+          "answer": "West Pomeranian",
+          "display": "22,905 km²"
+        },
+        {
+          "answer": "Podlaskie",
+          "display": "20,187 km²"
+        },
+        {
+          "answer": "Lower Silesian",
+          "display": "19,947 km²"
+        },
+        {
+          "answer": "Pomeranian",
+          "display": "18,323 km²"
+        }
+      ]
+    },
+    {
+      "category": "geography/subdivisions/romania",
+      "difficulty": 1,
+      "question": "Top 10 most populous counties of Romania (1 December 2021 census; Bucharest included)",
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1379038606 | table 1 | name: County | value: Pop. (1 December 2021)",
+      "tags": [
+        "geography",
+        "subdivisions",
+        "romania",
+        "population"
+      ],
+      "answers": [
+        {
+          "answer": "Bucharest",
+          "display": "1,716,983 people"
+        },
+        {
+          "answer": "Iași",
+          "display": "760,774 people"
+        },
+        {
+          "answer": "Prahova",
+          "display": "695,117 people"
+        },
+        {
+          "answer": "Cluj",
+          "display": "679,141 people"
+        },
+        {
+          "answer": "Constanța",
+          "display": "655,997 people"
+        },
+        {
+          "answer": "Timiș",
+          "display": "650,533 people"
+        },
+        {
+          "answer": "Suceava",
+          "display": "642,551 people"
+        },
+        {
+          "answer": "Bacău",
+          "display": "601,387 people"
+        },
+        {
+          "answer": "Dolj",
+          "display": "599,442 people"
+        },
+        {
+          "answer": "Argeș",
+          "display": "569,932 people"
+        },
+        {
+          "answer": "Bihor",
+          "display": "551,297 people"
+        },
+        {
+          "answer": "Brașov",
+          "display": "546,615 people"
+        },
+        {
+          "answer": "Ilfov",
+          "display": "542,686 people"
+        }
+      ]
+    },
+    {
+      "category": "geography/subdivisions/romania",
+      "difficulty": 2,
+      "question": "Top 10 largest counties of Romania by area (km²)",
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1379038606 | table 1 | name: County | value: Area",
+      "tags": [
+        "geography",
+        "subdivisions",
+        "romania",
+        "area"
+      ],
+      "answers": [
+        {
+          "answer": "Timiș",
+          "display": "8,692 km²"
+        },
+        {
+          "answer": "Suceava",
+          "display": "8,553 km²"
+        },
+        {
+          "answer": "Caraș-Severin",
+          "display": "8,532 km²"
+        },
+        {
+          "answer": "Tulcea",
+          "display": "8,484 km²"
+        },
+        {
+          "answer": "Arad",
+          "display": "7,746 km²"
+        },
+        {
+          "answer": "Bihor",
+          "display": "7,539 km²"
+        },
+        {
+          "answer": "Dolj",
+          "display": "7,425 km²"
+        },
+        {
+          "answer": "Constanța",
+          "display": "7,104 km²"
+        },
+        {
+          "answer": "Hunedoara",
+          "display": "7,072 km²"
+        },
+        {
+          "answer": "Argeș",
+          "display": "6,822 km²"
+        },
+        {
+          "answer": "Mureș",
+          "display": "6,705 km²"
+        },
+        {
+          "answer": "Cluj",
+          "display": "6,672 km²"
+        },
+        {
+          "answer": "Harghita",
+          "display": "6,637 km²"
+        }
+      ]
+    },
+    {
+      "category": "geography/subdivisions/colombia",
+      "difficulty": 1,
+      "question": "Top 10 most populous departments of Colombia (December 2022; Bogotá included)",
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1381246889 | table 1 | name: Department | value: Pop. (Dec. 2022)",
+      "tags": [
+        "geography",
+        "subdivisions",
+        "colombia",
+        "population"
+      ],
+      "answers": [
+        {
+          "answer": "Capital District",
+          "display": "8,906,342 people",
+          "aliases": [
+            "Bogotá",
+            "Bogota"
+          ]
+        },
+        {
+          "answer": "Antioquia",
+          "display": "6,887,306 people"
+        },
+        {
+          "answer": "Valle del Cauca",
+          "display": "4,589,278 people"
+        },
+        {
+          "answer": "Atlántico",
+          "display": "2,804,025 people"
+        },
+        {
+          "answer": "Cundinamarca",
+          "display": "2,473,634 people"
+        },
+        {
+          "answer": "Santander",
+          "display": "2,324,090 people"
+        },
+        {
+          "answer": "Bolívar",
+          "display": "2,236,603 people"
+        },
+        {
+          "answer": "Córdoba",
+          "display": "1,856,496 people"
+        },
+        {
+          "answer": "Norte de Santander",
+          "display": "1,651,278 people"
+        },
+        {
+          "answer": "Nariño",
+          "display": "1,629,181 people"
+        },
+        {
+          "answer": "Cauca",
+          "display": "1,516,018 people"
+        },
+        {
+          "answer": "Magdalena",
+          "display": "1,463,427 people"
+        },
+        {
+          "answer": "Tolima",
+          "display": "1,346,935 people"
+        }
+      ]
+    },
+    {
+      "category": "geography/subdivisions/colombia",
+      "difficulty": 2,
+      "question": "Top 10 largest departments of Colombia by area (km²)",
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1381246889 | table 1 | name: Department | value: Area (km2)",
+      "tags": [
+        "geography",
+        "subdivisions",
+        "colombia",
+        "area"
+      ],
+      "answers": [
+        {
+          "answer": "Amazonas",
+          "display": "109,665 km²"
+        },
+        {
+          "answer": "Vichada",
+          "display": "100,242 km²"
+        },
+        {
+          "answer": "Caquetá",
+          "display": "88,965 km²"
+        },
+        {
+          "answer": "Meta",
+          "display": "82,805 km²"
+        },
+        {
+          "answer": "Guainía",
+          "display": "72,238 km²"
+        },
+        {
+          "answer": "Antioquia",
+          "display": "63,612 km²"
+        },
+        {
+          "answer": "Vaupés",
+          "display": "54,135 km²"
+        },
+        {
+          "answer": "Guaviare",
+          "display": "53,460 km²"
+        },
+        {
+          "answer": "Chocó",
+          "display": "46,530 km²"
+        },
+        {
+          "answer": "Casanare",
+          "display": "44,640 km²"
+        },
+        {
+          "answer": "Nariño",
+          "display": "33,268 km²"
+        },
+        {
+          "answer": "Santander",
+          "display": "30,537 km²"
+        },
+        {
+          "answer": "Cauca",
+          "display": "29,308 km²"
+        }
+      ]
+    },
+    {
+      "category": "geography/subdivisions/sweden",
+      "difficulty": 1,
+      "question": "Top 7 most populous counties of Sweden (31 December 2021)",
+      "submitter": "claude",
+      "cutoff": 7,
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1356675578 | table 1 | name: County (Län) | value: Population (2021-12-31) | header rows: 2",
+      "tags": [
+        "geography",
+        "subdivisions",
+        "sweden",
+        "population"
+      ],
+      "answers": [
+        {
+          "answer": "Stockholm",
+          "display": "2,415,139 people"
+        },
+        {
+          "answer": "Västra Götaland",
+          "display": "1,744,859 people"
+        },
+        {
+          "answer": "Skåne",
+          "display": "1,402,425 people"
+        },
+        {
+          "answer": "Östergötland",
+          "display": "469,704 people"
+        },
+        {
+          "answer": "Uppsala",
+          "display": "395,026 people"
+        },
+        {
+          "answer": "Jönköping",
+          "display": "367,064 people"
+        },
+        {
+          "answer": "Halland",
+          "display": "340,243 people"
+        },
+        {
+          "answer": "Örebro",
+          "display": "306,792 people"
+        },
+        {
+          "answer": "Södermanland",
+          "display": "301,801 people"
+        },
+        {
+          "answer": "Dalarna",
+          "display": "288,387 people"
+        }
+      ]
+    },
+    {
+      "category": "geography/subdivisions/sweden",
+      "difficulty": 2,
+      "question": "Top 7 largest counties of Sweden by area (km²)",
+      "submitter": "claude",
+      "cutoff": 7,
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1356675578 | table 1 | name: County (Län) | value: Area / km2 | header rows: 2",
+      "tags": [
+        "geography",
+        "subdivisions",
+        "sweden",
+        "area"
+      ],
+      "answers": [
+        {
+          "answer": "Norrbotten",
+          "display": "98,244.8 km²"
+        },
+        {
+          "answer": "Västerbotten",
+          "display": "55,186.2 km²"
+        },
+        {
+          "answer": "Jämtland",
+          "display": "49,341.2 km²"
+        },
+        {
+          "answer": "Dalarna",
+          "display": "28,188.8 km²"
+        },
+        {
+          "answer": "Västra Götaland",
+          "display": "23,948.8 km²"
+        },
+        {
+          "answer": "Västernorrland",
+          "display": "21,683.8 km²"
+        },
+        {
+          "answer": "Gävleborg",
+          "display": "18,198.9 km²"
+        },
+        {
+          "answer": "Värmland",
+          "display": "17,591.0 km²"
+        },
+        {
+          "answer": "Kalmar",
+          "display": "11,217.8 km²"
+        },
+        {
+          "answer": "Skåne",
+          "display": "11,034.5 km²"
+        }
+      ]
+    },
+    {
+      "category": "geography/subdivisions/chile",
+      "difficulty": 1,
+      "question": "Top 5 most populous regions of Chile (2024 census)",
+      "submitter": "claude",
+      "cutoff": 5,
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1380545234 | table 1 | name: Name (English/Spanish) | value: Population (2024 census)",
+      "tags": [
+        "geography",
+        "subdivisions",
+        "chile",
+        "population"
+      ],
+      "answers": [
+        {
+          "answer": "Santiago Metropolitan",
+          "display": "7,400,741 people",
+          "aliases": [
+            "Metropolitana"
+          ]
+        },
+        {
+          "answer": "Valparaíso",
+          "display": "1,896,053 people"
+        },
+        {
+          "answer": "Biobío",
+          "display": "1,613,059 people"
+        },
+        {
+          "answer": "Maule",
+          "display": "1,123,008 people"
+        },
+        {
+          "answer": "Araucanía",
+          "display": "1,010,423 people"
+        },
+        {
+          "answer": "O'Higgins",
+          "display": "987,228 people",
+          "aliases": [
+            "Libertador General Bernardo O'Higgins"
+          ]
+        },
+        {
+          "answer": "Los Lagos",
+          "display": "890,284 people"
+        },
+        {
+          "answer": "Coquimbo",
+          "display": "832,864 people"
+        }
+      ]
+    },
+    {
+      "category": "geography/subdivisions/chile",
+      "difficulty": 2,
+      "question": "Top 5 largest regions of Chile by area (km²; Chilean Antarctic Territory excluded)",
+      "submitter": "claude",
+      "cutoff": 5,
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1380545234 | table 1 | name: Name (English/Spanish) | value: Area (km2)",
+      "tags": [
+        "geography",
+        "subdivisions",
+        "chile",
+        "area"
+      ],
+      "answers": [
+        {
+          "answer": "Magallanes",
+          "display": "132,291.1 km²"
+        },
+        {
+          "answer": "Antofagasta",
+          "display": "126,049.1 km²"
+        },
+        {
+          "answer": "Aysén",
+          "display": "108,494.4 km²"
+        },
+        {
+          "answer": "Atacama",
+          "display": "75,176.2 km²"
+        },
+        {
+          "answer": "Los Lagos",
+          "display": "48,583.6 km²"
+        },
+        {
+          "answer": "Tarapacá",
+          "display": "42,225.8 km²"
+        },
+        {
+          "answer": "Coquimbo",
+          "display": "40,579.9 km²"
+        },
+        {
+          "answer": "Araucanía",
+          "display": "31,842.3 km²"
+        }
+      ]
+    },
+    {
+      "category": "geography/subdivisions/ukraine",
+      "difficulty": 2,
+      "question": "Top 7 largest oblasts of Ukraine by area (km²; Crimea and Kyiv city excluded)",
+      "submitter": "claude",
+      "cutoff": 7,
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1365178388 | table 1 | name: Region | value: Area (km2)",
+      "tags": [
+        "geography",
+        "subdivisions",
+        "ukraine",
+        "area"
+      ],
+      "answers": [
+        {
+          "answer": "Odesa",
+          "display": "33,295.9 km²"
+        },
+        {
+          "answer": "Dnipropetrovsk",
+          "display": "31,900.5 km²"
+        },
+        {
+          "answer": "Chernihiv",
+          "display": "31,851.3 km²"
+        },
+        {
+          "answer": "Kharkiv",
+          "display": "31,401.6 km²"
+        },
+        {
+          "answer": "Zhytomyr",
+          "display": "29,819.2 km²"
+        },
+        {
+          "answer": "Poltava",
+          "display": "28,735.8 km²"
+        },
+        {
+          "answer": "Kherson",
+          "display": "28,449 km²"
+        },
+        {
+          "answer": "Kyiv Oblast",
+          "display": "28,118.9 km²"
+        },
+        {
+          "answer": "Zaporizhzhia",
+          "display": "27,168.5 km²"
+        },
+        {
+          "answer": "Luhansk",
+          "display": "26,672.5 km²"
+        }
+      ]
+    },
+    {
+      "category": "geography/subdivisions/france",
+      "difficulty": 1,
+      "question": "Top 10 most populous departments of France (legal population, 2019)",
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1378463868 | table 1 | name: Department | value: Legal population / 2019 | header rows: 2",
+      "tags": [
+        "geography",
+        "subdivisions",
+        "france",
+        "population"
+      ],
+      "answers": [
+        {
+          "answer": "Nord",
+          "display": "2,608,346 people"
+        },
+        {
+          "answer": "Paris",
+          "display": "2,165,423 people"
+        },
+        {
+          "answer": "Bouches-du-Rhône",
+          "display": "2,043,110 people"
+        },
+        {
+          "answer": "Rhône",
+          "display": "1,875,747 people"
+        },
+        {
+          "answer": "Seine-Saint-Denis",
+          "display": "1,644,903 people"
+        },
+        {
+          "answer": "Hauts-de-Seine",
+          "display": "1,624,357 people"
+        },
+        {
+          "answer": "Gironde",
+          "display": "1,623,749 people"
+        },
+        {
+          "answer": "Pas-de-Calais",
+          "display": "1,465,278 people"
+        },
+        {
+          "answer": "Yvelines",
+          "display": "1,448,207 people"
+        },
+        {
+          "answer": "Loire-Atlantique",
+          "display": "1,429,272 people"
+        },
+        {
+          "answer": "Seine-et-Marne",
+          "display": "1,421,197 people"
+        },
+        {
+          "answer": "Val-de-Marne",
+          "display": "1,407,124 people"
+        },
+        {
+          "answer": "Haute-Garonne",
+          "display": "1,400,039 people"
+        }
+      ]
+    },
+    {
+      "category": "geography/subdivisions/france",
+      "difficulty": 2,
+      "question": "Top 10 largest departments of France by area (km²; overseas departments included)",
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1378463868 | table 1 | name: Department | value: Area km2",
+      "tags": [
+        "geography",
+        "subdivisions",
+        "france",
+        "area"
+      ],
+      "answers": [
+        {
+          "answer": "Guyane",
+          "display": "83,534 km²",
+          "aliases": [
+            "French Guiana"
+          ]
+        },
+        {
+          "answer": "Gironde",
+          "display": "10,725 km²"
+        },
+        {
+          "answer": "Landes",
+          "display": "9,243 km²"
+        },
+        {
+          "answer": "Dordogne",
+          "display": "9,060 km²"
+        },
+        {
+          "answer": "Côte-d'Or",
+          "display": "8,763 km²"
+        },
+        {
+          "answer": "Aveyron",
+          "display": "8,735 km²"
+        },
+        {
+          "answer": "Saône-et-Loire",
+          "display": "8,575 km²"
+        },
+        {
+          "answer": "Marne",
+          "display": "8,162 km²"
+        },
+        {
+          "answer": "Puy-de-Dôme",
+          "display": "7,970 km²"
+        },
+        {
+          "answer": "Pyrénées-Atlantiques",
+          "display": "7,645 km²"
+        },
+        {
+          "answer": "Isère",
+          "display": "7,431 km²"
+        },
+        {
+          "answer": "Yonne",
+          "display": "7,427 km²"
+        },
+        {
+          "answer": "Aisne",
+          "display": "7,369 km²"
+        }
+      ]
+    },
+    {
+      "category": "geography/subdivisions/russia",
+      "difficulty": 2,
+      "question": "Top 10 most populous federal subjects of Russia (population on 1 January 2025, as listed by Rosstat; 83 subjects in the table; six contested territories excluded)",
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1380488923 | table 3 | name: Name | value: Population / Total | header rows: 2",
+      "tags": [
+        "geography",
+        "subdivisions",
+        "russia",
+        "population"
+      ],
+      "answers": [
+        {
+          "answer": "Moscow",
+          "display": "13,258,262 people",
+          "aliases": [
+            "Moscow City"
+          ]
+        },
+        {
+          "answer": "Moscow Oblast",
+          "display": "8,766,594 people"
+        },
+        {
+          "answer": "Krasnodar Krai",
+          "display": "5,841,846 people"
+        },
+        {
+          "answer": "Saint Petersburg",
+          "display": "5,645,943 people"
+        },
+        {
+          "answer": "Sverdlovsk Oblast",
+          "display": "4,218,204 people"
+        },
+        {
+          "answer": "Rostov Oblast",
+          "display": "4,135,018 people"
+        },
+        {
+          "answer": "Bashkortostan",
+          "display": "4,046,094 people",
+          "aliases": [
+            "Bashkiria"
+          ]
+        },
+        {
+          "answer": "Tatarstan",
+          "display": "4,016,571 people"
+        },
+        {
+          "answer": "Chelyabinsk Oblast",
+          "display": "3,383,188 people"
+        },
+        {
+          "answer": "Dagestan",
+          "display": "3,258,993 people"
+        },
+        {
+          "answer": "Samara Oblast",
+          "display": "3,108,944 people"
+        },
+        {
+          "answer": "Nizhny Novgorod Oblast",
+          "display": "3,037,816 people"
+        },
+        {
+          "answer": "Stavropol Krai",
+          "display": "2,883,494 people"
+        }
+      ]
+    },
+    {
+      "category": "geography/subdivisions/russia",
+      "difficulty": 2,
+      "question": "Top 10 largest federal subjects of Russia by area, as listed by Rosstat (83 subjects in the table; six contested territories excluded)",
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1380488923 | table 3 | name: Name | value: Area (km2)",
+      "tags": [
+        "geography",
+        "subdivisions",
+        "russia",
+        "area"
+      ],
+      "answers": [
+        {
+          "answer": "Sakha Republic",
+          "display": "3,083,523 km²",
+          "aliases": [
+            "Yakutia",
+            "Sakha"
+          ]
+        },
+        {
+          "answer": "Krasnoyarsk Krai",
+          "display": "2,366,797 km²"
+        },
+        {
+          "answer": "Khabarovsk Krai",
+          "display": "787,633 km²"
+        },
+        {
+          "answer": "Irkutsk Oblast",
+          "display": "774,846 km²"
+        },
+        {
+          "answer": "Yamalo-Nenets Autonomous Okrug",
+          "display": "769,250 km²",
+          "aliases": [
+            "Yamal-Nenets"
+          ]
+        },
+        {
+          "answer": "Chukotka Autonomous Okrug",
+          "display": "721,481 km²",
+          "aliases": [
+            "Chukotka"
+          ]
+        },
+        {
+          "answer": "Khanty-Mansi Autonomous Okrug",
+          "display": "534,801 km²",
+          "aliases": [
+            "Khanty-Mansi"
+          ]
+        },
+        {
+          "answer": "Kamchatka Krai",
+          "display": "464,275 km²"
+        },
+        {
+          "answer": "Magadan Oblast",
+          "display": "462,464 km²"
+        },
+        {
+          "answer": "Zabaykalsky Krai",
+          "display": "431,892 km²"
+        },
+        {
+          "answer": "Komi Republic",
+          "display": "416,774 km²",
+          "aliases": [
+            "Komi"
+          ]
+        },
+        {
+          "answer": "Arkhangelsk Oblast",
+          "display": "413,103 km²"
+        },
+        {
+          "answer": "Amur Oblast",
+          "display": "361,908 km²"
+        }
+      ]
+    },
+    {
+      "category": "geography/subdivisions/mexico",
+      "difficulty": 2,
+      "question": "Top 10 largest states of Mexico by area (km²; Mexico City excluded)",
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1381248033 | table 1 | name: 2 | value: 5 | header rows: 0 | where: 2!=Mexico total | where: 2!=Coat of arms and name",
+      "tags": [
+        "geography",
+        "subdivisions",
+        "mexico",
+        "area"
+      ],
+      "answers": [
+        {
+          "answer": "Chihuahua",
+          "display": "247,412.6 km²"
+        },
+        {
+          "answer": "Sonora",
+          "display": "179,354.7 km²"
+        },
+        {
+          "answer": "Coahuila",
+          "display": "151,594.8 km²"
+        },
+        {
+          "answer": "Durango",
+          "display": "123,364.0 km²"
+        },
+        {
+          "answer": "Oaxaca",
+          "display": "93,757.6 km²"
+        },
+        {
+          "answer": "Tamaulipas",
+          "display": "80,249.3 km²"
+        },
+        {
+          "answer": "Jalisco",
+          "display": "78,595.9 km²"
+        },
+        {
+          "answer": "Zacatecas",
+          "display": "75,275.3 km²"
+        },
+        {
+          "answer": "Baja California Sur",
+          "display": "73,909.4 km²"
+        },
+        {
+          "answer": "Chiapas",
+          "display": "73,311.0 km²"
+        },
+        {
+          "answer": "Veracruz",
+          "display": "71,823.5 km²",
+          "aliases": [
+            "Veracruz de Ignacio de la Llave"
+          ]
+        },
+        {
+          "answer": "Baja California",
+          "display": "71,450.0 km²"
+        },
+        {
+          "answer": "Nuevo León",
+          "display": "64,156.2 km²",
+          "aliases": [
+            "Nuevo Leon"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "geography/subdivisions/brazil",
+      "difficulty": 2,
+      "question": "Top 10 largest Brazilian states by area (km²; Federal District excluded)",
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1380141681 | table 1 | name: Flag and name | value: Area / km2 | header rows: 2 | where: Flag and name!=Brazil",
+      "tags": [
+        "geography",
+        "subdivisions",
+        "brazil",
+        "area"
+      ],
+      "answers": [
+        {
+          "answer": "Amazonas",
+          "display": "1,559,159 km²"
+        },
+        {
+          "answer": "Pará",
+          "display": "1,247,955 km²"
+        },
+        {
+          "answer": "Mato Grosso",
+          "display": "903,366 km²"
+        },
+        {
+          "answer": "Minas Gerais",
+          "display": "586,522 km²"
+        },
+        {
+          "answer": "Bahia",
+          "display": "564,733 km²"
+        },
+        {
+          "answer": "Mato Grosso do Sul",
+          "display": "357,146 km²"
+        },
+        {
+          "answer": "Goiás",
+          "display": "340,112 km²"
+        },
+        {
+          "answer": "Maranhão",
+          "display": "331,937 km²"
+        },
+        {
+          "answer": "Rio Grande do Sul",
+          "display": "281,730 km²"
+        },
+        {
+          "answer": "Tocantins",
+          "display": "277,721 km²"
+        },
+        {
+          "answer": "Piauí",
+          "display": "251,578 km²"
+        },
+        {
+          "answer": "São Paulo",
+          "display": "248,223 km²"
+        },
+        {
+          "answer": "Rondônia",
+          "display": "237,591 km²"
+        }
+      ]
+    },
+    {
+      "category": "geography/subdivisions/spain",
+      "difficulty": 2,
+      "question": "Top 10 largest provinces of Spain by area (km²)",
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1329686430 | table 1 | name: Province | value: Area (km2)",
+      "tags": [
+        "geography",
+        "subdivisions",
+        "spain",
+        "area"
+      ],
+      "answers": [
+        {
+          "answer": "Badajoz",
+          "display": "21,769.11 km²"
+        },
+        {
+          "answer": "Cáceres",
+          "display": "19,864.50 km²"
+        },
+        {
+          "answer": "Ciudad Real",
+          "display": "19,812.04 km²"
+        },
+        {
+          "answer": "Zaragoza",
+          "display": "17,275.06 km²"
+        },
+        {
+          "answer": "Cuenca",
+          "display": "17,121.15 km²"
+        },
+        {
+          "answer": "Huesca",
+          "display": "15,637.60 km²"
+        },
+        {
+          "answer": "León",
+          "display": "15,578.32 km²"
+        },
+        {
+          "answer": "Toledo",
+          "display": "15,369.34 km²"
+        },
+        {
+          "answer": "Albacete",
+          "display": "14,931.74 km²"
+        },
+        {
+          "answer": "Teruel",
+          "display": "14,826.98 km²"
+        },
+        {
+          "answer": "Burgos",
+          "display": "14,288.63 km²"
+        },
+        {
+          "answer": "Seville",
+          "display": "14,035.69 km²",
+          "aliases": [
+            "Sevilla"
+          ]
+        },
+        {
+          "answer": "Córdoba",
+          "display": "13,772.22 km²",
+          "aliases": [
+            "Cordoba"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "geography/subdivisions/italy",
+      "difficulty": 1,
+      "question": "Top 7 most populous regions of Italy (1 January 2026)",
+      "submitter": "claude",
+      "cutoff": 7,
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1380609944 | table 1 | name: Region | value: Population 1 January 2026 / Number | header rows: 2 | where: Region!=Italy Italia",
+      "tags": [
+        "geography",
+        "subdivisions",
+        "italy",
+        "population"
+      ],
+      "answers": [
+        {
+          "answer": "Lombardy",
+          "display": "10,065,694 people",
+          "aliases": [
+            "Lombardia"
+          ]
+        },
+        {
+          "answer": "Lazio",
+          "display": "5,709,444 people"
+        },
+        {
+          "answer": "Campania",
+          "display": "5,568,703 people"
+        },
+        {
+          "answer": "Veneto",
+          "display": "4,857,460 people"
+        },
+        {
+          "answer": "Sicily",
+          "display": "4,775,194 people",
+          "aliases": [
+            "Sicilia"
+          ]
+        },
+        {
+          "answer": "Emilia-Romagna",
+          "display": "4,477,009 people"
+        },
+        {
+          "answer": "Piedmont",
+          "display": "4,255,006 people",
+          "aliases": [
+            "Piemonte"
+          ]
+        },
+        {
+          "answer": "Apulia",
+          "display": "3,865,277 people",
+          "aliases": [
+            "Puglia"
+          ]
+        },
+        {
+          "answer": "Tuscany",
+          "display": "3,659,222 people",
+          "aliases": [
+            "Toscana"
+          ]
+        },
+        {
+          "answer": "Calabria",
+          "display": "1,827,571 people"
+        }
+      ]
+    }
+  ]
+}

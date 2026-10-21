@@ -22,8 +22,8 @@
   <div class="card py-12 text-center">
     <h1 class="text-4xl font-bold text-balance md:text-5xl">{question.text}</h1>
     <p class="mt-6 text-sm text-gray-400">
-      #1–#{question.cutoff} score their rank · lower on the list is TENSION ({TENSION_PENALTY}) · not on the list
-      {MISS_PENALTY}
+      There are <span class="font-semibold text-red-400">{question.tensionCount} tension answers</span> lurking just
+      below the top {question.cutoff} ({TENSION_PENALTY}) · any other wrong answer {MISS_PENALTY}
     </p>
   </div>
 

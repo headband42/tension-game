@@ -1,0 +1,583 @@
+{
+  "categories": [
+    {
+      "path": "geography/us-states",
+      "name": "US States"
+    },
+    {
+      "path": "geography/us-states/population",
+      "name": "Population"
+    },
+    {
+      "path": "geography/us-states/area",
+      "name": "Area"
+    },
+    {
+      "path": "geography/us-states/coastline",
+      "name": "Coastline"
+    },
+    {
+      "path": "geography/us-states/admission",
+      "name": "Admission Date"
+    }
+  ],
+  "questions": [
+    {
+      "category": "geography/us-states/population",
+      "difficulty": 1,
+      "question": "Top 10 most populated US states (2025 estimate)",
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1378210740 | table 1 | name: State or territory | value: Census population / July 1, 2025 (est.) | header rows: 2 | where: State!~^(The|Contiguous)",
+      "tags": [
+        "geography",
+        "states",
+        "population"
+      ],
+      "answers": [
+        {
+          "answer": "California",
+          "display": "39,355,309",
+          "aliases": [
+            "calif",
+            "ca"
+          ]
+        },
+        {
+          "answer": "Texas",
+          "display": "31,709,821",
+          "aliases": [
+            "tx"
+          ]
+        },
+        {
+          "answer": "Florida",
+          "display": "23,462,518",
+          "aliases": [
+            "fl"
+          ]
+        },
+        {
+          "answer": "New York",
+          "display": "20,002,427",
+          "aliases": [
+            "ny"
+          ]
+        },
+        {
+          "answer": "Pennsylvania",
+          "display": "13,059,432",
+          "aliases": [
+            "penn",
+            "pa"
+          ]
+        },
+        {
+          "answer": "Illinois",
+          "display": "12,719,141",
+          "aliases": [
+            "il"
+          ]
+        },
+        {
+          "answer": "Ohio",
+          "display": "11,900,510",
+          "aliases": [
+            "oh"
+          ]
+        },
+        {
+          "answer": "Georgia",
+          "display": "11,302,748",
+          "aliases": [
+            "ga"
+          ]
+        },
+        {
+          "answer": "North Carolina",
+          "display": "11,197,968",
+          "aliases": [
+            "nc"
+          ]
+        },
+        {
+          "answer": "Michigan",
+          "display": "10,127,884",
+          "aliases": [
+            "mi"
+          ]
+        },
+        {
+          "answer": "New Jersey",
+          "display": "9,548,215",
+          "aliases": [
+            "nj"
+          ]
+        },
+        {
+          "answer": "Virginia",
+          "display": "8,880,107",
+          "aliases": [
+            "va"
+          ]
+        },
+        {
+          "answer": "Washington",
+          "display": "8,001,020",
+          "aliases": [
+            "wa"
+          ]
+        },
+        {
+          "answer": "Arizona",
+          "display": "7,623,818",
+          "aliases": [
+            "az"
+          ]
+        },
+        {
+          "answer": "Tennessee",
+          "display": "7,315,076",
+          "aliases": [
+            "tn"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "geography/us-states/area",
+      "difficulty": 1,
+      "question": "Top 10 largest US states by land area",
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1378220901 | table 1 | name: State / territory | value: Land area / mi2 | header rows: 2 | where: State!~^(United|[0-9]+ States|Contiguous)",
+      "tags": [
+        "geography",
+        "states",
+        "area"
+      ],
+      "answers": [
+        {
+          "answer": "Alaska",
+          "display": "588,400 sq mi",
+          "aliases": [
+            "ak"
+          ]
+        },
+        {
+          "answer": "Texas",
+          "display": "261,232 sq mi",
+          "aliases": [
+            "tx"
+          ]
+        },
+        {
+          "answer": "California",
+          "display": "155,779 sq mi",
+          "aliases": [
+            "ca",
+            "calif"
+          ]
+        },
+        {
+          "answer": "Montana",
+          "display": "145,546 sq mi",
+          "aliases": [
+            "mt"
+          ]
+        },
+        {
+          "answer": "New Mexico",
+          "display": "121,298 sq mi",
+          "aliases": [
+            "nm"
+          ]
+        },
+        {
+          "answer": "Arizona",
+          "display": "113,594 sq mi",
+          "aliases": [
+            "az"
+          ]
+        },
+        {
+          "answer": "Nevada",
+          "display": "109,781 sq mi",
+          "aliases": [
+            "nv"
+          ]
+        },
+        {
+          "answer": "Colorado",
+          "display": "103,642 sq mi",
+          "aliases": [
+            "co"
+          ]
+        },
+        {
+          "answer": "Wyoming",
+          "display": "97,093 sq mi",
+          "aliases": [
+            "wy"
+          ]
+        },
+        {
+          "answer": "Oregon",
+          "display": "95,988 sq mi",
+          "aliases": [
+            "or"
+          ]
+        },
+        {
+          "answer": "Idaho",
+          "display": "82,643 sq mi",
+          "aliases": [
+            "id"
+          ]
+        },
+        {
+          "answer": "Utah",
+          "display": "82,170 sq mi",
+          "aliases": [
+            "ut"
+          ]
+        },
+        {
+          "answer": "Kansas",
+          "display": "81,759 sq mi",
+          "aliases": [
+            "ks"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "geography/us-states/coastline",
+      "difficulty": 2,
+      "question": "Top 10 US states by coastline length (general coastline method)",
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1363782783 | table 1 | name: State or territory | value: Method 1 (CRS) / Coastline | header rows: 2 | where: State!=Total",
+      "tags": [
+        "geography",
+        "states",
+        "coastline",
+        "ocean"
+      ],
+      "answers": [
+        {
+          "answer": "Alaska",
+          "display": "6,640 mi",
+          "aliases": [
+            "ak"
+          ]
+        },
+        {
+          "answer": "Florida",
+          "display": "1,350 mi",
+          "aliases": [
+            "fl"
+          ]
+        },
+        {
+          "answer": "California",
+          "display": "840 mi",
+          "aliases": [
+            "ca",
+            "calif"
+          ]
+        },
+        {
+          "answer": "Hawaii",
+          "display": "750 mi",
+          "aliases": [
+            "hi"
+          ]
+        },
+        {
+          "answer": "Louisiana",
+          "display": "397 mi",
+          "aliases": [
+            "la"
+          ]
+        },
+        {
+          "answer": "Texas",
+          "display": "367 mi",
+          "aliases": [
+            "tx"
+          ]
+        },
+        {
+          "answer": "North Carolina",
+          "display": "301 mi",
+          "aliases": [
+            "nc"
+          ]
+        },
+        {
+          "answer": "Oregon",
+          "display": "296 mi",
+          "aliases": [
+            "or"
+          ]
+        },
+        {
+          "answer": "Maine",
+          "display": "228 mi",
+          "aliases": [
+            "me"
+          ]
+        },
+        {
+          "answer": "Massachusetts",
+          "display": "192 mi",
+          "aliases": [
+            "mass",
+            "ma"
+          ]
+        },
+        {
+          "answer": "South Carolina",
+          "display": "187 mi",
+          "aliases": [
+            "sc"
+          ]
+        },
+        {
+          "answer": "Washington",
+          "display": "157 mi",
+          "aliases": [
+            "wa"
+          ]
+        },
+        {
+          "answer": "New Jersey",
+          "display": "130 mi",
+          "aliases": [
+            "nj"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "geography/us-states/admission",
+      "difficulty": 2,
+      "question": "Top 10 oldest US states by admission to the Union (earliest first)",
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1378536939 | table 1 | name: 2 | value: Date (admitted or ratified) | order: asc",
+      "tags": [
+        "geography",
+        "states",
+        "history",
+        "admission"
+      ],
+      "answers": [
+        {
+          "answer": "Delaware",
+          "display": "December 7, 1787"
+        },
+        {
+          "answer": "Pennsylvania",
+          "display": "December 12, 1787"
+        },
+        {
+          "answer": "New Jersey",
+          "display": "December 18, 1787"
+        },
+        {
+          "answer": "Georgia",
+          "display": "January 2, 1788"
+        },
+        {
+          "answer": "Connecticut",
+          "display": "January 9, 1788"
+        },
+        {
+          "answer": "Massachusetts",
+          "display": "February 6, 1788"
+        },
+        {
+          "answer": "Maryland",
+          "display": "April 28, 1788"
+        },
+        {
+          "answer": "South Carolina",
+          "display": "May 23, 1788"
+        },
+        {
+          "answer": "New Hampshire",
+          "display": "June 21, 1788"
+        },
+        {
+          "answer": "Virginia",
+          "display": "June 25, 1788"
+        },
+        {
+          "answer": "New York",
+          "display": "July 26, 1788"
+        },
+        {
+          "answer": "North Carolina",
+          "display": "November 21, 1789"
+        },
+        {
+          "answer": "Rhode Island",
+          "display": "May 29, 1790"
+        }
+      ]
+    },
+    {
+      "category": "geography/us-states",
+      "difficulty": 2,
+      "question": "Top 10 US states by median household income (2023)",
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1325592975 | table 1 | name: States and D.C. | value: 2023 | where: State!=United States | where: State!=Washington, D.C.",
+      "tags": [
+        "geography",
+        "states",
+        "income",
+        "economics"
+      ],
+      "answers": [
+        {
+          "answer": "Massachusetts",
+          "display": "$99,858"
+        },
+        {
+          "answer": "New Jersey",
+          "display": "$99,781"
+        },
+        {
+          "answer": "Maryland",
+          "display": "$98,678"
+        },
+        {
+          "answer": "New Hampshire",
+          "display": "$96,838"
+        },
+        {
+          "answer": "California",
+          "display": "$95,521"
+        },
+        {
+          "answer": "Hawaii",
+          "display": "$95,322"
+        },
+        {
+          "answer": "Washington",
+          "display": "$94,605"
+        },
+        {
+          "answer": "Utah",
+          "display": "$93,421"
+        },
+        {
+          "answer": "Colorado",
+          "display": "$92,911"
+        },
+        {
+          "answer": "Connecticut",
+          "display": "$91,665"
+        },
+        {
+          "answer": "Virginia",
+          "display": "$89,931"
+        },
+        {
+          "answer": "Alaska",
+          "display": "$88,121"
+        },
+        {
+          "answer": "Minnesota",
+          "display": "$85,086"
+        }
+      ]
+    },
+    {
+      "category": "geography/us-states/population",
+      "question": "Top 7 most populated US states that end with the letter 'A' (2025 estimate)",
+      "cutoff": 7,
+      "difficulty": 3,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1378210740 | table 1 | name: State or territory | value: Census population / July 1, 2025 (est.) | header rows: 2 | where: State!~^(The|Contiguous) | where: State~a$",
+      "tags": [
+        "geography",
+        "states",
+        "population",
+        "twist"
+      ],
+      "answers": [
+        {
+          "answer": "California",
+          "display": "39,355,309",
+          "aliases": [
+            "calif",
+            "ca"
+          ]
+        },
+        {
+          "answer": "Florida",
+          "display": "23,462,518",
+          "aliases": [
+            "fl"
+          ]
+        },
+        {
+          "answer": "Pennsylvania",
+          "display": "13,059,432",
+          "aliases": [
+            "penn",
+            "pa"
+          ]
+        },
+        {
+          "answer": "Georgia",
+          "display": "11,302,748",
+          "aliases": [
+            "ga"
+          ]
+        },
+        {
+          "answer": "North Carolina",
+          "display": "11,197,968",
+          "aliases": [
+            "nc"
+          ]
+        },
+        {
+          "answer": "Virginia",
+          "display": "8,880,107",
+          "aliases": [
+            "va"
+          ]
+        },
+        {
+          "answer": "Arizona",
+          "display": "7,623,818",
+          "aliases": [
+            "az"
+          ]
+        },
+        {
+          "answer": "Indiana",
+          "display": "6,973,333",
+          "aliases": [
+            "in"
+          ]
+        },
+        {
+          "answer": "Minnesota",
+          "display": "5,830,405",
+          "aliases": [
+            "mn"
+          ]
+        },
+        {
+          "answer": "South Carolina",
+          "display": "5,570,274",
+          "aliases": [
+            "sc"
+          ]
+        }
+      ]
+    }
+  ]
+}

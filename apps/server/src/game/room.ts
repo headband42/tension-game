@@ -300,7 +300,14 @@ export class GameRoom {
           doubled: this.phase === 'playing' && Boolean(entry?.locked && entry.useDouble),
         };
       }),
-      question: question ? { text: question.text, category: question.category, cutoff: question.cutoff } : null,
+      question: question
+        ? {
+            text: question.text,
+            category: question.category,
+            cutoff: question.cutoff,
+            tensionCount: question.answers.length - question.cutoff,
+          }
+        : null,
       remainingMs: this.phase === 'playing' ? Math.max(0, this.deadline - Date.now()) : null,
       skipOffline: this.skipOffline,
       reveal: this.phase === 'reveal' ? this.reveal : null,

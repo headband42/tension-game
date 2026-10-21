@@ -1,0 +1,742 @@
+{
+  "questions": [
+    {
+      "category": "games/video-games/best-sellers",
+      "question": "Top 8 best-selling video games of all time (copies sold, latest figures; Tetris counted across all its versions)",
+      "cutoff": 8,
+      "difficulty": 1,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1379378893 | table 1 | name: Title | value: Sales",
+      "tags": [
+        "video games",
+        "sales",
+        "all-time"
+      ],
+      "answers": [
+        {
+          "answer": "Tetris",
+          "display": "520 million"
+        },
+        {
+          "answer": "Minecraft",
+          "display": "425 million"
+        },
+        {
+          "answer": "Grand Theft Auto V",
+          "display": "230 million",
+          "aliases": [
+            "GTA V",
+            "GTA 5",
+            "GTA"
+          ]
+        },
+        {
+          "answer": "Red Dead Redemption 2",
+          "display": "87 million",
+          "aliases": [
+            "RDR2",
+            "Red Dead 2"
+          ]
+        },
+        {
+          "answer": "Wii Sports",
+          "display": "82.9 million"
+        },
+        {
+          "answer": "Mario Kart 8 Deluxe",
+          "display": "79.99 million",
+          "aliases": [
+            "Mario Kart 8"
+          ]
+        },
+        {
+          "answer": "PUBG: Battlegrounds",
+          "display": "75 million",
+          "aliases": [
+            "PUBG",
+            "PlayerUnknown's Battlegrounds"
+          ]
+        },
+        {
+          "answer": "Terraria",
+          "display": "70 million"
+        },
+        {
+          "answer": "The Elder Scrolls V: Skyrim",
+          "display": "65 million",
+          "aliases": [
+            "Skyrim"
+          ]
+        },
+        {
+          "answer": "The Witcher 3: Wild Hunt",
+          "display": "65 million",
+          "aliases": [
+            "Witcher 3"
+          ]
+        },
+        {
+          "answer": "Super Mario Bros.",
+          "display": "58 million",
+          "aliases": [
+            "Mario Bros"
+          ]
+        },
+        {
+          "answer": "Human: Fall Flat",
+          "display": "58 million"
+        }
+      ]
+    },
+    {
+      "category": "games/video-games/best-sellers",
+      "question": "Top 10 best-selling video games published or co-published by Nintendo (copies sold, as of 2026)",
+      "cutoff": 10,
+      "difficulty": 3,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1379378893 | table 1 | name: Title | value: Sales | where: Publisher~Nintendo",
+      "tags": [
+        "video games",
+        "sales",
+        "nintendo"
+      ],
+      "answers": [
+        {
+          "answer": "Wii Sports",
+          "display": "82.9 million"
+        },
+        {
+          "answer": "Mario Kart 8 Deluxe",
+          "display": "79.99 million",
+          "aliases": [
+            "Mario Kart 8"
+          ]
+        },
+        {
+          "answer": "Super Mario Bros.",
+          "display": "58 million"
+        },
+        {
+          "answer": "Animal Crossing: New Horizons",
+          "display": "50.29 million",
+          "aliases": [
+            "Animal Crossing"
+          ]
+        },
+        {
+          "answer": "Pokémon Red, Blue and Yellow",
+          "display": "47.44 million",
+          "aliases": [
+            "Pokemon Red"
+          ]
+        },
+        {
+          "answer": "Wii Fit",
+          "display": "43.8 million",
+          "aliases": [
+            "Wii Fit Plus"
+          ]
+        },
+        {
+          "answer": "Super Smash Bros. Ultimate",
+          "display": "38.14 million",
+          "aliases": [
+            "Smash Ultimate",
+            "Smash Bros"
+          ]
+        },
+        {
+          "answer": "Mario Kart Wii",
+          "display": "37.38 million"
+        },
+        {
+          "answer": "The Legend of Zelda: Breath of the Wild",
+          "display": "35.76 million",
+          "aliases": [
+            "Breath of the Wild",
+            "BotW",
+            "Zelda"
+          ]
+        },
+        {
+          "answer": "Wii Sports Resort",
+          "display": "33.14 million"
+        },
+        {
+          "answer": "New Super Mario Bros.",
+          "display": "30.8 million"
+        },
+        {
+          "answer": "Super Mario Odyssey",
+          "display": "30.8 million",
+          "aliases": [
+            "Mario Odyssey",
+            "Odyssey"
+          ]
+        },
+        {
+          "answer": "New Super Mario Bros. Wii",
+          "display": "30.32 million"
+        },
+        {
+          "answer": "Pokémon Gold, Silver and Crystal",
+          "display": "30.12 million",
+          "aliases": [
+            "Pokemon Gold"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "games/video-games/best-sellers",
+      "question": "Top 10 best-selling Nintendo Switch games (copies sold, latest figures up to June 2026)",
+      "cutoff": 10,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1375670824 | table 1 | name: Title | value: Copies sold",
+      "tags": [
+        "video games",
+        "sales",
+        "nintendo switch"
+      ],
+      "answers": [
+        {
+          "answer": "Mario Kart 8 Deluxe",
+          "display": "71.53 million",
+          "aliases": [
+            "Mario Kart 8"
+          ]
+        },
+        {
+          "answer": "Animal Crossing: New Horizons",
+          "display": "50.29 million",
+          "aliases": [
+            "Animal Crossing"
+          ]
+        },
+        {
+          "answer": "Super Smash Bros. Ultimate",
+          "display": "38.14 million",
+          "aliases": [
+            "Smash Ultimate",
+            "Smash Bros"
+          ]
+        },
+        {
+          "answer": "The Legend of Zelda: Breath of the Wild",
+          "display": "34.06 million",
+          "aliases": [
+            "Breath of the Wild",
+            "BotW"
+          ]
+        },
+        {
+          "answer": "Super Mario Odyssey",
+          "display": "30.8 million",
+          "aliases": [
+            "Mario Odyssey",
+            "Odyssey"
+          ]
+        },
+        {
+          "answer": "Pokémon Scarlet and Violet",
+          "display": "28.46 million"
+        },
+        {
+          "answer": "Pokémon Sword and Shield",
+          "display": "27.26 million"
+        },
+        {
+          "answer": "The Legend of Zelda: Tears of the Kingdom",
+          "display": "22.71 million",
+          "aliases": [
+            "Tears of the Kingdom"
+          ]
+        },
+        {
+          "answer": "Super Mario Party",
+          "display": "21.36 million"
+        },
+        {
+          "answer": "New Super Mario Bros. U Deluxe",
+          "display": "19.1 million"
+        },
+        {
+          "answer": "Nintendo Switch Sports",
+          "display": "18.32 million",
+          "aliases": [
+            "Switch Sports"
+          ]
+        },
+        {
+          "answer": "Super Mario Bros. Wonder",
+          "display": "17.44 million"
+        },
+        {
+          "answer": "Ring Fit Adventure",
+          "display": "15.38 million"
+        },
+        {
+          "answer": "Pokémon: Let's Go, Pikachu! and Let's Go, Eevee!",
+          "display": "15.07 million",
+          "aliases": [
+            "Let's Go Pikachu",
+            "Let's Go Eevee"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "games/video-games/best-sellers",
+      "question": "Top 10 best-selling PlayStation 2 games (copies sold, as of October 2026)",
+      "cutoff": 10,
+      "difficulty": 3,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1379325821 | table 1 | name: Game | value: Copies sold",
+      "tags": [
+        "video games",
+        "sales",
+        "playstation 2"
+      ],
+      "answers": [
+        {
+          "answer": "Grand Theft Auto: San Andreas",
+          "display": "17.33 million",
+          "aliases": [
+            "San Andreas",
+            "GTA San Andreas"
+          ]
+        },
+        {
+          "answer": "Gran Turismo 3: A-Spec",
+          "display": "14.89 million",
+          "aliases": [
+            "Gran Turismo 3",
+            "GT3"
+          ]
+        },
+        {
+          "answer": "Grand Theft Auto: Vice City",
+          "display": "14.2 million",
+          "aliases": [
+            "Vice City",
+            "GTA Vice City"
+          ]
+        },
+        {
+          "answer": "Gran Turismo 4",
+          "display": "11.76 million",
+          "aliases": [
+            "GT4"
+          ]
+        },
+        {
+          "answer": "Grand Theft Auto III",
+          "display": "11.6 million",
+          "aliases": [
+            "GTA III",
+            "GTA 3"
+          ]
+        },
+        {
+          "answer": "Tekken 5",
+          "display": "9.43 million"
+        },
+        {
+          "answer": "Final Fantasy X",
+          "display": "8.6 million",
+          "aliases": [
+            "FFX"
+          ]
+        },
+        {
+          "answer": "Metal Gear Solid 2: Sons of Liberty",
+          "display": "7.03 million",
+          "aliases": [
+            "Metal Gear Solid 2",
+            "MGS2"
+          ]
+        },
+        {
+          "answer": "Final Fantasy XII",
+          "display": "6.4 million",
+          "aliases": [
+            "FFXII"
+          ]
+        },
+        {
+          "answer": "Kingdom Hearts",
+          "display": "6.3 million",
+          "aliases": [
+            "KH"
+          ]
+        },
+        {
+          "answer": "Final Fantasy X-2",
+          "display": "5.5 million"
+        },
+        {
+          "answer": "Kingdom Hearts II",
+          "display": "5.2 million",
+          "aliases": [
+            "KH2"
+          ]
+        },
+        {
+          "answer": "Dragon Quest VIII: Journey of the Cursed King",
+          "display": "4.84 million",
+          "aliases": [
+            "Dragon Quest VIII"
+          ]
+        },
+        {
+          "answer": "God of War",
+          "display": "4.62 million"
+        }
+      ]
+    },
+    {
+      "category": "games/video-games/best-sellers",
+      "question": "Top 10 best-selling Nintendo DS games (copies sold, as of June 2026; Nintendogs counted across all versions)",
+      "cutoff": 10,
+      "difficulty": 3,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1357763300 | table 1 | name: Game | value: Copies sold",
+      "tags": [
+        "video games",
+        "sales",
+        "nintendo ds"
+      ],
+      "answers": [
+        {
+          "answer": "New Super Mario Bros.",
+          "display": "30.8 million",
+          "aliases": [
+            "NSMB"
+          ]
+        },
+        {
+          "answer": "Nintendogs",
+          "display": "23.96 million"
+        },
+        {
+          "answer": "Mario Kart DS",
+          "display": "23.6 million",
+          "aliases": [
+            "MK DS"
+          ]
+        },
+        {
+          "answer": "Brain Age",
+          "display": "19.01 million",
+          "aliases": [
+            "Brain Training"
+          ]
+        },
+        {
+          "answer": "Pokémon Diamond and Pearl",
+          "display": "17.67 million",
+          "aliases": [
+            "Diamond and Pearl",
+            "Pokémon Diamond"
+          ]
+        },
+        {
+          "answer": "Pokémon Black and White",
+          "display": "15.64 million"
+        },
+        {
+          "answer": "Brain Age 2",
+          "display": "14.88 million"
+        },
+        {
+          "answer": "Pokémon HeartGold and SoulSilver",
+          "display": "12.72 million",
+          "aliases": [
+            "HeartGold and SoulSilver"
+          ]
+        },
+        {
+          "answer": "Animal Crossing: Wild World",
+          "display": "11.75 million",
+          "aliases": [
+            "Wild World"
+          ]
+        },
+        {
+          "answer": "Super Mario 64 DS",
+          "display": "11.06 million",
+          "aliases": [
+            "SM64 DS"
+          ]
+        },
+        {
+          "answer": "Mario Party DS",
+          "display": "9.31 million"
+        },
+        {
+          "answer": "Pokémon Black 2 and White 2",
+          "display": "8.52 million"
+        },
+        {
+          "answer": "Pokémon Platinum",
+          "display": "7.6 million"
+        },
+        {
+          "answer": "Big Brain Academy",
+          "display": "6.15 million"
+        }
+      ]
+    },
+    {
+      "category": "games/video-games/franchises",
+      "question": "Top 10 best-selling video game franchises (sales in millions, as of 2026)",
+      "cutoff": 10,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1378366946 | table 1 | name: Franchise | value: Sales",
+      "tags": [
+        "video games",
+        "franchises",
+        "sales"
+      ],
+      "answers": [
+        {
+          "answer": "Mario",
+          "display": "907.7 million",
+          "aliases": [
+            "Super Mario"
+          ]
+        },
+        {
+          "answer": "Tetris",
+          "display": "520 million"
+        },
+        {
+          "answer": "Pokémon",
+          "display": "515 million",
+          "aliases": [
+            "Pokemon"
+          ]
+        },
+        {
+          "answer": "Call of Duty",
+          "display": "500 million",
+          "aliases": [
+            "CoD"
+          ]
+        },
+        {
+          "answer": "Grand Theft Auto",
+          "display": "475 million",
+          "aliases": [
+            "GTA"
+          ]
+        },
+        {
+          "answer": "Minecraft",
+          "display": "425 million"
+        },
+        {
+          "answer": "FIFA",
+          "display": "325 million"
+        },
+        {
+          "answer": "Assassin's Creed",
+          "display": "250 million"
+        },
+        {
+          "answer": "Final Fantasy",
+          "display": "215 million",
+          "aliases": [
+            "FF"
+          ]
+        },
+        {
+          "answer": "Resident Evil",
+          "display": "213 million",
+          "aliases": [
+            "Biohazard"
+          ]
+        },
+        {
+          "answer": "Wii",
+          "display": "204 million"
+        },
+        {
+          "answer": "Lego",
+          "display": "200 million"
+        },
+        {
+          "answer": "The Sims",
+          "display": "200 million",
+          "aliases": [
+            "Sims"
+          ]
+        },
+        {
+          "answer": "NBA 2K",
+          "display": "175 million"
+        }
+      ]
+    },
+    {
+      "category": "games/video-games/franchises",
+      "question": "Top 10 highest-grossing video game franchises (estimated total revenue, as of October 2026)",
+      "cutoff": 10,
+      "difficulty": 3,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1379727309 | table 1 | name: Franchise | value: Total revenue | where: Original medium~Video game",
+      "tags": [
+        "video games",
+        "franchises",
+        "revenue"
+      ],
+      "answers": [
+        {
+          "answer": "Pokémon",
+          "display": "$130.7 billion",
+          "aliases": [
+            "Pokemon"
+          ]
+        },
+        {
+          "answer": "Call of Duty",
+          "display": "$31 billion",
+          "aliases": [
+            "CoD"
+          ]
+        },
+        {
+          "answer": "Dungeon Fighter Online",
+          "display": "$22 billion",
+          "aliases": [
+            "DFO"
+          ]
+        },
+        {
+          "answer": "Candy Crush",
+          "display": "$20 billion",
+          "aliases": [
+            "Candy Crush Saga"
+          ]
+        },
+        {
+          "answer": "Pac-Man",
+          "display": "$15.43 billion",
+          "aliases": [
+            "Pac Man"
+          ]
+        },
+        {
+          "answer": "Space Invaders",
+          "display": "$13.9 billion"
+        },
+        {
+          "answer": "Warcraft",
+          "display": "$12.4 billion"
+        },
+        {
+          "answer": "Street Fighter",
+          "display": "$10.7 billion"
+        },
+        {
+          "answer": "Grand Theft Auto",
+          "display": "$10.3 billion",
+          "aliases": [
+            "GTA"
+          ]
+        },
+        {
+          "answer": "Monster Strike",
+          "display": "$10 billion"
+        },
+        {
+          "answer": "Mario",
+          "display": "$9.74 billion"
+        },
+        {
+          "answer": "Angry Birds",
+          "display": "$9.54 billion"
+        },
+        {
+          "answer": "Fortnite",
+          "display": "$9 billion"
+        },
+        {
+          "answer": "Sonic the Hedgehog",
+          "display": "$7.37 billion",
+          "aliases": [
+            "Sonic"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "games/video-games/industry",
+      "question": "Top 7 countries by video game market revenue (billion US$, as of 2025)",
+      "cutoff": 7,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1379634428 | table 1 | name: Country | value: Revenue",
+      "tags": [
+        "video games",
+        "countries",
+        "revenue"
+      ],
+      "answers": [
+        {
+          "answer": "China",
+          "display": "$53.2 billion"
+        },
+        {
+          "answer": "United States",
+          "display": "$49.8 billion",
+          "aliases": [
+            "USA",
+            "US"
+          ]
+        },
+        {
+          "answer": "Japan",
+          "display": "$17.6 billion"
+        },
+        {
+          "answer": "South Korea",
+          "display": "$7.8 billion",
+          "aliases": [
+            "Korea"
+          ]
+        },
+        {
+          "answer": "Germany",
+          "display": "$7 billion"
+        },
+        {
+          "answer": "United Kingdom",
+          "display": "$6.6 billion",
+          "aliases": [
+            "UK",
+            "Britain"
+          ]
+        },
+        {
+          "answer": "France",
+          "display": "$4.1 billion"
+        },
+        {
+          "answer": "Canada",
+          "display": "$3.1 billion"
+        },
+        {
+          "answer": "Brazil",
+          "display": "$2.7 billion"
+        },
+        {
+          "answer": "Mexico",
+          "display": "$2.7 billion"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1825 @@
+{
+  "categories": [
+    {
+      "path": "history/us/census/states",
+      "name": "States by Census"
+    }
+  ],
+  "questions": [
+    {
+      "category": "history/us/census/states",
+      "difficulty": 2,
+      "question": "Top 10 most populous US states in the 1860 census (states only; territories not counted)",
+      "cutoff": 10,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1369369888 | table 1 | name: Name | value: 1860 | where: Admitted~^(17\\d\\d|18[0-5]\\d|1860)$ | where: Name!~^(District of Columbia|Guam|Puerto Rico|U.S. Virgin Islands|American Samoa|Northern Mariana Islands)$",
+      "tags": [
+        "history",
+        "us",
+        "census",
+        "states"
+      ],
+      "answers": [
+        {
+          "answer": "New York",
+          "display": "3,880,735",
+          "aliases": [
+            "NY"
+          ]
+        },
+        {
+          "answer": "Pennsylvania",
+          "display": "2,906,215",
+          "aliases": [
+            "PA"
+          ]
+        },
+        {
+          "answer": "Ohio",
+          "display": "2,339,511",
+          "aliases": [
+            "OH"
+          ]
+        },
+        {
+          "answer": "Illinois",
+          "display": "1,711,951",
+          "aliases": [
+            "IL"
+          ]
+        },
+        {
+          "answer": "Indiana",
+          "display": "1,350,428",
+          "aliases": [
+            "IN"
+          ]
+        },
+        {
+          "answer": "Massachusetts",
+          "display": "1,231,066",
+          "aliases": [
+            "MA"
+          ]
+        },
+        {
+          "answer": "Virginia",
+          "display": "1,219,630",
+          "aliases": [
+            "VA"
+          ]
+        },
+        {
+          "answer": "Missouri",
+          "display": "1,182,012",
+          "aliases": [
+            "MO"
+          ]
+        },
+        {
+          "answer": "Kentucky",
+          "display": "1,155,684",
+          "aliases": [
+            "KY"
+          ]
+        },
+        {
+          "answer": "Tennessee",
+          "display": "1,109,801",
+          "aliases": [
+            "TN"
+          ]
+        },
+        {
+          "answer": "Georgia",
+          "display": "1,057,286",
+          "aliases": [
+            "GA"
+          ]
+        },
+        {
+          "answer": "North Carolina",
+          "display": "992,622",
+          "aliases": [
+            "NC"
+          ]
+        },
+        {
+          "answer": "Alabama",
+          "display": "964,201",
+          "aliases": [
+            "AL"
+          ]
+        },
+        {
+          "answer": "Mississippi",
+          "display": "791,305",
+          "aliases": [
+            "MS"
+          ]
+        },
+        {
+          "answer": "Wisconsin",
+          "display": "775,881",
+          "aliases": [
+            "WI"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "history/us/census/states",
+      "difficulty": 2,
+      "question": "Top 10 most populous US states and territories in the 1870 census (DC not counted)",
+      "cutoff": 10,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1369369888 | table 3 | name: Name | value: 1870 | where: Name!~^(District of Columbia|United States)$",
+      "tags": [
+        "history",
+        "us",
+        "census",
+        "states"
+      ],
+      "answers": [
+        {
+          "answer": "New York",
+          "display": "4,382,759",
+          "aliases": [
+            "NY"
+          ]
+        },
+        {
+          "answer": "Pennsylvania",
+          "display": "3,521,951",
+          "aliases": [
+            "PA"
+          ]
+        },
+        {
+          "answer": "Ohio",
+          "display": "2,665,260",
+          "aliases": [
+            "OH"
+          ]
+        },
+        {
+          "answer": "Illinois",
+          "display": "2,539,891",
+          "aliases": [
+            "IL"
+          ]
+        },
+        {
+          "answer": "Missouri",
+          "display": "1,721,295",
+          "aliases": [
+            "MO"
+          ]
+        },
+        {
+          "answer": "Indiana",
+          "display": "1,680,637",
+          "aliases": [
+            "IN"
+          ]
+        },
+        {
+          "answer": "Massachusetts",
+          "display": "1,457,351",
+          "aliases": [
+            "MA"
+          ]
+        },
+        {
+          "answer": "Kentucky",
+          "display": "1,321,011",
+          "aliases": [
+            "KY"
+          ]
+        },
+        {
+          "answer": "Tennessee",
+          "display": "1,258,520",
+          "aliases": [
+            "TN"
+          ]
+        },
+        {
+          "answer": "Virginia",
+          "display": "1,225,163",
+          "aliases": [
+            "VA"
+          ]
+        },
+        {
+          "answer": "Iowa",
+          "display": "1,194,020",
+          "aliases": [
+            "IA"
+          ]
+        },
+        {
+          "answer": "Georgia",
+          "display": "1,184,109",
+          "aliases": [
+            "GA"
+          ]
+        },
+        {
+          "answer": "Michigan",
+          "display": "1,184,059",
+          "aliases": [
+            "MI"
+          ]
+        },
+        {
+          "answer": "North Carolina",
+          "display": "1,071,361",
+          "aliases": [
+            "NC"
+          ]
+        },
+        {
+          "answer": "Wisconsin",
+          "display": "1,054,670",
+          "aliases": [
+            "WI"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "history/us/census/states",
+      "difficulty": 2,
+      "question": "Top 10 most populous US states and territories in the 1880 census (DC not counted)",
+      "cutoff": 10,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1369369888 | table 3 | name: Name | value: 1880 | where: Name!~^(District of Columbia|United States)$",
+      "tags": [
+        "history",
+        "us",
+        "census",
+        "states"
+      ],
+      "answers": [
+        {
+          "answer": "New York",
+          "display": "5,082,871",
+          "aliases": [
+            "NY"
+          ]
+        },
+        {
+          "answer": "Pennsylvania",
+          "display": "4,282,891",
+          "aliases": [
+            "PA"
+          ]
+        },
+        {
+          "answer": "Ohio",
+          "display": "3,198,062",
+          "aliases": [
+            "OH"
+          ]
+        },
+        {
+          "answer": "Illinois",
+          "display": "3,077,871",
+          "aliases": [
+            "IL"
+          ]
+        },
+        {
+          "answer": "Missouri",
+          "display": "2,168,380",
+          "aliases": [
+            "MO"
+          ]
+        },
+        {
+          "answer": "Indiana",
+          "display": "1,978,301",
+          "aliases": [
+            "IN"
+          ]
+        },
+        {
+          "answer": "Massachusetts",
+          "display": "1,783,085",
+          "aliases": [
+            "MA"
+          ]
+        },
+        {
+          "answer": "Kentucky",
+          "display": "1,648,690",
+          "aliases": [
+            "KY"
+          ]
+        },
+        {
+          "answer": "Michigan",
+          "display": "1,636,937",
+          "aliases": [
+            "MI"
+          ]
+        },
+        {
+          "answer": "Iowa",
+          "display": "1,624,615",
+          "aliases": [
+            "IA"
+          ]
+        },
+        {
+          "answer": "Texas",
+          "display": "1,591,749",
+          "aliases": [
+            "TX"
+          ]
+        },
+        {
+          "answer": "Tennessee",
+          "display": "1,542,359",
+          "aliases": [
+            "TN"
+          ]
+        },
+        {
+          "answer": "Georgia",
+          "display": "1,542,180",
+          "aliases": [
+            "GA"
+          ]
+        },
+        {
+          "answer": "Virginia",
+          "display": "1,512,565",
+          "aliases": [
+            "VA"
+          ]
+        },
+        {
+          "answer": "North Carolina",
+          "display": "1,399,750",
+          "aliases": [
+            "NC"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "history/us/census/states",
+      "difficulty": 2,
+      "question": "Top 10 most populous US states and territories in the 1890 census (DC not counted)",
+      "cutoff": 10,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1369369888 | table 3 | name: Name | value: 1890 | where: Name!~^(District of Columbia|United States)$",
+      "tags": [
+        "history",
+        "us",
+        "census",
+        "states"
+      ],
+      "answers": [
+        {
+          "answer": "New York",
+          "display": "6,003,174",
+          "aliases": [
+            "NY"
+          ]
+        },
+        {
+          "answer": "Pennsylvania",
+          "display": "5,258,113",
+          "aliases": [
+            "PA"
+          ]
+        },
+        {
+          "answer": "Illinois",
+          "display": "3,826,352",
+          "aliases": [
+            "IL"
+          ]
+        },
+        {
+          "answer": "Ohio",
+          "display": "3,672,329",
+          "aliases": [
+            "OH"
+          ]
+        },
+        {
+          "answer": "Missouri",
+          "display": "2,679,185",
+          "aliases": [
+            "MO"
+          ]
+        },
+        {
+          "answer": "Massachusetts",
+          "display": "2,238,947",
+          "aliases": [
+            "MA"
+          ]
+        },
+        {
+          "answer": "Texas",
+          "display": "2,235,527",
+          "aliases": [
+            "TX"
+          ]
+        },
+        {
+          "answer": "Indiana",
+          "display": "2,192,404",
+          "aliases": [
+            "IN"
+          ]
+        },
+        {
+          "answer": "Michigan",
+          "display": "2,093,890",
+          "aliases": [
+            "MI"
+          ]
+        },
+        {
+          "answer": "Iowa",
+          "display": "1,912,297",
+          "aliases": [
+            "IA"
+          ]
+        },
+        {
+          "answer": "Kentucky",
+          "display": "1,858,635",
+          "aliases": [
+            "KY"
+          ]
+        },
+        {
+          "answer": "Georgia",
+          "display": "1,837,353",
+          "aliases": [
+            "GA"
+          ]
+        },
+        {
+          "answer": "Tennessee",
+          "display": "1,767,518",
+          "aliases": [
+            "TN"
+          ]
+        },
+        {
+          "answer": "Wisconsin",
+          "display": "1,693,330",
+          "aliases": [
+            "WI"
+          ]
+        },
+        {
+          "answer": "Virginia",
+          "display": "1,655,980",
+          "aliases": [
+            "VA"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "history/us/census/states",
+      "difficulty": 2,
+      "question": "Top 10 most populous US states and territories in the 1910 census (DC not counted)",
+      "cutoff": 10,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1369369888 | table 3 | name: Name | value: 1910 | where: Name!~^(District of Columbia|United States)$",
+      "tags": [
+        "history",
+        "us",
+        "census",
+        "states"
+      ],
+      "answers": [
+        {
+          "answer": "New York",
+          "display": "9,113,614",
+          "aliases": [
+            "NY"
+          ]
+        },
+        {
+          "answer": "Pennsylvania",
+          "display": "7,665,111",
+          "aliases": [
+            "PA"
+          ]
+        },
+        {
+          "answer": "Illinois",
+          "display": "5,638,591",
+          "aliases": [
+            "IL"
+          ]
+        },
+        {
+          "answer": "Ohio",
+          "display": "4,767,121",
+          "aliases": [
+            "OH"
+          ]
+        },
+        {
+          "answer": "Texas",
+          "display": "3,896,542",
+          "aliases": [
+            "TX"
+          ]
+        },
+        {
+          "answer": "Massachusetts",
+          "display": "3,366,416",
+          "aliases": [
+            "MA"
+          ]
+        },
+        {
+          "answer": "Missouri",
+          "display": "3,293,335",
+          "aliases": [
+            "MO"
+          ]
+        },
+        {
+          "answer": "Michigan",
+          "display": "2,810,173",
+          "aliases": [
+            "MI"
+          ]
+        },
+        {
+          "answer": "Indiana",
+          "display": "2,700,876",
+          "aliases": [
+            "IN"
+          ]
+        },
+        {
+          "answer": "Georgia",
+          "display": "2,609,121",
+          "aliases": [
+            "GA"
+          ]
+        },
+        {
+          "answer": "New Jersey",
+          "display": "2,537,167",
+          "aliases": [
+            "NJ"
+          ]
+        },
+        {
+          "answer": "California",
+          "display": "2,377,549",
+          "aliases": [
+            "CA"
+          ]
+        },
+        {
+          "answer": "Wisconsin",
+          "display": "2,333,860",
+          "aliases": [
+            "WI"
+          ]
+        },
+        {
+          "answer": "Kentucky",
+          "display": "2,289,905",
+          "aliases": [
+            "KY"
+          ]
+        },
+        {
+          "answer": "Iowa",
+          "display": "2,224,771",
+          "aliases": [
+            "IA"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "history/us/census/states",
+      "difficulty": 2,
+      "question": "Top 10 most populous US states and territories in the 1920 census (DC not counted)",
+      "cutoff": 10,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1369369888 | table 3 | name: Name | value: 1920 | where: Name!~^(District of Columbia|United States)$",
+      "tags": [
+        "history",
+        "us",
+        "census",
+        "states"
+      ],
+      "answers": [
+        {
+          "answer": "New York",
+          "display": "10,385,227",
+          "aliases": [
+            "NY"
+          ]
+        },
+        {
+          "answer": "Pennsylvania",
+          "display": "8,720,017",
+          "aliases": [
+            "PA"
+          ]
+        },
+        {
+          "answer": "Illinois",
+          "display": "6,485,280",
+          "aliases": [
+            "IL"
+          ]
+        },
+        {
+          "answer": "Ohio",
+          "display": "5,759,394",
+          "aliases": [
+            "OH"
+          ]
+        },
+        {
+          "answer": "Texas",
+          "display": "4,663,228",
+          "aliases": [
+            "TX"
+          ]
+        },
+        {
+          "answer": "Massachusetts",
+          "display": "3,852,356",
+          "aliases": [
+            "MA"
+          ]
+        },
+        {
+          "answer": "Michigan",
+          "display": "3,668,412",
+          "aliases": [
+            "MI"
+          ]
+        },
+        {
+          "answer": "California",
+          "display": "3,426,861",
+          "aliases": [
+            "CA"
+          ]
+        },
+        {
+          "answer": "Missouri",
+          "display": "3,404,055",
+          "aliases": [
+            "MO"
+          ]
+        },
+        {
+          "answer": "New Jersey",
+          "display": "3,155,900",
+          "aliases": [
+            "NJ"
+          ]
+        },
+        {
+          "answer": "Indiana",
+          "display": "2,930,390",
+          "aliases": [
+            "IN"
+          ]
+        },
+        {
+          "answer": "Georgia",
+          "display": "2,895,832",
+          "aliases": [
+            "GA"
+          ]
+        },
+        {
+          "answer": "Wisconsin",
+          "display": "2,632,067",
+          "aliases": [
+            "WI"
+          ]
+        },
+        {
+          "answer": "North Carolina",
+          "display": "2,559,123",
+          "aliases": [
+            "NC"
+          ]
+        },
+        {
+          "answer": "Kentucky",
+          "display": "2,416,630",
+          "aliases": [
+            "KY"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "history/us/census/states",
+      "difficulty": 2,
+      "question": "Top 10 most populous US states and territories in the 1930 census (DC not counted)",
+      "cutoff": 10,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1369369888 | table 3 | name: Name | value: 1930 | where: Name!~^(District of Columbia|United States)$",
+      "tags": [
+        "history",
+        "us",
+        "census",
+        "states"
+      ],
+      "answers": [
+        {
+          "answer": "New York",
+          "display": "12,588,066",
+          "aliases": [
+            "NY"
+          ]
+        },
+        {
+          "answer": "Pennsylvania",
+          "display": "9,631,350",
+          "aliases": [
+            "PA"
+          ]
+        },
+        {
+          "answer": "Illinois",
+          "display": "7,630,654",
+          "aliases": [
+            "IL"
+          ]
+        },
+        {
+          "answer": "Ohio",
+          "display": "6,646,697",
+          "aliases": [
+            "OH"
+          ]
+        },
+        {
+          "answer": "Texas",
+          "display": "5,824,715",
+          "aliases": [
+            "TX"
+          ]
+        },
+        {
+          "answer": "California",
+          "display": "5,677,251",
+          "aliases": [
+            "CA"
+          ]
+        },
+        {
+          "answer": "Michigan",
+          "display": "4,842,325",
+          "aliases": [
+            "MI"
+          ]
+        },
+        {
+          "answer": "Massachusetts",
+          "display": "4,249,614",
+          "aliases": [
+            "MA"
+          ]
+        },
+        {
+          "answer": "New Jersey",
+          "display": "4,041,334",
+          "aliases": [
+            "NJ"
+          ]
+        },
+        {
+          "answer": "Missouri",
+          "display": "3,629,367",
+          "aliases": [
+            "MO"
+          ]
+        },
+        {
+          "answer": "Indiana",
+          "display": "3,238,503",
+          "aliases": [
+            "IN"
+          ]
+        },
+        {
+          "answer": "North Carolina",
+          "display": "3,170,276",
+          "aliases": [
+            "NC"
+          ]
+        },
+        {
+          "answer": "Wisconsin",
+          "display": "2,939,006",
+          "aliases": [
+            "WI"
+          ]
+        },
+        {
+          "answer": "Georgia",
+          "display": "2,908,506",
+          "aliases": [
+            "GA"
+          ]
+        },
+        {
+          "answer": "Alabama",
+          "display": "2,646,248",
+          "aliases": [
+            "AL"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "history/us/census/states",
+      "difficulty": 2,
+      "question": "Top 10 most populous US states and territories in the 1940 census (DC not counted)",
+      "cutoff": 10,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1369369888 | table 3 | name: Name | value: 1940 | where: Name!~^(District of Columbia|United States)$",
+      "tags": [
+        "history",
+        "us",
+        "census",
+        "states"
+      ],
+      "answers": [
+        {
+          "answer": "New York",
+          "display": "13,479,142",
+          "aliases": [
+            "NY"
+          ]
+        },
+        {
+          "answer": "Pennsylvania",
+          "display": "9,900,180",
+          "aliases": [
+            "PA"
+          ]
+        },
+        {
+          "answer": "Illinois",
+          "display": "7,897,241",
+          "aliases": [
+            "IL"
+          ]
+        },
+        {
+          "answer": "Ohio",
+          "display": "6,907,612",
+          "aliases": [
+            "OH"
+          ]
+        },
+        {
+          "answer": "California",
+          "display": "6,907,387",
+          "aliases": [
+            "CA"
+          ]
+        },
+        {
+          "answer": "Texas",
+          "display": "6,414,824",
+          "aliases": [
+            "TX"
+          ]
+        },
+        {
+          "answer": "Michigan",
+          "display": "5,256,106",
+          "aliases": [
+            "MI"
+          ]
+        },
+        {
+          "answer": "Massachusetts",
+          "display": "4,316,721",
+          "aliases": [
+            "MA"
+          ]
+        },
+        {
+          "answer": "New Jersey",
+          "display": "4,160,165",
+          "aliases": [
+            "NJ"
+          ]
+        },
+        {
+          "answer": "Missouri",
+          "display": "3,784,664",
+          "aliases": [
+            "MO"
+          ]
+        },
+        {
+          "answer": "North Carolina",
+          "display": "3,571,623",
+          "aliases": [
+            "NC"
+          ]
+        },
+        {
+          "answer": "Indiana",
+          "display": "3,427,796",
+          "aliases": [
+            "IN"
+          ]
+        },
+        {
+          "answer": "Wisconsin",
+          "display": "3,137,587",
+          "aliases": [
+            "WI"
+          ]
+        },
+        {
+          "answer": "Georgia",
+          "display": "3,123,723",
+          "aliases": [
+            "GA"
+          ]
+        },
+        {
+          "answer": "Tennessee",
+          "display": "2,915,841",
+          "aliases": [
+            "TN"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "history/us/census/states",
+      "difficulty": 2,
+      "question": "Top 10 least populous US states in the 1960 census (states only; DC and territories not counted)",
+      "cutoff": 10,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1369369888 | table 4 | name: Name | value: 1960 | where: Name!~^(District of Columbia|United States|Guam|Puerto Rico|U.S. Virgin Islands|American Samoa|Northern Mariana Islands)$ | order: asc",
+      "tags": [
+        "history",
+        "us",
+        "census",
+        "states"
+      ],
+      "answers": [
+        {
+          "answer": "Alaska",
+          "display": "226,167",
+          "aliases": [
+            "AK"
+          ]
+        },
+        {
+          "answer": "Nevada",
+          "display": "285,278",
+          "aliases": [
+            "NV"
+          ]
+        },
+        {
+          "answer": "Wyoming",
+          "display": "330,066",
+          "aliases": [
+            "WY"
+          ]
+        },
+        {
+          "answer": "Vermont",
+          "display": "389,881",
+          "aliases": [
+            "VT"
+          ]
+        },
+        {
+          "answer": "Delaware",
+          "display": "446,292",
+          "aliases": [
+            "DE"
+          ]
+        },
+        {
+          "answer": "New Hampshire",
+          "display": "606,921",
+          "aliases": [
+            "NH"
+          ]
+        },
+        {
+          "answer": "North Dakota",
+          "display": "632,446",
+          "aliases": [
+            "ND"
+          ]
+        },
+        {
+          "answer": "Hawaii",
+          "display": "632,772",
+          "aliases": [
+            "HI"
+          ]
+        },
+        {
+          "answer": "Idaho",
+          "display": "667,191",
+          "aliases": [
+            "ID"
+          ]
+        },
+        {
+          "answer": "Montana",
+          "display": "674,767",
+          "aliases": [
+            "MT"
+          ]
+        },
+        {
+          "answer": "South Dakota",
+          "display": "680,514",
+          "aliases": [
+            "SD"
+          ]
+        },
+        {
+          "answer": "Rhode Island",
+          "display": "859,488",
+          "aliases": [
+            "RI"
+          ]
+        },
+        {
+          "answer": "Utah",
+          "display": "890,627",
+          "aliases": [
+            "UT"
+          ]
+        },
+        {
+          "answer": "New Mexico",
+          "display": "951,023",
+          "aliases": [
+            "NM"
+          ]
+        },
+        {
+          "answer": "Maine",
+          "display": "969,265",
+          "aliases": [
+            "ME"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "history/us/census/states",
+      "difficulty": 2,
+      "question": "Top 10 least populous US states in the 1970 census (states only; DC and territories not counted)",
+      "cutoff": 10,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1369369888 | table 4 | name: Name | value: 1970 | where: Name!~^(District of Columbia|United States|Guam|Puerto Rico|U.S. Virgin Islands|American Samoa|Northern Mariana Islands)$ | order: asc",
+      "tags": [
+        "history",
+        "us",
+        "census",
+        "states"
+      ],
+      "answers": [
+        {
+          "answer": "Alaska",
+          "display": "300,382",
+          "aliases": [
+            "AK"
+          ]
+        },
+        {
+          "answer": "Wyoming",
+          "display": "332,416",
+          "aliases": [
+            "WY"
+          ]
+        },
+        {
+          "answer": "Vermont",
+          "display": "444,330",
+          "aliases": [
+            "VT"
+          ]
+        },
+        {
+          "answer": "Nevada",
+          "display": "488,738",
+          "aliases": [
+            "NV"
+          ]
+        },
+        {
+          "answer": "Delaware",
+          "display": "548,104",
+          "aliases": [
+            "DE"
+          ]
+        },
+        {
+          "answer": "North Dakota",
+          "display": "617,761",
+          "aliases": [
+            "ND"
+          ]
+        },
+        {
+          "answer": "South Dakota",
+          "display": "665,507",
+          "aliases": [
+            "SD"
+          ]
+        },
+        {
+          "answer": "Montana",
+          "display": "694,409",
+          "aliases": [
+            "MT"
+          ]
+        },
+        {
+          "answer": "Idaho",
+          "display": "712,567",
+          "aliases": [
+            "ID"
+          ]
+        },
+        {
+          "answer": "New Hampshire",
+          "display": "737,681",
+          "aliases": [
+            "NH"
+          ]
+        },
+        {
+          "answer": "Hawaii",
+          "display": "768,561",
+          "aliases": [
+            "HI"
+          ]
+        },
+        {
+          "answer": "Rhode Island",
+          "display": "946,725",
+          "aliases": [
+            "RI"
+          ]
+        },
+        {
+          "answer": "Maine",
+          "display": "992,048",
+          "aliases": [
+            "ME"
+          ]
+        },
+        {
+          "answer": "New Mexico",
+          "display": "1,016,000",
+          "aliases": [
+            "NM"
+          ]
+        },
+        {
+          "answer": "Utah",
+          "display": "1,059,273",
+          "aliases": [
+            "UT"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "history/us/census/states",
+      "difficulty": 2,
+      "question": "Top 10 least populous US states in the 1980 census (states only; DC and territories not counted)",
+      "cutoff": 10,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1369369888 | table 4 | name: Name | value: 1980 | where: Name!~^(District of Columbia|United States|Guam|Puerto Rico|U.S. Virgin Islands|American Samoa|Northern Mariana Islands)$ | order: asc",
+      "tags": [
+        "history",
+        "us",
+        "census",
+        "states"
+      ],
+      "answers": [
+        {
+          "answer": "Alaska",
+          "display": "401,851",
+          "aliases": [
+            "AK"
+          ]
+        },
+        {
+          "answer": "Wyoming",
+          "display": "469,557",
+          "aliases": [
+            "WY"
+          ]
+        },
+        {
+          "answer": "Vermont",
+          "display": "511,456",
+          "aliases": [
+            "VT"
+          ]
+        },
+        {
+          "answer": "Delaware",
+          "display": "594,338",
+          "aliases": [
+            "DE"
+          ]
+        },
+        {
+          "answer": "North Dakota",
+          "display": "652,717",
+          "aliases": [
+            "ND"
+          ]
+        },
+        {
+          "answer": "South Dakota",
+          "display": "690,768",
+          "aliases": [
+            "SD"
+          ]
+        },
+        {
+          "answer": "Montana",
+          "display": "786,690",
+          "aliases": [
+            "MT"
+          ]
+        },
+        {
+          "answer": "Nevada",
+          "display": "800,493",
+          "aliases": [
+            "NV"
+          ]
+        },
+        {
+          "answer": "New Hampshire",
+          "display": "920,610",
+          "aliases": [
+            "NH"
+          ]
+        },
+        {
+          "answer": "Idaho",
+          "display": "943,935",
+          "aliases": [
+            "ID"
+          ]
+        },
+        {
+          "answer": "Rhode Island",
+          "display": "947,154",
+          "aliases": [
+            "RI"
+          ]
+        },
+        {
+          "answer": "Hawaii",
+          "display": "964,691",
+          "aliases": [
+            "HI"
+          ]
+        },
+        {
+          "answer": "Maine",
+          "display": "1,124,660",
+          "aliases": [
+            "ME"
+          ]
+        },
+        {
+          "answer": "New Mexico",
+          "display": "1,302,894",
+          "aliases": [
+            "NM"
+          ]
+        },
+        {
+          "answer": "Utah",
+          "display": "1,461,037",
+          "aliases": [
+            "UT"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "history/us/census/states",
+      "difficulty": 2,
+      "question": "Top 10 least populous US states in the 1990 census (states only; DC and territories not counted)",
+      "cutoff": 10,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1369369888 | table 4 | name: Name | value: 1990 | where: Name!~^(District of Columbia|United States|Guam|Puerto Rico|U.S. Virgin Islands|American Samoa|Northern Mariana Islands)$ | order: asc",
+      "tags": [
+        "history",
+        "us",
+        "census",
+        "states"
+      ],
+      "answers": [
+        {
+          "answer": "Wyoming",
+          "display": "453,588",
+          "aliases": [
+            "WY"
+          ]
+        },
+        {
+          "answer": "Alaska",
+          "display": "550,043",
+          "aliases": [
+            "AK"
+          ]
+        },
+        {
+          "answer": "Vermont",
+          "display": "562,758",
+          "aliases": [
+            "VT"
+          ]
+        },
+        {
+          "answer": "North Dakota",
+          "display": "638,800",
+          "aliases": [
+            "ND"
+          ]
+        },
+        {
+          "answer": "Delaware",
+          "display": "666,168",
+          "aliases": [
+            "DE"
+          ]
+        },
+        {
+          "answer": "South Dakota",
+          "display": "696,004",
+          "aliases": [
+            "SD"
+          ]
+        },
+        {
+          "answer": "Montana",
+          "display": "799,065",
+          "aliases": [
+            "MT"
+          ]
+        },
+        {
+          "answer": "Rhode Island",
+          "display": "1,003,464",
+          "aliases": [
+            "RI"
+          ]
+        },
+        {
+          "answer": "Idaho",
+          "display": "1,006,749",
+          "aliases": [
+            "ID"
+          ]
+        },
+        {
+          "answer": "Hawaii",
+          "display": "1,108,229",
+          "aliases": [
+            "HI"
+          ]
+        },
+        {
+          "answer": "New Hampshire",
+          "display": "1,109,252",
+          "aliases": [
+            "NH"
+          ]
+        },
+        {
+          "answer": "Nevada",
+          "display": "1,201,833",
+          "aliases": [
+            "NV"
+          ]
+        },
+        {
+          "answer": "Maine",
+          "display": "1,227,928",
+          "aliases": [
+            "ME"
+          ]
+        },
+        {
+          "answer": "New Mexico",
+          "display": "1,515,069",
+          "aliases": [
+            "NM"
+          ]
+        },
+        {
+          "answer": "Nebraska",
+          "display": "1,578,385",
+          "aliases": [
+            "NE"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "history/us/census/states",
+      "difficulty": 2,
+      "question": "Top 10 least populous US states in the 2000 census (states only; DC and territories not counted)",
+      "cutoff": 10,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1369369888 | table 4 | name: Name | value: 2000 | where: Name!~^(District of Columbia|United States|Guam|Puerto Rico|U.S. Virgin Islands|American Samoa|Northern Mariana Islands)$ | order: asc",
+      "tags": [
+        "history",
+        "us",
+        "census",
+        "states"
+      ],
+      "answers": [
+        {
+          "answer": "Wyoming",
+          "display": "493,782",
+          "aliases": [
+            "WY"
+          ]
+        },
+        {
+          "answer": "Vermont",
+          "display": "608,827",
+          "aliases": [
+            "VT"
+          ]
+        },
+        {
+          "answer": "Alaska",
+          "display": "626,932",
+          "aliases": [
+            "AK"
+          ]
+        },
+        {
+          "answer": "North Dakota",
+          "display": "642,200",
+          "aliases": [
+            "ND"
+          ]
+        },
+        {
+          "answer": "South Dakota",
+          "display": "754,844",
+          "aliases": [
+            "SD"
+          ]
+        },
+        {
+          "answer": "Delaware",
+          "display": "783,600",
+          "aliases": [
+            "DE"
+          ]
+        },
+        {
+          "answer": "Montana",
+          "display": "902,195",
+          "aliases": [
+            "MT"
+          ]
+        },
+        {
+          "answer": "Rhode Island",
+          "display": "1,048,319",
+          "aliases": [
+            "RI"
+          ]
+        },
+        {
+          "answer": "Hawaii",
+          "display": "1,211,537",
+          "aliases": [
+            "HI"
+          ]
+        },
+        {
+          "answer": "New Hampshire",
+          "display": "1,235,786",
+          "aliases": [
+            "NH"
+          ]
+        },
+        {
+          "answer": "Maine",
+          "display": "1,274,923",
+          "aliases": [
+            "ME"
+          ]
+        },
+        {
+          "answer": "Idaho",
+          "display": "1,293,953",
+          "aliases": [
+            "ID"
+          ]
+        },
+        {
+          "answer": "Nebraska",
+          "display": "1,711,263",
+          "aliases": [
+            "NE"
+          ]
+        },
+        {
+          "answer": "West Virginia",
+          "display": "1,808,344",
+          "aliases": [
+            "WV"
+          ]
+        },
+        {
+          "answer": "New Mexico",
+          "display": "1,819,046",
+          "aliases": [
+            "NM"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "history/us/census/states",
+      "difficulty": 2,
+      "question": "Top 10 least populous US states in the 2010 census (states only; DC and territories not counted)",
+      "cutoff": 10,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1369369888 | table 4 | name: Name | value: 2010 | where: Name!~^(District of Columbia|United States|Guam|Puerto Rico|U.S. Virgin Islands|American Samoa|Northern Mariana Islands)$ | order: asc",
+      "tags": [
+        "history",
+        "us",
+        "census",
+        "states"
+      ],
+      "answers": [
+        {
+          "answer": "Wyoming",
+          "display": "563,626",
+          "aliases": [
+            "WY"
+          ]
+        },
+        {
+          "answer": "Vermont",
+          "display": "625,741",
+          "aliases": [
+            "VT"
+          ]
+        },
+        {
+          "answer": "North Dakota",
+          "display": "672,591",
+          "aliases": [
+            "ND"
+          ]
+        },
+        {
+          "answer": "Alaska",
+          "display": "710,231",
+          "aliases": [
+            "AK"
+          ]
+        },
+        {
+          "answer": "South Dakota",
+          "display": "814,180",
+          "aliases": [
+            "SD"
+          ]
+        },
+        {
+          "answer": "Delaware",
+          "display": "897,934",
+          "aliases": [
+            "DE"
+          ]
+        },
+        {
+          "answer": "Montana",
+          "display": "989,415",
+          "aliases": [
+            "MT"
+          ]
+        },
+        {
+          "answer": "Rhode Island",
+          "display": "1,052,567",
+          "aliases": [
+            "RI"
+          ]
+        },
+        {
+          "answer": "New Hampshire",
+          "display": "1,316,470",
+          "aliases": [
+            "NH"
+          ]
+        },
+        {
+          "answer": "Maine",
+          "display": "1,328,361",
+          "aliases": [
+            "ME"
+          ]
+        },
+        {
+          "answer": "Hawaii",
+          "display": "1,360,301",
+          "aliases": [
+            "HI"
+          ]
+        },
+        {
+          "answer": "Idaho",
+          "display": "1,567,582",
+          "aliases": [
+            "ID"
+          ]
+        },
+        {
+          "answer": "Nebraska",
+          "display": "1,826,341",
+          "aliases": [
+            "NE"
+          ]
+        },
+        {
+          "answer": "West Virginia",
+          "display": "1,852,994",
+          "aliases": [
+            "WV"
+          ]
+        },
+        {
+          "answer": "New Mexico",
+          "display": "2,059,179",
+          "aliases": [
+            "NM"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "history/us/census/states",
+      "difficulty": 2,
+      "question": "Top 10 least populous US states in the 2020 census (states only; DC and territories not counted)",
+      "cutoff": 10,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1369369888 | table 4 | name: Name | value: 2020 | where: Name!~^(District of Columbia|United States|Guam|Puerto Rico|U.S. Virgin Islands|American Samoa|Northern Mariana Islands)$ | order: asc",
+      "tags": [
+        "history",
+        "us",
+        "census",
+        "states"
+      ],
+      "answers": [
+        {
+          "answer": "Wyoming",
+          "display": "576,851",
+          "aliases": [
+            "WY"
+          ]
+        },
+        {
+          "answer": "Vermont",
+          "display": "643,077",
+          "aliases": [
+            "VT"
+          ]
+        },
+        {
+          "answer": "Alaska",
+          "display": "733,391",
+          "aliases": [
+            "AK"
+          ]
+        },
+        {
+          "answer": "North Dakota",
+          "display": "779,094",
+          "aliases": [
+            "ND"
+          ]
+        },
+        {
+          "answer": "South Dakota",
+          "display": "886,667",
+          "aliases": [
+            "SD"
+          ]
+        },
+        {
+          "answer": "Delaware",
+          "display": "989,948",
+          "aliases": [
+            "DE"
+          ]
+        },
+        {
+          "answer": "Montana",
+          "display": "1,084,225",
+          "aliases": [
+            "MT"
+          ]
+        },
+        {
+          "answer": "Rhode Island",
+          "display": "1,097,379",
+          "aliases": [
+            "RI"
+          ]
+        },
+        {
+          "answer": "Maine",
+          "display": "1,362,359",
+          "aliases": [
+            "ME"
+          ]
+        },
+        {
+          "answer": "New Hampshire",
+          "display": "1,377,529",
+          "aliases": [
+            "NH"
+          ]
+        },
+        {
+          "answer": "Hawaii",
+          "display": "1,455,271",
+          "aliases": [
+            "HI"
+          ]
+        },
+        {
+          "answer": "West Virginia",
+          "display": "1,793,716",
+          "aliases": [
+            "WV"
+          ]
+        },
+        {
+          "answer": "Idaho",
+          "display": "1,839,106",
+          "aliases": [
+            "ID"
+          ]
+        },
+        {
+          "answer": "Nebraska",
+          "display": "1,961,504",
+          "aliases": [
+            "NE"
+          ]
+        },
+        {
+          "answer": "New Mexico",
+          "display": "2,117,522",
+          "aliases": [
+            "NM"
+          ]
+        }
+      ]
+    }
+  ]
+}

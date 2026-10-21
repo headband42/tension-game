@@ -1,0 +1,2835 @@
+{
+  "categories": [
+    {
+      "path": "music",
+      "name": "Music"
+    },
+    {
+      "path": "music/uk",
+      "name": "UK"
+    },
+    {
+      "path": "music/uk/albums",
+      "name": "UK albums"
+    },
+    {
+      "path": "music/uk/albums/year-end",
+      "name": "Year-End Albums"
+    }
+  ],
+  "questions": [
+    {
+      "category": "music/uk/albums/year-end",
+      "question": "Top 7 best-selling albums in the UK in 1970 (year-end albums chart)",
+      "cutoff": 7,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1363019376 | table 3 | name: Title | value: No. | order: asc",
+      "tags": [
+        "music",
+        "uk",
+        "albums",
+        "charts",
+        "1970s"
+      ],
+      "answers": [
+        {
+          "answer": "Bridge over Troubled Water",
+          "display": "#1 — Simon & Garfunkel"
+        },
+        {
+          "answer": "Led Zeppelin II",
+          "display": "#2 — Led Zeppelin"
+        },
+        {
+          "answer": "Easy Rider",
+          "display": "#3 — Original Soundtrack"
+        },
+        {
+          "answer": "Paint Your Wagon",
+          "display": "#4 — Original Soundtrack"
+        },
+        {
+          "answer": "Motown Chartbusters Vol. 3",
+          "display": "#5 — Various Artists",
+          "aliases": [
+            "Motown Chartbusters Vol 3",
+            "Motown Chartbusters 3"
+          ]
+        },
+        {
+          "answer": "Let It Be",
+          "display": "#6 — The Beatles"
+        },
+        {
+          "answer": "Abbey Road",
+          "display": "#7 — The Beatles"
+        },
+        {
+          "answer": "Greatest Hits",
+          "display": "#8 — Andy Williams"
+        },
+        {
+          "answer": "Deep Purple in Rock",
+          "display": "#9 — Deep Purple"
+        },
+        {
+          "answer": "McCartney",
+          "display": "#10 — Paul McCartney"
+        }
+      ]
+    },
+    {
+      "category": "music/uk/albums/year-end",
+      "question": "Top 7 best-selling albums in the UK in 1971 (year-end albums chart)",
+      "cutoff": 7,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1378131294 | table 3 | name: Title | value: No. | order: asc",
+      "tags": [
+        "music",
+        "uk",
+        "albums",
+        "charts",
+        "1970s"
+      ],
+      "answers": [
+        {
+          "answer": "Bridge over Troubled Water",
+          "display": "#1 — Simon & Garfunkel"
+        },
+        {
+          "answer": "Every Picture Tells a Story",
+          "display": "#2 — Rod Stewart"
+        },
+        {
+          "answer": "Sticky Fingers",
+          "display": "#3 — The Rolling Stones"
+        },
+        {
+          "answer": "Motown Chartbusters Vol. 5",
+          "display": "#4 — Various Artists",
+          "aliases": [
+            "Motown Chartbusters Vol 5",
+            "Motown Chartbusters 5"
+          ]
+        },
+        {
+          "answer": "Electric Warrior",
+          "display": "#5 — T. Rex"
+        },
+        {
+          "answer": "Ram",
+          "display": "#6 — Paul and Linda McCartney",
+          "aliases": [
+            "Paul McCartney Ram"
+          ]
+        },
+        {
+          "answer": "Tapestry",
+          "display": "#7 — Carole King"
+        },
+        {
+          "answer": "Every Good Boy Deserves Favour",
+          "display": "#8 — The Moody Blues"
+        },
+        {
+          "answer": "Greatest Hits",
+          "display": "#9 — Andy Williams"
+        },
+        {
+          "answer": "Mud Slide Slim and the Blue Horizon",
+          "display": "#10 — James Taylor"
+        }
+      ]
+    },
+    {
+      "category": "music/uk/albums/year-end",
+      "question": "Top 7 best-selling albums in the UK in 1973 (year-end albums chart)",
+      "cutoff": 7,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1371173779 | table 4 | name: Title | value: No. | order: asc",
+      "tags": [
+        "music",
+        "uk",
+        "albums",
+        "charts",
+        "1970s"
+      ],
+      "answers": [
+        {
+          "answer": "Don't Shoot Me I'm Only the Piano Player",
+          "display": "#1 — Elton John"
+        },
+        {
+          "answer": "Aladdin Sane",
+          "display": "#2 — David Bowie"
+        },
+        {
+          "answer": "Greatest Hits",
+          "display": "#3 — Simon & Garfunkel"
+        },
+        {
+          "answer": "The Dark Side of the Moon",
+          "display": "#4 — Pink Floyd",
+          "aliases": [
+            "Dark Side of the Moon"
+          ]
+        },
+        {
+          "answer": "We Can Make It",
+          "display": "#5 — Peters and Lee"
+        },
+        {
+          "answer": "1967–1970",
+          "display": "#6 — The Beatles",
+          "aliases": [
+            "1967-1970"
+          ]
+        },
+        {
+          "answer": "1962–1966",
+          "display": "#7 — The Beatles",
+          "aliases": [
+            "1962-1966"
+          ]
+        },
+        {
+          "answer": "And I Love You So",
+          "display": "#8 — Perry Como"
+        },
+        {
+          "answer": "Back to Front",
+          "display": "#9 — Gilbert O'Sullivan"
+        },
+        {
+          "answer": "That'll Be the Day",
+          "display": "#10 — Original Soundtrack"
+        }
+      ]
+    },
+    {
+      "category": "music/uk/albums/year-end",
+      "question": "Top 7 best-selling albums in the UK in 1976 (year-end albums chart)",
+      "cutoff": 7,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1360752683 | table 4 | name: Title | value: No. | order: asc",
+      "tags": [
+        "music",
+        "uk",
+        "albums",
+        "charts",
+        "1970s"
+      ],
+      "answers": [
+        {
+          "answer": "Greatest Hits",
+          "display": "#1 — ABBA"
+        },
+        {
+          "answer": "20 Golden Greats",
+          "display": "#2 — The Beach Boys"
+        },
+        {
+          "answer": "Forever and Ever",
+          "display": "#3 — Demis Roussos"
+        },
+        {
+          "answer": "A Night on the Town",
+          "display": "#4 — Rod Stewart"
+        },
+        {
+          "answer": "Glen Campbell's Twenty Golden Greats",
+          "display": "#5 — Glen Campbell"
+        },
+        {
+          "answer": "Their Greatest Hits (1971–1975)",
+          "display": "#6 — Eagles",
+          "aliases": [
+            "Their Greatest Hits (1971-1975)",
+            "Their Greatest Hits",
+            "Eagles Greatest Hits"
+          ]
+        },
+        {
+          "answer": "The Very Best of Slim Whitman",
+          "display": "#7 — Slim Whitman",
+          "aliases": [
+            "Very Best of Slim Whitman"
+          ]
+        },
+        {
+          "answer": "A Night at the Opera",
+          "display": "#8 — Queen"
+        },
+        {
+          "answer": "Desire",
+          "display": "#9 — Bob Dylan"
+        },
+        {
+          "answer": "Wings at the Speed of Sound",
+          "display": "#10 — Wings"
+        }
+      ]
+    },
+    {
+      "category": "music/uk/albums/year-end",
+      "question": "Top 10 best-selling albums in the UK in 1979 (year-end albums chart)",
+      "cutoff": 10,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1307487069 | table 4 | name: Title | value: No. | order: asc",
+      "tags": [
+        "music",
+        "uk",
+        "albums",
+        "charts",
+        "1970s"
+      ],
+      "answers": [
+        {
+          "answer": "Parallel Lines",
+          "display": "#1 — Blondie"
+        },
+        {
+          "answer": "Discovery",
+          "display": "#2 — Electric Light Orchestra"
+        },
+        {
+          "answer": "The Very Best of Leo Sayer",
+          "display": "#3 — Leo Sayer",
+          "aliases": [
+            "Very Best of Leo Sayer"
+          ]
+        },
+        {
+          "answer": "Breakfast in America",
+          "display": "#4 — Supertramp"
+        },
+        {
+          "answer": "Voulez-Vous",
+          "display": "#5 — ABBA"
+        },
+        {
+          "answer": "Barbra Streisand's Greatest Hits Vol. 2",
+          "display": "#6 — Barbra Streisand"
+        },
+        {
+          "answer": "Spirits Having Flown",
+          "display": "#7 — Bee Gees"
+        },
+        {
+          "answer": "Greatest Hits Vol. 2",
+          "display": "#8 — ABBA"
+        },
+        {
+          "answer": "Reggatta de Blanc",
+          "display": "#9 — The Police"
+        },
+        {
+          "answer": "Manilow Magic: The Best of Barry Manilow",
+          "display": "#10 — Barry Manilow",
+          "aliases": [
+            "Manilow Magic"
+          ]
+        },
+        {
+          "answer": "Greatest Hits",
+          "display": "#11 — Rod Stewart"
+        },
+        {
+          "answer": "Last the Whole Night Long",
+          "display": "#12 — James Last"
+        },
+        {
+          "answer": "Armed Forces",
+          "display": "#13 — Elvis Costello and the Attractions"
+        }
+      ]
+    },
+    {
+      "category": "music/uk/albums/year-end",
+      "question": "Top 10 best-selling albums in the UK in 1980 (year-end albums chart)",
+      "cutoff": 10,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1359933127 | table 4 | name: Title | value: No. | order: asc",
+      "tags": [
+        "music",
+        "uk",
+        "albums",
+        "charts",
+        "1980s"
+      ],
+      "answers": [
+        {
+          "answer": "Super Trouper",
+          "display": "#1 — ABBA"
+        },
+        {
+          "answer": "Zenyatta Mondatta",
+          "display": "#2 — The Police"
+        },
+        {
+          "answer": "Greatest Hits",
+          "display": "#3 — Rose Royce"
+        },
+        {
+          "answer": "Guilty",
+          "display": "#4 — Barbra Streisand"
+        },
+        {
+          "answer": "Pretenders",
+          "display": "#5 — Pretenders"
+        },
+        {
+          "answer": "Reggatta de Blanc",
+          "display": "#6 — The Police"
+        },
+        {
+          "answer": "Flesh and Blood",
+          "display": "#7 — Roxy Music"
+        },
+        {
+          "answer": "Manilow Magic: The Best of Barry Manilow",
+          "display": "#8 — Barry Manilow",
+          "aliases": [
+            "Manilow Magic"
+          ]
+        },
+        {
+          "answer": "Off the Wall",
+          "display": "#9 — Michael Jackson"
+        },
+        {
+          "answer": "Duke",
+          "display": "#10 — Genesis"
+        },
+        {
+          "answer": "Sky 2",
+          "display": "#11 — Sky",
+          "aliases": [
+            "Sky II"
+          ]
+        },
+        {
+          "answer": "Double Fantasy",
+          "display": "#12 — John Lennon and Yoko Ono"
+        },
+        {
+          "answer": "One Step Beyond...",
+          "display": "#13 — Madness",
+          "aliases": [
+            "One Step Beyond"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "music/uk/albums/year-end",
+      "question": "Top 10 best-selling albums in the UK in 1981 (year-end albums chart)",
+      "cutoff": 10,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1345061957 | table 4 | name: Title | value: No. | order: asc",
+      "tags": [
+        "music",
+        "uk",
+        "albums",
+        "charts",
+        "1980s"
+      ],
+      "answers": [
+        {
+          "answer": "Kings of the Wild Frontier",
+          "display": "#1 — Adam and the Ants"
+        },
+        {
+          "answer": "Greatest Hits",
+          "display": "#2 — Queen"
+        },
+        {
+          "answer": "Dare",
+          "display": "#3 — The Human League"
+        },
+        {
+          "answer": "Face Value",
+          "display": "#4 — Phil Collins"
+        },
+        {
+          "answer": "Shaky",
+          "display": "#5 — Shakin' Stevens"
+        },
+        {
+          "answer": "Ghost in the Machine",
+          "display": "#6 — The Police"
+        },
+        {
+          "answer": "Love Songs",
+          "display": "#7 — Cliff Richard"
+        },
+        {
+          "answer": "Chart Hits '81",
+          "display": "#8 — Various Artists",
+          "aliases": [
+            "Chart Hits 81"
+          ]
+        },
+        {
+          "answer": "Prince Charming",
+          "display": "#9 — Adam and the Ants"
+        },
+        {
+          "answer": "Double Fantasy",
+          "display": "#10 — John Lennon and Yoko Ono"
+        },
+        {
+          "answer": "The Jazz Singer",
+          "display": "#11 — Neil Diamond",
+          "aliases": [
+            "Jazz Singer"
+          ]
+        },
+        {
+          "answer": "Making Movies",
+          "display": "#12 — Dire Straits"
+        },
+        {
+          "answer": "Stars on 45",
+          "display": "#13 — Starsound"
+        }
+      ]
+    },
+    {
+      "category": "music/uk/albums/year-end",
+      "question": "Top 10 best-selling albums in the UK in 1982 (year-end albums chart)",
+      "cutoff": 10,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1345205894 | table 4 | name: Title | value: No. | order: asc",
+      "tags": [
+        "music",
+        "uk",
+        "albums",
+        "charts",
+        "1980s"
+      ],
+      "answers": [
+        {
+          "answer": "Love Songs",
+          "display": "#1 — Barbra Streisand"
+        },
+        {
+          "answer": "The Kids from \"Fame\"",
+          "display": "#2 — The Kids from \"Fame\"",
+          "aliases": [
+            "Kids from \"Fame\"",
+            "The Kids from Fame",
+            "Kids from Fame"
+          ]
+        },
+        {
+          "answer": "Complete Madness",
+          "display": "#3 — Madness"
+        },
+        {
+          "answer": "The Lexicon of Love",
+          "display": "#4 — ABC",
+          "aliases": [
+            "Lexicon of Love"
+          ]
+        },
+        {
+          "answer": "Rio",
+          "display": "#5 — Duran Duran"
+        },
+        {
+          "answer": "Love Over Gold",
+          "display": "#6 — Dire Straits"
+        },
+        {
+          "answer": "Pelican West",
+          "display": "#7 — Haircut One Hundred"
+        },
+        {
+          "answer": "Dare",
+          "display": "#8 — The Human League"
+        },
+        {
+          "answer": "Avalon",
+          "display": "#9 — Roxy Music"
+        },
+        {
+          "answer": "The John Lennon Collection",
+          "display": "#10 — John Lennon",
+          "aliases": [
+            "John Lennon Collection"
+          ]
+        },
+        {
+          "answer": "Too Rye Ay",
+          "display": "#11 — Dexys Midnight Runners"
+        },
+        {
+          "answer": "Pearls",
+          "display": "#12 — Elkie Brooks"
+        },
+        {
+          "answer": "All for a Song",
+          "display": "#13 — Barbara Dickson"
+        }
+      ]
+    },
+    {
+      "category": "music/uk/albums/year-end",
+      "question": "Top 10 best-selling albums in the UK in 1983 (year-end albums chart)",
+      "cutoff": 10,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1357982524 | table 4 | name: Title | value: No. | order: asc",
+      "tags": [
+        "music",
+        "uk",
+        "albums",
+        "charts",
+        "1980s"
+      ],
+      "answers": [
+        {
+          "answer": "Thriller",
+          "display": "#1 — Michael Jackson"
+        },
+        {
+          "answer": "No Parlez",
+          "display": "#2 — Paul Young"
+        },
+        {
+          "answer": "Colour by Numbers",
+          "display": "#3 — Culture Club"
+        },
+        {
+          "answer": "Let's Dance",
+          "display": "#4 — David Bowie"
+        },
+        {
+          "answer": "Fantastic",
+          "display": "#5 — Wham!"
+        },
+        {
+          "answer": "True",
+          "display": "#6 — Spandau Ballet"
+        },
+        {
+          "answer": "Now That's What I Call Music",
+          "display": "#7 — Various Artists",
+          "aliases": [
+            "Now 1",
+            "Now That's What I Call Music 1"
+          ]
+        },
+        {
+          "answer": "Stages",
+          "display": "#8 — Elaine Paige"
+        },
+        {
+          "answer": "Genesis",
+          "display": "#9 — Genesis"
+        },
+        {
+          "answer": "Can't Slow Down",
+          "display": "#10 — Lionel Richie"
+        },
+        {
+          "answer": "Synchronicity",
+          "display": "#11 — The Police"
+        },
+        {
+          "answer": "Labour of Love",
+          "display": "#12 — UB40"
+        },
+        {
+          "answer": "Business as Usual",
+          "display": "#13 — Men at Work"
+        }
+      ]
+    },
+    {
+      "category": "music/uk/albums/year-end",
+      "question": "Top 10 best-selling albums in the UK in 1984 (year-end albums chart)",
+      "cutoff": 10,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1345891372 | table 4 | name: Title | value: No. | order: asc",
+      "tags": [
+        "music",
+        "uk",
+        "albums",
+        "charts",
+        "1980s"
+      ],
+      "answers": [
+        {
+          "answer": "Can't Slow Down",
+          "display": "#1 — Lionel Richie"
+        },
+        {
+          "answer": "Hits 1",
+          "display": "#2 — Various Artists",
+          "aliases": [
+            "Hits One"
+          ]
+        },
+        {
+          "answer": "Legend",
+          "display": "#3 — Bob Marley and The Wailers"
+        },
+        {
+          "answer": "Make It Big",
+          "display": "#4 — Wham!"
+        },
+        {
+          "answer": "Now 3",
+          "display": "#5 — Various Artists",
+          "aliases": [
+            "Now That's What I Call Music 3"
+          ]
+        },
+        {
+          "answer": "Thriller",
+          "display": "#6 — Michael Jackson"
+        },
+        {
+          "answer": "Diamond Life",
+          "display": "#7 — Sade"
+        },
+        {
+          "answer": "Now 4",
+          "display": "#8 — Various Artists",
+          "aliases": [
+            "Now That's What I Call Music 4"
+          ]
+        },
+        {
+          "answer": "An Innocent Man",
+          "display": "#9 — Billy Joel"
+        },
+        {
+          "answer": "Welcome to the Pleasuredome",
+          "display": "#10 — Frankie Goes to Hollywood"
+        },
+        {
+          "answer": "The Collection",
+          "display": "#11 — Ultravox"
+        },
+        {
+          "answer": "Into the Gap",
+          "display": "#12 — Thompson Twins"
+        },
+        {
+          "answer": "Now 2",
+          "display": "#13 — Various Artists",
+          "aliases": [
+            "Now That's What I Call Music 2"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "music/uk/albums/year-end",
+      "question": "Top 10 best-selling albums in the UK in 1985 (year-end albums chart)",
+      "cutoff": 10,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1355607222 | table 4 | name: Title | value: No. | order: asc",
+      "tags": [
+        "music",
+        "uk",
+        "albums",
+        "charts",
+        "1980s"
+      ],
+      "answers": [
+        {
+          "answer": "Brothers in Arms",
+          "display": "#1 — Dire Straits"
+        },
+        {
+          "answer": "No Jacket Required",
+          "display": "#2 — Phil Collins"
+        },
+        {
+          "answer": "Like a Virgin",
+          "display": "#3 — Madonna"
+        },
+        {
+          "answer": "Born in the U.S.A.",
+          "display": "#4 — Bruce Springsteen",
+          "aliases": [
+            "Born in the USA"
+          ]
+        },
+        {
+          "answer": "Songs from the Big Chair",
+          "display": "#5 — Tears for Fears"
+        },
+        {
+          "answer": "Now 6",
+          "display": "#6 — Various Artists",
+          "aliases": [
+            "Now That's What I Call Music 6"
+          ]
+        },
+        {
+          "answer": "Now – The Christmas Album",
+          "display": "#7 — Various Artists",
+          "aliases": [
+            "Now - The Christmas Album"
+          ]
+        },
+        {
+          "answer": "Now 5",
+          "display": "#8 — Various Artists",
+          "aliases": [
+            "Now That's What I Call Music 5"
+          ]
+        },
+        {
+          "answer": "Hits 2",
+          "display": "#9 — Various Artists",
+          "aliases": [
+            "The Hits 2"
+          ]
+        },
+        {
+          "answer": "The Secret of Association",
+          "display": "#10 — Paul Young",
+          "aliases": [
+            "Secret of Association"
+          ]
+        },
+        {
+          "answer": "Alf",
+          "display": "#11 — Alison Moyet",
+          "aliases": [
+            "Alison Moyet Alf"
+          ]
+        },
+        {
+          "answer": "Hits 3",
+          "display": "#12 — Various Artists",
+          "aliases": [
+            "The Hits 3"
+          ]
+        },
+        {
+          "answer": "Love Songs",
+          "display": "#13 — George Benson"
+        }
+      ]
+    },
+    {
+      "category": "music/uk/albums/year-end",
+      "question": "Top 10 best-selling albums in the UK in 1986 (year-end albums chart)",
+      "cutoff": 10,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1368211298 | table 4 | name: Title | value: No. | order: asc",
+      "tags": [
+        "music",
+        "uk",
+        "albums",
+        "charts",
+        "1980s"
+      ],
+      "answers": [
+        {
+          "answer": "True Blue",
+          "display": "#1 — Madonna"
+        },
+        {
+          "answer": "Brothers In Arms",
+          "display": "#2 — Dire Straits"
+        },
+        {
+          "answer": "Now 8",
+          "display": "#3 — Various Artists",
+          "aliases": [
+            "Now That's What I Call Music 8"
+          ]
+        },
+        {
+          "answer": "Graceland",
+          "display": "#4 — Paul Simon"
+        },
+        {
+          "answer": "Whitney Houston",
+          "display": "#5 — Whitney Houston"
+        },
+        {
+          "answer": "Now 7",
+          "display": "#6 — Various Artists",
+          "aliases": [
+            "Now That's What I Call Music 7"
+          ]
+        },
+        {
+          "answer": "Hunting High and Low",
+          "display": "#7 — a-ha"
+        },
+        {
+          "answer": "A Kind of Magic",
+          "display": "#8 — Queen"
+        },
+        {
+          "answer": "Silk & Steel",
+          "display": "#9 — Five Star"
+        },
+        {
+          "answer": "Revenge",
+          "display": "#10 — Eurythmics"
+        },
+        {
+          "answer": "Hits 5",
+          "display": "#11 — Various Artists",
+          "aliases": [
+            "The Hits 5"
+          ]
+        },
+        {
+          "answer": "Hits 4",
+          "display": "#12 — Various Artists",
+          "aliases": [
+            "The Hits 4"
+          ]
+        },
+        {
+          "answer": "The Final",
+          "display": "#13 — Wham!"
+        }
+      ]
+    },
+    {
+      "category": "music/uk/albums/year-end",
+      "question": "Top 10 best-selling albums in the UK in 1987 (year-end albums chart)",
+      "cutoff": 10,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1359913440 | table 4 | name: Title | value: No. | order: asc",
+      "tags": [
+        "music",
+        "uk",
+        "albums",
+        "charts",
+        "1980s"
+      ],
+      "answers": [
+        {
+          "answer": "Bad",
+          "display": "#1 — Michael Jackson",
+          "aliases": [
+            "Michael Jackson Bad"
+          ]
+        },
+        {
+          "answer": "The Joshua Tree",
+          "display": "#2 — U2",
+          "aliases": [
+            "Joshua Tree"
+          ]
+        },
+        {
+          "answer": "Whitney",
+          "display": "#3 — Whitney Houston"
+        },
+        {
+          "answer": "Now 10",
+          "display": "#4 — Various Artists",
+          "aliases": [
+            "Now That's What I Call Music 10"
+          ]
+        },
+        {
+          "answer": "Hits 6",
+          "display": "#5 — Various Artists",
+          "aliases": [
+            "The Hits 6"
+          ]
+        },
+        {
+          "answer": "Tango in the Night",
+          "display": "#6 — Fleetwood Mac"
+        },
+        {
+          "answer": "Whenever You Need Somebody",
+          "display": "#7 — Rick Astley"
+        },
+        {
+          "answer": "Bridge of Spies",
+          "display": "#8 — T'Pau"
+        },
+        {
+          "answer": "The Phantom of the Opera",
+          "display": "#9 — Original London Cast",
+          "aliases": [
+            "Phantom of the Opera"
+          ]
+        },
+        {
+          "answer": "Hits 7",
+          "display": "#10 — Various Artists",
+          "aliases": [
+            "The Hits 7"
+          ]
+        },
+        {
+          "answer": "Running in the Family",
+          "display": "#11 — Level 42"
+        },
+        {
+          "answer": "Now 9",
+          "display": "#12 — Various Artists",
+          "aliases": [
+            "Now That's What I Call Music 9"
+          ]
+        },
+        {
+          "answer": "Raindancing",
+          "display": "#13 — Alison Moyet"
+        }
+      ]
+    },
+    {
+      "category": "music/uk/albums/year-end",
+      "question": "Top 10 best-selling albums in the UK in 1988 (year-end albums chart)",
+      "cutoff": 10,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1345209158 | table 4 | name: Title | value: Position | order: asc",
+      "tags": [
+        "music",
+        "uk",
+        "albums",
+        "charts",
+        "1980s"
+      ],
+      "answers": [
+        {
+          "answer": "Kylie",
+          "display": "#1 — Kylie Minogue"
+        },
+        {
+          "answer": "Private Collection: 1979–1988",
+          "display": "#2 — Cliff Richard",
+          "aliases": [
+            "Private Collection: 1979-1988",
+            "Private Collection"
+          ]
+        },
+        {
+          "answer": "Bad",
+          "display": "#3 — Michael Jackson",
+          "aliases": [
+            "Michael Jackson Bad"
+          ]
+        },
+        {
+          "answer": "Push",
+          "display": "#4 — Bros"
+        },
+        {
+          "answer": "Now 13",
+          "display": "#5 — Various Artists",
+          "aliases": [
+            "Now That's What I Call Music 13"
+          ]
+        },
+        {
+          "answer": "Popped In Souled Out",
+          "display": "#6 — Wet Wet Wet"
+        },
+        {
+          "answer": "Tracy Chapman",
+          "display": "#7 — Tracy Chapman"
+        },
+        {
+          "answer": "Introducing the Hardline According to Terence Trent D'Arby",
+          "display": "#8 — Terence Trent D'Arby"
+        },
+        {
+          "answer": "Tango in the Night",
+          "display": "#9 — Fleetwood Mac"
+        },
+        {
+          "answer": "Rattle and Hum",
+          "display": "#10 — U2"
+        },
+        {
+          "answer": "Money for Nothing",
+          "display": "#11 — Dire Straits"
+        },
+        {
+          "answer": "Now 12",
+          "display": "#12 — Various Artists",
+          "aliases": [
+            "Now That's What I Call Music 12"
+          ]
+        },
+        {
+          "answer": "Now 11",
+          "display": "#13 — Various Artists",
+          "aliases": [
+            "Now That's What I Call Music 11"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "music/uk/albums/year-end",
+      "question": "Top 10 best-selling albums in the UK in 1989 (year-end albums chart)",
+      "cutoff": 10,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1345217113 | table 5 | name: Title | value: No. | order: asc",
+      "tags": [
+        "music",
+        "uk",
+        "albums",
+        "charts",
+        "1980s"
+      ],
+      "answers": [
+        {
+          "answer": "Ten Good Reasons",
+          "display": "#1 — Jason Donovan"
+        },
+        {
+          "answer": "A New Flame",
+          "display": "#2 — Simply Red"
+        },
+        {
+          "answer": "...But Seriously",
+          "display": "#3 — Phil Collins",
+          "aliases": [
+            "But Seriously"
+          ]
+        },
+        {
+          "answer": "Anything for You",
+          "display": "#4 — Gloria Estefan and Miami Sound Machine"
+        },
+        {
+          "answer": "Cuts Both Ways",
+          "display": "#5 — Gloria Estefan"
+        },
+        {
+          "answer": "Enjoy Yourself",
+          "display": "#6 — Kylie Minogue"
+        },
+        {
+          "answer": "The Raw and the Cooked",
+          "display": "#7 — Fine Young Cannibals",
+          "aliases": [
+            "Raw and the Cooked"
+          ]
+        },
+        {
+          "answer": "Foreign Affair",
+          "display": "#8 — Tina Turner"
+        },
+        {
+          "answer": "Like a Prayer",
+          "display": "#9 — Madonna"
+        },
+        {
+          "answer": "Club Classics Vol. One",
+          "display": "#10 — Soul II Soul",
+          "aliases": [
+            "Club Classics Vol One"
+          ]
+        },
+        {
+          "answer": "Don't Be Cruel",
+          "display": "#11 — Bobby Brown"
+        },
+        {
+          "answer": "The Road to Hell",
+          "display": "#12 — Chris Rea",
+          "aliases": [
+            "Road to Hell"
+          ]
+        },
+        {
+          "answer": "When the World Knows Your Name",
+          "display": "#13 — Deacon Blue"
+        }
+      ]
+    },
+    {
+      "category": "music/uk/albums/year-end",
+      "question": "Top 10 best-selling albums in the UK in 1990 (year-end albums chart)",
+      "cutoff": 10,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1373233819 | table 5 | name: Title | value: Position | order: asc",
+      "tags": [
+        "music",
+        "uk",
+        "albums",
+        "charts",
+        "1990s"
+      ],
+      "answers": [
+        {
+          "answer": "...But Seriously",
+          "display": "#1 — Phil Collins",
+          "aliases": [
+            "But Seriously"
+          ]
+        },
+        {
+          "answer": "The Immaculate Collection",
+          "display": "#2 — Madonna",
+          "aliases": [
+            "Immaculate Collection"
+          ]
+        },
+        {
+          "answer": "In Concert",
+          "display": "#3 — José Carreras/Placido Domingo/Luciano Pavarotti"
+        },
+        {
+          "answer": "The Very Best of Elton John",
+          "display": "#4 — Elton John",
+          "aliases": [
+            "Very Best of Elton John"
+          ]
+        },
+        {
+          "answer": "Soul Provider",
+          "display": "#5 — Michael Bolton"
+        },
+        {
+          "answer": "The Essential Pavarotti",
+          "display": "#6 — Luciano Pavarotti",
+          "aliases": [
+            "Essential Pavarotti"
+          ]
+        },
+        {
+          "answer": "Only Yesterday",
+          "display": "#7 — Carpenters"
+        },
+        {
+          "answer": "Sleeping with the Past",
+          "display": "#8 — Elton John"
+        },
+        {
+          "answer": "Serious Hits... Live!",
+          "display": "#9 — Phil Collins",
+          "aliases": [
+            "Serious Hits Live"
+          ]
+        },
+        {
+          "answer": "Listen Without Prejudice Vol. 1",
+          "display": "#10 — George Michael",
+          "aliases": [
+            "Listen Without Prejudice Vol 1"
+          ]
+        },
+        {
+          "answer": "The Rhythm of the Saints",
+          "display": "#11 — Paul Simon",
+          "aliases": [
+            "Rhythm of the Saints"
+          ]
+        },
+        {
+          "answer": "Vivaldi: The Four Seasons",
+          "display": "#12 — Nigel Kennedy with the English Chamber Orchestra",
+          "aliases": [
+            "Vivaldi"
+          ]
+        },
+        {
+          "answer": "Foreign Affair",
+          "display": "#13 — Tina Turner"
+        }
+      ]
+    },
+    {
+      "category": "music/uk/albums/year-end",
+      "question": "Top 10 best-selling albums in the UK in 1991 (year-end albums chart)",
+      "cutoff": 10,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1375585361 | table 4 | name: Title | value: No. | order: asc",
+      "tags": [
+        "music",
+        "uk",
+        "albums",
+        "charts",
+        "1990s"
+      ],
+      "answers": [
+        {
+          "answer": "Stars",
+          "display": "#1 — Simply Red"
+        },
+        {
+          "answer": "Greatest Hits",
+          "display": "#2 — Eurythmics"
+        },
+        {
+          "answer": "Greatest Hits II",
+          "display": "#3 — Queen",
+          "aliases": [
+            "Greatest Hits 2"
+          ]
+        },
+        {
+          "answer": "Simply the Best",
+          "display": "#4 — Tina Turner"
+        },
+        {
+          "answer": "Dangerous",
+          "display": "#5 — Michael Jackson"
+        },
+        {
+          "answer": "Out of Time",
+          "display": "#6 — R.E.M."
+        },
+        {
+          "answer": "Time, Love & Tenderness",
+          "display": "#7 — Michael Bolton"
+        },
+        {
+          "answer": "The Immaculate Collection",
+          "display": "#8 — Madonna",
+          "aliases": [
+            "Immaculate Collection"
+          ]
+        },
+        {
+          "answer": "Love Hurts",
+          "display": "#9 — Cher"
+        },
+        {
+          "answer": "From Time to Time – The Singles Collection",
+          "display": "#10 — Paul Young",
+          "aliases": [
+            "From Time to Time - The Singles Collection",
+            "From Time to Time"
+          ]
+        },
+        {
+          "answer": "Seal",
+          "display": "#11 — Seal"
+        },
+        {
+          "answer": "Waking Up the Neighbours",
+          "display": "#12 — Bryan Adams"
+        },
+        {
+          "answer": "We Can't Dance",
+          "display": "#13 — Genesis"
+        }
+      ]
+    },
+    {
+      "category": "music/uk/albums/year-end",
+      "question": "Top 10 best-selling albums in the UK in 1992 (year-end albums chart)",
+      "cutoff": 10,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1374972706 | table 4 | name: Title | value: No. | order: asc",
+      "tags": [
+        "music",
+        "uk",
+        "albums",
+        "charts",
+        "1990s"
+      ],
+      "answers": [
+        {
+          "answer": "Stars",
+          "display": "#1 — Simply Red"
+        },
+        {
+          "answer": "Back to Front",
+          "display": "#2 — Lionel Richie"
+        },
+        {
+          "answer": "Greatest Hits: 1965–1992",
+          "display": "#3 — Cher",
+          "aliases": [
+            "Greatest Hits: 1965-1992"
+          ]
+        },
+        {
+          "answer": "Glittering Prize 81/92",
+          "display": "#4 — Simple Minds"
+        },
+        {
+          "answer": "Dangerous",
+          "display": "#5 — Michael Jackson"
+        },
+        {
+          "answer": "Diva",
+          "display": "#6 — Annie Lennox"
+        },
+        {
+          "answer": "Timeless: The Classics",
+          "display": "#7 — Michael Bolton",
+          "aliases": [
+            "Timeless"
+          ]
+        },
+        {
+          "answer": "Divine Madness",
+          "display": "#8 — Madness"
+        },
+        {
+          "answer": "We Can't Dance",
+          "display": "#9 — Genesis"
+        },
+        {
+          "answer": "Up",
+          "display": "#10 — Right Said Fred",
+          "aliases": [
+            "Right Said Fred Up"
+          ]
+        },
+        {
+          "answer": "Pop!: The First 20 Hits",
+          "display": "#11 — Erasure",
+          "aliases": [
+            "Pop!",
+            "Pop: The First 20 Hits"
+          ]
+        },
+        {
+          "answer": "ABBA Gold",
+          "display": "#12 — ABBA"
+        },
+        {
+          "answer": "Greatest Hits",
+          "display": "#13 — Gloria Estefan"
+        }
+      ]
+    },
+    {
+      "category": "music/uk/albums/year-end",
+      "question": "Top 10 best-selling albums in the UK in 1993 (year-end albums chart)",
+      "cutoff": 10,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1345527844 | table 4 | name: Title | value: No. | order: asc",
+      "tags": [
+        "music",
+        "uk",
+        "albums",
+        "charts",
+        "1990s"
+      ],
+      "answers": [
+        {
+          "answer": "Bat Out of Hell II: Back into Hell",
+          "display": "#1 — Meat Loaf",
+          "aliases": [
+            "Bat Out of Hell II"
+          ]
+        },
+        {
+          "answer": "Automatic for the People",
+          "display": "#2 — R.E.M."
+        },
+        {
+          "answer": "So Close",
+          "display": "#3 — Dina Carroll"
+        },
+        {
+          "answer": "Everything Changes",
+          "display": "#4 — Take That"
+        },
+        {
+          "answer": "One Woman: The Ultimate Collection",
+          "display": "#5 — Diana Ross",
+          "aliases": [
+            "One Woman"
+          ]
+        },
+        {
+          "answer": "So Far So Good",
+          "display": "#6 — Bryan Adams"
+        },
+        {
+          "answer": "Promises and Lies",
+          "display": "#7 — UB40"
+        },
+        {
+          "answer": "Both Sides",
+          "display": "#8 — Phil Collins"
+        },
+        {
+          "answer": "Zooropa",
+          "display": "#9 — U2"
+        },
+        {
+          "answer": "Music Box",
+          "display": "#10 — Mariah Carey"
+        },
+        {
+          "answer": "Pocket Full of Kryptonite",
+          "display": "#11 — Spin Doctors"
+        },
+        {
+          "answer": "Ten Summoner's Tales",
+          "display": "#12 — Sting"
+        },
+        {
+          "answer": "End of Part One: Their Greatest Hits",
+          "display": "#13 — Wet Wet Wet",
+          "aliases": [
+            "End of Part One"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "music/uk/albums/year-end",
+      "question": "Top 10 best-selling albums in the UK in 1994 (year-end albums chart)",
+      "cutoff": 10,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1357099422 | table 5 | name: Title | value: No. | order: asc",
+      "tags": [
+        "music",
+        "uk",
+        "albums",
+        "charts",
+        "1990s"
+      ],
+      "answers": [
+        {
+          "answer": "Cross Road: The Best of Bon Jovi",
+          "display": "#1 — Bon Jovi",
+          "aliases": [
+            "Cross Road"
+          ]
+        },
+        {
+          "answer": "Carry On up the Charts: The Best of the Beautiful South",
+          "display": "#2 — The Beautiful South",
+          "aliases": [
+            "Carry On up the Charts"
+          ]
+        },
+        {
+          "answer": "Music Box",
+          "display": "#3 — Mariah Carey"
+        },
+        {
+          "answer": "Always & Forever",
+          "display": "#4 — Eternal"
+        },
+        {
+          "answer": "The Division Bell",
+          "display": "#5 — Pink Floyd",
+          "aliases": [
+            "Division Bell"
+          ]
+        },
+        {
+          "answer": "End of Part One: Their Greatest Hits",
+          "display": "#6 — Wet Wet Wet",
+          "aliases": [
+            "End of Part One"
+          ]
+        },
+        {
+          "answer": "Monster",
+          "display": "#7 — R.E.M."
+        },
+        {
+          "answer": "Parklife",
+          "display": "#8 — Blur"
+        },
+        {
+          "answer": "Live at the BBC",
+          "display": "#9 — The Beatles"
+        },
+        {
+          "answer": "Steam",
+          "display": "#10 — East 17"
+        },
+        {
+          "answer": "The Three Tenors in Concert 1994",
+          "display": "#11 — José Carreras, Plácido Domingo and Luciano Pavarotti, orchestra conducted by Zubin Mehta",
+          "aliases": [
+            "Three Tenors in Concert 1994",
+            "Three Tenors"
+          ]
+        },
+        {
+          "answer": "Crocodile Shoes",
+          "display": "#12 — Jimmy Nail"
+        },
+        {
+          "answer": "Fields of Gold: The Best of Sting 1984–1994",
+          "display": "#13 — Sting",
+          "aliases": [
+            "Fields of Gold: The Best of Sting 1984-1994",
+            "Fields of Gold"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "music/uk/albums/year-end",
+      "question": "Top 10 best-selling albums in the UK in 1995 (year-end albums chart)",
+      "cutoff": 10,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1345446720 | table 5 | name: Title | value: No. | order: asc",
+      "tags": [
+        "music",
+        "uk",
+        "albums",
+        "charts",
+        "1990s"
+      ],
+      "answers": [
+        {
+          "answer": "Robson & Jerome",
+          "display": "#1 — Robson & Jerome",
+          "aliases": [
+            "Robson and Jerome"
+          ]
+        },
+        {
+          "answer": "(What's the Story) Morning Glory?",
+          "display": "#2 — Oasis",
+          "aliases": [
+            "What's the Story Morning Glory?",
+            "(What's the Story) Morning Glory"
+          ]
+        },
+        {
+          "answer": "The Colour of My Love",
+          "display": "#3 — Celine Dion",
+          "aliases": [
+            "Colour of My Love"
+          ]
+        },
+        {
+          "answer": "Life",
+          "display": "#4 — Simply Red"
+        },
+        {
+          "answer": "HIStory: Past, Present and Future, Book I",
+          "display": "#5 — Michael Jackson",
+          "aliases": [
+            "HIStory"
+          ]
+        },
+        {
+          "answer": "Made in Heaven",
+          "display": "#6 — Queen"
+        },
+        {
+          "answer": "Stanley Road",
+          "display": "#7 — Paul Weller"
+        },
+        {
+          "answer": "Picture This",
+          "display": "#8 — Wet Wet Wet"
+        },
+        {
+          "answer": "The Great Escape",
+          "display": "#9 — Blur",
+          "aliases": [
+            "Great Escape"
+          ]
+        },
+        {
+          "answer": "Different Class",
+          "display": "#10 — Pulp"
+        },
+        {
+          "answer": "Something to Remember",
+          "display": "#11 — Madonna"
+        },
+        {
+          "answer": "Love Songs",
+          "display": "#12 — Elton John"
+        },
+        {
+          "answer": "Carry On up the Charts: The Best of the Beautiful South",
+          "display": "#13 — The Beautiful South",
+          "aliases": [
+            "Carry On up the Charts"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "music/uk/albums/year-end",
+      "question": "Top 10 best-selling albums in the UK in 1997 (year-end albums chart)",
+      "cutoff": 10,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1380091639 | table 5 | name: Title | value: No. | order: asc",
+      "tags": [
+        "music",
+        "uk",
+        "albums",
+        "charts",
+        "1990s"
+      ],
+      "answers": [
+        {
+          "answer": "Be Here Now",
+          "display": "#1 — Oasis"
+        },
+        {
+          "answer": "Urban Hymns",
+          "display": "#2 — The Verve"
+        },
+        {
+          "answer": "Spice",
+          "display": "#3 — Spice Girls"
+        },
+        {
+          "answer": "Spiceworld",
+          "display": "#4 — Spice Girls"
+        },
+        {
+          "answer": "White on Blonde",
+          "display": "#5 — Texas"
+        },
+        {
+          "answer": "The Fat of the Land",
+          "display": "#6 — The Prodigy",
+          "aliases": [
+            "Fat of the Land"
+          ]
+        },
+        {
+          "answer": "Let's Talk About Love",
+          "display": "#7 — Celine Dion"
+        },
+        {
+          "answer": "OK Computer",
+          "display": "#8 — Radiohead"
+        },
+        {
+          "answer": "Greatest Hits",
+          "display": "#9 — Eternal"
+        },
+        {
+          "answer": "The Best of Wham!: If You Were There...",
+          "display": "#10 — Wham!",
+          "aliases": [
+            "The Best of Wham!",
+            "Best of Wham!: If You Were There...",
+            "The Best of Wham: If You Were There"
+          ]
+        },
+        {
+          "answer": "Ocean Drive",
+          "display": "#11 — Lighthouse Family"
+        },
+        {
+          "answer": "Backstreet's Back",
+          "display": "#12 — Backstreet Boys"
+        },
+        {
+          "answer": "Older",
+          "display": "#13 — George Michael"
+        }
+      ]
+    },
+    {
+      "category": "music/uk/albums/year-end",
+      "question": "Top 10 best-selling albums in the UK in 1998 (year-end albums chart)",
+      "cutoff": 10,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1340095446 | table 5 | name: Title | value: No. | order: asc",
+      "tags": [
+        "music",
+        "uk",
+        "albums",
+        "charts",
+        "1990s"
+      ],
+      "answers": [
+        {
+          "answer": "Talk on Corners",
+          "display": "#1 — The Corrs"
+        },
+        {
+          "answer": "Ladies & Gentlemen: The Best of George Michael",
+          "display": "#2 — George Michael",
+          "aliases": [
+            "Ladies & Gentlemen"
+          ]
+        },
+        {
+          "answer": "Where We Belong",
+          "display": "#3 — Boyzone"
+        },
+        {
+          "answer": "Life thru a Lens",
+          "display": "#4 — Robbie Williams"
+        },
+        {
+          "answer": "I've Been Expecting You",
+          "display": "#5 — Robbie Williams"
+        },
+        {
+          "answer": "Urban Hymns",
+          "display": "#6 — The Verve"
+        },
+        {
+          "answer": "Ray of Light",
+          "display": "#7 — Madonna"
+        },
+        {
+          "answer": "Let's Talk About Love",
+          "display": "#8 — Celine Dion"
+        },
+        {
+          "answer": "All Saints",
+          "display": "#9 — All Saints"
+        },
+        {
+          "answer": "Titanic: Music from the Motion Picture",
+          "display": "#10 — James Horner",
+          "aliases": [
+            "Titanic"
+          ]
+        },
+        {
+          "answer": "Postcards from Heaven",
+          "display": "#11 — Lighthouse Family"
+        },
+        {
+          "answer": "The Best of M People",
+          "display": "#12 — M People",
+          "aliases": [
+            "Best of M People"
+          ]
+        },
+        {
+          "answer": "Step One",
+          "display": "#13 — Steps"
+        }
+      ]
+    },
+    {
+      "category": "music/uk/albums/year-end",
+      "question": "Top 10 best-selling albums in the UK in 2011 (year-end albums chart)",
+      "cutoff": 10,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1337806085 | table 5 | name: Title | value: No. | order: asc",
+      "tags": [
+        "music",
+        "uk",
+        "albums",
+        "charts",
+        "2010s"
+      ],
+      "answers": [
+        {
+          "answer": "21",
+          "display": "#1 — Adele",
+          "aliases": [
+            "Adele 21"
+          ]
+        },
+        {
+          "answer": "Christmas",
+          "display": "#2 — Michael Bublé",
+          "aliases": [
+            "Michael Bublé Christmas"
+          ]
+        },
+        {
+          "answer": "Doo-Wops & Hooligans",
+          "display": "#3 — Bruno Mars"
+        },
+        {
+          "answer": "19",
+          "display": "#4 — Adele",
+          "aliases": [
+            "Adele 19"
+          ]
+        },
+        {
+          "answer": "Mylo Xyloto",
+          "display": "#5 — Coldplay"
+        },
+        {
+          "answer": "Loud",
+          "display": "#6 — Rihanna"
+        },
+        {
+          "answer": "Born This Way",
+          "display": "#7 — Lady Gaga"
+        },
+        {
+          "answer": "Who You Are",
+          "display": "#8 — Jessie J"
+        },
+        {
+          "answer": "Plus",
+          "display": "#9 — Ed Sheeran (+)",
+          "aliases": [
+            "Ed Sheeran Plus"
+          ]
+        },
+        {
+          "answer": "Talk That Talk",
+          "display": "#10 — Rihanna"
+        },
+        {
+          "answer": "Lioness: Hidden Treasures",
+          "display": "#11 — Amy Winehouse",
+          "aliases": [
+            "Lioness"
+          ]
+        },
+        {
+          "answer": "In Case You Didn't Know",
+          "display": "#12 — Olly Murs"
+        },
+        {
+          "answer": "The Lady Killer",
+          "display": "#13 — Cee Lo Green",
+          "aliases": [
+            "Lady Killer"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "music/uk/albums/year-end",
+      "question": "Top 10 best-selling albums in the UK in 2012 (year-end albums chart)",
+      "cutoff": 10,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1367939261 | table 5 | name: Title | value: No. | order: asc",
+      "tags": [
+        "music",
+        "uk",
+        "albums",
+        "charts",
+        "2010s"
+      ],
+      "answers": [
+        {
+          "answer": "Our Version of Events",
+          "display": "#1 — Emeli Sandé"
+        },
+        {
+          "answer": "21",
+          "display": "#2 — Adele",
+          "aliases": [
+            "Adele 21"
+          ]
+        },
+        {
+          "answer": "Plus",
+          "display": "#3 — Ed Sheeran (+)",
+          "aliases": [
+            "Ed Sheeran Plus"
+          ]
+        },
+        {
+          "answer": "Born to Die",
+          "display": "#4 — Lana Del Rey"
+        },
+        {
+          "answer": "Take Me Home",
+          "display": "#5 — One Direction"
+        },
+        {
+          "answer": "Babel",
+          "display": "#6 — Mumford & Sons"
+        },
+        {
+          "answer": "Right Place Right Time",
+          "display": "#7 — Olly Murs"
+        },
+        {
+          "answer": "Christmas",
+          "display": "#8 — Michael Bublé",
+          "aliases": [
+            "Michael Bublé Christmas"
+          ]
+        },
+        {
+          "answer": "Mylo Xyloto",
+          "display": "#9 — Coldplay"
+        },
+        {
+          "answer": "Unapologetic",
+          "display": "#10 — Rihanna"
+        },
+        {
+          "answer": "Fall to Grace",
+          "display": "#11 — Paloma Faith"
+        },
+        {
+          "answer": "The Truth About Love",
+          "display": "#12 — Pink",
+          "aliases": [
+            "Truth About Love"
+          ]
+        },
+        {
+          "answer": "Take The Crown",
+          "display": "#13 — Robbie Williams"
+        }
+      ]
+    },
+    {
+      "category": "music/uk/albums/year-end",
+      "question": "Top 10 best-selling albums in the UK in 2015 (year-end albums chart)",
+      "cutoff": 10,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1380103816 | table 8 | name: Title | value: No. | order: asc",
+      "tags": [
+        "music",
+        "uk",
+        "albums",
+        "charts",
+        "2010s"
+      ],
+      "answers": [
+        {
+          "answer": "25",
+          "display": "#1 — Adele",
+          "aliases": [
+            "Adele 25"
+          ]
+        },
+        {
+          "answer": "x",
+          "display": "#2 — Ed Sheeran",
+          "aliases": [
+            "Ed Sheeran x"
+          ]
+        },
+        {
+          "answer": "In the Lonely Hour",
+          "display": "#3 — Sam Smith"
+        },
+        {
+          "answer": "If I Can Dream",
+          "display": "#4 — Elvis Presley"
+        },
+        {
+          "answer": "Purpose",
+          "display": "#5 — Justin Bieber"
+        },
+        {
+          "answer": "1989",
+          "display": "#6 — Taylor Swift",
+          "aliases": [
+            "Taylor Swift 1989"
+          ]
+        },
+        {
+          "answer": "I Cry When I Laugh",
+          "display": "#7 — Jess Glynne"
+        },
+        {
+          "answer": "Chaos and the Calm",
+          "display": "#8 — James Bay"
+        },
+        {
+          "answer": "A Head Full of Dreams",
+          "display": "#9 — Coldplay"
+        },
+        {
+          "answer": "Wanted on Voyage",
+          "display": "#10 — George Ezra"
+        },
+        {
+          "answer": "Get Weird",
+          "display": "#11 — Little Mix"
+        },
+        {
+          "answer": "Hozier",
+          "display": "#12 — Hozier"
+        },
+        {
+          "answer": "Never Been Better",
+          "display": "#13 — Olly Murs"
+        }
+      ]
+    },
+    {
+      "category": "music/uk/albums/year-end",
+      "question": "Top 10 best-selling albums in the UK in 2016 (year-end albums chart)",
+      "cutoff": 10,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1373444358 | table 8 | name: Title | value: No. | order: asc",
+      "tags": [
+        "music",
+        "uk",
+        "albums",
+        "charts",
+        "2010s"
+      ],
+      "answers": [
+        {
+          "answer": "25",
+          "display": "#1 — Adele",
+          "aliases": [
+            "Adele 25"
+          ]
+        },
+        {
+          "answer": "A Head Full of Dreams",
+          "display": "#2 — Coldplay"
+        },
+        {
+          "answer": "Together",
+          "display": "#3 — Michael Ball & Alfie Boe"
+        },
+        {
+          "answer": "Purpose",
+          "display": "#4 — Justin Bieber"
+        },
+        {
+          "answer": "The Wonder of You",
+          "display": "#5 — Elvis Presley",
+          "aliases": [
+            "Wonder of You"
+          ]
+        },
+        {
+          "answer": "Blackstar",
+          "display": "#6 — David Bowie"
+        },
+        {
+          "answer": "Glory Days",
+          "display": "#7 — Little Mix"
+        },
+        {
+          "answer": "Views",
+          "display": "#8 — Drake"
+        },
+        {
+          "answer": "I Cry When I Laugh",
+          "display": "#9 — Jess Glynne"
+        },
+        {
+          "answer": "Best of Bowie",
+          "display": "#10 — David Bowie"
+        },
+        {
+          "answer": "Lemonade",
+          "display": "#11 — Beyoncé"
+        },
+        {
+          "answer": "24 Hrs",
+          "display": "#12 — Olly Murs",
+          "aliases": [
+            "24 Hours"
+          ]
+        },
+        {
+          "answer": "Nobody but Me",
+          "display": "#13 — Michael Bublé"
+        }
+      ]
+    },
+    {
+      "category": "music/uk/albums/year-end",
+      "question": "Top 10 best-selling albums in the UK in 2017 (year-end albums chart)",
+      "cutoff": 10,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1373897478 | table 5 | name: Title | value: No. | order: asc",
+      "tags": [
+        "music",
+        "uk",
+        "albums",
+        "charts",
+        "2010s"
+      ],
+      "answers": [
+        {
+          "answer": "Divide",
+          "display": "#1 — Ed Sheeran (÷)",
+          "aliases": [
+            "Ed Sheeran Divide"
+          ]
+        },
+        {
+          "answer": "Human",
+          "display": "#2 — Rag'n'Bone Man"
+        },
+        {
+          "answer": "The Thrill of It All",
+          "display": "#3 — Sam Smith",
+          "aliases": [
+            "Thrill of It All"
+          ]
+        },
+        {
+          "answer": "Glory Days",
+          "display": "#4 — Little Mix"
+        },
+        {
+          "answer": "Beautiful Trauma",
+          "display": "#5 — Pink"
+        },
+        {
+          "answer": "Multiply",
+          "display": "#6 — Ed Sheeran (×)",
+          "aliases": [
+            "Ed Sheeran Multiply"
+          ]
+        },
+        {
+          "answer": "Together Again",
+          "display": "#7 — Michael Ball and Alfie Boe"
+        },
+        {
+          "answer": "More Life",
+          "display": "#8 — Drake"
+        },
+        {
+          "answer": "As You Were",
+          "display": "#9 — Liam Gallagher"
+        },
+        {
+          "answer": "Gang Signs & Prayer",
+          "display": "#10 — Stormzy"
+        },
+        {
+          "answer": "A Love So Beautiful",
+          "display": "#11 — Roy Orbison with the Royal Philharmonic Orchestra"
+        },
+        {
+          "answer": "Moana: Original Motion Picture Soundtrack",
+          "display": "#12 — Various artists",
+          "aliases": [
+            "Moana"
+          ]
+        },
+        {
+          "answer": "Wonderland",
+          "display": "#13 — Take That"
+        }
+      ]
+    },
+    {
+      "category": "music/uk/albums/year-end",
+      "question": "Top 10 best-selling albums in the UK in 2019 (year-end albums chart)",
+      "cutoff": 10,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1379619322 | table 7 | name: Title | value: No. | order: asc",
+      "tags": [
+        "music",
+        "uk",
+        "albums",
+        "charts",
+        "2010s"
+      ],
+      "answers": [
+        {
+          "answer": "Divinely Uninspired to a Hellish Extent",
+          "display": "#1 — Lewis Capaldi"
+        },
+        {
+          "answer": "No.6 Collaborations Project",
+          "display": "#2 — Ed Sheeran",
+          "aliases": [
+            "No6 Collaborations Project"
+          ]
+        },
+        {
+          "answer": "The Greatest Showman",
+          "display": "#3 — Various artists",
+          "aliases": [
+            "Greatest Showman"
+          ]
+        },
+        {
+          "answer": "When We All Fall Asleep, Where Do We Go?",
+          "display": "#4 — Billie Eilish",
+          "aliases": [
+            "When We All Fall Asleep, Where Do We Go"
+          ]
+        },
+        {
+          "answer": "Staying at Tamara's",
+          "display": "#5 — George Ezra"
+        },
+        {
+          "answer": "Bohemian Rhapsody: The Original Soundtrack",
+          "display": "#6 — Queen",
+          "aliases": [
+            "Bohemian Rhapsody"
+          ]
+        },
+        {
+          "answer": "thank u, next",
+          "display": "#7 — Ariana Grande"
+        },
+        {
+          "answer": "What a Time to Be Alive",
+          "display": "#8 — Tom Walker"
+        },
+        {
+          "answer": "A Star Is Born",
+          "display": "#9 — Lady Gaga and Bradley Cooper"
+        },
+        {
+          "answer": "You're in My Heart: Rod Stewart with the Royal Philharmonic Orchestra",
+          "display": "#10 — Rod Stewart with the Royal Philharmonic Orchestra",
+          "aliases": [
+            "You're in My Heart"
+          ]
+        },
+        {
+          "answer": "Divide",
+          "display": "#11 — Ed Sheeran (÷)",
+          "aliases": [
+            "Ed Sheeran Divide"
+          ]
+        },
+        {
+          "answer": "The Christmas Present",
+          "display": "#12 — Robbie Williams",
+          "aliases": [
+            "Christmas Present"
+          ]
+        },
+        {
+          "answer": "50 Years – Don't Stop",
+          "display": "#13 — Fleetwood Mac",
+          "aliases": [
+            "50 Years - Don't Stop"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "music/uk/albums/year-end",
+      "question": "Top 10 best-selling albums in the UK in 2020 (year-end albums chart)",
+      "cutoff": 10,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1375676019 | table 8 | name: Title | value: No. | order: asc",
+      "tags": [
+        "music",
+        "uk",
+        "albums",
+        "charts",
+        "2020s"
+      ],
+      "answers": [
+        {
+          "answer": "Divinely Uninspired to a Hellish Extent",
+          "display": "#1 — Lewis Capaldi"
+        },
+        {
+          "answer": "Fine Line",
+          "display": "#2 — Harry Styles"
+        },
+        {
+          "answer": "Future Nostalgia",
+          "display": "#3 — Dua Lipa"
+        },
+        {
+          "answer": "When We All Fall Asleep, Where Do We Go?",
+          "display": "#4 — Billie Eilish",
+          "aliases": [
+            "When We All Fall Asleep, Where Do We Go"
+          ]
+        },
+        {
+          "answer": "Heavy Is the Head",
+          "display": "#5 — Stormzy"
+        },
+        {
+          "answer": "Shoot for the Stars, Aim for the Moon",
+          "display": "#6 — Pop Smoke"
+        },
+        {
+          "answer": "No.6 Collaborations Project",
+          "display": "#7 — Ed Sheeran",
+          "aliases": [
+            "No6 Collaborations Project"
+          ]
+        },
+        {
+          "answer": "Greatest Hits",
+          "display": "#8 — Queen"
+        },
+        {
+          "answer": "Diamonds",
+          "display": "#9 — Elton John"
+        },
+        {
+          "answer": "50 Years – Don't Stop",
+          "display": "#10 — Fleetwood Mac",
+          "aliases": [
+            "50 Years - Don't Stop"
+          ]
+        },
+        {
+          "answer": "Music to Be Murdered By",
+          "display": "#11 — Eminem"
+        },
+        {
+          "answer": "Folklore",
+          "display": "#12 — Taylor Swift"
+        },
+        {
+          "answer": "Divide",
+          "display": "#13 — Ed Sheeran (÷)",
+          "aliases": [
+            "Ed Sheeran Divide"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "music/uk/albums/year-end",
+      "question": "Top 10 best-selling albums in the UK in 2021 (year-end albums chart)",
+      "cutoff": 10,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1379570000 | table 7 | name: Title | value: No. | order: asc",
+      "tags": [
+        "music",
+        "uk",
+        "albums",
+        "charts",
+        "2020s"
+      ],
+      "answers": [
+        {
+          "answer": "30",
+          "display": "#1 — Adele",
+          "aliases": [
+            "Adele 30"
+          ]
+        },
+        {
+          "answer": "Equals",
+          "display": "#2 — Ed Sheeran (=)",
+          "aliases": [
+            "Ed Sheeran Equals"
+          ]
+        },
+        {
+          "answer": "Voyage",
+          "display": "#3 — ABBA"
+        },
+        {
+          "answer": "Sour",
+          "display": "#4 — Olivia Rodrigo"
+        },
+        {
+          "answer": "Greatest Hits",
+          "display": "#5 — Queen"
+        },
+        {
+          "answer": "Future Nostalgia",
+          "display": "#6 — Dua Lipa"
+        },
+        {
+          "answer": "Divide",
+          "display": "#7 — Ed Sheeran (÷)",
+          "aliases": [
+            "Ed Sheeran Divide"
+          ]
+        },
+        {
+          "answer": "Diamonds",
+          "display": "#8 — Elton John"
+        },
+        {
+          "answer": "50 Years – Don't Stop",
+          "display": "#9 — Fleetwood Mac",
+          "aliases": [
+            "50 Years - Don't Stop"
+          ]
+        },
+        {
+          "answer": "We're All Alone in This Together",
+          "display": "#10 — Dave"
+        },
+        {
+          "answer": "The Highlights",
+          "display": "#11 — The Weeknd"
+        },
+        {
+          "answer": "Fine Line",
+          "display": "#12 — Harry Styles"
+        },
+        {
+          "answer": "ABBA Gold",
+          "display": "#13 — ABBA"
+        }
+      ]
+    },
+    {
+      "category": "music/uk/albums/year-end",
+      "question": "Top 10 best-selling albums in the UK in 2022 (year-end albums chart)",
+      "cutoff": 10,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1351660999 | table 7 | name: Title | value: No. | order: asc",
+      "tags": [
+        "music",
+        "uk",
+        "albums",
+        "charts",
+        "2020s"
+      ],
+      "answers": [
+        {
+          "answer": "Harry's House",
+          "display": "#1 — Harry Styles"
+        },
+        {
+          "answer": "Equals",
+          "display": "#2 — Ed Sheeran (=)",
+          "aliases": [
+            "Ed Sheeran Equals"
+          ]
+        },
+        {
+          "answer": "Midnights",
+          "display": "#3 — Taylor Swift"
+        },
+        {
+          "answer": "The Highlights",
+          "display": "#4 — The Weeknd"
+        },
+        {
+          "answer": "Sour",
+          "display": "#5 — Olivia Rodrigo"
+        },
+        {
+          "answer": "Curtain Call: The Hits",
+          "display": "#6 — Eminem",
+          "aliases": [
+            "Curtain Call"
+          ]
+        },
+        {
+          "answer": "Diamonds",
+          "display": "#7 — Elton John"
+        },
+        {
+          "answer": "50 Years – Don't Stop",
+          "display": "#8 — Fleetwood Mac",
+          "aliases": [
+            "50 Years - Don't Stop"
+          ]
+        },
+        {
+          "answer": "Between Us",
+          "display": "#9 — Little Mix"
+        },
+        {
+          "answer": "ABBA Gold",
+          "display": "#10 — ABBA"
+        },
+        {
+          "answer": "Greatest Hits",
+          "display": "#11 — Queen"
+        },
+        {
+          "answer": "Divide",
+          "display": "#12 — Ed Sheeran (÷)",
+          "aliases": [
+            "Ed Sheeran Divide"
+          ]
+        },
+        {
+          "answer": "AM",
+          "display": "#13 — Arctic Monkeys",
+          "aliases": [
+            "Arctic Monkeys AM"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "music/uk/albums/year-end",
+      "question": "Top 10 best-selling albums in the UK in 2023 (year-end albums chart)",
+      "cutoff": 10,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1379128140 | table 8 | name: Title | value: No. | order: asc",
+      "tags": [
+        "music",
+        "uk",
+        "albums",
+        "charts",
+        "2020s"
+      ],
+      "answers": [
+        {
+          "answer": "The Highlights",
+          "display": "#1 — The Weeknd"
+        },
+        {
+          "answer": "Midnights",
+          "display": "#2 — Taylor Swift"
+        },
+        {
+          "answer": "1989 (Taylor's Version)",
+          "display": "#3 — Taylor Swift"
+        },
+        {
+          "answer": "Diamonds",
+          "display": "#4 — Elton John"
+        },
+        {
+          "answer": "Harry's House",
+          "display": "#5 — Harry Styles"
+        },
+        {
+          "answer": "50 Years – Don't Stop",
+          "display": "#6 — Fleetwood Mac",
+          "aliases": [
+            "50 Years - Don't Stop"
+          ]
+        },
+        {
+          "answer": "Curtain Call: The Hits",
+          "display": "#7 — Eminem",
+          "aliases": [
+            "Curtain Call"
+          ]
+        },
+        {
+          "answer": "SOS",
+          "display": "#8 — SZA",
+          "aliases": [
+            "SZA SOS"
+          ]
+        },
+        {
+          "answer": "AM",
+          "display": "#9 — Arctic Monkeys",
+          "aliases": [
+            "Arctic Monkeys AM"
+          ]
+        },
+        {
+          "answer": "ABBA Gold",
+          "display": "#10 — ABBA"
+        },
+        {
+          "answer": "Lover",
+          "display": "#11 — Taylor Swift"
+        },
+        {
+          "answer": "1989",
+          "display": "#12 — Taylor Swift",
+          "aliases": [
+            "Taylor Swift 1989"
+          ]
+        },
+        {
+          "answer": "Folklore",
+          "display": "#13 — Taylor Swift"
+        }
+      ]
+    },
+    {
+      "category": "music/uk/albums/year-end",
+      "question": "Top 10 best-selling albums in the UK in 2024 (year-end albums chart)",
+      "cutoff": 10,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1377979440 | table 7 | name: Title | value: No. | order: asc",
+      "tags": [
+        "music",
+        "uk",
+        "albums",
+        "charts",
+        "2020s"
+      ],
+      "answers": [
+        {
+          "answer": "The Tortured Poets Department",
+          "display": "#1 — Taylor Swift",
+          "aliases": [
+            "Tortured Poets Department"
+          ]
+        },
+        {
+          "answer": "The Highlights",
+          "display": "#2 — The Weeknd"
+        },
+        {
+          "answer": "Short n' Sweet",
+          "display": "#3 — Sabrina Carpenter"
+        },
+        {
+          "answer": "Stick Season",
+          "display": "#4 — Noah Kahan"
+        },
+        {
+          "answer": "Hit Me Hard and Soft",
+          "display": "#5 — Billie Eilish"
+        },
+        {
+          "answer": "The Rise and Fall of a Midwest Princess",
+          "display": "#6 — Chappell Roan",
+          "aliases": [
+            "Rise and Fall of a Midwest Princess"
+          ]
+        },
+        {
+          "answer": "50 Years – Don't Stop",
+          "display": "#7 — Fleetwood Mac",
+          "aliases": [
+            "50 Years - Don't Stop"
+          ]
+        },
+        {
+          "answer": "Brat",
+          "display": "#8 — Charli XCX"
+        },
+        {
+          "answer": "Moon Music",
+          "display": "#9 — Coldplay"
+        },
+        {
+          "answer": "Guts",
+          "display": "#10 — Olivia Rodrigo"
+        },
+        {
+          "answer": "Time Flies... 1994-2009",
+          "display": "#11 — Oasis",
+          "aliases": [
+            "Time Flies 1994-2009"
+          ]
+        },
+        {
+          "answer": "Diamonds",
+          "display": "#12 — Elton John"
+        },
+        {
+          "answer": "Curtain Call: The Hits",
+          "display": "#13 — Eminem",
+          "aliases": [
+            "Curtain Call"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "music/uk/albums/year-end",
+      "question": "Top 10 best-selling albums in the UK in 2025 (year-end albums chart)",
+      "cutoff": 10,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1372050216 | table 7 | name: Title | value: No. | order: asc",
+      "tags": [
+        "music",
+        "uk",
+        "albums",
+        "charts",
+        "2020s"
+      ],
+      "answers": [
+        {
+          "answer": "The Life of a Showgirl",
+          "display": "#1 — Taylor Swift",
+          "aliases": [
+            "Life of a Showgirl"
+          ]
+        },
+        {
+          "answer": "Short n' Sweet",
+          "display": "#2 — Sabrina Carpenter"
+        },
+        {
+          "answer": "+−=÷× (Tour Collection)",
+          "display": "#3 — Ed Sheeran",
+          "aliases": [
+            "+-=÷× (Tour Collection)",
+            "Tour Collection"
+          ]
+        },
+        {
+          "answer": "Time Flies... 1994-2009",
+          "display": "#4 — Oasis",
+          "aliases": [
+            "Time Flies 1994-2009"
+          ]
+        },
+        {
+          "answer": "50 Years - Don't Stop",
+          "display": "#5 — Fleetwood Mac"
+        },
+        {
+          "answer": "The Highlights",
+          "display": "#6 — The Weeknd"
+        },
+        {
+          "answer": "(What's the Story) Morning Glory?",
+          "display": "#7 — Oasis",
+          "aliases": [
+            "What's the Story Morning Glory?",
+            "(What's the Story) Morning Glory"
+          ]
+        },
+        {
+          "answer": "Man's Best Friend",
+          "display": "#8 — Sabrina Carpenter"
+        },
+        {
+          "answer": "You'll Be Alright, Kid",
+          "display": "#9 — Alex Warren"
+        },
+        {
+          "answer": "People Watching",
+          "display": "#10 — Sam Fender"
+        },
+        {
+          "answer": "The Art of Loving",
+          "display": "#11 — Olivia Dean",
+          "aliases": [
+            "Art of Loving"
+          ]
+        },
+        {
+          "answer": "Diamonds",
+          "display": "#12 — Elton John"
+        },
+        {
+          "answer": "The Rise and Fall of a Midwest Princess",
+          "display": "#13 — Chappell Roan",
+          "aliases": [
+            "Rise and Fall of a Midwest Princess"
+          ]
+        }
+      ]
+    }
+  ]
+}

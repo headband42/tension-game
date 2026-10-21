@@ -1,0 +1,425 @@
+{
+  "questions": [
+    {
+      "category": "nature/animals/fish",
+      "difficulty": 2,
+      "question": "Top 10 largest fish by known maximum mass",
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1377816216 | table 1 | name: Name | value: Known maximum mass",
+      "tags": [
+        "nature",
+        "animals",
+        "fish",
+        "size"
+      ],
+      "answers": [
+        {
+          "answer": "Whale shark",
+          "display": "21.5 tonnes"
+        },
+        {
+          "answer": "Basking shark",
+          "display": "16 tonnes"
+        },
+        {
+          "answer": "Great white shark",
+          "display": "3.324 tonnes"
+        },
+        {
+          "answer": "Tiger shark",
+          "display": "3.11 tonnes"
+        },
+        {
+          "answer": "Giant oceanic manta ray",
+          "display": "3 tonnes",
+          "aliases": [
+            "manta ray",
+            "giant manta ray"
+          ]
+        },
+        {
+          "answer": "Giant sunfish",
+          "display": "2.744 tonnes"
+        },
+        {
+          "answer": "Ocean sunfish",
+          "display": "2.3 tonnes",
+          "aliases": [
+            "sunfish"
+          ]
+        },
+        {
+          "answer": "Beluga sturgeon",
+          "display": "2.072 tonnes"
+        },
+        {
+          "answer": "Sharptail mola",
+          "display": "2 tonnes"
+        },
+        {
+          "answer": "Hoodwinker sunfish",
+          "display": "1.87 tonnes"
+        },
+        {
+          "answer": "Reef manta ray",
+          "display": "1.4 tonnes"
+        },
+        {
+          "answer": "Greenland shark",
+          "display": "1.397 tonnes"
+        },
+        {
+          "answer": "Megamouth shark",
+          "display": "1.215 tonnes"
+        },
+        {
+          "answer": "Kaluga",
+          "display": "1.14 tonnes"
+        }
+      ]
+    },
+    {
+      "category": "nature/animals/reptiles",
+      "difficulty": 2,
+      "question": "Top 10 largest reptiles by maximum mass (kg)",
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1379122586 | table 1 | name: Species | value: Maximum mass",
+      "tags": [
+        "nature",
+        "animals",
+        "reptiles",
+        "size"
+      ],
+      "answers": [
+        {
+          "answer": "Saltwater crocodile",
+          "display": "2,000 kg",
+          "aliases": [
+            "crocodile"
+          ]
+        },
+        {
+          "answer": "American crocodile",
+          "display": "1,283 kg"
+        },
+        {
+          "answer": "Orinoco crocodile",
+          "display": "1,100 kg"
+        },
+        {
+          "answer": "Black caiman",
+          "display": "1,100 kg"
+        },
+        {
+          "answer": "Nile crocodile",
+          "display": "1,090 kg"
+        },
+        {
+          "answer": "American alligator",
+          "display": "1,000 kg"
+        },
+        {
+          "answer": "Gharial",
+          "display": "1,000 kg"
+        },
+        {
+          "answer": "Leatherback sea turtle",
+          "display": "961.1 kg"
+        },
+        {
+          "answer": "False gharial",
+          "display": "800 kg"
+        },
+        {
+          "answer": "Mugger crocodile",
+          "display": "700 kg"
+        },
+        {
+          "answer": "Slender-snouted crocodile",
+          "display": "667 kg"
+        },
+        {
+          "answer": "Loggerhead sea turtle",
+          "display": "545 kg"
+        },
+        {
+          "answer": "Green sea turtle",
+          "display": "500 kg"
+        },
+        {
+          "answer": "Galapagos tortoise",
+          "display": "417 kg"
+        },
+        {
+          "answer": "Aldabra giant tortoise",
+          "display": "360 kg"
+        }
+      ]
+    },
+    {
+      "category": "nature/animals/mammals",
+      "difficulty": 2,
+      "question": "Top 7 heaviest land animals by average mass (tonnes)",
+      "submitter": "claude",
+      "cutoff": 7,
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1379182201 | table 2 | name: Animal | value: Average mass",
+      "tags": [
+        "nature",
+        "animals",
+        "mammals",
+        "size"
+      ],
+      "answers": [
+        {
+          "answer": "African bush elephant",
+          "display": "6 tonnes",
+          "aliases": [
+            "elephant"
+          ]
+        },
+        {
+          "answer": "Asian elephant",
+          "display": "4 tonnes"
+        },
+        {
+          "answer": "African forest elephant",
+          "display": "2.7 tonnes"
+        },
+        {
+          "answer": "White rhinoceros",
+          "display": "2 tonnes"
+        },
+        {
+          "answer": "Indian rhinoceros",
+          "display": "1.9 tonnes"
+        },
+        {
+          "answer": "Hippopotamus",
+          "display": "1.8 tonnes",
+          "aliases": [
+            "hippo"
+          ]
+        },
+        {
+          "answer": "Javan rhinoceros",
+          "display": "1.75 tonnes"
+        },
+        {
+          "answer": "Black rhinoceros",
+          "display": "1.1 tonnes"
+        },
+        {
+          "answer": "Giraffe",
+          "display": "1 tonne"
+        },
+        {
+          "answer": "Gaur",
+          "display": "0.95 tonnes"
+        }
+      ]
+    },
+    {
+      "category": "nature/animals/birds",
+      "difficulty": 3,
+      "question": "Top 7 heaviest flightless birds by maximum mass (kg)",
+      "submitter": "claude",
+      "cutoff": 7,
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1379182201 | table 5 | name: Animal | value: Maximum mass | where: Flighted=No",
+      "tags": [
+        "nature",
+        "animals",
+        "birds",
+        "size"
+      ],
+      "answers": [
+        {
+          "answer": "Common ostrich",
+          "display": "156.8 kg",
+          "aliases": [
+            "ostrich"
+          ]
+        },
+        {
+          "answer": "Somali ostrich",
+          "display": "130 kg"
+        },
+        {
+          "answer": "Southern cassowary",
+          "display": "85 kg",
+          "aliases": [
+            "cassowary"
+          ]
+        },
+        {
+          "answer": "Northern cassowary",
+          "display": "75 kg"
+        },
+        {
+          "answer": "Emu",
+          "display": "70 kg"
+        },
+        {
+          "answer": "Emperor penguin",
+          "display": "46 kg"
+        },
+        {
+          "answer": "Greater rhea",
+          "display": "40 kg",
+          "aliases": [
+            "rhea"
+          ]
+        },
+        {
+          "answer": "Dwarf cassowary",
+          "display": "34 kg"
+        },
+        {
+          "answer": "Lesser rhea",
+          "display": "28.6 kg"
+        },
+        {
+          "answer": "King penguin",
+          "display": "20 kg"
+        }
+      ]
+    },
+    {
+      "category": "nature/animals/mammals",
+      "difficulty": 3,
+      "question": "Top 8 largest living rodents by maximum body mass (kg)",
+      "submitter": "claude",
+      "cutoff": 8,
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1373066133 | table 1 | name: Common name | value: Maximum body mass | where: Status!=Fossil",
+      "tags": [
+        "nature",
+        "animals",
+        "mammals",
+        "rodents",
+        "size"
+      ],
+      "answers": [
+        {
+          "answer": "Greater capybara",
+          "display": "91.2 kg",
+          "aliases": [
+            "capybara"
+          ]
+        },
+        {
+          "answer": "North American beaver",
+          "display": "50 kg",
+          "aliases": [
+            "beaver"
+          ]
+        },
+        {
+          "answer": "Eurasian beaver",
+          "display": "30 kg"
+        },
+        {
+          "answer": "Cape porcupine",
+          "display": "30 kg"
+        },
+        {
+          "answer": "Lesser capybara",
+          "display": "28 kg"
+        },
+        {
+          "answer": "Crested porcupine",
+          "display": "27 kg"
+        },
+        {
+          "answer": "North American porcupine",
+          "display": "18 kg",
+          "aliases": [
+            "porcupine"
+          ]
+        },
+        {
+          "answer": "Indian crested porcupine",
+          "display": "18 kg"
+        },
+        {
+          "answer": "Coypu",
+          "display": "17 kg"
+        },
+        {
+          "answer": "Patagonian mara",
+          "display": "16 kg"
+        },
+        {
+          "answer": "Pacarana",
+          "display": "15 kg"
+        },
+        {
+          "answer": "Paca",
+          "display": "6–14 kg"
+        }
+      ]
+    },
+    {
+      "category": "nature/animals/mammals",
+      "difficulty": 1,
+      "question": "Top 7 largest cat species by maximum length (m)",
+      "submitter": "claude",
+      "cutoff": 7,
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1373687542 | table 1 | name: Common name | value: Maximum length",
+      "tags": [
+        "nature",
+        "animals",
+        "mammals",
+        "cats",
+        "size"
+      ],
+      "answers": [
+        {
+          "answer": "Tiger",
+          "display": "4.0 m"
+        },
+        {
+          "answer": "Lion",
+          "display": "3.9 m"
+        },
+        {
+          "answer": "Jaguar",
+          "display": "2.8 m"
+        },
+        {
+          "answer": "Cougar",
+          "display": "2.8 m",
+          "aliases": [
+            "puma",
+            "mountain lion"
+          ]
+        },
+        {
+          "answer": "Leopard",
+          "display": "2.75 m"
+        },
+        {
+          "answer": "Cheetah",
+          "display": "2.5 m"
+        },
+        {
+          "answer": "Snow leopard",
+          "display": "2.5 m"
+        },
+        {
+          "answer": "Clouded leopard",
+          "display": "1.9 m"
+        },
+        {
+          "answer": "Eurasian lynx",
+          "display": "1.5 m",
+          "aliases": [
+            "lynx"
+          ]
+        },
+        {
+          "answer": "Bobcat",
+          "display": "1.30 m"
+        }
+      ]
+    }
+  ]
+}

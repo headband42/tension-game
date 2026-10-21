@@ -1,0 +1,723 @@
+{
+  "categories": [
+    {
+      "path": "economy/countries/gdp",
+      "name": "GDP"
+    },
+    {
+      "path": "economy/countries/trade",
+      "name": "Trade"
+    },
+    {
+      "path": "economy/countries/debt",
+      "name": "Government Debt"
+    },
+    {
+      "path": "economy/countries/reserves",
+      "name": "Reserves"
+    }
+  ],
+  "questions": [
+    {
+      "category": "economy/countries/gdp",
+      "question": "Top 10 economies by nominal GDP (IMF, 2026)",
+      "cutoff": 10,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1376452483 | table 1 | name: Country/Territory | value: IMF (2026) | where: Country/Territory!=World",
+      "tags": [
+        "economy",
+        "gdp",
+        "countries"
+      ],
+      "answers": [
+        {
+          "answer": "United States",
+          "display": "$32,383,920m",
+          "aliases": [
+            "USA",
+            "US",
+            "America"
+          ]
+        },
+        {
+          "answer": "China",
+          "display": "$20,851,593m"
+        },
+        {
+          "answer": "Germany",
+          "display": "$5,452,858m"
+        },
+        {
+          "answer": "Japan",
+          "display": "$4,379,253m"
+        },
+        {
+          "answer": "United Kingdom",
+          "display": "$4,264,794m",
+          "aliases": [
+            "UK",
+            "Britain"
+          ]
+        },
+        {
+          "answer": "India",
+          "display": "$4,153,191m"
+        },
+        {
+          "answer": "France",
+          "display": "$3,596,094m"
+        },
+        {
+          "answer": "Italy",
+          "display": "$2,738,164m"
+        },
+        {
+          "answer": "Russia",
+          "display": "$2,656,452m"
+        },
+        {
+          "answer": "Brazil",
+          "display": "$2,635,912m"
+        },
+        {
+          "answer": "Canada",
+          "display": "$2,507,340m"
+        },
+        {
+          "answer": "Australia",
+          "display": "$2,123,963m"
+        },
+        {
+          "answer": "Mexico",
+          "display": "$2,120,855m"
+        }
+      ]
+    },
+    {
+      "category": "economy/countries/gdp",
+      "question": "Top 10 countries and territories by GDP per capita (IMF, 2026)",
+      "cutoff": 10,
+      "difficulty": 3,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1379092433 | table 1 | name: Country/Territory | value: IMF (2026) | where: Country/Territory!=World",
+      "tags": [
+        "economy",
+        "gdp-per-capita",
+        "countries"
+      ],
+      "answers": [
+        {
+          "answer": "Liechtenstein",
+          "display": "$226,809"
+        },
+        {
+          "answer": "Luxembourg",
+          "display": "$158,733"
+        },
+        {
+          "answer": "Ireland",
+          "display": "$140,186"
+        },
+        {
+          "answer": "Switzerland",
+          "display": "$126,177"
+        },
+        {
+          "answer": "Iceland",
+          "display": "$110,048"
+        },
+        {
+          "answer": "Singapore",
+          "display": "$107,758"
+        },
+        {
+          "answer": "Norway",
+          "display": "$105,877"
+        },
+        {
+          "answer": "United States",
+          "display": "$94,430",
+          "aliases": [
+            "USA",
+            "US",
+            "America"
+          ]
+        },
+        {
+          "answer": "Denmark",
+          "display": "$83,445"
+        },
+        {
+          "answer": "Netherlands",
+          "display": "$79,918",
+          "aliases": [
+            "Holland"
+          ]
+        },
+        {
+          "answer": "Macau",
+          "display": "$76,446"
+        },
+        {
+          "answer": "Australia",
+          "display": "$75,648"
+        },
+        {
+          "answer": "Sweden",
+          "display": "$70,676"
+        }
+      ]
+    },
+    {
+      "category": "economy/countries/trade",
+      "question": "Top 10 exporters by exports of goods and services (latest year reported, 2023–2025)",
+      "cutoff": 10,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1378029021 | table 1 | name: Country | value: Exports",
+      "tags": [
+        "economy",
+        "trade",
+        "exports"
+      ],
+      "answers": [
+        {
+          "answer": "China",
+          "display": "$3,792,951m"
+        },
+        {
+          "answer": "United States",
+          "display": "$3,232,522m",
+          "aliases": [
+            "USA",
+            "US",
+            "America"
+          ]
+        },
+        {
+          "answer": "Germany",
+          "display": "$1,939,702m"
+        },
+        {
+          "answer": "United Kingdom",
+          "display": "$1,142,412m",
+          "aliases": [
+            "UK",
+            "Britain"
+          ]
+        },
+        {
+          "answer": "France",
+          "display": "$1,070,900m"
+        },
+        {
+          "answer": "Netherlands",
+          "display": "$1,001,166m",
+          "aliases": [
+            "Holland"
+          ]
+        },
+        {
+          "answer": "Singapore",
+          "display": "$978,597m"
+        },
+        {
+          "answer": "Japan",
+          "display": "$922,447m"
+        },
+        {
+          "answer": "Ireland",
+          "display": "$882,292m"
+        },
+        {
+          "answer": "India",
+          "display": "$863,100m"
+        },
+        {
+          "answer": "South Korea",
+          "display": "$835,148m"
+        },
+        {
+          "answer": "Italy",
+          "display": "$775,983m"
+        },
+        {
+          "answer": "Hong Kong",
+          "display": "$739,915m"
+        }
+      ]
+    },
+    {
+      "category": "economy/countries/trade",
+      "question": "Top 10 countries by exports of goods and services whose top goods export is a petroleum product (latest year reported, 2023–2025)",
+      "cutoff": 10,
+      "difficulty": 3,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1378029021 | table 1 | name: Country | value: Exports | where: Top goods export~[Pp]etrol",
+      "tags": [
+        "economy",
+        "trade",
+        "exports",
+        "oil"
+      ],
+      "answers": [
+        {
+          "answer": "United States",
+          "display": "$3,232,522m",
+          "aliases": [
+            "USA",
+            "US",
+            "America"
+          ]
+        },
+        {
+          "answer": "Netherlands",
+          "display": "$1,001,166m",
+          "aliases": [
+            "Holland"
+          ]
+        },
+        {
+          "answer": "India",
+          "display": "$863,100m"
+        },
+        {
+          "answer": "Canada",
+          "display": "$727,830m"
+        },
+        {
+          "answer": "United Arab Emirates",
+          "display": "$558,400m",
+          "aliases": [
+            "UAE"
+          ]
+        },
+        {
+          "answer": "Russia",
+          "display": "$475,277m"
+        },
+        {
+          "answer": "Saudi Arabia",
+          "display": "$360,897m"
+        },
+        {
+          "answer": "Norway",
+          "display": "$229,205m"
+        },
+        {
+          "answer": "Qatar",
+          "display": "$125,216m"
+        },
+        {
+          "answer": "Greece",
+          "display": "$108,423m"
+        },
+        {
+          "answer": "Iraq",
+          "display": "$107,851m"
+        },
+        {
+          "answer": "Kazakhstan",
+          "display": "$91,908m"
+        },
+        {
+          "answer": "Kuwait",
+          "display": "$89,709m"
+        },
+        {
+          "answer": "Colombia",
+          "display": "$68,866m"
+        },
+        {
+          "answer": "Oman",
+          "display": "$64,749m"
+        }
+      ]
+    },
+    {
+      "category": "economy/countries/debt",
+      "question": "Top 10 countries by government gross debt as % of GDP (2025)",
+      "cutoff": 10,
+      "difficulty": 3,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1375965089 | table 1 | name: Country and region | value: General government gross debt (2025)",
+      "tags": [
+        "economy",
+        "debt",
+        "countries"
+      ],
+      "answers": [
+        {
+          "answer": "Venezuela",
+          "display": "308.7%"
+        },
+        {
+          "answer": "Japan",
+          "display": "206.5%"
+        },
+        {
+          "answer": "Sudan",
+          "display": "187.6%"
+        },
+        {
+          "answer": "Singapore",
+          "display": "171.3%"
+        },
+        {
+          "answer": "Bahrain",
+          "display": "147.6%"
+        },
+        {
+          "answer": "Greece",
+          "display": "145.7%"
+        },
+        {
+          "answer": "Lebanon",
+          "display": "139.4%"
+        },
+        {
+          "answer": "Italy",
+          "display": "137.1%"
+        },
+        {
+          "answer": "Senegal",
+          "display": "130.2%"
+        },
+        {
+          "answer": "Maldives",
+          "display": "125.4%"
+        },
+        {
+          "answer": "United States",
+          "display": "123.9%",
+          "aliases": [
+            "USA",
+            "US",
+            "America"
+          ]
+        },
+        {
+          "answer": "France",
+          "display": "116.0%"
+        },
+        {
+          "answer": "Canada",
+          "display": "113.5%"
+        }
+      ]
+    },
+    {
+      "category": "economy/countries/debt",
+      "question": "Top 10 countries by net government debt as % of GDP (2025)",
+      "cutoff": 10,
+      "difficulty": 3,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1375965089 | table 1 | name: Country and region | value: net debt",
+      "tags": [
+        "economy",
+        "debt",
+        "countries"
+      ],
+      "answers": [
+        {
+          "answer": "Japan",
+          "display": "136.5%"
+        },
+        {
+          "answer": "Lebanon",
+          "display": "131.4%"
+        },
+        {
+          "answer": "Italy",
+          "display": "127.7%"
+        },
+        {
+          "answer": "France",
+          "display": "108.8%"
+        },
+        {
+          "answer": "United States",
+          "display": "96.7%",
+          "aliases": [
+            "USA",
+            "US",
+            "America"
+          ]
+        },
+        {
+          "answer": "United Kingdom",
+          "display": "93.8%",
+          "aliases": [
+            "UK",
+            "Britain"
+          ]
+        },
+        {
+          "answer": "Barbados",
+          "display": "93.5%"
+        },
+        {
+          "answer": "Belgium",
+          "display": "93.3%"
+        },
+        {
+          "answer": "Cape Verde",
+          "display": "89.7%"
+        },
+        {
+          "answer": "Portugal",
+          "display": "85.6%"
+        },
+        {
+          "answer": "Spain",
+          "display": "85.0%"
+        },
+        {
+          "answer": "Egypt",
+          "display": "82.2%"
+        },
+        {
+          "answer": "Zambia",
+          "display": "81.0%"
+        },
+        {
+          "answer": "Bolivia",
+          "display": "76.1%"
+        }
+      ]
+    },
+    {
+      "category": "economy/countries/debt",
+      "question": "Top 10 countries by total external debt stock (World Bank, 2023)",
+      "cutoff": 10,
+      "difficulty": 3,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1370385899 | table 2 | name: Country | value: 2 | header rows: 2",
+      "tags": [
+        "economy",
+        "debt",
+        "external-debt"
+      ],
+      "answers": [
+        {
+          "answer": "China",
+          "display": "$2,420,211m"
+        },
+        {
+          "answer": "India",
+          "display": "$646,787m"
+        },
+        {
+          "answer": "Brazil",
+          "display": "$607,115m"
+        },
+        {
+          "answer": "Mexico",
+          "display": "$595,918m"
+        },
+        {
+          "answer": "Turkey",
+          "display": "$499,842m",
+          "aliases": [
+            "Türkiye"
+          ]
+        },
+        {
+          "answer": "Indonesia",
+          "display": "$406,054m"
+        },
+        {
+          "answer": "Argentina",
+          "display": "$266,167m"
+        },
+        {
+          "answer": "Colombia",
+          "display": "$197,505m"
+        },
+        {
+          "answer": "Thailand",
+          "display": "$193,626m"
+        },
+        {
+          "answer": "Ukraine",
+          "display": "$176,645m"
+        },
+        {
+          "answer": "Egypt",
+          "display": "$168,062m"
+        },
+        {
+          "answer": "South Africa",
+          "display": "$165,787m"
+        },
+        {
+          "answer": "Kazakhstan",
+          "display": "$163,155m"
+        },
+        {
+          "answer": "Vietnam",
+          "display": "$141,850m"
+        },
+        {
+          "answer": "Pakistan",
+          "display": "$130,847m"
+        }
+      ]
+    },
+    {
+      "category": "economy/countries/reserves",
+      "question": "Top 10 countries by gold reserves in metric tonnes (as of Q2 2026)",
+      "cutoff": 10,
+      "difficulty": 3,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1378981298 | table 1 | name: Country/Organization | value: tonnes | where: Country/Organization!=International Monetary Fund | where: Country/Organization!=World | where: Country/Organization!~Euro",
+      "tags": [
+        "economy",
+        "reserves",
+        "gold"
+      ],
+      "answers": [
+        {
+          "answer": "United States",
+          "display": "8,133.54 t",
+          "aliases": [
+            "USA",
+            "US",
+            "America"
+          ]
+        },
+        {
+          "answer": "Germany",
+          "display": "3,350.3 t"
+        },
+        {
+          "answer": "Italy",
+          "display": "2,451.8 t"
+        },
+        {
+          "answer": "France",
+          "display": "2,437.0 t"
+        },
+        {
+          "answer": "China",
+          "display": "2,409.6 t"
+        },
+        {
+          "answer": "Russia",
+          "display": "2,283.8 t"
+        },
+        {
+          "answer": "Switzerland",
+          "display": "1,039.9 t"
+        },
+        {
+          "answer": "India",
+          "display": "880.5 t"
+        },
+        {
+          "answer": "Japan",
+          "display": "845.9 t"
+        },
+        {
+          "answer": "Poland",
+          "display": "640.6 t"
+        },
+        {
+          "answer": "Netherlands",
+          "display": "612.5 t",
+          "aliases": [
+            "Holland"
+          ]
+        },
+        {
+          "answer": "Turkey",
+          "display": "530.6 t",
+          "aliases": [
+            "Türkiye"
+          ]
+        },
+        {
+          "answer": "Uzbekistan",
+          "display": "431.7 t"
+        }
+      ]
+    },
+    {
+      "category": "economy/countries/reserves",
+      "question": "Top 10 gold holders whose names end in the letter A (as of Q2 2026, metric tonnes)",
+      "cutoff": 10,
+      "difficulty": 3,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1378981298 | table 1 | name: Country/Organization | value: tonnes | where: Country/Organization!=International Monetary Fund | where: Country/Organization!=World | where: Country/Organization!~Euro | where: Country/Organization~a$",
+      "tags": [
+        "economy",
+        "reserves",
+        "gold",
+        "twist"
+      ],
+      "answers": [
+        {
+          "answer": "China",
+          "display": "2,409.6 t"
+        },
+        {
+          "answer": "Russia",
+          "display": "2,283.8 t"
+        },
+        {
+          "answer": "India",
+          "display": "880.5 t"
+        },
+        {
+          "answer": "Saudi Arabia",
+          "display": "323.3 t"
+        },
+        {
+          "answer": "Austria",
+          "display": "280.2 t"
+        },
+        {
+          "answer": "Algeria",
+          "display": "173.6 t"
+        },
+        {
+          "answer": "Libya",
+          "display": "146.6 t"
+        },
+        {
+          "answer": "South Africa",
+          "display": "125.5 t"
+        },
+        {
+          "answer": "South Korea",
+          "display": "104.4 t"
+        },
+        {
+          "answer": "Romania",
+          "display": "103.6 t"
+        },
+        {
+          "answer": "Indonesia",
+          "display": "87.1 t"
+        },
+        {
+          "answer": "Australia",
+          "display": "79.8 t"
+        },
+        {
+          "answer": "Argentina",
+          "display": "61.7 t"
+        },
+        {
+          "answer": "Serbia",
+          "display": "55.0 t"
+        },
+        {
+          "answer": "Cambodia",
+          "display": "54.4 t"
+        }
+      ]
+    }
+  ]
+}

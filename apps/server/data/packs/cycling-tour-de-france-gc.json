@@ -1,0 +1,5001 @@
+{
+  "categories": [
+    {
+      "path": "sports/cycling/tour-de-france",
+      "name": "Tour de France"
+    }
+  ],
+  "questions": [
+    {
+      "category": "sports/cycling/tour-de-france",
+      "question": "Top 10 riders in the final general classification of the 1949 Tour de France",
+      "cutoff": 10,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1362963207 | table 3+4 | name: Rider | value: Rank | order: asc",
+      "tags": [
+        "cycling",
+        "tour de france",
+        "general classification",
+        "1949"
+      ],
+      "answers": [
+        {
+          "answer": "Fausto Coppi",
+          "display": "#1 — 149h 40' 49\"",
+          "aliases": [
+            "Coppi"
+          ]
+        },
+        {
+          "answer": "Gino Bartali",
+          "display": "#2 — + 10' 55\"",
+          "aliases": [
+            "Bartali"
+          ]
+        },
+        {
+          "answer": "Jacques Marinelli",
+          "display": "#3 — + 25' 13\"",
+          "aliases": [
+            "Marinelli"
+          ]
+        },
+        {
+          "answer": "Jean Robic",
+          "display": "#4 — + 34' 28\"",
+          "aliases": [
+            "Robic"
+          ]
+        },
+        {
+          "answer": "Marcel Dupont",
+          "display": "#5 — + 38' 59\"",
+          "aliases": [
+            "Dupont"
+          ]
+        },
+        {
+          "answer": "Fiorenzo Magni",
+          "display": "#6 — + 42' 10\"",
+          "aliases": [
+            "Magni"
+          ]
+        },
+        {
+          "answer": "Stan Ockers",
+          "display": "#7 — + 44' 35\"",
+          "aliases": [
+            "Ockers"
+          ]
+        },
+        {
+          "answer": "Jean Goldschmit",
+          "display": "#8 — + 47' 24\"",
+          "aliases": [
+            "Goldschmit"
+          ]
+        },
+        {
+          "answer": "Apo Lazaridès",
+          "display": "#9 — + 52' 28\"",
+          "aliases": [
+            "Lazaridès"
+          ]
+        },
+        {
+          "answer": "Pierre Cogan",
+          "display": "#10 — + 1h 08' 55\"",
+          "aliases": [
+            "Cogan"
+          ]
+        },
+        {
+          "answer": "Roger Lambrecht",
+          "display": "#11 — + 1h 17' 21\"",
+          "aliases": [
+            "Lambrecht"
+          ]
+        },
+        {
+          "answer": "Gino Sciardis",
+          "display": "#12 — + 1h 22' 01\"",
+          "aliases": [
+            "Sciardis"
+          ]
+        },
+        {
+          "answer": "Jean Kirchen",
+          "display": "#13 — + 1h 28' 14\"",
+          "aliases": [
+            "Kirchen"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/cycling/tour-de-france",
+      "question": "Top 10 riders in the final general classification of the 1950 Tour de France",
+      "cutoff": 10,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1307512659 | table 4+5 | name: Rider | value: Rank | order: asc",
+      "tags": [
+        "cycling",
+        "tour de france",
+        "general classification",
+        "1950"
+      ],
+      "answers": [
+        {
+          "answer": "Ferdinand Kübler",
+          "display": "#1 — 145h 36' 56\"",
+          "aliases": [
+            "Kübler"
+          ]
+        },
+        {
+          "answer": "Stan Ockers",
+          "display": "#2 — + 9' 30\"",
+          "aliases": [
+            "Ockers"
+          ]
+        },
+        {
+          "answer": "Louison Bobet",
+          "display": "#3 — + 22' 19\"",
+          "aliases": [
+            "Bobet"
+          ]
+        },
+        {
+          "answer": "Raphaël Géminiani",
+          "display": "#4 — + 31' 14\"",
+          "aliases": [
+            "Géminiani"
+          ]
+        },
+        {
+          "answer": "Jean Kirchen",
+          "display": "#5 — + 34' 21\"",
+          "aliases": [
+            "Kirchen"
+          ]
+        },
+        {
+          "answer": "Kléber Piot",
+          "display": "#6 — + 41' 35\"",
+          "aliases": [
+            "Piot"
+          ]
+        },
+        {
+          "answer": "Pierre Cogan",
+          "display": "#7 — + 52' 22\"",
+          "aliases": [
+            "Cogan"
+          ]
+        },
+        {
+          "answer": "Raymond Impanis",
+          "display": "#8 — + 53' 34\"",
+          "aliases": [
+            "Impanis"
+          ]
+        },
+        {
+          "answer": "Georges Meunier",
+          "display": "#9 — + 54' 29\"",
+          "aliases": [
+            "Meunier"
+          ]
+        },
+        {
+          "answer": "Jean Goldschmit",
+          "display": "#10 — + 55' 21\"",
+          "aliases": [
+            "Goldschmit"
+          ]
+        },
+        {
+          "answer": "Pierre Brambilla",
+          "display": "#11 — + 57' 14\"",
+          "aliases": [
+            "Brambilla"
+          ]
+        },
+        {
+          "answer": "Jean Robic",
+          "display": "#12 — + 59' 45\"",
+          "aliases": [
+            "Robic"
+          ]
+        },
+        {
+          "answer": "Roger Lambrecht",
+          "display": "#13 — + 1h 00' 29\"",
+          "aliases": [
+            "Lambrecht"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/cycling/tour-de-france",
+      "question": "Top 10 riders in the final general classification of the 1951 Tour de France",
+      "cutoff": 10,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1363037364 | table 3+4 | name: Rider | value: Rank | order: asc",
+      "tags": [
+        "cycling",
+        "tour de france",
+        "general classification",
+        "1951"
+      ],
+      "answers": [
+        {
+          "answer": "Hugo Koblet",
+          "display": "#1 — 142h 20' 14\"",
+          "aliases": [
+            "Koblet"
+          ]
+        },
+        {
+          "answer": "Raphaël Géminiani",
+          "display": "#2 — + 22' 00\"",
+          "aliases": [
+            "Géminiani"
+          ]
+        },
+        {
+          "answer": "Lucien Lazaridès",
+          "display": "#3 — + 24' 16\"",
+          "aliases": [
+            "Lazaridès"
+          ]
+        },
+        {
+          "answer": "Gino Bartali",
+          "display": "#4 — + 29' 09\"",
+          "aliases": [
+            "Bartali"
+          ]
+        },
+        {
+          "answer": "Stan Ockers",
+          "display": "#5 — + 32' 53\"",
+          "aliases": [
+            "Ockers"
+          ]
+        },
+        {
+          "answer": "Pierre Barbotin",
+          "display": "#6 — + 36' 40\"",
+          "aliases": [
+            "Barbotin"
+          ]
+        },
+        {
+          "answer": "Fiorenzo Magni",
+          "display": "#7 — + 39' 14\"",
+          "aliases": [
+            "Magni"
+          ]
+        },
+        {
+          "answer": "Gilbert Bauvin",
+          "display": "#8 — + 45' 53\"",
+          "aliases": [
+            "Bauvin"
+          ]
+        },
+        {
+          "answer": "Bernardo Ruiz",
+          "display": "#9 — + 45' 55\"",
+          "aliases": [
+            "Ruiz"
+          ]
+        },
+        {
+          "answer": "Fausto Coppi",
+          "display": "#10 — + 46' 51\"",
+          "aliases": [
+            "Coppi"
+          ]
+        },
+        {
+          "answer": "Nello Lauredi",
+          "display": "#11 — + 57' 19\"",
+          "aliases": [
+            "Lauredi"
+          ]
+        },
+        {
+          "answer": "Jean Diederich",
+          "display": "#12 — + 59' 29\"",
+          "aliases": [
+            "Diederich"
+          ]
+        },
+        {
+          "answer": "Marcel De Mulder",
+          "display": "#13 — + 1h 04' 18\"",
+          "aliases": [
+            "Mulder"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/cycling/tour-de-france",
+      "question": "Top 10 riders in the final general classification of the 1952 Tour de France",
+      "cutoff": 10,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1292275654 | table 3+4 | name: Rider | value: Rank | order: asc",
+      "tags": [
+        "cycling",
+        "tour de france",
+        "general classification",
+        "1952"
+      ],
+      "answers": [
+        {
+          "answer": "Fausto Coppi",
+          "display": "#1 — 151h 57' 20\"",
+          "aliases": [
+            "Coppi"
+          ]
+        },
+        {
+          "answer": "Stan Ockers",
+          "display": "#2 — + 28' 17\"",
+          "aliases": [
+            "Ockers"
+          ]
+        },
+        {
+          "answer": "Bernardo Ruiz",
+          "display": "#3 — + 34' 38\"",
+          "aliases": [
+            "Ruiz"
+          ]
+        },
+        {
+          "answer": "Gino Bartali",
+          "display": "#4 — + 35' 25\"",
+          "aliases": [
+            "Bartali"
+          ]
+        },
+        {
+          "answer": "Jean Robic",
+          "display": "#5 — + 35' 36\"",
+          "aliases": [
+            "Robic"
+          ]
+        },
+        {
+          "answer": "Fiorenzo Magni",
+          "display": "#6 — + 38' 25\"",
+          "aliases": [
+            "Magni"
+          ]
+        },
+        {
+          "answer": "Alex Close",
+          "display": "#7 — + 38' 32\"",
+          "aliases": [
+            "Close"
+          ]
+        },
+        {
+          "answer": "Jean Dotto",
+          "display": "#8 — + 48' 01\"",
+          "aliases": [
+            "Dotto"
+          ]
+        },
+        {
+          "answer": "Andrea Carrea",
+          "display": "#9 — + 50' 20\"",
+          "aliases": [
+            "Carrea"
+          ]
+        },
+        {
+          "answer": "Antonio Gelabert",
+          "display": "#10 — + 58' 16\"",
+          "aliases": [
+            "Gelabert"
+          ]
+        },
+        {
+          "answer": "Raphaël Géminiani",
+          "display": "#11 — + 1h 02' 47\"",
+          "aliases": [
+            "Géminiani"
+          ]
+        },
+        {
+          "answer": "Gottfried Weilenmann Jr.",
+          "display": "#12 — + 1h 04' 19\""
+        },
+        {
+          "answer": "Aloïs De Hertog",
+          "display": "#13 — + 1h 07' 15\"",
+          "aliases": [
+            "Hertog"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/cycling/tour-de-france",
+      "question": "Top 10 riders in the final general classification of the 1958 Tour de France",
+      "cutoff": 10,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1363333272 | table 3+4 | name: Rider | value: Rank | order: asc",
+      "tags": [
+        "cycling",
+        "tour de france",
+        "general classification",
+        "1958"
+      ],
+      "answers": [
+        {
+          "answer": "Charly Gaul",
+          "display": "#1 — 116h 59' 05\"",
+          "aliases": [
+            "Gaul"
+          ]
+        },
+        {
+          "answer": "Vito Favero",
+          "display": "#2 — + 3' 10\"",
+          "aliases": [
+            "Favero"
+          ]
+        },
+        {
+          "answer": "Raphaël Géminiani",
+          "display": "#3 — + 3' 41\"",
+          "aliases": [
+            "Géminiani"
+          ]
+        },
+        {
+          "answer": "Jan Adriaensens",
+          "display": "#4 — + 7' 16\"",
+          "aliases": [
+            "Adriaensens"
+          ]
+        },
+        {
+          "answer": "Gastone Nencini",
+          "display": "#5 — + 13' 33\"",
+          "aliases": [
+            "Nencini"
+          ]
+        },
+        {
+          "answer": "Jozef Planckaert",
+          "display": "#6 — + 28' 01\"",
+          "aliases": [
+            "Planckaert"
+          ]
+        },
+        {
+          "answer": "Louison Bobet",
+          "display": "#7 — + 31' 39\"",
+          "aliases": [
+            "Bobet"
+          ]
+        },
+        {
+          "answer": "Federico Bahamontes",
+          "display": "#8 — + 40' 44\"",
+          "aliases": [
+            "Bahamontes"
+          ]
+        },
+        {
+          "answer": "Louis Bergaud",
+          "display": "#9 — + 48' 33\"",
+          "aliases": [
+            "Bergaud"
+          ]
+        },
+        {
+          "answer": "Jos Hoevenaers",
+          "display": "#10 — + 58' 26\"",
+          "aliases": [
+            "Hoevenaers"
+          ]
+        },
+        {
+          "answer": "Piet Damen",
+          "display": "#11 — + 1h 00' 40\"",
+          "aliases": [
+            "Damen"
+          ]
+        },
+        {
+          "answer": "Lothar Friedrich",
+          "display": "#12 — + 1h 02' 13\"",
+          "aliases": [
+            "Friedrich"
+          ]
+        },
+        {
+          "answer": "Edouard Delberghe",
+          "display": "#13 — + 1h 02' 18\"",
+          "aliases": [
+            "Delberghe"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/cycling/tour-de-france",
+      "question": "Top 10 riders in the final general classification of the 1964 Tour de France",
+      "cutoff": 10,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1365145512 | table 3+4 | name: Rider | value: Rank | order: asc",
+      "tags": [
+        "cycling",
+        "tour de france",
+        "general classification",
+        "1964"
+      ],
+      "answers": [
+        {
+          "answer": "Jacques Anquetil",
+          "display": "#1 — 127h 09' 44\"",
+          "aliases": [
+            "Anquetil"
+          ]
+        },
+        {
+          "answer": "Raymond Poulidor",
+          "display": "#2 — + 55\"",
+          "aliases": [
+            "Poulidor"
+          ]
+        },
+        {
+          "answer": "Federico Bahamontes",
+          "display": "#3 — + 4' 44\"",
+          "aliases": [
+            "Bahamontes"
+          ]
+        },
+        {
+          "answer": "Henry Anglade",
+          "display": "#4 — + 6' 42\"",
+          "aliases": [
+            "Anglade"
+          ]
+        },
+        {
+          "answer": "Georges Groussard",
+          "display": "#5 — + 10' 34\"",
+          "aliases": [
+            "Groussard"
+          ]
+        },
+        {
+          "answer": "André Foucher",
+          "display": "#6 — + 10' 36\"",
+          "aliases": [
+            "Foucher"
+          ]
+        },
+        {
+          "answer": "Julio Jiménez",
+          "display": "#7 — + 12' 13\"",
+          "aliases": [
+            "Jiménez"
+          ]
+        },
+        {
+          "answer": "Gilbert Desmet",
+          "display": "#8 — + 12' 17\"",
+          "aliases": [
+            "Desmet"
+          ]
+        },
+        {
+          "answer": "Hans Junkermann",
+          "display": "#9 — + 14' 02\"",
+          "aliases": [
+            "Junkermann"
+          ]
+        },
+        {
+          "answer": "Vittorio Adorni",
+          "display": "#10 — + 14' 19\"",
+          "aliases": [
+            "Adorni"
+          ]
+        },
+        {
+          "answer": "Esteban Martín",
+          "display": "#11 — + 25' 11\"",
+          "aliases": [
+            "Martín"
+          ]
+        },
+        {
+          "answer": "Fernando Manzaneque",
+          "display": "#12 — + 32' 09\"",
+          "aliases": [
+            "Manzaneque"
+          ]
+        },
+        {
+          "answer": "Francisco Gabica",
+          "display": "#13 — + 41' 47\"",
+          "aliases": [
+            "Gabica"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/cycling/tour-de-france",
+      "question": "Top 10 riders in the final general classification of the 1966 Tour de France",
+      "cutoff": 10,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1371175341 | table 3+4 | name: Rider | value: Rank | order: asc",
+      "tags": [
+        "cycling",
+        "tour de france",
+        "general classification",
+        "1966"
+      ],
+      "answers": [
+        {
+          "answer": "Lucien Aimar",
+          "display": "#1 — 117h 34' 21\"",
+          "aliases": [
+            "Aimar"
+          ]
+        },
+        {
+          "answer": "Jan Janssen",
+          "display": "#2 — + 1' 07\"",
+          "aliases": [
+            "Janssen"
+          ]
+        },
+        {
+          "answer": "Raymond Poulidor",
+          "display": "#3 — + 2' 02\"",
+          "aliases": [
+            "Poulidor"
+          ]
+        },
+        {
+          "answer": "José Antonio Momeñe",
+          "display": "#4 — + 5' 19\"",
+          "aliases": [
+            "Momeñe"
+          ]
+        },
+        {
+          "answer": "Marcello Mugnaini",
+          "display": "#5 — + 5' 27\"",
+          "aliases": [
+            "Mugnaini"
+          ]
+        },
+        {
+          "answer": "Herman Van Springel",
+          "display": "#6 — + 5' 44\"",
+          "aliases": [
+            "Springel"
+          ]
+        },
+        {
+          "answer": "Francisco Gabica",
+          "display": "#7 — + 6' 25\"",
+          "aliases": [
+            "Gabica"
+          ]
+        },
+        {
+          "answer": "Roger Pingeon",
+          "display": "#8 — + 8' 22\"",
+          "aliases": [
+            "Pingeon"
+          ]
+        },
+        {
+          "answer": "Karl-Heinz Kunde",
+          "display": "#9 — + 9' 06\"",
+          "aliases": [
+            "Kunde"
+          ]
+        },
+        {
+          "answer": "Martin Vandenbossche",
+          "display": "#10 — + 9' 57\"",
+          "aliases": [
+            "Vandenbossche"
+          ]
+        },
+        {
+          "answer": "Antonio Gómez del Moral",
+          "display": "#11 — + 10' 18\"",
+          "aliases": [
+            "Moral"
+          ]
+        },
+        {
+          "answer": "Rudi Altig",
+          "display": "#12 — + 11' 18\"",
+          "aliases": [
+            "Altig"
+          ]
+        },
+        {
+          "answer": "Julio Jiménez",
+          "display": "#13 — + 11' 18\"",
+          "aliases": [
+            "Jiménez"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/cycling/tour-de-france",
+      "question": "Top 10 riders in the final general classification of the 1969 Tour de France",
+      "cutoff": 10,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1366012113 | table 4+5 | name: Rider | value: Rank | order: asc",
+      "tags": [
+        "cycling",
+        "tour de france",
+        "general classification",
+        "1969"
+      ],
+      "answers": [
+        {
+          "answer": "Eddy Merckx",
+          "display": "#1 — 116h 16' 02\"",
+          "aliases": [
+            "Merckx"
+          ]
+        },
+        {
+          "answer": "Roger Pingeon",
+          "display": "#2 — + 17' 54\"",
+          "aliases": [
+            "Pingeon"
+          ]
+        },
+        {
+          "answer": "Raymond Poulidor",
+          "display": "#3 — + 22' 13\"",
+          "aliases": [
+            "Poulidor"
+          ]
+        },
+        {
+          "answer": "Felice Gimondi",
+          "display": "#4 — + 29' 24\"",
+          "aliases": [
+            "Gimondi"
+          ]
+        },
+        {
+          "answer": "Andrés Gandarias",
+          "display": "#5 — + 33' 04\"",
+          "aliases": [
+            "Gandarias"
+          ]
+        },
+        {
+          "answer": "Marinus Wagtmans",
+          "display": "#6 — + 33' 57\"",
+          "aliases": [
+            "Wagtmans"
+          ]
+        },
+        {
+          "answer": "Pierfranco Vianelli",
+          "display": "#7 — + 42' 40\"",
+          "aliases": [
+            "Vianelli"
+          ]
+        },
+        {
+          "answer": "Joaquim Agostinho",
+          "display": "#8 — + 51' 24\"",
+          "aliases": [
+            "Agostinho"
+          ]
+        },
+        {
+          "answer": "Désiré Letort",
+          "display": "#9 — + 51' 41\"",
+          "aliases": [
+            "Letort"
+          ]
+        },
+        {
+          "answer": "Jan Janssen",
+          "display": "#10 — + 52' 56\"",
+          "aliases": [
+            "Janssen"
+          ]
+        },
+        {
+          "answer": "Joaquim Galera",
+          "display": "#11 — + 54' 47\"",
+          "aliases": [
+            "Galera"
+          ]
+        },
+        {
+          "answer": "Lucien Van Impe",
+          "display": "#12 — + 56' 17\"",
+          "aliases": [
+            "Van Impe"
+          ]
+        },
+        {
+          "answer": "Jean-Claude Theillière",
+          "display": "#13 — + 1h 04' 58\"",
+          "aliases": [
+            "Theillière"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/cycling/tour-de-france",
+      "question": "Top 10 riders in the final general classification of the 1971 Tour de France",
+      "cutoff": 10,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1366013619 | table 4+5 | name: Rider | value: Rank | order: asc",
+      "tags": [
+        "cycling",
+        "tour de france",
+        "general classification",
+        "1971"
+      ],
+      "answers": [
+        {
+          "answer": "Eddy Merckx",
+          "display": "#1 — 96h 45' 14\"",
+          "aliases": [
+            "Merckx"
+          ]
+        },
+        {
+          "answer": "Joop Zoetemelk",
+          "display": "#2 — + 9' 51\"",
+          "aliases": [
+            "Zoetemelk"
+          ]
+        },
+        {
+          "answer": "Lucien Van Impe",
+          "display": "#3 — + 11' 06\"",
+          "aliases": [
+            "Van Impe"
+          ]
+        },
+        {
+          "answer": "Bernard Thévenet",
+          "display": "#4 — + 14' 50\"",
+          "aliases": [
+            "Thévenet"
+          ]
+        },
+        {
+          "answer": "Joaquim Agostinho",
+          "display": "#5 — + 21' 00\"",
+          "aliases": [
+            "Agostinho"
+          ]
+        },
+        {
+          "answer": "Leif Mortensen",
+          "display": "#6 — + 21' 38\"",
+          "aliases": [
+            "Mortensen"
+          ]
+        },
+        {
+          "answer": "Cyrille Guimard",
+          "display": "#7 — + 22' 58\"",
+          "aliases": [
+            "Guimard"
+          ]
+        },
+        {
+          "answer": "Bernard Labourdette",
+          "display": "#8 — + 30' 07\"",
+          "aliases": [
+            "Labourdette"
+          ]
+        },
+        {
+          "answer": "Lucien Aimar",
+          "display": "#9 — + 32' 45\"",
+          "aliases": [
+            "Aimar"
+          ]
+        },
+        {
+          "answer": "Vicente López Carril",
+          "display": "#10 — + 36' 00\"",
+          "aliases": [
+            "Carril"
+          ]
+        },
+        {
+          "answer": "Francisco Galdós",
+          "display": "#11 — + 41' 59\"",
+          "aliases": [
+            "Galdós"
+          ]
+        },
+        {
+          "answer": "Primo Mori",
+          "display": "#12 — + 47' 44\"",
+          "aliases": [
+            "Mori"
+          ]
+        },
+        {
+          "answer": "Antonio Martos",
+          "display": "#13 — + 48' 13\"",
+          "aliases": [
+            "Martos"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/cycling/tour-de-france",
+      "question": "Top 10 riders in the final general classification of the 1972 Tour de France",
+      "cutoff": 10,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1366014797 | table 4+5 | name: Rider | value: Rank | order: asc",
+      "tags": [
+        "cycling",
+        "tour de france",
+        "general classification",
+        "1972"
+      ],
+      "answers": [
+        {
+          "answer": "Eddy Merckx",
+          "display": "#1 — 108h 17' 18\"",
+          "aliases": [
+            "Merckx"
+          ]
+        },
+        {
+          "answer": "Felice Gimondi",
+          "display": "#2 — + 10' 41\"",
+          "aliases": [
+            "Gimondi"
+          ]
+        },
+        {
+          "answer": "Raymond Poulidor",
+          "display": "#3 — + 11' 34\"",
+          "aliases": [
+            "Poulidor"
+          ]
+        },
+        {
+          "answer": "Lucien Van Impe",
+          "display": "#4 — + 16' 45\"",
+          "aliases": [
+            "Van Impe"
+          ]
+        },
+        {
+          "answer": "Joop Zoetemelk",
+          "display": "#5 — + 19' 09\"",
+          "aliases": [
+            "Zoetemelk"
+          ]
+        },
+        {
+          "answer": "Mariano Martínez",
+          "display": "#6 — + 21' 31\"",
+          "aliases": [
+            "Martinez"
+          ]
+        },
+        {
+          "answer": "Yves Hézard",
+          "display": "#7 — + 21' 52\"",
+          "aliases": [
+            "Hézard"
+          ]
+        },
+        {
+          "answer": "Joaquim Agostinho",
+          "display": "#8 — + 34' 16\"",
+          "aliases": [
+            "Agostinho"
+          ]
+        },
+        {
+          "answer": "Bernard Thévenet",
+          "display": "#9 — + 37' 11\"",
+          "aliases": [
+            "Thévenet"
+          ]
+        },
+        {
+          "answer": "Ward Janssens",
+          "display": "#10 — + 42' 33\"",
+          "aliases": [
+            "Janssens"
+          ]
+        },
+        {
+          "answer": "Raymond Delisle",
+          "display": "#11 — + 46' 27\"",
+          "aliases": [
+            "Delisle"
+          ]
+        },
+        {
+          "answer": "Leif Mortensen",
+          "display": "#12 — + 46' 39\"",
+          "aliases": [
+            "Mortensen"
+          ]
+        },
+        {
+          "answer": "Antoon Houbrechts",
+          "display": "#13 — + 47' 37\"",
+          "aliases": [
+            "Houbrechts"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/cycling/tour-de-france",
+      "question": "Top 10 riders in the final general classification of the 1973 Tour de France",
+      "cutoff": 10,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1366015948 | table 4+5 | name: Rider | value: Rank | order: asc",
+      "tags": [
+        "cycling",
+        "tour de france",
+        "general classification",
+        "1973"
+      ],
+      "answers": [
+        {
+          "answer": "Luis Ocaña",
+          "display": "#1 — 122h 25' 34\"",
+          "aliases": [
+            "Ocaña"
+          ]
+        },
+        {
+          "answer": "Bernard Thévenet",
+          "display": "#2 — + 15' 51\"",
+          "aliases": [
+            "Thévenet"
+          ]
+        },
+        {
+          "answer": "José Manuel Fuente",
+          "display": "#3 — + 17' 15\"",
+          "aliases": [
+            "Fuente"
+          ]
+        },
+        {
+          "answer": "Joop Zoetemelk",
+          "display": "#4 — + 26' 22\"",
+          "aliases": [
+            "Zoetemelk"
+          ]
+        },
+        {
+          "answer": "Lucien Van Impe",
+          "display": "#5 — + 30' 20\"",
+          "aliases": [
+            "Van Impe"
+          ]
+        },
+        {
+          "answer": "Herman Van Springel",
+          "display": "#6 — + 32' 01\"",
+          "aliases": [
+            "Springel"
+          ]
+        },
+        {
+          "answer": "Michel Périn",
+          "display": "#7 — + 33' 02\"",
+          "aliases": [
+            "Périn"
+          ]
+        },
+        {
+          "answer": "Joaquim Agostinho",
+          "display": "#8 — + 35' 51\"",
+          "aliases": [
+            "Agostinho"
+          ]
+        },
+        {
+          "answer": "Vicente López Carril",
+          "display": "#9 — + 36' 18\"",
+          "aliases": [
+            "Carril"
+          ]
+        },
+        {
+          "answer": "Régis Ovion",
+          "display": "#10 — + 36' 59\"",
+          "aliases": [
+            "Ovion"
+          ]
+        },
+        {
+          "answer": "Raymond Delisle",
+          "display": "#11 — + 37' 43\"",
+          "aliases": [
+            "Delisle"
+          ]
+        },
+        {
+          "answer": "Mariano Martínez",
+          "display": "#12 — + 40' 49\"",
+          "aliases": [
+            "Martínez"
+          ]
+        },
+        {
+          "answer": "Pedro Torres",
+          "display": "#13 — + 47' 30\"",
+          "aliases": [
+            "Torres"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/cycling/tour-de-france",
+      "question": "Top 10 riders in the final general classification of the 1975 Tour de France",
+      "cutoff": 10,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1294368582 | table 4+5 | name: Rider | value: Rank | order: asc",
+      "tags": [
+        "cycling",
+        "tour de france",
+        "general classification",
+        "1975"
+      ],
+      "answers": [
+        {
+          "answer": "Bernard Thévenet",
+          "display": "#1 — 114h 35' 31\"",
+          "aliases": [
+            "Thévenet"
+          ]
+        },
+        {
+          "answer": "Eddy Merckx",
+          "display": "#2 — + 2' 47\"",
+          "aliases": [
+            "Merckx"
+          ]
+        },
+        {
+          "answer": "Lucien Van Impe",
+          "display": "#3 — + 5' 01\"",
+          "aliases": [
+            "Van Impe"
+          ]
+        },
+        {
+          "answer": "Joop Zoetemelk",
+          "display": "#4 — + 6' 42\"",
+          "aliases": [
+            "Zoetemelk"
+          ]
+        },
+        {
+          "answer": "Vicente López Carril",
+          "display": "#5 — + 19' 29\"",
+          "aliases": [
+            "Carril"
+          ]
+        },
+        {
+          "answer": "Felice Gimondi",
+          "display": "#6 — + 23' 05\"",
+          "aliases": [
+            "Gimondi"
+          ]
+        },
+        {
+          "answer": "Francesco Moser",
+          "display": "#7 — + 24' 13\"",
+          "aliases": [
+            "Moser"
+          ]
+        },
+        {
+          "answer": "Josef Fuchs",
+          "display": "#8 — + 25' 51\"",
+          "aliases": [
+            "Fuchs"
+          ]
+        },
+        {
+          "answer": "Edouard Janssens",
+          "display": "#9 — + 32' 01\"",
+          "aliases": [
+            "Janssens"
+          ]
+        },
+        {
+          "answer": "Pedro Torres",
+          "display": "#10 — + 35' 36\"",
+          "aliases": [
+            "Torres"
+          ]
+        },
+        {
+          "answer": "Hennie Kuiper",
+          "display": "#11 — + 40' 45\"",
+          "aliases": [
+            "Kuiper"
+          ]
+        },
+        {
+          "answer": "André Romero",
+          "display": "#12 — + 44' 24\"",
+          "aliases": [
+            "Romero"
+          ]
+        },
+        {
+          "answer": "Georges Talbourdet",
+          "display": "#13 — + 44' 49\"",
+          "aliases": [
+            "Talbourdet"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/cycling/tour-de-france",
+      "question": "Top 10 riders in the final general classification of the 1976 Tour de France",
+      "cutoff": 10,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1370648340 | table 4+5 | name: Rider | value: Rank | order: asc",
+      "tags": [
+        "cycling",
+        "tour de france",
+        "general classification",
+        "1976"
+      ],
+      "answers": [
+        {
+          "answer": "Lucien Van Impe",
+          "display": "#1 — 116h 22' 23\"",
+          "aliases": [
+            "Van Impe"
+          ]
+        },
+        {
+          "answer": "Joop Zoetemelk",
+          "display": "#2 — + 4' 14\"",
+          "aliases": [
+            "Zoetemelk"
+          ]
+        },
+        {
+          "answer": "Raymond Poulidor",
+          "display": "#3 — + 12' 08\"",
+          "aliases": [
+            "Poulidor"
+          ]
+        },
+        {
+          "answer": "Raymond Delisle",
+          "display": "#4 — + 12' 17\"",
+          "aliases": [
+            "Delisle"
+          ]
+        },
+        {
+          "answer": "Walter Riccomi",
+          "display": "#5 — + 12' 39\"",
+          "aliases": [
+            "Riccomi"
+          ]
+        },
+        {
+          "answer": "Francisco Galdós",
+          "display": "#6 — + 14' 50\"",
+          "aliases": [
+            "Galdós"
+          ]
+        },
+        {
+          "answer": "Michel Pollentier",
+          "display": "#7 — + 14' 59\"",
+          "aliases": [
+            "Pollentier"
+          ]
+        },
+        {
+          "answer": "Freddy Maertens",
+          "display": "#8 — + 16' 09\"",
+          "aliases": [
+            "Maertens"
+          ]
+        },
+        {
+          "answer": "Fausto Bertoglio",
+          "display": "#9 — + 16' 36\"",
+          "aliases": [
+            "Bertoglio"
+          ]
+        },
+        {
+          "answer": "Vicente López Carril",
+          "display": "#10 — + 19' 28\"",
+          "aliases": [
+            "Carril"
+          ]
+        },
+        {
+          "answer": "José Pesarrodona",
+          "display": "#11 — + 21' 14\"",
+          "aliases": [
+            "Pesarrodona"
+          ]
+        },
+        {
+          "answer": "José Martíns",
+          "display": "#12 — + 21' 45\"",
+          "aliases": [
+            "Martíns"
+          ]
+        },
+        {
+          "answer": "Wladimiro Panizza",
+          "display": "#13 — + 22' 08\"",
+          "aliases": [
+            "Panizza"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/cycling/tour-de-france",
+      "question": "Top 10 riders in the final general classification of the 1977 Tour de France",
+      "cutoff": 10,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1366018675 | table 4+5 | name: Rider | value: Rank | order: asc",
+      "tags": [
+        "cycling",
+        "tour de france",
+        "general classification",
+        "1977"
+      ],
+      "answers": [
+        {
+          "answer": "Bernard Thévenet",
+          "display": "#1 — 115h 38' 30\"",
+          "aliases": [
+            "Thévenet"
+          ]
+        },
+        {
+          "answer": "Hennie Kuiper",
+          "display": "#2 — + 0' 48\"",
+          "aliases": [
+            "Kuiper"
+          ]
+        },
+        {
+          "answer": "Lucien Van Impe",
+          "display": "#3 — + 3' 32\"",
+          "aliases": [
+            "Van Impe"
+          ]
+        },
+        {
+          "answer": "Francisco Galdós",
+          "display": "#4 — + 7' 45\"",
+          "aliases": [
+            "Galdós"
+          ]
+        },
+        {
+          "answer": "Dietrich Thurau",
+          "display": "#5 — + 12' 24\"",
+          "aliases": [
+            "Thurau"
+          ]
+        },
+        {
+          "answer": "Eddy Merckx",
+          "display": "#6 — + 12' 38\"",
+          "aliases": [
+            "Merckx"
+          ]
+        },
+        {
+          "answer": "Michel Laurent",
+          "display": "#7 — + 17' 42\"",
+          "aliases": [
+            "Laurent"
+          ]
+        },
+        {
+          "answer": "Joop Zoetemelk",
+          "display": "#8 — + 19' 22\"",
+          "aliases": [
+            "Zoetemelk"
+          ]
+        },
+        {
+          "answer": "Raymond Delisle",
+          "display": "#9 — + 21' 32\"",
+          "aliases": [
+            "Delisle"
+          ]
+        },
+        {
+          "answer": "Alain Meslet",
+          "display": "#10 — + 27' 31\"",
+          "aliases": [
+            "Meslet"
+          ]
+        },
+        {
+          "answer": "Raymond Martin",
+          "display": "#11 — + 28' 35\"",
+          "aliases": [
+            "Martin"
+          ]
+        },
+        {
+          "answer": "Bert Pronk",
+          "display": "#12 — + 30' 06\"",
+          "aliases": [
+            "Pronk"
+          ]
+        },
+        {
+          "answer": "Joaquim Agostinho",
+          "display": "#13 — + 33' 13\"",
+          "aliases": [
+            "Agostinho"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/cycling/tour-de-france",
+      "question": "Top 10 riders in the final general classification of the 1978 Tour de France",
+      "cutoff": 10,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1366019554 | table 4+5 | name: Rider | value: Rank | order: asc",
+      "tags": [
+        "cycling",
+        "tour de france",
+        "general classification",
+        "1978"
+      ],
+      "answers": [
+        {
+          "answer": "Bernard Hinault",
+          "display": "#1 — 108h 18' 00\"",
+          "aliases": [
+            "Hinault"
+          ]
+        },
+        {
+          "answer": "Joop Zoetemelk",
+          "display": "#2 — + 3' 56\"",
+          "aliases": [
+            "Zoetemelk"
+          ]
+        },
+        {
+          "answer": "Joaquim Agostinho",
+          "display": "#3 — + 6' 54\"",
+          "aliases": [
+            "Agostinho"
+          ]
+        },
+        {
+          "answer": "Joseph Bruyère",
+          "display": "#4 — + 9' 04\"",
+          "aliases": [
+            "Bruyère"
+          ]
+        },
+        {
+          "answer": "Christian Seznec",
+          "display": "#5 — + 12' 50\"",
+          "aliases": [
+            "Seznec"
+          ]
+        },
+        {
+          "answer": "Paul Wellens",
+          "display": "#6 — + 14' 38\"",
+          "aliases": [
+            "Wellens"
+          ]
+        },
+        {
+          "answer": "Francisco Galdós",
+          "display": "#7 — + 17' 08\"",
+          "aliases": [
+            "Galdós"
+          ]
+        },
+        {
+          "answer": "Henk Lubberding",
+          "display": "#8 — + 17' 26\"",
+          "aliases": [
+            "Lubberding"
+          ]
+        },
+        {
+          "answer": "Lucien Van Impe",
+          "display": "#9 — + 21' 01\"",
+          "aliases": [
+            "Van Impe"
+          ]
+        },
+        {
+          "answer": "Mariano Martínez",
+          "display": "#10 — + 22' 58\"",
+          "aliases": [
+            "Martínez"
+          ]
+        },
+        {
+          "answer": "Sven-Åke Nilsson",
+          "display": "#11 — + 23' 00\"",
+          "aliases": [
+            "Nilsson"
+          ]
+        },
+        {
+          "answer": "Raymond Martin",
+          "display": "#12 — + 32' 58\"",
+          "aliases": [
+            "Martin"
+          ]
+        },
+        {
+          "answer": "Freddy Maertens",
+          "display": "#13 — + 34' 26\"",
+          "aliases": [
+            "Maertens"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/cycling/tour-de-france",
+      "question": "Top 10 riders in the final general classification of the 1979 Tour de France",
+      "cutoff": 10,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1366020164 | table 4+5 | name: Rider | value: Rank | order: asc",
+      "tags": [
+        "cycling",
+        "tour de france",
+        "general classification",
+        "1979"
+      ],
+      "answers": [
+        {
+          "answer": "Bernard Hinault",
+          "display": "#1 — 103h 06' 50\"",
+          "aliases": [
+            "Hinault"
+          ]
+        },
+        {
+          "answer": "Joop Zoetemelk",
+          "display": "#2 — + 13' 07\"",
+          "aliases": [
+            "Zoetemelk"
+          ]
+        },
+        {
+          "answer": "Joaquim Agostinho",
+          "display": "#3 — + 26' 53\"",
+          "aliases": [
+            "Agostinho"
+          ]
+        },
+        {
+          "answer": "Hennie Kuiper",
+          "display": "#4 — + 28' 02\"",
+          "aliases": [
+            "Kuiper"
+          ]
+        },
+        {
+          "answer": "Jean-René Bernaudeau",
+          "display": "#5 — + 32' 43\"",
+          "aliases": [
+            "Bernaudeau"
+          ]
+        },
+        {
+          "answer": "Giovanni Battaglin",
+          "display": "#6 — + 38' 12\"",
+          "aliases": [
+            "Battaglin"
+          ]
+        },
+        {
+          "answer": "Jo Maas",
+          "display": "#7 — + 38' 38\"",
+          "aliases": [
+            "Maas"
+          ]
+        },
+        {
+          "answer": "Paul Wellens",
+          "display": "#8 — + 39' 06\"",
+          "aliases": [
+            "Wellens"
+          ]
+        },
+        {
+          "answer": "Claude Criquielion",
+          "display": "#9 — + 40' 38\"",
+          "aliases": [
+            "Criquielion"
+          ]
+        },
+        {
+          "answer": "Dietrich Thurau",
+          "display": "#10 — + 44' 35\"",
+          "aliases": [
+            "Thurau"
+          ]
+        },
+        {
+          "answer": "Lucien Van Impe",
+          "display": "#11 — + 47' 26\"",
+          "aliases": [
+            "Van Impe"
+          ]
+        },
+        {
+          "answer": "Sven-Åke Nilsson",
+          "display": "#12 — + 48' 16\"",
+          "aliases": [
+            "Nilsson"
+          ]
+        },
+        {
+          "answer": "Pierre-Raymond Villemiane",
+          "display": "#13 — + 59' 09\"",
+          "aliases": [
+            "Villemiane"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/cycling/tour-de-france",
+      "question": "Top 10 riders in the final general classification of the 1980 Tour de France",
+      "cutoff": 10,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1367077601 | table 4+5 | name: Rider | value: Rank | order: asc",
+      "tags": [
+        "cycling",
+        "tour de france",
+        "general classification",
+        "1980"
+      ],
+      "answers": [
+        {
+          "answer": "Joop Zoetemelk",
+          "display": "#1 — 109h 19' 14\"",
+          "aliases": [
+            "Zoetemelk"
+          ]
+        },
+        {
+          "answer": "Hennie Kuiper",
+          "display": "#2 — + 6' 55\"",
+          "aliases": [
+            "Kuiper"
+          ]
+        },
+        {
+          "answer": "Raymond Martin",
+          "display": "#3 — + 7' 56\"",
+          "aliases": [
+            "Martin"
+          ]
+        },
+        {
+          "answer": "Johan De Muynck",
+          "display": "#4 — + 12' 24\"",
+          "aliases": [
+            "Muynck"
+          ]
+        },
+        {
+          "answer": "Joaquim Agostinho",
+          "display": "#5 — + 15' 37\"",
+          "aliases": [
+            "Agostinho"
+          ]
+        },
+        {
+          "answer": "Christian Seznec",
+          "display": "#6 — + 16' 16\"",
+          "aliases": [
+            "Seznec"
+          ]
+        },
+        {
+          "answer": "Sven-Åke Nilsson",
+          "display": "#7 — + 16' 33\"",
+          "aliases": [
+            "Nilsson"
+          ]
+        },
+        {
+          "answer": "Ludo Peeters",
+          "display": "#8 — + 20' 45\"",
+          "aliases": [
+            "Peeters"
+          ]
+        },
+        {
+          "answer": "Pierre Bazzo",
+          "display": "#9 — + 21' 03\"",
+          "aliases": [
+            "Bazzo"
+          ]
+        },
+        {
+          "answer": "Henk Lubberding",
+          "display": "#10 — + 21' 10\"",
+          "aliases": [
+            "Lubberding"
+          ]
+        },
+        {
+          "answer": "Robert Alban",
+          "display": "#11 — + 22' 41\"",
+          "aliases": [
+            "Alban"
+          ]
+        },
+        {
+          "answer": "Johan van der Velde",
+          "display": "#12 — + 25' 28\"",
+          "aliases": [
+            "Velde"
+          ]
+        },
+        {
+          "answer": "Claude Criquielion",
+          "display": "#13 — + 27' 43\"",
+          "aliases": [
+            "Criquielion"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/cycling/tour-de-france",
+      "question": "Top 10 riders in the final general classification of the 1981 Tour de France",
+      "cutoff": 10,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1366022546 | table 4+5 | name: Rider | value: Rank | order: asc",
+      "tags": [
+        "cycling",
+        "tour de france",
+        "general classification",
+        "1981"
+      ],
+      "answers": [
+        {
+          "answer": "Bernard Hinault",
+          "display": "#1 — 96h 19' 38\"",
+          "aliases": [
+            "Hinault"
+          ]
+        },
+        {
+          "answer": "Lucien Van Impe",
+          "display": "#2 — + 14' 34\"",
+          "aliases": [
+            "Van Impe"
+          ]
+        },
+        {
+          "answer": "Robert Alban",
+          "display": "#3 — + 17' 04\"",
+          "aliases": [
+            "Alban"
+          ]
+        },
+        {
+          "answer": "Joop Zoetemelk",
+          "display": "#4 — + 18' 21\"",
+          "aliases": [
+            "Zoetemelk"
+          ]
+        },
+        {
+          "answer": "Peter Winnen",
+          "display": "#5 — + 20' 26\"",
+          "aliases": [
+            "Winnen"
+          ]
+        },
+        {
+          "answer": "Jean-René Bernaudeau",
+          "display": "#6 — + 23' 02\"",
+          "aliases": [
+            "Bernaudeau"
+          ]
+        },
+        {
+          "answer": "Johan De Muynck",
+          "display": "#7 — + 24' 25\"",
+          "aliases": [
+            "Muynck"
+          ]
+        },
+        {
+          "answer": "Sven-Åke Nilsson",
+          "display": "#8 — + 24' 37\"",
+          "aliases": [
+            "Nilsson"
+          ]
+        },
+        {
+          "answer": "Claude Criquielion",
+          "display": "#9 — + 26' 18\"",
+          "aliases": [
+            "Criquielion"
+          ]
+        },
+        {
+          "answer": "Phil Anderson",
+          "display": "#10 — + 27' 00\"",
+          "aliases": [
+            "Anderson"
+          ]
+        },
+        {
+          "answer": "Alfons De Wolf",
+          "display": "#11 — + 28' 53\"",
+          "aliases": [
+            "Wolf"
+          ]
+        },
+        {
+          "answer": "Johan van der Velde",
+          "display": "#12 — + 29' 46\"",
+          "aliases": [
+            "Velde"
+          ]
+        },
+        {
+          "answer": "Marcel Tinazzi",
+          "display": "#13 — + 30' 03\"",
+          "aliases": [
+            "Tinazzi"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/cycling/tour-de-france",
+      "question": "Top 10 riders in the final general classification of the 1982 Tour de France",
+      "cutoff": 10,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1366023299 | table 4+5 | name: Rider | value: Rank | order: asc",
+      "tags": [
+        "cycling",
+        "tour de france",
+        "general classification",
+        "1982"
+      ],
+      "answers": [
+        {
+          "answer": "Bernard Hinault",
+          "display": "#1 — 92h 08' 46\"",
+          "aliases": [
+            "Hinault"
+          ]
+        },
+        {
+          "answer": "Joop Zoetemelk",
+          "display": "#2 — + 6' 21\"",
+          "aliases": [
+            "Zoetemelk"
+          ]
+        },
+        {
+          "answer": "Johan van der Velde",
+          "display": "#3 — + 8' 59\"",
+          "aliases": [
+            "Velde"
+          ]
+        },
+        {
+          "answer": "Peter Winnen",
+          "display": "#4 — + 9' 24\"",
+          "aliases": [
+            "Winnen"
+          ]
+        },
+        {
+          "answer": "Phil Anderson",
+          "display": "#5 — + 12' 16\"",
+          "aliases": [
+            "Anderson"
+          ]
+        },
+        {
+          "answer": "Beat Breu",
+          "display": "#6 — + 13' 21\"",
+          "aliases": [
+            "Breu"
+          ]
+        },
+        {
+          "answer": "Daniel Willems",
+          "display": "#7 — + 15' 33\"",
+          "aliases": [
+            "Willems"
+          ]
+        },
+        {
+          "answer": "Raymond Martin",
+          "display": "#8 — + 15' 35\"",
+          "aliases": [
+            "Martin"
+          ]
+        },
+        {
+          "answer": "Hennie Kuiper",
+          "display": "#9 — + 17' 01\"",
+          "aliases": [
+            "Kuiper"
+          ]
+        },
+        {
+          "answer": "Alberto Fernández",
+          "display": "#10 — + 17' 19\"",
+          "aliases": [
+            "Fernández"
+          ]
+        },
+        {
+          "answer": "Robert Alban",
+          "display": "#11 — + 17' 21\"",
+          "aliases": [
+            "Alban"
+          ]
+        },
+        {
+          "answer": "Bernard Vallet",
+          "display": "#12 — + 19' 52\"",
+          "aliases": [
+            "Vallet"
+          ]
+        },
+        {
+          "answer": "Jean-René Bernaudeau",
+          "display": "#13 — + 20' 02\"",
+          "aliases": [
+            "Bernaudeau"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/cycling/tour-de-france",
+      "question": "Top 10 riders in the final general classification of the 1983 Tour de France",
+      "cutoff": 10,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1366306932 | table 4+5 | name: Rider | value: Rank | order: asc",
+      "tags": [
+        "cycling",
+        "tour de france",
+        "general classification",
+        "1983"
+      ],
+      "answers": [
+        {
+          "answer": "Laurent Fignon",
+          "display": "#1 — 105h 07' 52\"",
+          "aliases": [
+            "Fignon"
+          ]
+        },
+        {
+          "answer": "Ángel Arroyo",
+          "display": "#2 — + 4' 04\"",
+          "aliases": [
+            "Arroyo"
+          ]
+        },
+        {
+          "answer": "Peter Winnen",
+          "display": "#3 — + 4' 09\"",
+          "aliases": [
+            "Winnen"
+          ]
+        },
+        {
+          "answer": "Lucien Van Impe",
+          "display": "#4 — + 4' 16\"",
+          "aliases": [
+            "Van Impe"
+          ]
+        },
+        {
+          "answer": "Robert Alban",
+          "display": "#5 — + 7' 53\"",
+          "aliases": [
+            "Alban"
+          ]
+        },
+        {
+          "answer": "Jean-René Bernaudeau",
+          "display": "#6 — + 8' 59\"",
+          "aliases": [
+            "Bernaudeau"
+          ]
+        },
+        {
+          "answer": "Sean Kelly",
+          "display": "#7 — + 12' 09\"",
+          "aliases": [
+            "Kelly"
+          ]
+        },
+        {
+          "answer": "Marc Madiot",
+          "display": "#8 — + 14' 55\"",
+          "aliases": [
+            "Madiot"
+          ]
+        },
+        {
+          "answer": "Phil Anderson",
+          "display": "#9 — + 16' 56\"",
+          "aliases": [
+            "Anderson"
+          ]
+        },
+        {
+          "answer": "Henk Lubberding",
+          "display": "#10 — + 18' 55\"",
+          "aliases": [
+            "Lubberding"
+          ]
+        },
+        {
+          "answer": "Joaquim Agostinho",
+          "display": "#11 — + 19' 00\"",
+          "aliases": [
+            "Agostinho"
+          ]
+        },
+        {
+          "answer": "Jonathan Boyer",
+          "display": "#12 — + 19' 57\"",
+          "aliases": [
+            "Boyer"
+          ]
+        },
+        {
+          "answer": "Stephen Roche",
+          "display": "#13 — + 21' 30\"",
+          "aliases": [
+            "Roche"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/cycling/tour-de-france",
+      "question": "Top 10 riders in the final general classification of the 1984 Tour de France",
+      "cutoff": 10,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1366307482 | table 4+5 | name: Rider | value: Rank | order: asc",
+      "tags": [
+        "cycling",
+        "tour de france",
+        "general classification",
+        "1984"
+      ],
+      "answers": [
+        {
+          "answer": "Laurent Fignon",
+          "display": "#1 — 112h 03' 40\"",
+          "aliases": [
+            "Fignon"
+          ]
+        },
+        {
+          "answer": "Bernard Hinault",
+          "display": "#2 — + 10' 32\"",
+          "aliases": [
+            "Hinault"
+          ]
+        },
+        {
+          "answer": "Greg LeMond",
+          "display": "#3 — + 11' 46\"",
+          "aliases": [
+            "LeMond"
+          ]
+        },
+        {
+          "answer": "Robert Millar",
+          "display": "#4 — + 14' 42\"",
+          "aliases": [
+            "Millar"
+          ]
+        },
+        {
+          "answer": "Sean Kelly",
+          "display": "#5 — + 16' 35\"",
+          "aliases": [
+            "Kelly"
+          ]
+        },
+        {
+          "answer": "Ángel Arroyo",
+          "display": "#6 — + 19' 22\"",
+          "aliases": [
+            "Arroyo"
+          ]
+        },
+        {
+          "answer": "Pascal Simon",
+          "display": "#7 — + 21' 17\"",
+          "aliases": [
+            "Simon"
+          ]
+        },
+        {
+          "answer": "Pedro Muñoz",
+          "display": "#8 — + 26' 17\"",
+          "aliases": [
+            "Pedro Muñoz Machín Rodríguez"
+          ]
+        },
+        {
+          "answer": "Claude Criquielion",
+          "display": "#9 — + 29' 12\"",
+          "aliases": [
+            "Criquielion"
+          ]
+        },
+        {
+          "answer": "Phil Anderson",
+          "display": "#10 — + 29' 16\"",
+          "aliases": [
+            "Anderson"
+          ]
+        },
+        {
+          "answer": "Niki Rüttimann",
+          "display": "#11 — + 30' 58\"",
+          "aliases": [
+            "Rüttimann"
+          ]
+        },
+        {
+          "answer": "Rafaël Antonio Acevedo",
+          "display": "#12 — + 33' 32\"",
+          "aliases": [
+            "Acevedo"
+          ]
+        },
+        {
+          "answer": "Jean-Marie Grezet",
+          "display": "#13 — + 33' 41\"",
+          "aliases": [
+            "Grezet"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/cycling/tour-de-france",
+      "question": "Top 10 riders in the final general classification of the 1985 Tour de France",
+      "cutoff": 10,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1331850401 | table 4+5 | name: Rider | value: Rank | order: asc",
+      "tags": [
+        "cycling",
+        "tour de france",
+        "general classification",
+        "1985"
+      ],
+      "answers": [
+        {
+          "answer": "Bernard Hinault",
+          "display": "#1 — 113h 24' 23\"",
+          "aliases": [
+            "Hinault"
+          ]
+        },
+        {
+          "answer": "Greg LeMond",
+          "display": "#2 — + 1' 42\"",
+          "aliases": [
+            "LeMond"
+          ]
+        },
+        {
+          "answer": "Stephen Roche",
+          "display": "#3 — + 4' 29\"",
+          "aliases": [
+            "Roche"
+          ]
+        },
+        {
+          "answer": "Sean Kelly",
+          "display": "#4 — + 6' 26\"",
+          "aliases": [
+            "Kelly"
+          ]
+        },
+        {
+          "answer": "Phil Anderson",
+          "display": "#5 — + 7' 44\"",
+          "aliases": [
+            "Anderson"
+          ]
+        },
+        {
+          "answer": "Pedro Delgado",
+          "display": "#6 — + 11' 53\"",
+          "aliases": [
+            "Delgado"
+          ]
+        },
+        {
+          "answer": "Luis Herrera",
+          "display": "#7 — + 12' 53\"",
+          "aliases": [
+            "Herrera"
+          ]
+        },
+        {
+          "answer": "Fabio Parra",
+          "display": "#8 — + 13' 35\"",
+          "aliases": [
+            "Parra"
+          ]
+        },
+        {
+          "answer": "Eduardo Chozas",
+          "display": "#9 — + 13' 56\"",
+          "aliases": [
+            "Chozas"
+          ]
+        },
+        {
+          "answer": "Steve Bauer",
+          "display": "#10 — + 14' 57\"",
+          "aliases": [
+            "Bauer"
+          ]
+        },
+        {
+          "answer": "Robert Millar",
+          "display": "#11 — + 15' 10\"",
+          "aliases": [
+            "Millar"
+          ]
+        },
+        {
+          "answer": "Joop Zoetemelk",
+          "display": "#12 — + 15' 24\"",
+          "aliases": [
+            "Zoetemelk"
+          ]
+        },
+        {
+          "answer": "Niki Rüttimann",
+          "display": "#13 — + 16' 02\"",
+          "aliases": [
+            "Rüttimann"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/cycling/tour-de-france",
+      "question": "Top 10 riders in the final general classification of the 1986 Tour de France",
+      "cutoff": 10,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1369259358 | table 4+5 | name: Rider | value: Rank | order: asc",
+      "tags": [
+        "cycling",
+        "tour de france",
+        "general classification",
+        "1986"
+      ],
+      "answers": [
+        {
+          "answer": "Greg LeMond",
+          "display": "#1 — 110h 35' 19\"",
+          "aliases": [
+            "LeMond"
+          ]
+        },
+        {
+          "answer": "Bernard Hinault",
+          "display": "#2 — + 3' 10\"",
+          "aliases": [
+            "Hinault"
+          ]
+        },
+        {
+          "answer": "Urs Zimmermann",
+          "display": "#3 — + 10' 54\"",
+          "aliases": [
+            "Zimmermann"
+          ]
+        },
+        {
+          "answer": "Andrew Hampsten",
+          "display": "#4 — + 18' 44\"",
+          "aliases": [
+            "Hampsten"
+          ]
+        },
+        {
+          "answer": "Claude Criquielion",
+          "display": "#5 — + 24' 36\"",
+          "aliases": [
+            "Criquielion"
+          ]
+        },
+        {
+          "answer": "Ronan Pensec",
+          "display": "#6 — + 25' 59\"",
+          "aliases": [
+            "Pensec"
+          ]
+        },
+        {
+          "answer": "Niki Rüttimann",
+          "display": "#7 — + 30' 52\"",
+          "aliases": [
+            "Rüttimann"
+          ]
+        },
+        {
+          "answer": "Álvaro Pino",
+          "display": "#8 — + 33' 00\"",
+          "aliases": [
+            "Pino"
+          ]
+        },
+        {
+          "answer": "Steven Rooks",
+          "display": "#9 — + 33' 22\"",
+          "aliases": [
+            "Rooks"
+          ]
+        },
+        {
+          "answer": "Yvon Madiot",
+          "display": "#10 — + 33' 27\"",
+          "aliases": [
+            "Madiot"
+          ]
+        },
+        {
+          "answer": "Samuel Cabrera",
+          "display": "#11 — + 35' 28\"",
+          "aliases": [
+            "Cabrera"
+          ]
+        },
+        {
+          "answer": "Jean-François Bernard",
+          "display": "#12 — + 35' 45\"",
+          "aliases": [
+            "Bernard"
+          ]
+        },
+        {
+          "answer": "Pascal Simon",
+          "display": "#13 — + 37' 44\"",
+          "aliases": [
+            "Simon"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/cycling/tour-de-france",
+      "question": "Top 10 riders in the final general classification of the 1987 Tour de France",
+      "cutoff": 10,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1366326788 | table 4+5 | name: Rider | value: Rank | order: asc",
+      "tags": [
+        "cycling",
+        "tour de france",
+        "general classification",
+        "1987"
+      ],
+      "answers": [
+        {
+          "answer": "Stephen Roche",
+          "display": "#1 — 115h 27' 42\"",
+          "aliases": [
+            "Roche"
+          ]
+        },
+        {
+          "answer": "Pedro Delgado",
+          "display": "#2 — + 0' 40\"",
+          "aliases": [
+            "Delgado"
+          ]
+        },
+        {
+          "answer": "Jean-François Bernard",
+          "display": "#3 — + 2' 13\"",
+          "aliases": [
+            "Bernard"
+          ]
+        },
+        {
+          "answer": "Charly Mottet",
+          "display": "#4 — + 6' 40\"",
+          "aliases": [
+            "Mottet"
+          ]
+        },
+        {
+          "answer": "Luis Herrera",
+          "display": "#5 — + 9' 32\"",
+          "aliases": [
+            "Herrera"
+          ]
+        },
+        {
+          "answer": "Fabio Parra",
+          "display": "#6 — + 16' 53\"",
+          "aliases": [
+            "Parra"
+          ]
+        },
+        {
+          "answer": "Laurent Fignon",
+          "display": "#7 — + 18' 24\"",
+          "aliases": [
+            "Fignon"
+          ]
+        },
+        {
+          "answer": "Anselmo Fuerte",
+          "display": "#8 — + 18' 33\"",
+          "aliases": [
+            "Fuerte"
+          ]
+        },
+        {
+          "answer": "Raúl Alcalá",
+          "display": "#9 — + 21' 49\"",
+          "aliases": [
+            "Alcalá"
+          ]
+        },
+        {
+          "answer": "Marino Lejarreta",
+          "display": "#10 — + 26' 13\"",
+          "aliases": [
+            "Lejarreta"
+          ]
+        },
+        {
+          "answer": "Claude Criquielion",
+          "display": "#11 — + 30' 32\"",
+          "aliases": [
+            "Criquielion"
+          ]
+        },
+        {
+          "answer": "Federico Echave",
+          "display": "#12 — + 31' 06\"",
+          "aliases": [
+            "Echave"
+          ]
+        },
+        {
+          "answer": "Martín Ramírez",
+          "display": "#13 — + 36' 55\"",
+          "aliases": [
+            "Ramírez"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/cycling/tour-de-france",
+      "question": "Top 10 riders in the final general classification of the 1988 Tour de France",
+      "cutoff": 10,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1366327868 | table 4+5 | name: Rider | value: Rank | order: asc",
+      "tags": [
+        "cycling",
+        "tour de france",
+        "general classification",
+        "1988"
+      ],
+      "answers": [
+        {
+          "answer": "Pedro Delgado",
+          "display": "#1 — 84h 27' 53\"",
+          "aliases": [
+            "Delgado"
+          ]
+        },
+        {
+          "answer": "Steven Rooks",
+          "display": "#2 — + 7' 13\"",
+          "aliases": [
+            "Rooks"
+          ]
+        },
+        {
+          "answer": "Fabio Parra",
+          "display": "#3 — + 9' 58\"",
+          "aliases": [
+            "Parra"
+          ]
+        },
+        {
+          "answer": "Steve Bauer",
+          "display": "#4 — + 12' 15\"",
+          "aliases": [
+            "Bauer"
+          ]
+        },
+        {
+          "answer": "Éric Boyer",
+          "display": "#5 — + 14' 04\"",
+          "aliases": [
+            "Boyer"
+          ]
+        },
+        {
+          "answer": "Luis Herrera",
+          "display": "#6 — + 14' 36\"",
+          "aliases": [
+            "Herrera"
+          ]
+        },
+        {
+          "answer": "Ronan Pensec",
+          "display": "#7 — + 16' 52\"",
+          "aliases": [
+            "Pensec"
+          ]
+        },
+        {
+          "answer": "Álvaro Pino",
+          "display": "#8 — + 18' 36\"",
+          "aliases": [
+            "Pino"
+          ]
+        },
+        {
+          "answer": "Peter Winnen",
+          "display": "#9 — + 19' 12\"",
+          "aliases": [
+            "Winnen"
+          ]
+        },
+        {
+          "answer": "Denis Roux",
+          "display": "#10 — + 20' 08\"",
+          "aliases": [
+            "Roux"
+          ]
+        },
+        {
+          "answer": "Gert-Jan Theunisse",
+          "display": "#11 — + 22' 46\"",
+          "aliases": [
+            "Theunisse"
+          ]
+        },
+        {
+          "answer": "Erik Breukink",
+          "display": "#12 — + 23' 06\"",
+          "aliases": [
+            "Breukink"
+          ]
+        },
+        {
+          "answer": "Laudelino Cubino",
+          "display": "#13 — + 23' 46\"",
+          "aliases": [
+            "Cubino"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/cycling/tour-de-france",
+      "question": "Top 10 riders in the final general classification of the 1989 Tour de France",
+      "cutoff": 10,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1374577380 | table 5+6 | name: Rider | value: Rank | order: asc",
+      "tags": [
+        "cycling",
+        "tour de france",
+        "general classification",
+        "1989"
+      ],
+      "answers": [
+        {
+          "answer": "Greg LeMond",
+          "display": "#1 — 87h 38' 35\"",
+          "aliases": [
+            "LeMond"
+          ]
+        },
+        {
+          "answer": "Laurent Fignon",
+          "display": "#2 — + 0' 08\"",
+          "aliases": [
+            "Fignon"
+          ]
+        },
+        {
+          "answer": "Pedro Delgado",
+          "display": "#3 — + 3' 34\"",
+          "aliases": [
+            "Delgado"
+          ]
+        },
+        {
+          "answer": "Gert-Jan Theunisse",
+          "display": "#4 — + 7' 30\"",
+          "aliases": [
+            "Theunisse"
+          ]
+        },
+        {
+          "answer": "Marino Lejarreta",
+          "display": "#5 — + 9' 39\"",
+          "aliases": [
+            "Lejarreta"
+          ]
+        },
+        {
+          "answer": "Charly Mottet",
+          "display": "#6 — + 10' 06\"",
+          "aliases": [
+            "Mottet"
+          ]
+        },
+        {
+          "answer": "Steven Rooks",
+          "display": "#7 — + 11' 10\"",
+          "aliases": [
+            "Rooks"
+          ]
+        },
+        {
+          "answer": "Raúl Alcalá",
+          "display": "#8 — + 14' 21\"",
+          "aliases": [
+            "Alcalá"
+          ]
+        },
+        {
+          "answer": "Sean Kelly",
+          "display": "#9 — + 18' 25\"",
+          "aliases": [
+            "Kelly"
+          ]
+        },
+        {
+          "answer": "Robert Millar",
+          "display": "#10 — + 18' 46\"",
+          "aliases": [
+            "Millar"
+          ]
+        },
+        {
+          "answer": "Gianni Bugno",
+          "display": "#11 — + 24' 12\"",
+          "aliases": [
+            "Bugno"
+          ]
+        },
+        {
+          "answer": "Éric Caritoux",
+          "display": "#12 — + 28' 14\"",
+          "aliases": [
+            "Caritoux"
+          ]
+        },
+        {
+          "answer": "Pascal Simon",
+          "display": "#13 — + 28' 28\"",
+          "aliases": [
+            "Simon"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/cycling/tour-de-france",
+      "question": "Top 10 riders in the final general classification of the 1990 Tour de France",
+      "cutoff": 10,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1367178401 | table 4+5 | name: Rider | value: Rank | order: asc",
+      "tags": [
+        "cycling",
+        "tour de france",
+        "general classification",
+        "1990"
+      ],
+      "answers": [
+        {
+          "answer": "Greg LeMond",
+          "display": "#1 — 90h 43' 20\"",
+          "aliases": [
+            "LeMond"
+          ]
+        },
+        {
+          "answer": "Claudio Chiappucci",
+          "display": "#2 — + 2' 16\"",
+          "aliases": [
+            "Chiappucci"
+          ]
+        },
+        {
+          "answer": "Erik Breukink",
+          "display": "#3 — + 2' 29\"",
+          "aliases": [
+            "Breukink"
+          ]
+        },
+        {
+          "answer": "Pedro Delgado",
+          "display": "#4 — + 5' 01\"",
+          "aliases": [
+            "Delgado"
+          ]
+        },
+        {
+          "answer": "Marino Lejarreta",
+          "display": "#5 — + 5' 05\"",
+          "aliases": [
+            "Lejarreta"
+          ]
+        },
+        {
+          "answer": "Eduardo Chozas",
+          "display": "#6 — + 9' 14\"",
+          "aliases": [
+            "Chozas"
+          ]
+        },
+        {
+          "answer": "Gianni Bugno",
+          "display": "#7 — + 9' 39\"",
+          "aliases": [
+            "Bugno"
+          ]
+        },
+        {
+          "answer": "Raúl Alcalá",
+          "display": "#8 — + 11' 14\"",
+          "aliases": [
+            "Alcalá"
+          ]
+        },
+        {
+          "answer": "Claude Criquielion",
+          "display": "#9 — + 12' 04\"",
+          "aliases": [
+            "Criquielion"
+          ]
+        },
+        {
+          "answer": "Miguel Induráin",
+          "display": "#10 — + 12' 47\"",
+          "aliases": [
+            "Induráin"
+          ]
+        },
+        {
+          "answer": "Andrew Hampsten",
+          "display": "#11 — + 12' 54\"",
+          "aliases": [
+            "Hampsten"
+          ]
+        },
+        {
+          "answer": "Pello Ruiz",
+          "display": "#12 — + 13' 39\"",
+          "aliases": [
+            "Ruiz"
+          ]
+        },
+        {
+          "answer": "Fabio Parra",
+          "display": "#13 — + 14' 35\"",
+          "aliases": [
+            "Parra"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/cycling/tour-de-france",
+      "question": "Top 10 riders in the final general classification of the 1991 Tour de France",
+      "cutoff": 10,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1369258934 | table 4+5 | name: Rider | value: Rank | order: asc",
+      "tags": [
+        "cycling",
+        "tour de france",
+        "general classification",
+        "1991"
+      ],
+      "answers": [
+        {
+          "answer": "Miguel Induráin",
+          "display": "#1 — 101h 01' 20\"",
+          "aliases": [
+            "Induráin"
+          ]
+        },
+        {
+          "answer": "Gianni Bugno",
+          "display": "#2 — + 3' 36\"",
+          "aliases": [
+            "Bugno"
+          ]
+        },
+        {
+          "answer": "Claudio Chiappucci",
+          "display": "#3 — + 5' 56\"",
+          "aliases": [
+            "Chiappucci"
+          ]
+        },
+        {
+          "answer": "Charly Mottet",
+          "display": "#4 — + 7' 37\"",
+          "aliases": [
+            "Mottet"
+          ]
+        },
+        {
+          "answer": "Luc Leblanc",
+          "display": "#5 — + 10' 10\"",
+          "aliases": [
+            "Leblanc"
+          ]
+        },
+        {
+          "answer": "Laurent Fignon",
+          "display": "#6 — + 11' 27\"",
+          "aliases": [
+            "Fignon"
+          ]
+        },
+        {
+          "answer": "Greg LeMond",
+          "display": "#7 — + 13' 13\"",
+          "aliases": [
+            "LeMond"
+          ]
+        },
+        {
+          "answer": "Andrew Hampsten",
+          "display": "#8 — + 13' 40\"",
+          "aliases": [
+            "Hampsten"
+          ]
+        },
+        {
+          "answer": "Pedro Delgado",
+          "display": "#9 — + 20' 10\"",
+          "aliases": [
+            "Delgado"
+          ]
+        },
+        {
+          "answer": "Gérard Rué",
+          "display": "#10 — + 20' 13\""
+        },
+        {
+          "answer": "Eduardo Chozas",
+          "display": "#11 — + 21' 00\"",
+          "aliases": [
+            "Chozas"
+          ]
+        },
+        {
+          "answer": "Abelardo Rondon",
+          "display": "#12 — + 26' 47\"",
+          "aliases": [
+            "Rondon"
+          ]
+        },
+        {
+          "answer": "Gert-Jan Theunisse",
+          "display": "#13 — + 27' 10\"",
+          "aliases": [
+            "Theunisse"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/cycling/tour-de-france",
+      "question": "Top 10 riders in the final general classification of the 1992 Tour de France",
+      "cutoff": 10,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1369259015 | table 4+5 | name: Rider | value: Rank | order: asc",
+      "tags": [
+        "cycling",
+        "tour de france",
+        "general classification",
+        "1992"
+      ],
+      "answers": [
+        {
+          "answer": "Miguel Induráin",
+          "display": "#1 — 100h 49' 30\"",
+          "aliases": [
+            "Induráin"
+          ]
+        },
+        {
+          "answer": "Claudio Chiappucci",
+          "display": "#2 — + 4' 35\"",
+          "aliases": [
+            "Chiappucci"
+          ]
+        },
+        {
+          "answer": "Gianni Bugno",
+          "display": "#3 — + 10' 49\"",
+          "aliases": [
+            "Bugno"
+          ]
+        },
+        {
+          "answer": "Andrew Hampsten",
+          "display": "#4 — + 13' 40\"",
+          "aliases": [
+            "Hampsten"
+          ]
+        },
+        {
+          "answer": "Pascal Lino",
+          "display": "#5 — + 14' 37\"",
+          "aliases": [
+            "Lino"
+          ]
+        },
+        {
+          "answer": "Pedro Delgado",
+          "display": "#6 — + 15' 16\"",
+          "aliases": [
+            "Delgado"
+          ]
+        },
+        {
+          "answer": "Erik Breukink",
+          "display": "#7 — + 18' 51\"",
+          "aliases": [
+            "Breukink"
+          ]
+        },
+        {
+          "answer": "Giancarlo Perini",
+          "display": "#8 — + 19' 16\"",
+          "aliases": [
+            "Perini"
+          ]
+        },
+        {
+          "answer": "Stephen Roche",
+          "display": "#9 — + 20' 23\"",
+          "aliases": [
+            "Roche"
+          ]
+        },
+        {
+          "answer": "Jens Heppner",
+          "display": "#10 — + 25' 30\"",
+          "aliases": [
+            "Heppner"
+          ]
+        },
+        {
+          "answer": "Franco Vona",
+          "display": "#11 — + 25' 43\"",
+          "aliases": [
+            "Vona"
+          ]
+        },
+        {
+          "answer": "Éric Boyer",
+          "display": "#12 — + 26' 16\"",
+          "aliases": [
+            "Boyer"
+          ]
+        },
+        {
+          "answer": "Gert-Jan Theunisse",
+          "display": "#13 — + 27' 07\"",
+          "aliases": [
+            "Theunisse"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/cycling/tour-de-france",
+      "question": "Top 10 riders in the final general classification of the 1993 Tour de France",
+      "cutoff": 10,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1366335198 | table 4+5 | name: Rider | value: Rank | order: asc",
+      "tags": [
+        "cycling",
+        "tour de france",
+        "general classification",
+        "1993"
+      ],
+      "answers": [
+        {
+          "answer": "Miguel Induráin",
+          "display": "#1 — 95h 57' 09\"",
+          "aliases": [
+            "Induráin"
+          ]
+        },
+        {
+          "answer": "Tony Rominger",
+          "display": "#2 — + 4' 59\"",
+          "aliases": [
+            "Toni Rominger",
+            "Rominger"
+          ]
+        },
+        {
+          "answer": "Zenon Jaskuła",
+          "display": "#3 — + 5' 48\"",
+          "aliases": [
+            "Jaskuła"
+          ]
+        },
+        {
+          "answer": "Alvaro Mejia",
+          "display": "#4 — + 7' 29\"",
+          "aliases": [
+            "Mejia"
+          ]
+        },
+        {
+          "answer": "Bjarne Riis",
+          "display": "#5 — + 16' 26\"",
+          "aliases": [
+            "Riis"
+          ]
+        },
+        {
+          "answer": "Claudio Chiappucci",
+          "display": "#6 — + 17' 18\"",
+          "aliases": [
+            "Chiappucci"
+          ]
+        },
+        {
+          "answer": "Johan Bruyneel",
+          "display": "#7 — + 18' 04\"",
+          "aliases": [
+            "Bruyneel"
+          ]
+        },
+        {
+          "answer": "Andrew Hampsten",
+          "display": "#8 — + 20' 14\"",
+          "aliases": [
+            "Hampsten"
+          ]
+        },
+        {
+          "answer": "Pedro Delgado",
+          "display": "#9 — + 23' 57\"",
+          "aliases": [
+            "Delgado"
+          ]
+        },
+        {
+          "answer": "Vladimir Poulnikov",
+          "display": "#10 — + 25' 29\"",
+          "aliases": [
+            "Poulnikov"
+          ]
+        },
+        {
+          "answer": "Gianni Faresin",
+          "display": "#11 — + 29' 05\"",
+          "aliases": [
+            "Faresin"
+          ]
+        },
+        {
+          "answer": "Antonio Martín",
+          "display": "#12 — + 29' 51\"",
+          "aliases": [
+            "Martín"
+          ]
+        },
+        {
+          "answer": "Stephen Roche",
+          "display": "#13 — + 29' 53\"",
+          "aliases": [
+            "Roche"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/cycling/tour-de-france",
+      "question": "Top 10 riders in the final general classification of the 1994 Tour de France",
+      "cutoff": 10,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1367379940 | table 4+5 | name: Rider | value: Rank | order: asc",
+      "tags": [
+        "cycling",
+        "tour de france",
+        "general classification",
+        "1994"
+      ],
+      "answers": [
+        {
+          "answer": "Miguel Induráin",
+          "display": "#1 — 103h 38' 38\"",
+          "aliases": [
+            "Induráin"
+          ]
+        },
+        {
+          "answer": "Piotr Ugrumov",
+          "display": "#2 — + 5' 39\"",
+          "aliases": [
+            "Ugrumov"
+          ]
+        },
+        {
+          "answer": "Marco Pantani",
+          "display": "#3 — + 7' 19\"",
+          "aliases": [
+            "Pantani"
+          ]
+        },
+        {
+          "answer": "Luc Leblanc",
+          "display": "#4 — + 10' 03\"",
+          "aliases": [
+            "Leblanc"
+          ]
+        },
+        {
+          "answer": "Richard Virenque",
+          "display": "#5 — + 10' 10\"",
+          "aliases": [
+            "Virenque"
+          ]
+        },
+        {
+          "answer": "Roberto Conti",
+          "display": "#6 — + 12' 29\"",
+          "aliases": [
+            "Conti"
+          ]
+        },
+        {
+          "answer": "Alberto Elli",
+          "display": "#7 — + 20' 17\"",
+          "aliases": [
+            "Elli"
+          ]
+        },
+        {
+          "answer": "Alex Zülle",
+          "display": "#8 — + 20' 35\"",
+          "aliases": [
+            "Zülle"
+          ]
+        },
+        {
+          "answer": "Udo Bölts",
+          "display": "#9 — + 25' 19\"",
+          "aliases": [
+            "Bölts"
+          ]
+        },
+        {
+          "answer": "Vladimir Poulnikov",
+          "display": "#10 — + 25' 28\"",
+          "aliases": [
+            "Poulnikov"
+          ]
+        },
+        {
+          "answer": "Pascal Lino",
+          "display": "#11 — + 26' 01\"",
+          "aliases": [
+            "Lino"
+          ]
+        },
+        {
+          "answer": "Fernando Escartín",
+          "display": "#12 — + 30' 38\"",
+          "aliases": [
+            "Escartín"
+          ]
+        },
+        {
+          "answer": "Gianluca Bortolami",
+          "display": "#13 — + 32' 35\"",
+          "aliases": [
+            "Bortolami"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/cycling/tour-de-france",
+      "question": "Top 10 riders in the final general classification of the 1995 Tour de France",
+      "cutoff": 10,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1305622920 | table 4+5 | name: Rider | value: Rank | order: asc",
+      "tags": [
+        "cycling",
+        "tour de france",
+        "general classification",
+        "1995"
+      ],
+      "answers": [
+        {
+          "answer": "Miguel Induráin",
+          "display": "#1 — 92h 44' 59\"",
+          "aliases": [
+            "Induráin"
+          ]
+        },
+        {
+          "answer": "Alex Zülle",
+          "display": "#2 — + 4' 35\"",
+          "aliases": [
+            "Zülle"
+          ]
+        },
+        {
+          "answer": "Bjarne Riis",
+          "display": "#3 — + 6' 47\"",
+          "aliases": [
+            "Riis"
+          ]
+        },
+        {
+          "answer": "Laurent Jalabert",
+          "display": "#4 — + 8' 24\"",
+          "aliases": [
+            "Jalabert"
+          ]
+        },
+        {
+          "answer": "Ivan Gotti",
+          "display": "#5 — + 11' 33\"",
+          "aliases": [
+            "Gotti"
+          ]
+        },
+        {
+          "answer": "Melcior Mauri",
+          "display": "#6 — + 15' 20\"",
+          "aliases": [
+            "Mauri"
+          ]
+        },
+        {
+          "answer": "Fernando Escartín",
+          "display": "#7 — + 15' 49\"",
+          "aliases": [
+            "Escartín"
+          ]
+        },
+        {
+          "answer": "Tony Rominger",
+          "display": "#8 — + 16' 46\"",
+          "aliases": [
+            "Rominger"
+          ]
+        },
+        {
+          "answer": "Richard Virenque",
+          "display": "#9 — + 17' 31\"",
+          "aliases": [
+            "Virenque"
+          ]
+        },
+        {
+          "answer": "Hernán Buenahora",
+          "display": "#10 — + 18' 50\"",
+          "aliases": [
+            "Buenahora"
+          ]
+        },
+        {
+          "answer": "Claudio Chiappucci",
+          "display": "#11 — + 18' 55\"",
+          "aliases": [
+            "Chiappucci"
+          ]
+        },
+        {
+          "answer": "Laurent Madouas",
+          "display": "#12 — + 20' 37\"",
+          "aliases": [
+            "Madouas"
+          ]
+        },
+        {
+          "answer": "Marco Pantani",
+          "display": "#13 — + 26' 20\"",
+          "aliases": [
+            "Pantani"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/cycling/tour-de-france",
+      "question": "Top 10 riders in the final general classification of the 1996 Tour de France",
+      "cutoff": 10,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1370648287 | table 4+5 | name: Rider | value: Rank | order: asc",
+      "tags": [
+        "cycling",
+        "tour de france",
+        "general classification",
+        "1996"
+      ],
+      "answers": [
+        {
+          "answer": "Bjarne Riis",
+          "display": "#1 — 95h 57' 16\"",
+          "aliases": [
+            "Riis"
+          ]
+        },
+        {
+          "answer": "Jan Ullrich",
+          "display": "#2 — + 1' 41\"",
+          "aliases": [
+            "Ullrich"
+          ]
+        },
+        {
+          "answer": "Richard Virenque",
+          "display": "#3 — + 4' 37\"",
+          "aliases": [
+            "Virenque"
+          ]
+        },
+        {
+          "answer": "Laurent Dufaux",
+          "display": "#4 — + 5' 53\"",
+          "aliases": [
+            "Dufaux"
+          ]
+        },
+        {
+          "answer": "Peter Luttenberger",
+          "display": "#5 — + 7' 07\"",
+          "aliases": [
+            "Luttenberger"
+          ]
+        },
+        {
+          "answer": "Luc Leblanc",
+          "display": "#6 — + 10' 03\"",
+          "aliases": [
+            "Leblanc"
+          ]
+        },
+        {
+          "answer": "Piotr Ugrumov",
+          "display": "#7 — + 10' 04\"",
+          "aliases": [
+            "Ugrumov"
+          ]
+        },
+        {
+          "answer": "Fernando Escartín",
+          "display": "#8 — + 10' 26\"",
+          "aliases": [
+            "Escartín"
+          ]
+        },
+        {
+          "answer": "Abraham Olano",
+          "display": "#9 — + 11' 00\"",
+          "aliases": [
+            "Olano"
+          ]
+        },
+        {
+          "answer": "Tony Rominger",
+          "display": "#10 — + 11' 53\"",
+          "aliases": [
+            "Rominger"
+          ]
+        },
+        {
+          "answer": "Miguel Induráin",
+          "display": "#11 — + 14' 14\"",
+          "aliases": [
+            "Induráin"
+          ]
+        },
+        {
+          "answer": "Patrick Jonker",
+          "display": "#12 — + 18' 58\"",
+          "aliases": [
+            "Jonker"
+          ]
+        },
+        {
+          "answer": "Bo Hamburger",
+          "display": "#13 — + 22' 19\"",
+          "aliases": [
+            "Hamburger"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/cycling/tour-de-france",
+      "question": "Top 10 riders in the final general classification of the 1997 Tour de France",
+      "cutoff": 10,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1311319452 | table 4+5 | name: Rider | value: Rank | order: asc",
+      "tags": [
+        "cycling",
+        "tour de france",
+        "general classification",
+        "1997"
+      ],
+      "answers": [
+        {
+          "answer": "Jan Ullrich",
+          "display": "#1 — 100h 30' 35\"",
+          "aliases": [
+            "Ullrich"
+          ]
+        },
+        {
+          "answer": "Richard Virenque",
+          "display": "#2 — + 9' 09\"",
+          "aliases": [
+            "Virenque"
+          ]
+        },
+        {
+          "answer": "Marco Pantani",
+          "display": "#3 — + 14' 03\"",
+          "aliases": [
+            "Pantani"
+          ]
+        },
+        {
+          "answer": "Abraham Olano",
+          "display": "#4 — + 15' 55\"",
+          "aliases": [
+            "Olano"
+          ]
+        },
+        {
+          "answer": "Fernando Escartín",
+          "display": "#5 — + 20' 32\"",
+          "aliases": [
+            "Escartín"
+          ]
+        },
+        {
+          "answer": "Francesco Casagrande",
+          "display": "#6 — + 22' 47\"",
+          "aliases": [
+            "Casagrande"
+          ]
+        },
+        {
+          "answer": "Bjarne Riis",
+          "display": "#7 — + 26' 34\"",
+          "aliases": [
+            "Riis"
+          ]
+        },
+        {
+          "answer": "José María Jiménez",
+          "display": "#8 — + 31' 17\"",
+          "aliases": [
+            "Jiménez"
+          ]
+        },
+        {
+          "answer": "Laurent Dufaux",
+          "display": "#9 — + 31' 55\"",
+          "aliases": [
+            "Dufaux"
+          ]
+        },
+        {
+          "answer": "Roberto Conti",
+          "display": "#10 — + 32' 26\"",
+          "aliases": [
+            "Conti"
+          ]
+        },
+        {
+          "answer": "Beat Zberg",
+          "display": "#11 — + 35' 41\"",
+          "aliases": [
+            "Zberg"
+          ]
+        },
+        {
+          "answer": "Oscar Camenzind",
+          "display": "#12 — + 35' 52\"",
+          "aliases": [
+            "Camenzind"
+          ]
+        },
+        {
+          "answer": "Peter Luttenberger",
+          "display": "#13 — + 45' 39\"",
+          "aliases": [
+            "Luttenberger"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/cycling/tour-de-france",
+      "question": "Top 10 riders in the final general classification of the 1998 Tour de France",
+      "cutoff": 10,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1367644478 | table 4+5 | name: Rider | value: Rank | order: asc",
+      "tags": [
+        "cycling",
+        "tour de france",
+        "general classification",
+        "1998"
+      ],
+      "answers": [
+        {
+          "answer": "Marco Pantani",
+          "display": "#1 — 92h 49' 46\"",
+          "aliases": [
+            "Pantani"
+          ]
+        },
+        {
+          "answer": "Jan Ullrich",
+          "display": "#2 — + 3' 21\"",
+          "aliases": [
+            "Ullrich"
+          ]
+        },
+        {
+          "answer": "Bobby Julich",
+          "display": "#3 — + 4' 08\"",
+          "aliases": [
+            "Julich"
+          ]
+        },
+        {
+          "answer": "Christophe Rinero",
+          "display": "#4 — + 9' 16\"",
+          "aliases": [
+            "Rinero"
+          ]
+        },
+        {
+          "answer": "Michael Boogerd",
+          "display": "#5 — + 11' 26\"",
+          "aliases": [
+            "Boogerd"
+          ]
+        },
+        {
+          "answer": "Jean-Cyril Robin",
+          "display": "#6 — + 14' 57\"",
+          "aliases": [
+            "Robin"
+          ]
+        },
+        {
+          "answer": "Roland Meier",
+          "display": "#7 — + 15' 13\"",
+          "aliases": [
+            "Meier"
+          ]
+        },
+        {
+          "answer": "Daniele Nardello",
+          "display": "#8 — + 16' 07\"",
+          "aliases": [
+            "Nardello"
+          ]
+        },
+        {
+          "answer": "Giuseppe Di Grande",
+          "display": "#9 — + 17' 35\"",
+          "aliases": [
+            "Grande"
+          ]
+        },
+        {
+          "answer": "Axel Merckx",
+          "display": "#10 — + 17' 39\"",
+          "aliases": [
+            "Merckx"
+          ]
+        },
+        {
+          "answer": "Bjarne Riis",
+          "display": "#11 — + 19' 10\"",
+          "aliases": [
+            "Riis"
+          ]
+        },
+        {
+          "answer": "Dariusz Baranowski",
+          "display": "#12 — + 19' 58\"",
+          "aliases": [
+            "Baranowski"
+          ]
+        },
+        {
+          "answer": "Stéphane Heulot",
+          "display": "#13 — + 20' 57\"",
+          "aliases": [
+            "Heulot"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/cycling/tour-de-france",
+      "question": "Top 10 riders in the final general classification of the 2013 Tour de France",
+      "cutoff": 10,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1371632028 | table 5+6 | name: Rider | value: Rank | order: asc",
+      "tags": [
+        "cycling",
+        "tour de france",
+        "general classification",
+        "2013"
+      ],
+      "answers": [
+        {
+          "answer": "Chris Froome",
+          "display": "#1 — 83h 56' 40\"",
+          "aliases": [
+            "Froome"
+          ]
+        },
+        {
+          "answer": "Nairo Quintana",
+          "display": "#2 — + 4' 20\"",
+          "aliases": [
+            "Quintana"
+          ]
+        },
+        {
+          "answer": "Joaquim Rodríguez",
+          "display": "#3 — + 5' 04\"",
+          "aliases": [
+            "Rodríguez"
+          ]
+        },
+        {
+          "answer": "Alberto Contador",
+          "display": "#4 — + 6' 27\"",
+          "aliases": [
+            "Contador"
+          ]
+        },
+        {
+          "answer": "Roman Kreuziger",
+          "display": "#5 — + 7' 27\"",
+          "aliases": [
+            "Kreuziger"
+          ]
+        },
+        {
+          "answer": "Bauke Mollema",
+          "display": "#6 — + 11' 42\"",
+          "aliases": [
+            "Mollema"
+          ]
+        },
+        {
+          "answer": "Jakob Fuglsang",
+          "display": "#7 — + 12' 17\"",
+          "aliases": [
+            "Fuglsang"
+          ]
+        },
+        {
+          "answer": "Alejandro Valverde",
+          "display": "#8 — + 15' 26\"",
+          "aliases": [
+            "Valverde"
+          ]
+        },
+        {
+          "answer": "Daniel Navarro",
+          "display": "#9 — + 15' 52\"",
+          "aliases": [
+            "Navarro"
+          ]
+        },
+        {
+          "answer": "Andrew Talansky",
+          "display": "#10 — + 17' 39\"",
+          "aliases": [
+            "Talansky"
+          ]
+        },
+        {
+          "answer": "Michał Kwiatkowski",
+          "display": "#11 — + 18' 59\"",
+          "aliases": [
+            "Kwiatkowski"
+          ]
+        },
+        {
+          "answer": "Mikel Nieve",
+          "display": "#12 — + 20' 01\"",
+          "aliases": [
+            "Nieve"
+          ]
+        },
+        {
+          "answer": "Laurens ten Dam",
+          "display": "#13 — + 21' 39\""
+        }
+      ]
+    },
+    {
+      "category": "sports/cycling/tour-de-france",
+      "question": "Top 10 riders in the final general classification of the 2014 Tour de France",
+      "cutoff": 10,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1312620706 | table 5+6 | name: Rider | value: Rank | order: asc",
+      "tags": [
+        "cycling",
+        "tour de france",
+        "general classification",
+        "2014"
+      ],
+      "answers": [
+        {
+          "answer": "Vincenzo Nibali",
+          "display": "#1 — 89h 59' 06\"",
+          "aliases": [
+            "Nibali"
+          ]
+        },
+        {
+          "answer": "Jean-Christophe Péraud",
+          "display": "#2 — + 7' 37\"",
+          "aliases": [
+            "Péraud"
+          ]
+        },
+        {
+          "answer": "Thibaut Pinot",
+          "display": "#3 — + 8' 15\"",
+          "aliases": [
+            "Pinot"
+          ]
+        },
+        {
+          "answer": "Alejandro Valverde",
+          "display": "#4 — + 9' 40\"",
+          "aliases": [
+            "Valverde"
+          ]
+        },
+        {
+          "answer": "Tejay van Garderen",
+          "display": "#5 — + 11' 24\"",
+          "aliases": [
+            "Garderen"
+          ]
+        },
+        {
+          "answer": "Romain Bardet",
+          "display": "#6 — + 11' 26\"",
+          "aliases": [
+            "Bardet"
+          ]
+        },
+        {
+          "answer": "Leopold König",
+          "display": "#7 — + 14' 32\"",
+          "aliases": [
+            "König"
+          ]
+        },
+        {
+          "answer": "Haimar Zubeldia",
+          "display": "#8 — + 17' 57\"",
+          "aliases": [
+            "Zubeldia"
+          ]
+        },
+        {
+          "answer": "Laurens ten Dam",
+          "display": "#9 — + 18' 11\""
+        },
+        {
+          "answer": "Bauke Mollema",
+          "display": "#10 — + 21' 15\"",
+          "aliases": [
+            "Mollema"
+          ]
+        },
+        {
+          "answer": "Pierre Rolland",
+          "display": "#11 — + 23' 07\"",
+          "aliases": [
+            "Rolland"
+          ]
+        },
+        {
+          "answer": "Fränk Schleck",
+          "display": "#12 — + 25' 48\"",
+          "aliases": [
+            "Schleck"
+          ]
+        },
+        {
+          "answer": "Jurgen Van den Broeck",
+          "display": "#13 — + 34' 01\"",
+          "aliases": [
+            "Broeck"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/cycling/tour-de-france",
+      "question": "Top 10 riders in the final general classification of the 2015 Tour de France",
+      "cutoff": 10,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1364977318 | table 5+6 | name: Rider | value: Rank | order: asc",
+      "tags": [
+        "cycling",
+        "tour de france",
+        "general classification",
+        "2015"
+      ],
+      "answers": [
+        {
+          "answer": "Chris Froome",
+          "display": "#1 — 84h 46' 14\"",
+          "aliases": [
+            "Froome"
+          ]
+        },
+        {
+          "answer": "Nairo Quintana",
+          "display": "#2 — + 1' 12\"",
+          "aliases": [
+            "Quintana"
+          ]
+        },
+        {
+          "answer": "Alejandro Valverde",
+          "display": "#3 — + 5' 25\"",
+          "aliases": [
+            "Valverde"
+          ]
+        },
+        {
+          "answer": "Vincenzo Nibali",
+          "display": "#4 — + 8' 36\"",
+          "aliases": [
+            "Nibali"
+          ]
+        },
+        {
+          "answer": "Alberto Contador",
+          "display": "#5 — + 9' 48\"",
+          "aliases": [
+            "Contador"
+          ]
+        },
+        {
+          "answer": "Robert Gesink",
+          "display": "#6 — + 10' 47\"",
+          "aliases": [
+            "Gesink"
+          ]
+        },
+        {
+          "answer": "Bauke Mollema",
+          "display": "#7 — + 15' 14\"",
+          "aliases": [
+            "Mollema"
+          ]
+        },
+        {
+          "answer": "Mathias Frank",
+          "display": "#8 — + 15' 39\"",
+          "aliases": [
+            "Frank"
+          ]
+        },
+        {
+          "answer": "Romain Bardet",
+          "display": "#9 — + 16' 00\"",
+          "aliases": [
+            "Bardet"
+          ]
+        },
+        {
+          "answer": "Pierre Rolland",
+          "display": "#10 — + 17' 30\"",
+          "aliases": [
+            "Rolland"
+          ]
+        },
+        {
+          "answer": "Andrew Talansky",
+          "display": "#11 — + 22' 06\"",
+          "aliases": [
+            "Talansky"
+          ]
+        },
+        {
+          "answer": "Samuel Sánchez",
+          "display": "#12 — + 22' 50\"",
+          "aliases": [
+            "Sánchez"
+          ]
+        },
+        {
+          "answer": "Serge Pauwels",
+          "display": "#13 — + 31' 03\"",
+          "aliases": [
+            "Pauwels"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/cycling/tour-de-france",
+      "question": "Top 10 riders in the final general classification of the 2016 Tour de France",
+      "cutoff": 10,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1330644520 | table 5+6 | name: Rider | value: Rank | order: asc",
+      "tags": [
+        "cycling",
+        "tour de france",
+        "general classification",
+        "2016"
+      ],
+      "answers": [
+        {
+          "answer": "Chris Froome",
+          "display": "#1 — 89h 04' 48\"",
+          "aliases": [
+            "Froome"
+          ]
+        },
+        {
+          "answer": "Romain Bardet",
+          "display": "#2 — + 4' 05\"",
+          "aliases": [
+            "Bardet"
+          ]
+        },
+        {
+          "answer": "Nairo Quintana",
+          "display": "#3 — + 4' 21\"",
+          "aliases": [
+            "Quintana"
+          ]
+        },
+        {
+          "answer": "Adam Yates",
+          "display": "#4 — + 4' 42\"",
+          "aliases": [
+            "Yates"
+          ]
+        },
+        {
+          "answer": "Richie Porte",
+          "display": "#5 — + 5' 17\"",
+          "aliases": [
+            "Porte"
+          ]
+        },
+        {
+          "answer": "Alejandro Valverde",
+          "display": "#6 — + 6' 16\"",
+          "aliases": [
+            "Valverde"
+          ]
+        },
+        {
+          "answer": "Joaquim Rodríguez",
+          "display": "#7 — + 6' 58\"",
+          "aliases": [
+            "Rodríguez"
+          ]
+        },
+        {
+          "answer": "Louis Meintjes",
+          "display": "#8 — + 6' 58\"",
+          "aliases": [
+            "Meintjes"
+          ]
+        },
+        {
+          "answer": "Dan Martin",
+          "display": "#9 — + 7' 04\"",
+          "aliases": [
+            "Martin"
+          ]
+        },
+        {
+          "answer": "Roman Kreuziger",
+          "display": "#10 — + 7' 11\"",
+          "aliases": [
+            "Kreuziger"
+          ]
+        },
+        {
+          "answer": "Bauke Mollema",
+          "display": "#11 — + 13' 13\"",
+          "aliases": [
+            "Mollema"
+          ]
+        },
+        {
+          "answer": "Sergio Henao",
+          "display": "#12 — + 18' 51\"",
+          "aliases": [
+            "Henao"
+          ]
+        },
+        {
+          "answer": "Fabio Aru",
+          "display": "#13 — + 19' 20\""
+        }
+      ]
+    },
+    {
+      "category": "sports/cycling/tour-de-france",
+      "question": "Top 10 riders in the final general classification of the 2017 Tour de France",
+      "cutoff": 10,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1379035901 | table 5+6 | name: Rider | value: Rank | order: asc",
+      "tags": [
+        "cycling",
+        "tour de france",
+        "general classification",
+        "2017"
+      ],
+      "answers": [
+        {
+          "answer": "Chris Froome",
+          "display": "#1 — 86h 20' 55\"",
+          "aliases": [
+            "Froome"
+          ]
+        },
+        {
+          "answer": "Rigoberto Urán",
+          "display": "#2 — + 54\"",
+          "aliases": [
+            "Urán"
+          ]
+        },
+        {
+          "answer": "Romain Bardet",
+          "display": "#3 — + 2' 20\"",
+          "aliases": [
+            "Bardet"
+          ]
+        },
+        {
+          "answer": "Mikel Landa",
+          "display": "#4 — + 2' 21\"",
+          "aliases": [
+            "Landa"
+          ]
+        },
+        {
+          "answer": "Fabio Aru",
+          "display": "#5 — + 3' 05\""
+        },
+        {
+          "answer": "Dan Martin",
+          "display": "#6 — + 4' 42\"",
+          "aliases": [
+            "Martin"
+          ]
+        },
+        {
+          "answer": "Simon Yates",
+          "display": "#7 — + 6' 14\"",
+          "aliases": [
+            "Yates"
+          ]
+        },
+        {
+          "answer": "Louis Meintjes",
+          "display": "#8 — + 8' 20\"",
+          "aliases": [
+            "Meintjes"
+          ]
+        },
+        {
+          "answer": "Alberto Contador",
+          "display": "#9 — + 8' 49\"",
+          "aliases": [
+            "Contador"
+          ]
+        },
+        {
+          "answer": "Warren Barguil",
+          "display": "#10 — + 9' 25\"",
+          "aliases": [
+            "Barguil"
+          ]
+        },
+        {
+          "answer": "Damiano Caruso",
+          "display": "#11 — + 14' 48\"",
+          "aliases": [
+            "Caruso"
+          ]
+        },
+        {
+          "answer": "Nairo Quintana",
+          "display": "#12 — + 15' 28\"",
+          "aliases": [
+            "Quintana"
+          ]
+        },
+        {
+          "answer": "Alexis Vuillermoz",
+          "display": "#13 — + 24' 38\"",
+          "aliases": [
+            "Vuillermoz"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/cycling/tour-de-france",
+      "question": "Top 10 riders in the final general classification of the 2018 Tour de France",
+      "cutoff": 10,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1355537518 | table 5+6 | name: Rider | value: Rank | order: asc",
+      "tags": [
+        "cycling",
+        "tour de france",
+        "general classification",
+        "2018"
+      ],
+      "answers": [
+        {
+          "answer": "Geraint Thomas",
+          "display": "#1 — 83h 17' 13\"",
+          "aliases": [
+            "Thomas"
+          ]
+        },
+        {
+          "answer": "Tom Dumoulin",
+          "display": "#2 — + 1' 51\"",
+          "aliases": [
+            "Dumoulin"
+          ]
+        },
+        {
+          "answer": "Chris Froome",
+          "display": "#3 — + 2' 24\"",
+          "aliases": [
+            "Froome"
+          ]
+        },
+        {
+          "answer": "Primož Roglič",
+          "display": "#4 — + 3' 22\"",
+          "aliases": [
+            "Roglič"
+          ]
+        },
+        {
+          "answer": "Steven Kruijswijk",
+          "display": "#5 — + 6' 08\"",
+          "aliases": [
+            "Kruijswijk"
+          ]
+        },
+        {
+          "answer": "Romain Bardet",
+          "display": "#6 — + 6' 57\"",
+          "aliases": [
+            "Bardet"
+          ]
+        },
+        {
+          "answer": "Mikel Landa",
+          "display": "#7 — + 7' 37\"",
+          "aliases": [
+            "Landa"
+          ]
+        },
+        {
+          "answer": "Dan Martin",
+          "display": "#8 — + 9' 05\"",
+          "aliases": [
+            "Martin"
+          ]
+        },
+        {
+          "answer": "Ilnur Zakarin",
+          "display": "#9 — + 12' 37\"",
+          "aliases": [
+            "Zakarin"
+          ]
+        },
+        {
+          "answer": "Nairo Quintana",
+          "display": "#10 — + 14' 18\"",
+          "aliases": [
+            "Quintana"
+          ]
+        },
+        {
+          "answer": "Bob Jungels",
+          "display": "#11 — + 16' 32\"",
+          "aliases": [
+            "Jungels"
+          ]
+        },
+        {
+          "answer": "Jakob Fuglsang",
+          "display": "#12 — + 19' 46\"",
+          "aliases": [
+            "Fuglsang"
+          ]
+        },
+        {
+          "answer": "Pierre Latour",
+          "display": "#13 — + 22' 13\"",
+          "aliases": [
+            "Latour"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/cycling/tour-de-france",
+      "question": "Top 10 riders in the final general classification of the 2019 Tour de France",
+      "cutoff": 10,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1374929362 | table 4+5 | name: Rider | value: Rank | order: asc",
+      "tags": [
+        "cycling",
+        "tour de france",
+        "general classification",
+        "2019"
+      ],
+      "answers": [
+        {
+          "answer": "Egan Bernal",
+          "display": "#1 — 82h 57' 00\"",
+          "aliases": [
+            "Bernal"
+          ]
+        },
+        {
+          "answer": "Geraint Thomas",
+          "display": "#2 — + 1' 11\"",
+          "aliases": [
+            "Thomas"
+          ]
+        },
+        {
+          "answer": "Steven Kruijswijk",
+          "display": "#3 — + 1' 31\"",
+          "aliases": [
+            "Kruijswijk"
+          ]
+        },
+        {
+          "answer": "Emanuel Buchmann",
+          "display": "#4 — + 1' 56\"",
+          "aliases": [
+            "Buchmann"
+          ]
+        },
+        {
+          "answer": "Julian Alaphilippe",
+          "display": "#5 — + 4' 05\"",
+          "aliases": [
+            "Alaphilippe"
+          ]
+        },
+        {
+          "answer": "Mikel Landa",
+          "display": "#6 — + 4' 23\"",
+          "aliases": [
+            "Landa"
+          ]
+        },
+        {
+          "answer": "Rigoberto Urán",
+          "display": "#7 — + 5' 15\"",
+          "aliases": [
+            "Urán"
+          ]
+        },
+        {
+          "answer": "Nairo Quintana",
+          "display": "#8 — + 5' 30\"",
+          "aliases": [
+            "Quintana"
+          ]
+        },
+        {
+          "answer": "Alejandro Valverde",
+          "display": "#9 — + 6' 12\"",
+          "aliases": [
+            "Valverde"
+          ]
+        },
+        {
+          "answer": "Warren Barguil",
+          "display": "#10 — + 7' 32\"",
+          "aliases": [
+            "Barguil"
+          ]
+        },
+        {
+          "answer": "Richie Porte",
+          "display": "#11 — + 12' 42\"",
+          "aliases": [
+            "Porte"
+          ]
+        },
+        {
+          "answer": "Guillaume Martin",
+          "display": "#12 — + 22' 08\"",
+          "aliases": [
+            "Martin"
+          ]
+        },
+        {
+          "answer": "David Gaudu",
+          "display": "#13 — + 23' 58\"",
+          "aliases": [
+            "Gaudu"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/cycling/tour-de-france",
+      "question": "Top 10 riders in the final general classification of the 2020 Tour de France",
+      "cutoff": 10,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1375616099 | table 4+5 | name: Rider | value: Rank | order: asc",
+      "tags": [
+        "cycling",
+        "tour de france",
+        "general classification",
+        "2020"
+      ],
+      "answers": [
+        {
+          "answer": "Tadej Pogačar",
+          "display": "#1 — 87h 20' 05\"",
+          "aliases": [
+            "Pogačar"
+          ]
+        },
+        {
+          "answer": "Primož Roglič",
+          "display": "#2 — + 59\"",
+          "aliases": [
+            "Roglič"
+          ]
+        },
+        {
+          "answer": "Richie Porte",
+          "display": "#3 — + 3' 30\"",
+          "aliases": [
+            "Porte"
+          ]
+        },
+        {
+          "answer": "Mikel Landa",
+          "display": "#4 — + 5' 58\"",
+          "aliases": [
+            "Landa"
+          ]
+        },
+        {
+          "answer": "Enric Mas",
+          "display": "#5 — + 6' 07\""
+        },
+        {
+          "answer": "Miguel Ángel López",
+          "display": "#6 — + 6' 47\"",
+          "aliases": [
+            "López"
+          ]
+        },
+        {
+          "answer": "Tom Dumoulin",
+          "display": "#7 — + 7' 48\"",
+          "aliases": [
+            "Dumoulin"
+          ]
+        },
+        {
+          "answer": "Rigoberto Urán",
+          "display": "#8 — + 8' 02\"",
+          "aliases": [
+            "Urán"
+          ]
+        },
+        {
+          "answer": "Adam Yates",
+          "display": "#9 — + 9' 25\"",
+          "aliases": [
+            "Yates"
+          ]
+        },
+        {
+          "answer": "Damiano Caruso",
+          "display": "#10 — + 14' 03\"",
+          "aliases": [
+            "Caruso"
+          ]
+        },
+        {
+          "answer": "Guillaume Martin",
+          "display": "#11 — + 16' 58\"",
+          "aliases": [
+            "Martin"
+          ]
+        },
+        {
+          "answer": "Alejandro Valverde",
+          "display": "#12 — + 17' 41\"",
+          "aliases": [
+            "Valverde"
+          ]
+        },
+        {
+          "answer": "Richard Carapaz",
+          "display": "#13 — + 25' 53\"",
+          "aliases": [
+            "Carapaz"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/cycling/tour-de-france",
+      "question": "Top 10 riders in the final general classification of the 2021 Tour de France",
+      "cutoff": 10,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1366139922 | table 4+5 | name: Rider | value: Rank | order: asc",
+      "tags": [
+        "cycling",
+        "tour de france",
+        "general classification",
+        "2021"
+      ],
+      "answers": [
+        {
+          "answer": "Tadej Pogačar",
+          "display": "#1 — 82h 56' 36\"",
+          "aliases": [
+            "Pogačar"
+          ]
+        },
+        {
+          "answer": "Jonas Vingegaard",
+          "display": "#2 — + 5' 20\"",
+          "aliases": [
+            "Vingegaard"
+          ]
+        },
+        {
+          "answer": "Richard Carapaz",
+          "display": "#3 — + 7' 03\"",
+          "aliases": [
+            "Carapaz"
+          ]
+        },
+        {
+          "answer": "Ben O'Connor",
+          "display": "#4 — + 10' 02\"",
+          "aliases": [
+            "O'Connor"
+          ]
+        },
+        {
+          "answer": "Wilco Kelderman",
+          "display": "#5 — + 10' 13\"",
+          "aliases": [
+            "Kelderman"
+          ]
+        },
+        {
+          "answer": "Enric Mas",
+          "display": "#6 — + 11' 43\""
+        },
+        {
+          "answer": "Alexey Lutsenko",
+          "display": "#7 — + 12' 23\"",
+          "aliases": [
+            "Lutsenko"
+          ]
+        },
+        {
+          "answer": "Guillaume Martin",
+          "display": "#8 — + 15' 33\"",
+          "aliases": [
+            "Martin"
+          ]
+        },
+        {
+          "answer": "Pello Bilbao",
+          "display": "#9 — + 16' 04\"",
+          "aliases": [
+            "Bilbao"
+          ]
+        },
+        {
+          "answer": "Rigoberto Urán",
+          "display": "#10 — + 18' 34\"",
+          "aliases": [
+            "Urán"
+          ]
+        },
+        {
+          "answer": "David Gaudu",
+          "display": "#11 — + 21' 50\"",
+          "aliases": [
+            "Gaudu"
+          ]
+        },
+        {
+          "answer": "Mattia Cattaneo",
+          "display": "#12 — + 24' 58\"",
+          "aliases": [
+            "Cattaneo"
+          ]
+        },
+        {
+          "answer": "Esteban Chaves",
+          "display": "#13 — + 37' 48\"",
+          "aliases": [
+            "Chaves"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/cycling/tour-de-france",
+      "question": "Top 10 riders in the final general classification of the 2023 Tour de France",
+      "cutoff": 10,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1365307404 | table 4+5 | name: Rider | value: Rank | order: asc",
+      "tags": [
+        "cycling",
+        "tour de france",
+        "general classification",
+        "2023"
+      ],
+      "answers": [
+        {
+          "answer": "Jonas Vingegaard",
+          "display": "#1 — 82h 05' 42\"",
+          "aliases": [
+            "Vingegaard"
+          ]
+        },
+        {
+          "answer": "Tadej Pogačar",
+          "display": "#2 — + 7' 29\"",
+          "aliases": [
+            "Pogačar"
+          ]
+        },
+        {
+          "answer": "Adam Yates",
+          "display": "#3 — + 10' 56\""
+        },
+        {
+          "answer": "Simon Yates",
+          "display": "#4 — + 12' 23\""
+        },
+        {
+          "answer": "Carlos Rodríguez",
+          "display": "#5 — + 13' 17\"",
+          "aliases": [
+            "Rodríguez"
+          ]
+        },
+        {
+          "answer": "Pello Bilbao",
+          "display": "#6 — + 13' 27\"",
+          "aliases": [
+            "Bilbao"
+          ]
+        },
+        {
+          "answer": "Jai Hindley",
+          "display": "#7 — + 14' 44\"",
+          "aliases": [
+            "Hindley"
+          ]
+        },
+        {
+          "answer": "Felix Gall",
+          "display": "#8 — + 16' 09\"",
+          "aliases": [
+            "Gall"
+          ]
+        },
+        {
+          "answer": "David Gaudu",
+          "display": "#9 — + 23' 08\"",
+          "aliases": [
+            "Gaudu"
+          ]
+        },
+        {
+          "answer": "Guillaume Martin",
+          "display": "#10 — + 26' 30\"",
+          "aliases": [
+            "Martin"
+          ]
+        },
+        {
+          "answer": "Thibaut Pinot",
+          "display": "#11 — + 28' 03\"",
+          "aliases": [
+            "Pinot"
+          ]
+        },
+        {
+          "answer": "Sepp Kuss",
+          "display": "#12 — + 37' 32\"",
+          "aliases": [
+            "Kuss"
+          ]
+        },
+        {
+          "answer": "Tom Pidcock",
+          "display": "#13 — + 47' 52\"",
+          "aliases": [
+            "Pidcock"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/cycling/tour-de-france",
+      "question": "Top 10 riders in the final general classification of the 2024 Tour de France",
+      "cutoff": 10,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1362344899 | table 4+5 | name: Rider | value: Rank | order: asc",
+      "tags": [
+        "cycling",
+        "tour de france",
+        "general classification",
+        "2024"
+      ],
+      "answers": [
+        {
+          "answer": "Tadej Pogačar",
+          "display": "#1 — 83h 38' 56\"",
+          "aliases": [
+            "Pogačar"
+          ]
+        },
+        {
+          "answer": "Jonas Vingegaard",
+          "display": "#2 — + 6' 17\"",
+          "aliases": [
+            "Vingegaard"
+          ]
+        },
+        {
+          "answer": "Remco Evenepoel",
+          "display": "#3 — + 9' 18\"",
+          "aliases": [
+            "Evenepoel"
+          ]
+        },
+        {
+          "answer": "João Almeida",
+          "display": "#4 — + 19' 03\"",
+          "aliases": [
+            "Almeida"
+          ]
+        },
+        {
+          "answer": "Mikel Landa",
+          "display": "#5 — + 20' 06\"",
+          "aliases": [
+            "Landa"
+          ]
+        },
+        {
+          "answer": "Adam Yates",
+          "display": "#6 — + 24' 07\""
+        },
+        {
+          "answer": "Carlos Rodríguez",
+          "display": "#7 — + 25' 04\"",
+          "aliases": [
+            "Rodríguez"
+          ]
+        },
+        {
+          "answer": "Matteo Jorgenson",
+          "display": "#8 — + 26' 34\"",
+          "aliases": [
+            "Jorgenson"
+          ]
+        },
+        {
+          "answer": "Derek Gee",
+          "display": "#9 — + 27' 21\""
+        },
+        {
+          "answer": "Santiago Buitrago",
+          "display": "#10 — + 29' 03\"",
+          "aliases": [
+            "Buitrago"
+          ]
+        },
+        {
+          "answer": "Giulio Ciccone",
+          "display": "#11 — + 30' 42\"",
+          "aliases": [
+            "Ciccone"
+          ]
+        },
+        {
+          "answer": "Simon Yates",
+          "display": "#12 — + 39' 04\""
+        },
+        {
+          "answer": "Guillaume Martin",
+          "display": "#13 — + 43' 49\"",
+          "aliases": [
+            "Martin"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/cycling/tour-de-france",
+      "question": "Top 10 riders in the final general classification of the 2025 Tour de France",
+      "cutoff": 10,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1371132850 | table 4+5 | name: Rider | value: Rank | order: asc",
+      "tags": [
+        "cycling",
+        "tour de france",
+        "general classification",
+        "2025"
+      ],
+      "answers": [
+        {
+          "answer": "Tadej Pogačar",
+          "display": "#1 — 76h 00' 32\"",
+          "aliases": [
+            "Pogačar"
+          ]
+        },
+        {
+          "answer": "Jonas Vingegaard",
+          "display": "#2 — + 4' 24\"",
+          "aliases": [
+            "Vingegaard"
+          ]
+        },
+        {
+          "answer": "Florian Lipowitz",
+          "display": "#3 — + 11' 00\"",
+          "aliases": [
+            "Lipowitz"
+          ]
+        },
+        {
+          "answer": "Oscar Onley",
+          "display": "#4 — + 12' 12\"",
+          "aliases": [
+            "Onley"
+          ]
+        },
+        {
+          "answer": "Felix Gall",
+          "display": "#5 — + 17' 12\"",
+          "aliases": [
+            "Gall"
+          ]
+        },
+        {
+          "answer": "Tobias Halland Johannessen",
+          "display": "#6 — + 20' 14\"",
+          "aliases": [
+            "Johannessen"
+          ]
+        },
+        {
+          "answer": "Kévin Vauquelin",
+          "display": "#7 — + 22' 35\"",
+          "aliases": [
+            "Vauquelin"
+          ]
+        },
+        {
+          "answer": "Primož Roglič",
+          "display": "#8 — + 25' 30\"",
+          "aliases": [
+            "Roglič"
+          ]
+        },
+        {
+          "answer": "Ben Healy",
+          "display": "#9 — + 28' 02\"",
+          "aliases": [
+            "Healy"
+          ]
+        },
+        {
+          "answer": "Jordan Jegat",
+          "display": "#10 — + 32' 42\"",
+          "aliases": [
+            "Jegat"
+          ]
+        },
+        {
+          "answer": "Ben O'Connor",
+          "display": "#11 — + 34' 34\"",
+          "aliases": [
+            "O'Connor"
+          ]
+        },
+        {
+          "answer": "Thymen Arensman",
+          "display": "#12 — + 52' 41\"",
+          "aliases": [
+            "Arensman"
+          ]
+        },
+        {
+          "answer": "Jhonatan Narváez",
+          "display": "#13 — + 1h 04' 36\"",
+          "aliases": [
+            "Narváez"
+          ]
+        }
+      ]
+    }
+  ]
+}

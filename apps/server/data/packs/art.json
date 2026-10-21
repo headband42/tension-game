@@ -1,0 +1,213 @@
+{
+  "questions": [
+    {
+      "category": "arts/art/museums",
+      "difficulty": 2,
+      "question": "Top 10 most visited art museums in the world (annual visitors; each museum's latest figure, 2024 or 2025, so the years are mixed)",
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1378445327 | table 1 | name: Museum | value: Visitors annually",
+      "tags": [
+        "arts",
+        "art",
+        "museums",
+        "visitors"
+      ],
+      "answers": [
+        {
+          "answer": "Louvre",
+          "display": "9,046,000 visitors (2025)",
+          "aliases": [
+            "Musée du Louvre",
+            "Musee du Louvre"
+          ]
+        },
+        {
+          "answer": "Vatican Museums",
+          "display": "6,933,822 visitors (2025)",
+          "aliases": [
+            "Vatican"
+          ]
+        },
+        {
+          "answer": "National Museum of Korea",
+          "display": "6,507,483 visitors (2025)"
+        },
+        {
+          "answer": "British Museum",
+          "display": "6,440,120 visitors (2025)"
+        },
+        {
+          "answer": "Metropolitan Museum of Art",
+          "display": "5,984,091 visitors (2025)",
+          "aliases": [
+            "The Met",
+            "Met",
+            "Metropolitan Museum"
+          ]
+        },
+        {
+          "answer": "State Russian Museum",
+          "display": "5,087,276 visitors (2025)",
+          "aliases": [
+            "Russian Museum"
+          ]
+        },
+        {
+          "answer": "National Museum of Anthropology (Mexico)",
+          "display": "5,048,893 visitors (2025)",
+          "aliases": [
+            "National Museum of Anthropology",
+            "Museo Nacional de Antropología"
+          ]
+        },
+        {
+          "answer": "Tate Modern",
+          "display": "4,514,266 visitors (2025)",
+          "aliases": [
+            "Tate"
+          ]
+        },
+        {
+          "answer": "Shanghai Museum East",
+          "display": "4,234,046 visitors (2024)"
+        },
+        {
+          "answer": "National Gallery of Art",
+          "display": "3,936,543 visitors (2024)"
+        },
+        {
+          "answer": "State Hermitage Museum",
+          "display": "3,846,375 visitors (2025)",
+          "aliases": [
+            "Hermitage"
+          ]
+        },
+        {
+          "answer": "Musée d'Orsay",
+          "display": "3,751,141 visitors (2024)",
+          "aliases": [
+            "Musee d'Orsay",
+            "Orsay"
+          ]
+        },
+        {
+          "answer": "Victoria and Albert Museum",
+          "display": "3,525,700 visitors (2024)",
+          "aliases": [
+            "V&A",
+            "V and A"
+          ]
+        },
+        {
+          "answer": "Museo del Prado",
+          "display": "3,457,057 visitors (2024)",
+          "aliases": [
+            "Prado",
+            "Prado Museum"
+          ]
+        },
+        {
+          "answer": "Pompidou Center",
+          "display": "3,204,369 visitors (2024)",
+          "aliases": [
+            "Centre Pompidou",
+            "Pompidou"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "arts/art/museums",
+      "difficulty": 2,
+      "question": "Top 10 largest art museums in the world by gallery space (latest figures)",
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1379422364 | table 1 | name: Name | value: Gallery space",
+      "tags": [
+        "arts",
+        "art",
+        "museums",
+        "size"
+      ],
+      "answers": [
+        {
+          "answer": "Louvre",
+          "display": "72,735 m²",
+          "aliases": [
+            "Musée du Louvre",
+            "Musee du Louvre"
+          ]
+        },
+        {
+          "answer": "British Museum",
+          "display": "70,000 m²"
+        },
+        {
+          "answer": "State Hermitage Museum",
+          "display": "66,842 m²",
+          "aliases": [
+            "Hermitage"
+          ]
+        },
+        {
+          "answer": "National Museum of China",
+          "display": "65,000 m²"
+        },
+        {
+          "answer": "Metropolitan Museum of Art",
+          "display": "58,800 m²",
+          "aliases": [
+            "The Met",
+            "Met",
+            "Metropolitan Museum"
+          ]
+        },
+        {
+          "answer": "Vatican Museums",
+          "display": "43,000 m²",
+          "aliases": [
+            "Vatican"
+          ]
+        },
+        {
+          "answer": "Grand Egyptian Museum",
+          "display": "40,000 m²"
+        },
+        {
+          "answer": "Musée National des Beaux-Arts du Québec",
+          "display": "32,900 m²"
+        },
+        {
+          "answer": "Victoria and Albert Museum",
+          "display": "30,658 m²",
+          "aliases": [
+            "V&A",
+            "V and A"
+          ]
+        },
+        {
+          "answer": "Rijksmuseum",
+          "display": "30,000 m²"
+        },
+        {
+          "answer": "Museum of Fine Arts, Houston",
+          "display": "28,000 m²",
+          "aliases": [
+            "MFA Houston",
+            "Houston Museum of Fine Arts"
+          ]
+        },
+        {
+          "answer": "National Museum of Korea",
+          "display": "27,090 m²"
+        },
+        {
+          "answer": "Germanisches Nationalmuseum",
+          "display": "27,000 m²",
+          "aliases": [
+            "German National Museum"
+          ]
+        }
+      ]
+    }
+  ]
+}

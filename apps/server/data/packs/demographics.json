@@ -1,0 +1,462 @@
+{
+  "categories": [
+    {
+      "path": "society/demographics",
+      "name": "Demographics"
+    }
+  ],
+  "questions": [
+    {
+      "category": "society/demographics",
+      "question": "Top 10 countries with the lowest total fertility rate (UN estimates, 2026)",
+      "cutoff": 10,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1379605971 | table 1 | name: Country | value: 2026 | where: Country!~[(] | where: Country!~^- | order: asc | note: territories and regional subtotals excluded",
+      "tags": [
+        "society",
+        "demographics",
+        "fertility"
+      ],
+      "answers": [
+        {
+          "answer": "South Korea",
+          "display": "0.76 births per woman"
+        },
+        {
+          "answer": "Taiwan",
+          "display": "0.86 births per woman"
+        },
+        {
+          "answer": "Singapore",
+          "display": "0.87 births per woman"
+        },
+        {
+          "answer": "Ukraine",
+          "display": "1.00 births per woman"
+        },
+        {
+          "answer": "Vatican City",
+          "display": "1.00 births per woman",
+          "aliases": [
+            "Vatican"
+          ]
+        },
+        {
+          "answer": "China",
+          "display": "1.03 births per woman"
+        },
+        {
+          "answer": "Andorra",
+          "display": "1.11 births per woman"
+        },
+        {
+          "answer": "Chile",
+          "display": "1.12 births per woman"
+        },
+        {
+          "answer": "Malta",
+          "display": "1.12 births per woman"
+        },
+        {
+          "answer": "San Marino",
+          "display": "1.17 births per woman"
+        },
+        {
+          "answer": "Thailand",
+          "display": "1.19 births per woman"
+        },
+        {
+          "answer": "Mauritius",
+          "display": "1.21 births per woman"
+        },
+        {
+          "answer": "United Arab Emirates",
+          "display": "1.21 births per woman",
+          "aliases": [
+            "UAE"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "society/demographics",
+      "question": "Top 10 happiest countries by life evaluation score (World Happiness Report 2026)",
+      "cutoff": 10,
+      "difficulty": 1,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1376195280 | table 1 | name: Country | value: Life evaluation",
+      "tags": [
+        "society",
+        "demographics",
+        "happiness"
+      ],
+      "answers": [
+        {
+          "answer": "Finland",
+          "display": "7.764 score"
+        },
+        {
+          "answer": "Iceland",
+          "display": "7.540 score"
+        },
+        {
+          "answer": "Denmark",
+          "display": "7.539 score"
+        },
+        {
+          "answer": "Costa Rica",
+          "display": "7.439 score"
+        },
+        {
+          "answer": "Sweden",
+          "display": "7.255 score"
+        },
+        {
+          "answer": "Norway",
+          "display": "7.242 score"
+        },
+        {
+          "answer": "Netherlands",
+          "display": "7.223 score",
+          "aliases": [
+            "Holland"
+          ]
+        },
+        {
+          "answer": "Israel",
+          "display": "7.187 score"
+        },
+        {
+          "answer": "Luxembourg",
+          "display": "7.063 score"
+        },
+        {
+          "answer": "Switzerland",
+          "display": "7.018 score"
+        },
+        {
+          "answer": "New Zealand",
+          "display": "6.995 score"
+        },
+        {
+          "answer": "Mexico",
+          "display": "6.972 score"
+        },
+        {
+          "answer": "Ireland",
+          "display": "6.928 score"
+        }
+      ]
+    },
+    {
+      "category": "society/demographics",
+      "question": "Top 10 least happy countries by life evaluation score (World Happiness Report 2026)",
+      "cutoff": 10,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1376195280 | table 1 | name: Country | value: Life evaluation | order: asc",
+      "tags": [
+        "society",
+        "demographics",
+        "happiness"
+      ],
+      "answers": [
+        {
+          "answer": "Afghanistan",
+          "display": "1.446 score"
+        },
+        {
+          "answer": "Sierra Leone",
+          "display": "3.251 score"
+        },
+        {
+          "answer": "Malawi",
+          "display": "3.284 score"
+        },
+        {
+          "answer": "Zimbabwe",
+          "display": "3.346 score"
+        },
+        {
+          "answer": "Botswana",
+          "display": "3.464 score"
+        },
+        {
+          "answer": "Yemen",
+          "display": "3.532 score"
+        },
+        {
+          "answer": "Lebanon",
+          "display": "3.723 score"
+        },
+        {
+          "answer": "DR Congo",
+          "display": "3.761 score",
+          "aliases": [
+            "DRC",
+            "Democratic Republic of the Congo"
+          ]
+        },
+        {
+          "answer": "Egypt",
+          "display": "3.862 score"
+        },
+        {
+          "answer": "Tanzania",
+          "display": "3.902 score"
+        },
+        {
+          "answer": "Eswatini",
+          "display": "3.909 score",
+          "aliases": [
+            "Swaziland"
+          ]
+        },
+        {
+          "answer": "Comoros",
+          "display": "3.925 score"
+        },
+        {
+          "answer": "Ethiopia",
+          "display": "3.985 score"
+        }
+      ]
+    },
+    {
+      "category": "society/demographics",
+      "question": "Top 10 countries with the highest incarceration rate (prisoners per 100,000 residents, latest figures)",
+      "cutoff": 10,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1370966504 | table 1 | name: Location | value: Rate | note: each country's latest available year, so years differ",
+      "tags": [
+        "society",
+        "demographics",
+        "prisons"
+      ],
+      "answers": [
+        {
+          "answer": "El Salvador",
+          "display": "1,659 per 100,000"
+        },
+        {
+          "answer": "Cuba",
+          "display": "794 per 100,000"
+        },
+        {
+          "answer": "Rwanda",
+          "display": "620 per 100,000"
+        },
+        {
+          "answer": "Turkmenistan",
+          "display": "576 per 100,000"
+        },
+        {
+          "answer": "United States",
+          "display": "542 per 100,000",
+          "aliases": [
+            "US",
+            "USA",
+            "America"
+          ]
+        },
+        {
+          "answer": "Panama",
+          "display": "533 per 100,000"
+        },
+        {
+          "answer": "Tonga",
+          "display": "516 per 100,000"
+        },
+        {
+          "answer": "Turkey",
+          "display": "468 per 100,000",
+          "aliases": [
+            "Türkiye"
+          ]
+        },
+        {
+          "answer": "Cape Verde",
+          "display": "467 per 100,000",
+          "aliases": [
+            "Cabo Verde"
+          ]
+        },
+        {
+          "answer": "Uruguay",
+          "display": "449 per 100,000"
+        },
+        {
+          "answer": "Brazil",
+          "display": "416 per 100,000"
+        },
+        {
+          "answer": "Antigua and Barbuda",
+          "display": "400 per 100,000",
+          "aliases": [
+            "Antigua"
+          ]
+        },
+        {
+          "answer": "Thailand",
+          "display": "395 per 100,000"
+        }
+      ]
+    },
+    {
+      "category": "society/demographics",
+      "question": "Top 10 countries by immigrant population (total number of immigrants, 2024 estimates)",
+      "cutoff": 10,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1378401283 | table 1 | name: Country or territory | value: Immigrants 2024",
+      "tags": [
+        "society",
+        "demographics",
+        "migration"
+      ],
+      "answers": [
+        {
+          "answer": "United States",
+          "display": "52.38 million",
+          "aliases": [
+            "US",
+            "USA",
+            "America"
+          ]
+        },
+        {
+          "answer": "Germany",
+          "display": "17.75 million"
+        },
+        {
+          "answer": "Saudi Arabia",
+          "display": "13.68 million"
+        },
+        {
+          "answer": "France",
+          "display": "12.99 million"
+        },
+        {
+          "answer": "United Kingdom",
+          "display": "11.85 million",
+          "aliases": [
+            "UK",
+            "Britain"
+          ]
+        },
+        {
+          "answer": "Egypt",
+          "display": "9.99 million"
+        },
+        {
+          "answer": "Spain",
+          "display": "9.51 million"
+        },
+        {
+          "answer": "Canada",
+          "display": "8.81 million"
+        },
+        {
+          "answer": "United Arab Emirates",
+          "display": "8.16 million",
+          "aliases": [
+            "UAE"
+          ]
+        },
+        {
+          "answer": "Russia",
+          "display": "7.61 million"
+        },
+        {
+          "answer": "Australia",
+          "display": "7.11 million"
+        },
+        {
+          "answer": "Turkey",
+          "display": "7.08 million",
+          "aliases": [
+            "Türkiye"
+          ]
+        },
+        {
+          "answer": "Italy",
+          "display": "6.55 million"
+        }
+      ]
+    },
+    {
+      "category": "society/demographics",
+      "question": "Top 10 countries and regions by number of emigrants (total number of people living abroad, 2019 estimates)",
+      "cutoff": 10,
+      "difficulty": 3,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1378401283 | table 2 | name: Country or region of origin | value: Emigrants | where: Country or region of origin!~^(World|Other)",
+      "tags": [
+        "society",
+        "demographics",
+        "migration"
+      ],
+      "answers": [
+        {
+          "answer": "India",
+          "display": "17.51 million"
+        },
+        {
+          "answer": "Mexico",
+          "display": "11.80 million"
+        },
+        {
+          "answer": "China",
+          "display": "10.73 million"
+        },
+        {
+          "answer": "Russia",
+          "display": "10.49 million"
+        },
+        {
+          "answer": "Syria",
+          "display": "8.23 million"
+        },
+        {
+          "answer": "Bangladesh",
+          "display": "7.84 million"
+        },
+        {
+          "answer": "Pakistan",
+          "display": "6.30 million"
+        },
+        {
+          "answer": "Ukraine",
+          "display": "5.90 million"
+        },
+        {
+          "answer": "Puerto Rico",
+          "display": "5.81 million"
+        },
+        {
+          "answer": "Philippines",
+          "display": "5.38 million"
+        },
+        {
+          "answer": "Afghanistan",
+          "display": "5.12 million"
+        },
+        {
+          "answer": "Brazil",
+          "display": "5.00 million"
+        },
+        {
+          "answer": "United States",
+          "display": "4.78 million",
+          "aliases": [
+            "US",
+            "USA",
+            "America"
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,670 @@
+{
+  "categories": [
+    {
+      "path": "transport/rail",
+      "name": "Rail"
+    },
+    {
+      "path": "transport/rail/stations",
+      "name": "Railway Stations"
+    },
+    {
+      "path": "transport/rail/metro",
+      "name": "Metro"
+    },
+    {
+      "path": "transport/rail/london",
+      "name": "London Underground"
+    },
+    {
+      "path": "transport/rail/high-speed",
+      "name": "High-speed rail"
+    },
+    {
+      "path": "transport/rail/tunnels",
+      "name": "Tunnels"
+    }
+  ],
+  "questions": [
+    {
+      "category": "transport/rail/stations",
+      "question": "Top 10 busiest railway stations in the world by passengers per year, all modes (mostly 2023 data)",
+      "cutoff": 10,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1379182472 | table 1 | name: Railway station | value: All modes | header rows: 2",
+      "tags": [
+        "rail",
+        "stations",
+        "passengers",
+        "worldwide"
+      ],
+      "answers": [
+        {
+          "answer": "Shinjuku Station",
+          "display": "1,163.7 million passengers",
+          "aliases": [
+            "shinjuku"
+          ]
+        },
+        {
+          "answer": "Shibuya Station",
+          "display": "1,023.3 million passengers",
+          "aliases": [
+            "shibuya"
+          ]
+        },
+        {
+          "answer": "Ikebukuro Station",
+          "display": "842.5 million passengers",
+          "aliases": [
+            "ikebukuro"
+          ]
+        },
+        {
+          "answer": "Osaka Umeda Station",
+          "display": "750.4 million passengers",
+          "aliases": [
+            "umeda",
+            "osaka"
+          ]
+        },
+        {
+          "answer": "Yokohama Station",
+          "display": "710.5 million passengers",
+          "aliases": [
+            "yokohama"
+          ]
+        },
+        {
+          "answer": "Kita-Senju Station",
+          "display": "506.7 million passengers",
+          "aliases": [
+            "kita senju"
+          ]
+        },
+        {
+          "answer": "Tokyo Station",
+          "display": "433.3 million passengers",
+          "aliases": [
+            "tokyo"
+          ]
+        },
+        {
+          "answer": "Nagoya Station",
+          "display": "422.9 million passengers",
+          "aliases": [
+            "nagoya"
+          ]
+        },
+        {
+          "answer": "Shinagawa Station",
+          "display": "302.7 million passengers",
+          "aliases": [
+            "shinagawa"
+          ]
+        },
+        {
+          "answer": "Takadanobaba Station",
+          "display": "286.0 million passengers",
+          "aliases": [
+            "takadanobaba"
+          ]
+        },
+        {
+          "answer": "Shimbashi Station",
+          "display": "281.8 million passengers",
+          "aliases": [
+            "shimbashi"
+          ]
+        },
+        {
+          "answer": "Gare du Nord",
+          "display": "257 million passengers"
+        },
+        {
+          "answer": "Namba Station",
+          "display": "253.8 million passengers",
+          "aliases": [
+            "namba"
+          ]
+        },
+        {
+          "answer": "Shanghai Hongqiao",
+          "display": "250.44 million passengers",
+          "aliases": [
+            "hongqiao"
+          ]
+        },
+        {
+          "answer": "Beijing South Station",
+          "display": "241 million passengers",
+          "aliases": [
+            "beijing south"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "transport/rail/stations",
+      "question": "Top 10 busiest railway stations in North America by annual entries and exits (2017–18 data)",
+      "cutoff": 10,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1363532261 | table 1 | name: Station | value: Annual entries | where: Station!~Madison",
+      "tags": [
+        "rail",
+        "stations",
+        "passengers",
+        "north-america"
+      ],
+      "answers": [
+        {
+          "answer": "New York Penn Station",
+          "display": "107.4 million entries and exits",
+          "aliases": [
+            "nyc penn",
+            "new york penn",
+            "penn station"
+          ]
+        },
+        {
+          "answer": "Toronto Union Station",
+          "display": "72.4 million entries and exits",
+          "aliases": [
+            "toronto"
+          ]
+        },
+        {
+          "answer": "Grand Central Terminal",
+          "display": "67.3 million entries and exits",
+          "aliases": [
+            "grand central",
+            "gct"
+          ]
+        },
+        {
+          "answer": "Jamaica Station",
+          "display": "59.8 million entries and exits",
+          "aliases": [
+            "jamaica"
+          ]
+        },
+        {
+          "answer": "Chicago Union Station",
+          "display": "43.9 million entries and exits",
+          "aliases": [
+            "chicago"
+          ]
+        },
+        {
+          "answer": "Ogilvie Transportation Center",
+          "display": "31.9 million entries and exits",
+          "aliases": [
+            "ogilvie"
+          ]
+        },
+        {
+          "answer": "South Station",
+          "display": "28.9 million entries and exits",
+          "aliases": [
+            "boston south"
+          ]
+        },
+        {
+          "answer": "Buenavista",
+          "display": "19.4 million entries and exits",
+          "aliases": [
+            "buenavista station"
+          ]
+        },
+        {
+          "answer": "Newark Penn Station",
+          "display": "17.9 million entries and exits",
+          "aliases": [
+            "newark"
+          ]
+        },
+        {
+          "answer": "30th Street Station",
+          "display": "16.2 million entries and exits",
+          "aliases": [
+            "30th street",
+            "philadelphia"
+          ]
+        },
+        {
+          "answer": "Hoboken Terminal",
+          "display": "14.95 million entries and exits",
+          "aliases": [
+            "hoboken"
+          ]
+        },
+        {
+          "answer": "Washington Union Station",
+          "display": "13.7 million entries and exits",
+          "aliases": [
+            "washington"
+          ]
+        },
+        {
+          "answer": "Cuautitlán",
+          "display": "11.7 million entries and exits",
+          "aliases": [
+            "cuautitlan"
+          ]
+        },
+        {
+          "answer": "Secaucus Junction",
+          "display": "11.1 million entries and exits",
+          "aliases": [
+            "secaucus"
+          ]
+        },
+        {
+          "answer": "Los Angeles Union Station",
+          "display": "11.0 million entries and exits",
+          "aliases": [
+            "los angeles",
+            "la union station"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "transport/rail/london",
+      "question": "Top 10 busiest London Underground stations in Zone 1 by annual usage (2024)",
+      "cutoff": 10,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1374663078 | table 1 | name: Station | value: Annual usage | where: Zone=1",
+      "tags": [
+        "rail",
+        "london",
+        "underground",
+        "stations"
+      ],
+      "answers": [
+        {
+          "answer": "Waterloo",
+          "display": "77.39 million",
+          "aliases": [
+            "waterloo station"
+          ]
+        },
+        {
+          "answer": "King's Cross St Pancras",
+          "display": "77.13 million",
+          "aliases": [
+            "kings cross",
+            "king's cross",
+            "st pancras"
+          ]
+        },
+        {
+          "answer": "Victoria",
+          "display": "62.69 million",
+          "aliases": [
+            "victoria station"
+          ]
+        },
+        {
+          "answer": "Tottenham Court Road",
+          "display": "62.06 million",
+          "aliases": [
+            "tottenham court"
+          ]
+        },
+        {
+          "answer": "Liverpool Street",
+          "display": "61.20 million",
+          "aliases": [
+            "liverpool st"
+          ]
+        },
+        {
+          "answer": "London Bridge",
+          "display": "57.89 million"
+        },
+        {
+          "answer": "Paddington",
+          "display": "56.37 million"
+        },
+        {
+          "answer": "Oxford Circus",
+          "display": "53.18 million"
+        },
+        {
+          "answer": "Farringdon",
+          "display": "41.26 million"
+        },
+        {
+          "answer": "Bond Street",
+          "display": "41.11 million"
+        },
+        {
+          "answer": "Bank",
+          "display": "40.07 million"
+        },
+        {
+          "answer": "Monument",
+          "display": "40.07 million"
+        },
+        {
+          "answer": "Euston",
+          "display": "33.19 million"
+        },
+        {
+          "answer": "Green Park",
+          "display": "31.10 million"
+        },
+        {
+          "answer": "South Kensington",
+          "display": "29.48 million"
+        }
+      ]
+    },
+    {
+      "category": "transport/rail/metro",
+      "question": "Top 10 metro systems in the world by number of stations (as of 2026)",
+      "cutoff": 10,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1379720942 | table 1 | name: Name | value: Stations",
+      "tags": [
+        "rail",
+        "metro",
+        "stations",
+        "worldwide"
+      ],
+      "answers": [
+        {
+          "answer": "New York City Subway",
+          "display": "424 stations",
+          "aliases": [
+            "nyc subway",
+            "new york subway",
+            "nyc"
+          ]
+        },
+        {
+          "answer": "Shanghai Metro",
+          "display": "415 stations",
+          "aliases": [
+            "shanghai"
+          ]
+        },
+        {
+          "answer": "Beijing Subway",
+          "display": "409 stations",
+          "aliases": [
+            "beijing"
+          ]
+        },
+        {
+          "answer": "Chengdu Metro",
+          "display": "363 stations",
+          "aliases": [
+            "chengdu"
+          ]
+        },
+        {
+          "answer": "Shenzhen Metro",
+          "display": "339 stations",
+          "aliases": [
+            "shenzhen"
+          ]
+        },
+        {
+          "answer": "Seoul Metropolitan Subway",
+          "display": "338 stations",
+          "aliases": [
+            "seoul"
+          ]
+        },
+        {
+          "answer": "Paris Metro",
+          "display": "321 stations",
+          "aliases": [
+            "paris"
+          ]
+        },
+        {
+          "answer": "Guangzhou Metro",
+          "display": "317 stations",
+          "aliases": [
+            "guangzhou"
+          ]
+        },
+        {
+          "answer": "Wuhan Metro",
+          "display": "289 stations",
+          "aliases": [
+            "wuhan"
+          ]
+        },
+        {
+          "answer": "Chongqing Rail Transit",
+          "display": "286 stations",
+          "aliases": [
+            "chongqing"
+          ]
+        },
+        {
+          "answer": "Suzhou Metro",
+          "display": "285 stations",
+          "aliases": [
+            "suzhou"
+          ]
+        },
+        {
+          "answer": "Nanjing Metro",
+          "display": "272 stations",
+          "aliases": [
+            "nanjing"
+          ]
+        },
+        {
+          "answer": "London Underground",
+          "display": "272 stations",
+          "aliases": [
+            "tube",
+            "london"
+          ]
+        },
+        {
+          "answer": "Hangzhou Metro",
+          "display": "254 stations",
+          "aliases": [
+            "hangzhou"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "transport/rail/high-speed",
+      "question": "Top 10 countries by operational high-speed rail length (as of 2026)",
+      "cutoff": 10,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1379592350 | table 1 | name: Country or region | value: Operational length",
+      "tags": [
+        "rail",
+        "high-speed",
+        "countries"
+      ],
+      "answers": [
+        {
+          "answer": "China",
+          "display": "50,400 km"
+        },
+        {
+          "answer": "Spain",
+          "display": "3,973 km"
+        },
+        {
+          "answer": "France",
+          "display": "3,516 km"
+        },
+        {
+          "answer": "Japan",
+          "display": "3,067 km"
+        },
+        {
+          "answer": "Germany",
+          "display": "2,683 km"
+        },
+        {
+          "answer": "Sweden",
+          "display": "1,711 km"
+        },
+        {
+          "answer": "South Korea",
+          "display": "1,549 km",
+          "aliases": [
+            "korea"
+          ]
+        },
+        {
+          "answer": "United Kingdom",
+          "display": "1,485 km",
+          "aliases": [
+            "uk",
+            "britain",
+            "great britain"
+          ]
+        },
+        {
+          "answer": "Italy",
+          "display": "1,312 km"
+        },
+        {
+          "answer": "Uzbekistan",
+          "display": "1,161 km"
+        },
+        {
+          "answer": "Turkey",
+          "display": "1,021 km",
+          "aliases": [
+            "turkiye"
+          ]
+        },
+        {
+          "answer": "Finland",
+          "display": "987 km"
+        },
+        {
+          "answer": "United States",
+          "display": "735 km",
+          "aliases": [
+            "usa",
+            "us",
+            "america"
+          ]
+        },
+        {
+          "answer": "Russia",
+          "display": "650 km",
+          "aliases": [
+            "russian federation"
+          ]
+        },
+        {
+          "answer": "Saudi Arabia",
+          "display": "450 km"
+        }
+      ]
+    },
+    {
+      "category": "transport/rail/tunnels",
+      "question": "Top 10 longest railway tunnels in the world, in use (as of 2026)",
+      "cutoff": 10,
+      "difficulty": 3,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1379393957 | table 1 | name: Name | value: Length",
+      "tags": [
+        "rail",
+        "tunnels",
+        "engineering"
+      ],
+      "answers": [
+        {
+          "answer": "Gotthard Base Tunnel",
+          "display": "57.1 km",
+          "aliases": [
+            "gotthard"
+          ]
+        },
+        {
+          "answer": "Seikan Tunnel",
+          "display": "53.9 km",
+          "aliases": [
+            "seikan"
+          ]
+        },
+        {
+          "answer": "Channel Tunnel",
+          "display": "50.5 km",
+          "aliases": [
+            "channel",
+            "eurotunnel"
+          ]
+        },
+        {
+          "answer": "Yulhyeon Tunnel",
+          "display": "50.3 km"
+        },
+        {
+          "answer": "Shanghai Airport Tunnel",
+          "display": "40.2 km"
+        },
+        {
+          "answer": "Songshan Lake Tunnel",
+          "display": "38.8 km"
+        },
+        {
+          "answer": "Shenzhen Hong Kong Tunnel",
+          "display": "35.7 km"
+        },
+        {
+          "answer": "Lötschberg Base Tunnel",
+          "display": "34.6 km",
+          "aliases": [
+            "lotschberg"
+          ]
+        },
+        {
+          "answer": "Koralm Tunnel",
+          "display": "32.9 km"
+        },
+        {
+          "answer": "New Guanjiao Tunnel",
+          "display": "32.6 km"
+        },
+        {
+          "answer": "Guadarrama Tunnel",
+          "display": "28.4 km"
+        },
+        {
+          "answer": "Ping'an Tunnel",
+          "display": "28.4 km"
+        },
+        {
+          "answer": "West Qinling Tunnel",
+          "display": "28.2 km"
+        },
+        {
+          "answer": "Taihang Tunnel",
+          "display": "27.8 km"
+        },
+        {
+          "answer": "Hakkōda Tunnel",
+          "display": "26.4 km",
+          "aliases": [
+            "hakkoda"
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,2301 @@
+{
+  "categories": [
+    {
+      "path": "music",
+      "name": "Music"
+    },
+    {
+      "path": "music/australia",
+      "name": "Australia"
+    },
+    {
+      "path": "music/australia/albums",
+      "name": "ARIA Year-End Albums"
+    }
+  ],
+  "questions": [
+    {
+      "category": "music/australia/albums",
+      "question": "Top 10 best-selling albums in Australia in 1987 (ARIA year-end albums chart)",
+      "cutoff": 10,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1368821391 | table 1 | name: Title | value: # | order: asc",
+      "tags": [
+        "music",
+        "australia",
+        "albums",
+        "charts",
+        "1980s"
+      ],
+      "answers": [
+        {
+          "answer": "Whispering Jack",
+          "display": "#1 — John Farnham"
+        },
+        {
+          "answer": "Crowded House",
+          "display": "#2 — Crowded House"
+        },
+        {
+          "answer": "Slippery When Wet",
+          "display": "#3 — Bon Jovi"
+        },
+        {
+          "answer": "Graceland",
+          "display": "#4 — Paul Simon"
+        },
+        {
+          "answer": "The Joshua Tree",
+          "display": "#5 — U2"
+        },
+        {
+          "answer": "Tango in the Night",
+          "display": "#6 — Fleetwood Mac"
+        },
+        {
+          "answer": "Revenge",
+          "display": "#7 — Eurythmics"
+        },
+        {
+          "answer": "Men and Women",
+          "display": "#8 — Simply Red"
+        },
+        {
+          "answer": "Whitney",
+          "display": "#9 — Whitney Houston"
+        },
+        {
+          "answer": "Different Light",
+          "display": "#10 — The Bangles"
+        },
+        {
+          "answer": "Diesel and Dust",
+          "display": "#11 — Midnight Oil"
+        },
+        {
+          "answer": "Whiplash Smile",
+          "display": "#12 — Billy Idol"
+        },
+        {
+          "answer": "Strong Persuader",
+          "display": "#13 — Robert Cray Band"
+        }
+      ]
+    },
+    {
+      "category": "music/australia/albums",
+      "question": "Top 10 best-selling albums in Australia in 1988 (ARIA year-end albums chart)",
+      "cutoff": 10,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1349967202 | table 1 | name: Title | value: # | order: asc",
+      "tags": [
+        "music",
+        "australia",
+        "albums",
+        "charts",
+        "1980s"
+      ],
+      "answers": [
+        {
+          "answer": "Kick",
+          "display": "#1 — INXS"
+        },
+        {
+          "answer": "Dirty Dancing",
+          "display": "#2 — Motion Picture Soundtrack"
+        },
+        {
+          "answer": "Freight Train Heart",
+          "display": "#3 — Jimmy Barnes"
+        },
+        {
+          "answer": "Whenever You Need Somebody",
+          "display": "#4 — Rick Astley"
+        },
+        {
+          "answer": "The Lonesome Jubilee",
+          "display": "#5 — John Cougar Mellencamp"
+        },
+        {
+          "answer": "Man of Colours",
+          "display": "#6 — Icehouse"
+        },
+        {
+          "answer": "Tracy Chapman",
+          "display": "#7 — Tracy Chapman"
+        },
+        {
+          "answer": "Introducing the Hardline According to Terence Trent D'Arby",
+          "display": "#8 — Terence Trent D'Arby"
+        },
+        {
+          "answer": "Push",
+          "display": "#9 — Bros"
+        },
+        {
+          "answer": "Whispering Jack",
+          "display": "#10 — John Farnham"
+        },
+        {
+          "answer": "Faith",
+          "display": "#11 — George Michael"
+        },
+        {
+          "answer": "Tour of Duty",
+          "display": "#12 — TV Soundtrack"
+        },
+        {
+          "answer": "Age of Reason",
+          "display": "#13 — John Farnham"
+        }
+      ]
+    },
+    {
+      "category": "music/australia/albums",
+      "question": "Top 10 best-selling albums in Australia in 1989 (ARIA year-end albums chart)",
+      "cutoff": 10,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1353023526 | table 1 | name: Title | value: # | order: asc",
+      "tags": [
+        "music",
+        "australia",
+        "albums",
+        "charts",
+        "1980s"
+      ],
+      "answers": [
+        {
+          "answer": "Volume One",
+          "display": "#1 — Traveling Wilburys"
+        },
+        {
+          "answer": "...Ish",
+          "display": "#2 — 1927"
+        },
+        {
+          "answer": "Hysteria",
+          "display": "#3 — Def Leppard"
+        },
+        {
+          "answer": "The Raw and the Cooked",
+          "display": "#4 — Fine Young Cannibals"
+        },
+        {
+          "answer": "Edge",
+          "display": "#5 — Daryl Braithwaite"
+        },
+        {
+          "answer": "Like a Prayer",
+          "display": "#6 — Madonna"
+        },
+        {
+          "answer": "Johnny Diesel and the Injectors",
+          "display": "#7 — Johnny Diesel"
+        },
+        {
+          "answer": "Beaches",
+          "display": "#8 — Soundtrack / Bette Midler"
+        },
+        {
+          "answer": "Mystery Girl",
+          "display": "#9 — Roy Orbison"
+        },
+        {
+          "answer": "A New Flame",
+          "display": "#10 — Simply Red"
+        },
+        {
+          "answer": "Appetite for Destruction",
+          "display": "#11 — Guns N' Roses"
+        },
+        {
+          "answer": "Sunshine on Leith",
+          "display": "#12 — The Proclaimers"
+        },
+        {
+          "answer": "Repeat Offender",
+          "display": "#13 — Richard Marx"
+        }
+      ]
+    },
+    {
+      "category": "music/australia/albums",
+      "question": "Top 10 best-selling albums in Australia in 1990 (ARIA year-end albums chart)",
+      "cutoff": 10,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1369102362 | table 1 | name: Title | value: # | order: asc",
+      "tags": [
+        "music",
+        "australia",
+        "albums",
+        "charts",
+        "1990s"
+      ],
+      "answers": [
+        {
+          "answer": "Chain Reaction",
+          "display": "#1 — John Farnham"
+        },
+        {
+          "answer": "In Concert",
+          "display": "#2 — The Three Tenors"
+        },
+        {
+          "answer": "Blue Sky Mining",
+          "display": "#3 — Midnight Oil"
+        },
+        {
+          "answer": "Two Fires",
+          "display": "#4 — Jimmy Barnes"
+        },
+        {
+          "answer": "The Immaculate Collection",
+          "display": "#5 — Madonna"
+        },
+        {
+          "answer": "Pretty Woman",
+          "display": "#6 — Soundtrack"
+        },
+        {
+          "answer": "All or Nothing",
+          "display": "#7 — Milli Vanilli"
+        },
+        {
+          "answer": "Sleeping with the Past",
+          "display": "#8 — Elton John"
+        },
+        {
+          "answer": "Alannah Myles",
+          "display": "#9 — Alannah Myles"
+        },
+        {
+          "answer": "Soul Provider",
+          "display": "#10 — Michael Bolton"
+        },
+        {
+          "answer": "Cuts Both Ways",
+          "display": "#11 — Gloria Estefan"
+        },
+        {
+          "answer": "21st Anniversary: The Ultimate Collection",
+          "display": "#12 — Creedence Clearwater Revival"
+        },
+        {
+          "answer": "Safety in Numbers",
+          "display": "#13 — Margaret Urlich"
+        }
+      ]
+    },
+    {
+      "category": "music/australia/albums",
+      "question": "Top 10 best-selling albums in Australia in 1991 (ARIA year-end albums chart)",
+      "cutoff": 10,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1320284701 | table 1 | name: Title | value: # | order: asc",
+      "tags": [
+        "music",
+        "australia",
+        "albums",
+        "charts",
+        "1990s"
+      ],
+      "answers": [
+        {
+          "answer": "Rise",
+          "display": "#1 — Daryl Braithwaite"
+        },
+        {
+          "answer": "Vagabond Heart",
+          "display": "#2 — Rod Stewart"
+        },
+        {
+          "answer": "Greatest Hits",
+          "display": "#3 — Eurythmics"
+        },
+        {
+          "answer": "Unforgettable... with Love",
+          "display": "#4 — Natalie Cole"
+        },
+        {
+          "answer": "Two Fires",
+          "display": "#5 — Jimmy Barnes"
+        },
+        {
+          "answer": "Mariah Carey",
+          "display": "#6 — Mariah Carey"
+        },
+        {
+          "answer": "In Concert",
+          "display": "#7 — The Three Tenors"
+        },
+        {
+          "answer": "The Immaculate Collection",
+          "display": "#8 — Madonna"
+        },
+        {
+          "answer": "Grease",
+          "display": "#9 — Motion Picture Soundtrack"
+        },
+        {
+          "answer": "Joyride",
+          "display": "#10 — Roxette"
+        },
+        {
+          "answer": "The Very Best of Elton John",
+          "display": "#11 — Elton John"
+        },
+        {
+          "answer": "Out of Time",
+          "display": "#12 — R.E.M."
+        },
+        {
+          "answer": "Rhythm Nation 1814",
+          "display": "#13 — Janet Jackson"
+        }
+      ]
+    },
+    {
+      "category": "music/australia/albums",
+      "question": "Top 10 best-selling albums in Australia in 1992 (ARIA year-end albums chart)",
+      "cutoff": 10,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1320284697 | table 1 | name: Title | value: # | order: asc",
+      "tags": [
+        "music",
+        "australia",
+        "albums",
+        "charts",
+        "1990s"
+      ],
+      "answers": [
+        {
+          "answer": "Jesus Christ Superstar (92 Australian Cast)",
+          "display": "#1 — Musical",
+          "aliases": [
+            "Jesus Christ Superstar"
+          ]
+        },
+        {
+          "answer": "Baby Animals",
+          "display": "#2 — Baby Animals"
+        },
+        {
+          "answer": "Soul Deep",
+          "display": "#3 — Jimmy Barnes"
+        },
+        {
+          "answer": "Hepfidelity",
+          "display": "#4 — Diesel"
+        },
+        {
+          "answer": "Blood Sugar Sex Magik",
+          "display": "#5 — Red Hot Chili Peppers"
+        },
+        {
+          "answer": "Back to Front",
+          "display": "#6 — Lionel Richie"
+        },
+        {
+          "answer": "Greatest Hits: 1966–1992",
+          "display": "#7 — Neil Diamond"
+        },
+        {
+          "answer": "Performs Andrew Lloyd Webber",
+          "display": "#8 — Michael Crawford"
+        },
+        {
+          "answer": "Some Gave All",
+          "display": "#9 — Billy Ray Cyrus"
+        },
+        {
+          "answer": "The Commitments",
+          "display": "#10 — Soundtrack"
+        },
+        {
+          "answer": "Greatest Hits II",
+          "display": "#11 — Queen"
+        },
+        {
+          "answer": "ABBA Gold: Greatest Hits",
+          "display": "#12 — ABBA"
+        },
+        {
+          "answer": "Greatest Hits",
+          "display": "#13 — ZZ Top"
+        }
+      ]
+    },
+    {
+      "category": "music/australia/albums",
+      "question": "Top 10 best-selling albums in Australia in 1993 (ARIA year-end albums chart)",
+      "cutoff": 10,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1320284661 | table 1 | name: Title | value: # | order: asc",
+      "tags": [
+        "music",
+        "australia",
+        "albums",
+        "charts",
+        "1990s"
+      ],
+      "answers": [
+        {
+          "answer": "The Bodyguard: Original Soundtrack Album",
+          "display": "#1 — Soundtrack / Whitney Houston"
+        },
+        {
+          "answer": "Unplugged",
+          "display": "#2 — Eric Clapton"
+        },
+        {
+          "answer": "Bat Out of Hell II: Back into Hell",
+          "display": "#3 — Meat Loaf"
+        },
+        {
+          "answer": "Breathless",
+          "display": "#4 — Kenny G"
+        },
+        {
+          "answer": "A Touch of Music in the Night",
+          "display": "#5 — Michael Crawford"
+        },
+        {
+          "answer": "So Far So Good",
+          "display": "#6 — Bryan Adams"
+        },
+        {
+          "answer": "River of Dreams",
+          "display": "#7 — Billy Joel"
+        },
+        {
+          "answer": "Then Again...",
+          "display": "#8 — John Farnham"
+        },
+        {
+          "answer": "Zooropa",
+          "display": "#9 — U2"
+        },
+        {
+          "answer": "Keep the Faith",
+          "display": "#10 — Bon Jovi"
+        },
+        {
+          "answer": "Are You Gonna Go My Way",
+          "display": "#11 — Lenny Kravitz"
+        },
+        {
+          "answer": "Bat Out of Hell",
+          "display": "#12 — Meat Loaf"
+        },
+        {
+          "answer": "Sonia Dada",
+          "display": "#13 — Sonia Dada"
+        }
+      ]
+    },
+    {
+      "category": "music/australia/albums",
+      "question": "Top 10 best-selling albums in Australia in 1994 (ARIA year-end albums chart)",
+      "cutoff": 10,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1320284686 | table 1 | name: Title | value: # | order: asc",
+      "tags": [
+        "music",
+        "australia",
+        "albums",
+        "charts",
+        "1990s"
+      ],
+      "answers": [
+        {
+          "answer": "Music Box",
+          "display": "#1 — Mariah Carey"
+        },
+        {
+          "answer": "So Far So Good",
+          "display": "#2 — Bryan Adams"
+        },
+        {
+          "answer": "Cross Road: Greatest Hits",
+          "display": "#3 — Bon Jovi"
+        },
+        {
+          "answer": "Priscilla, Queen of the Desert",
+          "display": "#4 — Soundtrack"
+        },
+        {
+          "answer": "The Very Best of the Eagles",
+          "display": "#5 — The Eagles"
+        },
+        {
+          "answer": "The Lion King",
+          "display": "#6 — Soundtrack"
+        },
+        {
+          "answer": "MTV Unplugged in New York",
+          "display": "#7 — Nirvana"
+        },
+        {
+          "answer": "Wired World of Sports II",
+          "display": "#8 — The Twelfth Man"
+        },
+        {
+          "answer": "ABBA Gold: Greatest Hits",
+          "display": "#9 — ABBA"
+        },
+        {
+          "answer": "Forrest Gump",
+          "display": "#10 — Soundtrack"
+        },
+        {
+          "answer": "Merry Christmas",
+          "display": "#11 — Mariah Carey"
+        },
+        {
+          "answer": "Vitalogy",
+          "display": "#12 — Pearl Jam"
+        },
+        {
+          "answer": "The One Thing",
+          "display": "#13 — Michael Bolton"
+        }
+      ]
+    },
+    {
+      "category": "music/australia/albums",
+      "question": "Top 10 best-selling albums in Australia in 1995 (ARIA year-end albums chart)",
+      "cutoff": 10,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1320284659 | table 1 | name: Title | value: # | order: asc",
+      "tags": [
+        "music",
+        "australia",
+        "albums",
+        "charts",
+        "1990s"
+      ],
+      "answers": [
+        {
+          "answer": "Don't Ask",
+          "display": "#1 — Tina Arena"
+        },
+        {
+          "answer": "The Colour of My Love",
+          "display": "#2 — Celine Dion"
+        },
+        {
+          "answer": "No Need to Argue",
+          "display": "#3 — The Cranberries"
+        },
+        {
+          "answer": "HIStory: Past, Present and Future, Book I",
+          "display": "#4 — Michael Jackson"
+        },
+        {
+          "answer": "Forrest Gump",
+          "display": "#5 — Soundtrack"
+        },
+        {
+          "answer": "Design of a Decade: 1986–1996",
+          "display": "#6 — Janet Jackson"
+        },
+        {
+          "answer": "Frogstomp",
+          "display": "#7 — Silverchair"
+        },
+        {
+          "answer": "Throwing Copper",
+          "display": "#8 — Live"
+        },
+        {
+          "answer": "Daydream",
+          "display": "#9 — Mariah Carey"
+        },
+        {
+          "answer": "Dookie",
+          "display": "#10 — Green Day"
+        },
+        {
+          "answer": "Smash",
+          "display": "#11 — The Offspring"
+        },
+        {
+          "answer": "Pulp Fiction",
+          "display": "#12 — Soundtrack"
+        },
+        {
+          "answer": "MTV Unplugged in New York",
+          "display": "#13 — Nirvana"
+        }
+      ]
+    },
+    {
+      "category": "music/australia/albums",
+      "question": "Top 10 best-selling albums in Australia in 1996 (ARIA year-end albums chart)",
+      "cutoff": 10,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1320284687 | table 1 | name: Title | value: # | order: asc",
+      "tags": [
+        "music",
+        "australia",
+        "albums",
+        "charts",
+        "1990s"
+      ],
+      "answers": [
+        {
+          "answer": "Jagged Little Pill",
+          "display": "#1 — Alanis Morissette"
+        },
+        {
+          "answer": "Falling into You",
+          "display": "#2 — Celine Dion"
+        },
+        {
+          "answer": "Forgiven, Not Forgotten",
+          "display": "#3 — The Corrs"
+        },
+        {
+          "answer": "(What's the Story) Morning Glory?",
+          "display": "#4 — Oasis"
+        },
+        {
+          "answer": "The Very Best of Toni Childs",
+          "display": "#5 — Toni Childs"
+        },
+        {
+          "answer": "Recurring Dream",
+          "display": "#6 — Crowded House"
+        },
+        {
+          "answer": "The Presidents of the United States of America",
+          "display": "#7 — The Presidents of the United States of America"
+        },
+        {
+          "answer": "Throwing Copper",
+          "display": "#8 — Live"
+        },
+        {
+          "answer": "Daydream",
+          "display": "#9 — Mariah Carey"
+        },
+        {
+          "answer": "Romeo's Heart",
+          "display": "#10 — John Farnham"
+        },
+        {
+          "answer": "The Memory of Trees",
+          "display": "#11 — Enya"
+        },
+        {
+          "answer": "Barnes Hits Anthology",
+          "display": "#12 — Jimmy Barnes"
+        },
+        {
+          "answer": "HIStory: Past, Present and Future, Book I",
+          "display": "#13 — Michael Jackson"
+        }
+      ]
+    },
+    {
+      "category": "music/australia/albums",
+      "question": "Top 10 best-selling albums in Australia in 1997 (ARIA year-end albums chart)",
+      "cutoff": 10,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1343035761 | table 1 | name: Title | value: # | order: asc",
+      "tags": [
+        "music",
+        "australia",
+        "albums",
+        "charts",
+        "1990s"
+      ],
+      "answers": [
+        {
+          "answer": "Savage Garden",
+          "display": "#1 — Savage Garden"
+        },
+        {
+          "answer": "Romeo + Juliet",
+          "display": "#2 — Soundtrack"
+        },
+        {
+          "answer": "Middle of Nowhere",
+          "display": "#3 — Hanson"
+        },
+        {
+          "answer": "Spice",
+          "display": "#4 — Spice Girls"
+        },
+        {
+          "answer": "Let's Talk About Love",
+          "display": "#5 — Celine Dion"
+        },
+        {
+          "answer": "Tragic Kingdom",
+          "display": "#6 — No Doubt"
+        },
+        {
+          "answer": "Pieces of You",
+          "display": "#7 — Jewel"
+        },
+        {
+          "answer": "In Deep",
+          "display": "#8 — Tina Arena"
+        },
+        {
+          "answer": "Falling into You",
+          "display": "#9 — Celine Dion"
+        },
+        {
+          "answer": "Songs from the South",
+          "display": "#10 — Paul Kelly"
+        },
+        {
+          "answer": "Telling Everybody",
+          "display": "#11 — Human Nature"
+        },
+        {
+          "answer": "Secret Samadhi",
+          "display": "#12 — Live"
+        },
+        {
+          "answer": "Anthology 1: Greatest Hits 1986-1997",
+          "display": "#13 — John Farnham"
+        }
+      ]
+    },
+    {
+      "category": "music/australia/albums",
+      "question": "Top 10 best-selling albums in Australia in 1998 (ARIA year-end albums chart)",
+      "cutoff": 10,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1345421085 | table 1 | name: Title | value: # | order: asc",
+      "tags": [
+        "music",
+        "australia",
+        "albums",
+        "charts",
+        "1990s"
+      ],
+      "answers": [
+        {
+          "answer": "Yourself or Someone Like You",
+          "display": "#1 — Matchbox 20"
+        },
+        {
+          "answer": "Aquarium",
+          "display": "#2 — Aqua"
+        },
+        {
+          "answer": "Titanic",
+          "display": "#3 — Soundtrack"
+        },
+        {
+          "answer": "Backstreet's Back",
+          "display": "#4 — Backstreet Boys"
+        },
+        {
+          "answer": "Left of the Middle",
+          "display": "#5 — Natalie Imbruglia"
+        },
+        {
+          "answer": "The Best of 1980–1990",
+          "display": "#6 — U2"
+        },
+        {
+          "answer": "Come On Over",
+          "display": "#7 — Shania Twain"
+        },
+        {
+          "answer": "Highlights from The Main Event",
+          "display": "#8 — John Farnham, Olivia Newton-John, Anthony Warlow"
+        },
+        {
+          "answer": "Spiceworld",
+          "display": "#9 — Spice Girls"
+        },
+        {
+          "answer": "Ray of Light",
+          "display": "#10 — Madonna"
+        },
+        {
+          "answer": "Let's Talk About Love",
+          "display": "#11 — Celine Dion"
+        },
+        {
+          "answer": "Romanza",
+          "display": "#12 — Andrea Bocelli"
+        },
+        {
+          "answer": "Chef Aid: The South Park Album",
+          "display": "#13 — Soundtrack"
+        }
+      ]
+    },
+    {
+      "category": "music/australia/albums",
+      "question": "Top 10 best-selling albums in Australia in 1999 (ARIA year-end albums chart)",
+      "cutoff": 10,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1353023518 | table 1 | name: Title | value: # | order: asc",
+      "tags": [
+        "music",
+        "australia",
+        "albums",
+        "charts",
+        "1990s"
+      ],
+      "answers": [
+        {
+          "answer": "Come On Over",
+          "display": "#1 — Shania Twain"
+        },
+        {
+          "answer": "One Night Only",
+          "display": "#2 — Bee Gees"
+        },
+        {
+          "answer": "Americana",
+          "display": "#3 — The Offspring"
+        },
+        {
+          "answer": "Affirmation",
+          "display": "#4 — Savage Garden"
+        },
+        {
+          "answer": "Songs from Dawson's Creek",
+          "display": "#5 — Soundtrack"
+        },
+        {
+          "answer": "Ricky Martin",
+          "display": "#6 — Ricky Martin"
+        },
+        {
+          "answer": "Baby One More Time",
+          "display": "#7 — Britney Spears"
+        },
+        {
+          "answer": "ABBA Gold",
+          "display": "#8 — ABBA"
+        },
+        {
+          "answer": "Californication",
+          "display": "#9 — Red Hot Chili Peppers"
+        },
+        {
+          "answer": "You've Come a Long Way, Baby",
+          "display": "#10 — Fatboy Slim"
+        },
+        {
+          "answer": "Millennium",
+          "display": "#11 — Backstreet Boys"
+        },
+        {
+          "answer": "Songs from Ally McBeal",
+          "display": "#12 — Vonda Shepard"
+        },
+        {
+          "answer": "The Living End",
+          "display": "#13 — The Living End"
+        }
+      ]
+    },
+    {
+      "category": "music/australia/albums",
+      "question": "Top 10 best-selling albums in Australia in 2000 (ARIA year-end albums chart)",
+      "cutoff": 10,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1320284694 | table 1 | name: Title | value: # | order: asc",
+      "tags": [
+        "music",
+        "australia",
+        "albums",
+        "charts",
+        "2000s"
+      ],
+      "answers": [
+        {
+          "answer": "One",
+          "display": "#1 — The Beatles"
+        },
+        {
+          "answer": "Odyssey Number Five",
+          "display": "#2 — Powderfinger"
+        },
+        {
+          "answer": "Affirmation",
+          "display": "#3 — Savage Garden"
+        },
+        {
+          "answer": "The Power",
+          "display": "#4 — Vanessa Amorosi"
+        },
+        {
+          "answer": "Reflector",
+          "display": "#5 — Killing Heidi"
+        },
+        {
+          "answer": "Californication",
+          "display": "#6 — Red Hot Chili Peppers"
+        },
+        {
+          "answer": "On How Life Is",
+          "display": "#7 — Macy Gray"
+        },
+        {
+          "answer": "All That You Can't Leave Behind",
+          "display": "#8 — U2"
+        },
+        {
+          "answer": "Not That Kind",
+          "display": "#9 — Anastacia"
+        },
+        {
+          "answer": "Play",
+          "display": "#10 — Moby"
+        },
+        {
+          "answer": "In Blue",
+          "display": "#11 — The Corrs"
+        },
+        {
+          "answer": "33⅓",
+          "display": "#12 — John Farnham",
+          "aliases": [
+            "33 1/3"
+          ]
+        },
+        {
+          "answer": "The Writing's on the Wall",
+          "display": "#13 — Destiny's Child"
+        }
+      ]
+    },
+    {
+      "category": "music/australia/albums",
+      "question": "Top 10 best-selling albums in Australia in 2001 (ARIA year-end albums chart)",
+      "cutoff": 10,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1320284683 | table 1 | name: Title | value: # | order: asc",
+      "tags": [
+        "music",
+        "australia",
+        "albums",
+        "charts",
+        "2000s"
+      ],
+      "answers": [
+        {
+          "answer": "Moulin Rouge!",
+          "display": "#1 — Soundtrack"
+        },
+        {
+          "answer": "No Angel",
+          "display": "#2 — Dido"
+        },
+        {
+          "answer": "Human Clay",
+          "display": "#3 — Creed"
+        },
+        {
+          "answer": "Born to Do It",
+          "display": "#4 — Craig David"
+        },
+        {
+          "answer": "Fever",
+          "display": "#5 — Kylie Minogue"
+        },
+        {
+          "answer": "Hot Shot",
+          "display": "#6 — Shaggy"
+        },
+        {
+          "answer": "Odyssey Number Five",
+          "display": "#7 — Powderfinger"
+        },
+        {
+          "answer": "Coyote Ugly",
+          "display": "#8 — Soundtrack"
+        },
+        {
+          "answer": "Chocolate Starfish and the Hot Dog Flavored Water",
+          "display": "#9 — Limp Bizkit"
+        },
+        {
+          "answer": "All That You Can't Leave Behind",
+          "display": "#10 — U2"
+        },
+        {
+          "answer": "Bridget Jones's Diary: Music from the Motion Picture",
+          "display": "#11 — Soundtrack"
+        },
+        {
+          "answer": "The Marshall Mathers LP",
+          "display": "#12 — Eminem"
+        },
+        {
+          "answer": "Parachutes",
+          "display": "#13 — Coldplay"
+        }
+      ]
+    },
+    {
+      "category": "music/australia/albums",
+      "question": "Top 10 best-selling albums in Australia in 2002 (ARIA year-end albums chart)",
+      "cutoff": 10,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1320284636 | table 1 | name: Title | value: # | order: asc",
+      "tags": [
+        "music",
+        "australia",
+        "albums",
+        "charts",
+        "2000s"
+      ],
+      "answers": [
+        {
+          "answer": "The Eminem Show",
+          "display": "#1 — Eminem"
+        },
+        {
+          "answer": "Laundry Service",
+          "display": "#2 — Shakira"
+        },
+        {
+          "answer": "Barricades & Brickwalls",
+          "display": "#3 — Kasey Chambers"
+        },
+        {
+          "answer": "Fever",
+          "display": "#4 — Kylie Minogue"
+        },
+        {
+          "answer": "Escape",
+          "display": "#5 — Enrique Iglesias"
+        },
+        {
+          "answer": "A Funk Odyssey",
+          "display": "#6 — Jamiroquai"
+        },
+        {
+          "answer": "By the Way",
+          "display": "#7 — Red Hot Chili Peppers"
+        },
+        {
+          "answer": "Polyserena",
+          "display": "#8 — george"
+        },
+        {
+          "answer": "30 #1 Hits",
+          "display": "#9 — Elvis Presley",
+          "aliases": [
+            "Elvis Presley 30 #1 Hits"
+          ]
+        },
+        {
+          "answer": "Let Go",
+          "display": "#10 — Avril Lavigne"
+        },
+        {
+          "answer": "Nellyville",
+          "display": "#11 — Nelly"
+        },
+        {
+          "answer": "Swing When You're Winning",
+          "display": "#12 — Robbie Williams"
+        },
+        {
+          "answer": "Shrek",
+          "display": "#13 — Soundtrack"
+        }
+      ]
+    },
+    {
+      "category": "music/australia/albums",
+      "question": "Top 10 best-selling albums in Australia in 2003 (ARIA year-end albums chart)",
+      "cutoff": 10,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1320284813 | table 1 | name: Title | value: # | order: asc",
+      "tags": [
+        "music",
+        "australia",
+        "albums",
+        "charts",
+        "2000s"
+      ],
+      "answers": [
+        {
+          "answer": "Innocent Eyes",
+          "display": "#1 — Delta Goodrem"
+        },
+        {
+          "answer": "Come Away with Me",
+          "display": "#2 — Norah Jones"
+        },
+        {
+          "answer": "Let Go",
+          "display": "#3 — Avril Lavigne"
+        },
+        {
+          "answer": "Vulture Street",
+          "display": "#4 — Powderfinger"
+        },
+        {
+          "answer": "Just As I Am",
+          "display": "#5 — Guy Sebastian"
+        },
+        {
+          "answer": "The Eminem Show",
+          "display": "#6 — Eminem"
+        },
+        {
+          "answer": "8 Mile: Music from and Inspired by the Motion Picture",
+          "display": "#7 — Soundtrack"
+        },
+        {
+          "answer": "More Than You Think You Are",
+          "display": "#8 — Matchbox Twenty"
+        },
+        {
+          "answer": "Escapology",
+          "display": "#9 — Robbie Williams"
+        },
+        {
+          "answer": "A Rush of Blood to the Head",
+          "display": "#10 — Coldplay"
+        },
+        {
+          "answer": "Life for Rent",
+          "display": "#11 — Dido"
+        },
+        {
+          "answer": "Stripped",
+          "display": "#12 — Christina Aguilera"
+        },
+        {
+          "answer": "One Voice: Greatest Hits",
+          "display": "#13 — John Farnham"
+        }
+      ]
+    },
+    {
+      "category": "music/australia/albums",
+      "question": "Top 10 best-selling albums in Australia in 2004 (ARIA year-end albums chart)",
+      "cutoff": 10,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1353023507 | table 1 | name: Title | value: # | order: asc",
+      "tags": [
+        "music",
+        "australia",
+        "albums",
+        "charts",
+        "2000s"
+      ],
+      "answers": [
+        {
+          "answer": "Get Born",
+          "display": "#1 — Jet"
+        },
+        {
+          "answer": "That's What I'm Talking About",
+          "display": "#2 — Shannon Noll"
+        },
+        {
+          "answer": "Feeler",
+          "display": "#3 — Pete Murray"
+        },
+        {
+          "answer": "Greatest Hits",
+          "display": "#4 — Robbie Williams"
+        },
+        {
+          "answer": "Sunrise Over Sea",
+          "display": "#5 — John Butler Trio"
+        },
+        {
+          "answer": "Songs About Jane",
+          "display": "#6 — Maroon 5"
+        },
+        {
+          "answer": "Fallen",
+          "display": "#7 — Evanescence"
+        },
+        {
+          "answer": "Michael Bublé",
+          "display": "#8 — Michael Bublé"
+        },
+        {
+          "answer": "Elephunk",
+          "display": "#9 — The Black Eyed Peas"
+        },
+        {
+          "answer": "Feels Like Home",
+          "display": "#10 — Norah Jones"
+        },
+        {
+          "answer": "Confessions",
+          "display": "#11 — Usher"
+        },
+        {
+          "answer": "Life for Rent",
+          "display": "#12 — Dido"
+        },
+        {
+          "answer": "Mistaken Identity",
+          "display": "#13 — Delta Goodrem"
+        }
+      ]
+    },
+    {
+      "category": "music/australia/albums",
+      "question": "Top 10 best-selling albums in Australia in 2005 (ARIA year-end albums chart)",
+      "cutoff": 10,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1353023500 | table 1 | name: Title | value: # | order: asc",
+      "tags": [
+        "music",
+        "australia",
+        "albums",
+        "charts",
+        "2000s"
+      ],
+      "answers": [
+        {
+          "answer": "The Sound of White",
+          "display": "#1 — Missy Higgins"
+        },
+        {
+          "answer": "Breakaway",
+          "display": "#2 — Kelly Clarkson"
+        },
+        {
+          "answer": "It's Time",
+          "display": "#3 — Michael Bublé"
+        },
+        {
+          "answer": "Love. Angel. Music. Baby.",
+          "display": "#4 — Gwen Stefani"
+        },
+        {
+          "answer": "Monkey Business",
+          "display": "#5 — The Black Eyed Peas"
+        },
+        {
+          "answer": "American Idiot",
+          "display": "#6 — Green Day"
+        },
+        {
+          "answer": "In Between Dreams",
+          "display": "#7 — Jack Johnson"
+        },
+        {
+          "answer": "X&Y",
+          "display": "#8 — Coldplay",
+          "aliases": [
+            "Coldplay X&Y"
+          ]
+        },
+        {
+          "answer": "Back to Bedlam",
+          "display": "#9 — James Blunt"
+        },
+        {
+          "answer": "In Your Honor",
+          "display": "#10 — Foo Fighters"
+        },
+        {
+          "answer": "Greatest Hits",
+          "display": "#11 — Robbie Williams"
+        },
+        {
+          "answer": "Il Divo",
+          "display": "#12 — Il Divo"
+        },
+        {
+          "answer": "Songs About Jane",
+          "display": "#13 — Maroon 5"
+        }
+      ]
+    },
+    {
+      "category": "music/australia/albums",
+      "question": "Top 10 best-selling albums in Australia in 2006 (ARIA year-end albums chart)",
+      "cutoff": 10,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1352666454 | table 1 | name: Title | value: # | order: asc",
+      "tags": [
+        "music",
+        "australia",
+        "albums",
+        "charts",
+        "2000s"
+      ],
+      "answers": [
+        {
+          "answer": "Back to Bedlam",
+          "display": "#1 — James Blunt"
+        },
+        {
+          "answer": "I'm Not Dead",
+          "display": "#2 — Pink"
+        },
+        {
+          "answer": "Reach Out: The Motown Record",
+          "display": "#3 — Human Nature"
+        },
+        {
+          "answer": "Wolfmother",
+          "display": "#4 — Wolfmother"
+        },
+        {
+          "answer": "The Winner's Journey",
+          "display": "#5 — Damien Leith"
+        },
+        {
+          "answer": "Here Come the Drums",
+          "display": "#6 — Rogue Traders"
+        },
+        {
+          "answer": "Black Fingernails, Red Wine",
+          "display": "#7 — Eskimo Joe"
+        },
+        {
+          "answer": "Stadium Arcadium",
+          "display": "#8 — Red Hot Chili Peppers"
+        },
+        {
+          "answer": "Boned!",
+          "display": "#9 — The 12th Man"
+        },
+        {
+          "answer": "The Secret Life Of...",
+          "display": "#10 — The Veronicas"
+        },
+        {
+          "answer": "All the Right Reasons",
+          "display": "#11 — Nickelback"
+        },
+        {
+          "answer": "U218 Singles",
+          "display": "#12 — U2"
+        },
+        {
+          "answer": "Tea and Sympathy",
+          "display": "#13 — Bernard Fanning"
+        }
+      ]
+    },
+    {
+      "category": "music/australia/albums",
+      "question": "Top 10 best-selling albums in Australia in 2007 (ARIA year-end albums chart)",
+      "cutoff": 10,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1352666444 | table 1 | name: Title | value: # | order: asc",
+      "tags": [
+        "music",
+        "australia",
+        "albums",
+        "charts",
+        "2000s"
+      ],
+      "answers": [
+        {
+          "answer": "Call Me Irresponsible",
+          "display": "#1 — Michael Bublé"
+        },
+        {
+          "answer": "I'm Not Dead",
+          "display": "#2 — Pink"
+        },
+        {
+          "answer": "FutureSex/LoveSounds",
+          "display": "#3 — Justin Timberlake"
+        },
+        {
+          "answer": "On a Clear Night",
+          "display": "#4 — Missy Higgins"
+        },
+        {
+          "answer": "The Dutchess",
+          "display": "#5 — Fergie"
+        },
+        {
+          "answer": "Dream Days at the Hotel Existence",
+          "display": "#6 — Powderfinger"
+        },
+        {
+          "answer": "Grand National",
+          "display": "#7 — John Butler Trio"
+        },
+        {
+          "answer": "Long Road Out of Eden",
+          "display": "#8 — The Eagles"
+        },
+        {
+          "answer": "Young Modern",
+          "display": "#9 — Silverchair"
+        },
+        {
+          "answer": "Timbaland Presents Shock Value",
+          "display": "#10 — Timbaland"
+        },
+        {
+          "answer": "Exile on Mainstream",
+          "display": "#11 — Matchbox Twenty"
+        },
+        {
+          "answer": "Minutes to Midnight",
+          "display": "#12 — Linkin Park"
+        },
+        {
+          "answer": "Delta",
+          "display": "#13 — Delta Goodrem"
+        }
+      ]
+    },
+    {
+      "category": "music/australia/albums",
+      "question": "Top 10 best-selling albums in Australia in 2008 (ARIA year-end albums chart)",
+      "cutoff": 10,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1353023493 | table 1 | name: Title | value: # | order: asc",
+      "tags": [
+        "music",
+        "australia",
+        "albums",
+        "charts",
+        "2000s"
+      ],
+      "answers": [
+        {
+          "answer": "Only by the Night",
+          "display": "#1 — Kings of Leon"
+        },
+        {
+          "answer": "Funhouse",
+          "display": "#2 — Pink"
+        },
+        {
+          "answer": "Black Ice",
+          "display": "#3 — AC/DC"
+        },
+        {
+          "answer": "Viva la Vida or Death and All His Friends",
+          "display": "#4 — Coldplay"
+        },
+        {
+          "answer": "Apocalypso",
+          "display": "#5 — The Presets"
+        },
+        {
+          "answer": "Mamma Mia! The Movie Soundtrack",
+          "display": "#6 — Soundtrack"
+        },
+        {
+          "answer": "Exclusive",
+          "display": "#7 — Chris Brown"
+        },
+        {
+          "answer": "Death Magnetic",
+          "display": "#8 — Metallica"
+        },
+        {
+          "answer": "Good Girl Gone Bad",
+          "display": "#9 — Rihanna"
+        },
+        {
+          "answer": "We Sing. We Dance. We Steal Things.",
+          "display": "#10 — Jason Mraz"
+        },
+        {
+          "answer": "Sleep Through the Static",
+          "display": "#11 — Jack Johnson"
+        },
+        {
+          "answer": "The Fame",
+          "display": "#12 — Lady Gaga"
+        },
+        {
+          "answer": "Lessons to Be Learned",
+          "display": "#13 — Gabriella Cilmi"
+        }
+      ]
+    },
+    {
+      "category": "music/australia/albums",
+      "question": "Top 10 best-selling albums in Australia in 2009 (ARIA year-end albums chart)",
+      "cutoff": 10,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1353023485 | table 1 | name: Title | value: # | order: asc",
+      "tags": [
+        "music",
+        "australia",
+        "albums",
+        "charts",
+        "2000s"
+      ],
+      "answers": [
+        {
+          "answer": "I Dreamed a Dream",
+          "display": "#1 — Susan Boyle"
+        },
+        {
+          "answer": "Funhouse",
+          "display": "#2 — Pink"
+        },
+        {
+          "answer": "The E.N.D.",
+          "display": "#3 — The Black Eyed Peas"
+        },
+        {
+          "answer": "Fearless",
+          "display": "#4 — Taylor Swift"
+        },
+        {
+          "answer": "It's Not Me, It's You",
+          "display": "#5 — Lily Allen"
+        },
+        {
+          "answer": "Crazy Love",
+          "display": "#6 — Michael Bublé"
+        },
+        {
+          "answer": "Only by the Night",
+          "display": "#7 — Kings of Leon"
+        },
+        {
+          "answer": "The Essential Michael Jackson",
+          "display": "#8 — Michael Jackson"
+        },
+        {
+          "answer": "The Fame",
+          "display": "#9 — Lady Gaga"
+        },
+        {
+          "answer": "I Am... Sasha Fierce",
+          "display": "#10 — Beyoncé"
+        },
+        {
+          "answer": "Twilight",
+          "display": "#11 — Soundtrack"
+        },
+        {
+          "answer": "State of the Art",
+          "display": "#12 — Hilltop Hoods"
+        },
+        {
+          "answer": "Number Ones",
+          "display": "#13 — Michael Jackson"
+        }
+      ]
+    },
+    {
+      "category": "music/australia/albums",
+      "question": "Top 10 best-selling albums in Australia in 2010 (ARIA year-end albums chart)",
+      "cutoff": 10,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1353023477 | table 1 | name: Title | value: # | order: asc",
+      "tags": [
+        "music",
+        "australia",
+        "albums",
+        "charts",
+        "2010s"
+      ],
+      "answers": [
+        {
+          "answer": "Greatest Hits... So Far!!!",
+          "display": "#1 — Pink"
+        },
+        {
+          "answer": "I Dreamed a Dream",
+          "display": "#2 — Susan Boyle"
+        },
+        {
+          "answer": "Recovery",
+          "display": "#3 — Eminem"
+        },
+        {
+          "answer": "Greatest Hits",
+          "display": "#4 — Bon Jovi"
+        },
+        {
+          "answer": "The Gift",
+          "display": "#5 — Susan Boyle"
+        },
+        {
+          "answer": "The Fame Monster",
+          "display": "#6 — Lady Gaga"
+        },
+        {
+          "answer": "Down the Way",
+          "display": "#7 — Angus & Julia Stone"
+        },
+        {
+          "answer": "Sigh No More",
+          "display": "#8 — Mumford & Sons"
+        },
+        {
+          "answer": "Crazy Love",
+          "display": "#9 — Michael Bublé"
+        },
+        {
+          "answer": "Teenage Dream",
+          "display": "#10 — Katy Perry"
+        },
+        {
+          "answer": "Animal",
+          "display": "#11 — Kesha"
+        },
+        {
+          "answer": "My Worlds",
+          "display": "#12 — Justin Bieber"
+        },
+        {
+          "answer": "Lungs",
+          "display": "#13 — Florence and the Machine"
+        }
+      ]
+    },
+    {
+      "category": "music/australia/albums",
+      "question": "Top 10 best-selling albums in Australia in 2011 (ARIA year-end albums chart)",
+      "cutoff": 10,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1353022889 | table 1 | name: Title | value: # | order: asc",
+      "tags": [
+        "music",
+        "australia",
+        "albums",
+        "charts",
+        "2010s"
+      ],
+      "answers": [
+        {
+          "answer": "21",
+          "display": "#1 — Adele",
+          "aliases": [
+            "Adele 21"
+          ]
+        },
+        {
+          "answer": "Christmas",
+          "display": "#2 — Michael Bublé"
+        },
+        {
+          "answer": "Doo-Wops & Hooligans",
+          "display": "#3 — Bruno Mars"
+        },
+        {
+          "answer": "Making Mirrors",
+          "display": "#4 — Gotye"
+        },
+        {
+          "answer": "Sorry for Party Rocking",
+          "display": "#5 — LMFAO"
+        },
+        {
+          "answer": "Born This Way",
+          "display": "#6 — Lady Gaga"
+        },
+        {
+          "answer": "Someone to Watch Over Me",
+          "display": "#7 — Susan Boyle"
+        },
+        {
+          "answer": "Wasting Light",
+          "display": "#8 — Foo Fighters"
+        },
+        {
+          "answer": "Duets II",
+          "display": "#9 — Tony Bennett"
+        },
+        {
+          "answer": "Mylo Xyloto",
+          "display": "#10 — Coldplay"
+        },
+        {
+          "answer": "19",
+          "display": "#11 — Adele",
+          "aliases": [
+            "Adele 19"
+          ]
+        },
+        {
+          "answer": "Greatest Hits... So Far!!!",
+          "display": "#12 — Pink"
+        },
+        {
+          "answer": "Loud",
+          "display": "#13 — Rihanna"
+        }
+      ]
+    },
+    {
+      "category": "music/australia/albums",
+      "question": "Top 10 best-selling albums in Australia in 2012 (ARIA year-end albums chart)",
+      "cutoff": 10,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1353022879 | table 1 | name: Title | value: # | order: asc",
+      "tags": [
+        "music",
+        "australia",
+        "albums",
+        "charts",
+        "2010s"
+      ],
+      "answers": [
+        {
+          "answer": "The Truth About Love",
+          "display": "#1 — Pink"
+        },
+        {
+          "answer": "Up All Night",
+          "display": "#2 — One Direction"
+        },
+        {
+          "answer": "21",
+          "display": "#3 — Adele",
+          "aliases": [
+            "Adele 21"
+          ]
+        },
+        {
+          "answer": "Christmas",
+          "display": "#4 — Michael Bublé"
+        },
+        {
+          "answer": "Plus",
+          "display": "#5 — Ed Sheeran (+)",
+          "aliases": [
+            "Ed Sheeran Plus"
+          ]
+        },
+        {
+          "answer": "My Journey",
+          "display": "#6 — Karise Eden"
+        },
+        {
+          "answer": "Red",
+          "display": "#7 — Taylor Swift"
+        },
+        {
+          "answer": "Take Me Home",
+          "display": "#8 — One Direction"
+        },
+        {
+          "answer": "Armageddon",
+          "display": "#9 — Guy Sebastian"
+        },
+        {
+          "answer": "Birdy",
+          "display": "#10 — Birdy"
+        },
+        {
+          "answer": "El Camino",
+          "display": "#11 — The Black Keys"
+        },
+        {
+          "answer": "Babel",
+          "display": "#12 — Mumford & Sons"
+        },
+        {
+          "answer": "Drinking from the Sun",
+          "display": "#13 — Hilltop Hoods"
+        }
+      ]
+    },
+    {
+      "category": "music/australia/albums",
+      "question": "Top 10 best-selling albums in Australia in 2013 (ARIA year-end albums chart)",
+      "cutoff": 10,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1313800675 | table 1 | name: Title | value: # | order: asc",
+      "tags": [
+        "music",
+        "australia",
+        "albums",
+        "charts",
+        "2010s"
+      ],
+      "answers": [
+        {
+          "answer": "The Truth About Love",
+          "display": "#1 — Pink"
+        },
+        {
+          "answer": "Prism",
+          "display": "#2 — Katy Perry"
+        },
+        {
+          "answer": "Unorthodox Jukebox",
+          "display": "#3 — Bruno Mars"
+        },
+        {
+          "answer": "To Be Loved",
+          "display": "#4 — Michael Bublé"
+        },
+        {
+          "answer": "Random Access Memories",
+          "display": "#5 — Daft Punk"
+        },
+        {
+          "answer": "Midnight Memories",
+          "display": "#6 — One Direction"
+        },
+        {
+          "answer": "Christmas",
+          "display": "#7 — Michael Bublé"
+        },
+        {
+          "answer": "The Marshall Mathers LP2",
+          "display": "#8 — Eminem"
+        },
+        {
+          "answer": "Pure Heroine",
+          "display": "#9 — Lorde"
+        },
+        {
+          "answer": "All the Little Lights",
+          "display": "#10 — Passenger"
+        },
+        {
+          "answer": "Flume",
+          "display": "#11 — Flume"
+        },
+        {
+          "answer": "Plus",
+          "display": "#12 — Ed Sheeran (+)",
+          "aliases": [
+            "Ed Sheeran Plus"
+          ]
+        },
+        {
+          "answer": "The Heist",
+          "display": "#13 — Macklemore and Ryan Lewis"
+        }
+      ]
+    },
+    {
+      "category": "music/australia/albums",
+      "question": "Top 10 best-selling albums in Australia in 2014 (ARIA year-end albums chart)",
+      "cutoff": 10,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1352666434 | table 1 | name: Title | value: # | order: asc",
+      "tags": [
+        "music",
+        "australia",
+        "albums",
+        "charts",
+        "2010s"
+      ],
+      "answers": [
+        {
+          "answer": "x",
+          "display": "#1 — Ed Sheeran",
+          "aliases": [
+            "Ed Sheeran x"
+          ]
+        },
+        {
+          "answer": "1989",
+          "display": "#2 — Taylor Swift",
+          "aliases": [
+            "Taylor Swift 1989"
+          ]
+        },
+        {
+          "answer": "Frozen",
+          "display": "#3 — Various artists",
+          "aliases": [
+            "Frozen (soundtrack)"
+          ]
+        },
+        {
+          "answer": "The Very Best",
+          "display": "#4 — INXS"
+        },
+        {
+          "answer": "Ghost Stories",
+          "display": "#5 — Coldplay"
+        },
+        {
+          "answer": "In the Lonely Hour",
+          "display": "#6 — Sam Smith"
+        },
+        {
+          "answer": "Prism",
+          "display": "#7 — Katy Perry"
+        },
+        {
+          "answer": "Christmas",
+          "display": "#8 — Michael Bublé"
+        },
+        {
+          "answer": "Walking Under Stars",
+          "display": "#9 — Hilltop Hoods"
+        },
+        {
+          "answer": "Jukebox",
+          "display": "#10 — Human Nature"
+        },
+        {
+          "answer": "5 Seconds of Summer",
+          "display": "#11 — 5 Seconds of Summer"
+        },
+        {
+          "answer": "Built on Glass",
+          "display": "#12 — Chet Faker"
+        },
+        {
+          "answer": "Rock or Bust",
+          "display": "#13 — AC/DC"
+        }
+      ]
+    },
+    {
+      "category": "music/australia/albums",
+      "question": "Top 10 best-selling albums in Australia in 2015 (ARIA year-end albums chart)",
+      "cutoff": 10,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1361292481 | table 1 | name: Title | value: No. | order: asc",
+      "tags": [
+        "music",
+        "australia",
+        "albums",
+        "charts",
+        "2010s"
+      ],
+      "answers": [
+        {
+          "answer": "25",
+          "display": "#1 — Adele",
+          "aliases": [
+            "Adele 25"
+          ]
+        },
+        {
+          "answer": "x",
+          "display": "#2 — Ed Sheeran",
+          "aliases": [
+            "Ed Sheeran x"
+          ]
+        },
+        {
+          "answer": "1989",
+          "display": "#3 — Taylor Swift",
+          "aliases": [
+            "Taylor Swift 1989"
+          ]
+        },
+        {
+          "answer": "Purpose",
+          "display": "#4 — Justin Bieber"
+        },
+        {
+          "answer": "Title",
+          "display": "#5 — Meghan Trainor",
+          "aliases": [
+            "Meghan Trainor Title"
+          ]
+        },
+        {
+          "answer": "In the Lonely Hour",
+          "display": "#6 — Sam Smith"
+        },
+        {
+          "answer": "Christmas",
+          "display": "#7 — Michael Bublé"
+        },
+        {
+          "answer": "Spirit of the Anzacs",
+          "display": "#8 — Lee Kernaghan"
+        },
+        {
+          "answer": "Made in the A.M.",
+          "display": "#9 — One Direction"
+        },
+        {
+          "answer": "How Big, How Blue, How Beautiful",
+          "display": "#10 — Florence + The Machine"
+        },
+        {
+          "answer": "If I Can Dream",
+          "display": "#11 — Elvis Presley with the Royal Philharmonic Orchestra"
+        },
+        {
+          "answer": "Hozier",
+          "display": "#12 — Hozier"
+        },
+        {
+          "answer": "Fifty Shades of Grey",
+          "display": "#13 — soundtrack"
+        }
+      ]
+    },
+    {
+      "category": "music/australia/albums",
+      "question": "Top 10 best-selling albums in Australia in 2016 (ARIA year-end albums chart)",
+      "cutoff": 10,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1369183758 | table 1 | name: Title | value: # | order: asc",
+      "tags": [
+        "music",
+        "australia",
+        "albums",
+        "charts",
+        "2010s"
+      ],
+      "answers": [
+        {
+          "answer": "25",
+          "display": "#1 — Adele",
+          "aliases": [
+            "Adele 25"
+          ]
+        },
+        {
+          "answer": "Ripcord",
+          "display": "#2 — Keith Urban"
+        },
+        {
+          "answer": "Lemonade",
+          "display": "#3 — Beyoncé"
+        },
+        {
+          "answer": "Molly: Do Yourself a Favour",
+          "display": "#4 — Various artists"
+        },
+        {
+          "answer": "Christmas",
+          "display": "#5 — Michael Bublé"
+        },
+        {
+          "answer": "Friends for Christmas",
+          "display": "#6 — John Farnham & Olivia Newton-John"
+        },
+        {
+          "answer": "The Secret Daughter: Songs from the Original TV Series",
+          "display": "#7 — Jessica Mauboy"
+        },
+        {
+          "answer": "Blackstar",
+          "display": "#8 — David Bowie (★)",
+          "aliases": [
+            "David Bowie Blackstar"
+          ]
+        },
+        {
+          "answer": "Purpose",
+          "display": "#9 — Justin Bieber"
+        },
+        {
+          "answer": "Suicide Squad",
+          "display": "#10 — Various artists"
+        },
+        {
+          "answer": "A Head Full Of Dreams",
+          "display": "#11 — Coldplay"
+        },
+        {
+          "answer": "Hardwired...To Self-Destruct",
+          "display": "#12 — Metallica"
+        },
+        {
+          "answer": "Drinking from the Sun, Walking Under Stars Restrung",
+          "display": "#13 — Hilltop Hoods"
+        }
+      ]
+    },
+    {
+      "category": "music/australia/albums",
+      "question": "Top 10 best-selling albums in Australia in 2017 (ARIA year-end albums chart)",
+      "cutoff": 10,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1362407648 | table 1 | name: Title | value: # | order: asc",
+      "tags": [
+        "music",
+        "australia",
+        "albums",
+        "charts",
+        "2010s"
+      ],
+      "answers": [
+        {
+          "answer": "Divide",
+          "display": "#1 — Ed Sheeran (÷)",
+          "aliases": [
+            "Ed Sheeran Divide"
+          ]
+        },
+        {
+          "answer": "Beautiful Trauma",
+          "display": "#2 — P!nk"
+        },
+        {
+          "answer": "Reputation",
+          "display": "#3 — Taylor Swift"
+        },
+        {
+          "answer": "25",
+          "display": "#4 — Adele",
+          "aliases": [
+            "Adele 25"
+          ]
+        },
+        {
+          "answer": "Moana soundtrack",
+          "display": "#5 — Various artists"
+        },
+        {
+          "answer": "Trolls soundtrack",
+          "display": "#6 — Various artists"
+        },
+        {
+          "answer": "X",
+          "display": "#7 — Ed Sheeran",
+          "aliases": [
+            "Ed Sheeran X"
+          ]
+        },
+        {
+          "answer": "Christmas",
+          "display": "#8 — Michael Bublé"
+        },
+        {
+          "answer": "Guardians of the Galaxy Vol. 2",
+          "display": "#9 — Various artists"
+        },
+        {
+          "answer": "Damn",
+          "display": "#10 — Kendrick Lamar"
+        },
+        {
+          "answer": "Harry Styles",
+          "display": "#11 — Harry Styles"
+        },
+        {
+          "answer": "Plus",
+          "display": "#12 — Ed Sheeran (+)",
+          "aliases": [
+            "Ed Sheeran Plus"
+          ]
+        },
+        {
+          "answer": "Melodrama",
+          "display": "#13 — Lorde"
+        }
+      ]
+    },
+    {
+      "category": "music/australia/albums",
+      "question": "Top 10 best-selling albums in Australia in 2018 (ARIA year-end albums chart)",
+      "cutoff": 10,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1241006532 | table 1 | name: Title | value: # | order: asc",
+      "tags": [
+        "music",
+        "australia",
+        "albums",
+        "charts",
+        "2010s"
+      ],
+      "answers": [
+        {
+          "answer": "The Greatest Showman",
+          "display": "#1 — Various artists"
+        },
+        {
+          "answer": "Divide",
+          "display": "#2 — Ed Sheeran (÷)",
+          "aliases": [
+            "Ed Sheeran Divide"
+          ]
+        },
+        {
+          "answer": "A Star Is Born",
+          "display": "#3 — Lady Gaga and Bradley Cooper"
+        },
+        {
+          "answer": "Beerbongs & Bentleys",
+          "display": "#4 — Post Malone"
+        },
+        {
+          "answer": "Bohemian Rhapsody",
+          "display": "#5 — Queen"
+        },
+        {
+          "answer": "Kamikaze",
+          "display": "#6 — Eminem"
+        },
+        {
+          "answer": "Scorpion",
+          "display": "#7 — Drake"
+        },
+        {
+          "answer": "Greatest Hits",
+          "display": "#8 — Queen"
+        },
+        {
+          "answer": "Beautiful Trauma",
+          "display": "#9 — P!nk"
+        },
+        {
+          "answer": "x",
+          "display": "#10 — Ed Sheeran",
+          "aliases": [
+            "Ed Sheeran x"
+          ]
+        },
+        {
+          "answer": "Reputation",
+          "display": "#11 — Taylor Swift"
+        },
+        {
+          "answer": "Question Mark",
+          "display": "#12 — XXXTentacion (?)",
+          "aliases": [
+            "XXXTentacion Question Mark"
+          ]
+        },
+        {
+          "answer": "Stoney",
+          "display": "#13 — Post Malone"
+        }
+      ]
+    }
+  ]
+}

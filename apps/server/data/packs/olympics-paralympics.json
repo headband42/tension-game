@@ -1,0 +1,1449 @@
+{
+  "categories": [
+    {
+      "path": "sports/olympics/paralympics",
+      "name": "Paralympics"
+    }
+  ],
+  "questions": [
+    {
+      "category": "sports/olympics/paralympics",
+      "question": "Top 10 nations in the 1988 Summer Paralympics (Seoul) medal table (ranked by gold medals, then silver, then bronze)",
+      "cutoff": 10,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1344714472 | table 1 | name: Nation | value: Rank | order: asc",
+      "tags": [
+        "olympics",
+        "paralympics",
+        "medals",
+        "nations",
+        "summer",
+        "1988"
+      ],
+      "answers": [
+        {
+          "answer": "United States",
+          "display": "#1 — 91 gold, 90 silver, 88 bronze",
+          "aliases": [
+            "USA",
+            "US",
+            "America",
+            "United States of America"
+          ]
+        },
+        {
+          "answer": "West Germany",
+          "display": "#2 — 76 gold, 65 silver, 52 bronze",
+          "aliases": [
+            "FRG",
+            "Germany"
+          ]
+        },
+        {
+          "answer": "Great Britain",
+          "display": "#3 — 65 gold, 65 silver, 54 bronze",
+          "aliases": [
+            "Britain",
+            "UK",
+            "GB",
+            "Team GB"
+          ]
+        },
+        {
+          "answer": "Canada",
+          "display": "#4 — 55 gold, 42 silver, 55 bronze"
+        },
+        {
+          "answer": "France",
+          "display": "#5 — 46 gold, 44 silver, 50 bronze"
+        },
+        {
+          "answer": "Sweden",
+          "display": "#6 — 42 gold, 38 silver, 23 bronze"
+        },
+        {
+          "answer": "South Korea",
+          "display": "#7 — 40 gold, 35 silver, 19 bronze",
+          "aliases": [
+            "Korea"
+          ]
+        },
+        {
+          "answer": "Netherlands",
+          "display": "#8 — 30 gold, 24 silver, 29 bronze",
+          "aliases": [
+            "Holland"
+          ]
+        },
+        {
+          "answer": "Australia",
+          "display": "#9 — 23 gold, 34 silver, 38 bronze"
+        },
+        {
+          "answer": "Poland",
+          "display": "#10 — 23 gold, 25 silver, 33 bronze"
+        },
+        {
+          "answer": "Denmark",
+          "display": "#11 — 23 gold, 19 silver, 22 bronze"
+        },
+        {
+          "answer": "Soviet Union",
+          "display": "#12 — 21 gold, 20 silver, 15 bronze",
+          "aliases": [
+            "USSR"
+          ]
+        },
+        {
+          "answer": "Spain",
+          "display": "#13 — 18 gold, 13 silver, 12 bronze"
+        }
+      ]
+    },
+    {
+      "category": "sports/olympics/paralympics",
+      "question": "Top 10 nations in the 1992 Summer Paralympics (Barcelona) medal table (ranked by gold medals, then silver, then bronze)",
+      "cutoff": 10,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1372459676 | table 1 | name: Nation | value: Rank | order: asc",
+      "tags": [
+        "olympics",
+        "paralympics",
+        "medals",
+        "nations",
+        "summer",
+        "1992"
+      ],
+      "answers": [
+        {
+          "answer": "United States",
+          "display": "#1 — 75 gold, 52 silver, 48 bronze",
+          "aliases": [
+            "USA",
+            "US",
+            "America",
+            "United States of America"
+          ]
+        },
+        {
+          "answer": "Germany",
+          "display": "#2 — 61 gold, 51 silver, 59 bronze"
+        },
+        {
+          "answer": "Great Britain",
+          "display": "#3 — 42 gold, 51 silver, 46 bronze",
+          "aliases": [
+            "Britain",
+            "UK",
+            "GB",
+            "Team GB"
+          ]
+        },
+        {
+          "answer": "Spain",
+          "display": "#4 — 39 gold, 32 silver, 49 bronze"
+        },
+        {
+          "answer": "Australia",
+          "display": "#5 — 37 gold, 37 silver, 34 bronze"
+        },
+        {
+          "answer": "France",
+          "display": "#6 — 36 gold, 36 silver, 35 bronze"
+        },
+        {
+          "answer": "Canada",
+          "display": "#7 — 29 gold, 23 silver, 29 bronze"
+        },
+        {
+          "answer": "Unified Team",
+          "display": "#8 — 19 gold, 15 silver, 16 bronze",
+          "aliases": [
+            "EUN"
+          ]
+        },
+        {
+          "answer": "Sweden",
+          "display": "#9 — 16 gold, 33 silver, 19 bronze"
+        },
+        {
+          "answer": "China",
+          "display": "#10 — 16 gold, 8 silver, 7 bronze",
+          "aliases": [
+            "PRC"
+          ]
+        },
+        {
+          "answer": "Netherlands",
+          "display": "#11 — 14 gold, 14 silver, 12 bronze",
+          "aliases": [
+            "Holland"
+          ]
+        },
+        {
+          "answer": "Norway",
+          "display": "#12 — 13 gold, 13 silver, 7 bronze"
+        },
+        {
+          "answer": "Iceland",
+          "display": "#13 — 13 gold, 8 silver, 18 bronze"
+        }
+      ]
+    },
+    {
+      "category": "sports/olympics/paralympics",
+      "question": "Top 10 nations in the 1996 Summer Paralympics (Atlanta) medal table (ranked by gold medals, then silver, then bronze)",
+      "cutoff": 10,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1328664559 | table 1 | name: Nation | value: Rank | order: asc",
+      "tags": [
+        "olympics",
+        "paralympics",
+        "medals",
+        "nations",
+        "summer",
+        "1996"
+      ],
+      "answers": [
+        {
+          "answer": "United States",
+          "display": "#1 — 47 gold, 46 silver, 67 bronze",
+          "aliases": [
+            "USA",
+            "US",
+            "America",
+            "United States of America"
+          ]
+        },
+        {
+          "answer": "Australia",
+          "display": "#2 — 42 gold, 37 silver, 27 bronze"
+        },
+        {
+          "answer": "Germany",
+          "display": "#3 — 40 gold, 58 silver, 51 bronze"
+        },
+        {
+          "answer": "Great Britain",
+          "display": "#4 — 40 gold, 42 silver, 41 bronze",
+          "aliases": [
+            "Britain",
+            "UK",
+            "GB",
+            "Team GB"
+          ]
+        },
+        {
+          "answer": "Spain",
+          "display": "#5 — 39 gold, 31 silver, 36 bronze"
+        },
+        {
+          "answer": "France",
+          "display": "#6 — 35 gold, 30 silver, 31 bronze"
+        },
+        {
+          "answer": "Canada",
+          "display": "#7 — 24 gold, 23 silver, 24 bronze"
+        },
+        {
+          "answer": "Netherlands",
+          "display": "#8 — 17 gold, 11 silver, 17 bronze",
+          "aliases": [
+            "Holland"
+          ]
+        },
+        {
+          "answer": "China",
+          "display": "#9 — 16 gold, 13 silver, 10 bronze",
+          "aliases": [
+            "PRC"
+          ]
+        },
+        {
+          "answer": "Japan",
+          "display": "#10 — 14 gold, 10 silver, 13 bronze"
+        },
+        {
+          "answer": "Poland",
+          "display": "#11 — 13 gold, 14 silver, 8 bronze"
+        },
+        {
+          "answer": "South Korea",
+          "display": "#12 — 13 gold, 2 silver, 15 bronze",
+          "aliases": [
+            "Korea"
+          ]
+        },
+        {
+          "answer": "Sweden",
+          "display": "#13 — 12 gold, 14 silver, 11 bronze"
+        }
+      ]
+    },
+    {
+      "category": "sports/olympics/paralympics",
+      "question": "Top 10 nations in the 2000 Summer Paralympics (Sydney) medal table (ranked by gold medals, then silver, then bronze)",
+      "cutoff": 10,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1335632617 | table 1 | name: Nation | value: Rank | order: asc",
+      "tags": [
+        "olympics",
+        "paralympics",
+        "medals",
+        "nations",
+        "summer",
+        "2000"
+      ],
+      "answers": [
+        {
+          "answer": "Australia",
+          "display": "#1 — 63 gold, 39 silver, 47 bronze"
+        },
+        {
+          "answer": "Great Britain",
+          "display": "#2 — 41 gold, 43 silver, 47 bronze",
+          "aliases": [
+            "Britain",
+            "UK",
+            "GB",
+            "Team GB"
+          ]
+        },
+        {
+          "answer": "Canada",
+          "display": "#3 — 38 gold, 33 silver, 25 bronze"
+        },
+        {
+          "answer": "Spain",
+          "display": "#4 — 38 gold, 29 silver, 38 bronze"
+        },
+        {
+          "answer": "United States",
+          "display": "#5 — 36 gold, 39 silver, 34 bronze",
+          "aliases": [
+            "USA",
+            "US",
+            "America",
+            "United States of America"
+          ]
+        },
+        {
+          "answer": "China",
+          "display": "#6 — 34 gold, 22 silver, 17 bronze",
+          "aliases": [
+            "PRC"
+          ]
+        },
+        {
+          "answer": "France",
+          "display": "#7 — 30 gold, 28 silver, 28 bronze"
+        },
+        {
+          "answer": "Poland",
+          "display": "#8 — 19 gold, 24 silver, 10 bronze"
+        },
+        {
+          "answer": "South Korea",
+          "display": "#9 — 18 gold, 7 silver, 7 bronze",
+          "aliases": [
+            "Korea"
+          ]
+        },
+        {
+          "answer": "Germany",
+          "display": "#10 — 16 gold, 41 silver, 38 bronze"
+        },
+        {
+          "answer": "Czech Republic",
+          "display": "#11 — 15 gold, 15 silver, 13 bronze"
+        },
+        {
+          "answer": "Russia",
+          "display": "#12 — 14 gold, 9 silver, 12 bronze"
+        },
+        {
+          "answer": "Japan",
+          "display": "#13 — 13 gold, 17 silver, 11 bronze"
+        }
+      ]
+    },
+    {
+      "category": "sports/olympics/paralympics",
+      "question": "Top 10 nations in the 2004 Summer Paralympics (Athens) medal table (ranked by gold medals, then silver, then bronze)",
+      "cutoff": 10,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1338688900 | table 1 | name: Nation | value: Rank | order: asc",
+      "tags": [
+        "olympics",
+        "paralympics",
+        "medals",
+        "nations",
+        "summer",
+        "2004"
+      ],
+      "answers": [
+        {
+          "answer": "China",
+          "display": "#1 — 63 gold, 46 silver, 32 bronze",
+          "aliases": [
+            "PRC"
+          ]
+        },
+        {
+          "answer": "Great Britain",
+          "display": "#2 — 35 gold, 30 silver, 29 bronze",
+          "aliases": [
+            "Britain",
+            "UK",
+            "GB",
+            "Team GB"
+          ]
+        },
+        {
+          "answer": "Canada",
+          "display": "#3 — 28 gold, 19 silver, 25 bronze"
+        },
+        {
+          "answer": "United States",
+          "display": "#4 — 27 gold, 22 silver, 39 bronze",
+          "aliases": [
+            "USA",
+            "US",
+            "America",
+            "United States of America"
+          ]
+        },
+        {
+          "answer": "Australia",
+          "display": "#5 — 26 gold, 39 silver, 36 bronze"
+        },
+        {
+          "answer": "Ukraine",
+          "display": "#6 — 24 gold, 12 silver, 19 bronze"
+        },
+        {
+          "answer": "Spain",
+          "display": "#7 — 20 gold, 27 silver, 24 bronze"
+        },
+        {
+          "answer": "Germany",
+          "display": "#8 — 19 gold, 28 silver, 31 bronze"
+        },
+        {
+          "answer": "France",
+          "display": "#9 — 18 gold, 26 silver, 30 bronze"
+        },
+        {
+          "answer": "Japan",
+          "display": "#10 — 17 gold, 15 silver, 20 bronze"
+        },
+        {
+          "answer": "Russia",
+          "display": "#11 — 16 gold, 8 silver, 17 bronze"
+        },
+        {
+          "answer": "Czech Republic",
+          "display": "#12 — 16 gold, 8 silver, 7 bronze"
+        },
+        {
+          "answer": "South Africa",
+          "display": "#13 — 15 gold, 13 silver, 7 bronze"
+        }
+      ]
+    },
+    {
+      "category": "sports/olympics/paralympics",
+      "question": "Top 10 nations in the 2008 Summer Paralympics (Beijing) medal table (ranked by gold medals, then silver, then bronze)",
+      "cutoff": 10,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1328664237 | table 1 | name: NPC | value: Rank | order: asc",
+      "tags": [
+        "olympics",
+        "paralympics",
+        "medals",
+        "nations",
+        "summer",
+        "2008"
+      ],
+      "answers": [
+        {
+          "answer": "China",
+          "display": "#1 — 89 gold, 70 silver, 52 bronze",
+          "aliases": [
+            "PRC"
+          ]
+        },
+        {
+          "answer": "Great Britain",
+          "display": "#2 — 42 gold, 29 silver, 31 bronze",
+          "aliases": [
+            "Britain",
+            "UK",
+            "GB",
+            "Team GB"
+          ]
+        },
+        {
+          "answer": "United States",
+          "display": "#3 — 36 gold, 35 silver, 28 bronze",
+          "aliases": [
+            "USA",
+            "US",
+            "America",
+            "United States of America"
+          ]
+        },
+        {
+          "answer": "Ukraine",
+          "display": "#4 — 24 gold, 18 silver, 32 bronze"
+        },
+        {
+          "answer": "Australia",
+          "display": "#5 — 23 gold, 29 silver, 27 bronze"
+        },
+        {
+          "answer": "South Africa",
+          "display": "#6 — 21 gold, 3 silver, 6 bronze"
+        },
+        {
+          "answer": "Canada",
+          "display": "#7 — 19 gold, 10 silver, 21 bronze"
+        },
+        {
+          "answer": "Russia",
+          "display": "#8 — 18 gold, 23 silver, 22 bronze"
+        },
+        {
+          "answer": "Brazil",
+          "display": "#9 — 16 gold, 14 silver, 17 bronze"
+        },
+        {
+          "answer": "Spain",
+          "display": "#10 — 15 gold, 21 silver, 22 bronze"
+        },
+        {
+          "answer": "Germany",
+          "display": "#11 — 14 gold, 25 silver, 20 bronze"
+        },
+        {
+          "answer": "France",
+          "display": "#12 — 12 gold, 21 silver, 19 bronze"
+        },
+        {
+          "answer": "South Korea",
+          "display": "#13 — 10 gold, 8 silver, 13 bronze",
+          "aliases": [
+            "Korea"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/olympics/paralympics",
+      "question": "Top 10 nations in the 2012 Summer Paralympics (London) medal table (ranked by gold medals, then silver, then bronze)",
+      "cutoff": 10,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1328664132 | table 1 | name: NPC | value: Rank | order: asc",
+      "tags": [
+        "olympics",
+        "paralympics",
+        "medals",
+        "nations",
+        "summer",
+        "2012"
+      ],
+      "answers": [
+        {
+          "answer": "China",
+          "display": "#1 — 95 gold, 71 silver, 65 bronze",
+          "aliases": [
+            "PRC"
+          ]
+        },
+        {
+          "answer": "Russia",
+          "display": "#2 — 36 gold, 38 silver, 28 bronze"
+        },
+        {
+          "answer": "Great Britain",
+          "display": "#3 — 34 gold, 43 silver, 43 bronze",
+          "aliases": [
+            "Britain",
+            "UK",
+            "GB",
+            "Team GB"
+          ]
+        },
+        {
+          "answer": "Ukraine",
+          "display": "#4 — 32 gold, 24 silver, 28 bronze"
+        },
+        {
+          "answer": "Australia",
+          "display": "#5 — 32 gold, 23 silver, 30 bronze"
+        },
+        {
+          "answer": "United States",
+          "display": "#6 — 31 gold, 29 silver, 38 bronze",
+          "aliases": [
+            "USA",
+            "US",
+            "America",
+            "United States of America"
+          ]
+        },
+        {
+          "answer": "Brazil",
+          "display": "#7 — 21 gold, 14 silver, 8 bronze"
+        },
+        {
+          "answer": "Germany",
+          "display": "#8 — 18 gold, 26 silver, 22 bronze"
+        },
+        {
+          "answer": "Poland",
+          "display": "#9 — 14 gold, 13 silver, 9 bronze"
+        },
+        {
+          "answer": "Netherlands",
+          "display": "#10 — 10 gold, 10 silver, 19 bronze",
+          "aliases": [
+            "Holland"
+          ]
+        },
+        {
+          "answer": "Iran",
+          "display": "#11 — 10 gold, 7 silver, 7 bronze"
+        },
+        {
+          "answer": "South Korea",
+          "display": "#12 — 9 gold, 9 silver, 9 bronze",
+          "aliases": [
+            "Korea"
+          ]
+        },
+        {
+          "answer": "Italy",
+          "display": "#13 — 9 gold, 8 silver, 11 bronze"
+        }
+      ]
+    },
+    {
+      "category": "sports/olympics/paralympics",
+      "question": "Top 10 nations in the 2016 Summer Paralympics (Rio de Janeiro) medal table (ranked by gold medals, then silver, then bronze)",
+      "cutoff": 10,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1341751933 | table 1 | name: NPC | value: Rank | order: asc",
+      "tags": [
+        "olympics",
+        "paralympics",
+        "medals",
+        "nations",
+        "summer",
+        "2016"
+      ],
+      "answers": [
+        {
+          "answer": "China",
+          "display": "#1 — 107 gold, 81 silver, 51 bronze",
+          "aliases": [
+            "PRC"
+          ]
+        },
+        {
+          "answer": "Great Britain",
+          "display": "#2 — 64 gold, 39 silver, 44 bronze",
+          "aliases": [
+            "Britain",
+            "UK",
+            "GB",
+            "Team GB"
+          ]
+        },
+        {
+          "answer": "Ukraine",
+          "display": "#3 — 41 gold, 37 silver, 39 bronze"
+        },
+        {
+          "answer": "United States",
+          "display": "#4 — 40 gold, 44 silver, 31 bronze",
+          "aliases": [
+            "USA",
+            "US",
+            "America",
+            "United States of America"
+          ]
+        },
+        {
+          "answer": "Australia",
+          "display": "#5 — 22 gold, 30 silver, 29 bronze"
+        },
+        {
+          "answer": "Germany",
+          "display": "#6 — 18 gold, 25 silver, 14 bronze"
+        },
+        {
+          "answer": "Netherlands",
+          "display": "#7 — 17 gold, 19 silver, 26 bronze",
+          "aliases": [
+            "Holland"
+          ]
+        },
+        {
+          "answer": "Brazil",
+          "display": "#8 — 14 gold, 29 silver, 29 bronze"
+        },
+        {
+          "answer": "Italy",
+          "display": "#9 — 10 gold, 14 silver, 15 bronze"
+        },
+        {
+          "answer": "Poland",
+          "display": "#10 — 9 gold, 18 silver, 12 bronze"
+        },
+        {
+          "answer": "Spain",
+          "display": "#11 — 9 gold, 14 silver, 8 bronze"
+        },
+        {
+          "answer": "France",
+          "display": "#12 — 9 gold, 5 silver, 14 bronze"
+        },
+        {
+          "answer": "New Zealand",
+          "display": "#13 — 9 gold, 5 silver, 7 bronze"
+        }
+      ]
+    },
+    {
+      "category": "sports/olympics/paralympics",
+      "question": "Top 10 nations in the 2020 Summer Paralympics (Tokyo) medal table (ranked by gold medals, then silver, then bronze)",
+      "cutoff": 10,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1330470412 | table 1 | name: NPC | value: Rank | order: asc",
+      "tags": [
+        "olympics",
+        "paralympics",
+        "medals",
+        "nations",
+        "summer",
+        "2020"
+      ],
+      "answers": [
+        {
+          "answer": "China",
+          "display": "#1 — 96 gold, 60 silver, 51 bronze",
+          "aliases": [
+            "PRC"
+          ]
+        },
+        {
+          "answer": "Great Britain",
+          "display": "#2 — 41 gold, 38 silver, 45 bronze",
+          "aliases": [
+            "Britain",
+            "UK",
+            "GB",
+            "Team GB"
+          ]
+        },
+        {
+          "answer": "United States",
+          "display": "#3 — 37 gold, 36 silver, 31 bronze",
+          "aliases": [
+            "USA",
+            "US",
+            "America",
+            "United States of America"
+          ]
+        },
+        {
+          "answer": "RPC",
+          "display": "#4 — 36 gold, 33 silver, 49 bronze"
+        },
+        {
+          "answer": "Netherlands",
+          "display": "#5 — 25 gold, 17 silver, 17 bronze",
+          "aliases": [
+            "Holland"
+          ]
+        },
+        {
+          "answer": "Ukraine",
+          "display": "#6 — 24 gold, 47 silver, 27 bronze"
+        },
+        {
+          "answer": "Brazil",
+          "display": "#7 — 22 gold, 20 silver, 30 bronze"
+        },
+        {
+          "answer": "Australia",
+          "display": "#8 — 21 gold, 29 silver, 30 bronze"
+        },
+        {
+          "answer": "Italy",
+          "display": "#9 — 14 gold, 29 silver, 26 bronze"
+        },
+        {
+          "answer": "Azerbaijan",
+          "display": "#10 — 14 gold, 1 silver, 4 bronze"
+        },
+        {
+          "answer": "Japan",
+          "display": "#11 — 13 gold, 15 silver, 23 bronze"
+        },
+        {
+          "answer": "Germany",
+          "display": "#12 — 13 gold, 12 silver, 18 bronze"
+        },
+        {
+          "answer": "Iran",
+          "display": "#13 — 12 gold, 11 silver, 1 bronze"
+        }
+      ]
+    },
+    {
+      "category": "sports/olympics/paralympics",
+      "question": "Top 10 nations in the 2024 Summer Paralympics (Paris) medal table (ranked by gold medals, then silver, then bronze)",
+      "cutoff": 10,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1361646651 | table 1 | name: NPC | value: Rank | order: asc",
+      "tags": [
+        "olympics",
+        "paralympics",
+        "medals",
+        "nations",
+        "summer",
+        "2024"
+      ],
+      "answers": [
+        {
+          "answer": "China",
+          "display": "#1 — 94 gold, 76 silver, 50 bronze",
+          "aliases": [
+            "PRC"
+          ]
+        },
+        {
+          "answer": "Great Britain",
+          "display": "#2 — 49 gold, 44 silver, 31 bronze",
+          "aliases": [
+            "Britain",
+            "UK",
+            "GB",
+            "Team GB"
+          ]
+        },
+        {
+          "answer": "United States",
+          "display": "#3 — 36 gold, 42 silver, 27 bronze",
+          "aliases": [
+            "USA",
+            "US",
+            "America",
+            "United States of America"
+          ]
+        },
+        {
+          "answer": "Netherlands",
+          "display": "#4 — 27 gold, 17 silver, 12 bronze",
+          "aliases": [
+            "Holland"
+          ]
+        },
+        {
+          "answer": "Brazil",
+          "display": "#5 — 25 gold, 25 silver, 38 bronze"
+        },
+        {
+          "answer": "Italy",
+          "display": "#6 — 24 gold, 15 silver, 33 bronze"
+        },
+        {
+          "answer": "Ukraine",
+          "display": "#7 — 22 gold, 28 silver, 32 bronze"
+        },
+        {
+          "answer": "France",
+          "display": "#8 — 19 gold, 28 silver, 28 bronze"
+        },
+        {
+          "answer": "Australia",
+          "display": "#9 — 18 gold, 17 silver, 27 bronze"
+        },
+        {
+          "answer": "Japan",
+          "display": "#10 — 14 gold, 10 silver, 17 bronze"
+        },
+        {
+          "answer": "Germany",
+          "display": "#11 — 10 gold, 15 silver, 24 bronze"
+        },
+        {
+          "answer": "Canada",
+          "display": "#12 — 10 gold, 9 silver, 10 bronze"
+        },
+        {
+          "answer": "Uzbekistan",
+          "display": "#13 — 10 gold, 9 silver, 7 bronze"
+        }
+      ]
+    },
+    {
+      "category": "sports/olympics/paralympics",
+      "question": "Top 7 nations in the 1994 Winter Paralympics (Lillehammer) medal table (ranked by gold medals, then silver, then bronze)",
+      "cutoff": 7,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1330600518 | table 1 | name: Nation | value: Rank | order: asc",
+      "tags": [
+        "olympics",
+        "paralympics",
+        "medals",
+        "nations",
+        "winter",
+        "1994"
+      ],
+      "answers": [
+        {
+          "answer": "Norway",
+          "display": "#1 — 29 gold, 22 silver, 13 bronze"
+        },
+        {
+          "answer": "Germany",
+          "display": "#2 — 25 gold, 21 silver, 18 bronze"
+        },
+        {
+          "answer": "United States",
+          "display": "#3 — 24 gold, 12 silver, 7 bronze",
+          "aliases": [
+            "USA",
+            "US",
+            "America",
+            "United States of America"
+          ]
+        },
+        {
+          "answer": "France",
+          "display": "#4 — 14 gold, 6 silver, 11 bronze"
+        },
+        {
+          "answer": "Russia",
+          "display": "#5 — 10 gold, 12 silver, 8 bronze"
+        },
+        {
+          "answer": "Austria",
+          "display": "#6 — 7 gold, 16 silver, 12 bronze"
+        },
+        {
+          "answer": "Finland",
+          "display": "#7 — 7 gold, 6 silver, 11 bronze"
+        },
+        {
+          "answer": "Sweden",
+          "display": "#8 — 3 gold, 3 silver, 2 bronze"
+        },
+        {
+          "answer": "Australia",
+          "display": "#9 — 3 gold, 2 silver, 4 bronze"
+        },
+        {
+          "answer": "New Zealand",
+          "display": "#10 — 3 gold, 0 silver, 3 bronze"
+        }
+      ]
+    },
+    {
+      "category": "sports/olympics/paralympics",
+      "question": "Top 7 nations in the 1998 Winter Paralympics (Nagano) medal table (ranked by gold medals, then silver, then bronze)",
+      "cutoff": 7,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1330600274 | table 1 | name: Nation | value: Rank | order: asc",
+      "tags": [
+        "olympics",
+        "paralympics",
+        "medals",
+        "nations",
+        "winter",
+        "1998"
+      ],
+      "answers": [
+        {
+          "answer": "Norway",
+          "display": "#1 — 18 gold, 9 silver, 13 bronze"
+        },
+        {
+          "answer": "Germany",
+          "display": "#2 — 14 gold, 17 silver, 13 bronze"
+        },
+        {
+          "answer": "United States",
+          "display": "#3 — 13 gold, 8 silver, 13 bronze",
+          "aliases": [
+            "USA",
+            "US",
+            "America",
+            "United States of America"
+          ]
+        },
+        {
+          "answer": "Japan",
+          "display": "#4 — 12 gold, 16 silver, 13 bronze"
+        },
+        {
+          "answer": "Russia",
+          "display": "#5 — 12 gold, 10 silver, 9 bronze"
+        },
+        {
+          "answer": "Switzerland",
+          "display": "#6 — 10 gold, 5 silver, 8 bronze"
+        },
+        {
+          "answer": "Spain",
+          "display": "#7 — 8 gold, 0 silver, 0 bronze"
+        },
+        {
+          "answer": "Austria",
+          "display": "#8 — 7 gold, 16 silver, 11 bronze"
+        },
+        {
+          "answer": "Finland",
+          "display": "#9 — 7 gold, 5 silver, 7 bronze"
+        },
+        {
+          "answer": "France",
+          "display": "#10 — 5 gold, 9 silver, 8 bronze"
+        }
+      ]
+    },
+    {
+      "category": "sports/olympics/paralympics",
+      "question": "Top 7 nations in the 2002 Winter Paralympics (Salt Lake City) medal table (ranked by gold medals, then silver, then bronze)",
+      "cutoff": 7,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1343220433 | table 1 | name: Nation | value: Rank | order: asc",
+      "tags": [
+        "olympics",
+        "paralympics",
+        "medals",
+        "nations",
+        "winter",
+        "2002"
+      ],
+      "answers": [
+        {
+          "answer": "Germany",
+          "display": "#1 — 17 gold, 1 silver, 15 bronze"
+        },
+        {
+          "answer": "United States",
+          "display": "#2 — 10 gold, 22 silver, 11 bronze",
+          "aliases": [
+            "USA",
+            "US",
+            "America",
+            "United States of America"
+          ]
+        },
+        {
+          "answer": "Norway",
+          "display": "#3 — 10 gold, 3 silver, 6 bronze"
+        },
+        {
+          "answer": "Austria",
+          "display": "#4 — 9 gold, 10 silver, 10 bronze"
+        },
+        {
+          "answer": "Russia",
+          "display": "#5 — 7 gold, 9 silver, 5 bronze"
+        },
+        {
+          "answer": "Canada",
+          "display": "#6 — 6 gold, 4 silver, 5 bronze"
+        },
+        {
+          "answer": "Switzerland",
+          "display": "#7 — 6 gold, 4 silver, 2 bronze"
+        },
+        {
+          "answer": "Australia",
+          "display": "#8 — 6 gold, 1 silver, 0 bronze"
+        },
+        {
+          "answer": "Finland",
+          "display": "#9 — 4 gold, 1 silver, 3 bronze"
+        },
+        {
+          "answer": "New Zealand",
+          "display": "#10 — 4 gold, 0 silver, 2 bronze"
+        }
+      ]
+    },
+    {
+      "category": "sports/olympics/paralympics",
+      "question": "Top 7 nations in the 2006 Winter Paralympics (Turin) medal table (ranked by gold medals, then silver, then bronze)",
+      "cutoff": 7,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1330600072 | table 1 | name: Nation | value: Rank | order: asc",
+      "tags": [
+        "olympics",
+        "paralympics",
+        "medals",
+        "nations",
+        "winter",
+        "2006"
+      ],
+      "answers": [
+        {
+          "answer": "Russia",
+          "display": "#1 — 13 gold, 13 silver, 7 bronze"
+        },
+        {
+          "answer": "Germany",
+          "display": "#2 — 8 gold, 5 silver, 5 bronze"
+        },
+        {
+          "answer": "Ukraine",
+          "display": "#3 — 7 gold, 9 silver, 9 bronze"
+        },
+        {
+          "answer": "France",
+          "display": "#4 — 7 gold, 2 silver, 6 bronze"
+        },
+        {
+          "answer": "United States",
+          "display": "#5 — 7 gold, 2 silver, 3 bronze",
+          "aliases": [
+            "USA",
+            "US",
+            "America",
+            "United States of America"
+          ]
+        },
+        {
+          "answer": "Canada",
+          "display": "#6 — 5 gold, 3 silver, 5 bronze"
+        },
+        {
+          "answer": "Austria",
+          "display": "#7 — 3 gold, 4 silver, 7 bronze"
+        },
+        {
+          "answer": "Japan",
+          "display": "#8 — 2 gold, 5 silver, 2 bronze"
+        },
+        {
+          "answer": "Italy",
+          "display": "#9 — 2 gold, 2 silver, 4 bronze"
+        },
+        {
+          "answer": "Poland",
+          "display": "#10 — 2 gold, 0 silver, 0 bronze"
+        }
+      ]
+    },
+    {
+      "category": "sports/olympics/paralympics",
+      "question": "Top 7 nations in the 2010 Winter Paralympics (Vancouver) medal table (ranked by gold medals, then silver, then bronze)",
+      "cutoff": 7,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1340526420 | table 1 | name: Nation | value: Rank | order: asc",
+      "tags": [
+        "olympics",
+        "paralympics",
+        "medals",
+        "nations",
+        "winter",
+        "2010"
+      ],
+      "answers": [
+        {
+          "answer": "Germany",
+          "display": "#1 — 13 gold, 5 silver, 6 bronze"
+        },
+        {
+          "answer": "Russia",
+          "display": "#2 — 12 gold, 16 silver, 10 bronze"
+        },
+        {
+          "answer": "Canada",
+          "display": "#3 — 10 gold, 5 silver, 4 bronze"
+        },
+        {
+          "answer": "Slovakia",
+          "display": "#4 — 6 gold, 2 silver, 3 bronze"
+        },
+        {
+          "answer": "Ukraine",
+          "display": "#5 — 5 gold, 8 silver, 6 bronze"
+        },
+        {
+          "answer": "United States",
+          "display": "#6 — 4 gold, 5 silver, 4 bronze",
+          "aliases": [
+            "USA",
+            "US",
+            "America",
+            "United States of America"
+          ]
+        },
+        {
+          "answer": "Austria",
+          "display": "#7 — 3 gold, 4 silver, 4 bronze"
+        },
+        {
+          "answer": "Japan",
+          "display": "#8 — 3 gold, 3 silver, 5 bronze"
+        },
+        {
+          "answer": "Belarus",
+          "display": "#9 — 2 gold, 0 silver, 7 bronze"
+        },
+        {
+          "answer": "France",
+          "display": "#10 — 1 gold, 4 silver, 1 bronze"
+        }
+      ]
+    },
+    {
+      "category": "sports/olympics/paralympics",
+      "question": "Top 7 nations in the 2014 Winter Paralympics (Sochi) medal table (ranked by gold medals, then silver, then bronze)",
+      "cutoff": 7,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1362361079 | table 1 | name: NPC | value: Rank | order: asc",
+      "tags": [
+        "olympics",
+        "paralympics",
+        "medals",
+        "nations",
+        "winter",
+        "2014"
+      ],
+      "answers": [
+        {
+          "answer": "Russia",
+          "display": "#1 — 29 gold, 27 silver, 21 bronze"
+        },
+        {
+          "answer": "Germany",
+          "display": "#2 — 9 gold, 5 silver, 1 bronze"
+        },
+        {
+          "answer": "Canada",
+          "display": "#3 — 7 gold, 2 silver, 7 bronze"
+        },
+        {
+          "answer": "Ukraine",
+          "display": "#4 — 6 gold, 9 silver, 13 bronze"
+        },
+        {
+          "answer": "France",
+          "display": "#5 — 5 gold, 3 silver, 4 bronze"
+        },
+        {
+          "answer": "Slovakia",
+          "display": "#6 — 3 gold, 2 silver, 2 bronze"
+        },
+        {
+          "answer": "Japan",
+          "display": "#7 — 3 gold, 1 silver, 2 bronze"
+        },
+        {
+          "answer": "United States",
+          "display": "#8 — 2 gold, 7 silver, 9 bronze",
+          "aliases": [
+            "USA",
+            "US",
+            "America",
+            "United States of America"
+          ]
+        },
+        {
+          "answer": "Austria",
+          "display": "#9 — 2 gold, 5 silver, 4 bronze"
+        },
+        {
+          "answer": "Great Britain",
+          "display": "#10 — 1 gold, 3 silver, 2 bronze",
+          "aliases": [
+            "Britain",
+            "UK",
+            "GB",
+            "Team GB"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/olympics/paralympics",
+      "question": "Top 10 nations in the 2018 Winter Paralympics (PyeongChang) medal table (ranked by gold medals, then silver, then bronze)",
+      "cutoff": 10,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1343219118 | table 1 | name: Nation | value: Rank | order: asc",
+      "tags": [
+        "olympics",
+        "paralympics",
+        "medals",
+        "nations",
+        "winter",
+        "2018"
+      ],
+      "answers": [
+        {
+          "answer": "United States",
+          "display": "#1 — 13 gold, 15 silver, 8 bronze",
+          "aliases": [
+            "USA",
+            "US",
+            "America",
+            "United States of America"
+          ]
+        },
+        {
+          "answer": "Neutral Paralympic Athletes",
+          "display": "#2 — 8 gold, 10 silver, 6 bronze",
+          "aliases": [
+            "NPA",
+            "Russia"
+          ]
+        },
+        {
+          "answer": "Canada",
+          "display": "#3 — 8 gold, 4 silver, 16 bronze"
+        },
+        {
+          "answer": "France",
+          "display": "#4 — 7 gold, 8 silver, 5 bronze"
+        },
+        {
+          "answer": "Germany",
+          "display": "#5 — 7 gold, 8 silver, 4 bronze"
+        },
+        {
+          "answer": "Ukraine",
+          "display": "#6 — 7 gold, 7 silver, 8 bronze"
+        },
+        {
+          "answer": "Slovakia",
+          "display": "#7 — 6 gold, 4 silver, 1 bronze"
+        },
+        {
+          "answer": "Belarus",
+          "display": "#8 — 4 gold, 4 silver, 4 bronze"
+        },
+        {
+          "answer": "Japan",
+          "display": "#9 — 3 gold, 4 silver, 3 bronze"
+        },
+        {
+          "answer": "Netherlands",
+          "display": "#10 — 3 gold, 3 silver, 1 bronze",
+          "aliases": [
+            "Holland"
+          ]
+        },
+        {
+          "answer": "Switzerland",
+          "display": "#11 — 3 gold, 0 silver, 0 bronze"
+        },
+        {
+          "answer": "Italy",
+          "display": "#12 — 2 gold, 2 silver, 1 bronze"
+        },
+        {
+          "answer": "Great Britain",
+          "display": "#13 — 1 gold, 4 silver, 2 bronze",
+          "aliases": [
+            "Britain",
+            "UK",
+            "GB",
+            "Team GB"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/olympics/paralympics",
+      "question": "Top 7 nations in the 2022 Winter Paralympics (Beijing) medal table (ranked by gold medals, then silver, then bronze)",
+      "cutoff": 7,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1337260983 | table 1 | name: NPC | value: Rank | order: asc",
+      "tags": [
+        "olympics",
+        "paralympics",
+        "medals",
+        "nations",
+        "winter",
+        "2022"
+      ],
+      "answers": [
+        {
+          "answer": "China",
+          "display": "#1 — 18 gold, 20 silver, 23 bronze",
+          "aliases": [
+            "PRC"
+          ]
+        },
+        {
+          "answer": "Ukraine",
+          "display": "#2 — 11 gold, 10 silver, 8 bronze"
+        },
+        {
+          "answer": "Canada",
+          "display": "#3 — 8 gold, 6 silver, 11 bronze"
+        },
+        {
+          "answer": "France",
+          "display": "#4 — 7 gold, 3 silver, 2 bronze"
+        },
+        {
+          "answer": "United States",
+          "display": "#5 — 6 gold, 11 silver, 3 bronze",
+          "aliases": [
+            "USA",
+            "US",
+            "America",
+            "United States of America"
+          ]
+        },
+        {
+          "answer": "Austria",
+          "display": "#6 — 5 gold, 5 silver, 3 bronze"
+        },
+        {
+          "answer": "Germany",
+          "display": "#7 — 4 gold, 8 silver, 7 bronze"
+        },
+        {
+          "answer": "Norway",
+          "display": "#8 — 4 gold, 2 silver, 1 bronze"
+        },
+        {
+          "answer": "Japan",
+          "display": "#9 — 4 gold, 1 silver, 2 bronze"
+        },
+        {
+          "answer": "Slovakia",
+          "display": "#10 — 3 gold, 0 silver, 3 bronze"
+        }
+      ]
+    }
+  ]
+}

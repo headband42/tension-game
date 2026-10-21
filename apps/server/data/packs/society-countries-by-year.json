@@ -1,0 +1,826 @@
+{
+  "categories": [
+    {
+      "path": "society/military/arms-exports",
+      "name": "Arms Exports"
+    }
+  ],
+  "questions": [
+    {
+      "category": "society/military/spending",
+      "question": "Top 10 countries by military spending in 2011 (SIPRI)",
+      "cutoff": 10,
+      "difficulty": 1,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=530655180 | table 1 | name: 2 | value: 3 | where: Country!~World",
+      "tags": [
+        "military",
+        "spending"
+      ],
+      "answers": [
+        {
+          "answer": "United States",
+          "display": "US$711.0 billion",
+          "aliases": [
+            "USA",
+            "US",
+            "America"
+          ]
+        },
+        {
+          "answer": "China",
+          "display": "US$143.0 billion",
+          "aliases": [
+            "PRC",
+            "People's Republic of China"
+          ]
+        },
+        {
+          "answer": "Russia",
+          "display": "US$71.9 billion",
+          "aliases": [
+            "Russian Federation"
+          ]
+        },
+        {
+          "answer": "United Kingdom",
+          "display": "US$62.7 billion",
+          "aliases": [
+            "UK",
+            "Britain"
+          ]
+        },
+        {
+          "answer": "France",
+          "display": "US$62.5 billion"
+        },
+        {
+          "answer": "Japan",
+          "display": "US$59.3 billion"
+        },
+        {
+          "answer": "Saudi Arabia",
+          "display": "US$48.2 billion",
+          "aliases": [
+            "KSA"
+          ]
+        },
+        {
+          "answer": "India",
+          "display": "US$46.8 billion"
+        },
+        {
+          "answer": "Germany",
+          "display": "US$46.7 billion"
+        },
+        {
+          "answer": "Brazil",
+          "display": "US$35.4 billion"
+        },
+        {
+          "answer": "Italy",
+          "display": "US$34.5 billion"
+        },
+        {
+          "answer": "South Korea",
+          "display": "US$30.8 billion",
+          "aliases": [
+            "Republic of Korea",
+            "ROK"
+          ]
+        },
+        {
+          "answer": "Australia",
+          "display": "US$26.7 billion"
+        },
+        {
+          "answer": "Canada",
+          "display": "US$24.7 billion"
+        },
+        {
+          "answer": "Turkey",
+          "display": "US$17.9 billion"
+        }
+      ]
+    },
+    {
+      "category": "society/military/spending",
+      "question": "Top 10 countries by military spending in 2014 (SIPRI)",
+      "cutoff": 10,
+      "difficulty": 1,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=695266648 | table 2 | name: 2 | value: 3 | where: Country!~World",
+      "tags": [
+        "military",
+        "spending"
+      ],
+      "answers": [
+        {
+          "answer": "United States",
+          "display": "US$610.0 billion",
+          "aliases": [
+            "USA",
+            "US",
+            "America"
+          ]
+        },
+        {
+          "answer": "China",
+          "display": "US$216.0 billion",
+          "aliases": [
+            "PRC",
+            "People's Republic of China"
+          ]
+        },
+        {
+          "answer": "Russia",
+          "display": "US$84.5 billion",
+          "aliases": [
+            "Russian Federation"
+          ]
+        },
+        {
+          "answer": "Saudi Arabia",
+          "display": "US$80.8 billion",
+          "aliases": [
+            "KSA"
+          ]
+        },
+        {
+          "answer": "France",
+          "display": "US$62.3 billion"
+        },
+        {
+          "answer": "United Kingdom",
+          "display": "US$60.5 billion",
+          "aliases": [
+            "UK",
+            "Britain"
+          ]
+        },
+        {
+          "answer": "India",
+          "display": "US$50.0 billion"
+        },
+        {
+          "answer": "Germany",
+          "display": "US$46.5 billion"
+        },
+        {
+          "answer": "Japan",
+          "display": "US$45.8 billion"
+        },
+        {
+          "answer": "South Korea",
+          "display": "US$36.7 billion",
+          "aliases": [
+            "Republic of Korea",
+            "ROK"
+          ]
+        },
+        {
+          "answer": "Brazil",
+          "display": "US$31.7 billion"
+        },
+        {
+          "answer": "Italy",
+          "display": "US$30.9 billion"
+        },
+        {
+          "answer": "Australia",
+          "display": "US$25.4 billion"
+        },
+        {
+          "answer": "United Arab Emirates",
+          "display": "US$22.8 billion",
+          "aliases": [
+            "UAE"
+          ]
+        },
+        {
+          "answer": "Turkey",
+          "display": "US$22.6 billion"
+        }
+      ]
+    },
+    {
+      "category": "society/military/spending",
+      "question": "Top 10 countries by military spending in 2017 (SIPRI)",
+      "cutoff": 10,
+      "difficulty": 1,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=875123881 | table 1 | name: 2 | value: 3 | where: Country!~World",
+      "tags": [
+        "military",
+        "spending"
+      ],
+      "answers": [
+        {
+          "answer": "United States",
+          "display": "US$610.0 billion",
+          "aliases": [
+            "USA",
+            "US",
+            "America"
+          ]
+        },
+        {
+          "answer": "China",
+          "display": "US$228.0 billion",
+          "aliases": [
+            "PRC",
+            "People's Republic of China"
+          ]
+        },
+        {
+          "answer": "Saudi Arabia",
+          "display": "US$69.4 billion",
+          "aliases": [
+            "KSA"
+          ]
+        },
+        {
+          "answer": "Russia",
+          "display": "US$66.3 billion",
+          "aliases": [
+            "Russian Federation"
+          ]
+        },
+        {
+          "answer": "India",
+          "display": "US$63.9 billion"
+        },
+        {
+          "answer": "France",
+          "display": "US$57.8 billion"
+        },
+        {
+          "answer": "United Kingdom",
+          "display": "US$47.2 billion",
+          "aliases": [
+            "UK",
+            "Britain"
+          ]
+        },
+        {
+          "answer": "Japan",
+          "display": "US$45.4 billion"
+        },
+        {
+          "answer": "Germany",
+          "display": "US$44.3 billion"
+        },
+        {
+          "answer": "South Korea",
+          "display": "US$39.2 billion",
+          "aliases": [
+            "Republic of Korea",
+            "ROK"
+          ]
+        },
+        {
+          "answer": "Brazil",
+          "display": "US$29.3 billion"
+        },
+        {
+          "answer": "Italy",
+          "display": "US$29.2 billion"
+        },
+        {
+          "answer": "Australia",
+          "display": "US$27.5 billion"
+        },
+        {
+          "answer": "Canada",
+          "display": "US$20.6 billion"
+        },
+        {
+          "answer": "Turkey",
+          "display": "US$18.2 billion"
+        }
+      ]
+    },
+    {
+      "category": "society/military/spending",
+      "question": "Top 10 countries by military spending in 2020 (SIPRI)",
+      "cutoff": 10,
+      "difficulty": 1,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1062950909 | table 1 | name: 2 | value: 3 | where: Country!~World",
+      "tags": [
+        "military",
+        "spending"
+      ],
+      "answers": [
+        {
+          "answer": "United States",
+          "display": "US$778.0 billion",
+          "aliases": [
+            "USA",
+            "US",
+            "America"
+          ]
+        },
+        {
+          "answer": "China",
+          "display": "US$252.0 billion",
+          "aliases": [
+            "PRC",
+            "People's Republic of China"
+          ]
+        },
+        {
+          "answer": "India",
+          "display": "US$72.9 billion"
+        },
+        {
+          "answer": "Russia",
+          "display": "US$61.7 billion",
+          "aliases": [
+            "Russian Federation"
+          ]
+        },
+        {
+          "answer": "United Kingdom",
+          "display": "US$59.2 billion",
+          "aliases": [
+            "UK",
+            "Britain"
+          ]
+        },
+        {
+          "answer": "Saudi Arabia",
+          "display": "US$57.5 billion",
+          "aliases": [
+            "KSA"
+          ]
+        },
+        {
+          "answer": "Germany",
+          "display": "US$52.8 billion"
+        },
+        {
+          "answer": "France",
+          "display": "US$52.7 billion"
+        },
+        {
+          "answer": "Japan",
+          "display": "US$49.1 billion"
+        },
+        {
+          "answer": "South Korea",
+          "display": "US$45.7 billion",
+          "aliases": [
+            "Republic of Korea",
+            "ROK"
+          ]
+        },
+        {
+          "answer": "Italy",
+          "display": "US$28.9 billion"
+        },
+        {
+          "answer": "Australia",
+          "display": "US$27.5 billion"
+        },
+        {
+          "answer": "Canada",
+          "display": "US$22.8 billion"
+        },
+        {
+          "answer": "Israel",
+          "display": "US$21.7 billion"
+        },
+        {
+          "answer": "Brazil",
+          "display": "US$19.7 billion"
+        }
+      ]
+    },
+    {
+      "category": "society/military/spending",
+      "question": "Top 10 countries by military spending in 2023 (SIPRI)",
+      "cutoff": 10,
+      "difficulty": 1,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1266336480 | table 1 | name: 2 | value: 3 | where: Country!~World",
+      "tags": [
+        "military",
+        "spending"
+      ],
+      "answers": [
+        {
+          "answer": "United States",
+          "display": "US$916.0 billion",
+          "aliases": [
+            "USA",
+            "US",
+            "America"
+          ]
+        },
+        {
+          "answer": "China",
+          "display": "US$330.0 billion",
+          "aliases": [
+            "PRC",
+            "People's Republic of China"
+          ]
+        },
+        {
+          "answer": "Russia",
+          "display": "US$130.0 billion",
+          "aliases": [
+            "Russian Federation"
+          ]
+        },
+        {
+          "answer": "India",
+          "display": "US$83.6 billion"
+        },
+        {
+          "answer": "Saudi Arabia",
+          "display": "US$75.8 billion",
+          "aliases": [
+            "KSA"
+          ]
+        },
+        {
+          "answer": "United Kingdom",
+          "display": "US$74.9 billion",
+          "aliases": [
+            "UK",
+            "Britain"
+          ]
+        },
+        {
+          "answer": "Germany",
+          "display": "US$66.8 billion"
+        },
+        {
+          "answer": "Ukraine",
+          "display": "US$64.8 billion"
+        },
+        {
+          "answer": "France",
+          "display": "US$61.3 billion"
+        },
+        {
+          "answer": "Japan",
+          "display": "US$50.2 billion"
+        },
+        {
+          "answer": "South Korea",
+          "display": "US$47.9 billion",
+          "aliases": [
+            "Republic of Korea",
+            "ROK"
+          ]
+        },
+        {
+          "answer": "Italy",
+          "display": "US$35.5 billion"
+        },
+        {
+          "answer": "Australia",
+          "display": "US$32.3 billion"
+        },
+        {
+          "answer": "Poland",
+          "display": "US$31.6 billion"
+        },
+        {
+          "answer": "Iran",
+          "display": "US$30.3 billion"
+        }
+      ]
+    },
+    {
+      "category": "travel/tourism/countries",
+      "question": "Top 7 most visited countries by international tourist arrivals in 2010 (UNWTO)",
+      "cutoff": 7,
+      "difficulty": 1,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=468072801 | table 1 | name: 2 | value: 3",
+      "tags": [
+        "travel",
+        "tourism"
+      ],
+      "answers": [
+        {
+          "answer": "France",
+          "display": "76.8 million visitors"
+        },
+        {
+          "answer": "United States",
+          "display": "59.75 million visitors",
+          "aliases": [
+            "USA",
+            "US",
+            "America"
+          ]
+        },
+        {
+          "answer": "China",
+          "display": "55.67 million visitors"
+        },
+        {
+          "answer": "Spain",
+          "display": "52.68 million visitors"
+        },
+        {
+          "answer": "Italy",
+          "display": "43.63 million visitors"
+        },
+        {
+          "answer": "United Kingdom",
+          "display": "28.13 million visitors",
+          "aliases": [
+            "UK",
+            "Britain"
+          ]
+        },
+        {
+          "answer": "Turkey",
+          "display": "27.0 million visitors"
+        },
+        {
+          "answer": "Germany",
+          "display": "26.88 million visitors"
+        },
+        {
+          "answer": "Malaysia",
+          "display": "24.58 million visitors"
+        },
+        {
+          "answer": "Mexico",
+          "display": "22.4 million visitors"
+        }
+      ]
+    },
+    {
+      "category": "travel/tourism/countries",
+      "question": "Top 7 most visited countries by international tourist arrivals in 2014 (UNWTO)",
+      "cutoff": 7,
+      "difficulty": 1,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=697417873 | table 1 | name: Country | value: arrivals (2014)",
+      "tags": [
+        "travel",
+        "tourism"
+      ],
+      "answers": [
+        {
+          "answer": "France",
+          "display": "83.7 million visitors"
+        },
+        {
+          "answer": "United States",
+          "display": "74.8 million visitors",
+          "aliases": [
+            "USA",
+            "US",
+            "America"
+          ]
+        },
+        {
+          "answer": "Spain",
+          "display": "65.0 million visitors"
+        },
+        {
+          "answer": "China",
+          "display": "55.6 million visitors"
+        },
+        {
+          "answer": "Italy",
+          "display": "48.6 million visitors"
+        },
+        {
+          "answer": "Turkey",
+          "display": "39.8 million visitors"
+        },
+        {
+          "answer": "Germany",
+          "display": "33.0 million visitors"
+        },
+        {
+          "answer": "United Kingdom",
+          "display": "32.6 million visitors",
+          "aliases": [
+            "UK",
+            "Britain"
+          ]
+        },
+        {
+          "answer": "Russia",
+          "display": "29.8 million visitors",
+          "aliases": [
+            "Russian Federation"
+          ]
+        },
+        {
+          "answer": "Mexico",
+          "display": "29.1 million visitors"
+        }
+      ]
+    },
+    {
+      "category": "travel/tourism/countries",
+      "question": "Top 7 most visited countries by international tourist arrivals in 2018 (UNWTO)",
+      "cutoff": 7,
+      "difficulty": 1,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=932720649 | table 1 | name: Destination | value: 3",
+      "tags": [
+        "travel",
+        "tourism"
+      ],
+      "answers": [
+        {
+          "answer": "France",
+          "display": "89.4 million visitors"
+        },
+        {
+          "answer": "Spain",
+          "display": "82.8 million visitors"
+        },
+        {
+          "answer": "United States",
+          "display": "79.6 million visitors",
+          "aliases": [
+            "USA",
+            "US",
+            "America"
+          ]
+        },
+        {
+          "answer": "China",
+          "display": "62.9 million visitors"
+        },
+        {
+          "answer": "Italy",
+          "display": "62.1 million visitors"
+        },
+        {
+          "answer": "Turkey",
+          "display": "45.8 million visitors"
+        },
+        {
+          "answer": "Mexico",
+          "display": "41.4 million visitors"
+        },
+        {
+          "answer": "Germany",
+          "display": "38.9 million visitors"
+        },
+        {
+          "answer": "Thailand",
+          "display": "38.3 million visitors"
+        },
+        {
+          "answer": "United Kingdom",
+          "display": "36.3 million visitors",
+          "aliases": [
+            "UK",
+            "Britain"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "society/military/arms-exports",
+      "question": "Top 7 arms exporters by arms exports, 2012–2016 (SIPRI)",
+      "cutoff": 7,
+      "difficulty": 1,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=815556572 | table 1 | name: Supplier | value: Arms Exp",
+      "tags": [
+        "military",
+        "arms"
+      ],
+      "answers": [
+        {
+          "answer": "United States",
+          "display": "47,169 TIV",
+          "aliases": [
+            "USA",
+            "US",
+            "America"
+          ]
+        },
+        {
+          "answer": "Russia",
+          "display": "33,186 TIV",
+          "aliases": [
+            "Russian Federation"
+          ]
+        },
+        {
+          "answer": "China",
+          "display": "9,132 TIV"
+        },
+        {
+          "answer": "France",
+          "display": "8,564 TIV"
+        },
+        {
+          "answer": "Germany",
+          "display": "7,946 TIV"
+        },
+        {
+          "answer": "United Kingdom",
+          "display": "6,586 TIV",
+          "aliases": [
+            "UK",
+            "Britain"
+          ]
+        },
+        {
+          "answer": "Spain",
+          "display": "3,958 TIV"
+        },
+        {
+          "answer": "Italy",
+          "display": "3,823 TIV"
+        },
+        {
+          "answer": "Ukraine",
+          "display": "3,677 TIV"
+        },
+        {
+          "answer": "Israel",
+          "display": "3,233 TIV"
+        }
+      ]
+    },
+    {
+      "category": "society/military/arms-exports",
+      "question": "Top 7 arms exporters by share of global arms exports, 2020–2024 (SIPRI)",
+      "cutoff": 7,
+      "difficulty": 1,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1330366031 | table 1 | name: Exporter | value: Share",
+      "tags": [
+        "military",
+        "arms"
+      ],
+      "answers": [
+        {
+          "answer": "United States",
+          "display": "43%",
+          "aliases": [
+            "USA",
+            "US",
+            "America"
+          ]
+        },
+        {
+          "answer": "France",
+          "display": "9.6%"
+        },
+        {
+          "answer": "Russia",
+          "display": "7.8%",
+          "aliases": [
+            "Russian Federation"
+          ]
+        },
+        {
+          "answer": "China",
+          "display": "5.9%"
+        },
+        {
+          "answer": "Germany",
+          "display": "5.6%"
+        },
+        {
+          "answer": "Italy",
+          "display": "4.8%"
+        },
+        {
+          "answer": "United Kingdom",
+          "display": "3.6%",
+          "aliases": [
+            "UK",
+            "Britain"
+          ]
+        },
+        {
+          "answer": "Israel",
+          "display": "3.1%"
+        },
+        {
+          "answer": "Spain",
+          "display": "3.0%"
+        },
+        {
+          "answer": "South Korea",
+          "display": "2.2%",
+          "aliases": [
+            "Republic of Korea",
+            "ROK"
+          ]
+        }
+      ]
+    }
+  ]
+}

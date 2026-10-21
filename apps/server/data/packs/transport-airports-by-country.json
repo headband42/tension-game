@@ -1,0 +1,1007 @@
+{
+  "categories": [
+    {
+      "path": "transport/aviation/airports",
+      "name": "Airports"
+    },
+    {
+      "path": "transport/rail/stations",
+      "name": "Railway Stations"
+    }
+  ],
+  "questions": [
+    {
+      "category": "transport/aviation/airports",
+      "question": "Top 10 busiest airports in Europe by passenger traffic (2025)",
+      "cutoff": 10,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1380367290 | table 1 | name: Airport | value: Passengers / 2025 | header rows: 2",
+      "tags": [
+        "aviation",
+        "airports",
+        "passengers",
+        "europe"
+      ],
+      "answers": [
+        {
+          "answer": "Heathrow",
+          "display": "84,482,126 passengers",
+          "aliases": [
+            "London Heathrow",
+            "LHR"
+          ]
+        },
+        {
+          "answer": "Istanbul Airport",
+          "display": "84,437,710 passengers"
+        },
+        {
+          "answer": "Charles de Gaulle",
+          "display": "72,029,407 passengers",
+          "aliases": [
+            "Paris CDG",
+            "CDG",
+            "Paris Charles de Gaulle"
+          ]
+        },
+        {
+          "answer": "Schiphol",
+          "display": "68,771,592 passengers",
+          "aliases": [
+            "Amsterdam Schiphol",
+            "AMS"
+          ]
+        },
+        {
+          "answer": "Madrid Barajas",
+          "display": "68,118,754 passengers",
+          "aliases": [
+            "Madrid–Barajas",
+            "Madrid"
+          ]
+        },
+        {
+          "answer": "Frankfurt Airport",
+          "display": "63,189,666 passengers",
+          "aliases": [
+            "Frankfurt am Main",
+            "FRA"
+          ]
+        },
+        {
+          "answer": "Barcelona El Prat",
+          "display": "57,483,036 passengers",
+          "aliases": [
+            "El Prat",
+            "Barcelona"
+          ]
+        },
+        {
+          "answer": "Rome Fiumicino",
+          "display": "51,306,744 passengers",
+          "aliases": [
+            "Fiumicino",
+            "Leonardo da Vinci"
+          ]
+        },
+        {
+          "answer": "Sheremetyevo",
+          "display": "43,400,000 passengers",
+          "aliases": [
+            "Moscow Sheremetyevo",
+            "SVO"
+          ]
+        },
+        {
+          "answer": "Munich Airport",
+          "display": "43,394,442 passengers",
+          "aliases": [
+            "Munich",
+            "MUC"
+          ]
+        },
+        {
+          "answer": "Gatwick",
+          "display": "42,775,241 passengers"
+        },
+        {
+          "answer": "Dublin Airport",
+          "display": "36,420,915 passengers"
+        },
+        {
+          "answer": "Lisbon Airport",
+          "display": "36,126,000 passengers"
+        }
+      ]
+    },
+    {
+      "category": "transport/aviation/airports",
+      "question": "Top 10 busiest airports in Germany by passenger traffic (2025)",
+      "cutoff": 10,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1380368558 | table 1 | name: Airport | value: Passengers",
+      "tags": [
+        "aviation",
+        "airports",
+        "passengers",
+        "germany"
+      ],
+      "answers": [
+        {
+          "answer": "Frankfurt Airport",
+          "display": "63,186,114 passengers",
+          "aliases": [
+            "Frankfurt",
+            "FRA"
+          ]
+        },
+        {
+          "answer": "Munich Airport",
+          "display": "43,394,442 passengers",
+          "aliases": [
+            "Munich",
+            "MUC"
+          ]
+        },
+        {
+          "answer": "Berlin Brandenburg",
+          "display": "26,050,880 passengers",
+          "aliases": [
+            "BER",
+            "Berlin"
+          ]
+        },
+        {
+          "answer": "Düsseldorf",
+          "display": "21,031,429 passengers"
+        },
+        {
+          "answer": "Hamburg Airport",
+          "display": "14,770,812 passengers",
+          "aliases": [
+            "Hamburg"
+          ]
+        },
+        {
+          "answer": "Cologne Bonn",
+          "display": "10,060,452 passengers",
+          "aliases": [
+            "Köln Bonn",
+            "Cologne/Bonn",
+            "CGN"
+          ]
+        },
+        {
+          "answer": "Stuttgart Airport",
+          "display": "9,585,033 passengers",
+          "aliases": [
+            "Stuttgart"
+          ]
+        },
+        {
+          "answer": "Hannover Airport",
+          "display": "5,344,722 passengers",
+          "aliases": [
+            "Hanover"
+          ]
+        },
+        {
+          "answer": "Nuremberg",
+          "display": "4,508,700 passengers",
+          "aliases": [
+            "Nürnberg",
+            "Nuremberg Airport"
+          ]
+        },
+        {
+          "answer": "Memmingen",
+          "display": "3,698,900 passengers",
+          "aliases": [
+            "Allgäu Airport",
+            "Memmingen Airport"
+          ]
+        },
+        {
+          "answer": "Dortmund",
+          "display": "3,242,429 passengers"
+        },
+        {
+          "answer": "Karlsruhe/Baden-Baden",
+          "display": "2,257,542 passengers"
+        },
+        {
+          "answer": "Weeze",
+          "display": "2,245,473 passengers"
+        }
+      ]
+    },
+    {
+      "category": "transport/aviation/airports",
+      "question": "Top 10 busiest airports in Japan by passenger traffic (2024)",
+      "cutoff": 10,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1344819264 | table 1 | name: Airport | value: 2024",
+      "tags": [
+        "aviation",
+        "airports",
+        "passengers",
+        "japan"
+      ],
+      "answers": [
+        {
+          "answer": "Haneda",
+          "display": "85,906,170 passengers",
+          "aliases": [
+            "Tokyo Haneda",
+            "HND"
+          ]
+        },
+        {
+          "answer": "Narita",
+          "display": "39,807,651 passengers",
+          "aliases": [
+            "Tokyo Narita",
+            "NRT"
+          ]
+        },
+        {
+          "answer": "Kansai",
+          "display": "30,643,513 passengers",
+          "aliases": [
+            "KIX",
+            "Osaka Kansai"
+          ]
+        },
+        {
+          "answer": "Fukuoka",
+          "display": "26,765,836 passengers",
+          "aliases": [
+            "Fukuoka Airport"
+          ]
+        },
+        {
+          "answer": "New Chitose",
+          "display": "23,968,186 passengers",
+          "aliases": [
+            "Sapporo",
+            "Chitose",
+            "CTS"
+          ]
+        },
+        {
+          "answer": "Naha",
+          "display": "21,705,234 passengers"
+        },
+        {
+          "answer": "Osaka International",
+          "display": "15,157,501 passengers",
+          "aliases": [
+            "Itami",
+            "Osaka Itami",
+            "ITM"
+          ]
+        },
+        {
+          "answer": "Chubu Centrair",
+          "display": "11,038,828 passengers",
+          "aliases": [
+            "Centrair",
+            "Nagoya",
+            "NGO"
+          ]
+        },
+        {
+          "answer": "Kagoshima",
+          "display": "5,637,891 passengers",
+          "aliases": [
+            "Kagoshima Airport"
+          ]
+        },
+        {
+          "answer": "Sendai",
+          "display": "3,778,423 passengers",
+          "aliases": [
+            "Sendai Airport"
+          ]
+        },
+        {
+          "answer": "Kobe",
+          "display": "3,576,118 passengers",
+          "aliases": [
+            "Kobe Airport"
+          ]
+        },
+        {
+          "answer": "Kumamoto",
+          "display": "3,544,043 passengers",
+          "aliases": [
+            "Kumamoto Airport"
+          ]
+        },
+        {
+          "answer": "Miyazaki",
+          "display": "3,116,019 passengers",
+          "aliases": [
+            "Miyazaki Airport"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "transport/rail/stations",
+      "question": "Top 7 busiest railway stations in Great Britain by annual entries and exits (2024–25)",
+      "cutoff": 7,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1357656545 | table 1 | name: Railway station | value: 2024–25",
+      "tags": [
+        "rail",
+        "stations",
+        "passengers",
+        "britain"
+      ],
+      "answers": [
+        {
+          "answer": "Liverpool Street",
+          "display": "98.016 million",
+          "aliases": [
+            "London Liverpool Street"
+          ]
+        },
+        {
+          "answer": "Waterloo",
+          "display": "70.390 million",
+          "aliases": [
+            "London Waterloo"
+          ]
+        },
+        {
+          "answer": "Paddington",
+          "display": "69.897 million",
+          "aliases": [
+            "London Paddington"
+          ]
+        },
+        {
+          "answer": "Tottenham Court Road",
+          "display": "68.134 million"
+        },
+        {
+          "answer": "London Bridge",
+          "display": "53.784 million"
+        },
+        {
+          "answer": "Victoria",
+          "display": "53.784 million",
+          "aliases": [
+            "London Victoria"
+          ]
+        },
+        {
+          "answer": "Stratford",
+          "display": "51.474 million"
+        },
+        {
+          "answer": "Farringdon",
+          "display": "50.171 million"
+        },
+        {
+          "answer": "Bond Street",
+          "display": "42.752 million"
+        },
+        {
+          "answer": "London Euston",
+          "display": "40.249 million",
+          "aliases": [
+            "Euston"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "transport/aviation/airports",
+      "question": "Top 10 busiest airports in the United Kingdom by passenger traffic (2025)",
+      "cutoff": 10,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1380371606 | table 1 | name: Airport | value: Total passengers / 2025 | header rows: 2",
+      "tags": [
+        "aviation",
+        "airports",
+        "passengers",
+        "uk"
+      ],
+      "answers": [
+        {
+          "answer": "London Heathrow",
+          "display": "84,481,178 passengers",
+          "aliases": [
+            "Heathrow"
+          ]
+        },
+        {
+          "answer": "London Gatwick",
+          "display": "42,775,241 passengers",
+          "aliases": [
+            "Gatwick"
+          ]
+        },
+        {
+          "answer": "Manchester",
+          "display": "32,072,136 passengers",
+          "aliases": [
+            "Manchester Airport"
+          ]
+        },
+        {
+          "answer": "London Stansted",
+          "display": "29,758,490 passengers",
+          "aliases": [
+            "Stansted"
+          ]
+        },
+        {
+          "answer": "London Luton",
+          "display": "17,770,247 passengers",
+          "aliases": [
+            "Luton"
+          ]
+        },
+        {
+          "answer": "Edinburgh",
+          "display": "16,970,685 passengers",
+          "aliases": [
+            "Edinburgh Airport"
+          ]
+        },
+        {
+          "answer": "Birmingham",
+          "display": "13,663,877 passengers",
+          "aliases": [
+            "Birmingham Airport"
+          ]
+        },
+        {
+          "answer": "Bristol",
+          "display": "10,833,730 passengers",
+          "aliases": [
+            "Bristol Airport"
+          ]
+        },
+        {
+          "answer": "Glasgow",
+          "display": "8,207,395 passengers",
+          "aliases": [
+            "Glasgow Airport"
+          ]
+        },
+        {
+          "answer": "Belfast International",
+          "display": "6,677,021 passengers",
+          "aliases": [
+            "Belfast International Airport"
+          ]
+        },
+        {
+          "answer": "Liverpool",
+          "display": "5,611,423 passengers",
+          "aliases": [
+            "Liverpool John Lennon"
+          ]
+        },
+        {
+          "answer": "Newcastle",
+          "display": "5,480,401 passengers",
+          "aliases": [
+            "Newcastle Airport"
+          ]
+        },
+        {
+          "answer": "Leeds Bradford",
+          "display": "4,447,024 passengers",
+          "aliases": [
+            "Leeds Bradford Airport",
+            "Leeds"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "transport/aviation/airports",
+      "question": "Top 10 busiest airports in Mexico by passenger traffic (2025)",
+      "cutoff": 10,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1380369825 | table 2 | name: Airport | value: 2025",
+      "tags": [
+        "aviation",
+        "airports",
+        "passengers",
+        "mexico"
+      ],
+      "answers": [
+        {
+          "answer": "Mexico City International Airport",
+          "display": "44,605,800 passengers",
+          "aliases": [
+            "Mexico City",
+            "AICM",
+            "MEX"
+          ]
+        },
+        {
+          "answer": "Cancún International Airport",
+          "display": "29,478,653 passengers",
+          "aliases": [
+            "Cancún",
+            "Cancun",
+            "CUN"
+          ]
+        },
+        {
+          "answer": "Guadalajara International Airport",
+          "display": "18,773,673 passengers",
+          "aliases": [
+            "Guadalajara",
+            "GDL"
+          ]
+        },
+        {
+          "answer": "Monterrey International Airport",
+          "display": "15,777,052 passengers",
+          "aliases": [
+            "Monterrey",
+            "MTY"
+          ]
+        },
+        {
+          "answer": "Tijuana International Airport",
+          "display": "12,765,761 passengers",
+          "aliases": [
+            "Tijuana",
+            "TIJ"
+          ]
+        },
+        {
+          "answer": "Los Cabos International Airport",
+          "display": "7,553,028 passengers",
+          "aliases": [
+            "Los Cabos",
+            "SJD"
+          ]
+        },
+        {
+          "answer": "Felipe Ángeles International Airport",
+          "display": "7,079,040 passengers",
+          "aliases": [
+            "Felipe Ángeles",
+            "Felipe Angeles",
+            "NLU"
+          ]
+        },
+        {
+          "answer": "Puerto Vallarta International Airport",
+          "display": "6,957,392 passengers",
+          "aliases": [
+            "Puerto Vallarta",
+            "PVR"
+          ]
+        },
+        {
+          "answer": "Mérida International Airport",
+          "display": "3,951,827 passengers",
+          "aliases": [
+            "Mérida",
+            "Merida",
+            "MID"
+          ]
+        },
+        {
+          "answer": "Bajío International Airport",
+          "display": "3,317,172 passengers",
+          "aliases": [
+            "Bajío",
+            "Bajio",
+            "BJX"
+          ]
+        },
+        {
+          "answer": "Querétaro Intercontinental Airport",
+          "display": "2,409,429 passengers",
+          "aliases": [
+            "Querétaro",
+            "Queretaro",
+            "QRO"
+          ]
+        },
+        {
+          "answer": "Culiacán International Airport",
+          "display": "2,227,343 passengers",
+          "aliases": [
+            "Culiacán",
+            "Culiacan",
+            "CUL"
+          ]
+        },
+        {
+          "answer": "Hermosillo International Airport",
+          "display": "2,223,260 passengers",
+          "aliases": [
+            "Hermosillo",
+            "HMO"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "transport/aviation/airports",
+      "question": "Top 10 busiest airports in Russia by passenger traffic (2024)",
+      "cutoff": 10,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1380371469 | table 1 | name: Airport | value: 2024",
+      "tags": [
+        "aviation",
+        "airports",
+        "passengers",
+        "russia"
+      ],
+      "answers": [
+        {
+          "answer": "Sheremetyevo International Airport",
+          "display": "43,712,000 passengers",
+          "aliases": [
+            "Sheremetyevo",
+            "SVO"
+          ]
+        },
+        {
+          "answer": "Pulkovo Airport",
+          "display": "20,900,000 passengers",
+          "aliases": [
+            "Pulkovo",
+            "St Petersburg Pulkovo"
+          ]
+        },
+        {
+          "answer": "Vnukovo International Airport",
+          "display": "16,095,000 passengers",
+          "aliases": [
+            "Vnukovo",
+            "VKO"
+          ]
+        },
+        {
+          "answer": "Moscow Domodedovo Airport",
+          "display": "15,600,000 passengers",
+          "aliases": [
+            "Domodedovo",
+            "DME"
+          ]
+        },
+        {
+          "answer": "Sochi International Airport",
+          "display": "13,726,000 passengers",
+          "aliases": [
+            "Sochi",
+            "AER"
+          ]
+        },
+        {
+          "answer": "Tolmachevo Airport",
+          "display": "9,299,000 passengers",
+          "aliases": [
+            "Tolmachevo",
+            "OVB"
+          ]
+        },
+        {
+          "answer": "Koltsovo Airport",
+          "display": "8,047,000 passengers",
+          "aliases": [
+            "Koltsovo",
+            "Yekaterinburg"
+          ]
+        },
+        {
+          "answer": "Kazan International Airport",
+          "display": "5,369,000 passengers",
+          "aliases": [
+            "Ğabdulla Tuqay Kazan International Airport",
+            "Kazan"
+          ]
+        },
+        {
+          "answer": "Mineralnye Vody Airport",
+          "display": "4,860,000 passengers",
+          "aliases": [
+            "Mineralnye Vody",
+            "MRV"
+          ]
+        },
+        {
+          "answer": "Khrabrovo Airport",
+          "display": "4,814,000 passengers",
+          "aliases": [
+            "Khrabrovo",
+            "Kaliningrad"
+          ]
+        },
+        {
+          "answer": "Ufa International Airport",
+          "display": "4,800,000 passengers",
+          "aliases": [
+            "Ufa",
+            "Mustai Karim Ufa International Airport",
+            "UFA"
+          ]
+        },
+        {
+          "answer": "Krasnoyarsk International Airport",
+          "display": "4,283,000 passengers",
+          "aliases": [
+            "Krasnoyarsk",
+            "KJA"
+          ]
+        },
+        {
+          "answer": "International Airport Irkutsk",
+          "display": "3,957,000 passengers",
+          "aliases": [
+            "Irkutsk",
+            "Irkutsk International Airport",
+            "IKT"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "transport/aviation/airports",
+      "question": "Top 10 busiest airports in Australia by passenger traffic (2024–25)",
+      "cutoff": 10,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1352166212 | table 1 | name: Airport | value: Total revenue passengers",
+      "tags": [
+        "aviation",
+        "airports",
+        "passengers",
+        "australia"
+      ],
+      "answers": [
+        {
+          "answer": "Sydney Airport",
+          "display": "41,845,862 passengers",
+          "aliases": [
+            "Sydney",
+            "SYD"
+          ]
+        },
+        {
+          "answer": "Melbourne Airport",
+          "display": "35,962,734 passengers",
+          "aliases": [
+            "Melbourne",
+            "MEL"
+          ]
+        },
+        {
+          "answer": "Brisbane Airport",
+          "display": "23,826,691 passengers",
+          "aliases": [
+            "Brisbane",
+            "BNE"
+          ]
+        },
+        {
+          "answer": "Perth Airport",
+          "display": "14,200,502 passengers",
+          "aliases": [
+            "Perth",
+            "PER"
+          ]
+        },
+        {
+          "answer": "Adelaide Airport",
+          "display": "8,413,777 passengers",
+          "aliases": [
+            "Adelaide",
+            "ADL"
+          ]
+        },
+        {
+          "answer": "Gold Coast Airport",
+          "display": "5,998,280 passengers",
+          "aliases": [
+            "Gold Coast",
+            "OOL"
+          ]
+        },
+        {
+          "answer": "Cairns Airport",
+          "display": "4,707,476 passengers",
+          "aliases": [
+            "Cairns",
+            "CNS"
+          ]
+        },
+        {
+          "answer": "Hobart Airport",
+          "display": "2,821,811 passengers",
+          "aliases": [
+            "Hobart",
+            "HBA"
+          ]
+        },
+        {
+          "answer": "Canberra Airport",
+          "display": "2,803,141 passengers",
+          "aliases": [
+            "Canberra",
+            "CBR"
+          ]
+        },
+        {
+          "answer": "Darwin Airport",
+          "display": "1,862,534 passengers",
+          "aliases": [
+            "Darwin",
+            "DRW"
+          ]
+        },
+        {
+          "answer": "Townsville Airport",
+          "display": "1,658,216 passengers",
+          "aliases": [
+            "Townsville",
+            "TSV"
+          ]
+        },
+        {
+          "answer": "Sunshine Coast Airport",
+          "display": "1,630,417 passengers",
+          "aliases": [
+            "Sunshine Coast",
+            "MCY"
+          ]
+        },
+        {
+          "answer": "Launceston Airport",
+          "display": "1,433,462 passengers",
+          "aliases": [
+            "Launceston",
+            "LST"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "transport/aviation/airports",
+      "question": "Top 10 busiest airports in Turkey by passenger traffic (2025)",
+      "cutoff": 10,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1347910300 | table 1 | name: Airport | value: 2025 | where: Airport!~^(Total|International Lines|Domestic Lines)",
+      "tags": [
+        "aviation",
+        "airports",
+        "passengers",
+        "turkey"
+      ],
+      "answers": [
+        {
+          "answer": "Istanbul Airport",
+          "display": "84,513,937 passengers",
+          "aliases": [
+            "IST"
+          ]
+        },
+        {
+          "answer": "Sabiha Gökçen International Airport",
+          "display": "48,407,318 passengers",
+          "aliases": [
+            "Sabiha Gokcen",
+            "Sabiha Gökçen",
+            "SAW"
+          ]
+        },
+        {
+          "answer": "Antalya Airport",
+          "display": "39,000,177 passengers",
+          "aliases": [
+            "Antalya",
+            "AYT"
+          ]
+        },
+        {
+          "answer": "Esenboğa International Airport",
+          "display": "13,926,680 passengers",
+          "aliases": [
+            "Esenboga",
+            "Ankara Esenboğa",
+            "ESB"
+          ]
+        },
+        {
+          "answer": "Adnan Menderes Airport",
+          "display": "12,665,660 passengers",
+          "aliases": [
+            "Izmir",
+            "Adnan Menderes",
+            "ADB"
+          ]
+        },
+        {
+          "answer": "Dalaman Airport",
+          "display": "5,577,142 passengers",
+          "aliases": [
+            "Dalaman",
+            "DLM"
+          ]
+        },
+        {
+          "answer": "Çukurova International Airport",
+          "display": "5,434,070 passengers",
+          "aliases": [
+            "Adana",
+            "Çukurova",
+            "Cukurova",
+            "ADA"
+          ]
+        },
+        {
+          "answer": "Milas–Bodrum Airport",
+          "display": "4,357,902 passengers",
+          "aliases": [
+            "Bodrum",
+            "BJV"
+          ]
+        },
+        {
+          "answer": "Trabzon Airport",
+          "display": "3,874,640 passengers",
+          "aliases": [
+            "Trabzon",
+            "TZX"
+          ]
+        },
+        {
+          "answer": "Gaziantep Oğuzeli Airport",
+          "display": "3,068,220 passengers",
+          "aliases": [
+            "Gaziantep",
+            "GZT"
+          ]
+        },
+        {
+          "answer": "Kayseri Erkilet Airport",
+          "display": "2,765,751 passengers",
+          "aliases": [
+            "Kayseri",
+            "ASR"
+          ]
+        },
+        {
+          "answer": "Diyarbakır Airport",
+          "display": "2,292,693 passengers",
+          "aliases": [
+            "Diyarbakır",
+            "Diyarbakir",
+            "DIY"
+          ]
+        },
+        {
+          "answer": "Samsun-Çarşamba Airport",
+          "display": "1,640,095 passengers",
+          "aliases": [
+            "Samsun",
+            "SZF"
+          ]
+        }
+      ]
+    }
+  ]
+}

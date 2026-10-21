@@ -1,0 +1,774 @@
+{
+  "categories": [
+    {
+      "path": "music",
+      "name": "Music"
+    },
+    {
+      "path": "music/billboard-year-end",
+      "name": "Billboard Year-End Hot 100"
+    },
+    {
+      "path": "music/billboard-year-end/1980s",
+      "name": "1980s"
+    }
+  ],
+  "questions": [
+    {
+      "category": "music/billboard-year-end/1980s",
+      "question": "Top 10 songs of Billboard's 1980 year-end Hot 100",
+      "cutoff": 10,
+      "difficulty": 1,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1358523078 | table 1 | name: Title | value: No. | order: asc",
+      "tags": [
+        "music",
+        "billboard",
+        "1980s"
+      ],
+      "answers": [
+        {
+          "answer": "Call Me",
+          "display": "#1 — Blondie"
+        },
+        {
+          "answer": "Another Brick in the Wall, Part II",
+          "display": "#2 — Pink Floyd",
+          "aliases": [
+            "Another Brick in the Wall"
+          ]
+        },
+        {
+          "answer": "Magic",
+          "display": "#3 — Olivia Newton-John"
+        },
+        {
+          "answer": "Rock with You",
+          "display": "#4 — Michael Jackson"
+        },
+        {
+          "answer": "Do That to Me One More Time",
+          "display": "#5 — Captain & Tennille",
+          "aliases": [
+            "Do That to Me"
+          ]
+        },
+        {
+          "answer": "Crazy Little Thing Called Love",
+          "display": "#6 — Queen",
+          "aliases": [
+            "Crazy Little Thing"
+          ]
+        },
+        {
+          "answer": "Coming Up",
+          "display": "#7 — Paul McCartney"
+        },
+        {
+          "answer": "Funkytown",
+          "display": "#8 — Lipps Inc."
+        },
+        {
+          "answer": "It's Still Rock and Roll to Me",
+          "display": "#9 — Billy Joel",
+          "aliases": [
+            "Rock and Roll to Me"
+          ]
+        },
+        {
+          "answer": "The Rose",
+          "display": "#10 — Bette Midler"
+        },
+        {
+          "answer": "Escape (The Piña Colada Song)",
+          "display": "#11 — Rupert Holmes",
+          "aliases": [
+            "Escape",
+            "Pina Colada Song"
+          ]
+        },
+        {
+          "answer": "Cars",
+          "display": "#12 — Gary Numan"
+        },
+        {
+          "answer": "Cruisin'",
+          "display": "#13 — Smokey Robinson"
+        }
+      ]
+    },
+    {
+      "category": "music/billboard-year-end/1980s",
+      "question": "Top 10 songs of Billboard's 1981 year-end Hot 100",
+      "cutoff": 10,
+      "difficulty": 1,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1358523118 | table 1 | name: Title | value: No. | order: asc",
+      "tags": [
+        "music",
+        "billboard",
+        "1980s"
+      ],
+      "answers": [
+        {
+          "answer": "Bette Davis Eyes",
+          "display": "#1 — Kim Carnes"
+        },
+        {
+          "answer": "Endless Love",
+          "display": "#2 — Diana Ross & Lionel Richie"
+        },
+        {
+          "answer": "Lady",
+          "display": "#3 — Kenny Rogers"
+        },
+        {
+          "answer": "(Just Like) Starting Over",
+          "display": "#4 — John Lennon",
+          "aliases": [
+            "Starting Over",
+            "Just Like Starting Over"
+          ]
+        },
+        {
+          "answer": "Jessie's Girl",
+          "display": "#5 — Rick Springfield"
+        },
+        {
+          "answer": "Celebration",
+          "display": "#6 — Kool & the Gang"
+        },
+        {
+          "answer": "Kiss on My List",
+          "display": "#7 — Daryl Hall & John Oates"
+        },
+        {
+          "answer": "I Love a Rainy Night",
+          "display": "#8 — Eddie Rabbitt"
+        },
+        {
+          "answer": "9 To 5",
+          "display": "#9 — Dolly Parton"
+        },
+        {
+          "answer": "Keep on Loving You",
+          "display": "#10 — REO Speedwagon"
+        },
+        {
+          "answer": "Theme from The Greatest American Hero (Believe It or Not)",
+          "display": "#11 — Joey Scarbury",
+          "aliases": [
+            "Believe It or Not",
+            "Theme from The Greatest American Hero"
+          ]
+        },
+        {
+          "answer": "Morning Train (Nine to Five)",
+          "display": "#12 — Sheena Easton",
+          "aliases": [
+            "Morning Train"
+          ]
+        },
+        {
+          "answer": "Being with You",
+          "display": "#13 — Smokey Robinson"
+        }
+      ]
+    },
+    {
+      "category": "music/billboard-year-end/1980s",
+      "question": "Top 10 songs of Billboard's 1982 year-end Hot 100",
+      "cutoff": 10,
+      "difficulty": 1,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1358523214 | table 1 | name: Title | value: No. | order: asc",
+      "tags": [
+        "music",
+        "billboard",
+        "1980s"
+      ],
+      "answers": [
+        {
+          "answer": "Physical",
+          "display": "#1 — Olivia Newton-John"
+        },
+        {
+          "answer": "Eye of the Tiger",
+          "display": "#2 — Survivor"
+        },
+        {
+          "answer": "I Love Rock 'n Roll",
+          "display": "#3 — Joan Jett & The Blackhearts",
+          "aliases": [
+            "I Love Rock and Roll"
+          ]
+        },
+        {
+          "answer": "Ebony and Ivory",
+          "display": "#4 — Paul McCartney and Stevie Wonder"
+        },
+        {
+          "answer": "Centerfold",
+          "display": "#5 — The J. Geils Band"
+        },
+        {
+          "answer": "Don't You Want Me",
+          "display": "#6 — The Human League"
+        },
+        {
+          "answer": "Jack & Diane",
+          "display": "#7 — John Cougar",
+          "aliases": [
+            "Jack and Diane"
+          ]
+        },
+        {
+          "answer": "Hurts So Good",
+          "display": "#8 — John Cougar"
+        },
+        {
+          "answer": "Abracadabra",
+          "display": "#9 — Steve Miller Band"
+        },
+        {
+          "answer": "Hard to Say I'm Sorry",
+          "display": "#10 — Chicago"
+        },
+        {
+          "answer": "Tainted Love",
+          "display": "#11 — Soft Cell"
+        },
+        {
+          "answer": "Chariots of Fire",
+          "display": "#12 — Vangelis"
+        },
+        {
+          "answer": "Harden My Heart",
+          "display": "#13 — Quarterflash"
+        }
+      ]
+    },
+    {
+      "category": "music/billboard-year-end/1980s",
+      "question": "Top 10 songs of Billboard's 1983 year-end Hot 100",
+      "cutoff": 10,
+      "difficulty": 1,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1363840637 | table 1 | name: Title | value: No. | order: asc",
+      "tags": [
+        "music",
+        "billboard",
+        "1980s"
+      ],
+      "answers": [
+        {
+          "answer": "Every Breath You Take",
+          "display": "#1 — The Police"
+        },
+        {
+          "answer": "Billie Jean",
+          "display": "#2 — Michael Jackson"
+        },
+        {
+          "answer": "Flashdance... What a Feeling",
+          "display": "#3 — Irene Cara",
+          "aliases": [
+            "Flashdance"
+          ]
+        },
+        {
+          "answer": "Down Under",
+          "display": "#4 — Men at Work"
+        },
+        {
+          "answer": "Beat It",
+          "display": "#5 — Michael Jackson"
+        },
+        {
+          "answer": "Total Eclipse of the Heart",
+          "display": "#6 — Bonnie Tyler"
+        },
+        {
+          "answer": "Maneater",
+          "display": "#7 — Daryl Hall & John Oates"
+        },
+        {
+          "answer": "Baby, Come to Me",
+          "display": "#8 — Patti Austin and James Ingram"
+        },
+        {
+          "answer": "Maniac",
+          "display": "#9 — Michael Sembello"
+        },
+        {
+          "answer": "Sweet Dreams (Are Made of This)",
+          "display": "#10 — Eurythmics",
+          "aliases": [
+            "Sweet Dreams",
+            "Sweet Dreams Are Made of This"
+          ]
+        },
+        {
+          "answer": "Do You Really Want to Hurt Me",
+          "display": "#11 — Culture Club"
+        },
+        {
+          "answer": "You and I",
+          "display": "#12 — Eddie Rabbitt and Crystal Gayle"
+        },
+        {
+          "answer": "Come On Eileen",
+          "display": "#13 — Dexys Midnight Runners"
+        }
+      ]
+    },
+    {
+      "category": "music/billboard-year-end/1980s",
+      "question": "Top 10 songs of Billboard's 1984 year-end Hot 100",
+      "cutoff": 10,
+      "difficulty": 1,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1370114607 | table 1 | name: Title | value: No. | order: asc",
+      "tags": [
+        "music",
+        "billboard",
+        "1980s"
+      ],
+      "answers": [
+        {
+          "answer": "When Doves Cry",
+          "display": "#1 — Prince",
+          "aliases": [
+            "Doves Cry"
+          ]
+        },
+        {
+          "answer": "What's Love Got to Do with It",
+          "display": "#2 — Tina Turner"
+        },
+        {
+          "answer": "Say, Say, Say",
+          "display": "#3 — Paul McCartney and Michael Jackson"
+        },
+        {
+          "answer": "Footloose",
+          "display": "#4 — Kenny Loggins"
+        },
+        {
+          "answer": "Against All Odds (Take a Look at Me Now)",
+          "display": "#5 — Phil Collins",
+          "aliases": [
+            "Against All Odds"
+          ]
+        },
+        {
+          "answer": "Jump",
+          "display": "#6 — Van Halen"
+        },
+        {
+          "answer": "Hello",
+          "display": "#7 — Lionel Richie"
+        },
+        {
+          "answer": "Owner of a Lonely Heart",
+          "display": "#8 — Yes"
+        },
+        {
+          "answer": "Ghostbusters",
+          "display": "#9 — Ray Parker Jr."
+        },
+        {
+          "answer": "Karma Chameleon",
+          "display": "#10 — Culture Club"
+        },
+        {
+          "answer": "Missing You",
+          "display": "#11 — John Waite"
+        },
+        {
+          "answer": "All Night Long (All Night)",
+          "display": "#12 — Lionel Richie",
+          "aliases": [
+            "All Night Long"
+          ]
+        },
+        {
+          "answer": "Let's Hear It for the Boy",
+          "display": "#13 — Deniece Williams"
+        }
+      ]
+    },
+    {
+      "category": "music/billboard-year-end/1980s",
+      "question": "Top 10 songs of Billboard's 1985 year-end Hot 100",
+      "cutoff": 10,
+      "difficulty": 1,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1366301706 | table 1 | name: Title | value: No. | order: asc",
+      "tags": [
+        "music",
+        "billboard",
+        "1980s"
+      ],
+      "answers": [
+        {
+          "answer": "Careless Whisper",
+          "display": "#1 — George Michael"
+        },
+        {
+          "answer": "Like a Virgin",
+          "display": "#2 — Madonna"
+        },
+        {
+          "answer": "Wake Me Up Before You Go-Go",
+          "display": "#3 — Wham!",
+          "aliases": [
+            "Wake Me Up"
+          ]
+        },
+        {
+          "answer": "I Want to Know What Love Is",
+          "display": "#4 — Foreigner"
+        },
+        {
+          "answer": "I Feel for You",
+          "display": "#5 — Chaka Khan"
+        },
+        {
+          "answer": "Out of Touch",
+          "display": "#6 — Daryl Hall & John Oates"
+        },
+        {
+          "answer": "Everybody Wants to Rule the World",
+          "display": "#7 — Tears for Fears",
+          "aliases": [
+            "Everybody Wants to Rule"
+          ]
+        },
+        {
+          "answer": "Money for Nothing",
+          "display": "#8 — Dire Straits"
+        },
+        {
+          "answer": "Crazy for You",
+          "display": "#9 — Madonna"
+        },
+        {
+          "answer": "Take On Me",
+          "display": "#10 — a-ha"
+        },
+        {
+          "answer": "Everytime You Go Away",
+          "display": "#11 — Paul Young"
+        },
+        {
+          "answer": "Easy Lover",
+          "display": "#12 — Philip Bailey and Phil Collins"
+        },
+        {
+          "answer": "Can't Fight This Feeling",
+          "display": "#13 — REO Speedwagon"
+        }
+      ]
+    },
+    {
+      "category": "music/billboard-year-end/1980s",
+      "question": "Top 10 songs of Billboard's 1986 year-end Hot 100",
+      "cutoff": 10,
+      "difficulty": 1,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1368211244 | table 1 | name: Title | value: № | order: asc",
+      "tags": [
+        "music",
+        "billboard",
+        "1980s"
+      ],
+      "answers": [
+        {
+          "answer": "That's What Friends Are For",
+          "display": "#1 — Dionne and Friends",
+          "aliases": [
+            "What Friends Are For"
+          ]
+        },
+        {
+          "answer": "Say You, Say Me",
+          "display": "#2 — Lionel Richie"
+        },
+        {
+          "answer": "I Miss You",
+          "display": "#3 — Klymaxx"
+        },
+        {
+          "answer": "On My Own",
+          "display": "#4 — Patti LaBelle and Michael McDonald"
+        },
+        {
+          "answer": "Broken Wings",
+          "display": "#5 — Mr. Mister"
+        },
+        {
+          "answer": "How Will I Know",
+          "display": "#6 — Whitney Houston"
+        },
+        {
+          "answer": "Party All the Time",
+          "display": "#7 — Eddie Murphy"
+        },
+        {
+          "answer": "Burning Heart",
+          "display": "#8 — Survivor"
+        },
+        {
+          "answer": "Kyrie",
+          "display": "#9 — Mr. Mister"
+        },
+        {
+          "answer": "Addicted to Love",
+          "display": "#10 — Robert Palmer"
+        },
+        {
+          "answer": "The Greatest Love of All",
+          "display": "#11 — Whitney Houston",
+          "aliases": [
+            "Greatest Love of All"
+          ]
+        },
+        {
+          "answer": "Secret Lovers",
+          "display": "#12 — Atlantic Starr"
+        },
+        {
+          "answer": "Friends and Lovers",
+          "display": "#13 — Gloria Loring and Carl Anderson"
+        }
+      ]
+    },
+    {
+      "category": "music/billboard-year-end/1980s",
+      "question": "Top 10 songs of Billboard's 1987 year-end Hot 100",
+      "cutoff": 10,
+      "difficulty": 1,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1358675385 | table 1 | name: Title | value: No. | order: asc",
+      "tags": [
+        "music",
+        "billboard",
+        "1980s"
+      ],
+      "answers": [
+        {
+          "answer": "Walk Like An Egyptian",
+          "display": "#1 — The Bangles"
+        },
+        {
+          "answer": "Alone",
+          "display": "#2 — Heart"
+        },
+        {
+          "answer": "Shake You Down",
+          "display": "#3 — Gregory Abbott"
+        },
+        {
+          "answer": "I Wanna Dance with Somebody (Who Loves Me)",
+          "display": "#4 — Whitney Houston",
+          "aliases": [
+            "I Wanna Dance with Somebody"
+          ]
+        },
+        {
+          "answer": "Nothing's Gonna Stop Us Now",
+          "display": "#5 — Starship",
+          "aliases": [
+            "Nothing's Gonna Stop Us"
+          ]
+        },
+        {
+          "answer": "C'est La Vie",
+          "display": "#6 — Robbie Nevil"
+        },
+        {
+          "answer": "Here I Go Again",
+          "display": "#7 — Whitesnake"
+        },
+        {
+          "answer": "The Way It Is",
+          "display": "#8 — Bruce Hornsby and the Range"
+        },
+        {
+          "answer": "Shakedown",
+          "display": "#9 — Bob Seger"
+        },
+        {
+          "answer": "Livin' on a Prayer",
+          "display": "#10 — Bon Jovi",
+          "aliases": [
+            "Living on a Prayer"
+          ]
+        },
+        {
+          "answer": "La Bamba",
+          "display": "#11 — Los Lobos"
+        },
+        {
+          "answer": "Everybody Have Fun Tonight",
+          "display": "#12 — Wang Chung"
+        },
+        {
+          "answer": "Don't Dream It's Over",
+          "display": "#13 — Crowded House"
+        }
+      ]
+    },
+    {
+      "category": "music/billboard-year-end/1980s",
+      "question": "Top 10 songs of Billboard's 1988 year-end Hot 100",
+      "cutoff": 10,
+      "difficulty": 1,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1358830573 | table 1 | name: Title | value: No. | order: asc",
+      "tags": [
+        "music",
+        "billboard",
+        "1980s"
+      ],
+      "answers": [
+        {
+          "answer": "Faith",
+          "display": "#1 — George Michael"
+        },
+        {
+          "answer": "Need You Tonight",
+          "display": "#2 — INXS"
+        },
+        {
+          "answer": "Got My Mind Set on You",
+          "display": "#3 — George Harrison"
+        },
+        {
+          "answer": "Never Gonna Give You Up",
+          "display": "#4 — Rick Astley"
+        },
+        {
+          "answer": "Sweet Child o' Mine",
+          "display": "#5 — Guns N' Roses",
+          "aliases": [
+            "Sweet Child of Mine"
+          ]
+        },
+        {
+          "answer": "So Emotional",
+          "display": "#6 — Whitney Houston"
+        },
+        {
+          "answer": "Heaven Is a Place on Earth",
+          "display": "#7 — Belinda Carlisle",
+          "aliases": [
+            "Heaven Is a Place"
+          ]
+        },
+        {
+          "answer": "Could've Been",
+          "display": "#8 — Tiffany",
+          "aliases": [
+            "Could Have Been"
+          ]
+        },
+        {
+          "answer": "Hands to Heaven",
+          "display": "#9 — Breathe"
+        },
+        {
+          "answer": "Roll with It",
+          "display": "#10 — Steve Winwood"
+        },
+        {
+          "answer": "One More Try",
+          "display": "#11 — George Michael"
+        },
+        {
+          "answer": "Wishing Well",
+          "display": "#12 — Terence Trent D'Arby"
+        },
+        {
+          "answer": "Anything for You",
+          "display": "#13 — Gloria Estefan and Miami Sound Machine"
+        }
+      ]
+    },
+    {
+      "category": "music/billboard-year-end/1980s",
+      "question": "Top 10 songs of Billboard's 1989 year-end Hot 100",
+      "cutoff": 10,
+      "difficulty": 1,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1360678236 | table 1 | name: Title | value: No. | order: asc",
+      "tags": [
+        "music",
+        "billboard",
+        "1980s"
+      ],
+      "answers": [
+        {
+          "answer": "Look Away",
+          "display": "#1 — Chicago"
+        },
+        {
+          "answer": "My Prerogative",
+          "display": "#2 — Bobby Brown"
+        },
+        {
+          "answer": "Every Rose Has Its Thorn",
+          "display": "#3 — Poison"
+        },
+        {
+          "answer": "Straight Up",
+          "display": "#4 — Paula Abdul"
+        },
+        {
+          "answer": "Miss You Much",
+          "display": "#5 — Janet Jackson"
+        },
+        {
+          "answer": "Cold Hearted",
+          "display": "#6 — Paula Abdul"
+        },
+        {
+          "answer": "Wind Beneath My Wings",
+          "display": "#7 — Bette Midler"
+        },
+        {
+          "answer": "Girl You Know It's True",
+          "display": "#8 — Milli Vanilli"
+        },
+        {
+          "answer": "Baby, I Love Your Way/Freebird Medley",
+          "display": "#9 — Will to Power",
+          "aliases": [
+            "Baby I Love Your Way",
+            "Freebird Medley"
+          ]
+        },
+        {
+          "answer": "Giving You the Best That I Got",
+          "display": "#10 — Anita Baker",
+          "aliases": [
+            "Giving You the Best"
+          ]
+        },
+        {
+          "answer": "Right Here Waiting",
+          "display": "#11 — Richard Marx"
+        },
+        {
+          "answer": "Waiting for a Star to Fall",
+          "display": "#12 — Boy Meets Girl"
+        },
+        {
+          "answer": "Lost in Your Eyes",
+          "display": "#13 — Debbie Gibson"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1280 @@
+{
+  "categories": [
+    {
+      "path": "tv/awards/golden-globes",
+      "name": "Golden Globes (TV)"
+    },
+    {
+      "path": "tv/awards/bafta",
+      "name": "BAFTA TV Awards"
+    },
+    {
+      "path": "movies/awards/critics-choice",
+      "name": "Critics' Choice Awards"
+    }
+  ],
+  "questions": [
+    {
+      "category": "tv/awards/golden-globes",
+      "difficulty": 2,
+      "question": "Top 6 TV series by nominations at the 80th Golden Globe Awards",
+      "cutoff": 6,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1380244468 | table 5 | name: Series | value: Nominations",
+      "tags": [
+        "tv",
+        "awards",
+        "nominations",
+        "golden-globes"
+      ],
+      "answers": [
+        {
+          "answer": "Abbott Elementary",
+          "display": "5 nominations"
+        },
+        {
+          "answer": "The Crown",
+          "display": "4 nominations"
+        },
+        {
+          "answer": "Monster: The Jeffrey Dahmer Story",
+          "display": "4 nominations",
+          "aliases": [
+            "Dahmer"
+          ]
+        },
+        {
+          "answer": "Only Murders in the Building",
+          "display": "4 nominations"
+        },
+        {
+          "answer": "Pam & Tommy",
+          "display": "4 nominations",
+          "aliases": [
+            "Pam and Tommy"
+          ]
+        },
+        {
+          "answer": "The White Lotus",
+          "display": "4 nominations"
+        },
+        {
+          "answer": "Black Bird",
+          "display": "3 nominations"
+        },
+        {
+          "answer": "Hacks",
+          "display": "3 nominations"
+        },
+        {
+          "answer": "Ozark",
+          "display": "3 nominations"
+        },
+        {
+          "answer": "Severance",
+          "display": "3 nominations"
+        }
+      ]
+    },
+    {
+      "category": "tv/awards/bafta",
+      "difficulty": 2,
+      "question": "Top 6 programmes by nominations at the 2020 British Academy Television Awards",
+      "cutoff": 6,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1367691290 | table 2 | name: Programme | value: Nominations",
+      "tags": [
+        "tv",
+        "awards",
+        "nominations",
+        "bafta"
+      ],
+      "answers": [
+        {
+          "answer": "Chernobyl",
+          "display": "14 nominations"
+        },
+        {
+          "answer": "The Crown",
+          "display": "7 nominations"
+        },
+        {
+          "answer": "Fleabag",
+          "display": "7 nominations"
+        },
+        {
+          "answer": "Giri/Haji",
+          "display": "6 nominations",
+          "aliases": [
+            "Giri Haji"
+          ]
+        },
+        {
+          "answer": "His Dark Materials",
+          "display": "5 nominations"
+        },
+        {
+          "answer": "The Virtues",
+          "display": "5 nominations"
+        },
+        {
+          "answer": "Killing Eve",
+          "display": "4 nominations"
+        },
+        {
+          "answer": "Sex Education",
+          "display": "4 nominations"
+        },
+        {
+          "answer": "Top Boy",
+          "display": "4 nominations"
+        }
+      ]
+    },
+    {
+      "category": "movies/awards/critics-choice",
+      "difficulty": 2,
+      "question": "Top 8 films by nominations at the 31st Critics' Choice Awards",
+      "cutoff": 8,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1376871389 | table 3 | name: Film | value: Nominations",
+      "tags": [
+        "movies",
+        "awards",
+        "nominations",
+        "critics-choice"
+      ],
+      "answers": [
+        {
+          "answer": "Sinners",
+          "display": "17 nominations"
+        },
+        {
+          "answer": "One Battle After Another",
+          "display": "14 nominations",
+          "aliases": [
+            "OBAA"
+          ]
+        },
+        {
+          "answer": "Frankenstein",
+          "display": "11 nominations"
+        },
+        {
+          "answer": "Hamnet",
+          "display": "11 nominations"
+        },
+        {
+          "answer": "Marty Supreme",
+          "display": "8 nominations"
+        },
+        {
+          "answer": "F1",
+          "display": "7 nominations"
+        },
+        {
+          "answer": "Sentimental Value",
+          "display": "7 nominations"
+        },
+        {
+          "answer": "Wicked: For Good",
+          "display": "7 nominations",
+          "aliases": [
+            "Wicked For Good"
+          ]
+        },
+        {
+          "answer": "Train Dreams",
+          "display": "5 nominations"
+        },
+        {
+          "answer": "Jay Kelly",
+          "display": "4 nominations"
+        },
+        {
+          "answer": "Weapons",
+          "display": "4 nominations"
+        }
+      ]
+    },
+    {
+      "category": "movies/awards/critics-choice",
+      "difficulty": 2,
+      "question": "Top 7 films by nominations at the 30th Critics' Choice Awards",
+      "cutoff": 7,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1379586225 | table 3 | name: Film | value: Nominations",
+      "tags": [
+        "movies",
+        "awards",
+        "nominations",
+        "critics-choice"
+      ],
+      "answers": [
+        {
+          "answer": "Conclave",
+          "display": "11 nominations"
+        },
+        {
+          "answer": "Wicked",
+          "display": "11 nominations"
+        },
+        {
+          "answer": "Dune: Part Two",
+          "display": "10 nominations",
+          "aliases": [
+            "Dune 2",
+            "Dune Part Two"
+          ]
+        },
+        {
+          "answer": "Emilia Pérez",
+          "display": "10 nominations",
+          "aliases": [
+            "Emilia Perez"
+          ]
+        },
+        {
+          "answer": "The Brutalist",
+          "display": "9 nominations"
+        },
+        {
+          "answer": "Anora",
+          "display": "7 nominations"
+        },
+        {
+          "answer": "The Substance",
+          "display": "7 nominations",
+          "aliases": [
+            "Substance"
+          ]
+        },
+        {
+          "answer": "Nickel Boys",
+          "display": "5 nominations"
+        },
+        {
+          "answer": "Sing Sing",
+          "display": "5 nominations"
+        },
+        {
+          "answer": "Challengers",
+          "display": "4 nominations"
+        },
+        {
+          "answer": "Gladiator II",
+          "display": "4 nominations",
+          "aliases": [
+            "Gladiator 2"
+          ]
+        },
+        {
+          "answer": "Nosferatu",
+          "display": "4 nominations"
+        }
+      ]
+    },
+    {
+      "category": "movies/awards/critics-choice",
+      "difficulty": 2,
+      "question": "Top 8 films by nominations at the 27th Critics' Choice Awards",
+      "cutoff": 8,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1376870294 | table 3 | name: Film | value: Nominations",
+      "tags": [
+        "movies",
+        "awards",
+        "nominations",
+        "critics-choice"
+      ],
+      "answers": [
+        {
+          "answer": "Belfast",
+          "display": "11 nominations"
+        },
+        {
+          "answer": "West Side Story",
+          "display": "11 nominations"
+        },
+        {
+          "answer": "Dune",
+          "display": "10 nominations"
+        },
+        {
+          "answer": "The Power of the Dog",
+          "display": "10 nominations",
+          "aliases": [
+            "Power of the Dog"
+          ]
+        },
+        {
+          "answer": "Licorice Pizza",
+          "display": "8 nominations"
+        },
+        {
+          "answer": "Nightmare Alley",
+          "display": "8 nominations"
+        },
+        {
+          "answer": "Don't Look Up",
+          "display": "6 nominations"
+        },
+        {
+          "answer": "King Richard",
+          "display": "6 nominations"
+        },
+        {
+          "answer": "CODA",
+          "display": "4 nominations"
+        },
+        {
+          "answer": "House of Gucci",
+          "display": "4 nominations"
+        },
+        {
+          "answer": "Being the Ricardos",
+          "display": "3 nominations"
+        }
+      ]
+    },
+    {
+      "category": "movies/awards/critics-choice",
+      "difficulty": 2,
+      "question": "Top 5 films by nominations at the 25th Critics' Choice Awards",
+      "cutoff": 5,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1376870211 | table 3 | name: Film | value: Nominations",
+      "tags": [
+        "movies",
+        "awards",
+        "nominations",
+        "critics-choice"
+      ],
+      "answers": [
+        {
+          "answer": "The Irishman",
+          "display": "14 nominations",
+          "aliases": [
+            "Irishman"
+          ]
+        },
+        {
+          "answer": "Once Upon a Time in Hollywood",
+          "display": "12 nominations",
+          "aliases": [
+            "Once Upon a Time"
+          ]
+        },
+        {
+          "answer": "Little Women",
+          "display": "9 nominations"
+        },
+        {
+          "answer": "Marriage Story",
+          "display": "8 nominations"
+        },
+        {
+          "answer": "1917",
+          "display": "8 nominations"
+        },
+        {
+          "answer": "Jojo Rabbit",
+          "display": "7 nominations"
+        },
+        {
+          "answer": "Joker",
+          "display": "7 nominations"
+        },
+        {
+          "answer": "Parasite",
+          "display": "7 nominations"
+        }
+      ]
+    },
+    {
+      "category": "movies/awards/critics-choice",
+      "difficulty": 2,
+      "question": "Top 8 films by nominations at the 24th Critics' Choice Awards",
+      "cutoff": 8,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1376730266 | table 3 | name: Film | value: Nominations",
+      "tags": [
+        "movies",
+        "awards",
+        "nominations",
+        "critics-choice"
+      ],
+      "answers": [
+        {
+          "answer": "The Favourite",
+          "display": "14 nominations",
+          "aliases": [
+            "Favourite"
+          ]
+        },
+        {
+          "answer": "Black Panther",
+          "display": "12 nominations"
+        },
+        {
+          "answer": "First Man",
+          "display": "10 nominations"
+        },
+        {
+          "answer": "Mary Poppins Returns",
+          "display": "9 nominations"
+        },
+        {
+          "answer": "A Star Is Born",
+          "display": "9 nominations"
+        },
+        {
+          "answer": "Vice",
+          "display": "9 nominations"
+        },
+        {
+          "answer": "Roma",
+          "display": "8 nominations"
+        },
+        {
+          "answer": "Green Book",
+          "display": "7 nominations"
+        },
+        {
+          "answer": "If Beale Street Could Talk",
+          "display": "5 nominations"
+        },
+        {
+          "answer": "BlacKkKlansman",
+          "display": "4 nominations"
+        },
+        {
+          "answer": "Crazy Rich Asians",
+          "display": "4 nominations"
+        }
+      ]
+    },
+    {
+      "category": "movies/awards/critics-choice",
+      "difficulty": 2,
+      "question": "Top 10 films by nominations at the 23rd Critics' Choice Awards",
+      "cutoff": 10,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1376723187 | table 3 | name: Film | value: Nominations",
+      "tags": [
+        "movies",
+        "awards",
+        "nominations",
+        "critics-choice"
+      ],
+      "answers": [
+        {
+          "answer": "The Shape of Water",
+          "display": "14 nominations",
+          "aliases": [
+            "Shape of Water"
+          ]
+        },
+        {
+          "answer": "Call Me by Your Name",
+          "display": "8 nominations",
+          "aliases": [
+            "CMBYN"
+          ]
+        },
+        {
+          "answer": "Dunkirk",
+          "display": "8 nominations"
+        },
+        {
+          "answer": "Lady Bird",
+          "display": "8 nominations"
+        },
+        {
+          "answer": "The Post",
+          "display": "8 nominations"
+        },
+        {
+          "answer": "Blade Runner 2049",
+          "display": "7 nominations"
+        },
+        {
+          "answer": "The Big Sick",
+          "display": "6 nominations"
+        },
+        {
+          "answer": "Three Billboards Outside Ebbing, Missouri",
+          "display": "6 nominations"
+        },
+        {
+          "answer": "Get Out",
+          "display": "5 nominations"
+        },
+        {
+          "answer": "I, Tonya",
+          "display": "5 nominations"
+        },
+        {
+          "answer": "Beauty and the Beast",
+          "display": "4 nominations"
+        },
+        {
+          "answer": "Darkest Hour",
+          "display": "4 nominations"
+        },
+        {
+          "answer": "The Disaster Artist",
+          "display": "4 nominations"
+        },
+        {
+          "answer": "Mudbound",
+          "display": "4 nominations"
+        },
+        {
+          "answer": "Phantom Thread",
+          "display": "4 nominations"
+        }
+      ]
+    },
+    {
+      "category": "movies/awards/critics-choice",
+      "difficulty": 2,
+      "question": "Top 10 films by nominations at the 22nd Critics' Choice Awards",
+      "cutoff": 10,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1376722804 | table 3 | name: Film | value: Nominations",
+      "tags": [
+        "movies",
+        "awards",
+        "nominations",
+        "critics-choice"
+      ],
+      "answers": [
+        {
+          "answer": "La La Land",
+          "display": "12 nominations"
+        },
+        {
+          "answer": "Arrival",
+          "display": "10 nominations"
+        },
+        {
+          "answer": "Moonlight",
+          "display": "10 nominations"
+        },
+        {
+          "answer": "Manchester by the Sea",
+          "display": "8 nominations",
+          "aliases": [
+            "Manchester"
+          ]
+        },
+        {
+          "answer": "Hacksaw Ridge",
+          "display": "7 nominations"
+        },
+        {
+          "answer": "Doctor Strange",
+          "display": "6 nominations"
+        },
+        {
+          "answer": "Fences",
+          "display": "6 nominations"
+        },
+        {
+          "answer": "Hell or High Water",
+          "display": "6 nominations"
+        },
+        {
+          "answer": "Jackie",
+          "display": "6 nominations"
+        },
+        {
+          "answer": "Lion",
+          "display": "6 nominations"
+        },
+        {
+          "answer": "Deadpool",
+          "display": "4 nominations"
+        },
+        {
+          "answer": "Fantastic Beasts and Where to Find Them",
+          "display": "4 nominations",
+          "aliases": [
+            "Fantastic Beasts"
+          ]
+        },
+        {
+          "answer": "Loving",
+          "display": "4 nominations"
+        },
+        {
+          "answer": "Sully",
+          "display": "4 nominations"
+        }
+      ]
+    },
+    {
+      "category": "movies/awards/critics-choice",
+      "difficulty": 2,
+      "question": "Top 7 films by nominations at the 21st Critics' Choice Awards",
+      "cutoff": 7,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1376722737 | table 3 | name: Film | value: Nominations",
+      "tags": [
+        "movies",
+        "awards",
+        "nominations",
+        "critics-choice"
+      ],
+      "answers": [
+        {
+          "answer": "Mad Max: Fury Road",
+          "display": "13 nominations",
+          "aliases": [
+            "Mad Max"
+          ]
+        },
+        {
+          "answer": "Carol",
+          "display": "9 nominations"
+        },
+        {
+          "answer": "The Martian",
+          "display": "9 nominations",
+          "aliases": [
+            "Martian"
+          ]
+        },
+        {
+          "answer": "The Revenant",
+          "display": "9 nominations",
+          "aliases": [
+            "Revenant"
+          ]
+        },
+        {
+          "answer": "Spotlight",
+          "display": "8 nominations"
+        },
+        {
+          "answer": "The Big Short",
+          "display": "7 nominations",
+          "aliases": [
+            "Big Short"
+          ]
+        },
+        {
+          "answer": "The Hateful Eight",
+          "display": "6 nominations",
+          "aliases": [
+            "Hateful Eight"
+          ]
+        },
+        {
+          "answer": "Bridge of Spies",
+          "display": "5 nominations"
+        },
+        {
+          "answer": "Brooklyn",
+          "display": "5 nominations"
+        },
+        {
+          "answer": "The Danish Girl",
+          "display": "5 nominations"
+        },
+        {
+          "answer": "Jurassic World",
+          "display": "5 nominations"
+        },
+        {
+          "answer": "Sicario",
+          "display": "5 nominations"
+        }
+      ]
+    },
+    {
+      "category": "movies/awards/critics-choice",
+      "difficulty": 2,
+      "question": "Top 10 films by nominations at the 20th Critics' Choice Awards",
+      "cutoff": 10,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1376722526 | table 2 | name: Film | value: Nominations",
+      "tags": [
+        "movies",
+        "awards",
+        "nominations",
+        "critics-choice"
+      ],
+      "answers": [
+        {
+          "answer": "Birdman",
+          "display": "13 nominations"
+        },
+        {
+          "answer": "The Grand Budapest Hotel",
+          "display": "11 nominations",
+          "aliases": [
+            "Grand Budapest Hotel"
+          ]
+        },
+        {
+          "answer": "Boyhood",
+          "display": "8 nominations"
+        },
+        {
+          "answer": "Interstellar",
+          "display": "7 nominations"
+        },
+        {
+          "answer": "Gone Girl",
+          "display": "6 nominations"
+        },
+        {
+          "answer": "The Imitation Game",
+          "display": "6 nominations",
+          "aliases": [
+            "Imitation Game"
+          ]
+        },
+        {
+          "answer": "Guardians of the Galaxy",
+          "display": "5 nominations",
+          "aliases": [
+            "Guardians"
+          ]
+        },
+        {
+          "answer": "Into the Woods",
+          "display": "5 nominations"
+        },
+        {
+          "answer": "Selma",
+          "display": "5 nominations"
+        },
+        {
+          "answer": "The Theory of Everything",
+          "display": "5 nominations",
+          "aliases": [
+            "Theory of Everything"
+          ]
+        },
+        {
+          "answer": "Edge of Tomorrow",
+          "display": "4 nominations"
+        },
+        {
+          "answer": "Inherent Vice",
+          "display": "4 nominations"
+        },
+        {
+          "answer": "St. Vincent",
+          "display": "4 nominations"
+        },
+        {
+          "answer": "Unbroken",
+          "display": "4 nominations"
+        },
+        {
+          "answer": "Whiplash",
+          "display": "4 nominations"
+        }
+      ]
+    },
+    {
+      "category": "movies/awards/critics-choice",
+      "difficulty": 2,
+      "question": "Top 7 films by nominations at the 18th Critics' Choice Awards",
+      "cutoff": 7,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1376720204 | table 2 | name: Film | value: Nominations",
+      "tags": [
+        "movies",
+        "awards",
+        "nominations",
+        "critics-choice"
+      ],
+      "answers": [
+        {
+          "answer": "Lincoln",
+          "display": "13 nominations"
+        },
+        {
+          "answer": "Les Misérables",
+          "display": "11 nominations",
+          "aliases": [
+            "Les Mis"
+          ]
+        },
+        {
+          "answer": "Silver Linings Playbook",
+          "display": "10 nominations",
+          "aliases": [
+            "Silver Linings"
+          ]
+        },
+        {
+          "answer": "Life of Pi",
+          "display": "9 nominations"
+        },
+        {
+          "answer": "Argo",
+          "display": "7 nominations"
+        },
+        {
+          "answer": "The Master",
+          "display": "7 nominations"
+        },
+        {
+          "answer": "Skyfall",
+          "display": "7 nominations"
+        },
+        {
+          "answer": "Looper",
+          "display": "5 nominations"
+        },
+        {
+          "answer": "Moonrise Kingdom",
+          "display": "5 nominations"
+        },
+        {
+          "answer": "Zero Dark Thirty",
+          "display": "5 nominations"
+        },
+        {
+          "answer": "The Dark Knight Rises",
+          "display": "4 nominations",
+          "aliases": [
+            "Dark Knight Rises"
+          ]
+        },
+        {
+          "answer": "The Hobbit: An Unexpected Journey",
+          "display": "4 nominations",
+          "aliases": [
+            "An Unexpected Journey"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "movies/awards/critics-choice",
+      "difficulty": 2,
+      "question": "Top 7 films by nominations at the 17th Critics' Choice Awards",
+      "cutoff": 7,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1376719946 | table 2 | name: Film | value: Nominations",
+      "tags": [
+        "movies",
+        "awards",
+        "nominations",
+        "critics-choice"
+      ],
+      "answers": [
+        {
+          "answer": "The Artist",
+          "display": "11 nominations"
+        },
+        {
+          "answer": "Hugo",
+          "display": "11 nominations"
+        },
+        {
+          "answer": "Drive",
+          "display": "8 nominations"
+        },
+        {
+          "answer": "The Help",
+          "display": "8 nominations"
+        },
+        {
+          "answer": "The Descendants",
+          "display": "7 nominations"
+        },
+        {
+          "answer": "War Horse",
+          "display": "7 nominations"
+        },
+        {
+          "answer": "The Tree of Life",
+          "display": "5 nominations",
+          "aliases": [
+            "Tree of Life"
+          ]
+        },
+        {
+          "answer": "Extremely Loud & Incredibly Close",
+          "display": "4 nominations",
+          "aliases": [
+            "Extremely Loud and Incredibly Close"
+          ]
+        },
+        {
+          "answer": "Harry Potter and the Deathly Hallows – Part 2",
+          "display": "4 nominations",
+          "aliases": [
+            "Deathly Hallows Part 2"
+          ]
+        },
+        {
+          "answer": "The Muppets",
+          "display": "4 nominations",
+          "aliases": [
+            "Muppets"
+          ]
+        },
+        {
+          "answer": "My Week with Marilyn",
+          "display": "4 nominations"
+        },
+        {
+          "answer": "Super 8",
+          "display": "4 nominations"
+        }
+      ]
+    },
+    {
+      "category": "movies/awards/critics-choice",
+      "difficulty": 2,
+      "question": "Top 9 films by nominations at the 16th Critics' Choice Awards",
+      "cutoff": 9,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1376719760 | table 2 | name: Film | value: Nominations",
+      "tags": [
+        "movies",
+        "awards",
+        "nominations",
+        "critics-choice"
+      ],
+      "answers": [
+        {
+          "answer": "Black Swan",
+          "display": "12 nominations"
+        },
+        {
+          "answer": "The King's Speech",
+          "display": "11 nominations",
+          "aliases": [
+            "King's Speech"
+          ]
+        },
+        {
+          "answer": "True Grit",
+          "display": "11 nominations"
+        },
+        {
+          "answer": "Inception",
+          "display": "10 nominations"
+        },
+        {
+          "answer": "The Social Network",
+          "display": "9 nominations",
+          "aliases": [
+            "Social Network"
+          ]
+        },
+        {
+          "answer": "127 Hours",
+          "display": "8 nominations"
+        },
+        {
+          "answer": "The Fighter",
+          "display": "6 nominations"
+        },
+        {
+          "answer": "The Town",
+          "display": "5 nominations",
+          "aliases": [
+            "Town"
+          ]
+        },
+        {
+          "answer": "Toy Story 3",
+          "display": "5 nominations",
+          "aliases": [
+            "Toy Story Three"
+          ]
+        },
+        {
+          "answer": "Alice in Wonderland",
+          "display": "4 nominations"
+        },
+        {
+          "answer": "The Kids Are All Right",
+          "display": "4 nominations"
+        },
+        {
+          "answer": "Winter's Bone",
+          "display": "4 nominations"
+        }
+      ]
+    },
+    {
+      "category": "movies/awards/critics-choice",
+      "difficulty": 2,
+      "question": "Top 7 films by nominations at the 14th Critics' Choice Awards",
+      "cutoff": 7,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1376719478 | table 2 | name: Film | value: Nominations",
+      "tags": [
+        "movies",
+        "awards",
+        "nominations",
+        "critics-choice"
+      ],
+      "answers": [
+        {
+          "answer": "The Curious Case of Benjamin Button",
+          "display": "8 nominations",
+          "aliases": [
+            "Benjamin Button"
+          ]
+        },
+        {
+          "answer": "Milk",
+          "display": "8 nominations"
+        },
+        {
+          "answer": "The Dark Knight",
+          "display": "6 nominations",
+          "aliases": [
+            "Dark Knight"
+          ]
+        },
+        {
+          "answer": "Doubt",
+          "display": "6 nominations"
+        },
+        {
+          "answer": "Slumdog Millionaire",
+          "display": "6 nominations",
+          "aliases": [
+            "Slumdog"
+          ]
+        },
+        {
+          "answer": "Frost/Nixon",
+          "display": "4 nominations"
+        },
+        {
+          "answer": "The Wrestler",
+          "display": "4 nominations",
+          "aliases": [
+            "Wrestler"
+          ]
+        },
+        {
+          "answer": "Changeling",
+          "display": "3 nominations"
+        },
+        {
+          "answer": "The Reader",
+          "display": "3 nominations"
+        },
+        {
+          "answer": "WALL-E",
+          "display": "3 nominations",
+          "aliases": [
+            "Wall-E"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "movies/awards/critics-choice",
+      "difficulty": 2,
+      "question": "Top 5 films by nominations at the 12th Critics' Choice Awards",
+      "cutoff": 5,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1376727239 | table 2 | name: Film | value: Nominations",
+      "tags": [
+        "movies",
+        "awards",
+        "nominations",
+        "critics-choice"
+      ],
+      "answers": [
+        {
+          "answer": "Babel",
+          "display": "7 nominations"
+        },
+        {
+          "answer": "The Departed",
+          "display": "7 nominations",
+          "aliases": [
+            "Departed"
+          ]
+        },
+        {
+          "answer": "Dreamgirls",
+          "display": "7 nominations"
+        },
+        {
+          "answer": "Little Miss Sunshine",
+          "display": "7 nominations"
+        },
+        {
+          "answer": "The Queen",
+          "display": "4 nominations"
+        },
+        {
+          "answer": "Blood Diamond",
+          "display": "3 nominations"
+        },
+        {
+          "answer": "Charlotte's Web",
+          "display": "3 nominations"
+        },
+        {
+          "answer": "Letters from Iwo Jima",
+          "display": "3 nominations"
+        },
+        {
+          "answer": "Little Children",
+          "display": "3 nominations"
+        },
+        {
+          "answer": "Notes on a Scandal",
+          "display": "3 nominations"
+        }
+      ]
+    },
+    {
+      "category": "movies/awards/critics-choice",
+      "difficulty": 2,
+      "question": "Top 6 films by nominations at the 11th Critics' Choice Awards",
+      "cutoff": 6,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1376727146 | table 2 | name: Film | value: Nominations",
+      "tags": [
+        "movies",
+        "awards",
+        "nominations",
+        "critics-choice"
+      ],
+      "answers": [
+        {
+          "answer": "Brokeback Mountain",
+          "display": "8 nominations",
+          "aliases": [
+            "Brokeback"
+          ]
+        },
+        {
+          "answer": "Crash",
+          "display": "6 nominations"
+        },
+        {
+          "answer": "Good Night, and Good Luck",
+          "display": "5 nominations",
+          "aliases": [
+            "Good Night and Good Luck"
+          ]
+        },
+        {
+          "answer": "Capote",
+          "display": "4 nominations"
+        },
+        {
+          "answer": "Cinderella Man",
+          "display": "4 nominations"
+        },
+        {
+          "answer": "Walk the Line",
+          "display": "4 nominations"
+        },
+        {
+          "answer": "Elizabethtown",
+          "display": "3 nominations"
+        },
+        {
+          "answer": "Harry Potter and the Goblet of Fire",
+          "display": "3 nominations",
+          "aliases": [
+            "Goblet of Fire"
+          ]
+        },
+        {
+          "answer": "Memoirs of a Geisha",
+          "display": "3 nominations"
+        },
+        {
+          "answer": "Rent",
+          "display": "3 nominations"
+        },
+        {
+          "answer": "The Squid and the Whale",
+          "display": "3 nominations"
+        }
+      ]
+    },
+    {
+      "category": "movies/awards/critics-choice",
+      "difficulty": 2,
+      "question": "Top 6 films by nominations at the 10th Critics' Choice Awards",
+      "cutoff": 6,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1376727135 | table 2 | name: Film | value: Nominations",
+      "tags": [
+        "movies",
+        "awards",
+        "nominations",
+        "critics-choice"
+      ],
+      "answers": [
+        {
+          "answer": "Sideways",
+          "display": "8 nominations"
+        },
+        {
+          "answer": "Finding Neverland",
+          "display": "7 nominations"
+        },
+        {
+          "answer": "The Aviator",
+          "display": "6 nominations",
+          "aliases": [
+            "Aviator"
+          ]
+        },
+        {
+          "answer": "Kinsey",
+          "display": "4 nominations"
+        },
+        {
+          "answer": "Million Dollar Baby",
+          "display": "4 nominations"
+        },
+        {
+          "answer": "Ray",
+          "display": "4 nominations"
+        },
+        {
+          "answer": "Eternal Sunshine of the Spotless Mind",
+          "display": "3 nominations",
+          "aliases": [
+            "Eternal Sunshine"
+          ]
+        },
+        {
+          "answer": "Harry Potter and the Prisoner of Azkaban",
+          "display": "3 nominations",
+          "aliases": [
+            "Prisoner of Azkaban"
+          ]
+        },
+        {
+          "answer": "The Incredibles",
+          "display": "3 nominations"
+        },
+        {
+          "answer": "Lemony Snicket's A Series of Unfortunate Events",
+          "display": "3 nominations",
+          "aliases": [
+            "A Series of Unfortunate Events"
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1829 @@
+{
+  "categories": [
+    {
+      "path": "sports/motorsport/nascar/seasons",
+      "name": "Cup Series by Season"
+    }
+  ],
+  "questions": [
+    {
+      "category": "sports/motorsport/nascar/seasons",
+      "question": "Top 10 drivers in the final 1972 NASCAR Winston Cup Series standings",
+      "cutoff": 10,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1372022275 | table 3 | name: Driver | value: Finish | order: asc",
+      "tags": [
+        "motorsport",
+        "nascar",
+        "drivers-championship",
+        "1972"
+      ],
+      "answers": [
+        {
+          "answer": "Richard Petty",
+          "display": "#1 — 8,701.40 points",
+          "aliases": [
+            "Petty"
+          ]
+        },
+        {
+          "answer": "Bobby Allison",
+          "display": "#2 — 8,573.50 points",
+          "aliases": [
+            "Allison"
+          ]
+        },
+        {
+          "answer": "James Hylton",
+          "display": "#3 — 8,158.70 points",
+          "aliases": [
+            "Hylton"
+          ]
+        },
+        {
+          "answer": "Cecil Gordon",
+          "display": "#4 — 7,326.05 points",
+          "aliases": [
+            "Gordon"
+          ]
+        },
+        {
+          "answer": "Benny Parsons",
+          "display": "#5 — 6,844.15 points",
+          "aliases": [
+            "Parsons"
+          ]
+        },
+        {
+          "answer": "Walter Ballard",
+          "display": "#6 — 6,781.45 points",
+          "aliases": [
+            "Ballard"
+          ]
+        },
+        {
+          "answer": "Elmo Langley",
+          "display": "#7 — 6,656.25 points",
+          "aliases": [
+            "Langley"
+          ]
+        },
+        {
+          "answer": "John Sears",
+          "display": "#8 — 6,298.50 points",
+          "aliases": [
+            "Sears"
+          ]
+        },
+        {
+          "answer": "Dean Dalton",
+          "display": "#9 — 6,295.05 points",
+          "aliases": [
+            "Dalton"
+          ]
+        },
+        {
+          "answer": "Ben Arnold",
+          "display": "#10 — 6,179.00 points",
+          "aliases": [
+            "Arnold"
+          ]
+        },
+        {
+          "answer": "Frank Warren",
+          "display": "#11 — 5,788.60 points",
+          "aliases": [
+            "Warren"
+          ]
+        },
+        {
+          "answer": "Jabe Thomas",
+          "display": "#12 — 5,772.55 points",
+          "aliases": [
+            "Thomas"
+          ]
+        },
+        {
+          "answer": "Bill Champion",
+          "display": "#13 — 5,470.70 points",
+          "aliases": [
+            "Champion"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/motorsport/nascar/seasons",
+      "question": "Top 10 drivers in the final 1973 NASCAR Winston Cup Series standings",
+      "cutoff": 10,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1375076652 | table 3 | name: Driver | value: Pos | order: asc",
+      "tags": [
+        "motorsport",
+        "nascar",
+        "drivers-championship",
+        "1973"
+      ],
+      "answers": [
+        {
+          "answer": "Benny Parsons",
+          "display": "#1 — 7,173.8 points",
+          "aliases": [
+            "Parsons"
+          ]
+        },
+        {
+          "answer": "Cale Yarborough",
+          "display": "#2 — 7,106.65 points",
+          "aliases": [
+            "Yarborough"
+          ]
+        },
+        {
+          "answer": "Cecil Gordon",
+          "display": "#3 — 7,046.8 points",
+          "aliases": [
+            "Gordon"
+          ]
+        },
+        {
+          "answer": "James Hylton",
+          "display": "#4 — 6,972.75 points",
+          "aliases": [
+            "Hylton"
+          ]
+        },
+        {
+          "answer": "Richard Petty",
+          "display": "#5 — 6,877.95 points",
+          "aliases": [
+            "Petty"
+          ]
+        },
+        {
+          "answer": "Buddy Baker",
+          "display": "#6 — 6,327.6 points",
+          "aliases": [
+            "Baker"
+          ]
+        },
+        {
+          "answer": "Bobby Allison",
+          "display": "#7 — 6,272.3 points",
+          "aliases": [
+            "Allison"
+          ]
+        },
+        {
+          "answer": "Walter Ballard",
+          "display": "#8 — 5,955.7 points",
+          "aliases": [
+            "Ballard"
+          ]
+        },
+        {
+          "answer": "Elmo Langley",
+          "display": "#9 — 5,826.85 points",
+          "aliases": [
+            "Langley"
+          ]
+        },
+        {
+          "answer": "J. D. McDuffie",
+          "display": "#10 — 5,743.9 points",
+          "aliases": [
+            "McDuffie"
+          ]
+        },
+        {
+          "answer": "Jabe Thomas",
+          "display": "#11 — 5,637 points",
+          "aliases": [
+            "Thomas"
+          ]
+        },
+        {
+          "answer": "Buddy Arrington",
+          "display": "#12 — 5,483.9 points",
+          "aliases": [
+            "Arrington"
+          ]
+        },
+        {
+          "answer": "David Pearson",
+          "display": "#13 — 5,382.8 points",
+          "aliases": [
+            "Pearson"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/motorsport/nascar/seasons",
+      "question": "Top 10 drivers in the final 1974 NASCAR Winston Cup Series standings",
+      "cutoff": 10,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1375076707 | table 2 | name: Driver | value: Pos | order: asc",
+      "tags": [
+        "motorsport",
+        "nascar",
+        "drivers-championship",
+        "1974"
+      ],
+      "answers": [
+        {
+          "answer": "Richard Petty",
+          "display": "#1 — 5,037.75 points",
+          "aliases": [
+            "Petty"
+          ]
+        },
+        {
+          "answer": "Cale Yarborough",
+          "display": "#2 — 4,470.3 points",
+          "aliases": [
+            "Yarborough"
+          ]
+        },
+        {
+          "answer": "David Pearson",
+          "display": "#3 — 2,389.25 points",
+          "aliases": [
+            "Pearson"
+          ]
+        },
+        {
+          "answer": "Bobby Allison",
+          "display": "#4 — 2,019.195 points",
+          "aliases": [
+            "Allison"
+          ]
+        },
+        {
+          "answer": "Benny Parsons",
+          "display": "#5 — 1,591.5 points",
+          "aliases": [
+            "Parsons"
+          ]
+        },
+        {
+          "answer": "Dave Marcis",
+          "display": "#6 — 1,378.2 points",
+          "aliases": [
+            "Marcis"
+          ]
+        },
+        {
+          "answer": "Buddy Baker",
+          "display": "#7 — 1,016.88 points",
+          "aliases": [
+            "Baker"
+          ]
+        },
+        {
+          "answer": "Earl Ross",
+          "display": "#8 — 1,009.47 points",
+          "aliases": [
+            "Ross"
+          ]
+        },
+        {
+          "answer": "Cecil Gordon",
+          "display": "#9 — 1,000.65 points",
+          "aliases": [
+            "Gordon"
+          ]
+        },
+        {
+          "answer": "David Sisco",
+          "display": "#10 — 956.2 points",
+          "aliases": [
+            "Sisco"
+          ]
+        },
+        {
+          "answer": "James Hylton",
+          "display": "#11 — 924.955 points",
+          "aliases": [
+            "Hylton"
+          ]
+        },
+        {
+          "answer": "J. D. McDuffie",
+          "display": "#12 — 920.85 points",
+          "aliases": [
+            "McDuffie"
+          ]
+        },
+        {
+          "answer": "Frank Warren",
+          "display": "#13 — 820.845 points",
+          "aliases": [
+            "Warren"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/motorsport/nascar/seasons",
+      "question": "Top 10 drivers in the final 1976 NASCAR Winston Cup Series standings",
+      "cutoff": 10,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1378875420 | table 2 | name: Driver | value: Pos | order: asc",
+      "tags": [
+        "motorsport",
+        "nascar",
+        "drivers-championship",
+        "1976"
+      ],
+      "answers": [
+        {
+          "answer": "Cale Yarborough",
+          "display": "#1 — 4,644 points",
+          "aliases": [
+            "Yarborough"
+          ]
+        },
+        {
+          "answer": "Richard Petty",
+          "display": "#2 — 4,449 points",
+          "aliases": [
+            "Petty"
+          ]
+        },
+        {
+          "answer": "Benny Parsons",
+          "display": "#3 — 4,304 points",
+          "aliases": [
+            "Parsons"
+          ]
+        },
+        {
+          "answer": "Bobby Allison",
+          "display": "#4 — 4,097 points",
+          "aliases": [
+            "Allison"
+          ]
+        },
+        {
+          "answer": "Lennie Pond",
+          "display": "#5 — 3,930 points",
+          "aliases": [
+            "Pond"
+          ]
+        },
+        {
+          "answer": "Dave Marcis",
+          "display": "#6 — 3,875 points",
+          "aliases": [
+            "Marcis"
+          ]
+        },
+        {
+          "answer": "Buddy Baker",
+          "display": "#7 — 3,745 points",
+          "aliases": [
+            "Baker"
+          ]
+        },
+        {
+          "answer": "Darrell Waltrip",
+          "display": "#8 — 3,505 points",
+          "aliases": [
+            "Waltrip"
+          ]
+        },
+        {
+          "answer": "David Pearson",
+          "display": "#9 — 3,483 points",
+          "aliases": [
+            "Pearson"
+          ]
+        },
+        {
+          "answer": "Dick Brooks",
+          "display": "#10 — 3,447 points",
+          "aliases": [
+            "Brooks"
+          ]
+        },
+        {
+          "answer": "Richard Childress",
+          "display": "#11 — 3,428 points",
+          "aliases": [
+            "Childress"
+          ]
+        },
+        {
+          "answer": "J. D. McDuffie",
+          "display": "#12 — 3,400 points",
+          "aliases": [
+            "McDuffie"
+          ]
+        },
+        {
+          "answer": "James Hylton",
+          "display": "#13 — 3,380 points",
+          "aliases": [
+            "Hylton"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/motorsport/nascar/seasons",
+      "question": "Top 10 drivers in the final 1977 NASCAR Winston Cup Series standings",
+      "cutoff": 10,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1378875554 | table 2 | name: Driver | value: Pos | order: asc",
+      "tags": [
+        "motorsport",
+        "nascar",
+        "drivers-championship",
+        "1977"
+      ],
+      "answers": [
+        {
+          "answer": "Cale Yarborough",
+          "display": "#1 — 5,000 points",
+          "aliases": [
+            "Yarborough"
+          ]
+        },
+        {
+          "answer": "Richard Petty",
+          "display": "#2 — 4,614 points",
+          "aliases": [
+            "Petty"
+          ]
+        },
+        {
+          "answer": "Benny Parsons",
+          "display": "#3 — 4,570 points",
+          "aliases": [
+            "Parsons"
+          ]
+        },
+        {
+          "answer": "Darrell Waltrip",
+          "display": "#4 — 4,498 points",
+          "aliases": [
+            "Waltrip"
+          ]
+        },
+        {
+          "answer": "Buddy Baker",
+          "display": "#5 — 3,961 points",
+          "aliases": [
+            "Baker"
+          ]
+        },
+        {
+          "answer": "Dick Brooks",
+          "display": "#6 — 3,742 points",
+          "aliases": [
+            "Brooks"
+          ]
+        },
+        {
+          "answer": "James Hylton",
+          "display": "#7 — 3,476 points",
+          "aliases": [
+            "Hylton"
+          ]
+        },
+        {
+          "answer": "Bobby Allison",
+          "display": "#8 — 3,467 points",
+          "aliases": [
+            "Allison"
+          ]
+        },
+        {
+          "answer": "Richard Childress",
+          "display": "#9 — 3,463 points",
+          "aliases": [
+            "Childress"
+          ]
+        },
+        {
+          "answer": "Cecil Gordon",
+          "display": "#10 — 3,294 points",
+          "aliases": [
+            "Gordon"
+          ]
+        },
+        {
+          "answer": "Buddy Arrington",
+          "display": "#11 — 3,247 points",
+          "aliases": [
+            "Arrington"
+          ]
+        },
+        {
+          "answer": "J. D. McDuffie",
+          "display": "#12 — 3,236 points",
+          "aliases": [
+            "McDuffie"
+          ]
+        },
+        {
+          "answer": "David Pearson",
+          "display": "#13 — 3,227 points",
+          "aliases": [
+            "Pearson"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/motorsport/nascar/seasons",
+      "question": "Top 10 drivers in the final 1978 NASCAR Winston Cup Series standings",
+      "cutoff": 10,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1378875743 | table 4 | name: Driver | value: Pos | order: asc",
+      "tags": [
+        "motorsport",
+        "nascar",
+        "drivers-championship",
+        "1978"
+      ],
+      "answers": [
+        {
+          "answer": "Cale Yarborough",
+          "display": "#1 — 4,841 points",
+          "aliases": [
+            "Yarborough"
+          ]
+        },
+        {
+          "answer": "Bobby Allison",
+          "display": "#2 — 4,367 points",
+          "aliases": [
+            "Allison"
+          ]
+        },
+        {
+          "answer": "Darrell Waltrip",
+          "display": "#3 — 4,362 points",
+          "aliases": [
+            "Waltrip"
+          ]
+        },
+        {
+          "answer": "Benny Parsons",
+          "display": "#4 — 4,350 points",
+          "aliases": [
+            "Parsons"
+          ]
+        },
+        {
+          "answer": "Dave Marcis",
+          "display": "#5 — 4,335 points",
+          "aliases": [
+            "Marcis"
+          ]
+        },
+        {
+          "answer": "Richard Petty",
+          "display": "#6 — 3,949 points",
+          "aliases": [
+            "Petty"
+          ]
+        },
+        {
+          "answer": "Lennie Pond",
+          "display": "#7 — 3,794 points",
+          "aliases": [
+            "Pond"
+          ]
+        },
+        {
+          "answer": "Dick Brooks",
+          "display": "#8 — 3,769 points",
+          "aliases": [
+            "Brooks"
+          ]
+        },
+        {
+          "answer": "Buddy Arrington",
+          "display": "#9 — 3,626 points",
+          "aliases": [
+            "Arrington"
+          ]
+        },
+        {
+          "answer": "Richard Childress",
+          "display": "#10 — 3,566 points",
+          "aliases": [
+            "Childress"
+          ]
+        },
+        {
+          "answer": "J. D. McDuffie",
+          "display": "#11 — 3,255 points",
+          "aliases": [
+            "McDuffie"
+          ]
+        },
+        {
+          "answer": "Neil Bonnett",
+          "display": "#12 — 3,129 points",
+          "aliases": [
+            "Bonnett"
+          ]
+        },
+        {
+          "answer": "Tighe Scott",
+          "display": "#13 — 3,110 points",
+          "aliases": [
+            "Scott"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/motorsport/nascar/seasons",
+      "question": "Top 10 drivers in the final 1979 NASCAR Winston Cup Series standings",
+      "cutoff": 10,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1378875954 | table 8 | name: Driver | value: Pos | order: asc",
+      "tags": [
+        "motorsport",
+        "nascar",
+        "drivers-championship",
+        "1979"
+      ],
+      "answers": [
+        {
+          "answer": "Richard Petty",
+          "display": "#1 — 4,830 points",
+          "aliases": [
+            "Petty"
+          ]
+        },
+        {
+          "answer": "Darrell Waltrip",
+          "display": "#2 — 4,819 points",
+          "aliases": [
+            "Waltrip"
+          ]
+        },
+        {
+          "answer": "Bobby Allison",
+          "display": "#3 — 4,633 points",
+          "aliases": [
+            "Allison"
+          ]
+        },
+        {
+          "answer": "Cale Yarborough",
+          "display": "#4 — 4,604 points",
+          "aliases": [
+            "Yarborough"
+          ]
+        },
+        {
+          "answer": "Benny Parsons",
+          "display": "#5 — 4,256 points",
+          "aliases": [
+            "Parsons"
+          ]
+        },
+        {
+          "answer": "Joe Millikan",
+          "display": "#6 — 4,014 points",
+          "aliases": [
+            "Millikan"
+          ]
+        },
+        {
+          "answer": "Dale Earnhardt",
+          "display": "#7 — 3,749 points",
+          "aliases": [
+            "Earnhardt"
+          ]
+        },
+        {
+          "answer": "Richard Childress",
+          "display": "#8 — 3,735 points",
+          "aliases": [
+            "Childress"
+          ]
+        },
+        {
+          "answer": "Ricky Rudd",
+          "display": "#9 — 3,642 points",
+          "aliases": [
+            "Rudd"
+          ]
+        },
+        {
+          "answer": "Terry Labonte",
+          "display": "#10 — 3,615 points",
+          "aliases": [
+            "Labonte"
+          ]
+        },
+        {
+          "answer": "Buddy Arrington",
+          "display": "#11 — 3,589 points",
+          "aliases": [
+            "Arrington"
+          ]
+        },
+        {
+          "answer": "D. K. Ulrich",
+          "display": "#12 — 3,508 points",
+          "aliases": [
+            "Ulrich"
+          ]
+        },
+        {
+          "answer": "J. D. McDuffie",
+          "display": "#13 — 3,473 points",
+          "aliases": [
+            "McDuffie"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/motorsport/nascar/seasons",
+      "question": "Top 10 drivers in the final 1980 NASCAR Winston Cup Series standings",
+      "cutoff": 10,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1378876042 | table 3 | name: Driver | value: Pos | order: asc",
+      "tags": [
+        "motorsport",
+        "nascar",
+        "drivers-championship",
+        "1980"
+      ],
+      "answers": [
+        {
+          "answer": "Dale Earnhardt",
+          "display": "#1 — 4,661 points",
+          "aliases": [
+            "Earnhardt"
+          ]
+        },
+        {
+          "answer": "Cale Yarborough",
+          "display": "#2 — 4,642 points",
+          "aliases": [
+            "Yarborough"
+          ]
+        },
+        {
+          "answer": "Benny Parsons",
+          "display": "#3 — 4,278 points",
+          "aliases": [
+            "Parsons"
+          ]
+        },
+        {
+          "answer": "Richard Petty",
+          "display": "#4 — 4,255 points",
+          "aliases": [
+            "Petty"
+          ]
+        },
+        {
+          "answer": "Darrell Waltrip",
+          "display": "#5 — 4,239 points",
+          "aliases": [
+            "Waltrip"
+          ]
+        },
+        {
+          "answer": "Bobby Allison",
+          "display": "#6 — 4,019 points",
+          "aliases": [
+            "Allison"
+          ]
+        },
+        {
+          "answer": "Jody Ridley",
+          "display": "#7 — 3,972 points",
+          "aliases": [
+            "Ridley"
+          ]
+        },
+        {
+          "answer": "Terry Labonte",
+          "display": "#8 — 3,766 points",
+          "aliases": [
+            "Labonte"
+          ]
+        },
+        {
+          "answer": "Dave Marcis",
+          "display": "#9 — 3,745 points",
+          "aliases": [
+            "Marcis"
+          ]
+        },
+        {
+          "answer": "Richard Childress",
+          "display": "#10 — 3,742 points",
+          "aliases": [
+            "Childress"
+          ]
+        },
+        {
+          "answer": "Harry Gant",
+          "display": "#11 — 3,703 points",
+          "aliases": [
+            "Gant"
+          ]
+        },
+        {
+          "answer": "Buddy Arrington",
+          "display": "#12 — 3,461 points",
+          "aliases": [
+            "Arrington"
+          ]
+        },
+        {
+          "answer": "James Hylton",
+          "display": "#13 — 3,449 points",
+          "aliases": [
+            "Hylton"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/motorsport/nascar/seasons",
+      "question": "Top 10 drivers in the final 1981 NASCAR Winston Cup Series standings",
+      "cutoff": 10,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1378876164 | table 3 | name: Driver | value: Pos | order: asc",
+      "tags": [
+        "motorsport",
+        "nascar",
+        "drivers-championship",
+        "1981"
+      ],
+      "answers": [
+        {
+          "answer": "Darrell Waltrip",
+          "display": "#1 — 4,880 points",
+          "aliases": [
+            "Waltrip"
+          ]
+        },
+        {
+          "answer": "Bobby Allison",
+          "display": "#2 — 4,827 points",
+          "aliases": [
+            "Allison"
+          ]
+        },
+        {
+          "answer": "Harry Gant",
+          "display": "#3 — 4,210 points",
+          "aliases": [
+            "Gant"
+          ]
+        },
+        {
+          "answer": "Terry Labonte",
+          "display": "#4 — 4,052 points",
+          "aliases": [
+            "Labonte"
+          ]
+        },
+        {
+          "answer": "Jody Ridley",
+          "display": "#5 — 4,002 points",
+          "aliases": [
+            "Ridley"
+          ]
+        },
+        {
+          "answer": "Ricky Rudd",
+          "display": "#6 — 3,988 points",
+          "aliases": [
+            "Rudd"
+          ]
+        },
+        {
+          "answer": "Dale Earnhardt",
+          "display": "#7 — 3,975 points",
+          "aliases": [
+            "Earnhardt"
+          ]
+        },
+        {
+          "answer": "Richard Petty",
+          "display": "#8 — 3,880 points",
+          "aliases": [
+            "Richard"
+          ]
+        },
+        {
+          "answer": "Dave Marcis",
+          "display": "#9 — 3,507 points",
+          "aliases": [
+            "Marcis"
+          ]
+        },
+        {
+          "answer": "Benny Parsons",
+          "display": "#10 — 3,449 points",
+          "aliases": [
+            "Parsons"
+          ]
+        },
+        {
+          "answer": "Buddy Arrington",
+          "display": "#11 — 3,381 points",
+          "aliases": [
+            "Arrington"
+          ]
+        },
+        {
+          "answer": "Kyle Petty",
+          "display": "#12 — 3,335 points",
+          "aliases": [
+            "Kyle"
+          ]
+        },
+        {
+          "answer": "Morgan Shepherd",
+          "display": "#13 — 3,261 points",
+          "aliases": [
+            "Shepherd"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/motorsport/nascar/seasons",
+      "question": "Top 10 drivers in the final 1982 NASCAR Winston Cup Series standings",
+      "cutoff": 10,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1378876274 | table 3 | name: Driver | value: Pos | order: asc",
+      "tags": [
+        "motorsport",
+        "nascar",
+        "drivers-championship",
+        "1982"
+      ],
+      "answers": [
+        {
+          "answer": "Darrell Waltrip",
+          "display": "#1 — 4,489 points",
+          "aliases": [
+            "Waltrip"
+          ]
+        },
+        {
+          "answer": "Bobby Allison",
+          "display": "#2 — 4,417 points",
+          "aliases": [
+            "Allison"
+          ]
+        },
+        {
+          "answer": "Terry Labonte",
+          "display": "#3 — 4,211 points",
+          "aliases": [
+            "Labonte"
+          ]
+        },
+        {
+          "answer": "Harry Gant",
+          "display": "#4 — 3,877 points",
+          "aliases": [
+            "Gant"
+          ]
+        },
+        {
+          "answer": "Richard Petty",
+          "display": "#5 — 3,814 points",
+          "aliases": [
+            "Petty"
+          ]
+        },
+        {
+          "answer": "Dave Marcis",
+          "display": "#6 — 3,666 points",
+          "aliases": [
+            "Marcis"
+          ]
+        },
+        {
+          "answer": "Buddy Arrington",
+          "display": "#7 — 3,642 points",
+          "aliases": [
+            "Arrington"
+          ]
+        },
+        {
+          "answer": "Ron Bouchard",
+          "display": "#8 — 3,545 points",
+          "aliases": [
+            "Bouchard"
+          ]
+        },
+        {
+          "answer": "Ricky Rudd",
+          "display": "#9 — 3,537 points",
+          "aliases": [
+            "Rudd"
+          ]
+        },
+        {
+          "answer": "Morgan Shepherd",
+          "display": "#10 — 3,451 points",
+          "aliases": [
+            "Shepherd"
+          ]
+        },
+        {
+          "answer": "Jimmy Means",
+          "display": "#11 — 3,423 points",
+          "aliases": [
+            "Means"
+          ]
+        },
+        {
+          "answer": "Dale Earnhardt",
+          "display": "#12 — 3,402 points",
+          "aliases": [
+            "Earnhardt"
+          ]
+        },
+        {
+          "answer": "Jody Ridley",
+          "display": "#13 — 3,333 points",
+          "aliases": [
+            "Ridley"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/motorsport/nascar/seasons",
+      "question": "Top 10 drivers in the final 1983 NASCAR Winston Cup Series standings",
+      "cutoff": 10,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1378876379 | table 4 | name: Driver | value: Pos | order: asc",
+      "tags": [
+        "motorsport",
+        "nascar",
+        "drivers-championship",
+        "1983"
+      ],
+      "answers": [
+        {
+          "answer": "Bobby Allison",
+          "display": "#1 — 4,667 points",
+          "aliases": [
+            "Allison"
+          ]
+        },
+        {
+          "answer": "Darrell Waltrip",
+          "display": "#2 — 4,620 points",
+          "aliases": [
+            "Waltrip"
+          ]
+        },
+        {
+          "answer": "Bill Elliott",
+          "display": "#3 — 4,279 points",
+          "aliases": [
+            "Elliott"
+          ]
+        },
+        {
+          "answer": "Richard Petty",
+          "display": "#4 — 4,042 points",
+          "aliases": [
+            "Richard"
+          ]
+        },
+        {
+          "answer": "Terry Labonte",
+          "display": "#5 — 4,004 points",
+          "aliases": [
+            "Labonte"
+          ]
+        },
+        {
+          "answer": "Neil Bonnett",
+          "display": "#6 — 3,842 points",
+          "aliases": [
+            "Bonnett"
+          ]
+        },
+        {
+          "answer": "Harry Gant",
+          "display": "#7 — 3,790 points",
+          "aliases": [
+            "Gant"
+          ]
+        },
+        {
+          "answer": "Dale Earnhardt",
+          "display": "#8 — 3,732 points",
+          "aliases": [
+            "Earnhardt"
+          ]
+        },
+        {
+          "answer": "Ricky Rudd",
+          "display": "#9 — 3,693 points",
+          "aliases": [
+            "Rudd"
+          ]
+        },
+        {
+          "answer": "Tim Richmond",
+          "display": "#10 — 3,612 points",
+          "aliases": [
+            "Richmond"
+          ]
+        },
+        {
+          "answer": "Dave Marcis",
+          "display": "#11 — 3,361 points",
+          "aliases": [
+            "Marcis"
+          ]
+        },
+        {
+          "answer": "Joe Ruttman",
+          "display": "#12 — 3,342 points",
+          "aliases": [
+            "Ruttman"
+          ]
+        },
+        {
+          "answer": "Kyle Petty",
+          "display": "#13 — 3,261 points",
+          "aliases": [
+            "Kyle"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/motorsport/nascar/seasons",
+      "question": "Top 10 drivers in the final 1984 NASCAR Winston Cup Series standings",
+      "cutoff": 10,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1378751677 | table 5 | name: Driver | value: Pos | order: asc",
+      "tags": [
+        "motorsport",
+        "nascar",
+        "drivers-championship",
+        "1984"
+      ],
+      "answers": [
+        {
+          "answer": "Terry Labonte",
+          "display": "#1 — 4,508 points",
+          "aliases": [
+            "Labonte"
+          ]
+        },
+        {
+          "answer": "Harry Gant",
+          "display": "#2 — 4,443 points",
+          "aliases": [
+            "Gant"
+          ]
+        },
+        {
+          "answer": "Bill Elliott",
+          "display": "#3 — 4,377 points",
+          "aliases": [
+            "Elliott"
+          ]
+        },
+        {
+          "answer": "Dale Earnhardt",
+          "display": "#4 — 4,265 points",
+          "aliases": [
+            "Earnhardt"
+          ]
+        },
+        {
+          "answer": "Darrell Waltrip",
+          "display": "#5 — 4,230 points",
+          "aliases": [
+            "Waltrip"
+          ]
+        },
+        {
+          "answer": "Bobby Allison",
+          "display": "#6 — 4,094 points",
+          "aliases": [
+            "Allison"
+          ]
+        },
+        {
+          "answer": "Ricky Rudd",
+          "display": "#7 — 3,918 points",
+          "aliases": [
+            "Rudd"
+          ]
+        },
+        {
+          "answer": "Neil Bonnett",
+          "display": "#8 — 3,802 points",
+          "aliases": [
+            "Bonnett"
+          ]
+        },
+        {
+          "answer": "Geoff Bodine",
+          "display": "#9 — 3,734 points",
+          "aliases": [
+            "Bodine"
+          ]
+        },
+        {
+          "answer": "Richard Petty",
+          "display": "#10 — 3,643 points",
+          "aliases": [
+            "Petty"
+          ]
+        },
+        {
+          "answer": "Ron Bouchard",
+          "display": "#11 — 3,609 points",
+          "aliases": [
+            "Bouchard"
+          ]
+        },
+        {
+          "answer": "Tim Richmond",
+          "display": "#12 — 3,505 points",
+          "aliases": [
+            "Richmond"
+          ]
+        },
+        {
+          "answer": "Dave Marcis",
+          "display": "#13 — 3,416 points",
+          "aliases": [
+            "Marcis"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/motorsport/nascar/seasons",
+      "question": "Top 10 drivers in the final 1985 NASCAR Winston Cup Series standings",
+      "cutoff": 10,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1379223503 | table 7 | name: Driver | value: Pos | order: asc",
+      "tags": [
+        "motorsport",
+        "nascar",
+        "drivers-championship",
+        "1985"
+      ],
+      "answers": [
+        {
+          "answer": "Darrell Waltrip",
+          "display": "#1 — 4,292 points",
+          "aliases": [
+            "Waltrip"
+          ]
+        },
+        {
+          "answer": "Bill Elliott",
+          "display": "#2 — 4,191 points",
+          "aliases": [
+            "Elliott"
+          ]
+        },
+        {
+          "answer": "Harry Gant",
+          "display": "#3 — 4,033 points",
+          "aliases": [
+            "Gant"
+          ]
+        },
+        {
+          "answer": "Neil Bonnett",
+          "display": "#4 — 3,902 points",
+          "aliases": [
+            "Bonnett"
+          ]
+        },
+        {
+          "answer": "Geoff Bodine",
+          "display": "#5 — 3,862 points",
+          "aliases": [
+            "Bodine"
+          ]
+        },
+        {
+          "answer": "Ricky Rudd",
+          "display": "#6 — 3,857 points",
+          "aliases": [
+            "Rudd"
+          ]
+        },
+        {
+          "answer": "Terry Labonte",
+          "display": "#7 — 3,683 points",
+          "aliases": [
+            "Labonte"
+          ]
+        },
+        {
+          "answer": "Dale Earnhardt",
+          "display": "#8 — 3,561 points",
+          "aliases": [
+            "Earnhardt"
+          ]
+        },
+        {
+          "answer": "Kyle Petty",
+          "display": "#9 — 3,528 points",
+          "aliases": [
+            "Petty"
+          ]
+        },
+        {
+          "answer": "Lake Speed",
+          "display": "#10 — 3,507 points",
+          "aliases": [
+            "Speed"
+          ]
+        },
+        {
+          "answer": "Tim Richmond",
+          "display": "#11 — 3,413 points",
+          "aliases": [
+            "Richmond"
+          ]
+        },
+        {
+          "answer": "Bobby Allison",
+          "display": "#12 — 3,312 points",
+          "aliases": [
+            "Allison"
+          ]
+        },
+        {
+          "answer": "Ron Bouchard",
+          "display": "#13 — 3,267 points",
+          "aliases": [
+            "Bouchard"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/motorsport/nascar/seasons",
+      "question": "Top 10 drivers in the final 1986 NASCAR Winston Cup Series standings",
+      "cutoff": 10,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1379223557 | table 8 | name: Driver | value: Pos | order: asc",
+      "tags": [
+        "motorsport",
+        "nascar",
+        "drivers-championship",
+        "1986"
+      ],
+      "answers": [
+        {
+          "answer": "Dale Earnhardt",
+          "display": "#1 — 4,468 points",
+          "aliases": [
+            "Earnhardt"
+          ]
+        },
+        {
+          "answer": "Darrell Waltrip",
+          "display": "#2 — 4,180 points",
+          "aliases": [
+            "Waltrip"
+          ]
+        },
+        {
+          "answer": "Tim Richmond",
+          "display": "#3 — 4,174 points",
+          "aliases": [
+            "Richmond"
+          ]
+        },
+        {
+          "answer": "Bill Elliott",
+          "display": "#4 — 3,844 points",
+          "aliases": [
+            "Elliott"
+          ]
+        },
+        {
+          "answer": "Ricky Rudd",
+          "display": "#5 — 3,823 points",
+          "aliases": [
+            "Rudd"
+          ]
+        },
+        {
+          "answer": "Rusty Wallace",
+          "display": "#6 — 3,762 points",
+          "aliases": [
+            "Wallace"
+          ]
+        },
+        {
+          "answer": "Bobby Allison",
+          "display": "#7 — 3,698 points",
+          "aliases": [
+            "Allison"
+          ]
+        },
+        {
+          "answer": "Geoff Bodine",
+          "display": "#8 — 3,678 points",
+          "aliases": [
+            "Bodine"
+          ]
+        },
+        {
+          "answer": "Bobby Hillin Jr.",
+          "display": "#9 — 3,546 points",
+          "aliases": [
+            "Hillin"
+          ]
+        },
+        {
+          "answer": "Kyle Petty",
+          "display": "#10 — 3,537 points",
+          "aliases": [
+            "Petty"
+          ]
+        },
+        {
+          "answer": "Harry Gant",
+          "display": "#11 — 3,498 points",
+          "aliases": [
+            "Gant"
+          ]
+        },
+        {
+          "answer": "Terry Labonte",
+          "display": "#12 — 3,473 points",
+          "aliases": [
+            "Labonte"
+          ]
+        },
+        {
+          "answer": "Neil Bonnett",
+          "display": "#13 — 3,369 points",
+          "aliases": [
+            "Bonnett"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/motorsport/nascar/seasons",
+      "question": "Top 10 drivers in the final 1987 NASCAR Winston Cup Series standings",
+      "cutoff": 10,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1379223634 | table 5 | name: Driver | value: Pos | order: asc",
+      "tags": [
+        "motorsport",
+        "nascar",
+        "drivers-championship",
+        "1987"
+      ],
+      "answers": [
+        {
+          "answer": "Dale Earnhardt",
+          "display": "#1 — 4,696 points",
+          "aliases": [
+            "Earnhardt"
+          ]
+        },
+        {
+          "answer": "Bill Elliott",
+          "display": "#2 — 4,207 points",
+          "aliases": [
+            "Elliott"
+          ]
+        },
+        {
+          "answer": "Terry Labonte",
+          "display": "#3 — 4,007 points",
+          "aliases": [
+            "Labonte"
+          ]
+        },
+        {
+          "answer": "Darrell Waltrip",
+          "display": "#4 — 3,911 points",
+          "aliases": [
+            "Waltrip"
+          ]
+        },
+        {
+          "answer": "Rusty Wallace",
+          "display": "#5 — 3,818 points",
+          "aliases": [
+            "Wallace"
+          ]
+        },
+        {
+          "answer": "Ricky Rudd",
+          "display": "#6 — 3,742 points",
+          "aliases": [
+            "Rudd"
+          ]
+        },
+        {
+          "answer": "Kyle Petty",
+          "display": "#7 — 3,737 points",
+          "aliases": [
+            "Kyle"
+          ]
+        },
+        {
+          "answer": "Richard Petty",
+          "display": "#8 — 3,708 points",
+          "aliases": [
+            "Richard"
+          ]
+        },
+        {
+          "answer": "Bobby Allison",
+          "display": "#9 — 3,530 points",
+          "aliases": [
+            "Allison"
+          ]
+        },
+        {
+          "answer": "Ken Schrader",
+          "display": "#10 — 3,405 points",
+          "aliases": [
+            "Schrader"
+          ]
+        },
+        {
+          "answer": "Sterling Marlin",
+          "display": "#11 — 3,381 points",
+          "aliases": [
+            "Marlin"
+          ]
+        },
+        {
+          "answer": "Neil Bonnett",
+          "display": "#12 — 3,352 points",
+          "aliases": [
+            "Bonnett"
+          ]
+        },
+        {
+          "answer": "Geoff Bodine",
+          "display": "#13 — 3,328 points",
+          "aliases": [
+            "Bodine"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/motorsport/nascar/seasons",
+      "question": "Top 10 drivers in the final 1988 NASCAR Winston Cup Series standings",
+      "cutoff": 10,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1379223692 | table 5 | name: Driver | value: Pos | order: asc",
+      "tags": [
+        "motorsport",
+        "nascar",
+        "drivers-championship",
+        "1988"
+      ],
+      "answers": [
+        {
+          "answer": "Bill Elliott",
+          "display": "#1 — 4,488 points",
+          "aliases": [
+            "Elliott"
+          ]
+        },
+        {
+          "answer": "Rusty Wallace",
+          "display": "#2 — 4,464 points",
+          "aliases": [
+            "Wallace"
+          ]
+        },
+        {
+          "answer": "Dale Earnhardt",
+          "display": "#3 — 4,256 points",
+          "aliases": [
+            "Earnhardt"
+          ]
+        },
+        {
+          "answer": "Terry Labonte",
+          "display": "#4 — 4,007 points",
+          "aliases": [
+            "Labonte"
+          ]
+        },
+        {
+          "answer": "Ken Schrader",
+          "display": "#5 — 3,858 points",
+          "aliases": [
+            "Schrader"
+          ]
+        },
+        {
+          "answer": "Geoff Bodine",
+          "display": "#6 — 3,799 points",
+          "aliases": [
+            "Bodine"
+          ]
+        },
+        {
+          "answer": "Darrell Waltrip",
+          "display": "#7 — 3,764 points",
+          "aliases": [
+            "Waltrip"
+          ]
+        },
+        {
+          "answer": "Davey Allison",
+          "display": "#8 — 3,631 points",
+          "aliases": [
+            "Allison"
+          ]
+        },
+        {
+          "answer": "Phil Parsons",
+          "display": "#9 — 3,630 points",
+          "aliases": [
+            "Parsons"
+          ]
+        },
+        {
+          "answer": "Sterling Marlin",
+          "display": "#10 — 3,621 points",
+          "aliases": [
+            "Marlin"
+          ]
+        },
+        {
+          "answer": "Ricky Rudd",
+          "display": "#11 — 3,547 points",
+          "aliases": [
+            "Rudd"
+          ]
+        },
+        {
+          "answer": "Bobby Hillin Jr.",
+          "display": "#12 — 3,446 points",
+          "aliases": [
+            "Hillin"
+          ]
+        },
+        {
+          "answer": "Kyle Petty",
+          "display": "#13 — 3,296 points",
+          "aliases": [
+            "Petty"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/motorsport/nascar/seasons",
+      "question": "Top 10 drivers in the final 1989 NASCAR Winston Cup Series standings",
+      "cutoff": 10,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1372035905 | table 5 | name: Driver | value: Pos | order: asc",
+      "tags": [
+        "motorsport",
+        "nascar",
+        "drivers-championship",
+        "1989"
+      ],
+      "answers": [
+        {
+          "answer": "Rusty Wallace",
+          "display": "#1 — 4,176 points",
+          "aliases": [
+            "Wallace"
+          ]
+        },
+        {
+          "answer": "Dale Earnhardt",
+          "display": "#2 — 4,164 points",
+          "aliases": [
+            "Earnhardt"
+          ]
+        },
+        {
+          "answer": "Mark Martin",
+          "display": "#3 — 4,053 points",
+          "aliases": [
+            "Martin"
+          ]
+        },
+        {
+          "answer": "Darrell Waltrip",
+          "display": "#4 — 3,971 points",
+          "aliases": [
+            "Waltrip"
+          ]
+        },
+        {
+          "answer": "Ken Schrader",
+          "display": "#5 — 3,876 points",
+          "aliases": [
+            "Schrader"
+          ]
+        },
+        {
+          "answer": "Bill Elliott",
+          "display": "#6 — 3,774 points",
+          "aliases": [
+            "Elliott"
+          ]
+        },
+        {
+          "answer": "Harry Gant",
+          "display": "#7 — 3,610 points",
+          "aliases": [
+            "Gant"
+          ]
+        },
+        {
+          "answer": "Ricky Rudd",
+          "display": "#8 — 3,608 points",
+          "aliases": [
+            "Rudd"
+          ]
+        },
+        {
+          "answer": "Geoff Bodine",
+          "display": "#9 — 3,600 points",
+          "aliases": [
+            "Bodine"
+          ]
+        },
+        {
+          "answer": "Terry Labonte",
+          "display": "#10 — 3,569 points",
+          "aliases": [
+            "Labonte"
+          ]
+        },
+        {
+          "answer": "Davey Allison",
+          "display": "#11 — 3,481 points",
+          "aliases": [
+            "Allison"
+          ]
+        },
+        {
+          "answer": "Sterling Marlin",
+          "display": "#12 — 3,422 points",
+          "aliases": [
+            "Marlin"
+          ]
+        },
+        {
+          "answer": "Morgan Shepherd",
+          "display": "#13 — 3,403 points",
+          "aliases": [
+            "Shepherd"
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,737 @@
+{
+  "categories": [
+    {
+      "path": "history/cities",
+      "name": "Cities Through History"
+    }
+  ],
+  "questions": [
+    {
+      "category": "history/cities",
+      "question": "Top 10 largest cities in 1575, among cities with recorded population estimates",
+      "cutoff": 10,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1377301063 | table 8 | name: City | value: 1575",
+      "tags": [
+        "history",
+        "cities",
+        "renaissance"
+      ],
+      "answers": [
+        {
+          "answer": "Beijing",
+          "display": "706,000 people",
+          "aliases": [
+            "Peking"
+          ]
+        },
+        {
+          "answer": "Istanbul",
+          "display": "680,000 people",
+          "aliases": [
+            "Constantinople"
+          ]
+        },
+        {
+          "answer": "Agra",
+          "display": "500,000 people"
+        },
+        {
+          "answer": "Ahmedabad",
+          "display": "300,000 people"
+        },
+        {
+          "answer": "Cairo",
+          "display": "275,000 people"
+        },
+        {
+          "answer": "Hangzhou",
+          "display": "260,000 people",
+          "aliases": [
+            "Hangchow"
+          ]
+        },
+        {
+          "answer": "Paris",
+          "display": "220,000 people"
+        },
+        {
+          "answer": "Naples",
+          "display": "215,000 people",
+          "aliases": [
+            "Napoli"
+          ]
+        },
+        {
+          "answer": "Nanjing",
+          "display": "188,000 people",
+          "aliases": [
+            "Nanking"
+          ]
+        },
+        {
+          "answer": "Edirne",
+          "display": "183,000 people",
+          "aliases": [
+            "Adrianople"
+          ]
+        },
+        {
+          "answer": "Bago",
+          "display": "175,000 people",
+          "aliases": [
+            "Pegu"
+          ]
+        },
+        {
+          "answer": "Guangzhou",
+          "display": "170,000 people",
+          "aliases": [
+            "Canton"
+          ]
+        },
+        {
+          "answer": "Delhi",
+          "display": "160,000 people"
+        },
+        {
+          "answer": "Venice",
+          "display": "134,871 people",
+          "aliases": [
+            "Venezia"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "history/cities",
+      "question": "Top 7 largest cities in 1650, among cities with recorded population estimates",
+      "cutoff": 7,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1377301063 | table 9 | name: City | value: 1650",
+      "tags": [
+        "history",
+        "cities",
+        "early-modern"
+      ],
+      "answers": [
+        {
+          "answer": "Istanbul",
+          "display": "700,000 people",
+          "aliases": [
+            "Constantinople"
+          ]
+        },
+        {
+          "answer": "Agra",
+          "display": "660,000 people"
+        },
+        {
+          "answer": "Beijing",
+          "display": "470,000 people",
+          "aliases": [
+            "Peking"
+          ]
+        },
+        {
+          "answer": "Tokyo",
+          "display": "430,000 people",
+          "aliases": [
+            "Edo"
+          ]
+        },
+        {
+          "answer": "Paris",
+          "display": "430,000 people"
+        },
+        {
+          "answer": "London",
+          "display": "400,000 people"
+        },
+        {
+          "answer": "Ahmedabad",
+          "display": "380,000 people"
+        },
+        {
+          "answer": "Cairo",
+          "display": "350,000 people"
+        },
+        {
+          "answer": "Isfahan",
+          "display": "350,000 people",
+          "aliases": [
+            "Esfahan"
+          ]
+        },
+        {
+          "answer": "Kyoto",
+          "display": "350,000 people"
+        },
+        {
+          "answer": "Hangzhou",
+          "display": "281,000 people",
+          "aliases": [
+            "Hangchow"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "history/cities",
+      "question": "Top 10 largest cities in 1750, among cities with recorded population estimates",
+      "cutoff": 10,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1377301063 | table 9 | name: City | value: 1750",
+      "tags": [
+        "history",
+        "cities",
+        "18th-century"
+      ],
+      "answers": [
+        {
+          "answer": "Beijing",
+          "display": "900,000 people",
+          "aliases": [
+            "Peking"
+          ]
+        },
+        {
+          "answer": "London",
+          "display": "675,000 people"
+        },
+        {
+          "answer": "Istanbul",
+          "display": "625,000 people",
+          "aliases": [
+            "Constantinople"
+          ]
+        },
+        {
+          "answer": "Paris",
+          "display": "576,000 people"
+        },
+        {
+          "answer": "Tokyo",
+          "display": "509,000 people",
+          "aliases": [
+            "Edo"
+          ]
+        },
+        {
+          "answer": "Guangzhou",
+          "display": "400,000 people",
+          "aliases": [
+            "Canton"
+          ]
+        },
+        {
+          "answer": "Osaka",
+          "display": "400,000 people"
+        },
+        {
+          "answer": "Kyoto",
+          "display": "362,000 people"
+        },
+        {
+          "answer": "Hangzhou",
+          "display": "340,000 people",
+          "aliases": [
+            "Hangchow"
+          ]
+        },
+        {
+          "answer": "Naples",
+          "display": "305,000 people",
+          "aliases": [
+            "Napoli"
+          ]
+        },
+        {
+          "answer": "Suzhou",
+          "display": "302,000 people",
+          "aliases": [
+            "Soochow"
+          ]
+        },
+        {
+          "answer": "Cairo",
+          "display": "300,000 people"
+        },
+        {
+          "answer": "Nanjing",
+          "display": "285,000 people",
+          "aliases": [
+            "Nanking"
+          ]
+        },
+        {
+          "answer": "Amsterdam",
+          "display": "233,952 people"
+        }
+      ]
+    },
+    {
+      "category": "history/cities",
+      "question": "Top 9 largest cities in 1825, among cities with recorded population estimates",
+      "cutoff": 9,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1377301063 | table 9 | name: City | value: 1825",
+      "tags": [
+        "history",
+        "cities",
+        "19th-century"
+      ],
+      "answers": [
+        {
+          "answer": "Beijing",
+          "display": "1,350,000 people",
+          "aliases": [
+            "Peking"
+          ]
+        },
+        {
+          "answer": "London",
+          "display": "1,335,000 people"
+        },
+        {
+          "answer": "Guangzhou",
+          "display": "900,000 people",
+          "aliases": [
+            "Canton"
+          ]
+        },
+        {
+          "answer": "Paris",
+          "display": "855,000 people"
+        },
+        {
+          "answer": "Istanbul",
+          "display": "675,000 people",
+          "aliases": [
+            "Constantinople"
+          ]
+        },
+        {
+          "answer": "Tokyo",
+          "display": "530,000 people",
+          "aliases": [
+            "Edo"
+          ]
+        },
+        {
+          "answer": "Saint Petersburg",
+          "display": "438,000 people",
+          "aliases": [
+            "St Petersburg"
+          ]
+        },
+        {
+          "answer": "Hangzhou",
+          "display": "410,000 people",
+          "aliases": [
+            "Hangchow"
+          ]
+        },
+        {
+          "answer": "Vienna",
+          "display": "401,200 people"
+        },
+        {
+          "answer": "Kyoto",
+          "display": "350,000 people"
+        },
+        {
+          "answer": "Naples",
+          "display": "350,000 people",
+          "aliases": [
+            "Napoli"
+          ]
+        },
+        {
+          "answer": "Osaka",
+          "display": "340,000 people"
+        },
+        {
+          "answer": "Suzhou",
+          "display": "302,000 people",
+          "aliases": [
+            "Soochow"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "history/cities",
+      "question": "Top 10 largest cities in 1850, among cities with recorded population estimates",
+      "cutoff": 10,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1377301063 | table 9 | name: City | value: 1850",
+      "tags": [
+        "history",
+        "cities",
+        "19th-century"
+      ],
+      "answers": [
+        {
+          "answer": "London",
+          "display": "2,320,000 people"
+        },
+        {
+          "answer": "Beijing",
+          "display": "1,648,000 people",
+          "aliases": [
+            "Peking"
+          ]
+        },
+        {
+          "answer": "Paris",
+          "display": "1,314,000 people"
+        },
+        {
+          "answer": "Guangzhou",
+          "display": "875,000 people",
+          "aliases": [
+            "Canton"
+          ]
+        },
+        {
+          "answer": "Istanbul",
+          "display": "785,000 people",
+          "aliases": [
+            "Constantinople"
+          ]
+        },
+        {
+          "answer": "Hangzhou",
+          "display": "700,000 people",
+          "aliases": [
+            "Hangchow"
+          ]
+        },
+        {
+          "answer": "New York",
+          "display": "682,000 people",
+          "aliases": [
+            "NYC",
+            "New York City"
+          ]
+        },
+        {
+          "answer": "Tokyo",
+          "display": "567,000 people",
+          "aliases": [
+            "Edo"
+          ]
+        },
+        {
+          "answer": "Vienna",
+          "display": "551,300 people"
+        },
+        {
+          "answer": "Suzhou",
+          "display": "550,000 people",
+          "aliases": [
+            "Soochow"
+          ]
+        },
+        {
+          "answer": "Saint Petersburg",
+          "display": "502,000 people",
+          "aliases": [
+            "St Petersburg"
+          ]
+        },
+        {
+          "answer": "Berlin",
+          "display": "446,000 people"
+        },
+        {
+          "answer": "Philadelphia",
+          "display": "426,221 people"
+        }
+      ]
+    },
+    {
+      "category": "history/cities",
+      "question": "Top 10 largest cities in 1875, among cities with recorded population estimates",
+      "cutoff": 10,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1377301063 | table 9 | name: City | value: 1875",
+      "tags": [
+        "history",
+        "cities",
+        "19th-century"
+      ],
+      "answers": [
+        {
+          "answer": "London",
+          "display": "4,241,000 people"
+        },
+        {
+          "answer": "Paris",
+          "display": "2,250,000 people"
+        },
+        {
+          "answer": "New York",
+          "display": "1,900,000 people",
+          "aliases": [
+            "NYC",
+            "New York City"
+          ]
+        },
+        {
+          "answer": "Beijing",
+          "display": "1,310,000 people",
+          "aliases": [
+            "Peking"
+          ]
+        },
+        {
+          "answer": "Berlin",
+          "display": "1,045,000 people"
+        },
+        {
+          "answer": "Vienna",
+          "display": "1,020,770 people"
+        },
+        {
+          "answer": "Guangzhou",
+          "display": "944,000 people",
+          "aliases": [
+            "Canton"
+          ]
+        },
+        {
+          "answer": "Istanbul",
+          "display": "827,750 people",
+          "aliases": [
+            "Constantinople"
+          ]
+        },
+        {
+          "answer": "Philadelphia",
+          "display": "791,000 people"
+        },
+        {
+          "answer": "Tokyo",
+          "display": "780,000 people",
+          "aliases": [
+            "Edo"
+          ]
+        },
+        {
+          "answer": "Saint Petersburg",
+          "display": "764,000 people",
+          "aliases": [
+            "St Petersburg"
+          ]
+        },
+        {
+          "answer": "Mumbai",
+          "display": "718,000 people",
+          "aliases": [
+            "Bombay"
+          ]
+        },
+        {
+          "answer": "Kolkata",
+          "display": "680,000 people",
+          "aliases": [
+            "Calcutta"
+          ]
+        },
+        {
+          "answer": "Liverpool",
+          "display": "650,000 people"
+        },
+        {
+          "answer": "Glasgow",
+          "display": "635,000 people"
+        }
+      ]
+    },
+    {
+      "category": "history/cities",
+      "question": "Top 10 largest metro areas in 1950, among cities with recorded population estimates (metro-area estimates, per MacroTrends)",
+      "cutoff": 10,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1377301063 | table 10 | name: City | value: 1950",
+      "tags": [
+        "history",
+        "cities",
+        "20th-century"
+      ],
+      "answers": [
+        {
+          "answer": "New York",
+          "display": "12,338,471 people",
+          "aliases": [
+            "NYC",
+            "New York City"
+          ]
+        },
+        {
+          "answer": "Tokyo",
+          "display": "11,274,641 people",
+          "aliases": [
+            "Edo"
+          ]
+        },
+        {
+          "answer": "London",
+          "display": "8,361,000 people"
+        },
+        {
+          "answer": "Osaka",
+          "display": "7,005,284 people"
+        },
+        {
+          "answer": "Paris",
+          "display": "6,283,018 people"
+        },
+        {
+          "answer": "Moscow",
+          "display": "5,356,392 people"
+        },
+        {
+          "answer": "Buenos Aires",
+          "display": "5,166,140 people"
+        },
+        {
+          "answer": "Chicago",
+          "display": "4,999,000 people"
+        },
+        {
+          "answer": "Kolkata",
+          "display": "4,604,143 people",
+          "aliases": [
+            "Calcutta"
+          ]
+        },
+        {
+          "answer": "Shanghai",
+          "display": "4,288,091 people"
+        },
+        {
+          "answer": "Los Angeles",
+          "display": "4,045,514 people",
+          "aliases": [
+            "LA"
+          ]
+        },
+        {
+          "answer": "Mexico City",
+          "display": "3,365,081 people"
+        },
+        {
+          "answer": "Berlin",
+          "display": "3,338,000 people"
+        },
+        {
+          "answer": "Mumbai",
+          "display": "3,088,811 people",
+          "aliases": [
+            "Bombay"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "history/cities",
+      "question": "Top 10 largest metro areas in 1960, among cities with recorded population estimates (metro-area estimates, per MacroTrends)",
+      "cutoff": 10,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1377301063 | table 10 | name: City | value: 1960",
+      "tags": [
+        "history",
+        "cities",
+        "20th-century"
+      ],
+      "answers": [
+        {
+          "answer": "Tokyo",
+          "display": "16,678,822 people",
+          "aliases": [
+            "Edo"
+          ]
+        },
+        {
+          "answer": "New York",
+          "display": "14,163,521 people",
+          "aliases": [
+            "NYC",
+            "New York City"
+          ]
+        },
+        {
+          "answer": "Osaka",
+          "display": "10,614,841 people"
+        },
+        {
+          "answer": "London",
+          "display": "8,196,000 people"
+        },
+        {
+          "answer": "Paris",
+          "display": "7,410,735 people"
+        },
+        {
+          "answer": "Shanghai",
+          "display": "6,865,312 people"
+        },
+        {
+          "answer": "Buenos Aires",
+          "display": "6,761,837 people"
+        },
+        {
+          "answer": "Los Angeles",
+          "display": "6,529,638 people",
+          "aliases": [
+            "LA"
+          ]
+        },
+        {
+          "answer": "Chicago",
+          "display": "6,183,000 people"
+        },
+        {
+          "answer": "Moscow",
+          "display": "6,169,961 people"
+        },
+        {
+          "answer": "Kolkata",
+          "display": "5,910,210 people",
+          "aliases": [
+            "Calcutta"
+          ]
+        },
+        {
+          "answer": "Mexico City",
+          "display": "5,479,184 people"
+        },
+        {
+          "answer": "Rio de Janeiro",
+          "display": "4,493,182 people",
+          "aliases": [
+            "Rio"
+          ]
+        },
+        {
+          "answer": "Mumbai",
+          "display": "4,414,904 people",
+          "aliases": [
+            "Bombay"
+          ]
+        }
+      ]
+    }
+  ]
+}

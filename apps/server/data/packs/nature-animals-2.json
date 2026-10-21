@@ -1,0 +1,244 @@
+{
+  "questions": [
+    {
+      "category": "nature/animals/mammals",
+      "difficulty": 2,
+      "question": "Top 7 heaviest living animals by average mass (tonnes)",
+      "submitter": "claude",
+      "cutoff": 7,
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1379182201 | table 1 | name: Animal | value: Average mass",
+      "tags": [
+        "nature",
+        "animals",
+        "mammals",
+        "size",
+        "whales"
+      ],
+      "answers": [
+        {
+          "answer": "Blue whale",
+          "display": "110 tonnes"
+        },
+        {
+          "answer": "North Pacific right whale",
+          "display": "60 tonnes",
+          "aliases": [
+            "right whale"
+          ]
+        },
+        {
+          "answer": "Southern right whale",
+          "display": "58 tonnes"
+        },
+        {
+          "answer": "Fin whale",
+          "display": "57 tonnes"
+        },
+        {
+          "answer": "Bowhead whale",
+          "display": "54.5 tonnes"
+        },
+        {
+          "answer": "North Atlantic right whale",
+          "display": "54 tonnes"
+        },
+        {
+          "answer": "Sperm whale",
+          "display": "31.25 tonnes"
+        },
+        {
+          "answer": "Humpback whale",
+          "display": "29 tonnes",
+          "aliases": [
+            "humpback"
+          ]
+        },
+        {
+          "answer": "Sei whale",
+          "display": "22.5 tonnes"
+        },
+        {
+          "answer": "Gray whale",
+          "display": "19.5 tonnes",
+          "aliases": [
+            "grey whale"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "nature/animals/mammals",
+      "difficulty": 2,
+      "question": "Top 10 mammals by maximum lifespan in captivity (years)",
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1369640908 | table 1 | name: Name | value: Maximum lifespan",
+      "tags": [
+        "nature",
+        "animals",
+        "mammals",
+        "lifespan"
+      ],
+      "answers": [
+        {
+          "answer": "Asian elephant",
+          "display": "88 years"
+        },
+        {
+          "answer": "Chimpanzee",
+          "display": "79 years",
+          "aliases": [
+            "chimp"
+          ]
+        },
+        {
+          "answer": "Bonobo",
+          "display": "70 years"
+        },
+        {
+          "answer": "Western gorilla",
+          "display": "68 years",
+          "aliases": [
+            "gorilla"
+          ]
+        },
+        {
+          "answer": "African bush elephant",
+          "display": "65 years",
+          "aliases": [
+            "elephant"
+          ]
+        },
+        {
+          "answer": "Sumatran orangutan",
+          "display": "64 years",
+          "aliases": [
+            "orangutan"
+          ]
+        },
+        {
+          "answer": "Hippopotamus",
+          "display": "61.2 years",
+          "aliases": [
+            "hippo"
+          ]
+        },
+        {
+          "answer": "Orca",
+          "display": "60 years",
+          "aliases": [
+            "killer whale"
+          ]
+        },
+        {
+          "answer": "Siamang",
+          "display": "55 years"
+        },
+        {
+          "answer": "Linnaeus's two-toed sloth",
+          "display": "54 years",
+          "aliases": [
+            "two-toed sloth",
+            "sloth"
+          ]
+        },
+        {
+          "answer": "White rhinoceros",
+          "display": "45 years"
+        },
+        {
+          "answer": "Polar bear",
+          "display": "42 years"
+        },
+        {
+          "answer": "Grizzly bear",
+          "display": "40 years"
+        }
+      ]
+    },
+    {
+      "category": "nature/animals",
+      "difficulty": 2,
+      "question": "Top 7 animals that kill the most humans per year, humans excluded (CNET estimates)",
+      "submitter": "claude",
+      "cutoff": 7,
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1375491537 | table 1 | name: Animal | value: CNET | header rows: 2 | where: Animal!~Human",
+      "tags": [
+        "nature",
+        "animals",
+        "dangerous"
+      ],
+      "answers": [
+        {
+          "answer": "Mosquitoes",
+          "display": "1,000,000 deaths a year",
+          "aliases": [
+            "mosquito"
+          ]
+        },
+        {
+          "answer": "Snakes",
+          "display": "50,000 deaths a year",
+          "aliases": [
+            "snake"
+          ]
+        },
+        {
+          "answer": "Dogs",
+          "display": "25,000 deaths a year",
+          "aliases": [
+            "dog"
+          ]
+        },
+        {
+          "answer": "Freshwater snails",
+          "display": "10,000 deaths a year",
+          "aliases": [
+            "snail"
+          ]
+        },
+        {
+          "answer": "Assassin bugs",
+          "display": "10,000 deaths a year",
+          "aliases": [
+            "assassin bug"
+          ]
+        },
+        {
+          "answer": "Tsetse flies",
+          "display": "10,000 deaths a year",
+          "aliases": [
+            "tsetse fly"
+          ]
+        },
+        {
+          "answer": "Scorpions",
+          "display": "3,250 deaths a year",
+          "aliases": [
+            "scorpion"
+          ]
+        },
+        {
+          "answer": "Ascaris roundworms",
+          "display": "2,500 deaths a year",
+          "aliases": [
+            "Ascaris"
+          ]
+        },
+        {
+          "answer": "Tapeworms",
+          "display": "2,000 deaths a year",
+          "aliases": [
+            "tapeworm"
+          ]
+        },
+        {
+          "answer": "Crocodiles",
+          "display": "1,000 deaths a year",
+          "aliases": [
+            "crocodile"
+          ]
+        }
+      ]
+    }
+  ]
+}

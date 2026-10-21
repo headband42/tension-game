@@ -17,8 +17,11 @@
 
   <div class="mt-16 max-w-md space-y-2 text-center text-sm text-gray-400">
     <p class="font-semibold text-gray-300">How to play</p>
-    <p>Each question has a ranked list. Name something in the top 10 and score its rank: #1 is worth 1, #10 is worth 10.</p>
-    <p>Too obscure and you hit the tension zone below the top 10 ({TENSION_PENALTY}). Not on the list at all: {MISS_PENALTY}.</p>
+    <p>Each question is a top 10. Name something on it and score its rank: #1 is worth 1, #10 is worth 10. The deeper you go, the more you score.</p>
+    <p>
+      But the answers lurking just below the list are TENSION answers ({TENSION_PENALTY}). Any other wrong answer costs
+      {MISS_PENALTY}, so missing by a little hurts more than missing by a lot.
+    </p>
     <p class="font-semibold text-gray-300">Use your DOUBLE wisely — it multiplies points ×{DOUBLE_MULTIPLIER}, good or bad.</p>
   </div>
 </div>

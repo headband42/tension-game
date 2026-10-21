@@ -1,0 +1,341 @@
+{
+  "categories": [
+    {
+      "path": "history/empires",
+      "name": "Empires"
+    },
+    {
+      "path": "history/empires/largest",
+      "name": "Largest Empires"
+    },
+    {
+      "path": "history/empires/dynasties",
+      "name": "Dynasties"
+    }
+  ],
+  "questions": [
+    {
+      "category": "history/empires/largest",
+      "question": "Top 9 largest empires by maximum land area (at their greatest extent, in km²)",
+      "cutoff": 9,
+      "difficulty": 1,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1378025361 | table 1 | name: Empire | value: km2",
+      "tags": [
+        "history",
+        "empires",
+        "land area"
+      ],
+      "answers": [
+        {
+          "answer": "British Empire",
+          "display": "35.5 million km²",
+          "aliases": [
+            "British"
+          ]
+        },
+        {
+          "answer": "Mongol Empire",
+          "display": "24.0 million km²",
+          "aliases": [
+            "Mongols",
+            "Mongol"
+          ]
+        },
+        {
+          "answer": "Russian Empire",
+          "display": "22.8 million km²",
+          "aliases": [
+            "Russia",
+            "Russian"
+          ]
+        },
+        {
+          "answer": "Qing dynasty",
+          "display": "14.7 million km²",
+          "aliases": [
+            "Qing"
+          ]
+        },
+        {
+          "answer": "Spanish Empire",
+          "display": "13.7 million km²",
+          "aliases": [
+            "Spain",
+            "Spanish"
+          ]
+        },
+        {
+          "answer": "Second French colonial empire",
+          "display": "11.5 million km²",
+          "aliases": [
+            "French colonial empire",
+            "French Empire"
+          ]
+        },
+        {
+          "answer": "Abbasid Caliphate",
+          "display": "11.1 million km²",
+          "aliases": [
+            "Abbasid"
+          ]
+        },
+        {
+          "answer": "Umayyad Caliphate",
+          "display": "11.1 million km²",
+          "aliases": [
+            "Umayyad"
+          ]
+        },
+        {
+          "answer": "Yuan dynasty",
+          "display": "11.0 million km²",
+          "aliases": [
+            "Yuan"
+          ]
+        },
+        {
+          "answer": "United States",
+          "display": "9.5 million km²",
+          "aliases": [
+            "USA",
+            "US"
+          ]
+        },
+        {
+          "answer": "Xiongnu Empire",
+          "display": "9.0 million km²",
+          "aliases": [
+            "Xiongnu"
+          ]
+        },
+        {
+          "answer": "Empire of Brazil",
+          "display": "8.337 million km²",
+          "aliases": [
+            "Brazil"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "history/empires/largest",
+      "question": "Top 7 empires by share of the world's population (percentage of all people alive, at the year cited for each)",
+      "cutoff": 7,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1378025361 | table 4 | name: Empire | value: Percentage",
+      "tags": [
+        "history",
+        "empires",
+        "population"
+      ],
+      "answers": [
+        {
+          "answer": "Qing dynasty",
+          "display": "37%",
+          "aliases": [
+            "Qing"
+          ]
+        },
+        {
+          "answer": "Northern Song dynasty",
+          "display": "33%",
+          "aliases": [
+            "Northern Song",
+            "Song dynasty"
+          ]
+        },
+        {
+          "answer": "Western Han dynasty",
+          "display": "32%",
+          "aliases": [
+            "Western Han",
+            "Former Han",
+            "Han dynasty",
+            "Han"
+          ]
+        },
+        {
+          "answer": "Mongol Empire",
+          "display": "31%",
+          "aliases": [
+            "Mongols",
+            "Mongol"
+          ]
+        },
+        {
+          "answer": "Roman Empire",
+          "display": "30%",
+          "aliases": [
+            "Rome"
+          ]
+        },
+        {
+          "answer": "Western Jin dynasty",
+          "display": "28%",
+          "aliases": [
+            "Jin dynasty",
+            "Western Jin"
+          ]
+        },
+        {
+          "answer": "Ming dynasty",
+          "display": "28%",
+          "aliases": [
+            "Ming"
+          ]
+        },
+        {
+          "answer": "Qin dynasty",
+          "display": "24%",
+          "aliases": [
+            "Qin"
+          ]
+        },
+        {
+          "answer": "Mughal Empire",
+          "display": "24%",
+          "aliases": [
+            "Mughals",
+            "Mughal"
+          ]
+        },
+        {
+          "answer": "Tang dynasty",
+          "display": "23%",
+          "aliases": [
+            "Tang"
+          ]
+        },
+        {
+          "answer": "Delhi Sultanate",
+          "display": "23%",
+          "aliases": [
+            "Delhi"
+          ]
+        },
+        {
+          "answer": "British Empire",
+          "display": "23%",
+          "aliases": [
+            "British"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "history/empires/dynasties",
+      "question": "Top 10 Chinese dynasties by length (years of rule; the semi-legendary Xia dynasty is excluded)",
+      "cutoff": 10,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1377818134 | table 1 | name: Dynasty / Name | value: Term | header rows: 2 | where: Surname~. | where: Dynasty / Name!~^Xia  | note: the Xia dynasty is listed as semi-legendary and excluded",
+      "tags": [
+        "history",
+        "china",
+        "dynasties"
+      ],
+      "answers": [
+        {
+          "answer": "Shang dynasty",
+          "display": "554 years",
+          "aliases": [
+            "Shang"
+          ]
+        },
+        {
+          "answer": "Eastern Zhou",
+          "display": "514 years",
+          "aliases": [
+            "Eastern Zhou dynasty"
+          ]
+        },
+        {
+          "answer": "Ming dynasty",
+          "display": "276 years",
+          "aliases": [
+            "Ming"
+          ]
+        },
+        {
+          "answer": "Qing dynasty",
+          "display": "276 years",
+          "aliases": [
+            "Qing"
+          ]
+        },
+        {
+          "answer": "Western Zhou",
+          "display": "275 years",
+          "aliases": [
+            "Western Zhou dynasty"
+          ]
+        },
+        {
+          "answer": "Tang dynasty",
+          "display": "274 years",
+          "aliases": [
+            "Tang"
+          ]
+        },
+        {
+          "answer": "Northern Yuan",
+          "display": "267 years",
+          "aliases": [
+            "Northern Yuan dynasty"
+          ]
+        },
+        {
+          "answer": "Western Han",
+          "display": "211 years",
+          "aliases": [
+            "Former Han"
+          ]
+        },
+        {
+          "answer": "Liao dynasty",
+          "display": "209 years",
+          "aliases": [
+            "Liao"
+          ]
+        },
+        {
+          "answer": "Eastern Han",
+          "display": "195 years",
+          "aliases": [
+            "Later Han"
+          ]
+        },
+        {
+          "answer": "Western Xia",
+          "display": "189 years",
+          "aliases": [
+            "Xi Xia"
+          ]
+        },
+        {
+          "answer": "Northern Song",
+          "display": "167 years",
+          "aliases": [
+            "Northern Song dynasty"
+          ]
+        },
+        {
+          "answer": "Southern Song",
+          "display": "152 years",
+          "aliases": [
+            "Southern Song dynasty"
+          ]
+        },
+        {
+          "answer": "Northern Wei",
+          "display": "149 years",
+          "aliases": [
+            "Northern Wei dynasty"
+          ]
+        }
+      ]
+    }
+  ]
+}

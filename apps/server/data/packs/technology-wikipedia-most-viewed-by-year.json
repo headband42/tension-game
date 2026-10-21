@@ -1,0 +1,1131 @@
+{
+  "categories": [
+    {
+      "path": "technology/internet",
+      "name": "Internet"
+    },
+    {
+      "path": "technology/internet/wikipedia",
+      "name": "Wikipedia"
+    }
+  ],
+  "questions": [
+    {
+      "category": "technology/internet/wikipedia",
+      "question": "Top 10 most-viewed English Wikipedia articles of 2014 (excluding the Main Page, special pages and bot traffic)",
+      "cutoff": 10,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1340985439 | table 1 | name: Article | value: Views | note: Wikipedia:2014 Top 50 Report; Wikipedia's annual Top 50 Report (Main Page, special pages and bots already excluded by the report)",
+      "tags": [
+        "technology",
+        "internet",
+        "wikipedia",
+        "views",
+        "2014"
+      ],
+      "answers": [
+        {
+          "answer": "Deaths in 2014",
+          "display": "20,967,890 views",
+          "aliases": [
+            "Deaths"
+          ]
+        },
+        {
+          "answer": "Facebook",
+          "display": "20,281,198 views"
+        },
+        {
+          "answer": "Amazon",
+          "display": "19,293,755 views",
+          "aliases": [
+            "Amazon.com"
+          ]
+        },
+        {
+          "answer": "Ebola virus disease",
+          "display": "18,585,050 views",
+          "aliases": [
+            "Ebola"
+          ]
+        },
+        {
+          "answer": "2014 FIFA World Cup",
+          "display": "15,659,069 views",
+          "aliases": [
+            "World Cup",
+            "World Cup 2014"
+          ]
+        },
+        {
+          "answer": "Game of Thrones",
+          "display": "14,473,769 views"
+        },
+        {
+          "answer": "Robin Williams",
+          "display": "12,883,344 views"
+        },
+        {
+          "answer": "United States",
+          "display": "12,797,361 views",
+          "aliases": [
+            "USA",
+            "US",
+            "America"
+          ]
+        },
+        {
+          "answer": "Bollywood films of 2014",
+          "display": "12,221,398 views",
+          "aliases": [
+            "Bollywood films",
+            "List of Bollywood films of 2014"
+          ]
+        },
+        {
+          "answer": "Thanksgiving",
+          "display": "11,195,226 views"
+        },
+        {
+          "answer": "2014 in film",
+          "display": "11,067,892 views"
+        },
+        {
+          "answer": "YouTube",
+          "display": "11,008,475 views"
+        },
+        {
+          "answer": "The Walking Dead",
+          "display": "10,083,875 views",
+          "aliases": [
+            "The Walking Dead (TV series)"
+          ]
+        },
+        {
+          "answer": "Frozen",
+          "display": "9,783,251 views",
+          "aliases": [
+            "Frozen (2013 film)"
+          ]
+        },
+        {
+          "answer": "Ariana Grande",
+          "display": "9,451,283 views"
+        }
+      ]
+    },
+    {
+      "category": "technology/internet/wikipedia",
+      "question": "Top 10 most-viewed English Wikipedia articles of 2015 (excluding the Main Page, special pages and bot traffic)",
+      "cutoff": 10,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1312303685 | table 1 | name: Article | value: Views | note: Wikipedia:2015 Top 50 Report; Wikipedia's annual Top 50 Report (Main Page, special pages and bots already excluded by the report)",
+      "tags": [
+        "technology",
+        "internet",
+        "wikipedia",
+        "views",
+        "2015"
+      ],
+      "answers": [
+        {
+          "answer": "Academy Awards",
+          "display": "66,400,994 views",
+          "aliases": [
+            "Oscars"
+          ]
+        },
+        {
+          "answer": "Deaths in 2015",
+          "display": "27,885,484 views",
+          "aliases": [
+            "Deaths"
+          ]
+        },
+        {
+          "answer": "Chris Kyle",
+          "display": "27,765,570 views"
+        },
+        {
+          "answer": "Star Wars: The Force Awakens",
+          "display": "23,523,985 views",
+          "aliases": [
+            "The Force Awakens"
+          ]
+        },
+        {
+          "answer": "Facebook",
+          "display": "22,330,302 views"
+        },
+        {
+          "answer": "Stephen Hawking",
+          "display": "20,060,944 views"
+        },
+        {
+          "answer": "Islamic State",
+          "display": "19,335,481 views",
+          "aliases": [
+            "ISIS",
+            "ISIL"
+          ]
+        },
+        {
+          "answer": "Bollywood films of 2015",
+          "display": "18,171,094 views",
+          "aliases": [
+            "Bollywood films",
+            "List of Bollywood films of 2015"
+          ]
+        },
+        {
+          "answer": "Avengers: Age of Ultron",
+          "display": "17,409,029 views",
+          "aliases": [
+            "Age of Ultron"
+          ]
+        },
+        {
+          "answer": "United States",
+          "display": "16,855,064 views",
+          "aliases": [
+            "USA",
+            "US",
+            "America"
+          ]
+        },
+        {
+          "answer": "Kanye West",
+          "display": "16,478,369 views",
+          "aliases": [
+            "Kanye"
+          ]
+        },
+        {
+          "answer": "Game of Thrones",
+          "display": "16,135,993 views"
+        },
+        {
+          "answer": "Star Wars",
+          "display": "15,580,814 views"
+        },
+        {
+          "answer": "Furious 7",
+          "display": "14,740,823 views"
+        },
+        {
+          "answer": "Jurassic World",
+          "display": "14,283,010 views"
+        }
+      ]
+    },
+    {
+      "category": "technology/internet/wikipedia",
+      "question": "Top 10 most-viewed English Wikipedia articles of 2016 (excluding the Main Page, special pages and bot traffic)",
+      "cutoff": 10,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1346331555 | table 1 | name: Article | value: Views | note: Wikipedia:2016 Top 50 Report; Wikipedia's annual Top 50 Report (Main Page, special pages and bots already excluded by the report)",
+      "tags": [
+        "technology",
+        "internet",
+        "wikipedia",
+        "views",
+        "2016"
+      ],
+      "answers": [
+        {
+          "answer": "Donald Trump",
+          "display": "75,965,727 views",
+          "aliases": [
+            "Trump"
+          ]
+        },
+        {
+          "answer": "Deaths in 2016",
+          "display": "35,911,398 views",
+          "aliases": [
+            "Deaths"
+          ]
+        },
+        {
+          "answer": "Prince",
+          "display": "22,793,889 views",
+          "aliases": [
+            "Prince (musician)"
+          ]
+        },
+        {
+          "answer": "United States presidential election, 2016",
+          "display": "22,063,171 views",
+          "aliases": [
+            "2016 presidential election",
+            "2016 United States presidential election"
+          ]
+        },
+        {
+          "answer": "Suicide Squad",
+          "display": "19,435,260 views",
+          "aliases": [
+            "Suicide Squad (film)"
+          ]
+        },
+        {
+          "answer": "Bollywood films of 2016",
+          "display": "19,285,100 views",
+          "aliases": [
+            "Bollywood films",
+            "List of Bollywood films of 2016"
+          ]
+        },
+        {
+          "answer": "David Bowie",
+          "display": "19,039,110 views"
+        },
+        {
+          "answer": "Melania Trump",
+          "display": "18,946,792 views",
+          "aliases": [
+            "Melania"
+          ]
+        },
+        {
+          "answer": "Captain America: Civil War",
+          "display": "18,693,046 views",
+          "aliases": [
+            "Civil War"
+          ]
+        },
+        {
+          "answer": "Batman v Superman: Dawn of Justice",
+          "display": "18,548,575 views",
+          "aliases": [
+            "Batman v Superman"
+          ]
+        },
+        {
+          "answer": "Hillary Clinton",
+          "display": "17,801,991 views",
+          "aliases": [
+            "Hillary"
+          ]
+        },
+        {
+          "answer": "Deadpool",
+          "display": "16,917,412 views",
+          "aliases": [
+            "Deadpool (film)"
+          ]
+        },
+        {
+          "answer": "Elizabeth II",
+          "display": "16,815,631 views",
+          "aliases": [
+            "Queen Elizabeth",
+            "Queen Elizabeth II"
+          ]
+        },
+        {
+          "answer": "United States",
+          "display": "16,513,889 views",
+          "aliases": [
+            "USA",
+            "US",
+            "America"
+          ]
+        },
+        {
+          "answer": "Muhammad Ali",
+          "display": "16,308,946 views",
+          "aliases": [
+            "Ali",
+            "Cassius Clay"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "technology/internet/wikipedia",
+      "question": "Top 10 most-viewed English Wikipedia articles of 2017 (excluding the Main Page, special pages and bot traffic)",
+      "cutoff": 10,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1356294536 | table 1 | name: Article | value: Views | note: Wikipedia:2017 Top 50 Report; Wikipedia's annual Top 50 Report (Main Page, special pages and bots already excluded by the report)",
+      "tags": [
+        "technology",
+        "internet",
+        "wikipedia",
+        "views",
+        "2017"
+      ],
+      "answers": [
+        {
+          "answer": "Deaths in 2017",
+          "display": "37,387,010 views",
+          "aliases": [
+            "Deaths"
+          ]
+        },
+        {
+          "answer": "Donald Trump",
+          "display": "29,644,764 views",
+          "aliases": [
+            "Trump"
+          ]
+        },
+        {
+          "answer": "Elizabeth II",
+          "display": "19,290,956 views",
+          "aliases": [
+            "Queen Elizabeth",
+            "Queen Elizabeth II"
+          ]
+        },
+        {
+          "answer": "Game of Thrones (season 7)",
+          "display": "18,792,746 views"
+        },
+        {
+          "answer": "Meghan Markle",
+          "display": "16,944,130 views",
+          "aliases": [
+            "Meghan"
+          ]
+        },
+        {
+          "answer": "Game of Thrones",
+          "display": "16,833,302 views"
+        },
+        {
+          "answer": "Bollywood films of 2017",
+          "display": "16,391,427 views",
+          "aliases": [
+            "Bollywood films",
+            "List of Bollywood films of 2017"
+          ]
+        },
+        {
+          "answer": "United States",
+          "display": "15,763,915 views",
+          "aliases": [
+            "USA",
+            "US",
+            "America"
+          ]
+        },
+        {
+          "answer": "Bitcoin",
+          "display": "15,026,561 views"
+        },
+        {
+          "answer": "13 Reasons Why",
+          "display": "14,934,202 views"
+        },
+        {
+          "answer": "Baahubali 2: The Conclusion",
+          "display": "14,607,282 views",
+          "aliases": [
+            "Baahubali 2"
+          ]
+        },
+        {
+          "answer": "It",
+          "display": "14,539,123 views",
+          "aliases": [
+            "It (2017 film)"
+          ]
+        },
+        {
+          "answer": "Queen Victoria",
+          "display": "14,164,451 views",
+          "aliases": [
+            "Victoria"
+          ]
+        },
+        {
+          "answer": "Highest-grossing Indian films",
+          "display": "14,091,348 views",
+          "aliases": [
+            "List of highest-grossing Indian films"
+          ]
+        },
+        {
+          "answer": "Gal Gadot",
+          "display": "14,034,958 views"
+        }
+      ]
+    },
+    {
+      "category": "technology/internet/wikipedia",
+      "question": "Top 10 most-viewed English Wikipedia articles of 2019 (excluding the Main Page, special pages and bot traffic)",
+      "cutoff": 10,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1376844645 | table 1 | name: Article | value: Views | note: Wikipedia:2019 Top 50 Report; Wikipedia's annual Top 50 Report (Main Page, special pages and bots already excluded by the report)",
+      "tags": [
+        "technology",
+        "internet",
+        "wikipedia",
+        "views",
+        "2019"
+      ],
+      "answers": [
+        {
+          "answer": "Avengers: Endgame",
+          "display": "44,242,407 views",
+          "aliases": [
+            "Endgame"
+          ]
+        },
+        {
+          "answer": "Deaths in 2019",
+          "display": "38,798,113 views",
+          "aliases": [
+            "Deaths"
+          ]
+        },
+        {
+          "answer": "Ted Bundy",
+          "display": "29,421,060 views"
+        },
+        {
+          "answer": "Freddie Mercury",
+          "display": "27,483,015 views"
+        },
+        {
+          "answer": "Chernobyl disaster",
+          "display": "25,572,040 views",
+          "aliases": [
+            "Chernobyl"
+          ]
+        },
+        {
+          "answer": "Highest-grossing films",
+          "display": "25,030,819 views",
+          "aliases": [
+            "List of highest-grossing films"
+          ]
+        },
+        {
+          "answer": "Joker",
+          "display": "23,016,664 views",
+          "aliases": [
+            "Joker (2019 film)"
+          ]
+        },
+        {
+          "answer": "Marvel Cinematic Universe films",
+          "display": "21,971,019 views",
+          "aliases": [
+            "List of Marvel Cinematic Universe films",
+            "MCU films"
+          ]
+        },
+        {
+          "answer": "Billie Eilish",
+          "display": "20,884,620 views"
+        },
+        {
+          "answer": "Keanu Reeves",
+          "display": "16,957,212 views",
+          "aliases": [
+            "Keanu"
+          ]
+        },
+        {
+          "answer": "Jeffrey Epstein",
+          "display": "16,187,407 views",
+          "aliases": [
+            "Epstein"
+          ]
+        },
+        {
+          "answer": "Elizabeth II",
+          "display": "16,005,542 views",
+          "aliases": [
+            "Queen Elizabeth",
+            "Queen Elizabeth II"
+          ]
+        },
+        {
+          "answer": "Captain Marvel",
+          "display": "15,788,305 views",
+          "aliases": [
+            "Captain Marvel (film)"
+          ]
+        },
+        {
+          "answer": "Game of Thrones (season 8)",
+          "display": "15,704,082 views"
+        },
+        {
+          "answer": "Game of Thrones",
+          "display": "15,466,781 views"
+        }
+      ]
+    },
+    {
+      "category": "technology/internet/wikipedia",
+      "question": "Top 10 most-viewed English Wikipedia articles of 2020 (excluding the Main Page, special pages and bot traffic)",
+      "cutoff": 10,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1347199693 | table 1 | name: Article | value: Views | note: Wikipedia:2020 Top 50 Report; Wikipedia's annual Top 50 Report (Main Page, special pages and bots already excluded by the report)",
+      "tags": [
+        "technology",
+        "internet",
+        "wikipedia",
+        "views",
+        "2020"
+      ],
+      "answers": [
+        {
+          "answer": "COVID-19 pandemic",
+          "display": "83,764,908 views",
+          "aliases": [
+            "the pandemic"
+          ]
+        },
+        {
+          "answer": "Donald Trump",
+          "display": "57,061,632 views",
+          "aliases": [
+            "Trump"
+          ]
+        },
+        {
+          "answer": "Deaths in 2020",
+          "display": "43,569,558 views",
+          "aliases": [
+            "Deaths"
+          ]
+        },
+        {
+          "answer": "Kamala Harris",
+          "display": "39,467,219 views",
+          "aliases": [
+            "Harris"
+          ]
+        },
+        {
+          "answer": "Joe Biden",
+          "display": "35,416,621 views",
+          "aliases": [
+            "Biden"
+          ]
+        },
+        {
+          "answer": "Coronavirus",
+          "display": "33,689,841 views"
+        },
+        {
+          "answer": "Kobe Bryant",
+          "display": "33,298,596 views",
+          "aliases": [
+            "Kobe"
+          ]
+        },
+        {
+          "answer": "COVID-19 pandemic by country and territory",
+          "display": "29,637,765 views"
+        },
+        {
+          "answer": "Elizabeth II",
+          "display": "26,481,926 views",
+          "aliases": [
+            "Queen Elizabeth",
+            "Queen Elizabeth II"
+          ]
+        },
+        {
+          "answer": "2020 United States presidential election",
+          "display": "25,765,871 views",
+          "aliases": [
+            "2020 presidential election"
+          ]
+        },
+        {
+          "answer": "Spanish flu",
+          "display": "23,018,236 views"
+        },
+        {
+          "answer": "Elon Musk",
+          "display": "22,517,107 views",
+          "aliases": [
+            "Musk"
+          ]
+        },
+        {
+          "answer": "United States presidential election, 2016",
+          "display": "21,860,377 views",
+          "aliases": [
+            "2016 presidential election",
+            "2016 United States presidential election"
+          ]
+        },
+        {
+          "answer": "Coronavirus disease 2019",
+          "display": "21,672,589 views"
+        },
+        {
+          "answer": "Michael Jordan",
+          "display": "21,278,718 views",
+          "aliases": [
+            "Jordan"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "technology/internet/wikipedia",
+      "question": "Top 10 most-viewed English Wikipedia articles of 2021 (excluding the Main Page, special pages and bot traffic)",
+      "cutoff": 10,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1331615666 | table 1 | name: Article | value: Views | note: Wikipedia:2021 Top 50 Report; Wikipedia's annual Top 50 Report (Main Page, special pages and bots already excluded by the report)",
+      "tags": [
+        "technology",
+        "internet",
+        "wikipedia",
+        "views",
+        "2021"
+      ],
+      "answers": [
+        {
+          "answer": "Deaths in 2021",
+          "display": "45,385,914 views",
+          "aliases": [
+            "Deaths"
+          ]
+        },
+        {
+          "answer": "Elizabeth II",
+          "display": "26,680,332 views",
+          "aliases": [
+            "Queen Elizabeth",
+            "Queen Elizabeth II"
+          ]
+        },
+        {
+          "answer": "Elon Musk",
+          "display": "25,569,324 views",
+          "aliases": [
+            "Musk"
+          ]
+        },
+        {
+          "answer": "Squid Game",
+          "display": "23,129,704 views"
+        },
+        {
+          "answer": "Spider-Man: No Way Home",
+          "display": "20,730,883 views",
+          "aliases": [
+            "No Way Home"
+          ]
+        },
+        {
+          "answer": "Cristiano Ronaldo",
+          "display": "19,563,673 views",
+          "aliases": [
+            "Ronaldo"
+          ]
+        },
+        {
+          "answer": "Prince Philip, Duke of Edinburgh",
+          "display": "18,985,364 views",
+          "aliases": [
+            "Prince Philip"
+          ]
+        },
+        {
+          "answer": "UEFA Euro 2020",
+          "display": "18,077,325 views",
+          "aliases": [
+            "Euro 2020"
+          ]
+        },
+        {
+          "answer": "Joe Biden",
+          "display": "17,661,839 views",
+          "aliases": [
+            "Biden"
+          ]
+        },
+        {
+          "answer": "Donald Trump",
+          "display": "17,069,058 views",
+          "aliases": [
+            "Trump"
+          ]
+        },
+        {
+          "answer": "United States",
+          "display": "16,838,160 views",
+          "aliases": [
+            "USA",
+            "US",
+            "America"
+          ]
+        },
+        {
+          "answer": "WandaVision",
+          "display": "16,738,895 views"
+        },
+        {
+          "answer": "2020 Summer Olympics",
+          "display": "15,012,232 views",
+          "aliases": [
+            "Tokyo Olympics"
+          ]
+        },
+        {
+          "answer": "Afghanistan",
+          "display": "14,093,839 views"
+        },
+        {
+          "answer": "Dune",
+          "display": "13,968,158 views",
+          "aliases": [
+            "Dune (2021 film)"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "technology/internet/wikipedia",
+      "question": "Top 10 most-viewed English Wikipedia articles of 2023 (excluding the Main Page, special pages and bot traffic)",
+      "cutoff": 10,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1377781055 | table 1 | name: Article | value: Views | note: Wikipedia:2023 Top 50 Report; Wikipedia's annual Top 50 Report (Main Page, special pages and bots already excluded by the report)",
+      "tags": [
+        "technology",
+        "internet",
+        "wikipedia",
+        "views",
+        "2023"
+      ],
+      "answers": [
+        {
+          "answer": "ChatGPT",
+          "display": "52,565,681 views"
+        },
+        {
+          "answer": "Deaths in 2023",
+          "display": "48,603,284 views",
+          "aliases": [
+            "Deaths"
+          ]
+        },
+        {
+          "answer": "2023 Cricket World Cup",
+          "display": "38,723,498 views"
+        },
+        {
+          "answer": "Oppenheimer (film)",
+          "display": "31,265,503 views",
+          "aliases": [
+            "Oppenheimer film",
+            "Oppenheimer movie"
+          ]
+        },
+        {
+          "answer": "J. Robert Oppenheimer",
+          "display": "28,681,943 views",
+          "aliases": [
+            "Robert Oppenheimer"
+          ]
+        },
+        {
+          "answer": "Cricket World Cup",
+          "display": "26,390,217 views"
+        },
+        {
+          "answer": "Jawan",
+          "display": "23,112,884 views",
+          "aliases": [
+            "Jawan (film)"
+          ]
+        },
+        {
+          "answer": "Taylor Swift",
+          "display": "22,179,656 views"
+        },
+        {
+          "answer": "The Last of Us",
+          "display": "21,000,722 views",
+          "aliases": [
+            "The Last of Us (TV series)"
+          ]
+        },
+        {
+          "answer": "Pathaan",
+          "display": "20,614,066 views",
+          "aliases": [
+            "Pathaan (film)"
+          ]
+        },
+        {
+          "answer": "Premier League",
+          "display": "19,968,486 views"
+        },
+        {
+          "answer": "Barbie",
+          "display": "19,930,916 views",
+          "aliases": [
+            "Barbie (film)"
+          ]
+        },
+        {
+          "answer": "Cristiano Ronaldo",
+          "display": "19,287,757 views",
+          "aliases": [
+            "Ronaldo"
+          ]
+        },
+        {
+          "answer": "The Idol",
+          "display": "19,186,512 views",
+          "aliases": [
+            "The Idol (TV series)"
+          ]
+        },
+        {
+          "answer": "United States",
+          "display": "18,135,421 views",
+          "aliases": [
+            "USA",
+            "US",
+            "America"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "technology/internet/wikipedia",
+      "question": "Top 10 most-viewed English Wikipedia articles of 2024 (excluding the Main Page, special pages and bot traffic)",
+      "cutoff": 10,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1364893323 | table 1 | name: Article | value: Views | note: Wikipedia:2024 Top 50 Report; Wikipedia's annual Top 50 Report (Main Page, special pages and bots already excluded by the report)",
+      "tags": [
+        "technology",
+        "internet",
+        "wikipedia",
+        "views",
+        "2024"
+      ],
+      "answers": [
+        {
+          "answer": "Deaths in 2024",
+          "display": "50,119,053 views",
+          "aliases": [
+            "Deaths"
+          ]
+        },
+        {
+          "answer": "2024 United States presidential election",
+          "display": "31,017,620 views",
+          "aliases": [
+            "2024 presidential election"
+          ]
+        },
+        {
+          "answer": "Kamala Harris",
+          "display": "29,477,367 views",
+          "aliases": [
+            "Harris"
+          ]
+        },
+        {
+          "answer": "Donald Trump",
+          "display": "27,503,458 views",
+          "aliases": [
+            "Trump"
+          ]
+        },
+        {
+          "answer": "Lyle and Erik Menendez",
+          "display": "27,015,032 views",
+          "aliases": [
+            "Menendez brothers"
+          ]
+        },
+        {
+          "answer": "JD Vance",
+          "display": "23,985,531 views",
+          "aliases": [
+            "Vance"
+          ]
+        },
+        {
+          "answer": "Deadpool & Wolverine",
+          "display": "23,388,922 views",
+          "aliases": [
+            "Deadpool and Wolverine"
+          ]
+        },
+        {
+          "answer": "Project 2025",
+          "display": "20,215,406 views"
+        },
+        {
+          "answer": "ChatGPT",
+          "display": "18,869,283 views"
+        },
+        {
+          "answer": "Elon Musk",
+          "display": "18,719,390 views",
+          "aliases": [
+            "Musk"
+          ]
+        },
+        {
+          "answer": "2024 Indian general election",
+          "display": "18,499,431 views"
+        },
+        {
+          "answer": "Taylor Swift",
+          "display": "18,338,133 views"
+        },
+        {
+          "answer": "2020 United States presidential election",
+          "display": "17,413,241 views",
+          "aliases": [
+            "2020 presidential election"
+          ]
+        },
+        {
+          "answer": "United States",
+          "display": "17,402,734 views",
+          "aliases": [
+            "USA",
+            "US",
+            "America"
+          ]
+        },
+        {
+          "answer": "2024 Summer Olympics",
+          "display": "16,258,961 views",
+          "aliases": [
+            "Paris Olympics"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "technology/internet/wikipedia",
+      "question": "Top 10 most-viewed English Wikipedia articles of 2025 (excluding the Main Page, special pages and bot traffic)",
+      "cutoff": 10,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1379291173 | table 1 | name: Article | value: Views | note: Wikipedia:2025 Top 50 Report; Wikipedia's annual Top 50 Report (Main Page, special pages and bots already excluded by the report)",
+      "tags": [
+        "technology",
+        "internet",
+        "wikipedia",
+        "views",
+        "2025"
+      ],
+      "answers": [
+        {
+          "answer": "Deaths in 2025",
+          "display": "49,670,489 views",
+          "aliases": [
+            "Deaths"
+          ]
+        },
+        {
+          "answer": "Charlie Kirk",
+          "display": "46,493,112 views"
+        },
+        {
+          "answer": "ChatGPT",
+          "display": "43,040,152 views"
+        },
+        {
+          "answer": "Ed Gein",
+          "display": "33,000,749 views"
+        },
+        {
+          "answer": "Donald Trump",
+          "display": "27,489,965 views",
+          "aliases": [
+            "Trump"
+          ]
+        },
+        {
+          "answer": "Pope Leo XIV",
+          "display": "22,884,665 views",
+          "aliases": [
+            "Leo XIV"
+          ]
+        },
+        {
+          "answer": "Zohran Mamdani",
+          "display": "21,805,460 views",
+          "aliases": [
+            "Mamdani"
+          ]
+        },
+        {
+          "answer": "Elon Musk",
+          "display": "21,462,898 views",
+          "aliases": [
+            "Musk"
+          ]
+        },
+        {
+          "answer": "Sinners",
+          "display": "19,072,494 views",
+          "aliases": [
+            "Sinners (2025 film)"
+          ]
+        },
+        {
+          "answer": "Ozzy Osbourne",
+          "display": "18,490,296 views",
+          "aliases": [
+            "Ozzy"
+          ]
+        },
+        {
+          "answer": "Superman",
+          "display": "17,703,390 views",
+          "aliases": [
+            "Superman (2025 film)"
+          ]
+        },
+        {
+          "answer": "Pope Francis",
+          "display": "15,610,627 views"
+        },
+        {
+          "answer": "Jeffrey Epstein",
+          "display": "15,214,143 views",
+          "aliases": [
+            "Epstein"
+          ]
+        },
+        {
+          "answer": "United States",
+          "display": "14,851,017 views",
+          "aliases": [
+            "USA",
+            "US",
+            "America"
+          ]
+        },
+        {
+          "answer": "Severance",
+          "display": "14,457,583 views",
+          "aliases": [
+            "Severance (TV series)"
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,183 @@
+{
+  "categories": [
+    {
+      "path": "architecture/buildings/skyscrapers/by-city",
+      "name": "Skylines"
+    }
+  ],
+  "questions": [
+    {
+      "category": "architecture/buildings/skyscrapers/by-city",
+      "question": "Top 10 tallest buildings in Chicago by height (as of October 2026)",
+      "difficulty": 1,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1376906461 | table 1 | name: Name | value: Height ft",
+      "tags": [
+        "architecture",
+        "buildings",
+        "skyscrapers",
+        "height",
+        "chicago"
+      ],
+      "answers": [
+        {
+          "answer": "Willis Tower",
+          "display": "1,451 ft (442 m) — 1974",
+          "aliases": [
+            "Sears Tower"
+          ]
+        },
+        {
+          "answer": "Trump International Hotel and Tower",
+          "display": "1,388 ft (423 m) — 2009",
+          "aliases": [
+            "Trump Tower Chicago",
+            "Trump Tower"
+          ]
+        },
+        {
+          "answer": "St. Regis Chicago",
+          "display": "1,198 ft (363 m) — 2020",
+          "aliases": [
+            "Wanda Vista Tower"
+          ]
+        },
+        {
+          "answer": "Aon Center",
+          "display": "1,136 ft (346 m) — 1973",
+          "aliases": [
+            "Standard Oil Building"
+          ]
+        },
+        {
+          "answer": "875 North Michigan Avenue",
+          "display": "1,127 ft (344 m) — 1969",
+          "aliases": [
+            "John Hancock Center",
+            "John Hancock"
+          ]
+        },
+        {
+          "answer": "Franklin Center",
+          "display": "1,007 ft (307 m) — 1989"
+        },
+        {
+          "answer": "Two Prudential Plaza",
+          "display": "995 ft (303 m) — 1990",
+          "aliases": [
+            "Prudential Plaza"
+          ]
+        },
+        {
+          "answer": "One Chicago East Tower",
+          "display": "973 ft (296 m) — 2022"
+        },
+        {
+          "answer": "311 South Wacker Drive",
+          "display": "961 ft (293 m) — 1990",
+          "aliases": [
+            "311 S Wacker"
+          ]
+        },
+        {
+          "answer": "NEMA Chicago",
+          "display": "896 ft (273 m) — 2019"
+        },
+        {
+          "answer": "900 North Michigan",
+          "display": "871 ft (266 m) — 1989"
+        },
+        {
+          "answer": "Chase Tower",
+          "display": "869 ft (264.8 m) — 1969"
+        },
+        {
+          "answer": "Water Tower Place",
+          "display": "859 ft (261.9 m) — 1976"
+        },
+        {
+          "answer": "Aqua",
+          "display": "859 ft (261.8 m) — 2009"
+        }
+      ]
+    },
+    {
+      "category": "architecture/buildings/skyscrapers/by-city",
+      "question": "Top 10 tallest buildings in Shanghai by height (as of October 2026)",
+      "difficulty": 1,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1379175680 | table 1 | name: Name | value: Height / m | header rows: 2",
+      "tags": [
+        "architecture",
+        "buildings",
+        "skyscrapers",
+        "height",
+        "shanghai"
+      ],
+      "answers": [
+        {
+          "answer": "Shanghai Tower",
+          "display": "632 m (2,073 ft) — 2015"
+        },
+        {
+          "answer": "Shanghai World Financial Center",
+          "display": "492 m (1,614 ft) — 2008",
+          "aliases": [
+            "SWFC",
+            "World Financial Center"
+          ]
+        },
+        {
+          "answer": "Jin Mao Tower",
+          "display": "421 m (1,380 ft) — 1999",
+          "aliases": [
+            "Jin Mao Building"
+          ]
+        },
+        {
+          "answer": "Xujiahui Center Tower 1",
+          "display": "370 m (1,214 ft) — 2025"
+        },
+        {
+          "answer": "Shimao International Plaza",
+          "display": "333 m (1,094 ft) — 2006"
+        },
+        {
+          "answer": "Sinar Mas Center",
+          "display": "320 m (1,050 ft) — 2017"
+        },
+        {
+          "answer": "Zhangjiagang Science Gate Tower 1",
+          "display": "320 m (1,049 ft) — 2024"
+        },
+        {
+          "answer": "Zhangjiagang Science Gate Tower 2",
+          "display": "320 m (1,049 ft) — 2024"
+        },
+        {
+          "answer": "Plaza 66",
+          "display": "288 m (945 ft) — 2001",
+          "aliases": [
+            "Plaza 66 Tower 1"
+          ]
+        },
+        {
+          "answer": "Lumina Shanghai",
+          "display": "286 m (935 ft) — 2021"
+        },
+        {
+          "answer": "Zhenru Center",
+          "display": "285 m (935 ft) — 2023"
+        },
+        {
+          "answer": "Axiom One",
+          "display": "285 m (935 ft) — 2023"
+        },
+        {
+          "answer": "Tomorrow Square",
+          "display": "285 m (934 ft) — 2003"
+        }
+      ]
+    }
+  ]
+}

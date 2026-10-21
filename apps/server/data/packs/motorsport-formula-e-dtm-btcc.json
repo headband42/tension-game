@@ -1,0 +1,7908 @@
+{
+  "categories": [
+    {
+      "path": "sports/motorsport/formula-e",
+      "name": "Formula E"
+    },
+    {
+      "path": "sports/motorsport/dtm",
+      "name": "DTM"
+    },
+    {
+      "path": "sports/motorsport/btcc",
+      "name": "BTCC"
+    }
+  ],
+  "questions": [
+    {
+      "category": "sports/motorsport/formula-e",
+      "question": "Top 10 drivers in the final 2014–15 Formula E Championship standings",
+      "cutoff": 10,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1377214487 | table 5 | name: Driver | value: Pos | order: asc",
+      "tags": [
+        "motorsport",
+        "formula-e",
+        "drivers-championship",
+        "2014"
+      ],
+      "answers": [
+        {
+          "answer": "Nelson Piquet Jr.",
+          "display": "#1 — 144 pts",
+          "aliases": [
+            "Piquet",
+            "Nelson Piquet"
+          ]
+        },
+        {
+          "answer": "Sébastien Buemi",
+          "display": "#2 — 143 pts",
+          "aliases": [
+            "Sebastien Buemi",
+            "Buemi"
+          ]
+        },
+        {
+          "answer": "Lucas di Grassi",
+          "display": "#3 — 133 pts",
+          "aliases": [
+            "di Grassi"
+          ]
+        },
+        {
+          "answer": "Jérôme d'Ambrosio",
+          "display": "#4 — 113 pts",
+          "aliases": [
+            "d'Ambrosio",
+            "Jerome d'Ambrosio"
+          ]
+        },
+        {
+          "answer": "Sam Bird",
+          "display": "#5 — 103 pts",
+          "aliases": [
+            "Bird"
+          ]
+        },
+        {
+          "answer": "Nicolas Prost",
+          "display": "#6 — 88 pts",
+          "aliases": [
+            "Nico Prost",
+            "Prost"
+          ]
+        },
+        {
+          "answer": "Jean-Éric Vergne",
+          "display": "#7 — 70 pts",
+          "aliases": [
+            "Jean-Eric Vergne",
+            "JEV",
+            "Vergne"
+          ]
+        },
+        {
+          "answer": "António Félix da Costa",
+          "display": "#8 — 51 pts",
+          "aliases": [
+            "da Costa",
+            "Antonio Felix da Costa"
+          ]
+        },
+        {
+          "answer": "Loïc Duval",
+          "display": "#9 — 42 pts",
+          "aliases": [
+            "Duval",
+            "Loic Duval"
+          ]
+        },
+        {
+          "answer": "Bruno Senna",
+          "display": "#10 — 40 pts",
+          "aliases": [
+            "Senna"
+          ]
+        },
+        {
+          "answer": "Daniel Abt",
+          "display": "#11 — 32 pts",
+          "aliases": [
+            "Abt"
+          ]
+        },
+        {
+          "answer": "Nick Heidfeld",
+          "display": "#12 — 31 pts",
+          "aliases": [
+            "Heidfeld"
+          ]
+        },
+        {
+          "answer": "Jaime Alguersuari",
+          "display": "#13 — 30 pts",
+          "aliases": [
+            "Alguersuari"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/motorsport/formula-e",
+      "question": "Top 10 drivers in the final 2015–16 Formula E Championship standings",
+      "cutoff": 10,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1372991729 | table 5 | name: Driver | value: Pos | order: asc",
+      "tags": [
+        "motorsport",
+        "formula-e",
+        "drivers-championship",
+        "2015"
+      ],
+      "answers": [
+        {
+          "answer": "Sébastien Buemi",
+          "display": "#1 — 155 pts",
+          "aliases": [
+            "Sebastien Buemi",
+            "Buemi"
+          ]
+        },
+        {
+          "answer": "Lucas di Grassi",
+          "display": "#2 — 153 pts",
+          "aliases": [
+            "di Grassi"
+          ]
+        },
+        {
+          "answer": "Nicolas Prost",
+          "display": "#3 — 115 pts",
+          "aliases": [
+            "Nico Prost",
+            "Prost"
+          ]
+        },
+        {
+          "answer": "Sam Bird",
+          "display": "#4 — 88 pts",
+          "aliases": [
+            "Bird"
+          ]
+        },
+        {
+          "answer": "Jérôme d'Ambrosio",
+          "display": "#5 — 83 pts",
+          "aliases": [
+            "d'Ambrosio",
+            "Jerome d'Ambrosio"
+          ]
+        },
+        {
+          "answer": "Stéphane Sarrazin",
+          "display": "#6 — 70 pts",
+          "aliases": [
+            "Sarrazin",
+            "Stephane Sarrazin"
+          ]
+        },
+        {
+          "answer": "Daniel Abt",
+          "display": "#7 — 68 pts",
+          "aliases": [
+            "Abt"
+          ]
+        },
+        {
+          "answer": "Loïc Duval",
+          "display": "#8 — 60 pts",
+          "aliases": [
+            "Duval",
+            "Loic Duval"
+          ]
+        },
+        {
+          "answer": "Jean-Éric Vergne",
+          "display": "#9 — 56 pts",
+          "aliases": [
+            "Jean-Eric Vergne",
+            "JEV",
+            "Vergne"
+          ]
+        },
+        {
+          "answer": "Nick Heidfeld",
+          "display": "#10 — 53 pts",
+          "aliases": [
+            "Heidfeld"
+          ]
+        },
+        {
+          "answer": "Bruno Senna",
+          "display": "#11 — 52 pts",
+          "aliases": [
+            "Senna"
+          ]
+        },
+        {
+          "answer": "Robin Frijns",
+          "display": "#12 — 45 pts",
+          "aliases": [
+            "Frijns"
+          ]
+        },
+        {
+          "answer": "António Félix da Costa",
+          "display": "#13 — 28 pts",
+          "aliases": [
+            "da Costa",
+            "Antonio Felix da Costa"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/motorsport/formula-e",
+      "question": "Top 10 drivers in the final 2016–17 Formula E Championship standings",
+      "cutoff": 10,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1355635169 | table 5 | name: Driver | value: Pos | order: asc",
+      "tags": [
+        "motorsport",
+        "formula-e",
+        "drivers-championship",
+        "2016"
+      ],
+      "answers": [
+        {
+          "answer": "Lucas di Grassi",
+          "display": "#1 — 181 pts",
+          "aliases": [
+            "di Grassi"
+          ]
+        },
+        {
+          "answer": "Sébastien Buemi",
+          "display": "#2 — 157 pts",
+          "aliases": [
+            "Sebastien Buemi",
+            "Buemi"
+          ]
+        },
+        {
+          "answer": "Felix Rosenqvist",
+          "display": "#3 — 127 pts",
+          "aliases": [
+            "Rosenqvist"
+          ]
+        },
+        {
+          "answer": "Sam Bird",
+          "display": "#4 — 122 pts",
+          "aliases": [
+            "Bird"
+          ]
+        },
+        {
+          "answer": "Jean-Éric Vergne",
+          "display": "#5 — 117 pts",
+          "aliases": [
+            "Jean-Eric Vergne",
+            "JEV",
+            "Vergne"
+          ]
+        },
+        {
+          "answer": "Nicolas Prost",
+          "display": "#6 — 93 pts",
+          "aliases": [
+            "Nico Prost",
+            "Prost"
+          ]
+        },
+        {
+          "answer": "Nick Heidfeld",
+          "display": "#7 — 88 pts",
+          "aliases": [
+            "Heidfeld"
+          ]
+        },
+        {
+          "answer": "Daniel Abt",
+          "display": "#8 — 67 pts",
+          "aliases": [
+            "Abt"
+          ]
+        },
+        {
+          "answer": "José María López",
+          "display": "#9 — 65 pts",
+          "aliases": [
+            "López",
+            "Jose Maria Lopez",
+            "Lopez"
+          ]
+        },
+        {
+          "answer": "Stéphane Sarrazin",
+          "display": "#10 — 36 pts",
+          "aliases": [
+            "Sarrazin",
+            "Stephane Sarrazin"
+          ]
+        },
+        {
+          "answer": "Nelson Piquet Jr.",
+          "display": "#11 — 33 pts",
+          "aliases": [
+            "Piquet",
+            "Nelson Piquet"
+          ]
+        },
+        {
+          "answer": "Oliver Turvey",
+          "display": "#12 — 26 pts",
+          "aliases": [
+            "Turvey"
+          ]
+        },
+        {
+          "answer": "Robin Frijns",
+          "display": "#13 — 24 pts",
+          "aliases": [
+            "Frijns"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/motorsport/formula-e",
+      "question": "Top 10 drivers in the final 2017–18 Formula E Championship standings",
+      "cutoff": 10,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1374010396 | table 5 | name: Driver | value: Pos | order: asc",
+      "tags": [
+        "motorsport",
+        "formula-e",
+        "drivers-championship",
+        "2017"
+      ],
+      "answers": [
+        {
+          "answer": "Jean-Éric Vergne",
+          "display": "#1 — 198 pts",
+          "aliases": [
+            "Jean-Eric Vergne",
+            "JEV",
+            "Vergne"
+          ]
+        },
+        {
+          "answer": "Lucas di Grassi",
+          "display": "#2 — 144 pts",
+          "aliases": [
+            "di Grassi"
+          ]
+        },
+        {
+          "answer": "Sam Bird",
+          "display": "#3 — 143 pts",
+          "aliases": [
+            "Bird"
+          ]
+        },
+        {
+          "answer": "Sébastien Buemi",
+          "display": "#4 — 125 pts",
+          "aliases": [
+            "Sebastien Buemi",
+            "Buemi"
+          ]
+        },
+        {
+          "answer": "Daniel Abt",
+          "display": "#5 — 120 pts",
+          "aliases": [
+            "Abt"
+          ]
+        },
+        {
+          "answer": "Felix Rosenqvist",
+          "display": "#6 — 96 pts",
+          "aliases": [
+            "Rosenqvist"
+          ]
+        },
+        {
+          "answer": "Mitch Evans",
+          "display": "#7 — 68 pts",
+          "aliases": [
+            "Evans"
+          ]
+        },
+        {
+          "answer": "André Lotterer",
+          "display": "#8 — 64 pts",
+          "aliases": [
+            "Lotterer",
+            "Andre Lotterer"
+          ]
+        },
+        {
+          "answer": "Nelson Piquet Jr.",
+          "display": "#9 — 51 pts",
+          "aliases": [
+            "Piquet",
+            "Nelson Piquet"
+          ]
+        },
+        {
+          "answer": "Oliver Turvey",
+          "display": "#10 — 46 pts",
+          "aliases": [
+            "Turvey"
+          ]
+        },
+        {
+          "answer": "Nick Heidfeld",
+          "display": "#11 — 42 pts",
+          "aliases": [
+            "Heidfeld"
+          ]
+        },
+        {
+          "answer": "Maro Engel",
+          "display": "#12 — 31 pts",
+          "aliases": [
+            "Engel"
+          ]
+        },
+        {
+          "answer": "Edoardo Mortara",
+          "display": "#13 — 29 pts",
+          "aliases": [
+            "Mortara"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/motorsport/formula-e",
+      "question": "Top 10 drivers in the final 2018–19 Formula E Championship standings",
+      "cutoff": 10,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1374492753 | table 5 | name: Driver | value: Pos | order: asc",
+      "tags": [
+        "motorsport",
+        "formula-e",
+        "drivers-championship",
+        "2018"
+      ],
+      "answers": [
+        {
+          "answer": "Jean-Éric Vergne",
+          "display": "#1 — 136 pts",
+          "aliases": [
+            "Jean-Eric Vergne",
+            "JEV",
+            "Vergne"
+          ]
+        },
+        {
+          "answer": "Sébastien Buemi",
+          "display": "#2 — 119 pts",
+          "aliases": [
+            "Sebastien Buemi",
+            "Buemi"
+          ]
+        },
+        {
+          "answer": "Lucas di Grassi",
+          "display": "#3 — 108 pts",
+          "aliases": [
+            "di Grassi"
+          ]
+        },
+        {
+          "answer": "Robin Frijns",
+          "display": "#4 — 106 pts",
+          "aliases": [
+            "Frijns"
+          ]
+        },
+        {
+          "answer": "Mitch Evans",
+          "display": "#5 — 105 pts",
+          "aliases": [
+            "Evans"
+          ]
+        },
+        {
+          "answer": "António Félix da Costa",
+          "display": "#6 — 99 pts",
+          "aliases": [
+            "da Costa",
+            "Antonio Felix da Costa"
+          ]
+        },
+        {
+          "answer": "Daniel Abt",
+          "display": "#7 — 95 pts",
+          "aliases": [
+            "Abt"
+          ]
+        },
+        {
+          "answer": "André Lotterer",
+          "display": "#8 — 86 pts",
+          "aliases": [
+            "Lotterer",
+            "Andre Lotterer"
+          ]
+        },
+        {
+          "answer": "Sam Bird",
+          "display": "#9 — 85 pts",
+          "aliases": [
+            "Bird"
+          ]
+        },
+        {
+          "answer": "Oliver Rowland",
+          "display": "#10 — 71 pts",
+          "aliases": [
+            "Rowland"
+          ]
+        },
+        {
+          "answer": "Jérôme d'Ambrosio",
+          "display": "#11 — 67 pts",
+          "aliases": [
+            "d'Ambrosio",
+            "Jerome d'Ambrosio"
+          ]
+        },
+        {
+          "answer": "Pascal Wehrlein",
+          "display": "#12 — 58 pts",
+          "aliases": [
+            "Wehrlein"
+          ]
+        },
+        {
+          "answer": "Alexander Sims",
+          "display": "#13 — 57 pts",
+          "aliases": [
+            "Sims"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/motorsport/formula-e",
+      "question": "Top 10 drivers in the final 2019–20 Formula E Championship standings",
+      "cutoff": 10,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1375289289 | table 5 | name: Driver | value: Pos | order: asc",
+      "tags": [
+        "motorsport",
+        "formula-e",
+        "drivers-championship",
+        "2019"
+      ],
+      "answers": [
+        {
+          "answer": "António Félix da Costa",
+          "display": "#1 — 158 pts",
+          "aliases": [
+            "da Costa",
+            "Antonio Felix da Costa"
+          ]
+        },
+        {
+          "answer": "Stoffel Vandoorne",
+          "display": "#2 — 87 pts",
+          "aliases": [
+            "Vandoorne"
+          ]
+        },
+        {
+          "answer": "Jean-Éric Vergne",
+          "display": "#3 — 86 pts",
+          "aliases": [
+            "Jean-Eric Vergne",
+            "JEV",
+            "Vergne"
+          ]
+        },
+        {
+          "answer": "Sébastien Buemi",
+          "display": "#4 — 84 pts",
+          "aliases": [
+            "Sebastien Buemi",
+            "Buemi"
+          ]
+        },
+        {
+          "answer": "Oliver Rowland",
+          "display": "#5 — 83 pts",
+          "aliases": [
+            "Rowland"
+          ]
+        },
+        {
+          "answer": "Lucas di Grassi",
+          "display": "#6 — 77 pts",
+          "aliases": [
+            "di Grassi"
+          ]
+        },
+        {
+          "answer": "Mitch Evans",
+          "display": "#7 — 71 pts",
+          "aliases": [
+            "Evans"
+          ]
+        },
+        {
+          "answer": "André Lotterer",
+          "display": "#8 — 71 pts",
+          "aliases": [
+            "Lotterer",
+            "Andre Lotterer"
+          ]
+        },
+        {
+          "answer": "Maximilian Günther",
+          "display": "#9 — 69 pts",
+          "aliases": [
+            "Günther",
+            "Maximilian Gunther",
+            "Gunther"
+          ]
+        },
+        {
+          "answer": "Sam Bird",
+          "display": "#10 — 63 pts",
+          "aliases": [
+            "Bird"
+          ]
+        },
+        {
+          "answer": "Nyck de Vries",
+          "display": "#11 — 60 pts",
+          "aliases": [
+            "de Vries"
+          ]
+        },
+        {
+          "answer": "Robin Frijns",
+          "display": "#12 — 58 pts",
+          "aliases": [
+            "Frijns"
+          ]
+        },
+        {
+          "answer": "Alexander Sims",
+          "display": "#13 — 49 pts",
+          "aliases": [
+            "Sims"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/motorsport/formula-e",
+      "question": "Top 10 drivers in the final 2020–21 Formula E World Championship standings",
+      "cutoff": 10,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1360296212 | table 5 | name: Driver | value: Pos | order: asc",
+      "tags": [
+        "motorsport",
+        "formula-e",
+        "drivers-championship",
+        "2020"
+      ],
+      "answers": [
+        {
+          "answer": "Nyck de Vries",
+          "display": "#1 — 99 pts",
+          "aliases": [
+            "de Vries"
+          ]
+        },
+        {
+          "answer": "Edoardo Mortara",
+          "display": "#2 — 92 pts",
+          "aliases": [
+            "Mortara"
+          ]
+        },
+        {
+          "answer": "Jake Dennis",
+          "display": "#3 — 91 pts",
+          "aliases": [
+            "Dennis"
+          ]
+        },
+        {
+          "answer": "Mitch Evans",
+          "display": "#4 — 90 pts",
+          "aliases": [
+            "Evans"
+          ]
+        },
+        {
+          "answer": "Robin Frijns",
+          "display": "#5 — 89 pts",
+          "aliases": [
+            "Frijns"
+          ]
+        },
+        {
+          "answer": "Sam Bird",
+          "display": "#6 — 87 pts",
+          "aliases": [
+            "Bird"
+          ]
+        },
+        {
+          "answer": "Lucas di Grassi",
+          "display": "#7 — 87 pts",
+          "aliases": [
+            "di Grassi"
+          ]
+        },
+        {
+          "answer": "António Félix da Costa",
+          "display": "#8 — 86 pts",
+          "aliases": [
+            "da Costa",
+            "Antonio Felix da Costa"
+          ]
+        },
+        {
+          "answer": "Stoffel Vandoorne",
+          "display": "#9 — 82 pts",
+          "aliases": [
+            "Vandoorne"
+          ]
+        },
+        {
+          "answer": "Jean-Éric Vergne",
+          "display": "#10 — 80 pts",
+          "aliases": [
+            "Jean-Eric Vergne",
+            "JEV",
+            "Vergne"
+          ]
+        },
+        {
+          "answer": "Pascal Wehrlein",
+          "display": "#11 — 79 pts",
+          "aliases": [
+            "Wehrlein"
+          ]
+        },
+        {
+          "answer": "Alex Lynn",
+          "display": "#12 — 78 pts",
+          "aliases": [
+            "Lynn"
+          ]
+        },
+        {
+          "answer": "René Rast",
+          "display": "#13 — 78 pts",
+          "aliases": [
+            "Rast",
+            "Rene Rast"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/motorsport/formula-e",
+      "question": "Top 10 drivers in the final 2021–22 Formula E World Championship standings",
+      "cutoff": 10,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1363568305 | table 5 | name: Driver | value: Pos | order: asc",
+      "tags": [
+        "motorsport",
+        "formula-e",
+        "drivers-championship",
+        "2021"
+      ],
+      "answers": [
+        {
+          "answer": "Stoffel Vandoorne",
+          "display": "#1 — 213 pts",
+          "aliases": [
+            "Vandoorne"
+          ]
+        },
+        {
+          "answer": "Mitch Evans",
+          "display": "#2 — 180 pts",
+          "aliases": [
+            "Evans"
+          ]
+        },
+        {
+          "answer": "Edoardo Mortara",
+          "display": "#3 — 169 pts",
+          "aliases": [
+            "Mortara"
+          ]
+        },
+        {
+          "answer": "Jean-Éric Vergne",
+          "display": "#4 — 144 pts",
+          "aliases": [
+            "Jean-Eric Vergne",
+            "JEV",
+            "Vergne"
+          ]
+        },
+        {
+          "answer": "Lucas di Grassi",
+          "display": "#5 — 126 pts",
+          "aliases": [
+            "di Grassi"
+          ]
+        },
+        {
+          "answer": "Jake Dennis",
+          "display": "#6 — 126 pts",
+          "aliases": [
+            "Dennis"
+          ]
+        },
+        {
+          "answer": "Robin Frijns",
+          "display": "#7 — 126 pts",
+          "aliases": [
+            "Frijns"
+          ]
+        },
+        {
+          "answer": "António Félix da Costa",
+          "display": "#8 — 122 pts",
+          "aliases": [
+            "da Costa",
+            "Antonio Felix da Costa"
+          ]
+        },
+        {
+          "answer": "Nyck de Vries",
+          "display": "#9 — 106 pts",
+          "aliases": [
+            "de Vries"
+          ]
+        },
+        {
+          "answer": "Pascal Wehrlein",
+          "display": "#10 — 71 pts",
+          "aliases": [
+            "Wehrlein"
+          ]
+        },
+        {
+          "answer": "Nick Cassidy",
+          "display": "#11 — 68 pts",
+          "aliases": [
+            "Cassidy"
+          ]
+        },
+        {
+          "answer": "André Lotterer",
+          "display": "#12 — 63 pts",
+          "aliases": [
+            "Lotterer",
+            "Andre Lotterer"
+          ]
+        },
+        {
+          "answer": "Sam Bird",
+          "display": "#13 — 51 pts",
+          "aliases": [
+            "Bird"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/motorsport/formula-e",
+      "question": "Top 10 drivers in the final 2022–23 Formula E World Championship standings",
+      "cutoff": 10,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1341551594 | table 5 | name: Driver | value: Pos | order: asc",
+      "tags": [
+        "motorsport",
+        "formula-e",
+        "drivers-championship",
+        "2022"
+      ],
+      "answers": [
+        {
+          "answer": "Jake Dennis",
+          "display": "#1 — 229 pts",
+          "aliases": [
+            "Dennis"
+          ]
+        },
+        {
+          "answer": "Nick Cassidy",
+          "display": "#2 — 199 pts",
+          "aliases": [
+            "Cassidy"
+          ]
+        },
+        {
+          "answer": "Mitch Evans",
+          "display": "#3 — 197 pts",
+          "aliases": [
+            "Evans"
+          ]
+        },
+        {
+          "answer": "Pascal Wehrlein",
+          "display": "#4 — 149 pts",
+          "aliases": [
+            "Wehrlein"
+          ]
+        },
+        {
+          "answer": "Jean-Éric Vergne",
+          "display": "#5 — 107 pts",
+          "aliases": [
+            "Jean-Eric Vergne",
+            "JEV",
+            "Vergne"
+          ]
+        },
+        {
+          "answer": "Sébastien Buemi",
+          "display": "#6 — 105 pts",
+          "aliases": [
+            "Sebastien Buemi",
+            "Buemi"
+          ]
+        },
+        {
+          "answer": "Maximilian Günther",
+          "display": "#7 — 101 pts",
+          "aliases": [
+            "Günther",
+            "Maximilian Gunther",
+            "Gunther"
+          ]
+        },
+        {
+          "answer": "Sam Bird",
+          "display": "#8 — 95 pts",
+          "aliases": [
+            "Bird"
+          ]
+        },
+        {
+          "answer": "António Félix da Costa",
+          "display": "#9 — 93 pts",
+          "aliases": [
+            "da Costa",
+            "Antonio Felix da Costa"
+          ]
+        },
+        {
+          "answer": "Norman Nato",
+          "display": "#10 — 63 pts",
+          "aliases": [
+            "Nato"
+          ]
+        },
+        {
+          "answer": "Stoffel Vandoorne",
+          "display": "#11 — 56 pts",
+          "aliases": [
+            "Vandoorne"
+          ]
+        },
+        {
+          "answer": "Jake Hughes",
+          "display": "#12 — 48 pts",
+          "aliases": [
+            "Hughes"
+          ]
+        },
+        {
+          "answer": "René Rast",
+          "display": "#13 — 40 pts",
+          "aliases": [
+            "Rast",
+            "Rene Rast"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/motorsport/formula-e",
+      "question": "Top 10 drivers in the final 2023–24 Formula E World Championship standings",
+      "cutoff": 10,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1357304466 | table 5 | name: Driver | value: Pos | order: asc",
+      "tags": [
+        "motorsport",
+        "formula-e",
+        "drivers-championship",
+        "2023"
+      ],
+      "answers": [
+        {
+          "answer": "Pascal Wehrlein",
+          "display": "#1 — 198 pts",
+          "aliases": [
+            "Wehrlein"
+          ]
+        },
+        {
+          "answer": "Mitch Evans",
+          "display": "#2 — 192 pts",
+          "aliases": [
+            "Evans"
+          ]
+        },
+        {
+          "answer": "Nick Cassidy",
+          "display": "#3 — 176 pts",
+          "aliases": [
+            "Cassidy"
+          ]
+        },
+        {
+          "answer": "Oliver Rowland",
+          "display": "#4 — 156 pts",
+          "aliases": [
+            "Rowland"
+          ]
+        },
+        {
+          "answer": "Jean-Éric Vergne",
+          "display": "#5 — 139 pts",
+          "aliases": [
+            "Jean-Eric Vergne",
+            "JEV",
+            "Vergne"
+          ]
+        },
+        {
+          "answer": "António Félix da Costa",
+          "display": "#6 — 134 pts",
+          "aliases": [
+            "da Costa",
+            "Antonio Felix da Costa"
+          ]
+        },
+        {
+          "answer": "Jake Dennis",
+          "display": "#7 — 122 pts",
+          "aliases": [
+            "Dennis"
+          ]
+        },
+        {
+          "answer": "Maximilian Günther",
+          "display": "#8 — 73 pts",
+          "aliases": [
+            "Günther",
+            "Maximilian Gunther",
+            "Gunther"
+          ]
+        },
+        {
+          "answer": "Robin Frijns",
+          "display": "#9 — 66 pts",
+          "aliases": [
+            "Frijns"
+          ]
+        },
+        {
+          "answer": "Stoffel Vandoorne",
+          "display": "#10 — 61 pts",
+          "aliases": [
+            "Vandoorne"
+          ]
+        },
+        {
+          "answer": "Sébastien Buemi",
+          "display": "#11 — 53 pts",
+          "aliases": [
+            "Sebastien Buemi",
+            "Buemi"
+          ]
+        },
+        {
+          "answer": "Nico Müller",
+          "display": "#12 — 52 pts",
+          "aliases": [
+            "Müller",
+            "Nico Muller",
+            "Muller"
+          ]
+        },
+        {
+          "answer": "Sam Bird",
+          "display": "#13 — 48 pts",
+          "aliases": [
+            "Bird"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/motorsport/formula-e",
+      "question": "Top 10 drivers in the final 2024–25 Formula E World Championship standings",
+      "cutoff": 10,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1378065246 | table 5 | name: Driver | value: Pos | order: asc",
+      "tags": [
+        "motorsport",
+        "formula-e",
+        "drivers-championship",
+        "2024"
+      ],
+      "answers": [
+        {
+          "answer": "Oliver Rowland",
+          "display": "#1 — 184 pts",
+          "aliases": [
+            "Rowland"
+          ]
+        },
+        {
+          "answer": "Nick Cassidy",
+          "display": "#2 — 153 pts",
+          "aliases": [
+            "Cassidy"
+          ]
+        },
+        {
+          "answer": "Pascal Wehrlein",
+          "display": "#3 — 145 pts",
+          "aliases": [
+            "Wehrlein"
+          ]
+        },
+        {
+          "answer": "Taylor Barnard",
+          "display": "#4 — 112 pts",
+          "aliases": [
+            "Barnard"
+          ]
+        },
+        {
+          "answer": "António Félix da Costa",
+          "display": "#5 — 111 pts",
+          "aliases": [
+            "da Costa",
+            "Antonio Felix da Costa"
+          ]
+        },
+        {
+          "answer": "Jean-Éric Vergne",
+          "display": "#6 — 99 pts",
+          "aliases": [
+            "Jean-Eric Vergne",
+            "JEV",
+            "Vergne"
+          ]
+        },
+        {
+          "answer": "Jake Dennis",
+          "display": "#7 — 93 pts",
+          "aliases": [
+            "Dennis"
+          ]
+        },
+        {
+          "answer": "Nyck de Vries",
+          "display": "#8 — 92 pts",
+          "aliases": [
+            "de Vries"
+          ]
+        },
+        {
+          "answer": "Edoardo Mortara",
+          "display": "#9 — 88 pts",
+          "aliases": [
+            "Mortara"
+          ]
+        },
+        {
+          "answer": "Maximilian Günther",
+          "display": "#10 — 85 pts",
+          "aliases": [
+            "Günther",
+            "Maximilian Gunther",
+            "Gunther"
+          ]
+        },
+        {
+          "answer": "Dan Ticktum",
+          "display": "#11 — 85 pts",
+          "aliases": [
+            "Ticktum"
+          ]
+        },
+        {
+          "answer": "Sébastien Buemi",
+          "display": "#12 — 84 pts",
+          "aliases": [
+            "Sebastien Buemi",
+            "Buemi"
+          ]
+        },
+        {
+          "answer": "Mitch Evans",
+          "display": "#13 — 74 pts",
+          "aliases": [
+            "Evans"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/motorsport/formula-e",
+      "question": "Top 10 drivers in the final 2025–26 Formula E World Championship standings",
+      "cutoff": 10,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1378716116 | table 5 | name: Driver | value: Pos | order: asc",
+      "tags": [
+        "motorsport",
+        "formula-e",
+        "drivers-championship",
+        "2025"
+      ],
+      "answers": [
+        {
+          "answer": "Pascal Wehrlein",
+          "display": "#1 — 169 pts",
+          "aliases": [
+            "Wehrlein"
+          ]
+        },
+        {
+          "answer": "Jake Dennis",
+          "display": "#2 — 164 pts",
+          "aliases": [
+            "Dennis"
+          ]
+        },
+        {
+          "answer": "Mitch Evans",
+          "display": "#3 — 160 pts",
+          "aliases": [
+            "Evans"
+          ]
+        },
+        {
+          "answer": "Oliver Rowland",
+          "display": "#4 — 137 pts",
+          "aliases": [
+            "Rowland"
+          ]
+        },
+        {
+          "answer": "Edoardo Mortara",
+          "display": "#5 — 137 pts",
+          "aliases": [
+            "Mortara"
+          ]
+        },
+        {
+          "answer": "António Félix da Costa",
+          "display": "#6 — 128 pts",
+          "aliases": [
+            "da Costa",
+            "Antonio Felix da Costa"
+          ]
+        },
+        {
+          "answer": "Nyck de Vries",
+          "display": "#7 — 115 pts",
+          "aliases": [
+            "de Vries"
+          ]
+        },
+        {
+          "answer": "Nick Cassidy",
+          "display": "#8 — 114 pts",
+          "aliases": [
+            "Cassidy"
+          ]
+        },
+        {
+          "answer": "Nico Müller",
+          "display": "#9 — 102 pts",
+          "aliases": [
+            "Müller",
+            "Nico Muller",
+            "Muller"
+          ]
+        },
+        {
+          "answer": "Sébastien Buemi",
+          "display": "#10 — 97 pts",
+          "aliases": [
+            "Sebastien Buemi",
+            "Buemi"
+          ]
+        },
+        {
+          "answer": "Taylor Barnard",
+          "display": "#11 — 68 pts",
+          "aliases": [
+            "Barnard"
+          ]
+        },
+        {
+          "answer": "Jean-Éric Vergne",
+          "display": "#12 — 68 pts",
+          "aliases": [
+            "Jean-Eric Vergne",
+            "JEV",
+            "Vergne"
+          ]
+        },
+        {
+          "answer": "Pepe Martí",
+          "display": "#13 — 66 pts",
+          "aliases": [
+            "Martí",
+            "Pepe Marti",
+            "Marti"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/motorsport/dtm",
+      "question": "Top 10 drivers in the final 1992 Deutsche Tourenwagen Meisterschaft standings",
+      "cutoff": 10,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1372070910 | table 4 | name: Driver | value: Pos | order: asc",
+      "tags": [
+        "motorsport",
+        "dtm",
+        "drivers-championship",
+        "1992"
+      ],
+      "answers": [
+        {
+          "answer": "Klaus Ludwig",
+          "display": "#1 — 228 pts",
+          "aliases": [
+            "Ludwig"
+          ]
+        },
+        {
+          "answer": "Kurt Thiim",
+          "display": "#2 — 192 pts",
+          "aliases": [
+            "Thiim"
+          ]
+        },
+        {
+          "answer": "Bernd Schneider",
+          "display": "#3 — 191 pts",
+          "aliases": [
+            "Schneider"
+          ]
+        },
+        {
+          "answer": "Johnny Cecotto",
+          "display": "#4 — 185 pts",
+          "aliases": [
+            "Cecotto"
+          ]
+        },
+        {
+          "answer": "Keke Rosberg",
+          "display": "#5 — 147 pts",
+          "aliases": [
+            "Rosberg"
+          ]
+        },
+        {
+          "answer": "Roland Asch",
+          "display": "#6 — 143 pts",
+          "aliases": [
+            "Asch"
+          ]
+        },
+        {
+          "answer": "Roberto Ravaglia",
+          "display": "#7 — 134 pts",
+          "aliases": [
+            "Ravaglia"
+          ]
+        },
+        {
+          "answer": "Joachim Winkelhock",
+          "display": "#8 — 110 pts",
+          "aliases": [
+            "Winkelhock"
+          ]
+        },
+        {
+          "answer": "Steve Soper",
+          "display": "#9 — 109 pts",
+          "aliases": [
+            "Soper"
+          ]
+        },
+        {
+          "answer": "Jörg van Ommen",
+          "display": "#10 — 106 pts",
+          "aliases": [
+            "van Ommen",
+            "Jorg van Ommen"
+          ]
+        },
+        {
+          "answer": "Ellen Lohr",
+          "display": "#11 — 105 pts",
+          "aliases": [
+            "Lohr"
+          ]
+        },
+        {
+          "answer": "Emanuele Pirro",
+          "display": "#12 — 85 pts",
+          "aliases": [
+            "Pirro"
+          ]
+        },
+        {
+          "answer": "Jacques Laffite",
+          "display": "#13 — 43 pts",
+          "aliases": [
+            "Laffite"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/motorsport/dtm",
+      "question": "Top 10 drivers in the final 1993 Deutsche Tourenwagen Meisterschaft standings",
+      "cutoff": 10,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1372071205 | table 3 | name: Driver | value: Pos | order: asc",
+      "tags": [
+        "motorsport",
+        "dtm",
+        "drivers-championship",
+        "1993"
+      ],
+      "answers": [
+        {
+          "answer": "Nicola Larini",
+          "display": "#1 — 261 pts",
+          "aliases": [
+            "Larini"
+          ]
+        },
+        {
+          "answer": "Roland Asch",
+          "display": "#2 — 204 pts",
+          "aliases": [
+            "Asch"
+          ]
+        },
+        {
+          "answer": "Bernd Schneider",
+          "display": "#3 — 172 pts",
+          "aliases": [
+            "Schneider"
+          ]
+        },
+        {
+          "answer": "Klaus Ludwig",
+          "display": "#4 — 171 pts",
+          "aliases": [
+            "Ludwig"
+          ]
+        },
+        {
+          "answer": "Christian Danner",
+          "display": "#5 — 161 pts",
+          "aliases": [
+            "Danner"
+          ]
+        },
+        {
+          "answer": "Kurt Thiim",
+          "display": "#6 — 138 pts",
+          "aliases": [
+            "Thiim"
+          ]
+        },
+        {
+          "answer": "Giorgio Francia",
+          "display": "#7 — 127 pts",
+          "aliases": [
+            "Francia"
+          ]
+        },
+        {
+          "answer": "Alessandro Nannini",
+          "display": "#8 — 121 pts",
+          "aliases": [
+            "Nannini"
+          ]
+        },
+        {
+          "answer": "Jörg van Ommen",
+          "display": "#9 — 80 pts",
+          "aliases": [
+            "van Ommen",
+            "Jorg van Ommen"
+          ]
+        },
+        {
+          "answer": "Ellen Lohr",
+          "display": "#10 — 43 pts",
+          "aliases": [
+            "Lohr"
+          ]
+        },
+        {
+          "answer": "Uwe Alzen",
+          "display": "#11 — 40 pts",
+          "aliases": [
+            "Alzen"
+          ]
+        },
+        {
+          "answer": "Olaf Manthey",
+          "display": "#12 — 34 pts",
+          "aliases": [
+            "Manthey"
+          ]
+        },
+        {
+          "answer": "Alexander Grau",
+          "display": "#13 — 21 pts",
+          "aliases": [
+            "Grau"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/motorsport/dtm",
+      "question": "Top 10 drivers in the final 1994 Deutsche Tourenwagen Meisterschaft standings",
+      "cutoff": 10,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1379786421 | table 3 | name: Driver | value: Pos | order: asc",
+      "tags": [
+        "motorsport",
+        "dtm",
+        "drivers-championship",
+        "1994"
+      ],
+      "answers": [
+        {
+          "answer": "Klaus Ludwig",
+          "display": "#1 — 222 pts",
+          "aliases": [
+            "Ludwig"
+          ]
+        },
+        {
+          "answer": "Jörg van Ommen",
+          "display": "#2 — 175 pts",
+          "aliases": [
+            "van Ommen",
+            "Jorg van Ommen"
+          ]
+        },
+        {
+          "answer": "Nicola Larini",
+          "display": "#3 — 150 pts",
+          "aliases": [
+            "Larini"
+          ]
+        },
+        {
+          "answer": "Alessandro Nannini",
+          "display": "#4 — 149 pts",
+          "aliases": [
+            "Nannini"
+          ]
+        },
+        {
+          "answer": "Kurt Thiim",
+          "display": "#5 — 141 pts",
+          "aliases": [
+            "Thiim"
+          ]
+        },
+        {
+          "answer": "Roland Asch",
+          "display": "#6 — 124 pts",
+          "aliases": [
+            "Asch"
+          ]
+        },
+        {
+          "answer": "Kris Nissen",
+          "display": "#7 — 99 pts",
+          "aliases": [
+            "Nissen"
+          ]
+        },
+        {
+          "answer": "Manuel Reuter",
+          "display": "#8 — 89 pts",
+          "aliases": [
+            "Reuter"
+          ]
+        },
+        {
+          "answer": "Christian Danner",
+          "display": "#9 — 88 pts",
+          "aliases": [
+            "Danner"
+          ]
+        },
+        {
+          "answer": "Bernd Schneider",
+          "display": "#10 — 86 pts",
+          "aliases": [
+            "Schneider"
+          ]
+        },
+        {
+          "answer": "Ellen Lohr",
+          "display": "#11 — 76 pts",
+          "aliases": [
+            "Lohr"
+          ]
+        },
+        {
+          "answer": "Stefano Modena",
+          "display": "#12 — 74 pts",
+          "aliases": [
+            "Modena"
+          ]
+        },
+        {
+          "answer": "Giorgio Francia",
+          "display": "#13 — 70 pts",
+          "aliases": [
+            "Francia"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/motorsport/dtm",
+      "question": "Top 10 drivers in the final 1995 Deutsche Tourenwagen Meisterschaft standings",
+      "cutoff": 10,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1372071854 | table 4 | name: Driver | value: Pos | order: asc",
+      "tags": [
+        "motorsport",
+        "dtm",
+        "drivers-championship",
+        "1995"
+      ],
+      "answers": [
+        {
+          "answer": "Bernd Schneider",
+          "display": "#1 — 138 pts",
+          "aliases": [
+            "Schneider"
+          ]
+        },
+        {
+          "answer": "Jörg van Ommen",
+          "display": "#2 — 113 pts",
+          "aliases": [
+            "van Ommen",
+            "Jorg van Ommen"
+          ]
+        },
+        {
+          "answer": "Klaus Ludwig",
+          "display": "#3 — 80 pts",
+          "aliases": [
+            "Ludwig"
+          ]
+        },
+        {
+          "answer": "Kurt Thiim",
+          "display": "#4 — 78 pts",
+          "aliases": [
+            "Thiim"
+          ]
+        },
+        {
+          "answer": "Dario Franchitti",
+          "display": "#5 — 74 pts",
+          "aliases": [
+            "Franchitti"
+          ]
+        },
+        {
+          "answer": "Nicola Larini",
+          "display": "#6 — 71 pts",
+          "aliases": [
+            "Larini"
+          ]
+        },
+        {
+          "answer": "Alexander Grau",
+          "display": "#7 — 68 pts",
+          "aliases": [
+            "Grau"
+          ]
+        },
+        {
+          "answer": "Jan Magnussen",
+          "display": "#8 — 49 pts",
+          "aliases": [
+            "Magnussen"
+          ]
+        },
+        {
+          "answer": "Christian Danner",
+          "display": "#9 — 48 pts",
+          "aliases": [
+            "Danner"
+          ]
+        },
+        {
+          "answer": "Michael Bartels",
+          "display": "#10 — 47 pts",
+          "aliases": [
+            "Bartels"
+          ]
+        },
+        {
+          "answer": "Alessandro Nannini",
+          "display": "#11 — 44 pts",
+          "aliases": [
+            "Nannini"
+          ]
+        },
+        {
+          "answer": "Manuel Reuter",
+          "display": "#12 — 39 pts",
+          "aliases": [
+            "Reuter"
+          ]
+        },
+        {
+          "answer": "JJ Lehto",
+          "display": "#13 — 36 pts",
+          "aliases": [
+            "Lehto"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/motorsport/dtm",
+      "question": "Top 10 drivers in the final 2000 Deutsche Tourenwagen Masters standings",
+      "cutoff": 10,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1372010967 | table 3 | name: Driver | value: Pos | order: asc",
+      "tags": [
+        "motorsport",
+        "dtm",
+        "drivers-championship",
+        "2000"
+      ],
+      "answers": [
+        {
+          "answer": "Bernd Schneider",
+          "display": "#1 — 221 pts",
+          "aliases": [
+            "Schneider"
+          ]
+        },
+        {
+          "answer": "Manuel Reuter",
+          "display": "#2 — 162 pts",
+          "aliases": [
+            "Reuter"
+          ]
+        },
+        {
+          "answer": "Klaus Ludwig",
+          "display": "#3 — 122 pts",
+          "aliases": [
+            "Ludwig"
+          ]
+        },
+        {
+          "answer": "Marcel Fässler",
+          "display": "#4 — 116 pts",
+          "aliases": [
+            "Fässler",
+            "Marcel Fassler",
+            "Fassler"
+          ]
+        },
+        {
+          "answer": "Joachim Winkelhock",
+          "display": "#5 — 113 pts",
+          "aliases": [
+            "Winkelhock"
+          ]
+        },
+        {
+          "answer": "Uwe Alzen",
+          "display": "#6 — 100 pts",
+          "aliases": [
+            "Alzen"
+          ]
+        },
+        {
+          "answer": "Michael Bartels",
+          "display": "#7 — 87 pts",
+          "aliases": [
+            "Bartels"
+          ]
+        },
+        {
+          "answer": "Peter Dumbreck",
+          "display": "#8 — 75 pts",
+          "aliases": [
+            "Dumbreck"
+          ]
+        },
+        {
+          "answer": "Éric Hélary",
+          "display": "#9 — 53 pts",
+          "aliases": [
+            "Hélary",
+            "Eric Helary",
+            "Helary"
+          ]
+        },
+        {
+          "answer": "Marcel Tiemann",
+          "display": "#10 — 53 pts",
+          "aliases": [
+            "Tiemann"
+          ]
+        },
+        {
+          "answer": "Thomas Jäger",
+          "display": "#11 — 52 pts",
+          "aliases": [
+            "Jäger",
+            "Thomas Jager",
+            "Jager"
+          ]
+        },
+        {
+          "answer": "Timo Scheider",
+          "display": "#12 — 45 pts",
+          "aliases": [
+            "Scheider"
+          ]
+        },
+        {
+          "answer": "Pedro Lamy",
+          "display": "#13 — 39 pts",
+          "aliases": [
+            "Lamy"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/motorsport/dtm",
+      "question": "Top 10 drivers in the final 2001 Deutsche Tourenwagen Masters standings",
+      "cutoff": 10,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1372011126 | table 5 | name: Driver | value: Pos | order: asc",
+      "tags": [
+        "motorsport",
+        "dtm",
+        "drivers-championship",
+        "2001"
+      ],
+      "answers": [
+        {
+          "answer": "Bernd Schneider",
+          "display": "#1 — 161 pts",
+          "aliases": [
+            "Schneider"
+          ]
+        },
+        {
+          "answer": "Uwe Alzen",
+          "display": "#2 — 101 pts",
+          "aliases": [
+            "Alzen"
+          ]
+        },
+        {
+          "answer": "Peter Dumbreck",
+          "display": "#3 — 88 pts",
+          "aliases": [
+            "Dumbreck"
+          ]
+        },
+        {
+          "answer": "Marcel Fässler",
+          "display": "#4 — 76 pts",
+          "aliases": [
+            "Fässler",
+            "Marcel Fassler",
+            "Fassler"
+          ]
+        },
+        {
+          "answer": "Laurent Aïello",
+          "display": "#5 — 75 pts",
+          "aliases": [
+            "Aïello",
+            "Laurent Aiello",
+            "Aiello"
+          ]
+        },
+        {
+          "answer": "Patrick Huisman",
+          "display": "#6 — 63 pts",
+          "aliases": [
+            "Huisman"
+          ]
+        },
+        {
+          "answer": "Thomas Jäger",
+          "display": "#7 — 43 pts",
+          "aliases": [
+            "Jäger",
+            "Thomas Jager",
+            "Jager"
+          ]
+        },
+        {
+          "answer": "Mattias Ekström",
+          "display": "#8 — 38 pts",
+          "aliases": [
+            "Mattias Ekstrom",
+            "Ekström",
+            "Ekstrom"
+          ]
+        },
+        {
+          "answer": "Manuel Reuter",
+          "display": "#9 — 35 pts",
+          "aliases": [
+            "Reuter"
+          ]
+        },
+        {
+          "answer": "Christian Abt",
+          "display": "#10 — 29 pts",
+          "aliases": [
+            "Abt"
+          ]
+        },
+        {
+          "answer": "Bernd Mayländer",
+          "display": "#11 — 28 pts",
+          "aliases": [
+            "Mayländer",
+            "Bernd Maylander",
+            "Maylander"
+          ]
+        },
+        {
+          "answer": "Marcel Tiemann",
+          "display": "#12 — 26 pts",
+          "aliases": [
+            "Tiemann"
+          ]
+        },
+        {
+          "answer": "Martin Tomczyk",
+          "display": "#13 — 23 pts",
+          "aliases": [
+            "Tomczyk"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/motorsport/dtm",
+      "question": "Top 10 drivers in the final 2002 Deutsche Tourenwagen Masters standings",
+      "cutoff": 10,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1372011543 | table 5 | name: Driver | value: Pos | order: asc",
+      "tags": [
+        "motorsport",
+        "dtm",
+        "drivers-championship",
+        "2002"
+      ],
+      "answers": [
+        {
+          "answer": "Laurent Aïello",
+          "display": "#1 — 70 pts",
+          "aliases": [
+            "Aïello",
+            "Laurent Aiello",
+            "Aiello"
+          ]
+        },
+        {
+          "answer": "Bernd Schneider",
+          "display": "#2 — 64 pts",
+          "aliases": [
+            "Schneider"
+          ]
+        },
+        {
+          "answer": "Mattias Ekström",
+          "display": "#3 — 50 pts",
+          "aliases": [
+            "Mattias Ekstrom",
+            "Ekström",
+            "Ekstrom"
+          ]
+        },
+        {
+          "answer": "Marcel Fässler",
+          "display": "#4 — 30 pts",
+          "aliases": [
+            "Fässler",
+            "Marcel Fassler",
+            "Fassler"
+          ]
+        },
+        {
+          "answer": "Jean Alesi",
+          "display": "#5 — 24 pts",
+          "aliases": [
+            "Alesi"
+          ]
+        },
+        {
+          "answer": "Uwe Alzen",
+          "display": "#6 — 24 pts",
+          "aliases": [
+            "Alzen"
+          ]
+        },
+        {
+          "answer": "Christian Abt",
+          "display": "#7 — 15 pts",
+          "aliases": [
+            "Abt"
+          ]
+        },
+        {
+          "answer": "Timo Scheider",
+          "display": "#8 — 10 pts",
+          "aliases": [
+            "Scheider"
+          ]
+        },
+        {
+          "answer": "Alain Menu",
+          "display": "#9 — 7 pts",
+          "aliases": [
+            "Menu"
+          ]
+        },
+        {
+          "answer": "Manuel Reuter",
+          "display": "#10 — 7 pts",
+          "aliases": [
+            "Reuter"
+          ]
+        },
+        {
+          "answer": "Martin Tomczyk",
+          "display": "#11 — 7 pts",
+          "aliases": [
+            "Tomczyk"
+          ]
+        },
+        {
+          "answer": "Christijan Albers",
+          "display": "#12 — 5 pts",
+          "aliases": [
+            "Albers"
+          ]
+        },
+        {
+          "answer": "Joachim Winkelhock",
+          "display": "#13 — 3 pts",
+          "aliases": [
+            "Winkelhock"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/motorsport/dtm",
+      "question": "Top 10 drivers in the final 2003 Deutsche Tourenwagen Masters standings",
+      "cutoff": 10,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1372011862 | table 4 | name: Driver | value: Pos | order: asc",
+      "tags": [
+        "motorsport",
+        "dtm",
+        "drivers-championship",
+        "2003"
+      ],
+      "answers": [
+        {
+          "answer": "Bernd Schneider",
+          "display": "#1 — 68 pts",
+          "aliases": [
+            "Schneider"
+          ]
+        },
+        {
+          "answer": "Christijan Albers",
+          "display": "#2 — 64 pts",
+          "aliases": [
+            "Albers"
+          ]
+        },
+        {
+          "answer": "Marcel Fässler",
+          "display": "#3 — 57 pts",
+          "aliases": [
+            "Fässler",
+            "Marcel Fassler",
+            "Fassler"
+          ]
+        },
+        {
+          "answer": "Mattias Ekström",
+          "display": "#4 — 46 pts",
+          "aliases": [
+            "Mattias Ekstrom",
+            "Ekström",
+            "Ekstrom"
+          ]
+        },
+        {
+          "answer": "Jean Alesi",
+          "display": "#5 — 42 pts",
+          "aliases": [
+            "Alesi"
+          ]
+        },
+        {
+          "answer": "Laurent Aïello",
+          "display": "#6 — 41 pts",
+          "aliases": [
+            "Aïello",
+            "Laurent Aiello",
+            "Aiello"
+          ]
+        },
+        {
+          "answer": "Peter Dumbreck",
+          "display": "#7 — 31 pts",
+          "aliases": [
+            "Dumbreck"
+          ]
+        },
+        {
+          "answer": "Timo Scheider",
+          "display": "#8 — 12 pts",
+          "aliases": [
+            "Scheider"
+          ]
+        },
+        {
+          "answer": "Alain Menu",
+          "display": "#9 — 9 pts",
+          "aliases": [
+            "Menu"
+          ]
+        },
+        {
+          "answer": "Manuel Reuter",
+          "display": "#10 — 5 pts",
+          "aliases": [
+            "Reuter"
+          ]
+        },
+        {
+          "answer": "Gary Paffett",
+          "display": "#11 — 4 pts",
+          "aliases": [
+            "Paffett"
+          ]
+        },
+        {
+          "answer": "Christian Abt",
+          "display": "#12 — 3 pts",
+          "aliases": [
+            "Abt"
+          ]
+        },
+        {
+          "answer": "Thomas Jäger",
+          "display": "#13 — 2 pts",
+          "aliases": [
+            "Jäger",
+            "Thomas Jager",
+            "Jager"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/motorsport/dtm",
+      "question": "Top 10 drivers in the final 2004 Deutsche Tourenwagen Masters standings",
+      "cutoff": 10,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1372012193 | table 4 | name: Driver | value: Pos | order: asc",
+      "tags": [
+        "motorsport",
+        "dtm",
+        "drivers-championship",
+        "2004"
+      ],
+      "answers": [
+        {
+          "answer": "Mattias Ekström",
+          "display": "#1 — 74 pts",
+          "aliases": [
+            "Mattias Ekstrom",
+            "Ekström",
+            "Ekstrom"
+          ]
+        },
+        {
+          "answer": "Gary Paffett",
+          "display": "#2 — 57 pts",
+          "aliases": [
+            "Paffett"
+          ]
+        },
+        {
+          "answer": "Christijan Albers",
+          "display": "#3 — 50 pts",
+          "aliases": [
+            "Albers"
+          ]
+        },
+        {
+          "answer": "Tom Kristensen",
+          "display": "#4 — 43 pts",
+          "aliases": [
+            "Kristensen"
+          ]
+        },
+        {
+          "answer": "Martin Tomczyk",
+          "display": "#5 — 39 pts",
+          "aliases": [
+            "Tomczyk"
+          ]
+        },
+        {
+          "answer": "Bernd Schneider",
+          "display": "#6 — 36 pts",
+          "aliases": [
+            "Schneider"
+          ]
+        },
+        {
+          "answer": "Jean Alesi",
+          "display": "#7 — 19 pts",
+          "aliases": [
+            "Alesi"
+          ]
+        },
+        {
+          "answer": "Timo Scheider",
+          "display": "#8 — 15 pts",
+          "aliases": [
+            "Scheider"
+          ]
+        },
+        {
+          "answer": "Marcel Fässler",
+          "display": "#9 — 13 pts",
+          "aliases": [
+            "Fässler",
+            "Marcel Fassler",
+            "Fassler"
+          ]
+        },
+        {
+          "answer": "Laurent Aïello",
+          "display": "#10 — 12 pts",
+          "aliases": [
+            "Aïello",
+            "Laurent Aiello",
+            "Aiello"
+          ]
+        },
+        {
+          "answer": "Emanuele Pirro",
+          "display": "#11 — 11 pts",
+          "aliases": [
+            "Pirro"
+          ]
+        },
+        {
+          "answer": "Manuel Reuter",
+          "display": "#12 — 9 pts",
+          "aliases": [
+            "Reuter"
+          ]
+        },
+        {
+          "answer": "Peter Dumbreck",
+          "display": "#13 — 6 pts",
+          "aliases": [
+            "Dumbreck"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/motorsport/dtm",
+      "question": "Top 10 drivers in the final 2005 Deutsche Tourenwagen Masters standings",
+      "cutoff": 10,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1372012239 | table 4 | name: Driver | value: Pos | order: asc",
+      "tags": [
+        "motorsport",
+        "dtm",
+        "drivers-championship",
+        "2005"
+      ],
+      "answers": [
+        {
+          "answer": "Gary Paffett",
+          "display": "#1 — 84 pts",
+          "aliases": [
+            "Paffett"
+          ]
+        },
+        {
+          "answer": "Mattias Ekström",
+          "display": "#2 — 71 pts",
+          "aliases": [
+            "Mattias Ekstrom",
+            "Ekström",
+            "Ekstrom"
+          ]
+        },
+        {
+          "answer": "Tom Kristensen",
+          "display": "#3 — 56 pts",
+          "aliases": [
+            "Kristensen"
+          ]
+        },
+        {
+          "answer": "Bernd Schneider",
+          "display": "#4 — 32 pts",
+          "aliases": [
+            "Schneider"
+          ]
+        },
+        {
+          "answer": "Mika Häkkinen",
+          "display": "#5 — 30 pts",
+          "aliases": [
+            "Häkkinen",
+            "Mika Hakkinen",
+            "Hakkinen"
+          ]
+        },
+        {
+          "answer": "Jamie Green",
+          "display": "#6 — 29 pts",
+          "aliases": [
+            "Green"
+          ]
+        },
+        {
+          "answer": "Jean Alesi",
+          "display": "#7 — 22 pts",
+          "aliases": [
+            "Alesi"
+          ]
+        },
+        {
+          "answer": "Heinz-Harald Frentzen",
+          "display": "#8 — 17 pts",
+          "aliases": [
+            "Frentzen"
+          ]
+        },
+        {
+          "answer": "Christian Abt",
+          "display": "#9 — 16 pts",
+          "aliases": [
+            "Abt"
+          ]
+        },
+        {
+          "answer": "Allan McNish",
+          "display": "#10 — 13 pts",
+          "aliases": [
+            "McNish"
+          ]
+        },
+        {
+          "answer": "Laurent Aïello",
+          "display": "#11 — 12 pts",
+          "aliases": [
+            "Aïello",
+            "Laurent Aiello",
+            "Aiello"
+          ]
+        },
+        {
+          "answer": "Marcel Fässler",
+          "display": "#12 — 12 pts",
+          "aliases": [
+            "Fässler",
+            "Marcel Fassler",
+            "Fassler"
+          ]
+        },
+        {
+          "answer": "Martin Tomczyk",
+          "display": "#13 — 10 pts",
+          "aliases": [
+            "Tomczyk"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/motorsport/dtm",
+      "question": "Top 10 drivers in the final 2006 Deutsche Tourenwagen Masters standings",
+      "cutoff": 10,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1372012465 | table 4 | name: Driver | value: Pos | order: asc",
+      "tags": [
+        "motorsport",
+        "dtm",
+        "drivers-championship",
+        "2006"
+      ],
+      "answers": [
+        {
+          "answer": "Bernd Schneider",
+          "display": "#1 — 71 pts",
+          "aliases": [
+            "Schneider"
+          ]
+        },
+        {
+          "answer": "Bruno Spengler",
+          "display": "#2 — 63 pts",
+          "aliases": [
+            "Spengler"
+          ]
+        },
+        {
+          "answer": "Tom Kristensen",
+          "display": "#3 — 56 pts",
+          "aliases": [
+            "Kristensen"
+          ]
+        },
+        {
+          "answer": "Martin Tomczyk",
+          "display": "#4 — 42 pts",
+          "aliases": [
+            "Tomczyk"
+          ]
+        },
+        {
+          "answer": "Jamie Green",
+          "display": "#5 — 31 pts",
+          "aliases": [
+            "Green"
+          ]
+        },
+        {
+          "answer": "Mika Häkkinen",
+          "display": "#6 — 25 pts",
+          "aliases": [
+            "Häkkinen",
+            "Mika Hakkinen",
+            "Hakkinen"
+          ]
+        },
+        {
+          "answer": "Heinz-Harald Frentzen",
+          "display": "#7 — 24 pts",
+          "aliases": [
+            "Frentzen"
+          ]
+        },
+        {
+          "answer": "Mattias Ekström",
+          "display": "#8 — 21 pts",
+          "aliases": [
+            "Mattias Ekstrom",
+            "Ekström",
+            "Ekstrom"
+          ]
+        },
+        {
+          "answer": "Jean Alesi",
+          "display": "#9 — 15 pts",
+          "aliases": [
+            "Alesi"
+          ]
+        },
+        {
+          "answer": "Timo Scheider",
+          "display": "#10 — 12 pts",
+          "aliases": [
+            "Scheider"
+          ]
+        },
+        {
+          "answer": "Alexandros Margaritis",
+          "display": "#11 — 11 pts",
+          "aliases": [
+            "Margaritis"
+          ]
+        },
+        {
+          "answer": "Stefan Mücke",
+          "display": "#12 — 7 pts",
+          "aliases": [
+            "Mücke",
+            "Stefan Mucke",
+            "Mucke"
+          ]
+        },
+        {
+          "answer": "Christian Abt",
+          "display": "#13 — 6 pts",
+          "aliases": [
+            "Abt"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/motorsport/dtm",
+      "question": "Top 10 drivers in the final 2007 Deutsche Tourenwagen Masters standings",
+      "cutoff": 10,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1372012762 | table 4 | name: Driver | value: Pos | order: asc",
+      "tags": [
+        "motorsport",
+        "dtm",
+        "drivers-championship",
+        "2007"
+      ],
+      "answers": [
+        {
+          "answer": "Mattias Ekström",
+          "display": "#1 — 50 pts",
+          "aliases": [
+            "Mattias Ekstrom",
+            "Ekström",
+            "Ekstrom"
+          ]
+        },
+        {
+          "answer": "Bruno Spengler",
+          "display": "#2 — 47 pts",
+          "aliases": [
+            "Spengler"
+          ]
+        },
+        {
+          "answer": "Martin Tomczyk",
+          "display": "#3 — 40 pts",
+          "aliases": [
+            "Tomczyk"
+          ]
+        },
+        {
+          "answer": "Jamie Green",
+          "display": "#4 — 34.5 pts",
+          "aliases": [
+            "Green"
+          ]
+        },
+        {
+          "answer": "Paul di Resta",
+          "display": "#5 — 32 pts",
+          "aliases": [
+            "di Resta"
+          ]
+        },
+        {
+          "answer": "Bernd Schneider",
+          "display": "#6 — 31.5 pts",
+          "aliases": [
+            "Schneider"
+          ]
+        },
+        {
+          "answer": "Timo Scheider",
+          "display": "#7 — 25 pts",
+          "aliases": [
+            "Scheider"
+          ]
+        },
+        {
+          "answer": "Mika Häkkinen",
+          "display": "#8 — 22 pts",
+          "aliases": [
+            "Häkkinen",
+            "Mika Hakkinen",
+            "Hakkinen"
+          ]
+        },
+        {
+          "answer": "Gary Paffett",
+          "display": "#9 — 20.5 pts",
+          "aliases": [
+            "Paffett"
+          ]
+        },
+        {
+          "answer": "Alexandros Margaritis",
+          "display": "#10 — 16 pts",
+          "aliases": [
+            "Margaritis"
+          ]
+        },
+        {
+          "answer": "Alexandre Prémat",
+          "display": "#11 — 13 pts",
+          "aliases": [
+            "Prémat",
+            "Alexandre Premat",
+            "Premat"
+          ]
+        },
+        {
+          "answer": "Mike Rockenfeller",
+          "display": "#12 — 11 pts",
+          "aliases": [
+            "Rockenfeller"
+          ]
+        },
+        {
+          "answer": "Daniel la Rosa",
+          "display": "#13 — 10 pts",
+          "aliases": [
+            "Rosa"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/motorsport/dtm",
+      "question": "Top 10 drivers in the final 2008 Deutsche Tourenwagen Masters standings",
+      "cutoff": 10,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1372013053 | table 4 | name: Driver | value: Pos | order: asc",
+      "tags": [
+        "motorsport",
+        "dtm",
+        "drivers-championship",
+        "2008"
+      ],
+      "answers": [
+        {
+          "answer": "Timo Scheider",
+          "display": "#1 — 75 pts",
+          "aliases": [
+            "Scheider"
+          ]
+        },
+        {
+          "answer": "Paul di Resta",
+          "display": "#2 — 71 pts",
+          "aliases": [
+            "di Resta"
+          ]
+        },
+        {
+          "answer": "Mattias Ekström",
+          "display": "#3 — 56 pts",
+          "aliases": [
+            "Mattias Ekstrom",
+            "Ekström",
+            "Ekstrom"
+          ]
+        },
+        {
+          "answer": "Jamie Green",
+          "display": "#4 — 52 pts",
+          "aliases": [
+            "Green"
+          ]
+        },
+        {
+          "answer": "Bruno Spengler",
+          "display": "#5 — 38 pts",
+          "aliases": [
+            "Spengler"
+          ]
+        },
+        {
+          "answer": "Bernd Schneider",
+          "display": "#6 — 34 pts",
+          "aliases": [
+            "Schneider"
+          ]
+        },
+        {
+          "answer": "Martin Tomczyk",
+          "display": "#7 — 32 pts",
+          "aliases": [
+            "Tomczyk"
+          ]
+        },
+        {
+          "answer": "Tom Kristensen",
+          "display": "#8 — 27 pts",
+          "aliases": [
+            "Kristensen"
+          ]
+        },
+        {
+          "answer": "Gary Paffett",
+          "display": "#9 — 13 pts",
+          "aliases": [
+            "Paffett"
+          ]
+        },
+        {
+          "answer": "Alexandre Prémat",
+          "display": "#10 — 10 pts",
+          "aliases": [
+            "Prémat",
+            "Alexandre Premat",
+            "Premat"
+          ]
+        },
+        {
+          "answer": "Mike Rockenfeller",
+          "display": "#11 — 6 pts",
+          "aliases": [
+            "Rockenfeller"
+          ]
+        },
+        {
+          "answer": "Markus Winkelhock",
+          "display": "#12 — 6 pts",
+          "aliases": [
+            "Winkelhock"
+          ]
+        },
+        {
+          "answer": "Oliver Jarvis",
+          "display": "#13 — 5 pts",
+          "aliases": [
+            "Jarvis"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/motorsport/dtm",
+      "question": "Top 10 drivers in the final 2009 Deutsche Tourenwagen Masters standings",
+      "cutoff": 10,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1372013151 | table 3 | name: Driver | value: Pos | order: asc",
+      "tags": [
+        "motorsport",
+        "dtm",
+        "drivers-championship",
+        "2009"
+      ],
+      "answers": [
+        {
+          "answer": "Timo Scheider",
+          "display": "#1 — 64 pts",
+          "aliases": [
+            "Scheider"
+          ]
+        },
+        {
+          "answer": "Gary Paffett",
+          "display": "#2 — 59 pts",
+          "aliases": [
+            "Paffett"
+          ]
+        },
+        {
+          "answer": "Paul di Resta",
+          "display": "#3 — 45 pts",
+          "aliases": [
+            "di Resta"
+          ]
+        },
+        {
+          "answer": "Bruno Spengler",
+          "display": "#4 — 41 pts",
+          "aliases": [
+            "Spengler"
+          ]
+        },
+        {
+          "answer": "Mattias Ekström",
+          "display": "#5 — 41 pts",
+          "aliases": [
+            "Mattias Ekstrom",
+            "Ekström",
+            "Ekstrom"
+          ]
+        },
+        {
+          "answer": "Martin Tomczyk",
+          "display": "#6 — 35 pts",
+          "aliases": [
+            "Tomczyk"
+          ]
+        },
+        {
+          "answer": "Jamie Green",
+          "display": "#7 — 27 pts",
+          "aliases": [
+            "Green"
+          ]
+        },
+        {
+          "answer": "Tom Kristensen",
+          "display": "#8 — 21 pts",
+          "aliases": [
+            "Kristensen"
+          ]
+        },
+        {
+          "answer": "Oliver Jarvis",
+          "display": "#9 — 18 pts",
+          "aliases": [
+            "Jarvis"
+          ]
+        },
+        {
+          "answer": "Markus Winkelhock",
+          "display": "#10 — 11 pts",
+          "aliases": [
+            "Winkelhock"
+          ]
+        },
+        {
+          "answer": "Ralf Schumacher",
+          "display": "#11 — 9 pts",
+          "aliases": [
+            "Schumacher"
+          ]
+        },
+        {
+          "answer": "Maro Engel",
+          "display": "#12 — 8 pts",
+          "aliases": [
+            "Engel"
+          ]
+        },
+        {
+          "answer": "Alexandre Prémat",
+          "display": "#13 — 6 pts",
+          "aliases": [
+            "Prémat",
+            "Alexandre Premat",
+            "Premat"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/motorsport/dtm",
+      "question": "Top 10 drivers in the final 2010 Deutsche Tourenwagen Masters standings",
+      "cutoff": 10,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1372013251 | table 3 | name: Driver | value: Pos | order: asc",
+      "tags": [
+        "motorsport",
+        "dtm",
+        "drivers-championship",
+        "2010"
+      ],
+      "answers": [
+        {
+          "answer": "Paul di Resta",
+          "display": "#1 — 71 pts",
+          "aliases": [
+            "di Resta"
+          ]
+        },
+        {
+          "answer": "Gary Paffett",
+          "display": "#2 — 67 pts",
+          "aliases": [
+            "Paffett"
+          ]
+        },
+        {
+          "answer": "Bruno Spengler",
+          "display": "#3 — 66 pts",
+          "aliases": [
+            "Spengler"
+          ]
+        },
+        {
+          "answer": "Timo Scheider",
+          "display": "#4 — 53 pts",
+          "aliases": [
+            "Scheider"
+          ]
+        },
+        {
+          "answer": "Mattias Ekström",
+          "display": "#5 — 35 pts",
+          "aliases": [
+            "Mattias Ekstrom",
+            "Ekström",
+            "Ekstrom"
+          ]
+        },
+        {
+          "answer": "Jamie Green",
+          "display": "#6 — 32 pts",
+          "aliases": [
+            "Green"
+          ]
+        },
+        {
+          "answer": "Mike Rockenfeller",
+          "display": "#7 — 22 pts",
+          "aliases": [
+            "Rockenfeller"
+          ]
+        },
+        {
+          "answer": "Martin Tomczyk",
+          "display": "#8 — 20 pts",
+          "aliases": [
+            "Tomczyk"
+          ]
+        },
+        {
+          "answer": "Oliver Jarvis",
+          "display": "#9 — 18 pts",
+          "aliases": [
+            "Jarvis"
+          ]
+        },
+        {
+          "answer": "Miguel Molina",
+          "display": "#10 — 15 pts",
+          "aliases": [
+            "Molina"
+          ]
+        },
+        {
+          "answer": "Alexandre Prémat",
+          "display": "#11 — 12 pts",
+          "aliases": [
+            "Prémat",
+            "Alexandre Premat",
+            "Premat"
+          ]
+        },
+        {
+          "answer": "Markus Winkelhock",
+          "display": "#12 — 7 pts",
+          "aliases": [
+            "Winkelhock"
+          ]
+        },
+        {
+          "answer": "Susie Stoddart",
+          "display": "#13 — 4 pts",
+          "aliases": [
+            "Stoddart"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/motorsport/dtm",
+      "question": "Top 10 drivers in the final 2011 Deutsche Tourenwagen Masters standings",
+      "cutoff": 10,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1372013365 | table 3 | name: Driver | value: Pos | order: asc",
+      "tags": [
+        "motorsport",
+        "dtm",
+        "drivers-championship",
+        "2011"
+      ],
+      "answers": [
+        {
+          "answer": "Martin Tomczyk",
+          "display": "#1 — 72 pts",
+          "aliases": [
+            "Tomczyk"
+          ]
+        },
+        {
+          "answer": "Mattias Ekström",
+          "display": "#2 — 52 pts",
+          "aliases": [
+            "Mattias Ekstrom",
+            "Ekström",
+            "Ekstrom"
+          ]
+        },
+        {
+          "answer": "Bruno Spengler",
+          "display": "#3 — 51 pts",
+          "aliases": [
+            "Spengler"
+          ]
+        },
+        {
+          "answer": "Timo Scheider",
+          "display": "#4 — 36 pts",
+          "aliases": [
+            "Scheider"
+          ]
+        },
+        {
+          "answer": "Jamie Green",
+          "display": "#5 — 35 pts",
+          "aliases": [
+            "Green"
+          ]
+        },
+        {
+          "answer": "Mike Rockenfeller",
+          "display": "#6 — 31 pts",
+          "aliases": [
+            "Rockenfeller"
+          ]
+        },
+        {
+          "answer": "Gary Paffett",
+          "display": "#7 — 25 pts",
+          "aliases": [
+            "Paffett"
+          ]
+        },
+        {
+          "answer": "Ralf Schumacher",
+          "display": "#8 — 21 pts",
+          "aliases": [
+            "Schumacher"
+          ]
+        },
+        {
+          "answer": "Edoardo Mortara",
+          "display": "#9 — 21 pts",
+          "aliases": [
+            "Mortara"
+          ]
+        },
+        {
+          "answer": "Oliver Jarvis",
+          "display": "#10 — 14 pts",
+          "aliases": [
+            "Jarvis"
+          ]
+        },
+        {
+          "answer": "Miguel Molina",
+          "display": "#11 — 11 pts",
+          "aliases": [
+            "Molina"
+          ]
+        },
+        {
+          "answer": "Filipe Albuquerque",
+          "display": "#12 — 9 pts",
+          "aliases": [
+            "Albuquerque"
+          ]
+        },
+        {
+          "answer": "Maro Engel",
+          "display": "#13 — 5 pts",
+          "aliases": [
+            "Engel"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/motorsport/dtm",
+      "question": "Top 10 drivers in the final 2012 Deutsche Tourenwagen Masters standings",
+      "cutoff": 10,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1372946533 | table 5 | name: Driver | value: Pos | order: asc",
+      "tags": [
+        "motorsport",
+        "dtm",
+        "drivers-championship",
+        "2012"
+      ],
+      "answers": [
+        {
+          "answer": "Bruno Spengler",
+          "display": "#1 — 149 pts",
+          "aliases": [
+            "Spengler"
+          ]
+        },
+        {
+          "answer": "Gary Paffett",
+          "display": "#2 — 145 pts",
+          "aliases": [
+            "Paffett"
+          ]
+        },
+        {
+          "answer": "Jamie Green",
+          "display": "#3 — 121 pts",
+          "aliases": [
+            "Green"
+          ]
+        },
+        {
+          "answer": "Mike Rockenfeller",
+          "display": "#4 — 85 pts",
+          "aliases": [
+            "Rockenfeller"
+          ]
+        },
+        {
+          "answer": "Edoardo Mortara",
+          "display": "#5 — 82 pts",
+          "aliases": [
+            "Mortara"
+          ]
+        },
+        {
+          "answer": "Mattias Ekström",
+          "display": "#6 — 81 pts",
+          "aliases": [
+            "Mattias Ekstrom",
+            "Ekström",
+            "Ekstrom"
+          ]
+        },
+        {
+          "answer": "Augusto Farfus",
+          "display": "#7 — 69 pts",
+          "aliases": [
+            "Farfus"
+          ]
+        },
+        {
+          "answer": "Martin Tomczyk",
+          "display": "#8 — 69 pts",
+          "aliases": [
+            "Tomczyk"
+          ]
+        },
+        {
+          "answer": "Dirk Werner",
+          "display": "#9 — 29 pts",
+          "aliases": [
+            "Werner"
+          ]
+        },
+        {
+          "answer": "Adrien Tambay",
+          "display": "#10 — 28 pts",
+          "aliases": [
+            "Tambay"
+          ]
+        },
+        {
+          "answer": "Filipe Albuquerque",
+          "display": "#11 — 26 pts",
+          "aliases": [
+            "Albuquerque"
+          ]
+        },
+        {
+          "answer": "Christian Vietoris",
+          "display": "#12 — 25 pts",
+          "aliases": [
+            "Vietoris"
+          ]
+        },
+        {
+          "answer": "Andy Priaulx",
+          "display": "#13 — 24 pts",
+          "aliases": [
+            "Priaulx"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/motorsport/dtm",
+      "question": "Top 10 drivers in the final 2013 Deutsche Tourenwagen Masters standings",
+      "cutoff": 10,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1372013603 | table 5 | name: Driver | value: Pos | order: asc",
+      "tags": [
+        "motorsport",
+        "dtm",
+        "drivers-championship",
+        "2013"
+      ],
+      "answers": [
+        {
+          "answer": "Mike Rockenfeller",
+          "display": "#1 — 142 pts",
+          "aliases": [
+            "Rockenfeller"
+          ]
+        },
+        {
+          "answer": "Augusto Farfus",
+          "display": "#2 — 116 pts",
+          "aliases": [
+            "Farfus"
+          ]
+        },
+        {
+          "answer": "Bruno Spengler",
+          "display": "#3 — 82 pts",
+          "aliases": [
+            "Spengler"
+          ]
+        },
+        {
+          "answer": "Christian Vietoris",
+          "display": "#4 — 77 pts",
+          "aliases": [
+            "Vietoris"
+          ]
+        },
+        {
+          "answer": "Robert Wickens",
+          "display": "#5 — 70 pts",
+          "aliases": [
+            "Wickens"
+          ]
+        },
+        {
+          "answer": "Gary Paffett",
+          "display": "#6 — 69 pts",
+          "aliases": [
+            "Paffett"
+          ]
+        },
+        {
+          "answer": "Mattias Ekström",
+          "display": "#7 — 68 pts",
+          "aliases": [
+            "Mattias Ekstrom",
+            "Ekström",
+            "Ekstrom"
+          ]
+        },
+        {
+          "answer": "Marco Wittmann",
+          "display": "#8 — 49 pts",
+          "aliases": [
+            "Wittmann"
+          ]
+        },
+        {
+          "answer": "Timo Glock",
+          "display": "#9 — 40 pts",
+          "aliases": [
+            "Glock"
+          ]
+        },
+        {
+          "answer": "Timo Scheider",
+          "display": "#10 — 37 pts",
+          "aliases": [
+            "Scheider"
+          ]
+        },
+        {
+          "answer": "Jamie Green",
+          "display": "#11 — 35 pts",
+          "aliases": [
+            "Green"
+          ]
+        },
+        {
+          "answer": "Joey Hand",
+          "display": "#12 — 32 pts",
+          "aliases": [
+            "Hand"
+          ]
+        },
+        {
+          "answer": "Dirk Werner",
+          "display": "#13 — 30 pts",
+          "aliases": [
+            "Werner"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/motorsport/dtm",
+      "question": "Top 10 drivers in the final 2014 Deutsche Tourenwagen Masters standings",
+      "cutoff": 10,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1372013714 | table 5 | name: Driver | value: Pos | order: asc",
+      "tags": [
+        "motorsport",
+        "dtm",
+        "drivers-championship",
+        "2014"
+      ],
+      "answers": [
+        {
+          "answer": "Marco Wittmann",
+          "display": "#1 — 156 pts",
+          "aliases": [
+            "Wittmann"
+          ]
+        },
+        {
+          "answer": "Mattias Ekström",
+          "display": "#2 — 106 pts",
+          "aliases": [
+            "Mattias Ekstrom",
+            "Ekström",
+            "Ekstrom"
+          ]
+        },
+        {
+          "answer": "Mike Rockenfeller",
+          "display": "#3 — 72 pts",
+          "aliases": [
+            "Rockenfeller"
+          ]
+        },
+        {
+          "answer": "Christian Vietoris",
+          "display": "#4 — 69 pts",
+          "aliases": [
+            "Vietoris"
+          ]
+        },
+        {
+          "answer": "Edoardo Mortara",
+          "display": "#5 — 68 pts",
+          "aliases": [
+            "Mortara"
+          ]
+        },
+        {
+          "answer": "Martin Tomczyk",
+          "display": "#6 — 49 pts",
+          "aliases": [
+            "Tomczyk"
+          ]
+        },
+        {
+          "answer": "Maxime Martin",
+          "display": "#7 — 47 pts",
+          "aliases": [
+            "Martin"
+          ]
+        },
+        {
+          "answer": "Pascal Wehrlein",
+          "display": "#8 — 46 pts",
+          "aliases": [
+            "Wehrlein"
+          ]
+        },
+        {
+          "answer": "Timo Scheider",
+          "display": "#9 — 44 pts",
+          "aliases": [
+            "Scheider"
+          ]
+        },
+        {
+          "answer": "Jamie Green",
+          "display": "#10 — 43 pts",
+          "aliases": [
+            "Green"
+          ]
+        },
+        {
+          "answer": "Bruno Spengler",
+          "display": "#11 — 42 pts",
+          "aliases": [
+            "Spengler"
+          ]
+        },
+        {
+          "answer": "Robert Wickens",
+          "display": "#12 — 41 pts",
+          "aliases": [
+            "Wickens"
+          ]
+        },
+        {
+          "answer": "Augusto Farfus",
+          "display": "#13 — 39 pts",
+          "aliases": [
+            "Farfus"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/motorsport/dtm",
+      "question": "Top 10 drivers in the final 2015 Deutsche Tourenwagen Masters standings",
+      "cutoff": 10,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1372014305 | table 5 | name: Driver | value: Pos | order: asc",
+      "tags": [
+        "motorsport",
+        "dtm",
+        "drivers-championship",
+        "2015"
+      ],
+      "answers": [
+        {
+          "answer": "Pascal Wehrlein",
+          "display": "#1 — 169 pts",
+          "aliases": [
+            "Wehrlein"
+          ]
+        },
+        {
+          "answer": "Jamie Green",
+          "display": "#2 — 150 pts",
+          "aliases": [
+            "Green"
+          ]
+        },
+        {
+          "answer": "Mattias Ekström",
+          "display": "#3 — 147 pts",
+          "aliases": [
+            "Mattias Ekstrom",
+            "Ekström",
+            "Ekstrom"
+          ]
+        },
+        {
+          "answer": "Edoardo Mortara",
+          "display": "#4 — 143 pts",
+          "aliases": [
+            "Mortara"
+          ]
+        },
+        {
+          "answer": "Bruno Spengler",
+          "display": "#5 — 123 pts",
+          "aliases": [
+            "Spengler"
+          ]
+        },
+        {
+          "answer": "Marco Wittmann",
+          "display": "#6 — 112 pts",
+          "aliases": [
+            "Wittmann"
+          ]
+        },
+        {
+          "answer": "Maxime Martin",
+          "display": "#7 — 94 pts",
+          "aliases": [
+            "Martin"
+          ]
+        },
+        {
+          "answer": "Paul di Resta",
+          "display": "#8 — 90 pts",
+          "aliases": [
+            "di Resta"
+          ]
+        },
+        {
+          "answer": "Gary Paffett",
+          "display": "#9 — 89 pts",
+          "aliases": [
+            "Paffett"
+          ]
+        },
+        {
+          "answer": "Mike Rockenfeller",
+          "display": "#10 — 83 pts",
+          "aliases": [
+            "Rockenfeller"
+          ]
+        },
+        {
+          "answer": "António Félix da Costa",
+          "display": "#11 — 79 pts",
+          "aliases": [
+            "da Costa",
+            "Antonio Felix da Costa"
+          ]
+        },
+        {
+          "answer": "Augusto Farfus",
+          "display": "#12 — 77 pts",
+          "aliases": [
+            "Farfus"
+          ]
+        },
+        {
+          "answer": "Robert Wickens",
+          "display": "#13 — 61 pts",
+          "aliases": [
+            "Wickens"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/motorsport/dtm",
+      "question": "Top 10 drivers in the final 2016 Deutsche Tourenwagen Masters standings",
+      "cutoff": 10,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1378174396 | table 4 | name: Driver | value: Pos | order: asc",
+      "tags": [
+        "motorsport",
+        "dtm",
+        "drivers-championship",
+        "2016"
+      ],
+      "answers": [
+        {
+          "answer": "Marco Wittmann",
+          "display": "#1 — 206 pts",
+          "aliases": [
+            "Wittmann"
+          ]
+        },
+        {
+          "answer": "Edoardo Mortara",
+          "display": "#2 — 202 pts",
+          "aliases": [
+            "Mortara"
+          ]
+        },
+        {
+          "answer": "Jamie Green",
+          "display": "#3 — 145 pts",
+          "aliases": [
+            "Green"
+          ]
+        },
+        {
+          "answer": "Robert Wickens",
+          "display": "#4 — 124 pts",
+          "aliases": [
+            "Wickens"
+          ]
+        },
+        {
+          "answer": "Paul di Resta",
+          "display": "#5 — 116 pts",
+          "aliases": [
+            "di Resta"
+          ]
+        },
+        {
+          "answer": "Tom Blomqvist",
+          "display": "#6 — 113 pts",
+          "aliases": [
+            "Blomqvist"
+          ]
+        },
+        {
+          "answer": "Mattias Ekström",
+          "display": "#7 — 107 pts",
+          "aliases": [
+            "Mattias Ekstrom",
+            "Ekström",
+            "Ekstrom"
+          ]
+        },
+        {
+          "answer": "Maxime Martin",
+          "display": "#8 — 90 pts",
+          "aliases": [
+            "Martin"
+          ]
+        },
+        {
+          "answer": "Nico Müller",
+          "display": "#9 — 88 pts",
+          "aliases": [
+            "Müller",
+            "Nico Muller",
+            "Muller"
+          ]
+        },
+        {
+          "answer": "Timo Glock",
+          "display": "#10 — 84 pts",
+          "aliases": [
+            "Glock"
+          ]
+        },
+        {
+          "answer": "Gary Paffett",
+          "display": "#11 — 73 pts",
+          "aliases": [
+            "Paffett"
+          ]
+        },
+        {
+          "answer": "Lucas Auer",
+          "display": "#12 — 68 pts",
+          "aliases": [
+            "Auer"
+          ]
+        },
+        {
+          "answer": "Miguel Molina",
+          "display": "#13 — 66 pts",
+          "aliases": [
+            "Molina"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/motorsport/dtm",
+      "question": "Top 10 drivers in the final 2017 Deutsche Tourenwagen Masters standings",
+      "cutoff": 10,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1372014827 | table 5 | name: Driver | value: Pos | order: asc",
+      "tags": [
+        "motorsport",
+        "dtm",
+        "drivers-championship",
+        "2017"
+      ],
+      "answers": [
+        {
+          "answer": "René Rast",
+          "display": "#1 — 179 pts",
+          "aliases": [
+            "Rast",
+            "Rene Rast"
+          ]
+        },
+        {
+          "answer": "Mattias Ekström",
+          "display": "#2 — 176 pts",
+          "aliases": [
+            "Mattias Ekstrom",
+            "Ekström",
+            "Ekstrom"
+          ]
+        },
+        {
+          "answer": "Jamie Green",
+          "display": "#3 — 173 pts",
+          "aliases": [
+            "Green"
+          ]
+        },
+        {
+          "answer": "Mike Rockenfeller",
+          "display": "#4 — 167 pts",
+          "aliases": [
+            "Rockenfeller"
+          ]
+        },
+        {
+          "answer": "Marco Wittmann",
+          "display": "#5 — 160 pts",
+          "aliases": [
+            "Wittmann"
+          ]
+        },
+        {
+          "answer": "Lucas Auer",
+          "display": "#6 — 136 pts",
+          "aliases": [
+            "Auer"
+          ]
+        },
+        {
+          "answer": "Timo Glock",
+          "display": "#7 — 133 pts",
+          "aliases": [
+            "Glock"
+          ]
+        },
+        {
+          "answer": "Maxime Martin",
+          "display": "#8 — 132 pts",
+          "aliases": [
+            "Martin"
+          ]
+        },
+        {
+          "answer": "Robert Wickens",
+          "display": "#9 — 119 pts",
+          "aliases": [
+            "Wickens"
+          ]
+        },
+        {
+          "answer": "Gary Paffett",
+          "display": "#10 — 102 pts",
+          "aliases": [
+            "Paffett"
+          ]
+        },
+        {
+          "answer": "Paul di Resta",
+          "display": "#11 — 99 pts",
+          "aliases": [
+            "di Resta"
+          ]
+        },
+        {
+          "answer": "Nico Müller",
+          "display": "#12 — 81 pts",
+          "aliases": [
+            "Müller",
+            "Nico Muller",
+            "Muller"
+          ]
+        },
+        {
+          "answer": "Bruno Spengler",
+          "display": "#13 — 75 pts",
+          "aliases": [
+            "Spengler"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/motorsport/dtm",
+      "question": "Top 10 drivers in the final 2018 Deutsche Tourenwagen Masters standings",
+      "cutoff": 10,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1374170868 | table 7 | name: Driver | value: Pos | order: asc",
+      "tags": [
+        "motorsport",
+        "dtm",
+        "drivers-championship",
+        "2018"
+      ],
+      "answers": [
+        {
+          "answer": "Gary Paffett",
+          "display": "#1 — 255 pts",
+          "aliases": [
+            "Paffett"
+          ]
+        },
+        {
+          "answer": "René Rast",
+          "display": "#2 — 251 pts",
+          "aliases": [
+            "Rast",
+            "Rene Rast"
+          ]
+        },
+        {
+          "answer": "Paul di Resta",
+          "display": "#3 — 233 pts",
+          "aliases": [
+            "di Resta"
+          ]
+        },
+        {
+          "answer": "Marco Wittmann",
+          "display": "#4 — 164 pts",
+          "aliases": [
+            "Wittmann"
+          ]
+        },
+        {
+          "answer": "Timo Glock",
+          "display": "#5 — 144 pts",
+          "aliases": [
+            "Glock"
+          ]
+        },
+        {
+          "answer": "Edoardo Mortara",
+          "display": "#6 — 140 pts",
+          "aliases": [
+            "Mortara"
+          ]
+        },
+        {
+          "answer": "Lucas Auer",
+          "display": "#7 — 121 pts",
+          "aliases": [
+            "Auer"
+          ]
+        },
+        {
+          "answer": "Pascal Wehrlein",
+          "display": "#8 — 108 pts",
+          "aliases": [
+            "Wehrlein"
+          ]
+        },
+        {
+          "answer": "Philipp Eng",
+          "display": "#9 — 102 pts",
+          "aliases": [
+            "Eng"
+          ]
+        },
+        {
+          "answer": "Nico Müller",
+          "display": "#10 — 96 pts",
+          "aliases": [
+            "Müller",
+            "Nico Muller",
+            "Muller"
+          ]
+        },
+        {
+          "answer": "Mike Rockenfeller",
+          "display": "#11 — 87 pts",
+          "aliases": [
+            "Rockenfeller"
+          ]
+        },
+        {
+          "answer": "Bruno Spengler",
+          "display": "#12 — 85 pts",
+          "aliases": [
+            "Spengler"
+          ]
+        },
+        {
+          "answer": "Robin Frijns",
+          "display": "#13 — 84 pts",
+          "aliases": [
+            "Frijns"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/motorsport/dtm",
+      "question": "Top 10 drivers in the final 2019 Deutsche Tourenwagen Masters standings",
+      "cutoff": 10,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1372015322 | table 6 | name: Driver | value: Pos | order: asc",
+      "tags": [
+        "motorsport",
+        "dtm",
+        "drivers-championship",
+        "2019"
+      ],
+      "answers": [
+        {
+          "answer": "René Rast",
+          "display": "#1 — 322 pts",
+          "aliases": [
+            "Rast",
+            "Rene Rast"
+          ]
+        },
+        {
+          "answer": "Nico Müller",
+          "display": "#2 — 250 pts",
+          "aliases": [
+            "Müller",
+            "Nico Muller",
+            "Muller"
+          ]
+        },
+        {
+          "answer": "Marco Wittmann",
+          "display": "#3 — 202 pts",
+          "aliases": [
+            "Wittmann"
+          ]
+        },
+        {
+          "answer": "Mike Rockenfeller",
+          "display": "#4 — 182 pts",
+          "aliases": [
+            "Rockenfeller"
+          ]
+        },
+        {
+          "answer": "Robin Frijns",
+          "display": "#5 — 157 pts",
+          "aliases": [
+            "Frijns"
+          ]
+        },
+        {
+          "answer": "Philipp Eng",
+          "display": "#6 — 144 pts",
+          "aliases": [
+            "Eng"
+          ]
+        },
+        {
+          "answer": "Loïc Duval",
+          "display": "#7 — 134 pts",
+          "aliases": [
+            "Duval",
+            "Loic Duval"
+          ]
+        },
+        {
+          "answer": "Jamie Green",
+          "display": "#8 — 115 pts",
+          "aliases": [
+            "Green"
+          ]
+        },
+        {
+          "answer": "Bruno Spengler",
+          "display": "#9 — 106 pts",
+          "aliases": [
+            "Spengler"
+          ]
+        },
+        {
+          "answer": "Jonathan Aberdein",
+          "display": "#10 — 67 pts",
+          "aliases": [
+            "Aberdein"
+          ]
+        },
+        {
+          "answer": "Joel Eriksson",
+          "display": "#11 — 61 pts",
+          "aliases": [
+            "Eriksson"
+          ]
+        },
+        {
+          "answer": "Timo Glock",
+          "display": "#12 — 58 pts",
+          "aliases": [
+            "Glock"
+          ]
+        },
+        {
+          "answer": "Sheldon van der Linde",
+          "display": "#13 — 42 pts",
+          "aliases": [
+            "van der Linde"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/motorsport/dtm",
+      "question": "Top 10 drivers in the final 2020 Deutsche Tourenwagen Masters standings",
+      "cutoff": 10,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1375475892 | table 6 | name: Driver | value: Pos | order: asc",
+      "tags": [
+        "motorsport",
+        "dtm",
+        "drivers-championship",
+        "2020"
+      ],
+      "answers": [
+        {
+          "answer": "René Rast",
+          "display": "#1 — 353 pts",
+          "aliases": [
+            "Rast",
+            "Rene Rast"
+          ]
+        },
+        {
+          "answer": "Nico Müller",
+          "display": "#2 — 330 pts",
+          "aliases": [
+            "Müller",
+            "Nico Muller",
+            "Muller"
+          ]
+        },
+        {
+          "answer": "Robin Frijns",
+          "display": "#3 — 279 pts",
+          "aliases": [
+            "Frijns"
+          ]
+        },
+        {
+          "answer": "Mike Rockenfeller",
+          "display": "#4 — 139 pts",
+          "aliases": [
+            "Rockenfeller"
+          ]
+        },
+        {
+          "answer": "Timo Glock",
+          "display": "#5 — 120 pts",
+          "aliases": [
+            "Glock"
+          ]
+        },
+        {
+          "answer": "Sheldon van der Linde",
+          "display": "#6 — 108 pts",
+          "aliases": [
+            "van der Linde"
+          ]
+        },
+        {
+          "answer": "Loïc Duval",
+          "display": "#7 — 108 pts",
+          "aliases": [
+            "Duval",
+            "Loic Duval"
+          ]
+        },
+        {
+          "answer": "Jamie Green",
+          "display": "#8 — 98 pts",
+          "aliases": [
+            "Green"
+          ]
+        },
+        {
+          "answer": "Marco Wittmann",
+          "display": "#9 — 95 pts",
+          "aliases": [
+            "Wittmann"
+          ]
+        },
+        {
+          "answer": "Ferdinand Habsburg",
+          "display": "#10 — 68 pts",
+          "aliases": [
+            "Habsburg"
+          ]
+        },
+        {
+          "answer": "Jonathan Aberdein",
+          "display": "#11 — 62 pts",
+          "aliases": [
+            "Aberdein"
+          ]
+        },
+        {
+          "answer": "Lucas Auer",
+          "display": "#12 — 51 pts",
+          "aliases": [
+            "Auer"
+          ]
+        },
+        {
+          "answer": "Philipp Eng",
+          "display": "#13 — 48 pts",
+          "aliases": [
+            "Eng"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/motorsport/dtm",
+      "question": "Top 10 drivers in the final 2021 Deutsche Tourenwagen Masters standings",
+      "cutoff": 10,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1372034510 | table 7 | name: Driver | value: Pos | order: asc",
+      "tags": [
+        "motorsport",
+        "dtm",
+        "drivers-championship",
+        "2021"
+      ],
+      "answers": [
+        {
+          "answer": "Maximilian Götz",
+          "display": "#1 — 230 pts",
+          "aliases": [
+            "Götz",
+            "Maximilian Gotz",
+            "Gotz"
+          ]
+        },
+        {
+          "answer": "Liam Lawson",
+          "display": "#2 — 227 pts",
+          "aliases": [
+            "Lawson"
+          ]
+        },
+        {
+          "answer": "Kelvin van der Linde",
+          "display": "#3 — 208 pts",
+          "aliases": []
+        },
+        {
+          "answer": "Marco Wittmann",
+          "display": "#4 — 171 pts",
+          "aliases": [
+            "Wittmann"
+          ]
+        },
+        {
+          "answer": "Lucas Auer",
+          "display": "#5 — 152 pts",
+          "aliases": [
+            "Auer"
+          ]
+        },
+        {
+          "answer": "Alex Albon",
+          "display": "#6 — 130 pts",
+          "aliases": [
+            "Albon"
+          ]
+        },
+        {
+          "answer": "Philip Ellis",
+          "display": "#7 — 129 pts",
+          "aliases": [
+            "Ellis"
+          ]
+        },
+        {
+          "answer": "Mike Rockenfeller",
+          "display": "#8 — 89 pts",
+          "aliases": [
+            "Rockenfeller"
+          ]
+        },
+        {
+          "answer": "Daniel Juncadella",
+          "display": "#9 — 77 pts",
+          "aliases": [
+            "Juncadella"
+          ]
+        },
+        {
+          "answer": "Nico Müller",
+          "display": "#10 — 56 pts",
+          "aliases": [
+            "Müller",
+            "Nico Muller",
+            "Muller"
+          ]
+        },
+        {
+          "answer": "Sheldon van der Linde",
+          "display": "#11 — 55 pts",
+          "aliases": []
+        },
+        {
+          "answer": "Arjun Maini",
+          "display": "#12 — 48 pts",
+          "aliases": [
+            "Maini"
+          ]
+        },
+        {
+          "answer": "Esteban Muth",
+          "display": "#13 — 41 pts",
+          "aliases": []
+        }
+      ]
+    },
+    {
+      "category": "sports/motorsport/dtm",
+      "question": "Top 10 drivers in the final 2022 Deutsche Tourenwagen Masters standings",
+      "cutoff": 10,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1376439588 | table 7 | name: Driver | value: Pos | order: asc",
+      "tags": [
+        "motorsport",
+        "dtm",
+        "drivers-championship",
+        "2022"
+      ],
+      "answers": [
+        {
+          "answer": "Sheldon van der Linde",
+          "display": "#1 — 164 pts",
+          "aliases": []
+        },
+        {
+          "answer": "Lucas Auer",
+          "display": "#2 — 153 pts",
+          "aliases": [
+            "Auer"
+          ]
+        },
+        {
+          "answer": "René Rast",
+          "display": "#3 — 149 pts",
+          "aliases": [
+            "Rast",
+            "Rene Rast"
+          ]
+        },
+        {
+          "answer": "Mirko Bortolotti",
+          "display": "#4 — 121 pts",
+          "aliases": [
+            "Bortolotti"
+          ]
+        },
+        {
+          "answer": "Thomas Preining",
+          "display": "#5 — 116 pts",
+          "aliases": [
+            "Preining"
+          ]
+        },
+        {
+          "answer": "Luca Stolz",
+          "display": "#6 — 108 pts",
+          "aliases": [
+            "Stolz"
+          ]
+        },
+        {
+          "answer": "Nico Müller",
+          "display": "#7 — 105 pts",
+          "aliases": [
+            "Müller",
+            "Nico Muller",
+            "Muller"
+          ]
+        },
+        {
+          "answer": "Marco Wittmann",
+          "display": "#8 — 98 pts",
+          "aliases": [
+            "Wittmann"
+          ]
+        },
+        {
+          "answer": "Kelvin van der Linde",
+          "display": "#9 — 90 pts",
+          "aliases": []
+        },
+        {
+          "answer": "Dennis Olsen",
+          "display": "#10 — 89 pts",
+          "aliases": [
+            "Olsen"
+          ]
+        },
+        {
+          "answer": "Maximilian Götz",
+          "display": "#11 — 74 pts",
+          "aliases": [
+            "Götz",
+            "Maximilian Gotz",
+            "Gotz"
+          ]
+        },
+        {
+          "answer": "Maro Engel",
+          "display": "#12 — 65 pts",
+          "aliases": [
+            "Engel"
+          ]
+        },
+        {
+          "answer": "Nick Cassidy",
+          "display": "#13 — 64 pts",
+          "aliases": [
+            "Cassidy"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/motorsport/dtm",
+      "question": "Top 10 drivers in the final 2023 Deutsche Tourenwagen Masters standings",
+      "cutoff": 10,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1372164179 | table 7 | name: Driver | value: Pos | order: asc",
+      "tags": [
+        "motorsport",
+        "dtm",
+        "drivers-championship",
+        "2023"
+      ],
+      "answers": [
+        {
+          "answer": "Thomas Preining",
+          "display": "#1 — 246 pts",
+          "aliases": [
+            "Preining"
+          ]
+        },
+        {
+          "answer": "Mirko Bortolotti",
+          "display": "#2 — 213 pts",
+          "aliases": [
+            "Bortolotti"
+          ]
+        },
+        {
+          "answer": "Ricardo Feller",
+          "display": "#3 — 179 pts",
+          "aliases": [
+            "Feller"
+          ]
+        },
+        {
+          "answer": "Sheldon van der Linde",
+          "display": "#4 — 151 pts",
+          "aliases": []
+        },
+        {
+          "answer": "René Rast",
+          "display": "#5 — 140 pts",
+          "aliases": [
+            "Rast",
+            "Rene Rast"
+          ]
+        },
+        {
+          "answer": "Luca Stolz",
+          "display": "#6 — 133 pts",
+          "aliases": [
+            "Stolz"
+          ]
+        },
+        {
+          "answer": "Dennis Olsen",
+          "display": "#7 — 129 pts",
+          "aliases": [
+            "Olsen"
+          ]
+        },
+        {
+          "answer": "Kelvin van der Linde",
+          "display": "#8 — 119 pts",
+          "aliases": []
+        },
+        {
+          "answer": "Lucas Auer",
+          "display": "#9 — 111 pts",
+          "aliases": [
+            "Auer"
+          ]
+        },
+        {
+          "answer": "Maro Engel",
+          "display": "#10 — 107 pts",
+          "aliases": [
+            "Engel"
+          ]
+        },
+        {
+          "answer": "Franck Perera",
+          "display": "#11 — 95 pts",
+          "aliases": [
+            "Perera"
+          ]
+        },
+        {
+          "answer": "Laurin Heinrich",
+          "display": "#12 — 94 pts",
+          "aliases": [
+            "Heinrich"
+          ]
+        },
+        {
+          "answer": "Marco Wittmann",
+          "display": "#13 — 91 pts",
+          "aliases": [
+            "Wittmann"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/motorsport/dtm",
+      "question": "Top 10 drivers in the final 2024 Deutsche Tourenwagen Masters standings",
+      "cutoff": 10,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1372163529 | table 7 | name: Driver | value: Pos | order: asc",
+      "tags": [
+        "motorsport",
+        "dtm",
+        "drivers-championship",
+        "2024"
+      ],
+      "answers": [
+        {
+          "answer": "Mirko Bortolotti",
+          "display": "#1 — 238 pts",
+          "aliases": [
+            "Bortolotti"
+          ]
+        },
+        {
+          "answer": "Kelvin van der Linde",
+          "display": "#2 — 221 pts",
+          "aliases": []
+        },
+        {
+          "answer": "Maro Engel",
+          "display": "#3 — 203 pts",
+          "aliases": [
+            "Engel"
+          ]
+        },
+        {
+          "answer": "René Rast",
+          "display": "#4 — 172 pts",
+          "aliases": [
+            "Rast",
+            "Rene Rast"
+          ]
+        },
+        {
+          "answer": "Thomas Preining",
+          "display": "#5 — 158 pts",
+          "aliases": [
+            "Preining"
+          ]
+        },
+        {
+          "answer": "Sheldon van der Linde",
+          "display": "#6 — 142 pts",
+          "aliases": []
+        },
+        {
+          "answer": "Arjun Maini",
+          "display": "#7 — 139 pts",
+          "aliases": [
+            "Maini"
+          ]
+        },
+        {
+          "answer": "Jack Aitken",
+          "display": "#8 — 128 pts",
+          "aliases": [
+            "Aitken"
+          ]
+        },
+        {
+          "answer": "Luca Stolz",
+          "display": "#9 — 127 pts",
+          "aliases": [
+            "Stolz"
+          ]
+        },
+        {
+          "answer": "Lucas Auer",
+          "display": "#10 — 116 pts",
+          "aliases": [
+            "Auer"
+          ]
+        },
+        {
+          "answer": "Ricardo Feller",
+          "display": "#11 — 115 pts",
+          "aliases": [
+            "Feller"
+          ]
+        },
+        {
+          "answer": "Marco Wittmann",
+          "display": "#12 — 110 pts",
+          "aliases": [
+            "Wittmann"
+          ]
+        },
+        {
+          "answer": "Nicki Thiim",
+          "display": "#13 — 93 pts",
+          "aliases": [
+            "Thiim"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/motorsport/dtm",
+      "question": "Top 10 drivers in the final 2025 Deutsche Tourenwagen Masters standings",
+      "cutoff": 10,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1372162941 | table 7 | name: Driver | value: Pos | order: asc",
+      "tags": [
+        "motorsport",
+        "dtm",
+        "drivers-championship",
+        "2025"
+      ],
+      "answers": [
+        {
+          "answer": "Ayhancan Güven",
+          "display": "#1 — 192 pts",
+          "aliases": [
+            "Güven",
+            "Ayhancan Guven",
+            "Guven"
+          ]
+        },
+        {
+          "answer": "Lucas Auer",
+          "display": "#2 — 188 pts",
+          "aliases": [
+            "Auer"
+          ]
+        },
+        {
+          "answer": "Maro Engel",
+          "display": "#3 — 184 pts",
+          "aliases": [
+            "Engel"
+          ]
+        },
+        {
+          "answer": "Thomas Preining",
+          "display": "#4 — 182 pts",
+          "aliases": [
+            "Preining"
+          ]
+        },
+        {
+          "answer": "Marco Wittmann",
+          "display": "#5 — 170 pts",
+          "aliases": [
+            "Wittmann"
+          ]
+        },
+        {
+          "answer": "René Rast",
+          "display": "#6 — 169 pts",
+          "aliases": [
+            "Rast",
+            "Rene Rast"
+          ]
+        },
+        {
+          "answer": "Jordan Pepper",
+          "display": "#7 — 164 pts",
+          "aliases": [
+            "Pepper"
+          ]
+        },
+        {
+          "answer": "Jack Aitken",
+          "display": "#8 — 162 pts",
+          "aliases": [
+            "Aitken"
+          ]
+        },
+        {
+          "answer": "Jules Gounon",
+          "display": "#9 — 142 pts",
+          "aliases": [
+            "Gounon"
+          ]
+        },
+        {
+          "answer": "Thierry Vermeulen",
+          "display": "#10 — 102 pts",
+          "aliases": [
+            "Vermeulen"
+          ]
+        },
+        {
+          "answer": "Ricardo Feller",
+          "display": "#11 — 100 pts",
+          "aliases": [
+            "Feller"
+          ]
+        },
+        {
+          "answer": "Luca Engstler",
+          "display": "#12 — 81 pts",
+          "aliases": [
+            "Engstler"
+          ]
+        },
+        {
+          "answer": "Ben Green",
+          "display": "#13 — 79 pts",
+          "aliases": [
+            "Green"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/motorsport/btcc",
+      "question": "Top 10 drivers in the final 1992 British Touring Car Championship standings",
+      "cutoff": 10,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1372070886 | table 5 | name: Driver | value: Pos | order: asc",
+      "tags": [
+        "motorsport",
+        "btcc",
+        "drivers-championship",
+        "1992"
+      ],
+      "answers": [
+        {
+          "answer": "Tim Harvey",
+          "display": "#1 — 152 pts",
+          "aliases": [
+            "Harvey"
+          ]
+        },
+        {
+          "answer": "Will Hoy",
+          "display": "#2 — 149 pts",
+          "aliases": [
+            "Hoy"
+          ]
+        },
+        {
+          "answer": "John Cleland",
+          "display": "#3 — 145 pts",
+          "aliases": [
+            "Cleland"
+          ]
+        },
+        {
+          "answer": "Jeff Allam",
+          "display": "#4 — 137 pts",
+          "aliases": [
+            "Allam"
+          ]
+        },
+        {
+          "answer": "Andy Rouse",
+          "display": "#5 — 128 pts",
+          "aliases": [
+            "Rouse"
+          ]
+        },
+        {
+          "answer": "Steve Soper",
+          "display": "#6 — 77 pts",
+          "aliases": [
+            "Soper"
+          ]
+        },
+        {
+          "answer": "David Leslie",
+          "display": "#7 — 66 pts",
+          "aliases": [
+            "Leslie"
+          ]
+        },
+        {
+          "answer": "Tim Sugden",
+          "display": "#8 — 43 pts",
+          "aliases": [
+            "Sugden"
+          ]
+        },
+        {
+          "answer": "Alain Menu",
+          "display": "#9 — 27 pts",
+          "aliases": [
+            "Menu"
+          ]
+        },
+        {
+          "answer": "James Kaye",
+          "display": "#10 — 19 pts",
+          "aliases": [
+            "Kaye"
+          ]
+        },
+        {
+          "answer": "Kris Nissen",
+          "display": "#11 — 18 pts",
+          "aliases": [
+            "Nissen"
+          ]
+        },
+        {
+          "answer": "Keith O'Dor",
+          "display": "#12 — 17 pts",
+          "aliases": [
+            "O'Dor",
+            "Kieth O'Dor"
+          ]
+        },
+        {
+          "answer": "Ray Bellm",
+          "display": "#13 — 15 pts",
+          "aliases": [
+            "Bellm"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/motorsport/btcc",
+      "question": "Top 10 drivers in the final 1993 British Touring Car Championship standings",
+      "cutoff": 10,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1373042004 | table 5 | name: Driver | value: Pos | order: asc",
+      "tags": [
+        "motorsport",
+        "btcc",
+        "drivers-championship",
+        "1993"
+      ],
+      "answers": [
+        {
+          "answer": "Joachim Winkelhock",
+          "display": "#1 — 163 pts",
+          "aliases": [
+            "Winkelhock"
+          ]
+        },
+        {
+          "answer": "Steve Soper",
+          "display": "#2 — 150 pts",
+          "aliases": [
+            "Soper"
+          ]
+        },
+        {
+          "answer": "Paul Radisich",
+          "display": "#3 — 110 pts",
+          "aliases": [
+            "Radisich"
+          ]
+        },
+        {
+          "answer": "John Cleland",
+          "display": "#4 — 102 pts",
+          "aliases": [
+            "Cleland"
+          ]
+        },
+        {
+          "answer": "Julian Bailey",
+          "display": "#5 — 88 pts",
+          "aliases": [
+            "Bailey"
+          ]
+        },
+        {
+          "answer": "Keith O'Dor",
+          "display": "#6 — 82 pts",
+          "aliases": [
+            "O'Dor",
+            "Kieth O'Dor"
+          ]
+        },
+        {
+          "answer": "Will Hoy",
+          "display": "#7 — 79 pts",
+          "aliases": [
+            "Hoy"
+          ]
+        },
+        {
+          "answer": "David Leslie",
+          "display": "#8 — 72 pts",
+          "aliases": [
+            "Leslie"
+          ]
+        },
+        {
+          "answer": "Jeff Allam",
+          "display": "#9 — 67 pts",
+          "aliases": [
+            "Allam"
+          ]
+        },
+        {
+          "answer": "Alain Menu",
+          "display": "#10 — 57 pts",
+          "aliases": [
+            "Menu"
+          ]
+        },
+        {
+          "answer": "Andy Rouse",
+          "display": "#11 — 41 pts",
+          "aliases": [
+            "Rouse"
+          ]
+        },
+        {
+          "answer": "Win Percy",
+          "display": "#12 — 38 pts",
+          "aliases": [
+            "Percy"
+          ]
+        },
+        {
+          "answer": "Robb Gravett",
+          "display": "#13 — 34 pts",
+          "aliases": [
+            "Gravett"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/motorsport/btcc",
+      "question": "Top 10 drivers in the final 1994 British Touring Car Championship standings",
+      "cutoff": 10,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1372657687 | table 5 | name: Driver | value: Pos | order: asc",
+      "tags": [
+        "motorsport",
+        "btcc",
+        "drivers-championship",
+        "1994"
+      ],
+      "answers": [
+        {
+          "answer": "Gabriele Tarquini",
+          "display": "#1 — 298 pts",
+          "aliases": [
+            "Tarquini"
+          ]
+        },
+        {
+          "answer": "Alain Menu",
+          "display": "#2 — 222 pts",
+          "aliases": [
+            "Menu"
+          ]
+        },
+        {
+          "answer": "Paul Radisich",
+          "display": "#3 — 206 pts",
+          "aliases": [
+            "Radisich"
+          ]
+        },
+        {
+          "answer": "John Cleland",
+          "display": "#4 — 177 pts",
+          "aliases": [
+            "Cleland"
+          ]
+        },
+        {
+          "answer": "Giampiero Simoni",
+          "display": "#5 — 156 pts",
+          "aliases": [
+            "Simoni"
+          ]
+        },
+        {
+          "answer": "Joachim Winkelhock",
+          "display": "#6 — 147 pts",
+          "aliases": [
+            "Winkelhock"
+          ]
+        },
+        {
+          "answer": "Steve Soper",
+          "display": "#7 — 102 pts",
+          "aliases": [
+            "Soper"
+          ]
+        },
+        {
+          "answer": "Patrick Watts",
+          "display": "#8 — 98 pts",
+          "aliases": [
+            "Watts"
+          ]
+        },
+        {
+          "answer": "Tim Harvey",
+          "display": "#9 — 79 pts",
+          "aliases": [
+            "Harvey"
+          ]
+        },
+        {
+          "answer": "Jeff Allam",
+          "display": "#10 — 76 pts",
+          "aliases": [
+            "Allam"
+          ]
+        },
+        {
+          "answer": "Andy Rouse",
+          "display": "#11 — 66 pts",
+          "aliases": [
+            "Rouse"
+          ]
+        },
+        {
+          "answer": "Julian Bailey",
+          "display": "#12 — 66 pts",
+          "aliases": [
+            "Bailey"
+          ]
+        },
+        {
+          "answer": "Will Hoy",
+          "display": "#13 — 48 pts",
+          "aliases": [
+            "Hoy"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/motorsport/btcc",
+      "question": "Top 10 drivers in the final 1995 British Touring Car Championship standings",
+      "cutoff": 10,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1372071826 | table 4 | name: Driver | value: Pos | order: asc",
+      "tags": [
+        "motorsport",
+        "btcc",
+        "drivers-championship",
+        "1995"
+      ],
+      "answers": [
+        {
+          "answer": "John Cleland",
+          "display": "#1 — 348 pts",
+          "aliases": [
+            "Cleland"
+          ]
+        },
+        {
+          "answer": "Alain Menu",
+          "display": "#2 — 305 pts",
+          "aliases": [
+            "Menu"
+          ]
+        },
+        {
+          "answer": "Rickard Rydell",
+          "display": "#3 — 255 pts",
+          "aliases": [
+            "Rydell"
+          ]
+        },
+        {
+          "answer": "Will Hoy",
+          "display": "#4 — 195 pts",
+          "aliases": [
+            "Hoy"
+          ]
+        },
+        {
+          "answer": "Tim Harvey",
+          "display": "#5 — 176 pts",
+          "aliases": [
+            "Harvey"
+          ]
+        },
+        {
+          "answer": "Paul Radisich",
+          "display": "#6 — 130 pts",
+          "aliases": [
+            "Radisich"
+          ]
+        },
+        {
+          "answer": "James Thompson",
+          "display": "#7 — 124 pts",
+          "aliases": [
+            "Thompson"
+          ]
+        },
+        {
+          "answer": "Kelvin Burt",
+          "display": "#8 — 117 pts",
+          "aliases": [
+            "Burt"
+          ]
+        },
+        {
+          "answer": "Julian Bailey",
+          "display": "#9 — 94 pts",
+          "aliases": [
+            "Bailey"
+          ]
+        },
+        {
+          "answer": "Patrick Watts",
+          "display": "#10 — 61 pts",
+          "aliases": [
+            "Watts"
+          ]
+        },
+        {
+          "answer": "David Leslie",
+          "display": "#11 — 61 pts",
+          "aliases": [
+            "Leslie"
+          ]
+        },
+        {
+          "answer": "Johnny Cecotto",
+          "display": "#12 — 49 pts",
+          "aliases": [
+            "Cecotto"
+          ]
+        },
+        {
+          "answer": "David Brabham",
+          "display": "#13 — 48 pts",
+          "aliases": [
+            "Brabham"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/motorsport/btcc",
+      "question": "Top 10 drivers in the final 1996 British Touring Car Championship standings",
+      "cutoff": 10,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1372072236 | table 5 | name: Driver | value: Pos | order: asc",
+      "tags": [
+        "motorsport",
+        "btcc",
+        "drivers-championship",
+        "1996"
+      ],
+      "answers": [
+        {
+          "answer": "Frank Biela",
+          "display": "#1 — 289 pts",
+          "aliases": [
+            "Biela"
+          ]
+        },
+        {
+          "answer": "Alain Menu",
+          "display": "#2 — 197 pts",
+          "aliases": [
+            "Menu"
+          ]
+        },
+        {
+          "answer": "Rickard Rydell",
+          "display": "#3 — 194 pts",
+          "aliases": [
+            "Rydell"
+          ]
+        },
+        {
+          "answer": "David Leslie",
+          "display": "#4 — 159 pts",
+          "aliases": [
+            "Leslie"
+          ]
+        },
+        {
+          "answer": "Joachim Winkelhock",
+          "display": "#5 — 158 pts",
+          "aliases": [
+            "Winkelhock"
+          ]
+        },
+        {
+          "answer": "Roberto Ravaglia",
+          "display": "#6 — 157 pts",
+          "aliases": [
+            "Ravaglia"
+          ]
+        },
+        {
+          "answer": "John Bintcliffe",
+          "display": "#7 — 113 pts",
+          "aliases": [
+            "Bintcliffe"
+          ]
+        },
+        {
+          "answer": "John Cleland",
+          "display": "#8 — 102 pts",
+          "aliases": [
+            "Cleland"
+          ]
+        },
+        {
+          "answer": "Will Hoy",
+          "display": "#9 — 95 pts",
+          "aliases": [
+            "Hoy"
+          ]
+        },
+        {
+          "answer": "James Thompson",
+          "display": "#10 — 83 pts",
+          "aliases": [
+            "Thompson"
+          ]
+        },
+        {
+          "answer": "Kelvin Burt",
+          "display": "#11 — 66 pts",
+          "aliases": [
+            "Burt"
+          ]
+        },
+        {
+          "answer": "James Kaye",
+          "display": "#12 — 33 pts",
+          "aliases": [
+            "Kaye"
+          ]
+        },
+        {
+          "answer": "Paul Radisich",
+          "display": "#13 — 27 pts",
+          "aliases": [
+            "Radisich"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/motorsport/btcc",
+      "question": "Top 10 drivers in the final 1997 British Touring Car Championship standings",
+      "cutoff": 10,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1372072577 | table 5 | name: Driver | value: Pos | order: asc",
+      "tags": [
+        "motorsport",
+        "btcc",
+        "drivers-championship",
+        "1997"
+      ],
+      "answers": [
+        {
+          "answer": "Alain Menu",
+          "display": "#1 — 281 pts",
+          "aliases": [
+            "Menu"
+          ]
+        },
+        {
+          "answer": "Frank Biela",
+          "display": "#2 — 171 pts",
+          "aliases": [
+            "Biela"
+          ]
+        },
+        {
+          "answer": "Jason Plato",
+          "display": "#3 — 170 pts",
+          "aliases": [
+            "Plato"
+          ]
+        },
+        {
+          "answer": "Rickard Rydell",
+          "display": "#4 — 137 pts",
+          "aliases": [
+            "Rydell"
+          ]
+        },
+        {
+          "answer": "James Thompson",
+          "display": "#5 — 132 pts",
+          "aliases": [
+            "Thompson"
+          ]
+        },
+        {
+          "answer": "Gabriele Tarquini",
+          "display": "#6 — 130 pts",
+          "aliases": [
+            "Tarquini"
+          ]
+        },
+        {
+          "answer": "John Bintcliffe",
+          "display": "#7 — 119 pts",
+          "aliases": [
+            "Bintcliffe"
+          ]
+        },
+        {
+          "answer": "David Leslie",
+          "display": "#8 — 87 pts",
+          "aliases": [
+            "Leslie"
+          ]
+        },
+        {
+          "answer": "Tim Harvey",
+          "display": "#9 — 66 pts",
+          "aliases": [
+            "Harvey"
+          ]
+        },
+        {
+          "answer": "Kelvin Burt",
+          "display": "#10 — 60 pts",
+          "aliases": [
+            "Burt"
+          ]
+        },
+        {
+          "answer": "Anthony Reid",
+          "display": "#11 — 56 pts",
+          "aliases": [
+            "Reid"
+          ]
+        },
+        {
+          "answer": "John Cleland",
+          "display": "#12 — 44 pts",
+          "aliases": [
+            "Cleland"
+          ]
+        },
+        {
+          "answer": "Paul Radisich",
+          "display": "#13 — 41 pts",
+          "aliases": [
+            "Radisich"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/motorsport/btcc",
+      "question": "Top 10 drivers in the final 1998 British Touring Car Championship standings",
+      "cutoff": 10,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1379394928 | table 4 | name: Driver | value: Pos | order: asc",
+      "tags": [
+        "motorsport",
+        "btcc",
+        "drivers-championship",
+        "1998"
+      ],
+      "answers": [
+        {
+          "answer": "Rickard Rydell",
+          "display": "#1 — 254 pts",
+          "aliases": [
+            "Rydell"
+          ]
+        },
+        {
+          "answer": "Anthony Reid",
+          "display": "#2 — 239 pts",
+          "aliases": [
+            "Reid"
+          ]
+        },
+        {
+          "answer": "James Thompson",
+          "display": "#3 — 203 pts",
+          "aliases": [
+            "Thompson"
+          ]
+        },
+        {
+          "answer": "Alain Menu",
+          "display": "#4 — 187 pts",
+          "aliases": [
+            "Menu"
+          ]
+        },
+        {
+          "answer": "Jason Plato",
+          "display": "#5 — 163 pts",
+          "aliases": [
+            "Plato"
+          ]
+        },
+        {
+          "answer": "David Leslie",
+          "display": "#6 — 148 pts",
+          "aliases": [
+            "Leslie"
+          ]
+        },
+        {
+          "answer": "Yvan Muller",
+          "display": "#7 — 110 pts",
+          "aliases": [
+            "Muller"
+          ]
+        },
+        {
+          "answer": "John Cleland",
+          "display": "#8 — 106 pts",
+          "aliases": [
+            "Cleland"
+          ]
+        },
+        {
+          "answer": "Derek Warwick",
+          "display": "#9 — 70 pts",
+          "aliases": [
+            "Warwick"
+          ]
+        },
+        {
+          "answer": "Will Hoy",
+          "display": "#10 — 69 pts",
+          "aliases": [
+            "Hoy"
+          ]
+        },
+        {
+          "answer": "Gianni Morbidelli",
+          "display": "#11 — 56 pts",
+          "aliases": [
+            "Morbidelli"
+          ]
+        },
+        {
+          "answer": "Peter Kox",
+          "display": "#12 — 52 pts",
+          "aliases": [
+            "Kox"
+          ]
+        },
+        {
+          "answer": "Matt Neal",
+          "display": "#13 — 35 pts",
+          "aliases": [
+            "Neal"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/motorsport/btcc",
+      "question": "Top 10 drivers in the final 1999 British Touring Car Championship standings",
+      "cutoff": 10,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1373042152 | table 4 | name: Driver | value: Pos | order: asc",
+      "tags": [
+        "motorsport",
+        "btcc",
+        "drivers-championship",
+        "1999"
+      ],
+      "answers": [
+        {
+          "answer": "Laurent Aïello",
+          "display": "#1 — 244 pts",
+          "aliases": [
+            "Aïello",
+            "Laurent Aiello",
+            "Aiello"
+          ]
+        },
+        {
+          "answer": "David Leslie",
+          "display": "#2 — 228 pts",
+          "aliases": [
+            "Leslie"
+          ]
+        },
+        {
+          "answer": "Rickard Rydell",
+          "display": "#3 — 192 pts",
+          "aliases": [
+            "Rydell"
+          ]
+        },
+        {
+          "answer": "James Thompson",
+          "display": "#4 — 174 pts",
+          "aliases": [
+            "Thompson"
+          ]
+        },
+        {
+          "answer": "Jason Plato",
+          "display": "#5 — 122 pts",
+          "aliases": [
+            "Plato"
+          ]
+        },
+        {
+          "answer": "Yvan Muller",
+          "display": "#6 — 119 pts",
+          "aliases": [
+            "Muller"
+          ]
+        },
+        {
+          "answer": "Peter Kox",
+          "display": "#7 — 113 pts",
+          "aliases": [
+            "Kox"
+          ]
+        },
+        {
+          "answer": "Vincent Radermecker",
+          "display": "#8 — 111 pts",
+          "aliases": [
+            "Radermecker"
+          ]
+        },
+        {
+          "answer": "Matt Neal",
+          "display": "#9 — 110 pts",
+          "aliases": [
+            "Neal"
+          ]
+        },
+        {
+          "answer": "Jean-Christophe Boullion",
+          "display": "#10 — 97 pts",
+          "aliases": [
+            "Boullion"
+          ]
+        },
+        {
+          "answer": "Alain Menu",
+          "display": "#11 — 84 pts",
+          "aliases": [
+            "Menu"
+          ]
+        },
+        {
+          "answer": "Anthony Reid",
+          "display": "#12 — 78 pts",
+          "aliases": [
+            "Reid"
+          ]
+        },
+        {
+          "answer": "John Cleland",
+          "display": "#13 — 51 pts",
+          "aliases": [
+            "Cleland"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/motorsport/btcc",
+      "question": "Top 10 drivers in the final 2004 British Touring Car Championship standings",
+      "cutoff": 10,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1376542253 | table 4 | name: Driver | value: Pos | order: asc",
+      "tags": [
+        "motorsport",
+        "btcc",
+        "drivers-championship",
+        "2004"
+      ],
+      "answers": [
+        {
+          "answer": "James Thompson",
+          "display": "#1 — 274 pts",
+          "aliases": [
+            "Thompson"
+          ]
+        },
+        {
+          "answer": "Yvan Muller",
+          "display": "#2 — 273 pts",
+          "aliases": [
+            "Muller"
+          ]
+        },
+        {
+          "answer": "Jason Plato",
+          "display": "#3 — 224 pts",
+          "aliases": [
+            "Plato"
+          ]
+        },
+        {
+          "answer": "Anthony Reid",
+          "display": "#4 — 213 pts",
+          "aliases": [
+            "Reid"
+          ]
+        },
+        {
+          "answer": "Matt Neal",
+          "display": "#5 — 181 pts",
+          "aliases": [
+            "Neal"
+          ]
+        },
+        {
+          "answer": "Colin Turkington",
+          "display": "#6 — 173 pts",
+          "aliases": [
+            "Turkington"
+          ]
+        },
+        {
+          "answer": "Rob Huff",
+          "display": "#7 — 148 pts",
+          "aliases": [
+            "Huff",
+            "Robert Huff"
+          ]
+        },
+        {
+          "answer": "Dan Eaves",
+          "display": "#8 — 148 pts",
+          "aliases": [
+            "Eaves"
+          ]
+        },
+        {
+          "answer": "Tom Chilton",
+          "display": "#9 — 116 pts",
+          "aliases": [
+            "Chilton"
+          ]
+        },
+        {
+          "answer": "Luke Hines",
+          "display": "#10 — 115 pts",
+          "aliases": [
+            "Hines"
+          ]
+        },
+        {
+          "answer": "James Kaye",
+          "display": "#11 — 49 pts",
+          "aliases": [
+            "Kaye"
+          ]
+        },
+        {
+          "answer": "Rob Collard",
+          "display": "#12 — 44 pts",
+          "aliases": [
+            "Collard"
+          ]
+        },
+        {
+          "answer": "Michael Bentwood",
+          "display": "#13 — 42 pts",
+          "aliases": [
+            "Bentwood"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/motorsport/btcc",
+      "question": "Top 10 drivers in the final 2005 British Touring Car Championship standings",
+      "cutoff": 10,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1328663419 | table 4 | name: Driver | value: Pos | order: asc",
+      "tags": [
+        "motorsport",
+        "btcc",
+        "drivers-championship",
+        "2005"
+      ],
+      "answers": [
+        {
+          "answer": "Matt Neal",
+          "display": "#1 — 316 pts",
+          "aliases": [
+            "Neal"
+          ]
+        },
+        {
+          "answer": "Yvan Muller",
+          "display": "#2 — 273 pts",
+          "aliases": [
+            "Muller"
+          ]
+        },
+        {
+          "answer": "Dan Eaves",
+          "display": "#3 — 269 pts",
+          "aliases": [
+            "Eaves"
+          ]
+        },
+        {
+          "answer": "Jason Plato",
+          "display": "#4 — 208 pts",
+          "aliases": [
+            "Plato"
+          ]
+        },
+        {
+          "answer": "Tom Chilton",
+          "display": "#5 — 175 pts",
+          "aliases": [
+            "Chilton"
+          ]
+        },
+        {
+          "answer": "Colin Turkington",
+          "display": "#6 — 174 pts",
+          "aliases": [
+            "Turkington"
+          ]
+        },
+        {
+          "answer": "Rob Collard",
+          "display": "#7 — 173 pts",
+          "aliases": [
+            "Collard"
+          ]
+        },
+        {
+          "answer": "James Pickford",
+          "display": "#8 — 116 pts",
+          "aliases": [
+            "Pickford"
+          ]
+        },
+        {
+          "answer": "Luke Hines",
+          "display": "#9 — 87 pts",
+          "aliases": [
+            "Hines"
+          ]
+        },
+        {
+          "answer": "Gavin Smith",
+          "display": "#10 — 86 pts",
+          "aliases": [
+            "Smith"
+          ]
+        },
+        {
+          "answer": "James Kaye",
+          "display": "#11 — 58 pts",
+          "aliases": [
+            "Kaye"
+          ]
+        },
+        {
+          "answer": "Gareth Howell",
+          "display": "#12 — 54 pts",
+          "aliases": [
+            "Howell"
+          ]
+        },
+        {
+          "answer": "Jason Hughes",
+          "display": "#13 — 22 pts",
+          "aliases": [
+            "Hughes"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/motorsport/btcc",
+      "question": "Top 10 drivers in the final 2006 British Touring Car Championship standings",
+      "cutoff": 10,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1376508907 | table 3 | name: Driver | value: Pos | order: asc",
+      "tags": [
+        "motorsport",
+        "btcc",
+        "drivers-championship",
+        "2006"
+      ],
+      "answers": [
+        {
+          "answer": "Matt Neal",
+          "display": "#1 — 289 pts",
+          "aliases": [
+            "Neal"
+          ]
+        },
+        {
+          "answer": "Jason Plato",
+          "display": "#2 — 241 pts",
+          "aliases": [
+            "Plato"
+          ]
+        },
+        {
+          "answer": "Colin Turkington",
+          "display": "#3 — 240 pts",
+          "aliases": [
+            "Turkington"
+          ]
+        },
+        {
+          "answer": "Gordon Shedden",
+          "display": "#4 — 204 pts",
+          "aliases": [
+            "Shedden"
+          ]
+        },
+        {
+          "answer": "Fabrizio Giovanardi",
+          "display": "#5 — 163 pts",
+          "aliases": [
+            "Giovanardi"
+          ]
+        },
+        {
+          "answer": "James Thompson",
+          "display": "#6 — 162 pts",
+          "aliases": [
+            "Thompson"
+          ]
+        },
+        {
+          "answer": "Tom Chilton",
+          "display": "#7 — 139 pts",
+          "aliases": [
+            "Chilton"
+          ]
+        },
+        {
+          "answer": "Gavin Smith",
+          "display": "#8 — 123 pts",
+          "aliases": [
+            "Smith"
+          ]
+        },
+        {
+          "answer": "Rob Collard",
+          "display": "#9 — 97 pts",
+          "aliases": [
+            "Collard"
+          ]
+        },
+        {
+          "answer": "Mike Jordan",
+          "display": "#10 — 91 pts",
+          "aliases": [
+            "Jordan"
+          ]
+        },
+        {
+          "answer": "Gareth Howell",
+          "display": "#11 — 80 pts",
+          "aliases": [
+            "Howell"
+          ]
+        },
+        {
+          "answer": "James Kaye",
+          "display": "#12 — 61 pts",
+          "aliases": [
+            "Kaye"
+          ]
+        },
+        {
+          "answer": "David Pinkney",
+          "display": "#13 — 56 pts",
+          "aliases": [
+            "Pinkney"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/motorsport/btcc",
+      "question": "Top 10 drivers in the final 2007 British Touring Car Championship standings",
+      "cutoff": 10,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1371820309 | table 4 | name: Driver | value: Pos | order: asc",
+      "tags": [
+        "motorsport",
+        "btcc",
+        "drivers-championship",
+        "2007"
+      ],
+      "answers": [
+        {
+          "answer": "Fabrizio Giovanardi",
+          "display": "#1 — 300 pts",
+          "aliases": [
+            "Giovanardi"
+          ]
+        },
+        {
+          "answer": "Jason Plato",
+          "display": "#2 — 297 pts",
+          "aliases": [
+            "Plato"
+          ]
+        },
+        {
+          "answer": "Gordon Shedden",
+          "display": "#3 — 200 pts",
+          "aliases": [
+            "Shedden"
+          ]
+        },
+        {
+          "answer": "Matt Neal",
+          "display": "#4 — 195 pts",
+          "aliases": [
+            "Neal"
+          ]
+        },
+        {
+          "answer": "Colin Turkington",
+          "display": "#5 — 184 pts",
+          "aliases": [
+            "Turkington"
+          ]
+        },
+        {
+          "answer": "Darren Turner",
+          "display": "#6 — 160 pts",
+          "aliases": [
+            "Turner"
+          ]
+        },
+        {
+          "answer": "Mat Jackson",
+          "display": "#7 — 158 pts",
+          "aliases": [
+            "Jackson"
+          ]
+        },
+        {
+          "answer": "Mike Jordan",
+          "display": "#8 — 131 pts",
+          "aliases": [
+            "Jordan"
+          ]
+        },
+        {
+          "answer": "Tom Chilton",
+          "display": "#9 — 130 pts",
+          "aliases": [
+            "Chilton"
+          ]
+        },
+        {
+          "answer": "Tom Onslow-Cole",
+          "display": "#10 — 109 pts",
+          "aliases": [
+            "Onslow-Cole"
+          ]
+        },
+        {
+          "answer": "Adam Jones",
+          "display": "#11 — 72 pts",
+          "aliases": [
+            "Jones"
+          ]
+        },
+        {
+          "answer": "Matt Allison",
+          "display": "#12 — 29 pts",
+          "aliases": [
+            "Allison"
+          ]
+        },
+        {
+          "answer": "Gavin Smith",
+          "display": "#13 — 17 pts",
+          "aliases": [
+            "Smith"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/motorsport/btcc",
+      "question": "Top 10 drivers in the final 2008 British Touring Car Championship standings",
+      "cutoff": 10,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1379525109 | table 4 | name: Driver | value: Pos | order: asc",
+      "tags": [
+        "motorsport",
+        "btcc",
+        "drivers-championship",
+        "2008"
+      ],
+      "answers": [
+        {
+          "answer": "Fabrizio Giovanardi",
+          "display": "#1 — 262 pts",
+          "aliases": [
+            "Giovanardi"
+          ]
+        },
+        {
+          "answer": "Mat Jackson",
+          "display": "#2 — 226 pts",
+          "aliases": [
+            "Jackson"
+          ]
+        },
+        {
+          "answer": "Jason Plato",
+          "display": "#3 — 223 pts",
+          "aliases": [
+            "Plato"
+          ]
+        },
+        {
+          "answer": "Colin Turkington",
+          "display": "#4 — 212 pts",
+          "aliases": [
+            "Turkington"
+          ]
+        },
+        {
+          "answer": "Matt Neal",
+          "display": "#5 — 185 pts",
+          "aliases": [
+            "Neal"
+          ]
+        },
+        {
+          "answer": "Tom Onslow-Cole",
+          "display": "#6 — 170 pts",
+          "aliases": [
+            "Onslow-Cole"
+          ]
+        },
+        {
+          "answer": "Gordon Shedden",
+          "display": "#7 — 144 pts",
+          "aliases": [
+            "Shedden"
+          ]
+        },
+        {
+          "answer": "Darren Turner",
+          "display": "#8 — 133 pts",
+          "aliases": [
+            "Turner"
+          ]
+        },
+        {
+          "answer": "Adam Jones",
+          "display": "#9 — 119 pts",
+          "aliases": [
+            "Jones"
+          ]
+        },
+        {
+          "answer": "Tom Chilton",
+          "display": "#10 — 107 pts",
+          "aliases": [
+            "Chilton"
+          ]
+        },
+        {
+          "answer": "Steven Kane",
+          "display": "#11 — 86 pts",
+          "aliases": [
+            "Kane"
+          ]
+        },
+        {
+          "answer": "Rob Collard",
+          "display": "#12 — 84 pts",
+          "aliases": [
+            "Collard"
+          ]
+        },
+        {
+          "answer": "Andrew Jordan",
+          "display": "#13 — 56 pts",
+          "aliases": [
+            "Jordan"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/motorsport/btcc",
+      "question": "Top 10 drivers in the final 2009 British Touring Car Championship standings",
+      "cutoff": 10,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1356338753 | table 4 | name: Driver | value: Pos | order: asc",
+      "tags": [
+        "motorsport",
+        "btcc",
+        "drivers-championship",
+        "2009"
+      ],
+      "answers": [
+        {
+          "answer": "Colin Turkington",
+          "display": "#1 — 275 pts",
+          "aliases": [
+            "Turkington"
+          ]
+        },
+        {
+          "answer": "Jason Plato",
+          "display": "#2 — 270 pts",
+          "aliases": [
+            "Plato"
+          ]
+        },
+        {
+          "answer": "Fabrizio Giovanardi",
+          "display": "#3 — 266 pts",
+          "aliases": [
+            "Giovanardi"
+          ]
+        },
+        {
+          "answer": "Matt Neal",
+          "display": "#4 — 170 pts",
+          "aliases": [
+            "Neal"
+          ]
+        },
+        {
+          "answer": "Mat Jackson",
+          "display": "#5 — 165 pts",
+          "aliases": [
+            "Jackson"
+          ]
+        },
+        {
+          "answer": "Rob Collard",
+          "display": "#6 — 145 pts",
+          "aliases": [
+            "Collard"
+          ]
+        },
+        {
+          "answer": "Stephen Jelley",
+          "display": "#7 — 137 pts",
+          "aliases": [
+            "Jelley"
+          ]
+        },
+        {
+          "answer": "Jonathan Adam",
+          "display": "#8 — 116 pts",
+          "aliases": [
+            "Adam"
+          ]
+        },
+        {
+          "answer": "James Thompson",
+          "display": "#9 — 114 pts",
+          "aliases": [
+            "Thompson"
+          ]
+        },
+        {
+          "answer": "Andrew Jordan",
+          "display": "#10 — 114 pts",
+          "aliases": [
+            "Jordan"
+          ]
+        },
+        {
+          "answer": "Adam Jones",
+          "display": "#11 — 62 pts",
+          "aliases": [
+            "Jones"
+          ]
+        },
+        {
+          "answer": "Paul O'Neill",
+          "display": "#12 — 60 pts",
+          "aliases": [
+            "O'Neill"
+          ]
+        },
+        {
+          "answer": "Tom Chilton",
+          "display": "#13 — 55 pts",
+          "aliases": [
+            "Chilton"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/motorsport/btcc",
+      "question": "Top 10 drivers in the final 2010 British Touring Car Championship standings",
+      "cutoff": 10,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1356337073 | table 4 | name: Driver | value: Pos | order: asc",
+      "tags": [
+        "motorsport",
+        "btcc",
+        "drivers-championship",
+        "2010"
+      ],
+      "answers": [
+        {
+          "answer": "Jason Plato",
+          "display": "#1 — 260 pts",
+          "aliases": [
+            "Plato"
+          ]
+        },
+        {
+          "answer": "Matt Neal",
+          "display": "#2 — 229 pts",
+          "aliases": [
+            "Neal"
+          ]
+        },
+        {
+          "answer": "Gordon Shedden",
+          "display": "#3 — 218 pts",
+          "aliases": [
+            "Shedden"
+          ]
+        },
+        {
+          "answer": "Tom Onslow-Cole",
+          "display": "#4 — 200 pts",
+          "aliases": [
+            "Onslow-Cole"
+          ]
+        },
+        {
+          "answer": "Tom Chilton",
+          "display": "#5 — 191 pts",
+          "aliases": [
+            "Chilton"
+          ]
+        },
+        {
+          "answer": "Steven Kane",
+          "display": "#6 — 169 pts",
+          "aliases": [
+            "Kane"
+          ]
+        },
+        {
+          "answer": "Mat Jackson",
+          "display": "#7 — 155 pts",
+          "aliases": [
+            "Jackson"
+          ]
+        },
+        {
+          "answer": "Rob Collard",
+          "display": "#8 — 144 pts",
+          "aliases": [
+            "Collard"
+          ]
+        },
+        {
+          "answer": "Paul O'Neill",
+          "display": "#9 — 136 pts",
+          "aliases": [
+            "O'Neill"
+          ]
+        },
+        {
+          "answer": "Andrew Jordan",
+          "display": "#10 — 101 pts",
+          "aliases": [
+            "Jordan"
+          ]
+        },
+        {
+          "answer": "Alex MacDowall",
+          "display": "#11 — 83 pts",
+          "aliases": [
+            "MacDowall"
+          ]
+        },
+        {
+          "answer": "James Nash",
+          "display": "#12 — 52 pts",
+          "aliases": [
+            "Nash"
+          ]
+        },
+        {
+          "answer": "Tom Boardman",
+          "display": "#13 — 48 pts",
+          "aliases": [
+            "Boardman"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/motorsport/btcc",
+      "question": "Top 10 drivers in the final 2011 British Touring Car Championship standings",
+      "cutoff": 10,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1372615860 | table 4 | name: Driver | value: Pos | order: asc",
+      "tags": [
+        "motorsport",
+        "btcc",
+        "drivers-championship",
+        "2011"
+      ],
+      "answers": [
+        {
+          "answer": "Matt Neal",
+          "display": "#1 — 257 pts",
+          "aliases": [
+            "Neal"
+          ]
+        },
+        {
+          "answer": "Gordon Shedden",
+          "display": "#2 — 249 pts",
+          "aliases": [
+            "Shedden"
+          ]
+        },
+        {
+          "answer": "Jason Plato",
+          "display": "#3 — 236 pts",
+          "aliases": [
+            "Plato"
+          ]
+        },
+        {
+          "answer": "Mat Jackson",
+          "display": "#4 — 191 pts",
+          "aliases": [
+            "Jackson"
+          ]
+        },
+        {
+          "answer": "James Nash",
+          "display": "#5 — 191 pts",
+          "aliases": [
+            "Nash"
+          ]
+        },
+        {
+          "answer": "Andrew Jordan",
+          "display": "#6 — 143 pts",
+          "aliases": [
+            "Jordan"
+          ]
+        },
+        {
+          "answer": "Tom Chilton",
+          "display": "#7 — 135 pts",
+          "aliases": [
+            "Chilton"
+          ]
+        },
+        {
+          "answer": "Rob Collard",
+          "display": "#8 — 108 pts",
+          "aliases": [
+            "Collard"
+          ]
+        },
+        {
+          "answer": "Alex MacDowall",
+          "display": "#9 — 100 pts",
+          "aliases": [
+            "MacDowall"
+          ]
+        },
+        {
+          "answer": "Paul O'Neill",
+          "display": "#10 — 91 pts",
+          "aliases": [
+            "O'Neill"
+          ]
+        },
+        {
+          "answer": "Tom Boardman",
+          "display": "#11 — 76 pts",
+          "aliases": [
+            "Boardman"
+          ]
+        },
+        {
+          "answer": "Frank Wrathall",
+          "display": "#12 — 65 pts",
+          "aliases": [
+            "Wrathall"
+          ]
+        },
+        {
+          "answer": "Tom Onslow-Cole",
+          "display": "#13 — 61 pts",
+          "aliases": [
+            "Onslow-Cole"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/motorsport/btcc",
+      "question": "Top 10 drivers in the final 2012 British Touring Car Championship standings",
+      "cutoff": 10,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1372659531 | table 4 | name: Driver | value: Pos | order: asc",
+      "tags": [
+        "motorsport",
+        "btcc",
+        "drivers-championship",
+        "2012"
+      ],
+      "answers": [
+        {
+          "answer": "Gordon Shedden",
+          "display": "#1 — 408 pts",
+          "aliases": [
+            "Shedden"
+          ]
+        },
+        {
+          "answer": "Matt Neal",
+          "display": "#2 — 387 pts",
+          "aliases": [
+            "Neal"
+          ]
+        },
+        {
+          "answer": "Jason Plato",
+          "display": "#3 — 377 pts",
+          "aliases": [
+            "Plato"
+          ]
+        },
+        {
+          "answer": "Andrew Jordan",
+          "display": "#4 — 346 pts",
+          "aliases": [
+            "Jordan"
+          ]
+        },
+        {
+          "answer": "Rob Collard",
+          "display": "#5 — 303 pts",
+          "aliases": [
+            "Collard"
+          ]
+        },
+        {
+          "answer": "Tom Onslow-Cole",
+          "display": "#6 — 281 pts",
+          "aliases": [
+            "Onslow-Cole"
+          ]
+        },
+        {
+          "answer": "Mat Jackson",
+          "display": "#7 — 274 pts",
+          "aliases": [
+            "Jackson"
+          ]
+        },
+        {
+          "answer": "Árón Smith",
+          "display": "#8 — 204 pts",
+          "aliases": [
+            "Aron Smith"
+          ]
+        },
+        {
+          "answer": "Dave Newsham",
+          "display": "#9 — 202 pts",
+          "aliases": [
+            "Newsham"
+          ]
+        },
+        {
+          "answer": "Frank Wrathall",
+          "display": "#10 — 173 pts",
+          "aliases": [
+            "Wrathall"
+          ]
+        },
+        {
+          "answer": "Nick Foster",
+          "display": "#11 — 164 pts",
+          "aliases": [
+            "Foster"
+          ]
+        },
+        {
+          "answer": "Jeff Smith",
+          "display": "#12 — 157 pts",
+          "aliases": []
+        },
+        {
+          "answer": "Rob Austin",
+          "display": "#13 — 122 pts",
+          "aliases": [
+            "Austin"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/motorsport/btcc",
+      "question": "Top 10 drivers in the final 2013 British Touring Car Championship standings",
+      "cutoff": 10,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1367651859 | table 5 | name: Driver | value: Pos | order: asc",
+      "tags": [
+        "motorsport",
+        "btcc",
+        "drivers-championship",
+        "2013"
+      ],
+      "answers": [
+        {
+          "answer": "Andrew Jordan",
+          "display": "#1 — 397 pts",
+          "aliases": [
+            "Jordan"
+          ]
+        },
+        {
+          "answer": "Gordon Shedden",
+          "display": "#2 — 390 pts",
+          "aliases": [
+            "Shedden"
+          ]
+        },
+        {
+          "answer": "Jason Plato",
+          "display": "#3 — 380 pts",
+          "aliases": [
+            "Plato"
+          ]
+        },
+        {
+          "answer": "Matt Neal",
+          "display": "#4 — 356 pts",
+          "aliases": [
+            "Neal"
+          ]
+        },
+        {
+          "answer": "Colin Turkington",
+          "display": "#5 — 347 pts",
+          "aliases": [
+            "Turkington"
+          ]
+        },
+        {
+          "answer": "Sam Tordoff",
+          "display": "#6 — 286 pts",
+          "aliases": [
+            "Tordoff"
+          ]
+        },
+        {
+          "answer": "Adam Morgan",
+          "display": "#7 — 233 pts",
+          "aliases": [
+            "Morgan"
+          ]
+        },
+        {
+          "answer": "Mat Jackson",
+          "display": "#8 — 225 pts",
+          "aliases": [
+            "Jackson"
+          ]
+        },
+        {
+          "answer": "Árón Smith",
+          "display": "#9 — 201 pts",
+          "aliases": [
+            "Smith",
+            "Aron Smith"
+          ]
+        },
+        {
+          "answer": "Dave Newsham",
+          "display": "#10 — 176 pts",
+          "aliases": [
+            "Newsham"
+          ]
+        },
+        {
+          "answer": "Rob Austin",
+          "display": "#11 — 154 pts",
+          "aliases": [
+            "Austin"
+          ]
+        },
+        {
+          "answer": "Tom Onslow-Cole",
+          "display": "#12 — 152 pts",
+          "aliases": [
+            "Onslow-Cole"
+          ]
+        },
+        {
+          "answer": "Rob Collard",
+          "display": "#13 — 140 pts",
+          "aliases": [
+            "Collard"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/motorsport/btcc",
+      "question": "Top 10 drivers in the final 2014 British Touring Car Championship standings",
+      "cutoff": 10,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1367344554 | table 5 | name: Driver | value: Pos | order: asc",
+      "tags": [
+        "motorsport",
+        "btcc",
+        "drivers-championship",
+        "2014"
+      ],
+      "answers": [
+        {
+          "answer": "Colin Turkington",
+          "display": "#1 — 434 pts",
+          "aliases": [
+            "Turkington"
+          ]
+        },
+        {
+          "answer": "Jason Plato",
+          "display": "#2 — 399 pts",
+          "aliases": [
+            "Plato"
+          ]
+        },
+        {
+          "answer": "Gordon Shedden",
+          "display": "#3 — 349 pts",
+          "aliases": [
+            "Shedden"
+          ]
+        },
+        {
+          "answer": "Mat Jackson",
+          "display": "#4 — 316 pts",
+          "aliases": [
+            "Jackson"
+          ]
+        },
+        {
+          "answer": "Andrew Jordan",
+          "display": "#5 — 310 pts",
+          "aliases": [
+            "Jordan"
+          ]
+        },
+        {
+          "answer": "Rob Collard",
+          "display": "#6 — 277 pts",
+          "aliases": [
+            "Collard"
+          ]
+        },
+        {
+          "answer": "Sam Tordoff",
+          "display": "#7 — 255 pts",
+          "aliases": [
+            "Tordoff"
+          ]
+        },
+        {
+          "answer": "Matt Neal",
+          "display": "#8 — 207 pts",
+          "aliases": [
+            "Neal"
+          ]
+        },
+        {
+          "answer": "Árón Smith",
+          "display": "#9 — 201 pts",
+          "aliases": [
+            "Smith",
+            "Aron Smith"
+          ]
+        },
+        {
+          "answer": "Adam Morgan",
+          "display": "#10 — 185 pts",
+          "aliases": [
+            "Morgan"
+          ]
+        },
+        {
+          "answer": "Alain Menu",
+          "display": "#11 — 176 pts",
+          "aliases": [
+            "Menu"
+          ]
+        },
+        {
+          "answer": "Rob Austin",
+          "display": "#12 — 147 pts",
+          "aliases": [
+            "Austin"
+          ]
+        },
+        {
+          "answer": "Fabrizio Giovanardi",
+          "display": "#13 — 138 pts",
+          "aliases": [
+            "Giovanardi"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/motorsport/btcc",
+      "question": "Top 10 drivers in the final 2015 British Touring Car Championship standings",
+      "cutoff": 10,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1372511825 | table 6 | name: Driver | value: Pos | order: asc",
+      "tags": [
+        "motorsport",
+        "btcc",
+        "drivers-championship",
+        "2015"
+      ],
+      "answers": [
+        {
+          "answer": "Gordon Shedden",
+          "display": "#1 — 348 pts",
+          "aliases": [
+            "Shedden"
+          ]
+        },
+        {
+          "answer": "Jason Plato",
+          "display": "#2 — 344 pts",
+          "aliases": [
+            "Plato"
+          ]
+        },
+        {
+          "answer": "Matt Neal",
+          "display": "#3 — 317 pts",
+          "aliases": [
+            "Neal"
+          ]
+        },
+        {
+          "answer": "Colin Turkington",
+          "display": "#4 — 310 pts",
+          "aliases": [
+            "Turkington"
+          ]
+        },
+        {
+          "answer": "Andrew Jordan",
+          "display": "#5 — 274 pts",
+          "aliases": [
+            "Jordan"
+          ]
+        },
+        {
+          "answer": "Sam Tordoff",
+          "display": "#6 — 270 pts",
+          "aliases": [
+            "Tordoff"
+          ]
+        },
+        {
+          "answer": "Adam Morgan",
+          "display": "#7 — 267 pts",
+          "aliases": [
+            "Morgan"
+          ]
+        },
+        {
+          "answer": "Andy Priaulx",
+          "display": "#8 — 247 pts",
+          "aliases": [
+            "Priaulx"
+          ]
+        },
+        {
+          "answer": "Jack Goff",
+          "display": "#9 — 233 pts",
+          "aliases": [
+            "Goff"
+          ]
+        },
+        {
+          "answer": "Rob Collard",
+          "display": "#10 — 226 pts",
+          "aliases": [
+            "Collard"
+          ]
+        },
+        {
+          "answer": "Árón Smith",
+          "display": "#11 — 209 pts",
+          "aliases": [
+            "Smith",
+            "Aron Smith"
+          ]
+        },
+        {
+          "answer": "Mat Jackson",
+          "display": "#12 — 200 pts",
+          "aliases": [
+            "Jackson"
+          ]
+        },
+        {
+          "answer": "Tom Ingram",
+          "display": "#13 — 173 pts",
+          "aliases": [
+            "Ingram"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/motorsport/btcc",
+      "question": "Top 10 drivers in the final 2016 British Touring Car Championship standings",
+      "cutoff": 10,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1373137560 | table 6 | name: Driver | value: Pos | order: asc",
+      "tags": [
+        "motorsport",
+        "btcc",
+        "drivers-championship",
+        "2016"
+      ],
+      "answers": [
+        {
+          "answer": "Gordon Shedden",
+          "display": "#1 — 308 pts",
+          "aliases": [
+            "Shedden"
+          ]
+        },
+        {
+          "answer": "Sam Tordoff",
+          "display": "#2 — 306 pts",
+          "aliases": [
+            "Tordoff"
+          ]
+        },
+        {
+          "answer": "Mat Jackson",
+          "display": "#3 — 292 pts",
+          "aliases": [
+            "Jackson"
+          ]
+        },
+        {
+          "answer": "Colin Turkington",
+          "display": "#4 — 289 pts",
+          "aliases": [
+            "Turkington"
+          ]
+        },
+        {
+          "answer": "Rob Collard",
+          "display": "#5 — 278 pts",
+          "aliases": [
+            "Collard"
+          ]
+        },
+        {
+          "answer": "Matt Neal",
+          "display": "#6 — 275 pts",
+          "aliases": [
+            "Neal"
+          ]
+        },
+        {
+          "answer": "Jason Plato",
+          "display": "#7 — 256 pts",
+          "aliases": [
+            "Plato"
+          ]
+        },
+        {
+          "answer": "Andrew Jordan",
+          "display": "#8 — 255 pts",
+          "aliases": [
+            "Jordan"
+          ]
+        },
+        {
+          "answer": "Adam Morgan",
+          "display": "#9 — 241 pts",
+          "aliases": [
+            "Morgan"
+          ]
+        },
+        {
+          "answer": "Tom Ingram",
+          "display": "#10 — 220 pts",
+          "aliases": [
+            "Ingram"
+          ]
+        },
+        {
+          "answer": "Jack Goff",
+          "display": "#11 — 193 pts",
+          "aliases": [
+            "Goff"
+          ]
+        },
+        {
+          "answer": "Josh Cook",
+          "display": "#12 — 175 pts",
+          "aliases": [
+            "Cook"
+          ]
+        },
+        {
+          "answer": "Ashley Sutton",
+          "display": "#13 — 162 pts",
+          "aliases": [
+            "Sutton"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/motorsport/btcc",
+      "question": "Top 10 drivers in the final 2017 British Touring Car Championship standings",
+      "cutoff": 10,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1379524971 | table 6 | name: Driver | value: Pos | order: asc",
+      "tags": [
+        "motorsport",
+        "btcc",
+        "drivers-championship",
+        "2017"
+      ],
+      "answers": [
+        {
+          "answer": "Ashley Sutton",
+          "display": "#1 — 372 pts",
+          "aliases": [
+            "Sutton"
+          ]
+        },
+        {
+          "answer": "Colin Turkington",
+          "display": "#2 — 351 pts",
+          "aliases": [
+            "Turkington"
+          ]
+        },
+        {
+          "answer": "Tom Ingram",
+          "display": "#3 — 311 pts",
+          "aliases": [
+            "Ingram"
+          ]
+        },
+        {
+          "answer": "Gordon Shedden",
+          "display": "#4 — 309 pts",
+          "aliases": [
+            "Shedden"
+          ]
+        },
+        {
+          "answer": "Rob Collard",
+          "display": "#5 — 256 pts",
+          "aliases": [
+            "Collard"
+          ]
+        },
+        {
+          "answer": "Jack Goff",
+          "display": "#6 — 245 pts",
+          "aliases": [
+            "Goff"
+          ]
+        },
+        {
+          "answer": "Matt Neal",
+          "display": "#7 — 243 pts",
+          "aliases": [
+            "Neal"
+          ]
+        },
+        {
+          "answer": "Mat Jackson",
+          "display": "#8 — 210 pts",
+          "aliases": [
+            "Jackson"
+          ]
+        },
+        {
+          "answer": "Andrew Jordan",
+          "display": "#9 — 203 pts",
+          "aliases": [
+            "Jordan"
+          ]
+        },
+        {
+          "answer": "Adam Morgan",
+          "display": "#10 — 187 pts",
+          "aliases": [
+            "Morgan"
+          ]
+        },
+        {
+          "answer": "Rob Austin",
+          "display": "#11 — 174 pts",
+          "aliases": [
+            "Austin"
+          ]
+        },
+        {
+          "answer": "Jason Plato",
+          "display": "#12 — 146 pts",
+          "aliases": [
+            "Plato"
+          ]
+        },
+        {
+          "answer": "Aiden Moffat",
+          "display": "#13 — 121 pts",
+          "aliases": [
+            "Moffat"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/motorsport/btcc",
+      "question": "Top 10 drivers in the final 2018 British Touring Car Championship standings",
+      "cutoff": 10,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1374143270 | table 6 | name: Driver | value: Pos | order: asc",
+      "tags": [
+        "motorsport",
+        "btcc",
+        "drivers-championship",
+        "2018"
+      ],
+      "answers": [
+        {
+          "answer": "Colin Turkington",
+          "display": "#1 — 304 pts",
+          "aliases": [
+            "Turkington"
+          ]
+        },
+        {
+          "answer": "Tom Ingram",
+          "display": "#2 — 292 pts",
+          "aliases": [
+            "Ingram"
+          ]
+        },
+        {
+          "answer": "Tom Chilton",
+          "display": "#3 — 266 pts",
+          "aliases": [
+            "Chilton"
+          ]
+        },
+        {
+          "answer": "Ashley Sutton",
+          "display": "#4 — 256 pts",
+          "aliases": [
+            "Sutton"
+          ]
+        },
+        {
+          "answer": "Andrew Jordan",
+          "display": "#5 — 247 pts",
+          "aliases": [
+            "Jordan"
+          ]
+        },
+        {
+          "answer": "Josh Cook",
+          "display": "#6 — 246 pts",
+          "aliases": [
+            "Cook"
+          ]
+        },
+        {
+          "answer": "Adam Morgan",
+          "display": "#7 — 232 pts",
+          "aliases": [
+            "Morgan"
+          ]
+        },
+        {
+          "answer": "Jack Goff",
+          "display": "#8 — 228 pts",
+          "aliases": [
+            "Goff"
+          ]
+        },
+        {
+          "answer": "Matt Neal",
+          "display": "#9 — 223 pts",
+          "aliases": [
+            "Neal"
+          ]
+        },
+        {
+          "answer": "Dan Cammish",
+          "display": "#10 — 218 pts",
+          "aliases": [
+            "Cammish"
+          ]
+        },
+        {
+          "answer": "Sam Tordoff",
+          "display": "#11 — 202 pts",
+          "aliases": [
+            "Tordoff"
+          ]
+        },
+        {
+          "answer": "Senna Proctor",
+          "display": "#12 — 170 pts",
+          "aliases": [
+            "Proctor"
+          ]
+        },
+        {
+          "answer": "Chris Smiley",
+          "display": "#13 — 152 pts",
+          "aliases": [
+            "Smiley"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/motorsport/btcc",
+      "question": "Top 10 drivers in the final 2019 British Touring Car Championship standings",
+      "cutoff": 10,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1362745801 | table 6 | name: Driver | value: Pos | order: asc",
+      "tags": [
+        "motorsport",
+        "btcc",
+        "drivers-championship",
+        "2019"
+      ],
+      "answers": [
+        {
+          "answer": "Colin Turkington",
+          "display": "#1 — 320 pts",
+          "aliases": [
+            "Turkington"
+          ]
+        },
+        {
+          "answer": "Andrew Jordan",
+          "display": "#2 — 318 pts",
+          "aliases": [
+            "Jordan"
+          ]
+        },
+        {
+          "answer": "Dan Cammish",
+          "display": "#3 — 318 pts",
+          "aliases": [
+            "Cammish"
+          ]
+        },
+        {
+          "answer": "Josh Cook",
+          "display": "#4 — 278 pts",
+          "aliases": [
+            "Cook"
+          ]
+        },
+        {
+          "answer": "Rory Butcher",
+          "display": "#5 — 266 pts",
+          "aliases": [
+            "Butcher"
+          ]
+        },
+        {
+          "answer": "Tom Ingram",
+          "display": "#6 — 245 pts",
+          "aliases": [
+            "Ingram"
+          ]
+        },
+        {
+          "answer": "Jason Plato",
+          "display": "#7 — 237 pts",
+          "aliases": [
+            "Plato"
+          ]
+        },
+        {
+          "answer": "Ashley Sutton",
+          "display": "#8 — 233 pts",
+          "aliases": [
+            "Sutton"
+          ]
+        },
+        {
+          "answer": "Matt Neal",
+          "display": "#9 — 232 pts",
+          "aliases": [
+            "Neal"
+          ]
+        },
+        {
+          "answer": "Tom Chilton",
+          "display": "#10 — 200 pts",
+          "aliases": [
+            "Chilton"
+          ]
+        },
+        {
+          "answer": "Tom Oliphant",
+          "display": "#11 — 178 pts",
+          "aliases": [
+            "Oliphant"
+          ]
+        },
+        {
+          "answer": "Adam Morgan",
+          "display": "#12 — 155 pts",
+          "aliases": [
+            "Morgan"
+          ]
+        },
+        {
+          "answer": "Sam Tordoff",
+          "display": "#13 — 147 pts",
+          "aliases": [
+            "Tordoff"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/motorsport/btcc",
+      "question": "Top 10 drivers in the final 2020 British Touring Car Championship standings",
+      "cutoff": 10,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1375442799 | table 6 | name: Driver | value: Pos | order: asc",
+      "tags": [
+        "motorsport",
+        "btcc",
+        "drivers-championship",
+        "2020"
+      ],
+      "answers": [
+        {
+          "answer": "Ashley Sutton",
+          "display": "#1 — 350 pts",
+          "aliases": [
+            "Sutton"
+          ]
+        },
+        {
+          "answer": "Colin Turkington",
+          "display": "#2 — 336 pts",
+          "aliases": [
+            "Turkington"
+          ]
+        },
+        {
+          "answer": "Dan Cammish",
+          "display": "#3 — 334 pts",
+          "aliases": [
+            "Cammish"
+          ]
+        },
+        {
+          "answer": "Tom Ingram",
+          "display": "#4 — 326 pts",
+          "aliases": [
+            "Ingram"
+          ]
+        },
+        {
+          "answer": "Rory Butcher",
+          "display": "#5 — 286 pts",
+          "aliases": [
+            "Butcher"
+          ]
+        },
+        {
+          "answer": "Tom Oliphant",
+          "display": "#6 — 228 pts",
+          "aliases": [
+            "Oliphant"
+          ]
+        },
+        {
+          "answer": "Jake Hill",
+          "display": "#7 — 212 pts",
+          "aliases": [
+            "Hill"
+          ]
+        },
+        {
+          "answer": "Adam Morgan",
+          "display": "#8 — 206 pts",
+          "aliases": [
+            "Morgan"
+          ]
+        },
+        {
+          "answer": "Josh Cook",
+          "display": "#9 — 196 pts",
+          "aliases": [
+            "Cook"
+          ]
+        },
+        {
+          "answer": "Tom Chilton",
+          "display": "#10 — 184 pts",
+          "aliases": [
+            "Chilton"
+          ]
+        },
+        {
+          "answer": "Matt Neal",
+          "display": "#11 — 181 pts",
+          "aliases": [
+            "Neal"
+          ]
+        },
+        {
+          "answer": "Ollie Jackson",
+          "display": "#12 — 152 pts",
+          "aliases": [
+            "Jackson"
+          ]
+        },
+        {
+          "answer": "Senna Proctor",
+          "display": "#13 — 141 pts",
+          "aliases": [
+            "Proctor"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/motorsport/btcc",
+      "question": "Top 10 drivers in the final 2021 British Touring Car Championship standings",
+      "cutoff": 10,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1378227642 | table 6 | name: Driver | value: Pos | order: asc",
+      "tags": [
+        "motorsport",
+        "btcc",
+        "drivers-championship",
+        "2021"
+      ],
+      "answers": [
+        {
+          "answer": "Ashley Sutton",
+          "display": "#1 — 357 pts",
+          "aliases": [
+            "Sutton"
+          ]
+        },
+        {
+          "answer": "Colin Turkington",
+          "display": "#2 — 306 pts",
+          "aliases": [
+            "Turkington"
+          ]
+        },
+        {
+          "answer": "Josh Cook",
+          "display": "#3 — 303 pts",
+          "aliases": [
+            "Cook"
+          ]
+        },
+        {
+          "answer": "Tom Ingram",
+          "display": "#4 — 300 pts",
+          "aliases": [
+            "Ingram"
+          ]
+        },
+        {
+          "answer": "Jake Hill",
+          "display": "#5 — 295 pts",
+          "aliases": [
+            "Hill"
+          ]
+        },
+        {
+          "answer": "Gordon Shedden",
+          "display": "#6 — 251 pts",
+          "aliases": [
+            "Shedden"
+          ]
+        },
+        {
+          "answer": "Rory Butcher",
+          "display": "#7 — 247 pts",
+          "aliases": [
+            "Butcher"
+          ]
+        },
+        {
+          "answer": "Aiden Moffat",
+          "display": "#8 — 230 pts",
+          "aliases": [
+            "Moffat"
+          ]
+        },
+        {
+          "answer": "Daniel Rowbottom",
+          "display": "#9 — 222 pts",
+          "aliases": [
+            "Rowbottom"
+          ]
+        },
+        {
+          "answer": "Senna Proctor",
+          "display": "#10 — 206 pts",
+          "aliases": [
+            "Proctor"
+          ]
+        },
+        {
+          "answer": "Daniel Lloyd",
+          "display": "#11 — 190 pts",
+          "aliases": [
+            "Lloyd"
+          ]
+        },
+        {
+          "answer": "Stephen Jelley",
+          "display": "#12 — 174 pts",
+          "aliases": [
+            "Jelley"
+          ]
+        },
+        {
+          "answer": "Adam Morgan",
+          "display": "#13 — 161 pts",
+          "aliases": [
+            "Morgan"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/motorsport/btcc",
+      "question": "Top 10 drivers in the final 2022 British Touring Car Championship standings",
+      "cutoff": 10,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1376394778 | table 6 | name: Driver | value: Pos | order: asc",
+      "tags": [
+        "motorsport",
+        "btcc",
+        "drivers-championship",
+        "2022"
+      ],
+      "answers": [
+        {
+          "answer": "Tom Ingram",
+          "display": "#1 — 394 pts",
+          "aliases": [
+            "Ingram"
+          ]
+        },
+        {
+          "answer": "Ashley Sutton",
+          "display": "#2 — 382 pts",
+          "aliases": [
+            "Sutton"
+          ]
+        },
+        {
+          "answer": "Jake Hill",
+          "display": "#3 — 381 pts",
+          "aliases": [
+            "Hill"
+          ]
+        },
+        {
+          "answer": "Colin Turkington",
+          "display": "#4 — 348 pts",
+          "aliases": [
+            "Turkington"
+          ]
+        },
+        {
+          "answer": "Rory Butcher",
+          "display": "#5 — 318 pts",
+          "aliases": [
+            "Butcher"
+          ]
+        },
+        {
+          "answer": "Josh Cook",
+          "display": "#6 — 296 pts",
+          "aliases": [
+            "Cook"
+          ]
+        },
+        {
+          "answer": "Gordon Shedden",
+          "display": "#7 — 248 pts",
+          "aliases": [
+            "Shedden"
+          ]
+        },
+        {
+          "answer": "Dan Cammish",
+          "display": "#8 — 207 pts",
+          "aliases": [
+            "Cammish"
+          ]
+        },
+        {
+          "answer": "Adam Morgan",
+          "display": "#9 — 193 pts",
+          "aliases": [
+            "Morgan"
+          ]
+        },
+        {
+          "answer": "Daniel Lloyd",
+          "display": "#10 — 192 pts",
+          "aliases": [
+            "Lloyd"
+          ]
+        },
+        {
+          "answer": "Stephen Jelley",
+          "display": "#11 — 181 pts",
+          "aliases": [
+            "Jelley"
+          ]
+        },
+        {
+          "answer": "Daniel Rowbottom",
+          "display": "#12 — 151 pts",
+          "aliases": [
+            "Rowbottom"
+          ]
+        },
+        {
+          "answer": "George Gamble",
+          "display": "#13 — 123 pts",
+          "aliases": [
+            "Gamble"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/motorsport/btcc",
+      "question": "Top 10 drivers in the final 2023 British Touring Car Championship standings",
+      "cutoff": 10,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1365108660 | table 6 | name: Driver | value: Pos | order: asc",
+      "tags": [
+        "motorsport",
+        "btcc",
+        "drivers-championship",
+        "2023"
+      ],
+      "answers": [
+        {
+          "answer": "Ashley Sutton",
+          "display": "#1 — 446 pts",
+          "aliases": [
+            "Sutton"
+          ]
+        },
+        {
+          "answer": "Tom Ingram",
+          "display": "#2 — 400 pts",
+          "aliases": [
+            "Ingram"
+          ]
+        },
+        {
+          "answer": "Jake Hill",
+          "display": "#3 — 372 pts",
+          "aliases": [
+            "Hill"
+          ]
+        },
+        {
+          "answer": "Colin Turkington",
+          "display": "#4 — 312 pts",
+          "aliases": [
+            "Turkington"
+          ]
+        },
+        {
+          "answer": "Josh Cook",
+          "display": "#5 — 268 pts",
+          "aliases": [
+            "Cook"
+          ]
+        },
+        {
+          "answer": "Dan Cammish",
+          "display": "#6 — 253 pts",
+          "aliases": [
+            "Cammish"
+          ]
+        },
+        {
+          "answer": "Daniel Rowbottom",
+          "display": "#7 — 226 pts",
+          "aliases": [
+            "Rowbottom"
+          ]
+        },
+        {
+          "answer": "Ricky Collard",
+          "display": "#8 — 217 pts",
+          "aliases": [
+            "Collard"
+          ]
+        },
+        {
+          "answer": "Adam Morgan",
+          "display": "#9 — 199 pts",
+          "aliases": [
+            "Morgan"
+          ]
+        },
+        {
+          "answer": "Rory Butcher",
+          "display": "#10 — 173 pts",
+          "aliases": [
+            "Butcher"
+          ]
+        },
+        {
+          "answer": "Árón Taylor-Smith",
+          "display": "#11 — 165 pts",
+          "aliases": [
+            "Taylor-Smith",
+            "Aron Taylor-Smith"
+          ]
+        },
+        {
+          "answer": "Stephen Jelley",
+          "display": "#12 — 141 pts",
+          "aliases": [
+            "Jelley"
+          ]
+        },
+        {
+          "answer": "Daniel Lloyd",
+          "display": "#13 — 111 pts",
+          "aliases": [
+            "Lloyd"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/motorsport/btcc",
+      "question": "Top 10 drivers in the final 2024 British Touring Car Championship standings",
+      "cutoff": 10,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1379941730 | table 6 | name: Driver | value: Pos | order: asc",
+      "tags": [
+        "motorsport",
+        "btcc",
+        "drivers-championship",
+        "2024"
+      ],
+      "answers": [
+        {
+          "answer": "Jake Hill",
+          "display": "#1 — 421 pts",
+          "aliases": [
+            "Hill"
+          ]
+        },
+        {
+          "answer": "Tom Ingram",
+          "display": "#2 — 413 pts",
+          "aliases": [
+            "Ingram"
+          ]
+        },
+        {
+          "answer": "Ashley Sutton",
+          "display": "#3 — 365 pts",
+          "aliases": [
+            "Sutton"
+          ]
+        },
+        {
+          "answer": "Colin Turkington",
+          "display": "#4 — 346 pts",
+          "aliases": [
+            "Turkington"
+          ]
+        },
+        {
+          "answer": "Dan Cammish",
+          "display": "#5 — 346 pts",
+          "aliases": [
+            "Cammish"
+          ]
+        },
+        {
+          "answer": "Josh Cook",
+          "display": "#6 — 327 pts",
+          "aliases": [
+            "Cook"
+          ]
+        },
+        {
+          "answer": "Árón Taylor-Smith",
+          "display": "#7 — 224 pts",
+          "aliases": [
+            "Taylor-Smith",
+            "Aron Taylor-Smith"
+          ]
+        },
+        {
+          "answer": "Adam Morgan",
+          "display": "#8 — 201 pts",
+          "aliases": [
+            "Morgan"
+          ]
+        },
+        {
+          "answer": "Rob Huff",
+          "display": "#9 — 195 pts",
+          "aliases": [
+            "Huff"
+          ]
+        },
+        {
+          "answer": "Tom Chilton",
+          "display": "#10 — 187 pts",
+          "aliases": [
+            "Chilton"
+          ]
+        },
+        {
+          "answer": "Daniel Rowbottom",
+          "display": "#11 — 186 pts",
+          "aliases": [
+            "Rowbottom"
+          ]
+        },
+        {
+          "answer": "Mikey Doble",
+          "display": "#12 — 148 pts",
+          "aliases": [
+            "Doble"
+          ]
+        },
+        {
+          "answer": "Aiden Moffat",
+          "display": "#13 — 138 pts",
+          "aliases": [
+            "Moffat"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/motorsport/btcc",
+      "question": "Top 10 drivers in the final 2025 British Touring Car Championship standings",
+      "cutoff": 10,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1378265012 | table 6 | name: Driver | value: Pos | order: asc",
+      "tags": [
+        "motorsport",
+        "btcc",
+        "drivers-championship",
+        "2025"
+      ],
+      "answers": [
+        {
+          "answer": "Tom Ingram",
+          "display": "#1 — 462 pts",
+          "aliases": [
+            "Ingram"
+          ]
+        },
+        {
+          "answer": "Ashley Sutton",
+          "display": "#2 — 428 pts",
+          "aliases": [
+            "Sutton"
+          ]
+        },
+        {
+          "answer": "Dan Cammish",
+          "display": "#3 — 307 pts",
+          "aliases": [
+            "Cammish"
+          ]
+        },
+        {
+          "answer": "Jake Hill",
+          "display": "#4 — 295 pts",
+          "aliases": [
+            "Hill"
+          ]
+        },
+        {
+          "answer": "Daniel Rowbottom",
+          "display": "#5 — 277 pts",
+          "aliases": [
+            "Rowbottom"
+          ]
+        },
+        {
+          "answer": "Adam Morgan",
+          "display": "#6 — 241 pts",
+          "aliases": [
+            "Morgan"
+          ]
+        },
+        {
+          "answer": "Tom Chilton",
+          "display": "#7 — 230 pts",
+          "aliases": [
+            "Chilton"
+          ]
+        },
+        {
+          "answer": "Charles Rainford",
+          "display": "#8 — 179 pts",
+          "aliases": [
+            "Rainford"
+          ]
+        },
+        {
+          "answer": "Gordon Shedden",
+          "display": "#9 — 177 pts",
+          "aliases": [
+            "Shedden"
+          ]
+        },
+        {
+          "answer": "Senna Proctor",
+          "display": "#10 — 167 pts",
+          "aliases": [
+            "Proctor"
+          ]
+        },
+        {
+          "answer": "Aiden Moffat",
+          "display": "#11 — 166 pts",
+          "aliases": [
+            "Moffat"
+          ]
+        },
+        {
+          "answer": "Josh Cook",
+          "display": "#12 — 160 pts",
+          "aliases": [
+            "Cook"
+          ]
+        },
+        {
+          "answer": "Daryl De Leon",
+          "display": "#13 — 149 pts",
+          "aliases": [
+            "Leon"
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,558 @@
+{
+  "categories": [
+    {
+      "path": "society/rankings",
+      "name": "Rankings"
+    },
+    {
+      "path": "society/rankings/happiness",
+      "name": "World Happiness Report"
+    }
+  ],
+  "questions": [
+    {
+      "category": "society/rankings/happiness",
+      "difficulty": 2,
+      "question": "Top 10 happiest countries in the World Happiness Report 2025",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1376195280 | table 2 | name: Country | value: Life evaluation",
+      "tags": [
+        "society",
+        "happiness",
+        "rankings"
+      ],
+      "cutoff": 10,
+      "submitter": "claude",
+      "answers": [
+        {
+          "answer": "Finland",
+          "display": "7.736 life evaluation score"
+        },
+        {
+          "answer": "Denmark",
+          "display": "7.521 life evaluation score"
+        },
+        {
+          "answer": "Iceland",
+          "display": "7.515 life evaluation score"
+        },
+        {
+          "answer": "Sweden",
+          "display": "7.345 life evaluation score"
+        },
+        {
+          "answer": "Netherlands",
+          "display": "7.306 life evaluation score",
+          "aliases": [
+            "Holland"
+          ]
+        },
+        {
+          "answer": "Costa Rica",
+          "display": "7.274 life evaluation score"
+        },
+        {
+          "answer": "Norway",
+          "display": "7.262 life evaluation score"
+        },
+        {
+          "answer": "Israel",
+          "display": "7.234 life evaluation score"
+        },
+        {
+          "answer": "Luxembourg",
+          "display": "7.122 life evaluation score"
+        },
+        {
+          "answer": "Mexico",
+          "display": "6.979 life evaluation score"
+        },
+        {
+          "answer": "Australia",
+          "display": "6.974 life evaluation score"
+        },
+        {
+          "answer": "New Zealand",
+          "display": "6.952 life evaluation score",
+          "aliases": [
+            "NZ"
+          ]
+        },
+        {
+          "answer": "Switzerland",
+          "display": "6.935 life evaluation score"
+        }
+      ]
+    },
+    {
+      "category": "society/rankings/happiness",
+      "difficulty": 2,
+      "question": "Top 10 happiest countries in the World Happiness Report 2024",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1376195280 | table 3 | name: Country | value: Life evaluation",
+      "tags": [
+        "society",
+        "happiness",
+        "rankings"
+      ],
+      "cutoff": 10,
+      "submitter": "claude",
+      "answers": [
+        {
+          "answer": "Finland",
+          "display": "7.741 life evaluation score"
+        },
+        {
+          "answer": "Denmark",
+          "display": "7.583 life evaluation score"
+        },
+        {
+          "answer": "Iceland",
+          "display": "7.525 life evaluation score"
+        },
+        {
+          "answer": "Sweden",
+          "display": "7.344 life evaluation score"
+        },
+        {
+          "answer": "Israel",
+          "display": "7.341 life evaluation score"
+        },
+        {
+          "answer": "Netherlands",
+          "display": "7.319 life evaluation score",
+          "aliases": [
+            "Holland"
+          ]
+        },
+        {
+          "answer": "Norway",
+          "display": "7.302 life evaluation score"
+        },
+        {
+          "answer": "Luxembourg",
+          "display": "7.122 life evaluation score"
+        },
+        {
+          "answer": "Switzerland",
+          "display": "7.060 life evaluation score"
+        },
+        {
+          "answer": "Australia",
+          "display": "7.057 life evaluation score"
+        },
+        {
+          "answer": "New Zealand",
+          "display": "7.029 life evaluation score",
+          "aliases": [
+            "NZ"
+          ]
+        },
+        {
+          "answer": "Costa Rica",
+          "display": "6.955 life evaluation score"
+        },
+        {
+          "answer": "Kuwait",
+          "display": "6.951 life evaluation score"
+        }
+      ]
+    },
+    {
+      "category": "society/rankings/happiness",
+      "difficulty": 2,
+      "question": "Top 10 happiest countries in the World Happiness Report 2022",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1376195280 | table 5 | name: Country | value: Rank | order: asc",
+      "tags": [
+        "society",
+        "happiness",
+        "rankings"
+      ],
+      "cutoff": 10,
+      "submitter": "claude",
+      "answers": [
+        {
+          "answer": "Finland"
+        },
+        {
+          "answer": "Denmark"
+        },
+        {
+          "answer": "Iceland"
+        },
+        {
+          "answer": "Switzerland"
+        },
+        {
+          "answer": "Netherlands",
+          "aliases": [
+            "Holland"
+          ]
+        },
+        {
+          "answer": "Luxembourg"
+        },
+        {
+          "answer": "Sweden"
+        },
+        {
+          "answer": "Norway"
+        },
+        {
+          "answer": "Israel"
+        },
+        {
+          "answer": "New Zealand",
+          "aliases": [
+            "NZ"
+          ]
+        },
+        {
+          "answer": "Austria"
+        },
+        {
+          "answer": "Australia"
+        },
+        {
+          "answer": "Ireland"
+        }
+      ]
+    },
+    {
+      "category": "society/rankings/happiness",
+      "difficulty": 2,
+      "question": "Top 10 happiest countries in the World Happiness Report 2020",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1376195280 | table 6 | name: Country | value: Rank | order: asc",
+      "tags": [
+        "society",
+        "happiness",
+        "rankings"
+      ],
+      "cutoff": 10,
+      "submitter": "claude",
+      "answers": [
+        {
+          "answer": "Finland"
+        },
+        {
+          "answer": "Denmark"
+        },
+        {
+          "answer": "Switzerland"
+        },
+        {
+          "answer": "Iceland"
+        },
+        {
+          "answer": "Norway"
+        },
+        {
+          "answer": "Netherlands",
+          "aliases": [
+            "Holland"
+          ]
+        },
+        {
+          "answer": "Sweden"
+        },
+        {
+          "answer": "New Zealand",
+          "aliases": [
+            "NZ"
+          ]
+        },
+        {
+          "answer": "Austria"
+        },
+        {
+          "answer": "Luxembourg"
+        },
+        {
+          "answer": "Canada"
+        },
+        {
+          "answer": "Australia"
+        },
+        {
+          "answer": "United Kingdom",
+          "aliases": [
+            "UK"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "society/rankings/happiness",
+      "difficulty": 2,
+      "question": "Top 10 happiest countries in the World Happiness Report 2019",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1376195280 | table 7 | name: Country | value: Rank | order: asc",
+      "tags": [
+        "society",
+        "happiness",
+        "rankings"
+      ],
+      "cutoff": 10,
+      "submitter": "claude",
+      "answers": [
+        {
+          "answer": "Finland"
+        },
+        {
+          "answer": "Denmark"
+        },
+        {
+          "answer": "Norway"
+        },
+        {
+          "answer": "Iceland"
+        },
+        {
+          "answer": "Netherlands",
+          "aliases": [
+            "Holland"
+          ]
+        },
+        {
+          "answer": "Switzerland"
+        },
+        {
+          "answer": "Sweden"
+        },
+        {
+          "answer": "New Zealand",
+          "aliases": [
+            "NZ"
+          ]
+        },
+        {
+          "answer": "Canada"
+        },
+        {
+          "answer": "Austria"
+        },
+        {
+          "answer": "Australia"
+        },
+        {
+          "answer": "Costa Rica"
+        },
+        {
+          "answer": "Israel"
+        }
+      ]
+    },
+    {
+      "category": "society/rankings/happiness",
+      "difficulty": 2,
+      "question": "Top 8 happiest countries in the World Happiness Report 2017",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1376195280 | table 9 | name: Country | value: Life evaluation | where: Rank~^([1-9]|10|11)$ | note: row 85 (Azerbaijan) shows 7.342, which contradicts its rank and components, so it is excluded by the table's Rank column; Australia and Sweden share 7.284 at ranks 9-10 (WHR 2017 page: 'tied 9th')",
+      "tags": [
+        "society",
+        "happiness",
+        "rankings"
+      ],
+      "cutoff": 8,
+      "submitter": "claude",
+      "answers": [
+        {
+          "answer": "Norway",
+          "display": "7.537 life evaluation score"
+        },
+        {
+          "answer": "Denmark",
+          "display": "7.522 life evaluation score"
+        },
+        {
+          "answer": "Iceland",
+          "display": "7.504 life evaluation score"
+        },
+        {
+          "answer": "Switzerland",
+          "display": "7.494 life evaluation score"
+        },
+        {
+          "answer": "Finland",
+          "display": "7.469 life evaluation score"
+        },
+        {
+          "answer": "Netherlands",
+          "display": "7.377 life evaluation score",
+          "aliases": [
+            "Holland"
+          ]
+        },
+        {
+          "answer": "Canada",
+          "display": "7.316 life evaluation score"
+        },
+        {
+          "answer": "New Zealand",
+          "display": "7.314 life evaluation score",
+          "aliases": [
+            "NZ"
+          ]
+        },
+        {
+          "answer": "Australia",
+          "display": "7.284 life evaluation score"
+        },
+        {
+          "answer": "Sweden",
+          "display": "7.284 life evaluation score"
+        },
+        {
+          "answer": "Israel",
+          "display": "7.213 life evaluation score"
+        }
+      ]
+    },
+    {
+      "category": "society/rankings/happiness",
+      "difficulty": 2,
+      "question": "Top 10 happiest countries in the World Happiness Report 2016",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1376195280 | table 10 | name: Country | value: Life evaluation",
+      "tags": [
+        "society",
+        "happiness",
+        "rankings"
+      ],
+      "cutoff": 10,
+      "submitter": "claude",
+      "answers": [
+        {
+          "answer": "Denmark",
+          "display": "7.526 life evaluation score"
+        },
+        {
+          "answer": "Switzerland",
+          "display": "7.509 life evaluation score"
+        },
+        {
+          "answer": "Iceland",
+          "display": "7.501 life evaluation score"
+        },
+        {
+          "answer": "Norway",
+          "display": "7.498 life evaluation score"
+        },
+        {
+          "answer": "Finland",
+          "display": "7.413 life evaluation score"
+        },
+        {
+          "answer": "Canada",
+          "display": "7.404 life evaluation score"
+        },
+        {
+          "answer": "Netherlands",
+          "display": "7.339 life evaluation score",
+          "aliases": [
+            "Holland"
+          ]
+        },
+        {
+          "answer": "New Zealand",
+          "display": "7.334 life evaluation score",
+          "aliases": [
+            "NZ"
+          ]
+        },
+        {
+          "answer": "Australia",
+          "display": "7.313 life evaluation score"
+        },
+        {
+          "answer": "Sweden",
+          "display": "7.291 life evaluation score"
+        },
+        {
+          "answer": "Israel",
+          "display": "7.267 life evaluation score"
+        },
+        {
+          "answer": "Austria",
+          "display": "7.119 life evaluation score"
+        },
+        {
+          "answer": "United States",
+          "display": "7.104 life evaluation score",
+          "aliases": [
+            "USA",
+            "US"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "society/rankings/happiness",
+      "difficulty": 2,
+      "question": "Top 10 happiest countries in the World Happiness Report 2013",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1376195280 | table 11 | name: Country | value: Life evaluation",
+      "tags": [
+        "society",
+        "happiness",
+        "rankings"
+      ],
+      "cutoff": 10,
+      "submitter": "claude",
+      "answers": [
+        {
+          "answer": "Denmark",
+          "display": "7.693 life evaluation score"
+        },
+        {
+          "answer": "Norway",
+          "display": "7.655 life evaluation score"
+        },
+        {
+          "answer": "Switzerland",
+          "display": "7.650 life evaluation score"
+        },
+        {
+          "answer": "Netherlands",
+          "display": "7.512 life evaluation score",
+          "aliases": [
+            "Holland"
+          ]
+        },
+        {
+          "answer": "Sweden",
+          "display": "7.480 life evaluation score"
+        },
+        {
+          "answer": "Canada",
+          "display": "7.477 life evaluation score"
+        },
+        {
+          "answer": "Finland",
+          "display": "7.389 life evaluation score"
+        },
+        {
+          "answer": "Austria",
+          "display": "7.369 life evaluation score"
+        },
+        {
+          "answer": "Iceland",
+          "display": "7.355 life evaluation score"
+        },
+        {
+          "answer": "Australia",
+          "display": "7.350 life evaluation score"
+        },
+        {
+          "answer": "Israel",
+          "display": "7.301 life evaluation score"
+        },
+        {
+          "answer": "Costa Rica",
+          "display": "7.257 life evaluation score"
+        },
+        {
+          "answer": "New Zealand",
+          "display": "7.221 life evaluation score",
+          "aliases": [
+            "NZ"
+          ]
+        }
+      ]
+    }
+  ]
+}

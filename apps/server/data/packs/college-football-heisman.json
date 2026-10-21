@@ -1,0 +1,2961 @@
+{
+  "categories": [
+    {
+      "path": "sports/college/football/heisman",
+      "name": "Heisman Voting"
+    }
+  ],
+  "questions": [
+    {
+      "category": "sports/college/football/heisman",
+      "question": "Top 7 vote-getters in the 1990 Heisman Trophy voting (by points)",
+      "cutoff": 7,
+      "difficulty": 3,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1372336127 | table 2 | name: Player | value: Total",
+      "tags": [
+        "football",
+        "heisman",
+        "voting"
+      ],
+      "answers": [
+        {
+          "answer": "Ty Detmer",
+          "display": "1,482 points — BYU",
+          "aliases": [
+            "Detmer"
+          ]
+        },
+        {
+          "answer": "Raghib Ismail",
+          "display": "1,177 points — Notre Dame",
+          "aliases": [
+            "Rocket Ismail",
+            "Ismail"
+          ]
+        },
+        {
+          "answer": "Eric Bieniemy",
+          "display": "798 points — Colorado",
+          "aliases": [
+            "Bieniemy"
+          ]
+        },
+        {
+          "answer": "Shawn Moore",
+          "display": "465 points — Virginia"
+        },
+        {
+          "answer": "David Klingler",
+          "display": "125 points — Houston",
+          "aliases": [
+            "Klingler"
+          ]
+        },
+        {
+          "answer": "Herman Moore",
+          "display": "68 points — Virginia"
+        },
+        {
+          "answer": "Greg Lewis",
+          "display": "41 points — Washington"
+        },
+        {
+          "answer": "Craig Erickson",
+          "display": "31 points — Miami (FL)",
+          "aliases": [
+            "Erickson"
+          ]
+        },
+        {
+          "answer": "Darren Lewis",
+          "display": "31 points — Texas A&M"
+        },
+        {
+          "answer": "Mike Mayweather",
+          "display": "20 points — Army",
+          "aliases": [
+            "Mayweather"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/college/football/heisman",
+      "question": "Top 7 vote-getters in the 1991 Heisman Trophy voting (by points)",
+      "cutoff": 7,
+      "difficulty": 3,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1379403793 | table 5 | name: Player | value: Total",
+      "tags": [
+        "football",
+        "heisman",
+        "voting"
+      ],
+      "answers": [
+        {
+          "answer": "Desmond Howard",
+          "display": "2,077 points — Michigan",
+          "aliases": [
+            "Howard"
+          ]
+        },
+        {
+          "answer": "Casey Weldon",
+          "display": "503 points — Florida State",
+          "aliases": [
+            "Weldon"
+          ]
+        },
+        {
+          "answer": "Ty Detmer",
+          "display": "445 points — BYU",
+          "aliases": [
+            "Detmer"
+          ]
+        },
+        {
+          "answer": "Steve Emtman",
+          "display": "357 points — Washington",
+          "aliases": [
+            "Emtman"
+          ]
+        },
+        {
+          "answer": "Shane Matthews",
+          "display": "246 points — Florida",
+          "aliases": [
+            "Matthews"
+          ]
+        },
+        {
+          "answer": "Vaughn Dunbar",
+          "display": "173 points — Indiana",
+          "aliases": [
+            "Dunbar"
+          ]
+        },
+        {
+          "answer": "Jeff Blake",
+          "display": "114 points — East Carolina",
+          "aliases": [
+            "Blake"
+          ]
+        },
+        {
+          "answer": "Terrell Buckley",
+          "display": "102 points — Florida State",
+          "aliases": [
+            "Buckley"
+          ]
+        },
+        {
+          "answer": "Marshall Faulk",
+          "display": "52 points — San Diego State",
+          "aliases": [
+            "Faulk"
+          ]
+        },
+        {
+          "answer": "Bucky Richardson",
+          "display": "43 points — Texas A&M",
+          "aliases": [
+            "Richardson"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/college/football/heisman",
+      "question": "Top 7 vote-getters in the 1992 Heisman Trophy voting (by points)",
+      "cutoff": 7,
+      "difficulty": 3,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1358026986 | table 4 | name: Player | value: Total",
+      "tags": [
+        "football",
+        "heisman",
+        "voting"
+      ],
+      "answers": [
+        {
+          "answer": "Gino Torretta",
+          "display": "1,400 points — Miami (FL)",
+          "aliases": [
+            "Torretta"
+          ]
+        },
+        {
+          "answer": "Marshall Faulk",
+          "display": "1,080 points — San Diego State",
+          "aliases": [
+            "Faulk"
+          ]
+        },
+        {
+          "answer": "Garrison Hearst",
+          "display": "982 points — Georgia",
+          "aliases": [
+            "Hearst"
+          ]
+        },
+        {
+          "answer": "Marvin Jones",
+          "display": "392 points — Florida State",
+          "aliases": [
+            "Jones"
+          ]
+        },
+        {
+          "answer": "Reggie Brooks",
+          "display": "294 points — Notre Dame",
+          "aliases": [
+            "Brooks"
+          ]
+        },
+        {
+          "answer": "Charlie Ward",
+          "display": "126 points — Florida State",
+          "aliases": [
+            "Ward"
+          ]
+        },
+        {
+          "answer": "Micheal Barrow",
+          "display": "64 points — Miami (FL)",
+          "aliases": [
+            "Barrow"
+          ]
+        },
+        {
+          "answer": "Drew Bledsoe",
+          "display": "48 points — Washington State",
+          "aliases": [
+            "Bledsoe"
+          ]
+        },
+        {
+          "answer": "Eric Curry",
+          "display": "47 points — Alabama",
+          "aliases": [
+            "Curry"
+          ]
+        },
+        {
+          "answer": "Glyn Milburn",
+          "display": "47 points — Stanford",
+          "aliases": [
+            "Milburn"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/college/football/heisman",
+      "question": "Top 7 vote-getters in the 1993 Heisman Trophy voting (by points)",
+      "cutoff": 7,
+      "difficulty": 3,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1358027121 | table 4 | name: Player | value: Total",
+      "tags": [
+        "football",
+        "heisman",
+        "voting"
+      ],
+      "answers": [
+        {
+          "answer": "Charlie Ward",
+          "display": "2,310 points — Florida State",
+          "aliases": [
+            "Ward"
+          ]
+        },
+        {
+          "answer": "Heath Shuler",
+          "display": "688 points — Tennessee",
+          "aliases": [
+            "Shuler"
+          ]
+        },
+        {
+          "answer": "David Palmer",
+          "display": "292 points — Alabama",
+          "aliases": [
+            "Palmer"
+          ]
+        },
+        {
+          "answer": "Marshall Faulk",
+          "display": "250 points — San Diego State",
+          "aliases": [
+            "Faulk"
+          ]
+        },
+        {
+          "answer": "Glenn Foley",
+          "display": "180 points — Boston College",
+          "aliases": [
+            "Foley"
+          ]
+        },
+        {
+          "answer": "LeShon Johnson",
+          "display": "176 points — Northern Illinois",
+          "aliases": [
+            "Johnson"
+          ]
+        },
+        {
+          "answer": "J. J. Stokes",
+          "display": "131 points — UCLA",
+          "aliases": [
+            "Stokes"
+          ]
+        },
+        {
+          "answer": "Tyrone Wheatley",
+          "display": "100 points — Michigan",
+          "aliases": [
+            "Wheatley"
+          ]
+        },
+        {
+          "answer": "Trent Dilfer",
+          "display": "91 points — Fresno State",
+          "aliases": [
+            "Dilfer"
+          ]
+        },
+        {
+          "answer": "Eric Zeier",
+          "display": "85 points — Georgia",
+          "aliases": [
+            "Zeier"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/college/football/heisman",
+      "question": "Top 7 vote-getters in the 1994 Heisman Trophy voting (by points)",
+      "cutoff": 7,
+      "difficulty": 3,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1371748567 | table 5 | name: Player | value: Total",
+      "tags": [
+        "football",
+        "heisman",
+        "voting"
+      ],
+      "answers": [
+        {
+          "answer": "Rashaan Salaam",
+          "display": "1,743 points — Colorado",
+          "aliases": [
+            "Salaam"
+          ]
+        },
+        {
+          "answer": "Ki-Jana Carter",
+          "display": "901 points — Penn State",
+          "aliases": [
+            "Carter"
+          ]
+        },
+        {
+          "answer": "Steve McNair",
+          "display": "655 points — Alcorn State",
+          "aliases": [
+            "McNair"
+          ]
+        },
+        {
+          "answer": "Kerry Collins",
+          "display": "639 points — Penn State",
+          "aliases": [
+            "Collins"
+          ]
+        },
+        {
+          "answer": "Jay Barker",
+          "display": "295 points — Alabama",
+          "aliases": [
+            "Barker"
+          ]
+        },
+        {
+          "answer": "Warren Sapp",
+          "display": "192 points — Miami (FL)",
+          "aliases": [
+            "Sapp"
+          ]
+        },
+        {
+          "answer": "Eric Zeier",
+          "display": "83 points — Georgia",
+          "aliases": [
+            "Zeier"
+          ]
+        },
+        {
+          "answer": "Lawrence Phillips",
+          "display": "40 points — Nebraska",
+          "aliases": [
+            "Phillips"
+          ]
+        },
+        {
+          "answer": "Napoleon Kaufman",
+          "display": "27 points — Washington",
+          "aliases": [
+            "Kaufman"
+          ]
+        },
+        {
+          "answer": "Zach Wiegert",
+          "display": "27 points — Nebraska",
+          "aliases": [
+            "Wiegert"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/college/football/heisman",
+      "question": "Top 7 vote-getters in the 1995 Heisman Trophy voting (by points)",
+      "cutoff": 7,
+      "difficulty": 3,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1372171700 | table 4 | name: Player | value: Total",
+      "tags": [
+        "football",
+        "heisman",
+        "voting"
+      ],
+      "answers": [
+        {
+          "answer": "Eddie George",
+          "display": "1,460 points — Ohio State",
+          "aliases": [
+            "George"
+          ]
+        },
+        {
+          "answer": "Tommie Frazier",
+          "display": "1,196 points — Nebraska",
+          "aliases": [
+            "Frazier"
+          ]
+        },
+        {
+          "answer": "Danny Wuerffel",
+          "display": "987 points — Florida",
+          "aliases": [
+            "Wuerffel"
+          ]
+        },
+        {
+          "answer": "Darnell Autry",
+          "display": "535 points — Northwestern",
+          "aliases": [
+            "Autry"
+          ]
+        },
+        {
+          "answer": "Troy Davis",
+          "display": "402 points — Iowa State",
+          "aliases": [
+            "Davis"
+          ]
+        },
+        {
+          "answer": "Peyton Manning",
+          "display": "109 points — Tennessee",
+          "aliases": [
+            "Manning"
+          ]
+        },
+        {
+          "answer": "Keyshawn Johnson",
+          "display": "59 points — USC",
+          "aliases": [
+            "Johnson"
+          ]
+        },
+        {
+          "answer": "Tim Biakabutuka",
+          "display": "31 points — Michigan",
+          "aliases": [
+            "Biakabutuka"
+          ]
+        },
+        {
+          "answer": "Warrick Dunn",
+          "display": "29 points — Florida State",
+          "aliases": [
+            "Dunn"
+          ]
+        },
+        {
+          "answer": "Bobby Hoying",
+          "display": "28 points — Ohio State",
+          "aliases": [
+            "Hoying"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/college/football/heisman",
+      "question": "Top 7 vote-getters in the 1996 Heisman Trophy voting (by points)",
+      "cutoff": 7,
+      "difficulty": 3,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1358960662 | table 5 | name: Player | value: Total",
+      "tags": [
+        "football",
+        "heisman",
+        "voting"
+      ],
+      "answers": [
+        {
+          "answer": "Danny Wuerffel",
+          "display": "1,363 points — Florida",
+          "aliases": [
+            "Wuerffel"
+          ]
+        },
+        {
+          "answer": "Troy Davis",
+          "display": "1,174 points — Iowa State",
+          "aliases": [
+            "Davis"
+          ]
+        },
+        {
+          "answer": "Jake Plummer",
+          "display": "685 points — Arizona State",
+          "aliases": [
+            "Plummer"
+          ]
+        },
+        {
+          "answer": "Orlando Pace",
+          "display": "599 points — Ohio State",
+          "aliases": [
+            "Pace"
+          ]
+        },
+        {
+          "answer": "Warrick Dunn",
+          "display": "341 points — Florida State",
+          "aliases": [
+            "Dunn"
+          ]
+        },
+        {
+          "answer": "Byron Hanspard",
+          "display": "251 points — Texas Tech",
+          "aliases": [
+            "Hanspard"
+          ]
+        },
+        {
+          "answer": "Darnell Autry",
+          "display": "85 points — Northwestern",
+          "aliases": [
+            "Autry"
+          ]
+        },
+        {
+          "answer": "Peyton Manning",
+          "display": "81 points — Tennessee",
+          "aliases": [
+            "Manning"
+          ]
+        },
+        {
+          "answer": "Marcus Harris",
+          "display": "53 points — Wyoming",
+          "aliases": [
+            "Harris"
+          ]
+        },
+        {
+          "answer": "Beau Morgan",
+          "display": "26 points — Air Force",
+          "aliases": [
+            "Morgan"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/college/football/heisman",
+      "question": "Top 7 vote-getters in the 1997 Heisman Trophy voting (by points)",
+      "cutoff": 7,
+      "difficulty": 3,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1372100265 | table 5 | name: Player | value: Total",
+      "tags": [
+        "football",
+        "heisman",
+        "voting"
+      ],
+      "answers": [
+        {
+          "answer": "Charles Woodson",
+          "display": "1,815 points — Michigan",
+          "aliases": [
+            "Woodson"
+          ]
+        },
+        {
+          "answer": "Peyton Manning",
+          "display": "1,543 points — Tennessee",
+          "aliases": [
+            "Manning"
+          ]
+        },
+        {
+          "answer": "Ryan Leaf",
+          "display": "861 points — Washington State",
+          "aliases": [
+            "Leaf"
+          ]
+        },
+        {
+          "answer": "Randy Moss",
+          "display": "253 points — Marshall",
+          "aliases": [
+            "Moss"
+          ]
+        },
+        {
+          "answer": "Curtis Enis",
+          "display": "65 points — Penn State",
+          "aliases": [
+            "Enis"
+          ]
+        },
+        {
+          "answer": "Ricky Williams",
+          "display": "65 points — Texas",
+          "aliases": [
+            "Williams"
+          ]
+        },
+        {
+          "answer": "Tim Dwight",
+          "display": "32 points — Iowa",
+          "aliases": [
+            "Dwight"
+          ]
+        },
+        {
+          "answer": "Cade McNown",
+          "display": "26 points — UCLA",
+          "aliases": [
+            "McNown"
+          ]
+        },
+        {
+          "answer": "Tim Couch",
+          "display": "22 points — Kentucky",
+          "aliases": [
+            "Couch"
+          ]
+        },
+        {
+          "answer": "Amos Zereoué",
+          "display": "21 points — West Virginia",
+          "aliases": [
+            "Zereoué"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/college/football/heisman",
+      "question": "Top 7 vote-getters in the 1998 Heisman Trophy voting (by points)",
+      "cutoff": 7,
+      "difficulty": 3,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1358027673 | table 8 | name: Player | value: Total",
+      "tags": [
+        "football",
+        "heisman",
+        "voting"
+      ],
+      "answers": [
+        {
+          "answer": "Ricky Williams",
+          "display": "2,355 points — Texas",
+          "aliases": [
+            "Williams"
+          ]
+        },
+        {
+          "answer": "Michael Bishop",
+          "display": "792 points — Kansas State",
+          "aliases": [
+            "Bishop"
+          ]
+        },
+        {
+          "answer": "Cade McNown",
+          "display": "696 points — UCLA",
+          "aliases": [
+            "McNown"
+          ]
+        },
+        {
+          "answer": "Tim Couch",
+          "display": "527 points — Kentucky",
+          "aliases": [
+            "Couch"
+          ]
+        },
+        {
+          "answer": "Donovan McNabb",
+          "display": "232 points — Syracuse",
+          "aliases": [
+            "McNabb"
+          ]
+        },
+        {
+          "answer": "Daunte Culpepper",
+          "display": "67 points — UCF",
+          "aliases": [
+            "Culpepper"
+          ]
+        },
+        {
+          "answer": "Champ Bailey",
+          "display": "55 points — Georgia",
+          "aliases": [
+            "Bailey"
+          ]
+        },
+        {
+          "answer": "Torry Holt",
+          "display": "44 points — NC State",
+          "aliases": [
+            "Holt"
+          ]
+        },
+        {
+          "answer": "Joe Germaine",
+          "display": "43 points — Ohio State",
+          "aliases": [
+            "Germaine"
+          ]
+        },
+        {
+          "answer": "Shaun King",
+          "display": "38 points — Tulane",
+          "aliases": [
+            "King"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/college/football/heisman",
+      "question": "Top 7 vote-getters in the 1999 Heisman Trophy voting (by points)",
+      "cutoff": 7,
+      "difficulty": 3,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1371829416 | table 7 | name: Player | value: Total",
+      "tags": [
+        "football",
+        "heisman",
+        "voting"
+      ],
+      "answers": [
+        {
+          "answer": "Ron Dayne",
+          "display": "2,042 points — Wisconsin",
+          "aliases": [
+            "Dayne"
+          ]
+        },
+        {
+          "answer": "Joe Hamilton",
+          "display": "994 points — Georgia Tech",
+          "aliases": [
+            "Hamilton"
+          ]
+        },
+        {
+          "answer": "Michael Vick",
+          "display": "319 points — Virginia Tech",
+          "aliases": [
+            "Vick"
+          ]
+        },
+        {
+          "answer": "Drew Brees",
+          "display": "308 points — Purdue",
+          "aliases": [
+            "Brees"
+          ]
+        },
+        {
+          "answer": "Chad Pennington",
+          "display": "247 points — Marshall",
+          "aliases": [
+            "Pennington"
+          ]
+        },
+        {
+          "answer": "Peter Warrick",
+          "display": "203 points — Florida State",
+          "aliases": [
+            "Warrick"
+          ]
+        },
+        {
+          "answer": "Shaun Alexander",
+          "display": "171 points — Alabama",
+          "aliases": [
+            "Alexander"
+          ]
+        },
+        {
+          "answer": "Thomas Jones",
+          "display": "140 points — Virginia",
+          "aliases": [
+            "Jones"
+          ]
+        },
+        {
+          "answer": "LaVar Arrington",
+          "display": "54 points — Penn State",
+          "aliases": [
+            "Arrington"
+          ]
+        },
+        {
+          "answer": "Tim Rattay",
+          "display": "29 points — Louisiana Tech",
+          "aliases": [
+            "Rattay"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/college/football/heisman",
+      "question": "Top 7 vote-getters in the 2000 Heisman Trophy voting (by points)",
+      "cutoff": 7,
+      "difficulty": 3,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1358030867 | table 3 | name: Player | value: Total",
+      "tags": [
+        "football",
+        "heisman",
+        "voting"
+      ],
+      "answers": [
+        {
+          "answer": "Chris Weinke",
+          "display": "1,628 points — Florida State",
+          "aliases": [
+            "Weinke"
+          ]
+        },
+        {
+          "answer": "Josh Heupel",
+          "display": "1,552 points — Oklahoma",
+          "aliases": [
+            "Heupel"
+          ]
+        },
+        {
+          "answer": "Drew Brees",
+          "display": "619 points — Purdue",
+          "aliases": [
+            "Brees"
+          ]
+        },
+        {
+          "answer": "LaDainian Tomlinson",
+          "display": "566 points — TCU",
+          "aliases": [
+            "Tomlinson"
+          ]
+        },
+        {
+          "answer": "Damien Anderson",
+          "display": "101 points — Northwestern",
+          "aliases": [
+            "Anderson"
+          ]
+        },
+        {
+          "answer": "Michael Vick",
+          "display": "83 points — Virginia Tech",
+          "aliases": [
+            "Vick"
+          ]
+        },
+        {
+          "answer": "Santana Moss",
+          "display": "55 points — Miami (FL)",
+          "aliases": [
+            "Moss"
+          ]
+        },
+        {
+          "answer": "Marques Tuiasosopo",
+          "display": "41 points — Washington",
+          "aliases": [
+            "Tuiasosopo"
+          ]
+        },
+        {
+          "answer": "Ken Simonton",
+          "display": "25 points — Oregon State",
+          "aliases": [
+            "Simonton"
+          ]
+        },
+        {
+          "answer": "Rudi Johnson",
+          "display": "20 points — Auburn",
+          "aliases": [
+            "Johnson"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/college/football/heisman",
+      "question": "Top 7 vote-getters in the 2001 Heisman Trophy voting (by points)",
+      "cutoff": 7,
+      "difficulty": 3,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1358998065 | table 4 | name: Player | value: Total",
+      "tags": [
+        "football",
+        "heisman",
+        "voting"
+      ],
+      "answers": [
+        {
+          "answer": "Eric Crouch",
+          "display": "770 points — Nebraska",
+          "aliases": [
+            "Crouch"
+          ]
+        },
+        {
+          "answer": "Rex Grossman",
+          "display": "708 points — Florida",
+          "aliases": [
+            "Grossman"
+          ]
+        },
+        {
+          "answer": "Ken Dorsey",
+          "display": "638 points — Miami (FL)",
+          "aliases": [
+            "Dorsey"
+          ]
+        },
+        {
+          "answer": "Joey Harrington",
+          "display": "364 points — Oregon",
+          "aliases": [
+            "Harrington"
+          ]
+        },
+        {
+          "answer": "David Carr",
+          "display": "280 points — Fresno State",
+          "aliases": [
+            "Carr"
+          ]
+        },
+        {
+          "answer": "Antwaan Randle El",
+          "display": "267 points — Indiana",
+          "aliases": [
+            "Randle El"
+          ]
+        },
+        {
+          "answer": "Roy Williams",
+          "display": "146 points — Oklahoma",
+          "aliases": [
+            "Williams"
+          ]
+        },
+        {
+          "answer": "Bryant McKinnie",
+          "display": "116 points — Miami (FL)",
+          "aliases": [
+            "McKinnie"
+          ]
+        },
+        {
+          "answer": "Dwight Freeney",
+          "display": "42 points — Syracuse",
+          "aliases": [
+            "Freeney"
+          ]
+        },
+        {
+          "answer": "Julius Peppers",
+          "display": "41 points — North Carolina",
+          "aliases": [
+            "Peppers"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/college/football/heisman",
+      "question": "Top 7 vote-getters in the 2002 Heisman Trophy voting (by points)",
+      "cutoff": 7,
+      "difficulty": 3,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1376570202 | table 5 | name: Player | value: Total",
+      "tags": [
+        "football",
+        "heisman",
+        "voting"
+      ],
+      "answers": [
+        {
+          "answer": "Carson Palmer",
+          "display": "1,328 points — USC",
+          "aliases": [
+            "Palmer"
+          ]
+        },
+        {
+          "answer": "Brad Banks",
+          "display": "1,095 points — Iowa",
+          "aliases": [
+            "Banks"
+          ]
+        },
+        {
+          "answer": "Larry Johnson",
+          "display": "726 points — Penn State",
+          "aliases": [
+            "Johnson"
+          ]
+        },
+        {
+          "answer": "Willis McGahee",
+          "display": "660 points — Miami (FL)",
+          "aliases": [
+            "McGahee"
+          ]
+        },
+        {
+          "answer": "Ken Dorsey",
+          "display": "643 points — Miami (FL)",
+          "aliases": [
+            "Dorsey"
+          ]
+        },
+        {
+          "answer": "Byron Leftwich",
+          "display": "152 points — Marshall",
+          "aliases": [
+            "Leftwich"
+          ]
+        },
+        {
+          "answer": "Jason Gesser",
+          "display": "74 points — Washington State",
+          "aliases": [
+            "Gesser"
+          ]
+        },
+        {
+          "answer": "Chris Brown",
+          "display": "48 points — Colorado",
+          "aliases": [
+            "Brown"
+          ]
+        },
+        {
+          "answer": "Kliff Kingsbury",
+          "display": "33 points — Texas Tech",
+          "aliases": [
+            "Kingsbury"
+          ]
+        },
+        {
+          "answer": "Quentin Griffin",
+          "display": "28 points — Oklahoma",
+          "aliases": [
+            "Griffin"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/college/football/heisman",
+      "question": "Top 7 vote-getters in the 2003 Heisman Trophy voting (by points)",
+      "cutoff": 7,
+      "difficulty": 3,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1358028734 | table 4 | name: Player | value: Total",
+      "tags": [
+        "football",
+        "heisman",
+        "voting"
+      ],
+      "answers": [
+        {
+          "answer": "Jason White",
+          "display": "1,481 points — Oklahoma",
+          "aliases": [
+            "White"
+          ]
+        },
+        {
+          "answer": "Larry Fitzgerald",
+          "display": "1,353 points — Pittsburgh",
+          "aliases": [
+            "Fitzgerald"
+          ]
+        },
+        {
+          "answer": "Eli Manning",
+          "display": "710 points — Ole Miss",
+          "aliases": [
+            "Manning"
+          ]
+        },
+        {
+          "answer": "Chris Perry",
+          "display": "341 points — Michigan",
+          "aliases": [
+            "Perry"
+          ]
+        },
+        {
+          "answer": "Darren Sproles",
+          "display": "134 points — Kansas State",
+          "aliases": [
+            "Sproles"
+          ]
+        },
+        {
+          "answer": "Matt Leinart",
+          "display": "127 points — USC",
+          "aliases": [
+            "Leinart"
+          ]
+        },
+        {
+          "answer": "Philip Rivers",
+          "display": "118 points — NC State",
+          "aliases": [
+            "Rivers"
+          ]
+        },
+        {
+          "answer": "Mike Williams",
+          "display": "78 points — USC",
+          "aliases": [
+            "Williams"
+          ]
+        },
+        {
+          "answer": "Ben Roethlisberger",
+          "display": "47 points — Miami (OH)",
+          "aliases": [
+            "Roethlisberger"
+          ]
+        },
+        {
+          "answer": "B. J. Symons",
+          "display": "38 points — Texas Tech",
+          "aliases": [
+            "Symons"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/college/football/heisman",
+      "question": "Top 7 vote-getters in the 2004 Heisman Trophy voting (by points)",
+      "cutoff": 7,
+      "difficulty": 3,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1372545426 | table 3 | name: Player | value: Total",
+      "tags": [
+        "football",
+        "heisman",
+        "voting"
+      ],
+      "answers": [
+        {
+          "answer": "Matt Leinart",
+          "display": "1,325 points — USC",
+          "aliases": [
+            "Leinart"
+          ]
+        },
+        {
+          "answer": "Adrian Peterson",
+          "display": "997 points — Oklahoma",
+          "aliases": [
+            "Peterson"
+          ]
+        },
+        {
+          "answer": "Jason White",
+          "display": "957 points — Oklahoma",
+          "aliases": [
+            "White"
+          ]
+        },
+        {
+          "answer": "Alex Smith",
+          "display": "635 points — Utah",
+          "aliases": [
+            "Smith"
+          ]
+        },
+        {
+          "answer": "Reggie Bush",
+          "display": "597 points — USC",
+          "aliases": [
+            "Bush"
+          ]
+        },
+        {
+          "answer": "Cedric Benson",
+          "display": "187 points — Texas",
+          "aliases": [
+            "Benson"
+          ]
+        },
+        {
+          "answer": "Jason Campbell",
+          "display": "162 points — Auburn",
+          "aliases": [
+            "Campbell"
+          ]
+        },
+        {
+          "answer": "J. J. Arrington",
+          "display": "115 points — California",
+          "aliases": [
+            "Arrington"
+          ]
+        },
+        {
+          "answer": "Aaron Rodgers",
+          "display": "67 points — California",
+          "aliases": [
+            "Rodgers"
+          ]
+        },
+        {
+          "answer": "Braylon Edwards",
+          "display": "62 points — Michigan",
+          "aliases": [
+            "Edwards"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/college/football/heisman",
+      "question": "Top 7 vote-getters in the 2005 Heisman Trophy voting (by points)",
+      "cutoff": 7,
+      "difficulty": 3,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1361591685 | table 3 | name: Player | value: Total",
+      "tags": [
+        "football",
+        "heisman",
+        "voting"
+      ],
+      "answers": [
+        {
+          "answer": "Reggie Bush",
+          "display": "2,541 points — USC",
+          "aliases": [
+            "Bush"
+          ]
+        },
+        {
+          "answer": "Vince Young",
+          "display": "1,608 points — Texas",
+          "aliases": [
+            "Young"
+          ]
+        },
+        {
+          "answer": "Matt Leinart",
+          "display": "797 points — USC",
+          "aliases": [
+            "Leinart"
+          ]
+        },
+        {
+          "answer": "Brady Quinn",
+          "display": "191 points — Notre Dame",
+          "aliases": [
+            "Quinn"
+          ]
+        },
+        {
+          "answer": "Michael Robinson",
+          "display": "49 points — Penn State",
+          "aliases": [
+            "Robinson"
+          ]
+        },
+        {
+          "answer": "A. J. Hawk",
+          "display": "29 points — Ohio State",
+          "aliases": [
+            "Hawk"
+          ]
+        },
+        {
+          "answer": "DeAngelo Williams",
+          "display": "26 points — Memphis",
+          "aliases": [
+            "Williams"
+          ]
+        },
+        {
+          "answer": "Drew Olson",
+          "display": "21 points — UCLA",
+          "aliases": [
+            "Olson"
+          ]
+        },
+        {
+          "answer": "Jerome Harrison",
+          "display": "20 points — Washington State",
+          "aliases": [
+            "Harrison"
+          ]
+        },
+        {
+          "answer": "Elvis Dumervil",
+          "display": "9 points — Louisville",
+          "aliases": [
+            "Dumervil"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/college/football/heisman",
+      "question": "Top 7 vote-getters in the 2006 Heisman Trophy voting (by points)",
+      "cutoff": 7,
+      "difficulty": 3,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1358029028 | table 9 | name: Player | value: Total",
+      "tags": [
+        "football",
+        "heisman",
+        "voting"
+      ],
+      "answers": [
+        {
+          "answer": "Troy Smith",
+          "display": "2,540 points — Ohio State",
+          "aliases": [
+            "Smith"
+          ]
+        },
+        {
+          "answer": "Darren McFadden",
+          "display": "878 points — Arkansas",
+          "aliases": [
+            "McFadden"
+          ]
+        },
+        {
+          "answer": "Brady Quinn",
+          "display": "782 points — Notre Dame",
+          "aliases": [
+            "Quinn"
+          ]
+        },
+        {
+          "answer": "Steve Slaton",
+          "display": "214 points — West Virginia",
+          "aliases": [
+            "Slaton"
+          ]
+        },
+        {
+          "answer": "Mike Hart",
+          "display": "210 points — Michigan",
+          "aliases": [
+            "Hart"
+          ]
+        },
+        {
+          "answer": "Colt Brennan",
+          "display": "202 points — Hawaii",
+          "aliases": [
+            "Brennan"
+          ]
+        },
+        {
+          "answer": "Ray Rice",
+          "display": "79 points — Rutgers",
+          "aliases": [
+            "Rice"
+          ]
+        },
+        {
+          "answer": "Ian Johnson",
+          "display": "73 points — Boise State"
+        },
+        {
+          "answer": "Dwayne Jarrett",
+          "display": "47 points — USC",
+          "aliases": [
+            "Jarrett"
+          ]
+        },
+        {
+          "answer": "Calvin Johnson",
+          "display": "43 points — Georgia Tech"
+        }
+      ]
+    },
+    {
+      "category": "sports/college/football/heisman",
+      "question": "Top 7 vote-getters in the 2007 Heisman Trophy voting (by points)",
+      "cutoff": 7,
+      "difficulty": 3,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1370114944 | table 9 | name: Player | value: Total",
+      "tags": [
+        "football",
+        "heisman",
+        "voting"
+      ],
+      "answers": [
+        {
+          "answer": "Tim Tebow",
+          "display": "1,957 points — Florida",
+          "aliases": [
+            "Tebow"
+          ]
+        },
+        {
+          "answer": "Darren McFadden",
+          "display": "1,703 points — Arkansas",
+          "aliases": [
+            "McFadden"
+          ]
+        },
+        {
+          "answer": "Colt Brennan",
+          "display": "632 points — Hawaii",
+          "aliases": [
+            "Brennan"
+          ]
+        },
+        {
+          "answer": "Chase Daniel",
+          "display": "425 points — Missouri",
+          "aliases": [
+            "Daniel"
+          ]
+        },
+        {
+          "answer": "Dennis Dixon",
+          "display": "178 points — Oregon",
+          "aliases": [
+            "Dixon"
+          ]
+        },
+        {
+          "answer": "Pat White",
+          "display": "150 points — West Virginia",
+          "aliases": [
+            "White"
+          ]
+        },
+        {
+          "answer": "Matt Ryan",
+          "display": "63 points — Boston College",
+          "aliases": [
+            "Ryan"
+          ]
+        },
+        {
+          "answer": "Kevin Smith",
+          "display": "55 points — UCF",
+          "aliases": [
+            "Smith"
+          ]
+        },
+        {
+          "answer": "Glenn Dorsey",
+          "display": "30 points — LSU",
+          "aliases": [
+            "Dorsey"
+          ]
+        },
+        {
+          "answer": "Chris Long",
+          "display": "17 points — Virginia",
+          "aliases": [
+            "Long"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/college/football/heisman",
+      "question": "Top 7 vote-getters in the 2008 Heisman Trophy voting (by points)",
+      "cutoff": 7,
+      "difficulty": 3,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1360588758 | table 9 | name: Player | value: Total",
+      "tags": [
+        "football",
+        "heisman",
+        "voting"
+      ],
+      "answers": [
+        {
+          "answer": "Sam Bradford",
+          "display": "1,726 points — Oklahoma",
+          "aliases": [
+            "Bradford"
+          ]
+        },
+        {
+          "answer": "Colt McCoy",
+          "display": "1,604 points — Texas",
+          "aliases": [
+            "McCoy"
+          ]
+        },
+        {
+          "answer": "Tim Tebow",
+          "display": "1,575 points — Florida",
+          "aliases": [
+            "Tebow"
+          ]
+        },
+        {
+          "answer": "Graham Harrell",
+          "display": "213 points — Texas Tech",
+          "aliases": [
+            "Harrell"
+          ]
+        },
+        {
+          "answer": "Michael Crabtree",
+          "display": "116 points — Texas Tech",
+          "aliases": [
+            "Crabtree"
+          ]
+        },
+        {
+          "answer": "Shonn Greene",
+          "display": "65 points — Iowa",
+          "aliases": [
+            "Greene"
+          ]
+        },
+        {
+          "answer": "Pat White",
+          "display": "19 points — West Virginia",
+          "aliases": [
+            "White"
+          ]
+        },
+        {
+          "answer": "Nate Davis",
+          "display": "10 points — Ball State",
+          "aliases": [
+            "Davis"
+          ]
+        },
+        {
+          "answer": "Rey Maualuga",
+          "display": "9 points — USC",
+          "aliases": [
+            "Maualuga"
+          ]
+        },
+        {
+          "answer": "Javon Ringer",
+          "display": "8 points — Michigan State",
+          "aliases": [
+            "Ringer"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/college/football/heisman",
+      "question": "Top 7 vote-getters in the 2009 Heisman Trophy voting (by points)",
+      "cutoff": 7,
+      "difficulty": 3,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1373478781 | table 6 | name: Player | value: Total",
+      "tags": [
+        "football",
+        "heisman",
+        "voting"
+      ],
+      "answers": [
+        {
+          "answer": "Mark Ingram II",
+          "display": "1,304 points — Alabama",
+          "aliases": [
+            "Ingram"
+          ]
+        },
+        {
+          "answer": "Toby Gerhart",
+          "display": "1,276 points — Stanford",
+          "aliases": [
+            "Gerhart"
+          ]
+        },
+        {
+          "answer": "Colt McCoy",
+          "display": "1,145 points — Texas",
+          "aliases": [
+            "McCoy"
+          ]
+        },
+        {
+          "answer": "Ndamukong Suh",
+          "display": "815 points — Nebraska",
+          "aliases": [
+            "Suh"
+          ]
+        },
+        {
+          "answer": "Tim Tebow",
+          "display": "390 points — Florida",
+          "aliases": [
+            "Tebow"
+          ]
+        },
+        {
+          "answer": "C. J. Spiller",
+          "display": "223 points — Clemson",
+          "aliases": [
+            "Spiller"
+          ]
+        },
+        {
+          "answer": "Kellen Moore",
+          "display": "100 points — Boise State",
+          "aliases": [
+            "Moore"
+          ]
+        },
+        {
+          "answer": "Case Keenum",
+          "display": "37 points — Houston",
+          "aliases": [
+            "Keenum"
+          ]
+        },
+        {
+          "answer": "Mardy Gilyard",
+          "display": "23 points — Cincinnati",
+          "aliases": [
+            "Gilyard"
+          ]
+        },
+        {
+          "answer": "Golden Tate",
+          "display": "21 points — Notre Dame",
+          "aliases": [
+            "Tate"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/college/football/heisman",
+      "question": "Top 7 vote-getters in the 2010 Heisman Trophy voting (by points)",
+      "cutoff": 7,
+      "difficulty": 3,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1373478820 | table 6 | name: Player | value: Total",
+      "tags": [
+        "football",
+        "heisman",
+        "voting"
+      ],
+      "answers": [
+        {
+          "answer": "Cam Newton",
+          "display": "2,263 points — Auburn",
+          "aliases": [
+            "Cam",
+            "Newton"
+          ]
+        },
+        {
+          "answer": "Andrew Luck",
+          "display": "1,079 points — Stanford",
+          "aliases": [
+            "Luck"
+          ]
+        },
+        {
+          "answer": "LaMichael James",
+          "display": "916 points — Oregon",
+          "aliases": [
+            "James"
+          ]
+        },
+        {
+          "answer": "Kellen Moore",
+          "display": "635 points — Boise State",
+          "aliases": [
+            "Moore"
+          ]
+        },
+        {
+          "answer": "Justin Blackmon",
+          "display": "105 points — Oklahoma State",
+          "aliases": [
+            "Blackmon"
+          ]
+        },
+        {
+          "answer": "Denard Robinson",
+          "display": "84 points — Michigan",
+          "aliases": [
+            "Robinson"
+          ]
+        },
+        {
+          "answer": "Ryan Mallett",
+          "display": "41 points — Arkansas",
+          "aliases": [
+            "Mallett"
+          ]
+        },
+        {
+          "answer": "Colin Kaepernick",
+          "display": "31 points — Nevada",
+          "aliases": [
+            "Kaepernick"
+          ]
+        },
+        {
+          "answer": "Andy Dalton",
+          "display": "30 points — TCU",
+          "aliases": [
+            "Dalton"
+          ]
+        },
+        {
+          "answer": "Owen Marecic",
+          "display": "16 points — Stanford",
+          "aliases": [
+            "Marecic"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/college/football/heisman",
+      "question": "Top 7 vote-getters in the 2011 Heisman Trophy voting (by points)",
+      "cutoff": 7,
+      "difficulty": 3,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1370609091 | table 10 | name: Player | value: Total",
+      "tags": [
+        "football",
+        "heisman",
+        "voting"
+      ],
+      "answers": [
+        {
+          "answer": "Robert Griffin III",
+          "display": "1,687 points — Baylor",
+          "aliases": [
+            "RG3",
+            "Griffin"
+          ]
+        },
+        {
+          "answer": "Andrew Luck",
+          "display": "1,407 points — Stanford",
+          "aliases": [
+            "Luck"
+          ]
+        },
+        {
+          "answer": "Trent Richardson",
+          "display": "978 points — Alabama",
+          "aliases": [
+            "Richardson"
+          ]
+        },
+        {
+          "answer": "Montee Ball",
+          "display": "348 points — Wisconsin",
+          "aliases": [
+            "Ball"
+          ]
+        },
+        {
+          "answer": "Tyrann Mathieu",
+          "display": "327 points — LSU",
+          "aliases": [
+            "Mathieu"
+          ]
+        },
+        {
+          "answer": "Matt Barkley",
+          "display": "153 points — USC",
+          "aliases": [
+            "Barkley"
+          ]
+        },
+        {
+          "answer": "Case Keenum",
+          "display": "123 points — Houston",
+          "aliases": [
+            "Keenum"
+          ]
+        },
+        {
+          "answer": "Kellen Moore",
+          "display": "90 points — Boise State",
+          "aliases": [
+            "Moore"
+          ]
+        },
+        {
+          "answer": "Russell Wilson",
+          "display": "52 points — Wisconsin",
+          "aliases": [
+            "Wilson"
+          ]
+        },
+        {
+          "answer": "LaMichael James",
+          "display": "48 points — Oregon",
+          "aliases": [
+            "James"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/college/football/heisman",
+      "question": "Top 7 vote-getters in the 2012 Heisman Trophy voting (by points)",
+      "cutoff": 7,
+      "difficulty": 3,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1341101285 | table 9 | name: Player | value: Total",
+      "tags": [
+        "football",
+        "heisman",
+        "voting"
+      ],
+      "answers": [
+        {
+          "answer": "Johnny Manziel",
+          "display": "2,029 points — Texas A&M",
+          "aliases": [
+            "Johnny Football",
+            "Manziel"
+          ]
+        },
+        {
+          "answer": "Manti Te'o",
+          "display": "1,706 points — Notre Dame",
+          "aliases": [
+            "Te'o"
+          ]
+        },
+        {
+          "answer": "Collin Klein",
+          "display": "894 points — Kansas State",
+          "aliases": [
+            "Klein"
+          ]
+        },
+        {
+          "answer": "Marqise Lee",
+          "display": "207 points — USC",
+          "aliases": [
+            "Lee"
+          ]
+        },
+        {
+          "answer": "Braxton Miller",
+          "display": "144 points — Ohio State",
+          "aliases": [
+            "Miller"
+          ]
+        },
+        {
+          "answer": "Jadeveon Clowney",
+          "display": "61 points — South Carolina",
+          "aliases": [
+            "Clowney"
+          ]
+        },
+        {
+          "answer": "Jordan Lynch",
+          "display": "52 points — Northern Illinois",
+          "aliases": [
+            "Lynch"
+          ]
+        },
+        {
+          "answer": "Tavon Austin",
+          "display": "47 points — West Virginia",
+          "aliases": [
+            "Austin"
+          ]
+        },
+        {
+          "answer": "Kenjon Barner",
+          "display": "42 points — Oregon",
+          "aliases": [
+            "Barner"
+          ]
+        },
+        {
+          "answer": "Jarvis Jones",
+          "display": "41 points — Georgia",
+          "aliases": [
+            "Jones"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/college/football/heisman",
+      "question": "Top 7 vote-getters in the 2013 Heisman Trophy voting (by points)",
+      "cutoff": 7,
+      "difficulty": 3,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1375110339 | table 6 | name: Player | value: Total",
+      "tags": [
+        "football",
+        "heisman",
+        "voting"
+      ],
+      "answers": [
+        {
+          "answer": "Jameis Winston",
+          "display": "2,205 points — Florida State",
+          "aliases": [
+            "Winston"
+          ]
+        },
+        {
+          "answer": "A. J. McCarron",
+          "display": "704 points — Alabama",
+          "aliases": [
+            "McCarron"
+          ]
+        },
+        {
+          "answer": "Jordan Lynch",
+          "display": "558 points — Northern Illinois",
+          "aliases": [
+            "Lynch"
+          ]
+        },
+        {
+          "answer": "Andre Williams",
+          "display": "470 points — Boston College",
+          "aliases": [
+            "Williams"
+          ]
+        },
+        {
+          "answer": "Johnny Manziel",
+          "display": "421 points — Texas A&M",
+          "aliases": [
+            "Johnny Football",
+            "Manziel"
+          ]
+        },
+        {
+          "answer": "Tre Mason",
+          "display": "404 points — Auburn",
+          "aliases": [
+            "Mason"
+          ]
+        },
+        {
+          "answer": "Bryce Petty",
+          "display": "127 points — Baylor",
+          "aliases": [
+            "Petty"
+          ]
+        },
+        {
+          "answer": "Derek Carr",
+          "display": "107 points — Fresno State",
+          "aliases": [
+            "Carr"
+          ]
+        },
+        {
+          "answer": "Braxton Miller",
+          "display": "91 points — Ohio State",
+          "aliases": [
+            "Miller"
+          ]
+        },
+        {
+          "answer": "Ka'Deem Carey",
+          "display": "70 points — Arizona",
+          "aliases": [
+            "Carey"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/college/football/heisman",
+      "question": "Top 7 vote-getters in the 2014 Heisman Trophy voting (by points)",
+      "cutoff": 7,
+      "difficulty": 3,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1372004147 | table 8 | name: Player | value: Total",
+      "tags": [
+        "football",
+        "heisman",
+        "voting"
+      ],
+      "answers": [
+        {
+          "answer": "Marcus Mariota",
+          "display": "2,534 points — Oregon",
+          "aliases": [
+            "Mariota"
+          ]
+        },
+        {
+          "answer": "Melvin Gordon",
+          "display": "1,250 points — Wisconsin",
+          "aliases": [
+            "Gordon"
+          ]
+        },
+        {
+          "answer": "Amari Cooper",
+          "display": "1,023 points — Alabama",
+          "aliases": [
+            "Cooper"
+          ]
+        },
+        {
+          "answer": "Trevone Boykin",
+          "display": "218 points — TCU",
+          "aliases": [
+            "Boykin"
+          ]
+        },
+        {
+          "answer": "J. T. Barrett",
+          "display": "78 points — Ohio State",
+          "aliases": [
+            "Barrett"
+          ]
+        },
+        {
+          "answer": "Jameis Winston",
+          "display": "51 points — Florida State",
+          "aliases": [
+            "Winston"
+          ]
+        },
+        {
+          "answer": "Tevin Coleman",
+          "display": "44 points — Indiana",
+          "aliases": [
+            "Coleman"
+          ]
+        },
+        {
+          "answer": "Dak Prescott",
+          "display": "42 points — Mississippi State",
+          "aliases": [
+            "Prescott"
+          ]
+        },
+        {
+          "answer": "Scooby Wright",
+          "display": "21 points — Arizona",
+          "aliases": [
+            "Wright"
+          ]
+        },
+        {
+          "answer": "Bryce Petty",
+          "display": "13 points — Baylor",
+          "aliases": [
+            "Petty"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/college/football/heisman",
+      "question": "Top 7 vote-getters in the 2015 Heisman Trophy voting (by points)",
+      "cutoff": 7,
+      "difficulty": 3,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1370244113 | table 8 | name: Player | value: Total",
+      "tags": [
+        "football",
+        "heisman",
+        "voting"
+      ],
+      "answers": [
+        {
+          "answer": "Derrick Henry",
+          "display": "1,832 points — Alabama",
+          "aliases": [
+            "Henry"
+          ]
+        },
+        {
+          "answer": "Christian McCaffrey",
+          "display": "1,539 points — Stanford",
+          "aliases": [
+            "McCaffrey"
+          ]
+        },
+        {
+          "answer": "Deshaun Watson",
+          "display": "1,165 points — Clemson",
+          "aliases": [
+            "Watson"
+          ]
+        },
+        {
+          "answer": "Baker Mayfield",
+          "display": "334 points — Oklahoma",
+          "aliases": [
+            "Mayfield"
+          ]
+        },
+        {
+          "answer": "Keenan Reynolds",
+          "display": "180 points — Navy",
+          "aliases": [
+            "Reynolds"
+          ]
+        },
+        {
+          "answer": "Leonard Fournette",
+          "display": "110 points — LSU",
+          "aliases": [
+            "Fournette"
+          ]
+        },
+        {
+          "answer": "Dalvin Cook",
+          "display": "79 points — Florida State"
+        },
+        {
+          "answer": "Ezekiel Elliott",
+          "display": "57 points — Ohio State",
+          "aliases": [
+            "Elliott"
+          ]
+        },
+        {
+          "answer": "Connor Cook",
+          "display": "13 points — Michigan State"
+        },
+        {
+          "answer": "Trevone Boykin",
+          "display": "13 points — TCU",
+          "aliases": [
+            "Boykin"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/college/football/heisman",
+      "question": "Top 6 vote-getters in the 2016 Heisman Trophy voting (by points)",
+      "cutoff": 6,
+      "difficulty": 3,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1365659172 | table 8 | name: Player | value: Total",
+      "tags": [
+        "football",
+        "heisman",
+        "voting"
+      ],
+      "answers": [
+        {
+          "answer": "Lamar Jackson",
+          "display": "2,144 points — Louisville",
+          "aliases": [
+            "Jackson"
+          ]
+        },
+        {
+          "answer": "Deshaun Watson",
+          "display": "1,524 points — Clemson",
+          "aliases": [
+            "Watson"
+          ]
+        },
+        {
+          "answer": "Baker Mayfield",
+          "display": "361 points — Oklahoma",
+          "aliases": [
+            "Mayfield"
+          ]
+        },
+        {
+          "answer": "Dede Westbrook",
+          "display": "209 points — Oklahoma",
+          "aliases": [
+            "Westbrook"
+          ]
+        },
+        {
+          "answer": "Jabrill Peppers",
+          "display": "208 points — Michigan",
+          "aliases": [
+            "Peppers"
+          ]
+        },
+        {
+          "answer": "Jake Browning",
+          "display": "182 points — Washington",
+          "aliases": [
+            "Browning"
+          ]
+        },
+        {
+          "answer": "Jonathan Allen",
+          "display": "132 points — Alabama",
+          "aliases": [
+            "Allen"
+          ]
+        },
+        {
+          "answer": "D'Onta Foreman",
+          "display": "131 points — Texas",
+          "aliases": [
+            "Foreman"
+          ]
+        },
+        {
+          "answer": "Christian McCaffrey",
+          "display": "103 points — Stanford",
+          "aliases": [
+            "McCaffrey"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/college/football/heisman",
+      "question": "Top 7 vote-getters in the 2017 Heisman Trophy voting (by points)",
+      "cutoff": 7,
+      "difficulty": 3,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1375070835 | table 7 | name: Player | value: Total",
+      "tags": [
+        "football",
+        "heisman",
+        "voting"
+      ],
+      "answers": [
+        {
+          "answer": "Baker Mayfield",
+          "display": "2,398 points — Oklahoma",
+          "aliases": [
+            "Mayfield"
+          ]
+        },
+        {
+          "answer": "Bryce Love",
+          "display": "1,300 points — Stanford",
+          "aliases": [
+            "Love"
+          ]
+        },
+        {
+          "answer": "Lamar Jackson",
+          "display": "793 points — Louisville",
+          "aliases": [
+            "Jackson"
+          ]
+        },
+        {
+          "answer": "Saquon Barkley",
+          "display": "304 points — Penn State",
+          "aliases": [
+            "Barkley"
+          ]
+        },
+        {
+          "answer": "Rashaad Penny",
+          "display": "175 points — San Diego State",
+          "aliases": [
+            "Penny"
+          ]
+        },
+        {
+          "answer": "Jonathan Taylor",
+          "display": "58 points — Wisconsin",
+          "aliases": [
+            "Taylor"
+          ]
+        },
+        {
+          "answer": "Mason Rudolph",
+          "display": "56 points — Oklahoma State",
+          "aliases": [
+            "Rudolph"
+          ]
+        },
+        {
+          "answer": "McKenzie Milton",
+          "display": "54 points — UCF",
+          "aliases": [
+            "Milton"
+          ]
+        },
+        {
+          "answer": "Kerryon Johnson",
+          "display": "45 points — Auburn",
+          "aliases": [
+            "Johnson"
+          ]
+        },
+        {
+          "answer": "Roquan Smith",
+          "display": "38 points — Georgia",
+          "aliases": [
+            "Smith"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/college/football/heisman",
+      "question": "Top 7 vote-getters in the 2018 Heisman Trophy voting (by points)",
+      "cutoff": 7,
+      "difficulty": 3,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1374250791 | table 5 | name: Player | value: Total",
+      "tags": [
+        "football",
+        "heisman",
+        "voting"
+      ],
+      "answers": [
+        {
+          "answer": "Kyler Murray",
+          "display": "2,167 points — Oklahoma",
+          "aliases": [
+            "Murray"
+          ]
+        },
+        {
+          "answer": "Tua Tagovailoa",
+          "display": "1,871 points — Alabama",
+          "aliases": [
+            "Tua",
+            "Tagovailoa"
+          ]
+        },
+        {
+          "answer": "Dwayne Haskins",
+          "display": "783 points — Ohio State",
+          "aliases": [
+            "Haskins"
+          ]
+        },
+        {
+          "answer": "Will Grier",
+          "display": "126 points — West Virginia",
+          "aliases": [
+            "Grier"
+          ]
+        },
+        {
+          "answer": "Gardner Minshew",
+          "display": "122 points — Washington State",
+          "aliases": [
+            "Minshew"
+          ]
+        },
+        {
+          "answer": "McKenzie Milton",
+          "display": "39 points — UCF",
+          "aliases": [
+            "Milton"
+          ]
+        },
+        {
+          "answer": "Travis Etienne",
+          "display": "29 points — Clemson",
+          "aliases": [
+            "Etienne"
+          ]
+        },
+        {
+          "answer": "Quinnen Williams",
+          "display": "27 points — Alabama",
+          "aliases": [
+            "Williams"
+          ]
+        },
+        {
+          "answer": "Jonathan Taylor",
+          "display": "26 points — Wisconsin",
+          "aliases": [
+            "Taylor"
+          ]
+        },
+        {
+          "answer": "Darrell Henderson",
+          "display": "21 points — Memphis",
+          "aliases": [
+            "Henderson"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/college/football/heisman",
+      "question": "Top 7 vote-getters in the 2019 Heisman Trophy voting (by points)",
+      "cutoff": 7,
+      "difficulty": 3,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1375115954 | table 10 | name: Player | value: Total",
+      "tags": [
+        "football",
+        "heisman",
+        "voting"
+      ],
+      "answers": [
+        {
+          "answer": "Joe Burrow",
+          "display": "2,608 points — LSU",
+          "aliases": [
+            "Burrow"
+          ]
+        },
+        {
+          "answer": "Jalen Hurts",
+          "display": "762 points — Oklahoma",
+          "aliases": [
+            "Hurts"
+          ]
+        },
+        {
+          "answer": "Justin Fields",
+          "display": "747 points — Ohio State",
+          "aliases": [
+            "Fields"
+          ]
+        },
+        {
+          "answer": "Chase Young",
+          "display": "643 points — Ohio State",
+          "aliases": [
+            "Young"
+          ]
+        },
+        {
+          "answer": "Jonathan Taylor",
+          "display": "189 points — Wisconsin",
+          "aliases": [
+            "Taylor"
+          ]
+        },
+        {
+          "answer": "J. K. Dobbins",
+          "display": "114 points — Ohio State",
+          "aliases": [
+            "Dobbins"
+          ]
+        },
+        {
+          "answer": "Trevor Lawrence",
+          "display": "88 points — Clemson",
+          "aliases": [
+            "Lawrence"
+          ]
+        },
+        {
+          "answer": "Chuba Hubbard",
+          "display": "68 points — Oklahoma State",
+          "aliases": [
+            "Hubbard"
+          ]
+        },
+        {
+          "answer": "Travis Etienne",
+          "display": "25 points — Clemson",
+          "aliases": [
+            "Etienne"
+          ]
+        },
+        {
+          "answer": "Tua Tagovailoa",
+          "display": "24 points — Alabama",
+          "aliases": [
+            "Tua",
+            "Tagovailoa"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/college/football/heisman",
+      "question": "Top 7 vote-getters in the 2020 Heisman Trophy voting (by points)",
+      "cutoff": 7,
+      "difficulty": 3,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1338365402 | table 13 | name: Player | value: Total",
+      "tags": [
+        "football",
+        "heisman",
+        "voting"
+      ],
+      "answers": [
+        {
+          "answer": "DeVonta Smith",
+          "display": "1,856 points — Alabama",
+          "aliases": [
+            "Smith"
+          ]
+        },
+        {
+          "answer": "Trevor Lawrence",
+          "display": "1,187 points — Clemson",
+          "aliases": [
+            "Lawrence"
+          ]
+        },
+        {
+          "answer": "Mac Jones",
+          "display": "1,130 points — Alabama",
+          "aliases": [
+            "Jones"
+          ]
+        },
+        {
+          "answer": "Kyle Trask",
+          "display": "737 points — Florida",
+          "aliases": [
+            "Trask"
+          ]
+        },
+        {
+          "answer": "Najee Harris",
+          "display": "216 points — Alabama",
+          "aliases": [
+            "Harris"
+          ]
+        },
+        {
+          "answer": "Breece Hall",
+          "display": "64 points — Iowa State",
+          "aliases": [
+            "Hall"
+          ]
+        },
+        {
+          "answer": "Justin Fields",
+          "display": "48 points — Ohio State",
+          "aliases": [
+            "Fields"
+          ]
+        },
+        {
+          "answer": "Zach Wilson",
+          "display": "42 points — BYU",
+          "aliases": [
+            "Wilson"
+          ]
+        },
+        {
+          "answer": "Ian Book",
+          "display": "38 points — Notre Dame",
+          "aliases": [
+            "Book"
+          ]
+        },
+        {
+          "answer": "Kyle Pitts",
+          "display": "24 points — Florida",
+          "aliases": [
+            "Pitts"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/college/football/heisman",
+      "question": "Top 7 vote-getters in the 2021 Heisman Trophy voting (by points)",
+      "cutoff": 7,
+      "difficulty": 3,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1362215669 | table 11 | name: Player | value: Total",
+      "tags": [
+        "football",
+        "heisman",
+        "voting"
+      ],
+      "answers": [
+        {
+          "answer": "Bryce Young",
+          "display": "2,311 points — Alabama",
+          "aliases": [
+            "Young"
+          ]
+        },
+        {
+          "answer": "Aidan Hutchinson",
+          "display": "954 points — Michigan",
+          "aliases": [
+            "Hutchinson"
+          ]
+        },
+        {
+          "answer": "Kenny Pickett",
+          "display": "631 points — Pittsburgh",
+          "aliases": [
+            "Pickett"
+          ]
+        },
+        {
+          "answer": "C. J. Stroud",
+          "display": "399 points — Ohio State",
+          "aliases": [
+            "Stroud"
+          ]
+        },
+        {
+          "answer": "Will Anderson Jr.",
+          "display": "325 points — Alabama",
+          "aliases": [
+            "Anderson"
+          ]
+        },
+        {
+          "answer": "Kenneth Walker III",
+          "display": "245 points — Michigan State",
+          "aliases": [
+            "Walker"
+          ]
+        },
+        {
+          "answer": "Matt Corral",
+          "display": "150 points — Ole Miss",
+          "aliases": [
+            "Corral"
+          ]
+        },
+        {
+          "answer": "Desmond Ridder",
+          "display": "81 points — Cincinnati",
+          "aliases": [
+            "Ridder"
+          ]
+        },
+        {
+          "answer": "Jordan Davis",
+          "display": "75 points — Georgia",
+          "aliases": [
+            "Davis"
+          ]
+        },
+        {
+          "answer": "Breece Hall",
+          "display": "17 points — Iowa State",
+          "aliases": [
+            "Hall"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/college/football/heisman",
+      "question": "Top 7 vote-getters in the 2022 Heisman Trophy voting (by points)",
+      "cutoff": 7,
+      "difficulty": 3,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1378642578 | table 12 | name: Player | value: Total",
+      "tags": [
+        "football",
+        "heisman",
+        "voting"
+      ],
+      "answers": [
+        {
+          "answer": "Caleb Williams",
+          "display": "2,031 points — USC",
+          "aliases": [
+            "Williams"
+          ]
+        },
+        {
+          "answer": "Max Duggan",
+          "display": "1,420 points — TCU",
+          "aliases": [
+            "Duggan"
+          ]
+        },
+        {
+          "answer": "C. J. Stroud",
+          "display": "539 points — Ohio State",
+          "aliases": [
+            "Stroud"
+          ]
+        },
+        {
+          "answer": "Stetson Bennett",
+          "display": "349 points — Georgia",
+          "aliases": [
+            "Bennett"
+          ]
+        },
+        {
+          "answer": "Hendon Hooker",
+          "display": "226 points — Tennessee",
+          "aliases": [
+            "Hooker"
+          ]
+        },
+        {
+          "answer": "Bryce Young",
+          "display": "141 points — Alabama",
+          "aliases": [
+            "Young"
+          ]
+        },
+        {
+          "answer": "Blake Corum",
+          "display": "125 points — Michigan",
+          "aliases": [
+            "Corum"
+          ]
+        },
+        {
+          "answer": "Michael Penix Jr.",
+          "display": "114 points — Washington",
+          "aliases": [
+            "Penix"
+          ]
+        },
+        {
+          "answer": "Bijan Robinson",
+          "display": "75 points — Texas",
+          "aliases": [
+            "Robinson"
+          ]
+        },
+        {
+          "answer": "Drake Maye",
+          "display": "42 points — North Carolina",
+          "aliases": [
+            "Maye"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/college/football/heisman",
+      "question": "Top 7 vote-getters in the 2023 Heisman Trophy voting (by points)",
+      "cutoff": 7,
+      "difficulty": 3,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1377196806 | table 12 | name: Player | value: Total",
+      "tags": [
+        "football",
+        "heisman",
+        "voting"
+      ],
+      "answers": [
+        {
+          "answer": "Jayden Daniels",
+          "display": "2,029 points — LSU",
+          "aliases": [
+            "Daniels"
+          ]
+        },
+        {
+          "answer": "Michael Penix Jr.",
+          "display": "1,701 points — Washington",
+          "aliases": [
+            "Penix"
+          ]
+        },
+        {
+          "answer": "Bo Nix",
+          "display": "885 points — Oregon",
+          "aliases": [
+            "Nix"
+          ]
+        },
+        {
+          "answer": "Marvin Harrison Jr.",
+          "display": "352 points — Ohio State",
+          "aliases": [
+            "Harrison"
+          ]
+        },
+        {
+          "answer": "Jordan Travis",
+          "display": "85 points — Florida State",
+          "aliases": [
+            "Travis"
+          ]
+        },
+        {
+          "answer": "Jalen Milroe",
+          "display": "73 points — Alabama",
+          "aliases": [
+            "Milroe"
+          ]
+        },
+        {
+          "answer": "Ollie Gordon II",
+          "display": "31 points — Oklahoma State",
+          "aliases": [
+            "Gordon"
+          ]
+        },
+        {
+          "answer": "Cody Schrader",
+          "display": "29 points — Missouri",
+          "aliases": [
+            "Schrader"
+          ]
+        },
+        {
+          "answer": "Blake Corum",
+          "display": "28 points — Michigan",
+          "aliases": [
+            "Corum"
+          ]
+        },
+        {
+          "answer": "J. J. McCarthy",
+          "display": "21 points — Michigan",
+          "aliases": [
+            "McCarthy"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/college/football/heisman",
+      "question": "Top 7 vote-getters in the 2024 Heisman Trophy voting (by points)",
+      "cutoff": 7,
+      "difficulty": 3,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1377816304 | table 15 | name: Player | value: Total",
+      "tags": [
+        "football",
+        "heisman",
+        "voting"
+      ],
+      "answers": [
+        {
+          "answer": "Travis Hunter",
+          "display": "2,231 points — Colorado",
+          "aliases": [
+            "Hunter"
+          ]
+        },
+        {
+          "answer": "Ashton Jeanty",
+          "display": "2,017 points — Boise State",
+          "aliases": [
+            "Jeanty"
+          ]
+        },
+        {
+          "answer": "Dillon Gabriel",
+          "display": "516 points — Oregon",
+          "aliases": [
+            "Gabriel"
+          ]
+        },
+        {
+          "answer": "Cam Ward",
+          "display": "229 points — Miami (FL)",
+          "aliases": [
+            "Ward"
+          ]
+        },
+        {
+          "answer": "Cam Skattebo",
+          "display": "170 points — Arizona State",
+          "aliases": [
+            "Skattebo"
+          ]
+        },
+        {
+          "answer": "Bryson Daily",
+          "display": "69 points — Army",
+          "aliases": [
+            "Daily"
+          ]
+        },
+        {
+          "answer": "Tyler Warren",
+          "display": "52 points — Penn State",
+          "aliases": [
+            "Warren"
+          ]
+        },
+        {
+          "answer": "Shedeur Sanders",
+          "display": "47 points — Colorado",
+          "aliases": [
+            "Sanders"
+          ]
+        },
+        {
+          "answer": "Kurtis Rourke",
+          "display": "22 points — Indiana",
+          "aliases": [
+            "Rourke"
+          ]
+        },
+        {
+          "answer": "Kyle McCord",
+          "display": "9 points — Syracuse",
+          "aliases": [
+            "McCord"
+          ]
+        }
+      ]
+    }
+  ]
+}

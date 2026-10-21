@@ -1,0 +1,292 @@
+{
+  "categories": [
+    {
+      "path": "science/chemistry/elements",
+      "name": "Elements"
+    }
+  ],
+  "questions": [
+    {
+      "category": "science/chemistry/elements",
+      "question": "Top 10 most abundant elements in Earth's continental crust by mass",
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1368008262 | table 2 | name: Element | value: Abundance",
+      "tags": [
+        "chemistry",
+        "elements",
+        "crust",
+        "abundance"
+      ],
+      "answers": [
+        {
+          "answer": "Oxygen",
+          "display": "461,000 ppm"
+        },
+        {
+          "answer": "Silicon",
+          "display": "282,000 ppm"
+        },
+        {
+          "answer": "Aluminium",
+          "display": "82,300 ppm",
+          "aliases": [
+            "Aluminum"
+          ]
+        },
+        {
+          "answer": "Iron",
+          "display": "56,300 ppm"
+        },
+        {
+          "answer": "Calcium",
+          "display": "41,500 ppm"
+        },
+        {
+          "answer": "Sodium",
+          "display": "23,600 ppm"
+        },
+        {
+          "answer": "Magnesium",
+          "display": "23,300 ppm"
+        },
+        {
+          "answer": "Potassium",
+          "display": "20,900 ppm"
+        },
+        {
+          "answer": "Titanium",
+          "display": "5,650 ppm"
+        },
+        {
+          "answer": "Hydrogen",
+          "display": "1,400 ppm"
+        },
+        {
+          "answer": "Phosphorus",
+          "display": "1,050 ppm"
+        },
+        {
+          "answer": "Manganese",
+          "display": "950 ppm"
+        },
+        {
+          "answer": "Fluorine",
+          "display": "585 ppm"
+        },
+        {
+          "answer": "Barium",
+          "display": "425 ppm"
+        },
+        {
+          "answer": "Strontium",
+          "display": "370 ppm"
+        }
+      ]
+    },
+    {
+      "category": "science/chemistry/elements",
+      "question": "Top 9 most electronegative elements (Pauling scale)",
+      "cutoff": 9,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1365095191 | table 1 | name: Name | value: electronegativity",
+      "tags": [
+        "chemistry",
+        "elements",
+        "electronegativity"
+      ],
+      "answers": [
+        {
+          "answer": "Fluorine",
+          "display": "3.98"
+        },
+        {
+          "answer": "Oxygen",
+          "display": "3.44"
+        },
+        {
+          "answer": "Chlorine",
+          "display": "3.16"
+        },
+        {
+          "answer": "Nitrogen",
+          "display": "3.04"
+        },
+        {
+          "answer": "Krypton",
+          "display": "3.00"
+        },
+        {
+          "answer": "Bromine",
+          "display": "2.96"
+        },
+        {
+          "answer": "Iodine",
+          "display": "2.66"
+        },
+        {
+          "answer": "Xenon",
+          "display": "2.60"
+        },
+        {
+          "answer": "Sulfur",
+          "display": "2.58"
+        },
+        {
+          "answer": "Carbon",
+          "display": "2.55"
+        },
+        {
+          "answer": "Selenium",
+          "display": "2.55"
+        },
+        {
+          "answer": "Gold",
+          "display": "2.54"
+        },
+        {
+          "answer": "Tungsten",
+          "display": "2.36"
+        }
+      ]
+    },
+    {
+      "category": "science/chemistry/elements",
+      "question": "Top 10 densest metals from the middle of the periodic table that have existed on Earth since it formed",
+      "difficulty": 3,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1377683963 | table 1 | name: vteList of chemical elements / Element | value: Density | header rows: 2 | where: vteList of chemical elements / Origin=primordial | where: vteList of chemical elements / Block=d-block",
+      "tags": [
+        "chemistry",
+        "elements",
+        "density",
+        "d-block"
+      ],
+      "answers": [
+        {
+          "answer": "Osmium",
+          "display": "22.59 g/cm³"
+        },
+        {
+          "answer": "Iridium",
+          "display": "22.56 g/cm³"
+        },
+        {
+          "answer": "Platinum",
+          "display": "21.45 g/cm³"
+        },
+        {
+          "answer": "Rhenium",
+          "display": "21.02 g/cm³"
+        },
+        {
+          "answer": "Gold",
+          "display": "19.3 g/cm³"
+        },
+        {
+          "answer": "Tungsten",
+          "display": "19.25 g/cm³",
+          "aliases": [
+            "Wolfram"
+          ]
+        },
+        {
+          "answer": "Tantalum",
+          "display": "16.69 g/cm³"
+        },
+        {
+          "answer": "Mercury",
+          "display": "13.534 g/cm³",
+          "aliases": [
+            "Quicksilver"
+          ]
+        },
+        {
+          "answer": "Hafnium",
+          "display": "13.31 g/cm³"
+        },
+        {
+          "answer": "Ruthenium",
+          "display": "12.45 g/cm³"
+        },
+        {
+          "answer": "Rhodium",
+          "display": "12.41 g/cm³"
+        },
+        {
+          "answer": "Palladium",
+          "display": "12.023 g/cm³"
+        },
+        {
+          "answer": "Silver",
+          "display": "10.49 g/cm³"
+        }
+      ]
+    },
+    {
+      "category": "science/chemistry/elements",
+      "question": "Top 9 most abundant elements in the Milky Way by mass",
+      "cutoff": 9,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1378188017 | table 1 | name: Element | value: Parts per million",
+      "tags": [
+        "chemistry",
+        "elements",
+        "universe",
+        "abundance"
+      ],
+      "answers": [
+        {
+          "answer": "Hydrogen",
+          "display": "739,000 ppm"
+        },
+        {
+          "answer": "Helium",
+          "display": "240,000 ppm"
+        },
+        {
+          "answer": "Oxygen",
+          "display": "10,400 ppm"
+        },
+        {
+          "answer": "Carbon",
+          "display": "4,600 ppm"
+        },
+        {
+          "answer": "Neon",
+          "display": "1,340 ppm"
+        },
+        {
+          "answer": "Iron",
+          "display": "1,090 ppm"
+        },
+        {
+          "answer": "Nitrogen",
+          "display": "960 ppm"
+        },
+        {
+          "answer": "Silicon",
+          "display": "650 ppm"
+        },
+        {
+          "answer": "Magnesium",
+          "display": "580 ppm"
+        },
+        {
+          "answer": "Sulfur",
+          "display": "440 ppm"
+        },
+        {
+          "answer": "Potassium",
+          "display": "210 ppm"
+        },
+        {
+          "answer": "Nickel",
+          "display": "100 ppm"
+        }
+      ]
+    }
+  ]
+}

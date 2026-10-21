@@ -1,0 +1,824 @@
+{
+  "categories": [
+    {
+      "path": "music",
+      "name": "Music"
+    },
+    {
+      "path": "music/billboard-year-end",
+      "name": "Billboard Year-End Hot 100"
+    },
+    {
+      "path": "music/billboard-year-end/1960s",
+      "name": "1960s"
+    }
+  ],
+  "questions": [
+    {
+      "category": "music/billboard-year-end/1960s",
+      "question": "Top 10 songs of Billboard's 1960 year-end Hot 100",
+      "cutoff": 10,
+      "difficulty": 1,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1365919246 | table 1 | name: Title | value: No. | order: asc",
+      "tags": [
+        "music",
+        "billboard",
+        "1960s"
+      ],
+      "answers": [
+        {
+          "answer": "Theme from A Summer Place",
+          "display": "#1 — Percy Faith",
+          "aliases": [
+            "Summer Place"
+          ]
+        },
+        {
+          "answer": "He'll Have to Go",
+          "display": "#2 — Jim Reeves"
+        },
+        {
+          "answer": "Cathy's Clown",
+          "display": "#3 — The Everly Brothers"
+        },
+        {
+          "answer": "Running Bear",
+          "display": "#4 — Johnny Preston"
+        },
+        {
+          "answer": "Teen Angel",
+          "display": "#5 — Mark Dinning"
+        },
+        {
+          "answer": "I'm Sorry",
+          "display": "#6 — Brenda Lee"
+        },
+        {
+          "answer": "It's Now or Never",
+          "display": "#7 — Elvis Presley",
+          "aliases": [
+            "Now or Never"
+          ]
+        },
+        {
+          "answer": "Handy Man",
+          "display": "#8 — Jimmy Jones"
+        },
+        {
+          "answer": "Stuck on You",
+          "display": "#9 — Elvis Presley"
+        },
+        {
+          "answer": "The Twist",
+          "display": "#10 — Chubby Checker"
+        },
+        {
+          "answer": "Everybody's Somebody's Fool",
+          "display": "#11 — Connie Francis"
+        },
+        {
+          "answer": "Wild One",
+          "display": "#12 — Bobby Rydell"
+        },
+        {
+          "answer": "Greenfields",
+          "display": "#13 — The Brothers Four"
+        }
+      ]
+    },
+    {
+      "category": "music/billboard-year-end/1960s",
+      "question": "Top 10 songs of Billboard's 1961 year-end Hot 100",
+      "cutoff": 10,
+      "difficulty": 1,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1304846402 | table 1 | name: Title | value: No. | order: asc",
+      "tags": [
+        "music",
+        "billboard",
+        "1960s"
+      ],
+      "answers": [
+        {
+          "answer": "Tossin' and Turnin'",
+          "display": "#1 — Bobby Lewis"
+        },
+        {
+          "answer": "I Fall to Pieces",
+          "display": "#2 — Patsy Cline",
+          "aliases": [
+            "Fall to Pieces"
+          ]
+        },
+        {
+          "answer": "Michael",
+          "display": "#3 — The Highwaymen"
+        },
+        {
+          "answer": "Crying",
+          "display": "#4 — Roy Orbison"
+        },
+        {
+          "answer": "Runaway",
+          "display": "#5 — Del Shannon"
+        },
+        {
+          "answer": "My True Story",
+          "display": "#6 — The Jive Five",
+          "aliases": [
+            "True Story"
+          ]
+        },
+        {
+          "answer": "Pony Time",
+          "display": "#7 — Chubby Checker"
+        },
+        {
+          "answer": "Wheels",
+          "display": "#8 — The String-A-Longs"
+        },
+        {
+          "answer": "Raindrops",
+          "display": "#9 — Dee Clark"
+        },
+        {
+          "answer": "Wooden Heart",
+          "display": "#10 — Joe Dowell"
+        },
+        {
+          "answer": "Calcutta",
+          "display": "#11 — Lawrence Welk"
+        },
+        {
+          "answer": "Take Good Care of My Baby",
+          "display": "#12 — Bobby Vee"
+        },
+        {
+          "answer": "Running Scared",
+          "display": "#13 — Roy Orbison"
+        }
+      ]
+    },
+    {
+      "category": "music/billboard-year-end/1960s",
+      "question": "Top 10 songs of Billboard's 1962 year-end Hot 100",
+      "cutoff": 10,
+      "difficulty": 1,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1353659275 | table 1 | name: Title | value: № | order: asc",
+      "tags": [
+        "music",
+        "billboard",
+        "1960s"
+      ],
+      "answers": [
+        {
+          "answer": "Stranger on the Shore",
+          "display": "#1 — Acker Bilk"
+        },
+        {
+          "answer": "I Can't Stop Loving You",
+          "display": "#2 — Ray Charles"
+        },
+        {
+          "answer": "Mashed Potato Time",
+          "display": "#3 — Dee Dee Sharp"
+        },
+        {
+          "answer": "Roses Are Red (My Love)",
+          "display": "#4 — Bobby Vinton",
+          "aliases": [
+            "Roses Are Red"
+          ]
+        },
+        {
+          "answer": "The Stripper",
+          "display": "#5 — David Rose"
+        },
+        {
+          "answer": "Johnny Angel",
+          "display": "#6 — Shelley Fabares"
+        },
+        {
+          "answer": "The Loco-Motion",
+          "display": "#7 — Little Eva",
+          "aliases": [
+            "Loco-Motion"
+          ]
+        },
+        {
+          "answer": "Let Me In",
+          "display": "#8 — The Sensations"
+        },
+        {
+          "answer": "The Twist",
+          "display": "#9 — Chubby Checker"
+        },
+        {
+          "answer": "Soldier Boy",
+          "display": "#10 — The Shirelles"
+        },
+        {
+          "answer": "Hey! Baby",
+          "display": "#11 — Bruce Channel"
+        },
+        {
+          "answer": "The Wanderer",
+          "display": "#12 — Dion"
+        },
+        {
+          "answer": "Duke of Earl",
+          "display": "#13 — Gene Chandler"
+        }
+      ]
+    },
+    {
+      "category": "music/billboard-year-end/1960s",
+      "question": "Top 10 songs of Billboard's 1963 year-end Hot 100",
+      "cutoff": 10,
+      "difficulty": 1,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1353659283 | table 1 | name: Title | value: No. | order: asc",
+      "tags": [
+        "music",
+        "billboard",
+        "1960s"
+      ],
+      "answers": [
+        {
+          "answer": "Surfin' U.S.A.",
+          "display": "#1 — The Beach Boys"
+        },
+        {
+          "answer": "The End of the World",
+          "display": "#2 — Skeeter Davis"
+        },
+        {
+          "answer": "Rhythm of the Rain",
+          "display": "#3 — The Cascades"
+        },
+        {
+          "answer": "He's So Fine",
+          "display": "#4 — The Chiffons",
+          "aliases": [
+            "So Fine"
+          ]
+        },
+        {
+          "answer": "Blue Velvet",
+          "display": "#5 — Bobby Vinton"
+        },
+        {
+          "answer": "Hey Paula",
+          "display": "#6 — Paul & Paula"
+        },
+        {
+          "answer": "Fingertips – Part 2",
+          "display": "#7 — Little Stevie Wonder",
+          "aliases": [
+            "Fingertips"
+          ]
+        },
+        {
+          "answer": "Can't Get Used to Losing You",
+          "display": "#8 — Andy Williams",
+          "aliases": [
+            "Losing You"
+          ]
+        },
+        {
+          "answer": "My Boyfriend's Back",
+          "display": "#9 — The Angels"
+        },
+        {
+          "answer": "Sukiyaki",
+          "display": "#10 — Kyu Sakamoto",
+          "aliases": [
+            "Ue o Muite Aruko"
+          ]
+        },
+        {
+          "answer": "So Much in Love",
+          "display": "#11 — The Tymes"
+        },
+        {
+          "answer": "Puff, the Magic Dragon",
+          "display": "#12 — Peter, Paul and Mary"
+        },
+        {
+          "answer": "Blowin' in the Wind",
+          "display": "#13 — Peter, Paul and Mary"
+        }
+      ]
+    },
+    {
+      "category": "music/billboard-year-end/1960s",
+      "question": "Top 10 songs of Billboard's 1964 year-end Hot 100",
+      "cutoff": 10,
+      "difficulty": 1,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1353659288 | table 1 | name: Title | value: No. | order: asc",
+      "tags": [
+        "music",
+        "billboard",
+        "1960s"
+      ],
+      "answers": [
+        {
+          "answer": "I Want to Hold Your Hand",
+          "display": "#1 — The Beatles",
+          "aliases": [
+            "Hold Your Hand"
+          ]
+        },
+        {
+          "answer": "She Loves You",
+          "display": "#2 — The Beatles"
+        },
+        {
+          "answer": "Hello, Dolly!",
+          "display": "#3 — Louis Armstrong"
+        },
+        {
+          "answer": "Oh, Pretty Woman",
+          "display": "#4 — Roy Orbison",
+          "aliases": [
+            "Pretty Woman"
+          ]
+        },
+        {
+          "answer": "I Get Around",
+          "display": "#5 — The Beach Boys",
+          "aliases": [
+            "Get Around"
+          ]
+        },
+        {
+          "answer": "Everybody Loves Somebody",
+          "display": "#6 — Dean Martin"
+        },
+        {
+          "answer": "My Guy",
+          "display": "#7 — Mary Wells"
+        },
+        {
+          "answer": "We'll Sing in the Sunshine",
+          "display": "#8 — Gale Garnett",
+          "aliases": [
+            "Sing in the Sunshine"
+          ]
+        },
+        {
+          "answer": "Last Kiss",
+          "display": "#9 — J. Frank Wilson and the Cavaliers"
+        },
+        {
+          "answer": "Where Did Our Love Go",
+          "display": "#10 — The Supremes"
+        },
+        {
+          "answer": "People",
+          "display": "#11 — Barbra Streisand"
+        },
+        {
+          "answer": "Java",
+          "display": "#12 — Al Hirt"
+        },
+        {
+          "answer": "A Hard Day's Night",
+          "display": "#13 — The Beatles",
+          "aliases": [
+            "Hard Day's Night"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "music/billboard-year-end/1960s",
+      "question": "Top 10 songs of Billboard's 1965 year-end Hot 100",
+      "cutoff": 10,
+      "difficulty": 1,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1353825498 | table 1 | name: Title | value: No. | order: asc",
+      "tags": [
+        "music",
+        "billboard",
+        "1960s"
+      ],
+      "answers": [
+        {
+          "answer": "Wooly Bully",
+          "display": "#1 — Sam the Sham and the Pharaohs"
+        },
+        {
+          "answer": "I Can't Help Myself (Sugar Pie Honey Bunch)",
+          "display": "#2 — Four Tops",
+          "aliases": [
+            "I Can't Help Myself",
+            "Sugar Pie Honey Bunch"
+          ]
+        },
+        {
+          "answer": "(I Can't Get No) Satisfaction",
+          "display": "#3 — The Rolling Stones",
+          "aliases": [
+            "Satisfaction",
+            "I Can't Get No Satisfaction"
+          ]
+        },
+        {
+          "answer": "You Were on My Mind",
+          "display": "#4 — We Five"
+        },
+        {
+          "answer": "You've Lost That Lovin' Feelin'",
+          "display": "#5 — The Righteous Brothers",
+          "aliases": [
+            "That Lovin' Feelin'",
+            "Lovin' Feelin'"
+          ]
+        },
+        {
+          "answer": "Downtown",
+          "display": "#6 — Petula Clark"
+        },
+        {
+          "answer": "Help!",
+          "display": "#7 — The Beatles"
+        },
+        {
+          "answer": "Can't You Hear My Heartbeat",
+          "display": "#8 — Herman's Hermits",
+          "aliases": [
+            "Hear My Heartbeat"
+          ]
+        },
+        {
+          "answer": "Crying in the Chapel",
+          "display": "#9 — Elvis Presley",
+          "aliases": [
+            "In the Chapel"
+          ]
+        },
+        {
+          "answer": "My Girl",
+          "display": "#10 — The Temptations"
+        },
+        {
+          "answer": "Help Me, Rhonda",
+          "display": "#11 — The Beach Boys"
+        },
+        {
+          "answer": "King of the Road",
+          "display": "#12 — Roger Miller"
+        },
+        {
+          "answer": "The Birds and the Bees",
+          "display": "#13 — Jewel Akens",
+          "aliases": [
+            "Birds and the Bees"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "music/billboard-year-end/1960s",
+      "question": "Top 10 songs of Billboard's 1966 year-end Hot 100",
+      "cutoff": 10,
+      "difficulty": 1,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1366264664 | table 1 | name: Title | value: No. | order: asc",
+      "tags": [
+        "music",
+        "billboard",
+        "1960s"
+      ],
+      "answers": [
+        {
+          "answer": "California Dreamin'",
+          "display": "#1 — The Mamas & the Papas"
+        },
+        {
+          "answer": "96 Tears",
+          "display": "#2 — ? and the Mysterians"
+        },
+        {
+          "answer": "What Becomes of the Brokenhearted",
+          "display": "#3 — Jimmy Ruffin",
+          "aliases": [
+            "Brokenhearted"
+          ]
+        },
+        {
+          "answer": "Last Train to Clarksville",
+          "display": "#4 — The Monkees",
+          "aliases": [
+            "Clarksville"
+          ]
+        },
+        {
+          "answer": "Reach Out I'll Be There",
+          "display": "#5 — Four Tops",
+          "aliases": [
+            "Reach Out"
+          ]
+        },
+        {
+          "answer": "These Boots Are Made for Walkin'",
+          "display": "#6 — Nancy Sinatra",
+          "aliases": [
+            "These Boots"
+          ]
+        },
+        {
+          "answer": "Cherish",
+          "display": "#7 — The Association"
+        },
+        {
+          "answer": "Strangers in the Night",
+          "display": "#8 — Frank Sinatra"
+        },
+        {
+          "answer": "Kicks",
+          "display": "#9 — Paul Revere & the Raiders"
+        },
+        {
+          "answer": "The Ballad of the Green Berets",
+          "display": "#10 — Barry Sadler",
+          "aliases": [
+            "Green Berets"
+          ]
+        },
+        {
+          "answer": "Good Lovin'",
+          "display": "#11 — The Young Rascals"
+        },
+        {
+          "answer": "(You're My) Soul and Inspiration",
+          "display": "#12 — The Righteous Brothers",
+          "aliases": [
+            "Soul and Inspiration"
+          ]
+        },
+        {
+          "answer": "You Can't Hurry Love",
+          "display": "#13 — The Supremes"
+        }
+      ]
+    },
+    {
+      "category": "music/billboard-year-end/1960s",
+      "question": "Top 10 songs of Billboard's 1967 year-end Hot 100",
+      "cutoff": 10,
+      "difficulty": 1,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1312865022 | table 1 | name: Title | value: No. | order: asc",
+      "tags": [
+        "music",
+        "billboard",
+        "1960s"
+      ],
+      "answers": [
+        {
+          "answer": "To Sir With Love",
+          "display": "#1 — Lulu",
+          "aliases": [
+            "Sir With Love"
+          ]
+        },
+        {
+          "answer": "The Letter",
+          "display": "#2 — The Box Tops"
+        },
+        {
+          "answer": "Ode to Billie Joe",
+          "display": "#3 — Bobbie Gentry",
+          "aliases": [
+            "Billie Joe"
+          ]
+        },
+        {
+          "answer": "Windy",
+          "display": "#4 — The Association"
+        },
+        {
+          "answer": "I'm a Believer",
+          "display": "#5 — The Monkees",
+          "aliases": [
+            "Believer"
+          ]
+        },
+        {
+          "answer": "Light My Fire",
+          "display": "#6 — The Doors"
+        },
+        {
+          "answer": "Somethin' Stupid",
+          "display": "#7 — Frank & Nancy Sinatra",
+          "aliases": [
+            "Something Stupid"
+          ]
+        },
+        {
+          "answer": "Happy Together",
+          "display": "#8 — The Turtles"
+        },
+        {
+          "answer": "Groovin'",
+          "display": "#9 — The Young Rascals"
+        },
+        {
+          "answer": "Can't Take My Eyes Off You",
+          "display": "#10 — Frankie Valli",
+          "aliases": [
+            "Take My Eyes Off You"
+          ]
+        },
+        {
+          "answer": "Little Bit O' Soul",
+          "display": "#11 — The Music Explosion"
+        },
+        {
+          "answer": "I Think We're Alone Now",
+          "display": "#12 — Tommy James and the Shondells",
+          "aliases": [
+            "Alone Now"
+          ]
+        },
+        {
+          "answer": "Respect",
+          "display": "#13 — Aretha Franklin"
+        }
+      ]
+    },
+    {
+      "category": "music/billboard-year-end/1960s",
+      "question": "Top 10 songs of Billboard's 1968 year-end Hot 100",
+      "cutoff": 10,
+      "difficulty": 1,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1377221515 | table 1 | name: Title | value: No. | order: asc",
+      "tags": [
+        "music",
+        "billboard",
+        "1960s"
+      ],
+      "answers": [
+        {
+          "answer": "Hey Jude",
+          "display": "#1 — The Beatles"
+        },
+        {
+          "answer": "Love is Blue",
+          "display": "#2 — Paul Mauriat"
+        },
+        {
+          "answer": "Honey",
+          "display": "#3 — Bobby Goldsboro"
+        },
+        {
+          "answer": "(Sittin' On) The Dock of the Bay",
+          "display": "#4 — Otis Redding",
+          "aliases": [
+            "Dock of the Bay"
+          ]
+        },
+        {
+          "answer": "People Got to Be Free",
+          "display": "#5 — The Rascals"
+        },
+        {
+          "answer": "Sunshine of Your Love",
+          "display": "#6 — Cream"
+        },
+        {
+          "answer": "This Guy's in Love with You",
+          "display": "#7 — Herb Alpert",
+          "aliases": [
+            "This Guy's in Love"
+          ]
+        },
+        {
+          "answer": "The Good, the Bad and the Ugly",
+          "display": "#8 — Hugo Montenegro",
+          "aliases": [
+            "Good Bad and Ugly"
+          ]
+        },
+        {
+          "answer": "Mrs. Robinson",
+          "display": "#9 — Simon & Garfunkel"
+        },
+        {
+          "answer": "Tighten Up",
+          "display": "#10 — Archie Bell & the Drells"
+        },
+        {
+          "answer": "Harper Valley PTA",
+          "display": "#11 — Jeannie C. Riley",
+          "aliases": [
+            "Harper Valley"
+          ]
+        },
+        {
+          "answer": "Little Green Apples",
+          "display": "#12 — O. C. Smith"
+        },
+        {
+          "answer": "Mony Mony",
+          "display": "#13 — Tommy James and the Shondells"
+        }
+      ]
+    },
+    {
+      "category": "music/billboard-year-end/1960s",
+      "question": "Top 10 songs of Billboard's 1969 year-end Hot 100",
+      "cutoff": 10,
+      "difficulty": 1,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1355960222 | table 1 | name: Title | value: No. | order: asc",
+      "tags": [
+        "music",
+        "billboard",
+        "1960s"
+      ],
+      "answers": [
+        {
+          "answer": "Sugar, Sugar",
+          "display": "#1 — The Archies"
+        },
+        {
+          "answer": "Aquarius/Let the Sunshine In",
+          "display": "#2 — The 5th Dimension",
+          "aliases": [
+            "Let the Sunshine In",
+            "Aquarius"
+          ]
+        },
+        {
+          "answer": "I Can't Get Next to You",
+          "display": "#3 — The Temptations",
+          "aliases": [
+            "Get Next to You"
+          ]
+        },
+        {
+          "answer": "Honky Tonk Women",
+          "display": "#4 — The Rolling Stones",
+          "aliases": [
+            "Honky Tonk"
+          ]
+        },
+        {
+          "answer": "Everyday People",
+          "display": "#5 — Sly and the Family Stone"
+        },
+        {
+          "answer": "Dizzy",
+          "display": "#6 — Tommy Roe"
+        },
+        {
+          "answer": "Hot Fun in the Summertime",
+          "display": "#7 — Sly and the Family Stone",
+          "aliases": [
+            "Hot Fun"
+          ]
+        },
+        {
+          "answer": "I'll Never Fall in Love Again",
+          "display": "#8 — Tom Jones",
+          "aliases": [
+            "Never Fall in Love Again"
+          ]
+        },
+        {
+          "answer": "Build Me Up Buttercup",
+          "display": "#9 — The Foundations",
+          "aliases": [
+            "Buttercup"
+          ]
+        },
+        {
+          "answer": "Crimson and Clover",
+          "display": "#10 — Tommy James and the Shondells"
+        },
+        {
+          "answer": "One",
+          "display": "#11 — Three Dog Night"
+        },
+        {
+          "answer": "Crystal Blue Persuasion",
+          "display": "#12 — Tommy James and the Shondells",
+          "aliases": [
+            "Crystal Blue"
+          ]
+        },
+        {
+          "answer": "Hair",
+          "display": "#13 — The Cowsills"
+        }
+      ]
+    }
+  ]
+}

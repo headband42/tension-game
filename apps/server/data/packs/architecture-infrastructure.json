@@ -1,0 +1,89 @@
+{
+  "categories": [
+    {
+      "path": "architecture/infrastructure",
+      "name": "Infrastructure"
+    },
+    {
+      "path": "architecture/infrastructure/transport-networks",
+      "name": "Transport Networks"
+    }
+  ],
+  "questions": [
+    {
+      "category": "architecture/infrastructure/transport-networks",
+      "question": "Top 10 countries by total road network length, paved and unpaved (km, years vary)",
+      "cutoff": 10,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1372933861 | table 1 | name: Country | value: Total (km) | where: Country!~^World$ | note: road lengths are the figures Wikipedia gives per country, several from estimates",
+      "tags": [
+        "architecture",
+        "infrastructure",
+        "roads"
+      ],
+      "answers": [
+        {
+          "answer": "India",
+          "display": "6,700,000 km"
+        },
+        {
+          "answer": "United States",
+          "display": "6,586,610 km",
+          "aliases": [
+            "USA",
+            "US",
+            "America"
+          ]
+        },
+        {
+          "answer": "China",
+          "display": "5,490,400 km"
+        },
+        {
+          "answer": "Brazil",
+          "display": "2,000,000 km"
+        },
+        {
+          "answer": "Russia",
+          "display": "1,579,291 km",
+          "aliases": [
+            "Russian Federation"
+          ]
+        },
+        {
+          "answer": "Japan",
+          "display": "1,218,772 km"
+        },
+        {
+          "answer": "France",
+          "display": "1,053,215 km"
+        },
+        {
+          "answer": "Canada",
+          "display": "1,042,300 km"
+        },
+        {
+          "answer": "Australia",
+          "display": "977,874 km"
+        },
+        {
+          "answer": "Mexico",
+          "display": "836,603 km"
+        },
+        {
+          "answer": "Germany",
+          "display": "830,000 km"
+        },
+        {
+          "answer": "South Africa",
+          "display": "750,000 km"
+        },
+        {
+          "answer": "Thailand",
+          "display": "702,989 km"
+        }
+      ]
+    }
+  ]
+}

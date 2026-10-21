@@ -1,0 +1,3543 @@
+{
+  "categories": [
+    {
+      "path": "sports/olympics/summer/sports/athletics",
+      "name": "Olympic Athletics Medal Tables"
+    },
+    {
+      "path": "sports/olympics/summer/sports/swimming",
+      "name": "Olympic Swimming Medal Tables"
+    },
+    {
+      "path": "sports/olympics/summer/sports/gymnastics",
+      "name": "Olympic Gymnastics Medal Tables"
+    }
+  ],
+  "questions": [
+    {
+      "category": "sports/olympics/summer/sports/athletics",
+      "question": "Top 9 nations in the athletics medal table at the 1948 Summer Olympics (London) (ranked by gold, then silver, then bronze)",
+      "cutoff": 9,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1374591559 | table 1 | name: Nation | value: Rank | order: asc",
+      "tags": [
+        "athletics",
+        "olympics",
+        "summer-olympics",
+        "medals",
+        "nations",
+        "1948"
+      ],
+      "answers": [
+        {
+          "answer": "United States",
+          "display": "#1 — 12 gold, 5 silver, 10 bronze",
+          "aliases": [
+            "USA",
+            "US",
+            "United States of America",
+            "America"
+          ]
+        },
+        {
+          "answer": "Sweden",
+          "display": "#2 — 5 gold, 3 silver, 5 bronze"
+        },
+        {
+          "answer": "Netherlands",
+          "display": "#3 — 4 gold, 0 silver, 2 bronze",
+          "aliases": [
+            "Holland"
+          ]
+        },
+        {
+          "answer": "France",
+          "display": "#4 — 2 gold, 3 silver, 3 bronze"
+        },
+        {
+          "answer": "Hungary",
+          "display": "#5 — 2 gold, 0 silver, 1 bronze"
+        },
+        {
+          "answer": "Australia",
+          "display": "#6 — 1 gold, 3 silver, 2 bronze"
+        },
+        {
+          "answer": "Italy",
+          "display": "#7 — 1 gold, 3 silver, 1 bronze"
+        },
+        {
+          "answer": "Finland",
+          "display": "#8 — 1 gold, 2 silver, 0 bronze"
+        },
+        {
+          "answer": "Jamaica",
+          "display": "#8 — 1 gold, 2 silver, 0 bronze"
+        },
+        {
+          "answer": "Argentina",
+          "display": "#10 — 1 gold, 1 silver, 0 bronze"
+        },
+        {
+          "answer": "Czechoslovakia",
+          "display": "#10 — 1 gold, 1 silver, 0 bronze"
+        },
+        {
+          "answer": "Austria",
+          "display": "#12 — 1 gold, 0 silver, 1 bronze"
+        },
+        {
+          "answer": "Belgium",
+          "display": "#12 — 1 gold, 0 silver, 1 bronze"
+        }
+      ]
+    },
+    {
+      "category": "sports/olympics/summer/sports/athletics",
+      "question": "Top 9 nations in the athletics medal table at the 1952 Summer Olympics (Helsinki) (ranked by gold, then silver, then bronze)",
+      "cutoff": 9,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1366035540 | table 5 | name: Nation | value: Rank | order: asc",
+      "tags": [
+        "athletics",
+        "olympics",
+        "summer-olympics",
+        "medals",
+        "nations",
+        "1952"
+      ],
+      "answers": [
+        {
+          "answer": "United States",
+          "display": "#1 — 15 gold, 10 silver, 6 bronze",
+          "aliases": [
+            "USA",
+            "US",
+            "United States of America",
+            "America"
+          ]
+        },
+        {
+          "answer": "Czechoslovakia",
+          "display": "#2 — 4 gold, 1 silver, 0 bronze"
+        },
+        {
+          "answer": "Australia",
+          "display": "#3 — 3 gold, 0 silver, 1 bronze"
+        },
+        {
+          "answer": "Soviet Union",
+          "display": "#4 — 2 gold, 8 silver, 7 bronze",
+          "aliases": [
+            "USSR"
+          ]
+        },
+        {
+          "answer": "Jamaica",
+          "display": "#5 — 2 gold, 3 silver, 0 bronze"
+        },
+        {
+          "answer": "Italy",
+          "display": "#6 — 1 gold, 1 silver, 0 bronze"
+        },
+        {
+          "answer": "South Africa",
+          "display": "#6 — 1 gold, 1 silver, 0 bronze",
+          "aliases": [
+            "RSA"
+          ]
+        },
+        {
+          "answer": "Hungary",
+          "display": "#8 — 1 gold, 0 silver, 4 bronze"
+        },
+        {
+          "answer": "Sweden",
+          "display": "#9 — 1 gold, 0 silver, 2 bronze"
+        },
+        {
+          "answer": "Brazil",
+          "display": "#10 — 1 gold, 0 silver, 1 bronze"
+        },
+        {
+          "answer": "New Zealand",
+          "display": "#10 — 1 gold, 0 silver, 1 bronze"
+        },
+        {
+          "answer": "Luxembourg",
+          "display": "#12 — 1 gold, 0 silver, 0 bronze"
+        },
+        {
+          "answer": "Germany",
+          "display": "#13 — 0 gold, 3 silver, 5 bronze",
+          "aliases": [
+            "GER"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/olympics/summer/sports/athletics",
+      "question": "Top 7 nations in the athletics medal table at the 1956 Summer Olympics (Melbourne) (ranked by gold, then silver, then bronze)",
+      "cutoff": 7,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1366156539 | table 3 | name: Nation | value: Rank | order: asc",
+      "tags": [
+        "athletics",
+        "olympics",
+        "summer-olympics",
+        "medals",
+        "nations",
+        "1956"
+      ],
+      "answers": [
+        {
+          "answer": "United States",
+          "display": "#1 — 16 gold, 10 silver, 5 bronze",
+          "aliases": [
+            "USA",
+            "US",
+            "United States of America",
+            "America"
+          ]
+        },
+        {
+          "answer": "Soviet Union",
+          "display": "#2 — 5 gold, 7 silver, 10 bronze",
+          "aliases": [
+            "USSR"
+          ]
+        },
+        {
+          "answer": "Australia",
+          "display": "#3 — 4 gold, 2 silver, 6 bronze"
+        },
+        {
+          "answer": "Great Britain",
+          "display": "#4 — 1 gold, 4 silver, 2 bronze",
+          "aliases": [
+            "UK",
+            "Britain",
+            "GB",
+            "Great Britain and Northern Ireland"
+          ]
+        },
+        {
+          "answer": "Poland",
+          "display": "#5 — 1 gold, 1 silver, 0 bronze"
+        },
+        {
+          "answer": "Norway",
+          "display": "#6 — 1 gold, 0 silver, 2 bronze"
+        },
+        {
+          "answer": "Czechoslovakia",
+          "display": "#7 — 1 gold, 0 silver, 1 bronze"
+        },
+        {
+          "answer": "Brazil",
+          "display": "#8 — 1 gold, 0 silver, 0 bronze"
+        },
+        {
+          "answer": "France",
+          "display": "#8 — 1 gold, 0 silver, 0 bronze"
+        },
+        {
+          "answer": "Ireland",
+          "display": "#8 — 1 gold, 0 silver, 0 bronze"
+        },
+        {
+          "answer": "New Zealand",
+          "display": "#8 — 1 gold, 0 silver, 0 bronze"
+        }
+      ]
+    },
+    {
+      "category": "sports/olympics/summer/sports/athletics",
+      "question": "Top 9 nations in the athletics medal table at the 1960 Summer Olympics (Rome) (ranked by gold, then silver, then bronze)",
+      "cutoff": 9,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1366154575 | table 3 | name: Nation | value: Rank | order: asc",
+      "tags": [
+        "athletics",
+        "olympics",
+        "summer-olympics",
+        "medals",
+        "nations",
+        "1960"
+      ],
+      "answers": [
+        {
+          "answer": "United States",
+          "display": "#1 — 12 gold, 8 silver, 6 bronze",
+          "aliases": [
+            "USA",
+            "US",
+            "United States of America",
+            "America"
+          ]
+        },
+        {
+          "answer": "Soviet Union",
+          "display": "#2 — 11 gold, 5 silver, 5 bronze",
+          "aliases": [
+            "USSR"
+          ]
+        },
+        {
+          "answer": "United Team of Germany",
+          "display": "#3 — 2 gold, 8 silver, 3 bronze",
+          "aliases": [
+            "EUA"
+          ]
+        },
+        {
+          "answer": "Poland",
+          "display": "#4 — 2 gold, 2 silver, 3 bronze"
+        },
+        {
+          "answer": "New Zealand",
+          "display": "#5 — 2 gold, 0 silver, 1 bronze"
+        },
+        {
+          "answer": "Great Britain",
+          "display": "#6 — 1 gold, 3 silver, 4 bronze",
+          "aliases": [
+            "UK",
+            "Britain",
+            "GB",
+            "Great Britain and Northern Ireland"
+          ]
+        },
+        {
+          "answer": "Australia",
+          "display": "#7 — 1 gold, 2 silver, 1 bronze"
+        },
+        {
+          "answer": "Italy",
+          "display": "#8 — 1 gold, 0 silver, 2 bronze"
+        },
+        {
+          "answer": "Romania",
+          "display": "#9 — 1 gold, 0 silver, 1 bronze"
+        },
+        {
+          "answer": "Ethiopia",
+          "display": "#10 — 1 gold, 0 silver, 0 bronze"
+        },
+        {
+          "answer": "Hungary",
+          "display": "#11 — 0 gold, 1 silver, 2 bronze"
+        },
+        {
+          "answer": "France",
+          "display": "#12 — 0 gold, 1 silver, 1 bronze"
+        }
+      ]
+    },
+    {
+      "category": "sports/olympics/summer/sports/athletics",
+      "question": "Top 9 nations in the athletics medal table at the 1964 Summer Olympics (Tokyo) (ranked by gold, then silver, then bronze)",
+      "cutoff": 9,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1369961685 | table 3 | name: Nation | value: Rank | order: asc",
+      "tags": [
+        "athletics",
+        "olympics",
+        "summer-olympics",
+        "medals",
+        "nations",
+        "1964"
+      ],
+      "answers": [
+        {
+          "answer": "United States",
+          "display": "#1 — 14 gold, 7 silver, 3 bronze",
+          "aliases": [
+            "USA",
+            "US",
+            "United States of America",
+            "America"
+          ]
+        },
+        {
+          "answer": "Soviet Union",
+          "display": "#2 — 5 gold, 2 silver, 11 bronze",
+          "aliases": [
+            "USSR"
+          ]
+        },
+        {
+          "answer": "Great Britain",
+          "display": "#3 — 4 gold, 7 silver, 1 bronze",
+          "aliases": [
+            "UK",
+            "Britain",
+            "GB",
+            "Great Britain and Northern Ireland"
+          ]
+        },
+        {
+          "answer": "United Team of Germany",
+          "display": "#4 — 2 gold, 5 silver, 3 bronze",
+          "aliases": [
+            "EUA"
+          ]
+        },
+        {
+          "answer": "Poland",
+          "display": "#5 — 2 gold, 4 silver, 2 bronze"
+        },
+        {
+          "answer": "New Zealand",
+          "display": "#6 — 2 gold, 0 silver, 2 bronze"
+        },
+        {
+          "answer": "Romania",
+          "display": "#7 — 2 gold, 0 silver, 1 bronze"
+        },
+        {
+          "answer": "Australia",
+          "display": "#8 — 1 gold, 1 silver, 4 bronze"
+        },
+        {
+          "answer": "Italy",
+          "display": "#9 — 1 gold, 0 silver, 1 bronze"
+        },
+        {
+          "answer": "Belgium",
+          "display": "#10 — 1 gold, 0 silver, 0 bronze"
+        },
+        {
+          "answer": "Ethiopia",
+          "display": "#10 — 1 gold, 0 silver, 0 bronze"
+        },
+        {
+          "answer": "Finland",
+          "display": "#10 — 1 gold, 0 silver, 0 bronze"
+        }
+      ]
+    },
+    {
+      "category": "sports/olympics/summer/sports/athletics",
+      "question": "Top 10 nations in the athletics medal table at the 1968 Summer Olympics (Mexico City) (ranked by gold, then silver, then bronze)",
+      "cutoff": 10,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1371650277 | table 3 | name: Nation | value: Rank | order: asc",
+      "tags": [
+        "athletics",
+        "olympics",
+        "summer-olympics",
+        "medals",
+        "nations",
+        "1968"
+      ],
+      "answers": [
+        {
+          "answer": "United States",
+          "display": "#1 — 15 gold, 6 silver, 7 bronze",
+          "aliases": [
+            "USA",
+            "US",
+            "United States of America",
+            "America"
+          ]
+        },
+        {
+          "answer": "Kenya",
+          "display": "#2 — 3 gold, 4 silver, 1 bronze"
+        },
+        {
+          "answer": "Soviet Union",
+          "display": "#3 — 3 gold, 2 silver, 8 bronze",
+          "aliases": [
+            "USSR"
+          ]
+        },
+        {
+          "answer": "Australia",
+          "display": "#4 — 2 gold, 3 silver, 1 bronze"
+        },
+        {
+          "answer": "East Germany",
+          "display": "#4 — 2 gold, 3 silver, 1 bronze",
+          "aliases": [
+            "GDR"
+          ]
+        },
+        {
+          "answer": "Romania",
+          "display": "#6 — 2 gold, 2 silver, 0 bronze"
+        },
+        {
+          "answer": "Hungary",
+          "display": "#7 — 2 gold, 1 silver, 4 bronze"
+        },
+        {
+          "answer": "West Germany",
+          "display": "#8 — 1 gold, 4 silver, 3 bronze",
+          "aliases": [
+            "FRG"
+          ]
+        },
+        {
+          "answer": "Great Britain",
+          "display": "#9 — 1 gold, 2 silver, 1 bronze",
+          "aliases": [
+            "UK",
+            "Britain",
+            "GB",
+            "Great Britain and Northern Ireland"
+          ]
+        },
+        {
+          "answer": "Ethiopia",
+          "display": "#10 — 1 gold, 1 silver, 0 bronze"
+        },
+        {
+          "answer": "Czechoslovakia",
+          "display": "#11 — 1 gold, 0 silver, 1 bronze"
+        },
+        {
+          "answer": "France",
+          "display": "#11 — 1 gold, 0 silver, 1 bronze"
+        },
+        {
+          "answer": "Poland",
+          "display": "#11 — 1 gold, 0 silver, 1 bronze"
+        },
+        {
+          "answer": "Tunisia",
+          "display": "#11 — 1 gold, 0 silver, 1 bronze"
+        }
+      ]
+    },
+    {
+      "category": "sports/olympics/summer/sports/athletics",
+      "question": "Top 10 nations in the athletics medal table at the 1972 Summer Olympics (Munich) (ranked by gold, then silver, then bronze)",
+      "cutoff": 10,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1365944527 | table 3 | name: Nation | value: Rank | order: asc",
+      "tags": [
+        "athletics",
+        "olympics",
+        "summer-olympics",
+        "medals",
+        "nations",
+        "1972"
+      ],
+      "answers": [
+        {
+          "answer": "Soviet Union",
+          "display": "#1 — 9 gold, 7 silver, 1 bronze",
+          "aliases": [
+            "USSR"
+          ]
+        },
+        {
+          "answer": "East Germany",
+          "display": "#2 — 8 gold, 7 silver, 5 bronze",
+          "aliases": [
+            "GDR"
+          ]
+        },
+        {
+          "answer": "United States",
+          "display": "#3 — 6 gold, 8 silver, 8 bronze",
+          "aliases": [
+            "USA",
+            "US",
+            "United States of America",
+            "America"
+          ]
+        },
+        {
+          "answer": "West Germany",
+          "display": "#4 — 6 gold, 3 silver, 2 bronze",
+          "aliases": [
+            "FRG"
+          ]
+        },
+        {
+          "answer": "Finland",
+          "display": "#5 — 3 gold, 0 silver, 1 bronze"
+        },
+        {
+          "answer": "Kenya",
+          "display": "#6 — 2 gold, 2 silver, 2 bronze"
+        },
+        {
+          "answer": "Great Britain",
+          "display": "#7 — 1 gold, 1 silver, 2 bronze",
+          "aliases": [
+            "UK",
+            "Britain",
+            "GB",
+            "Great Britain and Northern Ireland"
+          ]
+        },
+        {
+          "answer": "Poland",
+          "display": "#8 — 1 gold, 0 silver, 2 bronze"
+        },
+        {
+          "answer": "Czechoslovakia",
+          "display": "#9 — 1 gold, 0 silver, 1 bronze"
+        },
+        {
+          "answer": "Uganda",
+          "display": "#10 — 1 gold, 0 silver, 0 bronze"
+        },
+        {
+          "answer": "Bulgaria",
+          "display": "#11 — 0 gold, 2 silver, 2 bronze"
+        },
+        {
+          "answer": "Australia",
+          "display": "#12 — 0 gold, 2 silver, 0 bronze"
+        },
+        {
+          "answer": "Belgium",
+          "display": "#12 — 0 gold, 2 silver, 0 bronze"
+        },
+        {
+          "answer": "Romania",
+          "display": "#12 — 0 gold, 2 silver, 0 bronze"
+        }
+      ]
+    },
+    {
+      "category": "sports/olympics/summer/sports/athletics",
+      "question": "Top 10 nations in the athletics medal table at the 1976 Summer Olympics (Montreal) (ranked by gold, then silver, then bronze)",
+      "cutoff": 10,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1371964019 | table 3 | name: Nation | value: Rank | order: asc",
+      "tags": [
+        "athletics",
+        "olympics",
+        "summer-olympics",
+        "medals",
+        "nations",
+        "1976"
+      ],
+      "answers": [
+        {
+          "answer": "East Germany",
+          "display": "#1 — 11 gold, 7 silver, 9 bronze",
+          "aliases": [
+            "GDR"
+          ]
+        },
+        {
+          "answer": "United States",
+          "display": "#2 — 6 gold, 8 silver, 8 bronze",
+          "aliases": [
+            "USA",
+            "US",
+            "United States of America",
+            "America"
+          ]
+        },
+        {
+          "answer": "Soviet Union",
+          "display": "#3 — 4 gold, 4 silver, 10 bronze",
+          "aliases": [
+            "USSR"
+          ]
+        },
+        {
+          "answer": "Poland",
+          "display": "#4 — 3 gold, 2 silver, 0 bronze"
+        },
+        {
+          "answer": "Finland",
+          "display": "#5 — 2 gold, 2 silver, 0 bronze"
+        },
+        {
+          "answer": "Cuba",
+          "display": "#6 — 2 gold, 1 silver, 0 bronze"
+        },
+        {
+          "answer": "West Germany",
+          "display": "#7 — 1 gold, 4 silver, 4 bronze",
+          "aliases": [
+            "FRG"
+          ]
+        },
+        {
+          "answer": "Bulgaria",
+          "display": "#8 — 1 gold, 2 silver, 1 bronze"
+        },
+        {
+          "answer": "Jamaica",
+          "display": "#9 — 1 gold, 1 silver, 0 bronze"
+        },
+        {
+          "answer": "New Zealand",
+          "display": "#9 — 1 gold, 1 silver, 0 bronze"
+        },
+        {
+          "answer": "France",
+          "display": "#11 — 1 gold, 0 silver, 0 bronze"
+        },
+        {
+          "answer": "Hungary",
+          "display": "#11 — 1 gold, 0 silver, 0 bronze"
+        },
+        {
+          "answer": "Mexico",
+          "display": "#11 — 1 gold, 0 silver, 0 bronze"
+        },
+        {
+          "answer": "Sweden",
+          "display": "#11 — 1 gold, 0 silver, 0 bronze"
+        },
+        {
+          "answer": "Trinidad and Tobago",
+          "display": "#11 — 1 gold, 0 silver, 0 bronze",
+          "aliases": [
+            "Trinidad"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/olympics/summer/sports/athletics",
+      "question": "Top 9 nations in the athletics medal table at the 1980 Summer Olympics (Moscow) (ranked by gold, then silver, then bronze)",
+      "cutoff": 9,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1375091179 | table 1 | name: Nation | value: Rank | order: asc",
+      "tags": [
+        "athletics",
+        "olympics",
+        "summer-olympics",
+        "medals",
+        "nations",
+        "1980"
+      ],
+      "answers": [
+        {
+          "answer": "Soviet Union",
+          "display": "#1 — 15 gold, 14 silver, 12 bronze",
+          "aliases": [
+            "USSR"
+          ]
+        },
+        {
+          "answer": "East Germany",
+          "display": "#2 — 11 gold, 8 silver, 10 bronze",
+          "aliases": [
+            "GDR"
+          ]
+        },
+        {
+          "answer": "Great Britain",
+          "display": "#3 — 4 gold, 2 silver, 4 bronze",
+          "aliases": [
+            "UK",
+            "Britain",
+            "GB",
+            "Great Britain and Northern Ireland"
+          ]
+        },
+        {
+          "answer": "Italy",
+          "display": "#4 — 3 gold, 0 silver, 1 bronze"
+        },
+        {
+          "answer": "Poland",
+          "display": "#5 — 2 gold, 4 silver, 1 bronze"
+        },
+        {
+          "answer": "Ethiopia",
+          "display": "#6 — 2 gold, 0 silver, 2 bronze"
+        },
+        {
+          "answer": "Cuba",
+          "display": "#7 — 1 gold, 2 silver, 1 bronze"
+        },
+        {
+          "answer": "Czechoslovakia",
+          "display": "#8 — 0 gold, 2 silver, 0 bronze"
+        },
+        {
+          "answer": "Tanzania",
+          "display": "#8 — 0 gold, 2 silver, 0 bronze"
+        },
+        {
+          "answer": "Bulgaria",
+          "display": "#10 — 0 gold, 1 silver, 1 bronze"
+        },
+        {
+          "answer": "Finland",
+          "display": "#10 — 0 gold, 1 silver, 1 bronze"
+        },
+        {
+          "answer": "Australia",
+          "display": "#12 — 0 gold, 1 silver, 0 bronze"
+        },
+        {
+          "answer": "Netherlands",
+          "display": "#12 — 0 gold, 1 silver, 0 bronze",
+          "aliases": [
+            "Holland"
+          ]
+        },
+        {
+          "answer": "Spain",
+          "display": "#12 — 0 gold, 1 silver, 0 bronze"
+        }
+      ]
+    },
+    {
+      "category": "sports/olympics/summer/sports/athletics",
+      "question": "Top 10 nations in the athletics medal table at the 1984 Summer Olympics (Los Angeles) (ranked by gold, then silver, then bronze)",
+      "cutoff": 10,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1371995366 | table 1 | name: Nation | value: Rank | order: asc",
+      "tags": [
+        "athletics",
+        "olympics",
+        "summer-olympics",
+        "medals",
+        "nations",
+        "1984"
+      ],
+      "answers": [
+        {
+          "answer": "United States",
+          "display": "#1 — 16 gold, 15 silver, 9 bronze",
+          "aliases": [
+            "USA",
+            "US",
+            "United States of America",
+            "America"
+          ]
+        },
+        {
+          "answer": "West Germany",
+          "display": "#2 — 4 gold, 2 silver, 5 bronze",
+          "aliases": [
+            "FRG"
+          ]
+        },
+        {
+          "answer": "Great Britain",
+          "display": "#3 — 3 gold, 7 silver, 6 bronze",
+          "aliases": [
+            "UK",
+            "Britain",
+            "GB",
+            "Great Britain and Northern Ireland"
+          ]
+        },
+        {
+          "answer": "Romania",
+          "display": "#4 — 3 gold, 3 silver, 4 bronze"
+        },
+        {
+          "answer": "Italy",
+          "display": "#5 — 3 gold, 1 silver, 3 bronze"
+        },
+        {
+          "answer": "Finland",
+          "display": "#6 — 2 gold, 1 silver, 1 bronze"
+        },
+        {
+          "answer": "Mexico",
+          "display": "#7 — 2 gold, 1 silver, 0 bronze"
+        },
+        {
+          "answer": "Morocco",
+          "display": "#8 — 2 gold, 0 silver, 0 bronze"
+        },
+        {
+          "answer": "France",
+          "display": "#9 — 1 gold, 1 silver, 2 bronze"
+        },
+        {
+          "answer": "Australia",
+          "display": "#10 — 1 gold, 1 silver, 1 bronze"
+        },
+        {
+          "answer": "Portugal",
+          "display": "#11 — 1 gold, 0 silver, 2 bronze"
+        },
+        {
+          "answer": "Kenya",
+          "display": "#12 — 1 gold, 0 silver, 1 bronze"
+        },
+        {
+          "answer": "Brazil",
+          "display": "#13 — 1 gold, 0 silver, 0 bronze"
+        },
+        {
+          "answer": "Netherlands",
+          "display": "#13 — 1 gold, 0 silver, 0 bronze",
+          "aliases": [
+            "Holland"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/olympics/summer/sports/athletics",
+      "question": "Top 9 nations in the athletics medal table at the 1988 Summer Olympics (Seoul) (ranked by gold, then silver, then bronze)",
+      "cutoff": 9,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1371994903 | table 3 | name: Nation | value: Rank | order: asc",
+      "tags": [
+        "athletics",
+        "olympics",
+        "summer-olympics",
+        "medals",
+        "nations",
+        "1988"
+      ],
+      "answers": [
+        {
+          "answer": "United States",
+          "display": "#1 — 13 gold, 7 silver, 6 bronze",
+          "aliases": [
+            "USA",
+            "US",
+            "United States of America",
+            "America"
+          ]
+        },
+        {
+          "answer": "Soviet Union",
+          "display": "#2 — 10 gold, 6 silver, 10 bronze",
+          "aliases": [
+            "USSR"
+          ]
+        },
+        {
+          "answer": "East Germany",
+          "display": "#3 — 6 gold, 11 silver, 10 bronze",
+          "aliases": [
+            "GDR"
+          ]
+        },
+        {
+          "answer": "Kenya",
+          "display": "#4 — 4 gold, 2 silver, 1 bronze"
+        },
+        {
+          "answer": "Bulgaria",
+          "display": "#5 — 2 gold, 1 silver, 1 bronze"
+        },
+        {
+          "answer": "Italy",
+          "display": "#6 — 1 gold, 1 silver, 1 bronze"
+        },
+        {
+          "answer": "Australia",
+          "display": "#7 — 1 gold, 1 silver, 0 bronze"
+        },
+        {
+          "answer": "Czechoslovakia",
+          "display": "#7 — 1 gold, 1 silver, 0 bronze"
+        },
+        {
+          "answer": "Romania",
+          "display": "#7 — 1 gold, 1 silver, 0 bronze"
+        },
+        {
+          "answer": "Finland",
+          "display": "#10 — 1 gold, 0 silver, 1 bronze"
+        },
+        {
+          "answer": "Morocco",
+          "display": "#10 — 1 gold, 0 silver, 1 bronze"
+        },
+        {
+          "answer": "Portugal",
+          "display": "#12 — 1 gold, 0 silver, 0 bronze"
+        }
+      ]
+    },
+    {
+      "category": "sports/olympics/summer/sports/athletics",
+      "question": "Top 9 nations in the athletics medal table at the 1992 Summer Olympics (Barcelona) (ranked by gold, then silver, then bronze)",
+      "cutoff": 9,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1378366998 | table 3 | name: Nation | value: Rank | order: asc",
+      "tags": [
+        "athletics",
+        "olympics",
+        "summer-olympics",
+        "medals",
+        "nations",
+        "1992"
+      ],
+      "answers": [
+        {
+          "answer": "United States",
+          "display": "#1 — 12 gold, 8 silver, 10 bronze",
+          "aliases": [
+            "USA",
+            "US",
+            "United States of America",
+            "America"
+          ]
+        },
+        {
+          "answer": "Unified Team",
+          "display": "#2 — 7 gold, 11 silver, 3 bronze"
+        },
+        {
+          "answer": "Germany",
+          "display": "#3 — 4 gold, 1 silver, 5 bronze",
+          "aliases": [
+            "GER"
+          ]
+        },
+        {
+          "answer": "Kenya",
+          "display": "#4 — 2 gold, 4 silver, 2 bronze"
+        },
+        {
+          "answer": "Cuba",
+          "display": "#5 — 2 gold, 1 silver, 4 bronze"
+        },
+        {
+          "answer": "Spain",
+          "display": "#6 — 2 gold, 1 silver, 1 bronze"
+        },
+        {
+          "answer": "Great Britain",
+          "display": "#7 — 2 gold, 0 silver, 4 bronze",
+          "aliases": [
+            "UK",
+            "Britain",
+            "GB",
+            "Great Britain and Northern Ireland"
+          ]
+        },
+        {
+          "answer": "Czechoslovakia",
+          "display": "#8 — 2 gold, 0 silver, 0 bronze"
+        },
+        {
+          "answer": "China",
+          "display": "#9 — 1 gold, 1 silver, 2 bronze"
+        },
+        {
+          "answer": "Canada",
+          "display": "#10 — 1 gold, 1 silver, 1 bronze"
+        },
+        {
+          "answer": "Morocco",
+          "display": "#11 — 1 gold, 1 silver, 0 bronze"
+        },
+        {
+          "answer": "Ethiopia",
+          "display": "#12 — 1 gold, 0 silver, 2 bronze"
+        }
+      ]
+    },
+    {
+      "category": "sports/olympics/summer/sports/athletics",
+      "question": "Top 10 nations in the athletics medal table at the 1996 Summer Olympics (Atlanta) (ranked by gold, then silver, then bronze)",
+      "cutoff": 10,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1379476252 | table 5 | name: Nation | value: Rank | order: asc",
+      "tags": [
+        "athletics",
+        "olympics",
+        "summer-olympics",
+        "medals",
+        "nations",
+        "1996"
+      ],
+      "answers": [
+        {
+          "answer": "United States",
+          "display": "#1 — 13 gold, 5 silver, 5 bronze",
+          "aliases": [
+            "USA",
+            "US",
+            "United States of America",
+            "America"
+          ]
+        },
+        {
+          "answer": "Russia",
+          "display": "#2 — 3 gold, 6 silver, 1 bronze",
+          "aliases": [
+            "Russian Federation"
+          ]
+        },
+        {
+          "answer": "Germany",
+          "display": "#3 — 3 gold, 1 silver, 3 bronze",
+          "aliases": [
+            "GER"
+          ]
+        },
+        {
+          "answer": "France",
+          "display": "#4 — 3 gold, 0 silver, 1 bronze"
+        },
+        {
+          "answer": "Ethiopia",
+          "display": "#5 — 2 gold, 0 silver, 1 bronze"
+        },
+        {
+          "answer": "Canada",
+          "display": "#6 — 2 gold, 0 silver, 0 bronze"
+        },
+        {
+          "answer": "Kenya",
+          "display": "#7 — 1 gold, 4 silver, 3 bronze"
+        },
+        {
+          "answer": "Jamaica",
+          "display": "#8 — 1 gold, 3 silver, 2 bronze"
+        },
+        {
+          "answer": "China",
+          "display": "#9 — 1 gold, 2 silver, 1 bronze"
+        },
+        {
+          "answer": "Nigeria",
+          "display": "#10 — 1 gold, 1 silver, 2 bronze"
+        },
+        {
+          "answer": "Poland",
+          "display": "#11 — 1 gold, 1 silver, 0 bronze"
+        },
+        {
+          "answer": "South Africa",
+          "display": "#11 — 1 gold, 1 silver, 0 bronze",
+          "aliases": [
+            "RSA"
+          ]
+        },
+        {
+          "answer": "Ukraine",
+          "display": "#13 — 1 gold, 0 silver, 3 bronze"
+        },
+        {
+          "answer": "Czech Republic",
+          "display": "#14 — 1 gold, 0 silver, 2 bronze",
+          "aliases": [
+            "Czechia"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/olympics/summer/sports/athletics",
+      "question": "Top 10 nations in the athletics medal table at the 2000 Summer Olympics (Sydney) (ranked by gold, then silver, then bronze)",
+      "cutoff": 10,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1362622185 | table 1 | name: Nation | value: Rank | order: asc",
+      "tags": [
+        "athletics",
+        "olympics",
+        "summer-olympics",
+        "medals",
+        "nations",
+        "2000"
+      ],
+      "answers": [
+        {
+          "answer": "United States",
+          "display": "#1 — 7 gold, 4 silver, 5 bronze",
+          "aliases": [
+            "USA",
+            "US",
+            "United States of America",
+            "America"
+          ]
+        },
+        {
+          "answer": "Ethiopia",
+          "display": "#2 — 4 gold, 1 silver, 3 bronze"
+        },
+        {
+          "answer": "Poland",
+          "display": "#3 — 4 gold, 0 silver, 0 bronze"
+        },
+        {
+          "answer": "Russia",
+          "display": "#4 — 3 gold, 4 silver, 6 bronze",
+          "aliases": [
+            "Russian Federation"
+          ]
+        },
+        {
+          "answer": "Kenya",
+          "display": "#5 — 2 gold, 3 silver, 2 bronze"
+        },
+        {
+          "answer": "Cuba",
+          "display": "#6 — 2 gold, 2 silver, 2 bronze"
+        },
+        {
+          "answer": "Great Britain",
+          "display": "#6 — 2 gold, 2 silver, 2 bronze",
+          "aliases": [
+            "UK",
+            "Britain",
+            "GB",
+            "Great Britain and Northern Ireland"
+          ]
+        },
+        {
+          "answer": "Germany",
+          "display": "#8 — 2 gold, 1 silver, 2 bronze",
+          "aliases": [
+            "GER"
+          ]
+        },
+        {
+          "answer": "Belarus",
+          "display": "#9 — 2 gold, 0 silver, 3 bronze"
+        },
+        {
+          "answer": "Bahamas",
+          "display": "#10 — 2 gold, 0 silver, 1 bronze",
+          "aliases": [
+            "The Bahamas"
+          ]
+        },
+        {
+          "answer": "Greece",
+          "display": "#11 — 1 gold, 3 silver, 0 bronze"
+        },
+        {
+          "answer": "Romania",
+          "display": "#12 — 1 gold, 2 silver, 2 bronze"
+        },
+        {
+          "answer": "Australia",
+          "display": "#13 — 1 gold, 2 silver, 0 bronze"
+        },
+        {
+          "answer": "Algeria",
+          "display": "#14 — 1 gold, 1 silver, 2 bronze"
+        }
+      ]
+    },
+    {
+      "category": "sports/olympics/summer/sports/athletics",
+      "question": "Top 10 nations in the athletics medal table at the 2004 Summer Olympics (Athens) (ranked by gold, then silver, then bronze)",
+      "cutoff": 10,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1326669171 | table 3 | name: Nation | value: Rank | order: asc",
+      "tags": [
+        "athletics",
+        "olympics",
+        "summer-olympics",
+        "medals",
+        "nations",
+        "2004"
+      ],
+      "answers": [
+        {
+          "answer": "United States",
+          "display": "#1 — 9 gold, 11 silver, 5 bronze",
+          "aliases": [
+            "USA",
+            "US",
+            "United States of America",
+            "America"
+          ]
+        },
+        {
+          "answer": "Russia",
+          "display": "#2 — 6 gold, 7 silver, 6 bronze",
+          "aliases": [
+            "Russian Federation"
+          ]
+        },
+        {
+          "answer": "Great Britain",
+          "display": "#3 — 3 gold, 0 silver, 1 bronze",
+          "aliases": [
+            "UK",
+            "Britain",
+            "GB",
+            "Great Britain and Northern Ireland"
+          ]
+        },
+        {
+          "answer": "Sweden",
+          "display": "#4 — 3 gold, 0 silver, 0 bronze"
+        },
+        {
+          "answer": "Ethiopia",
+          "display": "#5 — 2 gold, 3 silver, 2 bronze"
+        },
+        {
+          "answer": "Greece",
+          "display": "#6 — 2 gold, 2 silver, 1 bronze"
+        },
+        {
+          "answer": "Cuba",
+          "display": "#7 — 2 gold, 1 silver, 2 bronze"
+        },
+        {
+          "answer": "Jamaica",
+          "display": "#7 — 2 gold, 1 silver, 2 bronze"
+        },
+        {
+          "answer": "Morocco",
+          "display": "#9 — 2 gold, 1 silver, 0 bronze"
+        },
+        {
+          "answer": "Italy",
+          "display": "#10 — 2 gold, 0 silver, 1 bronze"
+        },
+        {
+          "answer": "China",
+          "display": "#11 — 2 gold, 0 silver, 0 bronze"
+        },
+        {
+          "answer": "Japan",
+          "display": "#11 — 2 gold, 0 silver, 0 bronze"
+        },
+        {
+          "answer": "Kenya",
+          "display": "#13 — 1 gold, 4 silver, 2 bronze"
+        },
+        {
+          "answer": "Lithuania",
+          "display": "#14 — 1 gold, 1 silver, 0 bronze"
+        },
+        {
+          "answer": "Czech Republic",
+          "display": "#15 — 1 gold, 0 silver, 2 bronze",
+          "aliases": [
+            "Czechia"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/olympics/summer/sports/athletics",
+      "question": "Top 10 nations in the athletics medal table at the 2008 Summer Olympics (Beijing) (ranked by gold, then silver, then bronze)",
+      "cutoff": 10,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1327294031 | table 1 | name: Nation | value: Rank | order: asc",
+      "tags": [
+        "athletics",
+        "olympics",
+        "summer-olympics",
+        "medals",
+        "nations",
+        "2008"
+      ],
+      "answers": [
+        {
+          "answer": "United States",
+          "display": "#1 — 7 gold, 10 silver, 8 bronze",
+          "aliases": [
+            "USA",
+            "US",
+            "United States of America",
+            "America"
+          ]
+        },
+        {
+          "answer": "Kenya",
+          "display": "#2 — 6 gold, 4 silver, 6 bronze"
+        },
+        {
+          "answer": "Jamaica",
+          "display": "#3 — 5 gold, 4 silver, 2 bronze"
+        },
+        {
+          "answer": "Russia",
+          "display": "#4 — 5 gold, 1 silver, 4 bronze",
+          "aliases": [
+            "Russian Federation"
+          ]
+        },
+        {
+          "answer": "Ethiopia",
+          "display": "#5 — 4 gold, 2 silver, 1 bronze"
+        },
+        {
+          "answer": "Cuba",
+          "display": "#6 — 2 gold, 1 silver, 3 bronze"
+        },
+        {
+          "answer": "Belgium",
+          "display": "#7 — 2 gold, 0 silver, 0 bronze"
+        },
+        {
+          "answer": "Great Britain",
+          "display": "#8 — 1 gold, 2 silver, 5 bronze",
+          "aliases": [
+            "UK",
+            "Britain",
+            "GB",
+            "Great Britain and Northern Ireland"
+          ]
+        },
+        {
+          "answer": "Australia",
+          "display": "#9 — 1 gold, 2 silver, 1 bronze"
+        },
+        {
+          "answer": "Ukraine",
+          "display": "#9 — 1 gold, 2 silver, 1 bronze"
+        },
+        {
+          "answer": "New Zealand",
+          "display": "#11 — 1 gold, 1 silver, 0 bronze"
+        },
+        {
+          "answer": "Norway",
+          "display": "#11 — 1 gold, 1 silver, 0 bronze"
+        },
+        {
+          "answer": "Poland",
+          "display": "#11 — 1 gold, 1 silver, 0 bronze"
+        },
+        {
+          "answer": "Trinidad and Tobago",
+          "display": "#11 — 1 gold, 1 silver, 0 bronze",
+          "aliases": [
+            "Trinidad"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/olympics/summer/sports/athletics",
+      "question": "Top 10 nations in the athletics medal table at the 2012 Summer Olympics (London) (ranked by gold, then silver, then bronze)",
+      "cutoff": 10,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1369019167 | table 4 | name: Nation | value: Rank | order: asc",
+      "tags": [
+        "athletics",
+        "olympics",
+        "summer-olympics",
+        "medals",
+        "nations",
+        "2012"
+      ],
+      "answers": [
+        {
+          "answer": "United States",
+          "display": "#1 — 11 gold, 10 silver, 8 bronze",
+          "aliases": [
+            "USA",
+            "US",
+            "United States of America",
+            "America"
+          ]
+        },
+        {
+          "answer": "Jamaica",
+          "display": "#2 — 4 gold, 5 silver, 4 bronze"
+        },
+        {
+          "answer": "Great Britain",
+          "display": "#3 — 4 gold, 2 silver, 0 bronze",
+          "aliases": [
+            "UK",
+            "Britain",
+            "GB",
+            "Great Britain and Northern Ireland"
+          ]
+        },
+        {
+          "answer": "Ethiopia",
+          "display": "#4 — 3 gold, 3 silver, 2 bronze"
+        },
+        {
+          "answer": "Kenya",
+          "display": "#5 — 2 gold, 4 silver, 7 bronze"
+        },
+        {
+          "answer": "China",
+          "display": "#6 — 2 gold, 4 silver, 4 bronze"
+        },
+        {
+          "answer": "Australia",
+          "display": "#7 — 2 gold, 1 silver, 0 bronze"
+        },
+        {
+          "answer": "Poland",
+          "display": "#8 — 2 gold, 0 silver, 0 bronze"
+        },
+        {
+          "answer": "Germany",
+          "display": "#9 — 1 gold, 5 silver, 2 bronze",
+          "aliases": [
+            "GER"
+          ]
+        },
+        {
+          "answer": "Russia",
+          "display": "#10 — 1 gold, 2 silver, 2 bronze",
+          "aliases": [
+            "Russian Federation"
+          ]
+        },
+        {
+          "answer": "Trinidad and Tobago",
+          "display": "#11 — 1 gold, 1 silver, 2 bronze",
+          "aliases": [
+            "Trinidad"
+          ]
+        },
+        {
+          "answer": "Czech Republic",
+          "display": "#12 — 1 gold, 1 silver, 1 bronze",
+          "aliases": [
+            "Czechia"
+          ]
+        },
+        {
+          "answer": "France",
+          "display": "#12 — 1 gold, 1 silver, 1 bronze"
+        }
+      ]
+    },
+    {
+      "category": "sports/olympics/summer/sports/athletics",
+      "question": "Top 10 nations in the athletics medal table at the 2016 Summer Olympics (Rio de Janeiro) (ranked by gold, then silver, then bronze)",
+      "cutoff": 10,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1379899656 | table 3 | name: Nation | value: Rank | order: asc",
+      "tags": [
+        "athletics",
+        "olympics",
+        "summer-olympics",
+        "medals",
+        "nations",
+        "2016"
+      ],
+      "answers": [
+        {
+          "answer": "United States",
+          "display": "#1 — 13 gold, 10 silver, 9 bronze",
+          "aliases": [
+            "USA",
+            "US",
+            "United States of America",
+            "America"
+          ]
+        },
+        {
+          "answer": "Kenya",
+          "display": "#2 — 6 gold, 6 silver, 1 bronze"
+        },
+        {
+          "answer": "Jamaica",
+          "display": "#3 — 6 gold, 3 silver, 2 bronze"
+        },
+        {
+          "answer": "China",
+          "display": "#4 — 2 gold, 2 silver, 2 bronze"
+        },
+        {
+          "answer": "South Africa",
+          "display": "#5 — 2 gold, 2 silver, 0 bronze",
+          "aliases": [
+            "RSA"
+          ]
+        },
+        {
+          "answer": "Great Britain",
+          "display": "#6 — 2 gold, 1 silver, 4 bronze",
+          "aliases": [
+            "UK",
+            "Britain",
+            "GB",
+            "Great Britain and Northern Ireland"
+          ]
+        },
+        {
+          "answer": "Croatia",
+          "display": "#7 — 2 gold, 0 silver, 1 bronze"
+        },
+        {
+          "answer": "Germany",
+          "display": "#7 — 2 gold, 0 silver, 1 bronze",
+          "aliases": [
+            "GER"
+          ]
+        },
+        {
+          "answer": "Ethiopia",
+          "display": "#9 — 1 gold, 2 silver, 5 bronze"
+        },
+        {
+          "answer": "Canada",
+          "display": "#10 — 1 gold, 1 silver, 4 bronze"
+        },
+        {
+          "answer": "Poland",
+          "display": "#11 — 1 gold, 1 silver, 1 bronze"
+        },
+        {
+          "answer": "Bahrain",
+          "display": "#12 — 1 gold, 1 silver, 0 bronze"
+        },
+        {
+          "answer": "Spain",
+          "display": "#12 — 1 gold, 1 silver, 0 bronze"
+        }
+      ]
+    },
+    {
+      "category": "sports/olympics/summer/sports/athletics",
+      "question": "Top 9 nations in the athletics medal table at the 2020 Summer Olympics (Tokyo) (ranked by gold, then silver, then bronze)",
+      "cutoff": 9,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1366877920 | table 3 | name: NOC | value: Rank | order: asc",
+      "tags": [
+        "athletics",
+        "olympics",
+        "summer-olympics",
+        "medals",
+        "nations",
+        "2020"
+      ],
+      "answers": [
+        {
+          "answer": "United States",
+          "display": "#1 — 7 gold, 12 silver, 7 bronze",
+          "aliases": [
+            "USA",
+            "US",
+            "United States of America",
+            "America"
+          ]
+        },
+        {
+          "answer": "Italy",
+          "display": "#2 — 5 gold, 0 silver, 0 bronze"
+        },
+        {
+          "answer": "Kenya",
+          "display": "#3 — 4 gold, 4 silver, 2 bronze"
+        },
+        {
+          "answer": "Poland",
+          "display": "#4 — 4 gold, 2 silver, 3 bronze"
+        },
+        {
+          "answer": "Jamaica",
+          "display": "#5 — 4 gold, 1 silver, 4 bronze"
+        },
+        {
+          "answer": "Netherlands",
+          "display": "#6 — 2 gold, 3 silver, 3 bronze",
+          "aliases": [
+            "Holland"
+          ]
+        },
+        {
+          "answer": "Canada",
+          "display": "#7 — 2 gold, 2 silver, 2 bronze"
+        },
+        {
+          "answer": "China",
+          "display": "#7 — 2 gold, 2 silver, 2 bronze"
+        },
+        {
+          "answer": "Uganda",
+          "display": "#9 — 2 gold, 1 silver, 1 bronze"
+        },
+        {
+          "answer": "Norway",
+          "display": "#10 — 2 gold, 1 silver, 0 bronze"
+        },
+        {
+          "answer": "Sweden",
+          "display": "#10 — 2 gold, 1 silver, 0 bronze"
+        },
+        {
+          "answer": "Bahamas",
+          "display": "#12 — 2 gold, 0 silver, 0 bronze",
+          "aliases": [
+            "The Bahamas"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/olympics/summer/sports/athletics",
+      "question": "Top 10 nations in the athletics medal table at the 2024 Summer Olympics (Paris) (ranked by gold, then silver, then bronze)",
+      "cutoff": 10,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1359492187 | table 3 | name: NOC | value: Rank | order: asc",
+      "tags": [
+        "athletics",
+        "olympics",
+        "summer-olympics",
+        "medals",
+        "nations",
+        "2024"
+      ],
+      "answers": [
+        {
+          "answer": "United States",
+          "display": "#1 — 14 gold, 11 silver, 9 bronze",
+          "aliases": [
+            "USA",
+            "US",
+            "United States of America",
+            "America"
+          ]
+        },
+        {
+          "answer": "Kenya",
+          "display": "#2 — 4 gold, 2 silver, 5 bronze"
+        },
+        {
+          "answer": "Canada",
+          "display": "#3 — 3 gold, 1 silver, 1 bronze"
+        },
+        {
+          "answer": "Netherlands",
+          "display": "#4 — 2 gold, 1 silver, 3 bronze",
+          "aliases": [
+            "Holland"
+          ]
+        },
+        {
+          "answer": "Spain",
+          "display": "#5 — 2 gold, 1 silver, 1 bronze"
+        },
+        {
+          "answer": "Norway",
+          "display": "#6 — 2 gold, 1 silver, 0 bronze"
+        },
+        {
+          "answer": "Great Britain",
+          "display": "#7 — 1 gold, 4 silver, 5 bronze",
+          "aliases": [
+            "UK",
+            "Britain",
+            "GB",
+            "Great Britain and Northern Ireland"
+          ]
+        },
+        {
+          "answer": "Jamaica",
+          "display": "#8 — 1 gold, 3 silver, 2 bronze"
+        },
+        {
+          "answer": "Ethiopia",
+          "display": "#9 — 1 gold, 3 silver, 0 bronze"
+        },
+        {
+          "answer": "Australia",
+          "display": "#10 — 1 gold, 2 silver, 4 bronze"
+        },
+        {
+          "answer": "Germany",
+          "display": "#11 — 1 gold, 2 silver, 1 bronze",
+          "aliases": [
+            "GER"
+          ]
+        },
+        {
+          "answer": "China",
+          "display": "#12 — 1 gold, 1 silver, 2 bronze"
+        },
+        {
+          "answer": "Belgium",
+          "display": "#13 — 1 gold, 1 silver, 1 bronze"
+        }
+      ]
+    },
+    {
+      "category": "sports/olympics/summer/sports/swimming",
+      "question": "Top 8 nations in the swimming medal table at the 1952 Summer Olympics (Helsinki) (ranked by gold, then silver, then bronze)",
+      "cutoff": 8,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1327320223 | table 1 | name: Nation | value: Rank | order: asc",
+      "tags": [
+        "swimming",
+        "olympics",
+        "summer-olympics",
+        "medals",
+        "nations",
+        "1952"
+      ],
+      "answers": [
+        {
+          "answer": "United States",
+          "display": "#1 — 4 gold, 2 silver, 3 bronze",
+          "aliases": [
+            "USA",
+            "US",
+            "United States of America",
+            "America"
+          ]
+        },
+        {
+          "answer": "Hungary",
+          "display": "#2 — 4 gold, 2 silver, 1 bronze"
+        },
+        {
+          "answer": "France",
+          "display": "#3 — 1 gold, 1 silver, 1 bronze"
+        },
+        {
+          "answer": "Australia",
+          "display": "#4 — 1 gold, 0 silver, 0 bronze"
+        },
+        {
+          "answer": "South Africa",
+          "display": "#4 — 1 gold, 0 silver, 0 bronze",
+          "aliases": [
+            "RSA"
+          ]
+        },
+        {
+          "answer": "Japan",
+          "display": "#6 — 0 gold, 3 silver, 0 bronze"
+        },
+        {
+          "answer": "Netherlands",
+          "display": "#6 — 0 gold, 3 silver, 0 bronze",
+          "aliases": [
+            "Holland"
+          ]
+        },
+        {
+          "answer": "Sweden",
+          "display": "#8 — 0 gold, 0 silver, 2 bronze"
+        },
+        {
+          "answer": "Brazil",
+          "display": "#9 — 0 gold, 0 silver, 1 bronze"
+        },
+        {
+          "answer": "Germany",
+          "display": "#9 — 0 gold, 0 silver, 1 bronze",
+          "aliases": [
+            "GER"
+          ]
+        },
+        {
+          "answer": "Great Britain",
+          "display": "#9 — 0 gold, 0 silver, 1 bronze",
+          "aliases": [
+            "UK",
+            "Britain",
+            "GB",
+            "Great Britain and Northern Ireland"
+          ]
+        },
+        {
+          "answer": "New Zealand",
+          "display": "#9 — 0 gold, 0 silver, 1 bronze"
+        }
+      ]
+    },
+    {
+      "category": "sports/olympics/summer/sports/swimming",
+      "question": "Top 8 nations in the swimming medal table at the 1968 Summer Olympics (Mexico City) (ranked by gold, then silver, then bronze)",
+      "cutoff": 8,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1327851892 | table 1 | name: Nation | value: Rank | order: asc",
+      "tags": [
+        "swimming",
+        "olympics",
+        "summer-olympics",
+        "medals",
+        "nations",
+        "1968"
+      ],
+      "answers": [
+        {
+          "answer": "United States",
+          "display": "#1 — 21 gold, 15 silver, 16 bronze",
+          "aliases": [
+            "USA",
+            "US",
+            "United States of America",
+            "America"
+          ]
+        },
+        {
+          "answer": "Australia",
+          "display": "#2 — 3 gold, 2 silver, 3 bronze"
+        },
+        {
+          "answer": "East Germany",
+          "display": "#3 — 2 gold, 3 silver, 1 bronze",
+          "aliases": [
+            "GDR"
+          ]
+        },
+        {
+          "answer": "Yugoslavia",
+          "display": "#4 — 1 gold, 1 silver, 0 bronze"
+        },
+        {
+          "answer": "Mexico",
+          "display": "#5 — 1 gold, 0 silver, 1 bronze"
+        },
+        {
+          "answer": "Netherlands",
+          "display": "#6 — 1 gold, 0 silver, 0 bronze",
+          "aliases": [
+            "Holland"
+          ]
+        },
+        {
+          "answer": "Soviet Union",
+          "display": "#7 — 0 gold, 4 silver, 4 bronze",
+          "aliases": [
+            "USSR"
+          ]
+        },
+        {
+          "answer": "Canada",
+          "display": "#8 — 0 gold, 3 silver, 1 bronze"
+        },
+        {
+          "answer": "Great Britain",
+          "display": "#9 — 0 gold, 1 silver, 0 bronze",
+          "aliases": [
+            "UK",
+            "Britain",
+            "GB",
+            "Great Britain and Northern Ireland"
+          ]
+        },
+        {
+          "answer": "West Germany",
+          "display": "#10 — 0 gold, 0 silver, 2 bronze",
+          "aliases": [
+            "FRG"
+          ]
+        },
+        {
+          "answer": "France",
+          "display": "#11 — 0 gold, 0 silver, 1 bronze"
+        }
+      ]
+    },
+    {
+      "category": "sports/olympics/summer/sports/swimming",
+      "question": "Top 8 nations in the swimming medal table at the 1972 Summer Olympics (Munich) (ranked by gold, then silver, then bronze)",
+      "cutoff": 8,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1327780733 | table 1 | name: Nation | value: Rank | order: asc",
+      "tags": [
+        "swimming",
+        "olympics",
+        "summer-olympics",
+        "medals",
+        "nations",
+        "1972"
+      ],
+      "answers": [
+        {
+          "answer": "United States",
+          "display": "#1 — 17 gold, 14 silver, 12 bronze",
+          "aliases": [
+            "USA",
+            "US",
+            "United States of America",
+            "America"
+          ]
+        },
+        {
+          "answer": "Australia",
+          "display": "#2 — 6 gold, 2 silver, 2 bronze"
+        },
+        {
+          "answer": "East Germany",
+          "display": "#3 — 2 gold, 5 silver, 2 bronze",
+          "aliases": [
+            "GDR"
+          ]
+        },
+        {
+          "answer": "Japan",
+          "display": "#4 — 2 gold, 0 silver, 1 bronze"
+        },
+        {
+          "answer": "Sweden",
+          "display": "#5 — 2 gold, 0 silver, 0 bronze"
+        },
+        {
+          "answer": "Soviet Union",
+          "display": "#6 — 0 gold, 2 silver, 3 bronze",
+          "aliases": [
+            "USSR"
+          ]
+        },
+        {
+          "answer": "Canada",
+          "display": "#7 — 0 gold, 2 silver, 2 bronze"
+        },
+        {
+          "answer": "West Germany",
+          "display": "#8 — 0 gold, 1 silver, 3 bronze",
+          "aliases": [
+            "FRG"
+          ]
+        },
+        {
+          "answer": "Hungary",
+          "display": "#9 — 0 gold, 1 silver, 2 bronze"
+        },
+        {
+          "answer": "Italy",
+          "display": "#9 — 0 gold, 1 silver, 2 bronze"
+        },
+        {
+          "answer": "Great Britain",
+          "display": "#11 — 0 gold, 1 silver, 0 bronze",
+          "aliases": [
+            "UK",
+            "Britain",
+            "GB",
+            "Great Britain and Northern Ireland"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/olympics/summer/sports/swimming",
+      "question": "Top 9 nations in the swimming medal table at the 1984 Summer Olympics (Los Angeles) (ranked by gold, then silver, then bronze)",
+      "cutoff": 9,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1328597261 | table 1 | name: Nation | value: Rank | order: asc",
+      "tags": [
+        "swimming",
+        "olympics",
+        "summer-olympics",
+        "medals",
+        "nations",
+        "1984"
+      ],
+      "answers": [
+        {
+          "answer": "United States",
+          "display": "#1 — 21 gold, 13 silver, 0 bronze",
+          "aliases": [
+            "USA",
+            "US",
+            "United States of America",
+            "America"
+          ]
+        },
+        {
+          "answer": "Canada",
+          "display": "#2 — 4 gold, 3 silver, 3 bronze"
+        },
+        {
+          "answer": "West Germany",
+          "display": "#3 — 2 gold, 3 silver, 6 bronze",
+          "aliases": [
+            "FRG"
+          ]
+        },
+        {
+          "answer": "Netherlands",
+          "display": "#4 — 2 gold, 1 silver, 3 bronze",
+          "aliases": [
+            "Holland"
+          ]
+        },
+        {
+          "answer": "Australia",
+          "display": "#5 — 1 gold, 5 silver, 6 bronze"
+        },
+        {
+          "answer": "Great Britain",
+          "display": "#6 — 0 gold, 1 silver, 4 bronze",
+          "aliases": [
+            "UK",
+            "Britain",
+            "GB",
+            "Great Britain and Northern Ireland"
+          ]
+        },
+        {
+          "answer": "France",
+          "display": "#7 — 0 gold, 1 silver, 1 bronze"
+        },
+        {
+          "answer": "Brazil",
+          "display": "#8 — 0 gold, 1 silver, 0 bronze"
+        },
+        {
+          "answer": "Sweden",
+          "display": "#9 — 0 gold, 0 silver, 2 bronze"
+        },
+        {
+          "answer": "Belgium",
+          "display": "#10 — 0 gold, 0 silver, 1 bronze"
+        },
+        {
+          "answer": "Romania",
+          "display": "#10 — 0 gold, 0 silver, 1 bronze"
+        },
+        {
+          "answer": "Switzerland",
+          "display": "#10 — 0 gold, 0 silver, 1 bronze"
+        },
+        {
+          "answer": "Venezuela",
+          "display": "#10 — 0 gold, 0 silver, 1 bronze"
+        }
+      ]
+    },
+    {
+      "category": "sports/olympics/summer/sports/swimming",
+      "question": "Top 10 nations in the swimming medal table at the 1988 Summer Olympics (Seoul) (ranked by gold, then silver, then bronze)",
+      "cutoff": 10,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1372045032 | table 1 | name: Nation | value: Rank | order: asc",
+      "tags": [
+        "swimming",
+        "olympics",
+        "summer-olympics",
+        "medals",
+        "nations",
+        "1988"
+      ],
+      "answers": [
+        {
+          "answer": "East Germany",
+          "display": "#1 — 11 gold, 8 silver, 9 bronze",
+          "aliases": [
+            "GDR"
+          ]
+        },
+        {
+          "answer": "United States",
+          "display": "#2 — 8 gold, 6 silver, 4 bronze",
+          "aliases": [
+            "USA",
+            "US",
+            "United States of America",
+            "America"
+          ]
+        },
+        {
+          "answer": "Hungary",
+          "display": "#3 — 4 gold, 2 silver, 0 bronze"
+        },
+        {
+          "answer": "Soviet Union",
+          "display": "#4 — 2 gold, 2 silver, 5 bronze",
+          "aliases": [
+            "USSR"
+          ]
+        },
+        {
+          "answer": "Australia",
+          "display": "#5 — 1 gold, 1 silver, 1 bronze"
+        },
+        {
+          "answer": "Bulgaria",
+          "display": "#5 — 1 gold, 1 silver, 1 bronze"
+        },
+        {
+          "answer": "Great Britain",
+          "display": "#5 — 1 gold, 1 silver, 1 bronze",
+          "aliases": [
+            "UK",
+            "Britain",
+            "GB",
+            "Great Britain and Northern Ireland"
+          ]
+        },
+        {
+          "answer": "West Germany",
+          "display": "#5 — 1 gold, 1 silver, 1 bronze",
+          "aliases": [
+            "FRG"
+          ]
+        },
+        {
+          "answer": "Japan",
+          "display": "#9 — 1 gold, 0 silver, 0 bronze"
+        },
+        {
+          "answer": "Suriname",
+          "display": "#9 — 1 gold, 0 silver, 0 bronze"
+        },
+        {
+          "answer": "China",
+          "display": "#11 — 0 gold, 3 silver, 1 bronze"
+        },
+        {
+          "answer": "Canada",
+          "display": "#12 — 0 gold, 1 silver, 1 bronze"
+        },
+        {
+          "answer": "Romania",
+          "display": "#12 — 0 gold, 1 silver, 1 bronze"
+        }
+      ]
+    },
+    {
+      "category": "sports/olympics/summer/sports/swimming",
+      "question": "Top 10 nations in the swimming medal table at the 1992 Summer Olympics (Barcelona) (ranked by gold, then silver, then bronze)",
+      "cutoff": 10,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1327399746 | table 1 | name: Nation | value: Rank | order: asc",
+      "tags": [
+        "swimming",
+        "olympics",
+        "summer-olympics",
+        "medals",
+        "nations",
+        "1992"
+      ],
+      "answers": [
+        {
+          "answer": "United States",
+          "display": "#1 — 11 gold, 9 silver, 7 bronze",
+          "aliases": [
+            "USA",
+            "US",
+            "United States of America",
+            "America"
+          ]
+        },
+        {
+          "answer": "Unified Team",
+          "display": "#2 — 6 gold, 3 silver, 1 bronze"
+        },
+        {
+          "answer": "Hungary",
+          "display": "#3 — 5 gold, 3 silver, 1 bronze"
+        },
+        {
+          "answer": "China",
+          "display": "#4 — 4 gold, 5 silver, 0 bronze"
+        },
+        {
+          "answer": "Germany",
+          "display": "#5 — 1 gold, 3 silver, 7 bronze",
+          "aliases": [
+            "GER"
+          ]
+        },
+        {
+          "answer": "Australia",
+          "display": "#6 — 1 gold, 3 silver, 5 bronze"
+        },
+        {
+          "answer": "Canada",
+          "display": "#7 — 1 gold, 0 silver, 1 bronze"
+        },
+        {
+          "answer": "Japan",
+          "display": "#8 — 1 gold, 0 silver, 0 bronze"
+        },
+        {
+          "answer": "Spain",
+          "display": "#8 — 1 gold, 0 silver, 0 bronze"
+        },
+        {
+          "answer": "Sweden",
+          "display": "#10 — 0 gold, 2 silver, 1 bronze"
+        },
+        {
+          "answer": "Brazil",
+          "display": "#11 — 0 gold, 1 silver, 0 bronze"
+        },
+        {
+          "answer": "New Zealand",
+          "display": "#11 — 0 gold, 1 silver, 0 bronze"
+        },
+        {
+          "answer": "Poland",
+          "display": "#11 — 0 gold, 1 silver, 0 bronze"
+        }
+      ]
+    },
+    {
+      "category": "sports/olympics/summer/sports/swimming",
+      "question": "Top 10 nations in the swimming medal table at the 1996 Summer Olympics (Atlanta) (ranked by gold, then silver, then bronze)",
+      "cutoff": 10,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1328628565 | table 1 | name: Nation | value: Rank | order: asc",
+      "tags": [
+        "swimming",
+        "olympics",
+        "summer-olympics",
+        "medals",
+        "nations",
+        "1996"
+      ],
+      "answers": [
+        {
+          "answer": "United States",
+          "display": "#1 — 13 gold, 11 silver, 2 bronze",
+          "aliases": [
+            "USA",
+            "US",
+            "United States of America",
+            "America"
+          ]
+        },
+        {
+          "answer": "Russia",
+          "display": "#2 — 4 gold, 2 silver, 2 bronze",
+          "aliases": [
+            "Russian Federation"
+          ]
+        },
+        {
+          "answer": "Hungary",
+          "display": "#3 — 3 gold, 1 silver, 2 bronze"
+        },
+        {
+          "answer": "Ireland",
+          "display": "#4 — 3 gold, 0 silver, 1 bronze"
+        },
+        {
+          "answer": "Australia",
+          "display": "#5 — 2 gold, 4 silver, 6 bronze"
+        },
+        {
+          "answer": "South Africa",
+          "display": "#6 — 2 gold, 0 silver, 1 bronze",
+          "aliases": [
+            "RSA"
+          ]
+        },
+        {
+          "answer": "New Zealand",
+          "display": "#7 — 2 gold, 0 silver, 0 bronze"
+        },
+        {
+          "answer": "China",
+          "display": "#8 — 1 gold, 3 silver, 2 bronze"
+        },
+        {
+          "answer": "Belgium",
+          "display": "#9 — 1 gold, 0 silver, 0 bronze"
+        },
+        {
+          "answer": "Costa Rica",
+          "display": "#9 — 1 gold, 0 silver, 0 bronze"
+        },
+        {
+          "answer": "Germany",
+          "display": "#11 — 0 gold, 5 silver, 7 bronze",
+          "aliases": [
+            "GER"
+          ]
+        },
+        {
+          "answer": "Brazil",
+          "display": "#12 — 0 gold, 1 silver, 2 bronze"
+        },
+        {
+          "answer": "Canada",
+          "display": "#12 — 0 gold, 1 silver, 2 bronze"
+        }
+      ]
+    },
+    {
+      "category": "sports/olympics/summer/sports/swimming",
+      "question": "Top 10 nations in the swimming medal table at the 2000 Summer Olympics (Sydney) (ranked by gold, then silver, then bronze)",
+      "cutoff": 10,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1328629074 | table 4 | name: Nation | value: Rank | order: asc",
+      "tags": [
+        "swimming",
+        "olympics",
+        "summer-olympics",
+        "medals",
+        "nations",
+        "2000"
+      ],
+      "answers": [
+        {
+          "answer": "United States",
+          "display": "#1 — 14 gold, 8 silver, 11 bronze",
+          "aliases": [
+            "USA",
+            "US",
+            "United States of America",
+            "America"
+          ]
+        },
+        {
+          "answer": "Australia",
+          "display": "#2 — 5 gold, 9 silver, 4 bronze"
+        },
+        {
+          "answer": "Netherlands",
+          "display": "#3 — 5 gold, 1 silver, 2 bronze",
+          "aliases": [
+            "Holland"
+          ]
+        },
+        {
+          "answer": "Italy",
+          "display": "#4 — 3 gold, 1 silver, 2 bronze"
+        },
+        {
+          "answer": "Ukraine",
+          "display": "#5 — 2 gold, 2 silver, 0 bronze"
+        },
+        {
+          "answer": "Romania",
+          "display": "#6 — 2 gold, 1 silver, 1 bronze"
+        },
+        {
+          "answer": "Sweden",
+          "display": "#7 — 1 gold, 2 silver, 1 bronze"
+        },
+        {
+          "answer": "Hungary",
+          "display": "#8 — 1 gold, 0 silver, 0 bronze"
+        },
+        {
+          "answer": "Japan",
+          "display": "#9 — 0 gold, 2 silver, 2 bronze"
+        },
+        {
+          "answer": "Slovakia",
+          "display": "#10 — 0 gold, 2 silver, 0 bronze"
+        },
+        {
+          "answer": "Russia",
+          "display": "#11 — 0 gold, 1 silver, 1 bronze",
+          "aliases": [
+            "Russian Federation"
+          ]
+        },
+        {
+          "answer": "South Africa",
+          "display": "#11 — 0 gold, 1 silver, 1 bronze",
+          "aliases": [
+            "RSA"
+          ]
+        },
+        {
+          "answer": "France",
+          "display": "#13 — 0 gold, 1 silver, 0 bronze"
+        }
+      ]
+    },
+    {
+      "category": "sports/olympics/summer/sports/swimming",
+      "question": "Top 10 nations in the swimming medal table at the 2004 Summer Olympics (Athens) (ranked by gold, then silver, then bronze)",
+      "cutoff": 10,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1365886995 | table 4 | name: Nation | value: Rank | order: asc",
+      "tags": [
+        "swimming",
+        "olympics",
+        "summer-olympics",
+        "medals",
+        "nations",
+        "2004"
+      ],
+      "answers": [
+        {
+          "answer": "United States",
+          "display": "#1 — 12 gold, 9 silver, 7 bronze",
+          "aliases": [
+            "USA",
+            "US",
+            "United States of America",
+            "America"
+          ]
+        },
+        {
+          "answer": "Australia",
+          "display": "#2 — 7 gold, 5 silver, 3 bronze"
+        },
+        {
+          "answer": "Japan",
+          "display": "#3 — 3 gold, 1 silver, 4 bronze"
+        },
+        {
+          "answer": "Netherlands",
+          "display": "#4 — 2 gold, 3 silver, 2 bronze",
+          "aliases": [
+            "Holland"
+          ]
+        },
+        {
+          "answer": "Ukraine",
+          "display": "#5 — 2 gold, 0 silver, 1 bronze"
+        },
+        {
+          "answer": "France",
+          "display": "#6 — 1 gold, 2 silver, 3 bronze"
+        },
+        {
+          "answer": "Poland",
+          "display": "#7 — 1 gold, 2 silver, 0 bronze"
+        },
+        {
+          "answer": "South Africa",
+          "display": "#8 — 1 gold, 1 silver, 1 bronze",
+          "aliases": [
+            "RSA"
+          ]
+        },
+        {
+          "answer": "Zimbabwe",
+          "display": "#8 — 1 gold, 1 silver, 1 bronze"
+        },
+        {
+          "answer": "China",
+          "display": "#10 — 1 gold, 1 silver, 0 bronze"
+        },
+        {
+          "answer": "Romania",
+          "display": "#11 — 1 gold, 0 silver, 1 bronze"
+        },
+        {
+          "answer": "Austria",
+          "display": "#12 — 0 gold, 2 silver, 0 bronze"
+        },
+        {
+          "answer": "Germany",
+          "display": "#13 — 0 gold, 1 silver, 4 bronze",
+          "aliases": [
+            "GER"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/olympics/summer/sports/swimming",
+      "question": "Top 10 nations in the swimming medal table at the 2008 Summer Olympics (Beijing) (ranked by gold, then silver, then bronze)",
+      "cutoff": 10,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1366027786 | table 4 | name: Nation | value: Rank | order: asc",
+      "tags": [
+        "swimming",
+        "olympics",
+        "summer-olympics",
+        "medals",
+        "nations",
+        "2008"
+      ],
+      "answers": [
+        {
+          "answer": "United States",
+          "display": "#1 — 12 gold, 9 silver, 10 bronze",
+          "aliases": [
+            "USA",
+            "US",
+            "United States of America",
+            "America"
+          ]
+        },
+        {
+          "answer": "Australia",
+          "display": "#2 — 6 gold, 6 silver, 8 bronze"
+        },
+        {
+          "answer": "Great Britain",
+          "display": "#3 — 2 gold, 2 silver, 2 bronze",
+          "aliases": [
+            "UK",
+            "Britain",
+            "GB",
+            "Great Britain and Northern Ireland"
+          ]
+        },
+        {
+          "answer": "Japan",
+          "display": "#4 — 2 gold, 0 silver, 3 bronze"
+        },
+        {
+          "answer": "Germany",
+          "display": "#5 — 2 gold, 0 silver, 1 bronze",
+          "aliases": [
+            "GER"
+          ]
+        },
+        {
+          "answer": "Netherlands",
+          "display": "#6 — 2 gold, 0 silver, 0 bronze",
+          "aliases": [
+            "Holland"
+          ]
+        },
+        {
+          "answer": "China",
+          "display": "#7 — 1 gold, 3 silver, 2 bronze"
+        },
+        {
+          "answer": "Zimbabwe",
+          "display": "#8 — 1 gold, 3 silver, 0 bronze"
+        },
+        {
+          "answer": "France",
+          "display": "#9 — 1 gold, 2 silver, 3 bronze"
+        },
+        {
+          "answer": "Russia",
+          "display": "#10 — 1 gold, 1 silver, 2 bronze",
+          "aliases": [
+            "Russian Federation"
+          ]
+        },
+        {
+          "answer": "Italy",
+          "display": "#11 — 1 gold, 1 silver, 0 bronze"
+        },
+        {
+          "answer": "South Korea",
+          "display": "#11 — 1 gold, 1 silver, 0 bronze"
+        },
+        {
+          "answer": "Brazil",
+          "display": "#13 — 1 gold, 0 silver, 1 bronze"
+        }
+      ]
+    },
+    {
+      "category": "sports/olympics/summer/sports/swimming",
+      "question": "Top 10 nations in the swimming medal table at the 2012 Summer Olympics (London) (ranked by gold, then silver, then bronze)",
+      "cutoff": 10,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1375002683 | table 4 | name: Nation | value: Rank | order: asc",
+      "tags": [
+        "swimming",
+        "olympics",
+        "summer-olympics",
+        "medals",
+        "nations",
+        "2012"
+      ],
+      "answers": [
+        {
+          "answer": "United States",
+          "display": "#1 — 16 gold, 8 silver, 6 bronze",
+          "aliases": [
+            "USA",
+            "US",
+            "United States of America",
+            "America"
+          ]
+        },
+        {
+          "answer": "China",
+          "display": "#2 — 5 gold, 2 silver, 3 bronze"
+        },
+        {
+          "answer": "France",
+          "display": "#3 — 4 gold, 2 silver, 1 bronze"
+        },
+        {
+          "answer": "Netherlands",
+          "display": "#4 — 2 gold, 1 silver, 1 bronze",
+          "aliases": [
+            "Holland"
+          ]
+        },
+        {
+          "answer": "South Africa",
+          "display": "#5 — 2 gold, 1 silver, 0 bronze",
+          "aliases": [
+            "RSA"
+          ]
+        },
+        {
+          "answer": "Australia",
+          "display": "#6 — 1 gold, 6 silver, 3 bronze"
+        },
+        {
+          "answer": "Hungary",
+          "display": "#7 — 1 gold, 0 silver, 1 bronze"
+        },
+        {
+          "answer": "Lithuania",
+          "display": "#8 — 1 gold, 0 silver, 0 bronze"
+        },
+        {
+          "answer": "Japan",
+          "display": "#9 — 0 gold, 3 silver, 8 bronze"
+        },
+        {
+          "answer": "Russia",
+          "display": "#10 — 0 gold, 2 silver, 2 bronze",
+          "aliases": [
+            "Russian Federation"
+          ]
+        },
+        {
+          "answer": "Belarus",
+          "display": "#11 — 0 gold, 2 silver, 0 bronze"
+        },
+        {
+          "answer": "South Korea",
+          "display": "#11 — 0 gold, 2 silver, 0 bronze"
+        },
+        {
+          "answer": "Spain",
+          "display": "#11 — 0 gold, 2 silver, 0 bronze"
+        }
+      ]
+    },
+    {
+      "category": "sports/olympics/summer/sports/swimming",
+      "question": "Top 9 nations in the swimming medal table at the 2016 Summer Olympics (Rio de Janeiro) (ranked by gold, then silver, then bronze)",
+      "cutoff": 9,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1374986172 | table 4 | name: Nation | value: Rank | order: asc",
+      "tags": [
+        "swimming",
+        "olympics",
+        "summer-olympics",
+        "medals",
+        "nations",
+        "2016"
+      ],
+      "answers": [
+        {
+          "answer": "United States",
+          "display": "#1 — 16 gold, 8 silver, 9 bronze",
+          "aliases": [
+            "USA",
+            "US",
+            "United States of America",
+            "America"
+          ]
+        },
+        {
+          "answer": "Australia",
+          "display": "#2 — 3 gold, 4 silver, 3 bronze"
+        },
+        {
+          "answer": "Hungary",
+          "display": "#3 — 3 gold, 2 silver, 2 bronze"
+        },
+        {
+          "answer": "Japan",
+          "display": "#4 — 2 gold, 2 silver, 3 bronze"
+        },
+        {
+          "answer": "Great Britain",
+          "display": "#5 — 1 gold, 5 silver, 0 bronze",
+          "aliases": [
+            "UK",
+            "Britain",
+            "GB",
+            "Great Britain and Northern Ireland"
+          ]
+        },
+        {
+          "answer": "China",
+          "display": "#6 — 1 gold, 2 silver, 3 bronze"
+        },
+        {
+          "answer": "Canada",
+          "display": "#7 — 1 gold, 1 silver, 4 bronze"
+        },
+        {
+          "answer": "Sweden",
+          "display": "#8 — 1 gold, 1 silver, 1 bronze"
+        },
+        {
+          "answer": "Italy",
+          "display": "#9 — 1 gold, 0 silver, 2 bronze"
+        },
+        {
+          "answer": "Denmark",
+          "display": "#10 — 1 gold, 0 silver, 1 bronze"
+        },
+        {
+          "answer": "Spain",
+          "display": "#10 — 1 gold, 0 silver, 1 bronze"
+        },
+        {
+          "answer": "Kazakhstan",
+          "display": "#12 — 1 gold, 0 silver, 0 bronze"
+        },
+        {
+          "answer": "Singapore",
+          "display": "#12 — 1 gold, 0 silver, 0 bronze"
+        }
+      ]
+    },
+    {
+      "category": "sports/olympics/summer/sports/swimming",
+      "question": "Top 10 nations in the swimming medal table at the 2020 Summer Olympics (Tokyo) (ranked by gold, then silver, then bronze)",
+      "cutoff": 10,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1365671314 | table 5 | name: NOC | value: Rank | order: asc",
+      "tags": [
+        "swimming",
+        "olympics",
+        "summer-olympics",
+        "medals",
+        "nations",
+        "2020"
+      ],
+      "answers": [
+        {
+          "answer": "United States",
+          "display": "#1 — 11 gold, 10 silver, 9 bronze",
+          "aliases": [
+            "USA",
+            "US",
+            "United States of America",
+            "America"
+          ]
+        },
+        {
+          "answer": "Australia",
+          "display": "#2 — 9 gold, 3 silver, 8 bronze"
+        },
+        {
+          "answer": "Great Britain",
+          "display": "#3 — 4 gold, 3 silver, 1 bronze",
+          "aliases": [
+            "UK",
+            "Britain",
+            "GB",
+            "Great Britain and Northern Ireland"
+          ]
+        },
+        {
+          "answer": "China",
+          "display": "#4 — 3 gold, 2 silver, 1 bronze"
+        },
+        {
+          "answer": "Russian Olympic Committee",
+          "display": "#5 — 2 gold, 2 silver, 1 bronze",
+          "aliases": [
+            "ROC",
+            "Russia"
+          ]
+        },
+        {
+          "answer": "Japan",
+          "display": "#6 — 2 gold, 1 silver, 0 bronze"
+        },
+        {
+          "answer": "Canada",
+          "display": "#7 — 1 gold, 3 silver, 2 bronze"
+        },
+        {
+          "answer": "Hungary",
+          "display": "#8 — 1 gold, 1 silver, 0 bronze"
+        },
+        {
+          "answer": "South Africa",
+          "display": "#8 — 1 gold, 1 silver, 0 bronze",
+          "aliases": [
+            "RSA"
+          ]
+        },
+        {
+          "answer": "Tunisia",
+          "display": "#10 — 1 gold, 0 silver, 0 bronze"
+        },
+        {
+          "answer": "Italy",
+          "display": "#11 — 0 gold, 2 silver, 4 bronze"
+        },
+        {
+          "answer": "Hong Kong",
+          "display": "#12 — 0 gold, 2 silver, 0 bronze"
+        },
+        {
+          "answer": "Netherlands",
+          "display": "#12 — 0 gold, 2 silver, 0 bronze",
+          "aliases": [
+            "Holland"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/olympics/summer/sports/swimming",
+      "question": "Top 10 nations in the swimming medal table at the 2024 Summer Olympics (Paris) (ranked by gold, then silver, then bronze)",
+      "cutoff": 10,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1379771477 | table 5 | name: Nation | value: Rank | order: asc",
+      "tags": [
+        "swimming",
+        "olympics",
+        "summer-olympics",
+        "medals",
+        "nations",
+        "2024"
+      ],
+      "answers": [
+        {
+          "answer": "United States",
+          "display": "#1 — 8 gold, 13 silver, 7 bronze",
+          "aliases": [
+            "USA",
+            "US",
+            "United States of America",
+            "America"
+          ]
+        },
+        {
+          "answer": "Australia",
+          "display": "#2 — 7 gold, 9 silver, 3 bronze"
+        },
+        {
+          "answer": "France",
+          "display": "#3 — 4 gold, 1 silver, 2 bronze"
+        },
+        {
+          "answer": "Canada",
+          "display": "#4 — 3 gold, 2 silver, 3 bronze"
+        },
+        {
+          "answer": "Hungary",
+          "display": "#5 — 3 gold, 1 silver, 1 bronze"
+        },
+        {
+          "answer": "China",
+          "display": "#6 — 2 gold, 3 silver, 7 bronze"
+        },
+        {
+          "answer": "Italy",
+          "display": "#7 — 2 gold, 1 silver, 3 bronze"
+        },
+        {
+          "answer": "Sweden",
+          "display": "#8 — 2 gold, 0 silver, 0 bronze"
+        },
+        {
+          "answer": "Great Britain",
+          "display": "#9 — 1 gold, 4 silver, 0 bronze",
+          "aliases": [
+            "UK",
+            "Britain",
+            "GB",
+            "Great Britain and Northern Ireland"
+          ]
+        },
+        {
+          "answer": "Germany",
+          "display": "#10 — 1 gold, 1 silver, 1 bronze",
+          "aliases": [
+            "GER"
+          ]
+        },
+        {
+          "answer": "South Africa",
+          "display": "#11 — 1 gold, 1 silver, 0 bronze",
+          "aliases": [
+            "RSA"
+          ]
+        },
+        {
+          "answer": "Ireland",
+          "display": "#12 — 1 gold, 0 silver, 2 bronze"
+        },
+        {
+          "answer": "Netherlands",
+          "display": "#12 — 1 gold, 0 silver, 2 bronze",
+          "aliases": [
+            "Holland"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/olympics/summer/sports/gymnastics",
+      "question": "Top 10 nations in the gymnastics medal table at the 1996 Summer Olympics (Atlanta) (ranked by gold, then silver, then bronze)",
+      "cutoff": 10,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1347039604 | table 4 | name: Nation | value: Rank | order: asc",
+      "tags": [
+        "gymnastics",
+        "olympics",
+        "summer-olympics",
+        "medals",
+        "nations",
+        "1996"
+      ],
+      "answers": [
+        {
+          "answer": "Ukraine",
+          "display": "#1 — 4 gold, 1 silver, 2 bronze"
+        },
+        {
+          "answer": "Russia",
+          "display": "#2 — 3 gold, 3 silver, 4 bronze",
+          "aliases": [
+            "Russian Federation"
+          ]
+        },
+        {
+          "answer": "United States",
+          "display": "#3 — 2 gold, 2 silver, 1 bronze",
+          "aliases": [
+            "USA",
+            "US",
+            "United States of America",
+            "America"
+          ]
+        },
+        {
+          "answer": "Romania",
+          "display": "#4 — 1 gold, 4 silver, 5 bronze"
+        },
+        {
+          "answer": "China",
+          "display": "#5 — 1 gold, 4 silver, 1 bronze"
+        },
+        {
+          "answer": "Germany",
+          "display": "#6 — 1 gold, 0 silver, 0 bronze",
+          "aliases": [
+            "GER"
+          ]
+        },
+        {
+          "answer": "Greece",
+          "display": "#6 — 1 gold, 0 silver, 0 bronze"
+        },
+        {
+          "answer": "Italy",
+          "display": "#6 — 1 gold, 0 silver, 0 bronze"
+        },
+        {
+          "answer": "Spain",
+          "display": "#6 — 1 gold, 0 silver, 0 bronze"
+        },
+        {
+          "answer": "Switzerland",
+          "display": "#6 — 1 gold, 0 silver, 0 bronze"
+        },
+        {
+          "answer": "Bulgaria",
+          "display": "#11 — 0 gold, 2 silver, 0 bronze"
+        },
+        {
+          "answer": "Hungary",
+          "display": "#12 — 0 gold, 1 silver, 0 bronze"
+        },
+        {
+          "answer": "South Korea",
+          "display": "#12 — 0 gold, 1 silver, 0 bronze"
+        }
+      ]
+    },
+    {
+      "category": "sports/olympics/summer/sports/gymnastics",
+      "question": "Top 9 nations in the gymnastics medal table at the 2000 Summer Olympics (Sydney) (ranked by gold, then silver, then bronze)",
+      "cutoff": 9,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1339177524 | table 5 | name: Nation | value: Rank | order: asc",
+      "tags": [
+        "gymnastics",
+        "olympics",
+        "summer-olympics",
+        "medals",
+        "nations",
+        "2000"
+      ],
+      "answers": [
+        {
+          "answer": "Russia",
+          "display": "#1 — 9 gold, 5 silver, 6 bronze",
+          "aliases": [
+            "Russian Federation"
+          ]
+        },
+        {
+          "answer": "China",
+          "display": "#2 — 3 gold, 2 silver, 2 bronze"
+        },
+        {
+          "answer": "Romania",
+          "display": "#3 — 3 gold, 2 silver, 1 bronze"
+        },
+        {
+          "answer": "Hungary",
+          "display": "#4 — 1 gold, 0 silver, 0 bronze"
+        },
+        {
+          "answer": "Latvia",
+          "display": "#4 — 1 gold, 0 silver, 0 bronze"
+        },
+        {
+          "answer": "Spain",
+          "display": "#4 — 1 gold, 0 silver, 0 bronze"
+        },
+        {
+          "answer": "Ukraine",
+          "display": "#7 — 0 gold, 2 silver, 1 bronze"
+        },
+        {
+          "answer": "Belarus",
+          "display": "#8 — 0 gold, 2 silver, 0 bronze"
+        },
+        {
+          "answer": "France",
+          "display": "#8 — 0 gold, 2 silver, 0 bronze"
+        },
+        {
+          "answer": "Greece",
+          "display": "#10 — 0 gold, 1 silver, 1 bronze"
+        },
+        {
+          "answer": "South Korea",
+          "display": "#10 — 0 gold, 1 silver, 1 bronze"
+        },
+        {
+          "answer": "Australia",
+          "display": "#12 — 0 gold, 1 silver, 0 bronze"
+        }
+      ]
+    },
+    {
+      "category": "sports/olympics/summer/sports/gymnastics",
+      "question": "Top 10 nations in the gymnastics medal table at the 2004 Summer Olympics (Athens) (ranked by gold, then silver, then bronze)",
+      "cutoff": 10,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1373558953 | table 5 | name: Nation | value: Rank | order: asc",
+      "tags": [
+        "gymnastics",
+        "olympics",
+        "summer-olympics",
+        "medals",
+        "nations",
+        "2004"
+      ],
+      "answers": [
+        {
+          "answer": "Romania",
+          "display": "#1 — 4 gold, 3 silver, 3 bronze"
+        },
+        {
+          "answer": "United States",
+          "display": "#2 — 2 gold, 6 silver, 1 bronze",
+          "aliases": [
+            "USA",
+            "US",
+            "United States of America",
+            "America"
+          ]
+        },
+        {
+          "answer": "Russia",
+          "display": "#3 — 2 gold, 3 silver, 2 bronze",
+          "aliases": [
+            "Russian Federation"
+          ]
+        },
+        {
+          "answer": "Ukraine",
+          "display": "#4 — 2 gold, 0 silver, 1 bronze"
+        },
+        {
+          "answer": "Japan",
+          "display": "#5 — 1 gold, 1 silver, 2 bronze"
+        },
+        {
+          "answer": "Italy",
+          "display": "#6 — 1 gold, 1 silver, 1 bronze"
+        },
+        {
+          "answer": "Canada",
+          "display": "#7 — 1 gold, 1 silver, 0 bronze"
+        },
+        {
+          "answer": "China",
+          "display": "#8 — 1 gold, 0 silver, 3 bronze"
+        },
+        {
+          "answer": "Germany",
+          "display": "#9 — 1 gold, 0 silver, 1 bronze",
+          "aliases": [
+            "GER"
+          ]
+        },
+        {
+          "answer": "Spain",
+          "display": "#9 — 1 gold, 0 silver, 1 bronze"
+        },
+        {
+          "answer": "France",
+          "display": "#11 — 1 gold, 0 silver, 0 bronze"
+        },
+        {
+          "answer": "Greece",
+          "display": "#11 — 1 gold, 0 silver, 0 bronze"
+        },
+        {
+          "answer": "Bulgaria",
+          "display": "#13 — 0 gold, 1 silver, 2 bronze"
+        },
+        {
+          "answer": "South Korea",
+          "display": "#14 — 0 gold, 1 silver, 1 bronze"
+        },
+        {
+          "answer": "Latvia",
+          "display": "#15 — 0 gold, 1 silver, 0 bronze"
+        }
+      ]
+    },
+    {
+      "category": "sports/olympics/summer/sports/gymnastics",
+      "question": "Top 8 nations in the gymnastics medal table at the 2008 Summer Olympics (Beijing) (ranked by gold, then silver, then bronze)",
+      "cutoff": 8,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1339177540 | table 7 | name: Nation | value: Rank | order: asc",
+      "tags": [
+        "gymnastics",
+        "olympics",
+        "summer-olympics",
+        "medals",
+        "nations",
+        "2008"
+      ],
+      "answers": [
+        {
+          "answer": "China",
+          "display": "#1 — 11 gold, 2 silver, 5 bronze"
+        },
+        {
+          "answer": "United States",
+          "display": "#2 — 2 gold, 6 silver, 2 bronze",
+          "aliases": [
+            "USA",
+            "US",
+            "United States of America",
+            "America"
+          ]
+        },
+        {
+          "answer": "Russia",
+          "display": "#3 — 2 gold, 0 silver, 2 bronze",
+          "aliases": [
+            "Russian Federation"
+          ]
+        },
+        {
+          "answer": "Romania",
+          "display": "#4 — 1 gold, 0 silver, 1 bronze"
+        },
+        {
+          "answer": "North Korea",
+          "display": "#5 — 1 gold, 0 silver, 0 bronze"
+        },
+        {
+          "answer": "Poland",
+          "display": "#5 — 1 gold, 0 silver, 0 bronze"
+        },
+        {
+          "answer": "Canada",
+          "display": "#7 — 0 gold, 2 silver, 0 bronze"
+        },
+        {
+          "answer": "Japan",
+          "display": "#7 — 0 gold, 2 silver, 0 bronze"
+        },
+        {
+          "answer": "Belarus",
+          "display": "#9 — 0 gold, 1 silver, 1 bronze"
+        },
+        {
+          "answer": "France",
+          "display": "#9 — 0 gold, 1 silver, 1 bronze"
+        },
+        {
+          "answer": "Germany",
+          "display": "#9 — 0 gold, 1 silver, 1 bronze",
+          "aliases": [
+            "GER"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/olympics/summer/sports/gymnastics",
+      "question": "Top 10 nations in the gymnastics medal table at the 2012 Summer Olympics (London) (ranked by gold, then silver, then bronze)",
+      "cutoff": 10,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1352580782 | table 5 | name: Nation | value: Rank | order: asc",
+      "tags": [
+        "gymnastics",
+        "olympics",
+        "summer-olympics",
+        "medals",
+        "nations",
+        "2012"
+      ],
+      "answers": [
+        {
+          "answer": "China",
+          "display": "#1 — 5 gold, 4 silver, 3 bronze"
+        },
+        {
+          "answer": "Russia",
+          "display": "#2 — 3 gold, 5 silver, 4 bronze",
+          "aliases": [
+            "Russian Federation"
+          ]
+        },
+        {
+          "answer": "United States",
+          "display": "#3 — 3 gold, 1 silver, 2 bronze",
+          "aliases": [
+            "USA",
+            "US",
+            "United States of America",
+            "America"
+          ]
+        },
+        {
+          "answer": "Japan",
+          "display": "#4 — 1 gold, 2 silver, 0 bronze"
+        },
+        {
+          "answer": "Romania",
+          "display": "#5 — 1 gold, 1 silver, 1 bronze"
+        },
+        {
+          "answer": "Brazil",
+          "display": "#6 — 1 gold, 0 silver, 0 bronze"
+        },
+        {
+          "answer": "Canada",
+          "display": "#6 — 1 gold, 0 silver, 0 bronze"
+        },
+        {
+          "answer": "Hungary",
+          "display": "#6 — 1 gold, 0 silver, 0 bronze"
+        },
+        {
+          "answer": "Netherlands",
+          "display": "#6 — 1 gold, 0 silver, 0 bronze",
+          "aliases": [
+            "Holland"
+          ]
+        },
+        {
+          "answer": "South Korea",
+          "display": "#6 — 1 gold, 0 silver, 0 bronze"
+        },
+        {
+          "answer": "Germany",
+          "display": "#11 — 0 gold, 3 silver, 0 bronze",
+          "aliases": [
+            "GER"
+          ]
+        },
+        {
+          "answer": "Great Britain",
+          "display": "#12 — 0 gold, 1 silver, 3 bronze",
+          "aliases": [
+            "UK",
+            "Britain",
+            "GB",
+            "Great Britain and Northern Ireland"
+          ]
+        },
+        {
+          "answer": "Belarus",
+          "display": "#13 — 0 gold, 1 silver, 1 bronze"
+        }
+      ]
+    },
+    {
+      "category": "sports/olympics/summer/sports/gymnastics",
+      "question": "Top 9 nations in the gymnastics medal table at the 2020 Summer Olympics (Tokyo) (ranked by gold, then silver, then bronze)",
+      "cutoff": 9,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1349340209 | table 3 | name: NOC | value: Rank | order: asc",
+      "tags": [
+        "gymnastics",
+        "olympics",
+        "summer-olympics",
+        "medals",
+        "nations",
+        "2020"
+      ],
+      "answers": [
+        {
+          "answer": "China",
+          "display": "#1 — 4 gold, 5 silver, 2 bronze"
+        },
+        {
+          "answer": "ROC",
+          "display": "#2 — 2 gold, 4 silver, 4 bronze"
+        },
+        {
+          "answer": "United States",
+          "display": "#3 — 2 gold, 2 silver, 2 bronze",
+          "aliases": [
+            "USA",
+            "US",
+            "United States of America",
+            "America"
+          ]
+        },
+        {
+          "answer": "Japan",
+          "display": "#4 — 2 gold, 1 silver, 2 bronze"
+        },
+        {
+          "answer": "Israel",
+          "display": "#5 — 2 gold, 0 silver, 0 bronze"
+        },
+        {
+          "answer": "Brazil",
+          "display": "#6 — 1 gold, 1 silver, 0 bronze"
+        },
+        {
+          "answer": "Great Britain",
+          "display": "#7 — 1 gold, 0 silver, 2 bronze",
+          "aliases": [
+            "UK",
+            "Britain",
+            "GB",
+            "Great Britain and Northern Ireland"
+          ]
+        },
+        {
+          "answer": "Belarus",
+          "display": "#8 — 1 gold, 0 silver, 1 bronze"
+        },
+        {
+          "answer": "South Korea",
+          "display": "#8 — 1 gold, 0 silver, 1 bronze"
+        },
+        {
+          "answer": "Belgium",
+          "display": "#10 — 1 gold, 0 silver, 0 bronze"
+        },
+        {
+          "answer": "Bulgaria",
+          "display": "#10 — 1 gold, 0 silver, 0 bronze"
+        },
+        {
+          "answer": "Italy",
+          "display": "#12 — 0 gold, 1 silver, 1 bronze"
+        }
+      ]
+    },
+    {
+      "category": "sports/olympics/summer/sports/gymnastics",
+      "question": "Top 7 nations in the gymnastics medal table at the 2024 Summer Olympics (Paris) (ranked by gold, then silver, then bronze)",
+      "cutoff": 7,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1372370628 | table 3 | name: NOC | value: Rank | order: asc",
+      "tags": [
+        "gymnastics",
+        "olympics",
+        "summer-olympics",
+        "medals",
+        "nations",
+        "2024"
+      ],
+      "answers": [
+        {
+          "answer": "China",
+          "display": "#1 — 3 gold, 6 silver, 3 bronze"
+        },
+        {
+          "answer": "United States",
+          "display": "#2 — 3 gold, 1 silver, 5 bronze",
+          "aliases": [
+            "USA",
+            "US",
+            "United States of America",
+            "America"
+          ]
+        },
+        {
+          "answer": "Japan",
+          "display": "#3 — 3 gold, 0 silver, 1 bronze"
+        },
+        {
+          "answer": "Philippines",
+          "display": "#4 — 2 gold, 0 silver, 0 bronze"
+        },
+        {
+          "answer": "Brazil",
+          "display": "#5 — 1 gold, 2 silver, 1 bronze"
+        },
+        {
+          "answer": "Italy",
+          "display": "#6 — 1 gold, 1 silver, 3 bronze"
+        },
+        {
+          "answer": "Great Britain",
+          "display": "#7 — 1 gold, 0 silver, 2 bronze",
+          "aliases": [
+            "UK",
+            "Britain",
+            "GB",
+            "Great Britain and Northern Ireland"
+          ]
+        },
+        {
+          "answer": "Algeria",
+          "display": "#8 — 1 gold, 0 silver, 0 bronze"
+        },
+        {
+          "answer": "Germany",
+          "display": "#8 — 1 gold, 0 silver, 0 bronze",
+          "aliases": [
+            "GER"
+          ]
+        },
+        {
+          "answer": "Ireland",
+          "display": "#8 — 1 gold, 0 silver, 0 bronze"
+        }
+      ]
+    }
+  ]
+}

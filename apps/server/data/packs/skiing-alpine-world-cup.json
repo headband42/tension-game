@@ -1,0 +1,2210 @@
+{
+  "categories": [
+    {
+      "path": "sports/winter/alpine-skiing/world-cup-men",
+      "name": "Alpine World Cup (men)"
+    },
+    {
+      "path": "sports/winter/alpine-skiing/world-cup-women",
+      "name": "Alpine World Cup (women)"
+    }
+  ],
+  "questions": [
+    {
+      "category": "sports/winter/alpine-skiing/world-cup-men",
+      "question": "Top 7 men in the overall standings of the 2013–14 Alpine Skiing World Cup",
+      "cutoff": 7,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1333107574 | table 4 | name: Athlete | value: Pts | header rows: 2",
+      "tags": [
+        "alpine-skiing",
+        "world-cup",
+        "men",
+        "2013–14"
+      ],
+      "answers": [
+        {
+          "answer": "Marcel Hirscher",
+          "display": "1,222 points (#1)",
+          "aliases": [
+            "Hirscher"
+          ]
+        },
+        {
+          "answer": "Aksel Lund Svindal",
+          "display": "1,091 points (#2)",
+          "aliases": [
+            "Svindal"
+          ]
+        },
+        {
+          "answer": "Alexis Pinturault",
+          "display": "1,028 points (#3)",
+          "aliases": [
+            "Pinturault"
+          ]
+        },
+        {
+          "answer": "Ted Ligety",
+          "display": "991 points (#4)",
+          "aliases": [
+            "Ligety"
+          ]
+        },
+        {
+          "answer": "Felix Neureuther",
+          "display": "813 points (#5)",
+          "aliases": [
+            "Neureuther"
+          ]
+        },
+        {
+          "answer": "Kjetil Jansrud",
+          "display": "657 points (#6)",
+          "aliases": [
+            "Jansrud"
+          ]
+        },
+        {
+          "answer": "Henrik Kristoffersen",
+          "display": "639 points (#7)",
+          "aliases": [
+            "Kristoffersen"
+          ]
+        },
+        {
+          "answer": "Bode Miller",
+          "display": "633 points (#8)",
+          "aliases": [
+            "Miller"
+          ]
+        },
+        {
+          "answer": "Matthias Mayer",
+          "display": "602 points (#9)",
+          "aliases": [
+            "Mayer"
+          ]
+        },
+        {
+          "answer": "Patrick Küng",
+          "display": "562 points (#10)",
+          "aliases": [
+            "Küng",
+            "Kung"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/winter/alpine-skiing/world-cup-men",
+      "question": "Top 7 men in the overall standings of the 2014–15 Alpine Skiing World Cup",
+      "cutoff": 7,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1357027056 | table 4 | name: Athlete | value: Pts | header rows: 2",
+      "tags": [
+        "alpine-skiing",
+        "world-cup",
+        "men",
+        "2014–15"
+      ],
+      "answers": [
+        {
+          "answer": "Marcel Hirscher",
+          "display": "1,448 points (#1)",
+          "aliases": [
+            "Hirscher"
+          ]
+        },
+        {
+          "answer": "Kjetil Jansrud",
+          "display": "1,288 points (#2)",
+          "aliases": [
+            "Jansrud"
+          ]
+        },
+        {
+          "answer": "Alexis Pinturault",
+          "display": "1,006 points (#3)",
+          "aliases": [
+            "Pinturault"
+          ]
+        },
+        {
+          "answer": "Felix Neureuther",
+          "display": "838 points (#4)",
+          "aliases": [
+            "Neureuther"
+          ]
+        },
+        {
+          "answer": "Fritz Dopfer",
+          "display": "797 points (#5)",
+          "aliases": [
+            "Dopfer"
+          ]
+        },
+        {
+          "answer": "Hannes Reichelt",
+          "display": "760 points (#6)",
+          "aliases": [
+            "Reichelt"
+          ]
+        },
+        {
+          "answer": "Dominik Paris",
+          "display": "745 points (#7)",
+          "aliases": [
+            "Paris"
+          ]
+        },
+        {
+          "answer": "Henrik Kristoffersen",
+          "display": "729 points (#8)",
+          "aliases": [
+            "Kristoffersen"
+          ]
+        },
+        {
+          "answer": "Matthias Mayer",
+          "display": "717 points (#9)",
+          "aliases": [
+            "Mayer"
+          ]
+        },
+        {
+          "answer": "Carlo Janka",
+          "display": "643 points (#10)",
+          "aliases": [
+            "Janka"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/winter/alpine-skiing/world-cup-men",
+      "question": "Top 10 men in the overall standings of the 2015–16 Alpine Skiing World Cup",
+      "cutoff": 10,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1341066418 | table 1 | name: Skier | value: Tot",
+      "tags": [
+        "alpine-skiing",
+        "world-cup",
+        "men",
+        "2015–16"
+      ],
+      "answers": [
+        {
+          "answer": "Marcel Hirscher",
+          "display": "1,795 points (#1)",
+          "aliases": [
+            "Hirscher"
+          ]
+        },
+        {
+          "answer": "Henrik Kristoffersen",
+          "display": "1,298 points (#2)",
+          "aliases": [
+            "Kristoffersen"
+          ]
+        },
+        {
+          "answer": "Alexis Pinturault",
+          "display": "1,200 points (#3)",
+          "aliases": [
+            "Pinturault"
+          ]
+        },
+        {
+          "answer": "Kjetil Jansrud",
+          "display": "1,161 points (#4)",
+          "aliases": [
+            "Jansrud"
+          ]
+        },
+        {
+          "answer": "Aksel Lund Svindal",
+          "display": "916 points (#5)",
+          "aliases": [
+            "Svindal"
+          ]
+        },
+        {
+          "answer": "Dominik Paris",
+          "display": "805 points (#6)",
+          "aliases": [
+            "Paris"
+          ]
+        },
+        {
+          "answer": "Aleksander Aamodt Kilde",
+          "display": "756 points (#7)",
+          "aliases": [
+            "Kilde"
+          ]
+        },
+        {
+          "answer": "Felix Neureuther",
+          "display": "743 points (#8)",
+          "aliases": [
+            "Neureuther"
+          ]
+        },
+        {
+          "answer": "Carlo Janka",
+          "display": "737 points (#9)",
+          "aliases": [
+            "Janka"
+          ]
+        },
+        {
+          "answer": "Peter Fill",
+          "display": "736 points (#10)",
+          "aliases": [
+            "Fill"
+          ]
+        },
+        {
+          "answer": "Adrien Théaux",
+          "display": "714 points (#11)",
+          "aliases": [
+            "Theaux"
+          ]
+        },
+        {
+          "answer": "Victor Muffat-Jeandet",
+          "display": "709 points (#12)",
+          "aliases": [
+            "Muffat"
+          ]
+        },
+        {
+          "answer": "Beat Feuz",
+          "display": "596 points (#13)",
+          "aliases": [
+            "Feuz"
+          ]
+        },
+        {
+          "answer": "Vincent Kriechmayr",
+          "display": "555 points (#14)",
+          "aliases": [
+            "Kriechmayr"
+          ]
+        },
+        {
+          "answer": "Andre Myhrer",
+          "display": "543 points (#15)",
+          "aliases": [
+            "Myhrer"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/winter/alpine-skiing/world-cup-men",
+      "question": "Top 10 men in the overall standings of the 2016–17 Alpine Skiing World Cup",
+      "cutoff": 10,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1345310505 | table 1 | name: Skier | value: Tot",
+      "tags": [
+        "alpine-skiing",
+        "world-cup",
+        "men",
+        "2016–17"
+      ],
+      "answers": [
+        {
+          "answer": "Marcel Hirscher",
+          "display": "1,599 points (#1)",
+          "aliases": [
+            "Hirscher"
+          ]
+        },
+        {
+          "answer": "Kjetil Jansrud",
+          "display": "924 points (#2)",
+          "aliases": [
+            "Jansrud"
+          ]
+        },
+        {
+          "answer": "Henrik Kristoffersen",
+          "display": "903 points (#3)",
+          "aliases": [
+            "Kristoffersen"
+          ]
+        },
+        {
+          "answer": "Alexis Pinturault",
+          "display": "875 points (#4)",
+          "aliases": [
+            "Pinturault"
+          ]
+        },
+        {
+          "answer": "Felix Neureuther",
+          "display": "790 points (#5)",
+          "aliases": [
+            "Neureuther"
+          ]
+        },
+        {
+          "answer": "Peter Fill",
+          "display": "693 points (#6)",
+          "aliases": [
+            "Fill"
+          ]
+        },
+        {
+          "answer": "Aleksander Aamodt Kilde",
+          "display": "668 points (#7)",
+          "aliases": [
+            "Kilde"
+          ]
+        },
+        {
+          "answer": "Dominik Paris",
+          "display": "653 points (#8)",
+          "aliases": [
+            "Paris"
+          ]
+        },
+        {
+          "answer": "Manfred Mölgg",
+          "display": "580 points (#9)",
+          "aliases": [
+            "Molgg"
+          ]
+        },
+        {
+          "answer": "Hannes Reichelt",
+          "display": "556 points (#10)",
+          "aliases": [
+            "Reichelt"
+          ]
+        },
+        {
+          "answer": "Beat Feuz",
+          "display": "447 points (#11)",
+          "aliases": [
+            "Feuz"
+          ]
+        },
+        {
+          "answer": "Carlo Janka",
+          "display": "446 points (#12)",
+          "aliases": [
+            "Janka"
+          ]
+        },
+        {
+          "answer": "Matthias Mayer",
+          "display": "442 points (#13)",
+          "aliases": [
+            "Mayer"
+          ]
+        },
+        {
+          "answer": "Mathieu Faivre",
+          "display": "440 points (#14)",
+          "aliases": [
+            "Faivre"
+          ]
+        },
+        {
+          "answer": "Andre Myhrer",
+          "display": "434 points (#15)",
+          "aliases": [
+            "Myhrer"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/winter/alpine-skiing/world-cup-men",
+      "question": "Top 10 men in the overall standings of the 2017–18 Alpine Skiing World Cup",
+      "cutoff": 10,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1360844981 | table 1 | name: Skier | value: Tot",
+      "tags": [
+        "alpine-skiing",
+        "world-cup",
+        "men",
+        "2017–18"
+      ],
+      "answers": [
+        {
+          "answer": "Marcel Hirscher",
+          "display": "1,620 points (#1)",
+          "aliases": [
+            "Hirscher"
+          ]
+        },
+        {
+          "answer": "Henrik Kristoffersen",
+          "display": "1,285 points (#2)",
+          "aliases": [
+            "Kristoffersen"
+          ]
+        },
+        {
+          "answer": "Aksel Lund Svindal",
+          "display": "886 points (#3)",
+          "aliases": [
+            "Svindal"
+          ]
+        },
+        {
+          "answer": "Kjetil Jansrud",
+          "display": "884 points (#4)",
+          "aliases": [
+            "Jansrud"
+          ]
+        },
+        {
+          "answer": "Beat Feuz",
+          "display": "856 points (#5)",
+          "aliases": [
+            "Feuz"
+          ]
+        },
+        {
+          "answer": "Alexis Pinturault",
+          "display": "707 points (#6)",
+          "aliases": [
+            "Pinturault"
+          ]
+        },
+        {
+          "answer": "Vincent Kriechmayr",
+          "display": "704 points (#7)",
+          "aliases": [
+            "Kriechmayr"
+          ]
+        },
+        {
+          "answer": "Thomas Dreßen",
+          "display": "672 points (#8)",
+          "aliases": [
+            "Dressen"
+          ]
+        },
+        {
+          "answer": "Matthias Mayer",
+          "display": "622 points (#9)",
+          "aliases": [
+            "Mayer"
+          ]
+        },
+        {
+          "answer": "Hannes Reichelt",
+          "display": "535 points (#10)",
+          "aliases": [
+            "Reichelt"
+          ]
+        },
+        {
+          "answer": "Andre Myhrer",
+          "display": "522 points (#11)",
+          "aliases": [
+            "Myhrer"
+          ]
+        },
+        {
+          "answer": "Dominik Paris",
+          "display": "518 points (#12)",
+          "aliases": [
+            "Paris"
+          ]
+        },
+        {
+          "answer": "Manuel Feller",
+          "display": "481 points (#13)",
+          "aliases": [
+            "Feller"
+          ]
+        },
+        {
+          "answer": "Victor Muffat-Jeandet",
+          "display": "458 points (#14)",
+          "aliases": [
+            "Muffat"
+          ]
+        },
+        {
+          "answer": "Aleksander Aamodt Kilde",
+          "display": "454 points (#15)",
+          "aliases": [
+            "Kilde"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/winter/alpine-skiing/world-cup-men",
+      "question": "Top 10 men in the overall standings of the 2018–19 Alpine Skiing World Cup",
+      "cutoff": 10,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1181828003 | table 1 | name: Skier | value: Tot",
+      "tags": [
+        "alpine-skiing",
+        "world-cup",
+        "men",
+        "2018–19"
+      ],
+      "answers": [
+        {
+          "answer": "Marcel Hirscher",
+          "display": "1,546 points (#1)",
+          "aliases": [
+            "Hirscher"
+          ]
+        },
+        {
+          "answer": "Alexis Pinturault",
+          "display": "1,145 points (#2)",
+          "aliases": [
+            "Pinturault"
+          ]
+        },
+        {
+          "answer": "Henrik Kristoffersen",
+          "display": "1,047 points (#3)",
+          "aliases": [
+            "Kristoffersen"
+          ]
+        },
+        {
+          "answer": "Dominik Paris",
+          "display": "950 points (#4)",
+          "aliases": [
+            "Paris"
+          ]
+        },
+        {
+          "answer": "Vincent Kriechmayr",
+          "display": "739 points (#5)",
+          "aliases": [
+            "Kriechmayr"
+          ]
+        },
+        {
+          "answer": "Beat Feuz",
+          "display": "722 points (#6)",
+          "aliases": [
+            "Feuz"
+          ]
+        },
+        {
+          "answer": "Mauro Caviezel",
+          "display": "696 points (#7)",
+          "aliases": [
+            "Caviezel"
+          ]
+        },
+        {
+          "answer": "Aleksander Aamodt Kilde",
+          "display": "651 points (#8)",
+          "aliases": [
+            "Kilde"
+          ]
+        },
+        {
+          "answer": "Marco Schwarz",
+          "display": "560 points (#9)",
+          "aliases": [
+            "Schwarz"
+          ]
+        },
+        {
+          "answer": "Manuel Feller",
+          "display": "558 points (#10)",
+          "aliases": [
+            "Feller"
+          ]
+        },
+        {
+          "answer": "Clément Noël",
+          "display": "551 points (#11)",
+          "aliases": [
+            "Noel"
+          ]
+        },
+        {
+          "answer": "Daniel Yule",
+          "display": "551 points (#12)",
+          "aliases": [
+            "Yule"
+          ]
+        },
+        {
+          "answer": "Kjetil Jansrud",
+          "display": "537 points (#13)",
+          "aliases": [
+            "Jansrud"
+          ]
+        },
+        {
+          "answer": "Ramon Zenhäusern",
+          "display": "521 points (#14)",
+          "aliases": [
+            "Zenhausern"
+          ]
+        },
+        {
+          "answer": "Loïc Meillard",
+          "display": "502 points (#15)",
+          "aliases": [
+            "Meillard"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/winter/alpine-skiing/world-cup-men",
+      "question": "Top 10 men in the overall standings of the 2019–20 Alpine Skiing World Cup",
+      "cutoff": 10,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1181825260 | table 1 | name: Skier | value: Tot",
+      "tags": [
+        "alpine-skiing",
+        "world-cup",
+        "men",
+        "2019–20"
+      ],
+      "answers": [
+        {
+          "answer": "Aleksander Aamodt Kilde",
+          "display": "1,202 points (#1)",
+          "aliases": [
+            "Kilde"
+          ]
+        },
+        {
+          "answer": "Alexis Pinturault",
+          "display": "1,148 points (#2)",
+          "aliases": [
+            "Pinturault"
+          ]
+        },
+        {
+          "answer": "Henrik Kristoffersen",
+          "display": "1,041 points (#3)",
+          "aliases": [
+            "Kristoffersen"
+          ]
+        },
+        {
+          "answer": "Matthias Mayer",
+          "display": "916 points (#4)",
+          "aliases": [
+            "Mayer"
+          ]
+        },
+        {
+          "answer": "Vincent Kriechmayr",
+          "display": "794 points (#5)",
+          "aliases": [
+            "Kriechmayr"
+          ]
+        },
+        {
+          "answer": "Beat Feuz",
+          "display": "792 points (#6)",
+          "aliases": [
+            "Feuz"
+          ]
+        },
+        {
+          "answer": "Mauro Caviezel",
+          "display": "669 points (#7)",
+          "aliases": [
+            "Caviezel"
+          ]
+        },
+        {
+          "answer": "Kjetil Jansrud",
+          "display": "665 points (#8)",
+          "aliases": [
+            "Jansrud"
+          ]
+        },
+        {
+          "answer": "Thomas Dreßen",
+          "display": "602 points (#9)",
+          "aliases": [
+            "Dressen"
+          ]
+        },
+        {
+          "answer": "Loïc Meillard",
+          "display": "579 points (#10)",
+          "aliases": [
+            "Meillard"
+          ]
+        },
+        {
+          "answer": "Dominik Paris",
+          "display": "556 points (#11)",
+          "aliases": [
+            "Paris"
+          ]
+        },
+        {
+          "answer": "Clément Noël",
+          "display": "550 points (#12)",
+          "aliases": [
+            "Noel"
+          ]
+        },
+        {
+          "answer": "Daniel Yule",
+          "display": "495 points (#13)",
+          "aliases": [
+            "Yule"
+          ]
+        },
+        {
+          "answer": "Filip Zubčić",
+          "display": "475 points (#14)",
+          "aliases": [
+            "Zubcic"
+          ]
+        },
+        {
+          "answer": "Victor Muffat-Jeandet",
+          "display": "465 points (#15)",
+          "aliases": [
+            "Muffat"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/winter/alpine-skiing/world-cup-men",
+      "question": "Top 10 men in the overall standings of the 2021–22 Alpine Skiing World Cup",
+      "cutoff": 10,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1333853141 | table 1 | name: Skier | value: Tot",
+      "tags": [
+        "alpine-skiing",
+        "world-cup",
+        "men",
+        "2021–22"
+      ],
+      "answers": [
+        {
+          "answer": "Marco Odermatt",
+          "display": "1,639 points (#1)",
+          "aliases": [
+            "Odermatt"
+          ]
+        },
+        {
+          "answer": "Aleksander Aamodt Kilde",
+          "display": "1,172 points (#2)",
+          "aliases": [
+            "Kilde"
+          ]
+        },
+        {
+          "answer": "Henrik Kristoffersen",
+          "display": "954 points (#3)",
+          "aliases": [
+            "Kristoffersen"
+          ]
+        },
+        {
+          "answer": "Matthias Mayer",
+          "display": "880 points (#4)",
+          "aliases": [
+            "Mayer"
+          ]
+        },
+        {
+          "answer": "Vincent Kriechmayr",
+          "display": "840 points (#5)",
+          "aliases": [
+            "Kriechmayr"
+          ]
+        },
+        {
+          "answer": "Beat Feuz",
+          "display": "820 points (#6)",
+          "aliases": [
+            "Feuz"
+          ]
+        },
+        {
+          "answer": "Manuel Feller",
+          "display": "687 points (#7)",
+          "aliases": [
+            "Feller"
+          ]
+        },
+        {
+          "answer": "Dominik Paris",
+          "display": "680 points (#8)",
+          "aliases": [
+            "Paris"
+          ]
+        },
+        {
+          "answer": "Lucas Braathen",
+          "display": "655 points (#9)",
+          "aliases": [
+            "Braathen"
+          ]
+        },
+        {
+          "answer": "Alexis Pinturault",
+          "display": "603 points (#10)",
+          "aliases": [
+            "Pinturault"
+          ]
+        },
+        {
+          "answer": "Loïc Meillard",
+          "display": "578 points (#11)",
+          "aliases": [
+            "Meillard"
+          ]
+        },
+        {
+          "answer": "Atle Lie McGrath",
+          "display": "534 points (#12)",
+          "aliases": [
+            "McGrath"
+          ]
+        },
+        {
+          "answer": "Niels Hintermann",
+          "display": "492 points (#13)",
+          "aliases": [
+            "Hintermann"
+          ]
+        },
+        {
+          "answer": "James Crawford",
+          "display": "396 points (#14)",
+          "aliases": [
+            "Crawford"
+          ]
+        },
+        {
+          "answer": "Ryan Cochran-Siegle",
+          "display": "385 points (#15)",
+          "aliases": [
+            "Cochran-Siegle"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/winter/alpine-skiing/world-cup-men",
+      "question": "Top 10 men in the overall standings of the 2022–23 Alpine Skiing World Cup",
+      "cutoff": 10,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1376979099 | table 1 | name: Skier | value: Tot",
+      "tags": [
+        "alpine-skiing",
+        "world-cup",
+        "men",
+        "2022–23"
+      ],
+      "answers": [
+        {
+          "answer": "Marco Odermatt",
+          "display": "2,042 points (#1)",
+          "aliases": [
+            "Odermatt"
+          ]
+        },
+        {
+          "answer": "Aleksander Aamodt Kilde",
+          "display": "1,340 points (#2)",
+          "aliases": [
+            "Kilde"
+          ]
+        },
+        {
+          "answer": "Henrik Kristoffersen",
+          "display": "1,154 points (#3)",
+          "aliases": [
+            "Kristoffersen"
+          ]
+        },
+        {
+          "answer": "Lucas Braathen",
+          "display": "954 points (#4)",
+          "aliases": [
+            "Braathen"
+          ]
+        },
+        {
+          "answer": "Vincent Kriechmayr",
+          "display": "953 points (#5)",
+          "aliases": [
+            "Kriechmayr"
+          ]
+        },
+        {
+          "answer": "Loïc Meillard",
+          "display": "877 points (#6)",
+          "aliases": [
+            "Meillard"
+          ]
+        },
+        {
+          "answer": "Marco Schwarz",
+          "display": "863 points (#7)",
+          "aliases": [
+            "Schwarz"
+          ]
+        },
+        {
+          "answer": "Alexis Pinturault",
+          "display": "839 points (#8)",
+          "aliases": [
+            "Pinturault"
+          ]
+        },
+        {
+          "answer": "Manuel Feller",
+          "display": "546 points (#9)",
+          "aliases": [
+            "Feller"
+          ]
+        },
+        {
+          "answer": "Ramon Zenhäusern",
+          "display": "467 points (#10)",
+          "aliases": [
+            "Zenhausern"
+          ]
+        },
+        {
+          "answer": "Žan Kranjec",
+          "display": "464 points (#11)",
+          "aliases": [
+            "Kranjec",
+            "Zan Kranjec"
+          ]
+        },
+        {
+          "answer": "James Crawford",
+          "display": "462 points (#12)",
+          "aliases": [
+            "Crawford"
+          ]
+        },
+        {
+          "answer": "Gino Caviezel",
+          "display": "438 points (#13)",
+          "aliases": [
+            "Caviezel"
+          ]
+        },
+        {
+          "answer": "Mattia Casse",
+          "display": "431 points (#14)",
+          "aliases": [
+            "Casse"
+          ]
+        },
+        {
+          "answer": "Andreas Sander",
+          "display": "421 points (#15)",
+          "aliases": [
+            "Sander"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/winter/alpine-skiing/world-cup-women",
+      "question": "Top 7 women in the overall standings of the 2013–14 Alpine Skiing World Cup",
+      "cutoff": 7,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1333107574 | table 6 | name: Athlete | value: Pts | header rows: 2",
+      "tags": [
+        "alpine-skiing",
+        "world-cup",
+        "women",
+        "2013–14"
+      ],
+      "answers": [
+        {
+          "answer": "Anna Veith",
+          "display": "1,371 points (#1)",
+          "aliases": [
+            "Veith",
+            "Anna Fenninger",
+            "Fenninger"
+          ]
+        },
+        {
+          "answer": "Maria Höfl-Riesch",
+          "display": "1,180 points (#2)",
+          "aliases": [
+            "Höfl-Riesch",
+            "Hofl-Riesch"
+          ]
+        },
+        {
+          "answer": "Lara Gut-Behrami",
+          "display": "1,101 points (#3)",
+          "aliases": [
+            "Gut-Behrami",
+            "Gut",
+            "Lara Gut"
+          ]
+        },
+        {
+          "answer": "Tina Maze",
+          "display": "964 points (#4)",
+          "aliases": [
+            "Maze"
+          ]
+        },
+        {
+          "answer": "Tina Weirather",
+          "display": "943 points (#5)",
+          "aliases": [
+            "Weirather"
+          ]
+        },
+        {
+          "answer": "Mikaela Shiffrin",
+          "display": "895 points (#6)",
+          "aliases": [
+            "Shiffrin"
+          ]
+        },
+        {
+          "answer": "Maria Pietilä-Holmner",
+          "display": "647 points (#7)",
+          "aliases": [
+            "Pietilä-Holmner",
+            "Pietila-Holmner"
+          ]
+        },
+        {
+          "answer": "Elisabeth Görgl",
+          "display": "640 points (#8)",
+          "aliases": [
+            "Görgl",
+            "Gorgl"
+          ]
+        },
+        {
+          "answer": "Nicole Hosp",
+          "display": "575 points (#9)",
+          "aliases": [
+            "Hosp"
+          ]
+        },
+        {
+          "answer": "Frida Hansdotter",
+          "display": "534 points (#10)",
+          "aliases": [
+            "Hansdotter"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/winter/alpine-skiing/world-cup-women",
+      "question": "Top 7 women in the overall standings of the 2014–15 Alpine Skiing World Cup",
+      "cutoff": 7,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1357027056 | table 6 | name: Athlete | value: Pts | header rows: 2",
+      "tags": [
+        "alpine-skiing",
+        "world-cup",
+        "women",
+        "2014–15"
+      ],
+      "answers": [
+        {
+          "answer": "Anna Veith",
+          "display": "1,553 points (#1)",
+          "aliases": [
+            "Veith",
+            "Anna Fenninger",
+            "Fenninger"
+          ]
+        },
+        {
+          "answer": "Tina Maze",
+          "display": "1,531 points (#2)",
+          "aliases": [
+            "Maze"
+          ]
+        },
+        {
+          "answer": "Lindsey Vonn",
+          "display": "1,087 points (#3)",
+          "aliases": [
+            "Vonn"
+          ]
+        },
+        {
+          "answer": "Mikaela Shiffrin",
+          "display": "1,036 points (#4)",
+          "aliases": [
+            "Shiffrin"
+          ]
+        },
+        {
+          "answer": "Nicole Hosp",
+          "display": "684 points (#5)",
+          "aliases": [
+            "Hosp"
+          ]
+        },
+        {
+          "answer": "Frida Hansdotter",
+          "display": "679 points (#6)",
+          "aliases": [
+            "Hansdotter"
+          ]
+        },
+        {
+          "answer": "Kathrin Zettel",
+          "display": "646 points (#7)",
+          "aliases": [
+            "Zettel"
+          ]
+        },
+        {
+          "answer": "Elisabeth Görgl",
+          "display": "638 points (#8)",
+          "aliases": [
+            "Görgl",
+            "Gorgl"
+          ]
+        },
+        {
+          "answer": "Lara Gut-Behrami",
+          "display": "623 points (#9)",
+          "aliases": [
+            "Gut-Behrami",
+            "Gut",
+            "Lara Gut"
+          ]
+        },
+        {
+          "answer": "Tina Weirather",
+          "display": "603 points (#10)",
+          "aliases": [
+            "Weirather"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/winter/alpine-skiing/world-cup-women",
+      "question": "Top 10 women in the overall standings of the 2016–17 Alpine Skiing World Cup",
+      "cutoff": 10,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1181824811 | table 1 | name: Skier | value: Tot",
+      "tags": [
+        "alpine-skiing",
+        "world-cup",
+        "women",
+        "2016–17"
+      ],
+      "answers": [
+        {
+          "answer": "Mikaela Shiffrin",
+          "display": "1,643 points (#1)",
+          "aliases": [
+            "Shiffrin"
+          ]
+        },
+        {
+          "answer": "Ilka Štuhec",
+          "display": "1,325 points (#2)",
+          "aliases": [
+            "Stuhec"
+          ]
+        },
+        {
+          "answer": "Sofia Goggia",
+          "display": "1,197 points (#3)",
+          "aliases": [
+            "Goggia"
+          ]
+        },
+        {
+          "answer": "Lara Gut-Behrami",
+          "display": "1,023 points (#4)",
+          "aliases": [
+            "Gut-Behrami",
+            "Gut",
+            "Lara Gut"
+          ]
+        },
+        {
+          "answer": "Federica Brignone",
+          "display": "895 points (#5)",
+          "aliases": [
+            "Brignone"
+          ]
+        },
+        {
+          "answer": "Tessa Worley",
+          "display": "870 points (#6)",
+          "aliases": [
+            "Worley"
+          ]
+        },
+        {
+          "answer": "Tina Weirather",
+          "display": "857 points (#7)",
+          "aliases": [
+            "Weirather"
+          ]
+        },
+        {
+          "answer": "Wendy Holdener",
+          "display": "692 points (#8)",
+          "aliases": [
+            "Holdener"
+          ]
+        },
+        {
+          "answer": "Viktoria Rebensburg",
+          "display": "651 points (#9)",
+          "aliases": [
+            "Rebensburg"
+          ]
+        },
+        {
+          "answer": "Petra Vlhová",
+          "display": "589 points (#10)",
+          "aliases": [
+            "Vlhova"
+          ]
+        },
+        {
+          "answer": "Veronika Velez-Zuzulová",
+          "display": "565 points (#11)",
+          "aliases": [
+            "Velez-Zuzulova",
+            "Zuzulova"
+          ]
+        },
+        {
+          "answer": "Nina Haver-Løseth",
+          "display": "519 points (#12)",
+          "aliases": [
+            "Loseth",
+            "Haver-Løseth",
+            "Nina Løseth"
+          ]
+        },
+        {
+          "answer": "Frida Hansdotter",
+          "display": "468 points (#13)",
+          "aliases": [
+            "Hansdotter"
+          ]
+        },
+        {
+          "answer": "Marie-Michèle Gagnon",
+          "display": "452 points (#14)",
+          "aliases": [
+            "Gagnon"
+          ]
+        },
+        {
+          "answer": "Nicole Schmidhofer",
+          "display": "448 points (#15)",
+          "aliases": [
+            "Schmidhofer"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/winter/alpine-skiing/world-cup-women",
+      "question": "Top 10 women in the overall standings of the 2017–18 Alpine Skiing World Cup",
+      "cutoff": 10,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1181824807 | table 1 | name: Skier | value: Tot",
+      "tags": [
+        "alpine-skiing",
+        "world-cup",
+        "women",
+        "2017–18"
+      ],
+      "answers": [
+        {
+          "answer": "Mikaela Shiffrin",
+          "display": "1,773 points (#1)",
+          "aliases": [
+            "Shiffrin"
+          ]
+        },
+        {
+          "answer": "Wendy Holdener",
+          "display": "1,168 points (#2)",
+          "aliases": [
+            "Holdener"
+          ]
+        },
+        {
+          "answer": "Viktoria Rebensburg",
+          "display": "977 points (#3)",
+          "aliases": [
+            "Rebensburg"
+          ]
+        },
+        {
+          "answer": "Sofia Goggia",
+          "display": "958 points (#4)",
+          "aliases": [
+            "Goggia"
+          ]
+        },
+        {
+          "answer": "Petra Vlhová",
+          "display": "888 points (#5)",
+          "aliases": [
+            "Vlhova"
+          ]
+        },
+        {
+          "answer": "Tina Weirather",
+          "display": "887 points (#6)",
+          "aliases": [
+            "Weirather"
+          ]
+        },
+        {
+          "answer": "Michelle Gisin",
+          "display": "868 points (#7)",
+          "aliases": [
+            "Gisin"
+          ]
+        },
+        {
+          "answer": "Ragnhild Mowinckel",
+          "display": "849 points (#8)",
+          "aliases": [
+            "Mowinckel"
+          ]
+        },
+        {
+          "answer": "Frida Hansdotter",
+          "display": "817 points (#9)",
+          "aliases": [
+            "Hansdotter"
+          ]
+        },
+        {
+          "answer": "Lindsey Vonn",
+          "display": "792 points (#10)",
+          "aliases": [
+            "Vonn"
+          ]
+        },
+        {
+          "answer": "Federica Brignone",
+          "display": "774 points (#11)",
+          "aliases": [
+            "Brignone"
+          ]
+        },
+        {
+          "answer": "Lara Gut-Behrami",
+          "display": "691 points (#12)",
+          "aliases": [
+            "Gut-Behrami",
+            "Gut",
+            "Lara Gut"
+          ]
+        },
+        {
+          "answer": "Tessa Worley",
+          "display": "607 points (#13)",
+          "aliases": [
+            "Worley"
+          ]
+        },
+        {
+          "answer": "Bernadette Schild",
+          "display": "584 points (#14)",
+          "aliases": [
+            "Schild"
+          ]
+        },
+        {
+          "answer": "Anna Veith",
+          "display": "540 points (#15)",
+          "aliases": [
+            "Veith",
+            "Anna Fenninger",
+            "Fenninger"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/winter/alpine-skiing/world-cup-women",
+      "question": "Top 10 women in the overall standings of the 2019–20 Alpine Skiing World Cup",
+      "cutoff": 10,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1181825216 | table 1 | name: Skier | value: Tot",
+      "tags": [
+        "alpine-skiing",
+        "world-cup",
+        "women",
+        "2019–20"
+      ],
+      "answers": [
+        {
+          "answer": "Federica Brignone",
+          "display": "1,378 points (#1)",
+          "aliases": [
+            "Brignone"
+          ]
+        },
+        {
+          "answer": "Mikaela Shiffrin",
+          "display": "1,225 points (#2)",
+          "aliases": [
+            "Shiffrin"
+          ]
+        },
+        {
+          "answer": "Petra Vlhová",
+          "display": "1,189 points (#3)",
+          "aliases": [
+            "Vlhova"
+          ]
+        },
+        {
+          "answer": "Corinne Suter",
+          "display": "837 points (#4)",
+          "aliases": [
+            "Suter"
+          ]
+        },
+        {
+          "answer": "Marta Bassino",
+          "display": "817 points (#5)",
+          "aliases": [
+            "Bassino"
+          ]
+        },
+        {
+          "answer": "Wendy Holdener",
+          "display": "791 points (#6)",
+          "aliases": [
+            "Holdener"
+          ]
+        },
+        {
+          "answer": "Lara Gut-Behrami",
+          "display": "616 points (#7)",
+          "aliases": [
+            "Gut-Behrami",
+            "Gut",
+            "Lara Gut"
+          ]
+        },
+        {
+          "answer": "Michelle Gisin",
+          "display": "591 points (#8)",
+          "aliases": [
+            "Gisin"
+          ]
+        },
+        {
+          "answer": "Viktoria Rebensburg",
+          "display": "556 points (#9)",
+          "aliases": [
+            "Rebensburg"
+          ]
+        },
+        {
+          "answer": "Ester Ledecká",
+          "display": "503 points (#10)",
+          "aliases": [
+            "Ledecka"
+          ]
+        },
+        {
+          "answer": "Sofia Goggia",
+          "display": "479 points (#11)",
+          "aliases": [
+            "Goggia"
+          ]
+        },
+        {
+          "answer": "Nina Ortlieb",
+          "display": "479 points (#12)",
+          "aliases": [
+            "Ortlieb"
+          ]
+        },
+        {
+          "answer": "Nicole Schmidhofer",
+          "display": "445 points (#13)",
+          "aliases": [
+            "Schmidhofer"
+          ]
+        },
+        {
+          "answer": "Stephanie Venier",
+          "display": "438 points (#14)",
+          "aliases": [
+            "Venier"
+          ]
+        },
+        {
+          "answer": "Elena Curtoni",
+          "display": "434 points (#15)",
+          "aliases": [
+            "Curtoni"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/winter/alpine-skiing/world-cup-women",
+      "question": "Top 10 women in the overall standings of the 2020–21 Alpine Skiing World Cup",
+      "cutoff": 10,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1375851597 | table 1 | name: Skier | value: Tot",
+      "tags": [
+        "alpine-skiing",
+        "world-cup",
+        "women",
+        "2020–21"
+      ],
+      "answers": [
+        {
+          "answer": "Petra Vlhová",
+          "display": "1,416 points (#1)",
+          "aliases": [
+            "Vlhova"
+          ]
+        },
+        {
+          "answer": "Lara Gut-Behrami",
+          "display": "1,256 points (#2)",
+          "aliases": [
+            "Gut-Behrami",
+            "Gut",
+            "Lara Gut"
+          ]
+        },
+        {
+          "answer": "Michelle Gisin",
+          "display": "1,130 points (#3)",
+          "aliases": [
+            "Gisin"
+          ]
+        },
+        {
+          "answer": "Mikaela Shiffrin",
+          "display": "1,075 points (#4)",
+          "aliases": [
+            "Shiffrin"
+          ]
+        },
+        {
+          "answer": "Katharina Liensberger",
+          "display": "903 points (#5)",
+          "aliases": [
+            "Liensberger"
+          ]
+        },
+        {
+          "answer": "Marta Bassino",
+          "display": "876 points (#6)",
+          "aliases": [
+            "Bassino"
+          ]
+        },
+        {
+          "answer": "Federica Brignone",
+          "display": "867 points (#7)",
+          "aliases": [
+            "Brignone"
+          ]
+        },
+        {
+          "answer": "Corinne Suter",
+          "display": "753 points (#8)",
+          "aliases": [
+            "Suter"
+          ]
+        },
+        {
+          "answer": "Sofia Goggia",
+          "display": "740 points (#9)",
+          "aliases": [
+            "Goggia"
+          ]
+        },
+        {
+          "answer": "Wendy Holdener",
+          "display": "535 points (#10)",
+          "aliases": [
+            "Holdener"
+          ]
+        },
+        {
+          "answer": "Tamara Tippler",
+          "display": "483 points (#11)",
+          "aliases": [
+            "Tippler"
+          ]
+        },
+        {
+          "answer": "Tessa Worley",
+          "display": "479 points (#12)",
+          "aliases": [
+            "Worley"
+          ]
+        },
+        {
+          "answer": "Ester Ledecká",
+          "display": "453 points (#13)",
+          "aliases": [
+            "Ledecka"
+          ]
+        },
+        {
+          "answer": "Elena Curtoni",
+          "display": "432 points (#14)",
+          "aliases": [
+            "Curtoni"
+          ]
+        },
+        {
+          "answer": "Ramona Siebenhofer",
+          "display": "378 points (#15)",
+          "aliases": [
+            "Siebenhofer"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/winter/alpine-skiing/world-cup-women",
+      "question": "Top 10 women in the overall standings of the 2021–22 Alpine Skiing World Cup",
+      "cutoff": 10,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1333852969 | table 1 | name: Skier | value: Tot",
+      "tags": [
+        "alpine-skiing",
+        "world-cup",
+        "women",
+        "2021–22"
+      ],
+      "answers": [
+        {
+          "answer": "Mikaela Shiffrin",
+          "display": "1,493 points (#1)",
+          "aliases": [
+            "Shiffrin"
+          ]
+        },
+        {
+          "answer": "Petra Vlhová",
+          "display": "1,309 points (#2)",
+          "aliases": [
+            "Vlhova"
+          ]
+        },
+        {
+          "answer": "Federica Brignone",
+          "display": "1,055 points (#3)",
+          "aliases": [
+            "Brignone"
+          ]
+        },
+        {
+          "answer": "Ragnhild Mowinckel",
+          "display": "880 points (#4)",
+          "aliases": [
+            "Mowinckel"
+          ]
+        },
+        {
+          "answer": "Michelle Gisin",
+          "display": "874 points (#5)",
+          "aliases": [
+            "Gisin"
+          ]
+        },
+        {
+          "answer": "Sofia Goggia",
+          "display": "873 points (#6)",
+          "aliases": [
+            "Goggia"
+          ]
+        },
+        {
+          "answer": "Sara Hector",
+          "display": "782 points (#7)",
+          "aliases": [
+            "Hector"
+          ]
+        },
+        {
+          "answer": "Tessa Worley",
+          "display": "747 points (#8)",
+          "aliases": [
+            "Worley"
+          ]
+        },
+        {
+          "answer": "Corinne Suter",
+          "display": "697 points (#9)",
+          "aliases": [
+            "Suter"
+          ]
+        },
+        {
+          "answer": "Marta Bassino",
+          "display": "673 points (#10)",
+          "aliases": [
+            "Bassino"
+          ]
+        },
+        {
+          "answer": "Lara Gut-Behrami",
+          "display": "664 points (#11)",
+          "aliases": [
+            "Gut-Behrami",
+            "Gut",
+            "Lara Gut"
+          ]
+        },
+        {
+          "answer": "Ramona Siebenhofer",
+          "display": "636 points (#12)",
+          "aliases": [
+            "Siebenhofer"
+          ]
+        },
+        {
+          "answer": "Elena Curtoni",
+          "display": "585 points (#13)",
+          "aliases": [
+            "Curtoni"
+          ]
+        },
+        {
+          "answer": "Wendy Holdener",
+          "display": "513 points (#14)",
+          "aliases": [
+            "Holdener"
+          ]
+        },
+        {
+          "answer": "Katharina Liensberger",
+          "display": "511 points (#15)",
+          "aliases": [
+            "Liensberger"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/winter/alpine-skiing/world-cup-women",
+      "question": "Top 10 women in the overall standings of the 2022–23 Alpine Skiing World Cup",
+      "cutoff": 10,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1376979162 | table 1 | name: Skier | value: Tot",
+      "tags": [
+        "alpine-skiing",
+        "world-cup",
+        "women",
+        "2022–23"
+      ],
+      "answers": [
+        {
+          "answer": "Mikaela Shiffrin",
+          "display": "2,206 points (#1)",
+          "aliases": [
+            "Shiffrin"
+          ]
+        },
+        {
+          "answer": "Lara Gut-Behrami",
+          "display": "1,217 points (#2)",
+          "aliases": [
+            "Gut-Behrami",
+            "Gut",
+            "Lara Gut"
+          ]
+        },
+        {
+          "answer": "Petra Vlhová",
+          "display": "1,125 points (#3)",
+          "aliases": [
+            "Vlhova"
+          ]
+        },
+        {
+          "answer": "Federica Brignone",
+          "display": "1,069 points (#4)",
+          "aliases": [
+            "Brignone"
+          ]
+        },
+        {
+          "answer": "Sofia Goggia",
+          "display": "916 points (#5)",
+          "aliases": [
+            "Goggia"
+          ]
+        },
+        {
+          "answer": "Ragnhild Mowinckel",
+          "display": "903 points (#6)",
+          "aliases": [
+            "Mowinckel"
+          ]
+        },
+        {
+          "answer": "Wendy Holdener",
+          "display": "858 points (#7)",
+          "aliases": [
+            "Holdener"
+          ]
+        },
+        {
+          "answer": "Marta Bassino",
+          "display": "749 points (#8)",
+          "aliases": [
+            "Bassino"
+          ]
+        },
+        {
+          "answer": "Elena Curtoni",
+          "display": "666 points (#9)",
+          "aliases": [
+            "Curtoni"
+          ]
+        },
+        {
+          "answer": "Sara Hector",
+          "display": "636 points (#10)",
+          "aliases": [
+            "Hector"
+          ]
+        },
+        {
+          "answer": "Ilka Štuhec",
+          "display": "602 points (#11)",
+          "aliases": [
+            "Stuhec"
+          ]
+        },
+        {
+          "answer": "Corinne Suter",
+          "display": "571 points (#12)",
+          "aliases": [
+            "Suter"
+          ]
+        },
+        {
+          "answer": "Michelle Gisin",
+          "display": "552 points (#13)",
+          "aliases": [
+            "Gisin"
+          ]
+        },
+        {
+          "answer": "Cornelia Hütter",
+          "display": "512 points (#14)",
+          "aliases": [
+            "Hutter"
+          ]
+        },
+        {
+          "answer": "Paula Moltzan",
+          "display": "506 points (#15)",
+          "aliases": [
+            "Moltzan"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/winter/alpine-skiing/world-cup-women",
+      "question": "Top 10 women in the overall standings of the 2023–24 Alpine Skiing World Cup",
+      "cutoff": 10,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1345068209 | table 1 | name: Skier | value: Tot",
+      "tags": [
+        "alpine-skiing",
+        "world-cup",
+        "women",
+        "2023–24"
+      ],
+      "answers": [
+        {
+          "answer": "Lara Gut-Behrami",
+          "display": "1,716 points (#1)",
+          "aliases": [
+            "Gut-Behrami",
+            "Gut",
+            "Lara Gut"
+          ]
+        },
+        {
+          "answer": "Federica Brignone",
+          "display": "1,581 points (#2)",
+          "aliases": [
+            "Brignone"
+          ]
+        },
+        {
+          "answer": "Mikaela Shiffrin",
+          "display": "1,409 points (#3)",
+          "aliases": [
+            "Shiffrin"
+          ]
+        },
+        {
+          "answer": "Sara Hector",
+          "display": "922 points (#4)",
+          "aliases": [
+            "Hector"
+          ]
+        },
+        {
+          "answer": "Cornelia Hütter",
+          "display": "913 points (#5)",
+          "aliases": [
+            "Hutter"
+          ]
+        },
+        {
+          "answer": "Petra Vlhová",
+          "display": "802 points (#6)",
+          "aliases": [
+            "Vlhova"
+          ]
+        },
+        {
+          "answer": "Sofia Goggia",
+          "display": "792 points (#7)",
+          "aliases": [
+            "Goggia"
+          ]
+        },
+        {
+          "answer": "Michelle Gisin",
+          "display": "785 points (#8)",
+          "aliases": [
+            "Gisin"
+          ]
+        },
+        {
+          "answer": "Marta Bassino",
+          "display": "739 points (#9)",
+          "aliases": [
+            "Bassino"
+          ]
+        },
+        {
+          "answer": "Stephanie Venier",
+          "display": "726 points (#10)",
+          "aliases": [
+            "Venier"
+          ]
+        },
+        {
+          "answer": "Ragnhild Mowinckel",
+          "display": "664 points (#11)",
+          "aliases": [
+            "Mowinckel"
+          ]
+        },
+        {
+          "answer": "Alice Robinson",
+          "display": "650 points (#12)",
+          "aliases": [
+            "Robinson"
+          ]
+        },
+        {
+          "answer": "Zrinka Ljutić",
+          "display": "560 points (#13)",
+          "aliases": [
+            "Ljutic"
+          ]
+        },
+        {
+          "answer": "Kajsa Vickhoff Lie",
+          "display": "544 points (#14)",
+          "aliases": [
+            "Vickhoff Lie",
+            "Vickhoff"
+          ]
+        },
+        {
+          "answer": "Mirjam Puchner",
+          "display": "529 points (#15)",
+          "aliases": [
+            "Puchner"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/winter/alpine-skiing/world-cup-women",
+      "question": "Top 10 women in the overall standings of the 2024–25 Alpine Skiing World Cup",
+      "cutoff": 10,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1343865895 | table 1 | name: Skier | value: Tot",
+      "tags": [
+        "alpine-skiing",
+        "world-cup",
+        "women",
+        "2024–25"
+      ],
+      "answers": [
+        {
+          "answer": "Federica Brignone",
+          "display": "1,594 points (#1)",
+          "aliases": [
+            "Brignone"
+          ]
+        },
+        {
+          "answer": "Lara Gut-Behrami",
+          "display": "1,272 points (#2)",
+          "aliases": [
+            "Gut-Behrami",
+            "Gut",
+            "Lara Gut"
+          ]
+        },
+        {
+          "answer": "Sofia Goggia",
+          "display": "931 points (#3)",
+          "aliases": [
+            "Goggia"
+          ]
+        },
+        {
+          "answer": "Zrinka Ljutić",
+          "display": "816 points (#4)",
+          "aliases": [
+            "Ljutic"
+          ]
+        },
+        {
+          "answer": "Sara Hector",
+          "display": "752 points (#5)",
+          "aliases": [
+            "Hector"
+          ]
+        },
+        {
+          "answer": "Camille Rast",
+          "display": "736 points (#6)",
+          "aliases": [
+            "Rast"
+          ]
+        },
+        {
+          "answer": "Alice Robinson",
+          "display": "700 points (#7)",
+          "aliases": [
+            "Robinson"
+          ]
+        },
+        {
+          "answer": "Lara Colturi",
+          "display": "655 points (#8)",
+          "aliases": [
+            "Colturi"
+          ]
+        },
+        {
+          "answer": "Cornelia Hütter",
+          "display": "619 points (#9)",
+          "aliases": [
+            "Hutter"
+          ]
+        },
+        {
+          "answer": "Wendy Holdener",
+          "display": "612 points (#10)",
+          "aliases": [
+            "Holdener"
+          ]
+        },
+        {
+          "answer": "Katharina Liensberger",
+          "display": "563 points (#11)",
+          "aliases": [
+            "Liensberger"
+          ]
+        },
+        {
+          "answer": "Paula Moltzan",
+          "display": "549 points (#12)",
+          "aliases": [
+            "Moltzan"
+          ]
+        },
+        {
+          "answer": "Lena Dürr",
+          "display": "548 points (#13)",
+          "aliases": [
+            "Durr"
+          ]
+        },
+        {
+          "answer": "Kajsa Vickhoff Lie",
+          "display": "547 points (#14)",
+          "aliases": [
+            "Vickhoff Lie",
+            "Vickhoff"
+          ]
+        },
+        {
+          "answer": "Mikaela Shiffrin",
+          "display": "537 points (#15)",
+          "aliases": [
+            "Shiffrin"
+          ]
+        }
+      ]
+    }
+  ]
+}

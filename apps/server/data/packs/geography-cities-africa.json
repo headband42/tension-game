@@ -1,0 +1,290 @@
+{
+  "categories": [
+    {
+      "path": "geography/cities/africa",
+      "name": "African cities"
+    }
+  ],
+  "questions": [
+    {
+      "category": "geography/cities/africa",
+      "difficulty": 1,
+      "question": "Top 10 largest cities in Egypt by 2023 population estimate (city proper, not metro areas)",
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1370830993 | table 1 | name: Name | value: Population (2023 estimate)",
+      "tags": [
+        "geography",
+        "cities",
+        "africa",
+        "egypt",
+        "population"
+      ],
+      "answers": [
+        {
+          "answer": "Cairo",
+          "display": "10,000,000"
+        },
+        {
+          "answer": "Alexandria",
+          "display": "5,362,517",
+          "aliases": [
+            "Alex"
+          ]
+        },
+        {
+          "answer": "Giza",
+          "display": "4,458,135"
+        },
+        {
+          "answer": "Shubra El Kheima",
+          "display": "1,275,700",
+          "aliases": [
+            "shubra"
+          ]
+        },
+        {
+          "answer": "Port Said",
+          "display": "791,749"
+        },
+        {
+          "answer": "Suez",
+          "display": "716,458"
+        },
+        {
+          "answer": "Mansoura",
+          "display": "632,330",
+          "aliases": [
+            "mansura"
+          ]
+        },
+        {
+          "answer": "El Mahalla El Kubra",
+          "display": "614,202",
+          "aliases": [
+            "mahalla",
+            "el mahalla"
+          ]
+        },
+        {
+          "answer": "Tanta",
+          "display": "597,694"
+        },
+        {
+          "answer": "Asyut",
+          "display": "562,061",
+          "aliases": [
+            "assiut"
+          ]
+        },
+        {
+          "answer": "Faiyum",
+          "display": "531,861",
+          "aliases": [
+            "fayoum"
+          ]
+        },
+        {
+          "answer": "Khusus",
+          "display": "502,864"
+        },
+        {
+          "answer": "Zagazig",
+          "display": "460,501",
+          "aliases": [
+            "zagazig"
+          ]
+        },
+        {
+          "answer": "Ismailia",
+          "display": "450,388"
+        },
+        {
+          "answer": "Aswan",
+          "display": "401,890"
+        }
+      ]
+    },
+    {
+      "category": "geography/cities/africa",
+      "difficulty": 1,
+      "question": "Top 10 largest cities in Morocco by 2024 population (city proper, not metro areas)",
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1379768946 | table 1 | name: City | value: Population (2024)",
+      "tags": [
+        "geography",
+        "cities",
+        "africa",
+        "morocco",
+        "population"
+      ],
+      "answers": [
+        {
+          "answer": "Casablanca",
+          "display": "3,218,036",
+          "aliases": [
+            "casa"
+          ]
+        },
+        {
+          "answer": "Tangier",
+          "display": "1,275,428",
+          "aliases": [
+            "tangiers",
+            "tanger"
+          ]
+        },
+        {
+          "answer": "Fez",
+          "display": "1,239,315",
+          "aliases": [
+            "fès",
+            "fes"
+          ]
+        },
+        {
+          "answer": "Marrakesh",
+          "display": "1,014,813",
+          "aliases": [
+            "marrakech"
+          ]
+        },
+        {
+          "answer": "Salé",
+          "display": "945,101",
+          "aliases": [
+            "sale"
+          ]
+        },
+        {
+          "answer": "Meknes",
+          "display": "695,662",
+          "aliases": [
+            "meknès",
+            "mequinez"
+          ]
+        },
+        {
+          "answer": "Rabat",
+          "display": "515,619"
+        },
+        {
+          "answer": "Kenitra",
+          "display": "507,736",
+          "aliases": [
+            "kénitra",
+            "port lyautey"
+          ]
+        },
+        {
+          "answer": "Oujda",
+          "display": "506,224"
+        },
+        {
+          "answer": "Agadir",
+          "display": "504,768"
+        },
+        {
+          "answer": "Tetouan",
+          "display": "422,757",
+          "aliases": [
+            "tétouan",
+            "tetuan"
+          ]
+        },
+        {
+          "answer": "Safi",
+          "display": "323,888"
+        },
+        {
+          "answer": "Dar Bouazza",
+          "display": "302,970",
+          "aliases": [
+            "tamaris"
+          ]
+        },
+        {
+          "answer": "Temara",
+          "display": "297,098",
+          "aliases": [
+            "témara"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "geography/cities/africa",
+      "difficulty": 1,
+      "question": "Top 10 largest cities in Nigeria by 2006 census population (city limits, not metro areas)",
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1375631714 | table 1 | name: City | value: 2006 census | header rows: 2",
+      "tags": [
+        "geography",
+        "cities",
+        "africa",
+        "nigeria",
+        "population"
+      ],
+      "answers": [
+        {
+          "answer": "Lagos",
+          "display": "7,099,490"
+        },
+        {
+          "answer": "Kano",
+          "display": "2,828,861"
+        },
+        {
+          "answer": "Ibadan",
+          "display": "2,559,853"
+        },
+        {
+          "answer": "Benin City",
+          "display": "1,147,188"
+        },
+        {
+          "answer": "Port Harcourt",
+          "display": "1,005,904",
+          "aliases": [
+            "portharcourt"
+          ]
+        },
+        {
+          "answer": "Aba",
+          "display": "1,002,265"
+        },
+        {
+          "answer": "Jos",
+          "display": "821,618"
+        },
+        {
+          "answer": "Ilorin",
+          "display": "777,667"
+        },
+        {
+          "answer": "Abuja",
+          "display": "776,298"
+        },
+        {
+          "answer": "Kaduna",
+          "display": "760,084"
+        },
+        {
+          "answer": "Enugu",
+          "display": "722,664"
+        },
+        {
+          "answer": "Zaria",
+          "display": "695,089"
+        },
+        {
+          "answer": "Ogbomosho",
+          "display": "602,690"
+        },
+        {
+          "answer": "Warri",
+          "display": "557,398"
+        }
+      ]
+    }
+  ]
+}

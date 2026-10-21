@@ -1,0 +1,741 @@
+{
+  "categories": [
+    {
+      "path": "history/wars",
+      "name": "Wars"
+    },
+    {
+      "path": "history/wars/world-wars",
+      "name": "World Wars"
+    },
+    {
+      "path": "history/wars/battles",
+      "name": "Battles and sieges"
+    },
+    {
+      "path": "history/wars/modern-conflicts",
+      "name": "Modern conflicts"
+    },
+    {
+      "path": "history/wars/us-military",
+      "name": "US military"
+    }
+  ],
+  "questions": [
+    {
+      "category": "history/wars/world-wars",
+      "question": "Top 10 countries by military deaths in World War II (all causes; lower estimate where sources give a range)",
+      "cutoff": 10,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1379703619 | table 1 | name: Country | value: Military deaths from all causes | where: Country!~Approx | note: lower estimate of each range",
+      "tags": [
+        "history",
+        "war",
+        "world war ii",
+        "casualties"
+      ],
+      "answers": [
+        {
+          "answer": "Soviet Union",
+          "display": "8,668,000 (lower estimate)",
+          "aliases": [
+            "USSR",
+            "Russia",
+            "Soviet"
+          ]
+        },
+        {
+          "answer": "Germany",
+          "display": "4,440,000 (lower estimate)"
+        },
+        {
+          "answer": "Japan",
+          "display": "2,100,000 (lower estimate)"
+        },
+        {
+          "answer": "China",
+          "display": "2,000,000 (lower estimate)",
+          "aliases": [
+            "Republic of China"
+          ]
+        },
+        {
+          "answer": "United States",
+          "display": "407,300",
+          "aliases": [
+            "US",
+            "USA",
+            "America"
+          ]
+        },
+        {
+          "answer": "United Kingdom",
+          "display": "383,700",
+          "aliases": [
+            "UK",
+            "Britain",
+            "Great Britain"
+          ]
+        },
+        {
+          "answer": "Italy",
+          "display": "319,200 (lower estimate)"
+        },
+        {
+          "answer": "Romania",
+          "display": "300,000"
+        },
+        {
+          "answer": "Yugoslavia",
+          "display": "300,000 (lower estimate)"
+        },
+        {
+          "answer": "Poland",
+          "display": "240,000"
+        },
+        {
+          "answer": "France",
+          "display": "210,000"
+        },
+        {
+          "answer": "Hungary",
+          "display": "200,000"
+        },
+        {
+          "answer": "Finland",
+          "display": "94,700"
+        }
+      ]
+    },
+    {
+      "category": "history/wars/world-wars",
+      "question": "Top 10 countries by total deaths in World War II (military and civilian; lower estimate where sources give a range)",
+      "cutoff": 10,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1379703619 | table 1 | name: Country | value: Total deaths | where: Country!~Approx | note: lower estimate of each range",
+      "tags": [
+        "history",
+        "war",
+        "world war ii",
+        "casualties"
+      ],
+      "answers": [
+        {
+          "answer": "Soviet Union",
+          "display": "20,000,000 (lower estimate)",
+          "aliases": [
+            "USSR",
+            "Russia",
+            "Soviet"
+          ]
+        },
+        {
+          "answer": "China",
+          "display": "14,000,000 (lower estimate)",
+          "aliases": [
+            "Republic of China"
+          ]
+        },
+        {
+          "answer": "Germany",
+          "display": "6,900,000 (lower estimate)"
+        },
+        {
+          "answer": "Poland",
+          "display": "5,900,000 (lower estimate)"
+        },
+        {
+          "answer": "Dutch East Indies",
+          "display": "3,000,000 (lower estimate)",
+          "aliases": [
+            "Indonesia"
+          ]
+        },
+        {
+          "answer": "Japan",
+          "display": "2,500,000 (lower estimate)"
+        },
+        {
+          "answer": "India",
+          "display": "2,200,000 (lower estimate)"
+        },
+        {
+          "answer": "Yugoslavia",
+          "display": "1,027,000 (lower estimate)"
+        },
+        {
+          "answer": "French Indochina",
+          "display": "1,000,000 (lower estimate)"
+        },
+        {
+          "answer": "France",
+          "display": "600,000"
+        },
+        {
+          "answer": "Philippines",
+          "display": "557,000 (lower estimate)"
+        },
+        {
+          "answer": "Greece",
+          "display": "507,000 (lower estimate)"
+        },
+        {
+          "answer": "Romania",
+          "display": "500,000"
+        }
+      ]
+    },
+    {
+      "category": "history/wars/world-wars",
+      "question": "Top 10 countries by military deaths in World War I (all causes; lower estimate where sources give a range)",
+      "cutoff": 10,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1379660262 | table 1 | name: Nation | value: from all causes | where: Nation!~[Tt]otal|Grand|Sub-total|Central|Allied|Neutral | note: lower estimate of each range",
+      "tags": [
+        "history",
+        "war",
+        "world war i",
+        "casualties"
+      ],
+      "answers": [
+        {
+          "answer": "Germany",
+          "display": "2,037,000"
+        },
+        {
+          "answer": "Russia",
+          "display": "1,700,000 (lower estimate)",
+          "aliases": [
+            "Russian Empire"
+          ]
+        },
+        {
+          "answer": "France",
+          "display": "1,357,000 (lower estimate)"
+        },
+        {
+          "answer": "Austria-Hungary",
+          "display": "1,200,000 (lower estimate)",
+          "aliases": [
+            "Austro-Hungarian Empire",
+            "Austria"
+          ]
+        },
+        {
+          "answer": "United Kingdom",
+          "display": "887,858",
+          "aliases": [
+            "UK",
+            "Britain",
+            "Great Britain"
+          ]
+        },
+        {
+          "answer": "Italy",
+          "display": "460,000 (lower estimate)"
+        },
+        {
+          "answer": "Ottoman Empire",
+          "display": "325,000 (lower estimate)",
+          "aliases": [
+            "Turkey",
+            "Ottomans"
+          ]
+        },
+        {
+          "answer": "Serbia",
+          "display": "300,000 (lower estimate)"
+        },
+        {
+          "answer": "Romania",
+          "display": "250,000 (lower estimate)"
+        },
+        {
+          "answer": "United States",
+          "display": "116,708",
+          "aliases": [
+            "US",
+            "USA",
+            "America"
+          ]
+        },
+        {
+          "answer": "Bulgaria",
+          "display": "87,500"
+        },
+        {
+          "answer": "India",
+          "display": "64,449 (lower estimate)"
+        },
+        {
+          "answer": "Australia",
+          "display": "59,330 (lower estimate)"
+        }
+      ]
+    },
+    {
+      "category": "history/wars/modern-conflicts",
+      "question": "Top 10 countries by coalition troops killed in the Gulf War (all causes, including accidents)",
+      "cutoff": 10,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1379165941 | table 1 | name: Country | value: Total",
+      "tags": [
+        "history",
+        "war",
+        "gulf war",
+        "casualties"
+      ],
+      "answers": [
+        {
+          "answer": "United States",
+          "display": "148 killed",
+          "aliases": [
+            "US",
+            "USA",
+            "America"
+          ]
+        },
+        {
+          "answer": "Senegal",
+          "display": "92 killed"
+        },
+        {
+          "answer": "United Kingdom",
+          "display": "47 killed",
+          "aliases": [
+            "UK",
+            "Britain",
+            "Great Britain"
+          ]
+        },
+        {
+          "answer": "Saudi Arabia",
+          "display": "24 killed",
+          "aliases": [
+            "Saudi"
+          ]
+        },
+        {
+          "answer": "Egypt",
+          "display": "11 killed"
+        },
+        {
+          "answer": "France",
+          "display": "9 killed"
+        },
+        {
+          "answer": "United Arab Emirates",
+          "display": "6 killed",
+          "aliases": [
+            "UAE"
+          ]
+        },
+        {
+          "answer": "Qatar",
+          "display": "3 killed"
+        },
+        {
+          "answer": "Syria",
+          "display": "2 killed"
+        },
+        {
+          "answer": "Spain",
+          "display": "2 killed"
+        },
+        {
+          "answer": "Kuwait",
+          "display": "1 killed"
+        },
+        {
+          "answer": "Italy",
+          "display": "1 killed"
+        },
+        {
+          "answer": "Czechoslovakia",
+          "display": "1 killed"
+        }
+      ]
+    },
+    {
+      "category": "history/wars/battles",
+      "question": "Top 10 deadliest World War II battles and sieges by casualties (estimated, low figure)",
+      "cutoff": 10,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1377461273 | table 1 | name: Siege | value: Low | header rows: 2 | where: Conflict=World War II",
+      "tags": [
+        "history",
+        "war",
+        "world war ii",
+        "battles"
+      ],
+      "answers": [
+        {
+          "answer": "Battle of Stalingrad",
+          "display": "1,250,000",
+          "aliases": [
+            "Stalingrad"
+          ]
+        },
+        {
+          "answer": "Siege of Leningrad",
+          "display": "1,117,000",
+          "aliases": [
+            "Leningrad"
+          ]
+        },
+        {
+          "answer": "Battle of Berlin",
+          "display": "1,057,665",
+          "aliases": [
+            "Berlin"
+          ]
+        },
+        {
+          "answer": "Battle of Kiev",
+          "display": "761,783",
+          "aliases": [
+            "Kyiv",
+            "Kiev"
+          ]
+        },
+        {
+          "answer": "First Battle of Voronezh",
+          "display": "662,847",
+          "aliases": [
+            "Voronezh"
+          ]
+        },
+        {
+          "answer": "Siege of Budapest",
+          "display": "422,000",
+          "aliases": [
+            "Budapest"
+          ]
+        },
+        {
+          "answer": "Second Siege of Sevastopol",
+          "display": "236,437",
+          "aliases": [
+            "Sevastopol"
+          ]
+        },
+        {
+          "answer": "Siege of Warsaw",
+          "display": "206,000"
+        },
+        {
+          "answer": "Warsaw Uprising",
+          "display": "200,000+"
+        },
+        {
+          "answer": "Battle of the Bulge",
+          "display": "161,370",
+          "aliases": [
+            "Ardennes Offensive",
+            "Bulge"
+          ]
+        },
+        {
+          "answer": "Siege of Odessa",
+          "display": "133,813",
+          "aliases": [
+            "Odessa"
+          ]
+        },
+        {
+          "answer": "Battle of Okinawa",
+          "display": "130,000",
+          "aliases": [
+            "Okinawa"
+          ]
+        },
+        {
+          "answer": "Battle of West Hubei",
+          "display": "115,830"
+        }
+      ]
+    },
+    {
+      "category": "history/wars/battles",
+      "question": "Top 10 deadliest naval battles of the 20th century by casualties (battles dated 1900–1999; estimated casualties)",
+      "cutoff": 10,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1377461273 | table 5 | name: Battle or Action | value: Casualties | where: Year~^19[0-9][0-9]$",
+      "tags": [
+        "history",
+        "war",
+        "naval",
+        "battles"
+      ],
+      "answers": [
+        {
+          "answer": "Battle of Leyte Gulf",
+          "display": "15,500",
+          "aliases": [
+            "Leyte Gulf",
+            "Leyte"
+          ]
+        },
+        {
+          "answer": "Battle of Jutland",
+          "display": "12,000",
+          "aliases": [
+            "Jutland"
+          ]
+        },
+        {
+          "answer": "Battle of Tsushima",
+          "display": "5,162",
+          "aliases": [
+            "Tsushima"
+          ]
+        },
+        {
+          "answer": "Battle of Midway",
+          "display": "3,364",
+          "aliases": [
+            "Midway"
+          ]
+        },
+        {
+          "answer": "Battle of the Bismarck Sea",
+          "display": "2,903",
+          "aliases": [
+            "Bismarck Sea"
+          ]
+        },
+        {
+          "answer": "Battle of the Java Sea",
+          "display": "2,336",
+          "aliases": [
+            "Java Sea"
+          ]
+        },
+        {
+          "answer": "Battle of Cape Matapan",
+          "display": "2,303",
+          "aliases": [
+            "Matapan"
+          ]
+        },
+        {
+          "answer": "Sinking of the Bismarck",
+          "display": "2,249",
+          "aliases": [
+            "Last battle of Bismarck",
+            "Sinking of Bismarck"
+          ]
+        },
+        {
+          "answer": "Battle of the Falkland Islands",
+          "display": "1,900",
+          "aliases": [
+            "Falklands"
+          ]
+        },
+        {
+          "answer": "Attack on Mers-el-Kébir",
+          "display": "1,669",
+          "aliases": [
+            "Mers-el-Kebir"
+          ]
+        },
+        {
+          "answer": "Operation Juno",
+          "display": "1,662"
+        },
+        {
+          "answer": "Battle of Coronel",
+          "display": "1,660",
+          "aliases": [
+            "Coronel"
+          ]
+        },
+        {
+          "answer": "Battle of Savo Island",
+          "display": "1,217",
+          "aliases": [
+            "Savo Island"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "history/wars/us-military",
+      "question": "Top 10 US conflicts by number of Medal of Honor awards (combat conflicts only; non-combat incidents and unknown soldiers excluded)",
+      "cutoff": 10,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1378208557 | table 1 | name: Conflict | value: Medal count | where: Conflict!~Noncombat|Unknown",
+      "tags": [
+        "history",
+        "war",
+        "medal of honor",
+        "united states"
+      ],
+      "answers": [
+        {
+          "answer": "American Civil War",
+          "display": "1,523 medals",
+          "aliases": [
+            "Civil War"
+          ]
+        },
+        {
+          "answer": "World War II",
+          "display": "472 medals",
+          "aliases": [
+            "WWII",
+            "WW2",
+            "World War 2",
+            "Second World War"
+          ]
+        },
+        {
+          "answer": "Indian Wars",
+          "display": "426 medals"
+        },
+        {
+          "answer": "Vietnam War",
+          "display": "268 medals",
+          "aliases": [
+            "Vietnam"
+          ]
+        },
+        {
+          "answer": "Korean War",
+          "display": "146 medals"
+        },
+        {
+          "answer": "World War I",
+          "display": "126 medals",
+          "aliases": [
+            "WWI",
+            "WW1",
+            "First World War"
+          ]
+        },
+        {
+          "answer": "Spanish–American War",
+          "display": "110 medals",
+          "aliases": [
+            "Spanish-American War"
+          ]
+        },
+        {
+          "answer": "Philippine–American War",
+          "display": "86 medals",
+          "aliases": [
+            "Philippine-American War"
+          ]
+        },
+        {
+          "answer": "Boxer Rebellion",
+          "display": "59 medals"
+        },
+        {
+          "answer": "Occupation of Veracruz",
+          "display": "56 medals",
+          "aliases": [
+            "Veracruz"
+          ]
+        },
+        {
+          "answer": "War in Afghanistan",
+          "display": "20 medals",
+          "aliases": [
+            "Afghanistan"
+          ]
+        },
+        {
+          "answer": "Korean Expedition",
+          "display": "15 medals"
+        },
+        {
+          "answer": "United States occupation of Haiti",
+          "display": "8 medals",
+          "aliases": [
+            "Haiti"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "history/wars/modern-conflicts",
+      "question": "Top 10 US states by estimated US military deaths in World War II (by home state)",
+      "cutoff": 10,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1379703619 | table 4 | name: USA State | value: Military deaths | where: USA State!~Total",
+      "tags": [
+        "history",
+        "war",
+        "world war ii",
+        "united states"
+      ],
+      "answers": [
+        {
+          "answer": "New York",
+          "display": "31,215",
+          "aliases": [
+            "NY"
+          ]
+        },
+        {
+          "answer": "Pennsylvania",
+          "display": "26,554"
+        },
+        {
+          "answer": "Illinois",
+          "display": "18,601"
+        },
+        {
+          "answer": "California",
+          "display": "17,022"
+        },
+        {
+          "answer": "Ohio",
+          "display": "16,828"
+        },
+        {
+          "answer": "Texas",
+          "display": "15,764"
+        },
+        {
+          "answer": "Michigan",
+          "display": "12,885"
+        },
+        {
+          "answer": "New Jersey",
+          "display": "10,372"
+        },
+        {
+          "answer": "Massachusetts",
+          "display": "10,033"
+        },
+        {
+          "answer": "Indiana",
+          "display": "8,131"
+        },
+        {
+          "answer": "Missouri",
+          "display": "8,003"
+        },
+        {
+          "answer": "North Carolina",
+          "display": "7,109"
+        },
+        {
+          "answer": "Wisconsin",
+          "display": "7,038"
+        }
+      ]
+    }
+  ]
+}

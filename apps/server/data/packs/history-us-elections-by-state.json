@@ -1,0 +1,2320 @@
+{
+  "categories": [
+    {
+      "path": "history/us-presidents/elections/by-state",
+      "name": "Election Results by State"
+    }
+  ],
+  "questions": [
+    {
+      "category": "history/us-presidents/elections/by-state",
+      "question": "Top 10 states where John F. Kennedy won his highest share of the vote in the 1960 US presidential election",
+      "cutoff": 10,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1378662341 | table 7 | name: State | value: Kennedy Democratic / % | header rows: 2 | where: State!~-[0-9]|District|Columbia|D\\. ?C\\.|Total|'s",
+      "tags": [
+        "history",
+        "us-presidents",
+        "elections"
+      ],
+      "answers": [
+        {
+          "answer": "Rhode Island",
+          "display": "63.63%"
+        },
+        {
+          "answer": "Georgia",
+          "display": "62.54%"
+        },
+        {
+          "answer": "Massachusetts",
+          "display": "60.22%"
+        },
+        {
+          "answer": "Alabama",
+          "display": "55.82%"
+        },
+        {
+          "answer": "Connecticut",
+          "display": "53.73%"
+        },
+        {
+          "answer": "Maryland",
+          "display": "53.61%"
+        },
+        {
+          "answer": "West Virginia",
+          "display": "52.73%"
+        },
+        {
+          "answer": "New York",
+          "display": "52.53%"
+        },
+        {
+          "answer": "North Carolina",
+          "display": "52.11%"
+        },
+        {
+          "answer": "South Carolina",
+          "display": "51.24%"
+        },
+        {
+          "answer": "Nevada",
+          "display": "51.16%"
+        },
+        {
+          "answer": "Pennsylvania",
+          "display": "51.06%"
+        },
+        {
+          "answer": "Michigan",
+          "display": "50.85%"
+        },
+        {
+          "answer": "Delaware",
+          "display": "50.63%"
+        }
+      ]
+    },
+    {
+      "category": "history/us-presidents/elections/by-state",
+      "question": "Top 10 states where Richard Nixon won his highest share of the vote in the 1960 US presidential election",
+      "cutoff": 10,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1378662341 | table 7 | name: State | value: Nixon Republican / % | header rows: 2 | where: State!~-[0-9]|District|Columbia|D\\. ?C\\.|Total|'s",
+      "tags": [
+        "history",
+        "us-presidents",
+        "elections"
+      ],
+      "answers": [
+        {
+          "answer": "Nebraska",
+          "display": "62.07%"
+        },
+        {
+          "answer": "Kansas",
+          "display": "60.45%"
+        },
+        {
+          "answer": "Oklahoma",
+          "display": "59.02%"
+        },
+        {
+          "answer": "Vermont",
+          "display": "58.65%"
+        },
+        {
+          "answer": "South Dakota",
+          "display": "58.21%"
+        },
+        {
+          "answer": "Maine",
+          "display": "57.05%"
+        },
+        {
+          "answer": "Iowa",
+          "display": "56.71%"
+        },
+        {
+          "answer": "Arizona",
+          "display": "55.52%"
+        },
+        {
+          "answer": "North Dakota",
+          "display": "55.42%"
+        },
+        {
+          "answer": "Indiana",
+          "display": "55.03%"
+        },
+        {
+          "answer": "Wyoming",
+          "display": "55.01%"
+        },
+        {
+          "answer": "Utah",
+          "display": "54.81%"
+        },
+        {
+          "answer": "Colorado",
+          "display": "54.63%"
+        },
+        {
+          "answer": "Idaho",
+          "display": "53.78%"
+        }
+      ]
+    },
+    {
+      "category": "history/us-presidents/elections/by-state",
+      "question": "Top 10 states where Lyndon B. Johnson won his highest share of the vote in the 1964 US presidential election",
+      "cutoff": 10,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1377821495 | table 7 | name: State | value: Johnson Democratic / % | header rows: 2 | where: State!~-[0-9]|District|Columbia|D\\. ?C\\.|Total|'s",
+      "tags": [
+        "history",
+        "us-presidents",
+        "elections"
+      ],
+      "answers": [
+        {
+          "answer": "Rhode Island",
+          "display": "80.87%"
+        },
+        {
+          "answer": "Hawaii",
+          "display": "78.76%"
+        },
+        {
+          "answer": "Massachusetts",
+          "display": "76.19%"
+        },
+        {
+          "answer": "Maine",
+          "display": "68.84%"
+        },
+        {
+          "answer": "New York",
+          "display": "68.56%"
+        },
+        {
+          "answer": "West Virginia",
+          "display": "67.94%"
+        },
+        {
+          "answer": "Connecticut",
+          "display": "67.81%"
+        },
+        {
+          "answer": "Michigan",
+          "display": "66.70%"
+        },
+        {
+          "answer": "Vermont",
+          "display": "66.30%"
+        },
+        {
+          "answer": "Alaska",
+          "display": "65.91%"
+        },
+        {
+          "answer": "New Jersey",
+          "display": "65.61%"
+        },
+        {
+          "answer": "Maryland",
+          "display": "65.47%"
+        },
+        {
+          "answer": "Pennsylvania",
+          "display": "64.92%"
+        },
+        {
+          "answer": "Missouri",
+          "display": "64.05%"
+        }
+      ]
+    },
+    {
+      "category": "history/us-presidents/elections/by-state",
+      "question": "Top 10 states where Barry Goldwater won his highest share of the vote in the 1964 US presidential election",
+      "cutoff": 10,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1377821495 | table 7 | name: State | value: Goldwater Republican / % | header rows: 2 | where: State!~-[0-9]|District|Columbia|D\\. ?C\\.|Total|'s",
+      "tags": [
+        "history",
+        "us-presidents",
+        "elections"
+      ],
+      "answers": [
+        {
+          "answer": "Mississippi",
+          "display": "87.14%"
+        },
+        {
+          "answer": "Alabama",
+          "display": "69.45%"
+        },
+        {
+          "answer": "South Carolina",
+          "display": "58.89%"
+        },
+        {
+          "answer": "Louisiana",
+          "display": "56.81%"
+        },
+        {
+          "answer": "Georgia",
+          "display": "54.12%"
+        },
+        {
+          "answer": "Arizona",
+          "display": "50.45%"
+        },
+        {
+          "answer": "Idaho",
+          "display": "49.08%"
+        },
+        {
+          "answer": "Florida",
+          "display": "48.85%"
+        },
+        {
+          "answer": "Nebraska",
+          "display": "47.39%"
+        },
+        {
+          "answer": "Virginia",
+          "display": "46.18%"
+        },
+        {
+          "answer": "Utah",
+          "display": "45.14%"
+        },
+        {
+          "answer": "Kansas",
+          "display": "45.06%"
+        },
+        {
+          "answer": "Tennessee",
+          "display": "44.49%"
+        },
+        {
+          "answer": "South Dakota",
+          "display": "44.39%"
+        }
+      ]
+    },
+    {
+      "category": "history/us-presidents/elections/by-state",
+      "question": "Top 10 states where Hubert H. Humphrey won his highest share of the vote in the 1968 US presidential election",
+      "cutoff": 10,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1378889716 | table 12 | name: State | value: Humphrey Democratic / % | header rows: 2 | where: State!~-[0-9]|District|Columbia|D\\. ?C\\.|Total|'s",
+      "tags": [
+        "history",
+        "us-presidents",
+        "elections"
+      ],
+      "answers": [
+        {
+          "answer": "Rhode Island",
+          "display": "64.03%"
+        },
+        {
+          "answer": "Massachusetts",
+          "display": "63.01%"
+        },
+        {
+          "answer": "Hawaii",
+          "display": "59.83%"
+        },
+        {
+          "answer": "Maine",
+          "display": "55.30%"
+        },
+        {
+          "answer": "Minnesota",
+          "display": "54.00%"
+        },
+        {
+          "answer": "New York",
+          "display": "49.76%"
+        },
+        {
+          "answer": "West Virginia",
+          "display": "49.60%"
+        },
+        {
+          "answer": "Connecticut",
+          "display": "49.48%"
+        },
+        {
+          "answer": "Michigan",
+          "display": "48.18%"
+        },
+        {
+          "answer": "Pennsylvania",
+          "display": "47.59%"
+        },
+        {
+          "answer": "Washington",
+          "display": "47.23%"
+        },
+        {
+          "answer": "California",
+          "display": "44.74%"
+        },
+        {
+          "answer": "Wisconsin",
+          "display": "44.27%"
+        },
+        {
+          "answer": "Illinois",
+          "display": "44.15%"
+        }
+      ]
+    },
+    {
+      "category": "history/us-presidents/elections/by-state",
+      "question": "Top 10 states where Richard Nixon won his highest share of the vote in the 1968 US presidential election",
+      "cutoff": 10,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1378889716 | table 12 | name: State | value: Nixon Republican / % | header rows: 2 | where: State!~-[0-9]|District|Columbia|D\\. ?C\\.|Total|'s",
+      "tags": [
+        "history",
+        "us-presidents",
+        "elections"
+      ],
+      "answers": [
+        {
+          "answer": "Nebraska",
+          "display": "59.82%"
+        },
+        {
+          "answer": "Idaho",
+          "display": "56.79%"
+        },
+        {
+          "answer": "Utah",
+          "display": "56.49%"
+        },
+        {
+          "answer": "North Dakota",
+          "display": "55.94%"
+        },
+        {
+          "answer": "Wyoming",
+          "display": "55.76%"
+        },
+        {
+          "answer": "Kansas",
+          "display": "54.84%"
+        },
+        {
+          "answer": "Arizona",
+          "display": "54.78%"
+        },
+        {
+          "answer": "South Dakota",
+          "display": "53.27%"
+        },
+        {
+          "answer": "Iowa",
+          "display": "53.01%"
+        },
+        {
+          "answer": "Vermont",
+          "display": "52.75%"
+        },
+        {
+          "answer": "New Hampshire",
+          "display": "52.10%"
+        },
+        {
+          "answer": "New Mexico",
+          "display": "51.85%"
+        },
+        {
+          "answer": "Montana",
+          "display": "50.60%"
+        },
+        {
+          "answer": "Colorado",
+          "display": "50.46%"
+        }
+      ]
+    },
+    {
+      "category": "history/us-presidents/elections/by-state",
+      "question": "Top 10 states where George McGovern won his highest share of the vote in the 1972 US presidential election",
+      "cutoff": 10,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1379452602 | table 11 | name: State or district | value: McGovern/Shriver Democratic / % | header rows: 2 | where: State or district!~-[0-9]|District|Columbia|D\\. ?C\\.|Total|'s",
+      "tags": [
+        "history",
+        "us-presidents",
+        "elections"
+      ],
+      "answers": [
+        {
+          "answer": "Massachusetts",
+          "display": "54.20%"
+        },
+        {
+          "answer": "Rhode Island",
+          "display": "46.81%"
+        },
+        {
+          "answer": "Minnesota",
+          "display": "46.07%"
+        },
+        {
+          "answer": "South Dakota",
+          "display": "45.52%"
+        },
+        {
+          "answer": "Wisconsin",
+          "display": "43.72%"
+        },
+        {
+          "answer": "Oregon",
+          "display": "42.33%"
+        },
+        {
+          "answer": "Michigan",
+          "display": "41.81%"
+        },
+        {
+          "answer": "California",
+          "display": "41.54%"
+        },
+        {
+          "answer": "New York",
+          "display": "41.21%"
+        },
+        {
+          "answer": "Illinois",
+          "display": "40.51%"
+        },
+        {
+          "answer": "Iowa",
+          "display": "40.48%"
+        },
+        {
+          "answer": "Connecticut",
+          "display": "40.13%"
+        },
+        {
+          "answer": "Delaware",
+          "display": "39.18%"
+        },
+        {
+          "answer": "Pennsylvania",
+          "display": "39.13%"
+        }
+      ]
+    },
+    {
+      "category": "history/us-presidents/elections/by-state",
+      "question": "Top 10 states where Richard Nixon won his highest share of the vote in the 1972 US presidential election",
+      "cutoff": 10,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1379452602 | table 11 | name: State or district | value: Nixon/Agnew Republican / % | header rows: 2 | where: State or district!~-[0-9]|District|Columbia|D\\. ?C\\.|Total|'s",
+      "tags": [
+        "history",
+        "us-presidents",
+        "elections"
+      ],
+      "answers": [
+        {
+          "answer": "Mississippi",
+          "display": "78.20%"
+        },
+        {
+          "answer": "Georgia",
+          "display": "75.04%"
+        },
+        {
+          "answer": "Oklahoma",
+          "display": "73.70%"
+        },
+        {
+          "answer": "Alabama",
+          "display": "72.43%"
+        },
+        {
+          "answer": "Florida",
+          "display": "71.91%"
+        },
+        {
+          "answer": "South Carolina",
+          "display": "70.58%"
+        },
+        {
+          "answer": "Nebraska",
+          "display": "70.50%"
+        },
+        {
+          "answer": "North Carolina",
+          "display": "69.46%"
+        },
+        {
+          "answer": "Wyoming",
+          "display": "69.01%"
+        },
+        {
+          "answer": "Arkansas",
+          "display": "68.82%"
+        },
+        {
+          "answer": "Virginia",
+          "display": "67.84%"
+        },
+        {
+          "answer": "Tennessee",
+          "display": "67.70%"
+        },
+        {
+          "answer": "Kansas",
+          "display": "67.66%"
+        },
+        {
+          "answer": "Utah",
+          "display": "67.64%"
+        }
+      ]
+    },
+    {
+      "category": "history/us-presidents/elections/by-state",
+      "question": "Top 10 states where Jimmy Carter won his highest share of the vote in the 1976 US presidential election",
+      "cutoff": 10,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1378810871 | table 9 | name: State | value: Carter Democratic / % | header rows: 2 | where: State!~-[0-9]|District|Columbia|D\\. ?C\\.|Total|'s",
+      "tags": [
+        "history",
+        "us-presidents",
+        "elections"
+      ],
+      "answers": [
+        {
+          "answer": "Georgia",
+          "display": "66.74%"
+        },
+        {
+          "answer": "Arkansas",
+          "display": "64.94%"
+        },
+        {
+          "answer": "West Virginia",
+          "display": "58.07%"
+        },
+        {
+          "answer": "South Carolina",
+          "display": "56.17%"
+        },
+        {
+          "answer": "Massachusetts",
+          "display": "56.11%"
+        },
+        {
+          "answer": "Tennessee",
+          "display": "55.94%"
+        },
+        {
+          "answer": "Alabama",
+          "display": "55.73%"
+        },
+        {
+          "answer": "Rhode Island",
+          "display": "55.36%"
+        },
+        {
+          "answer": "North Carolina",
+          "display": "55.27%"
+        },
+        {
+          "answer": "Minnesota",
+          "display": "54.90%"
+        },
+        {
+          "answer": "Maryland",
+          "display": "53.04%"
+        },
+        {
+          "answer": "Kentucky",
+          "display": "52.75%"
+        },
+        {
+          "answer": "Delaware",
+          "display": "51.98%"
+        },
+        {
+          "answer": "New York",
+          "display": "51.95%"
+        }
+      ]
+    },
+    {
+      "category": "history/us-presidents/elections/by-state",
+      "question": "Top 10 states where Gerald Ford won his highest share of the vote in the 1976 US presidential election",
+      "cutoff": 10,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1378810871 | table 9 | name: State | value: Ford Republican / % | header rows: 2 | where: State!~-[0-9]|District|Columbia|D\\. ?C\\.|Total|'s",
+      "tags": [
+        "history",
+        "us-presidents",
+        "elections"
+      ],
+      "answers": [
+        {
+          "answer": "Utah",
+          "display": "62.44%"
+        },
+        {
+          "answer": "Idaho",
+          "display": "59.88%"
+        },
+        {
+          "answer": "Wyoming",
+          "display": "59.30%"
+        },
+        {
+          "answer": "Nebraska",
+          "display": "59.19%"
+        },
+        {
+          "answer": "Alaska",
+          "display": "57.90%"
+        },
+        {
+          "answer": "Arizona",
+          "display": "56.37%"
+        },
+        {
+          "answer": "New Hampshire",
+          "display": "54.75%"
+        },
+        {
+          "answer": "Vermont",
+          "display": "54.34%"
+        },
+        {
+          "answer": "Colorado",
+          "display": "54.05%"
+        },
+        {
+          "answer": "Indiana",
+          "display": "53.32%"
+        },
+        {
+          "answer": "Montana",
+          "display": "52.84%"
+        },
+        {
+          "answer": "Kansas",
+          "display": "52.49%"
+        },
+        {
+          "answer": "Connecticut",
+          "display": "52.06%"
+        },
+        {
+          "answer": "Michigan",
+          "display": "51.83%"
+        }
+      ]
+    },
+    {
+      "category": "history/us-presidents/elections/by-state",
+      "question": "Top 10 states where Ronald Reagan won his highest share of the vote in the 1980 US presidential election",
+      "cutoff": 10,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1378523115 | table 10 | name: State | value: Reagan Republican / % | header rows: 2 | where: State!~-[0-9]|District|Columbia|D\\. ?C\\.|Total|'s",
+      "tags": [
+        "history",
+        "us-presidents",
+        "elections"
+      ],
+      "answers": [
+        {
+          "answer": "Utah",
+          "display": "72.77%"
+        },
+        {
+          "answer": "Idaho",
+          "display": "66.46%"
+        },
+        {
+          "answer": "Nebraska",
+          "display": "65.53%"
+        },
+        {
+          "answer": "North Dakota",
+          "display": "64.23%"
+        },
+        {
+          "answer": "Wyoming",
+          "display": "62.64%"
+        },
+        {
+          "answer": "Nevada",
+          "display": "62.54%"
+        },
+        {
+          "answer": "Arizona",
+          "display": "60.61%"
+        },
+        {
+          "answer": "South Dakota",
+          "display": "60.53%"
+        },
+        {
+          "answer": "Oklahoma",
+          "display": "60.50%"
+        },
+        {
+          "answer": "Kansas",
+          "display": "57.85%"
+        },
+        {
+          "answer": "New Hampshire",
+          "display": "57.74%"
+        },
+        {
+          "answer": "Montana",
+          "display": "56.82%"
+        },
+        {
+          "answer": "Indiana",
+          "display": "56.01%"
+        },
+        {
+          "answer": "Florida",
+          "display": "55.52%"
+        }
+      ]
+    },
+    {
+      "category": "history/us-presidents/elections/by-state",
+      "question": "Top 10 states where Walter Mondale won his highest share of the vote in the 1984 US presidential election",
+      "cutoff": 10,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1379593234 | table 10 | name: State | value: Mondale Democratic / % | header rows: 2 | where: State!~-[0-9]|District|Columbia|D\\. ?C\\.|Total|'s",
+      "tags": [
+        "history",
+        "us-presidents",
+        "elections"
+      ],
+      "answers": [
+        {
+          "answer": "Minnesota",
+          "display": "49.72%"
+        },
+        {
+          "answer": "Massachusetts",
+          "display": "48.43%"
+        },
+        {
+          "answer": "Rhode Island",
+          "display": "48.02%"
+        },
+        {
+          "answer": "Maryland",
+          "display": "47.02%"
+        },
+        {
+          "answer": "Pennsylvania",
+          "display": "45.99%"
+        },
+        {
+          "answer": "Iowa",
+          "display": "45.89%"
+        },
+        {
+          "answer": "New York",
+          "display": "45.83%"
+        },
+        {
+          "answer": "Wisconsin",
+          "display": "45.02%"
+        },
+        {
+          "answer": "West Virginia",
+          "display": "44.60%"
+        },
+        {
+          "answer": "Hawaii",
+          "display": "43.82%"
+        },
+        {
+          "answer": "Oregon",
+          "display": "43.74%"
+        },
+        {
+          "answer": "Illinois",
+          "display": "43.30%"
+        },
+        {
+          "answer": "Washington",
+          "display": "42.86%"
+        },
+        {
+          "answer": "Tennessee",
+          "display": "41.57%"
+        }
+      ]
+    },
+    {
+      "category": "history/us-presidents/elections/by-state",
+      "question": "Top 10 states where Ronald Reagan won his highest share of the vote in the 1984 US presidential election",
+      "cutoff": 10,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1379593234 | table 10 | name: State | value: Reagan Republican / % | header rows: 2 | where: State!~-[0-9]|District|Columbia|D\\. ?C\\.|Total|'s",
+      "tags": [
+        "history",
+        "us-presidents",
+        "elections"
+      ],
+      "answers": [
+        {
+          "answer": "Utah",
+          "display": "74.50%"
+        },
+        {
+          "answer": "Idaho",
+          "display": "72.36%"
+        },
+        {
+          "answer": "Nebraska",
+          "display": "70.55%"
+        },
+        {
+          "answer": "Wyoming",
+          "display": "70.51%"
+        },
+        {
+          "answer": "New Hampshire",
+          "display": "68.66%"
+        },
+        {
+          "answer": "Oklahoma",
+          "display": "68.61%"
+        },
+        {
+          "answer": "Alaska",
+          "display": "66.65%"
+        },
+        {
+          "answer": "Arizona",
+          "display": "66.42%"
+        },
+        {
+          "answer": "Kansas",
+          "display": "66.27%"
+        },
+        {
+          "answer": "Nevada",
+          "display": "65.85%"
+        },
+        {
+          "answer": "Florida",
+          "display": "65.32%"
+        },
+        {
+          "answer": "North Dakota",
+          "display": "64.84%"
+        },
+        {
+          "answer": "Texas",
+          "display": "63.61%"
+        },
+        {
+          "answer": "South Carolina",
+          "display": "63.55%"
+        }
+      ]
+    },
+    {
+      "category": "history/us-presidents/elections/by-state",
+      "question": "Top 10 states where Michael Dukakis won his highest share of the vote in the 1988 US presidential election",
+      "cutoff": 10,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1378875106 | table 10 | name: Source: / State | value: Dukakis Democratic / % | header rows: 2 | where: Source: / State!~-[0-9]|District|Columbia|D\\. ?C\\.|Total|'s",
+      "tags": [
+        "history",
+        "us-presidents",
+        "elections"
+      ],
+      "answers": [
+        {
+          "answer": "Rhode Island",
+          "display": "55.64%"
+        },
+        {
+          "answer": "Iowa",
+          "display": "54.71%"
+        },
+        {
+          "answer": "Hawaii",
+          "display": "54.27%"
+        },
+        {
+          "answer": "Massachusetts",
+          "display": "53.23%"
+        },
+        {
+          "answer": "Minnesota",
+          "display": "52.91%"
+        },
+        {
+          "answer": "West Virginia",
+          "display": "52.20%"
+        },
+        {
+          "answer": "New York",
+          "display": "51.62%"
+        },
+        {
+          "answer": "Wisconsin",
+          "display": "51.41%"
+        },
+        {
+          "answer": "Oregon",
+          "display": "51.28%"
+        },
+        {
+          "answer": "Washington",
+          "display": "50.05%"
+        },
+        {
+          "answer": "Illinois",
+          "display": "48.60%"
+        },
+        {
+          "answer": "Pennsylvania",
+          "display": "48.39%"
+        },
+        {
+          "answer": "Maryland",
+          "display": "48.20%"
+        },
+        {
+          "answer": "Missouri",
+          "display": "47.85%"
+        }
+      ]
+    },
+    {
+      "category": "history/us-presidents/elections/by-state",
+      "question": "Top 10 states where George H.W. Bush won his highest share of the vote in the 1988 US presidential election",
+      "cutoff": 10,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1378875106 | table 10 | name: Source: / State | value: Bush Republican / % | header rows: 2 | where: Source: / State!~-[0-9]|District|Columbia|D\\. ?C\\.|Total|'s",
+      "tags": [
+        "history",
+        "us-presidents",
+        "elections"
+      ],
+      "answers": [
+        {
+          "answer": "Utah",
+          "display": "66.22%"
+        },
+        {
+          "answer": "New Hampshire",
+          "display": "62.49%"
+        },
+        {
+          "answer": "Idaho",
+          "display": "62.08%"
+        },
+        {
+          "answer": "South Carolina",
+          "display": "61.50%"
+        },
+        {
+          "answer": "Florida",
+          "display": "60.87%"
+        },
+        {
+          "answer": "Wyoming",
+          "display": "60.53%"
+        },
+        {
+          "answer": "Nebraska",
+          "display": "60.15%"
+        },
+        {
+          "answer": "Arizona",
+          "display": "59.95%"
+        },
+        {
+          "answer": "Mississippi",
+          "display": "59.89%"
+        },
+        {
+          "answer": "Indiana",
+          "display": "59.84%"
+        },
+        {
+          "answer": "Georgia",
+          "display": "59.75%"
+        },
+        {
+          "answer": "Virginia",
+          "display": "59.74%"
+        },
+        {
+          "answer": "Alaska",
+          "display": "59.59%"
+        },
+        {
+          "answer": "Alabama",
+          "display": "59.17%"
+        }
+      ]
+    },
+    {
+      "category": "history/us-presidents/elections/by-state",
+      "question": "Top 10 states where Bill Clinton won his highest share of the vote in the 1992 US presidential election",
+      "cutoff": 10,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1379360256 | table 11 | name: State | value: Clinton Democratic / % | header rows: 3 | where: State!~-[0-9]|District|Columbia|D\\. ?C\\.|Total|'s",
+      "tags": [
+        "history",
+        "us-presidents",
+        "elections"
+      ],
+      "answers": [
+        {
+          "answer": "Arkansas",
+          "display": "53.21%"
+        },
+        {
+          "answer": "Maryland",
+          "display": "49.80%"
+        },
+        {
+          "answer": "New York",
+          "display": "49.72%"
+        },
+        {
+          "answer": "Illinois",
+          "display": "48.58%"
+        },
+        {
+          "answer": "West Virginia",
+          "display": "48.41%"
+        },
+        {
+          "answer": "Hawaii",
+          "display": "48.09%"
+        },
+        {
+          "answer": "Massachusetts",
+          "display": "47.54%"
+        },
+        {
+          "answer": "Tennessee",
+          "display": "47.08%"
+        },
+        {
+          "answer": "Rhode Island",
+          "display": "47.04%"
+        },
+        {
+          "answer": "Vermont",
+          "display": "46.11%"
+        },
+        {
+          "answer": "California",
+          "display": "46.01%"
+        },
+        {
+          "answer": "New Mexico",
+          "display": "45.90%"
+        },
+        {
+          "answer": "Louisiana",
+          "display": "45.58%"
+        },
+        {
+          "answer": "Pennsylvania",
+          "display": "45.15%"
+        }
+      ]
+    },
+    {
+      "category": "history/us-presidents/elections/by-state",
+      "question": "Top 10 states where George H.W. Bush won his highest share of the vote in the 1992 US presidential election",
+      "cutoff": 10,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1379360256 | table 11 | name: State | value: Bush Republican / % | header rows: 3 | where: State!~-[0-9]|District|Columbia|D\\. ?C\\.|Total|'s",
+      "tags": [
+        "history",
+        "us-presidents",
+        "elections"
+      ],
+      "answers": [
+        {
+          "answer": "Mississippi",
+          "display": "49.68%"
+        },
+        {
+          "answer": "South Carolina",
+          "display": "48.02%"
+        },
+        {
+          "answer": "Alabama",
+          "display": "47.65%"
+        },
+        {
+          "answer": "Nebraska",
+          "display": "46.58%"
+        },
+        {
+          "answer": "Virginia",
+          "display": "44.97%"
+        },
+        {
+          "answer": "North Dakota",
+          "display": "44.22%"
+        },
+        {
+          "answer": "North Carolina",
+          "display": "43.44%"
+        },
+        {
+          "answer": "Utah",
+          "display": "43.36%"
+        },
+        {
+          "answer": "Indiana",
+          "display": "42.91%"
+        },
+        {
+          "answer": "Georgia",
+          "display": "42.88%"
+        },
+        {
+          "answer": "Oklahoma",
+          "display": "42.65%"
+        },
+        {
+          "answer": "Tennessee",
+          "display": "42.43%"
+        },
+        {
+          "answer": "Idaho",
+          "display": "42.03%"
+        },
+        {
+          "answer": "Kentucky",
+          "display": "41.34%"
+        }
+      ]
+    },
+    {
+      "category": "history/us-presidents/elections/by-state",
+      "question": "Top 10 states where Bill Clinton won his highest share of the vote in the 1996 US presidential election",
+      "cutoff": 10,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1379226409 | table 10 | name: State | value: Clinton Democratic / % | header rows: 2 | where: State!~-[0-9]|District|Columbia|D\\. ?C\\.|Total|'s",
+      "tags": [
+        "history",
+        "us-presidents",
+        "elections"
+      ],
+      "answers": [
+        {
+          "answer": "Massachusetts",
+          "display": "61.47%"
+        },
+        {
+          "answer": "Rhode Island",
+          "display": "59.71%"
+        },
+        {
+          "answer": "New York",
+          "display": "59.47%"
+        },
+        {
+          "answer": "Hawaii",
+          "display": "56.93%"
+        },
+        {
+          "answer": "Illinois",
+          "display": "54.32%"
+        },
+        {
+          "answer": "Maryland",
+          "display": "54.25%"
+        },
+        {
+          "answer": "Arkansas",
+          "display": "53.74%"
+        },
+        {
+          "answer": "New Jersey",
+          "display": "53.72%"
+        },
+        {
+          "answer": "Vermont",
+          "display": "53.35%"
+        },
+        {
+          "answer": "Connecticut",
+          "display": "52.83%"
+        },
+        {
+          "answer": "Louisiana",
+          "display": "52.01%"
+        },
+        {
+          "answer": "Delaware",
+          "display": "51.80%"
+        },
+        {
+          "answer": "Michigan",
+          "display": "51.69%"
+        },
+        {
+          "answer": "Maine",
+          "display": "51.62%"
+        }
+      ]
+    },
+    {
+      "category": "history/us-presidents/elections/by-state",
+      "question": "Top 10 states where Bob Dole won his highest share of the vote in the 1996 US presidential election",
+      "cutoff": 10,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1379226409 | table 10 | name: State | value: Dole Republican / % | header rows: 2 | where: State!~-[0-9]|District|Columbia|D\\. ?C\\.|Total|'s",
+      "tags": [
+        "history",
+        "us-presidents",
+        "elections"
+      ],
+      "answers": [
+        {
+          "answer": "Utah",
+          "display": "54.37%"
+        },
+        {
+          "answer": "Kansas",
+          "display": "54.29%"
+        },
+        {
+          "answer": "Nebraska",
+          "display": "53.65%"
+        },
+        {
+          "answer": "Idaho",
+          "display": "52.18%"
+        },
+        {
+          "answer": "Alaska",
+          "display": "50.80%"
+        },
+        {
+          "answer": "Alabama",
+          "display": "50.12%"
+        },
+        {
+          "answer": "Wyoming",
+          "display": "49.81%"
+        },
+        {
+          "answer": "South Carolina",
+          "display": "49.79%"
+        },
+        {
+          "answer": "Mississippi",
+          "display": "49.21%"
+        },
+        {
+          "answer": "Texas",
+          "display": "48.76%"
+        },
+        {
+          "answer": "North Carolina",
+          "display": "48.73%"
+        },
+        {
+          "answer": "Oklahoma",
+          "display": "48.26%"
+        },
+        {
+          "answer": "Indiana",
+          "display": "47.13%"
+        },
+        {
+          "answer": "Virginia",
+          "display": "47.10%"
+        }
+      ]
+    },
+    {
+      "category": "history/us-presidents/elections/by-state",
+      "question": "Top 10 states where Al Gore won his highest share of the vote in the 2000 US presidential election",
+      "cutoff": 10,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1379523423 | table 13 | name: State | value: Gore Democratic / % | header rows: 2 | where: State!~-[0-9]|District|Columbia|D\\. ?C\\.|Total|'s",
+      "tags": [
+        "history",
+        "us-presidents",
+        "elections"
+      ],
+      "answers": [
+        {
+          "answer": "Rhode Island",
+          "display": "60.99%"
+        },
+        {
+          "answer": "New York",
+          "display": "60.21%"
+        },
+        {
+          "answer": "Massachusetts",
+          "display": "59.80%"
+        },
+        {
+          "answer": "Maryland",
+          "display": "56.57%"
+        },
+        {
+          "answer": "New Jersey",
+          "display": "56.13%"
+        },
+        {
+          "answer": "Connecticut",
+          "display": "55.91%"
+        },
+        {
+          "answer": "Hawaii",
+          "display": "55.79%"
+        },
+        {
+          "answer": "Delaware",
+          "display": "54.96%"
+        },
+        {
+          "answer": "Illinois",
+          "display": "54.60%"
+        },
+        {
+          "answer": "California",
+          "display": "53.45%"
+        },
+        {
+          "answer": "Michigan",
+          "display": "51.28%"
+        },
+        {
+          "answer": "Vermont",
+          "display": "50.63%"
+        },
+        {
+          "answer": "Pennsylvania",
+          "display": "50.60%"
+        },
+        {
+          "answer": "Washington",
+          "display": "50.16%"
+        }
+      ]
+    },
+    {
+      "category": "history/us-presidents/elections/by-state",
+      "question": "Top 10 states where George W. Bush won his highest share of the vote in the 2000 US presidential election",
+      "cutoff": 10,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1379523423 | table 13 | name: State | value: Bush Republican / % | header rows: 2 | where: State!~-[0-9]|District|Columbia|D\\. ?C\\.|Total|'s",
+      "tags": [
+        "history",
+        "us-presidents",
+        "elections"
+      ],
+      "answers": [
+        {
+          "answer": "Wyoming",
+          "display": "67.76%"
+        },
+        {
+          "answer": "Idaho",
+          "display": "67.17%"
+        },
+        {
+          "answer": "Utah",
+          "display": "66.83%"
+        },
+        {
+          "answer": "Nebraska",
+          "display": "62.25%"
+        },
+        {
+          "answer": "North Dakota",
+          "display": "60.66%"
+        },
+        {
+          "answer": "Oklahoma",
+          "display": "60.31%"
+        },
+        {
+          "answer": "South Dakota",
+          "display": "60.30%"
+        },
+        {
+          "answer": "Texas",
+          "display": "59.30%"
+        },
+        {
+          "answer": "Alaska",
+          "display": "58.62%"
+        },
+        {
+          "answer": "Montana",
+          "display": "58.44%"
+        },
+        {
+          "answer": "Kansas",
+          "display": "58.04%"
+        },
+        {
+          "answer": "Mississippi",
+          "display": "57.62%"
+        },
+        {
+          "answer": "South Carolina",
+          "display": "56.84%"
+        },
+        {
+          "answer": "Indiana",
+          "display": "56.65%"
+        }
+      ]
+    },
+    {
+      "category": "history/us-presidents/elections/by-state",
+      "question": "Top 10 states where John Kerry won his highest share of the vote in the 2004 US presidential election",
+      "cutoff": 10,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1379190312 | table 8 | name: State | value: Kerry Democratic / % | header rows: 2 | where: State!~-[0-9]|District|Columbia|D\\. ?C\\.|Total|'s",
+      "tags": [
+        "history",
+        "us-presidents",
+        "elections"
+      ],
+      "answers": [
+        {
+          "answer": "Massachusetts",
+          "display": "61.94%"
+        },
+        {
+          "answer": "Rhode Island",
+          "display": "59.42%"
+        },
+        {
+          "answer": "Vermont",
+          "display": "58.94%"
+        },
+        {
+          "answer": "New York",
+          "display": "58.37%"
+        },
+        {
+          "answer": "Maryland",
+          "display": "55.91%"
+        },
+        {
+          "answer": "Illinois",
+          "display": "54.82%"
+        },
+        {
+          "answer": "Connecticut",
+          "display": "54.31%"
+        },
+        {
+          "answer": "California",
+          "display": "54.30%"
+        },
+        {
+          "answer": "Hawaii",
+          "display": "54.01%"
+        },
+        {
+          "answer": "Maine",
+          "display": "53.57%"
+        },
+        {
+          "answer": "Delaware",
+          "display": "53.35%"
+        },
+        {
+          "answer": "New Jersey",
+          "display": "52.92%"
+        },
+        {
+          "answer": "Washington",
+          "display": "52.82%"
+        },
+        {
+          "answer": "Oregon",
+          "display": "51.35%"
+        }
+      ]
+    },
+    {
+      "category": "history/us-presidents/elections/by-state",
+      "question": "Top 10 states where George W. Bush won his highest share of the vote in the 2004 US presidential election",
+      "cutoff": 10,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1379190312 | table 8 | name: State | value: Bush Republican / % | header rows: 2 | where: State!~-[0-9]|District|Columbia|D\\. ?C\\.|Total|'s",
+      "tags": [
+        "history",
+        "us-presidents",
+        "elections"
+      ],
+      "answers": [
+        {
+          "answer": "Utah",
+          "display": "71.54%"
+        },
+        {
+          "answer": "Wyoming",
+          "display": "68.86%"
+        },
+        {
+          "answer": "Idaho",
+          "display": "68.38%"
+        },
+        {
+          "answer": "Nebraska",
+          "display": "65.90%"
+        },
+        {
+          "answer": "Oklahoma",
+          "display": "65.57%"
+        },
+        {
+          "answer": "North Dakota",
+          "display": "62.86%"
+        },
+        {
+          "answer": "Alabama",
+          "display": "62.46%"
+        },
+        {
+          "answer": "Kansas",
+          "display": "62.00%"
+        },
+        {
+          "answer": "Texas",
+          "display": "61.09%"
+        },
+        {
+          "answer": "Alaska",
+          "display": "61.07%"
+        },
+        {
+          "answer": "Indiana",
+          "display": "59.94%"
+        },
+        {
+          "answer": "South Dakota",
+          "display": "59.91%"
+        },
+        {
+          "answer": "Kentucky",
+          "display": "59.55%"
+        },
+        {
+          "answer": "Mississippi",
+          "display": "59.45%"
+        }
+      ]
+    },
+    {
+      "category": "history/us-presidents/elections/by-state",
+      "question": "Top 10 states where Barack Obama won his highest share of the vote in the 2008 US presidential election",
+      "cutoff": 10,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1378984817 | table 11 | name: State/district | value: Obama Democratic / % | header rows: 2 | where: State/district!~-[0-9]|District|Columbia|D\\. ?C\\.|Total|'s",
+      "tags": [
+        "history",
+        "us-presidents",
+        "elections"
+      ],
+      "answers": [
+        {
+          "answer": "Hawaii",
+          "display": "71.85%"
+        },
+        {
+          "answer": "Vermont",
+          "display": "67.46%"
+        },
+        {
+          "answer": "New York",
+          "display": "62.88%"
+        },
+        {
+          "answer": "Rhode Island",
+          "display": "62.86%"
+        },
+        {
+          "answer": "Delaware",
+          "display": "61.94%"
+        },
+        {
+          "answer": "Illinois",
+          "display": "61.92%"
+        },
+        {
+          "answer": "Maryland",
+          "display": "61.92%"
+        },
+        {
+          "answer": "Massachusetts",
+          "display": "61.80%"
+        },
+        {
+          "answer": "California",
+          "display": "61.01%"
+        },
+        {
+          "answer": "Connecticut",
+          "display": "60.59%"
+        },
+        {
+          "answer": "Maine",
+          "display": "57.71%"
+        },
+        {
+          "answer": "Washington",
+          "display": "57.65%"
+        },
+        {
+          "answer": "Michigan",
+          "display": "57.43%"
+        },
+        {
+          "answer": "New Jersey",
+          "display": "57.27%"
+        }
+      ]
+    },
+    {
+      "category": "history/us-presidents/elections/by-state",
+      "question": "Top 10 states where John McCain won his highest share of the vote in the 2008 US presidential election",
+      "cutoff": 10,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1378984817 | table 11 | name: State/district | value: McCain Republican / % | header rows: 2 | where: State/district!~-[0-9]|District|Columbia|D\\. ?C\\.|Total|'s",
+      "tags": [
+        "history",
+        "us-presidents",
+        "elections"
+      ],
+      "answers": [
+        {
+          "answer": "Oklahoma",
+          "display": "65.65%"
+        },
+        {
+          "answer": "Wyoming",
+          "display": "64.78%"
+        },
+        {
+          "answer": "Utah",
+          "display": "62.58%"
+        },
+        {
+          "answer": "Idaho",
+          "display": "61.52%"
+        },
+        {
+          "answer": "Alabama",
+          "display": "60.32%"
+        },
+        {
+          "answer": "Alaska",
+          "display": "59.42%"
+        },
+        {
+          "answer": "Arkansas",
+          "display": "58.72%"
+        },
+        {
+          "answer": "Louisiana",
+          "display": "58.56%"
+        },
+        {
+          "answer": "Kentucky",
+          "display": "57.40%"
+        },
+        {
+          "answer": "Tennessee",
+          "display": "56.90%"
+        },
+        {
+          "answer": "Kansas",
+          "display": "56.61%"
+        },
+        {
+          "answer": "Nebraska",
+          "display": "56.53%"
+        },
+        {
+          "answer": "Mississippi",
+          "display": "56.18%"
+        },
+        {
+          "answer": "West Virginia",
+          "display": "55.71%"
+        }
+      ]
+    },
+    {
+      "category": "history/us-presidents/elections/by-state",
+      "question": "Top 10 states where Barack Obama won his highest share of the vote in the 2012 US presidential election",
+      "cutoff": 10,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1379865793 | table 9 | name: State or district | value: Obama/Biden Democratic / % | header rows: 2 | where: State or district!~-[0-9]|District|Columbia|D\\. ?C\\.|Total|'s",
+      "tags": [
+        "history",
+        "us-presidents",
+        "elections"
+      ],
+      "answers": [
+        {
+          "answer": "Hawaii",
+          "display": "70.55%"
+        },
+        {
+          "answer": "Vermont",
+          "display": "66.57%"
+        },
+        {
+          "answer": "New York",
+          "display": "63.35%"
+        },
+        {
+          "answer": "Rhode Island",
+          "display": "62.70%"
+        },
+        {
+          "answer": "Maryland",
+          "display": "61.97%"
+        },
+        {
+          "answer": "Massachusetts",
+          "display": "60.65%"
+        },
+        {
+          "answer": "California",
+          "display": "60.24%"
+        },
+        {
+          "answer": "Delaware",
+          "display": "58.61%"
+        },
+        {
+          "answer": "New Jersey",
+          "display": "58.38%"
+        },
+        {
+          "answer": "Connecticut",
+          "display": "58.06%"
+        },
+        {
+          "answer": "Illinois",
+          "display": "57.60%"
+        },
+        {
+          "answer": "Maine",
+          "display": "56.27%"
+        },
+        {
+          "answer": "Washington",
+          "display": "56.16%"
+        },
+        {
+          "answer": "Oregon",
+          "display": "54.24%"
+        }
+      ]
+    },
+    {
+      "category": "history/us-presidents/elections/by-state",
+      "question": "Top 10 states where Mitt Romney won his highest share of the vote in the 2012 US presidential election",
+      "cutoff": 10,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1379865793 | table 9 | name: State or district | value: Romney/Ryan Republican / % | header rows: 2 | where: State or district!~-[0-9]|District|Columbia|D\\. ?C\\.|Total|'s",
+      "tags": [
+        "history",
+        "us-presidents",
+        "elections"
+      ],
+      "answers": [
+        {
+          "answer": "Utah",
+          "display": "72.79%"
+        },
+        {
+          "answer": "Wyoming",
+          "display": "68.64%"
+        },
+        {
+          "answer": "Oklahoma",
+          "display": "66.77%"
+        },
+        {
+          "answer": "Idaho",
+          "display": "64.09%"
+        },
+        {
+          "answer": "West Virginia",
+          "display": "62.30%"
+        },
+        {
+          "answer": "Arkansas",
+          "display": "60.57%"
+        },
+        {
+          "answer": "Alabama",
+          "display": "60.55%"
+        },
+        {
+          "answer": "Kentucky",
+          "display": "60.49%"
+        },
+        {
+          "answer": "Nebraska",
+          "display": "59.80%"
+        },
+        {
+          "answer": "Kansas",
+          "display": "59.71%"
+        },
+        {
+          "answer": "Tennessee",
+          "display": "59.48%"
+        },
+        {
+          "answer": "North Dakota",
+          "display": "58.32%"
+        },
+        {
+          "answer": "South Dakota",
+          "display": "57.89%"
+        },
+        {
+          "answer": "Louisiana",
+          "display": "57.78%"
+        }
+      ]
+    },
+    {
+      "category": "history/us-presidents/elections/by-state",
+      "question": "Top 10 states where Hillary Clinton won her highest share of the vote in the 2016 US presidential election",
+      "cutoff": 10,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1378142631 | table 17 | name: State or district | value: Clinton/Kaine Democratic / % | header rows: 2 | where: State or district!~-[0-9]|District|Columbia|D\\. ?C\\.|Total|'s",
+      "tags": [
+        "history",
+        "us-presidents",
+        "elections"
+      ],
+      "answers": [
+        {
+          "answer": "Hawaii",
+          "display": "62.22%"
+        },
+        {
+          "answer": "California",
+          "display": "61.73%"
+        },
+        {
+          "answer": "Maryland",
+          "display": "60.33%"
+        },
+        {
+          "answer": "Massachusetts",
+          "display": "60.01%"
+        },
+        {
+          "answer": "New York",
+          "display": "59.01%"
+        },
+        {
+          "answer": "Vermont",
+          "display": "56.68%"
+        },
+        {
+          "answer": "Illinois",
+          "display": "55.83%"
+        },
+        {
+          "answer": "New Jersey",
+          "display": "55.45%"
+        },
+        {
+          "answer": "Connecticut",
+          "display": "54.57%"
+        },
+        {
+          "answer": "Rhode Island",
+          "display": "54.41%"
+        },
+        {
+          "answer": "Delaware",
+          "display": "53.09%"
+        },
+        {
+          "answer": "Washington",
+          "display": "52.54%"
+        },
+        {
+          "answer": "Oregon",
+          "display": "50.07%"
+        },
+        {
+          "answer": "Virginia",
+          "display": "49.73%"
+        }
+      ]
+    },
+    {
+      "category": "history/us-presidents/elections/by-state",
+      "question": "Top 10 states where Donald Trump won his highest share of the vote in the 2016 US presidential election",
+      "cutoff": 10,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1378142631 | table 17 | name: State or district | value: Trump/Pence Republican / % | header rows: 2 | where: State or district!~-[0-9]|District|Columbia|D\\. ?C\\.|Total|'s",
+      "tags": [
+        "history",
+        "us-presidents",
+        "elections"
+      ],
+      "answers": [
+        {
+          "answer": "West Virginia",
+          "display": "68.50%"
+        },
+        {
+          "answer": "Wyoming",
+          "display": "68.17%"
+        },
+        {
+          "answer": "Oklahoma",
+          "display": "65.32%"
+        },
+        {
+          "answer": "North Dakota",
+          "display": "62.96%"
+        },
+        {
+          "answer": "Kentucky",
+          "display": "62.52%"
+        },
+        {
+          "answer": "Alabama",
+          "display": "62.08%"
+        },
+        {
+          "answer": "South Dakota",
+          "display": "61.53%"
+        },
+        {
+          "answer": "Tennessee",
+          "display": "60.72%"
+        },
+        {
+          "answer": "Arkansas",
+          "display": "60.57%"
+        },
+        {
+          "answer": "Idaho",
+          "display": "59.26%"
+        },
+        {
+          "answer": "Nebraska",
+          "display": "58.75%"
+        },
+        {
+          "answer": "Louisiana",
+          "display": "58.09%"
+        },
+        {
+          "answer": "Mississippi",
+          "display": "57.94%"
+        },
+        {
+          "answer": "Indiana",
+          "display": "56.94%"
+        }
+      ]
+    },
+    {
+      "category": "history/us-presidents/elections/by-state",
+      "question": "Top 10 states where Joe Biden won his highest share of the vote in the 2020 US presidential election",
+      "cutoff": 10,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1378921712 | table 13 | name: State or district | value: Biden/Harris Democratic / % | header rows: 2 | where: State or district!~-[0-9]|District|Columbia|D\\. ?C\\.|Total|'s",
+      "tags": [
+        "history",
+        "us-presidents",
+        "elections"
+      ],
+      "answers": [
+        {
+          "answer": "Vermont",
+          "display": "66.09%"
+        },
+        {
+          "answer": "Massachusetts",
+          "display": "65.60%"
+        },
+        {
+          "answer": "Maryland",
+          "display": "65.36%"
+        },
+        {
+          "answer": "Hawaii",
+          "display": "63.73%"
+        },
+        {
+          "answer": "California",
+          "display": "63.48%"
+        },
+        {
+          "answer": "New York",
+          "display": "60.87%"
+        },
+        {
+          "answer": "Rhode Island",
+          "display": "59.39%"
+        },
+        {
+          "answer": "Connecticut",
+          "display": "59.26%"
+        },
+        {
+          "answer": "Delaware",
+          "display": "58.74%"
+        },
+        {
+          "answer": "Washington",
+          "display": "57.97%"
+        },
+        {
+          "answer": "Illinois",
+          "display": "57.54%"
+        },
+        {
+          "answer": "New Jersey",
+          "display": "57.33%"
+        },
+        {
+          "answer": "Oregon",
+          "display": "56.45%"
+        },
+        {
+          "answer": "Colorado",
+          "display": "55.40%"
+        }
+      ]
+    },
+    {
+      "category": "history/us-presidents/elections/by-state",
+      "question": "Top 10 states where Donald Trump won his highest share of the vote in the 2020 US presidential election",
+      "cutoff": 10,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1378921712 | table 13 | name: State or district | value: Trump/Pence Republican / % | header rows: 2 | where: State or district!~-[0-9]|District|Columbia|D\\. ?C\\.|Total|'s",
+      "tags": [
+        "history",
+        "us-presidents",
+        "elections"
+      ],
+      "answers": [
+        {
+          "answer": "Wyoming",
+          "display": "69.94%"
+        },
+        {
+          "answer": "West Virginia",
+          "display": "68.62%"
+        },
+        {
+          "answer": "Oklahoma",
+          "display": "65.37%"
+        },
+        {
+          "answer": "North Dakota",
+          "display": "65.12%"
+        },
+        {
+          "answer": "Idaho",
+          "display": "63.84%"
+        },
+        {
+          "answer": "Arkansas",
+          "display": "62.40%"
+        },
+        {
+          "answer": "Kentucky",
+          "display": "62.09%"
+        },
+        {
+          "answer": "Alabama",
+          "display": "62.03%"
+        },
+        {
+          "answer": "South Dakota",
+          "display": "61.77%"
+        },
+        {
+          "answer": "Tennessee",
+          "display": "60.66%"
+        },
+        {
+          "answer": "Louisiana",
+          "display": "58.46%"
+        },
+        {
+          "answer": "Nebraska",
+          "display": "58.22%"
+        },
+        {
+          "answer": "Utah",
+          "display": "58.13%"
+        },
+        {
+          "answer": "Mississippi",
+          "display": "57.60%"
+        }
+      ]
+    },
+    {
+      "category": "history/us-presidents/elections/by-state",
+      "question": "Top 10 states where Kamala Harris won her highest share of the vote in the 2024 US presidential election",
+      "cutoff": 10,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1378684984 | table 11 | name: State or district | value: Harris/Walz Democratic / % | header rows: 2 | where: State or district!~-[0-9]|District|Columbia|D\\. ?C\\.|Total|'s",
+      "tags": [
+        "history",
+        "us-presidents",
+        "elections"
+      ],
+      "answers": [
+        {
+          "answer": "Vermont",
+          "display": "63.83%"
+        },
+        {
+          "answer": "Maryland",
+          "display": "62.62%"
+        },
+        {
+          "answer": "Massachusetts",
+          "display": "61.22%"
+        },
+        {
+          "answer": "Hawaii",
+          "display": "60.59%"
+        },
+        {
+          "answer": "California",
+          "display": "58.47%"
+        },
+        {
+          "answer": "Washington",
+          "display": "57.23%"
+        },
+        {
+          "answer": "Delaware",
+          "display": "56.49%"
+        },
+        {
+          "answer": "Connecticut",
+          "display": "56.40%"
+        },
+        {
+          "answer": "New York",
+          "display": "55.91%"
+        },
+        {
+          "answer": "Rhode Island",
+          "display": "55.54%"
+        },
+        {
+          "answer": "Oregon",
+          "display": "55.27%"
+        },
+        {
+          "answer": "Illinois",
+          "display": "54.37%"
+        },
+        {
+          "answer": "Colorado",
+          "display": "54.13%"
+        },
+        {
+          "answer": "Maine",
+          "display": "52.40%"
+        }
+      ]
+    },
+    {
+      "category": "history/us-presidents/elections/by-state",
+      "question": "Top 10 states where Donald Trump won his highest share of the vote in the 2024 US presidential election",
+      "cutoff": 10,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1378684984 | table 11 | name: State or district | value: Trump/Vance Republican / % | header rows: 2 | where: State or district!~-[0-9]|District|Columbia|D\\. ?C\\.|Total|'s",
+      "tags": [
+        "history",
+        "us-presidents",
+        "elections"
+      ],
+      "answers": [
+        {
+          "answer": "Wyoming",
+          "display": "71.60%"
+        },
+        {
+          "answer": "West Virginia",
+          "display": "69.97%"
+        },
+        {
+          "answer": "North Dakota",
+          "display": "66.96%"
+        },
+        {
+          "answer": "Idaho",
+          "display": "66.87%"
+        },
+        {
+          "answer": "Oklahoma",
+          "display": "66.16%"
+        },
+        {
+          "answer": "Alabama",
+          "display": "64.57%"
+        },
+        {
+          "answer": "Kentucky",
+          "display": "64.47%"
+        },
+        {
+          "answer": "Arkansas",
+          "display": "64.20%"
+        },
+        {
+          "answer": "Tennessee",
+          "display": "64.19%"
+        },
+        {
+          "answer": "South Dakota",
+          "display": "63.43%"
+        },
+        {
+          "answer": "Mississippi",
+          "display": "60.89%"
+        },
+        {
+          "answer": "Louisiana",
+          "display": "60.22%"
+        },
+        {
+          "answer": "Utah",
+          "display": "59.38%"
+        },
+        {
+          "answer": "Nebraska",
+          "display": "59.32%"
+        }
+      ]
+    }
+  ]
+}

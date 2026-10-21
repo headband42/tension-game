@@ -1,0 +1,365 @@
+{
+  "categories": [
+    {
+      "path": "geography/water/rivers",
+      "name": "Rivers"
+    },
+    {
+      "path": "geography/water/lakes",
+      "name": "Lakes"
+    },
+    {
+      "path": "geography/water/islands",
+      "name": "Islands"
+    }
+  ],
+  "questions": [
+    {
+      "category": "geography/water/rivers",
+      "question": "Top 10 longest river systems in the world",
+      "difficulty": 1,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1379231701 | table 2 | name: River | value: Length (km)",
+      "tags": [
+        "geography",
+        "water",
+        "rivers",
+        "length"
+      ],
+      "answers": [
+        {
+          "answer": "Nile",
+          "display": "6,650 km",
+          "aliases": [
+            "nile river"
+          ]
+        },
+        {
+          "answer": "Amazon",
+          "display": "6,400 km",
+          "aliases": [
+            "amazon river"
+          ]
+        },
+        {
+          "answer": "Yangtze",
+          "display": "6,300 km",
+          "aliases": [
+            "chang jiang",
+            "yangtze river"
+          ]
+        },
+        {
+          "answer": "Mississippi–Missouri",
+          "display": "6,275 km",
+          "aliases": [
+            "mississippi",
+            "missouri"
+          ]
+        },
+        {
+          "answer": "Yenisey",
+          "display": "5,539 km",
+          "aliases": [
+            "yenisey river"
+          ]
+        },
+        {
+          "answer": "Yellow River",
+          "display": "5,464 km",
+          "aliases": [
+            "huang he"
+          ]
+        },
+        {
+          "answer": "Ob–Irtysh",
+          "display": "5,410 km",
+          "aliases": [
+            "ob river",
+            "irtysh"
+          ]
+        },
+        {
+          "answer": "Río de la Plata–Paraná",
+          "display": "4,880 km",
+          "aliases": [
+            "parana",
+            "rio de la plata"
+          ]
+        },
+        {
+          "answer": "Congo",
+          "display": "4,700 km",
+          "aliases": [
+            "congo river",
+            "zaire"
+          ]
+        },
+        {
+          "answer": "Amur",
+          "display": "4,444 km",
+          "aliases": [
+            "amur river",
+            "heilong jiang"
+          ]
+        },
+        {
+          "answer": "Lena",
+          "display": "4,400 km",
+          "aliases": [
+            "lena river"
+          ]
+        },
+        {
+          "answer": "Mekong",
+          "display": "4,350 km",
+          "aliases": [
+            "mekong river",
+            "lancang jiang"
+          ]
+        },
+        {
+          "answer": "Mackenzie",
+          "display": "4,241 km",
+          "aliases": [
+            "mackenzie river"
+          ]
+        },
+        {
+          "answer": "Niger",
+          "display": "4,200 km",
+          "aliases": [
+            "niger river"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "geography/water/lakes",
+      "question": "Top 10 largest lakes by area",
+      "difficulty": 1,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1377951139 | table 2 | name: Name | value: Area",
+      "tags": [
+        "geography",
+        "water",
+        "lakes",
+        "area"
+      ],
+      "answers": [
+        {
+          "answer": "Caspian Sea",
+          "display": "389,000 km²",
+          "aliases": [
+            "caspian"
+          ]
+        },
+        {
+          "answer": "Lake Superior",
+          "display": "82,100 km²",
+          "aliases": [
+            "superior"
+          ]
+        },
+        {
+          "answer": "Lake Victoria",
+          "display": "59,940 km²",
+          "aliases": [
+            "victoria"
+          ]
+        },
+        {
+          "answer": "Lake Huron",
+          "display": "59,570 km²",
+          "aliases": [
+            "huron"
+          ]
+        },
+        {
+          "answer": "Lake Michigan",
+          "display": "57,800 km²",
+          "aliases": [
+            "michigan"
+          ]
+        },
+        {
+          "answer": "Lake Tanganyika",
+          "display": "32,900 km²",
+          "aliases": [
+            "tanganyika"
+          ]
+        },
+        {
+          "answer": "Lake Baikal",
+          "display": "31,722 km²",
+          "aliases": [
+            "baikal"
+          ]
+        },
+        {
+          "answer": "Great Bear Lake",
+          "display": "31,153 km²",
+          "aliases": [
+            "bear lake"
+          ]
+        },
+        {
+          "answer": "Lake Malawi",
+          "display": "29,600 km²",
+          "aliases": [
+            "malawi",
+            "nyasa"
+          ]
+        },
+        {
+          "answer": "Great Slave Lake",
+          "display": "27,200 km²",
+          "aliases": [
+            "slave lake"
+          ]
+        },
+        {
+          "answer": "Lake Erie",
+          "display": "25,667 km²",
+          "aliases": [
+            "erie"
+          ]
+        },
+        {
+          "answer": "Lake Winnipeg",
+          "display": "24,514 km²",
+          "aliases": [
+            "winnipeg"
+          ]
+        },
+        {
+          "answer": "Lake Ontario",
+          "display": "19,011 km²",
+          "aliases": [
+            "ontario"
+          ]
+        },
+        {
+          "answer": "Lake Ladoga",
+          "display": "17,700 km²",
+          "aliases": [
+            "ladoga"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "geography/water/islands",
+      "question": "Top 10 largest islands in the world",
+      "difficulty": 1,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1378440269 | table 2 | name: Island | value: Area (2026)",
+      "tags": [
+        "geography",
+        "water",
+        "islands",
+        "area"
+      ],
+      "answers": [
+        {
+          "answer": "Greenland",
+          "display": "2,108,459 km²",
+          "aliases": [
+            "kalaallit nunaat"
+          ]
+        },
+        {
+          "answer": "New Guinea",
+          "display": "773,751 km²",
+          "aliases": [
+            "papua"
+          ]
+        },
+        {
+          "answer": "Borneo",
+          "display": "723,154 km²",
+          "aliases": [
+            "kalimantan"
+          ]
+        },
+        {
+          "answer": "Madagascar",
+          "display": "592,521 km²",
+          "aliases": [
+            "madagascar island"
+          ]
+        },
+        {
+          "answer": "Baffin Island",
+          "display": "507,205 km²",
+          "aliases": [
+            "baffin"
+          ]
+        },
+        {
+          "answer": "Sumatra",
+          "display": "428,134 km²",
+          "aliases": [
+            "sumatra island"
+          ]
+        },
+        {
+          "answer": "Honshu",
+          "display": "228,296 km²",
+          "aliases": [
+            "honshu island"
+          ]
+        },
+        {
+          "answer": "Victoria Island",
+          "display": "219,191 km²",
+          "aliases": [
+            "victoria"
+          ]
+        },
+        {
+          "answer": "Great Britain",
+          "display": "218,635 km²",
+          "aliases": [
+            "britain"
+          ]
+        },
+        {
+          "answer": "Ellesmere Island",
+          "display": "197,790 km²",
+          "aliases": [
+            "ellesmere"
+          ]
+        },
+        {
+          "answer": "Sulawesi",
+          "display": "169,981 km²",
+          "aliases": [
+            "sulawesi island"
+          ]
+        },
+        {
+          "answer": "South Island",
+          "display": "150,683 km²",
+          "aliases": [
+            "te waipounamu"
+          ]
+        },
+        {
+          "answer": "Java",
+          "display": "127,467 km²",
+          "aliases": [
+            "java island"
+          ]
+        },
+        {
+          "answer": "North Island",
+          "display": "114,573 km²",
+          "aliases": [
+            "te ika-a-maui"
+          ]
+        }
+      ]
+    }
+  ]
+}

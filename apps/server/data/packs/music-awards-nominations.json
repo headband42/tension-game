@@ -1,0 +1,2395 @@
+{
+  "categories": [
+    {
+      "path": "music/awards",
+      "name": "Music Awards"
+    },
+    {
+      "path": "music/awards/vmas",
+      "name": "MTV VMAs"
+    },
+    {
+      "path": "music/awards/billboard",
+      "name": "Billboard Music Awards"
+    },
+    {
+      "path": "music/awards/brits",
+      "name": "BRIT Awards"
+    },
+    {
+      "path": "music/awards/arias",
+      "name": "ARIA Music Awards"
+    }
+  ],
+  "questions": [
+    {
+      "category": "music/awards/vmas",
+      "question": "Top 7 artists by nominations at the 1987 MTV Video Music Awards",
+      "cutoff": 7,
+      "difficulty": 3,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1344498414 | table 4 | name: Artist | value: Nominations",
+      "tags": [
+        "music",
+        "awards",
+        "vma",
+        "1987"
+      ],
+      "answers": [
+        {
+          "answer": "Peter Gabriel",
+          "display": "12 nominations"
+        },
+        {
+          "answer": "Genesis",
+          "display": "7 nominations"
+        },
+        {
+          "answer": "Steve Winwood",
+          "display": "7 nominations"
+        },
+        {
+          "answer": "U2",
+          "display": "7 nominations"
+        },
+        {
+          "answer": "Madonna",
+          "display": "6 nominations"
+        },
+        {
+          "answer": "Paul Simon",
+          "display": "6 nominations"
+        },
+        {
+          "answer": "Eurythmics",
+          "display": "5 nominations"
+        },
+        {
+          "answer": "Janet Jackson",
+          "display": "4 nominations"
+        },
+        {
+          "answer": "Bon Jovi",
+          "display": "3 nominations"
+        },
+        {
+          "answer": "Crowded House",
+          "display": "3 nominations"
+        },
+        {
+          "answer": "Talking Heads",
+          "display": "3 nominations"
+        }
+      ]
+    },
+    {
+      "category": "music/awards/vmas",
+      "question": "Top 5 artists by nominations at the 1988 MTV Video Music Awards",
+      "cutoff": 5,
+      "difficulty": 3,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1345175963 | table 4 | name: Artist | value: Nominations",
+      "tags": [
+        "music",
+        "awards",
+        "vma",
+        "1988"
+      ],
+      "answers": [
+        {
+          "answer": "INXS",
+          "display": "9 nominations"
+        },
+        {
+          "answer": "George Harrison",
+          "display": "8 nominations"
+        },
+        {
+          "answer": "U2",
+          "display": "8 nominations"
+        },
+        {
+          "answer": "Bruce Springsteen",
+          "display": "5 nominations"
+        },
+        {
+          "answer": "Prince",
+          "display": "4 nominations"
+        },
+        {
+          "answer": "George Michael",
+          "display": "3 nominations"
+        },
+        {
+          "answer": "Pink Floyd",
+          "display": "3 nominations"
+        },
+        {
+          "answer": "Squeeze",
+          "display": "3 nominations"
+        },
+        {
+          "answer": "Suzanne Vega",
+          "display": "3 nominations"
+        },
+        {
+          "answer": "XTC",
+          "display": "3 nominations"
+        }
+      ]
+    },
+    {
+      "category": "music/awards/vmas",
+      "question": "Top 7 artists by nominations at the 1989 MTV Video Music Awards",
+      "cutoff": 7,
+      "difficulty": 3,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1377445216 | table 4 | name: Artist | value: Nominations",
+      "tags": [
+        "music",
+        "awards",
+        "vma",
+        "1989"
+      ],
+      "answers": [
+        {
+          "answer": "Michael Jackson",
+          "display": "9 nominations"
+        },
+        {
+          "answer": "Madonna",
+          "display": "7 nominations"
+        },
+        {
+          "answer": "Jody Watley",
+          "display": "6 nominations"
+        },
+        {
+          "answer": "Paula Abdul",
+          "display": "6 nominations"
+        },
+        {
+          "answer": "Steve Winwood",
+          "display": "6 nominations"
+        },
+        {
+          "answer": "Bobby Brown",
+          "display": "4 nominations"
+        },
+        {
+          "answer": "Fine Young Cannibals",
+          "display": "4 nominations"
+        },
+        {
+          "answer": "DJ Jazzy Jeff & The Fresh Prince",
+          "display": "3 nominations"
+        },
+        {
+          "answer": "Guns N' Roses",
+          "display": "3 nominations"
+        },
+        {
+          "answer": "Living Colour",
+          "display": "3 nominations"
+        },
+        {
+          "answer": "The Escape Club",
+          "display": "3 nominations"
+        }
+      ]
+    },
+    {
+      "category": "music/awards/vmas",
+      "question": "Top 7 artists by nominations at the 1990 MTV Video Music Awards",
+      "cutoff": 7,
+      "difficulty": 3,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1345147440 | table 4 | name: Artist | value: Nominations",
+      "tags": [
+        "music",
+        "awards",
+        "vma",
+        "1990"
+      ],
+      "answers": [
+        {
+          "answer": "Madonna",
+          "display": "9 nominations"
+        },
+        {
+          "answer": "Aerosmith",
+          "display": "8 nominations"
+        },
+        {
+          "answer": "Don Henley",
+          "display": "6 nominations"
+        },
+        {
+          "answer": "Paula Abdul",
+          "display": "6 nominations"
+        },
+        {
+          "answer": "Sinéad O'Connor",
+          "display": "6 nominations"
+        },
+        {
+          "answer": "MC Hammer",
+          "display": "5 nominations"
+        },
+        {
+          "answer": "Tears for Fears",
+          "display": "4 nominations"
+        },
+        {
+          "answer": "Billy Idol",
+          "display": "3 nominations"
+        },
+        {
+          "answer": "Billy Joel",
+          "display": "3 nominations"
+        },
+        {
+          "answer": "Red Hot Chili Peppers",
+          "display": "3 nominations"
+        }
+      ]
+    },
+    {
+      "category": "music/awards/vmas",
+      "question": "Top 7 artists by nominations at the 1991 MTV Video Music Awards",
+      "cutoff": 7,
+      "difficulty": 3,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1368577821 | table 4 | name: Artist | value: Nominations",
+      "tags": [
+        "music",
+        "awards",
+        "vma",
+        "1991"
+      ],
+      "answers": [
+        {
+          "answer": "R.E.M.",
+          "display": "10 nominations",
+          "aliases": [
+            "REM"
+          ]
+        },
+        {
+          "answer": "C+C Music Factory",
+          "display": "7 nominations"
+        },
+        {
+          "answer": "Chris Isaak",
+          "display": "7 nominations"
+        },
+        {
+          "answer": "Deee-Lite",
+          "display": "6 nominations"
+        },
+        {
+          "answer": "George Michael",
+          "display": "5 nominations"
+        },
+        {
+          "answer": "Seal",
+          "display": "5 nominations"
+        },
+        {
+          "answer": "Queensrÿche",
+          "display": "5 nominations"
+        },
+        {
+          "answer": "Divinyls",
+          "display": "3 nominations"
+        },
+        {
+          "answer": "Faith No More",
+          "display": "3 nominations"
+        },
+        {
+          "answer": "Janet Jackson",
+          "display": "3 nominations"
+        },
+        {
+          "answer": "Madonna",
+          "display": "3 nominations"
+        }
+      ]
+    },
+    {
+      "category": "music/awards/vmas",
+      "question": "Top 8 artists by nominations at the 1992 MTV Video Music Awards",
+      "cutoff": 8,
+      "difficulty": 3,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1371041385 | table 4 | name: Artist | value: Nominations",
+      "tags": [
+        "music",
+        "awards",
+        "vma",
+        "1992"
+      ],
+      "answers": [
+        {
+          "answer": "Red Hot Chili Peppers",
+          "display": "9 nominations"
+        },
+        {
+          "answer": "Van Halen",
+          "display": "7 nominations"
+        },
+        {
+          "answer": "En Vogue",
+          "display": "6 nominations"
+        },
+        {
+          "answer": "Def Leppard",
+          "display": "4 nominations"
+        },
+        {
+          "answer": "Madonna",
+          "display": "4 nominations"
+        },
+        {
+          "answer": "Marky Mark and the Funky Bunch",
+          "display": "4 nominations"
+        },
+        {
+          "answer": "Nirvana",
+          "display": "4 nominations"
+        },
+        {
+          "answer": "Tori Amos",
+          "display": "4 nominations"
+        },
+        {
+          "answer": "Eric Clapton",
+          "display": "3 nominations"
+        },
+        {
+          "answer": "Metallica",
+          "display": "3 nominations"
+        },
+        {
+          "answer": "Sir Mix-a-Lot",
+          "display": "3 nominations"
+        },
+        {
+          "answer": "U2",
+          "display": "3 nominations"
+        }
+      ]
+    },
+    {
+      "category": "music/awards/vmas",
+      "question": "Top 5 artists by nominations at the 1993 MTV Video Music Awards",
+      "cutoff": 5,
+      "difficulty": 3,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1370577596 | table 4 | name: Artist | value: Nominations",
+      "tags": [
+        "music",
+        "awards",
+        "vma",
+        "1993"
+      ],
+      "answers": [
+        {
+          "answer": "En Vogue",
+          "display": "8 nominations"
+        },
+        {
+          "answer": "Aerosmith",
+          "display": "6 nominations"
+        },
+        {
+          "answer": "Peter Gabriel",
+          "display": "6 nominations"
+        },
+        {
+          "answer": "R.E.M.",
+          "display": "6 nominations",
+          "aliases": [
+            "REM"
+          ]
+        },
+        {
+          "answer": "Pearl Jam",
+          "display": "5 nominations"
+        },
+        {
+          "answer": "George Michael",
+          "display": "3 nominations"
+        },
+        {
+          "answer": "Janet Jackson",
+          "display": "3 nominations"
+        },
+        {
+          "answer": "k.d. lang",
+          "display": "3 nominations"
+        },
+        {
+          "answer": "Porno for Pyros",
+          "display": "3 nominations"
+        },
+        {
+          "answer": "Sting",
+          "display": "3 nominations"
+        }
+      ]
+    },
+    {
+      "category": "music/awards/vmas",
+      "question": "Top 7 artists by nominations at the 1994 MTV Video Music Awards",
+      "cutoff": 7,
+      "difficulty": 3,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1376450270 | table 4 | name: Artist | value: Nominations",
+      "tags": [
+        "music",
+        "awards",
+        "vma",
+        "1994"
+      ],
+      "answers": [
+        {
+          "answer": "Aerosmith",
+          "display": "9 nominations"
+        },
+        {
+          "answer": "R.E.M.",
+          "display": "7 nominations",
+          "aliases": [
+            "REM"
+          ]
+        },
+        {
+          "answer": "Björk",
+          "display": "6 nominations"
+        },
+        {
+          "answer": "Beastie Boys",
+          "display": "5 nominations"
+        },
+        {
+          "answer": "Nirvana",
+          "display": "5 nominations"
+        },
+        {
+          "answer": "Deep Forest",
+          "display": "4 nominations"
+        },
+        {
+          "answer": "En Vogue",
+          "display": "4 nominations"
+        },
+        {
+          "answer": "Beck",
+          "display": "3 nominations"
+        },
+        {
+          "answer": "Green Day",
+          "display": "3 nominations"
+        },
+        {
+          "answer": "Janet Jackson",
+          "display": "3 nominations"
+        },
+        {
+          "answer": "Salt-n-Pepa",
+          "display": "3 nominations"
+        }
+      ]
+    },
+    {
+      "category": "music/awards/vmas",
+      "question": "Top 5 artists by nominations at the 1995 MTV Video Music Awards",
+      "cutoff": 5,
+      "difficulty": 3,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1373737067 | table 4 | name: Artist | value: Nominations",
+      "tags": [
+        "music",
+        "awards",
+        "vma",
+        "1995"
+      ],
+      "answers": [
+        {
+          "answer": "Janet Jackson",
+          "display": "11 nominations"
+        },
+        {
+          "answer": "Michael Jackson",
+          "display": "11 nominations"
+        },
+        {
+          "answer": "TLC",
+          "display": "10 nominations"
+        },
+        {
+          "answer": "Green Day",
+          "display": "9 nominations"
+        },
+        {
+          "answer": "Weezer",
+          "display": "5 nominations"
+        },
+        {
+          "answer": "Madonna",
+          "display": "4 nominations"
+        },
+        {
+          "answer": "Stone Temple Pilots",
+          "display": "4 nominations"
+        },
+        {
+          "answer": "The Rolling Stones",
+          "display": "3 nominations"
+        }
+      ]
+    },
+    {
+      "category": "music/awards/vmas",
+      "question": "Top 6 artists by nominations at the 1997 MTV Video Music Awards",
+      "cutoff": 6,
+      "difficulty": 3,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1375058675 | table 4 | name: Artist | value: Nominations",
+      "tags": [
+        "music",
+        "awards",
+        "vma",
+        "1997"
+      ],
+      "answers": [
+        {
+          "answer": "Jamiroquai",
+          "display": "10 nominations"
+        },
+        {
+          "answer": "Beck",
+          "display": "7 nominations"
+        },
+        {
+          "answer": "Nine Inch Nails",
+          "display": "5 nominations"
+        },
+        {
+          "answer": "The Smashing Pumpkins",
+          "display": "4 nominations"
+        },
+        {
+          "answer": "The Wallflowers",
+          "display": "4 nominations"
+        },
+        {
+          "answer": "Will Smith",
+          "display": "4 nominations"
+        },
+        {
+          "answer": "Jewel",
+          "display": "3 nominations"
+        },
+        {
+          "answer": "Marilyn Manson",
+          "display": "3 nominations"
+        },
+        {
+          "answer": "Missy Elliott",
+          "display": "3 nominations"
+        },
+        {
+          "answer": "The Prodigy",
+          "display": "3 nominations"
+        }
+      ]
+    },
+    {
+      "category": "music/awards/vmas",
+      "question": "Top 7 artists by nominations at the 1998 MTV Video Music Awards",
+      "cutoff": 7,
+      "difficulty": 3,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1348359377 | table 4 | name: Artist | value: Nominations",
+      "tags": [
+        "music",
+        "awards",
+        "vma",
+        "1998"
+      ],
+      "answers": [
+        {
+          "answer": "Madonna",
+          "display": "9 nominations"
+        },
+        {
+          "answer": "Garbage",
+          "display": "8 nominations"
+        },
+        {
+          "answer": "Will Smith",
+          "display": "6 nominations"
+        },
+        {
+          "answer": "Aerosmith",
+          "display": "4 nominations"
+        },
+        {
+          "answer": "Busta Rhymes",
+          "display": "4 nominations"
+        },
+        {
+          "answer": "Radiohead",
+          "display": "4 nominations"
+        },
+        {
+          "answer": "The Prodigy",
+          "display": "4 nominations"
+        },
+        {
+          "answer": "Foo Fighters",
+          "display": "3 nominations"
+        },
+        {
+          "answer": "Natalie Imbruglia",
+          "display": "3 nominations"
+        },
+        {
+          "answer": "Puff Daddy",
+          "display": "3 nominations"
+        },
+        {
+          "answer": "The Verve",
+          "display": "3 nominations"
+        },
+        {
+          "answer": "Wyclef Jean",
+          "display": "3 nominations"
+        }
+      ]
+    },
+    {
+      "category": "music/awards/vmas",
+      "question": "Top 7 artists by nominations at the 1999 MTV Video Music Awards",
+      "cutoff": 7,
+      "difficulty": 3,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1374066319 | table 4 | name: Artist | value: Nominations",
+      "tags": [
+        "music",
+        "awards",
+        "vma",
+        "1999"
+      ],
+      "answers": [
+        {
+          "answer": "Korn",
+          "display": "9 nominations"
+        },
+        {
+          "answer": "Ricky Martin",
+          "display": "9 nominations"
+        },
+        {
+          "answer": "TLC",
+          "display": "6 nominations"
+        },
+        {
+          "answer": "Will Smith",
+          "display": "6 nominations"
+        },
+        {
+          "answer": "Busta Rhymes",
+          "display": "5 nominations"
+        },
+        {
+          "answer": "Jennifer Lopez",
+          "display": "5 nominations"
+        },
+        {
+          "answer": "Lauryn Hill",
+          "display": "5 nominations"
+        },
+        {
+          "answer": "Backstreet Boys",
+          "display": "4 nominations"
+        },
+        {
+          "answer": "Britney Spears",
+          "display": "4 nominations"
+        },
+        {
+          "answer": "Eminem",
+          "display": "4 nominations"
+        },
+        {
+          "answer": "Fatboy Slim",
+          "display": "4 nominations"
+        },
+        {
+          "answer": "Madonna",
+          "display": "4 nominations"
+        }
+      ]
+    },
+    {
+      "category": "music/awards/vmas",
+      "question": "Top 6 artists by nominations at the 2000 MTV Video Music Awards",
+      "cutoff": 6,
+      "difficulty": 3,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1377128357 | table 4 | name: Artist | value: Nominations",
+      "tags": [
+        "music",
+        "awards",
+        "vma",
+        "2000"
+      ],
+      "answers": [
+        {
+          "answer": "Eminem",
+          "display": "7 nominations"
+        },
+        {
+          "answer": "*NSYNC",
+          "display": "6 nominations"
+        },
+        {
+          "answer": "Christina Aguilera",
+          "display": "5 nominations"
+        },
+        {
+          "answer": "Metallica",
+          "display": "5 nominations"
+        },
+        {
+          "answer": "Red Hot Chili Peppers",
+          "display": "5 nominations"
+        },
+        {
+          "answer": "Sisqó",
+          "display": "5 nominations"
+        },
+        {
+          "answer": "Britney Spears",
+          "display": "4 nominations"
+        },
+        {
+          "answer": "D'Angelo",
+          "display": "4 nominations"
+        },
+        {
+          "answer": "Macy Gray",
+          "display": "4 nominations"
+        }
+      ]
+    },
+    {
+      "category": "music/awards/vmas",
+      "question": "Top 7 artists by nominations at the 2001 MTV Video Music Awards",
+      "cutoff": 7,
+      "difficulty": 3,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1378571345 | table 4 | name: Artist | value: Nominations",
+      "tags": [
+        "music",
+        "awards",
+        "vma",
+        "2001"
+      ],
+      "answers": [
+        {
+          "answer": "Fatboy Slim",
+          "display": "9 nominations"
+        },
+        {
+          "answer": "Christina Aguilera",
+          "display": "6 nominations"
+        },
+        {
+          "answer": "Lil' Kim",
+          "display": "6 nominations"
+        },
+        {
+          "answer": "Missy Elliott",
+          "display": "6 nominations"
+        },
+        {
+          "answer": "Mýa",
+          "display": "6 nominations"
+        },
+        {
+          "answer": "*NSYNC",
+          "display": "6 nominations"
+        },
+        {
+          "answer": "Pink",
+          "display": "6 nominations"
+        },
+        {
+          "answer": "Destiny's Child",
+          "display": "5 nominations"
+        },
+        {
+          "answer": "Eminem",
+          "display": "5 nominations"
+        },
+        {
+          "answer": "U2",
+          "display": "5 nominations"
+        }
+      ]
+    },
+    {
+      "category": "music/awards/vmas",
+      "question": "Top 5 artists by nominations at the 2004 MTV Video Music Awards",
+      "cutoff": 5,
+      "difficulty": 3,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1350200387 | table 4 | name: Artist | value: Nominations",
+      "tags": [
+        "music",
+        "awards",
+        "vma",
+        "2004"
+      ],
+      "answers": [
+        {
+          "answer": "Jay-Z",
+          "display": "6 nominations",
+          "aliases": [
+            "Jay Z"
+          ]
+        },
+        {
+          "answer": "Beyoncé",
+          "display": "5 nominations",
+          "aliases": [
+            "Beyonce"
+          ]
+        },
+        {
+          "answer": "No Doubt",
+          "display": "5 nominations"
+        },
+        {
+          "answer": "OutKast",
+          "display": "5 nominations"
+        },
+        {
+          "answer": "Usher",
+          "display": "5 nominations"
+        },
+        {
+          "answer": "Britney Spears",
+          "display": "4 nominations"
+        },
+        {
+          "answer": "Kanye West",
+          "display": "4 nominations"
+        },
+        {
+          "answer": "Steriogram",
+          "display": "4 nominations"
+        },
+        {
+          "answer": "The White Stripes",
+          "display": "4 nominations"
+        },
+        {
+          "answer": "Yeah Yeah Yeahs",
+          "display": "4 nominations"
+        }
+      ]
+    },
+    {
+      "category": "music/awards/vmas",
+      "question": "Top 5 artists by nominations at the 2005 MTV Video Music Awards",
+      "cutoff": 5,
+      "difficulty": 3,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1378745498 | table 4 | name: Artist | value: Nominations",
+      "tags": [
+        "music",
+        "awards",
+        "vma",
+        "2005"
+      ],
+      "answers": [
+        {
+          "answer": "Green Day",
+          "display": "8 nominations"
+        },
+        {
+          "answer": "Missy Elliott",
+          "display": "6 nominations"
+        },
+        {
+          "answer": "Gwen Stefani",
+          "display": "6 nominations"
+        },
+        {
+          "answer": "My Chemical Romance",
+          "display": "5 nominations"
+        },
+        {
+          "answer": "U2",
+          "display": "5 nominations"
+        },
+        {
+          "answer": "Coldplay",
+          "display": "4 nominations"
+        },
+        {
+          "answer": "Jennifer Lopez",
+          "display": "4 nominations"
+        },
+        {
+          "answer": "The Killers",
+          "display": "4 nominations"
+        }
+      ]
+    },
+    {
+      "category": "music/awards/vmas",
+      "question": "Top 7 artists by nominations at the 2010 MTV Video Music Awards",
+      "cutoff": 7,
+      "difficulty": 3,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1351918671 | table 4 | name: Artist | value: Nominations",
+      "tags": [
+        "music",
+        "awards",
+        "vma",
+        "2010"
+      ],
+      "answers": [
+        {
+          "answer": "Lady Gaga",
+          "display": "13 nominations"
+        },
+        {
+          "answer": "Eminem",
+          "display": "8 nominations"
+        },
+        {
+          "answer": "Beyoncé",
+          "display": "5 nominations",
+          "aliases": [
+            "Beyonce"
+          ]
+        },
+        {
+          "answer": "B.o.B",
+          "display": "5 nominations"
+        },
+        {
+          "answer": "Florence + the Machine",
+          "display": "4 nominations"
+        },
+        {
+          "answer": "Jay-Z",
+          "display": "4 nominations",
+          "aliases": [
+            "Jay Z"
+          ]
+        },
+        {
+          "answer": "Thirty Seconds to Mars",
+          "display": "4 nominations"
+        },
+        {
+          "answer": "Alicia Keys",
+          "display": "3 nominations"
+        },
+        {
+          "answer": "Kesha",
+          "display": "3 nominations"
+        },
+        {
+          "answer": "Usher",
+          "display": "3 nominations"
+        }
+      ]
+    },
+    {
+      "category": "music/awards/vmas",
+      "question": "Top 6 artists by nominations at the 2011 MTV Video Music Awards",
+      "cutoff": 6,
+      "difficulty": 3,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1377738247 | table 4 | name: Artist | value: Nominations",
+      "tags": [
+        "music",
+        "awards",
+        "vma",
+        "2011"
+      ],
+      "answers": [
+        {
+          "answer": "Katy Perry",
+          "display": "10 nominations"
+        },
+        {
+          "answer": "Adele",
+          "display": "7 nominations"
+        },
+        {
+          "answer": "Kanye West",
+          "display": "6 nominations"
+        },
+        {
+          "answer": "Bruno Mars",
+          "display": "4 nominations"
+        },
+        {
+          "answer": "Eminem",
+          "display": "4 nominations"
+        },
+        {
+          "answer": "Lady Gaga",
+          "display": "4 nominations"
+        },
+        {
+          "answer": "Beyoncé",
+          "display": "3 nominations",
+          "aliases": [
+            "Beyonce"
+          ]
+        },
+        {
+          "answer": "Nicki Minaj",
+          "display": "3 nominations"
+        },
+        {
+          "answer": "Thirty Seconds to Mars",
+          "display": "3 nominations"
+        }
+      ]
+    },
+    {
+      "category": "music/awards/vmas",
+      "question": "Top 5 artists by nominations at the 2013 MTV Video Music Awards",
+      "cutoff": 5,
+      "difficulty": 3,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1379017962 | table 4 | name: Artist | value: Nominations",
+      "tags": [
+        "music",
+        "awards",
+        "vma",
+        "2013"
+      ],
+      "answers": [
+        {
+          "answer": "Justin Timberlake",
+          "display": "6 nominations"
+        },
+        {
+          "answer": "Macklemore & Ryan Lewis",
+          "display": "6 nominations"
+        },
+        {
+          "answer": "Bruno Mars",
+          "display": "4 nominations"
+        },
+        {
+          "answer": "Miley Cyrus",
+          "display": "4 nominations"
+        },
+        {
+          "answer": "Robin Thicke",
+          "display": "4 nominations"
+        },
+        {
+          "answer": "Calvin Harris",
+          "display": "3 nominations"
+        },
+        {
+          "answer": "Pink",
+          "display": "3 nominations"
+        },
+        {
+          "answer": "Thirty Seconds to Mars",
+          "display": "3 nominations"
+        }
+      ]
+    },
+    {
+      "category": "music/awards/vmas",
+      "question": "Top 8 artists by nominations at the 2014 MTV Video Music Awards",
+      "cutoff": 8,
+      "difficulty": 3,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1361784120 | table 4 | name: Artist | value: Nominations",
+      "tags": [
+        "music",
+        "awards",
+        "vma",
+        "2014"
+      ],
+      "answers": [
+        {
+          "answer": "Beyoncé",
+          "display": "8 nominations",
+          "aliases": [
+            "Beyonce"
+          ]
+        },
+        {
+          "answer": "Iggy Azalea",
+          "display": "8 nominations"
+        },
+        {
+          "answer": "Eminem",
+          "display": "7 nominations"
+        },
+        {
+          "answer": "Charli XCX",
+          "display": "5 nominations"
+        },
+        {
+          "answer": "DJ Snake",
+          "display": "4 nominations"
+        },
+        {
+          "answer": "Ariana Grande",
+          "display": "4 nominations"
+        },
+        {
+          "answer": "Lil Jon",
+          "display": "4 nominations"
+        },
+        {
+          "answer": "Pharrell Williams",
+          "display": "4 nominations"
+        },
+        {
+          "answer": "Katy Perry",
+          "display": "3 nominations"
+        },
+        {
+          "answer": "Rihanna",
+          "display": "3 nominations"
+        },
+        {
+          "answer": "Sia",
+          "display": "3 nominations"
+        }
+      ]
+    },
+    {
+      "category": "music/awards/vmas",
+      "question": "Top 8 artists by nominations at the 2015 MTV Video Music Awards",
+      "cutoff": 8,
+      "difficulty": 3,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1373782342 | table 4 | name: Artist | value: Nominations",
+      "tags": [
+        "music",
+        "awards",
+        "vma",
+        "2015"
+      ],
+      "answers": [
+        {
+          "answer": "Taylor Swift",
+          "display": "10 nominations"
+        },
+        {
+          "answer": "Ed Sheeran",
+          "display": "6 nominations"
+        },
+        {
+          "answer": "Beyoncé",
+          "display": "5 nominations",
+          "aliases": [
+            "Beyonce"
+          ]
+        },
+        {
+          "answer": "Mark Ronson",
+          "display": "5 nominations"
+        },
+        {
+          "answer": "Diplo",
+          "display": "4 nominations"
+        },
+        {
+          "answer": "Kendrick Lamar",
+          "display": "4 nominations"
+        },
+        {
+          "answer": "Nicki Minaj",
+          "display": "4 nominations"
+        },
+        {
+          "answer": "Skrillex",
+          "display": "4 nominations"
+        },
+        {
+          "answer": "Fetty Wap",
+          "display": "3 nominations"
+        },
+        {
+          "answer": "FKA Twigs",
+          "display": "3 nominations"
+        },
+        {
+          "answer": "The Weeknd",
+          "display": "3 nominations"
+        }
+      ]
+    },
+    {
+      "category": "music/awards/vmas",
+      "question": "Top 5 artists by nominations at the 2016 MTV Video Music Awards",
+      "cutoff": 5,
+      "difficulty": 3,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1372774709 | table 4 | name: Artist | value: Nominations",
+      "tags": [
+        "music",
+        "awards",
+        "vma",
+        "2016"
+      ],
+      "answers": [
+        {
+          "answer": "Beyoncé",
+          "display": "11 nominations",
+          "aliases": [
+            "Beyonce"
+          ]
+        },
+        {
+          "answer": "Adele",
+          "display": "8 nominations"
+        },
+        {
+          "answer": "Drake",
+          "display": "7 nominations"
+        },
+        {
+          "answer": "Ariana Grande",
+          "display": "5 nominations"
+        },
+        {
+          "answer": "Rihanna",
+          "display": "5 nominations"
+        },
+        {
+          "answer": "Calvin Harris",
+          "display": "4 nominations"
+        },
+        {
+          "answer": "David Bowie",
+          "display": "4 nominations"
+        },
+        {
+          "answer": "Justin Bieber",
+          "display": "4 nominations"
+        }
+      ]
+    },
+    {
+      "category": "music/awards/vmas",
+      "question": "Top 7 artists by nominations at the 2018 MTV Video Music Awards",
+      "cutoff": 7,
+      "difficulty": 3,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1374166679 | table 4 | name: Artist | value: Nominations",
+      "tags": [
+        "music",
+        "awards",
+        "vma",
+        "2018"
+      ],
+      "answers": [
+        {
+          "answer": "Cardi B",
+          "display": "12 nominations"
+        },
+        {
+          "answer": "The Carters",
+          "display": "8 nominations"
+        },
+        {
+          "answer": "Drake",
+          "display": "8 nominations"
+        },
+        {
+          "answer": "Childish Gambino",
+          "display": "7 nominations"
+        },
+        {
+          "answer": "Bruno Mars",
+          "display": "6 nominations"
+        },
+        {
+          "answer": "Ariana Grande",
+          "display": "5 nominations"
+        },
+        {
+          "answer": "Camila Cabello",
+          "display": "5 nominations"
+        },
+        {
+          "answer": "Dua Lipa",
+          "display": "4 nominations"
+        },
+        {
+          "answer": "Ed Sheeran",
+          "display": "4 nominations"
+        },
+        {
+          "answer": "Khalid",
+          "display": "4 nominations"
+        },
+        {
+          "answer": "Young Thug",
+          "display": "4 nominations"
+        }
+      ]
+    },
+    {
+      "category": "music/awards/vmas",
+      "question": "Top 8 artists by nominations at the 2019 MTV Video Music Awards",
+      "cutoff": 8,
+      "difficulty": 3,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1378621213 | table 4 | name: Artist | value: Nominations",
+      "tags": [
+        "music",
+        "awards",
+        "vma",
+        "2019"
+      ],
+      "answers": [
+        {
+          "answer": "Ariana Grande",
+          "display": "12 nominations"
+        },
+        {
+          "answer": "Taylor Swift",
+          "display": "12 nominations"
+        },
+        {
+          "answer": "Billie Eilish",
+          "display": "10 nominations"
+        },
+        {
+          "answer": "Lil Nas X",
+          "display": "9 nominations"
+        },
+        {
+          "answer": "Billy Ray Cyrus",
+          "display": "8 nominations"
+        },
+        {
+          "answer": "Halsey",
+          "display": "7 nominations"
+        },
+        {
+          "answer": "Jonas Brothers",
+          "display": "6 nominations"
+        },
+        {
+          "answer": "Shawn Mendes",
+          "display": "6 nominations"
+        },
+        {
+          "answer": "BTS",
+          "display": "5 nominations"
+        },
+        {
+          "answer": "Camila Cabello",
+          "display": "5 nominations"
+        },
+        {
+          "answer": "Cardi B",
+          "display": "5 nominations"
+        },
+        {
+          "answer": "J Balvin",
+          "display": "5 nominations"
+        }
+      ]
+    },
+    {
+      "category": "music/awards/vmas",
+      "question": "Top 10 artists by nominations at the 2020 MTV Video Music Awards",
+      "cutoff": 10,
+      "difficulty": 3,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1377611545 | table 4 | name: Artist | value: Nominations",
+      "tags": [
+        "music",
+        "awards",
+        "vma",
+        "2020"
+      ],
+      "answers": [
+        {
+          "answer": "Lady Gaga",
+          "display": "9 nominations"
+        },
+        {
+          "answer": "Ariana Grande",
+          "display": "9 nominations"
+        },
+        {
+          "answer": "The Weeknd",
+          "display": "7 nominations"
+        },
+        {
+          "answer": "Billie Eilish",
+          "display": "6 nominations"
+        },
+        {
+          "answer": "Taylor Swift",
+          "display": "6 nominations"
+        },
+        {
+          "answer": "DaBaby",
+          "display": "5 nominations"
+        },
+        {
+          "answer": "Drake",
+          "display": "5 nominations"
+        },
+        {
+          "answer": "Dua Lipa",
+          "display": "5 nominations"
+        },
+        {
+          "answer": "Megan Thee Stallion",
+          "display": "5 nominations"
+        },
+        {
+          "answer": "Roddy Ricch",
+          "display": "5 nominations"
+        },
+        {
+          "answer": "BTS",
+          "display": "4 nominations"
+        },
+        {
+          "answer": "Doja Cat",
+          "display": "4 nominations"
+        },
+        {
+          "answer": "Harry Styles",
+          "display": "4 nominations"
+        },
+        {
+          "answer": "J Balvin",
+          "display": "4 nominations"
+        },
+        {
+          "answer": "Justin Bieber",
+          "display": "4 nominations"
+        }
+      ]
+    },
+    {
+      "category": "music/awards/vmas",
+      "question": "Top 6 artists by nominations at the 2025 MTV Video Music Awards",
+      "cutoff": 6,
+      "difficulty": 3,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1379825739 | table 7 | name: Artist | value: Nominations",
+      "tags": [
+        "music",
+        "awards",
+        "vma",
+        "2025"
+      ],
+      "answers": [
+        {
+          "answer": "Lady Gaga",
+          "display": "12 nominations"
+        },
+        {
+          "answer": "Bruno Mars",
+          "display": "11 nominations"
+        },
+        {
+          "answer": "Kendrick Lamar",
+          "display": "10 nominations"
+        },
+        {
+          "answer": "Sabrina Carpenter",
+          "display": "9 nominations"
+        },
+        {
+          "answer": "Rosé",
+          "display": "8 nominations"
+        },
+        {
+          "answer": "Ariana Grande",
+          "display": "7 nominations"
+        },
+        {
+          "answer": "Billie Eilish",
+          "display": "6 nominations"
+        },
+        {
+          "answer": "Tate McRae",
+          "display": "6 nominations"
+        },
+        {
+          "answer": "The Weeknd",
+          "display": "6 nominations"
+        },
+        {
+          "answer": "Charli XCX",
+          "display": "5 nominations"
+        }
+      ]
+    },
+    {
+      "category": "music/awards/vmas",
+      "question": "Top 5 artists by nominations at the 2026 MTV Video Music Awards",
+      "cutoff": 5,
+      "difficulty": 3,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1379823544 | table 5 | name: Artist | value: Nominations",
+      "tags": [
+        "music",
+        "awards",
+        "vma",
+        "2026"
+      ],
+      "answers": [
+        {
+          "answer": "Madonna",
+          "display": "13 nominations"
+        },
+        {
+          "answer": "Taylor Swift",
+          "display": "11 nominations"
+        },
+        {
+          "answer": "Sabrina Carpenter",
+          "display": "9 nominations"
+        },
+        {
+          "answer": "Ariana Grande",
+          "display": "8 nominations"
+        },
+        {
+          "answer": "Bruno Mars",
+          "display": "7 nominations"
+        },
+        {
+          "answer": "Ella Langley",
+          "display": "5 nominations"
+        },
+        {
+          "answer": "PinkPantheress",
+          "display": "5 nominations"
+        },
+        {
+          "answer": "Zara Larsson",
+          "display": "5 nominations"
+        }
+      ]
+    },
+    {
+      "category": "music/awards/billboard",
+      "question": "Top 8 artists by nominations at the 2004 Billboard Music Awards",
+      "cutoff": 8,
+      "difficulty": 3,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1369797798 | table 2 | name: Artist | value: Nominations",
+      "tags": [
+        "music",
+        "awards",
+        "billboard",
+        "2004"
+      ],
+      "answers": [
+        {
+          "answer": "Usher",
+          "display": "21 nominations"
+        },
+        {
+          "answer": "Alicia Keys",
+          "display": "19 nominations"
+        },
+        {
+          "answer": "Kanye West",
+          "display": "12 nominations"
+        },
+        {
+          "answer": "Maroon 5",
+          "display": "10 nominations"
+        },
+        {
+          "answer": "OutKast",
+          "display": "10 nominations"
+        },
+        {
+          "answer": "Lil Jon",
+          "display": "8 nominations"
+        },
+        {
+          "answer": "Ludacris",
+          "display": "7 nominations"
+        },
+        {
+          "answer": "R. Kelly",
+          "display": "6 nominations"
+        },
+        {
+          "answer": "Kenny Chesney",
+          "display": "5 nominations"
+        },
+        {
+          "answer": "Hoobastank",
+          "display": "5 nominations"
+        },
+        {
+          "answer": "Toby Keith",
+          "display": "5 nominations"
+        },
+        {
+          "answer": "Britney Spears",
+          "display": "5 nominations"
+        },
+        {
+          "answer": "Gretchen Wilson",
+          "display": "5 nominations"
+        }
+      ]
+    },
+    {
+      "category": "music/awards/billboard",
+      "question": "Top 9 artists by nominations at the 2006 Billboard Music Awards",
+      "cutoff": 9,
+      "difficulty": 3,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1379696710 | table 3 | name: Artist | value: Nominations",
+      "tags": [
+        "music",
+        "awards",
+        "billboard",
+        "2006"
+      ],
+      "answers": [
+        {
+          "answer": "Mary J. Blige",
+          "display": "13 nominations"
+        },
+        {
+          "answer": "Ne-Yo",
+          "display": "12 nominations"
+        },
+        {
+          "answer": "Nickelback",
+          "display": "10 nominations"
+        },
+        {
+          "answer": "Rascal Flatts",
+          "display": "10 nominations"
+        },
+        {
+          "answer": "T.I.",
+          "display": "10 nominations"
+        },
+        {
+          "answer": "Sean Paul",
+          "display": "9 nominations"
+        },
+        {
+          "answer": "Chris Brown",
+          "display": "8 nominations"
+        },
+        {
+          "answer": "Carrie Underwood",
+          "display": "8 nominations"
+        },
+        {
+          "answer": "Kenny Chesney",
+          "display": "7 nominations"
+        },
+        {
+          "answer": "Beyoncé",
+          "display": "6 nominations",
+          "aliases": [
+            "Beyonce"
+          ]
+        },
+        {
+          "answer": "Jamie Foxx",
+          "display": "6 nominations"
+        },
+        {
+          "answer": "The Fray",
+          "display": "6 nominations"
+        },
+        {
+          "answer": "Red Hot Chili Peppers",
+          "display": "6 nominations"
+        }
+      ]
+    },
+    {
+      "category": "music/awards/billboard",
+      "question": "Top 7 artists by nominations at the 2011 Billboard Music Awards",
+      "cutoff": 7,
+      "difficulty": 3,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1369797588 | table 3 | name: Artist | value: Nominations",
+      "tags": [
+        "music",
+        "awards",
+        "billboard",
+        "2011"
+      ],
+      "answers": [
+        {
+          "answer": "Rihanna",
+          "display": "18 nominations"
+        },
+        {
+          "answer": "Eminem",
+          "display": "17 nominations"
+        },
+        {
+          "answer": "Lady Gaga",
+          "display": "15 nominations"
+        },
+        {
+          "answer": "Justin Bieber",
+          "display": "11 nominations"
+        },
+        {
+          "answer": "Bruno Mars",
+          "display": "11 nominations"
+        },
+        {
+          "answer": "Katy Perry",
+          "display": "11 nominations"
+        },
+        {
+          "answer": "Usher",
+          "display": "10 nominations"
+        },
+        {
+          "answer": "Taio Cruz",
+          "display": "7 nominations"
+        },
+        {
+          "answer": "Lady Antebellum",
+          "display": "7 nominations"
+        },
+        {
+          "answer": "Mumford & Sons",
+          "display": "7 nominations"
+        },
+        {
+          "answer": "Shakira",
+          "display": "7 nominations"
+        },
+        {
+          "answer": "Taylor Swift",
+          "display": "7 nominations"
+        }
+      ]
+    },
+    {
+      "category": "music/awards/billboard",
+      "question": "Top 8 artists by nominations at the 2012 Billboard Music Awards",
+      "cutoff": 8,
+      "difficulty": 3,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1369797135 | table 3 | name: Artist | value: Nominations",
+      "tags": [
+        "music",
+        "awards",
+        "billboard",
+        "2012"
+      ],
+      "answers": [
+        {
+          "answer": "LMFAO",
+          "display": "22 nominations"
+        },
+        {
+          "answer": "Adele",
+          "display": "20 nominations"
+        },
+        {
+          "answer": "Rihanna",
+          "display": "13 nominations"
+        },
+        {
+          "answer": "Lady Gaga",
+          "display": "11 nominations"
+        },
+        {
+          "answer": "Lil Wayne",
+          "display": "10 nominations"
+        },
+        {
+          "answer": "Katy Perry",
+          "display": "9 nominations"
+        },
+        {
+          "answer": "Lauren Bennett",
+          "display": "8 nominations"
+        },
+        {
+          "answer": "GoonRock",
+          "display": "8 nominations"
+        },
+        {
+          "answer": "Coldplay",
+          "display": "7 nominations"
+        },
+        {
+          "answer": "Foster the People",
+          "display": "7 nominations"
+        },
+        {
+          "answer": "Nicki Minaj",
+          "display": "7 nominations"
+        },
+        {
+          "answer": "Bruno Mars",
+          "display": "6 nominations"
+        }
+      ]
+    },
+    {
+      "category": "music/awards/billboard",
+      "question": "Top 6 artists by nominations at the 2013 Billboard Music Awards",
+      "cutoff": 6,
+      "difficulty": 3,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1373953949 | table 3 | name: Artist | value: Nominations",
+      "tags": [
+        "music",
+        "awards",
+        "billboard",
+        "2013"
+      ],
+      "answers": [
+        {
+          "answer": "Maroon 5",
+          "display": "14 nominations"
+        },
+        {
+          "answer": "fun.",
+          "display": "13 nominations"
+        },
+        {
+          "answer": "Taylor Swift",
+          "display": "12 nominations"
+        },
+        {
+          "answer": "One Direction",
+          "display": "10 nominations"
+        },
+        {
+          "answer": "Rihanna",
+          "display": "10 nominations"
+        },
+        {
+          "answer": "Carly Rae Jepsen",
+          "display": "9 nominations"
+        },
+        {
+          "answer": "Flo Rida",
+          "display": "7 nominations"
+        },
+        {
+          "answer": "Gotye",
+          "display": "7 nominations"
+        },
+        {
+          "answer": "Justin Bieber",
+          "display": "7 nominations"
+        },
+        {
+          "answer": "Nicki Minaj",
+          "display": "7 nominations"
+        }
+      ]
+    },
+    {
+      "category": "music/awards/billboard",
+      "question": "Top 10 artists by nominations at the 2014 Billboard Music Awards",
+      "cutoff": 10,
+      "difficulty": 3,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1369797015 | table 4 | name: Artist | value: Nominations",
+      "tags": [
+        "music",
+        "awards",
+        "billboard",
+        "2014"
+      ],
+      "answers": [
+        {
+          "answer": "Imagine Dragons",
+          "display": "14 nominations"
+        },
+        {
+          "answer": "Justin Timberlake",
+          "display": "12 nominations"
+        },
+        {
+          "answer": "Lorde",
+          "display": "12 nominations"
+        },
+        {
+          "answer": "Katy Perry",
+          "display": "10 nominations"
+        },
+        {
+          "answer": "Miley Cyrus",
+          "display": "9 nominations"
+        },
+        {
+          "answer": "Pharrell Williams",
+          "display": "9 nominations"
+        },
+        {
+          "answer": "Luke Bryan",
+          "display": "8 nominations"
+        },
+        {
+          "answer": "Macklemore & Ryan Lewis",
+          "display": "8 nominations"
+        },
+        {
+          "answer": "Beyoncé",
+          "display": "7 nominations",
+          "aliases": [
+            "Beyonce"
+          ]
+        },
+        {
+          "answer": "Robin Thicke",
+          "display": "7 nominations"
+        },
+        {
+          "answer": "Eminem",
+          "display": "6 nominations"
+        },
+        {
+          "answer": "Drake",
+          "display": "5 nominations"
+        },
+        {
+          "answer": "Jay-Z",
+          "display": "5 nominations",
+          "aliases": [
+            "Jay Z"
+          ]
+        },
+        {
+          "answer": "Rihanna",
+          "display": "5 nominations"
+        },
+        {
+          "answer": "T.I.",
+          "display": "5 nominations"
+        }
+      ]
+    },
+    {
+      "category": "music/awards/billboard",
+      "question": "Top 10 artists by nominations at the 2015 Billboard Music Awards",
+      "cutoff": 10,
+      "difficulty": 3,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1369796972 | table 3 | name: Artist | value: Nominations",
+      "tags": [
+        "music",
+        "awards",
+        "billboard",
+        "2015"
+      ],
+      "answers": [
+        {
+          "answer": "Taylor Swift",
+          "display": "14 nominations"
+        },
+        {
+          "answer": "Sam Smith",
+          "display": "13 nominations"
+        },
+        {
+          "answer": "Iggy Azalea",
+          "display": "12 nominations"
+        },
+        {
+          "answer": "Meghan Trainor",
+          "display": "9 nominations"
+        },
+        {
+          "answer": "John Legend",
+          "display": "7 nominations"
+        },
+        {
+          "answer": "Ariana Grande",
+          "display": "6 nominations"
+        },
+        {
+          "answer": "Pharrell Williams",
+          "display": "6 nominations"
+        },
+        {
+          "answer": "Hozier",
+          "display": "5 nominations"
+        },
+        {
+          "answer": "Ed Sheeran",
+          "display": "5 nominations"
+        },
+        {
+          "answer": "Romeo Santos",
+          "display": "5 nominations"
+        },
+        {
+          "answer": "Luke Bryan",
+          "display": "4 nominations"
+        },
+        {
+          "answer": "Drake",
+          "display": "4 nominations"
+        },
+        {
+          "answer": "Florida Georgia Line",
+          "display": "4 nominations"
+        },
+        {
+          "answer": "One Direction",
+          "display": "4 nominations"
+        },
+        {
+          "answer": "Katy Perry",
+          "display": "4 nominations"
+        }
+      ]
+    },
+    {
+      "category": "music/awards/billboard",
+      "question": "Top 8 artists by nominations at the 2016 Billboard Music Awards",
+      "cutoff": 8,
+      "difficulty": 3,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1369796932 | table 3 | name: Artist | value: Nominations",
+      "tags": [
+        "music",
+        "awards",
+        "billboard",
+        "2016"
+      ],
+      "answers": [
+        {
+          "answer": "The Weeknd",
+          "display": "20 nominations"
+        },
+        {
+          "answer": "Justin Bieber",
+          "display": "12 nominations"
+        },
+        {
+          "answer": "Drake",
+          "display": "12 nominations"
+        },
+        {
+          "answer": "Fetty Wap",
+          "display": "11 nominations"
+        },
+        {
+          "answer": "Adele",
+          "display": "9 nominations"
+        },
+        {
+          "answer": "Taylor Swift",
+          "display": "8 nominations"
+        },
+        {
+          "answer": "Wiz Khalifa",
+          "display": "6 nominations"
+        },
+        {
+          "answer": "Charlie Puth",
+          "display": "6 nominations"
+        },
+        {
+          "answer": "Silentó",
+          "display": "5 nominations"
+        },
+        {
+          "answer": "Hillsong UNITED",
+          "display": "4 nominations"
+        },
+        {
+          "answer": "Sam Hunt",
+          "display": "4 nominations"
+        },
+        {
+          "answer": "twenty one pilots",
+          "display": "4 nominations"
+        }
+      ]
+    },
+    {
+      "category": "music/awards/billboard",
+      "question": "Top 10 artists by nominations at the 2017 Billboard Music Awards",
+      "cutoff": 10,
+      "difficulty": 3,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1369796484 | table 3 | name: Artist | value: Nominations",
+      "tags": [
+        "music",
+        "awards",
+        "billboard",
+        "2017"
+      ],
+      "answers": [
+        {
+          "answer": "Drake",
+          "display": "22 nominations"
+        },
+        {
+          "answer": "The Chainsmokers",
+          "display": "22 nominations"
+        },
+        {
+          "answer": "Twenty One Pilots",
+          "display": "17 nominations"
+        },
+        {
+          "answer": "Rihanna",
+          "display": "14 nominations"
+        },
+        {
+          "answer": "The Weeknd",
+          "display": "13 nominations"
+        },
+        {
+          "answer": "Beyoncé",
+          "display": "8 nominations",
+          "aliases": [
+            "Beyonce"
+          ]
+        },
+        {
+          "answer": "Justin Bieber",
+          "display": "7 nominations"
+        },
+        {
+          "answer": "Halsey",
+          "display": "7 nominations"
+        },
+        {
+          "answer": "Kyla",
+          "display": "7 nominations"
+        },
+        {
+          "answer": "WizKid",
+          "display": "7 nominations"
+        },
+        {
+          "answer": "Florida Georgia Line",
+          "display": "6 nominations"
+        },
+        {
+          "answer": "Daft Punk",
+          "display": "5 nominations"
+        },
+        {
+          "answer": "Daya",
+          "display": "5 nominations"
+        },
+        {
+          "answer": "Desiigner",
+          "display": "5 nominations"
+        }
+      ]
+    },
+    {
+      "category": "music/awards/billboard",
+      "question": "Top 8 artists by nominations at the 2018 Billboard Music Awards",
+      "cutoff": 8,
+      "difficulty": 3,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1369796473 | table 3 | name: Artist | value: Nominations",
+      "tags": [
+        "music",
+        "awards",
+        "billboard",
+        "2018"
+      ],
+      "answers": [
+        {
+          "answer": "Kendrick Lamar",
+          "display": "15 nominations"
+        },
+        {
+          "answer": "Bruno Mars",
+          "display": "15 nominations"
+        },
+        {
+          "answer": "Ed Sheeran",
+          "display": "15 nominations"
+        },
+        {
+          "answer": "Post Malone",
+          "display": "13 nominations"
+        },
+        {
+          "answer": "Imagine Dragons",
+          "display": "11 nominations"
+        },
+        {
+          "answer": "Drake",
+          "display": "9 nominations"
+        },
+        {
+          "answer": "Cardi B",
+          "display": "8 nominations"
+        },
+        {
+          "answer": "Justin Bieber",
+          "display": "8 nominations"
+        },
+        {
+          "answer": "Luis Fonsi",
+          "display": "7 nominations"
+        },
+        {
+          "answer": "Daddy Yankee",
+          "display": "7 nominations"
+        },
+        {
+          "answer": "The Chainsmokers",
+          "display": "6 nominations"
+        }
+      ]
+    },
+    {
+      "category": "music/awards/brits",
+      "question": "Top 5 artists by nominations at the 2001 BRIT Awards",
+      "cutoff": 5,
+      "difficulty": 3,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1311415218 | table 3 | name: Artist | value: Nominations",
+      "tags": [
+        "music",
+        "awards",
+        "brits",
+        "2001"
+      ],
+      "answers": [
+        {
+          "answer": "Craig David",
+          "display": "6 nominations"
+        },
+        {
+          "answer": "Coldplay",
+          "display": "5 nominations"
+        },
+        {
+          "answer": "Moloko",
+          "display": "4 nominations"
+        },
+        {
+          "answer": "Robbie Williams",
+          "display": "4 nominations"
+        },
+        {
+          "answer": "Toploader",
+          "display": "4 nominations"
+        },
+        {
+          "answer": "All Saints",
+          "display": "3 nominations"
+        },
+        {
+          "answer": "David Gray",
+          "display": "3 nominations"
+        },
+        {
+          "answer": "Sonique",
+          "display": "3 nominations"
+        },
+        {
+          "answer": "Westlife",
+          "display": "3 nominations"
+        }
+      ]
+    },
+    {
+      "category": "music/awards/arias",
+      "question": "Top 8 artists by nominations at the 1987 ARIA Music Awards",
+      "cutoff": 8,
+      "difficulty": 3,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1363343671 | table 1 | name: Artist | value: Nominations",
+      "tags": [
+        "music",
+        "awards",
+        "arias",
+        "1987"
+      ],
+      "answers": [
+        {
+          "answer": "John Farnham",
+          "display": "10 nominations"
+        },
+        {
+          "answer": "Crowded House",
+          "display": "7 nominations"
+        },
+        {
+          "answer": "INXS",
+          "display": "6 nominations"
+        },
+        {
+          "answer": "Paul Kelly",
+          "display": "5 nominations"
+        },
+        {
+          "answer": "Jimmy Barnes",
+          "display": "4 nominations"
+        },
+        {
+          "answer": "Hunters & Collectors",
+          "display": "4 nominations"
+        },
+        {
+          "answer": "Pseudo Echo",
+          "display": "4 nominations"
+        },
+        {
+          "answer": "Wa Wa Nee",
+          "display": "4 nominations"
+        },
+        {
+          "answer": "Big Pig",
+          "display": "3 nominations"
+        },
+        {
+          "answer": "Boom Crash Opera",
+          "display": "3 nominations"
+        },
+        {
+          "answer": "Dragon",
+          "display": "3 nominations"
+        }
+      ]
+    }
+  ]
+}

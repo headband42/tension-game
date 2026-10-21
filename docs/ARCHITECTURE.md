@@ -66,11 +66,12 @@ queue and run in order behind the in-memory state.
 The rules live in `packages/shared/src/scoring.ts`, so the server and the UI can't disagree:
 
 - rank ≤ cutoff → +rank
-- rank > cutoff → −5 (tension)
-- no match or blank → −3
+- one of the 3–5 tension answers just below the cutoff → −5
+- anything else, or blank → −3 (deeper entries of the real ranking aren't stored, so they're misses)
 
 A double multiplies the result by 2. A double is spent only when the player actually typed
-something. Each question sets its own cutoff (default 10).
+something. Each question sets its own cutoff (default 10). The importer enforces the 3–5 band, and
+the store ignores anything deeper in questions from older databases.
 
 ### Answer matching
 
@@ -96,15 +97,24 @@ are all equal. A submission is matched like this:
      equivalences per word (ph→f, soft c→s, hard c/ck/q→k, x→ks, z→s, y→i, a silent h after a
      consonant, and doubled letters collapsed).
 3. **Numbers guard.** A fuzzy match is only considered if both sides contain the same numbers.
-   `numbersIn` reads digits, number words and Roman numerals; a one-letter numeral counts only as
-   the last word. This stops "Star Wars 9" from matching "Star Wars 7" or "Annapurna II" from
-   matching "Annapurna".
+   `numbersIn` reads digits, number words and Roman numerals (I to LXXXIX); a one-letter numeral
+   counts only as the last word. This stops "Star Wars 9" from matching "Star Wars 7" or
+   "Annapurna II" from matching "Annapurna".
+4. **Markers guard.** Direction and weekday words (`markersIn`) must also agree when both sides
+   have one, so "North Korea" never matches "South Korea". Spellings shorter than
+   `MIN_FUZZY_LENGTH` (4) only match exactly.
+5. **Decoys.** `decoyIndex` scans the whole bank for look-alike spellings that some question lists
+   as different answers ("Poland" beside the Netherlands' alias "Holland"). Each answer in a round
+   carries those look-alikes as `decoys`, and a submission that is exactly one of its decoys is
+   never fuzzy-matched to it. `PrismaGameStore` builds the index on first use and checks a cheap
+   fingerprint of the bank (question count, answer count, newest answer id) at most once a minute,
+   rebuilding it after an import.
 
 Ties go to the better written score, then to the higher-ranked answer.
 
 The importer refuses any question where one spelling could match two different answers exactly, and
 warns when two answers are close enough to be fuzzily confused. `apps/server/test/typo-corpus.ts`
-holds about 150 real misspellings and look-alike wrong answers for the starter questions, and the
+holds about 160 real misspellings and look-alike wrong answers for the starter questions, and the
 test suite checks all of them.
 
 ### Identity and reconnecting

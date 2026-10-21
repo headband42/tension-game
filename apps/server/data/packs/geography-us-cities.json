@@ -1,0 +1,793 @@
+{
+  "categories": [
+    {
+      "path": "geography/cities/usa",
+      "name": "USA"
+    }
+  ],
+  "questions": [
+    {
+      "category": "geography/cities/usa",
+      "difficulty": 1,
+      "question": "Top 10 largest US metropolitan statistical areas by 2025 estimate",
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1376372672 | table 1 | name: Metropolitan statistical area | value: 2025 estimate",
+      "tags": [
+        "geography",
+        "cities",
+        "usa",
+        "metro-areas"
+      ],
+      "answers": [
+        {
+          "answer": "New York",
+          "display": "20,112,448",
+          "aliases": [
+            "NYC",
+            "New York City"
+          ]
+        },
+        {
+          "answer": "Los Angeles",
+          "display": "12,844,441",
+          "aliases": [
+            "LA"
+          ]
+        },
+        {
+          "answer": "Chicago",
+          "display": "9,434,123"
+        },
+        {
+          "answer": "Dallas–Fort Worth",
+          "display": "8,477,157",
+          "aliases": [
+            "Dallas",
+            "Fort Worth",
+            "DFW"
+          ]
+        },
+        {
+          "answer": "Houston",
+          "display": "7,904,627"
+        },
+        {
+          "answer": "Atlanta",
+          "display": "6,482,182"
+        },
+        {
+          "answer": "Washington, D.C.",
+          "display": "6,465,724",
+          "aliases": [
+            "Washington",
+            "DC",
+            "Washington DC"
+          ]
+        },
+        {
+          "answer": "Miami",
+          "display": "6,391,072"
+        },
+        {
+          "answer": "Philadelphia",
+          "display": "6,329,118",
+          "aliases": [
+            "Philly"
+          ]
+        },
+        {
+          "answer": "Phoenix",
+          "display": "5,228,938"
+        },
+        {
+          "answer": "Boston",
+          "display": "5,034,221"
+        },
+        {
+          "answer": "Riverside",
+          "display": "4,769,007",
+          "aliases": [
+            "Inland Empire"
+          ]
+        },
+        {
+          "answer": "San Francisco",
+          "display": "4,630,041",
+          "aliases": [
+            "SF",
+            "Bay Area",
+            "Oakland"
+          ]
+        },
+        {
+          "answer": "Detroit",
+          "display": "4,390,913"
+        }
+      ]
+    },
+    {
+      "category": "geography/cities/usa",
+      "difficulty": 1,
+      "question": "Top 10 US cities by number of skyscrapers (500 ft / 152 m or taller, as of 2026)",
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1379226865 | table 3 | name: City | value: Total",
+      "tags": [
+        "geography",
+        "cities",
+        "usa",
+        "architecture"
+      ],
+      "answers": [
+        {
+          "answer": "New York City",
+          "display": "306 skyscrapers",
+          "aliases": [
+            "NYC",
+            "New York"
+          ]
+        },
+        {
+          "answer": "Chicago",
+          "display": "129 skyscrapers"
+        },
+        {
+          "answer": "Miami",
+          "display": "74 skyscrapers"
+        },
+        {
+          "answer": "Houston",
+          "display": "40 skyscrapers"
+        },
+        {
+          "answer": "Los Angeles",
+          "display": "37 skyscrapers",
+          "aliases": [
+            "LA"
+          ]
+        },
+        {
+          "answer": "San Francisco",
+          "display": "24 skyscrapers",
+          "aliases": [
+            "SF"
+          ]
+        },
+        {
+          "answer": "Boston",
+          "display": "23 skyscrapers"
+        },
+        {
+          "answer": "Jersey City",
+          "display": "23 skyscrapers"
+        },
+        {
+          "answer": "Seattle",
+          "display": "21 skyscrapers"
+        },
+        {
+          "answer": "Dallas",
+          "display": "20 skyscrapers"
+        },
+        {
+          "answer": "Atlanta",
+          "display": "18 skyscrapers"
+        },
+        {
+          "answer": "Austin",
+          "display": "18 skyscrapers"
+        },
+        {
+          "answer": "Las Vegas",
+          "display": "17 skyscrapers"
+        },
+        {
+          "answer": "Sunny Isles Beach",
+          "display": "17 skyscrapers"
+        }
+      ]
+    },
+    {
+      "category": "geography/cities/usa",
+      "difficulty": 1,
+      "question": "Top 10 largest cities in Texas by 2025 estimate (cities only, not towns)",
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1364893823 | table 1 | name: Municipality | value: 2025 Estimate | header rows: 2 | where: Designation=City",
+      "tags": [
+        "geography",
+        "cities",
+        "usa",
+        "population",
+        "texas"
+      ],
+      "answers": [
+        {
+          "answer": "Houston",
+          "display": "2,397,315"
+        },
+        {
+          "answer": "San Antonio",
+          "display": "1,548,422"
+        },
+        {
+          "answer": "Dallas",
+          "display": "1,329,491"
+        },
+        {
+          "answer": "Fort Worth",
+          "display": "1,028,117"
+        },
+        {
+          "answer": "Austin",
+          "display": "1,002,632"
+        },
+        {
+          "answer": "El Paso",
+          "display": "683,012"
+        },
+        {
+          "answer": "Arlington",
+          "display": "402,134"
+        },
+        {
+          "answer": "Corpus Christi",
+          "display": "317,247"
+        },
+        {
+          "answer": "Plano",
+          "display": "293,028"
+        },
+        {
+          "answer": "Lubbock",
+          "display": "273,071"
+        },
+        {
+          "answer": "Laredo",
+          "display": "269,515"
+        },
+        {
+          "answer": "Irving",
+          "display": "257,076"
+        },
+        {
+          "answer": "Garland",
+          "display": "249,625"
+        },
+        {
+          "answer": "Frisco",
+          "display": "236,955"
+        }
+      ]
+    },
+    {
+      "category": "geography/cities/usa",
+      "difficulty": 1,
+      "question": "Top 10 largest cities in California by 2020 census population (cities only, not towns)",
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1372858055 | table 2 | name: Name | value: Population (2020) | where: Type=City",
+      "tags": [
+        "geography",
+        "cities",
+        "usa",
+        "population",
+        "california"
+      ],
+      "answers": [
+        {
+          "answer": "Los Angeles",
+          "display": "3,898,747",
+          "aliases": [
+            "LA"
+          ]
+        },
+        {
+          "answer": "San Diego",
+          "display": "1,386,932"
+        },
+        {
+          "answer": "San Jose",
+          "display": "1,013,240"
+        },
+        {
+          "answer": "Fresno",
+          "display": "542,107"
+        },
+        {
+          "answer": "Sacramento",
+          "display": "524,943"
+        },
+        {
+          "answer": "Long Beach",
+          "display": "466,742"
+        },
+        {
+          "answer": "Oakland",
+          "display": "440,646"
+        },
+        {
+          "answer": "Bakersfield",
+          "display": "403,455"
+        },
+        {
+          "answer": "Anaheim",
+          "display": "346,824"
+        },
+        {
+          "answer": "Stockton",
+          "display": "320,804"
+        },
+        {
+          "answer": "Riverside",
+          "display": "314,998"
+        },
+        {
+          "answer": "Santa Ana",
+          "display": "310,227"
+        },
+        {
+          "answer": "Irvine",
+          "display": "307,670"
+        },
+        {
+          "answer": "Chula Vista",
+          "display": "275,487"
+        }
+      ]
+    },
+    {
+      "category": "geography/cities/usa",
+      "difficulty": 2,
+      "question": "Top 10 largest cities in New York State by 2020 census population (cities only, not towns)",
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1366858082 | table 1 | name: Name | value: Pop. (2020) | where: Type=City",
+      "tags": [
+        "geography",
+        "cities",
+        "usa",
+        "population",
+        "new-york"
+      ],
+      "answers": [
+        {
+          "answer": "New York City",
+          "display": "8,804,190",
+          "aliases": [
+            "NYC",
+            "New York"
+          ]
+        },
+        {
+          "answer": "Buffalo",
+          "display": "278,349"
+        },
+        {
+          "answer": "Yonkers",
+          "display": "211,569"
+        },
+        {
+          "answer": "Rochester",
+          "display": "211,328"
+        },
+        {
+          "answer": "Syracuse",
+          "display": "148,620"
+        },
+        {
+          "answer": "Albany",
+          "display": "99,224"
+        },
+        {
+          "answer": "New Rochelle",
+          "display": "79,726"
+        },
+        {
+          "answer": "Mount Vernon",
+          "display": "73,893"
+        },
+        {
+          "answer": "Schenectady",
+          "display": "67,047"
+        },
+        {
+          "answer": "Utica",
+          "display": "65,283"
+        },
+        {
+          "answer": "White Plains",
+          "display": "59,559"
+        },
+        {
+          "answer": "Troy",
+          "display": "51,401"
+        },
+        {
+          "answer": "Niagara Falls",
+          "display": "48,671"
+        },
+        {
+          "answer": "Binghamton",
+          "display": "47,969"
+        }
+      ]
+    },
+    {
+      "category": "geography/cities/usa",
+      "difficulty": 2,
+      "question": "Top 10 most populous US cities in states whose names start with N (2025 estimate)",
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1379161001 | table 2 | name: Municipality | value: 2025 estimate | header rows: 2 | where: ST~^N",
+      "tags": [
+        "geography",
+        "cities",
+        "usa",
+        "population"
+      ],
+      "answers": [
+        {
+          "answer": "New York City",
+          "display": "8,584,629",
+          "aliases": [
+            "NYC",
+            "New York"
+          ]
+        },
+        {
+          "answer": "Charlotte",
+          "display": "964,784"
+        },
+        {
+          "answer": "Las Vegas",
+          "display": "679,817"
+        },
+        {
+          "answer": "Albuquerque",
+          "display": "556,588"
+        },
+        {
+          "answer": "Raleigh",
+          "display": "506,306"
+        },
+        {
+          "answer": "Omaha",
+          "display": "488,797"
+        },
+        {
+          "answer": "Henderson",
+          "display": "353,289"
+        },
+        {
+          "answer": "Newark",
+          "display": "323,808"
+        },
+        {
+          "answer": "Greensboro",
+          "display": "308,667"
+        },
+        {
+          "answer": "Durham",
+          "display": "305,561"
+        },
+        {
+          "answer": "Jersey City",
+          "display": "302,013"
+        },
+        {
+          "answer": "Lincoln",
+          "display": "301,522"
+        },
+        {
+          "answer": "North Las Vegas",
+          "display": "296,653"
+        },
+        {
+          "answer": "Reno",
+          "display": "283,621"
+        }
+      ]
+    },
+    {
+      "category": "geography/cities/usa",
+      "difficulty": 2,
+      "question": "Top 10 fastest-growing US cities with 250,000+ residents in 2020 by percentage change (2020 census to 2025 estimate)",
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1379161001 | table 2 | name: Municipality | value: Change | header rows: 2 | where: 2020 census~^([0-9],[0-9]{3},[0-9]{3}|(2[5-9][0-9]|[3-9][0-9]{2}),[0-9]{3})$",
+      "tags": [
+        "geography",
+        "cities",
+        "usa",
+        "population",
+        "growth"
+      ],
+      "answers": [
+        {
+          "answer": "North Las Vegas",
+          "display": "+13.00%"
+        },
+        {
+          "answer": "Fort Worth",
+          "display": "+11.88%"
+        },
+        {
+          "answer": "Henderson",
+          "display": "+11.23%"
+        },
+        {
+          "answer": "Miami",
+          "display": "+10.76%"
+        },
+        {
+          "answer": "Charlotte",
+          "display": "+10.31%"
+        },
+        {
+          "answer": "Orlando",
+          "display": "+8.56%"
+        },
+        {
+          "answer": "Raleigh",
+          "display": "+8.26%"
+        },
+        {
+          "answer": "San Antonio",
+          "display": "+7.93%"
+        },
+        {
+          "answer": "Durham",
+          "display": "+7.78%"
+        },
+        {
+          "answer": "Tampa",
+          "display": "+7.43%"
+        },
+        {
+          "answer": "Reno",
+          "display": "+7.37%"
+        },
+        {
+          "answer": "Gilbert",
+          "display": "+7.23%"
+        },
+        {
+          "answer": "Jacksonville",
+          "display": "+7.17%"
+        },
+        {
+          "answer": "Seattle",
+          "display": "+6.48%"
+        }
+      ]
+    },
+    {
+      "category": "geography/cities/usa",
+      "difficulty": 2,
+      "question": "Top 10 densest US cities with 100,000+ residents (people per square mile, 2020 census)",
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1375334520 | table 1 | name: Incorporated place | value: Density (/mi2) | where: Population (2020)~^[1-9][0-9]{2},[0-9]{3}$|^[1-9],[0-9]{3},[0-9]{3}$",
+      "tags": [
+        "geography",
+        "cities",
+        "usa",
+        "density"
+      ],
+      "answers": [
+        {
+          "answer": "New York City",
+          "display": "29,302.7 per sq mi",
+          "aliases": [
+            "NYC",
+            "New York"
+          ]
+        },
+        {
+          "answer": "Jersey City",
+          "display": "19,835.1 per sq mi"
+        },
+        {
+          "answer": "Paterson",
+          "display": "18,986.3 per sq mi"
+        },
+        {
+          "answer": "San Francisco",
+          "display": "18,630.7 per sq mi",
+          "aliases": [
+            "SF"
+          ]
+        },
+        {
+          "answer": "Cambridge",
+          "display": "18,512.0 per sq mi"
+        },
+        {
+          "answer": "Boston",
+          "display": "13,977.0 per sq mi"
+        },
+        {
+          "answer": "Daly City",
+          "display": "13,730.5 per sq mi"
+        },
+        {
+          "answer": "Newark",
+          "display": "12,903.8 per sq mi"
+        },
+        {
+          "answer": "Miami",
+          "display": "12,284.5 per sq mi"
+        },
+        {
+          "answer": "Chicago",
+          "display": "12,059.8 per sq mi"
+        },
+        {
+          "answer": "Philadelphia",
+          "display": "11,936.9 per sq mi"
+        },
+        {
+          "answer": "Berkeley",
+          "display": "11,919.6 per sq mi"
+        },
+        {
+          "answer": "Inglewood",
+          "display": "11,881.1 per sq mi"
+        },
+        {
+          "answer": "Yonkers",
+          "display": "11,749.9 per sq mi"
+        }
+      ]
+    },
+    {
+      "category": "geography/cities/usa",
+      "difficulty": 2,
+      "question": "Top 10 largest US cities by land area (sq mi, 2020 census), among cities with 250,000+ residents",
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1377855710 | table 1 | name: City | value: Land area / (mi2) | header rows: 2 | where: Population (2020)~^(2[5-9][0-9]|[3-9][0-9]{2}),[0-9]{3}$|^[1-9],[0-9]{3},[0-9]{3}$",
+      "tags": [
+        "geography",
+        "cities",
+        "usa",
+        "area"
+      ],
+      "answers": [
+        {
+          "answer": "Anchorage",
+          "display": "1,706.8 sq mi"
+        },
+        {
+          "answer": "Jacksonville",
+          "display": "747.3 sq mi"
+        },
+        {
+          "answer": "Houston",
+          "display": "640.8 sq mi"
+        },
+        {
+          "answer": "Oklahoma City",
+          "display": "607.0 sq mi",
+          "aliases": [
+            "OKC"
+          ]
+        },
+        {
+          "answer": "Phoenix",
+          "display": "518.4 sq mi"
+        },
+        {
+          "answer": "San Antonio",
+          "display": "499.0 sq mi"
+        },
+        {
+          "answer": "Nashville",
+          "display": "475.6 sq mi"
+        },
+        {
+          "answer": "Los Angeles",
+          "display": "470.5 sq mi",
+          "aliases": [
+            "LA"
+          ]
+        },
+        {
+          "answer": "Indianapolis",
+          "display": "361.0 sq mi"
+        },
+        {
+          "answer": "Fort Worth",
+          "display": "352.0 sq mi"
+        },
+        {
+          "answer": "Dallas",
+          "display": "339.7 sq mi"
+        },
+        {
+          "answer": "San Diego",
+          "display": "326.0 sq mi"
+        },
+        {
+          "answer": "Austin",
+          "display": "325.0 sq mi"
+        },
+        {
+          "answer": "Louisville",
+          "display": "324.5 sq mi"
+        }
+      ]
+    },
+    {
+      "category": "geography/cities/usa",
+      "difficulty": 2,
+      "question": "Top 10 fastest-growing US metropolitan statistical areas with 2 million+ residents in 2020 by percentage change (2020 census to 2025 estimate)",
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1376372672 | table 1 | name: Metropolitan statistical area | value: % change | where: 2020 census~^([2-9]|[1-9][0-9]),[0-9]{3},[0-9]{3}$",
+      "tags": [
+        "geography",
+        "cities",
+        "usa",
+        "population",
+        "growth",
+        "metro-areas"
+      ],
+      "answers": [
+        {
+          "answer": "Austin",
+          "display": "+14.78%"
+        },
+        {
+          "answer": "Dallas–Fort Worth",
+          "display": "+11.00%",
+          "aliases": [
+            "Dallas",
+            "Fort Worth",
+            "DFW"
+          ]
+        },
+        {
+          "answer": "Orlando",
+          "display": "+10.63%"
+        },
+        {
+          "answer": "Houston",
+          "display": "+10.56%"
+        },
+        {
+          "answer": "Charlotte",
+          "display": "+10.47%"
+        },
+        {
+          "answer": "San Antonio",
+          "display": "+9.97%"
+        },
+        {
+          "answer": "Nashville",
+          "display": "+9.08%"
+        },
+        {
+          "answer": "Phoenix",
+          "display": "+7.91%"
+        },
+        {
+          "answer": "Tampa",
+          "display": "+7.67%"
+        },
+        {
+          "answer": "Las Vegas",
+          "display": "+6.26%"
+        },
+        {
+          "answer": "Atlanta",
+          "display": "+6.18%"
+        },
+        {
+          "answer": "Indianapolis",
+          "display": "+5.55%"
+        },
+        {
+          "answer": "Columbus",
+          "display": "+4.82%"
+        },
+        {
+          "answer": "Denver",
+          "display": "+4.33%"
+        }
+      ]
+    }
+  ]
+}

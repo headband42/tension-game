@@ -1,0 +1,797 @@
+{
+  "categories": [
+    {
+      "path": "movies/people",
+      "name": "Movie People"
+    },
+    {
+      "path": "movies/awards",
+      "name": "Film Awards"
+    }
+  ],
+  "questions": [
+    {
+      "category": "movies/people",
+      "difficulty": 1,
+      "question": "Top 10 highest-grossing film directors by worldwide box office (as of 2026)",
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1379708436 | table 1 | name: Name | value: Worldwide box office",
+      "tags": [
+        "movies",
+        "directors",
+        "box-office"
+      ],
+      "cutoff": 10,
+      "answers": [
+        {
+          "answer": "Steven Spielberg",
+          "display": "$11.03B",
+          "aliases": [
+            "Spielberg"
+          ]
+        },
+        {
+          "answer": "James Cameron",
+          "display": "$10.59B",
+          "aliases": [
+            "Cameron"
+          ]
+        },
+        {
+          "answer": "Christopher Nolan",
+          "display": "$8.01B",
+          "aliases": [
+            "Nolan"
+          ]
+        },
+        {
+          "answer": "Anthony and Joe Russo",
+          "display": "$6.85B",
+          "aliases": [
+            "Russo brothers",
+            "Russos",
+            "The Russos",
+            "Russo",
+            "Anthony Russo",
+            "Joe Russo"
+          ]
+        },
+        {
+          "answer": "Peter Jackson",
+          "display": "$6.55B",
+          "aliases": [
+            "Jackson"
+          ]
+        },
+        {
+          "answer": "Michael Bay",
+          "display": "$6.50B",
+          "aliases": [
+            "Bay"
+          ]
+        },
+        {
+          "answer": "David Yates",
+          "display": "$6.35B",
+          "aliases": [
+            "Yates"
+          ]
+        },
+        {
+          "answer": "Ridley Scott",
+          "display": "$5.04B",
+          "aliases": [
+            "Scott"
+          ]
+        },
+        {
+          "answer": "Tim Burton",
+          "display": "$4.94B",
+          "aliases": [
+            "Burton"
+          ]
+        },
+        {
+          "answer": "Andrew Stanton",
+          "display": "$4.77B",
+          "aliases": [
+            "Stanton"
+          ]
+        },
+        {
+          "answer": "J. J. Abrams",
+          "display": "$4.64B",
+          "aliases": [
+            "JJ Abrams",
+            "Abrams"
+          ]
+        },
+        {
+          "answer": "Robert Zemeckis",
+          "display": "$4.40B",
+          "aliases": [
+            "Zemeckis"
+          ]
+        },
+        {
+          "answer": "Ron Howard",
+          "display": "$4.35B",
+          "aliases": [
+            "Howard"
+          ]
+        },
+        {
+          "answer": "Jon Favreau",
+          "display": "$4.34B",
+          "aliases": [
+            "Favreau"
+          ]
+        },
+        {
+          "answer": "Sam Raimi",
+          "display": "$4.27B",
+          "aliases": [
+            "Raimi"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "movies/people",
+      "difficulty": 2,
+      "question": "Top 7 actors by total US/Canada box-office rentals, films through 1965 (Variety's 1966 chart)",
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1378454795 | table 4 | name: Actor | value: Total (US",
+      "tags": [
+        "movies",
+        "actors",
+        "box-office"
+      ],
+      "cutoff": 7,
+      "answers": [
+        {
+          "answer": "John Wayne",
+          "display": "$113.42 million",
+          "aliases": [
+            "Wayne"
+          ]
+        },
+        {
+          "answer": "Charlton Heston",
+          "display": "$110.50 million",
+          "aliases": [
+            "Heston"
+          ]
+        },
+        {
+          "answer": "Gregory Peck",
+          "display": "$105.08 million",
+          "aliases": [
+            "Peck"
+          ]
+        },
+        {
+          "answer": "Frank Sinatra",
+          "display": "$95.45 million",
+          "aliases": [
+            "Sinatra"
+          ]
+        },
+        {
+          "answer": "Elizabeth Taylor",
+          "display": "$85.83 million",
+          "aliases": [
+            "Taylor"
+          ]
+        },
+        {
+          "answer": "Richard Burton",
+          "display": "$79.95 million",
+          "aliases": [
+            "Burton"
+          ]
+        },
+        {
+          "answer": "James Stewart",
+          "display": "$77.70 million",
+          "aliases": [
+            "Stewart",
+            "Jimmy Stewart"
+          ]
+        },
+        {
+          "answer": "Bing Crosby",
+          "display": "$68.50 million",
+          "aliases": [
+            "Crosby"
+          ]
+        },
+        {
+          "answer": "Clark Gable",
+          "display": "$65.10 million",
+          "aliases": [
+            "Gable"
+          ]
+        },
+        {
+          "answer": "William Holden",
+          "display": "$62.61 million",
+          "aliases": [
+            "Holden"
+          ]
+        },
+        {
+          "answer": "Cary Grant",
+          "display": "$62.55 million",
+          "aliases": [
+            "Grant"
+          ]
+        },
+        {
+          "answer": "Shirley MacLaine",
+          "display": "$62.15 million",
+          "aliases": [
+            "MacLaine"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "movies/people",
+      "difficulty": 2,
+      "question": "Top 9 actors by Academy Award for Best Actor nominations (as of 2026)",
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1379425900 | table 14 | name: Actor | value: Nominations",
+      "tags": [
+        "movies",
+        "oscars",
+        "acting"
+      ],
+      "cutoff": 9,
+      "answers": [
+        {
+          "answer": "Laurence Olivier",
+          "display": "9 nominations",
+          "aliases": [
+            "Olivier"
+          ]
+        },
+        {
+          "answer": "Spencer Tracy",
+          "display": "9 nominations",
+          "aliases": [
+            "Tracy"
+          ]
+        },
+        {
+          "answer": "Paul Newman",
+          "display": "8 nominations",
+          "aliases": [
+            "Newman"
+          ]
+        },
+        {
+          "answer": "Jack Nicholson",
+          "display": "8 nominations",
+          "aliases": [
+            "Nicholson"
+          ]
+        },
+        {
+          "answer": "Peter O'Toole",
+          "display": "8 nominations",
+          "aliases": [
+            "O'Toole",
+            "OToole"
+          ]
+        },
+        {
+          "answer": "Marlon Brando",
+          "display": "7 nominations",
+          "aliases": [
+            "Brando"
+          ]
+        },
+        {
+          "answer": "Dustin Hoffman",
+          "display": "7 nominations",
+          "aliases": [
+            "Hoffman"
+          ]
+        },
+        {
+          "answer": "Jack Lemmon",
+          "display": "7 nominations",
+          "aliases": [
+            "Lemmon"
+          ]
+        },
+        {
+          "answer": "Denzel Washington",
+          "display": "7 nominations",
+          "aliases": [
+            "Washington"
+          ]
+        },
+        {
+          "answer": "Richard Burton",
+          "display": "6 nominations",
+          "aliases": [
+            "Burton"
+          ]
+        },
+        {
+          "answer": "Daniel Day-Lewis",
+          "display": "6 nominations",
+          "aliases": [
+            "Day-Lewis",
+            "Day Lewis"
+          ]
+        },
+        {
+          "answer": "Leonardo DiCaprio",
+          "display": "6 nominations",
+          "aliases": [
+            "DiCaprio",
+            "Leo"
+          ]
+        },
+        {
+          "answer": "Paul Muni",
+          "display": "6 nominations",
+          "aliases": [
+            "Muni"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "movies/people",
+      "difficulty": 2,
+      "question": "Top 7 film composers by Academy Award nominations (as of 2026)",
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1379180225 | table 6 | name: Title | value: Nominations | where: Role~[Cc]omposer",
+      "tags": [
+        "movies",
+        "oscars",
+        "music"
+      ],
+      "cutoff": 7,
+      "answers": [
+        {
+          "answer": "John Williams",
+          "display": "54 nominations",
+          "aliases": [
+            "Williams"
+          ]
+        },
+        {
+          "answer": "Alfred Newman",
+          "display": "45 nominations"
+        },
+        {
+          "answer": "Max Steiner",
+          "display": "25 nominations",
+          "aliases": [
+            "Steiner"
+          ]
+        },
+        {
+          "answer": "Randy Newman",
+          "display": "22 nominations",
+          "aliases": [
+            "Randy"
+          ]
+        },
+        {
+          "answer": "Dimitri Tiomkin",
+          "display": "22 nominations",
+          "aliases": [
+            "Tiomkin"
+          ]
+        },
+        {
+          "answer": "Victor Young",
+          "display": "22 nominations",
+          "aliases": [
+            "Young"
+          ]
+        },
+        {
+          "answer": "Alan Menken",
+          "display": "19 nominations",
+          "aliases": [
+            "Menken"
+          ]
+        },
+        {
+          "answer": "Henry Mancini",
+          "display": "18 nominations",
+          "aliases": [
+            "Mancini"
+          ]
+        },
+        {
+          "answer": "Thomas Newman",
+          "display": "15 nominations"
+        },
+        {
+          "answer": "Alex North",
+          "display": "15 nominations",
+          "aliases": [
+            "North"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "movies/awards",
+      "difficulty": 2,
+      "question": "Top 7 film studios by Academy Award for Best Picture wins (as of 2026)",
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1375974144 | table 14 | name: Production | value: Wins",
+      "tags": [
+        "movies",
+        "oscars",
+        "studios"
+      ],
+      "cutoff": 7,
+      "answers": [
+        {
+          "answer": "Columbia Pictures",
+          "display": "12 wins",
+          "aliases": [
+            "Columbia"
+          ]
+        },
+        {
+          "answer": "United Artists",
+          "display": "12 wins",
+          "aliases": [
+            "UA"
+          ]
+        },
+        {
+          "answer": "Paramount Pictures",
+          "display": "11 wins",
+          "aliases": [
+            "Paramount"
+          ]
+        },
+        {
+          "answer": "Universal Pictures",
+          "display": "10 wins",
+          "aliases": [
+            "Universal"
+          ]
+        },
+        {
+          "answer": "Warner Bros. Pictures",
+          "display": "10 wins",
+          "aliases": [
+            "Warner Bros",
+            "Warner Brothers",
+            "Warner"
+          ]
+        },
+        {
+          "answer": "Metro-Goldwyn-Mayer",
+          "display": "9 wins",
+          "aliases": [
+            "MGM",
+            "Metro"
+          ]
+        },
+        {
+          "answer": "20th Century Studios",
+          "display": "8 wins",
+          "aliases": [
+            "20th Century Fox",
+            "Fox",
+            "20th Century"
+          ]
+        },
+        {
+          "answer": "Searchlight Pictures",
+          "display": "5 wins",
+          "aliases": [
+            "Searchlight"
+          ]
+        },
+        {
+          "answer": "Miramax Films",
+          "display": "4 wins",
+          "aliases": [
+            "Miramax"
+          ]
+        },
+        {
+          "answer": "DreamWorks",
+          "display": "4 wins",
+          "aliases": [
+            "DreamWorks Pictures"
+          ]
+        },
+        {
+          "answer": "Orion Pictures",
+          "display": "4 wins",
+          "aliases": [
+            "Orion"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "movies/awards",
+      "difficulty": 3,
+      "question": "Top 7 film companies with \"Pictures\" in their name, by Academy Award for Best Picture nominations (as of 2026)",
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1375974144 | table 14 | name: Production | value: Nominations | where: Production~Pictures",
+      "tags": [
+        "movies",
+        "oscars",
+        "studios"
+      ],
+      "cutoff": 7,
+      "answers": [
+        {
+          "answer": "Columbia Pictures",
+          "display": "56 nominations",
+          "aliases": [
+            "Columbia"
+          ]
+        },
+        {
+          "answer": "Universal Pictures",
+          "display": "37 nominations",
+          "aliases": [
+            "Universal"
+          ]
+        },
+        {
+          "answer": "Warner Bros. Pictures",
+          "display": "29 nominations",
+          "aliases": [
+            "Warner Bros",
+            "Warner"
+          ]
+        },
+        {
+          "answer": "Searchlight Pictures",
+          "display": "23 nominations",
+          "aliases": [
+            "Searchlight"
+          ]
+        },
+        {
+          "answer": "Paramount Pictures",
+          "display": "22 nominations",
+          "aliases": [
+            "Paramount"
+          ]
+        },
+        {
+          "answer": "RKO Pictures",
+          "display": "11 nominations",
+          "aliases": [
+            "RKO"
+          ]
+        },
+        {
+          "answer": "Sony Pictures Classics",
+          "display": "10 nominations",
+          "aliases": [
+            "Sony Classics"
+          ]
+        },
+        {
+          "answer": "Orion Pictures",
+          "display": "9 nominations",
+          "aliases": [
+            "Orion"
+          ]
+        },
+        {
+          "answer": "Touchstone Pictures",
+          "display": "6 nominations",
+          "aliases": [
+            "Touchstone"
+          ]
+        },
+        {
+          "answer": "TriStar Pictures",
+          "display": "6 nominations",
+          "aliases": [
+            "TriStar"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "movies/awards",
+      "difficulty": 3,
+      "question": "Top 9 film franchises by Academy Award wins, all films combined (as of 2026)",
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1379180225 | table 9 | name: Title | value: Awards",
+      "tags": [
+        "movies",
+        "oscars",
+        "franchises"
+      ],
+      "cutoff": 9,
+      "answers": [
+        {
+          "answer": "The Lord of the Rings",
+          "display": "17 wins",
+          "aliases": [
+            "Lord of the Rings",
+            "LOTR"
+          ]
+        },
+        {
+          "answer": "West Side Story",
+          "display": "11 wins"
+        },
+        {
+          "answer": "Star Wars",
+          "display": "10 wins"
+        },
+        {
+          "answer": "The Godfather",
+          "display": "9 wins",
+          "aliases": [
+            "Godfather"
+          ]
+        },
+        {
+          "answer": "Dune",
+          "display": "8 wins"
+        },
+        {
+          "answer": "Going My Way",
+          "display": "8 wins",
+          "aliases": [
+            "The Bells of St. Mary's",
+            "Bells of St. Mary's"
+          ]
+        },
+        {
+          "answer": "Looney Tunes",
+          "display": "7 wins",
+          "aliases": [
+            "Merrie Melodies"
+          ]
+        },
+        {
+          "answer": "Tom and Jerry",
+          "display": "7 wins",
+          "aliases": [
+            "Tom & Jerry"
+          ]
+        },
+        {
+          "answer": "Indiana Jones",
+          "display": "7 wins",
+          "aliases": [
+            "Indy"
+          ]
+        },
+        {
+          "answer": "James Bond",
+          "display": "6 wins",
+          "aliases": [
+            "Bond",
+            "007"
+          ]
+        },
+        {
+          "answer": "All Quiet on the Western Front",
+          "display": "6 wins",
+          "aliases": [
+            "All Quiet"
+          ]
+        },
+        {
+          "answer": "Avatar",
+          "display": "5 wins"
+        },
+        {
+          "answer": "Batman",
+          "display": "5 wins"
+        }
+      ]
+    },
+    {
+      "category": "movies/awards",
+      "difficulty": 2,
+      "question": "Top 7 people with the most Golden Raspberry (Razzie) nominations (as of 2026)",
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1372630541 | table 8 | name: Title | value: Nominations",
+      "tags": [
+        "movies",
+        "razzies",
+        "people"
+      ],
+      "cutoff": 7,
+      "answers": [
+        {
+          "answer": "Sylvester Stallone",
+          "display": "39 nominations",
+          "aliases": [
+            "Stallone"
+          ]
+        },
+        {
+          "answer": "Adam Sandler",
+          "display": "37 nominations",
+          "aliases": [
+            "Sandler"
+          ]
+        },
+        {
+          "answer": "Tyler Perry",
+          "display": "21 nominations",
+          "aliases": [
+            "Perry"
+          ]
+        },
+        {
+          "answer": "Kevin Costner",
+          "display": "17 nominations",
+          "aliases": [
+            "Costner"
+          ]
+        },
+        {
+          "answer": "Madonna",
+          "display": "16 nominations"
+        },
+        {
+          "answer": "Eddie Murphy",
+          "display": "15 nominations",
+          "aliases": [
+            "Murphy"
+          ]
+        },
+        {
+          "answer": "Michael Bay",
+          "display": "14 nominations",
+          "aliases": [
+            "Bay"
+          ]
+        },
+        {
+          "answer": "M. Night Shyamalan",
+          "display": "13 nominations",
+          "aliases": [
+            "Shyamalan",
+            "Night Shyamalan"
+          ]
+        },
+        {
+          "answer": "Ben Affleck",
+          "display": "12 nominations",
+          "aliases": [
+            "Affleck"
+          ]
+        },
+        {
+          "answer": "Lorenzo di Bonaventura",
+          "display": "12 nominations",
+          "aliases": [
+            "di Bonaventura"
+          ]
+        },
+        {
+          "answer": "Jennifer Lopez",
+          "display": "12 nominations",
+          "aliases": [
+            "J.Lo",
+            "JLo",
+            "Lopez"
+          ]
+        }
+      ]
+    }
+  ]
+}

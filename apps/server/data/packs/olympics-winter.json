@@ -1,0 +1,695 @@
+{
+  "categories": [
+    {
+      "path": "sports/olympics/winter",
+      "name": "Winter Olympics"
+    },
+    {
+      "path": "sports/olympics/winter/all-time",
+      "name": "All-time Winter Olympics"
+    },
+    {
+      "path": "sports/olympics/winter/milano-cortina-2026",
+      "name": "Milano Cortina 2026"
+    },
+    {
+      "path": "sports/olympics/winter/athletes",
+      "name": "Winter Olympians"
+    }
+  ],
+  "questions": [
+    {
+      "category": "sports/olympics/winter/all-time",
+      "question": "Top 10 nations by all-time Winter Olympic medals (to 2026; Soviet Union, Russia, East Germany separate)",
+      "cutoff": 10,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1376080899 | table 12 | name: NOC | value: Total | where: NOC!~^Totals",
+      "tags": [
+        "winter olympics",
+        "medals",
+        "all-time"
+      ],
+      "answers": [
+        {
+          "answer": "Norway",
+          "display": "447 medals"
+        },
+        {
+          "answer": "United States",
+          "display": "363 medals",
+          "aliases": [
+            "USA",
+            "US"
+          ]
+        },
+        {
+          "answer": "Germany",
+          "display": "293 medals"
+        },
+        {
+          "answer": "Austria",
+          "display": "269 medals"
+        },
+        {
+          "answer": "Canada",
+          "display": "246 medals"
+        },
+        {
+          "answer": "Sweden",
+          "display": "195 medals"
+        },
+        {
+          "answer": "Soviet Union",
+          "display": "194 medals",
+          "aliases": [
+            "USSR"
+          ]
+        },
+        {
+          "answer": "Switzerland",
+          "display": "191 medals"
+        },
+        {
+          "answer": "Finland",
+          "display": "181 medals"
+        },
+        {
+          "answer": "Italy",
+          "display": "171 medals"
+        },
+        {
+          "answer": "Netherlands",
+          "display": "167 medals",
+          "aliases": [
+            "Holland"
+          ]
+        },
+        {
+          "answer": "France",
+          "display": "161 medals"
+        },
+        {
+          "answer": "Russia",
+          "display": "118 medals"
+        },
+        {
+          "answer": "East Germany",
+          "display": "110 medals",
+          "aliases": [
+            "GDR"
+          ]
+        },
+        {
+          "answer": "Japan",
+          "display": "100 medals"
+        }
+      ]
+    },
+    {
+      "category": "sports/olympics/winter/milano-cortina-2026",
+      "question": "Top 9 nations by total medals at Milano Cortina 2026",
+      "cutoff": 9,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1376824706 | table 1 | name: NOC | value: Total | where: NOC!~^Totals",
+      "tags": [
+        "winter olympics",
+        "2026",
+        "medals"
+      ],
+      "answers": [
+        {
+          "answer": "Norway",
+          "display": "41 medals"
+        },
+        {
+          "answer": "United States",
+          "display": "33 medals",
+          "aliases": [
+            "USA",
+            "US"
+          ]
+        },
+        {
+          "answer": "Italy",
+          "display": "30 medals"
+        },
+        {
+          "answer": "Germany",
+          "display": "26 medals"
+        },
+        {
+          "answer": "Japan",
+          "display": "24 medals"
+        },
+        {
+          "answer": "France",
+          "display": "23 medals"
+        },
+        {
+          "answer": "Switzerland",
+          "display": "23 medals"
+        },
+        {
+          "answer": "Canada",
+          "display": "21 medals"
+        },
+        {
+          "answer": "Netherlands",
+          "display": "20 medals",
+          "aliases": [
+            "Holland"
+          ]
+        },
+        {
+          "answer": "Sweden",
+          "display": "18 medals"
+        },
+        {
+          "answer": "Austria",
+          "display": "18 medals"
+        },
+        {
+          "answer": "China",
+          "display": "15 medals"
+        }
+      ]
+    },
+    {
+      "category": "sports/olympics/winter/all-time",
+      "question": "Top 9 nations by alpine skiing Olympic medals (all-time, as of 2026; West Germany separate from Germany)",
+      "cutoff": 9,
+      "difficulty": 3,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1379225044 | table 27 | name: Nation | value: Total | where: Nation!~^Totals",
+      "tags": [
+        "winter olympics",
+        "alpine skiing",
+        "medals"
+      ],
+      "answers": [
+        {
+          "answer": "Austria",
+          "display": "132 medals"
+        },
+        {
+          "answer": "Switzerland",
+          "display": "84 medals"
+        },
+        {
+          "answer": "United States",
+          "display": "52 medals",
+          "aliases": [
+            "USA",
+            "US"
+          ]
+        },
+        {
+          "answer": "France",
+          "display": "52 medals"
+        },
+        {
+          "answer": "Norway",
+          "display": "42 medals"
+        },
+        {
+          "answer": "Italy",
+          "display": "41 medals"
+        },
+        {
+          "answer": "Germany",
+          "display": "29 medals"
+        },
+        {
+          "answer": "Sweden",
+          "display": "21 medals"
+        },
+        {
+          "answer": "Canada",
+          "display": "12 medals"
+        },
+        {
+          "answer": "Croatia",
+          "display": "10 medals"
+        },
+        {
+          "answer": "Liechtenstein",
+          "display": "10 medals"
+        },
+        {
+          "answer": "West Germany",
+          "display": "9 medals"
+        }
+      ]
+    },
+    {
+      "category": "sports/olympics/winter/all-time",
+      "question": "Top 9 nations by Winter cross-country golds (to 2026; Soviet Union, ROC, Unified Team, East Germany separate)",
+      "cutoff": 9,
+      "difficulty": 3,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1366123012 | table 31 | name: Nation | value: Gold | where: Nation!~^Totals",
+      "tags": [
+        "winter olympics",
+        "cross-country skiing",
+        "gold medals"
+      ],
+      "answers": [
+        {
+          "answer": "Norway",
+          "display": "52 golds"
+        },
+        {
+          "answer": "Sweden",
+          "display": "33 golds"
+        },
+        {
+          "answer": "Soviet Union",
+          "display": "25 golds",
+          "aliases": [
+            "USSR"
+          ]
+        },
+        {
+          "answer": "Finland",
+          "display": "22 golds"
+        },
+        {
+          "answer": "Russia",
+          "display": "14 golds"
+        },
+        {
+          "answer": "Italy",
+          "display": "9 golds"
+        },
+        {
+          "answer": "ROC",
+          "display": "4 golds"
+        },
+        {
+          "answer": "Estonia",
+          "display": "4 golds"
+        },
+        {
+          "answer": "Switzerland",
+          "display": "4 golds"
+        },
+        {
+          "answer": "Germany",
+          "display": "3 golds"
+        },
+        {
+          "answer": "Unified Team",
+          "display": "3 golds"
+        },
+        {
+          "answer": "Poland",
+          "display": "2 golds"
+        },
+        {
+          "answer": "East Germany",
+          "display": "2 golds",
+          "aliases": [
+            "GDR"
+          ]
+        },
+        {
+          "answer": "Canada",
+          "display": "2 golds"
+        }
+      ]
+    },
+    {
+      "category": "sports/olympics/winter/all-time",
+      "question": "Top 10 nations by figure skating Olympic golds (to 2026; Soviet Union, East Germany, Unified Team separate)",
+      "cutoff": 10,
+      "difficulty": 3,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1378634027 | table 20 | name: Nation | value: Gold | where: Nation!~^Totals",
+      "tags": [
+        "winter olympics",
+        "figure skating",
+        "gold medals"
+      ],
+      "answers": [
+        {
+          "answer": "United States",
+          "display": "19 golds",
+          "aliases": [
+            "USA",
+            "US"
+          ]
+        },
+        {
+          "answer": "Russia",
+          "display": "15 golds"
+        },
+        {
+          "answer": "Soviet Union",
+          "display": "10 golds",
+          "aliases": [
+            "USSR"
+          ]
+        },
+        {
+          "answer": "Austria",
+          "display": "7 golds"
+        },
+        {
+          "answer": "Canada",
+          "display": "6 golds"
+        },
+        {
+          "answer": "France",
+          "display": "5 golds"
+        },
+        {
+          "answer": "Great Britain",
+          "display": "5 golds",
+          "aliases": [
+            "Britain",
+            "GB"
+          ]
+        },
+        {
+          "answer": "Sweden",
+          "display": "5 golds"
+        },
+        {
+          "answer": "Japan",
+          "display": "4 golds"
+        },
+        {
+          "answer": "Germany",
+          "display": "4 golds"
+        },
+        {
+          "answer": "East Germany",
+          "display": "3 golds",
+          "aliases": [
+            "GDR"
+          ]
+        },
+        {
+          "answer": "Norway",
+          "display": "3 golds"
+        },
+        {
+          "answer": "Unified Team",
+          "display": "3 golds"
+        }
+      ]
+    },
+    {
+      "category": "sports/olympics/winter/athletes",
+      "question": "Top 10 most decorated women Winter Olympians (all-time Winter medals, as of 2026)",
+      "cutoff": 10,
+      "difficulty": 3,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1379532529 | table 1 | name: Athlete | value: Total | where: Games=Winter | where: Gender=F",
+      "tags": [
+        "winter olympics",
+        "athletes",
+        "medals"
+      ],
+      "answers": [
+        {
+          "answer": "Marit Bjørgen",
+          "display": "15 medals",
+          "aliases": [
+            "Bjorgen"
+          ]
+        },
+        {
+          "answer": "Arianna Fontana",
+          "display": "14 medals",
+          "aliases": [
+            "Fontana"
+          ]
+        },
+        {
+          "answer": "Ireen Wüst",
+          "display": "13 medals",
+          "aliases": [
+            "Wust"
+          ]
+        },
+        {
+          "answer": "Raisa Smetanina",
+          "display": "10 medals",
+          "aliases": [
+            "Smetanina"
+          ]
+        },
+        {
+          "answer": "Miho Takagi",
+          "display": "10 medals",
+          "aliases": [
+            "Takagi"
+          ]
+        },
+        {
+          "answer": "Stefania Belmondo",
+          "display": "10 medals",
+          "aliases": [
+            "Belmondo"
+          ]
+        },
+        {
+          "answer": "Lyubov Yegorova",
+          "display": "9 medals",
+          "aliases": [
+            "Yegorova"
+          ]
+        },
+        {
+          "answer": "Claudia Pechstein",
+          "display": "9 medals",
+          "aliases": [
+            "Pechstein"
+          ]
+        },
+        {
+          "answer": "Charlotte Kalla",
+          "display": "9 medals",
+          "aliases": [
+            "Kalla"
+          ]
+        },
+        {
+          "answer": "Uschi Disl",
+          "display": "9 medals",
+          "aliases": [
+            "Disl"
+          ]
+        },
+        {
+          "answer": "Galina Kulakova",
+          "display": "8 medals",
+          "aliases": [
+            "Kulakova"
+          ]
+        },
+        {
+          "answer": "Karin Enke",
+          "display": "8 medals",
+          "aliases": [
+            "Enke"
+          ]
+        },
+        {
+          "answer": "Gunda Niemann-Stirnemann",
+          "display": "8 medals",
+          "aliases": [
+            "Niemann"
+          ]
+        },
+        {
+          "answer": "Tiril Eckhoff",
+          "display": "8 medals",
+          "aliases": [
+            "Eckhoff"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/olympics/winter/athletes",
+      "question": "Top 7 most decorated male biathletes by Olympic medals (all-time, as of 2026)",
+      "cutoff": 7,
+      "difficulty": 3,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1362232855 | table 24 | name: Biathlete | value: Total",
+      "tags": [
+        "winter olympics",
+        "biathlon",
+        "medals"
+      ],
+      "answers": [
+        {
+          "answer": "Ole Einar Bjørndalen",
+          "display": "14 medals",
+          "aliases": [
+            "Bjorndalen"
+          ]
+        },
+        {
+          "answer": "Quentin Fillon Maillet",
+          "display": "9 medals",
+          "aliases": [
+            "Fillon Maillet"
+          ]
+        },
+        {
+          "answer": "Johannes Thingnes Bø",
+          "display": "8 medals",
+          "aliases": [
+            "Johannes Bø",
+            "JT Bø",
+            "Johannes Bo"
+          ]
+        },
+        {
+          "answer": "Ricco Groß",
+          "display": "8 medals",
+          "aliases": [
+            "Gross"
+          ]
+        },
+        {
+          "answer": "Emil Hegle Svendsen",
+          "display": "8 medals",
+          "aliases": [
+            "Svendsen"
+          ]
+        },
+        {
+          "answer": "Sven Fischer",
+          "display": "8 medals",
+          "aliases": [
+            "Fischer"
+          ]
+        },
+        {
+          "answer": "Martin Fourcade",
+          "display": "7 medals",
+          "aliases": [
+            "Fourcade"
+          ]
+        },
+        {
+          "answer": "Halvard Hanevold",
+          "display": "6 medals",
+          "aliases": [
+            "Hanevold"
+          ]
+        },
+        {
+          "answer": "Tarjei Bø",
+          "display": "6 medals",
+          "aliases": [
+            "Tarjei",
+            "Tarjei Bo"
+          ]
+        },
+        {
+          "answer": "Sergei Tchepikov",
+          "display": "6 medals",
+          "aliases": [
+            "Tchepikov"
+          ]
+        },
+        {
+          "answer": "Sturla Holm Lægreid",
+          "display": "6 medals",
+          "aliases": [
+            "Laegreid"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/olympics/winter/milano-cortina-2026",
+      "question": "Top 10 nations by number of athletes at Milano Cortina 2026",
+      "cutoff": 10,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1376836261 | table 8 | name: NOC | value: Athletes | where: NOC!~^Total",
+      "tags": [
+        "winter olympics",
+        "2026",
+        "athletes"
+      ],
+      "answers": [
+        {
+          "answer": "United States",
+          "display": "232 athletes",
+          "aliases": [
+            "USA",
+            "US"
+          ]
+        },
+        {
+          "answer": "Canada",
+          "display": "205 athletes"
+        },
+        {
+          "answer": "Italy",
+          "display": "196 athletes"
+        },
+        {
+          "answer": "Germany",
+          "display": "185 athletes"
+        },
+        {
+          "answer": "Switzerland",
+          "display": "175 athletes"
+        },
+        {
+          "answer": "France",
+          "display": "162 athletes"
+        },
+        {
+          "answer": "China",
+          "display": "126 athletes"
+        },
+        {
+          "answer": "Japan",
+          "display": "120 athletes"
+        },
+        {
+          "answer": "Austria",
+          "display": "117 athletes"
+        },
+        {
+          "answer": "Czech Republic",
+          "display": "115 athletes",
+          "aliases": [
+            "Czechia"
+          ]
+        },
+        {
+          "answer": "Sweden",
+          "display": "110 athletes"
+        },
+        {
+          "answer": "Finland",
+          "display": "103 athletes"
+        },
+        {
+          "answer": "Norway",
+          "display": "80 athletes"
+        },
+        {
+          "answer": "South Korea",
+          "display": "71 athletes"
+        },
+        {
+          "answer": "Latvia",
+          "display": "68 athletes"
+        }
+      ]
+    }
+  ]
+}

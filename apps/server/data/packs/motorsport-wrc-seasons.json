@@ -1,0 +1,4930 @@
+{
+  "categories": [
+    {
+      "path": "sports/motorsport/rally",
+      "name": "Rally"
+    },
+    {
+      "path": "sports/motorsport/rally/wrc-seasons",
+      "name": "WRC Seasons"
+    }
+  ],
+  "questions": [
+    {
+      "category": "sports/motorsport/rally/wrc-seasons",
+      "question": "Top 9 drivers in the final 1979 World Rally Championship standings",
+      "cutoff": 9,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1375053528 | table 6 | name: Driver | value: Rank | order: asc",
+      "tags": [
+        "motorsport",
+        "rally",
+        "wrc",
+        "drivers-championship",
+        "1979"
+      ],
+      "answers": [
+        {
+          "answer": "Björn Waldegård",
+          "display": "#1 — 112 points",
+          "aliases": [
+            "Waldegård"
+          ]
+        },
+        {
+          "answer": "Hannu Mikkola",
+          "display": "#2 — 111 points",
+          "aliases": [
+            "Mikkola"
+          ]
+        },
+        {
+          "answer": "Markku Alén",
+          "display": "#3 — 68 points",
+          "aliases": [
+            "Alén"
+          ]
+        },
+        {
+          "answer": "Timo Salonen",
+          "display": "#4 — 50 points",
+          "aliases": [
+            "Salonen"
+          ]
+        },
+        {
+          "answer": "Ari Vatanen",
+          "display": "#4 — 50 points",
+          "aliases": [
+            "Vatanen"
+          ]
+        },
+        {
+          "answer": "Bernard Darniche",
+          "display": "#6 — 40 points",
+          "aliases": [
+            "Darniche"
+          ]
+        },
+        {
+          "answer": "Jean Ragnotti",
+          "display": "#7 — 25 points",
+          "aliases": [
+            "Ragnotti"
+          ]
+        },
+        {
+          "answer": "Andrew Cowan",
+          "display": "#8 — 22 points",
+          "aliases": [
+            "Cowan"
+          ]
+        },
+        {
+          "answer": "Walter Röhrl",
+          "display": "#9 — 21 points",
+          "aliases": [
+            "Röhrl"
+          ]
+        },
+        {
+          "answer": "Stig Blomqvist",
+          "display": "#10 — 20 points",
+          "aliases": [
+            "Blomqvist"
+          ]
+        },
+        {
+          "answer": "Shekhar Mehta",
+          "display": "#10 — 20 points",
+          "aliases": [
+            "Mehta"
+          ]
+        },
+        {
+          "answer": "Tony Fassina",
+          "display": "#10 — 20 points",
+          "aliases": [
+            "Fassina",
+            "Antonio Fassina"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/motorsport/rally/wrc-seasons",
+      "question": "Top 10 drivers in the final 1980 World Rally Championship standings",
+      "cutoff": 10,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1375890032 | table 4 | name: Driver | value: Rank | order: asc",
+      "tags": [
+        "motorsport",
+        "rally",
+        "wrc",
+        "drivers-championship",
+        "1980"
+      ],
+      "answers": [
+        {
+          "answer": "Walter Röhrl",
+          "display": "#1 — 118 points",
+          "aliases": [
+            "Röhrl"
+          ]
+        },
+        {
+          "answer": "Hannu Mikkola",
+          "display": "#2 — 64 points",
+          "aliases": [
+            "Mikkola"
+          ]
+        },
+        {
+          "answer": "Björn Waldegård",
+          "display": "#3 — 63 points",
+          "aliases": [
+            "Waldegård"
+          ]
+        },
+        {
+          "answer": "Ari Vatanen",
+          "display": "#4 — 50 points",
+          "aliases": [
+            "Vatanen"
+          ]
+        },
+        {
+          "answer": "Anders Kulläng",
+          "display": "#5 — 48 points",
+          "aliases": [
+            "Kulläng"
+          ]
+        },
+        {
+          "answer": "Markku Alén",
+          "display": "#6 — 47 points",
+          "aliases": [
+            "Alén"
+          ]
+        },
+        {
+          "answer": "Timo Salonen",
+          "display": "#7 — 45 points",
+          "aliases": [
+            "Salonen"
+          ]
+        },
+        {
+          "answer": "Guy Fréquelin",
+          "display": "#8 — 34 points",
+          "aliases": [
+            "Fréquelin"
+          ]
+        },
+        {
+          "answer": "Shekhar Mehta",
+          "display": "#9 — 30 points",
+          "aliases": [
+            "Mehta"
+          ]
+        },
+        {
+          "answer": "Henri Toivonen",
+          "display": "#10 — 28 points",
+          "aliases": [
+            "Toivonen"
+          ]
+        },
+        {
+          "answer": "Per Eklund",
+          "display": "#11 — 27 points",
+          "aliases": [
+            "Eklund"
+          ]
+        },
+        {
+          "answer": "Jean-Luc Thérier",
+          "display": "#12 — 20 points",
+          "aliases": [
+            "Thérier"
+          ]
+        },
+        {
+          "answer": "Vic Preston Jr.",
+          "display": "#13 — 20 points",
+          "aliases": [
+            "Preston"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/motorsport/rally/wrc-seasons",
+      "question": "Top 10 drivers in the final 1981 World Rally Championship standings",
+      "cutoff": 10,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1375041277 | table 5 | name: Driver | value: Rank | order: asc",
+      "tags": [
+        "motorsport",
+        "rally",
+        "wrc",
+        "drivers-championship",
+        "1981"
+      ],
+      "answers": [
+        {
+          "answer": "Ari Vatanen",
+          "display": "#1 — 96 points",
+          "aliases": [
+            "Vatanen"
+          ]
+        },
+        {
+          "answer": "Guy Fréquelin",
+          "display": "#2 — 89 points",
+          "aliases": [
+            "Fréquelin"
+          ]
+        },
+        {
+          "answer": "Hannu Mikkola",
+          "display": "#3 — 62 points",
+          "aliases": [
+            "Mikkola"
+          ]
+        },
+        {
+          "answer": "Markku Alén",
+          "display": "#4 — 56 points",
+          "aliases": [
+            "Alén"
+          ]
+        },
+        {
+          "answer": "Shekhar Mehta",
+          "display": "#5 — 55 points",
+          "aliases": [
+            "Mehta"
+          ]
+        },
+        {
+          "answer": "Timo Salonen",
+          "display": "#6 — 40 points",
+          "aliases": [
+            "Salonen"
+          ]
+        },
+        {
+          "answer": "Henri Toivonen",
+          "display": "#7 — 38 points",
+          "aliases": [
+            "Toivonen"
+          ]
+        },
+        {
+          "answer": "Michèle Mouton",
+          "display": "#8 — 30 points",
+          "aliases": [
+            "Mouton"
+          ]
+        },
+        {
+          "answer": "Pentti Airikkala",
+          "display": "#9 — 30 points",
+          "aliases": [
+            "Airikkala"
+          ]
+        },
+        {
+          "answer": "Per Eklund",
+          "display": "#10 — 29 points",
+          "aliases": [
+            "Eklund"
+          ]
+        },
+        {
+          "answer": "Jean Ragnotti",
+          "display": "#11 — 28 points",
+          "aliases": [
+            "Ragnotti"
+          ]
+        },
+        {
+          "answer": "Bernard Darniche",
+          "display": "#12 — 26 points",
+          "aliases": [
+            "Darniche"
+          ]
+        },
+        {
+          "answer": "Stig Blomqvist",
+          "display": "#13 — 23 points",
+          "aliases": [
+            "Blomqvist"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/motorsport/rally/wrc-seasons",
+      "question": "Top 9 drivers in the final 1982 World Rally Championship standings",
+      "cutoff": 9,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1375042776 | table 5 | name: Driver | value: Rank | order: asc",
+      "tags": [
+        "motorsport",
+        "rally",
+        "wrc",
+        "drivers-championship",
+        "1982"
+      ],
+      "answers": [
+        {
+          "answer": "Walter Röhrl",
+          "display": "#1 — 109 points",
+          "aliases": [
+            "Röhrl"
+          ]
+        },
+        {
+          "answer": "Michèle Mouton",
+          "display": "#2 — 97 points",
+          "aliases": [
+            "Mouton"
+          ]
+        },
+        {
+          "answer": "Hannu Mikkola",
+          "display": "#3 — 70 points",
+          "aliases": [
+            "Mikkola"
+          ]
+        },
+        {
+          "answer": "Stig Blomqvist",
+          "display": "#4 — 58 points",
+          "aliases": [
+            "Blomqvist"
+          ]
+        },
+        {
+          "answer": "Per Eklund",
+          "display": "#5 — 57 points",
+          "aliases": [
+            "Eklund"
+          ]
+        },
+        {
+          "answer": "Björn Waldegård",
+          "display": "#6 — 36 points",
+          "aliases": [
+            "Waldegård"
+          ]
+        },
+        {
+          "answer": "Henri Toivonen",
+          "display": "#7 — 32 points",
+          "aliases": [
+            "Toivonen"
+          ]
+        },
+        {
+          "answer": "Shekhar Mehta",
+          "display": "#8 — 30 points",
+          "aliases": [
+            "Mehta"
+          ]
+        },
+        {
+          "answer": "Bruno Saby",
+          "display": "#9 — 26 points",
+          "aliases": [
+            "Saby"
+          ]
+        },
+        {
+          "answer": "Jean Ragnotti",
+          "display": "#10 — 20 points",
+          "aliases": [
+            "Ragnotti"
+          ]
+        },
+        {
+          "answer": "Timo Salonen",
+          "display": "#11 — 20 points",
+          "aliases": [
+            "Salonen"
+          ]
+        },
+        {
+          "answer": "Guy Fréquelin",
+          "display": "#12 — 16 points",
+          "aliases": [
+            "Fréquelin"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/motorsport/rally/wrc-seasons",
+      "question": "Top 10 drivers in the final 1983 World Rally Championship standings",
+      "cutoff": 10,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1372010058 | table 5 | name: Driver | value: Rank | order: asc",
+      "tags": [
+        "motorsport",
+        "rally",
+        "wrc",
+        "drivers-championship",
+        "1983"
+      ],
+      "answers": [
+        {
+          "answer": "Hannu Mikkola",
+          "display": "#1 — 125 points",
+          "aliases": [
+            "Mikkola"
+          ]
+        },
+        {
+          "answer": "Walter Röhrl",
+          "display": "#2 — 102 points",
+          "aliases": [
+            "Röhrl"
+          ]
+        },
+        {
+          "answer": "Markku Alén",
+          "display": "#3 — 100 points",
+          "aliases": [
+            "Alén"
+          ]
+        },
+        {
+          "answer": "Stig Blomqvist",
+          "display": "#4 — 89 points",
+          "aliases": [
+            "Blomqvist"
+          ]
+        },
+        {
+          "answer": "Michèle Mouton",
+          "display": "#5 — 53 points",
+          "aliases": [
+            "Mouton"
+          ]
+        },
+        {
+          "answer": "Ari Vatanen",
+          "display": "#6 — 44 points",
+          "aliases": [
+            "Vatanen"
+          ]
+        },
+        {
+          "answer": "Attilio Bettega",
+          "display": "#7 — 42 points",
+          "aliases": [
+            "Bettega"
+          ]
+        },
+        {
+          "answer": "Lasse Lampi",
+          "display": "#8 — 26 points",
+          "aliases": [
+            "Lampi"
+          ]
+        },
+        {
+          "answer": "Shekhar Mehta",
+          "display": "#9 — 26 points",
+          "aliases": [
+            "Mehta"
+          ]
+        },
+        {
+          "answer": "Per Eklund",
+          "display": "#10 — 22 points",
+          "aliases": [
+            "Eklund"
+          ]
+        },
+        {
+          "answer": "Björn Waldegård",
+          "display": "#11 — 20 points",
+          "aliases": [
+            "Waldegård"
+          ]
+        },
+        {
+          "answer": "Adartico Vudafieri",
+          "display": "#12 — 20 points",
+          "aliases": [
+            "Vudafieri"
+          ]
+        },
+        {
+          "answer": "Timo Salonen",
+          "display": "#13 — 18 points",
+          "aliases": [
+            "Salonen"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/motorsport/rally/wrc-seasons",
+      "question": "Top 10 drivers in the final 1984 World Rally Championship standings",
+      "cutoff": 10,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1372010178 | table 5 | name: Driver | value: Rank | order: asc",
+      "tags": [
+        "motorsport",
+        "rally",
+        "wrc",
+        "drivers-championship",
+        "1984"
+      ],
+      "answers": [
+        {
+          "answer": "Stig Blomqvist",
+          "display": "#1 — 125 points",
+          "aliases": [
+            "Blomqvist"
+          ]
+        },
+        {
+          "answer": "Hannu Mikkola",
+          "display": "#2 — 104 points",
+          "aliases": [
+            "Mikkola"
+          ]
+        },
+        {
+          "answer": "Markku Alén",
+          "display": "#3 — 90 points",
+          "aliases": [
+            "Alén"
+          ]
+        },
+        {
+          "answer": "Ari Vatanen",
+          "display": "#4 — 60 points",
+          "aliases": [
+            "Vatanen"
+          ]
+        },
+        {
+          "answer": "Attilio Bettega",
+          "display": "#5 — 49 points",
+          "aliases": [
+            "Bettega"
+          ]
+        },
+        {
+          "answer": "Miki Biasion",
+          "display": "#6 — 43 points",
+          "aliases": [
+            "Biasion"
+          ]
+        },
+        {
+          "answer": "Per Eklund",
+          "display": "#7 — 30 points",
+          "aliases": [
+            "Eklund"
+          ]
+        },
+        {
+          "answer": "Björn Waldegård",
+          "display": "#8 — 28 points",
+          "aliases": [
+            "Waldegård"
+          ]
+        },
+        {
+          "answer": "Shekhar Mehta",
+          "display": "#9 — 27 points",
+          "aliases": [
+            "Mehta"
+          ]
+        },
+        {
+          "answer": "Timo Salonen",
+          "display": "#10 — 27 points",
+          "aliases": [
+            "Salonen"
+          ]
+        },
+        {
+          "answer": "Walter Röhrl",
+          "display": "#11 — 26 points",
+          "aliases": [
+            "Röhrl"
+          ]
+        },
+        {
+          "answer": "Michèle Mouton",
+          "display": "#12 — 25 points",
+          "aliases": [
+            "Mouton"
+          ]
+        },
+        {
+          "answer": "Jean Ragnotti",
+          "display": "#13 — 20 points",
+          "aliases": [
+            "Ragnotti"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/motorsport/rally/wrc-seasons",
+      "question": "Top 10 drivers in the final 1986 World Rally Championship standings",
+      "cutoff": 10,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1375045690 | table 5 | name: Driver | value: Rank | order: asc",
+      "tags": [
+        "motorsport",
+        "rally",
+        "wrc",
+        "drivers-championship",
+        "1986"
+      ],
+      "answers": [
+        {
+          "answer": "Juha Kankkunen",
+          "display": "#1 — 118 points",
+          "aliases": [
+            "Kankkunen"
+          ]
+        },
+        {
+          "answer": "Markku Alén",
+          "display": "#2 — 104 points",
+          "aliases": [
+            "Alén"
+          ]
+        },
+        {
+          "answer": "Timo Salonen",
+          "display": "#3 — 63 points",
+          "aliases": [
+            "Salonen"
+          ]
+        },
+        {
+          "answer": "Björn Waldegård",
+          "display": "#4 — 48 points",
+          "aliases": [
+            "Waldegård"
+          ]
+        },
+        {
+          "answer": "Miki Biasion",
+          "display": "#5 — 47 points",
+          "aliases": [
+            "Biasion"
+          ]
+        },
+        {
+          "answer": "Lars-Erik Torph",
+          "display": "#6 — 40 points",
+          "aliases": [
+            "Torph"
+          ]
+        },
+        {
+          "answer": "Bruno Saby",
+          "display": "#7 — 38 points",
+          "aliases": [
+            "Saby"
+          ]
+        },
+        {
+          "answer": "Mikael Ericsson",
+          "display": "#8 — 28 points",
+          "aliases": [
+            "Ericsson"
+          ]
+        },
+        {
+          "answer": "Kalle Grundel",
+          "display": "#9 — 26 points",
+          "aliases": [
+            "Grundel"
+          ]
+        },
+        {
+          "answer": "Kenneth Eriksson",
+          "display": "#10 — 25 points",
+          "aliases": [
+            "Eriksson"
+          ]
+        },
+        {
+          "answer": "Stig Blomqvist",
+          "display": "#11 — 22 points",
+          "aliases": [
+            "Blomqvist"
+          ]
+        },
+        {
+          "answer": "Erwin Weber",
+          "display": "#11 — 22 points",
+          "aliases": [
+            "Weber"
+          ]
+        },
+        {
+          "answer": "Henri Toivonen",
+          "display": "#13 — 20 points",
+          "aliases": [
+            "Toivonen"
+          ]
+        },
+        {
+          "answer": "Joaquim Moutinho",
+          "display": "#13 — 20 points",
+          "aliases": [
+            "Moutinho"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/motorsport/rally/wrc-seasons",
+      "question": "Top 10 drivers in the final 1987 World Rally Championship standings",
+      "cutoff": 10,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1372010319 | table 6 | name: Driver | value: Rank | order: asc",
+      "tags": [
+        "motorsport",
+        "rally",
+        "wrc",
+        "drivers-championship",
+        "1987"
+      ],
+      "answers": [
+        {
+          "answer": "Juha Kankkunen",
+          "display": "#1 — 100 points",
+          "aliases": [
+            "Kankkunen"
+          ]
+        },
+        {
+          "answer": "Miki Biasion",
+          "display": "#2 — 94 points",
+          "aliases": [
+            "Biasion"
+          ]
+        },
+        {
+          "answer": "Markku Alén",
+          "display": "#3 — 88 points",
+          "aliases": [
+            "Alén"
+          ]
+        },
+        {
+          "answer": "Kenneth Eriksson",
+          "display": "#4 — 70 points",
+          "aliases": [
+            "Eriksson"
+          ]
+        },
+        {
+          "answer": "Jean Ragnotti",
+          "display": "#5 — 51 points",
+          "aliases": [
+            "Ragnotti"
+          ]
+        },
+        {
+          "answer": "Erwin Weber",
+          "display": "#6 — 44 points",
+          "aliases": [
+            "Weber"
+          ]
+        },
+        {
+          "answer": "Stig Blomqvist",
+          "display": "#7 — 33 points",
+          "aliases": [
+            "Blomqvist"
+          ]
+        },
+        {
+          "answer": "Hannu Mikkola",
+          "display": "#8 — 32 points",
+          "aliases": [
+            "Mikkola"
+          ]
+        },
+        {
+          "answer": "Jorge Recalde",
+          "display": "#9 — 30 points",
+          "aliases": [
+            "Recalde"
+          ]
+        },
+        {
+          "answer": "Mikael Ericsson",
+          "display": "#10 — 28 points",
+          "aliases": [
+            "Ericsson"
+          ]
+        },
+        {
+          "answer": "Walter Röhrl",
+          "display": "#11 — 27 points",
+          "aliases": [
+            "Röhrl"
+          ]
+        },
+        {
+          "answer": "Per Eklund",
+          "display": "#12 — 25 points",
+          "aliases": [
+            "Eklund"
+          ]
+        },
+        {
+          "answer": "François Chatriot",
+          "display": "#13 — 22 points",
+          "aliases": [
+            "Chatriot"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/motorsport/rally/wrc-seasons",
+      "question": "Top 10 drivers in the final 1988 World Rally Championship standings",
+      "cutoff": 10,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1375047495 | table 6 | name: Driver | value: Rank | order: asc",
+      "tags": [
+        "motorsport",
+        "rally",
+        "wrc",
+        "drivers-championship",
+        "1988"
+      ],
+      "answers": [
+        {
+          "answer": "Miki Biasion",
+          "display": "#1 — 115 points",
+          "aliases": [
+            "Biasion"
+          ]
+        },
+        {
+          "answer": "Markku Alén",
+          "display": "#2 — 86 points",
+          "aliases": [
+            "Alén"
+          ]
+        },
+        {
+          "answer": "Alex Fiorio",
+          "display": "#3 — 76 points",
+          "aliases": [
+            "Fiorio"
+          ]
+        },
+        {
+          "answer": "Stig Blomqvist",
+          "display": "#4 — 41 points",
+          "aliases": [
+            "Blomqvist"
+          ]
+        },
+        {
+          "answer": "Timo Salonen",
+          "display": "#5 — 33 points",
+          "aliases": [
+            "Salonen"
+          ]
+        },
+        {
+          "answer": "Bruno Saby",
+          "display": "#6 — 32 points",
+          "aliases": [
+            "Saby"
+          ]
+        },
+        {
+          "answer": "Didier Auriol",
+          "display": "#6 — 32 points",
+          "aliases": [
+            "Auriol"
+          ]
+        },
+        {
+          "answer": "Mikael Ericsson",
+          "display": "#8 — 30 points",
+          "aliases": [
+            "Ericsson"
+          ]
+        },
+        {
+          "answer": "Jorge Recalde",
+          "display": "#9 — 27 points",
+          "aliases": [
+            "Recalde"
+          ]
+        },
+        {
+          "answer": "Yves Loubet",
+          "display": "#10 — 27 points",
+          "aliases": [
+            "Loubet"
+          ]
+        },
+        {
+          "answer": "Carlos Sainz Sr.",
+          "display": "#11 — 26 points",
+          "aliases": [
+            "Sainz",
+            "Carlos Sainz"
+          ]
+        },
+        {
+          "answer": "Kenneth Eriksson",
+          "display": "#12 — 22 points",
+          "aliases": [
+            "Eriksson"
+          ]
+        },
+        {
+          "answer": "Rudi Stohl",
+          "display": "#13 — 21 points",
+          "aliases": [
+            "Stohl"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/motorsport/rally/wrc-seasons",
+      "question": "Top 10 drivers in the final 1989 World Rally Championship standings",
+      "cutoff": 10,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1372411674 | table 7 | name: Driver | value: Pos. | order: asc",
+      "tags": [
+        "motorsport",
+        "rally",
+        "wrc",
+        "drivers-championship",
+        "1989"
+      ],
+      "answers": [
+        {
+          "answer": "Miki Biasion",
+          "display": "#1 — 106 points",
+          "aliases": [
+            "Biasion"
+          ]
+        },
+        {
+          "answer": "Alex Fiorio",
+          "display": "#2 — 65 points",
+          "aliases": [
+            "Fiorio"
+          ]
+        },
+        {
+          "answer": "Juha Kankkunen",
+          "display": "#3 — 60 points",
+          "aliases": [
+            "Kankkunen"
+          ]
+        },
+        {
+          "answer": "Mikael Ericsson",
+          "display": "#4 — 50 points",
+          "aliases": [
+            "Ericsson"
+          ]
+        },
+        {
+          "answer": "Didier Auriol",
+          "display": "#5 — 50 points",
+          "aliases": [
+            "Auriol"
+          ]
+        },
+        {
+          "answer": "Kenneth Eriksson",
+          "display": "#6 — 47 points",
+          "aliases": [
+            "Eriksson"
+          ]
+        },
+        {
+          "answer": "Ingvar Carlsson",
+          "display": "#7 — 43 points",
+          "aliases": [
+            "Carlsson"
+          ]
+        },
+        {
+          "answer": "Carlos Sainz Sr.",
+          "display": "#8 — 39 points",
+          "aliases": [
+            "Sainz",
+            "Carlos Sainz"
+          ]
+        },
+        {
+          "answer": "Markku Alén",
+          "display": "#9 — 27 points",
+          "aliases": [
+            "Alén"
+          ]
+        },
+        {
+          "answer": "Alain Oreille",
+          "display": "#10 — 26 points",
+          "aliases": [
+            "Oreille"
+          ]
+        },
+        {
+          "answer": "Rod Millen",
+          "display": "#11 — 23 points",
+          "aliases": [
+            "Millen"
+          ]
+        },
+        {
+          "answer": "Timo Salonen",
+          "display": "#12 — 21 points",
+          "aliases": [
+            "Salonen"
+          ]
+        },
+        {
+          "answer": "Marc Duez",
+          "display": "#13 — 21 points",
+          "aliases": [
+            "Duez"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/motorsport/rally/wrc-seasons",
+      "question": "Top 10 drivers in the final 1990 World Rally Championship standings",
+      "cutoff": 10,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1372010386 | table 6 | name: Driver | value: Pos. | order: asc",
+      "tags": [
+        "motorsport",
+        "rally",
+        "wrc",
+        "drivers-championship",
+        "1990"
+      ],
+      "answers": [
+        {
+          "answer": "Carlos Sainz Sr.",
+          "display": "#1 — 140 points",
+          "aliases": [
+            "Sainz",
+            "Carlos Sainz"
+          ]
+        },
+        {
+          "answer": "Didier Auriol",
+          "display": "#2 — 95 points",
+          "aliases": [
+            "Auriol"
+          ]
+        },
+        {
+          "answer": "Juha Kankkunen",
+          "display": "#3 — 85 points",
+          "aliases": [
+            "Kankkunen"
+          ]
+        },
+        {
+          "answer": "Miki Biasion",
+          "display": "#4 — 76 points",
+          "aliases": [
+            "Biasion"
+          ]
+        },
+        {
+          "answer": "Mikael Ericsson",
+          "display": "#5 — 32 points",
+          "aliases": [
+            "Ericsson"
+          ]
+        },
+        {
+          "answer": "Dario Cerrato",
+          "display": "#6 — 30 points",
+          "aliases": [
+            "Cerrato"
+          ]
+        },
+        {
+          "answer": "Rudi Stohl",
+          "display": "#7 — 29 points",
+          "aliases": [
+            "Stohl"
+          ]
+        },
+        {
+          "answer": "Kenneth Eriksson",
+          "display": "#8 — 27 points",
+          "aliases": [
+            "Eriksson"
+          ]
+        },
+        {
+          "answer": "Alex Fiorio",
+          "display": "#9 — 25 points",
+          "aliases": [
+            "Fiorio"
+          ]
+        },
+        {
+          "answer": "Ingvar Carlsson",
+          "display": "#10 — 23 points",
+          "aliases": [
+            "Carlsson"
+          ]
+        },
+        {
+          "answer": "Alain Oreille",
+          "display": "#11 — 22 points",
+          "aliases": [
+            "Oreille"
+          ]
+        },
+        {
+          "answer": "Björn Waldegård",
+          "display": "#12 — 20 points",
+          "aliases": [
+            "Waldegård"
+          ]
+        },
+        {
+          "answer": "Patrick Tauziac",
+          "display": "#13 — 20 points",
+          "aliases": [
+            "Tauziac"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/motorsport/rally/wrc-seasons",
+      "question": "Top 10 drivers in the final 1991 World Rally Championship standings",
+      "cutoff": 10,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1372010399 | table 5 | name: Driver | value: Pos. | order: asc",
+      "tags": [
+        "motorsport",
+        "rally",
+        "wrc",
+        "drivers-championship",
+        "1991"
+      ],
+      "answers": [
+        {
+          "answer": "Juha Kankkunen",
+          "display": "#1 — 150 points",
+          "aliases": [
+            "Kankkunen"
+          ]
+        },
+        {
+          "answer": "Carlos Sainz Sr.",
+          "display": "#2 — 143 points",
+          "aliases": [
+            "Sainz",
+            "Carlos Sainz"
+          ]
+        },
+        {
+          "answer": "Didier Auriol",
+          "display": "#3 — 101 points",
+          "aliases": [
+            "Auriol"
+          ]
+        },
+        {
+          "answer": "Miki Biasion",
+          "display": "#4 — 69 points",
+          "aliases": [
+            "Biasion"
+          ]
+        },
+        {
+          "answer": "Kenneth Eriksson",
+          "display": "#5 — 66 points",
+          "aliases": [
+            "Eriksson"
+          ]
+        },
+        {
+          "answer": "Armin Schwarz",
+          "display": "#6 — 55 points",
+          "aliases": [
+            "Schwarz"
+          ]
+        },
+        {
+          "answer": "François Delecour",
+          "display": "#7 — 40 points",
+          "aliases": [
+            "Delecour"
+          ]
+        },
+        {
+          "answer": "Markku Alén",
+          "display": "#8 — 40 points",
+          "aliases": [
+            "Alén"
+          ]
+        },
+        {
+          "answer": "Jorge Recalde",
+          "display": "#9 — 29 points",
+          "aliases": [
+            "Recalde"
+          ]
+        },
+        {
+          "answer": "Mikael Ericsson",
+          "display": "#10 — 27 points",
+          "aliases": [
+            "Ericsson"
+          ]
+        },
+        {
+          "answer": "Kenjiro Shinozuka",
+          "display": "#11 — 23 points",
+          "aliases": [
+            "Shinozuka"
+          ]
+        },
+        {
+          "answer": "Mats Jonsson",
+          "display": "#12 — 21 points",
+          "aliases": [
+            "Jonsson"
+          ]
+        },
+        {
+          "answer": "Timo Salonen",
+          "display": "#13 — 21 points",
+          "aliases": [
+            "Salonen"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/motorsport/rally/wrc-seasons",
+      "question": "Top 10 drivers in the final 1992 World Rally Championship standings",
+      "cutoff": 10,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1375040072 | table 4 | name: Driver | value: Pos. | order: asc",
+      "tags": [
+        "motorsport",
+        "rally",
+        "wrc",
+        "drivers-championship",
+        "1992"
+      ],
+      "answers": [
+        {
+          "answer": "Carlos Sainz Sr.",
+          "display": "#1 — 144 points",
+          "aliases": [
+            "Sainz",
+            "Carlos Sainz"
+          ]
+        },
+        {
+          "answer": "Juha Kankkunen",
+          "display": "#2 — 134 points",
+          "aliases": [
+            "Kankkunen"
+          ]
+        },
+        {
+          "answer": "Didier Auriol",
+          "display": "#3 — 121 points",
+          "aliases": [
+            "Auriol"
+          ]
+        },
+        {
+          "answer": "Miki Biasion",
+          "display": "#4 — 60 points",
+          "aliases": [
+            "Biasion"
+          ]
+        },
+        {
+          "answer": "Markku Alén",
+          "display": "#5 — 50 points",
+          "aliases": [
+            "Alén"
+          ]
+        },
+        {
+          "answer": "François Delecour",
+          "display": "#6 — 45 points",
+          "aliases": [
+            "Delecour"
+          ]
+        },
+        {
+          "answer": "Andrea Aghini",
+          "display": "#7 — 39 points",
+          "aliases": [
+            "Aghini"
+          ]
+        },
+        {
+          "answer": "Colin McRae",
+          "display": "#8 — 34 points",
+          "aliases": [
+            "McRae"
+          ]
+        },
+        {
+          "answer": "Alex Fiorio",
+          "display": "#9 — 32 points",
+          "aliases": [
+            "Fiorio"
+          ]
+        },
+        {
+          "answer": "Jorge Recalde",
+          "display": "#10 — 28 points",
+          "aliases": [
+            "Recalde"
+          ]
+        },
+        {
+          "answer": "Ari Vatanen",
+          "display": "#11 — 25 points",
+          "aliases": [
+            "Vatanen"
+          ]
+        },
+        {
+          "answer": "Piero Liatti",
+          "display": "#12 — 22 points",
+          "aliases": [
+            "Liatti"
+          ]
+        },
+        {
+          "answer": "Philippe Bugalski",
+          "display": "#13 — 22 points",
+          "aliases": [
+            "Bugalski"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/motorsport/rally/wrc-seasons",
+      "question": "Top 10 drivers in the final 1993 World Rally Championship standings",
+      "cutoff": 10,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1372010442 | table 5 | name: Driver | value: Pos. | order: asc",
+      "tags": [
+        "motorsport",
+        "rally",
+        "wrc",
+        "drivers-championship",
+        "1993"
+      ],
+      "answers": [
+        {
+          "answer": "Juha Kankkunen",
+          "display": "#1 — 135 points",
+          "aliases": [
+            "Kankkunen"
+          ]
+        },
+        {
+          "answer": "François Delecour",
+          "display": "#2 — 112 points",
+          "aliases": [
+            "Delecour"
+          ]
+        },
+        {
+          "answer": "Didier Auriol",
+          "display": "#3 — 92 points",
+          "aliases": [
+            "Auriol"
+          ]
+        },
+        {
+          "answer": "Miki Biasion",
+          "display": "#4 — 76 points",
+          "aliases": [
+            "Biasion"
+          ]
+        },
+        {
+          "answer": "Colin McRae",
+          "display": "#5 — 50 points",
+          "aliases": [
+            "McRae"
+          ]
+        },
+        {
+          "answer": "Kenneth Eriksson",
+          "display": "#6 — 41 points",
+          "aliases": [
+            "Eriksson"
+          ]
+        },
+        {
+          "answer": "Ari Vatanen",
+          "display": "#7 — 38 points",
+          "aliases": [
+            "Vatanen"
+          ]
+        },
+        {
+          "answer": "Carlos Sainz Sr.",
+          "display": "#8 — 35 points",
+          "aliases": [
+            "Sainz",
+            "Carlos Sainz"
+          ]
+        },
+        {
+          "answer": "Gustavo Trelles",
+          "display": "#9 — 28 points",
+          "aliases": [
+            "Trelles"
+          ]
+        },
+        {
+          "answer": "Tommi Mäkinen",
+          "display": "#10 — 26 points",
+          "aliases": [
+            "Mäkinen"
+          ]
+        },
+        {
+          "answer": "Markku Alén",
+          "display": "#11 — 25 points",
+          "aliases": [
+            "Alén"
+          ]
+        },
+        {
+          "answer": "Armin Schwarz",
+          "display": "#12 — 23 points",
+          "aliases": [
+            "Schwarz"
+          ]
+        },
+        {
+          "answer": "Mats Jonsson",
+          "display": "#13 — 22 points",
+          "aliases": [
+            "Jonsson"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/motorsport/rally/wrc-seasons",
+      "question": "Top 10 drivers in the final 1994 World Rally Championship standings",
+      "cutoff": 10,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1372010452 | table 6 | name: Driver | value: Pos. | order: asc",
+      "tags": [
+        "motorsport",
+        "rally",
+        "wrc",
+        "drivers-championship",
+        "1994"
+      ],
+      "answers": [
+        {
+          "answer": "Didier Auriol",
+          "display": "#1 — 116 points",
+          "aliases": [
+            "Auriol"
+          ]
+        },
+        {
+          "answer": "Carlos Sainz Sr.",
+          "display": "#2 — 99 points",
+          "aliases": [
+            "Sainz",
+            "Carlos Sainz"
+          ]
+        },
+        {
+          "answer": "Juha Kankkunen",
+          "display": "#3 — 93 points",
+          "aliases": [
+            "Kankkunen"
+          ]
+        },
+        {
+          "answer": "Colin McRae",
+          "display": "#4 — 49 points",
+          "aliases": [
+            "McRae"
+          ]
+        },
+        {
+          "answer": "Bruno Thiry",
+          "display": "#5 — 44 points",
+          "aliases": [
+            "Thiry"
+          ]
+        },
+        {
+          "answer": "Miki Biasion",
+          "display": "#6 — 42 points",
+          "aliases": [
+            "Biasion"
+          ]
+        },
+        {
+          "answer": "Armin Schwarz",
+          "display": "#7 — 31 points",
+          "aliases": [
+            "Schwarz"
+          ]
+        },
+        {
+          "answer": "François Delecour",
+          "display": "#8 — 30 points",
+          "aliases": [
+            "Delecour"
+          ]
+        },
+        {
+          "answer": "Ari Vatanen",
+          "display": "#9 — 28 points",
+          "aliases": [
+            "Vatanen"
+          ]
+        },
+        {
+          "answer": "Tommi Mäkinen",
+          "display": "#10 — 22 points",
+          "aliases": [
+            "Mäkinen"
+          ]
+        },
+        {
+          "answer": "Ian Duncan",
+          "display": "#11 — 20 points",
+          "aliases": [
+            "Duncan"
+          ]
+        },
+        {
+          "answer": "Kenneth Eriksson",
+          "display": "#12 — 18 points",
+          "aliases": [
+            "Eriksson"
+          ]
+        },
+        {
+          "answer": "Kenjiro Shinozuka",
+          "display": "#13 — 15 points",
+          "aliases": [
+            "Shinozuka"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/motorsport/rally/wrc-seasons",
+      "question": "Top 10 drivers in the final 1995 World Rally Championship standings",
+      "cutoff": 10,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1372010488 | table 5 | name: Driver | value: Pos. | order: asc",
+      "tags": [
+        "motorsport",
+        "rally",
+        "wrc",
+        "drivers-championship",
+        "1995"
+      ],
+      "answers": [
+        {
+          "answer": "Colin McRae",
+          "display": "#1 — 90 points"
+        },
+        {
+          "answer": "Carlos Sainz Sr.",
+          "display": "#2 — 85 points",
+          "aliases": [
+            "Sainz",
+            "Carlos Sainz"
+          ]
+        },
+        {
+          "answer": "Kenneth Eriksson",
+          "display": "#3 — 48 points",
+          "aliases": [
+            "Eriksson"
+          ]
+        },
+        {
+          "answer": "François Delecour",
+          "display": "#4 — 46 points",
+          "aliases": [
+            "Delecour"
+          ]
+        },
+        {
+          "answer": "Tommi Mäkinen",
+          "display": "#5 — 38 points",
+          "aliases": [
+            "Mäkinen"
+          ]
+        },
+        {
+          "answer": "Bruno Thiry",
+          "display": "#6 — 34 points",
+          "aliases": [
+            "Thiry"
+          ]
+        },
+        {
+          "answer": "Andrea Aghini",
+          "display": "#7 — 26 points",
+          "aliases": [
+            "Aghini"
+          ]
+        },
+        {
+          "answer": "Piero Liatti",
+          "display": "#8 — 21 points",
+          "aliases": [
+            "Liatti"
+          ]
+        },
+        {
+          "answer": "Richard Burns",
+          "display": "#9 — 16 points",
+          "aliases": [
+            "Burns"
+          ]
+        },
+        {
+          "answer": "Alister McRae",
+          "display": "#10 — 10 points"
+        },
+        {
+          "answer": "Rui Madeira",
+          "display": "#11 — 7 points",
+          "aliases": [
+            "Madeira"
+          ]
+        },
+        {
+          "answer": "Gustavo Trelles",
+          "display": "#12 — 6 points",
+          "aliases": [
+            "Trelles"
+          ]
+        },
+        {
+          "answer": "Gwyndaf Evans",
+          "display": "#12 — 6 points",
+          "aliases": [
+            "Evans"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/motorsport/rally/wrc-seasons",
+      "question": "Top 10 drivers in the final 1996 World Rally Championship standings",
+      "cutoff": 10,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1372010531 | table 5 | name: Driver | value: Pos | order: asc",
+      "tags": [
+        "motorsport",
+        "rally",
+        "wrc",
+        "drivers-championship",
+        "1996"
+      ],
+      "answers": [
+        {
+          "answer": "Tommi Mäkinen",
+          "display": "#1 — 123 points",
+          "aliases": [
+            "Mäkinen"
+          ]
+        },
+        {
+          "answer": "Colin McRae",
+          "display": "#2 — 92 points",
+          "aliases": [
+            "McRae"
+          ]
+        },
+        {
+          "answer": "Carlos Sainz Sr.",
+          "display": "#3 — 89 points",
+          "aliases": [
+            "Sainz",
+            "Carlos Sainz"
+          ]
+        },
+        {
+          "answer": "Kenneth Eriksson",
+          "display": "#4 — 78 points",
+          "aliases": [
+            "Eriksson"
+          ]
+        },
+        {
+          "answer": "Piero Liatti",
+          "display": "#5 — 56 points",
+          "aliases": [
+            "Liatti"
+          ]
+        },
+        {
+          "answer": "Bruno Thiry",
+          "display": "#6 — 44 points",
+          "aliases": [
+            "Thiry"
+          ]
+        },
+        {
+          "answer": "Juha Kankkunen",
+          "display": "#7 — 37 points",
+          "aliases": [
+            "Kankkunen"
+          ]
+        },
+        {
+          "answer": "Freddy Loix",
+          "display": "#8 — 24 points",
+          "aliases": [
+            "Loix"
+          ]
+        },
+        {
+          "answer": "Richard Burns",
+          "display": "#9 — 18 points",
+          "aliases": [
+            "Burns"
+          ]
+        },
+        {
+          "answer": "Marcus Grönholm",
+          "display": "#10 — 14 points",
+          "aliases": [
+            "Grönholm"
+          ]
+        },
+        {
+          "answer": "Gilberto Pianezzola",
+          "display": "#11 — 13 points",
+          "aliases": [
+            "Pianezzola"
+          ]
+        },
+        {
+          "answer": "Ian Duncan",
+          "display": "#12 — 12 points",
+          "aliases": [
+            "Duncan"
+          ]
+        },
+        {
+          "answer": "Jarmo Kytölehto",
+          "display": "#12 — 12 points",
+          "aliases": [
+            "Kytölehto"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/motorsport/rally/wrc-seasons",
+      "question": "Top 10 drivers in the final 1997 World Rally Championship standings",
+      "cutoff": 10,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1372010766 | table 7 | name: Driver | value: Pos. | order: asc",
+      "tags": [
+        "motorsport",
+        "rally",
+        "wrc",
+        "drivers-championship",
+        "1997"
+      ],
+      "answers": [
+        {
+          "answer": "Tommi Mäkinen",
+          "display": "#1 — 63 points",
+          "aliases": [
+            "Mäkinen"
+          ]
+        },
+        {
+          "answer": "Colin McRae",
+          "display": "#2 — 62 points",
+          "aliases": [
+            "McRae"
+          ]
+        },
+        {
+          "answer": "Carlos Sainz Sr.",
+          "display": "#3 — 51 points",
+          "aliases": [
+            "Sainz",
+            "Carlos Sainz"
+          ]
+        },
+        {
+          "answer": "Juha Kankkunen",
+          "display": "#4 — 29 points",
+          "aliases": [
+            "Kankkunen"
+          ]
+        },
+        {
+          "answer": "Kenneth Eriksson",
+          "display": "#5 — 28 points",
+          "aliases": [
+            "Eriksson"
+          ]
+        },
+        {
+          "answer": "Piero Liatti",
+          "display": "#6 — 24 points",
+          "aliases": [
+            "Liatti"
+          ]
+        },
+        {
+          "answer": "Richard Burns",
+          "display": "#7 — 21 points",
+          "aliases": [
+            "Burns"
+          ]
+        },
+        {
+          "answer": "Armin Schwarz",
+          "display": "#8 — 11 points",
+          "aliases": [
+            "Schwarz"
+          ]
+        },
+        {
+          "answer": "Freddy Loix",
+          "display": "#9 — 8 points",
+          "aliases": [
+            "Loix"
+          ]
+        },
+        {
+          "answer": "Gilles Panizzi",
+          "display": "#10 — 8 points",
+          "aliases": [
+            "Panizzi"
+          ]
+        },
+        {
+          "answer": "Didier Auriol",
+          "display": "#11 — 6 points",
+          "aliases": [
+            "Auriol"
+          ]
+        },
+        {
+          "answer": "Marcus Grönholm",
+          "display": "#12 — 5 points",
+          "aliases": [
+            "Grönholm"
+          ]
+        },
+        {
+          "answer": "Ian Duncan",
+          "display": "#13 — 4 points",
+          "aliases": [
+            "Duncan"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/motorsport/rally/wrc-seasons",
+      "question": "Top 9 drivers in the final 1998 World Rally Championship standings",
+      "cutoff": 9,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1372010795 | table 9 | name: Driver | value: Pos. | order: asc",
+      "tags": [
+        "motorsport",
+        "rally",
+        "wrc",
+        "drivers-championship",
+        "1998"
+      ],
+      "answers": [
+        {
+          "answer": "Tommi Mäkinen",
+          "display": "#1 — 58 points",
+          "aliases": [
+            "Mäkinen"
+          ]
+        },
+        {
+          "answer": "Carlos Sainz Sr.",
+          "display": "#2 — 56 points",
+          "aliases": [
+            "Sainz",
+            "Carlos Sainz"
+          ]
+        },
+        {
+          "answer": "Colin McRae",
+          "display": "#3 — 45 points",
+          "aliases": [
+            "McRae"
+          ]
+        },
+        {
+          "answer": "Juha Kankkunen",
+          "display": "#4 — 39 points",
+          "aliases": [
+            "Kankkunen"
+          ]
+        },
+        {
+          "answer": "Didier Auriol",
+          "display": "#5 — 34 points",
+          "aliases": [
+            "Auriol"
+          ]
+        },
+        {
+          "answer": "Richard Burns",
+          "display": "#6 — 33 points",
+          "aliases": [
+            "Burns"
+          ]
+        },
+        {
+          "answer": "Piero Liatti",
+          "display": "#7 — 17 points",
+          "aliases": [
+            "Liatti"
+          ]
+        },
+        {
+          "answer": "Freddy Loix",
+          "display": "#8 — 13 points",
+          "aliases": [
+            "Loix"
+          ]
+        },
+        {
+          "answer": "Bruno Thiry",
+          "display": "#9 — 8 points",
+          "aliases": [
+            "Thiry"
+          ]
+        },
+        {
+          "answer": "François Delecour",
+          "display": "#10 — 6 points",
+          "aliases": [
+            "Delecour"
+          ]
+        },
+        {
+          "answer": "Ari Vatanen",
+          "display": "#11 — 6 points",
+          "aliases": [
+            "Vatanen"
+          ]
+        },
+        {
+          "answer": "Gilles Panizzi",
+          "display": "#12 — 6 points",
+          "aliases": [
+            "Panizzi"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/motorsport/rally/wrc-seasons",
+      "question": "Top 9 drivers in the final 1999 World Rally Championship standings",
+      "cutoff": 9,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1372010969 | table 9 | name: Driver | value: Pos. | order: asc",
+      "tags": [
+        "motorsport",
+        "rally",
+        "wrc",
+        "drivers-championship",
+        "1999"
+      ],
+      "answers": [
+        {
+          "answer": "Tommi Mäkinen",
+          "display": "#1 — 62 points",
+          "aliases": [
+            "Mäkinen"
+          ]
+        },
+        {
+          "answer": "Richard Burns",
+          "display": "#2 — 55 points",
+          "aliases": [
+            "Burns"
+          ]
+        },
+        {
+          "answer": "Didier Auriol",
+          "display": "#3 — 52 points",
+          "aliases": [
+            "Auriol"
+          ]
+        },
+        {
+          "answer": "Juha Kankkunen",
+          "display": "#4 — 44 points",
+          "aliases": [
+            "Kankkunen"
+          ]
+        },
+        {
+          "answer": "Carlos Sainz Sr.",
+          "display": "#5 — 44 points",
+          "aliases": [
+            "Sainz",
+            "Carlos Sainz"
+          ]
+        },
+        {
+          "answer": "Colin McRae",
+          "display": "#6 — 23 points",
+          "aliases": [
+            "McRae"
+          ]
+        },
+        {
+          "answer": "Philippe Bugalski",
+          "display": "#7 — 20 points",
+          "aliases": [
+            "Bugalski"
+          ]
+        },
+        {
+          "answer": "Freddy Loix",
+          "display": "#8 — 14 points",
+          "aliases": [
+            "Loix"
+          ]
+        },
+        {
+          "answer": "Harri Rovanperä",
+          "display": "#9 — 10 points",
+          "aliases": [
+            "Rovanperä"
+          ]
+        },
+        {
+          "answer": "Gilles Panizzi",
+          "display": "#10 — 6 points",
+          "aliases": [
+            "Panizzi"
+          ]
+        },
+        {
+          "answer": "Jesús Puras",
+          "display": "#11 — 6 points",
+          "aliases": [
+            "Puras"
+          ]
+        },
+        {
+          "answer": "Thomas Rådström",
+          "display": "#12 — 6 points",
+          "aliases": [
+            "Rådström"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/motorsport/rally/wrc-seasons",
+      "question": "Top 10 drivers in the final 2000 World Rally Championship standings",
+      "cutoff": 10,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1374952375 | table 7 | name: Driver | value: Pos. | order: asc",
+      "tags": [
+        "motorsport",
+        "rally",
+        "wrc",
+        "drivers-championship",
+        "2000"
+      ],
+      "answers": [
+        {
+          "answer": "Marcus Grönholm",
+          "display": "#1 — 65 points",
+          "aliases": [
+            "Grönholm"
+          ]
+        },
+        {
+          "answer": "Richard Burns",
+          "display": "#2 — 60 points",
+          "aliases": [
+            "Burns"
+          ]
+        },
+        {
+          "answer": "Carlos Sainz Sr.",
+          "display": "#3 — 46 points",
+          "aliases": [
+            "Sainz",
+            "Carlos Sainz"
+          ]
+        },
+        {
+          "answer": "Colin McRae",
+          "display": "#4 — 43 points",
+          "aliases": [
+            "McRae"
+          ]
+        },
+        {
+          "answer": "Tommi Mäkinen",
+          "display": "#5 — 36 points",
+          "aliases": [
+            "Mäkinen"
+          ]
+        },
+        {
+          "answer": "François Delecour",
+          "display": "#6 — 24 points",
+          "aliases": [
+            "Delecour"
+          ]
+        },
+        {
+          "answer": "Gilles Panizzi",
+          "display": "#7 — 21 points",
+          "aliases": [
+            "Panizzi"
+          ]
+        },
+        {
+          "answer": "Juha Kankkunen",
+          "display": "#8 — 20 points",
+          "aliases": [
+            "Kankkunen"
+          ]
+        },
+        {
+          "answer": "Harri Rovanperä",
+          "display": "#9 — 7 points",
+          "aliases": [
+            "Rovanperä"
+          ]
+        },
+        {
+          "answer": "Petter Solberg",
+          "display": "#10 — 6 points",
+          "aliases": [
+            "Solberg"
+          ]
+        },
+        {
+          "answer": "Kenneth Eriksson",
+          "display": "#11 — 5 points",
+          "aliases": [
+            "Eriksson"
+          ]
+        },
+        {
+          "answer": "Didier Auriol",
+          "display": "#12 — 4 points",
+          "aliases": [
+            "Auriol"
+          ]
+        },
+        {
+          "answer": "Toshihiro Arai",
+          "display": "#13 — 4 points",
+          "aliases": [
+            "Arai"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/motorsport/rally/wrc-seasons",
+      "question": "Top 10 drivers in the final 2001 World Rally Championship standings",
+      "cutoff": 10,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1372011530 | table 8 | name: Driver | value: Pos. | order: asc",
+      "tags": [
+        "motorsport",
+        "rally",
+        "wrc",
+        "drivers-championship",
+        "2001"
+      ],
+      "answers": [
+        {
+          "answer": "Richard Burns",
+          "display": "#1 — 44 points",
+          "aliases": [
+            "Burns"
+          ]
+        },
+        {
+          "answer": "Colin McRae",
+          "display": "#2 — 42 points",
+          "aliases": [
+            "McRae"
+          ]
+        },
+        {
+          "answer": "Tommi Mäkinen",
+          "display": "#3 — 41 points",
+          "aliases": [
+            "Mäkinen"
+          ]
+        },
+        {
+          "answer": "Marcus Grönholm",
+          "display": "#4 — 36 points",
+          "aliases": [
+            "Grönholm"
+          ]
+        },
+        {
+          "answer": "Harri Rovanperä",
+          "display": "#5 — 36 points",
+          "aliases": [
+            "Rovanperä"
+          ]
+        },
+        {
+          "answer": "Carlos Sainz Sr.",
+          "display": "#6 — 33 points",
+          "aliases": [
+            "Sainz",
+            "Carlos Sainz"
+          ]
+        },
+        {
+          "answer": "Didier Auriol",
+          "display": "#7 — 23 points",
+          "aliases": [
+            "Auriol"
+          ]
+        },
+        {
+          "answer": "Gilles Panizzi",
+          "display": "#8 — 22 points",
+          "aliases": [
+            "Panizzi"
+          ]
+        },
+        {
+          "answer": "François Delecour",
+          "display": "#9 — 15 points",
+          "aliases": [
+            "Delecour"
+          ]
+        },
+        {
+          "answer": "Petter Solberg",
+          "display": "#10 — 11 points",
+          "aliases": [
+            "Solberg"
+          ]
+        },
+        {
+          "answer": "Jesús Puras",
+          "display": "#11 — 10 points",
+          "aliases": [
+            "Puras"
+          ]
+        },
+        {
+          "answer": "Armin Schwarz",
+          "display": "#12 — 9 points",
+          "aliases": [
+            "Schwarz"
+          ]
+        },
+        {
+          "answer": "Freddy Loix",
+          "display": "#13 — 9 points",
+          "aliases": [
+            "Loix"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/motorsport/rally/wrc-seasons",
+      "question": "Top 10 drivers in the final 2002 World Rally Championship standings",
+      "cutoff": 10,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1379040244 | table 8 | name: Driver | value: Pos. | order: asc",
+      "tags": [
+        "motorsport",
+        "rally",
+        "wrc",
+        "drivers-championship",
+        "2002"
+      ],
+      "answers": [
+        {
+          "answer": "Marcus Grönholm",
+          "display": "#1 — 77 points",
+          "aliases": [
+            "Grönholm"
+          ]
+        },
+        {
+          "answer": "Petter Solberg",
+          "display": "#2 — 37 points",
+          "aliases": [
+            "Solberg"
+          ]
+        },
+        {
+          "answer": "Carlos Sainz Sr.",
+          "display": "#3 — 36 points",
+          "aliases": [
+            "Sainz",
+            "Carlos Sainz"
+          ]
+        },
+        {
+          "answer": "Colin McRae",
+          "display": "#4 — 35 points",
+          "aliases": [
+            "McRae"
+          ]
+        },
+        {
+          "answer": "Richard Burns",
+          "display": "#5 — 34 points",
+          "aliases": [
+            "Burns"
+          ]
+        },
+        {
+          "answer": "Gilles Panizzi",
+          "display": "#6 — 31 points",
+          "aliases": [
+            "Panizzi"
+          ]
+        },
+        {
+          "answer": "Harri Rovanperä",
+          "display": "#7 — 30 points",
+          "aliases": [
+            "Rovanperä"
+          ]
+        },
+        {
+          "answer": "Tommi Mäkinen",
+          "display": "#8 — 22 points",
+          "aliases": [
+            "Mäkinen"
+          ]
+        },
+        {
+          "answer": "Markko Märtin",
+          "display": "#9 — 20 points",
+          "aliases": [
+            "Märtin"
+          ]
+        },
+        {
+          "answer": "Sébastien Loeb",
+          "display": "#10 — 18 points",
+          "aliases": [
+            "Loeb"
+          ]
+        },
+        {
+          "answer": "Philippe Bugalski",
+          "display": "#11 — 7 points",
+          "aliases": [
+            "Bugalski"
+          ]
+        },
+        {
+          "answer": "Thomas Rådström",
+          "display": "#12 — 4 points",
+          "aliases": [
+            "Rådström"
+          ]
+        },
+        {
+          "answer": "Toni Gardemeister",
+          "display": "#13 — 3 points",
+          "aliases": [
+            "Gardemeister"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/motorsport/rally/wrc-seasons",
+      "question": "Top 10 drivers in the final 2003 World Rally Championship standings",
+      "cutoff": 10,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1379040698 | table 7 | name: Driver | value: Pos. | order: asc",
+      "tags": [
+        "motorsport",
+        "rally",
+        "wrc",
+        "drivers-championship",
+        "2003"
+      ],
+      "answers": [
+        {
+          "answer": "Petter Solberg",
+          "display": "#1 — 72 points",
+          "aliases": [
+            "Solberg"
+          ]
+        },
+        {
+          "answer": "Sébastien Loeb",
+          "display": "#2 — 71 points",
+          "aliases": [
+            "Loeb"
+          ]
+        },
+        {
+          "answer": "Carlos Sainz Sr.",
+          "display": "#3 — 63 points",
+          "aliases": [
+            "Sainz",
+            "Carlos Sainz"
+          ]
+        },
+        {
+          "answer": "Richard Burns",
+          "display": "#4 — 58 points",
+          "aliases": [
+            "Burns"
+          ]
+        },
+        {
+          "answer": "Markko Märtin",
+          "display": "#5 — 49 points",
+          "aliases": [
+            "Märtin"
+          ]
+        },
+        {
+          "answer": "Marcus Grönholm",
+          "display": "#6 — 46 points",
+          "aliases": [
+            "Grönholm"
+          ]
+        },
+        {
+          "answer": "Colin McRae",
+          "display": "#7 — 45 points",
+          "aliases": [
+            "McRae"
+          ]
+        },
+        {
+          "answer": "Tommi Mäkinen",
+          "display": "#8 — 30 points",
+          "aliases": [
+            "Mäkinen"
+          ]
+        },
+        {
+          "answer": "François Duval",
+          "display": "#9 — 30 points",
+          "aliases": [
+            "Duval"
+          ]
+        },
+        {
+          "answer": "Gilles Panizzi",
+          "display": "#10 — 27 points",
+          "aliases": [
+            "Panizzi"
+          ]
+        },
+        {
+          "answer": "Harri Rovanperä",
+          "display": "#11 — 18 points",
+          "aliases": [
+            "Rovanperä"
+          ]
+        },
+        {
+          "answer": "Toni Gardemeister",
+          "display": "#12 — 9 points",
+          "aliases": [
+            "Gardemeister"
+          ]
+        },
+        {
+          "answer": "Didier Auriol",
+          "display": "#13 — 4 points",
+          "aliases": [
+            "Auriol"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/motorsport/rally/wrc-seasons",
+      "question": "Top 10 drivers in the final 2004 World Rally Championship standings",
+      "cutoff": 10,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1372012250 | table 7 | name: Driver | value: Pos. | order: asc",
+      "tags": [
+        "motorsport",
+        "rally",
+        "wrc",
+        "drivers-championship",
+        "2004"
+      ],
+      "answers": [
+        {
+          "answer": "Sébastien Loeb",
+          "display": "#1 — 118 points",
+          "aliases": [
+            "Loeb"
+          ]
+        },
+        {
+          "answer": "Petter Solberg",
+          "display": "#2 — 82 points",
+          "aliases": [
+            "Solberg"
+          ]
+        },
+        {
+          "answer": "Markko Märtin",
+          "display": "#3 — 79 points",
+          "aliases": [
+            "Märtin"
+          ]
+        },
+        {
+          "answer": "Carlos Sainz Sr.",
+          "display": "#4 — 73 points",
+          "aliases": [
+            "Sainz",
+            "Carlos Sainz"
+          ]
+        },
+        {
+          "answer": "Marcus Grönholm",
+          "display": "#5 — 62 points",
+          "aliases": [
+            "Grönholm"
+          ]
+        },
+        {
+          "answer": "François Duval",
+          "display": "#6 — 53 points",
+          "aliases": [
+            "Duval"
+          ]
+        },
+        {
+          "answer": "Mikko Hirvonen",
+          "display": "#7 — 29 points",
+          "aliases": [
+            "Hirvonen"
+          ]
+        },
+        {
+          "answer": "Harri Rovanperä",
+          "display": "#8 — 28 points",
+          "aliases": [
+            "Rovanperä"
+          ]
+        },
+        {
+          "answer": "Janne Tuohino",
+          "display": "#9 — 16 points",
+          "aliases": [
+            "Tuohino"
+          ]
+        },
+        {
+          "answer": "Freddy Loix",
+          "display": "#10 — 9 points",
+          "aliases": [
+            "Loix"
+          ]
+        },
+        {
+          "answer": "Stéphane Sarrazin",
+          "display": "#11 — 8 points",
+          "aliases": [
+            "Sarrazin"
+          ]
+        },
+        {
+          "answer": "Daniel Carlsson",
+          "display": "#12 — 6 points",
+          "aliases": [
+            "Carlsson"
+          ]
+        },
+        {
+          "answer": "Gilles Panizzi",
+          "display": "#13 — 6 points",
+          "aliases": [
+            "Panizzi"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/motorsport/rally/wrc-seasons",
+      "question": "Top 9 drivers in the final 2005 World Rally Championship standings",
+      "cutoff": 9,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1377484605 | table 7 | name: Driver | value: Pos. | order: asc",
+      "tags": [
+        "motorsport",
+        "rally",
+        "wrc",
+        "drivers-championship",
+        "2005"
+      ],
+      "answers": [
+        {
+          "answer": "Sébastien Loeb",
+          "display": "#1 — 127 points",
+          "aliases": [
+            "Loeb"
+          ]
+        },
+        {
+          "answer": "Petter Solberg",
+          "display": "#2 — 71 points",
+          "aliases": [
+            "Solberg"
+          ]
+        },
+        {
+          "answer": "Marcus Grönholm",
+          "display": "#3 — 71 points",
+          "aliases": [
+            "Grönholm"
+          ]
+        },
+        {
+          "answer": "Toni Gardemeister",
+          "display": "#4 — 58 points",
+          "aliases": [
+            "Gardemeister"
+          ]
+        },
+        {
+          "answer": "Markko Märtin",
+          "display": "#5 — 53 points",
+          "aliases": [
+            "Märtin"
+          ]
+        },
+        {
+          "answer": "François Duval",
+          "display": "#6 — 47 points",
+          "aliases": [
+            "Duval"
+          ]
+        },
+        {
+          "answer": "Harri Rovanperä",
+          "display": "#7 — 39 points",
+          "aliases": [
+            "Rovanperä"
+          ]
+        },
+        {
+          "answer": "Roman Kresta",
+          "display": "#8 — 29 points",
+          "aliases": [
+            "Kresta"
+          ]
+        },
+        {
+          "answer": "Manfred Stohl",
+          "display": "#9 — 22 points",
+          "aliases": [
+            "Stohl"
+          ]
+        },
+        {
+          "answer": "Mikko Hirvonen",
+          "display": "#10 — 14 points",
+          "aliases": [
+            "Hirvonen"
+          ]
+        },
+        {
+          "answer": "Gianluigi Galli",
+          "display": "#11 — 14 points",
+          "aliases": [
+            "Galli"
+          ]
+        },
+        {
+          "answer": "Chris Atkinson",
+          "display": "#12 — 13 points",
+          "aliases": [
+            "Atkinson"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/motorsport/rally/wrc-seasons",
+      "question": "Top 10 drivers in the final 2006 World Rally Championship standings",
+      "cutoff": 10,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1377874839 | table 7 | name: Driver | value: Pos. | order: asc",
+      "tags": [
+        "motorsport",
+        "rally",
+        "wrc",
+        "drivers-championship",
+        "2006"
+      ],
+      "answers": [
+        {
+          "answer": "Sébastien Loeb",
+          "display": "#1 — 112 points",
+          "aliases": [
+            "Loeb"
+          ]
+        },
+        {
+          "answer": "Marcus Grönholm",
+          "display": "#2 — 111 points",
+          "aliases": [
+            "Grönholm"
+          ]
+        },
+        {
+          "answer": "Mikko Hirvonen",
+          "display": "#3 — 65 points",
+          "aliases": [
+            "Hirvonen"
+          ]
+        },
+        {
+          "answer": "Manfred Stohl",
+          "display": "#4 — 54 points",
+          "aliases": [
+            "Stohl"
+          ]
+        },
+        {
+          "answer": "Daniel Sordo",
+          "display": "#5 — 49 points",
+          "aliases": [
+            "Sordo"
+          ]
+        },
+        {
+          "answer": "Petter Solberg",
+          "display": "#6 — 40 points"
+        },
+        {
+          "answer": "Xavier Pons",
+          "display": "#7 — 32 points",
+          "aliases": [
+            "Pons"
+          ]
+        },
+        {
+          "answer": "Henning Solberg",
+          "display": "#8 — 25 points"
+        },
+        {
+          "answer": "Toni Gardemeister",
+          "display": "#9 — 20 points",
+          "aliases": [
+            "Gardemeister"
+          ]
+        },
+        {
+          "answer": "Chris Atkinson",
+          "display": "#10 — 20 points",
+          "aliases": [
+            "Atkinson"
+          ]
+        },
+        {
+          "answer": "Gianluigi Galli",
+          "display": "#11 — 15 points",
+          "aliases": [
+            "Galli"
+          ]
+        },
+        {
+          "answer": "Alexandre Bengué",
+          "display": "#12 — 9 points",
+          "aliases": [
+            "Bengué"
+          ]
+        },
+        {
+          "answer": "Jari-Matti Latvala",
+          "display": "#13 — 9 points",
+          "aliases": [
+            "Latvala"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/motorsport/rally/wrc-seasons",
+      "question": "Top 10 drivers in the final 2007 World Rally Championship standings",
+      "cutoff": 10,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1378189267 | table 9 | name: Driver | value: Pos. | order: asc",
+      "tags": [
+        "motorsport",
+        "rally",
+        "wrc",
+        "drivers-championship",
+        "2007"
+      ],
+      "answers": [
+        {
+          "answer": "Sébastien Loeb",
+          "display": "#1 — 116 points",
+          "aliases": [
+            "Loeb"
+          ]
+        },
+        {
+          "answer": "Marcus Grönholm",
+          "display": "#2 — 112 points",
+          "aliases": [
+            "Grönholm"
+          ]
+        },
+        {
+          "answer": "Mikko Hirvonen",
+          "display": "#3 — 99 points",
+          "aliases": [
+            "Hirvonen"
+          ]
+        },
+        {
+          "answer": "Daniel Sordo",
+          "display": "#4 — 65 points",
+          "aliases": [
+            "Sordo"
+          ]
+        },
+        {
+          "answer": "Petter Solberg",
+          "display": "#5 — 47 points"
+        },
+        {
+          "answer": "Henning Solberg",
+          "display": "#6 — 34 points"
+        },
+        {
+          "answer": "Chris Atkinson",
+          "display": "#7 — 31 points",
+          "aliases": [
+            "Atkinson"
+          ]
+        },
+        {
+          "answer": "Jari-Matti Latvala",
+          "display": "#8 — 30 points",
+          "aliases": [
+            "Latvala"
+          ]
+        },
+        {
+          "answer": "Manfred Stohl",
+          "display": "#9 — 13 points",
+          "aliases": [
+            "Stohl"
+          ]
+        },
+        {
+          "answer": "François Duval",
+          "display": "#10 — 12 points",
+          "aliases": [
+            "Duval"
+          ]
+        },
+        {
+          "answer": "Matthew Wilson",
+          "display": "#11 — 11 points",
+          "aliases": [
+            "Wilson"
+          ]
+        },
+        {
+          "answer": "Jan Kopecký",
+          "display": "#12 — 10 points",
+          "aliases": [
+            "Kopecký"
+          ]
+        },
+        {
+          "answer": "Toni Gardemeister",
+          "display": "#13 — 10 points",
+          "aliases": [
+            "Gardemeister"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/motorsport/rally/wrc-seasons",
+      "question": "Top 10 drivers in the final 2008 World Rally Championship standings",
+      "cutoff": 10,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1375248178 | table 8 | name: Driver | value: Pos. | order: asc",
+      "tags": [
+        "motorsport",
+        "rally",
+        "wrc",
+        "drivers-championship",
+        "2008"
+      ],
+      "answers": [
+        {
+          "answer": "Sébastien Loeb",
+          "display": "#1 — 122 points",
+          "aliases": [
+            "Loeb"
+          ]
+        },
+        {
+          "answer": "Mikko Hirvonen",
+          "display": "#2 — 103 points",
+          "aliases": [
+            "Hirvonen"
+          ]
+        },
+        {
+          "answer": "Daniel Sordo",
+          "display": "#3 — 65 points",
+          "aliases": [
+            "Sordo"
+          ]
+        },
+        {
+          "answer": "Jari-Matti Latvala",
+          "display": "#4 — 58 points",
+          "aliases": [
+            "Latvala"
+          ]
+        },
+        {
+          "answer": "Chris Atkinson",
+          "display": "#5 — 50 points",
+          "aliases": [
+            "Atkinson"
+          ]
+        },
+        {
+          "answer": "Petter Solberg",
+          "display": "#6 — 46 points"
+        },
+        {
+          "answer": "François Duval",
+          "display": "#7 — 25 points",
+          "aliases": [
+            "Duval"
+          ]
+        },
+        {
+          "answer": "Henning Solberg",
+          "display": "#8 — 22 points"
+        },
+        {
+          "answer": "Gianluigi Galli",
+          "display": "#9 — 17 points",
+          "aliases": [
+            "Galli"
+          ]
+        },
+        {
+          "answer": "Matthew Wilson",
+          "display": "#10 — 15 points",
+          "aliases": [
+            "Wilson"
+          ]
+        },
+        {
+          "answer": "Urmo Aava",
+          "display": "#11 — 13 points",
+          "aliases": [
+            "Aava"
+          ]
+        },
+        {
+          "answer": "Per-Gunnar Andersson",
+          "display": "#12 — 12 points",
+          "aliases": [
+            "Andersson"
+          ]
+        },
+        {
+          "answer": "Toni Gardemeister",
+          "display": "#13 — 10 points",
+          "aliases": [
+            "Gardemeister"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/motorsport/rally/wrc-seasons",
+      "question": "Top 10 drivers in the final 2009 World Rally Championship standings",
+      "cutoff": 10,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1375228619 | table 8 | name: Driver | value: Pos. | order: asc",
+      "tags": [
+        "motorsport",
+        "rally",
+        "wrc",
+        "drivers-championship",
+        "2009"
+      ],
+      "answers": [
+        {
+          "answer": "Sébastien Loeb",
+          "display": "#1 — 93 points",
+          "aliases": [
+            "Loeb"
+          ]
+        },
+        {
+          "answer": "Mikko Hirvonen",
+          "display": "#2 — 92 points",
+          "aliases": [
+            "Hirvonen"
+          ]
+        },
+        {
+          "answer": "Daniel Sordo",
+          "display": "#3 — 64 points",
+          "aliases": [
+            "Sordo"
+          ]
+        },
+        {
+          "answer": "Jari-Matti Latvala",
+          "display": "#4 — 41 points",
+          "aliases": [
+            "Latvala"
+          ]
+        },
+        {
+          "answer": "Petter Solberg",
+          "display": "#5 — 35 points"
+        },
+        {
+          "answer": "Henning Solberg",
+          "display": "#6 — 33 points"
+        },
+        {
+          "answer": "Matthew Wilson",
+          "display": "#7 — 28 points",
+          "aliases": [
+            "Wilson"
+          ]
+        },
+        {
+          "answer": "Sébastien Ogier",
+          "display": "#8 — 24 points",
+          "aliases": [
+            "Ogier"
+          ]
+        },
+        {
+          "answer": "Federico Villagra",
+          "display": "#9 — 16 points",
+          "aliases": [
+            "Villagra"
+          ]
+        },
+        {
+          "answer": "Conrad Rautenbach",
+          "display": "#10 — 9 points",
+          "aliases": [
+            "Rautenbach"
+          ]
+        },
+        {
+          "answer": "Mads Østberg",
+          "display": "#11 — 7 points",
+          "aliases": [
+            "Østberg"
+          ]
+        },
+        {
+          "answer": "Khalid al-Qassimi",
+          "display": "#12 — 6 points",
+          "aliases": [
+            "al-Qassimi"
+          ]
+        },
+        {
+          "answer": "Evgeny Novikov",
+          "display": "#13 — 4 points",
+          "aliases": [
+            "Novikov"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/motorsport/rally/wrc-seasons",
+      "question": "Top 10 drivers in the final 2010 World Rally Championship standings",
+      "cutoff": 10,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1375393747 | table 10 | name: Driver | value: Pos. | order: asc",
+      "tags": [
+        "motorsport",
+        "rally",
+        "wrc",
+        "drivers-championship",
+        "2010"
+      ],
+      "answers": [
+        {
+          "answer": "Sébastien Loeb",
+          "display": "#1 — 276 points",
+          "aliases": [
+            "Loeb"
+          ]
+        },
+        {
+          "answer": "Jari-Matti Latvala",
+          "display": "#2 — 171 points",
+          "aliases": [
+            "Latvala"
+          ]
+        },
+        {
+          "answer": "Petter Solberg",
+          "display": "#3 — 169 points"
+        },
+        {
+          "answer": "Sébastien Ogier",
+          "display": "#4 — 167 points",
+          "aliases": [
+            "Ogier"
+          ]
+        },
+        {
+          "answer": "Dani Sordo",
+          "display": "#5 — 150 points",
+          "aliases": [
+            "Sordo"
+          ]
+        },
+        {
+          "answer": "Mikko Hirvonen",
+          "display": "#6 — 126 points",
+          "aliases": [
+            "Hirvonen"
+          ]
+        },
+        {
+          "answer": "Matthew Wilson",
+          "display": "#7 — 74 points",
+          "aliases": [
+            "Wilson"
+          ]
+        },
+        {
+          "answer": "Henning Solberg",
+          "display": "#8 — 45 points"
+        },
+        {
+          "answer": "Federico Villagra",
+          "display": "#9 — 36 points",
+          "aliases": [
+            "Villagra"
+          ]
+        },
+        {
+          "answer": "Kimi Räikkönen",
+          "display": "#10 — 25 points",
+          "aliases": [
+            "Räikkönen"
+          ]
+        },
+        {
+          "answer": "Mads Østberg",
+          "display": "#11 — 18 points",
+          "aliases": [
+            "Østberg"
+          ]
+        },
+        {
+          "answer": "Khalid Al Qassimi",
+          "display": "#12 — 12 points",
+          "aliases": [
+            "Qassimi"
+          ]
+        },
+        {
+          "answer": "Per-Gunnar Andersson",
+          "display": "#13 — 8 points",
+          "aliases": [
+            "Andersson"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/motorsport/rally/wrc-seasons",
+      "question": "Top 10 drivers in the final 2011 World Rally Championship standings",
+      "cutoff": 10,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1372013435 | table 10 | name: Driver | value: Pos. | order: asc",
+      "tags": [
+        "motorsport",
+        "rally",
+        "wrc",
+        "drivers-championship",
+        "2011"
+      ],
+      "answers": [
+        {
+          "answer": "Sébastien Loeb",
+          "display": "#1 — 222 points",
+          "aliases": [
+            "Loeb"
+          ]
+        },
+        {
+          "answer": "Mikko Hirvonen",
+          "display": "#2 — 214 points",
+          "aliases": [
+            "Hirvonen"
+          ]
+        },
+        {
+          "answer": "Sébastien Ogier",
+          "display": "#3 — 196 points",
+          "aliases": [
+            "Ogier"
+          ]
+        },
+        {
+          "answer": "Jari-Matti Latvala",
+          "display": "#4 — 172 points",
+          "aliases": [
+            "Latvala"
+          ]
+        },
+        {
+          "answer": "Petter Solberg",
+          "display": "#5 — 110 points"
+        },
+        {
+          "answer": "Mads Østberg",
+          "display": "#6 — 88 points",
+          "aliases": [
+            "Østberg"
+          ]
+        },
+        {
+          "answer": "Matthew Wilson",
+          "display": "#7 — 63 points",
+          "aliases": [
+            "Wilson"
+          ]
+        },
+        {
+          "answer": "Dani Sordo",
+          "display": "#8 — 59 points",
+          "aliases": [
+            "Sordo"
+          ]
+        },
+        {
+          "answer": "Henning Solberg",
+          "display": "#9 — 59 points"
+        },
+        {
+          "answer": "Kimi Räikkönen",
+          "display": "#10 — 34 points",
+          "aliases": [
+            "Räikkönen"
+          ]
+        },
+        {
+          "answer": "Kris Meeke",
+          "display": "#11 — 25 points",
+          "aliases": [
+            "Meeke"
+          ]
+        },
+        {
+          "answer": "Dennis Kuipers",
+          "display": "#12 — 21 points",
+          "aliases": [
+            "Kuipers"
+          ]
+        },
+        {
+          "answer": "Federico Villagra",
+          "display": "#13 — 20 points",
+          "aliases": [
+            "Villagra"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/motorsport/rally/wrc-seasons",
+      "question": "Top 10 drivers in the final 2012 World Rally Championship standings",
+      "cutoff": 10,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1375405000 | table 10 | name: Driver | value: Pos. | order: asc",
+      "tags": [
+        "motorsport",
+        "rally",
+        "wrc",
+        "drivers-championship",
+        "2012"
+      ],
+      "answers": [
+        {
+          "answer": "Sébastien Loeb",
+          "display": "#1 — 270 points",
+          "aliases": [
+            "Loeb"
+          ]
+        },
+        {
+          "answer": "Mikko Hirvonen",
+          "display": "#2 — 213 points",
+          "aliases": [
+            "Hirvonen"
+          ]
+        },
+        {
+          "answer": "Jari-Matti Latvala",
+          "display": "#3 — 154 points",
+          "aliases": [
+            "Latvala"
+          ]
+        },
+        {
+          "answer": "Mads Østberg",
+          "display": "#4 — 149 points",
+          "aliases": [
+            "Østberg"
+          ]
+        },
+        {
+          "answer": "Petter Solberg",
+          "display": "#5 — 124 points",
+          "aliases": [
+            "Solberg"
+          ]
+        },
+        {
+          "answer": "Evgeny Novikov",
+          "display": "#6 — 88 points",
+          "aliases": [
+            "Novikov"
+          ]
+        },
+        {
+          "answer": "Thierry Neuville",
+          "display": "#7 — 53 points",
+          "aliases": [
+            "Neuville"
+          ]
+        },
+        {
+          "answer": "Ott Tänak",
+          "display": "#8 — 52 points",
+          "aliases": [
+            "Tänak"
+          ]
+        },
+        {
+          "answer": "Martin Prokop",
+          "display": "#9 — 46 points",
+          "aliases": [
+            "Prokop"
+          ]
+        },
+        {
+          "answer": "Sébastien Ogier",
+          "display": "#10 — 41 points",
+          "aliases": [
+            "Ogier"
+          ]
+        },
+        {
+          "answer": "Dani Sordo",
+          "display": "#11 — 35 points",
+          "aliases": [
+            "Sordo"
+          ]
+        },
+        {
+          "answer": "Nasser Al-Attiyah",
+          "display": "#12 — 28 points",
+          "aliases": [
+            "Al-Attiyah"
+          ]
+        },
+        {
+          "answer": "Chris Atkinson",
+          "display": "#13 — 28 points",
+          "aliases": [
+            "Atkinson"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/motorsport/rally/wrc-seasons",
+      "question": "Top 10 drivers in the final 2013 World Rally Championship standings",
+      "cutoff": 10,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1372013680 | table 18 | name: Driver | value: Pos. | order: asc",
+      "tags": [
+        "motorsport",
+        "rally",
+        "wrc",
+        "drivers-championship",
+        "2013"
+      ],
+      "answers": [
+        {
+          "answer": "Sébastien Ogier",
+          "display": "#1 — 290 points",
+          "aliases": [
+            "Ogier"
+          ]
+        },
+        {
+          "answer": "Thierry Neuville",
+          "display": "#2 — 176 points",
+          "aliases": [
+            "Neuville"
+          ]
+        },
+        {
+          "answer": "Jari-Matti Latvala",
+          "display": "#3 — 162 points",
+          "aliases": [
+            "Latvala"
+          ]
+        },
+        {
+          "answer": "Mikko Hirvonen",
+          "display": "#4 — 126 points",
+          "aliases": [
+            "Hirvonen"
+          ]
+        },
+        {
+          "answer": "Dani Sordo",
+          "display": "#5 — 123 points",
+          "aliases": [
+            "Sordo"
+          ]
+        },
+        {
+          "answer": "Mads Østberg",
+          "display": "#6 — 102 points",
+          "aliases": [
+            "Østberg"
+          ]
+        },
+        {
+          "answer": "Evgeny Novikov",
+          "display": "#7 — 69 points",
+          "aliases": [
+            "Novikov"
+          ]
+        },
+        {
+          "answer": "Sébastien Loeb",
+          "display": "#8 — 68 points",
+          "aliases": [
+            "Loeb"
+          ]
+        },
+        {
+          "answer": "Martin Prokop",
+          "display": "#9 — 63 points",
+          "aliases": [
+            "Prokop"
+          ]
+        },
+        {
+          "answer": "Andreas Mikkelsen",
+          "display": "#10 — 50 points",
+          "aliases": [
+            "Mikkelsen"
+          ]
+        },
+        {
+          "answer": "Nasser Al-Attiyah",
+          "display": "#11 — 30 points",
+          "aliases": [
+            "Al-Attiyah"
+          ]
+        },
+        {
+          "answer": "Elfyn Evans",
+          "display": "#12 — 20 points",
+          "aliases": [
+            "Evans"
+          ]
+        },
+        {
+          "answer": "Robert Kubica",
+          "display": "#13 — 18 points",
+          "aliases": [
+            "Kubica"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/motorsport/rally/wrc-seasons",
+      "question": "Top 10 drivers in the final 2014 World Rally Championship standings",
+      "cutoff": 10,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1372165265 | table 18 | name: Driver | value: Pos. | order: asc",
+      "tags": [
+        "motorsport",
+        "rally",
+        "wrc",
+        "drivers-championship",
+        "2014"
+      ],
+      "answers": [
+        {
+          "answer": "Sébastien Ogier",
+          "display": "#1 — 267 points",
+          "aliases": [
+            "Ogier"
+          ]
+        },
+        {
+          "answer": "Jari-Matti Latvala",
+          "display": "#2 — 218 points",
+          "aliases": [
+            "Latvala"
+          ]
+        },
+        {
+          "answer": "Andreas Mikkelsen",
+          "display": "#3 — 150 points",
+          "aliases": [
+            "Mikkelsen"
+          ]
+        },
+        {
+          "answer": "Mikko Hirvonen",
+          "display": "#4 — 126 points",
+          "aliases": [
+            "Hirvonen"
+          ]
+        },
+        {
+          "answer": "Mads Østberg",
+          "display": "#5 — 108 points",
+          "aliases": [
+            "Østberg"
+          ]
+        },
+        {
+          "answer": "Thierry Neuville",
+          "display": "#6 — 105 points",
+          "aliases": [
+            "Neuville"
+          ]
+        },
+        {
+          "answer": "Kris Meeke",
+          "display": "#7 — 92 points",
+          "aliases": [
+            "Meeke"
+          ]
+        },
+        {
+          "answer": "Elfyn Evans",
+          "display": "#8 — 81 points",
+          "aliases": [
+            "Evans"
+          ]
+        },
+        {
+          "answer": "Martin Prokop",
+          "display": "#9 — 44 points",
+          "aliases": [
+            "Prokop"
+          ]
+        },
+        {
+          "answer": "Dani Sordo",
+          "display": "#10 — 40 points",
+          "aliases": [
+            "Sordo"
+          ]
+        },
+        {
+          "answer": "Henning Solberg",
+          "display": "#11 — 26 points",
+          "aliases": [
+            "Solberg"
+          ]
+        },
+        {
+          "answer": "Bryan Bouffier",
+          "display": "#12 — 20 points",
+          "aliases": [
+            "Bouffier"
+          ]
+        },
+        {
+          "answer": "Juho Hänninen",
+          "display": "#13 — 20 points",
+          "aliases": [
+            "Hänninen"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/motorsport/rally/wrc-seasons",
+      "question": "Top 10 drivers in the final 2015 World Rally Championship standings",
+      "cutoff": 10,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1372886080 | table 17 | name: Driver | value: Pos. | order: asc",
+      "tags": [
+        "motorsport",
+        "rally",
+        "wrc",
+        "drivers-championship",
+        "2015"
+      ],
+      "answers": [
+        {
+          "answer": "Sébastien Ogier",
+          "display": "#1 — 263 points",
+          "aliases": [
+            "Ogier"
+          ]
+        },
+        {
+          "answer": "Jari-Matti Latvala",
+          "display": "#2 — 183 points",
+          "aliases": [
+            "Latvala"
+          ]
+        },
+        {
+          "answer": "Andreas Mikkelsen",
+          "display": "#3 — 171 points",
+          "aliases": [
+            "Mikkelsen"
+          ]
+        },
+        {
+          "answer": "Mads Østberg",
+          "display": "#4 — 116 points",
+          "aliases": [
+            "Østberg"
+          ]
+        },
+        {
+          "answer": "Kris Meeke",
+          "display": "#5 — 112 points",
+          "aliases": [
+            "Meeke"
+          ]
+        },
+        {
+          "answer": "Thierry Neuville",
+          "display": "#6 — 90 points",
+          "aliases": [
+            "Neuville"
+          ]
+        },
+        {
+          "answer": "Elfyn Evans",
+          "display": "#7 — 89 points",
+          "aliases": [
+            "Evans"
+          ]
+        },
+        {
+          "answer": "Dani Sordo",
+          "display": "#8 — 89 points",
+          "aliases": [
+            "Sordo"
+          ]
+        },
+        {
+          "answer": "Hayden Paddon",
+          "display": "#9 — 84 points",
+          "aliases": [
+            "Paddon"
+          ]
+        },
+        {
+          "answer": "Ott Tänak",
+          "display": "#10 — 63 points",
+          "aliases": [
+            "Tänak"
+          ]
+        },
+        {
+          "answer": "Martin Prokop",
+          "display": "#11 — 39 points",
+          "aliases": [
+            "Prokop"
+          ]
+        },
+        {
+          "answer": "Robert Kubica",
+          "display": "#12 — 11 points",
+          "aliases": [
+            "Kubica"
+          ]
+        },
+        {
+          "answer": "Khalid Al Qassimi",
+          "display": "#13 — 9 points",
+          "aliases": [
+            "Qassimi"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/motorsport/rally/wrc-seasons",
+      "question": "Top 10 drivers in the final 2016 World Rally Championship standings",
+      "cutoff": 10,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1373431603 | table 5 | name: Driver | value: Pos. | order: asc",
+      "tags": [
+        "motorsport",
+        "rally",
+        "wrc",
+        "drivers-championship",
+        "2016"
+      ],
+      "answers": [
+        {
+          "answer": "Sébastien Ogier",
+          "display": "#1 — 268 points",
+          "aliases": [
+            "Ogier"
+          ]
+        },
+        {
+          "answer": "Thierry Neuville",
+          "display": "#2 — 160 points",
+          "aliases": [
+            "Neuville"
+          ]
+        },
+        {
+          "answer": "Andreas Mikkelsen",
+          "display": "#3 — 154 points",
+          "aliases": [
+            "Mikkelsen"
+          ]
+        },
+        {
+          "answer": "Hayden Paddon",
+          "display": "#4 — 138 points",
+          "aliases": [
+            "Paddon"
+          ]
+        },
+        {
+          "answer": "Dani Sordo",
+          "display": "#5 — 130 points",
+          "aliases": [
+            "Sordo"
+          ]
+        },
+        {
+          "answer": "Jari-Matti Latvala",
+          "display": "#6 — 112 points",
+          "aliases": [
+            "Latvala"
+          ]
+        },
+        {
+          "answer": "Mads Østberg",
+          "display": "#7 — 102 points",
+          "aliases": [
+            "Østberg"
+          ]
+        },
+        {
+          "answer": "Ott Tänak",
+          "display": "#8 — 88 points",
+          "aliases": [
+            "Tänak"
+          ]
+        },
+        {
+          "answer": "Kris Meeke",
+          "display": "#9 — 64 points",
+          "aliases": [
+            "Meeke"
+          ]
+        },
+        {
+          "answer": "Craig Breen",
+          "display": "#10 — 36 points",
+          "aliases": [
+            "Breen"
+          ]
+        },
+        {
+          "answer": "Eric Camilli",
+          "display": "#11 — 28 points",
+          "aliases": [
+            "Camilli"
+          ]
+        },
+        {
+          "answer": "Esapekka Lappi",
+          "display": "#12 — 16 points",
+          "aliases": [
+            "Lappi"
+          ]
+        },
+        {
+          "answer": "Stéphane Lefebvre",
+          "display": "#13 — 14 points",
+          "aliases": [
+            "Lefebvre"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/motorsport/rally/wrc-seasons",
+      "question": "Top 10 drivers in the final 2017 World Rally Championship standings",
+      "cutoff": 10,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1373886106 | table 6 | name: Driver | value: Pos. | order: asc",
+      "tags": [
+        "motorsport",
+        "rally",
+        "wrc",
+        "drivers-championship",
+        "2017"
+      ],
+      "answers": [
+        {
+          "answer": "Sébastien Ogier",
+          "display": "#1 — 232 points",
+          "aliases": [
+            "Ogier"
+          ]
+        },
+        {
+          "answer": "Thierry Neuville",
+          "display": "#2 — 208 points",
+          "aliases": [
+            "Neuville"
+          ]
+        },
+        {
+          "answer": "Ott Tänak",
+          "display": "#3 — 191 points",
+          "aliases": [
+            "Tänak"
+          ]
+        },
+        {
+          "answer": "Jari-Matti Latvala",
+          "display": "#4 — 136 points",
+          "aliases": [
+            "Latvala"
+          ]
+        },
+        {
+          "answer": "Elfyn Evans",
+          "display": "#5 — 128 points",
+          "aliases": [
+            "Evans"
+          ]
+        },
+        {
+          "answer": "Dani Sordo",
+          "display": "#6 — 95 points",
+          "aliases": [
+            "Sordo"
+          ]
+        },
+        {
+          "answer": "Kris Meeke",
+          "display": "#7 — 77 points",
+          "aliases": [
+            "Meeke"
+          ]
+        },
+        {
+          "answer": "Hayden Paddon",
+          "display": "#8 — 74 points",
+          "aliases": [
+            "Paddon"
+          ]
+        },
+        {
+          "answer": "Juho Hänninen",
+          "display": "#9 — 71 points",
+          "aliases": [
+            "Hänninen"
+          ]
+        },
+        {
+          "answer": "Craig Breen",
+          "display": "#10 — 64 points",
+          "aliases": [
+            "Breen"
+          ]
+        },
+        {
+          "answer": "Esapekka Lappi",
+          "display": "#11 — 62 points",
+          "aliases": [
+            "Lappi"
+          ]
+        },
+        {
+          "answer": "Andreas Mikkelsen",
+          "display": "#12 — 54 points",
+          "aliases": [
+            "Mikkelsen"
+          ]
+        },
+        {
+          "answer": "Stéphane Lefebvre",
+          "display": "#13 — 30 points",
+          "aliases": [
+            "Lefebvre"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/motorsport/rally/wrc-seasons",
+      "question": "Top 10 drivers in the final 2018 World Rally Championship standings",
+      "cutoff": 10,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1375411034 | table 6 | name: Driver | value: Pos. | order: asc",
+      "tags": [
+        "motorsport",
+        "rally",
+        "wrc",
+        "drivers-championship",
+        "2018"
+      ],
+      "answers": [
+        {
+          "answer": "Sébastien Ogier",
+          "display": "#1 — 219 points",
+          "aliases": [
+            "Ogier"
+          ]
+        },
+        {
+          "answer": "Thierry Neuville",
+          "display": "#2 — 201 points",
+          "aliases": [
+            "Neuville"
+          ]
+        },
+        {
+          "answer": "Ott Tänak",
+          "display": "#3 — 181 points",
+          "aliases": [
+            "Tänak"
+          ]
+        },
+        {
+          "answer": "Jari-Matti Latvala",
+          "display": "#4 — 128 points",
+          "aliases": [
+            "Latvala"
+          ]
+        },
+        {
+          "answer": "Esapekka Lappi",
+          "display": "#5 — 126 points",
+          "aliases": [
+            "Lappi"
+          ]
+        },
+        {
+          "answer": "Andreas Mikkelsen",
+          "display": "#6 — 84 points",
+          "aliases": [
+            "Mikkelsen"
+          ]
+        },
+        {
+          "answer": "Elfyn Evans",
+          "display": "#7 — 80 points",
+          "aliases": [
+            "Evans"
+          ]
+        },
+        {
+          "answer": "Hayden Paddon",
+          "display": "#8 — 73 points",
+          "aliases": [
+            "Paddon"
+          ]
+        },
+        {
+          "answer": "Dani Sordo",
+          "display": "#9 — 71 points",
+          "aliases": [
+            "Sordo"
+          ]
+        },
+        {
+          "answer": "Mads Østberg",
+          "display": "#10 — 70 points",
+          "aliases": [
+            "Østberg"
+          ]
+        },
+        {
+          "answer": "Craig Breen",
+          "display": "#11 — 67 points",
+          "aliases": [
+            "Breen"
+          ]
+        },
+        {
+          "answer": "Teemu Suninen",
+          "display": "#12 — 54 points",
+          "aliases": [
+            "Suninen"
+          ]
+        },
+        {
+          "answer": "Sébastien Loeb",
+          "display": "#13 — 43 points",
+          "aliases": [
+            "Loeb"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/motorsport/rally/wrc-seasons",
+      "question": "Top 10 drivers in the final 2019 World Rally Championship standings",
+      "cutoff": 10,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1375410137 | table 6 | name: Driver | value: Pos. | order: asc",
+      "tags": [
+        "motorsport",
+        "rally",
+        "wrc",
+        "drivers-championship",
+        "2019"
+      ],
+      "answers": [
+        {
+          "answer": "Ott Tänak",
+          "display": "#1 — 263 points",
+          "aliases": [
+            "Tänak"
+          ]
+        },
+        {
+          "answer": "Thierry Neuville",
+          "display": "#2 — 227 points",
+          "aliases": [
+            "Neuville"
+          ]
+        },
+        {
+          "answer": "Sébastien Ogier",
+          "display": "#3 — 217 points",
+          "aliases": [
+            "Ogier"
+          ]
+        },
+        {
+          "answer": "Andreas Mikkelsen",
+          "display": "#4 — 102 points",
+          "aliases": [
+            "Mikkelsen"
+          ]
+        },
+        {
+          "answer": "Elfyn Evans",
+          "display": "#5 — 102 points",
+          "aliases": [
+            "Evans"
+          ]
+        },
+        {
+          "answer": "Kris Meeke",
+          "display": "#6 — 98 points",
+          "aliases": [
+            "Meeke"
+          ]
+        },
+        {
+          "answer": "Jari-Matti Latvala",
+          "display": "#7 — 94 points",
+          "aliases": [
+            "Latvala"
+          ]
+        },
+        {
+          "answer": "Dani Sordo",
+          "display": "#8 — 89 points",
+          "aliases": [
+            "Sordo"
+          ]
+        },
+        {
+          "answer": "Teemu Suninen",
+          "display": "#9 — 89 points",
+          "aliases": [
+            "Suninen"
+          ]
+        },
+        {
+          "answer": "Esapekka Lappi",
+          "display": "#10 — 83 points",
+          "aliases": [
+            "Lappi"
+          ]
+        },
+        {
+          "answer": "Sébastien Loeb",
+          "display": "#11 — 51 points",
+          "aliases": [
+            "Loeb"
+          ]
+        },
+        {
+          "answer": "Kalle Rovanperä",
+          "display": "#12 — 18 points",
+          "aliases": [
+            "Rovanperä"
+          ]
+        },
+        {
+          "answer": "Pontus Tidemand",
+          "display": "#13 — 12 points",
+          "aliases": [
+            "Tidemand"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/motorsport/rally/wrc-seasons",
+      "question": "Top 10 drivers in the final 2020 World Rally Championship standings",
+      "cutoff": 10,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1375666705 | table 7 | name: Driver | value: Pos. | order: asc",
+      "tags": [
+        "motorsport",
+        "rally",
+        "wrc",
+        "drivers-championship",
+        "2020"
+      ],
+      "answers": [
+        {
+          "answer": "Sébastien Ogier",
+          "display": "#1 — 122 points",
+          "aliases": [
+            "Ogier"
+          ]
+        },
+        {
+          "answer": "Elfyn Evans",
+          "display": "#2 — 114 points",
+          "aliases": [
+            "Evans"
+          ]
+        },
+        {
+          "answer": "Ott Tänak",
+          "display": "#3 — 105 points",
+          "aliases": [
+            "Tänak"
+          ]
+        },
+        {
+          "answer": "Thierry Neuville",
+          "display": "#4 — 87 points",
+          "aliases": [
+            "Neuville"
+          ]
+        },
+        {
+          "answer": "Kalle Rovanperä",
+          "display": "#5 — 80 points",
+          "aliases": [
+            "Rovanperä"
+          ]
+        },
+        {
+          "answer": "Esapekka Lappi",
+          "display": "#6 — 52 points",
+          "aliases": [
+            "Lappi"
+          ]
+        },
+        {
+          "answer": "Teemu Suninen",
+          "display": "#7 — 44 points",
+          "aliases": [
+            "Suninen"
+          ]
+        },
+        {
+          "answer": "Dani Sordo",
+          "display": "#8 — 42 points",
+          "aliases": [
+            "Sordo"
+          ]
+        },
+        {
+          "answer": "Craig Breen",
+          "display": "#9 — 25 points",
+          "aliases": [
+            "Breen"
+          ]
+        },
+        {
+          "answer": "Sébastien Loeb",
+          "display": "#10 — 24 points",
+          "aliases": [
+            "Loeb"
+          ]
+        },
+        {
+          "answer": "Gus Greensmith",
+          "display": "#11 — 16 points",
+          "aliases": [
+            "Greensmith"
+          ]
+        },
+        {
+          "answer": "Pontus Tidemand",
+          "display": "#12 — 14 points",
+          "aliases": [
+            "Tidemand"
+          ]
+        },
+        {
+          "answer": "Takamoto Katsuta",
+          "display": "#13 — 13 points",
+          "aliases": [
+            "Katsuta"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/motorsport/rally/wrc-seasons",
+      "question": "Top 10 drivers in the final 2021 World Rally Championship standings",
+      "cutoff": 10,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1375409979 | table 7 | name: Driver | value: Pos. | order: asc",
+      "tags": [
+        "motorsport",
+        "rally",
+        "wrc",
+        "drivers-championship",
+        "2021"
+      ],
+      "answers": [
+        {
+          "answer": "Sébastien Ogier",
+          "display": "#1 — 230 points",
+          "aliases": [
+            "Ogier"
+          ]
+        },
+        {
+          "answer": "Elfyn Evans",
+          "display": "#2 — 207 points",
+          "aliases": [
+            "Evans"
+          ]
+        },
+        {
+          "answer": "Thierry Neuville",
+          "display": "#3 — 176 points",
+          "aliases": [
+            "Neuville"
+          ]
+        },
+        {
+          "answer": "Kalle Rovanperä",
+          "display": "#4 — 142 points",
+          "aliases": [
+            "Rovanperä"
+          ]
+        },
+        {
+          "answer": "Ott Tänak",
+          "display": "#5 — 128 points",
+          "aliases": [
+            "Tänak"
+          ]
+        },
+        {
+          "answer": "Dani Sordo",
+          "display": "#6 — 81 points",
+          "aliases": [
+            "Sordo"
+          ]
+        },
+        {
+          "answer": "Takamoto Katsuta",
+          "display": "#7 — 78 points",
+          "aliases": [
+            "Katsuta"
+          ]
+        },
+        {
+          "answer": "Craig Breen",
+          "display": "#8 — 76 points",
+          "aliases": [
+            "Breen"
+          ]
+        },
+        {
+          "answer": "Gus Greensmith",
+          "display": "#9 — 64 points",
+          "aliases": [
+            "Greensmith"
+          ]
+        },
+        {
+          "answer": "Adrien Fourmaux",
+          "display": "#10 — 42 points",
+          "aliases": [
+            "Fourmaux"
+          ]
+        },
+        {
+          "answer": "Teemu Suninen",
+          "display": "#11 — 29 points",
+          "aliases": [
+            "Suninen"
+          ]
+        },
+        {
+          "answer": "Esapekka Lappi",
+          "display": "#12 — 22 points",
+          "aliases": [
+            "Lappi"
+          ]
+        },
+        {
+          "answer": "Oliver Solberg",
+          "display": "#13 — 22 points",
+          "aliases": [
+            "Solberg"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/motorsport/rally/wrc-seasons",
+      "question": "Top 10 drivers in the final 2022 World Rally Championship standings",
+      "cutoff": 10,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1378835405 | table 6 | name: Driver | value: Pos. | order: asc",
+      "tags": [
+        "motorsport",
+        "rally",
+        "wrc",
+        "drivers-championship",
+        "2022"
+      ],
+      "answers": [
+        {
+          "answer": "Kalle Rovanperä",
+          "display": "#1 — 255 points",
+          "aliases": [
+            "Rovanperä"
+          ]
+        },
+        {
+          "answer": "Ott Tänak",
+          "display": "#2 — 205 points",
+          "aliases": [
+            "Tänak"
+          ]
+        },
+        {
+          "answer": "Thierry Neuville",
+          "display": "#3 — 193 points",
+          "aliases": [
+            "Neuville"
+          ]
+        },
+        {
+          "answer": "Elfyn Evans",
+          "display": "#4 — 134 points",
+          "aliases": [
+            "Evans"
+          ]
+        },
+        {
+          "answer": "Takamoto Katsuta",
+          "display": "#5 — 122 points",
+          "aliases": [
+            "Katsuta"
+          ]
+        },
+        {
+          "answer": "Sébastien Ogier",
+          "display": "#6 — 97 points",
+          "aliases": [
+            "Ogier"
+          ]
+        },
+        {
+          "answer": "Craig Breen",
+          "display": "#7 — 84 points",
+          "aliases": [
+            "Breen"
+          ]
+        },
+        {
+          "answer": "Dani Sordo",
+          "display": "#8 — 59 points",
+          "aliases": [
+            "Sordo"
+          ]
+        },
+        {
+          "answer": "Esapekka Lappi",
+          "display": "#9 — 58 points",
+          "aliases": [
+            "Lappi"
+          ]
+        },
+        {
+          "answer": "Gus Greensmith",
+          "display": "#10 — 44 points",
+          "aliases": [
+            "Greensmith"
+          ]
+        },
+        {
+          "answer": "Sébastien Loeb",
+          "display": "#11 — 35 points",
+          "aliases": [
+            "Loeb"
+          ]
+        },
+        {
+          "answer": "Oliver Solberg",
+          "display": "#12 — 33 points",
+          "aliases": [
+            "Solberg"
+          ]
+        },
+        {
+          "answer": "Pierre-Louis Loubet",
+          "display": "#13 — 31 points",
+          "aliases": [
+            "Loubet"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/motorsport/rally/wrc-seasons",
+      "question": "Top 10 drivers in the final 2023 World Rally Championship standings",
+      "cutoff": 10,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1375409753 | table 6 | name: Driver | value: Pos. | order: asc",
+      "tags": [
+        "motorsport",
+        "rally",
+        "wrc",
+        "drivers-championship",
+        "2023"
+      ],
+      "answers": [
+        {
+          "answer": "Kalle Rovanperä",
+          "display": "#1 — 250 points",
+          "aliases": [
+            "Rovanperä"
+          ]
+        },
+        {
+          "answer": "Elfyn Evans",
+          "display": "#2 — 216 points",
+          "aliases": [
+            "Evans"
+          ]
+        },
+        {
+          "answer": "Thierry Neuville",
+          "display": "#3 — 189 points",
+          "aliases": [
+            "Neuville"
+          ]
+        },
+        {
+          "answer": "Ott Tänak",
+          "display": "#4 — 174 points",
+          "aliases": [
+            "Tänak"
+          ]
+        },
+        {
+          "answer": "Sébastien Ogier",
+          "display": "#5 — 133 points",
+          "aliases": [
+            "Ogier"
+          ]
+        },
+        {
+          "answer": "Esapekka Lappi",
+          "display": "#6 — 113 points",
+          "aliases": [
+            "Lappi"
+          ]
+        },
+        {
+          "answer": "Takamoto Katsuta",
+          "display": "#7 — 101 points",
+          "aliases": [
+            "Katsuta"
+          ]
+        },
+        {
+          "answer": "Dani Sordo",
+          "display": "#8 — 63 points",
+          "aliases": [
+            "Sordo"
+          ]
+        },
+        {
+          "answer": "Teemu Suninen",
+          "display": "#9 — 42 points",
+          "aliases": [
+            "Suninen"
+          ]
+        },
+        {
+          "answer": "Oliver Solberg",
+          "display": "#10 — 33 points",
+          "aliases": [
+            "Solberg"
+          ]
+        },
+        {
+          "answer": "Andreas Mikkelsen",
+          "display": "#11 — 29 points",
+          "aliases": [
+            "Mikkelsen"
+          ]
+        },
+        {
+          "answer": "Pierre-Louis Loubet",
+          "display": "#12 — 29 points",
+          "aliases": [
+            "Loubet"
+          ]
+        },
+        {
+          "answer": "Gus Greensmith",
+          "display": "#13 — 26 points",
+          "aliases": [
+            "Greensmith"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/motorsport/rally/wrc-seasons",
+      "question": "Top 10 drivers in the final 2024 World Rally Championship standings",
+      "cutoff": 10,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1375409595 | table 6 | name: Driver | value: Pos. | order: asc",
+      "tags": [
+        "motorsport",
+        "rally",
+        "wrc",
+        "drivers-championship",
+        "2024"
+      ],
+      "answers": [
+        {
+          "answer": "Thierry Neuville",
+          "display": "#1 — 242 points",
+          "aliases": [
+            "Neuville"
+          ]
+        },
+        {
+          "answer": "Elfyn Evans",
+          "display": "#2 — 210 points",
+          "aliases": [
+            "Evans"
+          ]
+        },
+        {
+          "answer": "Ott Tänak",
+          "display": "#3 — 200 points",
+          "aliases": [
+            "Tänak"
+          ]
+        },
+        {
+          "answer": "Sébastien Ogier",
+          "display": "#4 — 191 points",
+          "aliases": [
+            "Ogier"
+          ]
+        },
+        {
+          "answer": "Adrien Fourmaux",
+          "display": "#5 — 162 points",
+          "aliases": [
+            "Fourmaux"
+          ]
+        },
+        {
+          "answer": "Takamoto Katsuta",
+          "display": "#6 — 116 points",
+          "aliases": [
+            "Katsuta"
+          ]
+        },
+        {
+          "answer": "Kalle Rovanperä",
+          "display": "#7 — 114 points",
+          "aliases": [
+            "Rovanperä"
+          ]
+        },
+        {
+          "answer": "Grégoire Munster",
+          "display": "#8 — 46 points",
+          "aliases": [
+            "Munster"
+          ]
+        },
+        {
+          "answer": "Dani Sordo",
+          "display": "#9 — 44 points",
+          "aliases": [
+            "Sordo"
+          ]
+        },
+        {
+          "answer": "Sami Pajari",
+          "display": "#10 — 44 points",
+          "aliases": [
+            "Pajari"
+          ]
+        },
+        {
+          "answer": "Andreas Mikkelsen",
+          "display": "#11 — 40 points",
+          "aliases": [
+            "Mikkelsen"
+          ]
+        },
+        {
+          "answer": "Esapekka Lappi",
+          "display": "#12 — 33 points",
+          "aliases": [
+            "Lappi"
+          ]
+        },
+        {
+          "answer": "Oliver Solberg",
+          "display": "#13 — 27 points",
+          "aliases": [
+            "Solberg"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/motorsport/rally/wrc-seasons",
+      "question": "Top 10 drivers in the final 2025 World Rally Championship standings",
+      "cutoff": 10,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1378614474 | table 6 | name: Driver | value: Pos. | order: asc",
+      "tags": [
+        "motorsport",
+        "rally",
+        "wrc",
+        "drivers-championship",
+        "2025"
+      ],
+      "answers": [
+        {
+          "answer": "Sébastien Ogier",
+          "display": "#1 — 293 points",
+          "aliases": [
+            "Ogier"
+          ]
+        },
+        {
+          "answer": "Elfyn Evans",
+          "display": "#2 — 289 points",
+          "aliases": [
+            "Evans"
+          ]
+        },
+        {
+          "answer": "Kalle Rovanperä",
+          "display": "#3 — 256 points",
+          "aliases": [
+            "Rovanperä"
+          ]
+        },
+        {
+          "answer": "Ott Tänak",
+          "display": "#4 — 216 points",
+          "aliases": [
+            "Tänak"
+          ]
+        },
+        {
+          "answer": "Thierry Neuville",
+          "display": "#5 — 194 points",
+          "aliases": [
+            "Neuville"
+          ]
+        },
+        {
+          "answer": "Takamoto Katsuta",
+          "display": "#6 — 122 points",
+          "aliases": [
+            "Katsuta"
+          ]
+        },
+        {
+          "answer": "Adrien Fourmaux",
+          "display": "#7 — 115 points",
+          "aliases": [
+            "Fourmaux"
+          ]
+        },
+        {
+          "answer": "Sami Pajari",
+          "display": "#8 — 107 points",
+          "aliases": [
+            "Pajari"
+          ]
+        },
+        {
+          "answer": "Oliver Solberg",
+          "display": "#9 — 71 points",
+          "aliases": [
+            "Solberg"
+          ]
+        },
+        {
+          "answer": "Grégoire Munster",
+          "display": "#10 — 40 points",
+          "aliases": [
+            "Munster"
+          ]
+        },
+        {
+          "answer": "Josh McErlean",
+          "display": "#11 — 28 points",
+          "aliases": [
+            "McErlean"
+          ]
+        },
+        {
+          "answer": "Mārtiņš Sesks",
+          "display": "#12 — 16 points",
+          "aliases": [
+            "Sesks"
+          ]
+        },
+        {
+          "answer": "Yohan Rossel",
+          "display": "#13 — 16 points",
+          "aliases": [
+            "Rossel"
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,802 @@
+{
+  "categories": [
+    {
+      "path": "music",
+      "name": "Music"
+    },
+    {
+      "path": "music/billboard-year-end",
+      "name": "Billboard Year-End Hot 100"
+    },
+    {
+      "path": "music/billboard-year-end/1970s",
+      "name": "1970s"
+    }
+  ],
+  "questions": [
+    {
+      "category": "music/billboard-year-end/1970s",
+      "question": "Top 10 songs of Billboard's 1970 year-end Hot 100",
+      "cutoff": 10,
+      "difficulty": 1,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1364834833 | table 1 | name: Title | value: No. | order: asc",
+      "tags": [
+        "music",
+        "billboard",
+        "1970s"
+      ],
+      "answers": [
+        {
+          "answer": "Bridge Over Troubled Water",
+          "display": "#1 — Simon & Garfunkel"
+        },
+        {
+          "answer": "(They Long to Be) Close to You",
+          "display": "#2 — The Carpenters",
+          "aliases": [
+            "Close to You"
+          ]
+        },
+        {
+          "answer": "American Woman",
+          "display": "#3 — The Guess Who"
+        },
+        {
+          "answer": "Raindrops Keep Fallin' on My Head",
+          "display": "#4 — B.J. Thomas",
+          "aliases": [
+            "Raindrops"
+          ]
+        },
+        {
+          "answer": "War",
+          "display": "#5 — Edwin Starr"
+        },
+        {
+          "answer": "Ain't No Mountain High Enough",
+          "display": "#6 — Diana Ross",
+          "aliases": [
+            "Mountain High Enough"
+          ]
+        },
+        {
+          "answer": "I'll Be There",
+          "display": "#7 — The Jackson 5"
+        },
+        {
+          "answer": "Get Ready",
+          "display": "#8 — Rare Earth"
+        },
+        {
+          "answer": "Let It Be",
+          "display": "#9 — The Beatles"
+        },
+        {
+          "answer": "Band of Gold",
+          "display": "#10 — Freda Payne"
+        },
+        {
+          "answer": "Mama Told Me (Not to Come)",
+          "display": "#11 — Three Dog Night",
+          "aliases": [
+            "Mama Told Me"
+          ]
+        },
+        {
+          "answer": "Everything Is Beautiful",
+          "display": "#12 — Ray Stevens"
+        },
+        {
+          "answer": "Make It with You",
+          "display": "#13 — Bread"
+        }
+      ]
+    },
+    {
+      "category": "music/billboard-year-end/1970s",
+      "question": "Top 10 songs of Billboard's 1971 year-end Hot 100",
+      "cutoff": 10,
+      "difficulty": 1,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1363908469 | table 1 | name: Title | value: No. | order: asc",
+      "tags": [
+        "music",
+        "billboard",
+        "1970s"
+      ],
+      "answers": [
+        {
+          "answer": "Joy to the World",
+          "display": "#1 — Three Dog Night"
+        },
+        {
+          "answer": "Maggie May",
+          "display": "#2 — Rod Stewart",
+          "aliases": [
+            "Reason to Believe"
+          ]
+        },
+        {
+          "answer": "It's Too Late",
+          "display": "#3 — Carole King",
+          "aliases": [
+            "I Feel the Earth Move"
+          ]
+        },
+        {
+          "answer": "One Bad Apple",
+          "display": "#4 — The Osmonds"
+        },
+        {
+          "answer": "How Can You Mend a Broken Heart",
+          "display": "#5 — Bee Gees"
+        },
+        {
+          "answer": "Indian Reservation (The Lament of the Cherokee Reservation Indian)",
+          "display": "#6 — Raiders",
+          "aliases": [
+            "Indian Reservation"
+          ]
+        },
+        {
+          "answer": "Go Away Little Girl",
+          "display": "#7 — Donny Osmond"
+        },
+        {
+          "answer": "Take Me Home, Country Roads",
+          "display": "#8 — John Denver"
+        },
+        {
+          "answer": "Just My Imagination (Running Away with Me)",
+          "display": "#9 — The Temptations",
+          "aliases": [
+            "Just My Imagination"
+          ]
+        },
+        {
+          "answer": "Knock Three Times",
+          "display": "#10 — Tony Orlando and Dawn"
+        },
+        {
+          "answer": "Me and Bobby McGee",
+          "display": "#11 — Janis Joplin"
+        },
+        {
+          "answer": "Tired of Being Alone",
+          "display": "#12 — Al Green"
+        },
+        {
+          "answer": "Want Ads",
+          "display": "#13 — Honey Cone"
+        }
+      ]
+    },
+    {
+      "category": "music/billboard-year-end/1970s",
+      "question": "Top 10 songs of Billboard's 1972 year-end Hot 100",
+      "cutoff": 10,
+      "difficulty": 1,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1363759729 | table 1 | name: Title | value: No. | order: asc",
+      "tags": [
+        "music",
+        "billboard",
+        "1970s"
+      ],
+      "answers": [
+        {
+          "answer": "The First Time Ever I Saw Your Face",
+          "display": "#1 — Roberta Flack"
+        },
+        {
+          "answer": "Alone Again (Naturally)",
+          "display": "#2 — Gilbert O'Sullivan",
+          "aliases": [
+            "Alone Again"
+          ]
+        },
+        {
+          "answer": "American Pie",
+          "display": "#3 — Don McLean"
+        },
+        {
+          "answer": "Without You",
+          "display": "#4 — Harry Nilsson"
+        },
+        {
+          "answer": "The Candy Man",
+          "display": "#5 — Sammy Davis Jr."
+        },
+        {
+          "answer": "I Gotcha",
+          "display": "#6 — Joe Tex"
+        },
+        {
+          "answer": "Lean on Me",
+          "display": "#7 — Bill Withers"
+        },
+        {
+          "answer": "Baby, Don't Get Hooked on Me",
+          "display": "#8 — Mac Davis",
+          "aliases": [
+            "Don't Get Hooked on Me"
+          ]
+        },
+        {
+          "answer": "Brand New Key",
+          "display": "#9 — Melanie"
+        },
+        {
+          "answer": "Daddy Don't You Walk So Fast",
+          "display": "#10 — Wayne Newton"
+        },
+        {
+          "answer": "Let's Stay Together",
+          "display": "#11 — Al Green"
+        },
+        {
+          "answer": "Brandy (You're a Fine Girl)",
+          "display": "#12 — Looking Glass",
+          "aliases": [
+            "Brandy",
+            "You're a Fine Girl"
+          ]
+        },
+        {
+          "answer": "Oh Girl",
+          "display": "#13 — The Chi-Lites"
+        }
+      ]
+    },
+    {
+      "category": "music/billboard-year-end/1970s",
+      "question": "Top 10 songs of Billboard's 1973 year-end Hot 100",
+      "cutoff": 10,
+      "difficulty": 1,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1363618156 | table 1 | name: Title | value: No. | order: asc",
+      "tags": [
+        "music",
+        "billboard",
+        "1970s"
+      ],
+      "answers": [
+        {
+          "answer": "Tie a Yellow Ribbon Round the Ole Oak Tree",
+          "display": "#1 — Tony Orlando and Dawn",
+          "aliases": [
+            "Tie a Yellow Ribbon",
+            "Yellow Ribbon"
+          ]
+        },
+        {
+          "answer": "Bad, Bad Leroy Brown",
+          "display": "#2 — Jim Croce",
+          "aliases": [
+            "Leroy Brown"
+          ]
+        },
+        {
+          "answer": "Killing Me Softly with His Song",
+          "display": "#3 — Roberta Flack",
+          "aliases": [
+            "Killing Me Softly"
+          ]
+        },
+        {
+          "answer": "Let's Get It On",
+          "display": "#4 — Marvin Gaye"
+        },
+        {
+          "answer": "My Love",
+          "display": "#5 — Paul McCartney & Wings"
+        },
+        {
+          "answer": "Why Me",
+          "display": "#6 — Kris Kristofferson"
+        },
+        {
+          "answer": "Crocodile Rock",
+          "display": "#7 — Elton John"
+        },
+        {
+          "answer": "Will It Go Round in Circles",
+          "display": "#8 — Billy Preston",
+          "aliases": [
+            "Round in Circles"
+          ]
+        },
+        {
+          "answer": "You're So Vain",
+          "display": "#9 — Carly Simon",
+          "aliases": [
+            "So Vain"
+          ]
+        },
+        {
+          "answer": "Touch Me in the Morning",
+          "display": "#10 — Diana Ross"
+        },
+        {
+          "answer": "The Night the Lights Went Out in Georgia",
+          "display": "#11 — Vicki Lawrence",
+          "aliases": [
+            "Lights Went Out in Georgia"
+          ]
+        },
+        {
+          "answer": "Playground in My Mind",
+          "display": "#12 — Clint Holmes"
+        },
+        {
+          "answer": "Brother Louie",
+          "display": "#13 — Stories"
+        }
+      ]
+    },
+    {
+      "category": "music/billboard-year-end/1970s",
+      "question": "Top 10 songs of Billboard's 1974 year-end Hot 100",
+      "cutoff": 10,
+      "difficulty": 1,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1363449267 | table 1 | name: Title | value: No. | order: asc",
+      "tags": [
+        "music",
+        "billboard",
+        "1970s"
+      ],
+      "answers": [
+        {
+          "answer": "The Way We Were",
+          "display": "#1 — Barbra Streisand"
+        },
+        {
+          "answer": "Seasons in the Sun",
+          "display": "#2 — Terry Jacks"
+        },
+        {
+          "answer": "Love's Theme",
+          "display": "#3 — Love Unlimited Orchestra"
+        },
+        {
+          "answer": "Come and Get Your Love",
+          "display": "#4 — Redbone"
+        },
+        {
+          "answer": "Dancing Machine",
+          "display": "#5 — The Jackson 5"
+        },
+        {
+          "answer": "The Loco-Motion",
+          "display": "#6 — Grand Funk Railroad"
+        },
+        {
+          "answer": "TSOP (The Sound of Philadelphia)",
+          "display": "#7 — MFSB & The Three Degrees",
+          "aliases": [
+            "TSOP",
+            "The Sound of Philadelphia"
+          ]
+        },
+        {
+          "answer": "The Streak",
+          "display": "#8 — Ray Stevens",
+          "aliases": [
+            "Streak"
+          ]
+        },
+        {
+          "answer": "Bennie and the Jets",
+          "display": "#9 — Elton John"
+        },
+        {
+          "answer": "One Hell of a Woman",
+          "display": "#10 — Mac Davis"
+        },
+        {
+          "answer": "Until You Come Back to Me (That's What I'm Gonna Do)",
+          "display": "#11 — Aretha Franklin",
+          "aliases": [
+            "Until You Come Back to Me"
+          ]
+        },
+        {
+          "answer": "Jungle Boogie",
+          "display": "#12 — Kool & the Gang"
+        },
+        {
+          "answer": "Midnight at the Oasis",
+          "display": "#13 — Maria Muldaur"
+        }
+      ]
+    },
+    {
+      "category": "music/billboard-year-end/1970s",
+      "question": "Top 10 songs of Billboard's 1975 year-end Hot 100",
+      "cutoff": 10,
+      "difficulty": 1,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1363375287 | table 1 | name: Title | value: No. | order: asc",
+      "tags": [
+        "music",
+        "billboard",
+        "1970s"
+      ],
+      "answers": [
+        {
+          "answer": "Love Will Keep Us Together",
+          "display": "#1 — Captain & Tennille"
+        },
+        {
+          "answer": "Rhinestone Cowboy",
+          "display": "#2 — Glen Campbell"
+        },
+        {
+          "answer": "Philadelphia Freedom",
+          "display": "#3 — Elton John"
+        },
+        {
+          "answer": "Before the Next Teardrop Falls",
+          "display": "#4 — Freddy Fender",
+          "aliases": [
+            "Teardrop Falls"
+          ]
+        },
+        {
+          "answer": "My Eyes Adored You",
+          "display": "#5 — Frankie Valli"
+        },
+        {
+          "answer": "Some Kind of Wonderful",
+          "display": "#6 — Grand Funk Railroad"
+        },
+        {
+          "answer": "Shining Star",
+          "display": "#7 — Earth, Wind & Fire"
+        },
+        {
+          "answer": "Fame",
+          "display": "#8 — David Bowie"
+        },
+        {
+          "answer": "Laughter in the Rain",
+          "display": "#9 — Neil Sedaka"
+        },
+        {
+          "answer": "One of These Nights",
+          "display": "#10 — Eagles"
+        },
+        {
+          "answer": "Thank God I'm a Country Boy",
+          "display": "#11 — John Denver",
+          "aliases": [
+            "Country Boy"
+          ]
+        },
+        {
+          "answer": "Jive Talkin'",
+          "display": "#12 — Bee Gees"
+        },
+        {
+          "answer": "Best of My Love",
+          "display": "#13 — Eagles"
+        }
+      ]
+    },
+    {
+      "category": "music/billboard-year-end/1970s",
+      "question": "Top 10 songs of Billboard's 1976 year-end Hot 100",
+      "cutoff": 10,
+      "difficulty": 1,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1363186226 | table 1 | name: Title | value: No. | order: asc",
+      "tags": [
+        "music",
+        "billboard",
+        "1970s"
+      ],
+      "answers": [
+        {
+          "answer": "Silly Love Songs",
+          "display": "#1 — Wings"
+        },
+        {
+          "answer": "Don't Go Breaking My Heart",
+          "display": "#2 — Elton John & Kiki Dee"
+        },
+        {
+          "answer": "Disco Lady",
+          "display": "#3 — Johnnie Taylor"
+        },
+        {
+          "answer": "December, 1963 (Oh, What a Night)",
+          "display": "#4 — The Four Seasons",
+          "aliases": [
+            "December 1963",
+            "Oh What a Night"
+          ]
+        },
+        {
+          "answer": "Play That Funky Music",
+          "display": "#5 — Wild Cherry",
+          "aliases": [
+            "Funky Music"
+          ]
+        },
+        {
+          "answer": "Kiss and Say Goodbye",
+          "display": "#6 — The Manhattans"
+        },
+        {
+          "answer": "Love Machine",
+          "display": "#7 — The Miracles"
+        },
+        {
+          "answer": "50 Ways to Leave Your Lover",
+          "display": "#8 — Paul Simon"
+        },
+        {
+          "answer": "Love Is Alive",
+          "display": "#9 — Gary Wright"
+        },
+        {
+          "answer": "A Fifth of Beethoven",
+          "display": "#10 — Walter Murphy & The Big Apple Band",
+          "aliases": [
+            "Fifth of Beethoven"
+          ]
+        },
+        {
+          "answer": "Sara Smile",
+          "display": "#11 — Daryl Hall & John Oates"
+        },
+        {
+          "answer": "Afternoon Delight",
+          "display": "#12 — Starland Vocal Band"
+        },
+        {
+          "answer": "I Write the Songs",
+          "display": "#13 — Barry Manilow"
+        }
+      ]
+    },
+    {
+      "category": "music/billboard-year-end/1970s",
+      "question": "Top 10 songs of Billboard's 1977 year-end Hot 100",
+      "cutoff": 10,
+      "difficulty": 1,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1363127752 | table 1 | name: Title | value: No. | order: asc",
+      "tags": [
+        "music",
+        "billboard",
+        "1970s"
+      ],
+      "answers": [
+        {
+          "answer": "Tonight's the Night (Gonna Be Alright)",
+          "display": "#1 — Rod Stewart",
+          "aliases": [
+            "Tonight's the Night",
+            "Gonna Be Alright"
+          ]
+        },
+        {
+          "answer": "I Just Want to Be Your Everything",
+          "display": "#2 — Andy Gibb",
+          "aliases": [
+            "Be Your Everything"
+          ]
+        },
+        {
+          "answer": "Best of My Love",
+          "display": "#3 — The Emotions"
+        },
+        {
+          "answer": "Evergreen (Love Theme from A Star Is Born)",
+          "display": "#4 — Barbra Streisand",
+          "aliases": [
+            "Evergreen"
+          ]
+        },
+        {
+          "answer": "Angel in Your Arms",
+          "display": "#5 — Hot"
+        },
+        {
+          "answer": "I Like Dreamin'",
+          "display": "#6 — Kenny Nolan"
+        },
+        {
+          "answer": "Don't Leave Me This Way",
+          "display": "#7 — Thelma Houston"
+        },
+        {
+          "answer": "(Your Love Has Lifted Me) Higher and Higher",
+          "display": "#8 — Rita Coolidge",
+          "aliases": [
+            "Higher and Higher"
+          ]
+        },
+        {
+          "answer": "Undercover Angel",
+          "display": "#9 — Alan O'Day"
+        },
+        {
+          "answer": "Torn Between Two Lovers",
+          "display": "#10 — Mary MacGregor"
+        },
+        {
+          "answer": "I'm Your Boogie Man",
+          "display": "#11 — KC and the Sunshine Band",
+          "aliases": [
+            "Boogie Man"
+          ]
+        },
+        {
+          "answer": "Dancing Queen",
+          "display": "#12 — ABBA"
+        },
+        {
+          "answer": "You Make Me Feel Like Dancing",
+          "display": "#13 — Leo Sayer",
+          "aliases": [
+            "Feel Like Dancing"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "music/billboard-year-end/1970s",
+      "question": "Top 10 songs of Billboard's 1978 year-end Hot 100",
+      "cutoff": 10,
+      "difficulty": 1,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1362966545 | table 1 | name: Title | value: No. | order: asc",
+      "tags": [
+        "music",
+        "billboard",
+        "1970s"
+      ],
+      "answers": [
+        {
+          "answer": "Shadow Dancing",
+          "display": "#1 — Andy Gibb"
+        },
+        {
+          "answer": "Night Fever",
+          "display": "#2 — Bee Gees"
+        },
+        {
+          "answer": "You Light Up My Life",
+          "display": "#3 — Debby Boone"
+        },
+        {
+          "answer": "Stayin' Alive",
+          "display": "#4 — Bee Gees",
+          "aliases": [
+            "Staying Alive"
+          ]
+        },
+        {
+          "answer": "Kiss You All Over",
+          "display": "#5 — Exile"
+        },
+        {
+          "answer": "How Deep Is Your Love",
+          "display": "#6 — Bee Gees"
+        },
+        {
+          "answer": "Baby Come Back",
+          "display": "#7 — Player"
+        },
+        {
+          "answer": "(Love Is) Thicker Than Water",
+          "display": "#8 — Andy Gibb",
+          "aliases": [
+            "Thicker Than Water"
+          ]
+        },
+        {
+          "answer": "Boogie Oogie Oogie",
+          "display": "#9 — A Taste of Honey",
+          "aliases": [
+            "Boogie Oogie"
+          ]
+        },
+        {
+          "answer": "Three Times a Lady",
+          "display": "#10 — Commodores"
+        },
+        {
+          "answer": "Grease",
+          "display": "#11 — Frankie Valli"
+        },
+        {
+          "answer": "I Go Crazy",
+          "display": "#12 — Paul Davis"
+        },
+        {
+          "answer": "You're the One That I Want",
+          "display": "#13 — John Travolta & Olivia Newton-John"
+        }
+      ]
+    },
+    {
+      "category": "music/billboard-year-end/1970s",
+      "question": "Top 10 songs of Billboard's 1979 year-end Hot 100",
+      "cutoff": 10,
+      "difficulty": 1,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1362481289 | table 1 | name: Title | value: No. | order: asc",
+      "tags": [
+        "music",
+        "billboard",
+        "1970s"
+      ],
+      "answers": [
+        {
+          "answer": "My Sharona",
+          "display": "#1 — The Knack"
+        },
+        {
+          "answer": "Bad Girls",
+          "display": "#2 — Donna Summer"
+        },
+        {
+          "answer": "Le Freak",
+          "display": "#3 — Chic"
+        },
+        {
+          "answer": "Da Ya Think I'm Sexy?",
+          "display": "#4 — Rod Stewart",
+          "aliases": [
+            "Do Ya Think I'm Sexy",
+            "Do You Think I'm Sexy"
+          ]
+        },
+        {
+          "answer": "Reunited",
+          "display": "#5 — Peaches & Herb"
+        },
+        {
+          "answer": "I Will Survive",
+          "display": "#6 — Gloria Gaynor"
+        },
+        {
+          "answer": "Hot Stuff",
+          "display": "#7 — Donna Summer"
+        },
+        {
+          "answer": "Y.M.C.A.",
+          "display": "#8 — Village People"
+        },
+        {
+          "answer": "Ring My Bell",
+          "display": "#9 — Anita Ward"
+        },
+        {
+          "answer": "Sad Eyes",
+          "display": "#10 — Robert John"
+        },
+        {
+          "answer": "Too Much Heaven",
+          "display": "#11 — Bee Gees"
+        },
+        {
+          "answer": "MacArthur Park",
+          "display": "#12 — Donna Summer"
+        },
+        {
+          "answer": "When You're in Love with a Beautiful Woman",
+          "display": "#13 — Dr. Hook",
+          "aliases": [
+            "Beautiful Woman"
+          ]
+        }
+      ]
+    }
+  ]
+}

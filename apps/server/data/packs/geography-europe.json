@@ -1,0 +1,629 @@
+{
+  "categories": [
+    {
+      "path": "geography/europe/countries",
+      "name": "European countries"
+    },
+    {
+      "path": "geography/europe/eu-members",
+      "name": "EU member states"
+    },
+    {
+      "path": "geography/cities/europe",
+      "name": "European cities"
+    },
+    {
+      "path": "geography/europe/islands",
+      "name": "Islands"
+    }
+  ],
+  "questions": [
+    {
+      "category": "geography/europe/countries",
+      "question": "Top 10 most populous European countries (UN 2025 estimates, transcontinental countries included)",
+      "difficulty": 1,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1368375402 | table 1 | name: Location | value: UN estimate | header rows: 2",
+      "tags": [
+        "geography",
+        "europe",
+        "population"
+      ],
+      "answers": [
+        {
+          "answer": "Russia",
+          "display": "143,997,393 people",
+          "aliases": [
+            "Russian Federation"
+          ]
+        },
+        {
+          "answer": "Turkey",
+          "display": "87,685,426 people",
+          "aliases": [
+            "Türkiye"
+          ]
+        },
+        {
+          "answer": "Germany",
+          "display": "84,075,074 people"
+        },
+        {
+          "answer": "United Kingdom",
+          "display": "69,551,332 people",
+          "aliases": [
+            "UK"
+          ]
+        },
+        {
+          "answer": "France",
+          "display": "66,650,804 people"
+        },
+        {
+          "answer": "Italy",
+          "display": "59,146,260 people"
+        },
+        {
+          "answer": "Spain",
+          "display": "47,889,958 people"
+        },
+        {
+          "answer": "Ukraine",
+          "display": "38,980,377 people"
+        },
+        {
+          "answer": "Poland",
+          "display": "37,332,000 people"
+        },
+        {
+          "answer": "Kazakhstan",
+          "display": "20,843,754 people"
+        },
+        {
+          "answer": "Romania",
+          "display": "18,908,650 people"
+        },
+        {
+          "answer": "Netherlands",
+          "display": "18,346,819 people",
+          "aliases": [
+            "Holland"
+          ]
+        },
+        {
+          "answer": "Belgium",
+          "display": "11,758,603 people"
+        },
+        {
+          "answer": "Sweden",
+          "display": "10,656,633 people"
+        },
+        {
+          "answer": "Czech Republic",
+          "display": "10,609,240 people",
+          "aliases": [
+            "Czechia"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "geography/europe/countries",
+      "question": "Top 10 most populous European countries whose names end with the letter A (UN 2025 estimates, transcontinental countries included)",
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1368375402 | table 1 | name: Location | value: UN estimate | header rows: 2 | where: Location~a$",
+      "tags": [
+        "geography",
+        "europe",
+        "population",
+        "twist"
+      ],
+      "answers": [
+        {
+          "answer": "Russia",
+          "display": "143,997,393 people",
+          "aliases": [
+            "Russian Federation"
+          ]
+        },
+        {
+          "answer": "Romania",
+          "display": "18,908,650 people"
+        },
+        {
+          "answer": "Austria",
+          "display": "9,113,574 people"
+        },
+        {
+          "answer": "Bulgaria",
+          "display": "6,714,560 people"
+        },
+        {
+          "answer": "Serbia",
+          "display": "6,689,039 people"
+        },
+        {
+          "answer": "Slovakia",
+          "display": "5,474,881 people"
+        },
+        {
+          "answer": "Croatia",
+          "display": "3,848,160 people"
+        },
+        {
+          "answer": "Georgia",
+          "display": "3,806,671 people"
+        },
+        {
+          "answer": "Bosnia and Herzegovina",
+          "display": "3,140,096 people",
+          "aliases": [
+            "Bosnia"
+          ]
+        },
+        {
+          "answer": "Moldova",
+          "display": "2,996,106 people"
+        },
+        {
+          "answer": "Armenia",
+          "display": "2,952,364 people"
+        },
+        {
+          "answer": "Lithuania",
+          "display": "2,830,144 people"
+        },
+        {
+          "answer": "Albania",
+          "display": "2,771,508 people"
+        },
+        {
+          "answer": "Slovenia",
+          "display": "2,117,072 people"
+        },
+        {
+          "answer": "Latvia",
+          "display": "1,853,559 people"
+        }
+      ]
+    },
+    {
+      "category": "geography/europe/countries",
+      "question": "Top 10 largest European countries by area within Europe (European part only; dependencies and disputed territories excluded)",
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1375714096 | table 1 | name: Country or dependency | value: km2 | header rows: 2 | where: Country or dependency!~\\( | where: Country or dependency!=Europe | where: Country or dependency!~Transnistria|Kosovo|Abkhazia|Ossetia|Northern Cyprus",
+      "tags": [
+        "geography",
+        "europe",
+        "area"
+      ],
+      "answers": [
+        {
+          "answer": "Russia",
+          "display": "3,952,550 km2",
+          "aliases": [
+            "Russian Federation"
+          ]
+        },
+        {
+          "answer": "Ukraine",
+          "display": "603,549 km2"
+        },
+        {
+          "answer": "France",
+          "display": "543,941 km2"
+        },
+        {
+          "answer": "Spain",
+          "display": "498,485 km2"
+        },
+        {
+          "answer": "Sweden",
+          "display": "438,574 km2"
+        },
+        {
+          "answer": "Norway",
+          "display": "385,207 km2"
+        },
+        {
+          "answer": "Germany",
+          "display": "357,581 km2"
+        },
+        {
+          "answer": "Finland",
+          "display": "336,884 km2"
+        },
+        {
+          "answer": "Poland",
+          "display": "312,679 km2"
+        },
+        {
+          "answer": "Italy",
+          "display": "301,958 km2"
+        },
+        {
+          "answer": "United Kingdom",
+          "display": "244,381 km2",
+          "aliases": [
+            "UK"
+          ]
+        },
+        {
+          "answer": "Romania",
+          "display": "238,298 km2"
+        },
+        {
+          "answer": "Belarus",
+          "display": "207,600 km2"
+        },
+        {
+          "answer": "Kazakhstan",
+          "display": "148,000 km2"
+        },
+        {
+          "answer": "Greece",
+          "display": "131,957 km2"
+        }
+      ]
+    },
+    {
+      "category": "geography/europe/countries",
+      "question": "Top 10 smallest European countries by area within Europe (European part only; dependencies and disputed territories excluded)",
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1375714096 | table 1 | name: Country or dependency | value: km2 | header rows: 2 | where: Country or dependency!~\\( | where: Country or dependency!=Europe | where: Country or dependency!~Transnistria|Kosovo|Abkhazia|Ossetia|Northern Cyprus | order: asc",
+      "tags": [
+        "geography",
+        "europe",
+        "area",
+        "microstates"
+      ],
+      "answers": [
+        {
+          "answer": "Vatican City",
+          "display": "0.49 km2",
+          "aliases": [
+            "Vatican",
+            "Holy See"
+          ]
+        },
+        {
+          "answer": "Monaco",
+          "display": "2 km2"
+        },
+        {
+          "answer": "San Marino",
+          "display": "61 km2"
+        },
+        {
+          "answer": "Liechtenstein",
+          "display": "160 km2"
+        },
+        {
+          "answer": "Malta",
+          "display": "315 km2"
+        },
+        {
+          "answer": "Andorra",
+          "display": "468 km2"
+        },
+        {
+          "answer": "Luxembourg",
+          "display": "2,586 km2"
+        },
+        {
+          "answer": "Georgia",
+          "display": "3,040 km2"
+        },
+        {
+          "answer": "Azerbaijan",
+          "display": "8,630 km2"
+        },
+        {
+          "answer": "Cyprus",
+          "display": "9,251 km2"
+        },
+        {
+          "answer": "Montenegro",
+          "display": "13,888 km2"
+        },
+        {
+          "answer": "Slovenia",
+          "display": "20,273 km2"
+        },
+        {
+          "answer": "Turkey",
+          "display": "23,757 km2"
+        },
+        {
+          "answer": "North Macedonia",
+          "display": "25,713 km2",
+          "aliases": [
+            "Macedonia"
+          ]
+        },
+        {
+          "answer": "Albania",
+          "display": "28,748 km2"
+        }
+      ]
+    },
+    {
+      "category": "geography/cities/europe",
+      "question": "Top 10 largest cities in the European Union by population within city limits (latest official figures, 2025-2026)",
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1375565848 | table 1 | name: City | value: Official population",
+      "tags": [
+        "geography",
+        "europe",
+        "cities",
+        "population"
+      ],
+      "answers": [
+        {
+          "answer": "Berlin",
+          "display": "3,913,644 people"
+        },
+        {
+          "answer": "Madrid",
+          "display": "3,506,730 people"
+        },
+        {
+          "answer": "Rome",
+          "display": "2,745,062 people"
+        },
+        {
+          "answer": "Paris",
+          "display": "2,047,602 people"
+        },
+        {
+          "answer": "Vienna",
+          "display": "2,044,366 people"
+        },
+        {
+          "answer": "Hamburg",
+          "display": "1,869,786 people"
+        },
+        {
+          "answer": "Warsaw",
+          "display": "1,866,729 people"
+        },
+        {
+          "answer": "Barcelona",
+          "display": "1,731,649 people"
+        },
+        {
+          "answer": "Bucharest",
+          "display": "1,709,458 people"
+        },
+        {
+          "answer": "Budapest",
+          "display": "1,675,777 people"
+        },
+        {
+          "answer": "Munich",
+          "display": "1,505,036 people"
+        },
+        {
+          "answer": "Prague",
+          "display": "1,405,551 people"
+        },
+        {
+          "answer": "Milan",
+          "display": "1,362,863 people"
+        },
+        {
+          "answer": "Sofia",
+          "display": "1,303,813 people"
+        },
+        {
+          "answer": "Cologne",
+          "display": "1,025,523 people"
+        }
+      ]
+    },
+    {
+      "category": "geography/europe/islands",
+      "question": "Top 10 largest islands in Europe by area (Greenland excluded)",
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1374051270 | table 1 | name: Island | value: Area (km2) | where: Countries/regions!~Greenland",
+      "tags": [
+        "geography",
+        "europe",
+        "islands",
+        "area"
+      ],
+      "answers": [
+        {
+          "answer": "Great Britain",
+          "display": "229,048 km2",
+          "aliases": [
+            "Britain"
+          ]
+        },
+        {
+          "answer": "Iceland",
+          "display": "101,826 km2"
+        },
+        {
+          "answer": "Ireland",
+          "display": "84,421 km2"
+        },
+        {
+          "answer": "Severny Island",
+          "display": "47,079 km2",
+          "aliases": [
+            "Severny"
+          ]
+        },
+        {
+          "answer": "Spitsbergen",
+          "display": "37,673 km2",
+          "aliases": [
+            "Spitzbergen"
+          ]
+        },
+        {
+          "answer": "Yuzhny Island",
+          "display": "33,246 km2",
+          "aliases": [
+            "Yuzhny"
+          ]
+        },
+        {
+          "answer": "Sicily",
+          "display": "25,662 km2"
+        },
+        {
+          "answer": "Sardinia",
+          "display": "24,099 km2"
+        },
+        {
+          "answer": "Nordaustlandet",
+          "display": "14,443 km2"
+        },
+        {
+          "answer": "Cyprus",
+          "display": "9,251 km2"
+        },
+        {
+          "answer": "Corsica",
+          "display": "8,741 km2"
+        },
+        {
+          "answer": "Crete",
+          "display": "8,312 km2"
+        },
+        {
+          "answer": "Zealand",
+          "display": "7,180 km2"
+        }
+      ]
+    },
+    {
+      "category": "geography/europe/eu-members",
+      "question": "Top 7 most populous European Union member states (population on 1 January 2025)",
+      "cutoff": 7,
+      "difficulty": 1,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1348653035 | table 1 | name: Country | value: 2025-01-01 | where: Country!=European Union",
+      "tags": [
+        "geography",
+        "europe",
+        "eu",
+        "population"
+      ],
+      "answers": [
+        {
+          "answer": "Germany",
+          "display": "83,577,100 people"
+        },
+        {
+          "answer": "France",
+          "display": "68,635,900 people"
+        },
+        {
+          "answer": "Italy",
+          "display": "58,934,200 people"
+        },
+        {
+          "answer": "Spain",
+          "display": "49,078,000 people"
+        },
+        {
+          "answer": "Poland",
+          "display": "36,497,500 people"
+        },
+        {
+          "answer": "Romania",
+          "display": "19,036,400 people"
+        },
+        {
+          "answer": "Netherlands",
+          "display": "18,044,000 people",
+          "aliases": [
+            "Holland"
+          ]
+        },
+        {
+          "answer": "Belgium",
+          "display": "11,900,100 people"
+        },
+        {
+          "answer": "Czech Republic",
+          "display": "10,909,500 people",
+          "aliases": [
+            "Czechia"
+          ]
+        },
+        {
+          "answer": "Portugal",
+          "display": "10,749,600 people"
+        }
+      ]
+    },
+    {
+      "category": "geography/europe/eu-members",
+      "question": "Top 7 smallest European Union member states by area (km2)",
+      "cutoff": 7,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1375549605 | table 1 | name: Member state | value: Area (km2) | order: asc",
+      "tags": [
+        "geography",
+        "europe",
+        "eu",
+        "area"
+      ],
+      "answers": [
+        {
+          "answer": "Malta",
+          "display": "316 km2"
+        },
+        {
+          "answer": "Luxembourg",
+          "display": "2,586.4 km2"
+        },
+        {
+          "answer": "Cyprus",
+          "display": "9,251 km2"
+        },
+        {
+          "answer": "Slovenia",
+          "display": "20,273 km2"
+        },
+        {
+          "answer": "Belgium",
+          "display": "30,528 km2"
+        },
+        {
+          "answer": "Netherlands",
+          "display": "41,543 km2",
+          "aliases": [
+            "Holland"
+          ]
+        },
+        {
+          "answer": "Denmark",
+          "display": "43,075 km2"
+        },
+        {
+          "answer": "Estonia",
+          "display": "45,227 km2"
+        },
+        {
+          "answer": "Slovakia",
+          "display": "49,035 km2"
+        },
+        {
+          "answer": "Croatia",
+          "display": "56,594 km2"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,333 @@
+{
+  "questions": [
+    {
+      "category": "economy/agriculture/livestock",
+      "difficulty": 2,
+      "question": "Top 10 countries by meat production (all meats, 2022)",
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1353446822 | table 1 | name: Country | value: Meat production | note: FAOSTAT figures, 2022 for every ranked country",
+      "tags": [
+        "economy",
+        "agriculture",
+        "meat",
+        "livestock"
+      ],
+      "answers": [
+        {
+          "answer": "China",
+          "display": "92,948,520 tonnes"
+        },
+        {
+          "answer": "United States",
+          "display": "47,530,724 tonnes",
+          "aliases": [
+            "usa",
+            "us",
+            "america"
+          ]
+        },
+        {
+          "answer": "Brazil",
+          "display": "30,397,944 tonnes"
+        },
+        {
+          "answer": "Russia",
+          "display": "12,244,950 tonnes",
+          "aliases": [
+            "russian federation"
+          ]
+        },
+        {
+          "answer": "India",
+          "display": "10,644,195 tonnes"
+        },
+        {
+          "answer": "Mexico",
+          "display": "7,891,058 tonnes"
+        },
+        {
+          "answer": "Spain",
+          "display": "7,562,136 tonnes"
+        },
+        {
+          "answer": "Germany",
+          "display": "7,026,648 tonnes"
+        },
+        {
+          "answer": "Argentina",
+          "display": "6,339,574 tonnes"
+        },
+        {
+          "answer": "Pakistan",
+          "display": "5,248,574 tonnes"
+        },
+        {
+          "answer": "Canada",
+          "display": "5,213,636 tonnes"
+        },
+        {
+          "answer": "France",
+          "display": "5,106,484 tonnes"
+        },
+        {
+          "answer": "Poland",
+          "display": "5,091,000 tonnes"
+        },
+        {
+          "answer": "Indonesia",
+          "display": "4,985,907 tonnes"
+        },
+        {
+          "answer": "Vietnam",
+          "display": "4,730,438 tonnes"
+        }
+      ]
+    },
+    {
+      "category": "economy/agriculture/livestock",
+      "difficulty": 2,
+      "question": "Top 7 beef producers in 2019 (countries, with the EU counted as one producer)",
+      "cutoff": 7,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1378492153 | table 2 | name: 6 | value: 7 | note: USDA beef production, 1000 metric tons carcass-weight equivalent; EU-27 is shown as European Union",
+      "tags": [
+        "economy",
+        "agriculture",
+        "beef",
+        "livestock"
+      ],
+      "answers": [
+        {
+          "answer": "United States",
+          "display": "12,384 thousand tonnes",
+          "aliases": [
+            "usa",
+            "us",
+            "america"
+          ]
+        },
+        {
+          "answer": "Brazil",
+          "display": "10,200 thousand tonnes"
+        },
+        {
+          "answer": "European Union",
+          "display": "7,878 thousand tonnes",
+          "aliases": [
+            "eu",
+            "eu-27"
+          ]
+        },
+        {
+          "answer": "China",
+          "display": "6,670 thousand tonnes"
+        },
+        {
+          "answer": "India",
+          "display": "4,270 thousand tonnes"
+        },
+        {
+          "answer": "Argentina",
+          "display": "3,125 thousand tonnes"
+        },
+        {
+          "answer": "Australia",
+          "display": "2,432 thousand tonnes"
+        },
+        {
+          "answer": "Mexico",
+          "display": "2,027 thousand tonnes"
+        },
+        {
+          "answer": "Pakistan",
+          "display": "1,820 thousand tonnes"
+        },
+        {
+          "answer": "Russia",
+          "display": "1,374 thousand tonnes",
+          "aliases": [
+            "russian federation"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "economy/agriculture/fishing",
+      "difficulty": 3,
+      "question": "Top 10 countries whose name ends in A, by aquaculture output (farmed fish, crustaceans, molluscs and other aquatic animals, excluding aquatic plants, 2022)",
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1354011909 | table 1 | name: Country | value: Aquaculture | where: Country!~World | where: Country~a$ | note: FAO figures, 2022 as given in the table; the table's world total row is excluded",
+      "tags": [
+        "economy",
+        "agriculture",
+        "fishing",
+        "aquaculture",
+        "twist"
+      ],
+      "answers": [
+        {
+          "answer": "China",
+          "display": "75,388,639 tonnes",
+          "aliases": [
+            "prc"
+          ]
+        },
+        {
+          "answer": "Indonesia",
+          "display": "14,633,869 tonnes"
+        },
+        {
+          "answer": "India",
+          "display": "10,235,300 tonnes"
+        },
+        {
+          "answer": "South Korea",
+          "display": "2,427,677 tonnes",
+          "aliases": [
+            "republic of korea",
+            "rok"
+          ]
+        },
+        {
+          "answer": "North Korea",
+          "display": "680,560 tonnes",
+          "aliases": [
+            "dprk"
+          ]
+        },
+        {
+          "answer": "Malaysia",
+          "display": "574,182 tonnes"
+        },
+        {
+          "answer": "Russia",
+          "display": "348,187 tonnes",
+          "aliases": [
+            "russian federation"
+          ]
+        },
+        {
+          "answer": "Cambodia",
+          "display": "330,600 tonnes"
+        },
+        {
+          "answer": "Nigeria",
+          "display": "259,106 tonnes"
+        },
+        {
+          "answer": "Colombia",
+          "display": "204,942 tonnes"
+        },
+        {
+          "answer": "Canada",
+          "display": "166,463 tonnes"
+        },
+        {
+          "answer": "Ghana",
+          "display": "132,682 tonnes"
+        },
+        {
+          "answer": "Australia",
+          "display": "125,231 tonnes"
+        },
+        {
+          "answer": "Tanzania",
+          "display": "120,621 tonnes"
+        },
+        {
+          "answer": "Saudi Arabia",
+          "display": "119,845 tonnes"
+        }
+      ]
+    },
+    {
+      "category": "economy/agriculture/fishing",
+      "difficulty": 2,
+      "question": "Top 10 countries by wild-caught fish, crustaceans and molluscs (capture fisheries, excluding aquatic plants, 2022)",
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1354011909 | table 1 | name: Country | value: Capture | where: Country!~World | note: FAO figures, 2022 as given in the table; the table's world total row is excluded",
+      "tags": [
+        "economy",
+        "agriculture",
+        "fishing",
+        "capture"
+      ],
+      "answers": [
+        {
+          "answer": "China",
+          "display": "13,179,077 tonnes",
+          "aliases": [
+            "prc"
+          ]
+        },
+        {
+          "answer": "Indonesia",
+          "display": "7,398,555 tonnes"
+        },
+        {
+          "answer": "India",
+          "display": "5,539,025 tonnes"
+        },
+        {
+          "answer": "Peru",
+          "display": "5,368,101 tonnes"
+        },
+        {
+          "answer": "Russia",
+          "display": "4,991,530 tonnes",
+          "aliases": [
+            "russian federation"
+          ]
+        },
+        {
+          "answer": "United States",
+          "display": "4,262,836 tonnes",
+          "aliases": [
+            "usa",
+            "us",
+            "america"
+          ]
+        },
+        {
+          "answer": "Vietnam",
+          "display": "3,590,003 tonnes"
+        },
+        {
+          "answer": "Japan",
+          "display": "2,967,756 tonnes"
+        },
+        {
+          "answer": "Chile",
+          "display": "2,690,091 tonnes"
+        },
+        {
+          "answer": "Norway",
+          "display": "2,613,634 tonnes"
+        },
+        {
+          "answer": "Bangladesh",
+          "display": "2,027,661 tonnes"
+        },
+        {
+          "answer": "Myanmar",
+          "display": "1,864,730 tonnes",
+          "aliases": [
+            "burma"
+          ]
+        },
+        {
+          "answer": "Philippines",
+          "display": "1,771,247 tonnes"
+        },
+        {
+          "answer": "Mexico",
+          "display": "1,683,376 tonnes"
+        },
+        {
+          "answer": "Morocco",
+          "display": "1,590,644 tonnes"
+        }
+      ]
+    }
+  ]
+}

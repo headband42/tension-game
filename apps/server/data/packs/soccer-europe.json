@@ -1,0 +1,814 @@
+{
+  "categories": [
+    {
+      "path": "sports/soccer/europe",
+      "name": "European Football"
+    },
+    {
+      "path": "sports/soccer/europe/champions-league",
+      "name": "Champions League"
+    },
+    {
+      "path": "sports/soccer/europe/la-liga",
+      "name": "La Liga"
+    },
+    {
+      "path": "sports/soccer/europe/serie-a",
+      "name": "Serie A"
+    },
+    {
+      "path": "sports/soccer/europe/bundesliga",
+      "name": "Bundesliga"
+    },
+    {
+      "path": "sports/soccer/europe/ligue-1",
+      "name": "Ligue 1"
+    },
+    {
+      "path": "sports/soccer/europe/europa-league",
+      "name": "Europa League"
+    },
+    {
+      "path": "sports/soccer/europe/transfers",
+      "name": "Transfers"
+    }
+  ],
+  "questions": [
+    {
+      "category": "sports/soccer/europe/champions-league",
+      "difficulty": 1,
+      "question": "Top 7 countries by European Cup and Champions League titles (as of 2026)",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1376651765 | table 4 | name: Nation | value: Title",
+      "tags": [
+        "soccer",
+        "champions league",
+        "nations",
+        "titles"
+      ],
+      "cutoff": 7,
+      "answers": [
+        {
+          "answer": "Spain",
+          "display": "20 titles"
+        },
+        {
+          "answer": "England",
+          "display": "15 titles"
+        },
+        {
+          "answer": "Italy",
+          "display": "12 titles"
+        },
+        {
+          "answer": "Germany",
+          "display": "8 titles"
+        },
+        {
+          "answer": "Netherlands",
+          "display": "6 titles",
+          "aliases": [
+            "Holland"
+          ]
+        },
+        {
+          "answer": "Portugal",
+          "display": "4 titles"
+        },
+        {
+          "answer": "France",
+          "display": "3 titles"
+        },
+        {
+          "answer": "Romania",
+          "display": "1 title"
+        },
+        {
+          "answer": "Scotland",
+          "display": "1 title"
+        },
+        {
+          "answer": "Yugoslavia",
+          "display": "1 title"
+        }
+      ],
+      "submitter": "claude"
+    },
+    {
+      "category": "sports/soccer/europe/la-liga",
+      "difficulty": 2,
+      "question": "Top 7 La Liga all-time top scorers (as of 2026)",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1379740737 | table 1 | name: Player | value: Goals",
+      "tags": [
+        "soccer",
+        "la liga",
+        "goals",
+        "players"
+      ],
+      "cutoff": 7,
+      "answers": [
+        {
+          "answer": "Lionel Messi",
+          "display": "474 goals",
+          "aliases": [
+            "Messi"
+          ]
+        },
+        {
+          "answer": "Cristiano Ronaldo",
+          "display": "311 goals",
+          "aliases": [
+            "CR7",
+            "Ronaldo"
+          ]
+        },
+        {
+          "answer": "Telmo Zarra",
+          "display": "251 goals",
+          "aliases": [
+            "Zarra"
+          ]
+        },
+        {
+          "answer": "Karim Benzema",
+          "display": "238 goals",
+          "aliases": [
+            "Benzema"
+          ]
+        },
+        {
+          "answer": "Hugo Sánchez",
+          "display": "234 goals",
+          "aliases": [
+            "Hugo Sanchez"
+          ]
+        },
+        {
+          "answer": "Raúl González",
+          "display": "228 goals",
+          "aliases": [
+            "Raúl"
+          ]
+        },
+        {
+          "answer": "Alfredo Di Stéfano",
+          "display": "227 goals",
+          "aliases": [
+            "Di Stefano"
+          ]
+        },
+        {
+          "answer": "César Rodríguez",
+          "display": "221 goals",
+          "aliases": [
+            "César",
+            "Cesar Rodriguez"
+          ]
+        },
+        {
+          "answer": "Quini",
+          "display": "219 goals"
+        },
+        {
+          "answer": "Pahiño",
+          "display": "212 goals"
+        }
+      ],
+      "submitter": "claude"
+    },
+    {
+      "category": "sports/soccer/europe/serie-a",
+      "difficulty": 2,
+      "question": "Top 9 Serie A all-time top scorers (as of 2026)",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1378884068 | table 12 | name: Player | value: Goals",
+      "tags": [
+        "soccer",
+        "serie a",
+        "goals",
+        "players"
+      ],
+      "cutoff": 9,
+      "answers": [
+        {
+          "answer": "Silvio Piola",
+          "display": "274 goals",
+          "aliases": [
+            "Piola"
+          ]
+        },
+        {
+          "answer": "Francesco Totti",
+          "display": "250 goals",
+          "aliases": [
+            "Totti"
+          ]
+        },
+        {
+          "answer": "Gunnar Nordahl",
+          "display": "225 goals",
+          "aliases": [
+            "Nordahl"
+          ]
+        },
+        {
+          "answer": "Giuseppe Meazza",
+          "display": "216 goals",
+          "aliases": [
+            "Meazza"
+          ]
+        },
+        {
+          "answer": "José Altafini",
+          "display": "216 goals",
+          "aliases": [
+            "Altafini"
+          ]
+        },
+        {
+          "answer": "Antonio Di Natale",
+          "display": "209 goals",
+          "aliases": [
+            "Di Natale"
+          ]
+        },
+        {
+          "answer": "Roberto Baggio",
+          "display": "205 goals",
+          "aliases": [
+            "Baggio"
+          ]
+        },
+        {
+          "answer": "Ciro Immobile",
+          "display": "201 goals",
+          "aliases": [
+            "Immobile"
+          ]
+        },
+        {
+          "answer": "Kurt Hamrin",
+          "display": "190 goals",
+          "aliases": [
+            "Hamrin"
+          ]
+        },
+        {
+          "answer": "Giuseppe Signori",
+          "display": "188 goals",
+          "aliases": [
+            "Signori"
+          ]
+        },
+        {
+          "answer": "Alessandro Del Piero",
+          "display": "188 goals",
+          "aliases": [
+            "Del Piero"
+          ]
+        },
+        {
+          "answer": "Alberto Gilardino",
+          "display": "188 goals",
+          "aliases": [
+            "Gilardino"
+          ]
+        }
+      ],
+      "submitter": "claude"
+    },
+    {
+      "category": "sports/soccer/europe/serie-a",
+      "difficulty": 3,
+      "question": "Top 7 Italian clubs by league titles, including pre-Serie A championships (through 2025–26)",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1378884068 | table 8 | name: Club | value: Winners",
+      "tags": [
+        "soccer",
+        "serie a",
+        "titles",
+        "clubs"
+      ],
+      "cutoff": 7,
+      "answers": [
+        {
+          "answer": "Juventus",
+          "display": "36 titles",
+          "aliases": [
+            "Juve"
+          ]
+        },
+        {
+          "answer": "Inter Milan",
+          "display": "21 titles",
+          "aliases": [
+            "Inter",
+            "Internazionale"
+          ]
+        },
+        {
+          "answer": "AC Milan",
+          "display": "19 titles",
+          "aliases": [
+            "Milan"
+          ]
+        },
+        {
+          "answer": "Genoa",
+          "display": "9 titles"
+        },
+        {
+          "answer": "Torino",
+          "display": "7 titles"
+        },
+        {
+          "answer": "Bologna",
+          "display": "7 titles"
+        },
+        {
+          "answer": "Pro Vercelli",
+          "display": "7 titles"
+        },
+        {
+          "answer": "Napoli",
+          "display": "4 titles"
+        },
+        {
+          "answer": "Roma",
+          "display": "3 titles"
+        },
+        {
+          "answer": "Lazio",
+          "display": "2 titles"
+        },
+        {
+          "answer": "Fiorentina",
+          "display": "2 titles"
+        }
+      ],
+      "submitter": "claude"
+    },
+    {
+      "category": "sports/soccer/europe/bundesliga",
+      "difficulty": 3,
+      "question": "Top 7 German clubs by Bundesliga titles, excluding Bayern Munich (through 2025–26)",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1379691152 | table 6 | name: Club | value: Winners | where: Club!~Bayern",
+      "tags": [
+        "soccer",
+        "bundesliga",
+        "titles",
+        "clubs"
+      ],
+      "cutoff": 7,
+      "answers": [
+        {
+          "answer": "Borussia Dortmund",
+          "display": "5 titles",
+          "aliases": [
+            "Dortmund",
+            "BVB"
+          ]
+        },
+        {
+          "answer": "Borussia Mönchengladbach",
+          "display": "5 titles",
+          "aliases": [
+            "Gladbach",
+            "Mönchengladbach"
+          ]
+        },
+        {
+          "answer": "Werder Bremen",
+          "display": "4 titles",
+          "aliases": [
+            "Bremen"
+          ]
+        },
+        {
+          "answer": "Hamburger SV",
+          "display": "3 titles",
+          "aliases": [
+            "HSV"
+          ]
+        },
+        {
+          "answer": "VfB Stuttgart",
+          "display": "3 titles",
+          "aliases": [
+            "Stuttgart"
+          ]
+        },
+        {
+          "answer": "1. FC Köln",
+          "display": "2 titles",
+          "aliases": [
+            "Cologne",
+            "Koln"
+          ]
+        },
+        {
+          "answer": "1. FC Kaiserslautern",
+          "display": "2 titles",
+          "aliases": [
+            "Kaiserslautern"
+          ]
+        },
+        {
+          "answer": "Bayer Leverkusen",
+          "display": "1 title",
+          "aliases": [
+            "Leverkusen"
+          ]
+        },
+        {
+          "answer": "1860 Munich",
+          "display": "1 title",
+          "aliases": [
+            "TSV 1860 Munich"
+          ]
+        },
+        {
+          "answer": "VfL Wolfsburg",
+          "display": "1 title",
+          "aliases": [
+            "Wolfsburg"
+          ]
+        },
+        {
+          "answer": "Eintracht Braunschweig",
+          "display": "1 title",
+          "aliases": [
+            "Braunschweig"
+          ]
+        },
+        {
+          "answer": "1. FC Nürnberg",
+          "display": "1 title",
+          "aliases": [
+            "Nuremberg",
+            "Nurnberg"
+          ]
+        }
+      ],
+      "submitter": "claude"
+    },
+    {
+      "category": "sports/soccer/europe/ligue-1",
+      "difficulty": 2,
+      "question": "Top 8 French clubs by top-flight league titles, all-time (through 2025–26)",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1377318852 | table 3 | name: Club | value: Titles",
+      "tags": [
+        "soccer",
+        "ligue 1",
+        "titles",
+        "clubs"
+      ],
+      "cutoff": 8,
+      "answers": [
+        {
+          "answer": "Paris Saint-Germain",
+          "display": "14 titles",
+          "aliases": [
+            "PSG"
+          ]
+        },
+        {
+          "answer": "Saint-Étienne",
+          "display": "10 titles",
+          "aliases": [
+            "St Etienne"
+          ]
+        },
+        {
+          "answer": "Marseille",
+          "display": "9 titles",
+          "aliases": [
+            "OM",
+            "Olympique de Marseille"
+          ]
+        },
+        {
+          "answer": "Monaco",
+          "display": "8 titles",
+          "aliases": [
+            "AS Monaco"
+          ]
+        },
+        {
+          "answer": "Nantes",
+          "display": "8 titles",
+          "aliases": [
+            "FC Nantes"
+          ]
+        },
+        {
+          "answer": "Lyon",
+          "display": "7 titles",
+          "aliases": [
+            "Olympique Lyonnais",
+            "OL"
+          ]
+        },
+        {
+          "answer": "Bordeaux",
+          "display": "6 titles",
+          "aliases": [
+            "Girondins"
+          ]
+        },
+        {
+          "answer": "Reims",
+          "display": "6 titles",
+          "aliases": [
+            "Stade de Reims"
+          ]
+        },
+        {
+          "answer": "Lille",
+          "display": "4 titles",
+          "aliases": [
+            "LOSC"
+          ]
+        },
+        {
+          "answer": "Nice",
+          "display": "4 titles",
+          "aliases": [
+            "OGC Nice"
+          ]
+        },
+        {
+          "answer": "Sochaux",
+          "display": "2 titles",
+          "aliases": [
+            "FC Sochaux"
+          ]
+        },
+        {
+          "answer": "Sète",
+          "display": "2 titles",
+          "aliases": [
+            "Sete"
+          ]
+        }
+      ],
+      "submitter": "claude"
+    },
+    {
+      "category": "sports/soccer/europe/europa-league",
+      "difficulty": 3,
+      "question": "Top 8 nations by UEFA Cup and Europa League titles combined (through 2025–26)",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1378915855 | table 6 | name: Nation | value: Winners",
+      "tags": [
+        "soccer",
+        "europa league",
+        "nations",
+        "titles"
+      ],
+      "cutoff": 8,
+      "answers": [
+        {
+          "answer": "Spain",
+          "display": "14 titles"
+        },
+        {
+          "answer": "England",
+          "display": "11 titles"
+        },
+        {
+          "answer": "Italy",
+          "display": "10 titles"
+        },
+        {
+          "answer": "Germany",
+          "display": "7 titles"
+        },
+        {
+          "answer": "Netherlands",
+          "display": "4 titles",
+          "aliases": [
+            "Holland"
+          ]
+        },
+        {
+          "answer": "Portugal",
+          "display": "2 titles"
+        },
+        {
+          "answer": "Russia",
+          "display": "2 titles"
+        },
+        {
+          "answer": "Sweden",
+          "display": "2 titles"
+        },
+        {
+          "answer": "Belgium",
+          "display": "1 title"
+        },
+        {
+          "answer": "Ukraine",
+          "display": "1 title"
+        },
+        {
+          "answer": "Turkey",
+          "display": "1 title"
+        }
+      ],
+      "submitter": "claude"
+    },
+    {
+      "category": "sports/soccer/europe/transfers",
+      "difficulty": 2,
+      "question": "Top 10 most expensive transfers into Real Madrid, Barcelona or Atlético Madrid (€ million, as of 2026)",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1378892940 | table 1 | name: Player | value: Fee (€ | where: To~Real Madrid|Barcelona|Atlético Madrid",
+      "tags": [
+        "soccer",
+        "transfers",
+        "la liga"
+      ],
+      "cutoff": 10,
+      "answers": [
+        {
+          "answer": "João Félix",
+          "display": "€126 million",
+          "aliases": [
+            "Felix",
+            "Joao Felix"
+          ]
+        },
+        {
+          "answer": "Yan Diomande",
+          "display": "€125 million",
+          "aliases": [
+            "Diomande"
+          ]
+        },
+        {
+          "answer": "Antoine Griezmann",
+          "display": "€120 million",
+          "aliases": [
+            "Griezmann"
+          ]
+        },
+        {
+          "answer": "Philippe Coutinho",
+          "display": "€118.4 million",
+          "aliases": [
+            "Coutinho"
+          ]
+        },
+        {
+          "answer": "Ousmane Dembélé",
+          "display": "€105 million",
+          "aliases": [
+            "Dembele"
+          ]
+        },
+        {
+          "answer": "Jude Bellingham",
+          "display": "€103 million",
+          "aliases": [
+            "Bellingham"
+          ]
+        },
+        {
+          "answer": "Eden Hazard",
+          "display": "€100 million",
+          "aliases": [
+            "Hazard"
+          ]
+        },
+        {
+          "answer": "Gareth Bale",
+          "display": "€100 million",
+          "aliases": [
+            "Bale"
+          ]
+        },
+        {
+          "answer": "Cristiano Ronaldo",
+          "display": "€94 million",
+          "aliases": [
+            "CR7",
+            "Ronaldo"
+          ]
+        },
+        {
+          "answer": "Luis Suárez",
+          "display": "€82.3 million",
+          "aliases": [
+            "Suarez"
+          ]
+        },
+        {
+          "answer": "Aurélien Tchouaméni",
+          "display": "€80 million",
+          "aliases": [
+            "Tchouameni"
+          ]
+        },
+        {
+          "answer": "James Rodríguez",
+          "display": "€80 million",
+          "aliases": [
+            "James"
+          ]
+        },
+        {
+          "answer": "Zinedine Zidane",
+          "display": "€77.5 million",
+          "aliases": [
+            "Zidane"
+          ]
+        }
+      ],
+      "submitter": "claude"
+    },
+    {
+      "category": "sports/soccer/europe/la-liga",
+      "difficulty": 3,
+      "question": "Top 7 La Liga players by appearances (as of 2026)",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1379570275 | table 8 | name: Player | value: Apps",
+      "tags": [
+        "soccer",
+        "la liga",
+        "appearances",
+        "players"
+      ],
+      "cutoff": 7,
+      "answers": [
+        {
+          "answer": "Andoni Zubizarreta",
+          "display": "622 apps",
+          "aliases": [
+            "Zubizarreta"
+          ]
+        },
+        {
+          "answer": "Joaquín Sánchez",
+          "display": "622 apps",
+          "aliases": [
+            "Joaquín",
+            "Joaquin"
+          ]
+        },
+        {
+          "answer": "Raúl García",
+          "display": "609 apps",
+          "aliases": [
+            "Raul Garcia"
+          ]
+        },
+        {
+          "answer": "Antoine Griezmann",
+          "display": "564 apps",
+          "aliases": [
+            "Griezmann"
+          ]
+        },
+        {
+          "answer": "Dani Parejo",
+          "display": "558 apps",
+          "aliases": [
+            "Parejo"
+          ]
+        },
+        {
+          "answer": "Raúl González",
+          "display": "550 apps",
+          "aliases": [
+            "Raúl",
+            "Raul Gonzalez"
+          ]
+        },
+        {
+          "answer": "Eusebio Sacristán",
+          "display": "543 apps",
+          "aliases": [
+            "Sacristan"
+          ]
+        },
+        {
+          "answer": "Paco Buyo",
+          "display": "542 apps",
+          "aliases": [
+            "Buyo"
+          ]
+        },
+        {
+          "answer": "Sergio Ramos",
+          "display": "536 apps",
+          "aliases": [
+            "Ramos"
+          ]
+        },
+        {
+          "answer": "Koke",
+          "display": "527 apps",
+          "aliases": [
+            "Koke Resurrección"
+          ]
+        }
+      ],
+      "submitter": "claude"
+    }
+  ]
+}

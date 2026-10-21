@@ -1,0 +1,1535 @@
+{
+  "categories": [
+    {
+      "path": "business/companies/market-cap-by-year",
+      "name": "Market Cap by Year"
+    }
+  ],
+  "questions": [
+    {
+      "category": "business/companies/market-cap-by-year",
+      "difficulty": 2,
+      "question": "Top 7 largest public companies by market capitalization (first quarter of 2026)",
+      "cutoff": 7,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1379335847 | table 2 | name: 3 | value: 3",
+      "tags": [
+        "business",
+        "companies",
+        "market-cap"
+      ],
+      "answers": [
+        {
+          "answer": "Nvidia",
+          "display": "$4.238 trillion"
+        },
+        {
+          "answer": "Apple",
+          "display": "$3.73 trillion"
+        },
+        {
+          "answer": "Alphabet",
+          "display": "$3.47 trillion",
+          "aliases": [
+            "Google"
+          ]
+        },
+        {
+          "answer": "Microsoft",
+          "display": "$2.751 trillion"
+        },
+        {
+          "answer": "Amazon",
+          "display": "$2.235 trillion"
+        },
+        {
+          "answer": "TSMC",
+          "display": "$1.752 trillion",
+          "aliases": [
+            "Taiwan Semiconductor"
+          ]
+        },
+        {
+          "answer": "Broadcom",
+          "display": "$1.467 trillion"
+        },
+        {
+          "answer": "Meta",
+          "display": "$1.447 trillion",
+          "aliases": [
+            "Facebook"
+          ]
+        },
+        {
+          "answer": "Tesla",
+          "display": "$1.394 trillion"
+        },
+        {
+          "answer": "Berkshire Hathaway",
+          "display": "$1.033 trillion",
+          "aliases": [
+            "Berkshire"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "business/companies/market-cap-by-year",
+      "difficulty": 2,
+      "question": "Top 7 largest public companies by market capitalization (first quarter of 2024)",
+      "cutoff": 7,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1379335847 | table 4 | name: 3 | value: 3",
+      "tags": [
+        "business",
+        "companies",
+        "market-cap"
+      ],
+      "answers": [
+        {
+          "answer": "Microsoft",
+          "display": "$3.126 trillion"
+        },
+        {
+          "answer": "Apple",
+          "display": "$2.648 trillion"
+        },
+        {
+          "answer": "Nvidia",
+          "display": "$2.259 trillion"
+        },
+        {
+          "answer": "Alphabet",
+          "display": "$1.893 trillion",
+          "aliases": [
+            "Google"
+          ]
+        },
+        {
+          "answer": "Amazon",
+          "display": "$1.874 trillion"
+        },
+        {
+          "answer": "Meta",
+          "display": "$1.238 trillion",
+          "aliases": [
+            "Facebook"
+          ]
+        },
+        {
+          "answer": "Berkshire Hathaway",
+          "display": "$912.13 billion",
+          "aliases": [
+            "Berkshire"
+          ]
+        },
+        {
+          "answer": "Eli Lilly",
+          "display": "$739.66 billion",
+          "aliases": [
+            "Lilly"
+          ]
+        },
+        {
+          "answer": "TSMC",
+          "display": "$705.69 billion",
+          "aliases": [
+            "Taiwan Semiconductor"
+          ]
+        },
+        {
+          "answer": "Broadcom",
+          "display": "$614.22 billion"
+        }
+      ]
+    },
+    {
+      "category": "business/companies/market-cap-by-year",
+      "difficulty": 2,
+      "question": "Top 7 largest public companies by market capitalization (first quarter of 2022)",
+      "cutoff": 7,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1379335847 | table 6 | name: 3 | value: 3",
+      "tags": [
+        "business",
+        "companies",
+        "market-cap"
+      ],
+      "answers": [
+        {
+          "answer": "Apple",
+          "display": "$2.85 trillion"
+        },
+        {
+          "answer": "Microsoft",
+          "display": "$2.311 trillion"
+        },
+        {
+          "answer": "Alphabet",
+          "display": "$1.846 trillion",
+          "aliases": [
+            "Google"
+          ]
+        },
+        {
+          "answer": "Amazon",
+          "display": "$1.659 trillion"
+        },
+        {
+          "answer": "Tesla",
+          "display": "$1.114 trillion"
+        },
+        {
+          "answer": "Berkshire Hathaway",
+          "display": "$779.15 billion",
+          "aliases": [
+            "Berkshire"
+          ]
+        },
+        {
+          "answer": "Nvidia",
+          "display": "$684.88 billion"
+        },
+        {
+          "answer": "Meta",
+          "display": "$605.25 billion",
+          "aliases": [
+            "Facebook"
+          ]
+        },
+        {
+          "answer": "TSMC",
+          "display": "$540.67 billion",
+          "aliases": [
+            "Taiwan Semiconductor"
+          ]
+        },
+        {
+          "answer": "UnitedHealth Group",
+          "display": "$479.83 billion",
+          "aliases": [
+            "UnitedHealth"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "business/companies/market-cap-by-year",
+      "difficulty": 2,
+      "question": "Top 7 largest public companies by market capitalization (first quarter of 2021)",
+      "cutoff": 7,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1379335847 | table 7 | name: 3 | value: 3",
+      "tags": [
+        "business",
+        "companies",
+        "market-cap"
+      ],
+      "answers": [
+        {
+          "answer": "Apple",
+          "display": "$2.05 trillion"
+        },
+        {
+          "answer": "Microsoft",
+          "display": "$1.778 trillion"
+        },
+        {
+          "answer": "Amazon",
+          "display": "$1.558 trillion"
+        },
+        {
+          "answer": "Alphabet",
+          "display": "$1.395 trillion",
+          "aliases": [
+            "Google"
+          ]
+        },
+        {
+          "answer": "Meta",
+          "display": "$838.72 billion",
+          "aliases": [
+            "Facebook"
+          ]
+        },
+        {
+          "answer": "Tencent",
+          "display": "$766.97 billion"
+        },
+        {
+          "answer": "Tesla",
+          "display": "$641.11 billion"
+        },
+        {
+          "answer": "Alibaba",
+          "display": "$615.01 billion",
+          "aliases": [
+            "Alibaba Group"
+          ]
+        },
+        {
+          "answer": "TSMC",
+          "display": "$613.41 billion",
+          "aliases": [
+            "Taiwan Semiconductor"
+          ]
+        },
+        {
+          "answer": "Berkshire Hathaway",
+          "display": "$590.05 billion",
+          "aliases": [
+            "Berkshire"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "business/companies/market-cap-by-year",
+      "difficulty": 2,
+      "question": "Top 7 largest public companies by market capitalization (first quarter of 2020)",
+      "cutoff": 7,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1379335847 | table 8 | name: 3 | value: 3",
+      "tags": [
+        "business",
+        "companies",
+        "market-cap"
+      ],
+      "answers": [
+        {
+          "answer": "Microsoft",
+          "display": "$1.2 trillion"
+        },
+        {
+          "answer": "Apple",
+          "display": "$1.113 trillion"
+        },
+        {
+          "answer": "Amazon",
+          "display": "$970.59 billion"
+        },
+        {
+          "answer": "Alphabet",
+          "display": "$799.18 billion",
+          "aliases": [
+            "Google"
+          ]
+        },
+        {
+          "answer": "Alibaba",
+          "display": "$521.74 billion",
+          "aliases": [
+            "Alibaba Group"
+          ]
+        },
+        {
+          "answer": "Facebook",
+          "display": "$475.46 billion",
+          "aliases": [
+            "Meta"
+          ]
+        },
+        {
+          "answer": "Tencent",
+          "display": "$471.66 billion"
+        },
+        {
+          "answer": "Berkshire Hathaway",
+          "display": "$440.83 billion",
+          "aliases": [
+            "Berkshire"
+          ]
+        },
+        {
+          "answer": "Visa",
+          "display": "$357.02 billion"
+        },
+        {
+          "answer": "Johnson & Johnson",
+          "display": "$345.7 billion",
+          "aliases": [
+            "J&J"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "business/companies/market-cap-by-year",
+      "difficulty": 2,
+      "question": "Top 7 largest public companies by market capitalization (first quarter of 2019)",
+      "cutoff": 7,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1379335847 | table 9 | name: 3 | value: 3",
+      "tags": [
+        "business",
+        "companies",
+        "market-cap"
+      ],
+      "answers": [
+        {
+          "answer": "Microsoft",
+          "display": "$904.86 billion"
+        },
+        {
+          "answer": "Amazon",
+          "display": "$874.71 billion"
+        },
+        {
+          "answer": "Apple",
+          "display": "$835.67 billion"
+        },
+        {
+          "answer": "Alphabet",
+          "display": "$818.16 billion",
+          "aliases": [
+            "Google"
+          ]
+        },
+        {
+          "answer": "Berkshire Hathaway",
+          "display": "$493.75 billion",
+          "aliases": [
+            "Berkshire"
+          ]
+        },
+        {
+          "answer": "Facebook",
+          "display": "$475.73 billion",
+          "aliases": [
+            "Meta"
+          ]
+        },
+        {
+          "answer": "Alibaba",
+          "display": "$472.94 billion",
+          "aliases": [
+            "Alibaba Group"
+          ]
+        },
+        {
+          "answer": "Tencent",
+          "display": "$440.98 billion"
+        },
+        {
+          "answer": "Johnson & Johnson",
+          "display": "$372.23 billion",
+          "aliases": [
+            "J&J"
+          ]
+        },
+        {
+          "answer": "Visa",
+          "display": "$353.71 billion"
+        }
+      ]
+    },
+    {
+      "category": "business/companies/market-cap-by-year",
+      "difficulty": 2,
+      "question": "Top 7 largest public companies by market capitalization (first quarter of 2018)",
+      "cutoff": 7,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1379335847 | table 10 | name: 3 | value: 3",
+      "tags": [
+        "business",
+        "companies",
+        "market-cap"
+      ],
+      "answers": [
+        {
+          "answer": "Apple",
+          "display": "$851.317 billion"
+        },
+        {
+          "answer": "Alphabet",
+          "display": "$715.404 billion",
+          "aliases": [
+            "Google"
+          ]
+        },
+        {
+          "answer": "Microsoft",
+          "display": "$702.76 billion"
+        },
+        {
+          "answer": "Amazon",
+          "display": "$700.672 billion"
+        },
+        {
+          "answer": "Tencent",
+          "display": "$507.99 billion"
+        },
+        {
+          "answer": "Berkshire Hathaway",
+          "display": "$492.019 billion",
+          "aliases": [
+            "Berkshire"
+          ]
+        },
+        {
+          "answer": "Alibaba",
+          "display": "$470.93 billion",
+          "aliases": [
+            "Alibaba Group"
+          ]
+        },
+        {
+          "answer": "Facebook",
+          "display": "$464.189 billion",
+          "aliases": [
+            "Meta"
+          ]
+        },
+        {
+          "answer": "JPMorgan Chase",
+          "display": "$377.41 billion",
+          "aliases": [
+            "JPMorgan"
+          ]
+        },
+        {
+          "answer": "Johnson & Johnson",
+          "display": "$343.78 billion",
+          "aliases": [
+            "J&J"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "business/companies/market-cap-by-year",
+      "difficulty": 2,
+      "question": "Top 7 largest public companies by market capitalization (first quarter of 2017)",
+      "cutoff": 7,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1379335847 | table 11 | name: 3 | value: 3",
+      "tags": [
+        "business",
+        "companies",
+        "market-cap"
+      ],
+      "answers": [
+        {
+          "answer": "Apple",
+          "display": "$753.718 billion"
+        },
+        {
+          "answer": "Alphabet",
+          "display": "$573.57 billion",
+          "aliases": [
+            "Google"
+          ]
+        },
+        {
+          "answer": "Microsoft",
+          "display": "$508.935 billion"
+        },
+        {
+          "answer": "Amazon",
+          "display": "$423.031 billion"
+        },
+        {
+          "answer": "Berkshire Hathaway",
+          "display": "$410.88 billion",
+          "aliases": [
+            "Berkshire"
+          ]
+        },
+        {
+          "answer": "ExxonMobil",
+          "display": "$339.897 billion",
+          "aliases": [
+            "Exxon"
+          ]
+        },
+        {
+          "answer": "Johnson & Johnson",
+          "display": "$337.947 billion",
+          "aliases": [
+            "J&J"
+          ]
+        },
+        {
+          "answer": "Facebook",
+          "display": "$334.552 billion",
+          "aliases": [
+            "Meta"
+          ]
+        },
+        {
+          "answer": "JPMorgan Chase",
+          "display": "$313.761 billion",
+          "aliases": [
+            "JPMorgan"
+          ]
+        },
+        {
+          "answer": "Wells Fargo",
+          "display": "$278.516 billion"
+        }
+      ]
+    },
+    {
+      "category": "business/companies/market-cap-by-year",
+      "difficulty": 2,
+      "question": "Top 7 largest public companies by market capitalization (first quarter of 2016)",
+      "cutoff": 7,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1379335847 | table 12 | name: 3 | value: 3",
+      "tags": [
+        "business",
+        "companies",
+        "market-cap"
+      ],
+      "answers": [
+        {
+          "answer": "Apple",
+          "display": "$607.465 billion"
+        },
+        {
+          "answer": "Alphabet",
+          "display": "$535.66 billion",
+          "aliases": [
+            "Google"
+          ]
+        },
+        {
+          "answer": "Microsoft",
+          "display": "$439.734 billion"
+        },
+        {
+          "answer": "ExxonMobil",
+          "display": "$350.991 billion",
+          "aliases": [
+            "Exxon"
+          ]
+        },
+        {
+          "answer": "Berkshire Hathaway",
+          "display": "$349.74 billion",
+          "aliases": [
+            "Berkshire"
+          ]
+        },
+        {
+          "answer": "Johnson & Johnson",
+          "display": "$300.604 billion",
+          "aliases": [
+            "J&J"
+          ]
+        },
+        {
+          "answer": "General Electric",
+          "display": "$295.546 billion",
+          "aliases": [
+            "GE"
+          ]
+        },
+        {
+          "answer": "Amazon",
+          "display": "$281.888 billion"
+        },
+        {
+          "answer": "Facebook",
+          "display": "$259.192 billion",
+          "aliases": [
+            "Meta"
+          ]
+        },
+        {
+          "answer": "Wells Fargo",
+          "display": "$246.035 billion"
+        }
+      ]
+    },
+    {
+      "category": "business/companies/market-cap-by-year",
+      "difficulty": 2,
+      "question": "Top 7 largest public companies by market capitalization (first quarter of 2015)",
+      "cutoff": 7,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1379335847 | table 13 | name: 3 | value: 3",
+      "tags": [
+        "business",
+        "companies",
+        "market-cap"
+      ],
+      "answers": [
+        {
+          "answer": "Apple",
+          "display": "$724.7731 billion"
+        },
+        {
+          "answer": "ExxonMobil",
+          "display": "$356.5487 billion",
+          "aliases": [
+            "Exxon"
+          ]
+        },
+        {
+          "answer": "Berkshire Hathaway",
+          "display": "$356.5107 billion",
+          "aliases": [
+            "Berkshire"
+          ]
+        },
+        {
+          "answer": "Alphabet",
+          "display": "$345.8492 billion",
+          "aliases": [
+            "Google"
+          ]
+        },
+        {
+          "answer": "Microsoft",
+          "display": "$333.5248 billion"
+        },
+        {
+          "answer": "PetroChina",
+          "display": "$329.7151 billion"
+        },
+        {
+          "answer": "Wells Fargo",
+          "display": "$279.9197 billion"
+        },
+        {
+          "answer": "Johnson & Johnson",
+          "display": "$279.7239 billion",
+          "aliases": [
+            "J&J"
+          ]
+        },
+        {
+          "answer": "Industrial and Commercial Bank of China",
+          "display": "$275.3891 billion",
+          "aliases": [
+            "ICBC"
+          ]
+        },
+        {
+          "answer": "Novartis",
+          "display": "$267.897 billion"
+        }
+      ]
+    },
+    {
+      "category": "business/companies/market-cap-by-year",
+      "difficulty": 2,
+      "question": "Top 7 largest public companies by market capitalization (first quarter of 2014)",
+      "cutoff": 7,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1379335847 | table 14 | name: 3 | value: 3",
+      "tags": [
+        "business",
+        "companies",
+        "market-cap"
+      ],
+      "answers": [
+        {
+          "answer": "Apple",
+          "display": "$478.7661 billion"
+        },
+        {
+          "answer": "ExxonMobil",
+          "display": "$422.0983 billion",
+          "aliases": [
+            "Exxon"
+          ]
+        },
+        {
+          "answer": "Microsoft",
+          "display": "$340.2168 billion"
+        },
+        {
+          "answer": "Alphabet",
+          "display": "$313.0039 billion",
+          "aliases": [
+            "Google"
+          ]
+        },
+        {
+          "answer": "Berkshire Hathaway",
+          "display": "$308.0906 billion",
+          "aliases": [
+            "Berkshire"
+          ]
+        },
+        {
+          "answer": "Johnson & Johnson",
+          "display": "$277.8262 billion",
+          "aliases": [
+            "J&J"
+          ]
+        },
+        {
+          "answer": "Wells Fargo",
+          "display": "$261.2175 billion"
+        },
+        {
+          "answer": "General Electric",
+          "display": "$259.5473 billion",
+          "aliases": [
+            "GE"
+          ]
+        },
+        {
+          "answer": "Roche",
+          "display": "$258.5421 billion",
+          "aliases": [
+            "Hoffmann-La Roche"
+          ]
+        },
+        {
+          "answer": "Walmart",
+          "display": "$246.8057 billion"
+        }
+      ]
+    },
+    {
+      "category": "business/companies/market-cap-by-year",
+      "difficulty": 2,
+      "question": "Top 7 largest public companies by market capitalization (first quarter of 2013)",
+      "cutoff": 7,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1379335847 | table 15 | name: 3 | value: 3",
+      "tags": [
+        "business",
+        "companies",
+        "market-cap"
+      ],
+      "answers": [
+        {
+          "answer": "Apple",
+          "display": "$415.6833 billion"
+        },
+        {
+          "answer": "ExxonMobil",
+          "display": "$403.7331 billion",
+          "aliases": [
+            "Exxon"
+          ]
+        },
+        {
+          "answer": "Berkshire Hathaway",
+          "display": "$256.8018 billion",
+          "aliases": [
+            "Berkshire"
+          ]
+        },
+        {
+          "answer": "PetroChina",
+          "display": "$254.6187 billion"
+        },
+        {
+          "answer": "Walmart",
+          "display": "$246.3733 billion"
+        },
+        {
+          "answer": "General Electric",
+          "display": "$239.7756 billion",
+          "aliases": [
+            "GE"
+          ]
+        },
+        {
+          "answer": "Microsoft",
+          "display": "$239.6023 billion"
+        },
+        {
+          "answer": "IBM",
+          "display": "$237.7247 billion"
+        },
+        {
+          "answer": "Nestlé",
+          "display": "$233.7921 billion"
+        },
+        {
+          "answer": "Chevron",
+          "display": "$230.8312 billion",
+          "aliases": [
+            "Chevron Corporation"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "business/companies/market-cap-by-year",
+      "difficulty": 2,
+      "question": "Top 7 largest public companies by market capitalization (first quarter of 2012)",
+      "cutoff": 7,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1379335847 | table 16 | name: 3 | value: 3",
+      "tags": [
+        "business",
+        "companies",
+        "market-cap"
+      ],
+      "answers": [
+        {
+          "answer": "Apple",
+          "display": "$559.0021 billion"
+        },
+        {
+          "answer": "ExxonMobil",
+          "display": "$408.7774 billion",
+          "aliases": [
+            "Exxon"
+          ]
+        },
+        {
+          "answer": "PetroChina",
+          "display": "$278.9684 billion"
+        },
+        {
+          "answer": "Microsoft",
+          "display": "$270.6441 billion"
+        },
+        {
+          "answer": "IBM",
+          "display": "$241.7546 billion"
+        },
+        {
+          "answer": "Industrial and Commercial Bank of China",
+          "display": "$236.3354 billion",
+          "aliases": [
+            "ICBC"
+          ]
+        },
+        {
+          "answer": "Royal Dutch Shell",
+          "display": "$222.4251 billion",
+          "aliases": [
+            "Shell"
+          ]
+        },
+        {
+          "answer": "China Mobile",
+          "display": "$220.9789 billion"
+        },
+        {
+          "answer": "General Electric",
+          "display": "$212.3177 billion",
+          "aliases": [
+            "GE"
+          ]
+        },
+        {
+          "answer": "Chevron",
+          "display": "$211.9506 billion",
+          "aliases": [
+            "Chevron Corporation"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "business/companies/market-cap-by-year",
+      "difficulty": 2,
+      "question": "Top 7 largest public companies by market capitalization (first quarter of 2010)",
+      "cutoff": 7,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1379335847 | table 18 | name: 3 | value: 3",
+      "tags": [
+        "business",
+        "companies",
+        "market-cap"
+      ],
+      "answers": [
+        {
+          "answer": "PetroChina",
+          "display": "$329.2597 billion"
+        },
+        {
+          "answer": "ExxonMobil",
+          "display": "$316.2308 billion",
+          "aliases": [
+            "Exxon"
+          ]
+        },
+        {
+          "answer": "Microsoft",
+          "display": "$256.8647 billion"
+        },
+        {
+          "answer": "Industrial and Commercial Bank of China",
+          "display": "$246.4198 billion",
+          "aliases": [
+            "ICBC"
+          ]
+        },
+        {
+          "answer": "Apple",
+          "display": "$213.0967 billion"
+        },
+        {
+          "answer": "BHP",
+          "display": "$209.9351 billion",
+          "aliases": [
+            "BHP Billiton"
+          ]
+        },
+        {
+          "answer": "Walmart",
+          "display": "$209.0007 billion"
+        },
+        {
+          "answer": "Berkshire Hathaway",
+          "display": "$200.6205 billion",
+          "aliases": [
+            "Berkshire"
+          ]
+        },
+        {
+          "answer": "General Electric",
+          "display": "$194.2462 billion",
+          "aliases": [
+            "GE"
+          ]
+        },
+        {
+          "answer": "China Mobile",
+          "display": "$192.9986 billion"
+        }
+      ]
+    },
+    {
+      "category": "business/companies/market-cap-by-year",
+      "difficulty": 2,
+      "question": "Top 7 largest public companies by market capitalization (first quarter of 2007)",
+      "cutoff": 7,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1379335847 | table 21 | name: 3 | value: 3",
+      "tags": [
+        "business",
+        "companies",
+        "market-cap"
+      ],
+      "answers": [
+        {
+          "answer": "ExxonMobil",
+          "display": "$429.567 billion",
+          "aliases": [
+            "Exxon"
+          ]
+        },
+        {
+          "answer": "General Electric",
+          "display": "$363.611 billion",
+          "aliases": [
+            "GE"
+          ]
+        },
+        {
+          "answer": "Microsoft",
+          "display": "$272.912 billion"
+        },
+        {
+          "answer": "Citigroup",
+          "display": "$252.857 billion"
+        },
+        {
+          "answer": "AT&T",
+          "display": "$246.206 billion"
+        },
+        {
+          "answer": "Gazprom",
+          "display": "$245.911 billion"
+        },
+        {
+          "answer": "Toyota",
+          "display": "$230.832 billion"
+        },
+        {
+          "answer": "Bank of America",
+          "display": "$228.177 billion",
+          "aliases": [
+            "BofA"
+          ]
+        },
+        {
+          "answer": "Industrial and Commercial Bank of China",
+          "display": "$224.788 billion",
+          "aliases": [
+            "ICBC"
+          ]
+        },
+        {
+          "answer": "Royal Dutch Shell",
+          "display": "$214.018 billion",
+          "aliases": [
+            "Shell"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "business/companies/market-cap-by-year",
+      "difficulty": 2,
+      "question": "Top 7 largest public companies by market capitalization (first quarter of 2006)",
+      "cutoff": 7,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1379335847 | table 22 | name: 3 | value: 3",
+      "tags": [
+        "business",
+        "companies",
+        "market-cap"
+      ],
+      "answers": [
+        {
+          "answer": "ExxonMobil",
+          "display": "$371.631 billion",
+          "aliases": [
+            "Exxon"
+          ]
+        },
+        {
+          "answer": "General Electric",
+          "display": "$362.527 billion",
+          "aliases": [
+            "GE"
+          ]
+        },
+        {
+          "answer": "Microsoft",
+          "display": "$281.171 billion"
+        },
+        {
+          "answer": "Citigroup",
+          "display": "$238.935 billion"
+        },
+        {
+          "answer": "BP",
+          "display": "$233.26 billion"
+        },
+        {
+          "answer": "Bank of America",
+          "display": "$211.706 billion",
+          "aliases": [
+            "BofA"
+          ]
+        },
+        {
+          "answer": "Royal Dutch Shell",
+          "display": "$211.28 billion",
+          "aliases": [
+            "Shell"
+          ]
+        },
+        {
+          "answer": "Walmart",
+          "display": "$196.86 billion"
+        },
+        {
+          "answer": "Toyota",
+          "display": "$196.731 billion"
+        },
+        {
+          "answer": "Gazprom",
+          "display": "$196.339 billion"
+        }
+      ]
+    },
+    {
+      "category": "business/companies/market-cap-by-year",
+      "difficulty": 2,
+      "question": "Top 7 largest public companies by market capitalization (as of 31 March 2005)",
+      "cutoff": 7,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1379335847 | table 23 | name: Name | value: Market value | note: Financial Times-based list, up to date as of 31 March 2005",
+      "tags": [
+        "business",
+        "companies",
+        "market-cap"
+      ],
+      "answers": [
+        {
+          "answer": "General Electric",
+          "display": "$382.233 billion",
+          "aliases": [
+            "GE"
+          ]
+        },
+        {
+          "answer": "ExxonMobil",
+          "display": "$380.567 billion",
+          "aliases": [
+            "Exxon"
+          ]
+        },
+        {
+          "answer": "Microsoft",
+          "display": "$262.975 billion"
+        },
+        {
+          "answer": "Citigroup",
+          "display": "$234.437 billion"
+        },
+        {
+          "answer": "BP",
+          "display": "$221.365 billion"
+        },
+        {
+          "answer": "Walmart",
+          "display": "$212.209 billion"
+        },
+        {
+          "answer": "Royal Dutch Shell",
+          "display": "$210.63 billion",
+          "aliases": [
+            "Shell"
+          ]
+        },
+        {
+          "answer": "Johnson & Johnson",
+          "display": "$199.711 billion",
+          "aliases": [
+            "J&J"
+          ]
+        },
+        {
+          "answer": "Pfizer",
+          "display": "$195.945 billion"
+        },
+        {
+          "answer": "Bank of America",
+          "display": "$178.765 billion",
+          "aliases": [
+            "BofA"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "business/companies/market-cap-by-year",
+      "difficulty": 2,
+      "question": "Top 7 largest public companies by market capitalization (as of 31 March 2004)",
+      "cutoff": 7,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1379335847 | table 24 | name: Name | value: Market value | note: Financial Times-based list, up to date as of 31 March 2004",
+      "tags": [
+        "business",
+        "companies",
+        "market-cap"
+      ],
+      "answers": [
+        {
+          "answer": "General Electric",
+          "display": "$299.336 billion",
+          "aliases": [
+            "GE"
+          ]
+        },
+        {
+          "answer": "Microsoft",
+          "display": "$271.911 billion"
+        },
+        {
+          "answer": "ExxonMobil",
+          "display": "$263.94 billion",
+          "aliases": [
+            "Exxon"
+          ]
+        },
+        {
+          "answer": "Pfizer",
+          "display": "$261.616 billion"
+        },
+        {
+          "answer": "Citigroup",
+          "display": "$259.191 billion"
+        },
+        {
+          "answer": "Walmart",
+          "display": "$258.888 billion"
+        },
+        {
+          "answer": "AIG",
+          "display": "$183.696 billion",
+          "aliases": [
+            "American International Group"
+          ]
+        },
+        {
+          "answer": "Intel",
+          "display": "$179.996 billion"
+        },
+        {
+          "answer": "BP",
+          "display": "$174.648 billion"
+        },
+        {
+          "answer": "HSBC",
+          "display": "$163.574 billion"
+        }
+      ]
+    },
+    {
+      "category": "business/companies/market-cap-by-year",
+      "difficulty": 2,
+      "question": "Top 7 largest public companies by market capitalization (as of December 2003)",
+      "cutoff": 7,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1379335847 | table 25 | name: Name | value: Market value | note: Financial Times-based list, up to date as December 2003",
+      "tags": [
+        "business",
+        "companies",
+        "market-cap"
+      ],
+      "answers": [
+        {
+          "answer": "Microsoft",
+          "display": "$264.003 billion"
+        },
+        {
+          "answer": "General Electric",
+          "display": "$259.647 billion",
+          "aliases": [
+            "GE"
+          ]
+        },
+        {
+          "answer": "ExxonMobil",
+          "display": "$241.037 billion",
+          "aliases": [
+            "Exxon"
+          ]
+        },
+        {
+          "answer": "Walmart",
+          "display": "$234.399 billion"
+        },
+        {
+          "answer": "Pfizer",
+          "display": "$195.948 billion"
+        },
+        {
+          "answer": "Citigroup",
+          "display": "$183.887 billion"
+        },
+        {
+          "answer": "Johnson & Johnson",
+          "display": "$170.417 billion",
+          "aliases": [
+            "J&J"
+          ]
+        },
+        {
+          "answer": "Royal Dutch Shell",
+          "display": "$149.034 billion",
+          "aliases": [
+            "Shell"
+          ]
+        },
+        {
+          "answer": "BP",
+          "display": "$144.381 billion"
+        },
+        {
+          "answer": "IBM",
+          "display": "$139.272 billion"
+        }
+      ]
+    },
+    {
+      "category": "business/companies/market-cap-by-year",
+      "difficulty": 2,
+      "question": "Top 7 largest public companies by market capitalization (as of December 2002)",
+      "cutoff": 7,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1379335847 | table 26 | name: Name | value: Market value | note: Financial Times-based list, up to date as December 2002",
+      "tags": [
+        "business",
+        "companies",
+        "market-cap"
+      ],
+      "answers": [
+        {
+          "answer": "General Electric",
+          "display": "$372.089 billion",
+          "aliases": [
+            "GE"
+          ]
+        },
+        {
+          "answer": "Microsoft",
+          "display": "$326.639 billion"
+        },
+        {
+          "answer": "ExxonMobil",
+          "display": "$299.82 billion",
+          "aliases": [
+            "Exxon"
+          ]
+        },
+        {
+          "answer": "Walmart",
+          "display": "$273.22 billion"
+        },
+        {
+          "answer": "Citigroup",
+          "display": "$255.299 billion"
+        },
+        {
+          "answer": "Pfizer",
+          "display": "$249.021 billion"
+        },
+        {
+          "answer": "Intel",
+          "display": "$203.838 billion"
+        },
+        {
+          "answer": "BP",
+          "display": "$200.794 billion"
+        },
+        {
+          "answer": "Johnson & Johnson",
+          "display": "$197.912 billion",
+          "aliases": [
+            "J&J"
+          ]
+        },
+        {
+          "answer": "Royal Dutch Shell",
+          "display": "$189.913 billion",
+          "aliases": [
+            "Shell"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "business/companies/market-cap-by-year",
+      "difficulty": 2,
+      "question": "Top 7 largest public companies by market capitalization (as of 31 March 2001)",
+      "cutoff": 7,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1379335847 | table 27 | name: Name | value: Market value | note: Financial Times-based list, up to date as of 31 March 2001",
+      "tags": [
+        "business",
+        "companies",
+        "market-cap"
+      ],
+      "answers": [
+        {
+          "answer": "General Electric",
+          "display": "$477.406 billion",
+          "aliases": [
+            "GE"
+          ]
+        },
+        {
+          "answer": "Cisco",
+          "display": "$304.699 billion"
+        },
+        {
+          "answer": "ExxonMobil",
+          "display": "$286.367 billion",
+          "aliases": [
+            "Exxon"
+          ]
+        },
+        {
+          "answer": "Pfizer",
+          "display": "$263.996 billion"
+        },
+        {
+          "answer": "Microsoft",
+          "display": "$258.436 billion"
+        },
+        {
+          "answer": "Walmart",
+          "display": "$250.955 billion"
+        },
+        {
+          "answer": "Citigroup",
+          "display": "$250.143 billion"
+        },
+        {
+          "answer": "Vodafone",
+          "display": "$227.175 billion"
+        },
+        {
+          "answer": "Intel",
+          "display": "$227.048 billion"
+        },
+        {
+          "answer": "Royal Dutch Shell",
+          "display": "$206.34 billion",
+          "aliases": [
+            "Shell"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "business/companies/market-cap-by-year",
+      "difficulty": 2,
+      "question": "Top 7 largest public companies by market capitalization (as of 31 March 2000)",
+      "cutoff": 7,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1379335847 | table 28 | name: Name | value: Market value | note: Financial Times-based list, up to date as of 31 March 2000",
+      "tags": [
+        "business",
+        "companies",
+        "market-cap"
+      ],
+      "answers": [
+        {
+          "answer": "Microsoft",
+          "display": "$586.197 billion"
+        },
+        {
+          "answer": "General Electric",
+          "display": "$474.956 billion",
+          "aliases": [
+            "GE"
+          ]
+        },
+        {
+          "answer": "NTT Docomo",
+          "display": "$366.204 billion",
+          "aliases": [
+            "Docomo"
+          ]
+        },
+        {
+          "answer": "Cisco",
+          "display": "$348.965 billion"
+        },
+        {
+          "answer": "Walmart",
+          "display": "$286.153 billion"
+        },
+        {
+          "answer": "Intel",
+          "display": "$277.096 billion"
+        },
+        {
+          "answer": "Nippon Telegraph and Telephone",
+          "display": "$274.905 billion",
+          "aliases": [
+            "NTT"
+          ]
+        },
+        {
+          "answer": "ExxonMobil",
+          "display": "$265.894 billion",
+          "aliases": [
+            "Exxon"
+          ]
+        },
+        {
+          "answer": "Lucent Technologies",
+          "display": "$237.668 billion",
+          "aliases": [
+            "Lucent"
+          ]
+        },
+        {
+          "answer": "Deutsche Telekom",
+          "display": "$209.628 billion"
+        }
+      ]
+    }
+  ]
+}

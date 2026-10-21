@@ -1,0 +1,983 @@
+{
+  "categories": [
+    {
+      "path": "sports/golf",
+      "name": "Golf"
+    },
+    {
+      "path": "sports/golf/career-wins",
+      "name": "Career wins"
+    },
+    {
+      "path": "sports/golf/majors",
+      "name": "Majors"
+    },
+    {
+      "path": "sports/golf/prize-money",
+      "name": "Prize money"
+    },
+    {
+      "path": "sports/golf/world-ranking",
+      "name": "World ranking"
+    }
+  ],
+  "questions": [
+    {
+      "category": "sports/golf/career-wins",
+      "question": "Top 9 golfers by PGA Tour career wins (as of 2026)",
+      "cutoff": 9,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1372413283 | table 1 | name: Player | value: Wins",
+      "tags": [
+        "golf",
+        "pga tour",
+        "wins"
+      ],
+      "answers": [
+        {
+          "answer": "Sam Snead",
+          "display": "82 wins",
+          "aliases": [
+            "snead"
+          ]
+        },
+        {
+          "answer": "Tiger Woods",
+          "display": "82 wins",
+          "aliases": [
+            "tiger",
+            "woods"
+          ]
+        },
+        {
+          "answer": "Jack Nicklaus",
+          "display": "73 wins",
+          "aliases": [
+            "nicklaus"
+          ]
+        },
+        {
+          "answer": "Ben Hogan",
+          "display": "64 wins",
+          "aliases": [
+            "hogan"
+          ]
+        },
+        {
+          "answer": "Arnold Palmer",
+          "display": "62 wins",
+          "aliases": [
+            "palmer"
+          ]
+        },
+        {
+          "answer": "Byron Nelson",
+          "display": "52 wins",
+          "aliases": [
+            "nelson"
+          ]
+        },
+        {
+          "answer": "Billy Casper",
+          "display": "51 wins",
+          "aliases": [
+            "casper"
+          ]
+        },
+        {
+          "answer": "Phil Mickelson",
+          "display": "45 wins",
+          "aliases": [
+            "mickelson",
+            "lefty"
+          ]
+        },
+        {
+          "answer": "Walter Hagen",
+          "display": "44 wins",
+          "aliases": [
+            "hagen"
+          ]
+        },
+        {
+          "answer": "Cary Middlecoff",
+          "display": "39 wins",
+          "aliases": [
+            "middlecoff"
+          ]
+        },
+        {
+          "answer": "Tom Watson",
+          "display": "39 wins",
+          "aliases": [
+            "watson"
+          ]
+        },
+        {
+          "answer": "Gene Sarazen",
+          "display": "38 wins",
+          "aliases": [
+            "sarazen"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/golf/career-wins",
+      "question": "Top 9 golfers by LPGA Tour career wins (as of 2026)",
+      "cutoff": 9,
+      "difficulty": 3,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1378675845 | table 1 | name: Name | value: Wins",
+      "tags": [
+        "golf",
+        "lpga",
+        "wins"
+      ],
+      "answers": [
+        {
+          "answer": "Kathy Whitworth",
+          "display": "88 wins",
+          "aliases": [
+            "whitworth"
+          ]
+        },
+        {
+          "answer": "Mickey Wright",
+          "display": "82 wins",
+          "aliases": [
+            "wright"
+          ]
+        },
+        {
+          "answer": "Annika Sörenstam",
+          "display": "72 wins",
+          "aliases": [
+            "sorenstam",
+            "annika"
+          ]
+        },
+        {
+          "answer": "Louise Suggs",
+          "display": "61 wins",
+          "aliases": [
+            "suggs"
+          ]
+        },
+        {
+          "answer": "Patty Berg",
+          "display": "60 wins",
+          "aliases": [
+            "berg"
+          ]
+        },
+        {
+          "answer": "Betsy Rawls",
+          "display": "55 wins",
+          "aliases": [
+            "rawls"
+          ]
+        },
+        {
+          "answer": "Nancy Lopez",
+          "display": "48 wins",
+          "aliases": [
+            "lopez"
+          ]
+        },
+        {
+          "answer": "JoAnne Carner",
+          "display": "43 wins",
+          "aliases": [
+            "carner"
+          ]
+        },
+        {
+          "answer": "Sandra Haynie",
+          "display": "42 wins",
+          "aliases": [
+            "haynie"
+          ]
+        },
+        {
+          "answer": "Babe Zaharias",
+          "display": "41 wins",
+          "aliases": [
+            "zaharias",
+            "babe"
+          ]
+        },
+        {
+          "answer": "Karrie Webb",
+          "display": "41 wins",
+          "aliases": [
+            "webb"
+          ]
+        },
+        {
+          "answer": "Carol Mann",
+          "display": "38 wins",
+          "aliases": [
+            "mann"
+          ]
+        },
+        {
+          "answer": "Patty Sheehan",
+          "display": "35 wins",
+          "aliases": [
+            "sheehan"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/golf/career-wins",
+      "question": "Top 9 golfers by European Tour career wins (as of 2026)",
+      "cutoff": 9,
+      "difficulty": 3,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1377033374 | table 1 | name: Player | value: Wins",
+      "tags": [
+        "golf",
+        "european tour",
+        "wins"
+      ],
+      "answers": [
+        {
+          "answer": "Seve Ballesteros",
+          "display": "50 wins",
+          "aliases": [
+            "seve",
+            "ballesteros"
+          ]
+        },
+        {
+          "answer": "Bernhard Langer",
+          "display": "42 wins",
+          "aliases": [
+            "langer"
+          ]
+        },
+        {
+          "answer": "Tiger Woods",
+          "display": "41 wins",
+          "aliases": [
+            "tiger",
+            "woods"
+          ]
+        },
+        {
+          "answer": "Colin Montgomerie",
+          "display": "31 wins",
+          "aliases": [
+            "montgomerie",
+            "monty"
+          ]
+        },
+        {
+          "answer": "Nick Faldo",
+          "display": "30 wins",
+          "aliases": [
+            "faldo"
+          ]
+        },
+        {
+          "answer": "Ian Woosnam",
+          "display": "29 wins",
+          "aliases": [
+            "woosnam"
+          ]
+        },
+        {
+          "answer": "Ernie Els",
+          "display": "28 wins",
+          "aliases": [
+            "els"
+          ]
+        },
+        {
+          "answer": "Lee Westwood",
+          "display": "25 wins",
+          "aliases": [
+            "westwood"
+          ]
+        },
+        {
+          "answer": "José María Olazábal",
+          "display": "23 wins",
+          "aliases": [
+            "olazabal"
+          ]
+        },
+        {
+          "answer": "Miguel Ángel Jiménez",
+          "display": "21 wins",
+          "aliases": [
+            "jimenez"
+          ]
+        },
+        {
+          "answer": "Rory McIlroy",
+          "display": "21 wins",
+          "aliases": [
+            "mcilroy",
+            "rory"
+          ]
+        },
+        {
+          "answer": "Sam Torrance",
+          "display": "21 wins",
+          "aliases": [
+            "torrance"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/golf/majors",
+      "question": "Top 10 golfers by men's major championship starts (as of 2026)",
+      "cutoff": 10,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1364512134 | table 11 | name: Name | value: Starts",
+      "tags": [
+        "golf",
+        "majors",
+        "appearances"
+      ],
+      "answers": [
+        {
+          "answer": "Jack Nicklaus",
+          "display": "164 starts",
+          "aliases": [
+            "nicklaus"
+          ]
+        },
+        {
+          "answer": "Gary Player",
+          "display": "150 starts",
+          "aliases": [
+            "player"
+          ]
+        },
+        {
+          "answer": "Tom Watson",
+          "display": "145 starts",
+          "aliases": [
+            "watson"
+          ]
+        },
+        {
+          "answer": "Arnold Palmer",
+          "display": "142 starts",
+          "aliases": [
+            "palmer"
+          ]
+        },
+        {
+          "answer": "Phil Mickelson",
+          "display": "129 starts",
+          "aliases": [
+            "mickelson",
+            "lefty"
+          ]
+        },
+        {
+          "answer": "Raymond Floyd",
+          "display": "127 starts",
+          "aliases": [
+            "floyd"
+          ]
+        },
+        {
+          "answer": "Sam Snead",
+          "display": "118 starts",
+          "aliases": [
+            "snead"
+          ]
+        },
+        {
+          "answer": "Ben Crenshaw",
+          "display": "117 starts",
+          "aliases": [
+            "crenshaw"
+          ]
+        },
+        {
+          "answer": "Gene Sarazen",
+          "display": "115 starts",
+          "aliases": [
+            "sarazen"
+          ]
+        },
+        {
+          "answer": "Bernhard Langer",
+          "display": "112 starts",
+          "aliases": [
+            "langer"
+          ]
+        },
+        {
+          "answer": "Mark O'Meara",
+          "display": "110 starts",
+          "aliases": [
+            "omeara"
+          ]
+        },
+        {
+          "answer": "Tom Kite",
+          "display": "109 starts",
+          "aliases": [
+            "kite"
+          ]
+        },
+        {
+          "answer": "Ernie Els",
+          "display": "108 starts",
+          "aliases": [
+            "els"
+          ]
+        },
+        {
+          "answer": "Fred Couples",
+          "display": "107 starts",
+          "aliases": [
+            "couples"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/golf/prize-money",
+      "question": "Top 7 golfers by career prize money on the PGA Tour (as of 2026)",
+      "cutoff": 7,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1378221354 | table 6 | name: Player | value: Prize money",
+      "tags": [
+        "golf",
+        "pga tour",
+        "prize money"
+      ],
+      "answers": [
+        {
+          "answer": "Scottie Scheffler",
+          "display": "$130,390,661",
+          "aliases": [
+            "scheffler"
+          ]
+        },
+        {
+          "answer": "Tiger Woods",
+          "display": "$120,999,166",
+          "aliases": [
+            "tiger",
+            "woods"
+          ]
+        },
+        {
+          "answer": "Rory McIlroy",
+          "display": "$119,555,515",
+          "aliases": [
+            "mcilroy",
+            "rory"
+          ]
+        },
+        {
+          "answer": "Justin Rose",
+          "display": "$79,356,373",
+          "aliases": [
+            "rose"
+          ]
+        },
+        {
+          "answer": "Adam Scott",
+          "display": "$74,880,596",
+          "aliases": [
+            "scott"
+          ]
+        },
+        {
+          "answer": "Justin Thomas",
+          "display": "$74,568,294",
+          "aliases": [
+            "thomas"
+          ]
+        },
+        {
+          "answer": "Jim Furyk",
+          "display": "$71,507,269",
+          "aliases": [
+            "furyk"
+          ]
+        },
+        {
+          "answer": "Vijay Singh",
+          "display": "$71,312,738",
+          "aliases": [
+            "singh"
+          ]
+        },
+        {
+          "answer": "Xander Schauffele",
+          "display": "$70,124,484",
+          "aliases": [
+            "schauffele"
+          ]
+        },
+        {
+          "answer": "Jordan Spieth",
+          "display": "$69,044,203",
+          "aliases": [
+            "spieth"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/golf/prize-money",
+      "question": "Top 7 golfers by career prize money on the European Tour (as of 2026)",
+      "cutoff": 7,
+      "difficulty": 3,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1376174282 | table 1 | name: Player | value: Prize money",
+      "tags": [
+        "golf",
+        "european tour",
+        "prize money"
+      ],
+      "answers": [
+        {
+          "answer": "Rory McIlroy",
+          "display": "€73,046,212",
+          "aliases": [
+            "mcilroy",
+            "rory"
+          ]
+        },
+        {
+          "answer": "Lee Westwood",
+          "display": "€38,825,014",
+          "aliases": [
+            "westwood"
+          ]
+        },
+        {
+          "answer": "Justin Rose",
+          "display": "€35,328,654",
+          "aliases": [
+            "rose"
+          ]
+        },
+        {
+          "answer": "Tommy Fleetwood",
+          "display": "€32,367,836",
+          "aliases": [
+            "fleetwood"
+          ]
+        },
+        {
+          "answer": "Sergio García",
+          "display": "€30,100,249",
+          "aliases": [
+            "garcia"
+          ]
+        },
+        {
+          "answer": "Jon Rahm",
+          "display": "€29,580,994",
+          "aliases": [
+            "rahm"
+          ]
+        },
+        {
+          "answer": "Henrik Stenson",
+          "display": "€28,799,867",
+          "aliases": [
+            "stenson"
+          ]
+        },
+        {
+          "answer": "Matt Fitzpatrick",
+          "display": "€28,781,142",
+          "aliases": [
+            "fitzpatrick"
+          ]
+        },
+        {
+          "answer": "Tyrrell Hatton",
+          "display": "€28,510,891",
+          "aliases": [
+            "hatton"
+          ]
+        },
+        {
+          "answer": "Pádraig Harrington",
+          "display": "€28,496,934",
+          "aliases": [
+            "harrington"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/golf/prize-money",
+      "question": "Top 7 golfers by career prize money on the LPGA Tour (as of 2026)",
+      "cutoff": 7,
+      "difficulty": 3,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1377917341 | table 4 | name: Player | value: Earnings",
+      "tags": [
+        "golf",
+        "lpga",
+        "prize money"
+      ],
+      "answers": [
+        {
+          "answer": "Annika Sörenstam",
+          "display": "$22,583,693",
+          "aliases": [
+            "sorenstam"
+          ]
+        },
+        {
+          "answer": "Lydia Ko",
+          "display": "$22,360,465",
+          "aliases": [
+            "ko"
+          ]
+        },
+        {
+          "answer": "Nelly Korda",
+          "display": "$22,329,772",
+          "aliases": [
+            "korda"
+          ]
+        },
+        {
+          "answer": "Karrie Webb",
+          "display": "$20,293,617",
+          "aliases": [
+            "webb"
+          ]
+        },
+        {
+          "answer": "Cristie Kerr",
+          "display": "$20,179,848",
+          "aliases": [
+            "kerr"
+          ]
+        },
+        {
+          "answer": "Jeeno Thitikul",
+          "display": "$19,760,011",
+          "aliases": [
+            "thitikul"
+          ]
+        },
+        {
+          "answer": "Minjee Lee",
+          "display": "$19,048,450",
+          "aliases": [
+            "lee"
+          ]
+        },
+        {
+          "answer": "Inbee Park",
+          "display": "$18,262,344",
+          "aliases": [
+            "park"
+          ]
+        },
+        {
+          "answer": "Sei Young Kim",
+          "display": "$17,504,015",
+          "aliases": [
+            "kim"
+          ]
+        },
+        {
+          "answer": "Amy Yang",
+          "display": "$16,851,701",
+          "aliases": [
+            "yang"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/golf/world-ranking",
+      "question": "Top 7 women golfers by total weeks ranked world No. 1 (as of 2026)",
+      "cutoff": 7,
+      "difficulty": 4,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1378676999 | table 5 | name: Player | value: Weeks",
+      "tags": [
+        "golf",
+        "women",
+        "world ranking",
+        "weeks"
+      ],
+      "answers": [
+        {
+          "answer": "Jin Young Ko",
+          "display": "163 weeks",
+          "aliases": [
+            "Ko Jin-young"
+          ]
+        },
+        {
+          "answer": "Lorena Ochoa",
+          "display": "158 weeks",
+          "aliases": [
+            "ochoa"
+          ]
+        },
+        {
+          "answer": "Nelly Korda",
+          "display": "132 weeks",
+          "aliases": [
+            "korda"
+          ]
+        },
+        {
+          "answer": "Lydia Ko",
+          "display": "125 weeks",
+          "aliases": [
+            "lydia"
+          ]
+        },
+        {
+          "answer": "Yani Tseng",
+          "display": "109 weeks",
+          "aliases": [
+            "tseng"
+          ]
+        },
+        {
+          "answer": "Inbee Park",
+          "display": "106 weeks",
+          "aliases": [
+            "park"
+          ]
+        },
+        {
+          "answer": "Annika Sörenstam",
+          "display": "60 weeks",
+          "aliases": [
+            "sorenstam"
+          ]
+        },
+        {
+          "answer": "Jeeno Thitikul",
+          "display": "40 weeks",
+          "aliases": [
+            "thitikul"
+          ]
+        },
+        {
+          "answer": "Lilia Vu",
+          "display": "28 weeks",
+          "aliases": [
+            "vu"
+          ]
+        },
+        {
+          "answer": "Jiyai Shin",
+          "display": "25 weeks",
+          "aliases": [
+            "shin"
+          ]
+        },
+        {
+          "answer": "Stacy Lewis",
+          "display": "25 weeks",
+          "aliases": [
+            "lewis"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/golf/majors",
+      "question": "Top 9 women golfers by major championship wins, counting historic majors (all-time, as of 2026)",
+      "cutoff": 9,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1374064827 | table 3 | name: Player | value: Total",
+      "tags": [
+        "golf",
+        "women",
+        "majors"
+      ],
+      "answers": [
+        {
+          "answer": "Patty Berg",
+          "display": "15 majors",
+          "aliases": [
+            "berg"
+          ]
+        },
+        {
+          "answer": "Mickey Wright",
+          "display": "13 majors",
+          "aliases": [
+            "wright"
+          ]
+        },
+        {
+          "answer": "Louise Suggs",
+          "display": "11 majors",
+          "aliases": [
+            "suggs"
+          ]
+        },
+        {
+          "answer": "Annika Sörenstam",
+          "display": "10 majors",
+          "aliases": [
+            "sorenstam"
+          ]
+        },
+        {
+          "answer": "Babe Zaharias",
+          "display": "10 majors",
+          "aliases": [
+            "zaharias",
+            "babe"
+          ]
+        },
+        {
+          "answer": "Betsy Rawls",
+          "display": "8 majors",
+          "aliases": [
+            "rawls"
+          ]
+        },
+        {
+          "answer": "Juli Inkster",
+          "display": "7 majors",
+          "aliases": [
+            "inkster"
+          ]
+        },
+        {
+          "answer": "Karrie Webb",
+          "display": "7 majors",
+          "aliases": [
+            "webb"
+          ]
+        },
+        {
+          "answer": "Inbee Park",
+          "display": "7 majors",
+          "aliases": [
+            "park"
+          ]
+        },
+        {
+          "answer": "Pat Bradley",
+          "display": "6 majors",
+          "aliases": [
+            "bradley"
+          ]
+        },
+        {
+          "answer": "Betsy King",
+          "display": "6 majors",
+          "aliases": [
+            "king"
+          ]
+        },
+        {
+          "answer": "Patty Sheehan",
+          "display": "6 majors",
+          "aliases": [
+            "sheehan"
+          ]
+        },
+        {
+          "answer": "Kathy Whitworth",
+          "display": "6 majors",
+          "aliases": [
+            "whitworth"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/golf/majors",
+      "question": "Top 7 countries by women's major championship wins, counting historic majors (all-time, as of 2026)",
+      "cutoff": 7,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1374064827 | table 4 | name: Country | value: Total | where: Country!=Total",
+      "tags": [
+        "golf",
+        "women",
+        "majors",
+        "countries"
+      ],
+      "answers": [
+        {
+          "answer": "United States",
+          "display": "209 majors",
+          "aliases": [
+            "usa",
+            "us"
+          ]
+        },
+        {
+          "answer": "South Korea",
+          "display": "38 majors",
+          "aliases": [
+            "korea"
+          ]
+        },
+        {
+          "answer": "Sweden",
+          "display": "17 majors"
+        },
+        {
+          "answer": "Australia",
+          "display": "15 majors"
+        },
+        {
+          "answer": "England",
+          "display": "7 majors"
+        },
+        {
+          "answer": "Japan",
+          "display": "7 majors"
+        },
+        {
+          "answer": "Taiwan",
+          "display": "5 majors",
+          "aliases": [
+            "chinese taipei"
+          ]
+        },
+        {
+          "answer": "Canada",
+          "display": "3 majors"
+        },
+        {
+          "answer": "France",
+          "display": "3 majors"
+        },
+        {
+          "answer": "New Zealand",
+          "display": "3 majors",
+          "aliases": [
+            "nz"
+          ]
+        },
+        {
+          "answer": "Thailand",
+          "display": "3 majors"
+        }
+      ]
+    }
+  ]
+}

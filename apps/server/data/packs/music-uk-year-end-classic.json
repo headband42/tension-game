@@ -1,0 +1,613 @@
+{
+  "categories": [
+    {
+      "path": "music",
+      "name": "Music"
+    },
+    {
+      "path": "music/uk",
+      "name": "UK"
+    },
+    {
+      "path": "music/uk/singles",
+      "name": "UK singles"
+    },
+    {
+      "path": "music/uk/singles/year-end",
+      "name": "Year-End Singles"
+    }
+  ],
+  "questions": [
+    {
+      "category": "music/uk/singles/year-end",
+      "question": "Top 10 best-selling singles in the UK in 1972 (year-end singles chart)",
+      "cutoff": 10,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1368200341 | table 3 | name: Title | value: No. | order: asc",
+      "tags": [
+        "music",
+        "uk",
+        "singles",
+        "charts",
+        "1970s"
+      ],
+      "answers": [
+        {
+          "answer": "Amazing Grace",
+          "display": "#1 — The Pipes and Drums and the Military Band of the Royal Scots Dragoon Guards"
+        },
+        {
+          "answer": "Mouldy Old Dough",
+          "display": "#2 — Lieutenant Pigeon"
+        },
+        {
+          "answer": "Puppy Love",
+          "display": "#3 — Donny Osmond"
+        },
+        {
+          "answer": "Without You",
+          "display": "#4 — Nilsson"
+        },
+        {
+          "answer": "I'd Like to Teach the World to Sing (In Perfect Harmony)",
+          "display": "#5 — The New Seekers",
+          "aliases": [
+            "I'd Like to Teach the World to Sing"
+          ]
+        },
+        {
+          "answer": "Son of My Father",
+          "display": "#6 — Chicory Tip"
+        },
+        {
+          "answer": "Rock and Roll (Parts 1 & 2)",
+          "display": "#7 — Gary Glitter",
+          "aliases": [
+            "Rock and Roll"
+          ]
+        },
+        {
+          "answer": "Metal Guru",
+          "display": "#8 — T. Rex"
+        },
+        {
+          "answer": "Mother of Mine",
+          "display": "#9 — Neil Reid"
+        },
+        {
+          "answer": "Telegram Sam",
+          "display": "#10 — T. Rex"
+        },
+        {
+          "answer": "American Pie",
+          "display": "#11 — Don McLean"
+        },
+        {
+          "answer": "Mama Weer All Crazee Now",
+          "display": "#12 — Slade"
+        },
+        {
+          "answer": "School's Out",
+          "display": "#13 — Alice Cooper"
+        }
+      ]
+    },
+    {
+      "category": "music/uk/singles/year-end",
+      "question": "Top 10 best-selling singles in the UK in 1973 (year-end singles chart)",
+      "cutoff": 10,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1371173779 | table 3 | name: Title | value: No. | order: asc",
+      "tags": [
+        "music",
+        "uk",
+        "singles",
+        "charts",
+        "1970s"
+      ],
+      "answers": [
+        {
+          "answer": "Tie a Yellow Ribbon Round the Ole Oak Tree",
+          "display": "#1 — Dawn featuring Tony Orlando",
+          "aliases": [
+            "Tie a Yellow Ribbon"
+          ]
+        },
+        {
+          "answer": "Eye Level",
+          "display": "#2 — Simon Park Orchestra"
+        },
+        {
+          "answer": "Welcome Home",
+          "display": "#3 — Peters and Lee"
+        },
+        {
+          "answer": "Block Buster!",
+          "display": "#4 — Sweet"
+        },
+        {
+          "answer": "Cum On Feel the Noize",
+          "display": "#5 — Slade"
+        },
+        {
+          "answer": "See My Baby Jive",
+          "display": "#6 — Wizzard"
+        },
+        {
+          "answer": "I'm the Leader of the Gang (I Am)",
+          "display": "#7 — Gary Glitter",
+          "aliases": [
+            "I'm the Leader of the Gang"
+          ]
+        },
+        {
+          "answer": "I Love You Love Me Love",
+          "display": "#8 — Gary Glitter"
+        },
+        {
+          "answer": "The Twelfth of Never",
+          "display": "#9 — Donny Osmond"
+        },
+        {
+          "answer": "Spanish Eyes",
+          "display": "#10 — Al Martino"
+        },
+        {
+          "answer": "Daydreamer",
+          "display": "#11 — David Cassidy",
+          "aliases": [
+            "The Puppy Song"
+          ]
+        },
+        {
+          "answer": "Long Haired Lover from Liverpool",
+          "display": "#12 — Little Jimmy Osmond"
+        },
+        {
+          "answer": "Skweeze Me, Pleeze Me",
+          "display": "#13 — Slade"
+        }
+      ]
+    },
+    {
+      "category": "music/uk/singles/year-end",
+      "question": "Top 10 best-selling singles in the UK in 1974 (year-end singles chart)",
+      "cutoff": 10,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1371174985 | table 3 | name: Title | value: No. | order: asc",
+      "tags": [
+        "music",
+        "uk",
+        "singles",
+        "charts",
+        "1970s"
+      ],
+      "answers": [
+        {
+          "answer": "Tiger Feet",
+          "display": "#1 — Mud"
+        },
+        {
+          "answer": "Seasons in the Sun",
+          "display": "#2 — Terry Jacks"
+        },
+        {
+          "answer": "Billy Don't Be a Hero",
+          "display": "#3 — Paper Lace"
+        },
+        {
+          "answer": "When Will I See You Again",
+          "display": "#4 — The Three Degrees"
+        },
+        {
+          "answer": "Rock Your Baby",
+          "display": "#5 — George McCrae"
+        },
+        {
+          "answer": "Gonna Make You a Star",
+          "display": "#6 — David Essex"
+        },
+        {
+          "answer": "She",
+          "display": "#7 — Charles Aznavour"
+        },
+        {
+          "answer": "Kung Fu Fighting",
+          "display": "#8 — Carl Douglas"
+        },
+        {
+          "answer": "Everything I Own",
+          "display": "#9 — Ken Boothe"
+        },
+        {
+          "answer": "Sugar Baby Love",
+          "display": "#10 — The Rubettes"
+        },
+        {
+          "answer": "Devil Gate Drive",
+          "display": "#11 — Suzi Quatro"
+        },
+        {
+          "answer": "Love Me for a Reason",
+          "display": "#12 — The Osmonds"
+        },
+        {
+          "answer": "Jealous Mind",
+          "display": "#13 — Alvin Stardust"
+        }
+      ]
+    },
+    {
+      "category": "music/uk/singles/year-end",
+      "question": "Top 10 best-selling singles in the UK in 1975 (year-end singles chart)",
+      "cutoff": 10,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1348266169 | table 3 | name: Title | value: No. | order: asc",
+      "tags": [
+        "music",
+        "uk",
+        "singles",
+        "charts",
+        "1970s"
+      ],
+      "answers": [
+        {
+          "answer": "Bye Bye Baby",
+          "display": "#1 — Bay City Rollers"
+        },
+        {
+          "answer": "Sailing",
+          "display": "#2 — Rod Stewart"
+        },
+        {
+          "answer": "Can't Give You Anything (But My Love)",
+          "display": "#3 — The Stylistics",
+          "aliases": [
+            "Can't Give You Anything"
+          ]
+        },
+        {
+          "answer": "Whispering Grass",
+          "display": "#4 — Windsor Davies and Don Estelle"
+        },
+        {
+          "answer": "Stand by Your Man",
+          "display": "#5 — Tammy Wynette"
+        },
+        {
+          "answer": "Give a Little Love",
+          "display": "#6 — Bay City Rollers"
+        },
+        {
+          "answer": "Hold Me Close",
+          "display": "#7 — David Essex"
+        },
+        {
+          "answer": "The Last Farewell",
+          "display": "#8 — Roger Whittaker"
+        },
+        {
+          "answer": "I Only Have Eyes for You",
+          "display": "#9 — Art Garfunkel"
+        },
+        {
+          "answer": "Tears on My Pillow",
+          "display": "#10 — Johnny Nash"
+        },
+        {
+          "answer": "I'm Not in Love",
+          "display": "#11 — 10cc"
+        },
+        {
+          "answer": "Barbados",
+          "display": "#12 — Typically Tropical"
+        },
+        {
+          "answer": "If",
+          "display": "#13 — Telly Savalas"
+        }
+      ]
+    },
+    {
+      "category": "music/uk/singles/year-end",
+      "question": "Top 10 best-selling singles in the UK in 1976 (year-end singles chart)",
+      "cutoff": 10,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1360752683 | table 3 | name: Title | value: No. | order: asc",
+      "tags": [
+        "music",
+        "uk",
+        "singles",
+        "charts",
+        "1970s"
+      ],
+      "answers": [
+        {
+          "answer": "Save Your Kisses for Me",
+          "display": "#1 — Brotherhood of Man"
+        },
+        {
+          "answer": "Don't Go Breaking My Heart",
+          "display": "#2 — Elton John and Kiki Dee"
+        },
+        {
+          "answer": "Mississippi",
+          "display": "#3 — Pussycat"
+        },
+        {
+          "answer": "Dancing Queen",
+          "display": "#4 — ABBA"
+        },
+        {
+          "answer": "A Little Bit More",
+          "display": "#5 — Dr Hook"
+        },
+        {
+          "answer": "If You Leave Me Now",
+          "display": "#6 — Chicago"
+        },
+        {
+          "answer": "Fernando",
+          "display": "#7 — ABBA"
+        },
+        {
+          "answer": "I Love to Love (But My Baby Loves to Dance)",
+          "display": "#8 — Tina Charles",
+          "aliases": [
+            "I Love to Love"
+          ]
+        },
+        {
+          "answer": "The Roussos Phenomenon EP",
+          "display": "#9 — Demis Roussos",
+          "aliases": [
+            "Roussos Phenomenon"
+          ]
+        },
+        {
+          "answer": "December, 1963 (Oh, What a Night)",
+          "display": "#10 — The Four Seasons",
+          "aliases": [
+            "December 1963"
+          ]
+        },
+        {
+          "answer": "Under the Moon of Love",
+          "display": "#11 — Showaddywaddy"
+        },
+        {
+          "answer": "You to Me Are Everything",
+          "display": "#12 — The Real Thing"
+        },
+        {
+          "answer": "Forever and Ever",
+          "display": "#13 — Slik"
+        }
+      ]
+    },
+    {
+      "category": "music/uk/singles/year-end",
+      "question": "Top 10 best-selling singles in the UK in 1977 (year-end singles chart)",
+      "cutoff": 10,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1348266389 | table 3 | name: Title | value: No. | order: asc",
+      "tags": [
+        "music",
+        "uk",
+        "singles",
+        "charts",
+        "1970s"
+      ],
+      "answers": [
+        {
+          "answer": "Mull of Kintyre",
+          "display": "#1 — Wings",
+          "aliases": [
+            "Girls' School"
+          ]
+        },
+        {
+          "answer": "Don't Give Up on Us",
+          "display": "#2 — David Soul"
+        },
+        {
+          "answer": "Don't Cry for Me Argentina",
+          "display": "#3 — Julie Covington"
+        },
+        {
+          "answer": "When I Need You",
+          "display": "#4 — Leo Sayer"
+        },
+        {
+          "answer": "Silver Lady",
+          "display": "#5 — David Soul"
+        },
+        {
+          "answer": "Knowing Me, Knowing You",
+          "display": "#6 — ABBA"
+        },
+        {
+          "answer": "I Feel Love",
+          "display": "#7 — Donna Summer"
+        },
+        {
+          "answer": "Way Down",
+          "display": "#8 — Elvis Presley"
+        },
+        {
+          "answer": "So You Win Again",
+          "display": "#9 — Hot Chocolate"
+        },
+        {
+          "answer": "Angelo",
+          "display": "#10 — Brotherhood of Man"
+        },
+        {
+          "answer": "Chanson D'Amour",
+          "display": "#11 — The Manhattan Transfer"
+        },
+        {
+          "answer": "Yes Sir, I Can Boogie",
+          "display": "#12 — Baccara"
+        },
+        {
+          "answer": "Black Is Black",
+          "display": "#13 — La Belle Epoque"
+        }
+      ]
+    },
+    {
+      "category": "music/uk/singles/year-end",
+      "question": "Top 10 best-selling singles in the UK in 1978 (year-end singles chart)",
+      "cutoff": 10,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1348116619 | table 3 | name: Title | value: No. | order: asc",
+      "tags": [
+        "music",
+        "uk",
+        "singles",
+        "charts",
+        "1970s"
+      ],
+      "answers": [
+        {
+          "answer": "Rivers of Babylon",
+          "display": "#1 — Boney M",
+          "aliases": [
+            "Brown Girl in the Ring"
+          ]
+        },
+        {
+          "answer": "You're the One That I Want",
+          "display": "#2 — John Travolta and Olivia Newton-John"
+        },
+        {
+          "answer": "Summer Nights",
+          "display": "#3 — John Travolta and Olivia Newton-John"
+        },
+        {
+          "answer": "Three Times a Lady",
+          "display": "#4 — The Commodores"
+        },
+        {
+          "answer": "The Smurf Song",
+          "display": "#5 — Father Abraham and the Smurfs"
+        },
+        {
+          "answer": "Mary's Boy Child – Oh My Lord",
+          "display": "#6 — Boney M",
+          "aliases": [
+            "Mary's Boy Child"
+          ]
+        },
+        {
+          "answer": "Night Fever",
+          "display": "#7 — Bee Gees"
+        },
+        {
+          "answer": "Rat Trap",
+          "display": "#8 — The Boomtown Rats"
+        },
+        {
+          "answer": "Take a Chance on Me",
+          "display": "#9 — ABBA"
+        },
+        {
+          "answer": "Matchstalk Men and Matchstalk Cats and Dogs",
+          "display": "#10 — Brian and Michael",
+          "aliases": [
+            "Matchstalk Men"
+          ]
+        },
+        {
+          "answer": "Dreadlock Holiday",
+          "display": "#11 — 10cc"
+        },
+        {
+          "answer": "Wuthering Heights",
+          "display": "#12 — Kate Bush"
+        },
+        {
+          "answer": "Sandy",
+          "display": "#13 — John Travolta"
+        }
+      ]
+    },
+    {
+      "category": "music/uk/singles/year-end",
+      "question": "Top 10 best-selling singles in the UK in 1979 (year-end singles chart)",
+      "cutoff": 10,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1307487069 | table 3 | name: Title | value: No. | order: asc",
+      "tags": [
+        "music",
+        "uk",
+        "singles",
+        "charts",
+        "1970s"
+      ],
+      "answers": [
+        {
+          "answer": "Bright Eyes",
+          "display": "#1 — Art Garfunkel"
+        },
+        {
+          "answer": "Heart of Glass",
+          "display": "#2 — Blondie"
+        },
+        {
+          "answer": "We Don't Talk Anymore",
+          "display": "#3 — Cliff Richard"
+        },
+        {
+          "answer": "I Don't Like Mondays",
+          "display": "#4 — The Boomtown Rats"
+        },
+        {
+          "answer": "When You're in Love with a Beautiful Woman",
+          "display": "#5 — Dr. Hook"
+        },
+        {
+          "answer": "I Will Survive",
+          "display": "#6 — Gloria Gaynor"
+        },
+        {
+          "answer": "Are Friends Electric",
+          "display": "#7 — Tubeway Army"
+        },
+        {
+          "answer": "Dance Away",
+          "display": "#8 — Roxy Music"
+        },
+        {
+          "answer": "Sunday Girl",
+          "display": "#9 — Blondie"
+        },
+        {
+          "answer": "One Day at a Time",
+          "display": "#10 — Lena Martell"
+        },
+        {
+          "answer": "Message in a Bottle",
+          "display": "#11 — The Police"
+        },
+        {
+          "answer": "Pop Muzik",
+          "display": "#12 — M"
+        },
+        {
+          "answer": "Hit Me with Your Rhythm Stick",
+          "display": "#13 — Ian Dury and the Blockheads"
+        }
+      ]
+    }
+  ]
+}

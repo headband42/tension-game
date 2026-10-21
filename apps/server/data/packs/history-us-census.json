@@ -1,0 +1,1110 @@
+{
+  "categories": [
+    {
+      "path": "history",
+      "name": "History"
+    },
+    {
+      "path": "history/us",
+      "name": "US"
+    },
+    {
+      "path": "history/us/census",
+      "name": "Census"
+    }
+  ],
+  "questions": [
+    {
+      "category": "history/us/census",
+      "question": "Top 10 most populous US cities in the 1850 census (city limits as they stood then: New York means Manhattan; Brooklyn was a separate city; Philadelphia is the old city, now Center City, so Spring Garden, Northern Liberties and Kensington were separate)",
+      "cutoff": 10,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1378698236 | table 2 | name: City | value: Population | note: the census article's 'City rankings' table; the decade list stops at 10 places",
+      "tags": [
+        "history",
+        "census",
+        "cities",
+        "population"
+      ],
+      "answers": [
+        {
+          "answer": "New York",
+          "display": "515,547 — New York, New York",
+          "aliases": [
+            "NYC",
+            "New York City"
+          ]
+        },
+        {
+          "answer": "Baltimore",
+          "display": "169,054 — Baltimore, Maryland"
+        },
+        {
+          "answer": "Boston",
+          "display": "136,881 — Boston, Massachusetts"
+        },
+        {
+          "answer": "Philadelphia",
+          "display": "121,376 — Philadelphia, Pennsylvania",
+          "aliases": [
+            "Philly"
+          ]
+        },
+        {
+          "answer": "New Orleans",
+          "display": "116,375 — New Orleans, Louisiana",
+          "aliases": [
+            "NOLA"
+          ]
+        },
+        {
+          "answer": "Cincinnati",
+          "display": "115,435 — Cincinnati, Ohio"
+        },
+        {
+          "answer": "Brooklyn",
+          "display": "96,838 — Brooklyn, New York"
+        },
+        {
+          "answer": "St. Louis",
+          "display": "77,860 — St. Louis, Missouri",
+          "aliases": [
+            "Saint Louis"
+          ]
+        },
+        {
+          "answer": "Spring Garden",
+          "display": "58,894 — Spring Garden, Pennsylvania"
+        },
+        {
+          "answer": "Albany",
+          "display": "50,763 — Albany, New York"
+        },
+        {
+          "answer": "Northern Liberties",
+          "display": "47,223 — Northern Liberties, Pennsylvania"
+        },
+        {
+          "answer": "Kensington",
+          "display": "46,774 — Kensington, Pennsylvania"
+        },
+        {
+          "answer": "Pittsburgh",
+          "display": "46,601 — Pittsburgh, Pennsylvania"
+        }
+      ]
+    },
+    {
+      "category": "history/us/census",
+      "question": "Top 10 most populous US cities in the 1880 census (city limits as they stood then: New York means Manhattan; Brooklyn was a separate city)",
+      "cutoff": 10,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1360575682 | table 2 | name: City | value: Population | note: the census article's 'City rankings' table; the decade list stops at 10 places",
+      "tags": [
+        "history",
+        "census",
+        "cities",
+        "population"
+      ],
+      "answers": [
+        {
+          "answer": "New York",
+          "display": "1,206,299 — New York, New York",
+          "aliases": [
+            "NYC",
+            "New York City"
+          ]
+        },
+        {
+          "answer": "Philadelphia",
+          "display": "847,170 — Philadelphia, Pennsylvania",
+          "aliases": [
+            "Philly"
+          ]
+        },
+        {
+          "answer": "Brooklyn",
+          "display": "566,663 — Brooklyn, New York"
+        },
+        {
+          "answer": "Chicago",
+          "display": "503,185 — Chicago, Illinois"
+        },
+        {
+          "answer": "Boston",
+          "display": "362,839 — Boston, Massachusetts"
+        },
+        {
+          "answer": "St. Louis",
+          "display": "350,518 — St. Louis, Missouri",
+          "aliases": [
+            "Saint Louis"
+          ]
+        },
+        {
+          "answer": "Baltimore",
+          "display": "332,313 — Baltimore, Maryland"
+        },
+        {
+          "answer": "Cincinnati",
+          "display": "255,139 — Cincinnati, Ohio"
+        },
+        {
+          "answer": "San Francisco",
+          "display": "233,959 — San Francisco, California",
+          "aliases": [
+            "Frisco",
+            "SF"
+          ]
+        },
+        {
+          "answer": "New Orleans",
+          "display": "216,090 — New Orleans, Louisiana",
+          "aliases": [
+            "NOLA"
+          ]
+        },
+        {
+          "answer": "Cleveland",
+          "display": "160,146 — Cleveland, Ohio"
+        },
+        {
+          "answer": "Pittsburgh",
+          "display": "156,389 — Pittsburgh, Pennsylvania"
+        },
+        {
+          "answer": "Buffalo",
+          "display": "155,134 — Buffalo, New York"
+        }
+      ]
+    },
+    {
+      "category": "history/us/census",
+      "question": "Top 10 most populous US cities in the 1900 census",
+      "cutoff": 10,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1366195012 | table 2 | name: City | value: Population | note: the census article's 'City rankings' table; the decade list stops at 10 places",
+      "tags": [
+        "history",
+        "census",
+        "cities",
+        "population"
+      ],
+      "answers": [
+        {
+          "answer": "New York",
+          "display": "3,437,202 — New York, New York",
+          "aliases": [
+            "NYC",
+            "New York City"
+          ]
+        },
+        {
+          "answer": "Chicago",
+          "display": "1,698,575 — Chicago, Illinois"
+        },
+        {
+          "answer": "Philadelphia",
+          "display": "1,293,697 — Philadelphia, Pennsylvania",
+          "aliases": [
+            "Philly"
+          ]
+        },
+        {
+          "answer": "St. Louis",
+          "display": "575,238 — St. Louis, Missouri",
+          "aliases": [
+            "Saint Louis"
+          ]
+        },
+        {
+          "answer": "Boston",
+          "display": "560,892 — Boston, Massachusetts"
+        },
+        {
+          "answer": "Baltimore",
+          "display": "508,957 — Baltimore, Maryland"
+        },
+        {
+          "answer": "Cleveland",
+          "display": "391,768 — Cleveland, Ohio"
+        },
+        {
+          "answer": "Buffalo",
+          "display": "352,387 — Buffalo, New York"
+        },
+        {
+          "answer": "San Francisco",
+          "display": "342,782 — San Francisco, California",
+          "aliases": [
+            "Frisco",
+            "SF"
+          ]
+        },
+        {
+          "answer": "Cincinnati",
+          "display": "325,902 — Cincinnati, Ohio"
+        },
+        {
+          "answer": "Pittsburgh",
+          "display": "321,616 — Pittsburgh, Pennsylvania"
+        },
+        {
+          "answer": "New Orleans",
+          "display": "287,104 — New Orleans, Louisiana",
+          "aliases": [
+            "NOLA"
+          ]
+        },
+        {
+          "answer": "Detroit",
+          "display": "285,704 — Detroit, Michigan"
+        }
+      ]
+    },
+    {
+      "category": "history/us/census",
+      "question": "Top 10 most populous US cities in the 1920 census",
+      "cutoff": 10,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1362793339 | table 3 | name: City | value: Population | note: the census article's 'City rankings' table; the decade list stops at 10 places",
+      "tags": [
+        "history",
+        "census",
+        "cities",
+        "population"
+      ],
+      "answers": [
+        {
+          "answer": "New York",
+          "display": "5,620,048 — New York, New York",
+          "aliases": [
+            "NYC",
+            "New York City"
+          ]
+        },
+        {
+          "answer": "Chicago",
+          "display": "2,701,705 — Chicago, Illinois"
+        },
+        {
+          "answer": "Philadelphia",
+          "display": "1,823,779 — Philadelphia, Pennsylvania",
+          "aliases": [
+            "Philly"
+          ]
+        },
+        {
+          "answer": "Detroit",
+          "display": "993,078 — Detroit, Michigan"
+        },
+        {
+          "answer": "Cleveland",
+          "display": "796,841 — Cleveland, Ohio"
+        },
+        {
+          "answer": "St. Louis",
+          "display": "772,897 — St. Louis, Missouri",
+          "aliases": [
+            "Saint Louis"
+          ]
+        },
+        {
+          "answer": "Boston",
+          "display": "748,060 — Boston, Massachusetts"
+        },
+        {
+          "answer": "Baltimore",
+          "display": "733,826 — Baltimore, Maryland"
+        },
+        {
+          "answer": "Pittsburgh",
+          "display": "588,343 — Pittsburgh, Pennsylvania"
+        },
+        {
+          "answer": "Los Angeles",
+          "display": "576,673 — Los Angeles, California",
+          "aliases": [
+            "LA"
+          ]
+        },
+        {
+          "answer": "Buffalo",
+          "display": "506,775 — Buffalo, New York"
+        },
+        {
+          "answer": "San Francisco",
+          "display": "506,676 — San Francisco, California",
+          "aliases": [
+            "Frisco",
+            "SF"
+          ]
+        },
+        {
+          "answer": "Milwaukee",
+          "display": "457,147 — Milwaukee, Wisconsin"
+        }
+      ]
+    },
+    {
+      "category": "history/us/census",
+      "question": "Top 10 most populous US cities in the 1950 census",
+      "cutoff": 10,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1378627512 | table 2 | name: City | value: Population | note: the census article's 'City rankings' table; the decade list stops at 10 places",
+      "tags": [
+        "history",
+        "census",
+        "cities",
+        "population"
+      ],
+      "answers": [
+        {
+          "answer": "New York",
+          "display": "7,891,957 — New York, New York",
+          "aliases": [
+            "NYC",
+            "New York City"
+          ]
+        },
+        {
+          "answer": "Chicago",
+          "display": "3,620,962 — Chicago, Illinois"
+        },
+        {
+          "answer": "Philadelphia",
+          "display": "2,071,605 — Philadelphia, Pennsylvania",
+          "aliases": [
+            "Philly"
+          ]
+        },
+        {
+          "answer": "Los Angeles",
+          "display": "1,970,358 — Los Angeles, California",
+          "aliases": [
+            "LA"
+          ]
+        },
+        {
+          "answer": "Detroit",
+          "display": "1,849,568 — Detroit, Michigan"
+        },
+        {
+          "answer": "Baltimore",
+          "display": "949,708 — Baltimore, Maryland"
+        },
+        {
+          "answer": "Cleveland",
+          "display": "914,808 — Cleveland, Ohio"
+        },
+        {
+          "answer": "St. Louis",
+          "display": "856,796 — St. Louis, Missouri",
+          "aliases": [
+            "Saint Louis"
+          ]
+        },
+        {
+          "answer": "Washington, D.C.",
+          "display": "802,178 — Washington, District of Columbia",
+          "aliases": [
+            "Washington",
+            "D.C.",
+            "DC"
+          ]
+        },
+        {
+          "answer": "Boston",
+          "display": "801,444 — Boston, Massachusetts"
+        },
+        {
+          "answer": "San Francisco",
+          "display": "775,357 — San Francisco, California",
+          "aliases": [
+            "Frisco",
+            "SF"
+          ]
+        },
+        {
+          "answer": "Pittsburgh",
+          "display": "676,806 — Pittsburgh, Pennsylvania"
+        },
+        {
+          "answer": "Milwaukee",
+          "display": "637,392 — Milwaukee, Wisconsin"
+        }
+      ]
+    },
+    {
+      "category": "history/us/census",
+      "question": "Top 10 most populous US cities in the 1970 census",
+      "cutoff": 10,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1365515419 | table 2 | name: City | value: Population | note: the census article's 'City rankings' table; the decade list stops at 10 places",
+      "tags": [
+        "history",
+        "census",
+        "cities",
+        "population"
+      ],
+      "answers": [
+        {
+          "answer": "New York",
+          "display": "7,894,862 — New York, New York",
+          "aliases": [
+            "NYC",
+            "New York City"
+          ]
+        },
+        {
+          "answer": "Chicago",
+          "display": "3,366,957 — Chicago, Illinois"
+        },
+        {
+          "answer": "Los Angeles",
+          "display": "2,816,061 — Los Angeles, California",
+          "aliases": [
+            "LA"
+          ]
+        },
+        {
+          "answer": "Philadelphia",
+          "display": "1,948,609 — Philadelphia, Pennsylvania",
+          "aliases": [
+            "Philly"
+          ]
+        },
+        {
+          "answer": "Detroit",
+          "display": "1,511,482 — Detroit, Michigan"
+        },
+        {
+          "answer": "Houston",
+          "display": "1,232,802 — Houston, Texas"
+        },
+        {
+          "answer": "Baltimore",
+          "display": "905,759 — Baltimore, Maryland"
+        },
+        {
+          "answer": "Dallas",
+          "display": "844,401 — Dallas, Texas"
+        },
+        {
+          "answer": "Washington, D.C.",
+          "display": "756,510 — Washington, District of Columbia",
+          "aliases": [
+            "Washington",
+            "D.C.",
+            "DC"
+          ]
+        },
+        {
+          "answer": "Cleveland",
+          "display": "750,903 — Cleveland, Ohio"
+        },
+        {
+          "answer": "Indianapolis",
+          "display": "744,624 — Indianapolis, Indiana"
+        },
+        {
+          "answer": "Milwaukee",
+          "display": "717,099 — Milwaukee, Wisconsin"
+        },
+        {
+          "answer": "San Francisco",
+          "display": "715,674 — San Francisco, California",
+          "aliases": [
+            "Frisco",
+            "SF"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "history/us/census",
+      "question": "Top 10 most populous US cities in the 1990 census",
+      "cutoff": 10,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1352706990 | table 3 | name: City | value: Population | note: the census article's 'City rankings' table; the decade list stops at 10 places",
+      "tags": [
+        "history",
+        "census",
+        "cities",
+        "population"
+      ],
+      "answers": [
+        {
+          "answer": "New York",
+          "display": "7,322,564 — New York, New York",
+          "aliases": [
+            "NYC",
+            "New York City"
+          ]
+        },
+        {
+          "answer": "Los Angeles",
+          "display": "3,485,398 — Los Angeles, California",
+          "aliases": [
+            "LA"
+          ]
+        },
+        {
+          "answer": "Chicago",
+          "display": "2,783,726 — Chicago, Illinois"
+        },
+        {
+          "answer": "Houston",
+          "display": "1,630,553 — Houston, Texas"
+        },
+        {
+          "answer": "Philadelphia",
+          "display": "1,585,577 — Philadelphia, Pennsylvania",
+          "aliases": [
+            "Philly"
+          ]
+        },
+        {
+          "answer": "San Diego",
+          "display": "1,110,549 — San Diego, California"
+        },
+        {
+          "answer": "Detroit",
+          "display": "1,027,974 — Detroit, Michigan"
+        },
+        {
+          "answer": "Dallas",
+          "display": "1,006,877 — Dallas, Texas"
+        },
+        {
+          "answer": "Phoenix",
+          "display": "983,403 — Phoenix, Arizona"
+        },
+        {
+          "answer": "San Antonio",
+          "display": "935,933 — San Antonio, Texas"
+        },
+        {
+          "answer": "San Jose",
+          "display": "782,248 — San Jose, California"
+        },
+        {
+          "answer": "Baltimore",
+          "display": "736,014 — Baltimore, Maryland"
+        },
+        {
+          "answer": "Indianapolis",
+          "display": "731,327 — Indianapolis, Indiana"
+        }
+      ]
+    },
+    {
+      "category": "history/us/census",
+      "question": "Top 10 most populous US cities in the 2000 census",
+      "cutoff": 10,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1368391760 | table 2 | name: City | value: Population | note: the census article's 'City rankings' table; the decade list stops at 10 places",
+      "tags": [
+        "history",
+        "census",
+        "cities",
+        "population"
+      ],
+      "answers": [
+        {
+          "answer": "New York",
+          "display": "8,008,278 — New York, NY",
+          "aliases": [
+            "NYC",
+            "New York City"
+          ]
+        },
+        {
+          "answer": "Los Angeles",
+          "display": "3,694,820 — Los Angeles, CA",
+          "aliases": [
+            "LA"
+          ]
+        },
+        {
+          "answer": "Chicago",
+          "display": "2,896,016 — Chicago, IL"
+        },
+        {
+          "answer": "Houston",
+          "display": "1,953,631 — Houston, TX"
+        },
+        {
+          "answer": "Philadelphia",
+          "display": "1,517,550 — Philadelphia, PA",
+          "aliases": [
+            "Philly"
+          ]
+        },
+        {
+          "answer": "Phoenix",
+          "display": "1,321,045 — Phoenix, AZ"
+        },
+        {
+          "answer": "San Diego",
+          "display": "1,223,400 — San Diego, CA"
+        },
+        {
+          "answer": "Dallas",
+          "display": "1,188,580 — Dallas, TX"
+        },
+        {
+          "answer": "San Antonio",
+          "display": "1,144,646 — San Antonio, TX"
+        },
+        {
+          "answer": "Detroit",
+          "display": "951,270 — Detroit, MI"
+        },
+        {
+          "answer": "San Jose",
+          "display": "894,943 — San Jose, CA"
+        },
+        {
+          "answer": "Indianapolis",
+          "display": "791,926 — Indianapolis, IN"
+        },
+        {
+          "answer": "San Francisco",
+          "display": "776,733 — San Francisco, CA",
+          "aliases": [
+            "Frisco",
+            "SF"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "history/us/census",
+      "question": "Top 10 most populous US states in the 1800 census (states only; territories not counted)",
+      "cutoff": 10,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1369369888 | table 1 | name: Name | value: 1800 | where: Name!=United States | where: Name!~District of Columbia|Puerto Rico|Virgin Islands|Guam|Samoa|Northern Mariana",
+      "tags": [
+        "history",
+        "census",
+        "states",
+        "population"
+      ],
+      "answers": [
+        {
+          "answer": "Virginia",
+          "display": "807,557 — Virginia",
+          "aliases": [
+            "VA"
+          ]
+        },
+        {
+          "answer": "Pennsylvania",
+          "display": "602,545 — Pennsylvania",
+          "aliases": [
+            "PA"
+          ]
+        },
+        {
+          "answer": "New York",
+          "display": "586,050 — New York",
+          "aliases": [
+            "NY"
+          ]
+        },
+        {
+          "answer": "North Carolina",
+          "display": "478,103 — North Carolina",
+          "aliases": [
+            "NC"
+          ]
+        },
+        {
+          "answer": "Massachusetts",
+          "display": "422,845 — Massachusetts",
+          "aliases": [
+            "MA"
+          ]
+        },
+        {
+          "answer": "South Carolina",
+          "display": "345,591 — South Carolina",
+          "aliases": [
+            "SC"
+          ]
+        },
+        {
+          "answer": "Maryland",
+          "display": "341,548 — Maryland",
+          "aliases": [
+            "MD"
+          ]
+        },
+        {
+          "answer": "Connecticut",
+          "display": "251,002 — Connecticut",
+          "aliases": [
+            "CT"
+          ]
+        },
+        {
+          "answer": "Kentucky",
+          "display": "220,959 — Kentucky",
+          "aliases": [
+            "KY"
+          ]
+        },
+        {
+          "answer": "New Jersey",
+          "display": "211,149 — New Jersey",
+          "aliases": [
+            "NJ"
+          ]
+        },
+        {
+          "answer": "New Hampshire",
+          "display": "183,858 — New Hampshire",
+          "aliases": [
+            "NH"
+          ]
+        },
+        {
+          "answer": "Georgia",
+          "display": "162,686 — Georgia",
+          "aliases": [
+            "GA"
+          ]
+        },
+        {
+          "answer": "Vermont",
+          "display": "154,465 — Vermont",
+          "aliases": [
+            "VT"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "history/us/census",
+      "question": "Top 10 most populous US states in the 1850 census (states only; territories not counted)",
+      "cutoff": 10,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1369369888 | table 1 | name: Name | value: 1850 | where: Name!=United States | where: Name!~District of Columbia|Puerto Rico|Virgin Islands|Guam|Samoa|Northern Mariana",
+      "tags": [
+        "history",
+        "census",
+        "states",
+        "population"
+      ],
+      "answers": [
+        {
+          "answer": "New York",
+          "display": "3,097,394 — New York",
+          "aliases": [
+            "NY"
+          ]
+        },
+        {
+          "answer": "Pennsylvania",
+          "display": "2,311,786 — Pennsylvania",
+          "aliases": [
+            "PA"
+          ]
+        },
+        {
+          "answer": "Ohio",
+          "display": "1,980,329 — Ohio",
+          "aliases": [
+            "OH"
+          ]
+        },
+        {
+          "answer": "Virginia",
+          "display": "1,119,348 — Virginia",
+          "aliases": [
+            "VA"
+          ]
+        },
+        {
+          "answer": "Tennessee",
+          "display": "1,002,717 — Tennessee",
+          "aliases": [
+            "TN"
+          ]
+        },
+        {
+          "answer": "Massachusetts",
+          "display": "994,514 — Massachusetts",
+          "aliases": [
+            "MA"
+          ]
+        },
+        {
+          "answer": "Indiana",
+          "display": "988,416 — Indiana",
+          "aliases": [
+            "IN"
+          ]
+        },
+        {
+          "answer": "Kentucky",
+          "display": "982,405 — Kentucky",
+          "aliases": [
+            "KY"
+          ]
+        },
+        {
+          "answer": "Georgia",
+          "display": "906,185 — Georgia",
+          "aliases": [
+            "GA"
+          ]
+        },
+        {
+          "answer": "North Carolina",
+          "display": "869,039 — North Carolina",
+          "aliases": [
+            "NC"
+          ]
+        },
+        {
+          "answer": "Illinois",
+          "display": "851,470 — Illinois",
+          "aliases": [
+            "IL"
+          ]
+        },
+        {
+          "answer": "Alabama",
+          "display": "771,623 — Alabama"
+        },
+        {
+          "answer": "Missouri",
+          "display": "682,044 — Missouri",
+          "aliases": [
+            "MO"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "history/us/census",
+      "question": "Top 10 most populous US states in the 1900 census (states only; territories not counted)",
+      "cutoff": 10,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1369369888 | table 3 | name: Name | value: 1900 | where: Name!=United States | where: Name!~District of Columbia|Puerto Rico|Virgin Islands|Guam|Samoa|Northern Mariana",
+      "tags": [
+        "history",
+        "census",
+        "states",
+        "population"
+      ],
+      "answers": [
+        {
+          "answer": "New York",
+          "display": "7,268,894 — New York",
+          "aliases": [
+            "NY"
+          ]
+        },
+        {
+          "answer": "Pennsylvania",
+          "display": "6,302,115 — Pennsylvania",
+          "aliases": [
+            "PA"
+          ]
+        },
+        {
+          "answer": "Illinois",
+          "display": "4,821,550 — Illinois",
+          "aliases": [
+            "IL"
+          ]
+        },
+        {
+          "answer": "Ohio",
+          "display": "4,157,545 — Ohio",
+          "aliases": [
+            "OH"
+          ]
+        },
+        {
+          "answer": "Missouri",
+          "display": "3,106,665 — Missouri",
+          "aliases": [
+            "MO"
+          ]
+        },
+        {
+          "answer": "Texas",
+          "display": "3,048,710 — Texas",
+          "aliases": [
+            "TX"
+          ]
+        },
+        {
+          "answer": "Massachusetts",
+          "display": "2,805,346 — Massachusetts",
+          "aliases": [
+            "MA"
+          ]
+        },
+        {
+          "answer": "Indiana",
+          "display": "2,516,462 — Indiana",
+          "aliases": [
+            "IN"
+          ]
+        },
+        {
+          "answer": "Michigan",
+          "display": "2,420,982 — Michigan",
+          "aliases": [
+            "MI"
+          ]
+        },
+        {
+          "answer": "Iowa",
+          "display": "2,231,853 — Iowa"
+        },
+        {
+          "answer": "Georgia",
+          "display": "2,216,331 — Georgia",
+          "aliases": [
+            "GA"
+          ]
+        },
+        {
+          "answer": "Kentucky",
+          "display": "2,147,174 — Kentucky",
+          "aliases": [
+            "KY"
+          ]
+        },
+        {
+          "answer": "Wisconsin",
+          "display": "2,069,042 — Wisconsin"
+        }
+      ]
+    },
+    {
+      "category": "history/us/census",
+      "question": "Top 10 most populous US states in the 1950 census (states only; territories not counted)",
+      "cutoff": 10,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1369369888 | table 3 | name: Name | value: 1950 | where: Name!=United States | where: Name!~District of Columbia|Puerto Rico|Virgin Islands|Guam|Samoa|Northern Mariana",
+      "tags": [
+        "history",
+        "census",
+        "states",
+        "population"
+      ],
+      "answers": [
+        {
+          "answer": "New York",
+          "display": "14,830,192 — New York",
+          "aliases": [
+            "NY"
+          ]
+        },
+        {
+          "answer": "California",
+          "display": "10,586,223 — California",
+          "aliases": [
+            "CA"
+          ]
+        },
+        {
+          "answer": "Pennsylvania",
+          "display": "10,498,012 — Pennsylvania",
+          "aliases": [
+            "PA"
+          ]
+        },
+        {
+          "answer": "Illinois",
+          "display": "8,712,176 — Illinois",
+          "aliases": [
+            "IL"
+          ]
+        },
+        {
+          "answer": "Ohio",
+          "display": "7,946,627 — Ohio",
+          "aliases": [
+            "OH"
+          ]
+        },
+        {
+          "answer": "Texas",
+          "display": "7,711,194 — Texas",
+          "aliases": [
+            "TX"
+          ]
+        },
+        {
+          "answer": "Michigan",
+          "display": "6,371,766 — Michigan",
+          "aliases": [
+            "MI"
+          ]
+        },
+        {
+          "answer": "New Jersey",
+          "display": "4,835,329 — New Jersey",
+          "aliases": [
+            "NJ"
+          ]
+        },
+        {
+          "answer": "Massachusetts",
+          "display": "4,690,514 — Massachusetts",
+          "aliases": [
+            "MA"
+          ]
+        },
+        {
+          "answer": "North Carolina",
+          "display": "4,061,929 — North Carolina",
+          "aliases": [
+            "NC"
+          ]
+        },
+        {
+          "answer": "Missouri",
+          "display": "3,954,653 — Missouri",
+          "aliases": [
+            "MO"
+          ]
+        },
+        {
+          "answer": "Indiana",
+          "display": "3,934,224 — Indiana",
+          "aliases": [
+            "IN"
+          ]
+        },
+        {
+          "answer": "Georgia",
+          "display": "3,444,578 — Georgia",
+          "aliases": [
+            "GA"
+          ]
+        }
+      ]
+    }
+  ]
+}

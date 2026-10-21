@@ -1,0 +1,892 @@
+{
+  "categories": [
+    {
+      "path": "sports/college",
+      "name": "College sports"
+    },
+    {
+      "path": "sports/college/basketball",
+      "name": "College basketball"
+    },
+    {
+      "path": "sports/college/basketball/mens",
+      "name": "Men's basketball"
+    },
+    {
+      "path": "sports/college/basketball/womens",
+      "name": "Women's basketball"
+    },
+    {
+      "path": "sports/college/football",
+      "name": "College football"
+    },
+    {
+      "path": "sports/college/football/stadiums",
+      "name": "Football stadiums"
+    },
+    {
+      "path": "sports/college/all-sports",
+      "name": "All sports"
+    }
+  ],
+  "questions": [
+    {
+      "category": "sports/college/basketball/mens",
+      "question": "Top 10 schools by NCAA men's basketball tournament appearances (through the 2026 tournament)",
+      "cutoff": 10,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1378804870 | table 5 | name: School | value: # | header rows: 2",
+      "tags": [
+        "basketball",
+        "appearances",
+        "march madness"
+      ],
+      "answers": [
+        {
+          "answer": "Kentucky",
+          "display": "63 appearances",
+          "aliases": [
+            "UK"
+          ]
+        },
+        {
+          "answer": "North Carolina",
+          "display": "55 appearances",
+          "aliases": [
+            "UNC",
+            "Tar Heels"
+          ]
+        },
+        {
+          "answer": "Kansas",
+          "display": "53 appearances",
+          "aliases": [
+            "KU",
+            "Jayhawks"
+          ]
+        },
+        {
+          "answer": "UCLA",
+          "display": "52 appearances",
+          "aliases": [
+            "Bruins"
+          ]
+        },
+        {
+          "answer": "Duke",
+          "display": "48 appearances",
+          "aliases": [
+            "Blue Devils"
+          ]
+        },
+        {
+          "answer": "Indiana",
+          "display": "41 appearances",
+          "aliases": [
+            "IU",
+            "Hoosiers"
+          ]
+        },
+        {
+          "answer": "Villanova",
+          "display": "41 appearances",
+          "aliases": [
+            "Nova"
+          ]
+        },
+        {
+          "answer": "Louisville",
+          "display": "41 appearances",
+          "aliases": [
+            "Cards"
+          ]
+        },
+        {
+          "answer": "Syracuse",
+          "display": "41 appearances",
+          "aliases": [
+            "Cuse"
+          ]
+        },
+        {
+          "answer": "Texas",
+          "display": "40 appearances",
+          "aliases": [
+            "Longhorns"
+          ]
+        },
+        {
+          "answer": "Michigan State",
+          "display": "39 appearances",
+          "aliases": [
+            "MSU",
+            "Spartans"
+          ]
+        },
+        {
+          "answer": "UConn",
+          "display": "38 appearances",
+          "aliases": [
+            "Connecticut"
+          ]
+        },
+        {
+          "answer": "Arkansas",
+          "display": "37 appearances",
+          "aliases": [
+            "Razorbacks"
+          ]
+        },
+        {
+          "answer": "Marquette",
+          "display": "37 appearances",
+          "aliases": [
+            "Golden Eagles"
+          ]
+        },
+        {
+          "answer": "Notre Dame",
+          "display": "37 appearances",
+          "aliases": [
+            "ND"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/college/football",
+      "question": "Top 10 college football programs by poll-era national championships, 1936 to the 2025 season (AP and Coaches polls)",
+      "cutoff": 10,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1379544922 | table 8 | name: School | value: Titles",
+      "tags": [
+        "football",
+        "national championships"
+      ],
+      "answers": [
+        {
+          "answer": "Alabama",
+          "display": "13 titles",
+          "aliases": [
+            "Bama"
+          ]
+        },
+        {
+          "answer": "Notre Dame",
+          "display": "8 titles",
+          "aliases": [
+            "ND"
+          ]
+        },
+        {
+          "answer": "Ohio State",
+          "display": "7 titles",
+          "aliases": [
+            "OSU",
+            "Buckeyes"
+          ]
+        },
+        {
+          "answer": "Oklahoma",
+          "display": "7 titles",
+          "aliases": [
+            "OU",
+            "Sooners"
+          ]
+        },
+        {
+          "answer": "USC",
+          "display": "7 titles",
+          "aliases": [
+            "Southern Cal",
+            "Trojans"
+          ]
+        },
+        {
+          "answer": "Miami",
+          "display": "5 titles",
+          "aliases": [
+            "Miami (FL)"
+          ]
+        },
+        {
+          "answer": "Nebraska",
+          "display": "5 titles",
+          "aliases": [
+            "Huskers"
+          ]
+        },
+        {
+          "answer": "LSU",
+          "display": "4 titles",
+          "aliases": [
+            "Louisiana State"
+          ]
+        },
+        {
+          "answer": "Texas",
+          "display": "4 titles",
+          "aliases": [
+            "Longhorns"
+          ]
+        },
+        {
+          "answer": "Minnesota",
+          "display": "4 titles",
+          "aliases": [
+            "Gophers"
+          ]
+        },
+        {
+          "answer": "Clemson",
+          "display": "3 titles",
+          "aliases": [
+            "Tigers"
+          ]
+        },
+        {
+          "answer": "Florida",
+          "display": "3 titles",
+          "aliases": [
+            "Gators"
+          ]
+        },
+        {
+          "answer": "Florida State",
+          "display": "3 titles",
+          "aliases": [
+            "FSU",
+            "Seminoles"
+          ]
+        },
+        {
+          "answer": "Georgia",
+          "display": "3 titles",
+          "aliases": [
+            "UGA",
+            "Bulldogs"
+          ]
+        },
+        {
+          "answer": "Michigan",
+          "display": "3 titles",
+          "aliases": [
+            "UM",
+            "Wolverines"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/college/football/stadiums",
+      "question": "Top 10 largest NCAA Division I FBS football stadiums by capacity (as of 2026)",
+      "cutoff": 10,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1379675309 | table 1 | name: Stadium | value: Capacity",
+      "tags": [
+        "football",
+        "stadiums",
+        "capacity"
+      ],
+      "answers": [
+        {
+          "answer": "Michigan Stadium",
+          "display": "107,601 seats",
+          "aliases": [
+            "The Big House",
+            "Michigan"
+          ]
+        },
+        {
+          "answer": "Beaver Stadium",
+          "display": "106,572 seats",
+          "aliases": [
+            "Happy Valley",
+            "Penn State"
+          ]
+        },
+        {
+          "answer": "Ohio Stadium",
+          "display": "102,780 seats",
+          "aliases": [
+            "The Horseshoe",
+            "The Shoe",
+            "Ohio State"
+          ]
+        },
+        {
+          "answer": "Kyle Field",
+          "display": "102,733 seats",
+          "aliases": [
+            "Kyle",
+            "Texas A&M"
+          ]
+        },
+        {
+          "answer": "Tiger Stadium",
+          "display": "102,321 seats",
+          "aliases": [
+            "LSU"
+          ]
+        },
+        {
+          "answer": "Neyland Stadium",
+          "display": "101,915 seats",
+          "aliases": [
+            "Neyland",
+            "Tennessee"
+          ]
+        },
+        {
+          "answer": "Darrell K Royal–Texas Memorial Stadium",
+          "display": "100,119 seats",
+          "aliases": [
+            "Texas Memorial Stadium",
+            "DKR Stadium"
+          ]
+        },
+        {
+          "answer": "Bryant–Denny Stadium",
+          "display": "100,077 seats",
+          "aliases": [
+            "Saban Field",
+            "Bryant-Denny",
+            "Alabama"
+          ]
+        },
+        {
+          "answer": "Sanford Stadium",
+          "display": "93,033 seats",
+          "aliases": [
+            "Sanford"
+          ]
+        },
+        {
+          "answer": "Rose Bowl",
+          "display": "89,702 seats",
+          "aliases": [
+            "Rose Bowl Stadium"
+          ]
+        },
+        {
+          "answer": "Ben Hill Griffin Stadium",
+          "display": "88,548 seats",
+          "aliases": [
+            "The Swamp"
+          ]
+        },
+        {
+          "answer": "Jordan–Hare Stadium",
+          "display": "88,043 seats",
+          "aliases": [
+            "Jordan-Hare"
+          ]
+        },
+        {
+          "answer": "Memorial Stadium (Nebraska)",
+          "display": "85,458 seats",
+          "aliases": [
+            "Tom Osborne Field"
+          ]
+        },
+        {
+          "answer": "Clemson Memorial Stadium",
+          "display": "81,500 seats"
+        }
+      ]
+    },
+    {
+      "category": "sports/college/football",
+      "question": "Top 10 NCAA football programs by all-time wins, all divisions (through Week 3 of the 2026 season)",
+      "cutoff": 10,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1376914981 | table 2 | name: Team | value: Won",
+      "tags": [
+        "football",
+        "wins"
+      ],
+      "answers": [
+        {
+          "answer": "Michigan",
+          "display": "1,024 wins",
+          "aliases": [
+            "UM",
+            "Wolverines"
+          ]
+        },
+        {
+          "answer": "Ohio State",
+          "display": "992 wins",
+          "aliases": [
+            "OSU",
+            "Buckeyes"
+          ]
+        },
+        {
+          "answer": "Alabama",
+          "display": "988 wins",
+          "aliases": [
+            "Bama"
+          ]
+        },
+        {
+          "answer": "Notre Dame",
+          "display": "975 wins",
+          "aliases": [
+            "ND"
+          ]
+        },
+        {
+          "answer": "Texas",
+          "display": "974 wins",
+          "aliases": [
+            "Longhorns"
+          ]
+        },
+        {
+          "answer": "Oklahoma",
+          "display": "962 wins",
+          "aliases": [
+            "OU",
+            "Sooners"
+          ]
+        },
+        {
+          "answer": "Penn State",
+          "display": "953 wins",
+          "aliases": [
+            "PSU"
+          ]
+        },
+        {
+          "answer": "Yale",
+          "display": "953 wins"
+        },
+        {
+          "answer": "Nebraska",
+          "display": "934 wins",
+          "aliases": [
+            "Huskers"
+          ]
+        },
+        {
+          "answer": "Harvard",
+          "display": "919 wins",
+          "aliases": [
+            "Crimson"
+          ]
+        },
+        {
+          "answer": "Georgia",
+          "display": "907 wins",
+          "aliases": [
+            "UGA",
+            "Dawgs"
+          ]
+        },
+        {
+          "answer": "USC",
+          "display": "895 wins",
+          "aliases": [
+            "Southern Cal",
+            "Trojans"
+          ]
+        },
+        {
+          "answer": "University of Pennsylvania",
+          "display": "889 wins",
+          "aliases": [
+            "Penn",
+            "Penn Quakers",
+            "Quakers"
+          ]
+        },
+        {
+          "answer": "Tennessee",
+          "display": "886 wins",
+          "aliases": [
+            "Vols"
+          ]
+        },
+        {
+          "answer": "Mount Union",
+          "display": "880 wins"
+        }
+      ]
+    },
+    {
+      "category": "sports/college/football",
+      "question": "Top 10 current FBS football programs by bowl games played (through the 2025–26 bowl season)",
+      "cutoff": 10,
+      "difficulty": 3,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1371724322 | table 1 | name: University | value: Bowl Games Played",
+      "tags": [
+        "football",
+        "bowl games"
+      ],
+      "answers": [
+        {
+          "answer": "Alabama",
+          "display": "78 bowl games",
+          "aliases": [
+            "Bama"
+          ]
+        },
+        {
+          "answer": "Georgia",
+          "display": "64 bowl games",
+          "aliases": [
+            "UGA",
+            "Dawgs"
+          ]
+        },
+        {
+          "answer": "Texas",
+          "display": "63 bowl games",
+          "aliases": [
+            "Longhorns"
+          ]
+        },
+        {
+          "answer": "Ohio State",
+          "display": "60 bowl games",
+          "aliases": [
+            "OSU",
+            "Buckeyes"
+          ]
+        },
+        {
+          "answer": "Oklahoma",
+          "display": "59 bowl games",
+          "aliases": [
+            "OU",
+            "Sooners"
+          ]
+        },
+        {
+          "answer": "Tennessee",
+          "display": "58 bowl games",
+          "aliases": [
+            "Vols"
+          ]
+        },
+        {
+          "answer": "LSU",
+          "display": "57 bowl games",
+          "aliases": [
+            "Louisiana State"
+          ]
+        },
+        {
+          "answer": "Penn State",
+          "display": "57 bowl games",
+          "aliases": [
+            "PSU"
+          ]
+        },
+        {
+          "answer": "USC",
+          "display": "57 bowl games",
+          "aliases": [
+            "Southern Cal",
+            "Trojans"
+          ]
+        },
+        {
+          "answer": "Nebraska",
+          "display": "55 bowl games",
+          "aliases": [
+            "Huskers"
+          ]
+        },
+        {
+          "answer": "Michigan",
+          "display": "54 bowl games",
+          "aliases": [
+            "UM",
+            "Wolverines"
+          ]
+        },
+        {
+          "answer": "Clemson",
+          "display": "52 bowl games",
+          "aliases": [
+            "Tigers"
+          ]
+        },
+        {
+          "answer": "Florida",
+          "display": "50 bowl games",
+          "aliases": [
+            "Gators"
+          ]
+        },
+        {
+          "answer": "Florida State",
+          "display": "49 bowl games",
+          "aliases": [
+            "FSU",
+            "Seminoles"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/college/all-sports",
+      "question": "Top 10 NCAA Division I schools by team championships, all sports (as of 2026)",
+      "cutoff": 10,
+      "difficulty": 3,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1379340049 | table 1 | name: Institution | value: Total",
+      "tags": [
+        "all sports",
+        "championships"
+      ],
+      "answers": [
+        {
+          "answer": "Stanford",
+          "display": "140 titles",
+          "aliases": [
+            "Cardinal"
+          ]
+        },
+        {
+          "answer": "UCLA",
+          "display": "127 titles",
+          "aliases": [
+            "University of California, Los Angeles",
+            "Bruins"
+          ]
+        },
+        {
+          "answer": "USC",
+          "display": "116 titles",
+          "aliases": [
+            "Southern Cal",
+            "Trojans"
+          ]
+        },
+        {
+          "answer": "Texas",
+          "display": "62 titles",
+          "aliases": [
+            "Longhorns",
+            "UT Austin"
+          ]
+        },
+        {
+          "answer": "Penn State",
+          "display": "57 titles",
+          "aliases": [
+            "Pennsylvania State University",
+            "PSU"
+          ]
+        },
+        {
+          "answer": "Oklahoma State",
+          "display": "55 titles",
+          "aliases": [
+            "OSU",
+            "Cowboys"
+          ]
+        },
+        {
+          "answer": "Arkansas",
+          "display": "54 titles",
+          "aliases": [
+            "Razorbacks"
+          ]
+        },
+        {
+          "answer": "North Carolina",
+          "display": "52 titles",
+          "aliases": [
+            "UNC",
+            "Tar Heels"
+          ]
+        },
+        {
+          "answer": "LSU",
+          "display": "48 titles",
+          "aliases": [
+            "Louisiana State"
+          ]
+        },
+        {
+          "answer": "Florida",
+          "display": "44 titles",
+          "aliases": [
+            "UF",
+            "Gators"
+          ]
+        },
+        {
+          "answer": "California",
+          "display": "43 titles",
+          "aliases": [
+            "Cal",
+            "Berkeley",
+            "UC Berkeley"
+          ]
+        },
+        {
+          "answer": "Michigan",
+          "display": "41 titles",
+          "aliases": [
+            "UM",
+            "Wolverines"
+          ]
+        },
+        {
+          "answer": "Oklahoma",
+          "display": "40 titles",
+          "aliases": [
+            "OU",
+            "Sooners"
+          ]
+        },
+        {
+          "answer": "Virginia",
+          "display": "37 titles",
+          "aliases": [
+            "UVA",
+            "Cavaliers"
+          ]
+        },
+        {
+          "answer": "Denver",
+          "display": "36 titles",
+          "aliases": [
+            "Pioneers"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/college/football",
+      "question": "Top 10 Heisman Trophy winners by share of possible ballot points (all-time, through the 2025 award)",
+      "cutoff": 10,
+      "difficulty": 4,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1377939923 | table 2 | name: Name | value: % of points possible",
+      "tags": [
+        "football",
+        "heisman"
+      ],
+      "answers": [
+        {
+          "answer": "Joe Burrow",
+          "display": "93.8% of points possible",
+          "aliases": [
+            "Burrow"
+          ]
+        },
+        {
+          "answer": "Reggie Bush",
+          "display": "91.8% of points possible",
+          "aliases": [
+            "Bush"
+          ]
+        },
+        {
+          "answer": "Troy Smith",
+          "display": "91.6% of points possible",
+          "aliases": [
+            "Smith"
+          ]
+        },
+        {
+          "answer": "Marcus Mariota",
+          "display": "90.9% of points possible",
+          "aliases": [
+            "Mariota"
+          ]
+        },
+        {
+          "answer": "Baker Mayfield",
+          "display": "86.0% of points possible",
+          "aliases": [
+            "Mayfield"
+          ]
+        },
+        {
+          "answer": "Ricky Williams",
+          "display": "85.2% of points possible",
+          "aliases": [
+            "Williams"
+          ]
+        },
+        {
+          "answer": "Fernando Mendoza",
+          "display": "84.7% of points possible",
+          "aliases": [
+            "Mendoza"
+          ]
+        },
+        {
+          "answer": "Charlie Ward",
+          "display": "83.8% of points possible",
+          "aliases": [
+            "Ward"
+          ]
+        },
+        {
+          "answer": "Bryce Young",
+          "display": "83.0% of points possible",
+          "aliases": [
+            "Young"
+          ]
+        },
+        {
+          "answer": "Cam Newton",
+          "display": "81.6% of points possible",
+          "aliases": [
+            "Newton"
+          ]
+        },
+        {
+          "answer": "O. J. Simpson",
+          "display": "80.6% of points possible",
+          "aliases": [
+            "OJ Simpson",
+            "O.J. Simpson",
+            "Simpson"
+          ]
+        },
+        {
+          "answer": "Travis Hunter",
+          "display": "80.1% of points possible",
+          "aliases": [
+            "Hunter"
+          ]
+        },
+        {
+          "answer": "Lamar Jackson",
+          "display": "79.5% of points possible",
+          "aliases": [
+            "Jackson"
+          ]
+        },
+        {
+          "answer": "Glenn Davis",
+          "display": "79.2% of points possible",
+          "aliases": [
+            "Davis"
+          ]
+        },
+        {
+          "answer": "Jameis Winston",
+          "display": "79.1% of points possible",
+          "aliases": [
+            "Winston"
+          ]
+        }
+      ]
+    }
+  ]
+}

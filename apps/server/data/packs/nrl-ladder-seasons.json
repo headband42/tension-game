@@ -1,0 +1,2339 @@
+{
+  "categories": [
+    {
+      "path": "sports/rugby-league/nrl",
+      "name": "NRL Seasons"
+    }
+  ],
+  "questions": [
+    {
+      "category": "sports/rugby-league/nrl",
+      "question": "Top 5 teams on the final 1988 NSWRL ladder (end of the regular season)",
+      "cutoff": 5,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1310400839 | table 2 | name: Team | value: 1 | order: asc",
+      "tags": [
+        "rugby-league",
+        "nrl",
+        "seasons"
+      ],
+      "answers": [
+        {
+          "answer": "Cronulla-Sutherland Sharks",
+          "display": "#1 — 34 pts",
+          "aliases": [
+            "Cronulla",
+            "Sharks"
+          ]
+        },
+        {
+          "answer": "Canterbury-Bankstown Bulldogs",
+          "display": "#2 — 32 pts",
+          "aliases": [
+            "Canterbury",
+            "Bulldogs"
+          ]
+        },
+        {
+          "answer": "Canberra Raiders",
+          "display": "#3 — 30 pts",
+          "aliases": [
+            "Canberra",
+            "Raiders"
+          ]
+        },
+        {
+          "answer": "Manly Warringah Sea Eagles",
+          "display": "#4 — 30 pts",
+          "aliases": [
+            "Manly",
+            "Sea Eagles"
+          ]
+        },
+        {
+          "answer": "Penrith Panthers",
+          "display": "#5 — 30 pts",
+          "aliases": [
+            "Penrith",
+            "Panthers"
+          ]
+        },
+        {
+          "answer": "Balmain Tigers",
+          "display": "#6 — 30 pts",
+          "aliases": [
+            "Balmain",
+            "Tigers"
+          ]
+        },
+        {
+          "answer": "Brisbane Broncos",
+          "display": "#7 — 28 pts",
+          "aliases": [
+            "Broncos",
+            "Brisbane"
+          ]
+        },
+        {
+          "answer": "South Sydney Rabbitohs",
+          "display": "#8 — 24 pts",
+          "aliases": [
+            "South Sydney",
+            "Souths",
+            "Rabbitohs"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/rugby-league/nrl",
+      "question": "Top 5 teams on the final 1989 NSWRL ladder (end of the regular season)",
+      "cutoff": 5,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1373359821 | table 2 | name: Team | value: 1 | order: asc",
+      "tags": [
+        "rugby-league",
+        "nrl",
+        "seasons"
+      ],
+      "answers": [
+        {
+          "answer": "South Sydney Rabbitohs",
+          "display": "#1 — 37 pts",
+          "aliases": [
+            "South Sydney",
+            "Souths",
+            "Rabbitohs"
+          ]
+        },
+        {
+          "answer": "Penrith Panthers",
+          "display": "#2 — 32 pts",
+          "aliases": [
+            "Penrith",
+            "Panthers"
+          ]
+        },
+        {
+          "answer": "Balmain Tigers",
+          "display": "#3 — 29 pts",
+          "aliases": [
+            "Balmain",
+            "Tigers"
+          ]
+        },
+        {
+          "answer": "Canberra Raiders",
+          "display": "#4 — 28 pts",
+          "aliases": [
+            "Canberra",
+            "Raiders"
+          ]
+        },
+        {
+          "answer": "Brisbane Broncos",
+          "display": "#5 — 28 pts",
+          "aliases": [
+            "Broncos",
+            "Brisbane"
+          ]
+        },
+        {
+          "answer": "Cronulla-Sutherland Sharks",
+          "display": "#6 — 28 pts",
+          "aliases": [
+            "Cronulla",
+            "Sharks"
+          ]
+        },
+        {
+          "answer": "Newcastle Knights",
+          "display": "#7 — 22 pts",
+          "aliases": [
+            "Newcastle",
+            "Knights"
+          ]
+        },
+        {
+          "answer": "Parramatta Eels",
+          "display": "#8 — 22 pts",
+          "aliases": [
+            "Parramatta",
+            "Eels"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/rugby-league/nrl",
+      "question": "Top 5 teams on the final 1990 NSWRL ladder (end of the regular season)",
+      "cutoff": 5,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1308724507 | table 2 | name: Team | value: 1 | order: asc",
+      "tags": [
+        "rugby-league",
+        "nrl",
+        "seasons"
+      ],
+      "answers": [
+        {
+          "answer": "Canberra Raiders",
+          "display": "#1 — 33 pts",
+          "aliases": [
+            "Canberra",
+            "Raiders"
+          ]
+        },
+        {
+          "answer": "Brisbane Broncos",
+          "display": "#2 — 33 pts",
+          "aliases": [
+            "Broncos",
+            "Brisbane"
+          ]
+        },
+        {
+          "answer": "Penrith Panthers",
+          "display": "#3 — 31 pts",
+          "aliases": [
+            "Penrith",
+            "Panthers"
+          ]
+        },
+        {
+          "answer": "Manly Warringah Sea Eagles",
+          "display": "#4 — 30 pts",
+          "aliases": [
+            "Manly",
+            "Sea Eagles"
+          ]
+        },
+        {
+          "answer": "Balmain Tigers",
+          "display": "#5 — 28 pts",
+          "aliases": [
+            "Balmain",
+            "Tigers"
+          ]
+        },
+        {
+          "answer": "Newcastle Knights",
+          "display": "#6 — 28 pts",
+          "aliases": [
+            "Newcastle",
+            "Knights"
+          ]
+        },
+        {
+          "answer": "Canterbury-Bankstown Bulldogs",
+          "display": "#7 — 25 pts",
+          "aliases": [
+            "Canterbury",
+            "Bulldogs"
+          ]
+        },
+        {
+          "answer": "Parramatta Eels",
+          "display": "#8 — 25 pts",
+          "aliases": [
+            "Parramatta",
+            "Eels"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/rugby-league/nrl",
+      "question": "Top 5 teams on the final 1991 NSWRL ladder (end of the regular season)",
+      "cutoff": 5,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1377674280 | table 2 | name: Team | value: 1 | order: asc",
+      "tags": [
+        "rugby-league",
+        "nrl",
+        "seasons"
+      ],
+      "answers": [
+        {
+          "answer": "Penrith Panthers",
+          "display": "#1 — 35 pts",
+          "aliases": [
+            "Penrith",
+            "Panthers"
+          ]
+        },
+        {
+          "answer": "Manly Warringah Sea Eagles",
+          "display": "#2 — 29 pts",
+          "aliases": [
+            "Manly",
+            "Sea Eagles"
+          ]
+        },
+        {
+          "answer": "North Sydney Bears",
+          "display": "#3 — 29 pts",
+          "aliases": [
+            "North Sydney",
+            "Bears"
+          ]
+        },
+        {
+          "answer": "Canberra Raiders",
+          "display": "#4 — 28 pts",
+          "aliases": [
+            "Canberra",
+            "Raiders"
+          ]
+        },
+        {
+          "answer": "Canterbury-Bankstown Bulldogs",
+          "display": "#5 — 27 pts",
+          "aliases": [
+            "Canterbury",
+            "Bulldogs"
+          ]
+        },
+        {
+          "answer": "Western Suburbs Magpies",
+          "display": "#6 — 27 pts",
+          "aliases": [
+            "Western Suburbs",
+            "Magpies"
+          ]
+        },
+        {
+          "answer": "Brisbane Broncos",
+          "display": "#7 — 26 pts",
+          "aliases": [
+            "Broncos",
+            "Brisbane"
+          ]
+        },
+        {
+          "answer": "Illawarra Steelers",
+          "display": "#8 — 25 pts",
+          "aliases": [
+            "Illawarra",
+            "Steelers"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/rugby-league/nrl",
+      "question": "Top 5 teams on the final 1992 NSWRL ladder (end of the regular season)",
+      "cutoff": 5,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1377681633 | table 1 | name: Team | value: 1 | order: asc",
+      "tags": [
+        "rugby-league",
+        "nrl",
+        "seasons"
+      ],
+      "answers": [
+        {
+          "answer": "Brisbane Broncos",
+          "display": "#1 — 36 pts",
+          "aliases": [
+            "Broncos",
+            "Brisbane"
+          ]
+        },
+        {
+          "answer": "St. George Dragons",
+          "display": "#2 — 30 pts",
+          "aliases": [
+            "St. George",
+            "Dragons"
+          ]
+        },
+        {
+          "answer": "Illawarra Steelers",
+          "display": "#3 — 27 pts",
+          "aliases": [
+            "Illawarra",
+            "Steelers"
+          ]
+        },
+        {
+          "answer": "Newcastle Knights",
+          "display": "#4 — 26 pts",
+          "aliases": [
+            "Newcastle",
+            "Knights"
+          ]
+        },
+        {
+          "answer": "Western Suburbs Magpies",
+          "display": "#5 — 25 pts",
+          "aliases": [
+            "Western Suburbs",
+            "Magpies"
+          ]
+        },
+        {
+          "answer": "Sydney Roosters",
+          "display": "#6 — 24 pts",
+          "aliases": [
+            "Roosters",
+            "Eastern Suburbs"
+          ]
+        },
+        {
+          "answer": "Canterbury-Bankstown Bulldogs",
+          "display": "#7 — 22 pts",
+          "aliases": [
+            "Canterbury",
+            "Bulldogs"
+          ]
+        },
+        {
+          "answer": "Manly Warringah Sea Eagles",
+          "display": "#8 — 22 pts",
+          "aliases": [
+            "Manly",
+            "Sea Eagles"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/rugby-league/nrl",
+      "question": "Top 5 teams on the final 1993 NSWRL ladder (end of the regular season)",
+      "cutoff": 5,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1371883745 | table 1 | name: Team | value: 1 | order: asc",
+      "tags": [
+        "rugby-league",
+        "nrl",
+        "seasons"
+      ],
+      "answers": [
+        {
+          "answer": "Canterbury-Bankstown Bulldogs",
+          "display": "#1 — 34 pts",
+          "aliases": [
+            "Canterbury",
+            "Bulldogs"
+          ]
+        },
+        {
+          "answer": "St. George Dragons",
+          "display": "#2 — 34 pts",
+          "aliases": [
+            "St. George",
+            "Dragons"
+          ]
+        },
+        {
+          "answer": "Canberra Raiders",
+          "display": "#3 — 33 pts",
+          "aliases": [
+            "Raiders"
+          ]
+        },
+        {
+          "answer": "Manly Warringah Sea Eagles",
+          "display": "#4 — 32 pts",
+          "aliases": [
+            "Manly",
+            "Sea Eagles"
+          ]
+        },
+        {
+          "answer": "Brisbane Broncos",
+          "display": "#5 — 32 pts",
+          "aliases": [
+            "Broncos",
+            "Brisbane"
+          ]
+        },
+        {
+          "answer": "North Sydney Bears",
+          "display": "#6 — 29 pts",
+          "aliases": [
+            "North Sydney",
+            "Bears"
+          ]
+        },
+        {
+          "answer": "Illawarra Steelers",
+          "display": "#7 — 24 pts",
+          "aliases": [
+            "Illawarra",
+            "Steelers"
+          ]
+        },
+        {
+          "answer": "Sydney Roosters",
+          "display": "#8 — 23 pts",
+          "aliases": [
+            "Eastern Suburbs Roosters",
+            "Roosters",
+            "Eastern Suburbs"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/rugby-league/nrl",
+      "question": "Top 5 teams on the final 1994 NSWRL ladder (end of the regular season)",
+      "cutoff": 5,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1305459012 | table 2 | name: Team | value: 1 | order: asc",
+      "tags": [
+        "rugby-league",
+        "nrl",
+        "seasons"
+      ],
+      "answers": [
+        {
+          "answer": "Canterbury-Bankstown Bulldogs",
+          "display": "#1 — 36 pts",
+          "aliases": [
+            "Canterbury",
+            "Bulldogs"
+          ]
+        },
+        {
+          "answer": "North Sydney Bears",
+          "display": "#2 — 35 pts",
+          "aliases": [
+            "North Sydney",
+            "Bears"
+          ]
+        },
+        {
+          "answer": "Canberra Raiders",
+          "display": "#3 — 34 pts",
+          "aliases": [
+            "Raiders"
+          ]
+        },
+        {
+          "answer": "Manly Warringah Sea Eagles",
+          "display": "#4 — 33 pts",
+          "aliases": [
+            "Manly",
+            "Sea Eagles"
+          ]
+        },
+        {
+          "answer": "Brisbane Broncos",
+          "display": "#5 — 27 pts",
+          "aliases": [
+            "Broncos",
+            "Brisbane"
+          ]
+        },
+        {
+          "answer": "Illawarra Steelers",
+          "display": "#6 — 25 pts",
+          "aliases": [
+            "Illawarra",
+            "Steelers"
+          ]
+        },
+        {
+          "answer": "Cronulla-Sutherland Sharks",
+          "display": "#7 — 24 pts",
+          "aliases": [
+            "Cronulla",
+            "Sharks"
+          ]
+        },
+        {
+          "answer": "Penrith Panthers",
+          "display": "#8 — 22 pts",
+          "aliases": [
+            "Panthers"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/rugby-league/nrl",
+      "question": "Top 7 teams on the final 1995 ARL ladder (end of the regular season)",
+      "cutoff": 7,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1376169147 | table 1 | name: Team | value: 1 | order: asc",
+      "tags": [
+        "rugby-league",
+        "nrl",
+        "seasons"
+      ],
+      "answers": [
+        {
+          "answer": "Manly Warringah Sea Eagles",
+          "display": "#1 — 40 pts",
+          "aliases": [
+            "Manly Sea Eagles",
+            "Manly",
+            "Sea Eagles"
+          ]
+        },
+        {
+          "answer": "Canberra Raiders",
+          "display": "#2 — 40 pts",
+          "aliases": [
+            "Raiders"
+          ]
+        },
+        {
+          "answer": "Brisbane Broncos",
+          "display": "#3 — 34 pts",
+          "aliases": [
+            "Broncos",
+            "Brisbane"
+          ]
+        },
+        {
+          "answer": "Cronulla-Sutherland Sharks",
+          "display": "#4 — 32 pts",
+          "aliases": [
+            "Cronulla Sharks",
+            "Cronulla",
+            "Sharks"
+          ]
+        },
+        {
+          "answer": "Newcastle Knights",
+          "display": "#5 — 30 pts",
+          "aliases": [
+            "Knights"
+          ]
+        },
+        {
+          "answer": "Sydney Bulldogs",
+          "display": "#6 — 28 pts",
+          "aliases": [
+            "Bulldogs"
+          ]
+        },
+        {
+          "answer": "St. George Dragons",
+          "display": "#7 — 26 pts",
+          "aliases": [
+            "St. George",
+            "Dragons"
+          ]
+        },
+        {
+          "answer": "North Sydney Bears",
+          "display": "#8 — 24 pts",
+          "aliases": [
+            "North Sydney",
+            "Bears"
+          ]
+        },
+        {
+          "answer": "Sydney Roosters",
+          "display": "#9 — 24 pts",
+          "aliases": [
+            "Roosters",
+            "Sydney City Roosters"
+          ]
+        },
+        {
+          "answer": "New Zealand Warriors",
+          "display": "#10 — 24 pts",
+          "aliases": [
+            "Warriors",
+            "Auckland Warriors"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/rugby-league/nrl",
+      "question": "Top 7 teams on the final 1996 ARL ladder (end of the regular season)",
+      "cutoff": 7,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1369090824 | table 2 | name: Team | value: 1 | order: asc",
+      "tags": [
+        "rugby-league",
+        "nrl",
+        "seasons"
+      ],
+      "answers": [
+        {
+          "answer": "Manly Warringah Sea Eagles",
+          "display": "#1 — 36 pts",
+          "aliases": [
+            "Manly",
+            "Sea Eagles"
+          ]
+        },
+        {
+          "answer": "Brisbane Broncos",
+          "display": "#2 — 34 pts",
+          "aliases": [
+            "Broncos",
+            "Brisbane"
+          ]
+        },
+        {
+          "answer": "North Sydney Bears",
+          "display": "#3 — 32 pts",
+          "aliases": [
+            "North Sydney",
+            "Bears"
+          ]
+        },
+        {
+          "answer": "Sydney Roosters",
+          "display": "#4 — 31 pts",
+          "aliases": [
+            "Roosters",
+            "Sydney City Roosters"
+          ]
+        },
+        {
+          "answer": "Cronulla-Sutherland Sharks",
+          "display": "#5 — 30 pts",
+          "aliases": [
+            "Cronulla",
+            "Sharks"
+          ]
+        },
+        {
+          "answer": "Canberra Raiders",
+          "display": "#6 — 27 pts",
+          "aliases": [
+            "Canberra",
+            "Raiders"
+          ]
+        },
+        {
+          "answer": "St. George Dragons",
+          "display": "#7 — 27 pts",
+          "aliases": [
+            "St. George",
+            "Dragons"
+          ]
+        },
+        {
+          "answer": "Western Suburbs Magpies",
+          "display": "#8 — 25 pts",
+          "aliases": [
+            "Western Suburbs",
+            "Magpies"
+          ]
+        },
+        {
+          "answer": "Newcastle Knights",
+          "display": "#9 — 23 pts",
+          "aliases": [
+            "Newcastle",
+            "Knights"
+          ]
+        },
+        {
+          "answer": "Canterbury-Bankstown Bulldogs",
+          "display": "#10 — 22 pts",
+          "aliases": [
+            "Canterbury",
+            "Bulldogs"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/rugby-league/nrl",
+      "question": "Top 7 teams on the final 1998 NRL ladder (end of the regular season)",
+      "cutoff": 7,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1376325924 | table 1 | name: Team | value: 1 | order: asc",
+      "tags": [
+        "rugby-league",
+        "nrl",
+        "seasons"
+      ],
+      "answers": [
+        {
+          "answer": "Brisbane Broncos",
+          "display": "#1 — 37 pts",
+          "aliases": [
+            "Broncos",
+            "Brisbane"
+          ]
+        },
+        {
+          "answer": "Newcastle Knights",
+          "display": "#2 — 37 pts",
+          "aliases": [
+            "Knights"
+          ]
+        },
+        {
+          "answer": "Melbourne Storm",
+          "display": "#3 — 35 pts",
+          "aliases": [
+            "Storm"
+          ]
+        },
+        {
+          "answer": "Parramatta Eels",
+          "display": "#4 — 35 pts",
+          "aliases": [
+            "Parramatta",
+            "Eels"
+          ]
+        },
+        {
+          "answer": "North Sydney Bears",
+          "display": "#5 — 34 pts",
+          "aliases": [
+            "North Sydney",
+            "Bears"
+          ]
+        },
+        {
+          "answer": "Sydney Roosters",
+          "display": "#6 — 32 pts",
+          "aliases": [
+            "Roosters",
+            "Sydney City Roosters"
+          ]
+        },
+        {
+          "answer": "Canberra Raiders",
+          "display": "#7 — 30 pts",
+          "aliases": [
+            "Raiders"
+          ]
+        },
+        {
+          "answer": "St. George Dragons",
+          "display": "#8 — 27 pts",
+          "aliases": [
+            "St. George",
+            "Dragons"
+          ]
+        },
+        {
+          "answer": "Canterbury-Bankstown Bulldogs",
+          "display": "#9 — 26 pts",
+          "aliases": [
+            "Canterbury",
+            "Bulldogs"
+          ]
+        },
+        {
+          "answer": "Manly Warringah Sea Eagles",
+          "display": "#10 — 26 pts",
+          "aliases": [
+            "Manly",
+            "Sea Eagles"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/rugby-league/nrl",
+      "question": "Top 5 teams on the final 1999 NRL ladder (end of the regular season)",
+      "cutoff": 5,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1302446410 | table 1 | name: Team | value: Pos | header rows: 2 | order: asc",
+      "tags": [
+        "rugby-league",
+        "nrl",
+        "seasons"
+      ],
+      "answers": [
+        {
+          "answer": "Cronulla-Sutherland Sharks",
+          "display": "#1 — 40 pts",
+          "aliases": [
+            "Cronulla",
+            "Sharks"
+          ]
+        },
+        {
+          "answer": "Parramatta Eels",
+          "display": "#2 — 38 pts",
+          "aliases": [
+            "Parramatta",
+            "Eels"
+          ]
+        },
+        {
+          "answer": "Melbourne Storm",
+          "display": "#3 — 36 pts",
+          "aliases": [
+            "Storm"
+          ]
+        },
+        {
+          "answer": "Sydney Roosters",
+          "display": "#4 — 36 pts",
+          "aliases": [
+            "Roosters",
+            "Sydney City Roosters"
+          ]
+        },
+        {
+          "answer": "Canterbury-Bankstown Bulldogs",
+          "display": "#5 — 35 pts",
+          "aliases": [
+            "Canterbury",
+            "Bulldogs"
+          ]
+        },
+        {
+          "answer": "St. George Illawarra Dragons",
+          "display": "#6 — 34 pts",
+          "aliases": [
+            "Dragons"
+          ]
+        },
+        {
+          "answer": "Newcastle Knights",
+          "display": "#7 — 33 pts",
+          "aliases": [
+            "Knights"
+          ]
+        },
+        {
+          "answer": "Brisbane Broncos",
+          "display": "#8 — 32 pts",
+          "aliases": [
+            "Broncos",
+            "Brisbane"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/rugby-league/nrl",
+      "question": "Top 5 teams on the final 2007 NRL ladder (end of the regular season)",
+      "cutoff": 5,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1374196651 | table 1 | name: Team | value: Pos | header rows: 2 | order: asc",
+      "tags": [
+        "rugby-league",
+        "nrl",
+        "seasons"
+      ],
+      "answers": [
+        {
+          "answer": "Melbourne Storm",
+          "display": "#1 — 44 pts",
+          "aliases": [
+            "Storm"
+          ]
+        },
+        {
+          "answer": "Manly Warringah Sea Eagles",
+          "display": "#2 — 38 pts",
+          "aliases": [
+            "Manly-Warringah Sea Eagles",
+            "Manly",
+            "Sea Eagles"
+          ]
+        },
+        {
+          "answer": "North Queensland Cowboys",
+          "display": "#3 — 32 pts",
+          "aliases": [
+            "Cowboys"
+          ]
+        },
+        {
+          "answer": "New Zealand Warriors",
+          "display": "#4 — 29 pts",
+          "aliases": [
+            "Warriors"
+          ]
+        },
+        {
+          "answer": "Parramatta Eels",
+          "display": "#5 — 28 pts",
+          "aliases": [
+            "Parramatta",
+            "Eels"
+          ]
+        },
+        {
+          "answer": "Canterbury-Bankstown Bulldogs",
+          "display": "#6 — 26 pts",
+          "aliases": [
+            "Canterbury",
+            "Bulldogs"
+          ]
+        },
+        {
+          "answer": "South Sydney Rabbitohs",
+          "display": "#7 — 26 pts",
+          "aliases": [
+            "Souths",
+            "Rabbitohs"
+          ]
+        },
+        {
+          "answer": "Brisbane Broncos",
+          "display": "#8 — 24 pts",
+          "aliases": [
+            "Broncos",
+            "Brisbane"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/rugby-league/nrl",
+      "question": "Top 5 teams on the final 2008 NRL ladder (end of the regular season)",
+      "cutoff": 5,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1374196680 | table 2 | name: Team | value: Pos | header rows: 2 | order: asc",
+      "tags": [
+        "rugby-league",
+        "nrl",
+        "seasons"
+      ],
+      "answers": [
+        {
+          "answer": "Melbourne Storm",
+          "display": "#1 — 38 pts",
+          "aliases": [
+            "Storm"
+          ]
+        },
+        {
+          "answer": "Manly Warringah Sea Eagles",
+          "display": "#2 — 38 pts",
+          "aliases": [
+            "Manly",
+            "Sea Eagles"
+          ]
+        },
+        {
+          "answer": "Cronulla-Sutherland Sharks",
+          "display": "#3 — 38 pts",
+          "aliases": [
+            "Cronulla",
+            "Sharks"
+          ]
+        },
+        {
+          "answer": "Sydney Roosters",
+          "display": "#4 — 34 pts",
+          "aliases": [
+            "Roosters"
+          ]
+        },
+        {
+          "answer": "Brisbane Broncos",
+          "display": "#5 — 33 pts",
+          "aliases": [
+            "Broncos",
+            "Brisbane"
+          ]
+        },
+        {
+          "answer": "Canberra Raiders",
+          "display": "#6 — 30 pts",
+          "aliases": [
+            "Raiders"
+          ]
+        },
+        {
+          "answer": "St. George Illawarra Dragons",
+          "display": "#7 — 30 pts",
+          "aliases": [
+            "St George Illawarra Dragons",
+            "Dragons"
+          ]
+        },
+        {
+          "answer": "New Zealand Warriors",
+          "display": "#8 — 30 pts",
+          "aliases": [
+            "Warriors"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/rugby-league/nrl",
+      "question": "Top 5 teams on the final 2009 NRL ladder (end of the regular season)",
+      "cutoff": 5,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1374973073 | table 1 | name: Team | value: Pos | header rows: 2 | order: asc",
+      "tags": [
+        "rugby-league",
+        "nrl",
+        "seasons"
+      ],
+      "answers": [
+        {
+          "answer": "St. George Illawarra Dragons",
+          "display": "#1 — 38 pts",
+          "aliases": [
+            "Dragons"
+          ]
+        },
+        {
+          "answer": "Canterbury-Bankstown Bulldogs",
+          "display": "#2 — 38 pts",
+          "aliases": [
+            "Canterbury",
+            "Bulldogs"
+          ]
+        },
+        {
+          "answer": "Gold Coast Titans",
+          "display": "#3 — 36 pts",
+          "aliases": [
+            "Titans"
+          ]
+        },
+        {
+          "answer": "Melbourne Storm",
+          "display": "#4 — 33 pts",
+          "aliases": [
+            "Storm"
+          ]
+        },
+        {
+          "answer": "Manly Warringah Sea Eagles",
+          "display": "#5 — 32 pts",
+          "aliases": [
+            "Manly-Warringah Sea Eagles",
+            "Manly",
+            "Sea Eagles"
+          ]
+        },
+        {
+          "answer": "Brisbane Broncos",
+          "display": "#6 — 32 pts",
+          "aliases": [
+            "Broncos",
+            "Brisbane"
+          ]
+        },
+        {
+          "answer": "Newcastle Knights",
+          "display": "#7 — 30 pts",
+          "aliases": [
+            "Knights"
+          ]
+        },
+        {
+          "answer": "Parramatta Eels",
+          "display": "#8 — 29 pts",
+          "aliases": [
+            "Parramatta",
+            "Eels"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/rugby-league/nrl",
+      "question": "Top 5 teams on the final 2010 NRL ladder (end of the regular season)",
+      "cutoff": 5,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1376191605 | table 2 | name: Team | value: Pos | header rows: 2 | order: asc",
+      "tags": [
+        "rugby-league",
+        "nrl",
+        "seasons"
+      ],
+      "answers": [
+        {
+          "answer": "St. George Illawarra Dragons",
+          "display": "#1 — 38 pts",
+          "aliases": [
+            "Dragons"
+          ]
+        },
+        {
+          "answer": "Penrith Panthers",
+          "display": "#2 — 34 pts",
+          "aliases": [
+            "Panthers"
+          ]
+        },
+        {
+          "answer": "Wests Tigers",
+          "display": "#3 — 34 pts",
+          "aliases": [
+            "Tigers"
+          ]
+        },
+        {
+          "answer": "Gold Coast Titans",
+          "display": "#4 — 34 pts",
+          "aliases": [
+            "Titans"
+          ]
+        },
+        {
+          "answer": "New Zealand Warriors",
+          "display": "#5 — 32 pts",
+          "aliases": [
+            "Warriors"
+          ]
+        },
+        {
+          "answer": "Sydney Roosters",
+          "display": "#6 — 32 pts",
+          "aliases": [
+            "Roosters"
+          ]
+        },
+        {
+          "answer": "Canberra Raiders",
+          "display": "#7 — 30 pts",
+          "aliases": [
+            "Raiders"
+          ]
+        },
+        {
+          "answer": "Manly Warringah Sea Eagles",
+          "display": "#8 — 28 pts",
+          "aliases": [
+            "Manly",
+            "Sea Eagles"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/rugby-league/nrl",
+      "question": "Top 5 teams on the final 2011 NRL ladder (end of the regular season)",
+      "cutoff": 5,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1370614373 | table 2 | name: Team | value: Pos | header rows: 2 | order: asc",
+      "tags": [
+        "rugby-league",
+        "nrl",
+        "seasons"
+      ],
+      "answers": [
+        {
+          "answer": "Melbourne Storm",
+          "display": "#1 — 42 pts",
+          "aliases": [
+            "Storm"
+          ]
+        },
+        {
+          "answer": "Manly Warringah Sea Eagles",
+          "display": "#2 — 40 pts",
+          "aliases": [
+            "Manly",
+            "Sea Eagles"
+          ]
+        },
+        {
+          "answer": "Brisbane Broncos",
+          "display": "#3 — 40 pts",
+          "aliases": [
+            "Broncos",
+            "Brisbane"
+          ]
+        },
+        {
+          "answer": "Wests Tigers",
+          "display": "#4 — 34 pts",
+          "aliases": [
+            "Tigers"
+          ]
+        },
+        {
+          "answer": "St. George Illawarra Dragons",
+          "display": "#5 — 33 pts",
+          "aliases": [
+            "Dragons"
+          ]
+        },
+        {
+          "answer": "New Zealand Warriors",
+          "display": "#6 — 32 pts",
+          "aliases": [
+            "Warriors"
+          ]
+        },
+        {
+          "answer": "North Queensland Cowboys",
+          "display": "#7 — 32 pts",
+          "aliases": [
+            "Cowboys"
+          ]
+        },
+        {
+          "answer": "Newcastle Knights",
+          "display": "#8 — 28 pts",
+          "aliases": [
+            "Knights"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/rugby-league/nrl",
+      "question": "Top 5 teams on the final 2012 NRL ladder (end of the regular season)",
+      "cutoff": 5,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1371846882 | table 1 | name: Team | value: Pos | header rows: 2 | order: asc",
+      "tags": [
+        "rugby-league",
+        "nrl",
+        "seasons"
+      ],
+      "answers": [
+        {
+          "answer": "Canterbury-Bankstown Bulldogs",
+          "display": "#1 — 40 pts",
+          "aliases": [
+            "Canterbury",
+            "Bulldogs"
+          ]
+        },
+        {
+          "answer": "Melbourne Storm",
+          "display": "#2 — 38 pts",
+          "aliases": [
+            "Storm"
+          ]
+        },
+        {
+          "answer": "South Sydney Rabbitohs",
+          "display": "#3 — 36 pts",
+          "aliases": [
+            "Souths",
+            "Rabbitohs"
+          ]
+        },
+        {
+          "answer": "Manly Warringah Sea Eagles",
+          "display": "#4 — 36 pts",
+          "aliases": [
+            "Manly",
+            "Sea Eagles"
+          ]
+        },
+        {
+          "answer": "North Queensland Cowboys",
+          "display": "#5 — 34 pts",
+          "aliases": [
+            "Cowboys"
+          ]
+        },
+        {
+          "answer": "Canberra Raiders",
+          "display": "#6 — 30 pts",
+          "aliases": [
+            "Raiders"
+          ]
+        },
+        {
+          "answer": "Cronulla-Sutherland Sharks",
+          "display": "#7 — 29 pts",
+          "aliases": [
+            "Cronulla",
+            "Sharks"
+          ]
+        },
+        {
+          "answer": "Brisbane Broncos",
+          "display": "#8 — 28 pts",
+          "aliases": [
+            "Broncos",
+            "Brisbane"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/rugby-league/nrl",
+      "question": "Top 5 teams on the final 2013 NRL ladder (end of the regular season)",
+      "cutoff": 5,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1372305439 | table 2 | name: Team | value: Pos | header rows: 2 | order: asc",
+      "tags": [
+        "rugby-league",
+        "nrl",
+        "seasons"
+      ],
+      "answers": [
+        {
+          "answer": "Sydney Roosters",
+          "display": "#1 — 40 pts",
+          "aliases": [
+            "Roosters"
+          ]
+        },
+        {
+          "answer": "South Sydney Rabbitohs",
+          "display": "#2 — 40 pts",
+          "aliases": [
+            "Souths",
+            "Rabbitohs"
+          ]
+        },
+        {
+          "answer": "Melbourne Storm",
+          "display": "#3 — 37 pts",
+          "aliases": [
+            "Storm"
+          ]
+        },
+        {
+          "answer": "Manly Warringah Sea Eagles",
+          "display": "#4 — 35 pts",
+          "aliases": [
+            "Manly",
+            "Sea Eagles"
+          ]
+        },
+        {
+          "answer": "Cronulla-Sutherland Sharks",
+          "display": "#5 — 32 pts",
+          "aliases": [
+            "Cronulla",
+            "Sharks"
+          ]
+        },
+        {
+          "answer": "Canterbury-Bankstown Bulldogs",
+          "display": "#6 — 30 pts",
+          "aliases": [
+            "Canterbury",
+            "Bulldogs"
+          ]
+        },
+        {
+          "answer": "Newcastle Knights",
+          "display": "#7 — 29 pts",
+          "aliases": [
+            "Knights"
+          ]
+        },
+        {
+          "answer": "North Queensland Cowboys",
+          "display": "#8 — 28 pts",
+          "aliases": [
+            "Cowboys"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/rugby-league/nrl",
+      "question": "Top 5 teams on the final 2014 NRL ladder (end of the regular season)",
+      "cutoff": 5,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1371847063 | table 3 | name: Team | value: Pos | header rows: 2 | order: asc",
+      "tags": [
+        "rugby-league",
+        "nrl",
+        "seasons"
+      ],
+      "answers": [
+        {
+          "answer": "Sydney Roosters",
+          "display": "#1 — 36 pts",
+          "aliases": [
+            "Roosters"
+          ]
+        },
+        {
+          "answer": "Manly Warringah Sea Eagles",
+          "display": "#2 — 36 pts",
+          "aliases": [
+            "Manly",
+            "Sea Eagles"
+          ]
+        },
+        {
+          "answer": "South Sydney Rabbitohs",
+          "display": "#3 — 34 pts",
+          "aliases": [
+            "Souths",
+            "Rabbitohs"
+          ]
+        },
+        {
+          "answer": "Penrith Panthers",
+          "display": "#4 — 34 pts",
+          "aliases": [
+            "Panthers"
+          ]
+        },
+        {
+          "answer": "North Queensland Cowboys",
+          "display": "#5 — 32 pts",
+          "aliases": [
+            "Cowboys"
+          ]
+        },
+        {
+          "answer": "Melbourne Storm",
+          "display": "#6 — 32 pts",
+          "aliases": [
+            "Storm"
+          ]
+        },
+        {
+          "answer": "Canterbury-Bankstown Bulldogs",
+          "display": "#7 — 30 pts",
+          "aliases": [
+            "Canterbury",
+            "Bulldogs"
+          ]
+        },
+        {
+          "answer": "Brisbane Broncos",
+          "display": "#8 — 28 pts",
+          "aliases": [
+            "Broncos",
+            "Brisbane"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/rugby-league/nrl",
+      "question": "Top 5 teams on the final 2015 NRL ladder (end of the regular season)",
+      "cutoff": 5,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1371847079 | table 3 | name: Team | value: Pos | header rows: 2 | order: asc",
+      "tags": [
+        "rugby-league",
+        "nrl",
+        "seasons"
+      ],
+      "answers": [
+        {
+          "answer": "Sydney Roosters",
+          "display": "#1 — 40 pts",
+          "aliases": [
+            "Roosters"
+          ]
+        },
+        {
+          "answer": "Brisbane Broncos",
+          "display": "#2 — 38 pts",
+          "aliases": [
+            "Broncos",
+            "Brisbane"
+          ]
+        },
+        {
+          "answer": "North Queensland Cowboys",
+          "display": "#3 — 38 pts",
+          "aliases": [
+            "Cowboys"
+          ]
+        },
+        {
+          "answer": "Melbourne Storm",
+          "display": "#4 — 32 pts",
+          "aliases": [
+            "Storm"
+          ]
+        },
+        {
+          "answer": "Canterbury-Bankstown Bulldogs",
+          "display": "#5 — 32 pts",
+          "aliases": [
+            "Canterbury",
+            "Bulldogs"
+          ]
+        },
+        {
+          "answer": "Cronulla-Sutherland Sharks",
+          "display": "#6 — 32 pts",
+          "aliases": [
+            "Cronulla",
+            "Sharks"
+          ]
+        },
+        {
+          "answer": "South Sydney Rabbitohs",
+          "display": "#7 — 30 pts",
+          "aliases": [
+            "Souths",
+            "Rabbitohs"
+          ]
+        },
+        {
+          "answer": "St. George Illawarra Dragons",
+          "display": "#8 — 28 pts",
+          "aliases": [
+            "Dragons"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/rugby-league/nrl",
+      "question": "Top 5 teams on the final 2016 NRL ladder (end of the regular season)",
+      "cutoff": 5,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1303716270 | table 3 | name: Team | value: Pos | header rows: 2 | order: asc",
+      "tags": [
+        "rugby-league",
+        "nrl",
+        "seasons"
+      ],
+      "answers": [
+        {
+          "answer": "Melbourne Storm",
+          "display": "#1 — 42 pts",
+          "aliases": [
+            "Storm"
+          ]
+        },
+        {
+          "answer": "Canberra Raiders",
+          "display": "#2 — 39 pts",
+          "aliases": [
+            "Raiders"
+          ]
+        },
+        {
+          "answer": "Cronulla-Sutherland Sharks",
+          "display": "#3 — 39 pts",
+          "aliases": [
+            "Cronulla",
+            "Sharks"
+          ]
+        },
+        {
+          "answer": "North Queensland Cowboys",
+          "display": "#4 — 34 pts",
+          "aliases": [
+            "Cowboys"
+          ]
+        },
+        {
+          "answer": "Brisbane Broncos",
+          "display": "#5 — 34 pts",
+          "aliases": [
+            "Broncos",
+            "Brisbane"
+          ]
+        },
+        {
+          "answer": "Penrith Panthers",
+          "display": "#6 — 32 pts",
+          "aliases": [
+            "Panthers"
+          ]
+        },
+        {
+          "answer": "Canterbury-Bankstown Bulldogs",
+          "display": "#7 — 32 pts",
+          "aliases": [
+            "Canterbury",
+            "Bulldogs"
+          ]
+        },
+        {
+          "answer": "Gold Coast Titans",
+          "display": "#8 — 27 pts",
+          "aliases": [
+            "Titans"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/rugby-league/nrl",
+      "question": "Top 5 teams on the final 2017 NRL ladder (end of the regular season)",
+      "cutoff": 5,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1285909588 | table 3 | name: Team | value: Pos | header rows: 2 | order: asc",
+      "tags": [
+        "rugby-league",
+        "nrl",
+        "seasons"
+      ],
+      "answers": [
+        {
+          "answer": "Melbourne Storm",
+          "display": "#1 — 44 pts",
+          "aliases": [
+            "Storm"
+          ]
+        },
+        {
+          "answer": "Sydney Roosters",
+          "display": "#2 — 38 pts",
+          "aliases": [
+            "Roosters"
+          ]
+        },
+        {
+          "answer": "Brisbane Broncos",
+          "display": "#3 — 36 pts",
+          "aliases": [
+            "Broncos",
+            "Brisbane"
+          ]
+        },
+        {
+          "answer": "Parramatta Eels",
+          "display": "#4 — 36 pts",
+          "aliases": [
+            "Parramatta",
+            "Eels"
+          ]
+        },
+        {
+          "answer": "Cronulla-Sutherland Sharks",
+          "display": "#5 — 34 pts",
+          "aliases": [
+            "Cronulla",
+            "Sharks"
+          ]
+        },
+        {
+          "answer": "Manly Warringah Sea Eagles",
+          "display": "#6 — 32 pts",
+          "aliases": [
+            "Manly-Warringah Sea Eagles",
+            "Manly",
+            "Sea Eagles"
+          ]
+        },
+        {
+          "answer": "Penrith Panthers",
+          "display": "#7 — 30 pts",
+          "aliases": [
+            "Panthers"
+          ]
+        },
+        {
+          "answer": "North Queensland Cowboys",
+          "display": "#8 — 30 pts",
+          "aliases": [
+            "Cowboys"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/rugby-league/nrl",
+      "question": "Top 5 teams on the final 2018 NRL ladder (end of the regular season)",
+      "cutoff": 5,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1361572529 | table 3 | name: Team | value: Pos | order: asc",
+      "tags": [
+        "rugby-league",
+        "nrl",
+        "seasons"
+      ],
+      "answers": [
+        {
+          "answer": "Sydney Roosters",
+          "display": "#1 — 34 pts",
+          "aliases": [
+            "Roosters"
+          ]
+        },
+        {
+          "answer": "Melbourne Storm",
+          "display": "#2 — 34 pts",
+          "aliases": [
+            "Storm"
+          ]
+        },
+        {
+          "answer": "South Sydney Rabbitohs",
+          "display": "#3 — 34 pts",
+          "aliases": [
+            "Souths",
+            "Rabbitohs"
+          ]
+        },
+        {
+          "answer": "Cronulla-Sutherland Sharks",
+          "display": "#4 — 34 pts",
+          "aliases": [
+            "Cronulla",
+            "Sharks"
+          ]
+        },
+        {
+          "answer": "Penrith Panthers",
+          "display": "#5 — 32 pts",
+          "aliases": [
+            "Panthers"
+          ]
+        },
+        {
+          "answer": "Brisbane Broncos",
+          "display": "#6 — 32 pts",
+          "aliases": [
+            "Broncos",
+            "Brisbane"
+          ]
+        },
+        {
+          "answer": "St. George Illawarra Dragons",
+          "display": "#7 — 32 pts",
+          "aliases": [
+            "Dragons"
+          ]
+        },
+        {
+          "answer": "New Zealand Warriors",
+          "display": "#8 — 32 pts",
+          "aliases": [
+            "Warriors"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/rugby-league/nrl",
+      "question": "Top 5 teams on the final 2019 NRL ladder (end of the regular season)",
+      "cutoff": 5,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1333313958 | table 3 | name: Team | value: Pos | header rows: 2 | order: asc",
+      "tags": [
+        "rugby-league",
+        "nrl",
+        "seasons"
+      ],
+      "answers": [
+        {
+          "answer": "Melbourne Storm",
+          "display": "#1 — 42 pts",
+          "aliases": [
+            "Storm"
+          ]
+        },
+        {
+          "answer": "Sydney Roosters",
+          "display": "#2 — 36 pts",
+          "aliases": [
+            "Roosters"
+          ]
+        },
+        {
+          "answer": "South Sydney Rabbitohs",
+          "display": "#3 — 34 pts",
+          "aliases": [
+            "Souths",
+            "Rabbitohs"
+          ]
+        },
+        {
+          "answer": "Canberra Raiders",
+          "display": "#4 — 32 pts",
+          "aliases": [
+            "Raiders"
+          ]
+        },
+        {
+          "answer": "Parramatta Eels",
+          "display": "#5 — 30 pts",
+          "aliases": [
+            "Parramatta",
+            "Eels"
+          ]
+        },
+        {
+          "answer": "Manly Warringah Sea Eagles",
+          "display": "#6 — 30 pts",
+          "aliases": [
+            "Manly-Warringah Sea Eagles",
+            "Manly",
+            "Sea Eagles"
+          ]
+        },
+        {
+          "answer": "Cronulla-Sutherland Sharks",
+          "display": "#7 — 26 pts",
+          "aliases": [
+            "Cronulla",
+            "Sharks"
+          ]
+        },
+        {
+          "answer": "Brisbane Broncos",
+          "display": "#8 — 25 pts",
+          "aliases": [
+            "Broncos",
+            "Brisbane"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/rugby-league/nrl",
+      "question": "Top 5 teams on the final 2020 NRL ladder (end of the regular season)",
+      "cutoff": 5,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1327745833 | table 3 | name: Team | value: Pos | order: asc",
+      "tags": [
+        "rugby-league",
+        "nrl",
+        "seasons"
+      ],
+      "answers": [
+        {
+          "answer": "Penrith Panthers",
+          "display": "#1 — 37 pts",
+          "aliases": [
+            "Panthers"
+          ]
+        },
+        {
+          "answer": "Melbourne Storm",
+          "display": "#2 — 32 pts",
+          "aliases": [
+            "Storm"
+          ]
+        },
+        {
+          "answer": "Parramatta Eels",
+          "display": "#3 — 30 pts",
+          "aliases": [
+            "Parramatta",
+            "Eels"
+          ]
+        },
+        {
+          "answer": "Sydney Roosters",
+          "display": "#4 — 28 pts",
+          "aliases": [
+            "Roosters"
+          ]
+        },
+        {
+          "answer": "Canberra Raiders",
+          "display": "#5 — 28 pts",
+          "aliases": [
+            "Raiders"
+          ]
+        },
+        {
+          "answer": "South Sydney Rabbitohs",
+          "display": "#6 — 24 pts",
+          "aliases": [
+            "Souths",
+            "Rabbitohs"
+          ]
+        },
+        {
+          "answer": "Newcastle Knights",
+          "display": "#7 — 23 pts",
+          "aliases": [
+            "Knights"
+          ]
+        },
+        {
+          "answer": "Cronulla-Sutherland Sharks",
+          "display": "#8 — 20 pts",
+          "aliases": [
+            "Cronulla",
+            "Sharks"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/rugby-league/nrl",
+      "question": "Top 5 teams on the final 2021 NRL ladder (end of the regular season)",
+      "cutoff": 5,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1341364182 | table 3 | name: Team | value: Pos | order: asc",
+      "tags": [
+        "rugby-league",
+        "nrl",
+        "seasons"
+      ],
+      "answers": [
+        {
+          "answer": "Melbourne Storm",
+          "display": "#1 — 44 pts",
+          "aliases": [
+            "Storm"
+          ]
+        },
+        {
+          "answer": "Penrith Panthers",
+          "display": "#2 — 44 pts",
+          "aliases": [
+            "Panthers"
+          ]
+        },
+        {
+          "answer": "South Sydney Rabbitohs",
+          "display": "#3 — 42 pts",
+          "aliases": [
+            "Souths",
+            "Rabbitohs"
+          ]
+        },
+        {
+          "answer": "Manly Warringah Sea Eagles",
+          "display": "#4 — 34 pts",
+          "aliases": [
+            "Manly-Warringah Sea Eagles",
+            "Manly",
+            "Sea Eagles"
+          ]
+        },
+        {
+          "answer": "Sydney Roosters",
+          "display": "#5 — 34 pts",
+          "aliases": [
+            "Roosters"
+          ]
+        },
+        {
+          "answer": "Parramatta Eels",
+          "display": "#6 — 32 pts",
+          "aliases": [
+            "Parramatta",
+            "Eels"
+          ]
+        },
+        {
+          "answer": "Newcastle Knights",
+          "display": "#7 — 26 pts",
+          "aliases": [
+            "Knights"
+          ]
+        },
+        {
+          "answer": "Gold Coast Titans",
+          "display": "#8 — 22 pts",
+          "aliases": [
+            "Titans"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/rugby-league/nrl",
+      "question": "Top 5 teams on the final 2022 NRL ladder (end of the regular season)",
+      "cutoff": 5,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1327745154 | table 4 | name: Team | value: Pos | header rows: 2 | order: asc",
+      "tags": [
+        "rugby-league",
+        "nrl",
+        "seasons"
+      ],
+      "answers": [
+        {
+          "answer": "Penrith Panthers",
+          "display": "#1 — 42 pts",
+          "aliases": [
+            "Panthers"
+          ]
+        },
+        {
+          "answer": "Cronulla-Sutherland Sharks",
+          "display": "#2 — 38 pts",
+          "aliases": [
+            "Cronulla",
+            "Sharks"
+          ]
+        },
+        {
+          "answer": "North Queensland Cowboys",
+          "display": "#3 — 36 pts",
+          "aliases": [
+            "Cowboys"
+          ]
+        },
+        {
+          "answer": "Parramatta Eels",
+          "display": "#4 — 34 pts",
+          "aliases": [
+            "Parramatta",
+            "Eels"
+          ]
+        },
+        {
+          "answer": "Melbourne Storm",
+          "display": "#5 — 32 pts",
+          "aliases": [
+            "Storm"
+          ]
+        },
+        {
+          "answer": "Sydney Roosters",
+          "display": "#6 — 32 pts",
+          "aliases": [
+            "Roosters"
+          ]
+        },
+        {
+          "answer": "South Sydney Rabbitohs",
+          "display": "#7 — 30 pts",
+          "aliases": [
+            "Souths",
+            "Rabbitohs"
+          ]
+        },
+        {
+          "answer": "Canberra Raiders",
+          "display": "#8 — 30 pts",
+          "aliases": [
+            "Raiders"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/rugby-league/nrl",
+      "question": "Top 5 teams on the final 2023 NRL ladder (end of the regular season)",
+      "cutoff": 5,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1336217055 | table 4 | name: Team | value: Pos | header rows: 2 | order: asc",
+      "tags": [
+        "rugby-league",
+        "nrl",
+        "seasons"
+      ],
+      "answers": [
+        {
+          "answer": "Penrith Panthers",
+          "display": "#1 — 42 pts",
+          "aliases": [
+            "Panthers"
+          ]
+        },
+        {
+          "answer": "Brisbane Broncos",
+          "display": "#2 — 42 pts",
+          "aliases": [
+            "Broncos",
+            "Brisbane"
+          ]
+        },
+        {
+          "answer": "Melbourne Storm",
+          "display": "#3 — 38 pts",
+          "aliases": [
+            "Storm"
+          ]
+        },
+        {
+          "answer": "New Zealand Warriors",
+          "display": "#4 — 38 pts",
+          "aliases": [
+            "Warriors"
+          ]
+        },
+        {
+          "answer": "Newcastle Knights",
+          "display": "#5 — 35 pts",
+          "aliases": [
+            "Knights"
+          ]
+        },
+        {
+          "answer": "Cronulla-Sutherland Sharks",
+          "display": "#6 — 34 pts",
+          "aliases": [
+            "Cronulla",
+            "Sharks"
+          ]
+        },
+        {
+          "answer": "Sydney Roosters",
+          "display": "#7 — 32 pts",
+          "aliases": [
+            "Roosters"
+          ]
+        },
+        {
+          "answer": "Canberra Raiders",
+          "display": "#8 — 32 pts",
+          "aliases": [
+            "Raiders"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/rugby-league/nrl",
+      "question": "Top 5 teams on the final 2024 NRL ladder (end of the regular season)",
+      "cutoff": 5,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1336217137 | table 4 | name: Team | value: Pos | order: asc",
+      "tags": [
+        "rugby-league",
+        "nrl",
+        "seasons"
+      ],
+      "answers": [
+        {
+          "answer": "Melbourne Storm",
+          "display": "#1 — 44 pts",
+          "aliases": [
+            "Storm"
+          ]
+        },
+        {
+          "answer": "Penrith Panthers",
+          "display": "#2 — 40 pts",
+          "aliases": [
+            "Panthers"
+          ]
+        },
+        {
+          "answer": "Sydney Roosters",
+          "display": "#3 — 38 pts",
+          "aliases": [
+            "Roosters"
+          ]
+        },
+        {
+          "answer": "Cronulla-Sutherland Sharks",
+          "display": "#4 — 38 pts",
+          "aliases": [
+            "Cronulla",
+            "Sharks"
+          ]
+        },
+        {
+          "answer": "North Queensland Cowboys",
+          "display": "#5 — 36 pts",
+          "aliases": [
+            "Cowboys"
+          ]
+        },
+        {
+          "answer": "Canterbury-Bankstown Bulldogs",
+          "display": "#6 — 34 pts",
+          "aliases": [
+            "Canterbury",
+            "Bulldogs"
+          ]
+        },
+        {
+          "answer": "Manly Warringah Sea Eagles",
+          "display": "#7 — 33 pts",
+          "aliases": [
+            "Manly",
+            "Sea Eagles"
+          ]
+        },
+        {
+          "answer": "Newcastle Knights",
+          "display": "#8 — 30 pts",
+          "aliases": [
+            "Knights"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/rugby-league/nrl",
+      "question": "Top 5 teams on the final 2025 NRL ladder (end of the regular season)",
+      "cutoff": 5,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1366488201 | table 4 | name: Team | value: Pos | order: asc",
+      "tags": [
+        "rugby-league",
+        "nrl",
+        "seasons"
+      ],
+      "answers": [
+        {
+          "answer": "Canberra Raiders",
+          "display": "#1 — 44 pts",
+          "aliases": [
+            "Raiders"
+          ]
+        },
+        {
+          "answer": "Melbourne Storm",
+          "display": "#2 — 40 pts",
+          "aliases": [
+            "Storm"
+          ]
+        },
+        {
+          "answer": "Canterbury-Bankstown Bulldogs",
+          "display": "#3 — 38 pts",
+          "aliases": [
+            "Canterbury",
+            "Bulldogs"
+          ]
+        },
+        {
+          "answer": "Brisbane Broncos",
+          "display": "#4 — 36 pts",
+          "aliases": [
+            "Broncos",
+            "Brisbane"
+          ]
+        },
+        {
+          "answer": "Cronulla-Sutherland Sharks",
+          "display": "#5 — 36 pts",
+          "aliases": [
+            "Cronulla",
+            "Sharks"
+          ]
+        },
+        {
+          "answer": "New Zealand Warriors",
+          "display": "#6 — 34 pts",
+          "aliases": [
+            "Warriors"
+          ]
+        },
+        {
+          "answer": "Penrith Panthers",
+          "display": "#7 — 33 pts",
+          "aliases": [
+            "Panthers"
+          ]
+        },
+        {
+          "answer": "Sydney Roosters",
+          "display": "#8 — 32 pts",
+          "aliases": [
+            "Roosters"
+          ]
+        }
+      ]
+    }
+  ]
+}

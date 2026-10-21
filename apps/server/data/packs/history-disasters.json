@@ -1,0 +1,114 @@
+{
+  "categories": [
+    {
+      "path": "history/disasters/aviation",
+      "name": "Aviation disasters"
+    }
+  ],
+  "questions": [
+    {
+      "category": "history/disasters/aviation",
+      "question": "Top 10 deadliest single aviation disasters by death toll (bombings and shootdowns included; the 9/11 attacks and any crash with a range of deaths excluded)",
+      "cutoff": 10,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1378342763 | table 9 | name: Incident | value: Deaths | where: Deaths!~-",
+      "tags": [
+        "history",
+        "disasters",
+        "aviation"
+      ],
+      "answers": [
+        {
+          "answer": "Tenerife airport disaster",
+          "display": "583 deaths",
+          "aliases": [
+            "Tenerife"
+          ]
+        },
+        {
+          "answer": "Japan Air Lines Flight 123",
+          "display": "520 deaths",
+          "aliases": [
+            "JAL 123",
+            "Japan Airlines 123"
+          ]
+        },
+        {
+          "answer": "Charkhi Dadri mid-air collision",
+          "display": "349 deaths",
+          "aliases": [
+            "Charkhi Dadri"
+          ]
+        },
+        {
+          "answer": "Turkish Airlines Flight 981",
+          "display": "346 deaths"
+        },
+        {
+          "answer": "Air India Flight 182",
+          "display": "329 deaths",
+          "aliases": [
+            "Kanishka",
+            "Air India 182"
+          ]
+        },
+        {
+          "answer": "Saudia Flight 163",
+          "display": "301 deaths"
+        },
+        {
+          "answer": "Malaysia Airlines Flight 17",
+          "display": "298 deaths",
+          "aliases": [
+            "MH17"
+          ]
+        },
+        {
+          "answer": "Iran Air Flight 655",
+          "display": "290 deaths",
+          "aliases": [
+            "Iran Air 655"
+          ]
+        },
+        {
+          "answer": "2003 Iran Ilyushin Il-76 crash",
+          "display": "275 deaths"
+        },
+        {
+          "answer": "American Airlines Flight 191",
+          "display": "273 deaths",
+          "aliases": [
+            "AA191"
+          ]
+        },
+        {
+          "answer": "Pan Am Flight 103",
+          "display": "270 deaths",
+          "aliases": [
+            "Lockerbie"
+          ]
+        },
+        {
+          "answer": "Korean Air Lines Flight 007",
+          "display": "269 deaths",
+          "aliases": [
+            "KAL 007",
+            "Korean Air 007"
+          ]
+        },
+        {
+          "answer": "American Airlines Flight 587",
+          "display": "265 deaths",
+          "aliases": [
+            "AA587"
+          ]
+        },
+        {
+          "answer": "China Airlines Flight 140",
+          "display": "264 deaths"
+        }
+      ]
+    }
+  ]
+}

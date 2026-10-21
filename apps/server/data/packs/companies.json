@@ -1,0 +1,670 @@
+{
+  "categories": [
+    {
+      "path": "business/companies",
+      "name": "Companies"
+    }
+  ],
+  "questions": [
+    {
+      "category": "business/companies",
+      "difficulty": 1,
+      "question": "Top 10 largest companies by revenue (latest fiscal year, as of 2026)",
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1377107474 | table 1 | name: Name | value: Revenue | header rows: 2 | note: Fortune Global 500 basis; Wikipedia says data reflects the most recent fiscal year, primarily 2024 or 2025",
+      "tags": [
+        "business",
+        "companies",
+        "revenue"
+      ],
+      "answers": [
+        {
+          "answer": "Amazon",
+          "display": "$716 billion"
+        },
+        {
+          "answer": "Walmart",
+          "display": "$713 billion"
+        },
+        {
+          "answer": "State Grid",
+          "display": "$545 billion",
+          "aliases": [
+            "State Grid Corporation of China"
+          ]
+        },
+        {
+          "answer": "Saudi Aramco",
+          "display": "$480 billion",
+          "aliases": [
+            "Aramco"
+          ]
+        },
+        {
+          "answer": "China National Petroleum",
+          "display": "$476 billion",
+          "aliases": [
+            "CNPC"
+          ]
+        },
+        {
+          "answer": "Sinopec",
+          "display": "$429 billion",
+          "aliases": [
+            "China Petrochemical",
+            "China Petrochemical Corporation"
+          ]
+        },
+        {
+          "answer": "Apple",
+          "display": "$416 billion"
+        },
+        {
+          "answer": "Alphabet",
+          "display": "$402 billion",
+          "aliases": [
+            "Google"
+          ]
+        },
+        {
+          "answer": "UnitedHealth Group",
+          "display": "$400 billion",
+          "aliases": [
+            "UnitedHealth"
+          ]
+        },
+        {
+          "answer": "Berkshire Hathaway",
+          "display": "$371 billion",
+          "aliases": [
+            "Berkshire"
+          ]
+        },
+        {
+          "answer": "CVS Health",
+          "display": "$357 billion",
+          "aliases": [
+            "CVS"
+          ]
+        },
+        {
+          "answer": "Volkswagen",
+          "display": "$348 billion",
+          "aliases": [
+            "VW",
+            "Volkswagen Group"
+          ]
+        },
+        {
+          "answer": "ExxonMobil",
+          "display": "$344 billion",
+          "aliases": [
+            "Exxon"
+          ]
+        },
+        {
+          "answer": "Vitol",
+          "display": "$331 billion"
+        },
+        {
+          "answer": "Shell",
+          "display": "$323 billion"
+        }
+      ]
+    },
+    {
+      "category": "business/companies",
+      "difficulty": 2,
+      "question": "Top 10 largest companies by revenue headquartered in East Asia or Saudi Arabia (latest fiscal year, as of 2026)",
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1377107474 | table 1 | name: Name | value: Revenue | header rows: 2 | where: Headquarters~^(China|Japan|South Korea|Taiwan|Saudi Arabia)$ | note: Fortune Global 500 basis; Wikipedia says data reflects the most recent fiscal year, primarily 2024 or 2025",
+      "tags": [
+        "business",
+        "companies",
+        "revenue",
+        "asia"
+      ],
+      "answers": [
+        {
+          "answer": "State Grid",
+          "display": "$545 billion",
+          "aliases": [
+            "State Grid Corporation of China"
+          ]
+        },
+        {
+          "answer": "Saudi Aramco",
+          "display": "$480 billion",
+          "aliases": [
+            "Aramco"
+          ]
+        },
+        {
+          "answer": "China National Petroleum",
+          "display": "$476 billion",
+          "aliases": [
+            "CNPC"
+          ]
+        },
+        {
+          "answer": "Sinopec",
+          "display": "$429 billion",
+          "aliases": [
+            "China Petrochemical",
+            "China Petrochemical Corporation"
+          ]
+        },
+        {
+          "answer": "China State Construction Engineering",
+          "display": "$320 billion",
+          "aliases": [
+            "China State Construction"
+          ]
+        },
+        {
+          "answer": "Toyota",
+          "display": "$312 billion"
+        },
+        {
+          "answer": "Industrial and Commercial Bank of China",
+          "display": "$222 billion",
+          "aliases": [
+            "ICBC"
+          ]
+        },
+        {
+          "answer": "China Construction Bank",
+          "display": "$199 billion",
+          "aliases": [
+            "CCB"
+          ]
+        },
+        {
+          "answer": "Samsung",
+          "display": "$198 billion",
+          "aliases": [
+            "Samsung Electronics"
+          ]
+        },
+        {
+          "answer": "Foxconn",
+          "display": "$197 billion",
+          "aliases": [
+            "Hon Hai"
+          ]
+        },
+        {
+          "answer": "Agricultural Bank of China",
+          "display": "$192 billion",
+          "aliases": [
+            "ABC"
+          ]
+        },
+        {
+          "answer": "China Railway Engineering",
+          "display": "$178 billion"
+        },
+        {
+          "answer": "Bank of China",
+          "display": "$172 billion"
+        },
+        {
+          "answer": "China Railway Construction",
+          "display": "$160 billion"
+        }
+      ]
+    },
+    {
+      "category": "business/companies",
+      "difficulty": 2,
+      "question": "Top 10 most valuable brands by brand value (Interbrand Best Global Brands, 2025)",
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1378647641 | table 3 | name: Brand | value: Brand value | note: Interbrand Best Global Brands 2025; values in US$ billions",
+      "tags": [
+        "business",
+        "brands"
+      ],
+      "answers": [
+        {
+          "answer": "Apple",
+          "display": "$470.9 billion",
+          "aliases": [
+            "Apple Inc."
+          ]
+        },
+        {
+          "answer": "Microsoft",
+          "display": "$388.5 billion"
+        },
+        {
+          "answer": "Amazon",
+          "display": "$319.9 billion"
+        },
+        {
+          "answer": "Google",
+          "display": "$317.1 billion",
+          "aliases": [
+            "Alphabet"
+          ]
+        },
+        {
+          "answer": "Samsung",
+          "display": "$90.5 billion"
+        },
+        {
+          "answer": "Toyota",
+          "display": "$74.2 billion"
+        },
+        {
+          "answer": "Coca-Cola",
+          "display": "$60.1 billion",
+          "aliases": [
+            "Coke"
+          ]
+        },
+        {
+          "answer": "Instagram",
+          "display": "$57.3 billion"
+        },
+        {
+          "answer": "McDonald's",
+          "display": "$53.0 billion"
+        },
+        {
+          "answer": "Mercedes-Benz",
+          "display": "$50.1 billion",
+          "aliases": [
+            "Mercedes"
+          ]
+        },
+        {
+          "answer": "Cisco",
+          "display": "$48.7 billion"
+        },
+        {
+          "answer": "Louis Vuitton",
+          "display": "$48.4 billion"
+        },
+        {
+          "answer": "YouTube",
+          "display": "$48.4 billion"
+        },
+        {
+          "answer": "BMW",
+          "display": "$46.8 billion"
+        }
+      ]
+    },
+    {
+      "category": "business/companies",
+      "difficulty": 2,
+      "question": "Top 10 largest US banks by total assets (as of June 30, 2026)",
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1379385918 | table 1 | name: Name | value: Total assets | note: US-based banks; total assets in US$ billions as of June 30, 2026",
+      "tags": [
+        "business",
+        "banks"
+      ],
+      "answers": [
+        {
+          "answer": "JPMorgan Chase",
+          "display": "$5,015 billion",
+          "aliases": [
+            "JPMorgan",
+            "JP Morgan",
+            "Chase"
+          ]
+        },
+        {
+          "answer": "Bank of America",
+          "display": "$3,499 billion",
+          "aliases": [
+            "BofA"
+          ]
+        },
+        {
+          "answer": "Citigroup",
+          "display": "$2,894 billion",
+          "aliases": [
+            "Citi"
+          ]
+        },
+        {
+          "answer": "Wells Fargo",
+          "display": "$2,282 billion"
+        },
+        {
+          "answer": "Goldman Sachs",
+          "display": "$2,127 billion",
+          "aliases": [
+            "Goldman"
+          ]
+        },
+        {
+          "answer": "Morgan Stanley",
+          "display": "$1,675 billion"
+        },
+        {
+          "answer": "U.S. Bancorp",
+          "display": "$725 billion",
+          "aliases": [
+            "US Bancorp"
+          ]
+        },
+        {
+          "answer": "Capital One",
+          "display": "$673 billion"
+        },
+        {
+          "answer": "PNC Financial Services",
+          "display": "$616 billion",
+          "aliases": [
+            "PNC"
+          ]
+        },
+        {
+          "answer": "Truist",
+          "display": "$556 billion"
+        },
+        {
+          "answer": "Bank of New York Mellon",
+          "display": "$525 billion",
+          "aliases": [
+            "BNY Mellon",
+            "BNY"
+          ]
+        },
+        {
+          "answer": "Charles Schwab",
+          "display": "$517 billion",
+          "aliases": [
+            "Schwab"
+          ]
+        },
+        {
+          "answer": "TD Bank",
+          "display": "$507 billion",
+          "aliases": [
+            "TD"
+          ]
+        },
+        {
+          "answer": "State Street",
+          "display": "$418 billion"
+        }
+      ]
+    },
+    {
+      "category": "business/companies",
+      "difficulty": 2,
+      "question": "Top 10 largest retailers by retail revenue (FY 2023)",
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1377013030 | table 1 | name: Name | value: Retail revenue | note: Deloitte ranking; retail revenue in US$ billions, FY 2023",
+      "tags": [
+        "business",
+        "retail"
+      ],
+      "answers": [
+        {
+          "answer": "Walmart",
+          "display": "$648.1 billion"
+        },
+        {
+          "answer": "Amazon",
+          "display": "$251.9 billion"
+        },
+        {
+          "answer": "Costco",
+          "display": "$242.3 billion",
+          "aliases": [
+            "Costco Wholesale"
+          ]
+        },
+        {
+          "answer": "Schwarz Group",
+          "display": "$177.0 billion",
+          "aliases": [
+            "Schwarz Gruppe"
+          ]
+        },
+        {
+          "answer": "Home Depot",
+          "display": "$152.7 billion",
+          "aliases": [
+            "The Home Depot"
+          ]
+        },
+        {
+          "answer": "Kroger",
+          "display": "$148.9 billion",
+          "aliases": [
+            "The Kroger Company"
+          ]
+        },
+        {
+          "answer": "Aldi",
+          "display": "$123.6 billion"
+        },
+        {
+          "answer": "JD.com",
+          "display": "$122.9 billion",
+          "aliases": [
+            "JD"
+          ]
+        },
+        {
+          "answer": "Walgreens Boots Alliance",
+          "display": "$121.2 billion",
+          "aliases": [
+            "Walgreens"
+          ]
+        },
+        {
+          "answer": "CVS Health",
+          "display": "$116.8 billion",
+          "aliases": [
+            "CVS"
+          ]
+        },
+        {
+          "answer": "Target",
+          "display": "$105.8 billion",
+          "aliases": [
+            "Target Corporation"
+          ]
+        },
+        {
+          "answer": "Ahold Delhaize",
+          "display": "$97.8 billion"
+        },
+        {
+          "answer": "Carrefour",
+          "display": "$90.8 billion"
+        },
+        {
+          "answer": "Lowe's",
+          "display": "$86.3 billion"
+        }
+      ]
+    },
+    {
+      "category": "business/companies",
+      "difficulty": 3,
+      "question": "Top 10 largest retailers headquartered outside the United States (FY 2023)",
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1377013030 | table 1 | name: Name | value: Retail revenue | where: Country!=United States | note: Deloitte ranking; retail revenue in US$ billions, FY 2023",
+      "tags": [
+        "business",
+        "retail"
+      ],
+      "answers": [
+        {
+          "answer": "Schwarz Group",
+          "display": "$177.0 billion",
+          "aliases": [
+            "Schwarz Gruppe"
+          ]
+        },
+        {
+          "answer": "Aldi",
+          "display": "$123.6 billion"
+        },
+        {
+          "answer": "JD.com",
+          "display": "$122.9 billion",
+          "aliases": [
+            "JD"
+          ]
+        },
+        {
+          "answer": "Ahold Delhaize",
+          "display": "$97.8 billion",
+          "aliases": [
+            "Ahold"
+          ]
+        },
+        {
+          "answer": "Carrefour",
+          "display": "$90.8 billion"
+        },
+        {
+          "answer": "Tesco",
+          "display": "$85.2 billion"
+        },
+        {
+          "answer": "Edeka",
+          "display": "$75.9 billion"
+        },
+        {
+          "answer": "LVMH",
+          "display": "$73.3 billion"
+        },
+        {
+          "answer": "Seven & i Holdings",
+          "display": "$72.8 billion",
+          "aliases": [
+            "Seven and i",
+            "Seven & I"
+          ]
+        },
+        {
+          "answer": "E.Leclerc",
+          "display": "$63.2 billion",
+          "aliases": [
+            "Leclerc"
+          ]
+        },
+        {
+          "answer": "Rewe Group",
+          "display": "$62.7 billion",
+          "aliases": [
+            "Rewe"
+          ]
+        },
+        {
+          "answer": "Æon",
+          "display": "$58.7 billion",
+          "aliases": [
+            "Aeon"
+          ]
+        },
+        {
+          "answer": "Loblaw Companies",
+          "display": "$44.0 billion",
+          "aliases": [
+            "Loblaw"
+          ]
+        },
+        {
+          "answer": "Les Mousquetaires",
+          "display": "$43.4 billion"
+        }
+      ]
+    },
+    {
+      "category": "business/companies",
+      "difficulty": 2,
+      "question": "Top 10 US states by number of Fortune 500 headquarters (2026 list)",
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1376736512 | table 2 | name: State | value: Companies | note: Fortune 500 2026 list, headquarters count by state",
+      "tags": [
+        "business",
+        "fortune-500",
+        "states"
+      ],
+      "answers": [
+        {
+          "answer": "California",
+          "display": "57 companies",
+          "aliases": [
+            "CA"
+          ]
+        },
+        {
+          "answer": "New York",
+          "display": "52 companies",
+          "aliases": [
+            "NY"
+          ]
+        },
+        {
+          "answer": "Texas",
+          "display": "52 companies",
+          "aliases": [
+            "TX"
+          ]
+        },
+        {
+          "answer": "Illinois",
+          "display": "32 companies"
+        },
+        {
+          "answer": "Ohio",
+          "display": "27 companies"
+        },
+        {
+          "answer": "Virginia",
+          "display": "24 companies"
+        },
+        {
+          "answer": "Florida",
+          "display": "22 companies"
+        },
+        {
+          "answer": "Pennsylvania",
+          "display": "20 companies",
+          "aliases": [
+            "PA"
+          ]
+        },
+        {
+          "answer": "Georgia",
+          "display": "18 companies"
+        },
+        {
+          "answer": "Minnesota",
+          "display": "17 companies"
+        },
+        {
+          "answer": "Massachusetts",
+          "display": "16 companies"
+        },
+        {
+          "answer": "Michigan",
+          "display": "16 companies"
+        },
+        {
+          "answer": "Connecticut",
+          "display": "15 companies"
+        },
+        {
+          "answer": "New Jersey",
+          "display": "14 companies",
+          "aliases": [
+            "NJ"
+          ]
+        }
+      ]
+    }
+  ]
+}

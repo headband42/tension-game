@@ -1,0 +1,943 @@
+{
+  "questions": [
+    {
+      "category": "sports/hockey/records",
+      "question": "Top 10 NHL players by career regular-season points (as of 2026)",
+      "cutoff": 10,
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1378089962 | table 2 | name: Name | value: Pts",
+      "tags": [
+        "hockey",
+        "nhl",
+        "points",
+        "career"
+      ],
+      "answers": [
+        {
+          "answer": "Wayne Gretzky",
+          "display": "2,857 points",
+          "aliases": [
+            "Gretzky",
+            "The Great One"
+          ]
+        },
+        {
+          "answer": "Jaromír Jágr",
+          "display": "1,921 points",
+          "aliases": [
+            "Jagr"
+          ]
+        },
+        {
+          "answer": "Mark Messier",
+          "display": "1,887 points",
+          "aliases": [
+            "Messier"
+          ]
+        },
+        {
+          "answer": "Gordie Howe",
+          "display": "1,850 points",
+          "aliases": [
+            "Howe",
+            "Mr. Hockey"
+          ]
+        },
+        {
+          "answer": "Ron Francis",
+          "display": "1,798 points",
+          "aliases": [
+            "Francis"
+          ]
+        },
+        {
+          "answer": "Marcel Dionne",
+          "display": "1,771 points",
+          "aliases": [
+            "Dionne"
+          ]
+        },
+        {
+          "answer": "Sidney Crosby",
+          "display": "1,761 points",
+          "aliases": [
+            "Crosby",
+            "Sid the Kid"
+          ]
+        },
+        {
+          "answer": "Steve Yzerman",
+          "display": "1,755 points",
+          "aliases": [
+            "Yzerman"
+          ]
+        },
+        {
+          "answer": "Mario Lemieux",
+          "display": "1,723 points",
+          "aliases": [
+            "Lemieux",
+            "Super Mario"
+          ]
+        },
+        {
+          "answer": "Alexander Ovechkin",
+          "display": "1,687 points",
+          "aliases": [
+            "Ovechkin",
+            "Ovi"
+          ]
+        },
+        {
+          "answer": "Joe Sakic",
+          "display": "1,641 points",
+          "aliases": [
+            "Sakic"
+          ]
+        },
+        {
+          "answer": "Phil Esposito",
+          "display": "1,590 points",
+          "aliases": [
+            "Esposito"
+          ]
+        },
+        {
+          "answer": "Ray Bourque",
+          "display": "1,579 points",
+          "aliases": [
+            "Bourque"
+          ]
+        },
+        {
+          "answer": "Joe Thornton",
+          "display": "1,539 points",
+          "aliases": [
+            "Thornton"
+          ]
+        }
+      ],
+      "submitter": "claude"
+    },
+    {
+      "category": "sports/hockey/records",
+      "question": "Top 10 NHL players by career regular-season goals (as of 2026)",
+      "cutoff": 10,
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1378089962 | table 4 | name: Name | value: Goals",
+      "tags": [
+        "hockey",
+        "nhl",
+        "goals",
+        "career"
+      ],
+      "answers": [
+        {
+          "answer": "Alexander Ovechkin",
+          "display": "929 goals",
+          "aliases": [
+            "Ovechkin",
+            "Ovi"
+          ]
+        },
+        {
+          "answer": "Wayne Gretzky",
+          "display": "894 goals",
+          "aliases": [
+            "Gretzky",
+            "The Great One"
+          ]
+        },
+        {
+          "answer": "Gordie Howe",
+          "display": "801 goals",
+          "aliases": [
+            "Howe",
+            "Mr. Hockey"
+          ]
+        },
+        {
+          "answer": "Jaromír Jágr",
+          "display": "766 goals",
+          "aliases": [
+            "Jagr"
+          ]
+        },
+        {
+          "answer": "Brett Hull",
+          "display": "741 goals"
+        },
+        {
+          "answer": "Marcel Dionne",
+          "display": "731 goals",
+          "aliases": [
+            "Dionne"
+          ]
+        },
+        {
+          "answer": "Phil Esposito",
+          "display": "717 goals",
+          "aliases": [
+            "Esposito"
+          ]
+        },
+        {
+          "answer": "Mike Gartner",
+          "display": "708 goals",
+          "aliases": [
+            "Gartner"
+          ]
+        },
+        {
+          "answer": "Mark Messier",
+          "display": "694 goals",
+          "aliases": [
+            "Messier"
+          ]
+        },
+        {
+          "answer": "Steve Yzerman",
+          "display": "692 goals",
+          "aliases": [
+            "Yzerman"
+          ]
+        },
+        {
+          "answer": "Mario Lemieux",
+          "display": "690 goals",
+          "aliases": [
+            "Lemieux",
+            "Super Mario"
+          ]
+        },
+        {
+          "answer": "Teemu Selänne",
+          "display": "684 goals",
+          "aliases": [
+            "Selanne",
+            "The Finnish Flash"
+          ]
+        },
+        {
+          "answer": "Luc Robitaille",
+          "display": "668 goals",
+          "aliases": [
+            "Robitaille"
+          ]
+        },
+        {
+          "answer": "Brendan Shanahan",
+          "display": "656 goals",
+          "aliases": [
+            "Shanahan"
+          ]
+        }
+      ],
+      "submitter": "claude"
+    },
+    {
+      "category": "sports/hockey/records",
+      "question": "Top 10 NHL players by career regular-season games played (as of 2026)",
+      "cutoff": 10,
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1376627784 | table 3 | name: Player | value: Games played",
+      "tags": [
+        "hockey",
+        "nhl",
+        "games",
+        "career"
+      ],
+      "answers": [
+        {
+          "answer": "Patrick Marleau",
+          "display": "1,779 games",
+          "aliases": [
+            "Marleau"
+          ]
+        },
+        {
+          "answer": "Gordie Howe",
+          "display": "1,767 games",
+          "aliases": [
+            "Howe",
+            "Mr. Hockey"
+          ]
+        },
+        {
+          "answer": "Mark Messier",
+          "display": "1,756 games",
+          "aliases": [
+            "Messier"
+          ]
+        },
+        {
+          "answer": "Jaromír Jágr",
+          "display": "1,733 games",
+          "aliases": [
+            "Jagr"
+          ]
+        },
+        {
+          "answer": "Ron Francis",
+          "display": "1,731 games",
+          "aliases": [
+            "Francis"
+          ]
+        },
+        {
+          "answer": "Joe Thornton",
+          "display": "1,714 games",
+          "aliases": [
+            "Thornton"
+          ]
+        },
+        {
+          "answer": "Zdeno Chara",
+          "display": "1,680 games",
+          "aliases": [
+            "Chara"
+          ]
+        },
+        {
+          "answer": "Mark Recchi",
+          "display": "1,652 games",
+          "aliases": [
+            "Recchi"
+          ]
+        },
+        {
+          "answer": "Chris Chelios",
+          "display": "1,651 games",
+          "aliases": [
+            "Chelios"
+          ]
+        },
+        {
+          "answer": "Dave Andreychuk",
+          "display": "1,639 games",
+          "aliases": [
+            "Andreychuk"
+          ]
+        },
+        {
+          "answer": "Scott Stevens",
+          "display": "1,635 games",
+          "aliases": [
+            "Stevens"
+          ]
+        },
+        {
+          "answer": "Larry Murphy",
+          "display": "1,615 games",
+          "aliases": [
+            "Murphy"
+          ]
+        },
+        {
+          "answer": "Ray Bourque",
+          "display": "1,612 games",
+          "aliases": [
+            "Bourque"
+          ]
+        },
+        {
+          "answer": "Brent Burns",
+          "display": "1,579 games",
+          "aliases": [
+            "Burns"
+          ]
+        }
+      ],
+      "submitter": "claude"
+    },
+    {
+      "category": "sports/hockey/goalies",
+      "question": "Top 10 NHL goaltenders by career regular-season wins (as of 2026)",
+      "cutoff": 10,
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1370085903 | table 2 | name: Player | value: W",
+      "tags": [
+        "hockey",
+        "nhl",
+        "goalies",
+        "wins"
+      ],
+      "answers": [
+        {
+          "answer": "Martin Brodeur",
+          "display": "691 wins",
+          "aliases": [
+            "Brodeur"
+          ]
+        },
+        {
+          "answer": "Marc-André Fleury",
+          "display": "575 wins",
+          "aliases": [
+            "Fleury",
+            "Flower"
+          ]
+        },
+        {
+          "answer": "Patrick Roy",
+          "display": "551 wins",
+          "aliases": [
+            "Roy"
+          ]
+        },
+        {
+          "answer": "Roberto Luongo",
+          "display": "489 wins",
+          "aliases": [
+            "Luongo"
+          ]
+        },
+        {
+          "answer": "Ed Belfour",
+          "display": "484 wins",
+          "aliases": [
+            "Belfour",
+            "Eddie the Eagle"
+          ]
+        },
+        {
+          "answer": "Henrik Lundqvist",
+          "display": "459 wins",
+          "aliases": [
+            "Lundqvist",
+            "King Henrik"
+          ]
+        },
+        {
+          "answer": "Sergei Bobrovsky",
+          "display": "456 wins",
+          "aliases": [
+            "Bobrovsky"
+          ]
+        },
+        {
+          "answer": "Curtis Joseph",
+          "display": "454 wins",
+          "aliases": [
+            "Cujo"
+          ]
+        },
+        {
+          "answer": "Terry Sawchuk",
+          "display": "445 wins",
+          "aliases": [
+            "Sawchuk"
+          ]
+        },
+        {
+          "answer": "Jacques Plante",
+          "display": "437 wins",
+          "aliases": [
+            "Plante"
+          ]
+        },
+        {
+          "answer": "Tony Esposito",
+          "display": "423 wins",
+          "aliases": [
+            "Esposito"
+          ]
+        },
+        {
+          "answer": "Jonathan Quick",
+          "display": "410 wins",
+          "aliases": [
+            "Quick"
+          ]
+        },
+        {
+          "answer": "Glenn Hall",
+          "display": "407 wins",
+          "aliases": [
+            "Hall"
+          ]
+        },
+        {
+          "answer": "Grant Fuhr",
+          "display": "403 wins",
+          "aliases": [
+            "Fuhr"
+          ]
+        }
+      ],
+      "submitter": "claude"
+    },
+    {
+      "category": "sports/hockey/stanley-cup",
+      "question": "Top 9 active NHL franchises by Stanley Cup championships (through 2026)",
+      "cutoff": 9,
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1374120964 | table 5 | name: Team | value: Wins",
+      "tags": [
+        "hockey",
+        "nhl",
+        "stanley cup",
+        "franchises"
+      ],
+      "answers": [
+        {
+          "answer": "Montreal Canadiens",
+          "display": "24 titles",
+          "aliases": [
+            "Habs"
+          ]
+        },
+        {
+          "answer": "Toronto Maple Leafs",
+          "display": "13 titles",
+          "aliases": [
+            "Leafs"
+          ]
+        },
+        {
+          "answer": "Detroit Red Wings",
+          "display": "11 titles",
+          "aliases": [
+            "Wings"
+          ]
+        },
+        {
+          "answer": "Boston Bruins",
+          "display": "6 titles",
+          "aliases": [
+            "Bruins"
+          ]
+        },
+        {
+          "answer": "Chicago Blackhawks",
+          "display": "6 titles",
+          "aliases": [
+            "Blackhawks",
+            "Hawks"
+          ]
+        },
+        {
+          "answer": "Edmonton Oilers",
+          "display": "5 titles",
+          "aliases": [
+            "Oilers"
+          ]
+        },
+        {
+          "answer": "Pittsburgh Penguins",
+          "display": "5 titles",
+          "aliases": [
+            "Penguins",
+            "Pens"
+          ]
+        },
+        {
+          "answer": "New York Rangers",
+          "display": "4 titles",
+          "aliases": [
+            "Rangers",
+            "Blueshirts"
+          ]
+        },
+        {
+          "answer": "New York Islanders",
+          "display": "4 titles",
+          "aliases": [
+            "Islanders",
+            "Isles"
+          ]
+        },
+        {
+          "answer": "New Jersey Devils",
+          "display": "3 titles",
+          "aliases": [
+            "Devils"
+          ]
+        },
+        {
+          "answer": "Tampa Bay Lightning",
+          "display": "3 titles",
+          "aliases": [
+            "Lightning",
+            "Bolts"
+          ]
+        },
+        {
+          "answer": "Colorado Avalanche",
+          "display": "3 titles",
+          "aliases": [
+            "Avalanche",
+            "Avs"
+          ]
+        }
+      ],
+      "submitter": "claude"
+    },
+    {
+      "category": "sports/hockey/arenas",
+      "question": "Top 10 NHL arenas by seating capacity (as of 2026)",
+      "cutoff": 10,
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1379382961 | table 1 | name: Arena | value: Capacity",
+      "tags": [
+        "hockey",
+        "nhl",
+        "arenas",
+        "capacity"
+      ],
+      "answers": [
+        {
+          "answer": "Bell Centre",
+          "display": "20,962 seats",
+          "aliases": [
+            "Molson Centre"
+          ]
+        },
+        {
+          "answer": "United Center",
+          "display": "19,717 seats"
+        },
+        {
+          "answer": "Xfinity Mobile Arena",
+          "display": "19,538 seats",
+          "aliases": [
+            "Wells Fargo Center"
+          ]
+        },
+        {
+          "answer": "Little Caesars Arena",
+          "display": "19,515 seats",
+          "aliases": [
+            "Little Caesars"
+          ]
+        },
+        {
+          "answer": "Canadian Tire Centre",
+          "display": "19,347 seats",
+          "aliases": [
+            "Corel Centre",
+            "Scotiabank Place"
+          ]
+        },
+        {
+          "answer": "Scotiabank Saddledome",
+          "display": "19,289 seats",
+          "aliases": [
+            "Saddledome"
+          ]
+        },
+        {
+          "answer": "Amerant Bank Arena",
+          "display": "19,250 seats",
+          "aliases": [
+            "FLA Live Arena",
+            "BB&T Center"
+          ]
+        },
+        {
+          "answer": "Benchmark International Arena",
+          "display": "19,092 seats",
+          "aliases": [
+            "Amalie Arena"
+          ]
+        },
+        {
+          "answer": "KeyBank Center",
+          "display": "19,070 seats",
+          "aliases": [
+            "First Niagara Center"
+          ]
+        },
+        {
+          "answer": "Rogers Arena",
+          "display": "18,910 seats",
+          "aliases": [
+            "General Motors Place",
+            "GM Place"
+          ]
+        },
+        {
+          "answer": "Scotiabank Arena",
+          "display": "18,800 seats",
+          "aliases": [
+            "Air Canada Centre"
+          ]
+        },
+        {
+          "answer": "Capital One Arena",
+          "display": "18,573 seats",
+          "aliases": [
+            "Verizon Center"
+          ]
+        },
+        {
+          "answer": "Lenovo Center",
+          "display": "18,547 seats",
+          "aliases": [
+            "PNC Arena"
+          ]
+        },
+        {
+          "answer": "American Airlines Center",
+          "display": "18,532 seats"
+        }
+      ],
+      "submitter": "claude"
+    },
+    {
+      "category": "sports/hockey/olympics",
+      "question": "Top 7 nations by total Olympic ice hockey medals (nations as listed, Soviet Union separate; through 2026)",
+      "cutoff": 7,
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1377996840 | table 13 | name: Nation | value: Total | where: Nation!~Totals",
+      "tags": [
+        "hockey",
+        "olympics",
+        "medals"
+      ],
+      "answers": [
+        {
+          "answer": "Canada",
+          "display": "25 medals"
+        },
+        {
+          "answer": "United States",
+          "display": "20 medals",
+          "aliases": [
+            "USA",
+            "US"
+          ]
+        },
+        {
+          "answer": "Finland",
+          "display": "12 medals"
+        },
+        {
+          "answer": "Sweden",
+          "display": "11 medals"
+        },
+        {
+          "answer": "Soviet Union",
+          "display": "9 medals",
+          "aliases": [
+            "USSR"
+          ]
+        },
+        {
+          "answer": "Czechoslovakia",
+          "display": "8 medals"
+        },
+        {
+          "answer": "Switzerland",
+          "display": "4 medals"
+        },
+        {
+          "answer": "Czech Republic",
+          "display": "2 medals",
+          "aliases": [
+            "Czechia"
+          ]
+        },
+        {
+          "answer": "Great Britain",
+          "display": "2 medals",
+          "aliases": [
+            "Britain"
+          ]
+        },
+        {
+          "answer": "Germany",
+          "display": "2 medals"
+        },
+        {
+          "answer": "Russia",
+          "display": "2 medals"
+        }
+      ],
+      "submitter": "claude"
+    },
+    {
+      "category": "sports/hockey/iihf",
+      "question": "Top 10 nations in the IIHF World Ranking (as of May 2026)",
+      "cutoff": 10,
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1378995634 | table 1 | name: Nation | value: IIHF Ranking | order: asc",
+      "tags": [
+        "hockey",
+        "iihf",
+        "world ranking"
+      ],
+      "answers": [
+        {
+          "answer": "Switzerland",
+          "display": "rank 1"
+        },
+        {
+          "answer": "Canada",
+          "display": "rank 2"
+        },
+        {
+          "answer": "United States",
+          "display": "rank 3",
+          "aliases": [
+            "USA",
+            "US"
+          ]
+        },
+        {
+          "answer": "Finland",
+          "display": "rank 4"
+        },
+        {
+          "answer": "Sweden",
+          "display": "rank 5"
+        },
+        {
+          "answer": "Czech Republic",
+          "display": "rank 6",
+          "aliases": [
+            "Czechia"
+          ]
+        },
+        {
+          "answer": "Germany",
+          "display": "rank 7"
+        },
+        {
+          "answer": "Slovakia",
+          "display": "rank 8"
+        },
+        {
+          "answer": "Latvia",
+          "display": "rank 9"
+        },
+        {
+          "answer": "Denmark",
+          "display": "rank 10"
+        },
+        {
+          "answer": "Norway",
+          "display": "rank 11"
+        },
+        {
+          "answer": "Austria",
+          "display": "rank 12"
+        },
+        {
+          "answer": "Slovenia",
+          "display": "rank 13"
+        }
+      ],
+      "submitter": "claude"
+    },
+    {
+      "category": "sports/hockey/records",
+      "question": "Top 10 fastest NHL players to reach 1,000 career points (by games played)",
+      "cutoff": 10,
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1378814385 | table 1 | name: Player | value: Game no. | order: asc",
+      "tags": [
+        "hockey",
+        "nhl",
+        "points",
+        "milestones"
+      ],
+      "answers": [
+        {
+          "answer": "Wayne Gretzky",
+          "display": "424 games",
+          "aliases": [
+            "Gretzky",
+            "The Great One"
+          ]
+        },
+        {
+          "answer": "Mario Lemieux",
+          "display": "513 games",
+          "aliases": [
+            "Lemieux",
+            "Super Mario"
+          ]
+        },
+        {
+          "answer": "Mike Bossy",
+          "display": "656 games",
+          "aliases": [
+            "Bossy"
+          ]
+        },
+        {
+          "answer": "Connor McDavid",
+          "display": "659 games",
+          "aliases": [
+            "McDavid"
+          ]
+        },
+        {
+          "answer": "Peter Stastny",
+          "display": "682 games",
+          "aliases": [
+            "Stastny"
+          ]
+        },
+        {
+          "answer": "Jari Kurri",
+          "display": "716 games",
+          "aliases": [
+            "Kurri"
+          ]
+        },
+        {
+          "answer": "Guy Lafleur",
+          "display": "720 games",
+          "aliases": [
+            "Lafleur",
+            "The Flower"
+          ]
+        },
+        {
+          "answer": "Bryan Trottier",
+          "display": "726 games",
+          "aliases": [
+            "Trottier"
+          ]
+        },
+        {
+          "answer": "Denis Savard",
+          "display": "727 games",
+          "aliases": [
+            "Savard"
+          ]
+        },
+        {
+          "answer": "Steve Yzerman",
+          "display": "737 games",
+          "aliases": [
+            "Yzerman"
+          ]
+        },
+        {
+          "answer": "Marcel Dionne",
+          "display": "740 games",
+          "aliases": [
+            "Dionne"
+          ]
+        },
+        {
+          "answer": "Phil Esposito",
+          "display": "745 games",
+          "aliases": [
+            "Esposito"
+          ]
+        },
+        {
+          "answer": "Sidney Crosby",
+          "display": "757 games",
+          "aliases": [
+            "Crosby",
+            "Sid the Kid"
+          ]
+        },
+        {
+          "answer": "Jaromír Jágr",
+          "display": "763 games",
+          "aliases": [
+            "Jagr"
+          ]
+        }
+      ],
+      "submitter": "claude"
+    }
+  ]
+}

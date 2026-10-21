@@ -1,0 +1,2215 @@
+{
+  "categories": [
+    {
+      "path": "sports/soccer/russia/premier-league",
+      "name": "Russian Premier League Seasons"
+    }
+  ],
+  "questions": [
+    {
+      "category": "sports/soccer/russia/premier-league",
+      "question": "Top 6 clubs in the final 1993 Russian Top League table",
+      "cutoff": 6,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1370863447 | table 4 | name: Team | value: Pos | order: asc",
+      "tags": [
+        "football",
+        "russian-premier-league",
+        "seasons"
+      ],
+      "answers": [
+        {
+          "answer": "Spartak Moscow",
+          "display": "#1 — 53 pts"
+        },
+        {
+          "answer": "Rotor Volgograd",
+          "display": "#2 — 42 pts",
+          "aliases": [
+            "Rotor"
+          ]
+        },
+        {
+          "answer": "Dynamo Moscow",
+          "display": "#3 — 42 pts",
+          "aliases": [
+            "Dynamo"
+          ]
+        },
+        {
+          "answer": "Tekstilshchik Kamyshin",
+          "display": "#4 — 39 pts",
+          "aliases": [
+            "Tekstilshchik"
+          ]
+        },
+        {
+          "answer": "Lokomotiv Moscow",
+          "display": "#5 — 39 pts",
+          "aliases": [
+            "Lokomotiv"
+          ]
+        },
+        {
+          "answer": "Alania Vladikavkaz",
+          "display": "#6 — 38 pts",
+          "aliases": [
+            "Spartak Vladikavkaz",
+            "Alania",
+            "Spartak-Alania Vladikavkaz",
+            "Spartak-Alania"
+          ]
+        },
+        {
+          "answer": "Torpedo Moscow",
+          "display": "#7 — 38 pts",
+          "aliases": [
+            "Torpedo"
+          ]
+        },
+        {
+          "answer": "Uralmash Yekaterinburg",
+          "display": "#8 — 36 pts",
+          "aliases": [
+            "Uralmash"
+          ]
+        },
+        {
+          "answer": "KAMAZ Naberezhnye Chelny",
+          "display": "#9 — 30 pts",
+          "aliases": [
+            "KAMAZ",
+            "KAMAZ-Chally Naberezhnye Chelny"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/soccer/russia/premier-league",
+      "question": "Top 5 clubs in the final 1994 Russian Top League table",
+      "cutoff": 5,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1367017245 | table 2 | name: Team | value: Pos | order: asc",
+      "tags": [
+        "football",
+        "russian-premier-league",
+        "seasons"
+      ],
+      "answers": [
+        {
+          "answer": "Spartak Moscow",
+          "display": "#1 — 50 pts"
+        },
+        {
+          "answer": "Dynamo Moscow",
+          "display": "#2 — 39 pts",
+          "aliases": [
+            "Dynamo"
+          ]
+        },
+        {
+          "answer": "Lokomotiv Moscow",
+          "display": "#3 — 36 pts"
+        },
+        {
+          "answer": "Rotor Volgograd",
+          "display": "#4 — 36 pts",
+          "aliases": [
+            "Rotor"
+          ]
+        },
+        {
+          "answer": "Alania Vladikavkaz",
+          "display": "#5 — 33 pts",
+          "aliases": [
+            "Spartak Vladikavkaz",
+            "Alania",
+            "Spartak-Alania Vladikavkaz",
+            "Spartak-Alania"
+          ]
+        },
+        {
+          "answer": "KAMAZ Naberezhnye Chelny",
+          "display": "#6 — 31 pts",
+          "aliases": [
+            "KAMAZ",
+            "KAMAZ-Chally Naberezhnye Chelny"
+          ]
+        },
+        {
+          "answer": "Tekstilshchik Kamyshin",
+          "display": "#7 — 30 pts",
+          "aliases": [
+            "Tekstilshchik"
+          ]
+        },
+        {
+          "answer": "Lokomotiv Nizhny Novgorod",
+          "display": "#8 — 30 pts",
+          "aliases": [
+            "Lokomotiv N.N."
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/soccer/russia/premier-league",
+      "question": "Top 5 clubs in the final 1995 Russian Top League table",
+      "cutoff": 5,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1368919451 | table 2 | name: Team | value: Pos | order: asc",
+      "tags": [
+        "football",
+        "russian-premier-league",
+        "seasons"
+      ],
+      "answers": [
+        {
+          "answer": "Alania Vladikavkaz",
+          "display": "#1 — 71 pts",
+          "aliases": [
+            "Spartak-Alania Vladikavkaz",
+            "Alania",
+            "Spartak Vladikavkaz",
+            "Spartak-Alania"
+          ]
+        },
+        {
+          "answer": "Lokomotiv Moscow",
+          "display": "#2 — 65 pts",
+          "aliases": [
+            "Lokomotiv"
+          ]
+        },
+        {
+          "answer": "Spartak Moscow",
+          "display": "#3 — 63 pts"
+        },
+        {
+          "answer": "Dynamo Moscow",
+          "display": "#4 — 56 pts",
+          "aliases": [
+            "Dynamo"
+          ]
+        },
+        {
+          "answer": "Torpedo Moscow",
+          "display": "#5 — 55 pts",
+          "aliases": [
+            "Torpedo"
+          ]
+        },
+        {
+          "answer": "CSKA Moscow",
+          "display": "#6 — 53 pts",
+          "aliases": [
+            "CSKA"
+          ]
+        },
+        {
+          "answer": "Rotor Volgograd",
+          "display": "#7 — 40 pts",
+          "aliases": [
+            "Rotor"
+          ]
+        },
+        {
+          "answer": "Uralmash Yekaterinburg",
+          "display": "#8 — 39 pts",
+          "aliases": [
+            "Uralmash"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/soccer/russia/premier-league",
+      "question": "Top 6 clubs in the final 1996 Russian Top League table",
+      "cutoff": 6,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1377238711 | table 2 | name: Team | value: Pos | order: asc",
+      "tags": [
+        "football",
+        "russian-premier-league",
+        "seasons"
+      ],
+      "answers": [
+        {
+          "answer": "Spartak Moscow",
+          "display": "#1 — 72 pts"
+        },
+        {
+          "answer": "Alania Vladikavkaz",
+          "display": "#2 — 72 pts",
+          "aliases": [
+            "Alania",
+            "Spartak Vladikavkaz",
+            "Spartak-Alania Vladikavkaz",
+            "Spartak-Alania"
+          ]
+        },
+        {
+          "answer": "Rotor Volgograd",
+          "display": "#3 — 70 pts",
+          "aliases": [
+            "Rotor"
+          ]
+        },
+        {
+          "answer": "Dynamo Moscow",
+          "display": "#4 — 67 pts",
+          "aliases": [
+            "Dynamo"
+          ]
+        },
+        {
+          "answer": "CSKA Moscow",
+          "display": "#5 — 66 pts",
+          "aliases": [
+            "CSKA"
+          ]
+        },
+        {
+          "answer": "Lokomotiv Moscow",
+          "display": "#6 — 55 pts"
+        },
+        {
+          "answer": "Baltika Kaliningrad",
+          "display": "#7 — 46 pts",
+          "aliases": [
+            "Baltika"
+          ]
+        },
+        {
+          "answer": "Lokomotiv Nizhny Novgorod",
+          "display": "#8 — 45 pts",
+          "aliases": [
+            "Lokomotiv N.N."
+          ]
+        },
+        {
+          "answer": "Krylia Sovetov Samara",
+          "display": "#9 — 45 pts",
+          "aliases": [
+            "Krylia Sovetov",
+            "Krylia"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/soccer/russia/premier-league",
+      "question": "Top 6 clubs in the final 1997 Russian Top League table",
+      "cutoff": 6,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1367508340 | table 2 | name: Team | value: Pos | order: asc",
+      "tags": [
+        "football",
+        "russian-premier-league",
+        "seasons"
+      ],
+      "answers": [
+        {
+          "answer": "Spartak Moscow",
+          "display": "#1 — 73 pts",
+          "aliases": [
+            "Spartak"
+          ]
+        },
+        {
+          "answer": "Rotor Volgograd",
+          "display": "#2 — 68 pts",
+          "aliases": [
+            "Rotor"
+          ]
+        },
+        {
+          "answer": "Dynamo Moscow",
+          "display": "#3 — 68 pts",
+          "aliases": [
+            "Dynamo"
+          ]
+        },
+        {
+          "answer": "Shinnik Yaroslavl",
+          "display": "#4 — 55 pts",
+          "aliases": [
+            "Shinnik"
+          ]
+        },
+        {
+          "answer": "Lokomotiv Moscow",
+          "display": "#5 — 54 pts",
+          "aliases": [
+            "Lokomotiv"
+          ]
+        },
+        {
+          "answer": "Chernomorets Novorossiysk",
+          "display": "#6 — 53 pts",
+          "aliases": [
+            "Chernomorets"
+          ]
+        },
+        {
+          "answer": "Krylia Sovetov Samara",
+          "display": "#7 — 49 pts",
+          "aliases": [
+            "Krylia Sovetov",
+            "Krylia"
+          ]
+        },
+        {
+          "answer": "Zenit Saint Petersburg",
+          "display": "#8 — 49 pts",
+          "aliases": [
+            "Zenit St. Petersburg",
+            "Zenit"
+          ]
+        },
+        {
+          "answer": "Baltika Kaliningrad",
+          "display": "#9 — 49 pts",
+          "aliases": [
+            "Baltika"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/soccer/russia/premier-league",
+      "question": "Top 5 clubs in the final 1998 Russian Top Division table",
+      "cutoff": 5,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1368677843 | table 2 | name: Team | value: Pos | order: asc",
+      "tags": [
+        "football",
+        "russian-premier-league",
+        "seasons"
+      ],
+      "answers": [
+        {
+          "answer": "Spartak Moscow",
+          "display": "#1 — 59 pts"
+        },
+        {
+          "answer": "CSKA Moscow",
+          "display": "#2 — 56 pts",
+          "aliases": [
+            "CSKA"
+          ]
+        },
+        {
+          "answer": "Lokomotiv Moscow",
+          "display": "#3 — 55 pts",
+          "aliases": [
+            "Lokomotiv"
+          ]
+        },
+        {
+          "answer": "Rotor Volgograd",
+          "display": "#4 — 48 pts",
+          "aliases": [
+            "Rotor"
+          ]
+        },
+        {
+          "answer": "Zenit Saint Petersburg",
+          "display": "#5 — 47 pts",
+          "aliases": [
+            "Zenit St. Petersburg",
+            "Zenit"
+          ]
+        },
+        {
+          "answer": "Rostselmash",
+          "display": "#6 — 44 pts"
+        },
+        {
+          "answer": "Uralan Elista",
+          "display": "#7 — 42 pts",
+          "aliases": [
+            "Uralan"
+          ]
+        },
+        {
+          "answer": "Alania Vladikavkaz",
+          "display": "#8 — 40 pts",
+          "aliases": [
+            "Alania",
+            "Spartak Vladikavkaz",
+            "Spartak-Alania Vladikavkaz",
+            "Spartak-Alania"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/soccer/russia/premier-league",
+      "question": "Top 5 clubs in the final 1999 Russian Top Division table",
+      "cutoff": 5,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1368678112 | table 2 | name: Team | value: Pos | order: asc",
+      "tags": [
+        "football",
+        "russian-premier-league",
+        "seasons"
+      ],
+      "answers": [
+        {
+          "answer": "Spartak Moscow",
+          "display": "#1 — 72 pts"
+        },
+        {
+          "answer": "Lokomotiv Moscow",
+          "display": "#2 — 65 pts",
+          "aliases": [
+            "Lokomotiv"
+          ]
+        },
+        {
+          "answer": "CSKA Moscow",
+          "display": "#3 — 55 pts",
+          "aliases": [
+            "CSKA"
+          ]
+        },
+        {
+          "answer": "Torpedo Moscow",
+          "display": "#4 — 50 pts",
+          "aliases": [
+            "Torpedo"
+          ]
+        },
+        {
+          "answer": "Dynamo Moscow",
+          "display": "#5 — 44 pts",
+          "aliases": [
+            "Dynamo"
+          ]
+        },
+        {
+          "answer": "Alania Vladikavkaz",
+          "display": "#6 — 43 pts",
+          "aliases": [
+            "Alania",
+            "Spartak Vladikavkaz",
+            "Spartak-Alania Vladikavkaz",
+            "Spartak-Alania"
+          ]
+        },
+        {
+          "answer": "Rostselmash",
+          "display": "#7 — 41 pts"
+        },
+        {
+          "answer": "Zenit Saint Petersburg",
+          "display": "#8 — 39 pts",
+          "aliases": [
+            "Zenit St. Petersburg",
+            "Zenit"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/soccer/russia/premier-league",
+      "question": "Top 5 clubs in the final 2000 Russian Top Division table",
+      "cutoff": 5,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1324788235 | table 2 | name: Team | value: Pos | order: asc",
+      "tags": [
+        "football",
+        "russian-premier-league",
+        "seasons"
+      ],
+      "answers": [
+        {
+          "answer": "Spartak Moscow",
+          "display": "#1 — 70 pts",
+          "aliases": [
+            "Spartak"
+          ]
+        },
+        {
+          "answer": "Lokomotiv Moscow",
+          "display": "#2 — 62 pts",
+          "aliases": [
+            "Lokomotiv"
+          ]
+        },
+        {
+          "answer": "Torpedo Moscow",
+          "display": "#3 — 55 pts",
+          "aliases": [
+            "Torpedo"
+          ]
+        },
+        {
+          "answer": "Anzhi Makhachkala",
+          "display": "#4 — 52 pts",
+          "aliases": [
+            "Anzhi"
+          ]
+        },
+        {
+          "answer": "Dynamo Moscow",
+          "display": "#5 — 50 pts",
+          "aliases": [
+            "Dynamo"
+          ]
+        },
+        {
+          "answer": "Chernomorets Novorossiysk",
+          "display": "#6 — 49 pts",
+          "aliases": [
+            "Chernomorets"
+          ]
+        },
+        {
+          "answer": "Zenit Saint Petersburg",
+          "display": "#7 — 47 pts",
+          "aliases": [
+            "Zenit St. Petersburg",
+            "Zenit"
+          ]
+        },
+        {
+          "answer": "CSKA Moscow",
+          "display": "#8 — 41 pts",
+          "aliases": [
+            "CSKA"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/soccer/russia/premier-league",
+      "question": "Top 5 clubs in the final 2001 Russian Top Division table",
+      "cutoff": 5,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1305231407 | table 2 | name: Team | value: Pos | order: asc",
+      "tags": [
+        "football",
+        "russian-premier-league",
+        "seasons"
+      ],
+      "answers": [
+        {
+          "answer": "Spartak Moscow",
+          "display": "#1 — 60 pts",
+          "aliases": [
+            "Spartak"
+          ]
+        },
+        {
+          "answer": "Lokomotiv Moscow",
+          "display": "#2 — 56 pts",
+          "aliases": [
+            "Lokomotiv"
+          ]
+        },
+        {
+          "answer": "Zenit Saint Petersburg",
+          "display": "#3 — 56 pts",
+          "aliases": [
+            "Zenit St. Petersburg",
+            "Zenit"
+          ]
+        },
+        {
+          "answer": "Torpedo Moscow",
+          "display": "#4 — 52 pts",
+          "aliases": [
+            "Torpedo"
+          ]
+        },
+        {
+          "answer": "Krylia Sovetov Samara",
+          "display": "#5 — 49 pts",
+          "aliases": [
+            "Krylia Sovetov",
+            "Krylia"
+          ]
+        },
+        {
+          "answer": "Saturn",
+          "display": "#6 — 47 pts"
+        },
+        {
+          "answer": "CSKA Moscow",
+          "display": "#7 — 47 pts",
+          "aliases": [
+            "CSKA"
+          ]
+        },
+        {
+          "answer": "Sokol Saratov",
+          "display": "#8 — 41 pts",
+          "aliases": [
+            "Sokol"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/soccer/russia/premier-league",
+      "question": "Top 5 clubs in the final 2002 Russian Premier League table",
+      "cutoff": 5,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1375881778 | table 4 | name: Team | value: Pos | order: asc",
+      "tags": [
+        "football",
+        "russian-premier-league",
+        "seasons"
+      ],
+      "answers": [
+        {
+          "answer": "Lokomotiv Moscow",
+          "display": "#1 — 66 pts",
+          "aliases": [
+            "Lokomotiv"
+          ]
+        },
+        {
+          "answer": "CSKA Moscow",
+          "display": "#2 — 66 pts",
+          "aliases": [
+            "CSKA"
+          ]
+        },
+        {
+          "answer": "Spartak Moscow",
+          "display": "#3 — 55 pts",
+          "aliases": [
+            "Spartak"
+          ]
+        },
+        {
+          "answer": "Torpedo Moscow",
+          "display": "#4 — 50 pts",
+          "aliases": [
+            "Torpedo"
+          ]
+        },
+        {
+          "answer": "Krylia Sovetov Samara",
+          "display": "#5 — 49 pts",
+          "aliases": [
+            "Krylia Sovetov",
+            "Krylia"
+          ]
+        },
+        {
+          "answer": "Saturn",
+          "display": "#6 — 47 pts"
+        },
+        {
+          "answer": "Shinnik Yaroslavl",
+          "display": "#7 — 47 pts",
+          "aliases": [
+            "Shinnik"
+          ]
+        },
+        {
+          "answer": "Dynamo Moscow",
+          "display": "#8 — 42 pts",
+          "aliases": [
+            "Dynamo"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/soccer/russia/premier-league",
+      "question": "Top 5 clubs in the final 2003 Russian Premier League table",
+      "cutoff": 5,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1375882018 | table 4 | name: Team | value: Pos | order: asc",
+      "tags": [
+        "football",
+        "russian-premier-league",
+        "seasons"
+      ],
+      "answers": [
+        {
+          "answer": "CSKA Moscow",
+          "display": "#1 — 59 pts",
+          "aliases": [
+            "CSKA"
+          ]
+        },
+        {
+          "answer": "Zenit Saint Petersburg",
+          "display": "#2 — 56 pts",
+          "aliases": [
+            "Zenit St. Petersburg",
+            "Zenit"
+          ]
+        },
+        {
+          "answer": "Rubin Kazan",
+          "display": "#3 — 53 pts",
+          "aliases": [
+            "Rubin"
+          ]
+        },
+        {
+          "answer": "Lokomotiv Moscow",
+          "display": "#4 — 52 pts",
+          "aliases": [
+            "Lokomotiv"
+          ]
+        },
+        {
+          "answer": "Shinnik Yaroslavl",
+          "display": "#5 — 47 pts",
+          "aliases": [
+            "Shinnik"
+          ]
+        },
+        {
+          "answer": "Dynamo Moscow",
+          "display": "#6 — 46 pts",
+          "aliases": [
+            "Dynamo"
+          ]
+        },
+        {
+          "answer": "Saturn",
+          "display": "#7 — 45 pts"
+        },
+        {
+          "answer": "Torpedo Moscow",
+          "display": "#8 — 43 pts",
+          "aliases": [
+            "Torpedo"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/soccer/russia/premier-league",
+      "question": "Top 5 clubs in the final 2004 Russian Premier League table",
+      "cutoff": 5,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1375881541 | table 4 | name: Team | value: Pos | order: asc",
+      "tags": [
+        "football",
+        "russian-premier-league",
+        "seasons"
+      ],
+      "answers": [
+        {
+          "answer": "Lokomotiv Moscow",
+          "display": "#1 — 61 pts",
+          "aliases": [
+            "Lokomotiv"
+          ]
+        },
+        {
+          "answer": "CSKA Moscow",
+          "display": "#2 — 60 pts",
+          "aliases": [
+            "CSKA"
+          ]
+        },
+        {
+          "answer": "Krylia Sovetov Samara",
+          "display": "#3 — 56 pts",
+          "aliases": [
+            "Krylia Sovetov",
+            "Krylia"
+          ]
+        },
+        {
+          "answer": "Zenit Saint Petersburg",
+          "display": "#4 — 56 pts",
+          "aliases": [
+            "Zenit St. Petersburg",
+            "Zenit"
+          ]
+        },
+        {
+          "answer": "Torpedo Moscow",
+          "display": "#5 — 54 pts",
+          "aliases": [
+            "Torpedo"
+          ]
+        },
+        {
+          "answer": "Shinnik Yaroslavl",
+          "display": "#6 — 44 pts",
+          "aliases": [
+            "Shinnik"
+          ]
+        },
+        {
+          "answer": "Saturn",
+          "display": "#7 — 41 pts"
+        },
+        {
+          "answer": "Spartak Moscow",
+          "display": "#8 — 40 pts",
+          "aliases": [
+            "Spartak"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/soccer/russia/premier-league",
+      "question": "Top 5 clubs in the final 2005 Russian Premier League table",
+      "cutoff": 5,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1369138438 | table 4 | name: Team | value: Pos | order: asc",
+      "tags": [
+        "football",
+        "russian-premier-league",
+        "seasons"
+      ],
+      "answers": [
+        {
+          "answer": "CSKA Moscow",
+          "display": "#1 — 62 pts",
+          "aliases": [
+            "CSKA"
+          ]
+        },
+        {
+          "answer": "Spartak Moscow",
+          "display": "#2 — 56 pts",
+          "aliases": [
+            "Spartak"
+          ]
+        },
+        {
+          "answer": "Lokomotiv Moscow",
+          "display": "#3 — 56 pts",
+          "aliases": [
+            "Lokomotiv"
+          ]
+        },
+        {
+          "answer": "Rubin Kazan",
+          "display": "#4 — 51 pts",
+          "aliases": [
+            "Rubin"
+          ]
+        },
+        {
+          "answer": "FC Moscow",
+          "display": "#5 — 50 pts"
+        },
+        {
+          "answer": "Zenit Saint Petersburg",
+          "display": "#6 — 49 pts",
+          "aliases": [
+            "Zenit St. Petersburg",
+            "Zenit"
+          ]
+        },
+        {
+          "answer": "Torpedo Moscow",
+          "display": "#7 — 45 pts",
+          "aliases": [
+            "Torpedo"
+          ]
+        },
+        {
+          "answer": "Dynamo Moscow",
+          "display": "#8 — 38 pts",
+          "aliases": [
+            "Dynamo"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/soccer/russia/premier-league",
+      "question": "Top 5 clubs in the final 2006 Russian Premier League table",
+      "cutoff": 5,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1364233408 | table 4 | name: Team | value: Pos | order: asc",
+      "tags": [
+        "football",
+        "russian-premier-league",
+        "seasons"
+      ],
+      "answers": [
+        {
+          "answer": "CSKA Moscow",
+          "display": "#1 — 58 pts",
+          "aliases": [
+            "CSKA"
+          ]
+        },
+        {
+          "answer": "Spartak Moscow",
+          "display": "#2 — 58 pts",
+          "aliases": [
+            "Spartak"
+          ]
+        },
+        {
+          "answer": "Lokomotiv Moscow",
+          "display": "#3 — 53 pts",
+          "aliases": [
+            "Lokomotiv"
+          ]
+        },
+        {
+          "answer": "Zenit Saint Petersburg",
+          "display": "#4 — 50 pts",
+          "aliases": [
+            "Zenit St. Petersburg",
+            "Zenit"
+          ]
+        },
+        {
+          "answer": "Rubin Kazan",
+          "display": "#5 — 49 pts",
+          "aliases": [
+            "Rubin"
+          ]
+        },
+        {
+          "answer": "FC Moscow",
+          "display": "#6 — 43 pts"
+        },
+        {
+          "answer": "Luch-Energiya Vladivostok",
+          "display": "#7 — 41 pts",
+          "aliases": [
+            "Luch-Energiya",
+            "Luch"
+          ]
+        },
+        {
+          "answer": "Tom Tomsk",
+          "display": "#8 — 41 pts",
+          "aliases": [
+            "Tom"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/soccer/russia/premier-league",
+      "question": "Top 5 clubs in the final 2007 Russian Premier League table",
+      "cutoff": 5,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1364827847 | table 4 | name: Team | value: Pos | order: asc",
+      "tags": [
+        "football",
+        "russian-premier-league",
+        "seasons"
+      ],
+      "answers": [
+        {
+          "answer": "Zenit Saint Petersburg",
+          "display": "#1 — 61 pts",
+          "aliases": [
+            "Zenit St. Petersburg",
+            "Zenit"
+          ]
+        },
+        {
+          "answer": "Spartak Moscow",
+          "display": "#2 — 59 pts",
+          "aliases": [
+            "Spartak"
+          ]
+        },
+        {
+          "answer": "CSKA Moscow",
+          "display": "#3 — 53 pts",
+          "aliases": [
+            "CSKA"
+          ]
+        },
+        {
+          "answer": "FC Moscow",
+          "display": "#4 — 52 pts"
+        },
+        {
+          "answer": "Saturn",
+          "display": "#5 — 45 pts"
+        },
+        {
+          "answer": "Dynamo Moscow",
+          "display": "#6 — 41 pts",
+          "aliases": [
+            "Dynamo"
+          ]
+        },
+        {
+          "answer": "Lokomotiv Moscow",
+          "display": "#7 — 41 pts",
+          "aliases": [
+            "Lokomotiv"
+          ]
+        },
+        {
+          "answer": "Amkar Perm",
+          "display": "#8 — 41 pts",
+          "aliases": [
+            "Amkar"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/soccer/russia/premier-league",
+      "question": "Top 5 clubs in the final 2008 Russian Premier League table",
+      "cutoff": 5,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1364827958 | table 4 | name: Team | value: Pos | order: asc",
+      "tags": [
+        "football",
+        "russian-premier-league",
+        "seasons"
+      ],
+      "answers": [
+        {
+          "answer": "Rubin Kazan",
+          "display": "#1 — 60 pts",
+          "aliases": [
+            "Rubin"
+          ]
+        },
+        {
+          "answer": "CSKA Moscow",
+          "display": "#2 — 56 pts",
+          "aliases": [
+            "CSKA"
+          ]
+        },
+        {
+          "answer": "Dynamo Moscow",
+          "display": "#3 — 54 pts",
+          "aliases": [
+            "Dynamo"
+          ]
+        },
+        {
+          "answer": "Amkar Perm",
+          "display": "#4 — 51 pts",
+          "aliases": [
+            "Amkar"
+          ]
+        },
+        {
+          "answer": "Zenit Saint Petersburg",
+          "display": "#5 — 48 pts",
+          "aliases": [
+            "Zenit St. Petersburg",
+            "Zenit"
+          ]
+        },
+        {
+          "answer": "Krylia Sovetov Samara",
+          "display": "#6 — 48 pts",
+          "aliases": [
+            "Krylia Sovetov",
+            "Krylia"
+          ]
+        },
+        {
+          "answer": "Lokomotiv Moscow",
+          "display": "#7 — 47 pts",
+          "aliases": [
+            "Lokomotiv"
+          ]
+        },
+        {
+          "answer": "Spartak Moscow",
+          "display": "#8 — 44 pts",
+          "aliases": [
+            "Spartak"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/soccer/russia/premier-league",
+      "question": "Top 5 clubs in the final 2009 Russian Premier League table",
+      "cutoff": 5,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1379277527 | table 4 | name: Team | value: Pos | order: asc",
+      "tags": [
+        "football",
+        "russian-premier-league",
+        "seasons"
+      ],
+      "answers": [
+        {
+          "answer": "Rubin Kazan",
+          "display": "#1 — 63 pts",
+          "aliases": [
+            "Rubin"
+          ]
+        },
+        {
+          "answer": "Spartak Moscow",
+          "display": "#2 — 55 pts",
+          "aliases": [
+            "Spartak"
+          ]
+        },
+        {
+          "answer": "Zenit Saint Petersburg",
+          "display": "#3 — 54 pts",
+          "aliases": [
+            "Zenit St. Petersburg",
+            "Zenit"
+          ]
+        },
+        {
+          "answer": "Lokomotiv Moscow",
+          "display": "#4 — 54 pts",
+          "aliases": [
+            "Lokomotiv"
+          ]
+        },
+        {
+          "answer": "CSKA Moscow",
+          "display": "#5 — 52 pts",
+          "aliases": [
+            "CSKA"
+          ]
+        },
+        {
+          "answer": "FC Moscow",
+          "display": "#6 — 48 pts"
+        },
+        {
+          "answer": "Saturn",
+          "display": "#7 — 45 pts"
+        },
+        {
+          "answer": "Dynamo Moscow",
+          "display": "#8 — 42 pts",
+          "aliases": [
+            "Dynamo"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/soccer/russia/premier-league",
+      "question": "Top 5 clubs in the final 2010 Russian Premier League table",
+      "cutoff": 5,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1370112906 | table 4 | name: Team | value: Pos | order: asc",
+      "tags": [
+        "football",
+        "russian-premier-league",
+        "seasons"
+      ],
+      "answers": [
+        {
+          "answer": "Zenit Saint Petersburg",
+          "display": "#1 — 68 pts",
+          "aliases": [
+            "Zenit St. Petersburg",
+            "Zenit"
+          ]
+        },
+        {
+          "answer": "CSKA Moscow",
+          "display": "#2 — 62 pts",
+          "aliases": [
+            "CSKA"
+          ]
+        },
+        {
+          "answer": "Rubin Kazan",
+          "display": "#3 — 58 pts",
+          "aliases": [
+            "Rubin"
+          ]
+        },
+        {
+          "answer": "Spartak Moscow",
+          "display": "#4 — 49 pts"
+        },
+        {
+          "answer": "Lokomotiv Moscow",
+          "display": "#5 — 48 pts",
+          "aliases": [
+            "Lokomotiv"
+          ]
+        },
+        {
+          "answer": "Spartak Nalchik",
+          "display": "#6 — 44 pts"
+        },
+        {
+          "answer": "Dynamo Moscow",
+          "display": "#7 — 40 pts",
+          "aliases": [
+            "Dynamo"
+          ]
+        },
+        {
+          "answer": "Tom Tomsk",
+          "display": "#8 — 37 pts",
+          "aliases": [
+            "Tom"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/soccer/russia/premier-league",
+      "question": "Top 5 clubs in the final 2012–13 Russian Premier League table",
+      "cutoff": 5,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1371353013 | table 3 | name: Team | value: Pos | order: asc",
+      "tags": [
+        "football",
+        "russian-premier-league",
+        "seasons"
+      ],
+      "answers": [
+        {
+          "answer": "CSKA Moscow",
+          "display": "#1 — 64 pts",
+          "aliases": [
+            "CSKA"
+          ]
+        },
+        {
+          "answer": "Zenit Saint Petersburg",
+          "display": "#2 — 62 pts",
+          "aliases": [
+            "Zenit St. Petersburg",
+            "Zenit"
+          ]
+        },
+        {
+          "answer": "Anzhi Makhachkala",
+          "display": "#3 — 53 pts",
+          "aliases": [
+            "Anzhi"
+          ]
+        },
+        {
+          "answer": "Spartak Moscow",
+          "display": "#4 — 51 pts",
+          "aliases": [
+            "Spartak"
+          ]
+        },
+        {
+          "answer": "Kuban Krasnodar",
+          "display": "#5 — 51 pts",
+          "aliases": [
+            "Kuban"
+          ]
+        },
+        {
+          "answer": "Rubin Kazan",
+          "display": "#6 — 50 pts",
+          "aliases": [
+            "Rubin"
+          ]
+        },
+        {
+          "answer": "Dynamo Moscow",
+          "display": "#7 — 48 pts",
+          "aliases": [
+            "Dynamo"
+          ]
+        },
+        {
+          "answer": "Terek Grozny",
+          "display": "#8 — 48 pts",
+          "aliases": [
+            "Terek"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/soccer/russia/premier-league",
+      "question": "Top 5 clubs in the final 2013–14 Russian Premier League table",
+      "cutoff": 5,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1371768472 | table 3 | name: Team | value: Pos | order: asc",
+      "tags": [
+        "football",
+        "russian-premier-league",
+        "seasons"
+      ],
+      "answers": [
+        {
+          "answer": "CSKA Moscow",
+          "display": "#1 — 64 pts",
+          "aliases": [
+            "CSKA"
+          ]
+        },
+        {
+          "answer": "Zenit Saint Petersburg",
+          "display": "#2 — 63 pts",
+          "aliases": [
+            "Zenit St. Petersburg",
+            "Zenit"
+          ]
+        },
+        {
+          "answer": "Lokomotiv Moscow",
+          "display": "#3 — 59 pts",
+          "aliases": [
+            "Lokomotiv"
+          ]
+        },
+        {
+          "answer": "Dynamo Moscow",
+          "display": "#4 — 52 pts",
+          "aliases": [
+            "Dynamo"
+          ]
+        },
+        {
+          "answer": "Krasnodar",
+          "display": "#5 — 50 pts",
+          "aliases": [
+            "FC Krasnodar"
+          ]
+        },
+        {
+          "answer": "Spartak Moscow",
+          "display": "#6 — 50 pts",
+          "aliases": [
+            "Spartak"
+          ]
+        },
+        {
+          "answer": "Rostov",
+          "display": "#7 — 39 pts",
+          "aliases": [
+            "FC Rostov"
+          ]
+        },
+        {
+          "answer": "Kuban Krasnodar",
+          "display": "#8 — 38 pts",
+          "aliases": [
+            "Kuban"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/soccer/russia/premier-league",
+      "question": "Top 5 clubs in the final 2014–15 Russian Premier League table",
+      "cutoff": 5,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1372378961 | table 4 | name: Team | value: Pos | order: asc",
+      "tags": [
+        "football",
+        "russian-premier-league",
+        "seasons"
+      ],
+      "answers": [
+        {
+          "answer": "Zenit Saint Petersburg",
+          "display": "#1 — 67 pts",
+          "aliases": [
+            "Zenit St. Petersburg",
+            "Zenit"
+          ]
+        },
+        {
+          "answer": "CSKA Moscow",
+          "display": "#2 — 60 pts",
+          "aliases": [
+            "CSKA"
+          ]
+        },
+        {
+          "answer": "Krasnodar",
+          "display": "#3 — 60 pts",
+          "aliases": [
+            "FC Krasnodar"
+          ]
+        },
+        {
+          "answer": "Dynamo Moscow",
+          "display": "#4 — 50 pts",
+          "aliases": [
+            "Dynamo"
+          ]
+        },
+        {
+          "answer": "Rubin Kazan",
+          "display": "#5 — 48 pts",
+          "aliases": [
+            "Rubin"
+          ]
+        },
+        {
+          "answer": "Spartak Moscow",
+          "display": "#6 — 44 pts",
+          "aliases": [
+            "Spartak"
+          ]
+        },
+        {
+          "answer": "Lokomotiv Moscow",
+          "display": "#7 — 43 pts",
+          "aliases": [
+            "Lokomotiv"
+          ]
+        },
+        {
+          "answer": "Mordovia Saransk",
+          "display": "#8 — 38 pts",
+          "aliases": [
+            "Mordovia"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/soccer/russia/premier-league",
+      "question": "Top 5 clubs in the final 2015–16 Russian Premier League table",
+      "cutoff": 5,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1373040735 | table 4 | name: Team | value: Pos | order: asc",
+      "tags": [
+        "football",
+        "russian-premier-league",
+        "seasons"
+      ],
+      "answers": [
+        {
+          "answer": "CSKA Moscow",
+          "display": "#1 — 65 pts",
+          "aliases": [
+            "CSKA"
+          ]
+        },
+        {
+          "answer": "Rostov",
+          "display": "#2 — 63 pts",
+          "aliases": [
+            "FC Rostov"
+          ]
+        },
+        {
+          "answer": "Zenit Saint Petersburg",
+          "display": "#3 — 59 pts",
+          "aliases": [
+            "Zenit",
+            "Zenit St. Petersburg"
+          ]
+        },
+        {
+          "answer": "Krasnodar",
+          "display": "#4 — 56 pts",
+          "aliases": [
+            "FC Krasnodar"
+          ]
+        },
+        {
+          "answer": "Spartak Moscow",
+          "display": "#5 — 50 pts",
+          "aliases": [
+            "Spartak"
+          ]
+        },
+        {
+          "answer": "Lokomotiv Moscow",
+          "display": "#6 — 50 pts",
+          "aliases": [
+            "Lokomotiv"
+          ]
+        },
+        {
+          "answer": "Terek Grozny",
+          "display": "#7 — 44 pts",
+          "aliases": [
+            "Terek"
+          ]
+        },
+        {
+          "answer": "Ural Yekaterinburg",
+          "display": "#8 — 39 pts",
+          "aliases": [
+            "Ural Sverdlovsk Oblast",
+            "Ural"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/soccer/russia/premier-league",
+      "question": "Top 5 clubs in the final 2016–17 Russian Premier League table",
+      "cutoff": 5,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1373590976 | table 4 | name: Team | value: Pos | order: asc",
+      "tags": [
+        "football",
+        "russian-premier-league",
+        "seasons"
+      ],
+      "answers": [
+        {
+          "answer": "Spartak Moscow",
+          "display": "#1 — 69 pts",
+          "aliases": [
+            "Spartak"
+          ]
+        },
+        {
+          "answer": "CSKA Moscow",
+          "display": "#2 — 62 pts",
+          "aliases": [
+            "CSKA"
+          ]
+        },
+        {
+          "answer": "Zenit Saint Petersburg",
+          "display": "#3 — 61 pts",
+          "aliases": [
+            "Zenit",
+            "Zenit St. Petersburg"
+          ]
+        },
+        {
+          "answer": "Krasnodar",
+          "display": "#4 — 49 pts",
+          "aliases": [
+            "FC Krasnodar"
+          ]
+        },
+        {
+          "answer": "Terek Grozny",
+          "display": "#5 — 48 pts",
+          "aliases": [
+            "Terek"
+          ]
+        },
+        {
+          "answer": "Rostov",
+          "display": "#6 — 48 pts",
+          "aliases": [
+            "FC Rostov"
+          ]
+        },
+        {
+          "answer": "Ufa",
+          "display": "#7 — 43 pts",
+          "aliases": [
+            "FC Ufa"
+          ]
+        },
+        {
+          "answer": "Lokomotiv Moscow",
+          "display": "#8 — 42 pts",
+          "aliases": [
+            "Lokomotiv"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/soccer/russia/premier-league",
+      "question": "Top 5 clubs in the final 2017–18 Russian Premier League table",
+      "cutoff": 5,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1377237343 | table 4 | name: Team | value: Pos | order: asc",
+      "tags": [
+        "football",
+        "russian-premier-league",
+        "seasons"
+      ],
+      "answers": [
+        {
+          "answer": "Lokomotiv Moscow",
+          "display": "#1 — 60 pts",
+          "aliases": [
+            "Lokomotiv"
+          ]
+        },
+        {
+          "answer": "CSKA Moscow",
+          "display": "#2 — 58 pts",
+          "aliases": [
+            "CSKA"
+          ]
+        },
+        {
+          "answer": "Spartak Moscow",
+          "display": "#3 — 56 pts",
+          "aliases": [
+            "Spartak"
+          ]
+        },
+        {
+          "answer": "Krasnodar",
+          "display": "#4 — 54 pts",
+          "aliases": [
+            "FC Krasnodar"
+          ]
+        },
+        {
+          "answer": "Zenit Saint Petersburg",
+          "display": "#5 — 53 pts",
+          "aliases": [
+            "Zenit",
+            "Zenit St. Petersburg"
+          ]
+        },
+        {
+          "answer": "Ufa",
+          "display": "#6 — 43 pts",
+          "aliases": [
+            "FC Ufa"
+          ]
+        },
+        {
+          "answer": "Arsenal Tula",
+          "display": "#7 — 42 pts",
+          "aliases": [
+            "Arsenal"
+          ]
+        },
+        {
+          "answer": "Dynamo Moscow",
+          "display": "#8 — 40 pts",
+          "aliases": [
+            "Dynamo"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/soccer/russia/premier-league",
+      "question": "Top 5 clubs in the final 2018–19 Russian Premier League table",
+      "cutoff": 5,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1374554305 | table 4 | name: Team | value: Pos | order: asc",
+      "tags": [
+        "football",
+        "russian-premier-league",
+        "seasons"
+      ],
+      "answers": [
+        {
+          "answer": "Zenit Saint Petersburg",
+          "display": "#1 — 64 pts",
+          "aliases": [
+            "Zenit",
+            "Zenit St. Petersburg"
+          ]
+        },
+        {
+          "answer": "Lokomotiv Moscow",
+          "display": "#2 — 56 pts",
+          "aliases": [
+            "Lokomotiv"
+          ]
+        },
+        {
+          "answer": "Krasnodar",
+          "display": "#3 — 56 pts",
+          "aliases": [
+            "FC Krasnodar"
+          ]
+        },
+        {
+          "answer": "CSKA Moscow",
+          "display": "#4 — 51 pts",
+          "aliases": [
+            "CSKA"
+          ]
+        },
+        {
+          "answer": "Spartak Moscow",
+          "display": "#5 — 49 pts",
+          "aliases": [
+            "Spartak"
+          ]
+        },
+        {
+          "answer": "Arsenal Tula",
+          "display": "#6 — 46 pts",
+          "aliases": [
+            "Arsenal"
+          ]
+        },
+        {
+          "answer": "Orenburg",
+          "display": "#7 — 43 pts"
+        },
+        {
+          "answer": "Akhmat Grozny",
+          "display": "#8 — 42 pts",
+          "aliases": [
+            "Akhmat"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/soccer/russia/premier-league",
+      "question": "Top 5 clubs in the final 2019–20 Russian Premier League table",
+      "cutoff": 5,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1375351205 | table 4 | name: Team | value: Pos | order: asc",
+      "tags": [
+        "football",
+        "russian-premier-league",
+        "seasons"
+      ],
+      "answers": [
+        {
+          "answer": "Zenit Saint Petersburg",
+          "display": "#1 — 72 pts",
+          "aliases": [
+            "Zenit",
+            "Zenit St. Petersburg"
+          ]
+        },
+        {
+          "answer": "Lokomotiv Moscow",
+          "display": "#2 — 57 pts",
+          "aliases": [
+            "Lokomotiv"
+          ]
+        },
+        {
+          "answer": "Krasnodar",
+          "display": "#3 — 52 pts",
+          "aliases": [
+            "FC Krasnodar"
+          ]
+        },
+        {
+          "answer": "CSKA Moscow",
+          "display": "#4 — 50 pts",
+          "aliases": [
+            "CSKA"
+          ]
+        },
+        {
+          "answer": "Rostov",
+          "display": "#5 — 45 pts",
+          "aliases": [
+            "FC Rostov"
+          ]
+        },
+        {
+          "answer": "Dynamo Moscow",
+          "display": "#6 — 41 pts",
+          "aliases": [
+            "Dynamo"
+          ]
+        },
+        {
+          "answer": "Spartak Moscow",
+          "display": "#7 — 39 pts",
+          "aliases": [
+            "Spartak"
+          ]
+        },
+        {
+          "answer": "Arsenal Tula",
+          "display": "#8 — 38 pts",
+          "aliases": [
+            "Arsenal"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/soccer/russia/premier-league",
+      "question": "Top 5 clubs in the final 2020–21 Russian Premier League table",
+      "cutoff": 5,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1375815675 | table 4 | name: Team | value: Pos | order: asc",
+      "tags": [
+        "football",
+        "russian-premier-league",
+        "seasons"
+      ],
+      "answers": [
+        {
+          "answer": "Zenit Saint Petersburg",
+          "display": "#1 — 65 pts",
+          "aliases": [
+            "Zenit St. Petersburg",
+            "Zenit"
+          ]
+        },
+        {
+          "answer": "Spartak Moscow",
+          "display": "#2 — 57 pts",
+          "aliases": [
+            "Spartak"
+          ]
+        },
+        {
+          "answer": "Lokomotiv Moscow",
+          "display": "#3 — 56 pts",
+          "aliases": [
+            "Lokomotiv"
+          ]
+        },
+        {
+          "answer": "Rubin Kazan",
+          "display": "#4 — 53 pts",
+          "aliases": [
+            "Rubin"
+          ]
+        },
+        {
+          "answer": "Sochi",
+          "display": "#5 — 53 pts",
+          "aliases": [
+            "FC Sochi"
+          ]
+        },
+        {
+          "answer": "CSKA Moscow",
+          "display": "#6 — 50 pts",
+          "aliases": [
+            "CSKA"
+          ]
+        },
+        {
+          "answer": "Dynamo Moscow",
+          "display": "#7 — 50 pts",
+          "aliases": [
+            "Dynamo"
+          ]
+        },
+        {
+          "answer": "Khimki",
+          "display": "#8 — 45 pts",
+          "aliases": [
+            "FC Khimki"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/soccer/russia/premier-league",
+      "question": "Top 5 clubs in the final 2021–22 Russian Premier League table",
+      "cutoff": 5,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1376304705 | table 4 | name: Team | value: Pos | order: asc",
+      "tags": [
+        "football",
+        "russian-premier-league",
+        "seasons"
+      ],
+      "answers": [
+        {
+          "answer": "Zenit Saint Petersburg",
+          "display": "#1 — 65 pts",
+          "aliases": [
+            "Zenit",
+            "Zenit St. Petersburg"
+          ]
+        },
+        {
+          "answer": "Sochi",
+          "display": "#2 — 56 pts",
+          "aliases": [
+            "FC Sochi"
+          ]
+        },
+        {
+          "answer": "Dynamo Moscow",
+          "display": "#3 — 53 pts",
+          "aliases": [
+            "Dynamo"
+          ]
+        },
+        {
+          "answer": "Krasnodar",
+          "display": "#4 — 50 pts",
+          "aliases": [
+            "FC Krasnodar"
+          ]
+        },
+        {
+          "answer": "CSKA Moscow",
+          "display": "#5 — 50 pts",
+          "aliases": [
+            "CSKA"
+          ]
+        },
+        {
+          "answer": "Lokomotiv Moscow",
+          "display": "#6 — 48 pts",
+          "aliases": [
+            "Lokomotiv"
+          ]
+        },
+        {
+          "answer": "Akhmat Grozny",
+          "display": "#7 — 42 pts",
+          "aliases": [
+            "Akhmat"
+          ]
+        },
+        {
+          "answer": "Krylia Sovetov Samara",
+          "display": "#8 — 41 pts",
+          "aliases": [
+            "Krylia Sovetov",
+            "Krylia"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/soccer/russia/premier-league",
+      "question": "Top 5 clubs in the final 2022–23 Russian Premier League table",
+      "cutoff": 5,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1376899016 | table 4 | name: Team | value: Pos | order: asc",
+      "tags": [
+        "football",
+        "russian-premier-league",
+        "seasons"
+      ],
+      "answers": [
+        {
+          "answer": "Zenit Saint Petersburg",
+          "display": "#1 — 70 pts",
+          "aliases": [
+            "Zenit",
+            "Zenit St. Petersburg"
+          ]
+        },
+        {
+          "answer": "CSKA Moscow",
+          "display": "#2 — 58 pts",
+          "aliases": [
+            "CSKA"
+          ]
+        },
+        {
+          "answer": "Spartak Moscow",
+          "display": "#3 — 54 pts",
+          "aliases": [
+            "Spartak"
+          ]
+        },
+        {
+          "answer": "Rostov",
+          "display": "#4 — 53 pts",
+          "aliases": [
+            "FC Rostov"
+          ]
+        },
+        {
+          "answer": "Akhmat Grozny",
+          "display": "#5 — 50 pts",
+          "aliases": [
+            "Akhmat"
+          ]
+        },
+        {
+          "answer": "Krasnodar",
+          "display": "#6 — 48 pts",
+          "aliases": [
+            "FC Krasnodar"
+          ]
+        },
+        {
+          "answer": "Orenburg",
+          "display": "#7 — 46 pts"
+        },
+        {
+          "answer": "Lokomotiv Moscow",
+          "display": "#8 — 45 pts",
+          "aliases": [
+            "Lokomotiv"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/soccer/russia/premier-league",
+      "question": "Top 5 clubs in the final 2023–24 Russian Premier League table",
+      "cutoff": 5,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1377561312 | table 4 | name: Team | value: Pos | order: asc",
+      "tags": [
+        "football",
+        "russian-premier-league",
+        "seasons"
+      ],
+      "answers": [
+        {
+          "answer": "Zenit Saint Petersburg",
+          "display": "#1 — 57 pts",
+          "aliases": [
+            "Zenit",
+            "Zenit St. Petersburg"
+          ]
+        },
+        {
+          "answer": "Krasnodar",
+          "display": "#2 — 56 pts",
+          "aliases": [
+            "FC Krasnodar"
+          ]
+        },
+        {
+          "answer": "Dynamo Moscow",
+          "display": "#3 — 56 pts",
+          "aliases": [
+            "Dynamo"
+          ]
+        },
+        {
+          "answer": "Lokomotiv Moscow",
+          "display": "#4 — 53 pts",
+          "aliases": [
+            "Lokomotiv"
+          ]
+        },
+        {
+          "answer": "Spartak Moscow",
+          "display": "#5 — 50 pts",
+          "aliases": [
+            "Spartak"
+          ]
+        },
+        {
+          "answer": "CSKA Moscow",
+          "display": "#6 — 48 pts",
+          "aliases": [
+            "CSKA"
+          ]
+        },
+        {
+          "answer": "Rostov",
+          "display": "#7 — 43 pts",
+          "aliases": [
+            "FC Rostov"
+          ]
+        },
+        {
+          "answer": "Rubin Kazan",
+          "display": "#8 — 42 pts",
+          "aliases": [
+            "Rubin"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/soccer/russia/premier-league",
+      "question": "Top 5 clubs in the final 2024–25 Russian Premier League table",
+      "cutoff": 5,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1378137266 | table 4 | name: Team | value: Pos | order: asc",
+      "tags": [
+        "football",
+        "russian-premier-league",
+        "seasons"
+      ],
+      "answers": [
+        {
+          "answer": "Krasnodar",
+          "display": "#1 — 67 pts",
+          "aliases": [
+            "FC Krasnodar"
+          ]
+        },
+        {
+          "answer": "Zenit Saint Petersburg",
+          "display": "#2 — 66 pts",
+          "aliases": [
+            "Zenit",
+            "Zenit St. Petersburg"
+          ]
+        },
+        {
+          "answer": "CSKA Moscow",
+          "display": "#3 — 59 pts",
+          "aliases": [
+            "CSKA"
+          ]
+        },
+        {
+          "answer": "Spartak Moscow",
+          "display": "#4 — 57 pts",
+          "aliases": [
+            "Spartak"
+          ]
+        },
+        {
+          "answer": "Dynamo Moscow",
+          "display": "#5 — 56 pts",
+          "aliases": [
+            "Dynamo"
+          ]
+        },
+        {
+          "answer": "Lokomotiv Moscow",
+          "display": "#6 — 53 pts",
+          "aliases": [
+            "Lokomotiv"
+          ]
+        },
+        {
+          "answer": "Rubin Kazan",
+          "display": "#7 — 45 pts",
+          "aliases": [
+            "Rubin"
+          ]
+        },
+        {
+          "answer": "Rostov",
+          "display": "#8 — 39 pts",
+          "aliases": [
+            "FC Rostov"
+          ]
+        }
+      ]
+    }
+  ]
+}

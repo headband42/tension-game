@@ -1,0 +1,2570 @@
+{
+  "categories": [
+    {
+      "path": "sports/soccer/scandinavia",
+      "name": "Scandinavia"
+    },
+    {
+      "path": "sports/soccer/scandinavia/allsvenskan",
+      "name": "Allsvenskan Seasons"
+    },
+    {
+      "path": "sports/soccer/scandinavia/eliteserien",
+      "name": "Eliteserien Seasons"
+    }
+  ],
+  "questions": [
+    {
+      "category": "sports/soccer/scandinavia/allsvenskan",
+      "question": "Top 5 clubs in the final 2008 Allsvenskan table",
+      "cutoff": 5,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1376310940 | table 3 | name: Team | value: Pos | order: asc",
+      "tags": [
+        "football",
+        "allsvenskan",
+        "seasons"
+      ],
+      "answers": [
+        {
+          "answer": "Kalmar FF",
+          "display": "#1 — 64 pts",
+          "aliases": [
+            "Kalmar"
+          ]
+        },
+        {
+          "answer": "IF Elfsborg",
+          "display": "#2 — 63 pts",
+          "aliases": [
+            "Elfsborg"
+          ]
+        },
+        {
+          "answer": "IFK Göteborg",
+          "display": "#3 — 54 pts",
+          "aliases": [
+            "IFK Goteborg",
+            "Göteborg"
+          ]
+        },
+        {
+          "answer": "Helsingborgs IF",
+          "display": "#4 — 54 pts",
+          "aliases": [
+            "Helsingborg",
+            "HIF"
+          ]
+        },
+        {
+          "answer": "AIK",
+          "display": "#5 — 45 pts"
+        },
+        {
+          "answer": "Malmö FF",
+          "display": "#6 — 44 pts",
+          "aliases": [
+            "Malmo FF",
+            "Malmö"
+          ]
+        },
+        {
+          "answer": "Örebro SK",
+          "display": "#7 — 42 pts",
+          "aliases": [
+            "Örebro",
+            "Orebro"
+          ]
+        },
+        {
+          "answer": "Halmstads BK",
+          "display": "#8 — 41 pts",
+          "aliases": [
+            "Halmstad"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/soccer/scandinavia/allsvenskan",
+      "question": "Top 5 clubs in the final 2009 Allsvenskan table",
+      "cutoff": 5,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1367876123 | table 3 | name: Team | value: Pos | order: asc",
+      "tags": [
+        "football",
+        "allsvenskan",
+        "seasons"
+      ],
+      "answers": [
+        {
+          "answer": "AIK",
+          "display": "#1 — 61 pts"
+        },
+        {
+          "answer": "IFK Göteborg",
+          "display": "#2 — 57 pts",
+          "aliases": [
+            "IFK Goteborg",
+            "Göteborg"
+          ]
+        },
+        {
+          "answer": "IF Elfsborg",
+          "display": "#3 — 55 pts",
+          "aliases": [
+            "Elfsborg"
+          ]
+        },
+        {
+          "answer": "Kalmar FF",
+          "display": "#4 — 50 pts",
+          "aliases": [
+            "Kalmar"
+          ]
+        },
+        {
+          "answer": "BK Häcken",
+          "display": "#5 — 48 pts",
+          "aliases": [
+            "Häcken",
+            "Hacken"
+          ]
+        },
+        {
+          "answer": "Örebro SK",
+          "display": "#6 — 45 pts",
+          "aliases": [
+            "Örebro",
+            "Orebro"
+          ]
+        },
+        {
+          "answer": "Malmö FF",
+          "display": "#7 — 43 pts",
+          "aliases": [
+            "Malmo FF",
+            "Malmö"
+          ]
+        },
+        {
+          "answer": "Helsingborgs IF",
+          "display": "#8 — 43 pts",
+          "aliases": [
+            "Helsingborg",
+            "HIF"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/soccer/scandinavia/allsvenskan",
+      "question": "Top 5 clubs in the final 2010 Allsvenskan table",
+      "cutoff": 5,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1369907725 | table 3 | name: Team | value: Pos | order: asc",
+      "tags": [
+        "football",
+        "allsvenskan",
+        "seasons"
+      ],
+      "answers": [
+        {
+          "answer": "Malmö FF",
+          "display": "#1 — 67 pts",
+          "aliases": [
+            "Malmo FF",
+            "Malmö"
+          ]
+        },
+        {
+          "answer": "Helsingborgs IF",
+          "display": "#2 — 65 pts",
+          "aliases": [
+            "Helsingborg",
+            "HIF"
+          ]
+        },
+        {
+          "answer": "Örebro SK",
+          "display": "#3 — 52 pts",
+          "aliases": [
+            "Örebro",
+            "Orebro"
+          ]
+        },
+        {
+          "answer": "IF Elfsborg",
+          "display": "#4 — 47 pts",
+          "aliases": [
+            "Elfsborg"
+          ]
+        },
+        {
+          "answer": "Trelleborgs FF",
+          "display": "#5 — 44 pts",
+          "aliases": [
+            "Trelleborg"
+          ]
+        },
+        {
+          "answer": "Mjällby AIF",
+          "display": "#6 — 43 pts",
+          "aliases": [
+            "Mjällby",
+            "Mjallby"
+          ]
+        },
+        {
+          "answer": "IFK Göteborg",
+          "display": "#7 — 40 pts",
+          "aliases": [
+            "IFK Goteborg",
+            "Göteborg"
+          ]
+        },
+        {
+          "answer": "BK Häcken",
+          "display": "#8 — 40 pts",
+          "aliases": [
+            "Häcken",
+            "Hacken"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/soccer/scandinavia/allsvenskan",
+      "question": "Top 5 clubs in the final 2011 Allsvenskan table",
+      "cutoff": 5,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1374235286 | table 4 | name: Team | value: Pos | order: asc",
+      "tags": [
+        "football",
+        "allsvenskan",
+        "seasons"
+      ],
+      "answers": [
+        {
+          "answer": "Helsingborgs IF",
+          "display": "#1 — 63 pts",
+          "aliases": [
+            "Helsingborg",
+            "HIF"
+          ]
+        },
+        {
+          "answer": "AIK",
+          "display": "#2 — 58 pts"
+        },
+        {
+          "answer": "IF Elfsborg",
+          "display": "#3 — 57 pts",
+          "aliases": [
+            "Elfsborg"
+          ]
+        },
+        {
+          "answer": "Malmö FF",
+          "display": "#4 — 54 pts",
+          "aliases": [
+            "Malmo FF",
+            "Malmö"
+          ]
+        },
+        {
+          "answer": "GAIS",
+          "display": "#5 — 51 pts"
+        },
+        {
+          "answer": "BK Häcken",
+          "display": "#6 — 49 pts",
+          "aliases": [
+            "Häcken",
+            "Hacken"
+          ]
+        },
+        {
+          "answer": "IFK Göteborg",
+          "display": "#7 — 45 pts",
+          "aliases": [
+            "IFK Goteborg",
+            "Göteborg"
+          ]
+        },
+        {
+          "answer": "Kalmar FF",
+          "display": "#8 — 44 pts",
+          "aliases": [
+            "Kalmar"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/soccer/scandinavia/allsvenskan",
+      "question": "Top 5 clubs in the final 2012 Allsvenskan table",
+      "cutoff": 5,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1301873943 | table 4 | name: Team | value: Pos | order: asc",
+      "tags": [
+        "football",
+        "allsvenskan",
+        "seasons"
+      ],
+      "answers": [
+        {
+          "answer": "IF Elfsborg",
+          "display": "#1 — 59 pts",
+          "aliases": [
+            "Elfsborg"
+          ]
+        },
+        {
+          "answer": "BK Häcken",
+          "display": "#2 — 57 pts",
+          "aliases": [
+            "Häcken",
+            "Hacken"
+          ]
+        },
+        {
+          "answer": "Malmö FF",
+          "display": "#3 — 56 pts",
+          "aliases": [
+            "Malmo FF",
+            "Malmö"
+          ]
+        },
+        {
+          "answer": "AIK",
+          "display": "#4 — 55 pts"
+        },
+        {
+          "answer": "IFK Norrköping",
+          "display": "#5 — 52 pts",
+          "aliases": [
+            "Norrköping",
+            "Norrkoping"
+          ]
+        },
+        {
+          "answer": "Helsingborgs IF",
+          "display": "#6 — 50 pts",
+          "aliases": [
+            "Helsingborg",
+            "HIF"
+          ]
+        },
+        {
+          "answer": "IFK Göteborg",
+          "display": "#7 — 39 pts",
+          "aliases": [
+            "IFK Goteborg",
+            "Göteborg"
+          ]
+        },
+        {
+          "answer": "Åtvidabergs FF",
+          "display": "#8 — 37 pts",
+          "aliases": [
+            "Åtvidaberg",
+            "Atvidaberg",
+            "Atvidabergs FF"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/soccer/scandinavia/allsvenskan",
+      "question": "Top 5 clubs in the final 2013 Allsvenskan table",
+      "cutoff": 5,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1371411798 | table 4 | name: Team | value: Pos | order: asc",
+      "tags": [
+        "football",
+        "allsvenskan",
+        "seasons"
+      ],
+      "answers": [
+        {
+          "answer": "Malmö FF",
+          "display": "#1 — 63 pts",
+          "aliases": [
+            "Malmo FF",
+            "Malmö"
+          ]
+        },
+        {
+          "answer": "AIK",
+          "display": "#2 — 58 pts"
+        },
+        {
+          "answer": "IFK Göteborg",
+          "display": "#3 — 54 pts",
+          "aliases": [
+            "IFK Goteborg",
+            "Göteborg"
+          ]
+        },
+        {
+          "answer": "Kalmar FF",
+          "display": "#4 — 52 pts",
+          "aliases": [
+            "Kalmar"
+          ]
+        },
+        {
+          "answer": "Helsingborgs IF",
+          "display": "#5 — 49 pts",
+          "aliases": [
+            "Helsingborg",
+            "HIF"
+          ]
+        },
+        {
+          "answer": "IF Elfsborg",
+          "display": "#6 — 46 pts",
+          "aliases": [
+            "Elfsborg"
+          ]
+        },
+        {
+          "answer": "Djurgårdens IF",
+          "display": "#7 — 44 pts",
+          "aliases": [
+            "Djurgården",
+            "Djurgarden"
+          ]
+        },
+        {
+          "answer": "Åtvidabergs FF",
+          "display": "#8 — 40 pts",
+          "aliases": [
+            "Åtvidaberg",
+            "Atvidaberg",
+            "Atvidabergs FF"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/soccer/scandinavia/allsvenskan",
+      "question": "Top 5 clubs in the final 2014 Allsvenskan table",
+      "cutoff": 5,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1371812021 | table 4 | name: Team | value: Pos | order: asc",
+      "tags": [
+        "football",
+        "allsvenskan",
+        "seasons"
+      ],
+      "answers": [
+        {
+          "answer": "Malmö FF",
+          "display": "#1 — 62 pts",
+          "aliases": [
+            "Malmo FF",
+            "Malmö"
+          ]
+        },
+        {
+          "answer": "IFK Göteborg",
+          "display": "#2 — 56 pts",
+          "aliases": [
+            "IFK Goteborg",
+            "Göteborg"
+          ]
+        },
+        {
+          "answer": "AIK",
+          "display": "#3 — 52 pts"
+        },
+        {
+          "answer": "IF Elfsborg",
+          "display": "#4 — 52 pts",
+          "aliases": [
+            "Elfsborg"
+          ]
+        },
+        {
+          "answer": "BK Häcken",
+          "display": "#5 — 46 pts",
+          "aliases": [
+            "Häcken",
+            "Hacken"
+          ]
+        },
+        {
+          "answer": "Örebro SK",
+          "display": "#6 — 46 pts",
+          "aliases": [
+            "Örebro",
+            "Orebro"
+          ]
+        },
+        {
+          "answer": "Djurgårdens IF",
+          "display": "#7 — 43 pts",
+          "aliases": [
+            "Djurgården",
+            "Djurgarden"
+          ]
+        },
+        {
+          "answer": "Åtvidabergs FF",
+          "display": "#8 — 43 pts",
+          "aliases": [
+            "Åtvidaberg",
+            "Atvidaberg",
+            "Atvidabergs FF"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/soccer/scandinavia/allsvenskan",
+      "question": "Top 5 clubs in the final 2015 Allsvenskan table",
+      "cutoff": 5,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1372455038 | table 4 | name: Team | value: Pos | order: asc",
+      "tags": [
+        "football",
+        "allsvenskan",
+        "seasons"
+      ],
+      "answers": [
+        {
+          "answer": "IFK Norrköping",
+          "display": "#1 — 66 pts",
+          "aliases": [
+            "Norrköping",
+            "Norrkoping"
+          ]
+        },
+        {
+          "answer": "IFK Göteborg",
+          "display": "#2 — 63 pts",
+          "aliases": [
+            "IFK Goteborg",
+            "Göteborg"
+          ]
+        },
+        {
+          "answer": "AIK",
+          "display": "#3 — 61 pts"
+        },
+        {
+          "answer": "IF Elfsborg",
+          "display": "#4 — 55 pts",
+          "aliases": [
+            "Elfsborg"
+          ]
+        },
+        {
+          "answer": "Malmö FF",
+          "display": "#5 — 54 pts",
+          "aliases": [
+            "Malmo FF",
+            "Malmö"
+          ]
+        },
+        {
+          "answer": "Djurgårdens IF",
+          "display": "#6 — 51 pts",
+          "aliases": [
+            "Djurgården",
+            "Djurgarden"
+          ]
+        },
+        {
+          "answer": "BK Häcken",
+          "display": "#7 — 45 pts",
+          "aliases": [
+            "Häcken",
+            "Hacken"
+          ]
+        },
+        {
+          "answer": "Helsingborgs IF",
+          "display": "#8 — 37 pts",
+          "aliases": [
+            "Helsingborg",
+            "HIF"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/soccer/scandinavia/allsvenskan",
+      "question": "Top 5 clubs in the final 2016 Allsvenskan table",
+      "cutoff": 5,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1369364488 | table 4 | name: Team | value: Pos | order: asc",
+      "tags": [
+        "football",
+        "allsvenskan",
+        "seasons"
+      ],
+      "answers": [
+        {
+          "answer": "Malmö FF",
+          "display": "#1 — 66 pts",
+          "aliases": [
+            "Malmo FF",
+            "Malmö"
+          ]
+        },
+        {
+          "answer": "AIK",
+          "display": "#2 — 60 pts"
+        },
+        {
+          "answer": "IFK Norrköping",
+          "display": "#3 — 60 pts",
+          "aliases": [
+            "Norrköping",
+            "Norrkoping"
+          ]
+        },
+        {
+          "answer": "IFK Göteborg",
+          "display": "#4 — 50 pts",
+          "aliases": [
+            "IFK Goteborg",
+            "Göteborg"
+          ]
+        },
+        {
+          "answer": "IF Elfsborg",
+          "display": "#5 — 48 pts",
+          "aliases": [
+            "Elfsborg"
+          ]
+        },
+        {
+          "answer": "Kalmar FF",
+          "display": "#6 — 44 pts",
+          "aliases": [
+            "Kalmar"
+          ]
+        },
+        {
+          "answer": "Djurgårdens IF",
+          "display": "#7 — 43 pts",
+          "aliases": [
+            "Djurgården",
+            "Djurgarden"
+          ]
+        },
+        {
+          "answer": "Östersunds FK",
+          "display": "#8 — 42 pts",
+          "aliases": [
+            "Östersund",
+            "Ostersunds FK",
+            "Ostersunds"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/soccer/scandinavia/allsvenskan",
+      "question": "Top 5 clubs in the final 2017 Allsvenskan table",
+      "cutoff": 5,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1373649252 | table 4 | name: Team | value: Pos | order: asc",
+      "tags": [
+        "football",
+        "allsvenskan",
+        "seasons"
+      ],
+      "answers": [
+        {
+          "answer": "Malmö FF",
+          "display": "#1 — 64 pts",
+          "aliases": [
+            "Malmo FF",
+            "Malmö"
+          ]
+        },
+        {
+          "answer": "AIK",
+          "display": "#2 — 57 pts"
+        },
+        {
+          "answer": "Djurgårdens IF",
+          "display": "#3 — 53 pts",
+          "aliases": [
+            "Djurgården",
+            "Djurgarden"
+          ]
+        },
+        {
+          "answer": "BK Häcken",
+          "display": "#4 — 52 pts",
+          "aliases": [
+            "Häcken",
+            "Hacken"
+          ]
+        },
+        {
+          "answer": "Östersunds FK",
+          "display": "#5 — 50 pts",
+          "aliases": [
+            "Östersund",
+            "Ostersunds FK",
+            "Ostersunds"
+          ]
+        },
+        {
+          "answer": "IFK Norrköping",
+          "display": "#6 — 48 pts",
+          "aliases": [
+            "Norrköping",
+            "Norrkoping"
+          ]
+        },
+        {
+          "answer": "IK Sirius",
+          "display": "#7 — 40 pts",
+          "aliases": [
+            "Sirius"
+          ]
+        },
+        {
+          "answer": "IF Elfsborg",
+          "display": "#8 — 39 pts",
+          "aliases": [
+            "Elfsborg"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/soccer/scandinavia/allsvenskan",
+      "question": "Top 5 clubs in the final 2018 Allsvenskan table",
+      "cutoff": 5,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1374111671 | table 4 | name: Team | value: Pos | order: asc",
+      "tags": [
+        "football",
+        "allsvenskan",
+        "seasons"
+      ],
+      "answers": [
+        {
+          "answer": "AIK",
+          "display": "#1 — 67 pts"
+        },
+        {
+          "answer": "IFK Norrköping",
+          "display": "#2 — 65 pts",
+          "aliases": [
+            "Norrköping",
+            "Norrkoping"
+          ]
+        },
+        {
+          "answer": "Malmö FF",
+          "display": "#3 — 58 pts",
+          "aliases": [
+            "Malmo FF",
+            "Malmö"
+          ]
+        },
+        {
+          "answer": "Hammarby IF",
+          "display": "#4 — 58 pts",
+          "aliases": [
+            "Hammarby"
+          ]
+        },
+        {
+          "answer": "BK Häcken",
+          "display": "#5 — 53 pts",
+          "aliases": [
+            "Häcken",
+            "Hacken"
+          ]
+        },
+        {
+          "answer": "Östersunds FK",
+          "display": "#6 — 49 pts",
+          "aliases": [
+            "Östersund",
+            "Ostersunds FK",
+            "Ostersunds"
+          ]
+        },
+        {
+          "answer": "Djurgårdens IF",
+          "display": "#7 — 48 pts",
+          "aliases": [
+            "Djurgården",
+            "Djurgarden"
+          ]
+        },
+        {
+          "answer": "GIF Sundsvall",
+          "display": "#8 — 44 pts",
+          "aliases": [
+            "Sundsvall"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/soccer/scandinavia/allsvenskan",
+      "question": "Top 5 clubs in the final 2019 Allsvenskan table",
+      "cutoff": 5,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1374621600 | table 3 | name: Team | value: Pos | order: asc",
+      "tags": [
+        "football",
+        "allsvenskan",
+        "seasons"
+      ],
+      "answers": [
+        {
+          "answer": "Djurgårdens IF",
+          "display": "#1 — 66 pts",
+          "aliases": [
+            "Djurgården",
+            "Djurgarden"
+          ]
+        },
+        {
+          "answer": "Malmö FF",
+          "display": "#2 — 65 pts",
+          "aliases": [
+            "Malmo FF",
+            "Malmö"
+          ]
+        },
+        {
+          "answer": "Hammarby IF",
+          "display": "#3 — 65 pts",
+          "aliases": [
+            "Hammarby"
+          ]
+        },
+        {
+          "answer": "AIK",
+          "display": "#4 — 62 pts"
+        },
+        {
+          "answer": "IFK Norrköping",
+          "display": "#5 — 57 pts",
+          "aliases": [
+            "Norrköping",
+            "Norrkoping"
+          ]
+        },
+        {
+          "answer": "BK Häcken",
+          "display": "#6 — 49 pts",
+          "aliases": [
+            "Häcken",
+            "Hacken"
+          ]
+        },
+        {
+          "answer": "IFK Göteborg",
+          "display": "#7 — 48 pts",
+          "aliases": [
+            "IFK Goteborg",
+            "Göteborg"
+          ]
+        },
+        {
+          "answer": "IF Elfsborg",
+          "display": "#8 — 43 pts",
+          "aliases": [
+            "Elfsborg"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/soccer/scandinavia/allsvenskan",
+      "question": "Top 5 clubs in the final 2020 Allsvenskan table",
+      "cutoff": 5,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1375403836 | table 4 | name: Team | value: Pos | order: asc",
+      "tags": [
+        "football",
+        "allsvenskan",
+        "seasons"
+      ],
+      "answers": [
+        {
+          "answer": "Malmö FF",
+          "display": "#1 — 60 pts",
+          "aliases": [
+            "Malmo FF",
+            "Malmö"
+          ]
+        },
+        {
+          "answer": "IF Elfsborg",
+          "display": "#2 — 51 pts",
+          "aliases": [
+            "Elfsborg"
+          ]
+        },
+        {
+          "answer": "BK Häcken",
+          "display": "#3 — 49 pts",
+          "aliases": [
+            "Häcken",
+            "Hacken"
+          ]
+        },
+        {
+          "answer": "Djurgårdens IF",
+          "display": "#4 — 48 pts",
+          "aliases": [
+            "Djurgården",
+            "Djurgarden"
+          ]
+        },
+        {
+          "answer": "Mjällby AIF",
+          "display": "#5 — 47 pts",
+          "aliases": [
+            "Mjällby",
+            "Mjallby"
+          ]
+        },
+        {
+          "answer": "IFK Norrköping",
+          "display": "#6 — 46 pts",
+          "aliases": [
+            "Norrköping",
+            "Norrkoping"
+          ]
+        },
+        {
+          "answer": "Örebro SK",
+          "display": "#7 — 42 pts",
+          "aliases": [
+            "Örebro",
+            "Orebro"
+          ]
+        },
+        {
+          "answer": "Hammarby IF",
+          "display": "#8 — 41 pts",
+          "aliases": [
+            "Hammarby"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/soccer/scandinavia/allsvenskan",
+      "question": "Top 5 clubs in the final 2021 Allsvenskan table",
+      "cutoff": 5,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1375850619 | table 4 | name: Team | value: Pos | order: asc",
+      "tags": [
+        "football",
+        "allsvenskan",
+        "seasons"
+      ],
+      "answers": [
+        {
+          "answer": "Malmö FF",
+          "display": "#1 — 59 pts",
+          "aliases": [
+            "Malmo FF",
+            "Malmö"
+          ]
+        },
+        {
+          "answer": "AIK",
+          "display": "#2 — 59 pts"
+        },
+        {
+          "answer": "Djurgårdens IF",
+          "display": "#3 — 57 pts",
+          "aliases": [
+            "Djurgården",
+            "Djurgarden"
+          ]
+        },
+        {
+          "answer": "IF Elfsborg",
+          "display": "#4 — 55 pts",
+          "aliases": [
+            "Elfsborg"
+          ]
+        },
+        {
+          "answer": "Hammarby IF",
+          "display": "#5 — 53 pts",
+          "aliases": [
+            "Hammarby"
+          ]
+        },
+        {
+          "answer": "Kalmar FF",
+          "display": "#6 — 47 pts",
+          "aliases": [
+            "Kalmar"
+          ]
+        },
+        {
+          "answer": "IFK Norrköping",
+          "display": "#7 — 44 pts",
+          "aliases": [
+            "Norrköping",
+            "Norrkoping"
+          ]
+        },
+        {
+          "answer": "IFK Göteborg",
+          "display": "#8 — 41 pts",
+          "aliases": [
+            "IFK Goteborg",
+            "Göteborg"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/soccer/scandinavia/allsvenskan",
+      "question": "Top 5 clubs in the final 2022 Allsvenskan table",
+      "cutoff": 5,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1376361666 | table 4 | name: Team | value: Pos | order: asc",
+      "tags": [
+        "football",
+        "allsvenskan",
+        "seasons"
+      ],
+      "answers": [
+        {
+          "answer": "BK Häcken",
+          "display": "#1 — 64 pts",
+          "aliases": [
+            "Häcken",
+            "Hacken"
+          ]
+        },
+        {
+          "answer": "Djurgårdens IF",
+          "display": "#2 — 57 pts",
+          "aliases": [
+            "Djurgården",
+            "Djurgarden"
+          ]
+        },
+        {
+          "answer": "Hammarby IF",
+          "display": "#3 — 56 pts",
+          "aliases": [
+            "Hammarby"
+          ]
+        },
+        {
+          "answer": "Kalmar FF",
+          "display": "#4 — 51 pts",
+          "aliases": [
+            "Kalmar"
+          ]
+        },
+        {
+          "answer": "AIK",
+          "display": "#5 — 50 pts"
+        },
+        {
+          "answer": "IF Elfsborg",
+          "display": "#6 — 49 pts",
+          "aliases": [
+            "Elfsborg"
+          ]
+        },
+        {
+          "answer": "Malmö FF",
+          "display": "#7 — 46 pts",
+          "aliases": [
+            "Malmo FF",
+            "Malmö"
+          ]
+        },
+        {
+          "answer": "IFK Göteborg",
+          "display": "#8 — 45 pts",
+          "aliases": [
+            "IFK Goteborg",
+            "Göteborg"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/soccer/scandinavia/allsvenskan",
+      "question": "Top 5 clubs in the final 2023 Allsvenskan table",
+      "cutoff": 5,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1376978964 | table 4 | name: Team | value: Pos | order: asc",
+      "tags": [
+        "football",
+        "allsvenskan",
+        "seasons"
+      ],
+      "answers": [
+        {
+          "answer": "Malmö FF",
+          "display": "#1 — 64 pts",
+          "aliases": [
+            "Malmo FF",
+            "Malmö"
+          ]
+        },
+        {
+          "answer": "IF Elfsborg",
+          "display": "#2 — 64 pts",
+          "aliases": [
+            "Elfsborg"
+          ]
+        },
+        {
+          "answer": "BK Häcken",
+          "display": "#3 — 57 pts",
+          "aliases": [
+            "Häcken",
+            "Hacken"
+          ]
+        },
+        {
+          "answer": "Djurgårdens IF",
+          "display": "#4 — 50 pts",
+          "aliases": [
+            "Djurgården",
+            "Djurgarden"
+          ]
+        },
+        {
+          "answer": "IFK Värnamo",
+          "display": "#5 — 45 pts",
+          "aliases": [
+            "Värnamo"
+          ]
+        },
+        {
+          "answer": "Kalmar FF",
+          "display": "#6 — 45 pts",
+          "aliases": [
+            "Kalmar"
+          ]
+        },
+        {
+          "answer": "Hammarby IF",
+          "display": "#7 — 44 pts",
+          "aliases": [
+            "Hammarby"
+          ]
+        },
+        {
+          "answer": "IK Sirius",
+          "display": "#8 — 42 pts",
+          "aliases": [
+            "Sirius"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/soccer/scandinavia/allsvenskan",
+      "question": "Top 5 clubs in the final 2024 Allsvenskan table",
+      "cutoff": 5,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1354462960 | table 4 | name: Team | value: Pos | order: asc",
+      "tags": [
+        "football",
+        "allsvenskan",
+        "seasons"
+      ],
+      "answers": [
+        {
+          "answer": "Malmö FF",
+          "display": "#1 — 65 pts",
+          "aliases": [
+            "Malmo FF",
+            "Malmö"
+          ]
+        },
+        {
+          "answer": "Hammarby IF",
+          "display": "#2 — 54 pts",
+          "aliases": [
+            "Hammarby"
+          ]
+        },
+        {
+          "answer": "AIK",
+          "display": "#3 — 54 pts"
+        },
+        {
+          "answer": "Djurgårdens IF",
+          "display": "#4 — 53 pts",
+          "aliases": [
+            "Djurgården",
+            "Djurgarden"
+          ]
+        },
+        {
+          "answer": "Mjällby AIF",
+          "display": "#5 — 50 pts",
+          "aliases": [
+            "Mjällby",
+            "Mjallby"
+          ]
+        },
+        {
+          "answer": "GAIS",
+          "display": "#6 — 48 pts"
+        },
+        {
+          "answer": "IF Elfsborg",
+          "display": "#7 — 45 pts",
+          "aliases": [
+            "Elfsborg"
+          ]
+        },
+        {
+          "answer": "BK Häcken",
+          "display": "#8 — 42 pts",
+          "aliases": [
+            "Häcken",
+            "Hacken"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/soccer/scandinavia/allsvenskan",
+      "question": "Top 5 clubs in the final 2025 Allsvenskan table",
+      "cutoff": 5,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1376059037 | table 4 | name: Team | value: Pos | order: asc",
+      "tags": [
+        "football",
+        "allsvenskan",
+        "seasons"
+      ],
+      "answers": [
+        {
+          "answer": "Mjällby AIF",
+          "display": "#1 — 75 pts",
+          "aliases": [
+            "Mjällby",
+            "Mjallby"
+          ]
+        },
+        {
+          "answer": "Hammarby IF",
+          "display": "#2 — 62 pts",
+          "aliases": [
+            "Hammarby"
+          ]
+        },
+        {
+          "answer": "GAIS",
+          "display": "#3 — 52 pts"
+        },
+        {
+          "answer": "IFK Göteborg",
+          "display": "#4 — 51 pts",
+          "aliases": [
+            "IFK Goteborg",
+            "Göteborg"
+          ]
+        },
+        {
+          "answer": "Djurgårdens IF",
+          "display": "#5 — 49 pts",
+          "aliases": [
+            "Djurgården",
+            "Djurgarden"
+          ]
+        },
+        {
+          "answer": "Malmö FF",
+          "display": "#6 — 49 pts",
+          "aliases": [
+            "Malmo FF",
+            "Malmö"
+          ]
+        },
+        {
+          "answer": "AIK",
+          "display": "#7 — 48 pts"
+        },
+        {
+          "answer": "IF Elfsborg",
+          "display": "#8 — 40 pts",
+          "aliases": [
+            "Elfsborg"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/soccer/scandinavia/eliteserien",
+      "question": "Top 5 clubs in the final 2009 Tippeligaen table",
+      "cutoff": 5,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1369624445 | table 4 | name: Team | value: Pos | order: asc",
+      "tags": [
+        "football",
+        "eliteserien",
+        "seasons"
+      ],
+      "answers": [
+        {
+          "answer": "Rosenborg",
+          "display": "#1 — 69 pts",
+          "aliases": [
+            "RBK",
+            "Rosenborg BK"
+          ]
+        },
+        {
+          "answer": "Molde",
+          "display": "#2 — 56 pts",
+          "aliases": [
+            "Molde FK"
+          ]
+        },
+        {
+          "answer": "Stabæk",
+          "display": "#3 — 53 pts",
+          "aliases": [
+            "Stabaek"
+          ]
+        },
+        {
+          "answer": "Odd",
+          "display": "#4 — 46 pts",
+          "aliases": [
+            "Odd Grenland"
+          ]
+        },
+        {
+          "answer": "Brann",
+          "display": "#5 — 44 pts",
+          "aliases": [
+            "SK Brann"
+          ]
+        },
+        {
+          "answer": "Tromsø",
+          "display": "#6 — 40 pts",
+          "aliases": [
+            "TIL",
+            "Tromso"
+          ]
+        },
+        {
+          "answer": "Vålerenga",
+          "display": "#7 — 40 pts",
+          "aliases": [
+            "Valerenga"
+          ]
+        },
+        {
+          "answer": "Sandefjord",
+          "display": "#8 — 40 pts"
+        }
+      ]
+    },
+    {
+      "category": "sports/soccer/scandinavia/eliteserien",
+      "question": "Top 5 clubs in the final 2010 Tippeligaen table",
+      "cutoff": 5,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1301871642 | table 3 | name: Team | value: Pos | order: asc",
+      "tags": [
+        "football",
+        "eliteserien",
+        "seasons"
+      ],
+      "answers": [
+        {
+          "answer": "Rosenborg",
+          "display": "#1 — 68 pts",
+          "aliases": [
+            "RBK",
+            "Rosenborg BK"
+          ]
+        },
+        {
+          "answer": "Vålerenga",
+          "display": "#2 — 61 pts",
+          "aliases": [
+            "Valerenga"
+          ]
+        },
+        {
+          "answer": "Tromsø",
+          "display": "#3 — 50 pts",
+          "aliases": [
+            "TIL",
+            "Tromso"
+          ]
+        },
+        {
+          "answer": "Aalesund",
+          "display": "#4 — 47 pts",
+          "aliases": [
+            "Aalesunds FK"
+          ]
+        },
+        {
+          "answer": "Odd",
+          "display": "#5 — 46 pts",
+          "aliases": [
+            "Odd Grenland"
+          ]
+        },
+        {
+          "answer": "Haugesund",
+          "display": "#6 — 45 pts",
+          "aliases": [
+            "FK Haugesund"
+          ]
+        },
+        {
+          "answer": "Strømsgodset",
+          "display": "#7 — 43 pts",
+          "aliases": [
+            "Stromsgodset"
+          ]
+        },
+        {
+          "answer": "Start",
+          "display": "#8 — 42 pts",
+          "aliases": [
+            "IK Start"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/soccer/scandinavia/eliteserien",
+      "question": "Top 5 clubs in the final 2011 Tippeligaen table",
+      "cutoff": 5,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1322213834 | table 3 | name: Team | value: Pos | order: asc",
+      "tags": [
+        "football",
+        "eliteserien",
+        "seasons"
+      ],
+      "answers": [
+        {
+          "answer": "Molde",
+          "display": "#1 — 58 pts",
+          "aliases": [
+            "Molde FK"
+          ]
+        },
+        {
+          "answer": "Tromsø",
+          "display": "#2 — 53 pts",
+          "aliases": [
+            "TIL",
+            "Tromso"
+          ]
+        },
+        {
+          "answer": "Rosenborg",
+          "display": "#3 — 49 pts",
+          "aliases": [
+            "RBK",
+            "Rosenborg BK"
+          ]
+        },
+        {
+          "answer": "Brann",
+          "display": "#4 — 48 pts",
+          "aliases": [
+            "SK Brann"
+          ]
+        },
+        {
+          "answer": "Odd",
+          "display": "#5 — 48 pts",
+          "aliases": [
+            "Odd Grenland"
+          ]
+        },
+        {
+          "answer": "Haugesund",
+          "display": "#6 — 47 pts",
+          "aliases": [
+            "FK Haugesund"
+          ]
+        },
+        {
+          "answer": "Vålerenga",
+          "display": "#7 — 47 pts",
+          "aliases": [
+            "Valerenga"
+          ]
+        },
+        {
+          "answer": "Strømsgodset",
+          "display": "#8 — 45 pts",
+          "aliases": [
+            "Stromsgodset"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/soccer/scandinavia/eliteserien",
+      "question": "Top 5 clubs in the final 2012 Tippeligaen table",
+      "cutoff": 5,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1322214361 | table 4 | name: Team | value: Pos | order: asc",
+      "tags": [
+        "football",
+        "eliteserien",
+        "seasons"
+      ],
+      "answers": [
+        {
+          "answer": "Molde",
+          "display": "#1 — 62 pts",
+          "aliases": [
+            "Molde FK"
+          ]
+        },
+        {
+          "answer": "Strømsgodset",
+          "display": "#2 — 58 pts",
+          "aliases": [
+            "Stromsgodset"
+          ]
+        },
+        {
+          "answer": "Rosenborg",
+          "display": "#3 — 55 pts",
+          "aliases": [
+            "RBK",
+            "Rosenborg BK"
+          ]
+        },
+        {
+          "answer": "Tromsø",
+          "display": "#4 — 49 pts",
+          "aliases": [
+            "TIL",
+            "Tromso"
+          ]
+        },
+        {
+          "answer": "Viking",
+          "display": "#5 — 49 pts",
+          "aliases": [
+            "Viking FK"
+          ]
+        },
+        {
+          "answer": "Brann",
+          "display": "#6 — 42 pts",
+          "aliases": [
+            "SK Brann"
+          ]
+        },
+        {
+          "answer": "Haugesund",
+          "display": "#7 — 42 pts",
+          "aliases": [
+            "FK Haugesund"
+          ]
+        },
+        {
+          "answer": "Vålerenga",
+          "display": "#8 — 41 pts",
+          "aliases": [
+            "Valerenga"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/soccer/scandinavia/eliteserien",
+      "question": "Top 5 clubs in the final 2013 Tippeligaen table",
+      "cutoff": 5,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1369123721 | table 3 | name: Team | value: Pos | order: asc",
+      "tags": [
+        "football",
+        "eliteserien",
+        "seasons"
+      ],
+      "answers": [
+        {
+          "answer": "Strømsgodset",
+          "display": "#1 — 63 pts",
+          "aliases": [
+            "Stromsgodset"
+          ]
+        },
+        {
+          "answer": "Rosenborg",
+          "display": "#2 — 62 pts",
+          "aliases": [
+            "RBK",
+            "Rosenborg BK"
+          ]
+        },
+        {
+          "answer": "Haugesund",
+          "display": "#3 — 51 pts",
+          "aliases": [
+            "FK Haugesund"
+          ]
+        },
+        {
+          "answer": "Aalesund",
+          "display": "#4 — 49 pts",
+          "aliases": [
+            "Aalesunds FK"
+          ]
+        },
+        {
+          "answer": "Viking",
+          "display": "#5 — 46 pts",
+          "aliases": [
+            "Viking FK"
+          ]
+        },
+        {
+          "answer": "Molde",
+          "display": "#6 — 44 pts",
+          "aliases": [
+            "Molde FK"
+          ]
+        },
+        {
+          "answer": "Odd",
+          "display": "#7 — 40 pts",
+          "aliases": [
+            "Odd Grenland"
+          ]
+        },
+        {
+          "answer": "Brann",
+          "display": "#8 — 39 pts",
+          "aliases": [
+            "SK Brann"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/soccer/scandinavia/eliteserien",
+      "question": "Top 5 clubs in the final 2014 Tippeligaen table",
+      "cutoff": 5,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1322214627 | table 3 | name: Team | value: Pos | order: asc",
+      "tags": [
+        "football",
+        "eliteserien",
+        "seasons"
+      ],
+      "answers": [
+        {
+          "answer": "Molde",
+          "display": "#1 — 71 pts",
+          "aliases": [
+            "Molde FK"
+          ]
+        },
+        {
+          "answer": "Rosenborg",
+          "display": "#2 — 60 pts",
+          "aliases": [
+            "RBK",
+            "Rosenborg BK"
+          ]
+        },
+        {
+          "answer": "Odd",
+          "display": "#3 — 58 pts",
+          "aliases": [
+            "Odd Grenland"
+          ]
+        },
+        {
+          "answer": "Strømsgodset",
+          "display": "#4 — 50 pts",
+          "aliases": [
+            "Stromsgodset"
+          ]
+        },
+        {
+          "answer": "Lillestrøm",
+          "display": "#5 — 46 pts",
+          "aliases": [
+            "Lillestrom",
+            "LSK"
+          ]
+        },
+        {
+          "answer": "Vålerenga",
+          "display": "#6 — 42 pts",
+          "aliases": [
+            "Valerenga"
+          ]
+        },
+        {
+          "answer": "Aalesund",
+          "display": "#7 — 41 pts",
+          "aliases": [
+            "Aalesunds FK"
+          ]
+        },
+        {
+          "answer": "Sarpsborg 08",
+          "display": "#8 — 40 pts",
+          "aliases": [
+            "Sarpsborg"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/soccer/scandinavia/eliteserien",
+      "question": "Top 5 clubs in the final 2015 Tippeligaen table",
+      "cutoff": 5,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1372827917 | table 4 | name: Team | value: Pos | order: asc",
+      "tags": [
+        "football",
+        "eliteserien",
+        "seasons"
+      ],
+      "answers": [
+        {
+          "answer": "Rosenborg",
+          "display": "#1 — 69 pts",
+          "aliases": [
+            "RBK",
+            "Rosenborg BK"
+          ]
+        },
+        {
+          "answer": "Strømsgodset",
+          "display": "#2 — 57 pts",
+          "aliases": [
+            "Stromsgodset"
+          ]
+        },
+        {
+          "answer": "Stabæk",
+          "display": "#3 — 56 pts",
+          "aliases": [
+            "Stabaek"
+          ]
+        },
+        {
+          "answer": "Odd",
+          "display": "#4 — 55 pts",
+          "aliases": [
+            "Odd Grenland"
+          ]
+        },
+        {
+          "answer": "Viking",
+          "display": "#5 — 53 pts",
+          "aliases": [
+            "Viking FK"
+          ]
+        },
+        {
+          "answer": "Molde",
+          "display": "#6 — 52 pts",
+          "aliases": [
+            "Molde FK"
+          ]
+        },
+        {
+          "answer": "Vålerenga",
+          "display": "#7 — 49 pts",
+          "aliases": [
+            "Valerenga"
+          ]
+        },
+        {
+          "answer": "Lillestrøm",
+          "display": "#8 — 44 pts",
+          "aliases": [
+            "Lillestrom",
+            "LSK"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/soccer/scandinavia/eliteserien",
+      "question": "Top 5 clubs in the final 2016 Tippeligaen table",
+      "cutoff": 5,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1322214984 | table 4 | name: Team | value: Pos | order: asc",
+      "tags": [
+        "football",
+        "eliteserien",
+        "seasons"
+      ],
+      "answers": [
+        {
+          "answer": "Rosenborg",
+          "display": "#1 — 69 pts",
+          "aliases": [
+            "RBK",
+            "Rosenborg BK"
+          ]
+        },
+        {
+          "answer": "Brann",
+          "display": "#2 — 54 pts",
+          "aliases": [
+            "SK Brann"
+          ]
+        },
+        {
+          "answer": "Odd",
+          "display": "#3 — 51 pts",
+          "aliases": [
+            "Odd Grenland"
+          ]
+        },
+        {
+          "answer": "Haugesund",
+          "display": "#4 — 46 pts",
+          "aliases": [
+            "FK Haugesund"
+          ]
+        },
+        {
+          "answer": "Molde",
+          "display": "#5 — 45 pts",
+          "aliases": [
+            "Molde FK"
+          ]
+        },
+        {
+          "answer": "Sarpsborg 08",
+          "display": "#6 — 45 pts",
+          "aliases": [
+            "Sarpsborg"
+          ]
+        },
+        {
+          "answer": "Strømsgodset",
+          "display": "#7 — 44 pts",
+          "aliases": [
+            "Stromsgodset"
+          ]
+        },
+        {
+          "answer": "Viking",
+          "display": "#8 — 43 pts",
+          "aliases": [
+            "Viking FK"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/soccer/scandinavia/eliteserien",
+      "question": "Top 5 clubs in the final 2017 Eliteserien table",
+      "cutoff": 5,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1332616218 | table 4 | name: Team | value: Pos | order: asc",
+      "tags": [
+        "football",
+        "eliteserien",
+        "seasons"
+      ],
+      "answers": [
+        {
+          "answer": "Rosenborg",
+          "display": "#1 — 61 pts",
+          "aliases": [
+            "RBK",
+            "Rosenborg BK"
+          ]
+        },
+        {
+          "answer": "Molde",
+          "display": "#2 — 54 pts",
+          "aliases": [
+            "Molde FK"
+          ]
+        },
+        {
+          "answer": "Sarpsborg 08",
+          "display": "#3 — 51 pts",
+          "aliases": [
+            "Sarpsborg"
+          ]
+        },
+        {
+          "answer": "Strømsgodset",
+          "display": "#4 — 50 pts",
+          "aliases": [
+            "Stromsgodset"
+          ]
+        },
+        {
+          "answer": "Brann",
+          "display": "#5 — 47 pts",
+          "aliases": [
+            "SK Brann"
+          ]
+        },
+        {
+          "answer": "Odd",
+          "display": "#6 — 42 pts",
+          "aliases": [
+            "Odd Grenland"
+          ]
+        },
+        {
+          "answer": "Kristiansund",
+          "display": "#7 — 40 pts",
+          "aliases": [
+            "Kristiansund BK"
+          ]
+        },
+        {
+          "answer": "Vålerenga",
+          "display": "#8 — 39 pts",
+          "aliases": [
+            "Valerenga"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/soccer/scandinavia/eliteserien",
+      "question": "Top 5 clubs in the final 2018 Eliteserien table",
+      "cutoff": 5,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1311642550 | table 4 | name: Team | value: Pos | order: asc",
+      "tags": [
+        "football",
+        "eliteserien",
+        "seasons"
+      ],
+      "answers": [
+        {
+          "answer": "Rosenborg",
+          "display": "#1 — 64 pts",
+          "aliases": [
+            "RBK",
+            "Rosenborg BK"
+          ]
+        },
+        {
+          "answer": "Molde",
+          "display": "#2 — 59 pts",
+          "aliases": [
+            "Molde FK"
+          ]
+        },
+        {
+          "answer": "Brann",
+          "display": "#3 — 58 pts",
+          "aliases": [
+            "SK Brann"
+          ]
+        },
+        {
+          "answer": "Haugesund",
+          "display": "#4 — 53 pts",
+          "aliases": [
+            "FK Haugesund"
+          ]
+        },
+        {
+          "answer": "Kristiansund",
+          "display": "#5 — 46 pts",
+          "aliases": [
+            "Kristiansund BK"
+          ]
+        },
+        {
+          "answer": "Vålerenga",
+          "display": "#6 — 42 pts",
+          "aliases": [
+            "Valerenga"
+          ]
+        },
+        {
+          "answer": "Ranheim",
+          "display": "#7 — 42 pts"
+        },
+        {
+          "answer": "Sarpsborg 08",
+          "display": "#8 — 41 pts",
+          "aliases": [
+            "Sarpsborg"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/soccer/scandinavia/eliteserien",
+      "question": "Top 5 clubs in the final 2019 Eliteserien table",
+      "cutoff": 5,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1311013521 | table 4 | name: Team | value: Pos | order: asc",
+      "tags": [
+        "football",
+        "eliteserien",
+        "seasons"
+      ],
+      "answers": [
+        {
+          "answer": "Molde",
+          "display": "#1 — 68 pts",
+          "aliases": [
+            "Molde FK"
+          ]
+        },
+        {
+          "answer": "Bodø/Glimt",
+          "display": "#2 — 54 pts",
+          "aliases": [
+            "Bodo/Glimt",
+            "Glimt"
+          ]
+        },
+        {
+          "answer": "Rosenborg",
+          "display": "#3 — 52 pts",
+          "aliases": [
+            "RBK",
+            "Rosenborg BK"
+          ]
+        },
+        {
+          "answer": "Odd",
+          "display": "#4 — 52 pts",
+          "aliases": [
+            "Odd Grenland"
+          ]
+        },
+        {
+          "answer": "Viking",
+          "display": "#5 — 47 pts",
+          "aliases": [
+            "Viking FK"
+          ]
+        },
+        {
+          "answer": "Kristiansund",
+          "display": "#6 — 41 pts",
+          "aliases": [
+            "Kristiansund BK"
+          ]
+        },
+        {
+          "answer": "Haugesund",
+          "display": "#7 — 40 pts",
+          "aliases": [
+            "FK Haugesund"
+          ]
+        },
+        {
+          "answer": "Stabæk",
+          "display": "#8 — 40 pts",
+          "aliases": [
+            "Stabaek"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/soccer/scandinavia/eliteserien",
+      "question": "Top 5 clubs in the final 2020 Eliteserien table",
+      "cutoff": 5,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1311013715 | table 4 | name: Team | value: Pos | order: asc",
+      "tags": [
+        "football",
+        "eliteserien",
+        "seasons"
+      ],
+      "answers": [
+        {
+          "answer": "Bodø/Glimt",
+          "display": "#1 — 81 pts",
+          "aliases": [
+            "Bodo/Glimt",
+            "Glimt"
+          ]
+        },
+        {
+          "answer": "Molde",
+          "display": "#2 — 62 pts",
+          "aliases": [
+            "Molde FK"
+          ]
+        },
+        {
+          "answer": "Vålerenga",
+          "display": "#3 — 55 pts",
+          "aliases": [
+            "Valerenga"
+          ]
+        },
+        {
+          "answer": "Rosenborg",
+          "display": "#4 — 52 pts",
+          "aliases": [
+            "RBK",
+            "Rosenborg BK"
+          ]
+        },
+        {
+          "answer": "Kristiansund",
+          "display": "#5 — 48 pts",
+          "aliases": [
+            "Kristiansund BK"
+          ]
+        },
+        {
+          "answer": "Viking",
+          "display": "#6 — 44 pts",
+          "aliases": [
+            "Viking FK"
+          ]
+        },
+        {
+          "answer": "Odd",
+          "display": "#7 — 43 pts",
+          "aliases": [
+            "Odd Grenland"
+          ]
+        },
+        {
+          "answer": "Stabæk",
+          "display": "#8 — 39 pts",
+          "aliases": [
+            "Stabaek"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/soccer/scandinavia/eliteserien",
+      "question": "Top 5 clubs in the final 2021 Eliteserien table",
+      "cutoff": 5,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1312260742 | table 4 | name: Team | value: Pos | order: asc",
+      "tags": [
+        "football",
+        "eliteserien",
+        "seasons"
+      ],
+      "answers": [
+        {
+          "answer": "Bodø/Glimt",
+          "display": "#1 — 63 pts",
+          "aliases": [
+            "Bodo/Glimt",
+            "Glimt"
+          ]
+        },
+        {
+          "answer": "Molde",
+          "display": "#2 — 60 pts",
+          "aliases": [
+            "Molde FK"
+          ]
+        },
+        {
+          "answer": "Viking",
+          "display": "#3 — 57 pts",
+          "aliases": [
+            "Viking FK"
+          ]
+        },
+        {
+          "answer": "Lillestrøm",
+          "display": "#4 — 49 pts",
+          "aliases": [
+            "Lillestrom",
+            "LSK"
+          ]
+        },
+        {
+          "answer": "Rosenborg",
+          "display": "#5 — 48 pts",
+          "aliases": [
+            "RBK",
+            "Rosenborg BK"
+          ]
+        },
+        {
+          "answer": "Kristiansund",
+          "display": "#6 — 46 pts",
+          "aliases": [
+            "Kristiansund BK"
+          ]
+        },
+        {
+          "answer": "Vålerenga",
+          "display": "#7 — 45 pts",
+          "aliases": [
+            "Valerenga"
+          ]
+        },
+        {
+          "answer": "Sarpsborg 08",
+          "display": "#8 — 39 pts",
+          "aliases": [
+            "Sarpsborg"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/soccer/scandinavia/eliteserien",
+      "question": "Top 5 clubs in the final 2022 Eliteserien table",
+      "cutoff": 5,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1312230967 | table 4 | name: Team | value: Pos | order: asc",
+      "tags": [
+        "football",
+        "eliteserien",
+        "seasons"
+      ],
+      "answers": [
+        {
+          "answer": "Molde",
+          "display": "#1 — 78 pts",
+          "aliases": [
+            "Molde FK"
+          ]
+        },
+        {
+          "answer": "Bodø/Glimt",
+          "display": "#2 — 60 pts",
+          "aliases": [
+            "Bodo/Glimt",
+            "Glimt"
+          ]
+        },
+        {
+          "answer": "Rosenborg",
+          "display": "#3 — 56 pts",
+          "aliases": [
+            "RBK",
+            "Rosenborg BK"
+          ]
+        },
+        {
+          "answer": "Lillestrøm",
+          "display": "#4 — 53 pts",
+          "aliases": [
+            "Lillestrom",
+            "LSK"
+          ]
+        },
+        {
+          "answer": "Odd",
+          "display": "#5 — 45 pts",
+          "aliases": [
+            "Odd Grenland"
+          ]
+        },
+        {
+          "answer": "Vålerenga",
+          "display": "#6 — 44 pts",
+          "aliases": [
+            "Valerenga"
+          ]
+        },
+        {
+          "answer": "Tromsø",
+          "display": "#7 — 43 pts",
+          "aliases": [
+            "TIL",
+            "Tromso"
+          ]
+        },
+        {
+          "answer": "Sarpsborg 08",
+          "display": "#8 — 41 pts",
+          "aliases": [
+            "Sarpsborg"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/soccer/scandinavia/eliteserien",
+      "question": "Top 5 clubs in the final 2023 Eliteserien table",
+      "cutoff": 5,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1364297219 | table 4 | name: Team | value: Pos | order: asc",
+      "tags": [
+        "football",
+        "eliteserien",
+        "seasons"
+      ],
+      "answers": [
+        {
+          "answer": "Bodø/Glimt",
+          "display": "#1 — 70 pts",
+          "aliases": [
+            "Bodo/Glimt",
+            "Glimt"
+          ]
+        },
+        {
+          "answer": "Brann",
+          "display": "#2 — 61 pts",
+          "aliases": [
+            "SK Brann"
+          ]
+        },
+        {
+          "answer": "Tromsø",
+          "display": "#3 — 61 pts",
+          "aliases": [
+            "TIL",
+            "Tromso"
+          ]
+        },
+        {
+          "answer": "Viking",
+          "display": "#4 — 58 pts",
+          "aliases": [
+            "Viking FK"
+          ]
+        },
+        {
+          "answer": "Molde",
+          "display": "#5 — 51 pts",
+          "aliases": [
+            "Molde FK"
+          ]
+        },
+        {
+          "answer": "Lillestrøm",
+          "display": "#6 — 43 pts",
+          "aliases": [
+            "Lillestrom",
+            "LSK"
+          ]
+        },
+        {
+          "answer": "Strømsgodset",
+          "display": "#7 — 42 pts",
+          "aliases": [
+            "Stromsgodset"
+          ]
+        },
+        {
+          "answer": "Sarpsborg 08",
+          "display": "#8 — 41 pts",
+          "aliases": [
+            "Sarpsborg"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/soccer/scandinavia/eliteserien",
+      "question": "Top 5 clubs in the final 2024 Eliteserien table",
+      "cutoff": 5,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1356845648 | table 4 | name: Team | value: Pos | order: asc",
+      "tags": [
+        "football",
+        "eliteserien",
+        "seasons"
+      ],
+      "answers": [
+        {
+          "answer": "Bodø/Glimt",
+          "display": "#1 — 62 pts",
+          "aliases": [
+            "Bodo/Glimt",
+            "Glimt"
+          ]
+        },
+        {
+          "answer": "Brann",
+          "display": "#2 — 59 pts",
+          "aliases": [
+            "SK Brann"
+          ]
+        },
+        {
+          "answer": "Viking",
+          "display": "#3 — 57 pts",
+          "aliases": [
+            "Viking FK"
+          ]
+        },
+        {
+          "answer": "Rosenborg",
+          "display": "#4 — 53 pts",
+          "aliases": [
+            "RBK",
+            "Rosenborg BK"
+          ]
+        },
+        {
+          "answer": "Molde",
+          "display": "#5 — 52 pts",
+          "aliases": [
+            "Molde FK"
+          ]
+        },
+        {
+          "answer": "Fredrikstad",
+          "display": "#6 — 51 pts",
+          "aliases": [
+            "Fredrikstad FK",
+            "FFK"
+          ]
+        },
+        {
+          "answer": "Strømsgodset",
+          "display": "#7 — 38 pts",
+          "aliases": [
+            "Stromsgodset"
+          ]
+        },
+        {
+          "answer": "KFUM Oslo",
+          "display": "#8 — 37 pts",
+          "aliases": [
+            "KFUM"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/soccer/scandinavia/eliteserien",
+      "question": "Top 5 clubs in the final 2025 Eliteserien table",
+      "cutoff": 5,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1372620131 | table 4 | name: Team | value: Pos | order: asc",
+      "tags": [
+        "football",
+        "eliteserien",
+        "seasons"
+      ],
+      "answers": [
+        {
+          "answer": "Viking",
+          "display": "#1 — 71 pts",
+          "aliases": [
+            "Viking FK"
+          ]
+        },
+        {
+          "answer": "Bodø/Glimt",
+          "display": "#2 — 70 pts",
+          "aliases": [
+            "Bodo/Glimt",
+            "Glimt"
+          ]
+        },
+        {
+          "answer": "Tromsø",
+          "display": "#3 — 57 pts",
+          "aliases": [
+            "TIL",
+            "Tromso"
+          ]
+        },
+        {
+          "answer": "Brann",
+          "display": "#4 — 56 pts",
+          "aliases": [
+            "SK Brann"
+          ]
+        },
+        {
+          "answer": "Sandefjord",
+          "display": "#5 — 48 pts"
+        },
+        {
+          "answer": "Vålerenga",
+          "display": "#6 — 43 pts",
+          "aliases": [
+            "Valerenga"
+          ]
+        },
+        {
+          "answer": "Rosenborg",
+          "display": "#7 — 42 pts",
+          "aliases": [
+            "RBK",
+            "Rosenborg BK"
+          ]
+        },
+        {
+          "answer": "Fredrikstad",
+          "display": "#8 — 42 pts",
+          "aliases": [
+            "Fredrikstad FK",
+            "FFK"
+          ]
+        }
+      ]
+    }
+  ]
+}

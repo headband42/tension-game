@@ -1,0 +1,540 @@
+{
+  "categories": [
+    {
+      "path": "society/religion/hinduism",
+      "name": "Hinduism"
+    },
+    {
+      "path": "society/religion/islam",
+      "name": "Islam"
+    },
+    {
+      "path": "society/religion/buddhism",
+      "name": "Buddhism"
+    },
+    {
+      "path": "society/religion/judaism",
+      "name": "Judaism"
+    },
+    {
+      "path": "society/religion/christianity",
+      "name": "Christianity"
+    },
+    {
+      "path": "society/religion/irreligion",
+      "name": "Irreligion"
+    }
+  ],
+  "questions": [
+    {
+      "category": "society/religion/hinduism",
+      "question": "Top 10 countries with the most Hindus (latest census or estimate)",
+      "cutoff": 10,
+      "difficulty": 1,
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1376905461 | table 1 | name: Country | value: Hindu total | where: Country!~^(Total|World)",
+      "tags": [
+        "religion",
+        "hinduism",
+        "population"
+      ],
+      "answers": [
+        {
+          "answer": "India",
+          "display": "1,053,000,000 people"
+        },
+        {
+          "answer": "Nepal",
+          "display": "23,677,744 people"
+        },
+        {
+          "answer": "Bangladesh",
+          "display": "13,100,000 people"
+        },
+        {
+          "answer": "Pakistan",
+          "display": "5,217,216 people"
+        },
+        {
+          "answer": "Indonesia",
+          "display": "4,781,776 people"
+        },
+        {
+          "answer": "United States",
+          "display": "3,338,210 people",
+          "aliases": [
+            "USA",
+            "US"
+          ]
+        },
+        {
+          "answer": "Sri Lanka",
+          "display": "2,671,000 people"
+        },
+        {
+          "answer": "Malaysia",
+          "display": "1,949,850 people"
+        },
+        {
+          "answer": "United Kingdom",
+          "display": "1,020,000 people",
+          "aliases": [
+            "UK",
+            "Britain",
+            "Great Britain"
+          ]
+        },
+        {
+          "answer": "Canada",
+          "display": "828,200 people"
+        },
+        {
+          "answer": "Australia",
+          "display": "684,000 people"
+        },
+        {
+          "answer": "South Africa",
+          "display": "505,000 people"
+        },
+        {
+          "answer": "United Arab Emirates",
+          "display": "490,000 people",
+          "aliases": [
+            "UAE"
+          ]
+        }
+      ],
+      "submitter": "claude"
+    },
+    {
+      "category": "society/religion/hinduism",
+      "question": "Top 10 countries outside South Asia with the most Hindus (latest census or estimate)",
+      "cutoff": 10,
+      "difficulty": 3,
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1376905461 | table 1 | name: Country | value: Hindu total | where: Country!~^(Total|World) | where: Region!~^South Asia",
+      "tags": [
+        "religion",
+        "hinduism",
+        "population"
+      ],
+      "answers": [
+        {
+          "answer": "Indonesia",
+          "display": "4,781,776 people"
+        },
+        {
+          "answer": "United States",
+          "display": "3,338,210 people",
+          "aliases": [
+            "USA",
+            "US"
+          ]
+        },
+        {
+          "answer": "Malaysia",
+          "display": "1,949,850 people"
+        },
+        {
+          "answer": "United Kingdom",
+          "display": "1,020,000 people",
+          "aliases": [
+            "UK",
+            "Britain",
+            "Great Britain"
+          ]
+        },
+        {
+          "answer": "Canada",
+          "display": "828,200 people"
+        },
+        {
+          "answer": "Australia",
+          "display": "684,000 people"
+        },
+        {
+          "answer": "South Africa",
+          "display": "505,000 people"
+        },
+        {
+          "answer": "United Arab Emirates",
+          "display": "490,000 people",
+          "aliases": [
+            "UAE"
+          ]
+        },
+        {
+          "answer": "Mauritius",
+          "display": "474,000 people"
+        },
+        {
+          "answer": "Qatar",
+          "display": "422,118 people"
+        },
+        {
+          "answer": "Saudi Arabia",
+          "display": "303,611 people"
+        },
+        {
+          "answer": "Kuwait",
+          "display": "300,667 people"
+        },
+        {
+          "answer": "Singapore",
+          "display": "280,000 people"
+        }
+      ],
+      "submitter": "claude"
+    },
+    {
+      "category": "society/religion/buddhism",
+      "question": "Top 10 countries and territories with the most Buddhists (Pew Research Center, 2010)",
+      "cutoff": 10,
+      "difficulty": 2,
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1371664657 | table 2 | name: Country/Territory | value: No. of Buddhists | where: Country/Territory!~^World",
+      "tags": [
+        "religion",
+        "buddhism",
+        "population"
+      ],
+      "answers": [
+        {
+          "answer": "China",
+          "display": "244,130,000 people"
+        },
+        {
+          "answer": "Thailand",
+          "display": "64,420,000 people"
+        },
+        {
+          "answer": "Japan",
+          "display": "45,820,000 people"
+        },
+        {
+          "answer": "Myanmar",
+          "display": "38,410,000 people",
+          "aliases": [
+            "Burma"
+          ]
+        },
+        {
+          "answer": "Sri Lanka",
+          "display": "14,450,000 people"
+        },
+        {
+          "answer": "Vietnam",
+          "display": "14,380,000 people"
+        },
+        {
+          "answer": "Cambodia",
+          "display": "13,690,000 people"
+        },
+        {
+          "answer": "South Korea",
+          "display": "11,050,000 people"
+        },
+        {
+          "answer": "India",
+          "display": "9,250,000 people"
+        },
+        {
+          "answer": "Malaysia",
+          "display": "5,010,000 people"
+        },
+        {
+          "answer": "Taiwan",
+          "display": "4,950,000 people"
+        },
+        {
+          "answer": "Laos",
+          "display": "4,100,000 people"
+        },
+        {
+          "answer": "United States",
+          "display": "3,570,000 people",
+          "aliases": [
+            "USA",
+            "US"
+          ]
+        }
+      ],
+      "submitter": "claude"
+    },
+    {
+      "category": "society/religion/irreligion",
+      "question": "Top 10 countries by share of population with no religion (latest census or estimate)",
+      "cutoff": 10,
+      "difficulty": 2,
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1379695934 | table 1 | name: Country or region | value: 8 | header rows: 2",
+      "tags": [
+        "religion",
+        "irreligion",
+        "population"
+      ],
+      "answers": [
+        {
+          "answer": "Vietnam",
+          "display": "86.3%"
+        },
+        {
+          "answer": "Czech Republic",
+          "display": "68.3%"
+        },
+        {
+          "answer": "Estonia",
+          "display": "67.0%"
+        },
+        {
+          "answer": "New Zealand",
+          "display": "51.6%"
+        },
+        {
+          "answer": "Australia",
+          "display": "41.9%"
+        },
+        {
+          "answer": "United Kingdom",
+          "display": "40.1%",
+          "aliases": [
+            "UK",
+            "Britain",
+            "Great Britain"
+          ]
+        },
+        {
+          "answer": "Mongolia",
+          "display": "38.6%"
+        },
+        {
+          "answer": "Switzerland",
+          "display": "36.8%"
+        },
+        {
+          "answer": "Finland",
+          "display": "34.9%"
+        },
+        {
+          "answer": "Canada",
+          "display": "34.6%"
+        },
+        {
+          "answer": "Hungary",
+          "display": "26.9%"
+        },
+        {
+          "answer": "Slovakia",
+          "display": "25.4%"
+        },
+        {
+          "answer": "Norway",
+          "display": "24.2%"
+        }
+      ],
+      "submitter": "claude"
+    },
+    {
+      "category": "society/religion/judaism",
+      "question": "Top 8 countries and territories by core Jewish population (latest estimates)",
+      "cutoff": 8,
+      "difficulty": 2,
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1369594672 | table 1 | name: Countries | value: Core population / Total | header rows: 2 | where: Countries!~^(World|Total)",
+      "tags": [
+        "religion",
+        "judaism",
+        "population"
+      ],
+      "answers": [
+        {
+          "answer": "Israel",
+          "display": "7,466,200 people"
+        },
+        {
+          "answer": "United States",
+          "display": "5,700,000 people",
+          "aliases": [
+            "USA",
+            "US"
+          ]
+        },
+        {
+          "answer": "France",
+          "display": "550,000 people"
+        },
+        {
+          "answer": "Palestine",
+          "display": "505,300 people"
+        },
+        {
+          "answer": "Canada",
+          "display": "393,000 people"
+        },
+        {
+          "answer": "United Kingdom",
+          "display": "292,000 people",
+          "aliases": [
+            "UK",
+            "Britain",
+            "Great Britain"
+          ]
+        },
+        {
+          "answer": "Argentina",
+          "display": "180,500 people"
+        },
+        {
+          "answer": "Russia",
+          "display": "155,000 people"
+        },
+        {
+          "answer": "Australia",
+          "display": "118,000 people"
+        },
+        {
+          "answer": "Germany",
+          "display": "118,000 people"
+        },
+        {
+          "answer": "Brazil",
+          "display": "107,000 people"
+        }
+      ],
+      "submitter": "claude"
+    },
+    {
+      "category": "society/religion/islam",
+      "question": "Top 10 countries by share of the world's Muslim population (latest estimates)",
+      "cutoff": 10,
+      "difficulty": 2,
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1375390081 | table 1 | name: Country/Region | value: Percentage of world | where: Country/Region!~^(Total|World)",
+      "tags": [
+        "religion",
+        "islam",
+        "population"
+      ],
+      "answers": [
+        {
+          "answer": "Indonesia",
+          "display": "12.2%"
+        },
+        {
+          "answer": "Pakistan",
+          "display": "11.79%"
+        },
+        {
+          "answer": "India",
+          "display": "10.9%"
+        },
+        {
+          "answer": "Bangladesh",
+          "display": "9.2%"
+        },
+        {
+          "answer": "Nigeria",
+          "display": "5.3%"
+        },
+        {
+          "answer": "Egypt",
+          "display": "4.9%"
+        },
+        {
+          "answer": "Iran",
+          "display": "4.6%",
+          "aliases": [
+            "Persia"
+          ]
+        },
+        {
+          "answer": "Turkey",
+          "display": "4.6%",
+          "aliases": [
+            "Türkiye",
+            "Turkiye"
+          ]
+        },
+        {
+          "answer": "Algeria",
+          "display": "2.7%"
+        },
+        {
+          "answer": "Morocco",
+          "display": "2.1%"
+        },
+        {
+          "answer": "Afghanistan",
+          "display": "2.0%"
+        },
+        {
+          "answer": "Iraq",
+          "display": "1.9%"
+        },
+        {
+          "answer": "Sudan",
+          "display": "1.9%"
+        }
+      ],
+      "submitter": "claude"
+    },
+    {
+      "category": "society/religion/christianity",
+      "question": "Top 7 countries with the most Christians",
+      "cutoff": 7,
+      "difficulty": 2,
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1379328726 | table 1 | name: Country | value: Christians",
+      "tags": [
+        "religion",
+        "christianity",
+        "population"
+      ],
+      "answers": [
+        {
+          "answer": "United States",
+          "display": "217,270,000 people",
+          "aliases": [
+            "USA",
+            "US"
+          ]
+        },
+        {
+          "answer": "Brazil",
+          "display": "168,300,000 people"
+        },
+        {
+          "answer": "Mexico",
+          "display": "113,070,000 people"
+        },
+        {
+          "answer": "Philippines",
+          "display": "102,510,000 people"
+        },
+        {
+          "answer": "Russia",
+          "display": "102,350,000 people"
+        },
+        {
+          "answer": "Nigeria",
+          "display": "92,770,000 people"
+        },
+        {
+          "answer": "DR Congo",
+          "display": "92,400,000 people",
+          "aliases": [
+            "Congo DR",
+            "DRC",
+            "Democratic Republic of the Congo"
+          ]
+        },
+        {
+          "answer": "Ethiopia",
+          "display": "73,230,000 people"
+        },
+        {
+          "answer": "South Africa",
+          "display": "51,630,000 people"
+        },
+        {
+          "answer": "Italy",
+          "display": "48,210,000 people"
+        }
+      ],
+      "submitter": "claude"
+    }
+  ]
+}

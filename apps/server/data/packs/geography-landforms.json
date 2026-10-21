@@ -1,0 +1,395 @@
+{
+  "categories": [
+    {
+      "path": "geography/landforms/deserts",
+      "name": "Deserts"
+    },
+    {
+      "path": "geography/landforms/parks",
+      "name": "National Parks"
+    },
+    {
+      "path": "geography/landforms/peninsulas",
+      "name": "Peninsulas"
+    }
+  ],
+  "questions": [
+    {
+      "category": "geography/landforms/deserts",
+      "question": "Top 10 largest deserts in the world by total area",
+      "cutoff": 10,
+      "difficulty": 1,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1379022969 | table 1 | name: Name | value: Area (km2)",
+      "tags": [
+        "geography",
+        "landforms",
+        "deserts",
+        "area"
+      ],
+      "answers": [
+        {
+          "answer": "Antarctic Desert",
+          "display": "14,200,000 km²",
+          "aliases": [
+            "Antarctic",
+            "Antarctica"
+          ]
+        },
+        {
+          "answer": "Arctic Desert",
+          "display": "13,900,000 km²",
+          "aliases": [
+            "Arctic"
+          ]
+        },
+        {
+          "answer": "Sahara Desert",
+          "display": "9,200,000 km²",
+          "aliases": [
+            "Sahara"
+          ]
+        },
+        {
+          "answer": "Arabian Desert",
+          "display": "2,330,000 km²",
+          "aliases": [
+            "Arabian"
+          ]
+        },
+        {
+          "answer": "Great Australian Desert",
+          "display": "1,371,000 km²",
+          "aliases": [
+            "Great Australian"
+          ]
+        },
+        {
+          "answer": "Gobi Desert",
+          "display": "1,295,000 km²",
+          "aliases": [
+            "Gobi"
+          ]
+        },
+        {
+          "answer": "Kalahari Desert",
+          "display": "900,000 km²",
+          "aliases": [
+            "Kalahari"
+          ]
+        },
+        {
+          "answer": "Patagonian Desert",
+          "display": "673,000 km²",
+          "aliases": [
+            "Patagonian"
+          ]
+        },
+        {
+          "answer": "Syrian Desert",
+          "display": "500,000 km²",
+          "aliases": [
+            "Syrian"
+          ]
+        },
+        {
+          "answer": "Great Basin Desert",
+          "display": "492,000 km²",
+          "aliases": [
+            "Great Basin"
+          ]
+        },
+        {
+          "answer": "Chihuahuan Desert",
+          "display": "450,000 km²",
+          "aliases": [
+            "Chihuahuan"
+          ]
+        },
+        {
+          "answer": "Karakum Desert",
+          "display": "350,000 km²",
+          "aliases": [
+            "Karakum"
+          ]
+        },
+        {
+          "answer": "Great Victoria Desert",
+          "display": "348,750 km²",
+          "aliases": [
+            "Great Victoria"
+          ]
+        },
+        {
+          "answer": "Colorado Plateau",
+          "display": "340,000 km²"
+        }
+      ]
+    },
+    {
+      "category": "geography/landforms/parks",
+      "question": "Top 10 largest US national parks by area (2023)",
+      "cutoff": 10,
+      "difficulty": 1,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1378075927 | table 1 | name: Name | value: Area (2023)",
+      "tags": [
+        "geography",
+        "landforms",
+        "parks",
+        "area"
+      ],
+      "answers": [
+        {
+          "answer": "Wrangell–St. Elias",
+          "display": "8,323,146 acres",
+          "aliases": [
+            "Wrangell-St. Elias"
+          ]
+        },
+        {
+          "answer": "Gates of the Arctic",
+          "display": "7,523,897 acres"
+        },
+        {
+          "answer": "Denali",
+          "display": "4,740,911 acres",
+          "aliases": [
+            "Denali National Park"
+          ]
+        },
+        {
+          "answer": "Katmai",
+          "display": "3,674,529 acres"
+        },
+        {
+          "answer": "Death Valley",
+          "display": "3,408,396 acres"
+        },
+        {
+          "answer": "Glacier Bay",
+          "display": "3,223,383 acres"
+        },
+        {
+          "answer": "Lake Clark",
+          "display": "2,619,816 acres"
+        },
+        {
+          "answer": "Yellowstone",
+          "display": "2,219,791 acres",
+          "aliases": [
+            "Yellowstone National Park"
+          ]
+        },
+        {
+          "answer": "Kobuk Valley",
+          "display": "1,750,716 acres"
+        },
+        {
+          "answer": "Everglades",
+          "display": "1,508,939 acres",
+          "aliases": [
+            "Everglades National Park"
+          ]
+        },
+        {
+          "answer": "Grand Canyon",
+          "display": "1,201,647 acres",
+          "aliases": [
+            "Grand Canyon National Park"
+          ]
+        },
+        {
+          "answer": "Glacier",
+          "display": "1,013,126 acres",
+          "aliases": [
+            "Glacier National Park"
+          ]
+        },
+        {
+          "answer": "Olympic",
+          "display": "922,649 acres",
+          "aliases": [
+            "Olympic National Park"
+          ]
+        },
+        {
+          "answer": "Big Bend",
+          "display": "801,163 acres",
+          "aliases": [
+            "Big Bend National Park"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "geography/landforms/peninsulas",
+      "question": "Top 8 largest peninsulas in the world by area",
+      "cutoff": 8,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1368279174 | table 1 | name: Peninsula | value: km2 | header rows: 2",
+      "tags": [
+        "geography",
+        "landforms",
+        "peninsulas",
+        "area"
+      ],
+      "answers": [
+        {
+          "answer": "Arabian Peninsula",
+          "display": "3,100,000 km²",
+          "aliases": [
+            "Arabia",
+            "Arabian"
+          ]
+        },
+        {
+          "answer": "Indochinese Peninsula",
+          "display": "2,000,000 km²",
+          "aliases": [
+            "Indochina",
+            "Indochinese"
+          ]
+        },
+        {
+          "answer": "Deccan Peninsula",
+          "display": "1,900,000 km²",
+          "aliases": [
+            "Deccan"
+          ]
+        },
+        {
+          "answer": "Somali Peninsula",
+          "display": "1,882,757 km²"
+        },
+        {
+          "answer": "Labrador Peninsula",
+          "display": "1,400,000 km²",
+          "aliases": [
+            "Labrador"
+          ]
+        },
+        {
+          "answer": "Anatolian Peninsula",
+          "display": "755,688 km²",
+          "aliases": [
+            "Anatolia",
+            "Anatolian"
+          ]
+        },
+        {
+          "answer": "Scandinavian Peninsula",
+          "display": "750,000 km²",
+          "aliases": [
+            "Scandinavia",
+            "Scandinavian"
+          ]
+        },
+        {
+          "answer": "Balkan Peninsula",
+          "display": "666,700 km²",
+          "aliases": [
+            "Balkans",
+            "Balkan"
+          ]
+        },
+        {
+          "answer": "Iberian Peninsula",
+          "display": "583,256 km²",
+          "aliases": [
+            "Iberia",
+            "Iberian"
+          ]
+        },
+        {
+          "answer": "Antarctic Peninsula",
+          "display": "522,000 km²",
+          "aliases": [
+            "Antarctic"
+          ]
+        },
+        {
+          "answer": "Taymyr Peninsula",
+          "display": "400,000 km²",
+          "aliases": [
+            "Taymyr"
+          ]
+        },
+        {
+          "answer": "Kamchatka Peninsula",
+          "display": "370,000 km²",
+          "aliases": [
+            "Kamchatka"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "geography/landforms/parks",
+      "question": "Top 7 largest US national parks in the Southwest (CA, NV, UT, AZ, NM, CO) by area (2023)",
+      "cutoff": 7,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1378075927 | table 1 | name: Name | value: Area (2023) | where: Location~California|Utah|Arizona|Nevada|New Mexico|Colorado",
+      "tags": [
+        "geography",
+        "landforms",
+        "parks",
+        "area",
+        "southwest"
+      ],
+      "answers": [
+        {
+          "answer": "Death Valley",
+          "display": "3,408,396 acres"
+        },
+        {
+          "answer": "Grand Canyon",
+          "display": "1,201,647 acres",
+          "aliases": [
+            "Grand Canyon National Park"
+          ]
+        },
+        {
+          "answer": "Joshua Tree",
+          "display": "795,156 acres"
+        },
+        {
+          "answer": "Yosemite",
+          "display": "761,748 acres",
+          "aliases": [
+            "Yosemite National Park"
+          ]
+        },
+        {
+          "answer": "Kings Canyon",
+          "display": "461,901 acres"
+        },
+        {
+          "answer": "Sequoia",
+          "display": "404,063 acres",
+          "aliases": [
+            "Sequoia National Park"
+          ]
+        },
+        {
+          "answer": "Canyonlands",
+          "display": "337,598 acres"
+        },
+        {
+          "answer": "Rocky Mountain",
+          "display": "265,848 acres"
+        },
+        {
+          "answer": "Channel Islands",
+          "display": "249,561 acres"
+        },
+        {
+          "answer": "Capitol Reef",
+          "display": "241,905 acres"
+        }
+      ]
+    }
+  ]
+}

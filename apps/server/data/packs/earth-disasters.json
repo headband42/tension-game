@@ -1,0 +1,516 @@
+{
+  "categories": [
+    {
+      "path": "science/earth/storms",
+      "name": "Storms"
+    },
+    {
+      "path": "science/earth/temperature",
+      "name": "Extreme Temperatures"
+    }
+  ],
+  "questions": [
+    {
+      "category": "science/earth/temperature",
+      "question": "Top 10 countries by highest recorded temperature (national record, as of 2026)",
+      "cutoff": 10,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1377663895 | table 1 | name: Country/Region | value: Temperature",
+      "tags": [
+        "weather",
+        "temperature",
+        "records"
+      ],
+      "answers": [
+        {
+          "answer": "United States",
+          "display": "54.4 °C (130 °F)",
+          "aliases": [
+            "USA",
+            "US"
+          ]
+        },
+        {
+          "answer": "Kuwait",
+          "display": "54.0 °C (129.2 °F)",
+          "aliases": []
+        },
+        {
+          "answer": "Iraq",
+          "display": "53.9 °C (129.0 °F)",
+          "aliases": []
+        },
+        {
+          "answer": "Iran",
+          "display": "53.7 °C (128.7 °F)",
+          "aliases": []
+        },
+        {
+          "answer": "Pakistan",
+          "display": "53.5 °C (128.3 °F)",
+          "aliases": []
+        },
+        {
+          "answer": "China",
+          "display": "52.2 °C (126.0 °F)",
+          "aliases": []
+        },
+        {
+          "answer": "United Arab Emirates",
+          "display": "52.1 °C (125.8 °F)",
+          "aliases": [
+            "UAE"
+          ]
+        },
+        {
+          "answer": "Saudi Arabia",
+          "display": "52.0 °C (125.6 °F)",
+          "aliases": [
+            "Saudi"
+          ]
+        },
+        {
+          "answer": "Mexico",
+          "display": "52.0 °C (125.6 °F)",
+          "aliases": []
+        },
+        {
+          "answer": "Oman",
+          "display": "51.6 °C (124.9 °F)",
+          "aliases": []
+        },
+        {
+          "answer": "Algeria",
+          "display": "51.3 °C (124.3 °F)",
+          "aliases": []
+        },
+        {
+          "answer": "Palestine",
+          "display": "51.2 °C (124.2 °F)",
+          "aliases": []
+        },
+        {
+          "answer": "Jordan",
+          "display": "51.1 °C (124.0 °F)",
+          "aliases": []
+        },
+        {
+          "answer": "India",
+          "display": "51.0 °C (123.8 °F)",
+          "aliases": []
+        },
+        {
+          "answer": "Egypt",
+          "display": "50.9 °C (123.6 °F)",
+          "aliases": []
+        }
+      ]
+    },
+    {
+      "category": "science/earth/storms",
+      "question": "Top 10 costliest Atlantic hurricanes by nominal damage (as of the end of the 2025 season)",
+      "cutoff": 10,
+      "difficulty": 1,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1378173185 | table 2 | name: Name | value: Nominal",
+      "tags": [
+        "hurricanes",
+        "storms",
+        "damage"
+      ],
+      "answers": [
+        {
+          "answer": "Katrina",
+          "display": "$125.0 billion",
+          "aliases": [
+            "Hurricane Katrina"
+          ]
+        },
+        {
+          "answer": "Harvey",
+          "display": "$125.0 billion",
+          "aliases": [
+            "Hurricane Harvey"
+          ]
+        },
+        {
+          "answer": "Ian",
+          "display": "$112.0 billion",
+          "aliases": [
+            "Hurricane Ian"
+          ]
+        },
+        {
+          "answer": "Maria",
+          "display": "$91.6 billion",
+          "aliases": [
+            "Hurricane Maria"
+          ]
+        },
+        {
+          "answer": "Helene",
+          "display": "$78.7 billion",
+          "aliases": [
+            "Hurricane Helene"
+          ]
+        },
+        {
+          "answer": "Irma",
+          "display": "$77.2 billion",
+          "aliases": [
+            "Hurricane Irma"
+          ]
+        },
+        {
+          "answer": "Ida",
+          "display": "$75.3 billion",
+          "aliases": [
+            "Hurricane Ida"
+          ]
+        },
+        {
+          "answer": "Sandy",
+          "display": "$68.7 billion",
+          "aliases": [
+            "Hurricane Sandy",
+            "Superstorm Sandy"
+          ]
+        },
+        {
+          "answer": "Ike",
+          "display": "$38.0 billion",
+          "aliases": [
+            "Hurricane Ike"
+          ]
+        },
+        {
+          "answer": "Milton",
+          "display": "$34.6 billion",
+          "aliases": [
+            "Hurricane Milton"
+          ]
+        },
+        {
+          "answer": "Andrew",
+          "display": "$27.3 billion",
+          "aliases": []
+        },
+        {
+          "answer": "Wilma",
+          "display": "$26.5 billion",
+          "aliases": []
+        },
+        {
+          "answer": "Ivan",
+          "display": "$26.1 billion",
+          "aliases": []
+        },
+        {
+          "answer": "Michael",
+          "display": "$25.5 billion",
+          "aliases": []
+        }
+      ]
+    },
+    {
+      "category": "science/earth/storms",
+      "question": "Top 10 costliest Category 5 Atlantic hurricanes by nominal damage (as of the end of the 2025 season)",
+      "cutoff": 10,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1378173185 | table 2 | name: Name | value: Nominal | where: Storm classification~Category 5",
+      "tags": [
+        "hurricanes",
+        "storms",
+        "damage",
+        "category 5"
+      ],
+      "answers": [
+        {
+          "answer": "Katrina",
+          "display": "$125.0 billion",
+          "aliases": [
+            "Hurricane Katrina"
+          ]
+        },
+        {
+          "answer": "Ian",
+          "display": "$112.0 billion",
+          "aliases": [
+            "Hurricane Ian"
+          ]
+        },
+        {
+          "answer": "Maria",
+          "display": "$91.6 billion",
+          "aliases": [
+            "Hurricane Maria"
+          ]
+        },
+        {
+          "answer": "Irma",
+          "display": "$77.2 billion",
+          "aliases": [
+            "Hurricane Irma"
+          ]
+        },
+        {
+          "answer": "Milton",
+          "display": "$34.6 billion",
+          "aliases": [
+            "Hurricane Milton"
+          ]
+        },
+        {
+          "answer": "Andrew",
+          "display": "$27.3 billion",
+          "aliases": [
+            "Hurricane Andrew"
+          ]
+        },
+        {
+          "answer": "Wilma",
+          "display": "$26.5 billion",
+          "aliases": [
+            "Hurricane Wilma"
+          ]
+        },
+        {
+          "answer": "Ivan",
+          "display": "$26.1 billion",
+          "aliases": [
+            "Hurricane Ivan"
+          ]
+        },
+        {
+          "answer": "Michael",
+          "display": "$25.5 billion",
+          "aliases": [
+            "Hurricane Michael"
+          ]
+        },
+        {
+          "answer": "Rita",
+          "display": "$18.5 billion",
+          "aliases": [
+            "Hurricane Rita"
+          ]
+        },
+        {
+          "answer": "Matthew",
+          "display": "$16.5 billion",
+          "aliases": [
+            "Hurricane Matthew"
+          ]
+        },
+        {
+          "answer": "Melissa",
+          "display": "$12.2 billion",
+          "aliases": [
+            "Hurricane Melissa"
+          ]
+        },
+        {
+          "answer": "Hugo",
+          "display": "$11.0 billion",
+          "aliases": [
+            "Hurricane Hugo"
+          ]
+        },
+        {
+          "answer": "Beryl",
+          "display": "$9.0 billion",
+          "aliases": [
+            "Hurricane Beryl"
+          ]
+        },
+        {
+          "answer": "Mitch",
+          "display": "$6.1 billion",
+          "aliases": [
+            "Hurricane Mitch"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "science/earth/storms",
+      "question": "Top 8 Atlantic hurricanes by lowest peak central pressure (as of the end of the 2025 season)",
+      "cutoff": 8,
+      "difficulty": 3,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1379356145 | table 7 | name: 1 | value: 3 | where: 1!~^Note | header rows: 2 | order: asc",
+      "tags": [
+        "hurricanes",
+        "storms",
+        "pressure"
+      ],
+      "answers": [
+        {
+          "answer": "Wilma",
+          "display": "882 mbar",
+          "aliases": [
+            "Hurricane Wilma"
+          ]
+        },
+        {
+          "answer": "Gilbert",
+          "display": "888 mbar",
+          "aliases": [
+            "Hurricane Gilbert"
+          ]
+        },
+        {
+          "answer": "Labor Day Hurricane",
+          "display": "892 mbar",
+          "aliases": [
+            "Labor Day"
+          ]
+        },
+        {
+          "answer": "Melissa",
+          "display": "892 mbar",
+          "aliases": [
+            "Hurricane Melissa"
+          ]
+        },
+        {
+          "answer": "Rita",
+          "display": "895 mbar",
+          "aliases": [
+            "Hurricane Rita"
+          ]
+        },
+        {
+          "answer": "Milton",
+          "display": "895 mbar",
+          "aliases": [
+            "Hurricane Milton"
+          ]
+        },
+        {
+          "answer": "Allen",
+          "display": "899 mbar",
+          "aliases": [
+            "Hurricane Allen"
+          ]
+        },
+        {
+          "answer": "Camille",
+          "display": "900 mbar",
+          "aliases": [
+            "Hurricane Camille"
+          ]
+        },
+        {
+          "answer": "Katrina",
+          "display": "902 mbar",
+          "aliases": [
+            "Hurricane Katrina"
+          ]
+        },
+        {
+          "answer": "Mitch",
+          "display": "905 mbar",
+          "aliases": [
+            "Hurricane Mitch"
+          ]
+        },
+        {
+          "answer": "Dean",
+          "display": "905 mbar",
+          "aliases": [
+            "Hurricane Dean"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "science/earth/temperature",
+      "question": "Top 10 US states by lowest recorded temperature (state record low, as of 2026)",
+      "cutoff": 10,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1366484065 | table 1 | name: State | value: Record low | order: asc",
+      "tags": [
+        "weather",
+        "temperature",
+        "records",
+        "united states"
+      ],
+      "answers": [
+        {
+          "answer": "Alaska",
+          "display": "-80 °F (-62.2 °C)",
+          "aliases": []
+        },
+        {
+          "answer": "Montana",
+          "display": "-70 °F (-56.7 °C)",
+          "aliases": []
+        },
+        {
+          "answer": "Utah",
+          "display": "-69 °F (-56.1 °C)",
+          "aliases": []
+        },
+        {
+          "answer": "Wyoming",
+          "display": "-63 °F (-52.8 °C)",
+          "aliases": []
+        },
+        {
+          "answer": "Colorado",
+          "display": "-61 °F (-51.7 °C)",
+          "aliases": []
+        },
+        {
+          "answer": "Idaho",
+          "display": "-60 °F (-51.1 °C)",
+          "aliases": []
+        },
+        {
+          "answer": "Minnesota",
+          "display": "-60 °F (-51.1 °C)",
+          "aliases": []
+        },
+        {
+          "answer": "New York",
+          "display": "-60 °F (-51.1 °C)",
+          "aliases": []
+        },
+        {
+          "answer": "North Dakota",
+          "display": "-60 °F (-51.1 °C)",
+          "aliases": []
+        },
+        {
+          "answer": "South Dakota",
+          "display": "-60 °F (-51 °C)",
+          "aliases": []
+        },
+        {
+          "answer": "New Mexico",
+          "display": "-57 °F (-49.4 °C)",
+          "aliases": []
+        },
+        {
+          "answer": "Wisconsin",
+          "display": "-55 °F (-48.3 °C)",
+          "aliases": []
+        },
+        {
+          "answer": "Oregon",
+          "display": "-54 °F (-47.8 °C)",
+          "aliases": []
+        },
+        {
+          "answer": "Michigan",
+          "display": "-51 °F (-46.1 °C)",
+          "aliases": []
+        }
+      ]
+    }
+  ]
+}

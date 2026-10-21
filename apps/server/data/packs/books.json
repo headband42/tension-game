@@ -1,0 +1,395 @@
+{
+  "questions": [
+    {
+      "category": "arts/books/translations",
+      "question": "Top 10 most translated books by number of languages (books with an exact figure only, as of August 2026)",
+      "cutoff": 10,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1371789876 | table 1 | name: Title | value: Number of languages | where: Number of languages!~[>+(–]",
+      "tags": [
+        "books",
+        "literature",
+        "translation"
+      ],
+      "answers": [
+        {
+          "answer": "The Little Prince",
+          "display": "610 languages",
+          "aliases": [
+            "Le Petit Prince",
+            "Little Prince"
+          ]
+        },
+        {
+          "answer": "Alice's Adventures in Wonderland",
+          "display": "174 languages",
+          "aliases": [
+            "Alice in Wonderland",
+            "Alice"
+          ]
+        },
+        {
+          "answer": "Grimms' Fairy Tales",
+          "display": "170 languages",
+          "aliases": [
+            "Grimm's Fairy Tales",
+            "Grimm"
+          ]
+        },
+        {
+          "answer": "Andersen's Fairy Tales",
+          "display": "129 languages",
+          "aliases": [
+            "Andersen Fairy Tales"
+          ]
+        },
+        {
+          "answer": "The Book of Mormon",
+          "display": "115 languages",
+          "aliases": [
+            "Book of Mormon"
+          ]
+        },
+        {
+          "answer": "The Way to Happiness",
+          "display": "114 languages"
+        },
+        {
+          "answer": "The Prophet",
+          "display": "108 languages"
+        },
+        {
+          "answer": "The Upright Revolution",
+          "display": "100 languages",
+          "aliases": [
+            "Why Humans Walk Upright"
+          ]
+        },
+        {
+          "answer": "The Imitation of Christ",
+          "display": "95 languages"
+        },
+        {
+          "answer": "Harry Potter",
+          "display": "85 languages"
+        },
+        {
+          "answer": "Winnie-the-Pooh",
+          "display": "74 languages",
+          "aliases": [
+            "Winnie the Pooh",
+            "Pooh"
+          ]
+        },
+        {
+          "answer": "The Diary of a Young Girl",
+          "display": "73 languages",
+          "aliases": [
+            "Diary of Anne Frank",
+            "Anne Frank's diary"
+          ]
+        },
+        {
+          "answer": "Das Kapital",
+          "display": "72 languages",
+          "aliases": [
+            "Capital"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "arts/books/bestsellers",
+      "question": "Top 9 best-selling fiction authors (ranked by the lower of the estimated sales figures, as of 2026)",
+      "cutoff": 9,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1379627749 | table 1 | name: Author | value: Min",
+      "tags": [
+        "books",
+        "literature",
+        "bestsellers"
+      ],
+      "answers": [
+        {
+          "answer": "William Shakespeare",
+          "display": "2 billion",
+          "aliases": [
+            "Shakespeare"
+          ]
+        },
+        {
+          "answer": "Agatha Christie",
+          "display": "2 billion",
+          "aliases": [
+            "Christie"
+          ]
+        },
+        {
+          "answer": "J. K. Rowling",
+          "display": "600 million",
+          "aliases": [
+            "JK Rowling",
+            "J.K. Rowling",
+            "Rowling"
+          ]
+        },
+        {
+          "answer": "Eiichiro Oda",
+          "display": "600 million",
+          "aliases": [
+            "Oda"
+          ]
+        },
+        {
+          "answer": "Barbara Cartland",
+          "display": "500 million",
+          "aliases": [
+            "Cartland"
+          ]
+        },
+        {
+          "answer": "Danielle Steel",
+          "display": "500 million",
+          "aliases": [
+            "Steel"
+          ]
+        },
+        {
+          "answer": "Georges Simenon",
+          "display": "500 million",
+          "aliases": [
+            "Simenon"
+          ]
+        },
+        {
+          "answer": "Dean Koontz",
+          "display": "500 million",
+          "aliases": [
+            "Koontz"
+          ]
+        },
+        {
+          "answer": "Leo Tolstoy",
+          "display": "413 million",
+          "aliases": [
+            "Tolstoy"
+          ]
+        },
+        {
+          "answer": "Enid Blyton",
+          "display": "400 million",
+          "aliases": [
+            "Blyton"
+          ]
+        },
+        {
+          "answer": "Jackie Collins",
+          "display": "400 million"
+        },
+        {
+          "answer": "Corín Tellado",
+          "display": "400 million",
+          "aliases": [
+            "Tellado"
+          ]
+        },
+        {
+          "answer": "James Patterson",
+          "display": "400 million",
+          "aliases": [
+            "Patterson"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "arts/books/bestsellers",
+      "question": "Top 7 best-selling British fiction authors (ranked by the lower of the estimated sales figures, as of 2026)",
+      "cutoff": 7,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1379627749 | table 1 | name: Author | value: Min | where: Nationality=British | note: 'British' matched exactly as written in the Nationality column",
+      "tags": [
+        "books",
+        "literature",
+        "bestsellers",
+        "british"
+      ],
+      "answers": [
+        {
+          "answer": "Agatha Christie",
+          "display": "2 billion",
+          "aliases": [
+            "Christie"
+          ]
+        },
+        {
+          "answer": "J. K. Rowling",
+          "display": "600 million",
+          "aliases": [
+            "JK Rowling",
+            "J.K. Rowling",
+            "Rowling"
+          ]
+        },
+        {
+          "answer": "Barbara Cartland",
+          "display": "500 million",
+          "aliases": [
+            "Cartland"
+          ]
+        },
+        {
+          "answer": "Enid Blyton",
+          "display": "400 million",
+          "aliases": [
+            "Blyton"
+          ]
+        },
+        {
+          "answer": "Jackie Collins",
+          "display": "400 million"
+        },
+        {
+          "answer": "Edgar Wallace",
+          "display": "300 million",
+          "aliases": [
+            "Wallace"
+          ]
+        },
+        {
+          "answer": "Jeffrey Archer",
+          "display": "250 million",
+          "aliases": [
+            "Archer"
+          ]
+        },
+        {
+          "answer": "Roald Dahl",
+          "display": "200 million",
+          "aliases": [
+            "Dahl"
+          ]
+        },
+        {
+          "answer": "J. R. R. Tolkien",
+          "display": "200 million",
+          "aliases": [
+            "Tolkien"
+          ]
+        },
+        {
+          "answer": "Alistair MacLean",
+          "display": "150 million",
+          "aliases": [
+            "MacLean"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "arts/books/awards",
+      "question": "Top 10 publishers or magazines by number of Hugo Award for Best Novel wins (as of 2026; rows naming two publishers left out)",
+      "cutoff": 10,
+      "difficulty": 3,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1375530935 | table 1 | name: Publisher | value: #rows | where: Author(s)~\\*$ | where: Publisher!~\\(",
+      "tags": [
+        "books",
+        "literature",
+        "awards",
+        "science fiction"
+      ],
+      "answers": [
+        {
+          "answer": "Tor Books",
+          "display": "13 wins",
+          "aliases": [
+            "Tor"
+          ]
+        },
+        {
+          "answer": "Galaxy Science Fiction",
+          "display": "6 wins",
+          "aliases": [
+            "Galaxy"
+          ]
+        },
+        {
+          "answer": "Doubleday",
+          "display": "4 wins"
+        },
+        {
+          "answer": "Bantam Spectra",
+          "display": "4 wins"
+        },
+        {
+          "answer": "Orbit Books",
+          "display": "4 wins",
+          "aliases": [
+            "Orbit"
+          ]
+        },
+        {
+          "answer": "Astounding Science-Fiction",
+          "display": "3 wins",
+          "aliases": [
+            "Astounding"
+          ]
+        },
+        {
+          "answer": "Ballantine Books",
+          "display": "3 wins",
+          "aliases": [
+            "Ballantine"
+          ]
+        },
+        {
+          "answer": "Putnam Publishing Group",
+          "display": "3 wins",
+          "aliases": [
+            "Putnam"
+          ]
+        },
+        {
+          "answer": "Ace Books",
+          "display": "3 wins",
+          "aliases": [
+            "Ace"
+          ]
+        },
+        {
+          "answer": "HarperCollins",
+          "display": "3 wins"
+        },
+        {
+          "answer": "The Magazine of Fantasy & Science Fiction",
+          "display": "2 wins",
+          "aliases": [
+            "F&SF"
+          ]
+        },
+        {
+          "answer": "Harper & Row",
+          "display": "2 wins"
+        },
+        {
+          "answer": "Baen Books",
+          "display": "2 wins",
+          "aliases": [
+            "Baen"
+          ]
+        },
+        {
+          "answer": "Bloomsbury Publishing",
+          "display": "2 wins",
+          "aliases": [
+            "Bloomsbury"
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,568 @@
+{
+  "categories": [
+    {
+      "path": "sports/rugby/union",
+      "name": "Rugby union"
+    },
+    {
+      "path": "sports/rugby/league",
+      "name": "Rugby league"
+    }
+  ],
+  "questions": [
+    {
+      "category": "sports/rugby/union",
+      "difficulty": 2,
+      "question": "Top 9 regular rugby union venues outside Europe by capacity (current stadiums)",
+      "cutoff": 9,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1365718540 | table 1 | name: Stadium | value: Capacity | where: Country~^(New Zealand|Australia|South Africa|United States|Japan|Argentina|Hong Kong|Fiji|Uruguay|United Arab Emirates|UAE|Sri Lanka|Singapore|Samoa|Madagascar)$",
+      "tags": [
+        "rugby",
+        "stadiums",
+        "capacity"
+      ],
+      "answers": [
+        {
+          "answer": "FNB Stadium",
+          "display": "94,736 seats",
+          "aliases": [
+            "Soccer City"
+          ]
+        },
+        {
+          "answer": "Stadium Australia",
+          "display": "84,000 seats"
+        },
+        {
+          "answer": "Ellis Park Stadium",
+          "display": "62,567 seats",
+          "aliases": [
+            "Ellis Park"
+          ]
+        },
+        {
+          "answer": "Optus Stadium",
+          "display": "60,000 seats",
+          "aliases": [
+            "Perth Stadium"
+          ]
+        },
+        {
+          "answer": "Cape Town Stadium",
+          "display": "58,310 seats"
+        },
+        {
+          "answer": "Marvel Stadium",
+          "display": "56,347 seats",
+          "aliases": [
+            "Docklands Stadium",
+            "Etihad Stadium"
+          ]
+        },
+        {
+          "answer": "Singapore National Stadium",
+          "display": "55,000 seats",
+          "aliases": [
+            "National Stadium"
+          ]
+        },
+        {
+          "answer": "Estadio Ciudad de La Plata",
+          "display": "53,000 seats",
+          "aliases": [
+            "La Plata"
+          ]
+        },
+        {
+          "answer": "Suncorp Stadium",
+          "display": "52,500 seats",
+          "aliases": [
+            "Lang Park"
+          ]
+        },
+        {
+          "answer": "Kings Park Stadium",
+          "display": "52,000 seats",
+          "aliases": [
+            "Kings Park"
+          ]
+        },
+        {
+          "answer": "Loftus Versfeld Stadium",
+          "display": "51,762 seats",
+          "aliases": [
+            "Loftus Versfeld",
+            "Loftus"
+          ]
+        },
+        {
+          "answer": "Kai Tak Stadium",
+          "display": "50,000 seats",
+          "aliases": [
+            "Kai Tak"
+          ]
+        },
+        {
+          "answer": "Eden Park",
+          "display": "50,000 seats"
+        },
+        {
+          "answer": "The Sevens Stadium",
+          "display": "50,000 seats",
+          "aliases": [
+            "The Sevens",
+            "Dubai Sevens"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/rugby/league",
+      "difficulty": 2,
+      "question": "Top 8 rugby league clubs by premiership titles won (NSWRL and NRL eras, through 2026; St George and St George Illawarra counted separately)",
+      "cutoff": 8,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1379725143 | table 5 | name: Team | value: Premiers",
+      "tags": [
+        "rugby league",
+        "nrl",
+        "premierships"
+      ],
+      "answers": [
+        {
+          "answer": "South Sydney Rabbitohs",
+          "display": "21 titles",
+          "aliases": [
+            "Rabbitohs",
+            "Souths"
+          ]
+        },
+        {
+          "answer": "Sydney Roosters",
+          "display": "16 titles",
+          "aliases": [
+            "Roosters",
+            "Eastern Suburbs",
+            "Easts"
+          ]
+        },
+        {
+          "answer": "St George Dragons",
+          "display": "15 titles",
+          "aliases": [
+            "St George"
+          ]
+        },
+        {
+          "answer": "Balmain Tigers",
+          "display": "11 titles",
+          "aliases": [
+            "Balmain",
+            "Tigers"
+          ]
+        },
+        {
+          "answer": "Manly-Warringah Sea Eagles",
+          "display": "8 titles",
+          "aliases": [
+            "Manly",
+            "Sea Eagles"
+          ]
+        },
+        {
+          "answer": "Canterbury-Bankstown Bulldogs",
+          "display": "8 titles",
+          "aliases": [
+            "Canterbury",
+            "Bulldogs"
+          ]
+        },
+        {
+          "answer": "Brisbane Broncos",
+          "display": "7 titles",
+          "aliases": [
+            "Broncos"
+          ]
+        },
+        {
+          "answer": "Penrith Panthers",
+          "display": "6 titles",
+          "aliases": [
+            "Panthers"
+          ]
+        },
+        {
+          "answer": "Western Suburbs Magpies",
+          "display": "4 titles",
+          "aliases": [
+            "Wests",
+            "Magpies"
+          ]
+        },
+        {
+          "answer": "Parramatta Eels",
+          "display": "4 titles",
+          "aliases": [
+            "Parramatta",
+            "Eels"
+          ]
+        },
+        {
+          "answer": "Melbourne Storm",
+          "display": "4 titles",
+          "aliases": [
+            "Storm",
+            "Melbourne"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/rugby/union",
+      "difficulty": 3,
+      "question": "Top 7 Premiership Rugby all-time try scorers (through 2026)",
+      "cutoff": 7,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1379720485 | table 9 | name: Player | value: Tries",
+      "tags": [
+        "rugby union",
+        "premiership",
+        "tries"
+      ],
+      "answers": [
+        {
+          "answer": "Chris Ashton",
+          "display": "101 tries",
+          "aliases": [
+            "Ashton"
+          ]
+        },
+        {
+          "answer": "Christian Wade",
+          "display": "100 tries",
+          "aliases": [
+            "Wade"
+          ]
+        },
+        {
+          "answer": "Tom Varndell",
+          "display": "92 tries",
+          "aliases": [
+            "Varndell"
+          ]
+        },
+        {
+          "answer": "Mark Cueto",
+          "display": "90 tries",
+          "aliases": [
+            "Cueto"
+          ]
+        },
+        {
+          "answer": "Danny Care",
+          "display": "85 tries",
+          "aliases": [
+            "Care"
+          ]
+        },
+        {
+          "answer": "Jonny May",
+          "display": "78 tries",
+          "aliases": [
+            "May"
+          ]
+        },
+        {
+          "answer": "Steve Hanley",
+          "display": "75 tries",
+          "aliases": [
+            "Hanley"
+          ]
+        },
+        {
+          "answer": "Mike Brown",
+          "display": "72 tries",
+          "aliases": [
+            "Brown"
+          ]
+        },
+        {
+          "answer": "Matt Banahan",
+          "display": "71 tries",
+          "aliases": [
+            "Banahan"
+          ]
+        },
+        {
+          "answer": "Paul Sackey",
+          "display": "69 tries",
+          "aliases": [
+            "Sackey"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/rugby/union",
+      "difficulty": 3,
+      "question": "Top 7 Premiership Rugby all-time points scorers (through 2026)",
+      "cutoff": 7,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1379720485 | table 8 | name: Player | value: Points",
+      "tags": [
+        "rugby union",
+        "premiership",
+        "points"
+      ],
+      "answers": [
+        {
+          "answer": "Charlie Hodgson",
+          "display": "2,625 points",
+          "aliases": [
+            "Hodgson"
+          ]
+        },
+        {
+          "answer": "Andy Goode",
+          "display": "2,285 points",
+          "aliases": [
+            "Goode"
+          ]
+        },
+        {
+          "answer": "George Ford",
+          "display": "2,065 points",
+          "aliases": [
+            "Ford"
+          ]
+        },
+        {
+          "answer": "Owen Farrell",
+          "display": "1,860 points",
+          "aliases": [
+            "Farrell"
+          ]
+        },
+        {
+          "answer": "Stephen Myler",
+          "display": "1,778 points",
+          "aliases": [
+            "Myler"
+          ]
+        },
+        {
+          "answer": "Jimmy Gopperth",
+          "display": "1,737 points",
+          "aliases": [
+            "Gopperth"
+          ]
+        },
+        {
+          "answer": "Nick Evans",
+          "display": "1,656 points"
+        },
+        {
+          "answer": "Gareth Steenson",
+          "display": "1,651 points",
+          "aliases": [
+            "Steenson"
+          ]
+        },
+        {
+          "answer": "Olly Barkley",
+          "display": "1,605 points",
+          "aliases": [
+            "Barkley"
+          ]
+        },
+        {
+          "answer": "Freddie Burns",
+          "display": "1,532 points",
+          "aliases": [
+            "Burns"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/rugby/union",
+      "difficulty": 2,
+      "question": "Top 8 nations by Rugby World Cup quarter-final appearances (through 2023)",
+      "cutoff": 8,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1379407678 | table 5 | name: Team | value: Apps in top 8",
+      "tags": [
+        "rugby union",
+        "rugby world cup"
+      ],
+      "answers": [
+        {
+          "answer": "New Zealand",
+          "display": "10 quarter-finals",
+          "aliases": [
+            "All Blacks",
+            "NZ"
+          ]
+        },
+        {
+          "answer": "France",
+          "display": "10 quarter-finals",
+          "aliases": [
+            "Les Bleus"
+          ]
+        },
+        {
+          "answer": "Australia",
+          "display": "9 quarter-finals",
+          "aliases": [
+            "Wallabies"
+          ]
+        },
+        {
+          "answer": "England",
+          "display": "9 quarter-finals"
+        },
+        {
+          "answer": "South Africa",
+          "display": "8 quarter-finals",
+          "aliases": [
+            "Springboks",
+            "Boks"
+          ]
+        },
+        {
+          "answer": "Ireland",
+          "display": "8 quarter-finals"
+        },
+        {
+          "answer": "Wales",
+          "display": "7 quarter-finals"
+        },
+        {
+          "answer": "Scotland",
+          "display": "7 quarter-finals"
+        },
+        {
+          "answer": "Argentina",
+          "display": "5 quarter-finals",
+          "aliases": [
+            "Pumas",
+            "Los Pumas"
+          ]
+        },
+        {
+          "answer": "Fiji",
+          "display": "3 quarter-finals",
+          "aliases": [
+            "Flying Fijians"
+          ]
+        },
+        {
+          "answer": "Samoa",
+          "display": "2 quarter-finals"
+        }
+      ]
+    },
+    {
+      "category": "sports/rugby/league",
+      "difficulty": 2,
+      "question": "Top 9 State of Origin venues by number of matches hosted (as of 2026)",
+      "cutoff": 9,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1375545025 | table 8 | name: Venue | value: Games | header rows: 2 | where: Venue!~^(Totals|Source)",
+      "tags": [
+        "rugby league",
+        "state of origin",
+        "venues"
+      ],
+      "answers": [
+        {
+          "answer": "Suncorp Stadium",
+          "display": "63 matches",
+          "aliases": [
+            "Lang Park"
+          ]
+        },
+        {
+          "answer": "Stadium Australia",
+          "display": "34 matches",
+          "aliases": [
+            "ANZ Stadium"
+          ]
+        },
+        {
+          "answer": "Sydney Football Stadium",
+          "display": "14 matches",
+          "aliases": [
+            "SFS"
+          ]
+        },
+        {
+          "answer": "Melbourne Cricket Ground",
+          "display": "7 matches",
+          "aliases": [
+            "MCG"
+          ]
+        },
+        {
+          "answer": "Sydney Cricket Ground",
+          "display": "6 matches",
+          "aliases": [
+            "SCG"
+          ]
+        },
+        {
+          "answer": "Marvel Stadium",
+          "display": "3 matches",
+          "aliases": [
+            "Docklands Stadium",
+            "Docklands",
+            "Etihad Stadium"
+          ]
+        },
+        {
+          "answer": "Optus Stadium",
+          "display": "3 matches",
+          "aliases": [
+            "Perth Stadium"
+          ]
+        },
+        {
+          "answer": "QEII Stadium",
+          "display": "2 matches",
+          "aliases": [
+            "QEII"
+          ]
+        },
+        {
+          "answer": "Adelaide Oval",
+          "display": "2 matches"
+        },
+        {
+          "answer": "Veterans Memorial Stadium",
+          "display": "1 match (Long Beach, California, 1987)",
+          "aliases": [
+            "Long Beach"
+          ]
+        },
+        {
+          "answer": "Olympic Park Stadium",
+          "display": "1 match (Melbourne, 1990)",
+          "aliases": [
+            "Olympic Park",
+            "Olympic"
+          ]
+        },
+        {
+          "answer": "North Queensland Stadium",
+          "display": "1 match"
+        },
+        {
+          "answer": "Robina Stadium",
+          "display": "1 match"
+        }
+      ]
+    }
+  ]
+}

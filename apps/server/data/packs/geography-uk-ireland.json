@@ -1,0 +1,521 @@
+{
+  "categories": [
+    {
+      "path": "geography/uk-ireland/rivers",
+      "name": "Rivers"
+    },
+    {
+      "path": "geography/uk-ireland/islands",
+      "name": "Islands"
+    },
+    {
+      "path": "geography/uk-ireland/population",
+      "name": "Population"
+    }
+  ],
+  "questions": [
+    {
+      "category": "geography/uk-ireland/islands",
+      "difficulty": 2,
+      "question": "Top 10 largest Scottish islands by area",
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1368574909 | table 3 | name: Island | value: Area (ha)",
+      "tags": [
+        "geography",
+        "uk",
+        "islands",
+        "scotland"
+      ],
+      "answers": [
+        {
+          "answer": "Lewis and Harris",
+          "display": "217,898 ha",
+          "aliases": [
+            "Lewis",
+            "Harris"
+          ]
+        },
+        {
+          "answer": "Skye",
+          "display": "165,625 ha",
+          "aliases": [
+            "Isle of Skye"
+          ]
+        },
+        {
+          "answer": "Mainland, Shetland",
+          "display": "96,879 ha",
+          "aliases": [
+            "Shetland Mainland"
+          ]
+        },
+        {
+          "answer": "Mull",
+          "display": "87,535 ha",
+          "aliases": [
+            "Isle of Mull"
+          ]
+        },
+        {
+          "answer": "Islay",
+          "display": "61,956 ha"
+        },
+        {
+          "answer": "Mainland, Orkney",
+          "display": "52,325 ha",
+          "aliases": [
+            "Orkney Mainland"
+          ]
+        },
+        {
+          "answer": "Arran",
+          "display": "43,201 ha",
+          "aliases": [
+            "Isle of Arran"
+          ]
+        },
+        {
+          "answer": "Jura",
+          "display": "36,692 ha"
+        },
+        {
+          "answer": "South Uist",
+          "display": "32,026 ha"
+        },
+        {
+          "answer": "North Uist",
+          "display": "30,305 ha"
+        },
+        {
+          "answer": "Yell",
+          "display": "21,211 ha"
+        },
+        {
+          "answer": "Hoy",
+          "display": "13,458 ha"
+        },
+        {
+          "answer": "Bute",
+          "display": "12,217 ha"
+        },
+        {
+          "answer": "Unst",
+          "display": "12,068 ha"
+        },
+        {
+          "answer": "Rùm",
+          "display": "10,463 ha",
+          "aliases": [
+            "Rum"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "geography/uk-ireland/rivers",
+      "difficulty": 2,
+      "question": "Top 10 longest major rivers of the United Kingdom",
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1363924685 | table 1 | name: River | value: Length (km)",
+      "tags": [
+        "geography",
+        "uk",
+        "rivers",
+        "length"
+      ],
+      "answers": [
+        {
+          "answer": "River Severn",
+          "display": "354 km"
+        },
+        {
+          "answer": "River Thames",
+          "display": "346 km"
+        },
+        {
+          "answer": "River Trent",
+          "display": "297 km"
+        },
+        {
+          "answer": "River Wye",
+          "display": "250 km"
+        },
+        {
+          "answer": "River Great Ouse",
+          "display": "230 km"
+        },
+        {
+          "answer": "River Ouse (Yorkshire)",
+          "display": "208 km",
+          "aliases": [
+            "Yorkshire Ouse",
+            "River Ure",
+            "Ure"
+          ]
+        },
+        {
+          "answer": "River Tay",
+          "display": "188 km"
+        },
+        {
+          "answer": "River Clyde",
+          "display": "176 km"
+        },
+        {
+          "answer": "River Spey",
+          "display": "172 km"
+        },
+        {
+          "answer": "River Nene",
+          "display": "161 km"
+        },
+        {
+          "answer": "River Bann",
+          "display": "159 km"
+        },
+        {
+          "answer": "River Tweed",
+          "display": "155 km"
+        },
+        {
+          "answer": "River Avon",
+          "display": "154 km",
+          "aliases": [
+            "Warwickshire Avon"
+          ]
+        },
+        {
+          "answer": "River Eden",
+          "display": "145 km"
+        },
+        {
+          "answer": "River Dee",
+          "display": "140 km"
+        }
+      ]
+    },
+    {
+      "category": "geography/uk-ireland/rivers",
+      "difficulty": 3,
+      "question": "Top 10 major UK rivers by average flow (mean discharge)",
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1363924685 | table 1 | name: River | value: Mean flow",
+      "tags": [
+        "geography",
+        "uk",
+        "rivers",
+        "discharge"
+      ],
+      "answers": [
+        {
+          "answer": "River Tay",
+          "display": "179 m³/s"
+        },
+        {
+          "answer": "River Severn",
+          "display": "107.4 m³/s"
+        },
+        {
+          "answer": "River Bann",
+          "display": "92.2 m³/s"
+        },
+        {
+          "answer": "River Ness",
+          "display": "90.7 m³/s"
+        },
+        {
+          "answer": "River Trent",
+          "display": "89.0 m³/s"
+        },
+        {
+          "answer": "River Tweed",
+          "display": "81.7 m³/s"
+        },
+        {
+          "answer": "River Wye",
+          "display": "73.1 m³/s"
+        },
+        {
+          "answer": "River Ouse (Yorkshire)",
+          "display": "69.8 m³/s",
+          "aliases": [
+            "Yorkshire Ouse",
+            "River Ure",
+            "Ure"
+          ]
+        },
+        {
+          "answer": "River Spey",
+          "display": "65.7 m³/s"
+        },
+        {
+          "answer": "River Thames",
+          "display": "65.4 m³/s"
+        },
+        {
+          "answer": "River Foyle",
+          "display": "58.8 m³/s"
+        },
+        {
+          "answer": "River Eden",
+          "display": "53.7 m³/s"
+        },
+        {
+          "answer": "River Clyde",
+          "display": "48.5 m³/s"
+        },
+        {
+          "answer": "River Dee",
+          "display": "47.8 m³/s"
+        },
+        {
+          "answer": "River Tyne",
+          "display": "45.2 m³/s"
+        }
+      ]
+    },
+    {
+      "category": "geography/uk-ireland/population",
+      "difficulty": 1,
+      "question": "Top 10 most populous local authority districts in England (2025, not counting two-tier county councils)",
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1379690294 | table 1 | name: District | value: Population",
+      "tags": [
+        "geography",
+        "uk",
+        "population",
+        "england"
+      ],
+      "answers": [
+        {
+          "answer": "Birmingham",
+          "display": "1,176,960"
+        },
+        {
+          "answer": "Leeds",
+          "display": "840,550"
+        },
+        {
+          "answer": "North Yorkshire",
+          "display": "639,133"
+        },
+        {
+          "answer": "Somerset",
+          "display": "590,972"
+        },
+        {
+          "answer": "Manchester",
+          "display": "588,256"
+        },
+        {
+          "answer": "Cornwall",
+          "display": "584,782"
+        },
+        {
+          "answer": "Buckinghamshire",
+          "display": "584,296"
+        },
+        {
+          "answer": "Sheffield",
+          "display": "579,517"
+        },
+        {
+          "answer": "Bradford",
+          "display": "557,758"
+        },
+        {
+          "answer": "County Durham",
+          "display": "539,146",
+          "aliases": [
+            "Durham"
+          ]
+        },
+        {
+          "answer": "Wiltshire",
+          "display": "526,392"
+        },
+        {
+          "answer": "Liverpool",
+          "display": "507,915"
+        },
+        {
+          "answer": "Bristol",
+          "display": "495,260"
+        },
+        {
+          "answer": "Kirklees",
+          "display": "445,832"
+        },
+        {
+          "answer": "West Northamptonshire",
+          "display": "444,218"
+        }
+      ]
+    },
+    {
+      "category": "geography/uk-ireland/population",
+      "difficulty": 2,
+      "question": "Top 10 most populous counties on the island of Ireland (2022 census in the Republic, 2021 in Northern Ireland)",
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1366771207 | table 1 | name: County | value: Population | where: Rank!=– | where: County!=Island of Ireland",
+      "tags": [
+        "geography",
+        "ireland",
+        "population",
+        "counties"
+      ],
+      "answers": [
+        {
+          "answer": "Dublin",
+          "display": "1,458,154"
+        },
+        {
+          "answer": "Antrim",
+          "display": "651,321"
+        },
+        {
+          "answer": "Cork",
+          "display": "584,156"
+        },
+        {
+          "answer": "Down",
+          "display": "553,261"
+        },
+        {
+          "answer": "Galway",
+          "display": "277,737"
+        },
+        {
+          "answer": "Londonderry",
+          "display": "252,231",
+          "aliases": [
+            "County Derry"
+          ]
+        },
+        {
+          "answer": "Kildare",
+          "display": "247,774"
+        },
+        {
+          "answer": "Meath",
+          "display": "220,826"
+        },
+        {
+          "answer": "Limerick",
+          "display": "209,536"
+        },
+        {
+          "answer": "Armagh",
+          "display": "194,394"
+        },
+        {
+          "answer": "Tyrone",
+          "display": "188,383"
+        },
+        {
+          "answer": "Tipperary",
+          "display": "167,895"
+        },
+        {
+          "answer": "Donegal",
+          "display": "167,084"
+        },
+        {
+          "answer": "Wexford",
+          "display": "163,919"
+        },
+        {
+          "answer": "Kerry",
+          "display": "156,458"
+        }
+      ]
+    },
+    {
+      "category": "geography/uk-ireland/population",
+      "difficulty": 2,
+      "question": "Top 10 most populous council areas of Scotland (2025)",
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1336921156 | table 1 | name: Council area | value: Population (2025)",
+      "tags": [
+        "geography",
+        "uk",
+        "population",
+        "scotland"
+      ],
+      "answers": [
+        {
+          "answer": "Glasgow City",
+          "display": "654,330",
+          "aliases": [
+            "Glasgow"
+          ]
+        },
+        {
+          "answer": "City of Edinburgh",
+          "display": "531,370",
+          "aliases": [
+            "Edinburgh"
+          ]
+        },
+        {
+          "answer": "Fife",
+          "display": "373,990"
+        },
+        {
+          "answer": "North Lanarkshire",
+          "display": "343,930"
+        },
+        {
+          "answer": "South Lanarkshire",
+          "display": "334,330"
+        },
+        {
+          "answer": "Aberdeenshire",
+          "display": "264,640"
+        },
+        {
+          "answer": "Highland",
+          "display": "237,260"
+        },
+        {
+          "answer": "Aberdeen City",
+          "display": "230,180",
+          "aliases": [
+            "Aberdeen"
+          ]
+        },
+        {
+          "answer": "Renfrewshire",
+          "display": "189,270"
+        },
+        {
+          "answer": "West Lothian",
+          "display": "187,240"
+        },
+        {
+          "answer": "Falkirk",
+          "display": "160,230"
+        },
+        {
+          "answer": "Perth and Kinross",
+          "display": "154,930"
+        },
+        {
+          "answer": "Dundee City",
+          "display": "148,390",
+          "aliases": [
+            "Dundee"
+          ]
+        },
+        {
+          "answer": "Dumfries and Galloway",
+          "display": "145,490"
+        },
+        {
+          "answer": "North Ayrshire",
+          "display": "133,660"
+        }
+      ]
+    }
+  ]
+}

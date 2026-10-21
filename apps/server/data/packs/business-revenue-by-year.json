@@ -1,0 +1,1922 @@
+{
+  "categories": [
+    {
+      "path": "business/companies/revenue",
+      "name": "Largest Companies by Revenue"
+    }
+  ],
+  "questions": [
+    {
+      "category": "business/companies/revenue",
+      "difficulty": 2,
+      "question": "Top 10 largest companies in the world by revenue at the start of 2007",
+      "cutoff": 10,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=95900698 | table 1 | name: Company name | value: Revenue",
+      "tags": [
+        "business",
+        "companies",
+        "revenue"
+      ],
+      "answers": [
+        {
+          "answer": "ExxonMobil",
+          "display": "$370.6 billion",
+          "aliases": [
+            "Exxon Mobil",
+            "Exxon"
+          ]
+        },
+        {
+          "answer": "Walmart",
+          "display": "$315.6 billion",
+          "aliases": [
+            "Wal-Mart",
+            "Wal-Mart Stores"
+          ]
+        },
+        {
+          "answer": "Royal Dutch Shell",
+          "display": "$306.7 billion",
+          "aliases": [
+            "Shell"
+          ]
+        },
+        {
+          "answer": "BP",
+          "display": "$253.6 billion",
+          "aliases": [
+            "British Petroleum"
+          ]
+        },
+        {
+          "answer": "Chevron",
+          "display": "$198.2 billion",
+          "aliases": [
+            "Chevron Corporation"
+          ]
+        },
+        {
+          "answer": "DaimlerChrysler",
+          "display": "$193.0 billion",
+          "aliases": [
+            "Daimler Chrysler"
+          ]
+        },
+        {
+          "answer": "General Motors",
+          "display": "$192.6 billion",
+          "aliases": [
+            "GM"
+          ]
+        },
+        {
+          "answer": "ConocoPhillips",
+          "display": "$183.3 billion",
+          "aliases": [
+            "Conoco"
+          ]
+        },
+        {
+          "answer": "Total",
+          "display": "$178.3 billion",
+          "aliases": [
+            "Total S.A.",
+            "TotalEnergies"
+          ]
+        },
+        {
+          "answer": "Ford",
+          "display": "$177.4 billion",
+          "aliases": [
+            "Ford Motor"
+          ]
+        },
+        {
+          "answer": "Toyota",
+          "display": "$173.0 billion",
+          "aliases": [
+            "Toyota Motor"
+          ]
+        },
+        {
+          "answer": "General Electric",
+          "display": "$149.7 billion",
+          "aliases": [
+            "GE"
+          ]
+        },
+        {
+          "answer": "Allianz",
+          "display": "$125.9 billion",
+          "aliases": [
+            "Allianz AG"
+          ]
+        },
+        {
+          "answer": "Volkswagen",
+          "display": "$122.8 billion",
+          "aliases": [
+            "VW",
+            "Volkswagen Group"
+          ]
+        },
+        {
+          "answer": "AXA",
+          "display": "$122.7 billion"
+        }
+      ]
+    },
+    {
+      "category": "business/companies/revenue",
+      "difficulty": 2,
+      "question": "Top 10 largest companies in the world by revenue at the start of 2009",
+      "cutoff": 10,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=260992520 | table 1 | name: Company Name | value: Revenue",
+      "tags": [
+        "business",
+        "companies",
+        "revenue"
+      ],
+      "answers": [
+        {
+          "answer": "ExxonMobil",
+          "display": "$390.3 billion",
+          "aliases": [
+            "Exxon Mobil",
+            "Exxon"
+          ]
+        },
+        {
+          "answer": "Walmart",
+          "display": "$374.5 billion",
+          "aliases": [
+            "Wal-Mart",
+            "Wal-Mart Stores"
+          ]
+        },
+        {
+          "answer": "Royal Dutch Shell",
+          "display": "$355.8 billion",
+          "aliases": [
+            "Shell"
+          ]
+        },
+        {
+          "answer": "BP",
+          "display": "$292 billion",
+          "aliases": [
+            "British Petroleum"
+          ]
+        },
+        {
+          "answer": "Toyota",
+          "display": "$264.8 billion",
+          "aliases": [
+            "Toyota Motor"
+          ]
+        },
+        {
+          "answer": "Total",
+          "display": "$217.6 billion",
+          "aliases": [
+            "Total S.A.",
+            "TotalEnergies"
+          ]
+        },
+        {
+          "answer": "Chevron",
+          "display": "$214.1 billion",
+          "aliases": [
+            "Chevron Corporation"
+          ]
+        },
+        {
+          "answer": "Saudi Aramco",
+          "display": "$199.8 billion",
+          "aliases": [
+            "Aramco"
+          ]
+        },
+        {
+          "answer": "ING Group",
+          "display": "$197.9 billion",
+          "aliases": [
+            "ING"
+          ]
+        },
+        {
+          "answer": "ConocoPhillips",
+          "display": "$187.4 billion",
+          "aliases": [
+            "Conoco"
+          ]
+        },
+        {
+          "answer": "General Motors",
+          "display": "$181.1 billion",
+          "aliases": [
+            "GM"
+          ]
+        },
+        {
+          "answer": "Samsung",
+          "display": "$174.2 billion",
+          "aliases": [
+            "Samsung Group",
+            "Samsung Electronics"
+          ]
+        },
+        {
+          "answer": "Ford",
+          "display": "$172.5 billion",
+          "aliases": [
+            "Ford Motor"
+          ]
+        },
+        {
+          "answer": "General Electric",
+          "display": "$169.7 billion",
+          "aliases": [
+            "GE"
+          ]
+        },
+        {
+          "answer": "Sinopec",
+          "display": "$165.4 billion",
+          "aliases": [
+            "Sinopec Group"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "business/companies/revenue",
+      "difficulty": 2,
+      "question": "Top 10 largest companies in the world by revenue at the start of 2011",
+      "cutoff": 10,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=405192429 | table 1 | name: Company name | value: Revenue",
+      "tags": [
+        "business",
+        "companies",
+        "revenue"
+      ],
+      "answers": [
+        {
+          "answer": "Walmart",
+          "display": "$408.214 billion",
+          "aliases": [
+            "Wal-Mart"
+          ]
+        },
+        {
+          "answer": "ExxonMobil",
+          "display": "$301.5 billion",
+          "aliases": [
+            "Exxon"
+          ]
+        },
+        {
+          "answer": "Royal Dutch Shell",
+          "display": "$278.188 billion",
+          "aliases": [
+            "Shell"
+          ]
+        },
+        {
+          "answer": "BP",
+          "display": "$246.138 billion",
+          "aliases": [
+            "British Petroleum"
+          ]
+        },
+        {
+          "answer": "Saudi Aramco",
+          "display": "$233.3 billion",
+          "aliases": [
+            "Aramco"
+          ]
+        },
+        {
+          "answer": "Toyota",
+          "display": "$203.687 billion",
+          "aliases": [
+            "Toyota Motor"
+          ]
+        },
+        {
+          "answer": "Japan Post Holdings",
+          "display": "$200.995 billion",
+          "aliases": [
+            "Japan Post"
+          ]
+        },
+        {
+          "answer": "Sinopec",
+          "display": "$197.019 billion",
+          "aliases": [
+            "Sinopec Group"
+          ]
+        },
+        {
+          "answer": "Total",
+          "display": "$189.19 billion",
+          "aliases": [
+            "Total S.A.",
+            "TotalEnergies"
+          ]
+        },
+        {
+          "answer": "State Grid",
+          "display": "$184.561 billion",
+          "aliases": [
+            "State Grid Corporation of China"
+          ]
+        },
+        {
+          "answer": "Samsung",
+          "display": "$172.5 billion",
+          "aliases": [
+            "Samsung Group",
+            "Samsung Electronics"
+          ]
+        },
+        {
+          "answer": "Chevron",
+          "display": "$167.402 billion"
+        },
+        {
+          "answer": "ING Group",
+          "display": "$164.39 billion",
+          "aliases": [
+            "ING"
+          ]
+        },
+        {
+          "answer": "General Electric",
+          "display": "$156.783 billion",
+          "aliases": [
+            "GE"
+          ]
+        },
+        {
+          "answer": "ConocoPhillips",
+          "display": "$152.84 billion",
+          "aliases": [
+            "Conoco"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "business/companies/revenue",
+      "difficulty": 2,
+      "question": "Top 10 largest companies in the world by revenue at the start of 2012",
+      "cutoff": 10,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=467666832 | table 1 | name: Company name | value: Revenue",
+      "tags": [
+        "business",
+        "companies",
+        "revenue"
+      ],
+      "answers": [
+        {
+          "answer": "Walmart",
+          "display": "$421.849 billion",
+          "aliases": [
+            "Wal-Mart"
+          ]
+        },
+        {
+          "answer": "ExxonMobil",
+          "display": "$370.125 billion",
+          "aliases": [
+            "Exxon Mobil",
+            "Exxon"
+          ]
+        },
+        {
+          "answer": "Royal Dutch Shell",
+          "display": "$368.056 billion",
+          "aliases": [
+            "Shell"
+          ]
+        },
+        {
+          "answer": "BP",
+          "display": "$297.107 billion",
+          "aliases": [
+            "British Petroleum"
+          ]
+        },
+        {
+          "answer": "Sinopec",
+          "display": "$289.774 billion",
+          "aliases": [
+            "Sinopec Group"
+          ]
+        },
+        {
+          "answer": "State Grid",
+          "display": "$231.556 billion",
+          "aliases": [
+            "State Grid Corporation of China"
+          ]
+        },
+        {
+          "answer": "Toyota",
+          "display": "$228.247 billion",
+          "aliases": [
+            "Toyota Motor"
+          ]
+        },
+        {
+          "answer": "PetroChina",
+          "display": "$221.955 billion"
+        },
+        {
+          "answer": "Total",
+          "display": "$212.815 billion",
+          "aliases": [
+            "Total S.A.",
+            "TotalEnergies"
+          ]
+        },
+        {
+          "answer": "Japan Post Holdings",
+          "display": "$211.080 billion",
+          "aliases": [
+            "Japan Post"
+          ]
+        },
+        {
+          "answer": "Chevron",
+          "display": "$204.928 billion"
+        },
+        {
+          "answer": "ConocoPhillips",
+          "display": "$198.655 billion",
+          "aliases": [
+            "Conoco"
+          ]
+        },
+        {
+          "answer": "Vitol",
+          "display": "$195.0 billion"
+        },
+        {
+          "answer": "Saudi Aramco",
+          "display": "$182.369 billion",
+          "aliases": [
+            "Aramco"
+          ]
+        },
+        {
+          "answer": "Volkswagen",
+          "display": "$169.53 billion",
+          "aliases": [
+            "VW",
+            "Volkswagen Group"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "business/companies/revenue",
+      "difficulty": 2,
+      "question": "Top 10 largest companies in the world by revenue at the start of 2013",
+      "cutoff": 10,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=530636465 | table 2 | name: Company | value: Revenue",
+      "tags": [
+        "business",
+        "companies",
+        "revenue"
+      ],
+      "answers": [
+        {
+          "answer": "Royal Dutch Shell",
+          "display": "$484.489 billion",
+          "aliases": [
+            "Shell"
+          ]
+        },
+        {
+          "answer": "ExxonMobil",
+          "display": "$452.926 billion",
+          "aliases": [
+            "Exxon"
+          ]
+        },
+        {
+          "answer": "Walmart",
+          "display": "$446.950 billion",
+          "aliases": [
+            "Wal-Mart"
+          ]
+        },
+        {
+          "answer": "Sinopec",
+          "display": "$397.775 billion",
+          "aliases": [
+            "Sinopec Group"
+          ]
+        },
+        {
+          "answer": "China National Petroleum",
+          "display": "$378.025 billion",
+          "aliases": [
+            "CNPC"
+          ]
+        },
+        {
+          "answer": "BP",
+          "display": "$375.517 billion",
+          "aliases": [
+            "British Petroleum"
+          ]
+        },
+        {
+          "answer": "Saudi Aramco",
+          "display": "$356 billion",
+          "aliases": [
+            "Aramco"
+          ]
+        },
+        {
+          "answer": "Vitol",
+          "display": "$297 billion"
+        },
+        {
+          "answer": "State Grid",
+          "display": "$265.962 billion",
+          "aliases": [
+            "State Grid Corporation of China"
+          ]
+        },
+        {
+          "answer": "Chevron",
+          "display": "$253.706 billion"
+        },
+        {
+          "answer": "ConocoPhillips",
+          "display": "$251.226 billion",
+          "aliases": [
+            "Conoco"
+          ]
+        },
+        {
+          "answer": "Toyota",
+          "display": "$226.106 billion",
+          "aliases": [
+            "Toyota Motor"
+          ]
+        },
+        {
+          "answer": "Total",
+          "display": "$215.567 billion",
+          "aliases": [
+            "TotalEnergies"
+          ]
+        },
+        {
+          "answer": "Volkswagen",
+          "display": "$206.264 billion",
+          "aliases": [
+            "VW",
+            "Volkswagen Group"
+          ]
+        },
+        {
+          "answer": "Japan Post Holdings",
+          "display": "$201.187 billion",
+          "aliases": [
+            "Japan Post"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "business/companies/revenue",
+      "difficulty": 2,
+      "question": "Top 10 largest companies in the world by revenue at the start of 2014",
+      "cutoff": 10,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=588339840 | table 2 | name: Company | value: Revenue",
+      "tags": [
+        "business",
+        "companies",
+        "revenue"
+      ],
+      "answers": [
+        {
+          "answer": "Walmart",
+          "display": "$469 billion",
+          "aliases": [
+            "Wal-Mart",
+            "Wal-Mart Stores"
+          ]
+        },
+        {
+          "answer": "Royal Dutch Shell",
+          "display": "$467 billion",
+          "aliases": [
+            "Shell"
+          ]
+        },
+        {
+          "answer": "ExxonMobil",
+          "display": "$453 billion",
+          "aliases": [
+            "Exxon Mobil",
+            "Exxon"
+          ]
+        },
+        {
+          "answer": "China National Petroleum",
+          "display": "$425 billion",
+          "aliases": [
+            "CNPC"
+          ]
+        },
+        {
+          "answer": "Sinopec",
+          "display": "$411 billion",
+          "aliases": [
+            "Sinopec Group"
+          ]
+        },
+        {
+          "answer": "BP",
+          "display": "$370 billion",
+          "aliases": [
+            "British Petroleum"
+          ]
+        },
+        {
+          "answer": "Saudi Aramco",
+          "display": "$365 billion",
+          "aliases": [
+            "Aramco"
+          ]
+        },
+        {
+          "answer": "Vitol",
+          "display": "$303 billion"
+        },
+        {
+          "answer": "State Grid",
+          "display": "$290 billion",
+          "aliases": [
+            "State Grid Corporation of China"
+          ]
+        },
+        {
+          "answer": "Volkswagen",
+          "display": "$254 billion",
+          "aliases": [
+            "VW",
+            "Volkswagen Group"
+          ]
+        },
+        {
+          "answer": "Chevron",
+          "display": "$242 billion"
+        },
+        {
+          "answer": "Total",
+          "display": "$240 billion",
+          "aliases": [
+            "TotalEnergies"
+          ]
+        },
+        {
+          "answer": "Toyota",
+          "display": "$222 billion",
+          "aliases": [
+            "Toyota Motor"
+          ]
+        },
+        {
+          "answer": "Glencore",
+          "display": "$214 billion",
+          "aliases": [
+            "Glencore Xstrata"
+          ]
+        },
+        {
+          "answer": "Samsung",
+          "display": "$187 billion",
+          "aliases": [
+            "Samsung Group",
+            "Samsung Electronics"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "business/companies/revenue",
+      "difficulty": 2,
+      "question": "Top 10 largest companies in the world by revenue at the start of 2016",
+      "cutoff": 10,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=697445023 | table 1 | name: Name | value: USD billions",
+      "tags": [
+        "business",
+        "companies",
+        "revenue"
+      ],
+      "answers": [
+        {
+          "answer": "Walmart",
+          "display": "$485 billion",
+          "aliases": [
+            "Wal-Mart"
+          ]
+        },
+        {
+          "answer": "Sinopec",
+          "display": "$455 billion",
+          "aliases": [
+            "Sinopec Group"
+          ]
+        },
+        {
+          "answer": "China National Petroleum",
+          "display": "$428 billion",
+          "aliases": [
+            "CNPC"
+          ]
+        },
+        {
+          "answer": "Royal Dutch Shell",
+          "display": "$421 billion",
+          "aliases": [
+            "Shell"
+          ]
+        },
+        {
+          "answer": "ExxonMobil",
+          "display": "$394 billion",
+          "aliases": [
+            "Exxon Mobil",
+            "Exxon"
+          ]
+        },
+        {
+          "answer": "Saudi Aramco",
+          "display": "$378 billion",
+          "aliases": [
+            "Aramco"
+          ]
+        },
+        {
+          "answer": "BP",
+          "display": "$359 billion",
+          "aliases": [
+            "British Petroleum"
+          ]
+        },
+        {
+          "answer": "State Grid",
+          "display": "$333 billion",
+          "aliases": [
+            "State Grid Corporation of China"
+          ]
+        },
+        {
+          "answer": "Samsung",
+          "display": "$305 billion",
+          "aliases": [
+            "Samsung Group",
+            "Samsung Electronics"
+          ]
+        },
+        {
+          "answer": "Vitol",
+          "display": "$270 billion"
+        },
+        {
+          "answer": "Kuwait Petroleum",
+          "display": "$252 billion",
+          "aliases": [
+            "KPC"
+          ]
+        },
+        {
+          "answer": "Volkswagen",
+          "display": "$245 billion",
+          "aliases": [
+            "VW",
+            "Volkswagen Group"
+          ]
+        },
+        {
+          "answer": "Apple",
+          "display": "$233 billion",
+          "aliases": [
+            "Apple Inc."
+          ]
+        },
+        {
+          "answer": "Toyota",
+          "display": "$227 billion",
+          "aliases": [
+            "Toyota Motor"
+          ]
+        },
+        {
+          "answer": "Glencore",
+          "display": "$221 billion",
+          "aliases": [
+            "Glencore Xstrata"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "business/companies/revenue",
+      "difficulty": 2,
+      "question": "Top 10 largest companies in the world by revenue at the start of 2017",
+      "cutoff": 10,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=757584766 | table 1 | name: Name | value: USD billions",
+      "tags": [
+        "business",
+        "companies",
+        "revenue"
+      ],
+      "answers": [
+        {
+          "answer": "Walmart",
+          "display": "$482 billion",
+          "aliases": [
+            "Wal-Mart"
+          ]
+        },
+        {
+          "answer": "State Grid",
+          "display": "$330 billion",
+          "aliases": [
+            "State Grid Corporation of China"
+          ]
+        },
+        {
+          "answer": "Samsung",
+          "display": "$315 billion",
+          "aliases": [
+            "Samsung Group",
+            "Samsung Electronics"
+          ]
+        },
+        {
+          "answer": "Saudi Aramco",
+          "display": "$311 billion",
+          "aliases": [
+            "Aramco"
+          ]
+        },
+        {
+          "answer": "China National Petroleum",
+          "display": "$299 billion",
+          "aliases": [
+            "CNPC"
+          ]
+        },
+        {
+          "answer": "Sinopec",
+          "display": "$294 billion",
+          "aliases": [
+            "Sinopec Group"
+          ]
+        },
+        {
+          "answer": "Royal Dutch Shell",
+          "display": "$272 billion",
+          "aliases": [
+            "Shell"
+          ]
+        },
+        {
+          "answer": "ExxonMobil",
+          "display": "$246 billion",
+          "aliases": [
+            "Exxon"
+          ]
+        },
+        {
+          "answer": "Volkswagen",
+          "display": "$237 billion",
+          "aliases": [
+            "VW",
+            "Volkswagen Group"
+          ]
+        },
+        {
+          "answer": "Toyota",
+          "display": "$237 billion",
+          "aliases": [
+            "Toyota Motor"
+          ]
+        },
+        {
+          "answer": "Apple",
+          "display": "$234 billion",
+          "aliases": [
+            "Apple Inc."
+          ]
+        },
+        {
+          "answer": "BP",
+          "display": "$223 billion",
+          "aliases": [
+            "British Petroleum"
+          ]
+        },
+        {
+          "answer": "Berkshire Hathaway",
+          "display": "$211 billion",
+          "aliases": [
+            "Berkshire"
+          ]
+        },
+        {
+          "answer": "McKesson",
+          "display": "$192 billion"
+        },
+        {
+          "answer": "Hyundai Motor Group",
+          "display": "$183 billion",
+          "aliases": [
+            "Hyundai"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "business/companies/revenue",
+      "difficulty": 2,
+      "question": "Top 10 largest companies in the world by revenue at the start of 2018 (Fortune Global 500 figures)",
+      "cutoff": 10,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=815762952 | table 1 | name: Name | value: USD Million",
+      "tags": [
+        "business",
+        "companies",
+        "revenue"
+      ],
+      "answers": [
+        {
+          "answer": "Walmart",
+          "display": "$485.9 billion",
+          "aliases": [
+            "Wal-Mart"
+          ]
+        },
+        {
+          "answer": "State Grid",
+          "display": "$315.2 billion",
+          "aliases": [
+            "State Grid Corporation of China"
+          ]
+        },
+        {
+          "answer": "Sinopec",
+          "display": "$267.5 billion",
+          "aliases": [
+            "Sinopec Group"
+          ]
+        },
+        {
+          "answer": "China National Petroleum",
+          "display": "$262.6 billion",
+          "aliases": [
+            "CNPC"
+          ]
+        },
+        {
+          "answer": "Toyota",
+          "display": "$254.7 billion",
+          "aliases": [
+            "Toyota Motor"
+          ]
+        },
+        {
+          "answer": "Volkswagen",
+          "display": "$240.3 billion",
+          "aliases": [
+            "VW",
+            "Volkswagen Group"
+          ]
+        },
+        {
+          "answer": "Royal Dutch Shell",
+          "display": "$240.0 billion",
+          "aliases": [
+            "Shell"
+          ]
+        },
+        {
+          "answer": "Berkshire Hathaway",
+          "display": "$223.6 billion",
+          "aliases": [
+            "Berkshire"
+          ]
+        },
+        {
+          "answer": "Apple",
+          "display": "$215.6 billion",
+          "aliases": [
+            "Apple Inc."
+          ]
+        },
+        {
+          "answer": "ExxonMobil",
+          "display": "$205.0 billion",
+          "aliases": [
+            "Exxon"
+          ]
+        },
+        {
+          "answer": "McKesson",
+          "display": "$198.5 billion"
+        },
+        {
+          "answer": "BP",
+          "display": "$186.6 billion",
+          "aliases": [
+            "British Petroleum"
+          ]
+        },
+        {
+          "answer": "UnitedHealth Group",
+          "display": "$184.8 billion",
+          "aliases": [
+            "UnitedHealth"
+          ]
+        },
+        {
+          "answer": "CVS Health",
+          "display": "$177.5 billion",
+          "aliases": [
+            "CVS"
+          ]
+        },
+        {
+          "answer": "Samsung",
+          "display": "$174.0 billion",
+          "aliases": [
+            "Samsung Group",
+            "Samsung Electronics"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "business/companies/revenue",
+      "difficulty": 2,
+      "question": "Top 10 largest companies in the world by revenue at the start of 2019 (Fortune Global 500 figures)",
+      "cutoff": 10,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=875054547 | table 1 | name: Name | value: Revenue (USD",
+      "tags": [
+        "business",
+        "companies",
+        "revenue"
+      ],
+      "answers": [
+        {
+          "answer": "Walmart",
+          "display": "$500.3 billion",
+          "aliases": [
+            "Wal-Mart"
+          ]
+        },
+        {
+          "answer": "State Grid",
+          "display": "$348.9 billion",
+          "aliases": [
+            "State Grid Corporation of China"
+          ]
+        },
+        {
+          "answer": "Sinopec",
+          "display": "$327.0 billion",
+          "aliases": [
+            "Sinopec Group"
+          ]
+        },
+        {
+          "answer": "China National Petroleum",
+          "display": "$326.0 billion",
+          "aliases": [
+            "CNPC"
+          ]
+        },
+        {
+          "answer": "Royal Dutch Shell",
+          "display": "$311.9 billion",
+          "aliases": [
+            "Shell"
+          ]
+        },
+        {
+          "answer": "Toyota",
+          "display": "$265.2 billion",
+          "aliases": [
+            "Toyota Motor"
+          ]
+        },
+        {
+          "answer": "Volkswagen",
+          "display": "$260.0 billion",
+          "aliases": [
+            "VW",
+            "Volkswagen Group"
+          ]
+        },
+        {
+          "answer": "BP",
+          "display": "$244.6 billion",
+          "aliases": [
+            "British Petroleum"
+          ]
+        },
+        {
+          "answer": "ExxonMobil",
+          "display": "$244.4 billion",
+          "aliases": [
+            "Exxon"
+          ]
+        },
+        {
+          "answer": "Berkshire Hathaway",
+          "display": "$242.1 billion",
+          "aliases": [
+            "Berkshire"
+          ]
+        },
+        {
+          "answer": "Apple",
+          "display": "$229.2 billion",
+          "aliases": [
+            "Apple Inc."
+          ]
+        },
+        {
+          "answer": "Samsung",
+          "display": "$211.9 billion",
+          "aliases": [
+            "Samsung Group",
+            "Samsung Electronics"
+          ]
+        },
+        {
+          "answer": "McKesson",
+          "display": "$208.4 billion"
+        },
+        {
+          "answer": "Glencore",
+          "display": "$205.5 billion",
+          "aliases": [
+            "Glencore Xstrata"
+          ]
+        },
+        {
+          "answer": "UnitedHealth Group",
+          "display": "$201.2 billion",
+          "aliases": [
+            "UnitedHealth"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "business/companies/revenue",
+      "difficulty": 2,
+      "question": "Top 10 largest companies in the world by revenue at the start of 2020 (Fortune Global 500 figures)",
+      "cutoff": 10,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=931025264 | table 1 | name: Name | value: Revenue (USD",
+      "tags": [
+        "business",
+        "companies",
+        "revenue"
+      ],
+      "answers": [
+        {
+          "answer": "Walmart",
+          "display": "$514.4 billion",
+          "aliases": [
+            "Wal-Mart"
+          ]
+        },
+        {
+          "answer": "Sinopec",
+          "display": "$414.6 billion",
+          "aliases": [
+            "Sinopec Group"
+          ]
+        },
+        {
+          "answer": "Royal Dutch Shell",
+          "display": "$396.6 billion",
+          "aliases": [
+            "Shell"
+          ]
+        },
+        {
+          "answer": "China National Petroleum",
+          "display": "$393.0 billion",
+          "aliases": [
+            "CNPC"
+          ]
+        },
+        {
+          "answer": "State Grid",
+          "display": "$387.1 billion",
+          "aliases": [
+            "State Grid Corporation of China"
+          ]
+        },
+        {
+          "answer": "Saudi Aramco",
+          "display": "$355.9 billion",
+          "aliases": [
+            "Aramco"
+          ]
+        },
+        {
+          "answer": "BP",
+          "display": "$303.7 billion",
+          "aliases": [
+            "British Petroleum"
+          ]
+        },
+        {
+          "answer": "ExxonMobil",
+          "display": "$290.2 billion",
+          "aliases": [
+            "Exxon Mobil",
+            "Exxon"
+          ]
+        },
+        {
+          "answer": "Volkswagen",
+          "display": "$278.3 billion",
+          "aliases": [
+            "VW",
+            "Volkswagen Group"
+          ]
+        },
+        {
+          "answer": "Toyota",
+          "display": "$272.6 billion",
+          "aliases": [
+            "Toyota Motor"
+          ]
+        },
+        {
+          "answer": "Apple",
+          "display": "$265.6 billion",
+          "aliases": [
+            "Apple Inc."
+          ]
+        },
+        {
+          "answer": "Berkshire Hathaway",
+          "display": "$247.8 billion",
+          "aliases": [
+            "Berkshire"
+          ]
+        },
+        {
+          "answer": "Amazon",
+          "display": "$232.9 billion",
+          "aliases": [
+            "Amazon.com"
+          ]
+        },
+        {
+          "answer": "UnitedHealth Group",
+          "display": "$226.2 billion",
+          "aliases": [
+            "UnitedHealth"
+          ]
+        },
+        {
+          "answer": "Samsung",
+          "display": "$221.6 billion",
+          "aliases": [
+            "Samsung Group",
+            "Samsung Electronics"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "business/companies/revenue",
+      "difficulty": 2,
+      "question": "Top 10 largest companies in the world by revenue at the start of 2021 (Fortune Global 500 figures)",
+      "cutoff": 10,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=997467876 | table 1 | name: Name | value: Revenue",
+      "tags": [
+        "business",
+        "companies",
+        "revenue"
+      ],
+      "answers": [
+        {
+          "answer": "Walmart",
+          "display": "$524.0 billion",
+          "aliases": [
+            "Wal-Mart"
+          ]
+        },
+        {
+          "answer": "Sinopec",
+          "display": "$407.0 billion",
+          "aliases": [
+            "Sinopec Group"
+          ]
+        },
+        {
+          "answer": "State Grid",
+          "display": "$383.9 billion",
+          "aliases": [
+            "State Grid Corporation of China"
+          ]
+        },
+        {
+          "answer": "China National Petroleum",
+          "display": "$379.1 billion",
+          "aliases": [
+            "CNPC"
+          ]
+        },
+        {
+          "answer": "Royal Dutch Shell",
+          "display": "$352.1 billion",
+          "aliases": [
+            "Shell"
+          ]
+        },
+        {
+          "answer": "Saudi Aramco",
+          "display": "$329.8 billion",
+          "aliases": [
+            "Aramco"
+          ]
+        },
+        {
+          "answer": "Volkswagen",
+          "display": "$282.8 billion",
+          "aliases": [
+            "VW",
+            "Volkswagen Group"
+          ]
+        },
+        {
+          "answer": "BP",
+          "display": "$282.6 billion",
+          "aliases": [
+            "British Petroleum"
+          ]
+        },
+        {
+          "answer": "Amazon",
+          "display": "$280.5 billion",
+          "aliases": [
+            "Amazon.com"
+          ]
+        },
+        {
+          "answer": "Toyota",
+          "display": "$275.3 billion",
+          "aliases": [
+            "Toyota Motor"
+          ]
+        },
+        {
+          "answer": "ExxonMobil",
+          "display": "$264.9 billion",
+          "aliases": [
+            "Exxon Mobil",
+            "Exxon"
+          ]
+        },
+        {
+          "answer": "Apple",
+          "display": "$260.2 billion",
+          "aliases": [
+            "Apple Inc."
+          ]
+        },
+        {
+          "answer": "CVS Health",
+          "display": "$256.8 billion",
+          "aliases": [
+            "CVS"
+          ]
+        },
+        {
+          "answer": "Berkshire Hathaway",
+          "display": "$254.6 billion",
+          "aliases": [
+            "Berkshire"
+          ]
+        },
+        {
+          "answer": "UnitedHealth Group",
+          "display": "$242.2 billion",
+          "aliases": [
+            "UnitedHealth"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "business/companies/revenue",
+      "difficulty": 2,
+      "question": "Top 10 largest companies in the world by revenue at the start of 2022 (Fortune Global 500 figures)",
+      "cutoff": 10,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1061996019 | table 1 | name: Name | value: Revenue",
+      "tags": [
+        "business",
+        "companies",
+        "revenue"
+      ],
+      "answers": [
+        {
+          "answer": "Walmart",
+          "display": "$559.2 billion",
+          "aliases": [
+            "Wal-Mart"
+          ]
+        },
+        {
+          "answer": "State Grid",
+          "display": "$386.6 billion",
+          "aliases": [
+            "State Grid Corporation of China"
+          ]
+        },
+        {
+          "answer": "Amazon",
+          "display": "$386.1 billion",
+          "aliases": [
+            "Amazon.com"
+          ]
+        },
+        {
+          "answer": "Apple",
+          "display": "$365.8 billion",
+          "aliases": [
+            "Apple Inc."
+          ]
+        },
+        {
+          "answer": "China National Petroleum",
+          "display": "$284.0 billion",
+          "aliases": [
+            "CNPC"
+          ]
+        },
+        {
+          "answer": "Sinopec",
+          "display": "$283.7 billion",
+          "aliases": [
+            "Sinopec Group"
+          ]
+        },
+        {
+          "answer": "CVS Health",
+          "display": "$268.7 billion",
+          "aliases": [
+            "CVS"
+          ]
+        },
+        {
+          "answer": "UnitedHealth Group",
+          "display": "$257.1 billion",
+          "aliases": [
+            "UnitedHealth"
+          ]
+        },
+        {
+          "answer": "Toyota",
+          "display": "$256.7 billion",
+          "aliases": [
+            "Toyota Motor"
+          ]
+        },
+        {
+          "answer": "Berkshire Hathaway",
+          "display": "$254.5 billion",
+          "aliases": [
+            "Berkshire"
+          ]
+        },
+        {
+          "answer": "Volkswagen",
+          "display": "$254.0 billion",
+          "aliases": [
+            "VW",
+            "Volkswagen Group"
+          ]
+        },
+        {
+          "answer": "McKesson",
+          "display": "$238.2 billion"
+        },
+        {
+          "answer": "China State Construction Engineering",
+          "display": "$234.4 billion",
+          "aliases": [
+            "China State Construction"
+          ]
+        },
+        {
+          "answer": "Saudi Aramco",
+          "display": "$229.8 billion",
+          "aliases": [
+            "Aramco"
+          ]
+        },
+        {
+          "answer": "Samsung",
+          "display": "$200.7 billion",
+          "aliases": [
+            "Samsung Group",
+            "Samsung Electronics"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "business/companies/revenue",
+      "difficulty": 2,
+      "question": "Top 10 largest companies in the world by revenue at the start of 2023 (Fortune Global 500 figures)",
+      "cutoff": 10,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1130540565 | table 1 | name: Name | value: Revenue",
+      "tags": [
+        "business",
+        "companies",
+        "revenue"
+      ],
+      "answers": [
+        {
+          "answer": "Walmart",
+          "display": "$572.8 billion",
+          "aliases": [
+            "Wal-Mart"
+          ]
+        },
+        {
+          "answer": "Amazon",
+          "display": "$469.8 billion",
+          "aliases": [
+            "Amazon.com"
+          ]
+        },
+        {
+          "answer": "State Grid",
+          "display": "$460.6 billion",
+          "aliases": [
+            "State Grid Corporation of China"
+          ]
+        },
+        {
+          "answer": "China National Petroleum",
+          "display": "$411.7 billion",
+          "aliases": [
+            "CNPC"
+          ]
+        },
+        {
+          "answer": "Sinopec",
+          "display": "$401.3 billion",
+          "aliases": [
+            "Sinopec Group"
+          ]
+        },
+        {
+          "answer": "Saudi Aramco",
+          "display": "$400.4 billion",
+          "aliases": [
+            "Aramco"
+          ]
+        },
+        {
+          "answer": "Apple",
+          "display": "$365.8 billion",
+          "aliases": [
+            "Apple Inc."
+          ]
+        },
+        {
+          "answer": "Volkswagen",
+          "display": "$295.8 billion",
+          "aliases": [
+            "VW",
+            "Volkswagen Group"
+          ]
+        },
+        {
+          "answer": "China State Construction Engineering",
+          "display": "$293.7 billion",
+          "aliases": [
+            "China State Construction"
+          ]
+        },
+        {
+          "answer": "CVS Health",
+          "display": "$292.1 billion",
+          "aliases": [
+            "CVS"
+          ]
+        },
+        {
+          "answer": "UnitedHealth Group",
+          "display": "$287.6 billion",
+          "aliases": [
+            "UnitedHealth"
+          ]
+        },
+        {
+          "answer": "ExxonMobil",
+          "display": "$285.6 billion",
+          "aliases": [
+            "Exxon Mobil",
+            "Exxon"
+          ]
+        },
+        {
+          "answer": "Toyota",
+          "display": "$279.3 billion",
+          "aliases": [
+            "Toyota Motor"
+          ]
+        },
+        {
+          "answer": "Berkshire Hathaway",
+          "display": "$276.1 billion",
+          "aliases": [
+            "Berkshire"
+          ]
+        },
+        {
+          "answer": "Shell",
+          "display": "$272.7 billion",
+          "aliases": [
+            "Royal Dutch Shell"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "business/companies/revenue",
+      "difficulty": 2,
+      "question": "Top 10 largest companies in the world by revenue at the start of 2024 (Fortune Global 500 figures)",
+      "cutoff": 10,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1191803388 | table 1 | name: Name | value: Revenue",
+      "tags": [
+        "business",
+        "companies",
+        "revenue"
+      ],
+      "answers": [
+        {
+          "answer": "Walmart",
+          "display": "$611.3 billion",
+          "aliases": [
+            "Wal-Mart"
+          ]
+        },
+        {
+          "answer": "Saudi Aramco",
+          "display": "$603.7 billion",
+          "aliases": [
+            "Aramco"
+          ]
+        },
+        {
+          "answer": "State Grid",
+          "display": "$530.0 billion",
+          "aliases": [
+            "State Grid Corporation of China"
+          ]
+        },
+        {
+          "answer": "Amazon",
+          "display": "$514.0 billion",
+          "aliases": [
+            "Amazon.com"
+          ]
+        },
+        {
+          "answer": "Vitol",
+          "display": "$505.0 billion"
+        },
+        {
+          "answer": "China National Petroleum",
+          "display": "$483.0 billion",
+          "aliases": [
+            "CNPC"
+          ]
+        },
+        {
+          "answer": "Sinopec",
+          "display": "$471.2 billion",
+          "aliases": [
+            "China Petrochemical",
+            "China Petrochemical Corp",
+            "Sinopec Group"
+          ]
+        },
+        {
+          "answer": "ExxonMobil",
+          "display": "$413.7 billion",
+          "aliases": [
+            "Exxon Mobil",
+            "Exxon"
+          ]
+        },
+        {
+          "answer": "Apple",
+          "display": "$394.3 billion",
+          "aliases": [
+            "Apple Inc."
+          ]
+        },
+        {
+          "answer": "Shell",
+          "display": "$386.2 billion",
+          "aliases": [
+            "Royal Dutch Shell"
+          ]
+        },
+        {
+          "answer": "UnitedHealth Group",
+          "display": "$324.2 billion",
+          "aliases": [
+            "UnitedHealth"
+          ]
+        },
+        {
+          "answer": "CVS Health",
+          "display": "$322.5 billion",
+          "aliases": [
+            "CVS"
+          ]
+        },
+        {
+          "answer": "Trafigura",
+          "display": "$318.5 billion"
+        },
+        {
+          "answer": "China State Construction Engineering",
+          "display": "$305.9 billion",
+          "aliases": [
+            "China State Construction"
+          ]
+        },
+        {
+          "answer": "Berkshire Hathaway",
+          "display": "$302.1 billion",
+          "aliases": [
+            "Berkshire"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "business/companies/revenue",
+      "difficulty": 2,
+      "question": "Top 10 largest companies in the world by revenue at the start of 2025 (Fortune Global 500 figures)",
+      "cutoff": 10,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1261183350 | table 1 | name: Ram | value: Revenue",
+      "tags": [
+        "business",
+        "companies",
+        "revenue"
+      ],
+      "answers": [
+        {
+          "answer": "Walmart",
+          "display": "$648.1 billion",
+          "aliases": [
+            "Wal-Mart"
+          ]
+        },
+        {
+          "answer": "Amazon",
+          "display": "$574.8 billion",
+          "aliases": [
+            "Amazon.com"
+          ]
+        },
+        {
+          "answer": "State Grid",
+          "display": "$545.9 billion",
+          "aliases": [
+            "State Grid Corporation of China"
+          ]
+        },
+        {
+          "answer": "Saudi Aramco",
+          "display": "$494.9 billion",
+          "aliases": [
+            "Aramco"
+          ]
+        },
+        {
+          "answer": "China National Petroleum",
+          "display": "$476.0 billion",
+          "aliases": [
+            "CNPC"
+          ]
+        },
+        {
+          "answer": "Sinopec",
+          "display": "$429.7 billion",
+          "aliases": [
+            "China Petrochemical",
+            "China Petrochemical Corp",
+            "Sinopec Group"
+          ]
+        },
+        {
+          "answer": "Vitol",
+          "display": "$400.0 billion"
+        },
+        {
+          "answer": "Apple",
+          "display": "$383.3 billion",
+          "aliases": [
+            "Apple Inc."
+          ]
+        },
+        {
+          "answer": "UnitedHealth Group",
+          "display": "$371.6 billion",
+          "aliases": [
+            "UnitedHealth"
+          ]
+        },
+        {
+          "answer": "Berkshire Hathaway",
+          "display": "$364.5 billion",
+          "aliases": [
+            "Berkshire"
+          ]
+        },
+        {
+          "answer": "CVS Health",
+          "display": "$357.8 billion",
+          "aliases": [
+            "CVS"
+          ]
+        },
+        {
+          "answer": "Volkswagen",
+          "display": "$348.4 billion",
+          "aliases": [
+            "VW",
+            "Volkswagen Group"
+          ]
+        },
+        {
+          "answer": "ExxonMobil",
+          "display": "$344.6 billion",
+          "aliases": [
+            "Exxon Mobil",
+            "Exxon"
+          ]
+        },
+        {
+          "answer": "Shell",
+          "display": "$323.2 billion",
+          "aliases": [
+            "Royal Dutch Shell"
+          ]
+        },
+        {
+          "answer": "China State Construction Engineering",
+          "display": "$320.4 billion",
+          "aliases": [
+            "China State Construction"
+          ]
+        }
+      ]
+    }
+  ]
+}

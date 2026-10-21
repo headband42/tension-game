@@ -1,0 +1,753 @@
+{
+  "categories": [
+    {
+      "path": "movies/animated",
+      "name": "Animated Films"
+    },
+    {
+      "path": "movies/oscars",
+      "name": "Academy Awards"
+    },
+    {
+      "path": "movies/box-office",
+      "name": "Box Office"
+    }
+  ],
+  "questions": [
+    {
+      "category": "movies/animated",
+      "difficulty": 1,
+      "question": "Top 10 highest-grossing animated films of all time (as of October 2026)",
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1379482590 | table 1 | name: Title | value: Worldwide gross",
+      "tags": [
+        "movies",
+        "animated",
+        "box-office"
+      ],
+      "answers": [
+        {
+          "answer": "Ne Zha 2",
+          "display": "$2,217,758,382"
+        },
+        {
+          "answer": "Zootopia 2",
+          "display": "$1,870,309,291"
+        },
+        {
+          "answer": "Inside Out 2",
+          "display": "$1,698,863,816"
+        },
+        {
+          "answer": "The Lion King (2019)",
+          "display": "$1,662,020,819",
+          "aliases": [
+            "Lion King"
+          ]
+        },
+        {
+          "answer": "Frozen II",
+          "display": "$1,451,651,316",
+          "aliases": [
+            "Frozen 2"
+          ]
+        },
+        {
+          "answer": "The Super Mario Bros. Movie",
+          "display": "$1,360,783,214"
+        },
+        {
+          "answer": "Frozen",
+          "display": "$1,290,000,000"
+        },
+        {
+          "answer": "Incredibles 2",
+          "display": "$1,243,225,667"
+        },
+        {
+          "answer": "Minions",
+          "display": "$1,159,457,503"
+        },
+        {
+          "answer": "Toy Story 5",
+          "display": "$1,148,032,149"
+        },
+        {
+          "answer": "Toy Story 4",
+          "display": "$1,073,841,394"
+        },
+        {
+          "answer": "Toy Story 3",
+          "display": "$1,068,879,522"
+        },
+        {
+          "answer": "Moana 2",
+          "display": "$1,059,269,477"
+        },
+        {
+          "answer": "Despicable Me 3",
+          "display": "$1,034,800,131"
+        }
+      ]
+    },
+    {
+      "category": "movies/animated",
+      "difficulty": 2,
+      "question": "Top 10 highest-grossing traditionally animated films released before 2000 (as of October 2026)",
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1379482590 | table 4 | name: Title | value: Worldwide gross | where: Year!~^20",
+      "tags": [
+        "movies",
+        "animated",
+        "box-office",
+        "disney"
+      ],
+      "answers": [
+        {
+          "answer": "The Lion King (1994)",
+          "display": "$970,707,763",
+          "aliases": [
+            "Lion King"
+          ]
+        },
+        {
+          "answer": "Aladdin",
+          "display": "$504,050,219"
+        },
+        {
+          "answer": "Tarzan",
+          "display": "$448,191,819"
+        },
+        {
+          "answer": "Beauty and the Beast",
+          "display": "$438,656,843"
+        },
+        {
+          "answer": "Snow White and the Seven Dwarfs",
+          "display": "$418,200,000"
+        },
+        {
+          "answer": "The Jungle Book",
+          "display": "$378,000,000"
+        },
+        {
+          "answer": "Pocahontas",
+          "display": "$346,079,773"
+        },
+        {
+          "answer": "The Hunchback of Notre Dame",
+          "display": "$325,338,851"
+        },
+        {
+          "answer": "Mulan",
+          "display": "$304,320,254"
+        },
+        {
+          "answer": "One Hundred and One Dalmatians",
+          "display": "$303,000,000",
+          "aliases": [
+            "101 Dalmatians"
+          ]
+        },
+        {
+          "answer": "Bambi",
+          "display": "$267,447,150"
+        },
+        {
+          "answer": "Cinderella",
+          "display": "$263,591,415"
+        },
+        {
+          "answer": "Hercules",
+          "display": "$252,712,101"
+        },
+        {
+          "answer": "The Little Mermaid",
+          "display": "$233,000,000"
+        }
+      ]
+    },
+    {
+      "category": "movies/box-office",
+      "difficulty": 1,
+      "question": "Top 10 highest-grossing films released in the 2010s (as of October 2026)",
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1379757258 | table 1 | name: Title | value: Worldwide gross | where: Year~^201",
+      "tags": [
+        "movies",
+        "box-office"
+      ],
+      "answers": [
+        {
+          "answer": "Avengers: Endgame",
+          "display": "$2,937,323,455",
+          "aliases": [
+            "Endgame"
+          ]
+        },
+        {
+          "answer": "Star Wars: The Force Awakens",
+          "display": "$2,068,223,624",
+          "aliases": [
+            "The Force Awakens"
+          ]
+        },
+        {
+          "answer": "Avengers: Infinity War",
+          "display": "$2,048,359,754",
+          "aliases": [
+            "Infinity War"
+          ]
+        },
+        {
+          "answer": "Jurassic World",
+          "display": "$1,671,537,444"
+        },
+        {
+          "answer": "The Lion King",
+          "display": "$1,656,943,394",
+          "aliases": [
+            "Lion King"
+          ]
+        },
+        {
+          "answer": "The Avengers",
+          "display": "$1,518,815,515"
+        },
+        {
+          "answer": "Furious 7",
+          "display": "$1,515,341,399"
+        },
+        {
+          "answer": "Frozen II",
+          "display": "$1,450,026,933",
+          "aliases": [
+            "Frozen 2"
+          ]
+        },
+        {
+          "answer": "Avengers: Age of Ultron",
+          "display": "$1,402,809,540",
+          "aliases": [
+            "Age of Ultron"
+          ]
+        },
+        {
+          "answer": "Black Panther",
+          "display": "$1,347,280,838"
+        },
+        {
+          "answer": "Harry Potter and the Deathly Hallows – Part 2",
+          "display": "$1,342,139,727"
+        },
+        {
+          "answer": "Star Wars: The Last Jedi",
+          "display": "$1,332,539,889",
+          "aliases": [
+            "The Last Jedi"
+          ]
+        },
+        {
+          "answer": "Jurassic World: Fallen Kingdom",
+          "display": "$1,308,476,166",
+          "aliases": [
+            "Fallen Kingdom"
+          ]
+        },
+        {
+          "answer": "Frozen",
+          "display": "$1,290,000,000"
+        }
+      ]
+    },
+    {
+      "category": "movies/box-office",
+      "difficulty": 1,
+      "question": "Top 10 highest-grossing films released in the 2020s (as of October 2026)",
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1379757258 | table 1 | name: Title | value: Worldwide gross | where: Year~^202",
+      "tags": [
+        "movies",
+        "box-office"
+      ],
+      "answers": [
+        {
+          "answer": "Spider-Man: Brand New Day",
+          "display": "$2,512,865,567"
+        },
+        {
+          "answer": "Avatar: The Way of Water",
+          "display": "$2,334,484,620",
+          "aliases": [
+            "The Way of Water"
+          ]
+        },
+        {
+          "answer": "Ne Zha 2",
+          "display": "$2,217,758,382"
+        },
+        {
+          "answer": "Spider-Man: No Way Home",
+          "display": "$1,922,598,800",
+          "aliases": [
+            "No Way Home",
+            "Spider-Man"
+          ]
+        },
+        {
+          "answer": "Zootopia 2",
+          "display": "$1,870,309,291"
+        },
+        {
+          "answer": "The Odyssey",
+          "display": "$1,779,770,790"
+        },
+        {
+          "answer": "Inside Out 2",
+          "display": "$1,698,863,816"
+        },
+        {
+          "answer": "Top Gun: Maverick",
+          "display": "$1,503,260,455",
+          "aliases": [
+            "Top Gun"
+          ]
+        },
+        {
+          "answer": "Avatar: Fire and Ash",
+          "display": "$1,485,999,890"
+        },
+        {
+          "answer": "Barbie",
+          "display": "$1,447,138,421"
+        },
+        {
+          "answer": "The Super Mario Bros. Movie",
+          "display": "$1,360,783,214"
+        },
+        {
+          "answer": "Deadpool & Wolverine",
+          "display": "$1,338,073,645"
+        },
+        {
+          "answer": "Toy Story 5",
+          "display": "$1,148,032,461"
+        },
+        {
+          "answer": "Moana 2",
+          "display": "$1,059,242,164"
+        }
+      ]
+    },
+    {
+      "category": "movies/oscars",
+      "difficulty": 2,
+      "question": "Top 10 film series, including sequels and remakes, with the most Academy Award nominations (as of October 2026)",
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1379180225 | table 8 | name: Title | value: Nominations",
+      "tags": [
+        "movies",
+        "oscars",
+        "franchises"
+      ],
+      "answers": [
+        {
+          "answer": "Star Wars",
+          "display": "37 nominations"
+        },
+        {
+          "answer": "Middle-earth",
+          "display": "37 nominations",
+          "aliases": [
+            "The Lord of the Rings",
+            "The Hobbit"
+          ]
+        },
+        {
+          "answer": "Batman",
+          "display": "29 nominations"
+        },
+        {
+          "answer": "The Godfather",
+          "display": "28 nominations"
+        },
+        {
+          "answer": "Marvel Cinematic Universe",
+          "display": "27 nominations",
+          "aliases": [
+            "MCU"
+          ]
+        },
+        {
+          "answer": "A Star Is Born",
+          "display": "26 nominations",
+          "aliases": [
+            "What Price Hollywood?"
+          ]
+        },
+        {
+          "answer": "The Wizard of Oz",
+          "display": "20 nominations"
+        },
+        {
+          "answer": "James Bond",
+          "display": "19 nominations",
+          "aliases": [
+            "Bond"
+          ]
+        },
+        {
+          "answer": "Going My Way",
+          "display": "18 nominations",
+          "aliases": [
+            "The Bells of St. Mary's"
+          ]
+        },
+        {
+          "answer": "West Side Story",
+          "display": "18 nominations"
+        },
+        {
+          "answer": "Mary Poppins",
+          "display": "17 nominations"
+        },
+        {
+          "answer": "Looney Tunes",
+          "display": "16 nominations"
+        },
+        {
+          "answer": "Star Trek",
+          "display": "16 nominations"
+        },
+        {
+          "answer": "Dune",
+          "display": "16 nominations"
+        },
+        {
+          "answer": "Here Comes Mr. Jordan",
+          "display": "16 nominations",
+          "aliases": [
+            "Heaven Can Wait"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "movies/box-office",
+      "difficulty": 2,
+      "question": "Top 10 highest-grossing horror films released in the 2010s (as of October 2026)",
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1379149729 | table 1 | name: Film | value: Worldwide gross | where: Year~^201",
+      "tags": [
+        "movies",
+        "box-office",
+        "horror"
+      ],
+      "answers": [
+        {
+          "answer": "It",
+          "display": "$719,766,009"
+        },
+        {
+          "answer": "World War Z",
+          "display": "$540,007,876"
+        },
+        {
+          "answer": "It Chapter Two",
+          "display": "$473,123,154",
+          "aliases": [
+            "It Chapter 2"
+          ]
+        },
+        {
+          "answer": "Prometheus",
+          "display": "$403,354,469"
+        },
+        {
+          "answer": "The Nun",
+          "display": "$366,082,797"
+        },
+        {
+          "answer": "A Quiet Place",
+          "display": "$340,955,294"
+        },
+        {
+          "answer": "The Conjuring 2",
+          "display": "$322,811,702",
+          "aliases": [
+            "Conjuring 2"
+          ]
+        },
+        {
+          "answer": "The Conjuring",
+          "display": "$320,415,166"
+        },
+        {
+          "answer": "Resident Evil: The Final Chapter",
+          "display": "$314,101,190"
+        },
+        {
+          "answer": "Annabelle: Creation",
+          "display": "$306,592,201"
+        },
+        {
+          "answer": "Resident Evil: Afterlife",
+          "display": "$300,228,084"
+        },
+        {
+          "answer": "Split",
+          "display": "$278,754,594"
+        },
+        {
+          "answer": "Halloween",
+          "display": "$259,939,869"
+        },
+        {
+          "answer": "Annabelle",
+          "display": "$257,589,952"
+        }
+      ]
+    },
+    {
+      "category": "movies/box-office",
+      "difficulty": 2,
+      "question": "Top 10 highest-grossing live-action musical films, including music biopics (as of October 2026)",
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1379379973 | table 1 | name: Film | value: Gross | where: Format!=Animated",
+      "tags": [
+        "movies",
+        "box-office",
+        "musicals"
+      ],
+      "answers": [
+        {
+          "answer": "Beauty and the Beast",
+          "display": "$1,264,435,322"
+        },
+        {
+          "answer": "Aladdin",
+          "display": "$1,050,693,953"
+        },
+        {
+          "answer": "Michael",
+          "display": "$1,028,703,388"
+        },
+        {
+          "answer": "The Jungle Book",
+          "display": "$966,550,600"
+        },
+        {
+          "answer": "Bohemian Rhapsody",
+          "display": "$910,813,521"
+        },
+        {
+          "answer": "Wicked",
+          "display": "$758,753,853"
+        },
+        {
+          "answer": "Wonka",
+          "display": "$625,420,096"
+        },
+        {
+          "answer": "Mamma Mia!",
+          "display": "$609,881,238"
+        },
+        {
+          "answer": "The Little Mermaid",
+          "display": "$569,626,289"
+        },
+        {
+          "answer": "Wicked: For Good",
+          "display": "$540,807,925"
+        },
+        {
+          "answer": "Charlie and the Chocolate Factory",
+          "display": "$474,968,763"
+        },
+        {
+          "answer": "La La Land",
+          "display": "$471,990,783"
+        },
+        {
+          "answer": "Alvin and the Chipmunks: The Squeakquel",
+          "display": "$443,140,005"
+        },
+        {
+          "answer": "Les Misérables",
+          "display": "$441,809,770"
+        }
+      ]
+    },
+    {
+      "category": "movies/box-office",
+      "difficulty": 2,
+      "question": "Top 10 highest-grossing science fiction films released in the 2010s (as of October 2026)",
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1379150427 | table 1 | name: Film | value: Worldwide gross | where: Year~^201",
+      "tags": [
+        "movies",
+        "box-office",
+        "science-fiction"
+      ],
+      "answers": [
+        {
+          "answer": "Star Wars: The Force Awakens",
+          "display": "$2,068,223,624",
+          "aliases": [
+            "The Force Awakens"
+          ]
+        },
+        {
+          "answer": "Jurassic World",
+          "display": "$1,671,537,444"
+        },
+        {
+          "answer": "Star Wars: The Last Jedi",
+          "display": "$1,332,539,889",
+          "aliases": [
+            "The Last Jedi"
+          ]
+        },
+        {
+          "answer": "Jurassic World: Fallen Kingdom",
+          "display": "$1,308,467,944",
+          "aliases": [
+            "Fallen Kingdom"
+          ]
+        },
+        {
+          "answer": "Transformers: Dark of the Moon",
+          "display": "$1,123,794,079",
+          "aliases": [
+            "Dark of the Moon"
+          ]
+        },
+        {
+          "answer": "Transformers: Age of Extinction",
+          "display": "$1,104,054,072"
+        },
+        {
+          "answer": "Star Wars: The Rise of Skywalker",
+          "display": "$1,074,144,248",
+          "aliases": [
+            "The Rise of Skywalker"
+          ]
+        },
+        {
+          "answer": "Rogue One: A Star Wars Story",
+          "display": "$1,056,057,273",
+          "aliases": [
+            "Rogue One"
+          ]
+        },
+        {
+          "answer": "The Hunger Games: Catching Fire",
+          "display": "$865,011,746",
+          "aliases": [
+            "Catching Fire"
+          ]
+        },
+        {
+          "answer": "Inception",
+          "display": "$836,836,967"
+        },
+        {
+          "answer": "The Hunger Games: Mockingjay – Part 1",
+          "display": "$755,356,711"
+        },
+        {
+          "answer": "Interstellar",
+          "display": "$733,202,212"
+        },
+        {
+          "answer": "Gravity",
+          "display": "$723,192,705"
+        },
+        {
+          "answer": "Dawn of the Planet of the Apes",
+          "display": "$710,644,566"
+        }
+      ]
+    },
+    {
+      "category": "movies/box-office",
+      "difficulty": 1,
+      "question": "Top 10 highest-grossing Christmas films of all time (as of September 2026)",
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1376351703 | table 1 | name: Title | value: Worldwide gross",
+      "tags": [
+        "movies",
+        "box-office",
+        "christmas"
+      ],
+      "answers": [
+        {
+          "answer": "The Grinch",
+          "display": "$552,976,825",
+          "aliases": [
+            "The Grinch (2018)"
+          ]
+        },
+        {
+          "answer": "Home Alone",
+          "display": "$476,684,675"
+        },
+        {
+          "answer": "Alvin and the Chipmunks",
+          "display": "$365,352,546"
+        },
+        {
+          "answer": "Home Alone 2: Lost in New York",
+          "display": "$358,994,850",
+          "aliases": [
+            "Home Alone 2"
+          ]
+        },
+        {
+          "answer": "How the Grinch Stole Christmas (2000)",
+          "display": "$350,474,504",
+          "aliases": [
+            "Dr. Seuss' How the Grinch Stole Christmas",
+            "How the Grinch Stole Christmas"
+          ]
+        },
+        {
+          "answer": "A Christmas Carol",
+          "display": "$325,286,646"
+        },
+        {
+          "answer": "The Polar Express",
+          "display": "$315,249,768"
+        },
+        {
+          "answer": "Batman Returns",
+          "display": "$266,831,698"
+        },
+        {
+          "answer": "Love Actually",
+          "display": "$245,203,167"
+        },
+        {
+          "answer": "Die Hard 2",
+          "display": "$240,031,274"
+        },
+        {
+          "answer": "Elf",
+          "display": "$225,097,437"
+        },
+        {
+          "answer": "The Holiday",
+          "display": "$205,850,134"
+        },
+        {
+          "answer": "The Santa Clause",
+          "display": "$190,539,357"
+        },
+        {
+          "answer": "Red One",
+          "display": "$184,894,014"
+        }
+      ]
+    }
+  ]
+}

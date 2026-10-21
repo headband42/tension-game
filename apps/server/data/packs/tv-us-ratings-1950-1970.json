@@ -1,0 +1,976 @@
+{
+  "categories": [
+    {
+      "path": "tv/us-ratings",
+      "name": "US TV ratings"
+    }
+  ],
+  "questions": [
+    {
+      "category": "tv/us-ratings",
+      "question": "Top 10 highest-rated US TV programs of the 1954–55 season (Nielsen ratings)",
+      "cutoff": 10,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1306303717 | table 1 | name: Program | value: Rank | order: asc",
+      "tags": [
+        "tv",
+        "nielsen",
+        "ratings"
+      ],
+      "answers": [
+        {
+          "answer": "I Love Lucy",
+          "display": "#1 — CBS (49.3 rating)"
+        },
+        {
+          "answer": "The Jackie Gleason Show",
+          "display": "#2 — CBS (42.4 rating)",
+          "aliases": [
+            "Jackie Gleason Show"
+          ]
+        },
+        {
+          "answer": "Dragnet",
+          "display": "#3 — NBC (42.1 rating)"
+        },
+        {
+          "answer": "You Bet Your Life",
+          "display": "#4 — NBC (41.0 rating)"
+        },
+        {
+          "answer": "The Ed Sullivan Show",
+          "display": "#5 — CBS (39.6 rating)",
+          "aliases": [
+            "Ed Sullivan Show",
+            "Toast of the Town"
+          ]
+        },
+        {
+          "answer": "Disneyland",
+          "display": "#6 — ABC (39.1 rating)"
+        },
+        {
+          "answer": "The Jack Benny Show",
+          "display": "#7 — CBS (38.3 rating)",
+          "aliases": [
+            "Jack Benny"
+          ]
+        },
+        {
+          "answer": "The George Gobel Show",
+          "display": "#8 — NBC (35.2 rating)"
+        },
+        {
+          "answer": "Ford Theatre",
+          "display": "#9 — NBC (34.9 rating)"
+        },
+        {
+          "answer": "December Bride",
+          "display": "#10 — CBS (34.7 rating)"
+        },
+        {
+          "answer": "The Buick-Berle Show",
+          "display": "#11 — NBC (34.6 rating)"
+        },
+        {
+          "answer": "This Is Your Life",
+          "display": "#12 — NBC (34.5 rating)"
+        },
+        {
+          "answer": "I've Got a Secret",
+          "display": "#13 — CBS (34.0 rating)"
+        }
+      ]
+    },
+    {
+      "category": "tv/us-ratings",
+      "question": "Top 10 highest-rated US TV programs of the 1958–59 season (Nielsen ratings)",
+      "cutoff": 10,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1307483110 | table 1 | name: Program | value: Rank | order: asc",
+      "tags": [
+        "tv",
+        "nielsen",
+        "ratings"
+      ],
+      "answers": [
+        {
+          "answer": "Gunsmoke",
+          "display": "#1 — CBS (39.6 rating)"
+        },
+        {
+          "answer": "Wagon Train",
+          "display": "#2 — NBC (36.1 rating)"
+        },
+        {
+          "answer": "Have Gun – Will Travel",
+          "display": "#3 — CBS (34.3 rating)",
+          "aliases": [
+            "Have Gun, Will Travel"
+          ]
+        },
+        {
+          "answer": "The Rifleman",
+          "display": "#4 — ABC (33.1 rating)"
+        },
+        {
+          "answer": "The Danny Thomas Show",
+          "display": "#5 — CBS (32.8 rating)",
+          "aliases": [
+            "Danny Thomas Show"
+          ]
+        },
+        {
+          "answer": "Maverick",
+          "display": "#6 — ABC (30.4 rating)"
+        },
+        {
+          "answer": "Tales of Wells Fargo",
+          "display": "#7 — NBC (30.2 rating)"
+        },
+        {
+          "answer": "The Real McCoys",
+          "display": "#8 — ABC (30.1 rating)",
+          "aliases": [
+            "Real McCoys"
+          ]
+        },
+        {
+          "answer": "I've Got a Secret",
+          "display": "#9 — CBS (29.8 rating)"
+        },
+        {
+          "answer": "The Life and Legend of Wyatt Earp",
+          "display": "#10 — ABC (29.1 rating)",
+          "aliases": [
+            "Wyatt Earp"
+          ]
+        },
+        {
+          "answer": "The Price Is Right",
+          "display": "#11 — NBC (28.6 rating)",
+          "aliases": [
+            "Price Is Right"
+          ]
+        },
+        {
+          "answer": "The Red Skelton Show",
+          "display": "#12 — CBS (28.5 rating)",
+          "aliases": [
+            "Red Skelton"
+          ]
+        },
+        {
+          "answer": "Zane Grey Theater",
+          "display": "#13 — CBS (28.3 rating)"
+        },
+        {
+          "answer": "Father Knows Best",
+          "display": "#13 — CBS (28.3 rating)"
+        }
+      ]
+    },
+    {
+      "category": "tv/us-ratings",
+      "question": "Top 10 highest-rated US TV programs of the 1959–60 season (Nielsen ratings)",
+      "cutoff": 10,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1306644513 | table 1 | name: Program | value: Rank | order: asc",
+      "tags": [
+        "tv",
+        "nielsen",
+        "ratings"
+      ],
+      "answers": [
+        {
+          "answer": "Gunsmoke",
+          "display": "#1 — CBS (40.3 rating)"
+        },
+        {
+          "answer": "Wagon Train",
+          "display": "#2 — NBC (38.4 rating)"
+        },
+        {
+          "answer": "Have Gun – Will Travel",
+          "display": "#3 — CBS (34.7 rating)",
+          "aliases": [
+            "Have Gun, Will Travel"
+          ]
+        },
+        {
+          "answer": "The Danny Thomas Show",
+          "display": "#4 — CBS (31.1 rating)",
+          "aliases": [
+            "Danny Thomas Show"
+          ]
+        },
+        {
+          "answer": "The Red Skelton Show",
+          "display": "#5 — CBS (30.8 rating)",
+          "aliases": [
+            "Red Skelton"
+          ]
+        },
+        {
+          "answer": "Father Knows Best",
+          "display": "#6 — CBS (29.7 rating)"
+        },
+        {
+          "answer": "77 Sunset Strip",
+          "display": "#6 — ABC (29.7 rating)"
+        },
+        {
+          "answer": "The Price Is Right",
+          "display": "#8 — NBC (29.2 rating)",
+          "aliases": [
+            "Price Is Right"
+          ]
+        },
+        {
+          "answer": "Wanted: Dead or Alive",
+          "display": "#9 — CBS (28.7 rating)"
+        },
+        {
+          "answer": "Perry Mason",
+          "display": "#10 — CBS (28.3 rating)"
+        },
+        {
+          "answer": "The Real McCoys",
+          "display": "#11 — ABC (28.2 rating)",
+          "aliases": [
+            "Real McCoys"
+          ]
+        },
+        {
+          "answer": "The Ed Sullivan Show",
+          "display": "#12 — CBS (28.0 rating)",
+          "aliases": [
+            "Ed Sullivan Show"
+          ]
+        },
+        {
+          "answer": "The Rifleman",
+          "display": "#13 — ABC (27.5 rating)"
+        }
+      ]
+    },
+    {
+      "category": "tv/us-ratings",
+      "question": "Top 10 highest-rated US TV programs of the 1960–61 season (Nielsen ratings)",
+      "cutoff": 10,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1306303639 | table 1 | name: Program | value: Rank | order: asc",
+      "tags": [
+        "tv",
+        "nielsen",
+        "ratings"
+      ],
+      "answers": [
+        {
+          "answer": "Gunsmoke",
+          "display": "#1 — CBS (37.3 rating)"
+        },
+        {
+          "answer": "Wagon Train",
+          "display": "#2 — NBC (34.2 rating)"
+        },
+        {
+          "answer": "Have Gun – Will Travel",
+          "display": "#3 — CBS (30.9 rating)",
+          "aliases": [
+            "Have Gun, Will Travel"
+          ]
+        },
+        {
+          "answer": "The Andy Griffith Show",
+          "display": "#4 — CBS (27.8 rating)",
+          "aliases": [
+            "Andy Griffith Show"
+          ]
+        },
+        {
+          "answer": "The Real McCoys",
+          "display": "#5 — ABC (27.7 rating)",
+          "aliases": [
+            "Real McCoys"
+          ]
+        },
+        {
+          "answer": "Rawhide",
+          "display": "#6 — CBS (27.5 rating)"
+        },
+        {
+          "answer": "Candid Camera",
+          "display": "#7 — CBS (27.3 rating)"
+        },
+        {
+          "answer": "The Untouchables",
+          "display": "#8 — ABC (27.0 rating)",
+          "aliases": [
+            "Untouchables"
+          ]
+        },
+        {
+          "answer": "The Price Is Right",
+          "display": "#8 — NBC (27.0 rating)",
+          "aliases": [
+            "Price Is Right"
+          ]
+        },
+        {
+          "answer": "The Jack Benny Show",
+          "display": "#10 — CBS (26.2 rating)",
+          "aliases": [
+            "Jack Benny"
+          ]
+        },
+        {
+          "answer": "Dennis the Menace",
+          "display": "#11 — CBS (26.1 rating)"
+        },
+        {
+          "answer": "The Danny Thomas Show",
+          "display": "#12 — CBS (25.9 rating)",
+          "aliases": [
+            "Danny Thomas Show"
+          ]
+        },
+        {
+          "answer": "My Three Sons",
+          "display": "#13 — ABC (25.8 rating)"
+        },
+        {
+          "answer": "77 Sunset Strip",
+          "display": "#13 — ABC (25.8 rating)"
+        }
+      ]
+    },
+    {
+      "category": "tv/us-ratings",
+      "question": "Top 10 highest-rated US TV programs of the 1961–62 season (Nielsen ratings)",
+      "cutoff": 10,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1306303636 | table 1 | name: Program | value: Rank | order: asc",
+      "tags": [
+        "tv",
+        "nielsen",
+        "ratings"
+      ],
+      "answers": [
+        {
+          "answer": "Wagon Train",
+          "display": "#1 — NBC (32.1 rating)"
+        },
+        {
+          "answer": "Bonanza",
+          "display": "#2 — NBC (30.0 rating)"
+        },
+        {
+          "answer": "Gunsmoke",
+          "display": "#3 — CBS (28.3 rating)"
+        },
+        {
+          "answer": "Hazel",
+          "display": "#4 — NBC (27.7 rating)"
+        },
+        {
+          "answer": "Perry Mason",
+          "display": "#5 — CBS (27.3 rating)"
+        },
+        {
+          "answer": "The Red Skelton Show",
+          "display": "#6 — CBS (27.1 rating)",
+          "aliases": [
+            "Red Skelton"
+          ]
+        },
+        {
+          "answer": "The Andy Griffith Show",
+          "display": "#7 — CBS (27.0 rating)",
+          "aliases": [
+            "Andy Griffith Show"
+          ]
+        },
+        {
+          "answer": "The Danny Thomas Show",
+          "display": "#8 — CBS (26.1 rating)",
+          "aliases": [
+            "Danny Thomas Show"
+          ]
+        },
+        {
+          "answer": "Dr. Kildare",
+          "display": "#9 — NBC (25.6 rating)"
+        },
+        {
+          "answer": "Candid Camera",
+          "display": "#10 — CBS (25.5 rating)"
+        },
+        {
+          "answer": "My Three Sons",
+          "display": "#11 — ABC (24.7 rating)"
+        },
+        {
+          "answer": "The Garry Moore Show",
+          "display": "#12 — CBS (24.6 rating)",
+          "aliases": [
+            "Garry Moore Show"
+          ]
+        },
+        {
+          "answer": "Rawhide",
+          "display": "#13 — CBS (24.5 rating)"
+        }
+      ]
+    },
+    {
+      "category": "tv/us-ratings",
+      "question": "Top 10 highest-rated US TV programs of the 1962–63 season (Nielsen ratings)",
+      "cutoff": 10,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1307481084 | table 1 | name: Program | value: Rank | order: asc",
+      "tags": [
+        "tv",
+        "nielsen",
+        "ratings"
+      ],
+      "answers": [
+        {
+          "answer": "The Beverly Hillbillies",
+          "display": "#1 — CBS (36.0 rating)",
+          "aliases": [
+            "Beverly Hillbillies"
+          ]
+        },
+        {
+          "answer": "Candid Camera",
+          "display": "#2 — CBS (31.1 rating)"
+        },
+        {
+          "answer": "The Red Skelton Show",
+          "display": "#2 — CBS (31.1 rating)",
+          "aliases": [
+            "Red Skelton"
+          ]
+        },
+        {
+          "answer": "Bonanza",
+          "display": "#4 — NBC (29.8 rating)"
+        },
+        {
+          "answer": "The Lucy Show",
+          "display": "#4 — CBS (29.8 rating)",
+          "aliases": [
+            "Lucy Show"
+          ]
+        },
+        {
+          "answer": "The Andy Griffith Show",
+          "display": "#6 — CBS (29.7 rating)",
+          "aliases": [
+            "Andy Griffith Show"
+          ]
+        },
+        {
+          "answer": "Ben Casey",
+          "display": "#7 — ABC (28.7 rating)"
+        },
+        {
+          "answer": "The Danny Thomas Show",
+          "display": "#7 — CBS (28.7 rating)",
+          "aliases": [
+            "Danny Thomas Show"
+          ]
+        },
+        {
+          "answer": "The Dick Van Dyke Show",
+          "display": "#9 — CBS (27.1 rating)",
+          "aliases": [
+            "Dick Van Dyke Show"
+          ]
+        },
+        {
+          "answer": "Gunsmoke",
+          "display": "#10 — CBS (27.0 rating)"
+        },
+        {
+          "answer": "Dr. Kildare",
+          "display": "#11 — NBC (26.2 rating)"
+        },
+        {
+          "answer": "The Jack Benny Show",
+          "display": "#11 — CBS (26.2 rating)",
+          "aliases": [
+            "Jack Benny"
+          ]
+        },
+        {
+          "answer": "What's My Line?",
+          "display": "#13 — CBS (25.5 rating)"
+        }
+      ]
+    },
+    {
+      "category": "tv/us-ratings",
+      "question": "Top 10 highest-rated US TV programs of the 1963–64 season (Nielsen ratings)",
+      "cutoff": 10,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1306303634 | table 1 | name: Program | value: Rank | order: asc",
+      "tags": [
+        "tv",
+        "nielsen",
+        "ratings"
+      ],
+      "answers": [
+        {
+          "answer": "The Beverly Hillbillies",
+          "display": "#1 — CBS (39.1 rating)",
+          "aliases": [
+            "Beverly Hillbillies"
+          ]
+        },
+        {
+          "answer": "Bonanza",
+          "display": "#2 — NBC (36.9 rating)"
+        },
+        {
+          "answer": "The Dick Van Dyke Show",
+          "display": "#3 — CBS (33.3 rating)",
+          "aliases": [
+            "Dick Van Dyke Show"
+          ]
+        },
+        {
+          "answer": "Petticoat Junction",
+          "display": "#4 — CBS (30.3 rating)"
+        },
+        {
+          "answer": "The Andy Griffith Show",
+          "display": "#5 — CBS (29.4 rating)",
+          "aliases": [
+            "Andy Griffith Show"
+          ]
+        },
+        {
+          "answer": "The Lucy Show",
+          "display": "#6 — CBS (28.1 rating)",
+          "aliases": [
+            "Lucy Show"
+          ]
+        },
+        {
+          "answer": "Candid Camera",
+          "display": "#7 — CBS (27.7 rating)"
+        },
+        {
+          "answer": "The Ed Sullivan Show",
+          "display": "#8 — CBS (27.5 rating)",
+          "aliases": [
+            "Ed Sullivan Show"
+          ]
+        },
+        {
+          "answer": "The Danny Thomas Show",
+          "display": "#9 — CBS (26.7 rating)",
+          "aliases": [
+            "Danny Thomas Show"
+          ]
+        },
+        {
+          "answer": "My Favorite Martian",
+          "display": "#10 — CBS (26.3 rating)"
+        },
+        {
+          "answer": "The Red Skelton Show",
+          "display": "#11 — CBS (25.7 rating)",
+          "aliases": [
+            "Red Skelton"
+          ]
+        },
+        {
+          "answer": "I've Got a Secret",
+          "display": "#12 — CBS (25.0 rating)"
+        },
+        {
+          "answer": "Lassie",
+          "display": "#12 — CBS (25.0 rating)"
+        },
+        {
+          "answer": "The Jack Benny Show",
+          "display": "#12 — CBS (25.0 rating)",
+          "aliases": [
+            "Jack Benny"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "tv/us-ratings",
+      "question": "Top 9 highest-rated US TV programs of the 1966–67 season (Nielsen ratings)",
+      "cutoff": 9,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1350403947 | table 1 | name: Program | value: Rank | order: asc",
+      "tags": [
+        "tv",
+        "nielsen",
+        "ratings"
+      ],
+      "answers": [
+        {
+          "answer": "Bonanza",
+          "display": "#1 — NBC (29.1 rating)"
+        },
+        {
+          "answer": "The Red Skelton Hour",
+          "display": "#2 — CBS (28.2 rating)",
+          "aliases": [
+            "Red Skelton"
+          ]
+        },
+        {
+          "answer": "The Andy Griffith Show",
+          "display": "#3 — CBS (27.4 rating)",
+          "aliases": [
+            "Andy Griffith Show"
+          ]
+        },
+        {
+          "answer": "The Lucy Show",
+          "display": "#4 — CBS (26.2 rating)",
+          "aliases": [
+            "Lucy Show"
+          ]
+        },
+        {
+          "answer": "The Jackie Gleason Show",
+          "display": "#5 — CBS (25.3 rating)",
+          "aliases": [
+            "Jackie Gleason Show"
+          ]
+        },
+        {
+          "answer": "Green Acres",
+          "display": "#6 — CBS (24.6 rating)"
+        },
+        {
+          "answer": "Daktari",
+          "display": "#7 — CBS (23.4 rating)"
+        },
+        {
+          "answer": "Bewitched",
+          "display": "#7 — ABC (23.4 rating)"
+        },
+        {
+          "answer": "The Beverly Hillbillies",
+          "display": "#7 — CBS (23.4 rating)",
+          "aliases": [
+            "Beverly Hillbillies"
+          ]
+        },
+        {
+          "answer": "Gomer Pyle, U.S.M.C.",
+          "display": "#10 — CBS (22.8 rating)",
+          "aliases": [
+            "Gomer Pyle"
+          ]
+        },
+        {
+          "answer": "The Virginian",
+          "display": "#10 — NBC (22.8 rating)",
+          "aliases": [
+            "Virginian"
+          ]
+        },
+        {
+          "answer": "The Lawrence Welk Show",
+          "display": "#10 — ABC (22.8 rating)",
+          "aliases": [
+            "Lawrence Welk Show"
+          ]
+        },
+        {
+          "answer": "The Ed Sullivan Show",
+          "display": "#10 — CBS (22.8 rating)",
+          "aliases": [
+            "Ed Sullivan Show"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "tv/us-ratings",
+      "question": "Top 10 highest-rated US TV programs of the 1967–68 season (Nielsen ratings)",
+      "cutoff": 10,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1350403958 | table 1 | name: Program | value: Rank | order: asc",
+      "tags": [
+        "tv",
+        "nielsen",
+        "ratings"
+      ],
+      "answers": [
+        {
+          "answer": "The Andy Griffith Show",
+          "display": "#1 — CBS (27.6 rating)",
+          "aliases": [
+            "Andy Griffith Show"
+          ]
+        },
+        {
+          "answer": "The Lucy Show",
+          "display": "#2 — CBS (27.0 rating)",
+          "aliases": [
+            "Lucy Show"
+          ]
+        },
+        {
+          "answer": "Gomer Pyle, U.S.M.C.",
+          "display": "#3 — CBS (25.6 rating)",
+          "aliases": [
+            "Gomer Pyle"
+          ]
+        },
+        {
+          "answer": "Gunsmoke",
+          "display": "#4 — CBS (25.5 rating)"
+        },
+        {
+          "answer": "Family Affair",
+          "display": "#4 — CBS (25.5 rating)"
+        },
+        {
+          "answer": "Bonanza",
+          "display": "#4 — NBC (25.5 rating)"
+        },
+        {
+          "answer": "The Red Skelton Show",
+          "display": "#7 — CBS (25.3 rating)",
+          "aliases": [
+            "Red Skelton"
+          ]
+        },
+        {
+          "answer": "The Dean Martin Show",
+          "display": "#8 — NBC (24.8 rating)",
+          "aliases": [
+            "Dean Martin Show"
+          ]
+        },
+        {
+          "answer": "The Jackie Gleason Show",
+          "display": "#9 — CBS (23.9 rating)",
+          "aliases": [
+            "Jackie Gleason Show"
+          ]
+        },
+        {
+          "answer": "Saturday Night at the Movies",
+          "display": "#10 — NBC (23.6 rating)"
+        },
+        {
+          "answer": "Bewitched",
+          "display": "#11 — ABC (23.5 rating)"
+        },
+        {
+          "answer": "The Beverly Hillbillies",
+          "display": "#12 — CBS (23.3 rating)",
+          "aliases": [
+            "Beverly Hillbillies"
+          ]
+        },
+        {
+          "answer": "The Ed Sullivan Show",
+          "display": "#13 — CBS (23.2 rating)",
+          "aliases": [
+            "Ed Sullivan Show"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "tv/us-ratings",
+      "question": "Top 10 highest-rated US TV programs of the 1968–69 season (Nielsen ratings)",
+      "cutoff": 10,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1350403974 | table 1 | name: Program | value: Rank | order: asc",
+      "tags": [
+        "tv",
+        "nielsen",
+        "ratings"
+      ],
+      "answers": [
+        {
+          "answer": "Rowan & Martin's Laugh-In",
+          "display": "#1 — NBC (31.8 rating)",
+          "aliases": [
+            "Laugh-In"
+          ]
+        },
+        {
+          "answer": "Gomer Pyle, U.S.M.C.",
+          "display": "#2 — CBS (27.2 rating)",
+          "aliases": [
+            "Gomer Pyle"
+          ]
+        },
+        {
+          "answer": "Bonanza",
+          "display": "#3 — NBC (26.6 rating)"
+        },
+        {
+          "answer": "Mayberry R.F.D.",
+          "display": "#4 — CBS (25.4 rating)",
+          "aliases": [
+            "Mayberry"
+          ]
+        },
+        {
+          "answer": "Family Affair",
+          "display": "#5 — CBS (25.2 rating)"
+        },
+        {
+          "answer": "Gunsmoke",
+          "display": "#6 — CBS (24.9 rating)"
+        },
+        {
+          "answer": "Julia",
+          "display": "#7 — NBC (24.6 rating)"
+        },
+        {
+          "answer": "The Dean Martin Show",
+          "display": "#8 — NBC (24.1 rating)",
+          "aliases": [
+            "Dean Martin Show"
+          ]
+        },
+        {
+          "answer": "Here's Lucy",
+          "display": "#9 — CBS (23.8 rating)"
+        },
+        {
+          "answer": "The Beverly Hillbillies",
+          "display": "#10 — CBS (23.5 rating)",
+          "aliases": [
+            "Beverly Hillbillies"
+          ]
+        },
+        {
+          "answer": "Mission: Impossible",
+          "display": "#11 — CBS (23.3 rating)"
+        },
+        {
+          "answer": "Bewitched",
+          "display": "#11 — ABC (23.3 rating)"
+        },
+        {
+          "answer": "The Red Skelton Hour",
+          "display": "#11 — CBS (23.3 rating)",
+          "aliases": [
+            "Red Skelton"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "tv/us-ratings",
+      "question": "Top 10 highest-rated US TV programs of the 1969–70 season (Nielsen ratings)",
+      "cutoff": 10,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1370165201 | table 1 | name: Program | value: Rank | order: asc",
+      "tags": [
+        "tv",
+        "nielsen",
+        "ratings"
+      ],
+      "answers": [
+        {
+          "answer": "Rowan & Martin's Laugh-In",
+          "display": "#1 — NBC (26.3 rating)",
+          "aliases": [
+            "Laugh-In"
+          ]
+        },
+        {
+          "answer": "Gunsmoke",
+          "display": "#2 — CBS (25.9 rating)"
+        },
+        {
+          "answer": "Bonanza",
+          "display": "#3 — NBC (24.8 rating)"
+        },
+        {
+          "answer": "Mayberry R.F.D.",
+          "display": "#4 — CBS (24.4 rating)",
+          "aliases": [
+            "Mayberry"
+          ]
+        },
+        {
+          "answer": "Family Affair",
+          "display": "#5 — CBS (24.2 rating)"
+        },
+        {
+          "answer": "Here's Lucy",
+          "display": "#6 — CBS (23.9 rating)"
+        },
+        {
+          "answer": "The Red Skelton Hour",
+          "display": "#7 — CBS (23.8 rating)",
+          "aliases": [
+            "Red Skelton"
+          ]
+        },
+        {
+          "answer": "Marcus Welby, M.D.",
+          "display": "#8 — ABC (23.7 rating)",
+          "aliases": [
+            "Marcus Welby"
+          ]
+        },
+        {
+          "answer": "The Wonderful World of Disney",
+          "display": "#9 — NBC (23.6 rating)",
+          "aliases": [
+            "Wonderful World of Disney"
+          ]
+        },
+        {
+          "answer": "The Doris Day Show",
+          "display": "#10 — CBS (22.8 rating)",
+          "aliases": [
+            "Doris Day Show"
+          ]
+        },
+        {
+          "answer": "The Bill Cosby Show",
+          "display": "#11 — NBC (22.7 rating)"
+        },
+        {
+          "answer": "The Jim Nabors Hour",
+          "display": "#12 — CBS (22.4 rating)",
+          "aliases": [
+            "Jim Nabors Hour"
+          ]
+        },
+        {
+          "answer": "The Carol Burnett Show",
+          "display": "#13 — CBS (22.1 rating)",
+          "aliases": [
+            "Carol Burnett Show"
+          ]
+        }
+      ]
+    }
+  ]
+}

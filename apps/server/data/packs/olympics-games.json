@@ -1,0 +1,1564 @@
+{
+  "categories": [
+    {
+      "path": "sports/olympics/games",
+      "name": "Olympic Games"
+    }
+  ],
+  "questions": [
+    {
+      "category": "sports/olympics/games",
+      "question": "Top 10 nations in the 1984 Summer Olympics (Los Angeles, Soviet-bloc boycott) medal table (ranked by gold medals, then silver, then bronze)",
+      "cutoff": 10,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1370813489 | table 1 | name: NOC | value: Rank | order: asc",
+      "tags": [
+        "olympics",
+        "medals",
+        "nations",
+        "summer",
+        "1984"
+      ],
+      "answers": [
+        {
+          "answer": "United States",
+          "display": "#1 — 83 gold, 61 silver, 30 bronze",
+          "aliases": [
+            "USA",
+            "US",
+            "United States of America",
+            "America"
+          ]
+        },
+        {
+          "answer": "Romania",
+          "display": "#2 — 20 gold, 16 silver, 17 bronze"
+        },
+        {
+          "answer": "West Germany",
+          "display": "#3 — 17 gold, 19 silver, 23 bronze",
+          "aliases": [
+            "FRG",
+            "Germany"
+          ]
+        },
+        {
+          "answer": "China",
+          "display": "#4 — 15 gold, 8 silver, 9 bronze",
+          "aliases": [
+            "PRC"
+          ]
+        },
+        {
+          "answer": "Italy",
+          "display": "#5 — 14 gold, 6 silver, 12 bronze"
+        },
+        {
+          "answer": "Canada",
+          "display": "#6 — 10 gold, 18 silver, 16 bronze"
+        },
+        {
+          "answer": "Japan",
+          "display": "#7 — 10 gold, 8 silver, 14 bronze"
+        },
+        {
+          "answer": "New Zealand",
+          "display": "#8 — 8 gold, 1 silver, 2 bronze"
+        },
+        {
+          "answer": "Yugoslavia",
+          "display": "#9 — 7 gold, 4 silver, 7 bronze"
+        },
+        {
+          "answer": "South Korea",
+          "display": "#10 — 6 gold, 6 silver, 7 bronze",
+          "aliases": [
+            "Korea"
+          ]
+        },
+        {
+          "answer": "Great Britain",
+          "display": "#11 — 5 gold, 11 silver, 21 bronze",
+          "aliases": [
+            "Britain",
+            "UK",
+            "Team GB",
+            "GB"
+          ]
+        },
+        {
+          "answer": "France",
+          "display": "#12 — 5 gold, 7 silver, 16 bronze"
+        },
+        {
+          "answer": "Netherlands",
+          "display": "#13 — 5 gold, 2 silver, 6 bronze",
+          "aliases": [
+            "Holland"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/olympics/games",
+      "question": "Top 10 nations in the 1988 Summer Olympics (Seoul) medal table (ranked by gold medals, then silver, then bronze)",
+      "cutoff": 10,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1372775025 | table 1 | name: NOC | value: Rank | order: asc",
+      "tags": [
+        "olympics",
+        "medals",
+        "nations",
+        "summer",
+        "1988"
+      ],
+      "answers": [
+        {
+          "answer": "Soviet Union",
+          "display": "#1 — 55 gold, 31 silver, 46 bronze",
+          "aliases": [
+            "USSR"
+          ]
+        },
+        {
+          "answer": "East Germany",
+          "display": "#2 — 37 gold, 35 silver, 30 bronze",
+          "aliases": [
+            "GDR"
+          ]
+        },
+        {
+          "answer": "United States",
+          "display": "#3 — 36 gold, 31 silver, 27 bronze",
+          "aliases": [
+            "USA",
+            "US",
+            "United States of America",
+            "America"
+          ]
+        },
+        {
+          "answer": "South Korea",
+          "display": "#4 — 12 gold, 10 silver, 11 bronze",
+          "aliases": [
+            "Korea"
+          ]
+        },
+        {
+          "answer": "West Germany",
+          "display": "#5 — 11 gold, 14 silver, 15 bronze",
+          "aliases": [
+            "FRG"
+          ]
+        },
+        {
+          "answer": "Hungary",
+          "display": "#6 — 11 gold, 6 silver, 6 bronze"
+        },
+        {
+          "answer": "Bulgaria",
+          "display": "#7 — 10 gold, 12 silver, 13 bronze"
+        },
+        {
+          "answer": "Romania",
+          "display": "#8 — 7 gold, 11 silver, 6 bronze"
+        },
+        {
+          "answer": "France",
+          "display": "#9 — 6 gold, 4 silver, 6 bronze"
+        },
+        {
+          "answer": "Italy",
+          "display": "#10 — 6 gold, 4 silver, 4 bronze"
+        },
+        {
+          "answer": "China",
+          "display": "#11 — 5 gold, 11 silver, 12 bronze",
+          "aliases": [
+            "PRC"
+          ]
+        },
+        {
+          "answer": "Great Britain",
+          "display": "#12 — 5 gold, 10 silver, 9 bronze",
+          "aliases": [
+            "Britain",
+            "UK",
+            "Team GB",
+            "GB"
+          ]
+        },
+        {
+          "answer": "Kenya",
+          "display": "#13 — 5 gold, 2 silver, 2 bronze"
+        }
+      ]
+    },
+    {
+      "category": "sports/olympics/games",
+      "question": "Top 10 nations in the 1992 Summer Olympics (Barcelona) medal table (ranked by gold medals, then silver, then bronze)",
+      "cutoff": 10,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1379213482 | table 1 | name: NOC | value: Rank | order: asc",
+      "tags": [
+        "olympics",
+        "medals",
+        "nations",
+        "summer",
+        "1992"
+      ],
+      "answers": [
+        {
+          "answer": "Unified Team",
+          "display": "#1 — 45 gold, 38 silver, 29 bronze",
+          "aliases": [
+            "EUN"
+          ]
+        },
+        {
+          "answer": "United States",
+          "display": "#2 — 37 gold, 34 silver, 37 bronze",
+          "aliases": [
+            "USA",
+            "US",
+            "United States of America",
+            "America"
+          ]
+        },
+        {
+          "answer": "Germany",
+          "display": "#3 — 33 gold, 21 silver, 28 bronze"
+        },
+        {
+          "answer": "China",
+          "display": "#4 — 16 gold, 22 silver, 16 bronze",
+          "aliases": [
+            "PRC"
+          ]
+        },
+        {
+          "answer": "Cuba",
+          "display": "#5 — 14 gold, 6 silver, 11 bronze"
+        },
+        {
+          "answer": "Spain",
+          "display": "#6 — 13 gold, 7 silver, 2 bronze"
+        },
+        {
+          "answer": "South Korea",
+          "display": "#7 — 12 gold, 5 silver, 12 bronze",
+          "aliases": [
+            "Korea"
+          ]
+        },
+        {
+          "answer": "Hungary",
+          "display": "#8 — 11 gold, 12 silver, 7 bronze"
+        },
+        {
+          "answer": "France",
+          "display": "#9 — 8 gold, 5 silver, 16 bronze"
+        },
+        {
+          "answer": "Australia",
+          "display": "#10 — 7 gold, 9 silver, 11 bronze"
+        },
+        {
+          "answer": "Canada",
+          "display": "#11 — 7 gold, 4 silver, 7 bronze"
+        },
+        {
+          "answer": "Italy",
+          "display": "#12 — 6 gold, 5 silver, 8 bronze"
+        },
+        {
+          "answer": "Great Britain",
+          "display": "#13 — 5 gold, 3 silver, 12 bronze",
+          "aliases": [
+            "Britain",
+            "UK",
+            "Team GB",
+            "GB"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/olympics/games",
+      "question": "Top 10 nations in the 1996 Summer Olympics (Atlanta) medal table (ranked by gold medals, then silver, then bronze)",
+      "cutoff": 10,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1345623902 | table 1 | name: NOC | value: Rank | order: asc",
+      "tags": [
+        "olympics",
+        "medals",
+        "nations",
+        "summer",
+        "1996"
+      ],
+      "answers": [
+        {
+          "answer": "United States",
+          "display": "#1 — 44 gold, 32 silver, 25 bronze",
+          "aliases": [
+            "USA",
+            "US",
+            "United States of America",
+            "America"
+          ]
+        },
+        {
+          "answer": "Russia",
+          "display": "#2 — 26 gold, 21 silver, 16 bronze"
+        },
+        {
+          "answer": "Germany",
+          "display": "#3 — 20 gold, 18 silver, 27 bronze"
+        },
+        {
+          "answer": "China",
+          "display": "#4 — 16 gold, 22 silver, 12 bronze",
+          "aliases": [
+            "PRC"
+          ]
+        },
+        {
+          "answer": "France",
+          "display": "#5 — 15 gold, 7 silver, 15 bronze"
+        },
+        {
+          "answer": "Italy",
+          "display": "#6 — 13 gold, 10 silver, 12 bronze"
+        },
+        {
+          "answer": "Australia",
+          "display": "#7 — 9 gold, 9 silver, 23 bronze"
+        },
+        {
+          "answer": "Cuba",
+          "display": "#8 — 9 gold, 8 silver, 8 bronze"
+        },
+        {
+          "answer": "Ukraine",
+          "display": "#9 — 9 gold, 2 silver, 12 bronze"
+        },
+        {
+          "answer": "South Korea",
+          "display": "#10 — 7 gold, 15 silver, 5 bronze",
+          "aliases": [
+            "Korea"
+          ]
+        },
+        {
+          "answer": "Poland",
+          "display": "#11 — 7 gold, 5 silver, 5 bronze"
+        },
+        {
+          "answer": "Hungary",
+          "display": "#12 — 7 gold, 4 silver, 10 bronze"
+        },
+        {
+          "answer": "Spain",
+          "display": "#13 — 5 gold, 6 silver, 6 bronze"
+        }
+      ]
+    },
+    {
+      "category": "sports/olympics/games",
+      "question": "Top 10 nations in the 2000 Summer Olympics (Sydney) medal table (ranked by gold medals, then silver, then bronze)",
+      "cutoff": 10,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1373108816 | table 1 | name: NOC | value: Rank | order: asc",
+      "tags": [
+        "olympics",
+        "medals",
+        "nations",
+        "summer",
+        "2000"
+      ],
+      "answers": [
+        {
+          "answer": "United States",
+          "display": "#1 — 37 gold, 24 silver, 32 bronze",
+          "aliases": [
+            "USA",
+            "US",
+            "United States of America",
+            "America"
+          ]
+        },
+        {
+          "answer": "Russia",
+          "display": "#2 — 32 gold, 28 silver, 29 bronze"
+        },
+        {
+          "answer": "China",
+          "display": "#3 — 28 gold, 16 silver, 14 bronze",
+          "aliases": [
+            "PRC"
+          ]
+        },
+        {
+          "answer": "Australia",
+          "display": "#4 — 16 gold, 25 silver, 17 bronze"
+        },
+        {
+          "answer": "Germany",
+          "display": "#5 — 13 gold, 17 silver, 26 bronze"
+        },
+        {
+          "answer": "France",
+          "display": "#6 — 13 gold, 14 silver, 11 bronze"
+        },
+        {
+          "answer": "Italy",
+          "display": "#7 — 13 gold, 8 silver, 13 bronze"
+        },
+        {
+          "answer": "Netherlands",
+          "display": "#8 — 12 gold, 9 silver, 4 bronze",
+          "aliases": [
+            "Holland"
+          ]
+        },
+        {
+          "answer": "Cuba",
+          "display": "#9 — 11 gold, 11 silver, 7 bronze"
+        },
+        {
+          "answer": "Great Britain",
+          "display": "#10 — 11 gold, 10 silver, 7 bronze",
+          "aliases": [
+            "Britain",
+            "UK",
+            "Team GB",
+            "GB"
+          ]
+        },
+        {
+          "answer": "Romania",
+          "display": "#11 — 11 gold, 6 silver, 9 bronze"
+        },
+        {
+          "answer": "South Korea",
+          "display": "#12 — 8 gold, 10 silver, 10 bronze",
+          "aliases": [
+            "Korea"
+          ]
+        },
+        {
+          "answer": "Hungary",
+          "display": "#13 — 8 gold, 6 silver, 3 bronze"
+        }
+      ]
+    },
+    {
+      "category": "sports/olympics/games",
+      "question": "Top 10 nations in the 2004 Summer Olympics (Athens) medal table (ranked by gold medals, then silver, then bronze)",
+      "cutoff": 10,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1345887615 | table 1 | name: NOC | value: Rank | order: asc",
+      "tags": [
+        "olympics",
+        "medals",
+        "nations",
+        "summer",
+        "2004"
+      ],
+      "answers": [
+        {
+          "answer": "United States",
+          "display": "#1 — 36 gold, 39 silver, 26 bronze",
+          "aliases": [
+            "USA",
+            "US",
+            "United States of America",
+            "America"
+          ]
+        },
+        {
+          "answer": "China",
+          "display": "#2 — 32 gold, 17 silver, 14 bronze",
+          "aliases": [
+            "PRC"
+          ]
+        },
+        {
+          "answer": "Russia",
+          "display": "#3 — 28 gold, 26 silver, 36 bronze"
+        },
+        {
+          "answer": "Australia",
+          "display": "#4 — 17 gold, 16 silver, 17 bronze"
+        },
+        {
+          "answer": "Japan",
+          "display": "#5 — 16 gold, 9 silver, 12 bronze"
+        },
+        {
+          "answer": "Germany",
+          "display": "#6 — 13 gold, 16 silver, 20 bronze"
+        },
+        {
+          "answer": "France",
+          "display": "#7 — 11 gold, 9 silver, 13 bronze"
+        },
+        {
+          "answer": "Italy",
+          "display": "#8 — 10 gold, 11 silver, 11 bronze"
+        },
+        {
+          "answer": "South Korea",
+          "display": "#9 — 9 gold, 12 silver, 9 bronze",
+          "aliases": [
+            "Korea"
+          ]
+        },
+        {
+          "answer": "Great Britain",
+          "display": "#10 — 9 gold, 9 silver, 12 bronze",
+          "aliases": [
+            "Britain",
+            "UK",
+            "Team GB",
+            "GB"
+          ]
+        },
+        {
+          "answer": "Cuba",
+          "display": "#11 — 9 gold, 7 silver, 11 bronze"
+        },
+        {
+          "answer": "Hungary",
+          "display": "#12 — 8 gold, 6 silver, 3 bronze"
+        },
+        {
+          "answer": "Ukraine",
+          "display": "#13 — 8 gold, 5 silver, 9 bronze"
+        }
+      ]
+    },
+    {
+      "category": "sports/olympics/games",
+      "question": "Top 10 nations in the 2008 Summer Olympics (Beijing) medal table (ranked by gold medals, then silver, then bronze)",
+      "cutoff": 10,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1372105126 | table 1 | name: NOC | value: Rank | order: asc",
+      "tags": [
+        "olympics",
+        "medals",
+        "nations",
+        "summer",
+        "2008"
+      ],
+      "answers": [
+        {
+          "answer": "China",
+          "display": "#1 — 48 gold, 22 silver, 30 bronze",
+          "aliases": [
+            "PRC"
+          ]
+        },
+        {
+          "answer": "United States",
+          "display": "#2 — 36 gold, 39 silver, 37 bronze",
+          "aliases": [
+            "USA",
+            "US",
+            "United States of America",
+            "America"
+          ]
+        },
+        {
+          "answer": "Russia",
+          "display": "#3 — 24 gold, 13 silver, 23 bronze"
+        },
+        {
+          "answer": "Great Britain",
+          "display": "#4 — 19 gold, 13 silver, 19 bronze",
+          "aliases": [
+            "Britain",
+            "UK",
+            "Team GB",
+            "GB"
+          ]
+        },
+        {
+          "answer": "Germany",
+          "display": "#5 — 16 gold, 11 silver, 14 bronze"
+        },
+        {
+          "answer": "Australia",
+          "display": "#6 — 14 gold, 15 silver, 17 bronze"
+        },
+        {
+          "answer": "South Korea",
+          "display": "#7 — 13 gold, 11 silver, 8 bronze",
+          "aliases": [
+            "Korea"
+          ]
+        },
+        {
+          "answer": "Japan",
+          "display": "#8 — 9 gold, 8 silver, 8 bronze"
+        },
+        {
+          "answer": "Italy",
+          "display": "#9 — 8 gold, 9 silver, 10 bronze"
+        },
+        {
+          "answer": "France",
+          "display": "#10 — 7 gold, 16 silver, 20 bronze"
+        },
+        {
+          "answer": "Netherlands",
+          "display": "#11 — 7 gold, 5 silver, 4 bronze",
+          "aliases": [
+            "Holland"
+          ]
+        },
+        {
+          "answer": "Ukraine",
+          "display": "#12 — 7 gold, 4 silver, 11 bronze"
+        },
+        {
+          "answer": "Kenya",
+          "display": "#13 — 6 gold, 4 silver, 6 bronze"
+        }
+      ]
+    },
+    {
+      "category": "sports/olympics/games",
+      "question": "Top 10 nations in the 2012 Summer Olympics (London) medal table (ranked by gold medals, then silver, then bronze)",
+      "cutoff": 10,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1372104883 | table 1 | name: NOC | value: Rank | order: asc",
+      "tags": [
+        "olympics",
+        "medals",
+        "nations",
+        "summer",
+        "2012"
+      ],
+      "answers": [
+        {
+          "answer": "United States",
+          "display": "#1 — 48 gold, 26 silver, 32 bronze",
+          "aliases": [
+            "USA",
+            "US",
+            "United States of America",
+            "America"
+          ]
+        },
+        {
+          "answer": "China",
+          "display": "#2 — 39 gold, 31 silver, 22 bronze",
+          "aliases": [
+            "PRC"
+          ]
+        },
+        {
+          "answer": "Great Britain",
+          "display": "#3 — 29 gold, 18 silver, 18 bronze",
+          "aliases": [
+            "Britain",
+            "UK",
+            "Team GB",
+            "GB"
+          ]
+        },
+        {
+          "answer": "Russia",
+          "display": "#4 — 18 gold, 19 silver, 26 bronze"
+        },
+        {
+          "answer": "South Korea",
+          "display": "#5 — 13 gold, 9 silver, 9 bronze",
+          "aliases": [
+            "Korea"
+          ]
+        },
+        {
+          "answer": "Germany",
+          "display": "#6 — 11 gold, 20 silver, 13 bronze"
+        },
+        {
+          "answer": "France",
+          "display": "#7 — 11 gold, 11 silver, 13 bronze"
+        },
+        {
+          "answer": "Australia",
+          "display": "#8 — 8 gold, 15 silver, 12 bronze"
+        },
+        {
+          "answer": "Italy",
+          "display": "#9 — 8 gold, 9 silver, 11 bronze"
+        },
+        {
+          "answer": "Hungary",
+          "display": "#10 — 8 gold, 4 silver, 6 bronze"
+        },
+        {
+          "answer": "Japan",
+          "display": "#11 — 7 gold, 14 silver, 17 bronze"
+        },
+        {
+          "answer": "Iran",
+          "display": "#12 — 7 gold, 5 silver, 1 bronze"
+        },
+        {
+          "answer": "Netherlands",
+          "display": "#13 — 6 gold, 6 silver, 8 bronze",
+          "aliases": [
+            "Holland"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/olympics/games",
+      "question": "Top 10 nations in the 2016 Summer Olympics (Rio de Janeiro) medal table (ranked by gold medals, then silver, then bronze)",
+      "cutoff": 10,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1337246458 | table 1 | name: NOC | value: Rank | order: asc",
+      "tags": [
+        "olympics",
+        "medals",
+        "nations",
+        "summer",
+        "2016"
+      ],
+      "answers": [
+        {
+          "answer": "United States",
+          "display": "#1 — 46 gold, 37 silver, 38 bronze",
+          "aliases": [
+            "USA",
+            "US",
+            "United States of America",
+            "America"
+          ]
+        },
+        {
+          "answer": "Great Britain",
+          "display": "#2 — 27 gold, 23 silver, 17 bronze",
+          "aliases": [
+            "Britain",
+            "UK",
+            "Team GB",
+            "GB"
+          ]
+        },
+        {
+          "answer": "China",
+          "display": "#3 — 26 gold, 18 silver, 26 bronze",
+          "aliases": [
+            "PRC"
+          ]
+        },
+        {
+          "answer": "Russia",
+          "display": "#4 — 19 gold, 17 silver, 20 bronze"
+        },
+        {
+          "answer": "Germany",
+          "display": "#5 — 17 gold, 10 silver, 15 bronze"
+        },
+        {
+          "answer": "Japan",
+          "display": "#6 — 12 gold, 8 silver, 21 bronze"
+        },
+        {
+          "answer": "France",
+          "display": "#7 — 10 gold, 18 silver, 14 bronze"
+        },
+        {
+          "answer": "South Korea",
+          "display": "#8 — 9 gold, 3 silver, 9 bronze",
+          "aliases": [
+            "Korea"
+          ]
+        },
+        {
+          "answer": "Italy",
+          "display": "#9 — 8 gold, 12 silver, 8 bronze"
+        },
+        {
+          "answer": "Australia",
+          "display": "#10 — 8 gold, 11 silver, 10 bronze"
+        },
+        {
+          "answer": "Netherlands",
+          "display": "#11 — 8 gold, 7 silver, 4 bronze",
+          "aliases": [
+            "Holland"
+          ]
+        },
+        {
+          "answer": "Hungary",
+          "display": "#12 — 8 gold, 3 silver, 4 bronze"
+        },
+        {
+          "answer": "Brazil",
+          "display": "#13 — 7 gold, 6 silver, 6 bronze"
+        }
+      ]
+    },
+    {
+      "category": "sports/olympics/games",
+      "question": "Top 10 nations in the 2020 Summer Olympics (Tokyo) medal table (ranked by gold medals, then silver, then bronze)",
+      "cutoff": 10,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1379616197 | table 1 | name: NOC | value: Rank | order: asc",
+      "tags": [
+        "olympics",
+        "medals",
+        "nations",
+        "summer",
+        "2020"
+      ],
+      "answers": [
+        {
+          "answer": "United States",
+          "display": "#1 — 39 gold, 41 silver, 33 bronze",
+          "aliases": [
+            "USA",
+            "US",
+            "United States of America",
+            "America"
+          ]
+        },
+        {
+          "answer": "China",
+          "display": "#2 — 38 gold, 32 silver, 19 bronze",
+          "aliases": [
+            "PRC"
+          ]
+        },
+        {
+          "answer": "Japan",
+          "display": "#3 — 27 gold, 14 silver, 17 bronze"
+        },
+        {
+          "answer": "Great Britain",
+          "display": "#4 — 22 gold, 20 silver, 22 bronze",
+          "aliases": [
+            "Britain",
+            "UK",
+            "Team GB",
+            "GB"
+          ]
+        },
+        {
+          "answer": "Russian Olympic Committee",
+          "display": "#5 — 20 gold, 28 silver, 23 bronze",
+          "aliases": [
+            "ROC",
+            "Russia"
+          ]
+        },
+        {
+          "answer": "Australia",
+          "display": "#6 — 17 gold, 7 silver, 22 bronze"
+        },
+        {
+          "answer": "Netherlands",
+          "display": "#7 — 10 gold, 12 silver, 14 bronze",
+          "aliases": [
+            "Holland"
+          ]
+        },
+        {
+          "answer": "France",
+          "display": "#8 — 10 gold, 12 silver, 11 bronze"
+        },
+        {
+          "answer": "Germany",
+          "display": "#9 — 10 gold, 11 silver, 16 bronze"
+        },
+        {
+          "answer": "Italy",
+          "display": "#10 — 10 gold, 10 silver, 20 bronze"
+        },
+        {
+          "answer": "Canada",
+          "display": "#11 — 7 gold, 7 silver, 10 bronze"
+        },
+        {
+          "answer": "Brazil",
+          "display": "#12 — 7 gold, 6 silver, 8 bronze"
+        },
+        {
+          "answer": "New Zealand",
+          "display": "#13 — 7 gold, 6 silver, 7 bronze"
+        }
+      ]
+    },
+    {
+      "category": "sports/olympics/games",
+      "question": "Top 10 nations in the 1994 Winter Olympics (Lillehammer) medal table (ranked by gold medals, then silver, then bronze)",
+      "cutoff": 10,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1348337288 | table 1 | name: NOC | value: Rank | order: asc",
+      "tags": [
+        "olympics",
+        "medals",
+        "nations",
+        "winter",
+        "1994"
+      ],
+      "answers": [
+        {
+          "answer": "Russia",
+          "display": "#1 — 11 gold, 8 silver, 4 bronze"
+        },
+        {
+          "answer": "Norway",
+          "display": "#2 — 10 gold, 11 silver, 5 bronze"
+        },
+        {
+          "answer": "Germany",
+          "display": "#3 — 9 gold, 7 silver, 8 bronze"
+        },
+        {
+          "answer": "Italy",
+          "display": "#4 — 7 gold, 5 silver, 8 bronze"
+        },
+        {
+          "answer": "United States",
+          "display": "#5 — 6 gold, 5 silver, 2 bronze",
+          "aliases": [
+            "USA",
+            "US",
+            "United States of America",
+            "America"
+          ]
+        },
+        {
+          "answer": "South Korea",
+          "display": "#6 — 4 gold, 1 silver, 1 bronze",
+          "aliases": [
+            "Korea"
+          ]
+        },
+        {
+          "answer": "Canada",
+          "display": "#7 — 3 gold, 6 silver, 4 bronze"
+        },
+        {
+          "answer": "Switzerland",
+          "display": "#8 — 3 gold, 4 silver, 2 bronze"
+        },
+        {
+          "answer": "Austria",
+          "display": "#9 — 2 gold, 3 silver, 4 bronze"
+        },
+        {
+          "answer": "Sweden",
+          "display": "#10 — 2 gold, 1 silver, 0 bronze"
+        },
+        {
+          "answer": "Japan",
+          "display": "#11 — 1 gold, 2 silver, 2 bronze"
+        },
+        {
+          "answer": "Kazakhstan",
+          "display": "#12 — 1 gold, 2 silver, 0 bronze"
+        },
+        {
+          "answer": "Ukraine",
+          "display": "#13 — 1 gold, 0 silver, 1 bronze"
+        }
+      ]
+    },
+    {
+      "category": "sports/olympics/games",
+      "question": "Top 10 nations in the 1998 Winter Olympics (Nagano) medal table (ranked by gold medals, then silver, then bronze)",
+      "cutoff": 10,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1355231715 | table 1 | name: NOC | value: Rank | order: asc",
+      "tags": [
+        "olympics",
+        "medals",
+        "nations",
+        "winter",
+        "1998"
+      ],
+      "answers": [
+        {
+          "answer": "Germany",
+          "display": "#1 — 12 gold, 9 silver, 8 bronze"
+        },
+        {
+          "answer": "Norway",
+          "display": "#2 — 10 gold, 10 silver, 5 bronze"
+        },
+        {
+          "answer": "Russia",
+          "display": "#3 — 9 gold, 6 silver, 3 bronze"
+        },
+        {
+          "answer": "Canada",
+          "display": "#4 — 6 gold, 5 silver, 4 bronze"
+        },
+        {
+          "answer": "United States",
+          "display": "#5 — 6 gold, 3 silver, 4 bronze",
+          "aliases": [
+            "USA",
+            "US",
+            "United States of America",
+            "America"
+          ]
+        },
+        {
+          "answer": "Netherlands",
+          "display": "#6 — 5 gold, 4 silver, 2 bronze",
+          "aliases": [
+            "Holland"
+          ]
+        },
+        {
+          "answer": "Japan",
+          "display": "#7 — 5 gold, 1 silver, 4 bronze"
+        },
+        {
+          "answer": "Austria",
+          "display": "#8 — 3 gold, 5 silver, 9 bronze"
+        },
+        {
+          "answer": "South Korea",
+          "display": "#9 — 3 gold, 1 silver, 2 bronze",
+          "aliases": [
+            "Korea"
+          ]
+        },
+        {
+          "answer": "Italy",
+          "display": "#10 — 2 gold, 6 silver, 2 bronze"
+        },
+        {
+          "answer": "Finland",
+          "display": "#11 — 2 gold, 4 silver, 6 bronze"
+        },
+        {
+          "answer": "Switzerland",
+          "display": "#12 — 2 gold, 2 silver, 3 bronze"
+        },
+        {
+          "answer": "France",
+          "display": "#13 — 2 gold, 1 silver, 5 bronze"
+        }
+      ]
+    },
+    {
+      "category": "sports/olympics/games",
+      "question": "Top 10 nations in the 2002 Winter Olympics (Salt Lake City) medal table (ranked by gold medals, then silver, then bronze)",
+      "cutoff": 10,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1376210456 | table 1 | name: Nation | value: Rank | order: asc",
+      "tags": [
+        "olympics",
+        "medals",
+        "nations",
+        "winter",
+        "2002"
+      ],
+      "answers": [
+        {
+          "answer": "Norway",
+          "display": "#1 — 13 gold, 5 silver, 7 bronze"
+        },
+        {
+          "answer": "Germany",
+          "display": "#2 — 12 gold, 16 silver, 8 bronze"
+        },
+        {
+          "answer": "United States",
+          "display": "#3 — 10 gold, 13 silver, 11 bronze",
+          "aliases": [
+            "USA",
+            "US",
+            "United States of America",
+            "America"
+          ]
+        },
+        {
+          "answer": "Canada",
+          "display": "#4 — 7 gold, 3 silver, 7 bronze"
+        },
+        {
+          "answer": "Russia",
+          "display": "#5 — 5 gold, 4 silver, 4 bronze"
+        },
+        {
+          "answer": "France",
+          "display": "#6 — 4 gold, 5 silver, 2 bronze"
+        },
+        {
+          "answer": "Italy",
+          "display": "#7 — 4 gold, 4 silver, 5 bronze"
+        },
+        {
+          "answer": "Finland",
+          "display": "#8 — 4 gold, 2 silver, 1 bronze"
+        },
+        {
+          "answer": "Netherlands",
+          "display": "#9 — 3 gold, 5 silver, 0 bronze",
+          "aliases": [
+            "Holland"
+          ]
+        },
+        {
+          "answer": "Austria",
+          "display": "#10 — 3 gold, 4 silver, 10 bronze"
+        },
+        {
+          "answer": "Switzerland",
+          "display": "#11 — 3 gold, 2 silver, 6 bronze"
+        },
+        {
+          "answer": "Croatia",
+          "display": "#12 — 3 gold, 1 silver, 0 bronze"
+        },
+        {
+          "answer": "China",
+          "display": "#13 — 2 gold, 2 silver, 4 bronze",
+          "aliases": [
+            "PRC"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/olympics/games",
+      "question": "Top 9 nations in the 2006 Winter Olympics (Turin) medal table (ranked by gold medals, then silver, then bronze)",
+      "cutoff": 9,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1348335888 | table 1 | name: Nation | value: Rank | order: asc | note: #10 is a tie (France and Netherlands, both 3-2-4), so the cutoff is #9",
+      "tags": [
+        "olympics",
+        "medals",
+        "nations",
+        "winter",
+        "2006"
+      ],
+      "answers": [
+        {
+          "answer": "Germany",
+          "display": "#1 — 11 gold, 12 silver, 6 bronze"
+        },
+        {
+          "answer": "United States",
+          "display": "#2 — 9 gold, 9 silver, 7 bronze",
+          "aliases": [
+            "USA",
+            "US",
+            "United States of America",
+            "America"
+          ]
+        },
+        {
+          "answer": "Austria",
+          "display": "#3 — 9 gold, 7 silver, 7 bronze"
+        },
+        {
+          "answer": "Russia",
+          "display": "#4 — 8 gold, 6 silver, 8 bronze"
+        },
+        {
+          "answer": "Canada",
+          "display": "#5 — 7 gold, 10 silver, 7 bronze"
+        },
+        {
+          "answer": "Sweden",
+          "display": "#6 — 7 gold, 2 silver, 5 bronze"
+        },
+        {
+          "answer": "South Korea",
+          "display": "#7 — 6 gold, 3 silver, 2 bronze",
+          "aliases": [
+            "Korea"
+          ]
+        },
+        {
+          "answer": "Switzerland",
+          "display": "#8 — 5 gold, 4 silver, 5 bronze"
+        },
+        {
+          "answer": "Italy",
+          "display": "#9 — 5 gold, 0 silver, 6 bronze"
+        },
+        {
+          "answer": "France",
+          "display": "#10 — 3 gold, 2 silver, 4 bronze"
+        },
+        {
+          "answer": "Netherlands",
+          "display": "#10 — 3 gold, 2 silver, 4 bronze",
+          "aliases": [
+            "Holland"
+          ]
+        },
+        {
+          "answer": "Estonia",
+          "display": "#12 — 3 gold, 0 silver, 0 bronze"
+        }
+      ]
+    },
+    {
+      "category": "sports/olympics/games",
+      "question": "Top 10 nations in the 2010 Winter Olympics (Vancouver) medal table (ranked by gold medals, then silver, then bronze)",
+      "cutoff": 10,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1373220261 | table 1 | name: Nation | value: Rank | order: asc",
+      "tags": [
+        "olympics",
+        "medals",
+        "nations",
+        "winter",
+        "2010"
+      ],
+      "answers": [
+        {
+          "answer": "Canada",
+          "display": "#1 — 14 gold, 7 silver, 5 bronze"
+        },
+        {
+          "answer": "Germany",
+          "display": "#2 — 10 gold, 13 silver, 7 bronze"
+        },
+        {
+          "answer": "United States",
+          "display": "#3 — 9 gold, 15 silver, 13 bronze",
+          "aliases": [
+            "USA",
+            "US",
+            "United States of America",
+            "America"
+          ]
+        },
+        {
+          "answer": "Norway",
+          "display": "#4 — 9 gold, 8 silver, 6 bronze"
+        },
+        {
+          "answer": "South Korea",
+          "display": "#5 — 6 gold, 6 silver, 2 bronze",
+          "aliases": [
+            "Korea"
+          ]
+        },
+        {
+          "answer": "Switzerland",
+          "display": "#6 — 6 gold, 0 silver, 3 bronze"
+        },
+        {
+          "answer": "Sweden",
+          "display": "#7 — 5 gold, 2 silver, 5 bronze"
+        },
+        {
+          "answer": "China",
+          "display": "#8 — 5 gold, 2 silver, 4 bronze",
+          "aliases": [
+            "PRC"
+          ]
+        },
+        {
+          "answer": "Austria",
+          "display": "#9 — 4 gold, 6 silver, 7 bronze"
+        },
+        {
+          "answer": "Netherlands",
+          "display": "#10 — 4 gold, 1 silver, 3 bronze",
+          "aliases": [
+            "Holland"
+          ]
+        },
+        {
+          "answer": "France",
+          "display": "#11 — 3 gold, 2 silver, 6 bronze"
+        },
+        {
+          "answer": "Russia",
+          "display": "#12 — 2 gold, 5 silver, 6 bronze"
+        },
+        {
+          "answer": "Australia",
+          "display": "#13 — 2 gold, 1 silver, 0 bronze"
+        }
+      ]
+    },
+    {
+      "category": "sports/olympics/games",
+      "question": "Top 10 nations in the 2014 Winter Olympics (Sochi) medal table (ranked by gold medals, then silver, then bronze)",
+      "cutoff": 10,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1348336257 | table 1 | name: NOC | value: Rank | order: asc",
+      "tags": [
+        "olympics",
+        "medals",
+        "nations",
+        "winter",
+        "2014"
+      ],
+      "answers": [
+        {
+          "answer": "Norway",
+          "display": "#1 — 11 gold, 6 silver, 10 bronze"
+        },
+        {
+          "answer": "Russia",
+          "display": "#2 — 10 gold, 10 silver, 9 bronze"
+        },
+        {
+          "answer": "Canada",
+          "display": "#3 — 10 gold, 10 silver, 5 bronze"
+        },
+        {
+          "answer": "United States",
+          "display": "#4 — 9 gold, 9 silver, 10 bronze",
+          "aliases": [
+            "USA",
+            "US",
+            "United States of America",
+            "America"
+          ]
+        },
+        {
+          "answer": "Germany",
+          "display": "#5 — 9 gold, 5 silver, 5 bronze"
+        },
+        {
+          "answer": "Netherlands",
+          "display": "#6 — 8 gold, 7 silver, 9 bronze",
+          "aliases": [
+            "Holland"
+          ]
+        },
+        {
+          "answer": "Switzerland",
+          "display": "#7 — 7 gold, 2 silver, 2 bronze"
+        },
+        {
+          "answer": "Belarus",
+          "display": "#8 — 5 gold, 0 silver, 1 bronze"
+        },
+        {
+          "answer": "Austria",
+          "display": "#9 — 4 gold, 9 silver, 4 bronze"
+        },
+        {
+          "answer": "France",
+          "display": "#10 — 4 gold, 4 silver, 7 bronze"
+        },
+        {
+          "answer": "Poland",
+          "display": "#11 — 4 gold, 1 silver, 1 bronze"
+        },
+        {
+          "answer": "China",
+          "display": "#12 — 3 gold, 4 silver, 2 bronze",
+          "aliases": [
+            "PRC"
+          ]
+        },
+        {
+          "answer": "South Korea",
+          "display": "#13 — 3 gold, 3 silver, 2 bronze",
+          "aliases": [
+            "Korea"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/olympics/games",
+      "question": "Top 10 nations in the 2018 Winter Olympics (PyeongChang) medal table (ranked by gold medals, then silver, then bronze)",
+      "cutoff": 10,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1348331807 | table 1 | name: NOC | value: Rank | order: asc",
+      "tags": [
+        "olympics",
+        "medals",
+        "nations",
+        "winter",
+        "2018"
+      ],
+      "answers": [
+        {
+          "answer": "Norway",
+          "display": "#1 — 14 gold, 14 silver, 11 bronze"
+        },
+        {
+          "answer": "Germany",
+          "display": "#2 — 14 gold, 10 silver, 7 bronze"
+        },
+        {
+          "answer": "Canada",
+          "display": "#3 — 11 gold, 8 silver, 10 bronze"
+        },
+        {
+          "answer": "United States",
+          "display": "#4 — 9 gold, 8 silver, 6 bronze",
+          "aliases": [
+            "USA",
+            "US",
+            "United States of America",
+            "America"
+          ]
+        },
+        {
+          "answer": "Netherlands",
+          "display": "#5 — 8 gold, 6 silver, 6 bronze",
+          "aliases": [
+            "Holland"
+          ]
+        },
+        {
+          "answer": "Sweden",
+          "display": "#6 — 7 gold, 6 silver, 1 bronze"
+        },
+        {
+          "answer": "South Korea",
+          "display": "#7 — 5 gold, 8 silver, 4 bronze",
+          "aliases": [
+            "Korea"
+          ]
+        },
+        {
+          "answer": "Switzerland",
+          "display": "#8 — 5 gold, 6 silver, 4 bronze"
+        },
+        {
+          "answer": "France",
+          "display": "#9 — 5 gold, 4 silver, 6 bronze"
+        },
+        {
+          "answer": "Austria",
+          "display": "#10 — 5 gold, 3 silver, 6 bronze"
+        },
+        {
+          "answer": "Japan",
+          "display": "#11 — 4 gold, 5 silver, 4 bronze"
+        },
+        {
+          "answer": "Italy",
+          "display": "#12 — 3 gold, 2 silver, 5 bronze"
+        },
+        {
+          "answer": "Olympic Athletes from Russia",
+          "display": "#13 — 2 gold, 6 silver, 9 bronze",
+          "aliases": [
+            "OAR",
+            "Russia"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/olympics/games",
+      "question": "Top 10 nations in the 2022 Winter Olympics (Beijing) medal table (ranked by gold medals, then silver, then bronze)",
+      "cutoff": 10,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1378007047 | table 1 | name: NOC | value: Rank | order: asc",
+      "tags": [
+        "olympics",
+        "medals",
+        "nations",
+        "winter",
+        "2022"
+      ],
+      "answers": [
+        {
+          "answer": "Norway",
+          "display": "#1 — 16 gold, 8 silver, 13 bronze"
+        },
+        {
+          "answer": "Germany",
+          "display": "#2 — 12 gold, 10 silver, 5 bronze"
+        },
+        {
+          "answer": "United States",
+          "display": "#3 — 9 gold, 9 silver, 7 bronze",
+          "aliases": [
+            "USA",
+            "US",
+            "United States of America",
+            "America"
+          ]
+        },
+        {
+          "answer": "China",
+          "display": "#4 — 9 gold, 4 silver, 2 bronze",
+          "aliases": [
+            "PRC"
+          ]
+        },
+        {
+          "answer": "Sweden",
+          "display": "#5 — 8 gold, 5 silver, 5 bronze"
+        },
+        {
+          "answer": "Netherlands",
+          "display": "#6 — 8 gold, 5 silver, 4 bronze",
+          "aliases": [
+            "Holland"
+          ]
+        },
+        {
+          "answer": "Austria",
+          "display": "#7 — 7 gold, 7 silver, 4 bronze"
+        },
+        {
+          "answer": "Switzerland",
+          "display": "#8 — 7 gold, 2 silver, 6 bronze"
+        },
+        {
+          "answer": "Russian Olympic Committee",
+          "display": "#9 — 5 gold, 12 silver, 15 bronze",
+          "aliases": [
+            "ROC",
+            "Russia"
+          ]
+        },
+        {
+          "answer": "France",
+          "display": "#10 — 5 gold, 7 silver, 2 bronze"
+        },
+        {
+          "answer": "Canada",
+          "display": "#11 — 4 gold, 8 silver, 14 bronze"
+        },
+        {
+          "answer": "Japan",
+          "display": "#12 — 3 gold, 7 silver, 8 bronze"
+        },
+        {
+          "answer": "Italy",
+          "display": "#13 — 2 gold, 7 silver, 8 bronze"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,535 @@
+{
+  "categories": [
+    {
+      "path": "music/albums/best-selling",
+      "name": "Best-Selling Albums"
+    },
+    {
+      "path": "music/albums/streaming",
+      "name": "Streaming Records"
+    },
+    {
+      "path": "music/albums/chart-records",
+      "name": "Chart Records"
+    }
+  ],
+  "questions": [
+    {
+      "category": "music/albums/best-selling",
+      "difficulty": 2,
+      "question": "Top 7 best-selling albums in Canada since 1995 (as of 2026)",
+      "cutoff": 7,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1371138944 | table 2 | name: Title | value: Unit sales",
+      "tags": [
+        "music",
+        "albums",
+        "sales",
+        "canada"
+      ],
+      "answers": [
+        {
+          "answer": "Come On Over",
+          "display": "Come On Over — Shania Twain, 1,948,000",
+          "aliases": [
+            "Shania Twain Come On Over"
+          ]
+        },
+        {
+          "answer": "Let's Talk About Love",
+          "display": "Let's Talk About Love — Celine Dion, 1,492,000",
+          "aliases": [
+            "Celine Dion",
+            "Celine Dion Lets Talk About Love"
+          ]
+        },
+        {
+          "answer": "21",
+          "display": "1,489,000 — 21 by Adele",
+          "aliases": [
+            "Adele 21"
+          ]
+        },
+        {
+          "answer": "Big Shiny Tunes 2",
+          "display": "1,233,000 — Big Shiny Tunes 2 by Various Artists"
+        },
+        {
+          "answer": "1",
+          "display": "1,231,000 — 1 by The Beatles",
+          "aliases": [
+            "Beatles 1",
+            "The Beatles 1",
+            "The Beatles"
+          ]
+        },
+        {
+          "answer": "Up!",
+          "display": "Up! — Shania Twain, 1,134,000",
+          "aliases": [
+            "Shania Twain Up"
+          ]
+        },
+        {
+          "answer": "Romanza",
+          "display": "Romanza — Andrea Bocelli, 1,133,000",
+          "aliases": [
+            "Andrea Bocelli"
+          ]
+        },
+        {
+          "answer": "25",
+          "display": "1,093,000 — 25 by Adele",
+          "aliases": [
+            "Adele 25"
+          ]
+        },
+        {
+          "answer": "Aquarium",
+          "display": "Aquarium — Aqua, 1,093,000",
+          "aliases": [
+            "Aqua"
+          ]
+        },
+        {
+          "answer": "Surfacing",
+          "display": "Surfacing — Sarah McLachlan, 1,078,000",
+          "aliases": [
+            "Sarah McLachlan"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "music/albums/best-selling",
+      "difficulty": 2,
+      "question": "Top 8 best-selling albums in Australia (as of 2026)",
+      "cutoff": 8,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1376394407 | table 2 | name: Album | value: Sales",
+      "tags": [
+        "music",
+        "albums",
+        "sales",
+        "australia"
+      ],
+      "answers": [
+        {
+          "answer": "Bat Out of Hell",
+          "display": "Bat Out of Hell — Meat Loaf, 1,820,000",
+          "aliases": [
+            "Meat Loaf"
+          ]
+        },
+        {
+          "answer": "Come On Over",
+          "display": "Come On Over — Shania Twain, 1,750,000",
+          "aliases": [
+            "Shania Twain"
+          ]
+        },
+        {
+          "answer": "Whispering Jack",
+          "display": "Whispering Jack — John Farnham, 1,680,000",
+          "aliases": [
+            "John Farnham"
+          ]
+        },
+        {
+          "answer": "The Eminem Show",
+          "display": "The Eminem Show — Eminem, 1,330,000",
+          "aliases": [
+            "Eminem Show",
+            "Eminem"
+          ]
+        },
+        {
+          "answer": "Gold: Greatest Hits",
+          "display": "Gold: Greatest Hits — ABBA, 1,260,000",
+          "aliases": [
+            "Gold",
+            "ABBA Gold"
+          ]
+        },
+        {
+          "answer": "Thriller",
+          "display": "Thriller — Michael Jackson, 1,190,000",
+          "aliases": [
+            "Michael Jackson"
+          ]
+        },
+        {
+          "answer": "Brothers in Arms",
+          "display": "Brothers in Arms — Dire Straits, 1,190,000",
+          "aliases": [
+            "Dire Straits"
+          ]
+        },
+        {
+          "answer": "21",
+          "display": "1,190,000 — 21 by Adele",
+          "aliases": [
+            "Adele"
+          ]
+        },
+        {
+          "answer": "The Best of ABBA",
+          "display": "The Best of ABBA — ABBA, 1,100,000",
+          "aliases": [
+            "Best of ABBA"
+          ]
+        },
+        {
+          "answer": "Greatest Hits",
+          "display": "Greatest Hits — Queen, 1,050,000",
+          "aliases": [
+            "Queen Greatest Hits",
+            "Queen"
+          ]
+        },
+        {
+          "answer": "Innocent Eyes",
+          "display": "Innocent Eyes — Delta Goodrem, 1,050,000",
+          "aliases": [
+            "Delta Goodrem"
+          ]
+        },
+        {
+          "answer": "Jagged Little Pill",
+          "display": "Jagged Little Pill — Alanis Morissette, 1,035,000",
+          "aliases": [
+            "Alanis Morissette"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "music/albums/best-selling",
+      "difficulty": 2,
+      "question": "Top 10 best-selling girl group albums worldwide (as of 2026)",
+      "cutoff": 10,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1377012453 | table 1 | name: Album | value: Sales",
+      "tags": [
+        "music",
+        "albums",
+        "sales",
+        "girl-groups"
+      ],
+      "answers": [
+        {
+          "answer": "Spice",
+          "display": "Spice — Spice Girls, 23 million",
+          "aliases": [
+            "Spice Girls Spice"
+          ]
+        },
+        {
+          "answer": "CrazySexyCool",
+          "display": "CrazySexyCool — TLC, 15 million",
+          "aliases": [
+            "Crazy Sexy Cool",
+            "TLC CrazySexyCool"
+          ]
+        },
+        {
+          "answer": "Spiceworld",
+          "display": "Spiceworld — Spice Girls, 14 million",
+          "aliases": [
+            "Spice Girls Spiceworld"
+          ]
+        },
+        {
+          "answer": "The Writing's on the Wall",
+          "display": "The Writing's on the Wall — Destiny's Child, 13 million",
+          "aliases": [
+            "Writing's on the Wall",
+            "Destiny's Child Writing's on the Wall"
+          ]
+        },
+        {
+          "answer": "FanMail",
+          "display": "FanMail — TLC, 10 million",
+          "aliases": [
+            "Fan Mail",
+            "TLC FanMail"
+          ]
+        },
+        {
+          "answer": "Survivor",
+          "display": "Survivor — Destiny's Child, 10 million",
+          "aliases": [
+            "Destiny's Child Survivor"
+          ]
+        },
+        {
+          "answer": "PCD",
+          "display": "PCD — Pussycat Dolls, 9 million",
+          "aliases": [
+            "Pussycat Dolls"
+          ]
+        },
+        {
+          "answer": "Wilson Phillips",
+          "display": "Wilson Phillips — Wilson Phillips, 8 million"
+        },
+        {
+          "answer": "Very Necessary",
+          "display": "Very Necessary — Salt-N-Pepa, 7 million",
+          "aliases": [
+            "Salt-N-Pepa"
+          ]
+        },
+        {
+          "answer": "Destiny Fulfilled",
+          "display": "Destiny Fulfilled — Destiny's Child, 7 million",
+          "aliases": [
+            "Destiny's Child Destiny Fulfilled"
+          ]
+        },
+        {
+          "answer": "Ooooooohhh... On the TLC Tip",
+          "display": "Ooooooohhh... On the TLC Tip — TLC, 6 million",
+          "aliases": [
+            "On the TLC Tip",
+            "TLC On the TLC Tip"
+          ]
+        },
+        {
+          "answer": "Funky Divas",
+          "display": "Funky Divas — En Vogue, 5 million",
+          "aliases": [
+            "En Vogue"
+          ]
+        },
+        {
+          "answer": "All Saints",
+          "display": "All Saints — All Saints, 5 million"
+        }
+      ]
+    },
+    {
+      "category": "music/albums/streaming",
+      "difficulty": 2,
+      "question": "Top 10 albums with the most Spotify streams in a single week (as of 2026)",
+      "cutoff": 10,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1379646510 | table 27 | name: Album | value: Streams",
+      "tags": [
+        "music",
+        "albums",
+        "streaming",
+        "spotify"
+      ],
+      "answers": [
+        {
+          "answer": "The Tortured Poets Department",
+          "display": "The Tortured Poets Department — Taylor Swift, 1,173,127,225 streams",
+          "aliases": [
+            "TTPD",
+            "Tortured Poets",
+            "Tortured Poets Department"
+          ]
+        },
+        {
+          "answer": "The Life of a Showgirl",
+          "display": "The Life of a Showgirl — Taylor Swift, 887,338,234 streams",
+          "aliases": [
+            "Life of a Showgirl",
+            "Showgirl"
+          ]
+        },
+        {
+          "answer": "Midnights",
+          "display": "Midnights — Taylor Swift, 776,481,256 streams",
+          "aliases": [
+            "Taylor Swift Midnights"
+          ]
+        },
+        {
+          "answer": "Un Verano Sin Ti",
+          "display": "Un Verano Sin Ti — Bad Bunny, 618,159,971 streams",
+          "aliases": [
+            "Un Verano",
+            "Bad Bunny Un Verano Sin Ti"
+          ]
+        },
+        {
+          "answer": "Debí Tirar Más Fotos",
+          "display": "Debí Tirar Más Fotos — Bad Bunny, 579,245,938 streams",
+          "aliases": [
+            "Debi Tirar Mas Fotos",
+            "Bad Bunny Debi Tirar Mas Fotos"
+          ]
+        },
+        {
+          "answer": "1989 (Taylor's Version)",
+          "display": "572,430,422 streams — 1989 (Taylor's Version) by Taylor Swift",
+          "aliases": [
+            "1989",
+            "1989 Taylor's Version"
+          ]
+        },
+        {
+          "answer": "Scorpion",
+          "display": "Scorpion — Drake, 559,021,928 streams"
+        },
+        {
+          "answer": "Arirang",
+          "display": "Arirang — BTS, 525,597,827 streams",
+          "aliases": [
+            "BTS"
+          ]
+        },
+        {
+          "answer": "Certified Lover Boy",
+          "display": "Certified Lover Boy — Drake, 497,083,050 streams",
+          "aliases": [
+            "Certified Lover Boy Drake"
+          ]
+        },
+        {
+          "answer": "Music",
+          "display": "Music — Playboi Carti, 490,000,000 streams",
+          "aliases": [
+            "Playboi Carti"
+          ]
+        },
+        {
+          "answer": "Nadie Sabe Lo Que Va a Pasar Mañana",
+          "display": "Nadie Sabe Lo Que Va a Pasar Mañana — Bad Bunny, 472,940,605 streams",
+          "aliases": [
+            "Nadie Sabe",
+            "Bad Bunny Nadie Sabe"
+          ]
+        },
+        {
+          "answer": "Utopia",
+          "display": "Utopia — Travis Scott, 456,734,411 streams",
+          "aliases": [
+            "Travis Scott"
+          ]
+        },
+        {
+          "answer": "Iceman",
+          "display": "Iceman — Drake, 450,454,115 streams",
+          "aliases": [
+            "Iceman Drake"
+          ]
+        },
+        {
+          "answer": "Harry's House",
+          "display": "Harry's House — Harry Styles, 434,429,007 streams",
+          "aliases": [
+            "Harry Styles"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "music/albums/chart-records",
+      "difficulty": 2,
+      "question": "Top 7 albums with the most weeks at No. 1 on the Billboard 200 in the 2020s (as of 2026)",
+      "cutoff": 7,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1379752261 | table 4 | name: Album | value: Weeks at",
+      "tags": [
+        "music",
+        "albums",
+        "billboard",
+        "number-ones"
+      ],
+      "answers": [
+        {
+          "answer": "One Thing at a Time",
+          "display": "One Thing at a Time — Morgan Wallen, 19 weeks",
+          "aliases": [
+            "Morgan Wallen One Thing at a Time"
+          ]
+        },
+        {
+          "answer": "The Tortured Poets Department",
+          "display": "The Tortured Poets Department — Taylor Swift, 17 weeks",
+          "aliases": [
+            "TTPD",
+            "Tortured Poets"
+          ]
+        },
+        {
+          "answer": "I'm the Problem",
+          "display": "I'm the Problem — Morgan Wallen, 14 weeks",
+          "aliases": [
+            "Morgan Wallen I'm the Problem"
+          ]
+        },
+        {
+          "answer": "The Life of a Showgirl",
+          "display": "The Life of a Showgirl — Taylor Swift, 14 weeks",
+          "aliases": [
+            "Life of a Showgirl",
+            "Showgirl"
+          ]
+        },
+        {
+          "answer": "SOS",
+          "display": "SOS — SZA, 13 weeks",
+          "aliases": [
+            "SZA"
+          ]
+        },
+        {
+          "answer": "Un Verano Sin Ti",
+          "display": "Un Verano Sin Ti — Bad Bunny, 13 weeks",
+          "aliases": [
+            "Un Verano",
+            "Bad Bunny"
+          ]
+        },
+        {
+          "answer": "Dangerous: The Double Album",
+          "display": "Dangerous: The Double Album — Morgan Wallen, 10 weeks",
+          "aliases": [
+            "Dangerous"
+          ]
+        },
+        {
+          "answer": "Encanto",
+          "display": "Encanto — Various Artists, 9 weeks",
+          "aliases": [
+            "Encanto Soundtrack"
+          ]
+        },
+        {
+          "answer": "Folklore",
+          "display": "Folklore — Taylor Swift, 8 weeks",
+          "aliases": [
+            "Taylor Swift Folklore"
+          ]
+        },
+        {
+          "answer": "30",
+          "display": "6 weeks — 30 by Adele",
+          "aliases": [
+            "Adele",
+            "Adele 30"
+          ]
+        },
+        {
+          "answer": "Midnights",
+          "display": "Midnights — Taylor Swift, 6 weeks",
+          "aliases": [
+            "Taylor Swift Midnights"
+          ]
+        },
+        {
+          "answer": "1989 (Taylor's Version)",
+          "display": "6 weeks — 1989 (Taylor's Version) by Taylor Swift",
+          "aliases": [
+            "1989",
+            "Taylor Swift 1989"
+          ]
+        }
+      ]
+    }
+  ]
+}

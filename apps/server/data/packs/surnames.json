@@ -1,0 +1,772 @@
+{
+  "categories": [
+    {
+      "path": "people/surnames",
+      "name": "Surnames"
+    }
+  ],
+  "questions": [
+    {
+      "category": "people/surnames",
+      "question": "Top 10 most common US surnames (2020 census)",
+      "cutoff": 10,
+      "difficulty": 1,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1377792522 | table 10 | name: Name | value: Count 2020",
+      "tags": [
+        "surnames",
+        "united states",
+        "census"
+      ],
+      "answers": [
+        {
+          "answer": "Smith",
+          "display": "2,369,644 people"
+        },
+        {
+          "answer": "Johnson",
+          "display": "1,858,234 people"
+        },
+        {
+          "answer": "Williams",
+          "display": "1,561,395 people"
+        },
+        {
+          "answer": "Brown",
+          "display": "1,386,083 people"
+        },
+        {
+          "answer": "Jones",
+          "display": "1,383,250 people"
+        },
+        {
+          "answer": "Garcia",
+          "display": "1,149,510 people"
+        },
+        {
+          "answer": "Miller",
+          "display": "1,129,186 people"
+        },
+        {
+          "answer": "Rodriguez",
+          "display": "1,085,838 people"
+        },
+        {
+          "answer": "Davis",
+          "display": "1,074,448 people"
+        },
+        {
+          "answer": "Martinez",
+          "display": "1,039,848 people"
+        },
+        {
+          "answer": "Hernandez",
+          "display": "1,013,895 people"
+        },
+        {
+          "answer": "Lopez",
+          "display": "878,958 people"
+        },
+        {
+          "answer": "Gonzalez",
+          "display": "828,405 people"
+        },
+        {
+          "answer": "Wilson",
+          "display": "777,275 people"
+        },
+        {
+          "answer": "Anderson",
+          "display": "756,560 people"
+        }
+      ]
+    },
+    {
+      "category": "people/surnames",
+      "question": "Top 10 most common Chinese surnames by number of people in China (2018)",
+      "cutoff": 10,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1377791933 | table 5 | name: Romanization | value: Total number",
+      "tags": [
+        "surnames",
+        "china"
+      ],
+      "answers": [
+        {
+          "answer": "Wang",
+          "display": "101,500,000 people"
+        },
+        {
+          "answer": "Li",
+          "display": "100,900,000 people",
+          "aliases": [
+            "Lee"
+          ]
+        },
+        {
+          "answer": "Zhang",
+          "display": "95,400,000 people",
+          "aliases": [
+            "Cheung"
+          ]
+        },
+        {
+          "answer": "Liu",
+          "display": "72,100,000 people",
+          "aliases": [
+            "Lau"
+          ]
+        },
+        {
+          "answer": "Chen",
+          "display": "63,000,000 people",
+          "aliases": [
+            "Chan"
+          ]
+        },
+        {
+          "answer": "Yang",
+          "display": "46,200,000 people",
+          "aliases": [
+            "Yeung"
+          ]
+        },
+        {
+          "answer": "Huang",
+          "display": "33,700,000 people"
+        },
+        {
+          "answer": "Zhao",
+          "display": "28,600,000 people",
+          "aliases": [
+            "Chiu"
+          ]
+        },
+        {
+          "answer": "Wu",
+          "display": "27,800,000 people",
+          "aliases": [
+            "Ng"
+          ]
+        },
+        {
+          "answer": "Zhou",
+          "display": "26,800,000 people",
+          "aliases": [
+            "Chow"
+          ]
+        },
+        {
+          "answer": "Xu",
+          "display": "20,200,000 people",
+          "aliases": [
+            "Tsui"
+          ]
+        },
+        {
+          "answer": "Sun",
+          "display": "19,400,000 people",
+          "aliases": [
+            "Suen"
+          ]
+        },
+        {
+          "answer": "Ma",
+          "display": "19,100,000 people"
+        },
+        {
+          "answer": "Zhu",
+          "display": "18,100,000 people",
+          "aliases": [
+            "Chu"
+          ]
+        },
+        {
+          "answer": "Hu",
+          "display": "16,500,000 people"
+        }
+      ]
+    },
+    {
+      "category": "people/surnames",
+      "question": "Top 10 most common Filipino surnames (2014 estimate)",
+      "cutoff": 10,
+      "difficulty": 3,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1377791933 | table 14 | name: Name | value: Occurrence",
+      "tags": [
+        "surnames",
+        "philippines"
+      ],
+      "answers": [
+        {
+          "answer": "dela Cruz",
+          "display": "625,640 people",
+          "aliases": [
+            "de la Cruz"
+          ]
+        },
+        {
+          "answer": "Garcia",
+          "display": "441,075 people"
+        },
+        {
+          "answer": "Reyes",
+          "display": "412,750 people"
+        },
+        {
+          "answer": "Ramos",
+          "display": "375,999 people"
+        },
+        {
+          "answer": "Mendoza",
+          "display": "372,042 people"
+        },
+        {
+          "answer": "Santos",
+          "display": "342,746 people"
+        },
+        {
+          "answer": "Flores",
+          "display": "312,187 people"
+        },
+        {
+          "answer": "Gonzales",
+          "display": "293,787 people",
+          "aliases": [
+            "Gonzalez"
+          ]
+        },
+        {
+          "answer": "Bautista",
+          "display": "287,625 people"
+        },
+        {
+          "answer": "Villanueva",
+          "display": "277,730 people"
+        },
+        {
+          "answer": "Fernandez",
+          "display": "269,820 people"
+        },
+        {
+          "answer": "Cruz",
+          "display": "262,822 people"
+        },
+        {
+          "answer": "de Guzman",
+          "display": "249,319 people"
+        },
+        {
+          "answer": "Lopez",
+          "display": "230,958 people"
+        },
+        {
+          "answer": "Perez",
+          "display": "220,113 people"
+        }
+      ]
+    },
+    {
+      "category": "people/surnames",
+      "question": "Top 10 most common Japanese surnames by number of people (2008 estimates)",
+      "cutoff": 10,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1377792037 | table 1 | name: Romaji | value: Numbers | header rows: 2",
+      "tags": [
+        "surnames",
+        "japan"
+      ],
+      "answers": [
+        {
+          "answer": "Sato",
+          "display": "1,990,000 people"
+        },
+        {
+          "answer": "Suzuki",
+          "display": "1,900,000 people"
+        },
+        {
+          "answer": "Takahashi",
+          "display": "1,470,000 people"
+        },
+        {
+          "answer": "Tanaka",
+          "display": "1,340,000 people"
+        },
+        {
+          "answer": "Watanabe",
+          "display": "1,200,000 people"
+        },
+        {
+          "answer": "Ito",
+          "display": "1,150,000 people"
+        },
+        {
+          "answer": "Nakamura",
+          "display": "1,080,000 people"
+        },
+        {
+          "answer": "Kobayashi",
+          "display": "1,060,000 people"
+        },
+        {
+          "answer": "Yamamoto",
+          "display": "1,020,000 people"
+        },
+        {
+          "answer": "Kato",
+          "display": "920,000 people"
+        },
+        {
+          "answer": "Yoshida",
+          "display": "850,000 people"
+        },
+        {
+          "answer": "Yamada",
+          "display": "820,000 people"
+        },
+        {
+          "answer": "Sasaki",
+          "display": "710,000 people"
+        },
+        {
+          "answer": "Yamaguchi",
+          "display": "640,000 people"
+        },
+        {
+          "answer": "Matsumoto",
+          "display": "630,000 people"
+        }
+      ]
+    },
+    {
+      "category": "people/surnames",
+      "question": "Top 10 most common Korean family names by number of people (2015)",
+      "cutoff": 10,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1377792072 | table 1 | name: MR | value: Population",
+      "tags": [
+        "surnames",
+        "korea"
+      ],
+      "answers": [
+        {
+          "answer": "Kim",
+          "display": "10,689,967 people"
+        },
+        {
+          "answer": "Lee",
+          "display": "7,307,237 people",
+          "aliases": [
+            "Yi",
+            "Rhee",
+            "I"
+          ]
+        },
+        {
+          "answer": "Park",
+          "display": "4,192,080 people",
+          "aliases": [
+            "Pak",
+            "Bak"
+          ]
+        },
+        {
+          "answer": "Jung",
+          "display": "2,407,601 people",
+          "aliases": [
+            "Jeong",
+            "Chŏng",
+            "Chung"
+          ]
+        },
+        {
+          "answer": "Choi",
+          "display": "2,340,582 people",
+          "aliases": [
+            "Choe",
+            "Choy"
+          ]
+        },
+        {
+          "answer": "Cho",
+          "display": "1,453,971 people",
+          "aliases": [
+            "Jo"
+          ]
+        },
+        {
+          "answer": "Kang",
+          "display": "1,269,290 people",
+          "aliases": [
+            "Gang"
+          ]
+        },
+        {
+          "answer": "Jang",
+          "display": "1,021,107 people",
+          "aliases": [
+            "Chang"
+          ]
+        },
+        {
+          "answer": "Yoon",
+          "display": "1,020,564 people",
+          "aliases": [
+            "Yun"
+          ]
+        },
+        {
+          "answer": "Lim",
+          "display": "1,015,200 people",
+          "aliases": [
+            "Im",
+            "Rim"
+          ]
+        },
+        {
+          "answer": "Shin",
+          "display": "986,001 people",
+          "aliases": [
+            "Sin"
+          ]
+        },
+        {
+          "answer": "Yu",
+          "display": "963,498 people",
+          "aliases": [
+            "Yoo"
+          ]
+        },
+        {
+          "answer": "Han",
+          "display": "773,537 people"
+        },
+        {
+          "answer": "Oh",
+          "display": "763,334 people",
+          "aliases": [
+            "O"
+          ]
+        },
+        {
+          "answer": "Seo",
+          "display": "752,233 people",
+          "aliases": [
+            "Suh",
+            "Sŏ"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "people/surnames",
+      "question": "Top 9 most common Vietnamese surnames by share of the population (2022)",
+      "cutoff": 9,
+      "difficulty": 3,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1379701508 | table 2 | name: Surname | value: Percentage | where: Surname!=Other",
+      "tags": [
+        "surnames",
+        "vietnam"
+      ],
+      "answers": [
+        {
+          "answer": "Nguyen",
+          "display": "31.5%"
+        },
+        {
+          "answer": "Tran",
+          "display": "10.9%"
+        },
+        {
+          "answer": "Le",
+          "display": "8.9%"
+        },
+        {
+          "answer": "Pham",
+          "display": "5.9%"
+        },
+        {
+          "answer": "Hoang",
+          "display": "5.1%",
+          "aliases": [
+            "Huynh",
+            "Huỳnh"
+          ]
+        },
+        {
+          "answer": "Vu",
+          "display": "4.9%",
+          "aliases": [
+            "Vo"
+          ]
+        },
+        {
+          "answer": "Phan",
+          "display": "2.8%"
+        },
+        {
+          "answer": "Truong",
+          "display": "2.2%"
+        },
+        {
+          "answer": "Bui",
+          "display": "2.1%"
+        },
+        {
+          "answer": "Do",
+          "display": "1.9%",
+          "aliases": [
+            "Đỗ"
+          ]
+        },
+        {
+          "answer": "Dang",
+          "display": "1.9%",
+          "aliases": [
+            "Đặng"
+          ]
+        },
+        {
+          "answer": "Ngo",
+          "display": "1.7%"
+        },
+        {
+          "answer": "Ho",
+          "display": "1.5%"
+        },
+        {
+          "answer": "Duong",
+          "display": "1.4%"
+        }
+      ]
+    },
+    {
+      "category": "people/surnames",
+      "question": "Top 10 most common Spanish surnames by number of people (1999)",
+      "cutoff": 10,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1378859370 | table 45 | name: Surname | value: 3",
+      "tags": [
+        "surnames",
+        "spain"
+      ],
+      "answers": [
+        {
+          "answer": "Garcia",
+          "display": "1,378,000 people"
+        },
+        {
+          "answer": "Fernandez",
+          "display": "851,000 people"
+        },
+        {
+          "answer": "Gonzalez",
+          "display": "839,000 people"
+        },
+        {
+          "answer": "Rodriguez",
+          "display": "804,000 people"
+        },
+        {
+          "answer": "Lopez",
+          "display": "796,000 people"
+        },
+        {
+          "answer": "Martinez",
+          "display": "788,000 people"
+        },
+        {
+          "answer": "Sanchez",
+          "display": "725,000 people"
+        },
+        {
+          "answer": "Perez",
+          "display": "709,000 people"
+        },
+        {
+          "answer": "Martin",
+          "display": "459,000 people"
+        },
+        {
+          "answer": "Gomez",
+          "display": "440,000 people"
+        },
+        {
+          "answer": "Ruiz",
+          "display": "321,000 people"
+        },
+        {
+          "answer": "Hernandez",
+          "display": "305,000 people"
+        },
+        {
+          "answer": "Jimenez",
+          "display": "293,000 people"
+        },
+        {
+          "answer": "Diaz",
+          "display": "293,000 people"
+        },
+        {
+          "answer": "Alvarez",
+          "display": "273,000 people"
+        }
+      ]
+    },
+    {
+      "category": "people/surnames",
+      "question": "Top 10 most common Italian surnames by estimated number of families",
+      "cutoff": 10,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1378859370 | table 25 | name: Surname | value: Frequency",
+      "tags": [
+        "surnames",
+        "italy"
+      ],
+      "answers": [
+        {
+          "answer": "Rossi",
+          "display": "60,487 families"
+        },
+        {
+          "answer": "Russo",
+          "display": "42,877 families"
+        },
+        {
+          "answer": "Ferrari",
+          "display": "33,707 families"
+        },
+        {
+          "answer": "Esposito",
+          "display": "31,980 families"
+        },
+        {
+          "answer": "Bianchi",
+          "display": "25,121 families"
+        },
+        {
+          "answer": "Romano",
+          "display": "24,062 families"
+        },
+        {
+          "answer": "Colombo",
+          "display": "23,484 families"
+        },
+        {
+          "answer": "Bruno",
+          "display": "20,509 families"
+        },
+        {
+          "answer": "Ricci",
+          "display": "19,879 families"
+        },
+        {
+          "answer": "Greco",
+          "display": "18,225 families"
+        },
+        {
+          "answer": "Marino",
+          "display": "17,939 families"
+        },
+        {
+          "answer": "Gallo",
+          "display": "17,622 families"
+        },
+        {
+          "answer": "De Luca",
+          "display": "17,438 families"
+        },
+        {
+          "answer": "Conti",
+          "display": "17,173 families"
+        },
+        {
+          "answer": "Costa",
+          "display": "16,875 families"
+        }
+      ]
+    },
+    {
+      "category": "people/surnames",
+      "question": "Top 10 most common Australian surnames by number of people (2007)",
+      "cutoff": 10,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1377792153 | table 1 | name: Name | value: Number of people",
+      "tags": [
+        "surnames",
+        "australia"
+      ],
+      "answers": [
+        {
+          "answer": "Smith",
+          "display": "114,997 people"
+        },
+        {
+          "answer": "Jones",
+          "display": "55,679 people"
+        },
+        {
+          "answer": "Williams",
+          "display": "55,555 people"
+        },
+        {
+          "answer": "Brown",
+          "display": "54,896 people"
+        },
+        {
+          "answer": "Wilson",
+          "display": "46,961 people"
+        },
+        {
+          "answer": "Taylor",
+          "display": "45,328 people"
+        },
+        {
+          "answer": "Johnson",
+          "display": "33,435 people"
+        },
+        {
+          "answer": "White",
+          "display": "31,099 people"
+        },
+        {
+          "answer": "Martin",
+          "display": "31,058 people"
+        },
+        {
+          "answer": "Singh",
+          "display": "30,911 people"
+        },
+        {
+          "answer": "Thompson",
+          "display": "29,931 people"
+        },
+        {
+          "answer": "Nguyen",
+          "display": "29,798 people"
+        },
+        {
+          "answer": "Turner",
+          "display": "27,276 people"
+        },
+        {
+          "answer": "Walker",
+          "display": "26,688 people"
+        },
+        {
+          "answer": "Harris",
+          "display": "26,025 people"
+        }
+      ]
+    }
+  ]
+}

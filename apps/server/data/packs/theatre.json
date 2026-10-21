@@ -1,0 +1,453 @@
+{
+  "categories": [
+    {
+      "path": "arts/theatre",
+      "name": "Theatre"
+    },
+    {
+      "path": "arts/theatre/broadway",
+      "name": "Broadway"
+    },
+    {
+      "path": "arts/theatre/west-end",
+      "name": "West End"
+    },
+    {
+      "path": "arts/theatre/venues",
+      "name": "Theatre Venues"
+    }
+  ],
+  "questions": [
+    {
+      "category": "arts/theatre/broadway",
+      "question": "Top 10 longest-running Broadway productions by performances (as of October 2026)",
+      "cutoff": 10,
+      "difficulty": 1,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1379584899 | table 1 | name: Title | value: Performances",
+      "tags": [
+        "theatre",
+        "broadway",
+        "longest-running"
+      ],
+      "answers": [
+        {
+          "answer": "The Phantom of the Opera",
+          "display": "13,981 performances",
+          "aliases": [
+            "Phantom"
+          ]
+        },
+        {
+          "answer": "Chicago",
+          "display": "11,792 performances (1996 revival)"
+        },
+        {
+          "answer": "The Lion King",
+          "display": "11,417 performances",
+          "aliases": [
+            "Lion King"
+          ]
+        },
+        {
+          "answer": "Wicked",
+          "display": "8,955 performances"
+        },
+        {
+          "answer": "Cats",
+          "display": "7,485 performances"
+        },
+        {
+          "answer": "Les Misérables",
+          "display": "6,680 performances",
+          "aliases": [
+            "Les Mis",
+            "Les Miserables"
+          ]
+        },
+        {
+          "answer": "A Chorus Line",
+          "display": "6,137 performances"
+        },
+        {
+          "answer": "Oh! Calcutta!",
+          "display": "5,959 performances (1976 revival)"
+        },
+        {
+          "answer": "The Book of Mormon",
+          "display": "5,779 performances",
+          "aliases": [
+            "Book of Mormon"
+          ]
+        },
+        {
+          "answer": "Mamma Mia!",
+          "display": "5,758 performances"
+        },
+        {
+          "answer": "Beauty and the Beast",
+          "display": "5,462 performances"
+        },
+        {
+          "answer": "Rent",
+          "display": "5,123 performances"
+        },
+        {
+          "answer": "Jersey Boys",
+          "display": "4,642 performances"
+        },
+        {
+          "answer": "Aladdin",
+          "display": "4,581 performances"
+        }
+      ]
+    },
+    {
+      "category": "arts/theatre/west-end",
+      "question": "Top 10 longest-running West End shows by performances (as of October 2026)",
+      "cutoff": 10,
+      "difficulty": 1,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1379736390 | table 1 | name: Title | value: Performances",
+      "tags": [
+        "theatre",
+        "west-end",
+        "longest-running"
+      ],
+      "answers": [
+        {
+          "answer": "The Mousetrap",
+          "display": "30,000 performances",
+          "aliases": [
+            "Mousetrap"
+          ]
+        },
+        {
+          "answer": "Les Misérables",
+          "display": "16,200 performances",
+          "aliases": [
+            "Les Mis",
+            "Les Miserables"
+          ]
+        },
+        {
+          "answer": "The Phantom of the Opera",
+          "display": "15,237 performances",
+          "aliases": [
+            "Phantom"
+          ]
+        },
+        {
+          "answer": "The Woman in Black",
+          "display": "13,232 performances",
+          "aliases": [
+            "Woman in Black"
+          ]
+        },
+        {
+          "answer": "Mamma Mia!",
+          "display": "10,800 performances"
+        },
+        {
+          "answer": "The Lion King",
+          "display": "10,600 performances",
+          "aliases": [
+            "Lion King"
+          ]
+        },
+        {
+          "answer": "Blood Brothers",
+          "display": "revival, 10,013 performances"
+        },
+        {
+          "answer": "Cats",
+          "display": "8,949 performances"
+        },
+        {
+          "answer": "Wicked",
+          "display": "7,500 performances"
+        },
+        {
+          "answer": "Starlight Express",
+          "display": "7,406 performances"
+        },
+        {
+          "answer": "No Sex Please, We're British",
+          "display": "6,761 performances"
+        },
+        {
+          "answer": "Stomp",
+          "display": "6,512 performances"
+        },
+        {
+          "answer": "Chicago",
+          "display": "6,187 performances (1997 revival)"
+        }
+      ]
+    },
+    {
+      "category": "arts/theatre/west-end",
+      "question": "Top 10 longest-running West End shows that opened in 1999 or later (as of October 2026)",
+      "cutoff": 10,
+      "difficulty": 1,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1379736390 | table 1 | name: Title | value: Performances | where: Opening date~(1999|20[0-9][0-9])$",
+      "tags": [
+        "theatre",
+        "west-end",
+        "longest-running"
+      ],
+      "answers": [
+        {
+          "answer": "Mamma Mia!",
+          "display": "10,800 performances"
+        },
+        {
+          "answer": "The Lion King",
+          "display": "10,600 performances",
+          "aliases": [
+            "Lion King"
+          ]
+        },
+        {
+          "answer": "Wicked",
+          "display": "7,500 performances"
+        },
+        {
+          "answer": "Stomp",
+          "display": "6,512 performances"
+        },
+        {
+          "answer": "Matilda the Musical",
+          "display": "5,500 performances",
+          "aliases": [
+            "Matilda"
+          ]
+        },
+        {
+          "answer": "We Will Rock You",
+          "display": "4,659 performances"
+        },
+        {
+          "answer": "Thriller - Live",
+          "display": "4,657 performances"
+        },
+        {
+          "answer": "Billy Elliot the Musical",
+          "display": "4,566 performances",
+          "aliases": [
+            "Billy Elliot"
+          ]
+        },
+        {
+          "answer": "The Book of Mormon",
+          "display": "4,345 performances",
+          "aliases": [
+            "Book of Mormon"
+          ]
+        },
+        {
+          "answer": "The Play That Goes Wrong",
+          "display": "4,001 performances"
+        },
+        {
+          "answer": "Jersey Boys",
+          "display": "3,787 performances"
+        },
+        {
+          "answer": "The 39 Steps",
+          "display": "3,731 performances"
+        },
+        {
+          "answer": "Magic Mike Live",
+          "display": "3,183 performances"
+        }
+      ]
+    },
+    {
+      "category": "arts/theatre/broadway",
+      "question": "Top 10 highest-grossing Broadway shows since 1982 (as of September 2026)",
+      "cutoff": 10,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1377292443 | table 1 | name: Musical | value: Gross revenue | header rows: 2",
+      "tags": [
+        "theatre",
+        "broadway",
+        "box-office"
+      ],
+      "answers": [
+        {
+          "answer": "The Lion King",
+          "display": "$2,206,140,004",
+          "aliases": [
+            "Lion King"
+          ]
+        },
+        {
+          "answer": "Wicked",
+          "display": "$1,880,811,260"
+        },
+        {
+          "answer": "The Phantom of the Opera",
+          "display": "$1,364,632,622",
+          "aliases": [
+            "Phantom"
+          ]
+        },
+        {
+          "answer": "Hamilton: An American Musical",
+          "display": "$1,200,019,573",
+          "aliases": [
+            "Hamilton"
+          ]
+        },
+        {
+          "answer": "The Book of Mormon",
+          "display": "$907,245,130",
+          "aliases": [
+            "Book of Mormon"
+          ]
+        },
+        {
+          "answer": "Chicago",
+          "display": "$873,751,483"
+        },
+        {
+          "answer": "Aladdin",
+          "display": "$806,133,342"
+        },
+        {
+          "answer": "Mamma Mia!",
+          "display": "$670,150,538"
+        },
+        {
+          "answer": "Jersey Boys",
+          "display": "$558,416,092"
+        },
+        {
+          "answer": "Les Misérables",
+          "display": "$514,794,489",
+          "aliases": [
+            "Les Mis",
+            "Les Miserables"
+          ]
+        },
+        {
+          "answer": "Beauty and the Beast",
+          "display": "$429,158,458"
+        },
+        {
+          "answer": "Cats",
+          "display": "$421,124,026"
+        },
+        {
+          "answer": "Moulin Rouge! The Musical",
+          "display": "$383,859,307",
+          "aliases": [
+            "Moulin Rouge"
+          ]
+        },
+        {
+          "answer": "Harry Potter and the Cursed Child",
+          "display": "$364,454,806",
+          "aliases": [
+            "Cursed Child",
+            "Harry Potter"
+          ]
+        },
+        {
+          "answer": "MJ the Musical",
+          "display": "$360,683,424",
+          "aliases": [
+            "MJ"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "arts/theatre/venues",
+      "question": "Top 10 largest West End theatres by seating capacity (as of October 2026)",
+      "cutoff": 10,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1379725218 | table 1 | name: Theatre | value: Capacity",
+      "tags": [
+        "theatre",
+        "west-end",
+        "venues"
+      ],
+      "answers": [
+        {
+          "answer": "Apollo Victoria Theatre",
+          "display": "2,328 seats",
+          "aliases": [
+            "Apollo Victoria"
+          ]
+        },
+        {
+          "answer": "London Palladium",
+          "display": "2,286 seats",
+          "aliases": [
+            "Palladium"
+          ]
+        },
+        {
+          "answer": "Dominion Theatre",
+          "display": "2,163 seats"
+        },
+        {
+          "answer": "Lyceum Theatre",
+          "display": "2,100 seats"
+        },
+        {
+          "answer": "Theatre Royal, Drury Lane",
+          "display": "1,996 seats",
+          "aliases": [
+            "Drury Lane"
+          ]
+        },
+        {
+          "answer": "Prince Edward Theatre",
+          "display": "1,727 seats"
+        },
+        {
+          "answer": "Victoria Palace Theatre",
+          "display": "1,557 seats"
+        },
+        {
+          "answer": "Adelphi Theatre",
+          "display": "1,500 seats"
+        },
+        {
+          "answer": "Shaftesbury Theatre",
+          "display": "1,416 seats"
+        },
+        {
+          "answer": "Palace Theatre",
+          "display": "1,400 seats"
+        },
+        {
+          "answer": "Piccadilly Theatre",
+          "display": "1,232 seats"
+        },
+        {
+          "answer": "Cambridge Theatre",
+          "display": "1,231 seats"
+        },
+        {
+          "answer": "His Majesty's Theatre",
+          "display": "1,216 seats"
+        },
+        {
+          "answer": "Aldwych Theatre",
+          "display": "1,200 seats"
+        },
+        {
+          "answer": "Savoy Theatre",
+          "display": "1,150 seats"
+        }
+      ]
+    }
+  ]
+}

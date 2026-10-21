@@ -1,0 +1,224 @@
+{
+  "categories": [
+    {
+      "path": "geography/cities/by-country",
+      "name": "Largest Cities by Country"
+    }
+  ],
+  "questions": [
+    {
+      "category": "geography/cities/by-country",
+      "difficulty": 2,
+      "question": "Top 10 largest cities in the Netherlands by city-proper population (2024 data)",
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1370764685 | table 1 | name: Municipality | value: Population",
+      "tags": [
+        "geography",
+        "cities",
+        "netherlands",
+        "population"
+      ],
+      "answers": [
+        {
+          "answer": "Amsterdam",
+          "display": "931,298 people"
+        },
+        {
+          "answer": "Rotterdam",
+          "display": "670,610 people"
+        },
+        {
+          "answer": "The Hague",
+          "display": "566,221 people",
+          "aliases": [
+            "Den Haag",
+            "'s-Gravenhage"
+          ]
+        },
+        {
+          "answer": "Utrecht",
+          "display": "374,238 people"
+        },
+        {
+          "answer": "Eindhoven",
+          "display": "246,417 people"
+        },
+        {
+          "answer": "Groningen",
+          "display": "243,768 people"
+        },
+        {
+          "answer": "Tilburg",
+          "display": "229,836 people"
+        },
+        {
+          "answer": "Almere",
+          "display": "226,500 people"
+        },
+        {
+          "answer": "Breda",
+          "display": "188,078 people"
+        },
+        {
+          "answer": "Nijmegen",
+          "display": "187,049 people"
+        },
+        {
+          "answer": "Apeldoorn",
+          "display": "168,211 people"
+        },
+        {
+          "answer": "Haarlem",
+          "display": "167,636 people"
+        },
+        {
+          "answer": "Arnhem",
+          "display": "167,632 people"
+        }
+      ]
+    },
+    {
+      "category": "geography/cities/by-country",
+      "difficulty": 2,
+      "question": "Top 10 largest cities in Austria by city-proper population (2025 data)",
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1360296349 | table 1 | name: Name | value: Population (2025)",
+      "tags": [
+        "geography",
+        "cities",
+        "austria",
+        "population"
+      ],
+      "answers": [
+        {
+          "answer": "Vienna",
+          "display": "2,028,289 people",
+          "aliases": [
+            "Wien"
+          ]
+        },
+        {
+          "answer": "Graz",
+          "display": "305,314 people"
+        },
+        {
+          "answer": "Linz",
+          "display": "213,557 people"
+        },
+        {
+          "answer": "Salzburg",
+          "display": "157,659 people"
+        },
+        {
+          "answer": "Innsbruck",
+          "display": "132,499 people"
+        },
+        {
+          "answer": "Klagenfurt",
+          "display": "105,256 people",
+          "aliases": [
+            "Klagenfurt am Wörthersee"
+          ]
+        },
+        {
+          "answer": "Villach",
+          "display": "65,749 people"
+        },
+        {
+          "answer": "Wels",
+          "display": "65,482 people"
+        },
+        {
+          "answer": "St. Pölten",
+          "display": "59,767 people",
+          "aliases": [
+            "Sankt Pölten"
+          ]
+        },
+        {
+          "answer": "Dornbirn",
+          "display": "52,108 people"
+        },
+        {
+          "answer": "Wiener Neustadt",
+          "display": "49,156 people"
+        },
+        {
+          "answer": "Steyr",
+          "display": "38,036 people"
+        },
+        {
+          "answer": "Feldkirch",
+          "display": "36,708 people"
+        }
+      ]
+    },
+    {
+      "category": "geography/cities/by-country",
+      "difficulty": 2,
+      "question": "Top 10 largest cities in Norway by city-proper population (2024 data)",
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1369172680 | table 1 | name: Name | value: Pop. (2024)",
+      "tags": [
+        "geography",
+        "cities",
+        "norway",
+        "population"
+      ],
+      "answers": [
+        {
+          "answer": "Oslo",
+          "display": "717,710 people"
+        },
+        {
+          "answer": "Bergen",
+          "display": "291,940 people"
+        },
+        {
+          "answer": "Trondheim",
+          "display": "214,565 people"
+        },
+        {
+          "answer": "Stavanger",
+          "display": "149,048 people"
+        },
+        {
+          "answer": "Bærum",
+          "display": "130,921 people"
+        },
+        {
+          "answer": "Kristiansand",
+          "display": "116,986 people"
+        },
+        {
+          "answer": "Drammen",
+          "display": "104,487 people"
+        },
+        {
+          "answer": "Asker",
+          "display": "98,815 people"
+        },
+        {
+          "answer": "Lillestrøm",
+          "display": "94,201 people"
+        },
+        {
+          "answer": "Fredrikstad",
+          "display": "85,230 people"
+        },
+        {
+          "answer": "Sandnes",
+          "display": "83,702 people"
+        },
+        {
+          "answer": "Tromsø",
+          "display": "78,745 people"
+        },
+        {
+          "answer": "Sandefjord",
+          "display": "66,231 people"
+        }
+      ]
+    }
+  ]
+}

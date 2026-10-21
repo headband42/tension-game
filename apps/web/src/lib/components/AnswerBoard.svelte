@@ -42,7 +42,7 @@
   {#if tension.length > 0}
     <section class="card" in:fly={{ y: 12, delay: hits.length * STEP_MS }}>
       <h3 class="mb-1 text-xl font-semibold text-red-400">Tension zone</h3>
-      <p class="mb-4 text-sm text-gray-400">On the list, but outside the top {cutoff}: {tension[0].points} points.</p>
+      <p class="mb-4 text-sm text-gray-400">Lurking just below the top {cutoff}: {tension[0].points} points.</p>
       <ul class="grid gap-2 sm:grid-cols-2">
         {#each tension as answer (answer.rank)}
           <li class={['flex items-baseline gap-3 rounded-lg p-2', answer.pickedBy.length ? 'bg-red-900/50' : 'bg-gray-700/30']}>

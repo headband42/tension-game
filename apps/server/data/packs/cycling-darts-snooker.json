@@ -1,0 +1,484 @@
+{
+  "categories": [
+    {
+      "path": "sports/cycling",
+      "name": "Cycling"
+    },
+    {
+      "path": "sports/cycling/tour-de-france",
+      "name": "Tour de France"
+    },
+    {
+      "path": "sports/cycling/grand-tours",
+      "name": "Grand Tours"
+    },
+    {
+      "path": "sports/darts-snooker",
+      "name": "Darts and Snooker"
+    },
+    {
+      "path": "sports/darts-snooker/snooker",
+      "name": "Snooker"
+    },
+    {
+      "path": "sports/chess",
+      "name": "Chess"
+    }
+  ],
+  "questions": [
+    {
+      "category": "sports/cycling/tour-de-france",
+      "question": "Top 7 countries by Tour de France general classification wins, 1903–2026 (stripped titles not counted)",
+      "cutoff": 7,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1368358956 | table 4 | name: Country | value: Wins | note: stripped titles not counted",
+      "tags": [
+        "cycling",
+        "tour de france",
+        "countries"
+      ],
+      "answers": [
+        {
+          "answer": "France",
+          "display": "36 wins"
+        },
+        {
+          "answer": "Belgium",
+          "display": "18 wins"
+        },
+        {
+          "answer": "Spain",
+          "display": "12 wins"
+        },
+        {
+          "answer": "Italy",
+          "display": "10 wins"
+        },
+        {
+          "answer": "Great Britain",
+          "display": "6 wins",
+          "aliases": [
+            "Britain"
+          ]
+        },
+        {
+          "answer": "Luxembourg",
+          "display": "5 wins"
+        },
+        {
+          "answer": "Slovenia",
+          "display": "5 wins"
+        },
+        {
+          "answer": "Denmark",
+          "display": "3 wins"
+        },
+        {
+          "answer": "United States",
+          "display": "3 wins",
+          "aliases": [
+            "USA"
+          ]
+        },
+        {
+          "answer": "Switzerland",
+          "display": "2 wins"
+        },
+        {
+          "answer": "Netherlands",
+          "display": "2 wins",
+          "aliases": [
+            "Holland"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/cycling/grand-tours",
+      "question": "Top 7 countries by Giro d'Italia general classification wins, 1909–2026",
+      "cutoff": 7,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1367512253 | table 3 | name: Country | value: Victories",
+      "tags": [
+        "cycling",
+        "giro",
+        "countries"
+      ],
+      "answers": [
+        {
+          "answer": "Italy",
+          "display": "69 wins"
+        },
+        {
+          "answer": "Belgium",
+          "display": "7 wins"
+        },
+        {
+          "answer": "France",
+          "display": "6 wins"
+        },
+        {
+          "answer": "Spain",
+          "display": "4 wins"
+        },
+        {
+          "answer": "Switzerland",
+          "display": "3 wins"
+        },
+        {
+          "answer": "Russia",
+          "display": "3 wins"
+        },
+        {
+          "answer": "Great Britain",
+          "display": "3 wins",
+          "aliases": [
+            "Britain"
+          ]
+        },
+        {
+          "answer": "Luxembourg",
+          "display": "2 wins"
+        },
+        {
+          "answer": "Colombia",
+          "display": "2 wins"
+        },
+        {
+          "answer": "Slovenia",
+          "display": "2 wins"
+        }
+      ]
+    },
+    {
+      "category": "sports/cycling/grand-tours",
+      "question": "Top 7 riders by Vuelta a España stage wins (all-time)",
+      "cutoff": 7,
+      "difficulty": 3,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1374765380 | table 6 | name: Name | value: Wins",
+      "tags": [
+        "cycling",
+        "vuelta",
+        "stages"
+      ],
+      "answers": [
+        {
+          "answer": "Delio Rodríguez",
+          "display": "39 stages"
+        },
+        {
+          "answer": "Alessandro Petacchi",
+          "display": "20 stages"
+        },
+        {
+          "answer": "Rik Van Looy",
+          "display": "18 stages"
+        },
+        {
+          "answer": "Laurent Jalabert",
+          "display": "18 stages"
+        },
+        {
+          "answer": "Sean Kelly",
+          "display": "16 stages",
+          "aliases": [
+            "Kelly"
+          ]
+        },
+        {
+          "answer": "Primož Roglič",
+          "display": "15 stages",
+          "aliases": [
+            "Roglic"
+          ]
+        },
+        {
+          "answer": "Gerben Karstens",
+          "display": "14 stages"
+        },
+        {
+          "answer": "Freddy Maertens",
+          "display": "13 stages",
+          "aliases": [
+            "Maertens"
+          ]
+        },
+        {
+          "answer": "Tony Rominger",
+          "display": "13 stages",
+          "aliases": [
+            "Rominger"
+          ]
+        },
+        {
+          "answer": "Domingo Perurena",
+          "display": "12 stages"
+        },
+        {
+          "answer": "Marcel Wüst",
+          "display": "12 stages"
+        },
+        {
+          "answer": "Alejandro Valverde",
+          "display": "12 stages",
+          "aliases": [
+            "Valverde"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/darts-snooker/snooker",
+      "question": "Top 7 players by World Snooker Championship titles (1927–2026, all eras)",
+      "cutoff": 7,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1370658186 | table 4 | name: Player | value: Total | note: players with two or more titles only",
+      "tags": [
+        "snooker",
+        "world championship",
+        "titles"
+      ],
+      "answers": [
+        {
+          "answer": "Joe Davis",
+          "display": "15 titles"
+        },
+        {
+          "answer": "Fred Davis",
+          "display": "8 titles"
+        },
+        {
+          "answer": "John Pulman",
+          "display": "8 titles"
+        },
+        {
+          "answer": "Stephen Hendry",
+          "display": "7 titles",
+          "aliases": [
+            "Hendry"
+          ]
+        },
+        {
+          "answer": "Ronnie O'Sullivan",
+          "display": "7 titles",
+          "aliases": [
+            "O'Sullivan",
+            "Ronnie"
+          ]
+        },
+        {
+          "answer": "Ray Reardon",
+          "display": "6 titles",
+          "aliases": [
+            "Reardon"
+          ]
+        },
+        {
+          "answer": "Steve Davis",
+          "display": "6 titles",
+          "aliases": [
+            "The Nugget"
+          ]
+        },
+        {
+          "answer": "John Higgins",
+          "display": "4 titles",
+          "aliases": [
+            "Higgins"
+          ]
+        },
+        {
+          "answer": "Mark Selby",
+          "display": "4 titles",
+          "aliases": [
+            "Selby"
+          ]
+        },
+        {
+          "answer": "John Spencer",
+          "display": "3 titles",
+          "aliases": [
+            "Spencer"
+          ]
+        },
+        {
+          "answer": "Mark Williams",
+          "display": "3 titles",
+          "aliases": [
+            "Williams"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/chess",
+      "question": "Top 7 highest peak classical FIDE ratings ever (Elo, all players, as of October 2026)",
+      "cutoff": 7,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1377828185 | table 1 | name: Player | value: Peak rating | where: Player!~edit",
+      "tags": [
+        "chess",
+        "elo",
+        "rating"
+      ],
+      "answers": [
+        {
+          "answer": "Magnus Carlsen",
+          "display": "2,882",
+          "aliases": [
+            "Carlsen",
+            "Magnus"
+          ]
+        },
+        {
+          "answer": "Garry Kasparov",
+          "display": "2,851",
+          "aliases": [
+            "Kasparov"
+          ]
+        },
+        {
+          "answer": "Fabiano Caruana",
+          "display": "2,844",
+          "aliases": [
+            "Caruana"
+          ]
+        },
+        {
+          "answer": "Levon Aronian",
+          "display": "2,830",
+          "aliases": [
+            "Aronian"
+          ]
+        },
+        {
+          "answer": "Wesley So",
+          "display": "2,822",
+          "aliases": [
+            "So"
+          ]
+        },
+        {
+          "answer": "Shakhriyar Mamedyarov",
+          "display": "2,820",
+          "aliases": [
+            "Mamedyarov"
+          ]
+        },
+        {
+          "answer": "Maxime Vachier-Lagrave",
+          "display": "2,819",
+          "aliases": [
+            "Vachier-Lagrave"
+          ]
+        },
+        {
+          "answer": "Viswanathan Anand",
+          "display": "2,817",
+          "aliases": [
+            "Anand",
+            "Vishy"
+          ]
+        },
+        {
+          "answer": "Vladimir Kramnik",
+          "display": "2,817",
+          "aliases": [
+            "Kramnik"
+          ]
+        },
+        {
+          "answer": "Veselin Topalov",
+          "display": "2,816",
+          "aliases": [
+            "Topalov"
+          ]
+        },
+        {
+          "answer": "Hikaru Nakamura",
+          "display": "2,816",
+          "aliases": [
+            "Nakamura",
+            "Hikaru"
+          ]
+        },
+        {
+          "answer": "Ding Liren",
+          "display": "2,816",
+          "aliases": [
+            "Ding"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/chess",
+      "question": "Top 7 highest peak classical FIDE ratings ever among women (Elo, as of October 2026)",
+      "cutoff": 7,
+      "difficulty": 3,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1377828185 | table 2 | name: Player | value: Peak rating | where: Player!~edit",
+      "tags": [
+        "chess",
+        "elo",
+        "women"
+      ],
+      "answers": [
+        {
+          "answer": "Judit Polgár",
+          "display": "2,735",
+          "aliases": [
+            "Judit"
+          ]
+        },
+        {
+          "answer": "Hou Yifan",
+          "display": "2,686",
+          "aliases": [
+            "Hou"
+          ]
+        },
+        {
+          "answer": "Koneru Humpy",
+          "display": "2,623",
+          "aliases": [
+            "Humpy"
+          ]
+        },
+        {
+          "answer": "Aleksandra Goryachkina",
+          "display": "2,611"
+        },
+        {
+          "answer": "Anna Muzychuk",
+          "display": "2,606"
+        },
+        {
+          "answer": "Ju Wenjun",
+          "display": "2,604"
+        },
+        {
+          "answer": "Tatiana Kosintseva",
+          "display": "2,581"
+        },
+        {
+          "answer": "Zhao Xue",
+          "display": "2,579"
+        },
+        {
+          "answer": "Zhu Jiner",
+          "display": "2,579"
+        },
+        {
+          "answer": "Susan Polgar",
+          "display": "2,577"
+        }
+      ]
+    }
+  ]
+}

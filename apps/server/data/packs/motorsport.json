@@ -1,0 +1,1038 @@
+{
+  "categories": [
+    {
+      "path": "sports/motorsport",
+      "name": "Motorsport"
+    },
+    {
+      "path": "sports/motorsport/formula-one",
+      "name": "Formula One"
+    },
+    {
+      "path": "sports/motorsport/motogp",
+      "name": "MotoGP"
+    },
+    {
+      "path": "sports/motorsport/nascar",
+      "name": "NASCAR"
+    },
+    {
+      "path": "sports/motorsport/le-mans",
+      "name": "24 Hours of Le Mans"
+    }
+  ],
+  "questions": [
+    {
+      "category": "sports/motorsport/formula-one",
+      "question": "Top 8 Formula One drivers by Grand Prix wins (as of October 2026)",
+      "cutoff": 8,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1379735101 | table 10 | name: Driver | value: Wins",
+      "tags": [
+        "motorsport",
+        "formula-one",
+        "wins"
+      ],
+      "answers": [
+        {
+          "answer": "Lewis Hamilton",
+          "display": "106 wins",
+          "aliases": [
+            "Hamilton"
+          ]
+        },
+        {
+          "answer": "Michael Schumacher",
+          "display": "91 wins",
+          "aliases": [
+            "Schumacher"
+          ]
+        },
+        {
+          "answer": "Max Verstappen",
+          "display": "73 wins",
+          "aliases": [
+            "Verstappen"
+          ]
+        },
+        {
+          "answer": "Sebastian Vettel",
+          "display": "53 wins",
+          "aliases": [
+            "Vettel"
+          ]
+        },
+        {
+          "answer": "Alain Prost",
+          "display": "51 wins",
+          "aliases": [
+            "Prost"
+          ]
+        },
+        {
+          "answer": "Ayrton Senna",
+          "display": "41 wins",
+          "aliases": [
+            "Senna"
+          ]
+        },
+        {
+          "answer": "Fernando Alonso",
+          "display": "32 wins",
+          "aliases": [
+            "Alonso"
+          ]
+        },
+        {
+          "answer": "Nigel Mansell",
+          "display": "31 wins",
+          "aliases": [
+            "Mansell"
+          ]
+        },
+        {
+          "answer": "Jackie Stewart",
+          "display": "27 wins",
+          "aliases": [
+            "Stewart"
+          ]
+        },
+        {
+          "answer": "Jim Clark",
+          "display": "25 wins",
+          "aliases": [
+            "Clark"
+          ]
+        },
+        {
+          "answer": "Niki Lauda",
+          "display": "25 wins",
+          "aliases": [
+            "Lauda"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/motorsport/formula-one",
+      "question": "Top 7 Formula One drivers by pole positions (as of October 2026)",
+      "cutoff": 7,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1379735101 | table 28 | name: Driver | value: Poles",
+      "tags": [
+        "motorsport",
+        "formula-one",
+        "poles"
+      ],
+      "answers": [
+        {
+          "answer": "Lewis Hamilton",
+          "display": "104 poles",
+          "aliases": [
+            "Hamilton"
+          ]
+        },
+        {
+          "answer": "Michael Schumacher",
+          "display": "68 poles",
+          "aliases": [
+            "Schumacher"
+          ]
+        },
+        {
+          "answer": "Ayrton Senna",
+          "display": "65 poles",
+          "aliases": [
+            "Senna"
+          ]
+        },
+        {
+          "answer": "Sebastian Vettel",
+          "display": "57 poles",
+          "aliases": [
+            "Vettel"
+          ]
+        },
+        {
+          "answer": "Max Verstappen",
+          "display": "50 poles",
+          "aliases": [
+            "Verstappen"
+          ]
+        },
+        {
+          "answer": "Jim Clark",
+          "display": "33 poles",
+          "aliases": [
+            "Clark"
+          ]
+        },
+        {
+          "answer": "Alain Prost",
+          "display": "33 poles",
+          "aliases": [
+            "Prost"
+          ]
+        },
+        {
+          "answer": "Nigel Mansell",
+          "display": "32 poles",
+          "aliases": [
+            "Mansell"
+          ]
+        },
+        {
+          "answer": "Nico Rosberg",
+          "display": "30 poles",
+          "aliases": [
+            "Rosberg"
+          ]
+        },
+        {
+          "answer": "Juan Manuel Fangio",
+          "display": "29 poles",
+          "aliases": [
+            "Fangio"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/motorsport/formula-one",
+      "question": "Top 10 Formula One circuits by Grands Prix held (as of October 2026)",
+      "cutoff": 10,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1378449213 | table 2 | name: Circuit | value: Grands Prix held",
+      "tags": [
+        "motorsport",
+        "formula-one",
+        "circuits"
+      ],
+      "answers": [
+        {
+          "answer": "Monza",
+          "display": "76 Grands Prix",
+          "aliases": [
+            "Autodromo Nazionale Monza",
+            "Autodromo Nazionale di Monza"
+          ]
+        },
+        {
+          "answer": "Monaco",
+          "display": "72 Grands Prix",
+          "aliases": [
+            "Circuit de Monaco",
+            "Monte Carlo"
+          ]
+        },
+        {
+          "answer": "Silverstone",
+          "display": "61 Grands Prix",
+          "aliases": [
+            "Silverstone Circuit"
+          ]
+        },
+        {
+          "answer": "Spa-Francorchamps",
+          "display": "59 Grands Prix",
+          "aliases": [
+            "Spa",
+            "Circuit de Spa-Francorchamps"
+          ]
+        },
+        {
+          "answer": "Circuit Gilles Villeneuve",
+          "display": "45 Grands Prix",
+          "aliases": [
+            "Montreal",
+            "Gilles Villeneuve",
+            "Gilles Villeneuve Circuit"
+          ]
+        },
+        {
+          "answer": "Interlagos",
+          "display": "42 Grands Prix",
+          "aliases": [
+            "Autodromo Jose Carlos Pace",
+            "Jose Carlos Pace",
+            "Sao Paulo"
+          ]
+        },
+        {
+          "answer": "Hungaroring",
+          "display": "41 Grands Prix",
+          "aliases": [
+            "Budapest"
+          ]
+        },
+        {
+          "answer": "Nürburgring",
+          "display": "41 Grands Prix"
+        },
+        {
+          "answer": "Red Bull Ring",
+          "display": "40 Grands Prix",
+          "aliases": [
+            "Spielberg",
+            "Osterreichring",
+            "A1-Ring"
+          ]
+        },
+        {
+          "answer": "Hockenheimring",
+          "display": "37 Grands Prix",
+          "aliases": [
+            "Hockenheim"
+          ]
+        },
+        {
+          "answer": "Circuit de Barcelona-Catalunya",
+          "display": "36 Grands Prix",
+          "aliases": [
+            "Barcelona",
+            "Catalunya"
+          ]
+        },
+        {
+          "answer": "Zandvoort",
+          "display": "36 Grands Prix",
+          "aliases": [
+            "Circuit Zandvoort"
+          ]
+        },
+        {
+          "answer": "Suzuka",
+          "display": "36 Grands Prix",
+          "aliases": [
+            "Suzuka International Racing Course"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/motorsport/formula-one",
+      "question": "Top 10 countries by Formula One Grand Prix wins, by driver nationality (as of October 2026)",
+      "cutoff": 10,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1379709529 | table 4 | name: Country | value: Wins",
+      "tags": [
+        "motorsport",
+        "formula-one",
+        "nationality"
+      ],
+      "answers": [
+        {
+          "answer": "United Kingdom",
+          "display": "331 wins",
+          "aliases": [
+            "UK",
+            "Britain",
+            "Great Britain"
+          ]
+        },
+        {
+          "answer": "Germany",
+          "display": "179 wins"
+        },
+        {
+          "answer": "Brazil",
+          "display": "101 wins"
+        },
+        {
+          "answer": "France",
+          "display": "81 wins"
+        },
+        {
+          "answer": "Netherlands",
+          "display": "73 wins",
+          "aliases": [
+            "Holland"
+          ]
+        },
+        {
+          "answer": "Finland",
+          "display": "57 wins"
+        },
+        {
+          "answer": "Australia",
+          "display": "52 wins"
+        },
+        {
+          "answer": "Italy",
+          "display": "51 wins"
+        },
+        {
+          "answer": "Austria",
+          "display": "41 wins"
+        },
+        {
+          "answer": "Argentina",
+          "display": "38 wins"
+        },
+        {
+          "answer": "Spain",
+          "display": "36 wins"
+        },
+        {
+          "answer": "United States",
+          "display": "33 wins",
+          "aliases": [
+            "USA",
+            "US",
+            "America"
+          ]
+        },
+        {
+          "answer": "Canada",
+          "display": "17 wins"
+        }
+      ]
+    },
+    {
+      "category": "sports/motorsport/motogp",
+      "question": "Top 10 riders by premier-class Grand Prix wins (500cc and MotoGP, as of October 2026)",
+      "cutoff": 10,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1379694223 | table 2 | name: Rider | value: Wins",
+      "tags": [
+        "motorsport",
+        "motogp",
+        "wins"
+      ],
+      "answers": [
+        {
+          "answer": "Valentino Rossi",
+          "display": "89 wins",
+          "aliases": [
+            "Rossi"
+          ]
+        },
+        {
+          "answer": "Marc Márquez",
+          "display": "79 wins",
+          "aliases": [
+            "Marquez"
+          ]
+        },
+        {
+          "answer": "Giacomo Agostini",
+          "display": "68 wins",
+          "aliases": [
+            "Agostini"
+          ]
+        },
+        {
+          "answer": "Mick Doohan",
+          "display": "54 wins",
+          "aliases": [
+            "Doohan"
+          ]
+        },
+        {
+          "answer": "Jorge Lorenzo",
+          "display": "47 wins",
+          "aliases": [
+            "Lorenzo"
+          ]
+        },
+        {
+          "answer": "Casey Stoner",
+          "display": "38 wins",
+          "aliases": [
+            "Stoner"
+          ]
+        },
+        {
+          "answer": "Mike Hailwood",
+          "display": "37 wins",
+          "aliases": [
+            "Hailwood"
+          ]
+        },
+        {
+          "answer": "Eddie Lawson",
+          "display": "31 wins",
+          "aliases": [
+            "Lawson"
+          ]
+        },
+        {
+          "answer": "Dani Pedrosa",
+          "display": "31 wins",
+          "aliases": [
+            "Pedrosa"
+          ]
+        },
+        {
+          "answer": "Francesco Bagnaia",
+          "display": "31 wins",
+          "aliases": [
+            "Bagnaia",
+            "Pecco"
+          ]
+        },
+        {
+          "answer": "Kevin Schwantz",
+          "display": "25 wins",
+          "aliases": [
+            "Schwantz"
+          ]
+        },
+        {
+          "answer": "Wayne Rainey",
+          "display": "24 wins",
+          "aliases": [
+            "Rainey"
+          ]
+        },
+        {
+          "answer": "Geoff Duke",
+          "display": "22 wins",
+          "aliases": [
+            "Duke"
+          ]
+        },
+        {
+          "answer": "John Surtees",
+          "display": "22 wins",
+          "aliases": [
+            "Surtees"
+          ]
+        },
+        {
+          "answer": "Kenny Roberts",
+          "display": "22 wins",
+          "aliases": [
+            "Roberts"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/motorsport/nascar",
+      "question": "Top 9 US states by NASCAR Cup Series champions, by home state (through 2025 season)",
+      "cutoff": 9,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1376434388 | table 4 | name: State | value: Total",
+      "tags": [
+        "motorsport",
+        "nascar",
+        "titles"
+      ],
+      "answers": [
+        {
+          "answer": "North Carolina",
+          "display": "25 champions",
+          "aliases": [
+            "NC"
+          ]
+        },
+        {
+          "answer": "California",
+          "display": "14 champions",
+          "aliases": [
+            "CA"
+          ]
+        },
+        {
+          "answer": "South Carolina",
+          "display": "8 champions",
+          "aliases": [
+            "SC"
+          ]
+        },
+        {
+          "answer": "Alabama",
+          "display": "4 champions"
+        },
+        {
+          "answer": "Kentucky",
+          "display": "3 champions"
+        },
+        {
+          "answer": "Texas",
+          "display": "3 champions"
+        },
+        {
+          "answer": "Indiana",
+          "display": "3 champions"
+        },
+        {
+          "answer": "Nevada",
+          "display": "3 champions"
+        },
+        {
+          "answer": "Connecticut",
+          "display": "3 champions"
+        },
+        {
+          "answer": "Virginia",
+          "display": "2 champions"
+        },
+        {
+          "answer": "Georgia",
+          "display": "2 champions"
+        },
+        {
+          "answer": "Wisconsin",
+          "display": "2 champions"
+        }
+      ]
+    },
+    {
+      "category": "sports/motorsport/le-mans",
+      "question": "Top 8 manufacturers by 24 Hours of Le Mans overall wins (as of August 2026)",
+      "cutoff": 8,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1370913526 | table 8 | name: Entrant | value: Wins",
+      "tags": [
+        "motorsport",
+        "le-mans",
+        "manufacturers"
+      ],
+      "answers": [
+        {
+          "answer": "Porsche",
+          "display": "19 wins"
+        },
+        {
+          "answer": "Audi",
+          "display": "13 wins"
+        },
+        {
+          "answer": "Ferrari",
+          "display": "12 wins"
+        },
+        {
+          "answer": "Jaguar",
+          "display": "7 wins"
+        },
+        {
+          "answer": "Bentley",
+          "display": "6 wins"
+        },
+        {
+          "answer": "Toyota",
+          "display": "6 wins"
+        },
+        {
+          "answer": "Alfa Romeo",
+          "display": "4 wins",
+          "aliases": [
+            "Alfa"
+          ]
+        },
+        {
+          "answer": "Ford",
+          "display": "4 wins"
+        },
+        {
+          "answer": "Matra-Simca",
+          "display": "3 wins",
+          "aliases": [
+            "Matra"
+          ]
+        },
+        {
+          "answer": "Peugeot",
+          "display": "3 wins"
+        },
+        {
+          "answer": "Lorraine-Dietrich",
+          "display": "2 wins"
+        },
+        {
+          "answer": "Bugatti",
+          "display": "2 wins"
+        }
+      ]
+    },
+    {
+      "category": "sports/motorsport/le-mans",
+      "question": "Top 10 nationalities by 24 Hours of Le Mans overall wins (as of August 2026)",
+      "cutoff": 10,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1370913526 | table 7 | name: Nationality | value: Wins",
+      "tags": [
+        "motorsport",
+        "le-mans",
+        "nationality"
+      ],
+      "answers": [
+        {
+          "answer": "United Kingdom",
+          "display": "47 wins",
+          "aliases": [
+            "UK",
+            "Britain",
+            "Great Britain"
+          ]
+        },
+        {
+          "answer": "France",
+          "display": "42 wins"
+        },
+        {
+          "answer": "Germany",
+          "display": "31 wins"
+        },
+        {
+          "answer": "Italy",
+          "display": "21 wins"
+        },
+        {
+          "answer": "United States",
+          "display": "18 wins",
+          "aliases": [
+            "USA",
+            "US",
+            "America"
+          ]
+        },
+        {
+          "answer": "Belgium",
+          "display": "13 wins"
+        },
+        {
+          "answer": "Denmark",
+          "display": "11 wins"
+        },
+        {
+          "answer": "Japan",
+          "display": "8 wins"
+        },
+        {
+          "answer": "Switzerland",
+          "display": "8 wins"
+        },
+        {
+          "answer": "New Zealand",
+          "display": "7 wins"
+        },
+        {
+          "answer": "Australia",
+          "display": "4 wins"
+        },
+        {
+          "answer": "Austria",
+          "display": "4 wins"
+        },
+        {
+          "answer": "Netherlands",
+          "display": "4 wins",
+          "aliases": [
+            "Holland"
+          ]
+        },
+        {
+          "answer": "Spain",
+          "display": "4 wins"
+        }
+      ]
+    },
+    {
+      "category": "sports/motorsport/formula-one",
+      "question": "Top 7 constructors by Monaco Grand Prix wins (as of September 2026)",
+      "cutoff": 7,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1373176236 | table 4 | name: Constructor | value: Wins",
+      "tags": [
+        "motorsport",
+        "formula-one",
+        "monaco"
+      ],
+      "answers": [
+        {
+          "answer": "McLaren",
+          "display": "16 wins"
+        },
+        {
+          "answer": "Ferrari",
+          "display": "11 wins"
+        },
+        {
+          "answer": "Mercedes",
+          "display": "9 wins"
+        },
+        {
+          "answer": "Lotus",
+          "display": "7 wins"
+        },
+        {
+          "answer": "Red Bull",
+          "display": "7 wins",
+          "aliases": [
+            "Red Bull Racing"
+          ]
+        },
+        {
+          "answer": "BRM",
+          "display": "5 wins"
+        },
+        {
+          "answer": "Bugatti",
+          "display": "4 wins"
+        },
+        {
+          "answer": "Alfa Romeo",
+          "display": "3 wins",
+          "aliases": [
+            "Alfa"
+          ]
+        },
+        {
+          "answer": "Maserati",
+          "display": "3 wins"
+        },
+        {
+          "answer": "Cooper",
+          "display": "3 wins"
+        },
+        {
+          "answer": "Tyrrell",
+          "display": "3 wins"
+        },
+        {
+          "answer": "Williams",
+          "display": "3 wins"
+        }
+      ]
+    },
+    {
+      "category": "sports/motorsport/formula-one",
+      "question": "Top 7 Formula One constructors by pole positions (as of October 2026)",
+      "cutoff": 7,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1379713002 | table 16 | name: Constructor | value: Poles",
+      "tags": [
+        "motorsport",
+        "formula-one",
+        "poles"
+      ],
+      "answers": [
+        {
+          "answer": "Ferrari",
+          "display": "254 poles"
+        },
+        {
+          "answer": "McLaren",
+          "display": "180 poles"
+        },
+        {
+          "answer": "Mercedes",
+          "display": "154 poles"
+        },
+        {
+          "answer": "Williams",
+          "display": "128 poles"
+        },
+        {
+          "answer": "Red Bull",
+          "display": "113 poles",
+          "aliases": [
+            "Red Bull Racing"
+          ]
+        },
+        {
+          "answer": "Lotus",
+          "display": "107 poles"
+        },
+        {
+          "answer": "Renault",
+          "display": "51 poles"
+        },
+        {
+          "answer": "Brabham",
+          "display": "39 poles"
+        },
+        {
+          "answer": "Benetton",
+          "display": "15 poles"
+        },
+        {
+          "answer": "Tyrrell",
+          "display": "14 poles"
+        }
+      ]
+    },
+    {
+      "category": "sports/motorsport/formula-one",
+      "question": "Top 7 Formula One engine manufacturers by World Drivers' Championships won (through 2025)",
+      "cutoff": 7,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1379191780 | table 10 | name: Manufacturer | value: Titles | where: Manufacturer!~manufacturers",
+      "tags": [
+        "motorsport",
+        "formula-one",
+        "engines"
+      ],
+      "answers": [
+        {
+          "answer": "Ferrari",
+          "display": "15 titles"
+        },
+        {
+          "answer": "Mercedes",
+          "display": "14 titles"
+        },
+        {
+          "answer": "Ford",
+          "display": "13 titles"
+        },
+        {
+          "answer": "Renault",
+          "display": "11 titles"
+        },
+        {
+          "answer": "Honda",
+          "display": "6 titles"
+        },
+        {
+          "answer": "Climax",
+          "display": "4 titles",
+          "aliases": [
+            "Coventry Climax"
+          ]
+        },
+        {
+          "answer": "TAG",
+          "display": "3 titles",
+          "aliases": [
+            "TAG Porsche",
+            "TAG Heuer"
+          ]
+        },
+        {
+          "answer": "Alfa Romeo",
+          "display": "2 titles",
+          "aliases": [
+            "Alfa"
+          ]
+        },
+        {
+          "answer": "Maserati",
+          "display": "2 titles"
+        },
+        {
+          "answer": "Repco",
+          "display": "2 titles"
+        },
+        {
+          "answer": "Honda RBPT",
+          "display": "2 titles (Red Bull, 2023–24)"
+        }
+      ]
+    },
+    {
+      "category": "sports/motorsport/nascar",
+      "question": "Top 10 teams by Daytona 500 wins (as of September 2026)",
+      "cutoff": 10,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1375757113 | table 3 | name: Team | value: # wins",
+      "tags": [
+        "motorsport",
+        "nascar",
+        "daytona-500"
+      ],
+      "answers": [
+        {
+          "answer": "Hendrick Motorsports",
+          "display": "10 wins",
+          "aliases": [
+            "Hendrick"
+          ]
+        },
+        {
+          "answer": "Petty Enterprises",
+          "display": "9 wins"
+        },
+        {
+          "answer": "Wood Brothers Racing",
+          "display": "5 wins",
+          "aliases": [
+            "Wood Brothers"
+          ]
+        },
+        {
+          "answer": "Joe Gibbs Racing",
+          "display": "4 wins",
+          "aliases": [
+            "JGR",
+            "Gibbs"
+          ]
+        },
+        {
+          "answer": "Ranier-Lundy",
+          "display": "3 wins"
+        },
+        {
+          "answer": "Morgan–McClure Motorsports",
+          "display": "3 wins",
+          "aliases": [
+            "Morgan-McClure"
+          ]
+        },
+        {
+          "answer": "Robert Yates Racing",
+          "display": "3 wins",
+          "aliases": [
+            "Yates"
+          ]
+        },
+        {
+          "answer": "Richard Childress Racing",
+          "display": "3 wins",
+          "aliases": [
+            "Childress",
+            "RCR"
+          ]
+        },
+        {
+          "answer": "Dale Earnhardt, Inc.",
+          "display": "3 wins",
+          "aliases": [
+            "DEI"
+          ]
+        },
+        {
+          "answer": "Team Penske",
+          "display": "3 wins",
+          "aliases": [
+            "Penske"
+          ]
+        },
+        {
+          "answer": "Holman Moody",
+          "display": "2 wins"
+        },
+        {
+          "answer": "Junior Johnson & Associates",
+          "display": "2 wins",
+          "aliases": [
+            "Junior Johnson"
+          ]
+        },
+        {
+          "answer": "Melling Racing",
+          "display": "2 wins"
+        },
+        {
+          "answer": "RFK Racing",
+          "display": "2 wins"
+        }
+      ]
+    }
+  ]
+}

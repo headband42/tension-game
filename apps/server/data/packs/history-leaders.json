@@ -1,0 +1,367 @@
+{
+  "categories": [
+    {
+      "path": "history/leaders",
+      "name": "World leaders"
+    },
+    {
+      "path": "history/leaders/us-presidents",
+      "name": "US presidents"
+    },
+    {
+      "path": "history/leaders/us-vice-presidents",
+      "name": "US vice presidents"
+    }
+  ],
+  "questions": [
+    {
+      "category": "history/leaders/us-presidents",
+      "difficulty": 1,
+      "question": "Top 10 longest-lived US presidents by age at death (deceased presidents only; living presidents excluded; as of 6 October 2026)",
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1378777083 | table 1 | name: President | value: Lifespan / Age | header rows: 2 | where: Lifespan / Died!~living",
+      "tags": [
+        "history",
+        "presidents",
+        "lifespan"
+      ],
+      "answers": [
+        {
+          "answer": "Jimmy Carter",
+          "display": "100 years, 89 days",
+          "aliases": [
+            "Carter"
+          ]
+        },
+        {
+          "answer": "George H. W. Bush",
+          "display": "94 years, 171 days",
+          "aliases": [
+            "George H.W. Bush",
+            "George Bush",
+            "George Bush Sr."
+          ]
+        },
+        {
+          "answer": "Gerald Ford",
+          "display": "93 years, 165 days",
+          "aliases": [
+            "Gerald R. Ford"
+          ]
+        },
+        {
+          "answer": "Ronald Reagan",
+          "display": "93 years, 120 days"
+        },
+        {
+          "answer": "John Adams",
+          "display": "90 years, 247 days"
+        },
+        {
+          "answer": "Herbert Hoover",
+          "display": "90 years, 71 days",
+          "aliases": [
+            "Hoover"
+          ]
+        },
+        {
+          "answer": "Harry S. Truman",
+          "display": "88 years, 232 days",
+          "aliases": [
+            "Harry Truman",
+            "Truman"
+          ]
+        },
+        {
+          "answer": "James Madison",
+          "display": "85 years, 104 days",
+          "aliases": [
+            "Madison"
+          ]
+        },
+        {
+          "answer": "Thomas Jefferson",
+          "display": "83 years, 82 days",
+          "aliases": [
+            "Jefferson"
+          ]
+        },
+        {
+          "answer": "Richard Nixon",
+          "display": "81 years, 103 days",
+          "aliases": [
+            "Nixon"
+          ]
+        },
+        {
+          "answer": "John Quincy Adams",
+          "display": "80 years, 227 days",
+          "aliases": [
+            "JQ Adams"
+          ]
+        },
+        {
+          "answer": "Martin Van Buren",
+          "display": "79 years, 231 days",
+          "aliases": [
+            "Van Buren"
+          ]
+        },
+        {
+          "answer": "Dwight D. Eisenhower",
+          "display": "78 years, 165 days",
+          "aliases": [
+            "Dwight Eisenhower",
+            "Eisenhower",
+            "Ike"
+          ]
+        },
+        {
+          "answer": "Andrew Jackson",
+          "display": "78 years, 85 days",
+          "aliases": [
+            "Jackson"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "history/leaders/us-presidents",
+      "difficulty": 1,
+      "question": "Top 10 shortest-lived US presidents by age at death (deceased presidents only; living presidents excluded; as of 6 October 2026)",
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1378777083 | table 1 | name: President | value: Lifespan / Age | header rows: 2 | where: Lifespan / Died!~living | order: asc",
+      "tags": [
+        "history",
+        "presidents",
+        "lifespan"
+      ],
+      "answers": [
+        {
+          "answer": "John F. Kennedy",
+          "display": "46 years, 177 days",
+          "aliases": [
+            "JFK",
+            "Kennedy"
+          ]
+        },
+        {
+          "answer": "James A. Garfield",
+          "display": "49 years, 304 days",
+          "aliases": [
+            "Garfield"
+          ]
+        },
+        {
+          "answer": "James K. Polk",
+          "display": "53 years, 225 days",
+          "aliases": [
+            "Polk"
+          ]
+        },
+        {
+          "answer": "Abraham Lincoln",
+          "display": "56 years, 62 days",
+          "aliases": [
+            "Lincoln",
+            "Abe Lincoln"
+          ]
+        },
+        {
+          "answer": "Chester A. Arthur",
+          "display": "57 years, 44 days",
+          "aliases": [
+            "Arthur"
+          ]
+        },
+        {
+          "answer": "Warren G. Harding",
+          "display": "57 years, 273 days",
+          "aliases": [
+            "Harding"
+          ]
+        },
+        {
+          "answer": "William McKinley",
+          "display": "58 years, 228 days",
+          "aliases": [
+            "McKinley"
+          ]
+        },
+        {
+          "answer": "Theodore Roosevelt",
+          "display": "60 years, 71 days",
+          "aliases": [
+            "Teddy Roosevelt",
+            "TR"
+          ]
+        },
+        {
+          "answer": "Calvin Coolidge",
+          "display": "60 years, 185 days",
+          "aliases": [
+            "Coolidge"
+          ]
+        },
+        {
+          "answer": "Franklin D. Roosevelt",
+          "display": "63 years, 72 days",
+          "aliases": [
+            "FDR",
+            "Franklin Roosevelt"
+          ]
+        },
+        {
+          "answer": "Ulysses S. Grant",
+          "display": "63 years, 87 days",
+          "aliases": [
+            "Grant"
+          ]
+        },
+        {
+          "answer": "Lyndon B. Johnson",
+          "display": "64 years, 148 days",
+          "aliases": [
+            "LBJ"
+          ]
+        },
+        {
+          "answer": "Franklin Pierce",
+          "display": "64 years, 319 days",
+          "aliases": [
+            "Pierce"
+          ]
+        },
+        {
+          "answer": "Zachary Taylor",
+          "display": "65 years, 227 days",
+          "aliases": [
+            "Taylor"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "history/leaders/us-vice-presidents",
+      "difficulty": 2,
+      "question": "Top 10 longest-lived US vice presidents by age at death (deceased vice presidents only; living vice presidents excluded; as of 15 May 2026)",
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1354268429 | table 1 | name: Vice president | value: Lifespan / Age | header rows: 2 | where: Lifespan / Died!~living",
+      "tags": [
+        "history",
+        "vice presidents",
+        "lifespan"
+      ],
+      "answers": [
+        {
+          "answer": "John Nance Garner",
+          "display": "98 years, 350 days",
+          "aliases": [
+            "Garner",
+            "Cactus Jack"
+          ]
+        },
+        {
+          "answer": "Levi P. Morton",
+          "display": "96 years, 0 days",
+          "aliases": [
+            "Levi Morton",
+            "Morton"
+          ]
+        },
+        {
+          "answer": "George H. W. Bush",
+          "display": "94 years, 171 days",
+          "aliases": [
+            "George H.W. Bush",
+            "George Bush"
+          ]
+        },
+        {
+          "answer": "Gerald Ford",
+          "display": "93 years, 165 days",
+          "aliases": [
+            "Gerald R. Ford"
+          ]
+        },
+        {
+          "answer": "Walter Mondale",
+          "display": "93 years, 104 days",
+          "aliases": [
+            "Walter F. Mondale"
+          ]
+        },
+        {
+          "answer": "John Adams",
+          "display": "90 years, 247 days"
+        },
+        {
+          "answer": "Harry S. Truman",
+          "display": "88 years, 232 days",
+          "aliases": [
+            "Harry Truman",
+            "Truman"
+          ]
+        },
+        {
+          "answer": "Charles G. Dawes",
+          "display": "85 years, 239 days",
+          "aliases": [
+            "Charles Dawes",
+            "Dawes"
+          ]
+        },
+        {
+          "answer": "Dick Cheney",
+          "display": "84 years, 277 days",
+          "aliases": [
+            "Richard Cheney",
+            "Cheney"
+          ]
+        },
+        {
+          "answer": "Thomas Jefferson",
+          "display": "83 years, 82 days",
+          "aliases": [
+            "Jefferson"
+          ]
+        },
+        {
+          "answer": "Hannibal Hamlin",
+          "display": "81 years, 311 days",
+          "aliases": [
+            "Hamlin"
+          ]
+        },
+        {
+          "answer": "Richard Nixon",
+          "display": "81 years, 103 days",
+          "aliases": [
+            "Nixon"
+          ]
+        },
+        {
+          "answer": "Aaron Burr",
+          "display": "80 years, 221 days",
+          "aliases": [
+            "Burr"
+          ]
+        },
+        {
+          "answer": "Martin Van Buren",
+          "display": "79 years, 231 days",
+          "aliases": [
+            "Van Buren"
+          ]
+        },
+        {
+          "answer": "Adlai Stevenson I",
+          "display": "78 years, 234 days",
+          "aliases": [
+            "Adlai Stevenson"
+          ]
+        }
+      ]
+    }
+  ]
+}

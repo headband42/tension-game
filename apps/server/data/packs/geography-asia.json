@@ -1,0 +1,641 @@
+{
+  "categories": [
+    {
+      "path": "geography/asia",
+      "name": "Asia"
+    },
+    {
+      "path": "geography/asia/japan",
+      "name": "Japan"
+    },
+    {
+      "path": "geography/asia/philippines",
+      "name": "Philippines"
+    },
+    {
+      "path": "geography/asia/india",
+      "name": "India"
+    },
+    {
+      "path": "geography/asia/china",
+      "name": "China"
+    },
+    {
+      "path": "geography/asia/countries",
+      "name": "Asian countries"
+    }
+  ],
+  "questions": [
+    {
+      "category": "geography/asia/japan",
+      "question": "Top 10 most populous Japanese prefectures (2025 census)",
+      "cutoff": 10,
+      "difficulty": 1,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1376654015 | table 1 | name: Prefecture | value: Census Population Oct 1, 2025 | where: Prefecture!=Japan",
+      "tags": [
+        "geography",
+        "asia",
+        "japan",
+        "population"
+      ],
+      "answers": [
+        {
+          "answer": "Tokyo",
+          "display": "14,246,219",
+          "aliases": [
+            "Tokyo Metropolis"
+          ]
+        },
+        {
+          "answer": "Kanagawa",
+          "display": "9,193,657"
+        },
+        {
+          "answer": "Osaka",
+          "display": "8,764,578"
+        },
+        {
+          "answer": "Aichi",
+          "display": "7,449,403"
+        },
+        {
+          "answer": "Saitama",
+          "display": "7,287,169"
+        },
+        {
+          "answer": "Chiba",
+          "display": "6,258,512"
+        },
+        {
+          "answer": "Hyogo",
+          "display": "5,323,825"
+        },
+        {
+          "answer": "Fukuoka",
+          "display": "5,081,879"
+        },
+        {
+          "answer": "Hokkaido",
+          "display": "4,985,419"
+        },
+        {
+          "answer": "Shizuoka",
+          "display": "3,468,845"
+        },
+        {
+          "answer": "Ibaraki",
+          "display": "2,791,207"
+        },
+        {
+          "answer": "Hiroshima",
+          "display": "2,683,399"
+        },
+        {
+          "answer": "Kyoto",
+          "display": "2,502,747"
+        }
+      ]
+    },
+    {
+      "category": "geography/asia/philippines",
+      "question": "Top 10 largest islands of the Philippines by area",
+      "cutoff": 10,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1372180852 | table 1 | name: Name of island | value: Area",
+      "tags": [
+        "geography",
+        "asia",
+        "philippines",
+        "islands"
+      ],
+      "answers": [
+        {
+          "answer": "Luzon",
+          "display": "109,965 km2"
+        },
+        {
+          "answer": "Mindanao",
+          "display": "97,530 km2"
+        },
+        {
+          "answer": "Samar",
+          "display": "13,429 km2"
+        },
+        {
+          "answer": "Negros",
+          "display": "13,310 km2"
+        },
+        {
+          "answer": "Palawan",
+          "display": "12,189 km2"
+        },
+        {
+          "answer": "Panay",
+          "display": "12,011 km2"
+        },
+        {
+          "answer": "Mindoro",
+          "display": "10,572 km2"
+        },
+        {
+          "answer": "Leyte",
+          "display": "7,368 km2"
+        },
+        {
+          "answer": "Cebu",
+          "display": "4,468 km2"
+        },
+        {
+          "answer": "Bohol",
+          "display": "3,821 km2"
+        },
+        {
+          "answer": "Masbate",
+          "display": "3,268 km2"
+        },
+        {
+          "answer": "Catanduanes",
+          "display": "1,523 km2"
+        },
+        {
+          "answer": "Basilan",
+          "display": "1,265 km2"
+        }
+      ]
+    },
+    {
+      "category": "geography/asia/india",
+      "question": "Top 10 most populous Indian states (2024 estimates)",
+      "cutoff": 10,
+      "difficulty": 1,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1375974883 | table 1 | name: State or Union Territory | value: Population (2024) | header rows: 2 | where: Rank~S[0-9]",
+      "tags": [
+        "geography",
+        "asia",
+        "india",
+        "population"
+      ],
+      "answers": [
+        {
+          "answer": "Uttar Pradesh",
+          "display": "241,066,874"
+        },
+        {
+          "answer": "Bihar",
+          "display": "128,592,000"
+        },
+        {
+          "answer": "Maharashtra",
+          "display": "127,528,000"
+        },
+        {
+          "answer": "West Bengal",
+          "display": "99,563,000"
+        },
+        {
+          "answer": "Madhya Pradesh",
+          "display": "87,610,000"
+        },
+        {
+          "answer": "Rajasthan",
+          "display": "81,897,000"
+        },
+        {
+          "answer": "Tamil Nadu",
+          "display": "77,089,000"
+        },
+        {
+          "answer": "Gujarat",
+          "display": "72,367,000"
+        },
+        {
+          "answer": "Karnataka",
+          "display": "68,115,000"
+        },
+        {
+          "answer": "Andhra Pradesh",
+          "display": "53,340,000"
+        },
+        {
+          "answer": "Odisha",
+          "display": "46,566,000"
+        },
+        {
+          "answer": "Jharkhand",
+          "display": "39,963,000"
+        },
+        {
+          "answer": "Telangana",
+          "display": "38,272,000"
+        }
+      ]
+    },
+    {
+      "category": "geography/asia/india",
+      "question": "Top 10 largest Indian states by area",
+      "cutoff": 10,
+      "difficulty": 1,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1376547964 | table 1 | name: State | value: Area (km2) | where: State!=Total",
+      "tags": [
+        "geography",
+        "asia",
+        "india",
+        "area"
+      ],
+      "answers": [
+        {
+          "answer": "Rajasthan",
+          "display": "342,239 km2"
+        },
+        {
+          "answer": "Madhya Pradesh",
+          "display": "308,252 km2",
+          "aliases": [
+            "MP"
+          ]
+        },
+        {
+          "answer": "Maharashtra",
+          "display": "307,713 km2"
+        },
+        {
+          "answer": "Uttar Pradesh",
+          "display": "240,928 km2",
+          "aliases": [
+            "UP"
+          ]
+        },
+        {
+          "answer": "Gujarat",
+          "display": "196,024 km2"
+        },
+        {
+          "answer": "Karnataka",
+          "display": "191,791 km2"
+        },
+        {
+          "answer": "Andhra Pradesh",
+          "display": "162,975 km2"
+        },
+        {
+          "answer": "Odisha",
+          "display": "155,707 km2",
+          "aliases": [
+            "Orissa"
+          ]
+        },
+        {
+          "answer": "Chhattisgarh",
+          "display": "135,194 km2"
+        },
+        {
+          "answer": "Tamil Nadu",
+          "display": "130,058 km2"
+        },
+        {
+          "answer": "Telangana",
+          "display": "112,077 km2"
+        },
+        {
+          "answer": "Bihar",
+          "display": "94,163 km2"
+        },
+        {
+          "answer": "West Bengal",
+          "display": "88,752 km2"
+        }
+      ]
+    },
+    {
+      "category": "geography/asia/china",
+      "question": "Top 10 most populous Chinese provincial-level divisions (2020 census)",
+      "cutoff": 10,
+      "difficulty": 1,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1359277690 | table 5 | name: Administrative Division | value: 2020 | where: Administrative Division!=People's Republic of China",
+      "tags": [
+        "geography",
+        "asia",
+        "china",
+        "population"
+      ],
+      "answers": [
+        {
+          "answer": "Guangdong",
+          "display": "126,012,510"
+        },
+        {
+          "answer": "Shandong",
+          "display": "101,527,453"
+        },
+        {
+          "answer": "Henan",
+          "display": "99,365,519"
+        },
+        {
+          "answer": "Jiangsu",
+          "display": "84,748,016"
+        },
+        {
+          "answer": "Sichuan",
+          "display": "83,674,866"
+        },
+        {
+          "answer": "Hebei",
+          "display": "74,610,235"
+        },
+        {
+          "answer": "Hunan",
+          "display": "66,444,864"
+        },
+        {
+          "answer": "Zhejiang",
+          "display": "64,567,588"
+        },
+        {
+          "answer": "Anhui",
+          "display": "61,027,171"
+        },
+        {
+          "answer": "Hubei",
+          "display": "57,752,557"
+        },
+        {
+          "answer": "Guangxi",
+          "display": "50,126,804"
+        },
+        {
+          "answer": "Yunnan",
+          "display": "47,209,277"
+        },
+        {
+          "answer": "Jiangxi",
+          "display": "45,188,635"
+        }
+      ]
+    },
+    {
+      "category": "geography/asia/india",
+      "question": "Top 10 busiest airports in India by passenger traffic (FY 2025–26)",
+      "cutoff": 10,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1376624030 | table 1 | name: Name | value: Passengers 2025",
+      "tags": [
+        "geography",
+        "asia",
+        "india",
+        "airports"
+      ],
+      "answers": [
+        {
+          "answer": "Indira Gandhi International Airport",
+          "display": "78,701,971",
+          "aliases": [
+            "Delhi",
+            "Delhi airport"
+          ]
+        },
+        {
+          "answer": "Chhatrapati Shivaji Maharaj International Airport",
+          "display": "55,290,095",
+          "aliases": [
+            "Mumbai"
+          ]
+        },
+        {
+          "answer": "Kempegowda International Airport",
+          "display": "44,470,035",
+          "aliases": [
+            "Bengaluru",
+            "Bangalore"
+          ]
+        },
+        {
+          "answer": "Rajiv Gandhi International Airport",
+          "display": "30,483,885",
+          "aliases": [
+            "Hyderabad"
+          ]
+        },
+        {
+          "answer": "Chennai International Airport",
+          "display": "23,017,324",
+          "aliases": [
+            "Chennai"
+          ]
+        },
+        {
+          "answer": "Netaji Subhas Chandra Bose International Airport",
+          "display": "21,102,741",
+          "aliases": [
+            "Kolkata",
+            "Calcutta"
+          ]
+        },
+        {
+          "answer": "Ahmedabad Airport",
+          "display": "13,822,287",
+          "aliases": [
+            "Ahmedabad"
+          ]
+        },
+        {
+          "answer": "Cochin International Airport",
+          "display": "11,302,552",
+          "aliases": [
+            "Kochi",
+            "Cochin"
+          ]
+        },
+        {
+          "answer": "Pune Airport",
+          "display": "11,005,988",
+          "aliases": [
+            "Pune"
+          ]
+        },
+        {
+          "answer": "Lokpriya Gopinath Bordoloi International Airport",
+          "display": "6,622,784",
+          "aliases": [
+            "Guwahati"
+          ]
+        },
+        {
+          "answer": "Dabolim Airport",
+          "display": "6,126,944",
+          "aliases": [
+            "Goa"
+          ]
+        },
+        {
+          "answer": "Chaudhary Charan Singh International Airport",
+          "display": "6,065,957",
+          "aliases": [
+            "Lucknow"
+          ]
+        },
+        {
+          "answer": "Jaipur International Airport",
+          "display": "5,627,147",
+          "aliases": [
+            "Jaipur"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "geography/asia/countries",
+      "question": "Top 10 largest Asian countries whose names start with A to M, by total area (Egypt not counted)",
+      "cutoff": 10,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1377031117 | table 1 | name: English short | value: Area | where: English short~^[A-M] | where: English short!~Egypt",
+      "tags": [
+        "geography",
+        "asia",
+        "countries",
+        "area"
+      ],
+      "answers": [
+        {
+          "answer": "China",
+          "display": "9,596,961 km2",
+          "aliases": [
+            "PRC"
+          ]
+        },
+        {
+          "answer": "India",
+          "display": "3,287,263 km2"
+        },
+        {
+          "answer": "Kazakhstan",
+          "display": "2,724,900 km2"
+        },
+        {
+          "answer": "Indonesia",
+          "display": "1,904,569 km2"
+        },
+        {
+          "answer": "Iran",
+          "display": "1,648,195 km2",
+          "aliases": [
+            "Persia"
+          ]
+        },
+        {
+          "answer": "Mongolia",
+          "display": "1,564,116 km2"
+        },
+        {
+          "answer": "Myanmar",
+          "display": "676,578 km2",
+          "aliases": [
+            "Burma"
+          ]
+        },
+        {
+          "answer": "Afghanistan",
+          "display": "652,230 km2"
+        },
+        {
+          "answer": "Iraq",
+          "display": "438,317 km2"
+        },
+        {
+          "answer": "Japan",
+          "display": "377,915 km2"
+        },
+        {
+          "answer": "Malaysia",
+          "display": "329,847 km2"
+        },
+        {
+          "answer": "Laos",
+          "display": "236,800 km2"
+        },
+        {
+          "answer": "Kyrgyzstan",
+          "display": "199,951 km2"
+        }
+      ]
+    },
+    {
+      "category": "geography/asia/china",
+      "question": "Top 10 largest Chinese provincial-level divisions by area",
+      "cutoff": 10,
+      "difficulty": 1,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1376622017 | table 1 | name: Province | value: Area",
+      "tags": [
+        "geography",
+        "asia",
+        "china",
+        "area"
+      ],
+      "answers": [
+        {
+          "answer": "Xinjiang",
+          "display": "1,644,707 km2"
+        },
+        {
+          "answer": "Tibet",
+          "display": "1,204,776 km2",
+          "aliases": [
+            "Xizang"
+          ]
+        },
+        {
+          "answer": "Inner Mongolia",
+          "display": "1,199,372 km2"
+        },
+        {
+          "answer": "Qinghai",
+          "display": "720,000 km2"
+        },
+        {
+          "answer": "Sichuan",
+          "display": "484,056 km2"
+        },
+        {
+          "answer": "Heilongjiang",
+          "display": "472,766 km2"
+        },
+        {
+          "answer": "Gansu",
+          "display": "457,382 km2"
+        },
+        {
+          "answer": "Yunnan",
+          "display": "383,195 km2"
+        },
+        {
+          "answer": "Guangxi",
+          "display": "237,818 km2"
+        },
+        {
+          "answer": "Hunan",
+          "display": "211,842 km2"
+        },
+        {
+          "answer": "Shaanxi",
+          "display": "205,624 km2"
+        },
+        {
+          "answer": "Jilin",
+          "display": "190,282 km2"
+        },
+        {
+          "answer": "Hebei",
+          "display": "189,809 km2"
+        }
+      ]
+    }
+  ]
+}

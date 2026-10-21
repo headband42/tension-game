@@ -3,6 +3,12 @@ export interface AnswerKey {
   rank: number;
   text: string;
   aliases: string[];
+  /**
+   * Keys (see answerKey) of other answers that a misspelling of this one must
+   * never be taken for, because the question bank lists them side by side:
+   * "poland" for the Netherlands (alias Holland). See decoyIndex.
+   */
+  decoys?: string[];
 }
 
 export interface Match {
@@ -30,7 +36,21 @@ const NUMBER_WORDS: Record<string, string> = {
   ten: '10',
 };
 
-const ROMAN_NUMERALS = ['i', 'ii', 'iii', 'iv', 'v', 'vi', 'vii', 'viii', 'ix', 'x', 'xi', 'xii', 'xiii', 'xiv', 'xv'];
+/** Roman numerals from I to LXXXIX, the range answers use (Rocky IV, Super Bowl LIX). */
+const ROMAN_NUMERAL = /^(?:xl|l?x{0,3})(?:ix|iv|v?i{0,3})$/;
+const ROMAN_DIGITS: Record<string, number> = { i: 1, v: 5, x: 10, l: 50 };
+/** Numeral-shaped words that are usually names: Jet Li, Liv Tyler. */
+const NOT_NUMERALS = new Set(['li', 'liv']);
+
+function romanValue(token: string): number {
+  if (!token || NOT_NUMERALS.has(token) || !ROMAN_NUMERAL.test(token)) return 0;
+  let total = 0;
+  for (let i = 0; i < token.length; i++) {
+    const digit = ROMAN_DIGITS[token[i]];
+    total += digit < (ROMAN_DIGITS[token[i + 1]] ?? 0) ? -digit : digit;
+  }
+  return total;
+}
 
 /**
  * Reduces an answer to a comparable form: lower case, no accents or
@@ -39,11 +59,17 @@ const ROMAN_NUMERALS = ['i', 'ii', 'iii', 'iv', 'v', 'vi', 'vii', 'viii', 'ix', 
  *   "Mt. Everest" → "mount everest"    "São Paulo" → "sao paulo"
  *   "The Avengers" → "avengers"        "A's" → "as"
  */
+/** Letters that Unicode doesn't split into a base letter plus an accent, so NFKD leaves them alone. */
+const UNSPLIT_LETTERS: Record<string, string> = {
+  đ: 'd', ð: 'd', ħ: 'h', ı: 'i', ł: 'l', ø: 'o', œ: 'oe', æ: 'ae', ß: 'ss', þ: 'th',
+};
+
 export function normalizeAnswer(raw: string): string {
   return raw
     .normalize('NFKD')
     .replace(/[̀-ͯ]/g, '')
     .toLowerCase()
+    .replace(/[đðħıłøœæßþ]/g, (letter) => UNSPLIT_LETTERS[letter])
     .replace(/&/g, ' and ')
     .replace(/['’‘`]/g, '')
     .replace(/[^a-z0-9]+/g, ' ')
@@ -67,7 +93,7 @@ export function answerKey(raw: string): string {
 function words(raw: string): string[] {
   const tokens = normalizeAnswer(raw).split(' ').filter(Boolean);
   return tokens.map((token, i) => {
-    const value = ROMAN_NUMERALS.indexOf(token) + 1;
+    const value = romanValue(token);
     const counts = value > 0 && tokens.length > 1 && (token.length > 1 || i === tokens.length - 1);
     return counts ? String(value) : token;
   });
@@ -106,6 +132,19 @@ export function numbersIn(raw: string): string {
     .join(' ');
 }
 
+/** Words that tell otherwise identical names apart: North / South Korea, Monday / Sunday Night Football. */
+const MARKERS = new Set([
+  'north', 'south', 'east', 'west', 'northern', 'southern', 'eastern', 'western',
+  'monday', 'tuesday', 'wednesday', 'thursday', 'friday', 'saturday', 'sunday',
+]);
+
+/** The direction and weekday words in an answer: "East Germany" → "east", "Monday Night Football" → "monday". */
+export function markersIn(raw: string): string {
+  return words(raw)
+    .filter((word) => MARKERS.has(word))
+    .join(' ');
+}
+
 /**
  * Optimal string alignment distance: insertions, deletions, substitutions and
  * swaps of two neighbouring letters ("Lybia" for "Libya") each cost one edit.
@@ -135,19 +174,28 @@ interface Spelling {
   key: string;
   sound: string;
   numbers: string;
+  markers: string;
 }
 
 function spelling(raw: string): Spelling {
-  return { key: answerKey(raw), sound: soundKey(raw), numbers: numbersIn(raw) };
+  return { key: answerKey(raw), sound: soundKey(raw), numbers: numbersIn(raw), markers: markersIn(raw) };
 }
+
+/** Spellings shorter than this only ever match exactly: one typo in "C" or "UK" is a different answer. */
+export const MIN_FUZZY_LENGTH = 4;
 
 /**
  * How closely a typed answer resembles a listed spelling: the better of the
  * written and the sound-alike comparison. Numbers have to agree exactly, so
- * "Star Wars 9" is never taken for "Star Wars 7".
+ * "Star Wars 9" is never taken for "Star Wars 7"; so do direction and weekday
+ * words when both sides have one, so "North Korea" is never taken for "South
+ * Korea" (a typo in the word itself, "Sotuh Korea", still counts); and very
+ * short spellings have to agree exactly, so the letter "K" is never taken for "C".
  */
 function resemblance(typed: Spelling, listed: Spelling) {
   if (typed.numbers !== listed.numbers) return { score: 0, written: 0 };
+  if (typed.markers && listed.markers && typed.markers !== listed.markers) return { score: 0, written: 0 };
+  if (Math.min(typed.key.length, listed.key.length) < MIN_FUZZY_LENGTH) return { score: 0, written: 0 };
   const written = similarity(typed.key, listed.key);
   return { score: Math.max(written, similarity(typed.sound, listed.sound)), written };
 }
@@ -157,12 +205,105 @@ export function confusable(a: string, b: string, threshold = FUZZY_THRESHOLD): b
   return resemblance(spelling(a), spelling(b)).score >= threshold;
 }
 
+/** Spellings that other answers' spellings can be confused with, by answer key. */
+export type DecoyIndex = Map<string, Set<string>>;
+
+/**
+ * Indexes every pair of look-alike spellings that some question lists as
+ * different answers. Poland and the Netherlands (alias Holland) share medal
+ * tables, so "Poland" and "Holland" are indexed against each other. Iceland and
+ * Ireland too. A typed "Poland" is then never scored as the Netherlands, even
+ * in a list Poland isn't on. Pass each question's answers.
+ */
+export function decoyIndex(questions: Iterable<{ text: string; aliases: string[] }[]>): DecoyIndex {
+  const index: DecoyIndex = new Map();
+  const link = (a: string, b: string) => {
+    if (!index.has(a)) index.set(a, new Set());
+    index.get(a)!.add(b);
+  };
+  // The same names recur across questions (every medal table lists the United States).
+  const profiles = new Map<string, Profile>();
+  const profileOf = (raw: string) => profiles.get(raw) ?? profiles.set(raw, profile(raw)).get(raw)!;
+  for (const answers of questions) {
+    const spellings = answers.map((answer) => [answer.text, ...answer.aliases].map(profileOf).filter((p) => p.spelling.key));
+    for (let i = 0; i < spellings.length; i++) {
+      for (let j = i + 1; j < spellings.length; j++) {
+        for (const a of spellings[i]) {
+          for (const b of spellings[j]) {
+            if (a.spelling.key === b.spelling.key || !couldResemble(a, b)) continue;
+            if (resemblance(a.spelling, b.spelling).score < FUZZY_THRESHOLD) continue;
+            link(a.spelling.key, b.spelling.key);
+            link(b.spelling.key, a.spelling.key);
+          }
+        }
+      }
+    }
+  }
+  return index;
+}
+
+/** The decoys for one answer: look-alikes of its spellings that other questions list beside them. */
+export function decoysFor(answer: { text: string; aliases: string[] }, index: DecoyIndex): string[] {
+  const own = new Set([answer.text, ...answer.aliases].map(answerKey));
+  const decoys = new Set<string>();
+  for (const key of own) for (const decoy of index.get(key) ?? []) if (!own.has(decoy)) decoys.add(decoy);
+  return [...decoys];
+}
+
+/** A spelling with its letter counts, for ruling out pairs cheaply. */
+interface Profile {
+  spelling: Spelling;
+  keyLetters: Uint8Array;
+  soundLetters: Uint8Array;
+}
+
+function profile(raw: string): Profile {
+  const s = spelling(raw);
+  return { spelling: s, keyLetters: letterCounts(s.key), soundLetters: letterCounts(s.sound) };
+}
+
+/** Counts of a to z, 0 to 9 and anything else. */
+function letterCounts(text: string) {
+  const counts = new Uint8Array(37);
+  for (let i = 0; i < text.length; i++) {
+    const code = text.charCodeAt(i);
+    const slot = code >= 97 && code <= 122 ? code - 97 : code >= 48 && code <= 57 ? code - 22 : 36;
+    if (counts[slot] < 255) counts[slot]++;
+  }
+  return counts;
+}
+
+/**
+ * A cheap bound on resemblance: an edit adds or removes at most one letter on
+ * each side, so the letters one spelling has and the other lacks are no more
+ * than the edit distance. Pairs too far apart on that count can't reach the threshold.
+ */
+function couldResemble(a: Profile, b: Profile) {
+  return (
+    withinReach(a.spelling.key, b.spelling.key, a.keyLetters, b.keyLetters) ||
+    withinReach(a.spelling.sound, b.spelling.sound, a.soundLetters, b.soundLetters)
+  );
+}
+
+function withinReach(x: string, y: string, xLetters: Uint8Array, yLetters: Uint8Array) {
+  const longest = Math.max(x.length, y.length);
+  let onlyX = 0;
+  let onlyY = 0;
+  for (let i = 0; i < 37; i++) {
+    const gap = xLetters[i] - yLetters[i];
+    if (gap > 0) onlyX += gap;
+    else onlyY -= gap;
+  }
+  return longest - Math.max(onlyX, onlyY) >= FUZZY_THRESHOLD * longest;
+}
+
 /**
  * Finds which official answer a submission refers to.
  *
  * 1. An exact match on the answer text or any alias wins outright.
  * 2. Otherwise the closest spelling wins, if it reaches the threshold either as
- *    written (allowing typos and swapped letters) or as it sounds.
+ *    written (allowing typos and swapped letters) or as it sounds, unless what
+ *    was typed is one of that answer's decoys: another real answer, spelled exactly.
  */
 export function matchAnswer(raw: string, answers: AnswerKey[], threshold = FUZZY_THRESHOLD): Match {
   const typed = spelling(raw);
@@ -177,7 +318,7 @@ export function matchAnswer(raw: string, answers: AnswerKey[], threshold = FUZZY
 
   let best: { answer: AnswerKey; score: number; written: number } | null = null;
   for (const candidate of candidates) {
-    if (!candidate.spelling.key) continue;
+    if (!candidate.spelling.key || candidate.answer.decoys?.includes(typed.key)) continue;
     const { score, written } = resemblance(typed, candidate.spelling);
     if (score < threshold) continue;
     if (!best || score > best.score || (score === best.score && written > best.written)) {

@@ -1,0 +1,2292 @@
+{
+  "categories": [
+    {
+      "path": "sports/handball",
+      "name": "Handball"
+    },
+    {
+      "path": "sports/handball/world-championship-men",
+      "name": "World Championship (men)"
+    },
+    {
+      "path": "sports/handball/world-championship-women",
+      "name": "World Championship (women)"
+    }
+  ],
+  "questions": [
+    {
+      "category": "sports/handball/world-championship-men",
+      "question": "Top 5 teams in the final ranking of the 1970 World Men's Handball Championship",
+      "cutoff": 5,
+      "difficulty": 3,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1246891907 | table 19 | name: Team | value: Rank | order: asc",
+      "tags": [
+        "handball",
+        "world-championship",
+        "men",
+        "1970"
+      ],
+      "answers": [
+        {
+          "answer": "Romania",
+          "display": "#1 — Champions"
+        },
+        {
+          "answer": "East Germany",
+          "display": "#2 — Runners-up"
+        },
+        {
+          "answer": "Yugoslavia",
+          "display": "#3 — Third place"
+        },
+        {
+          "answer": "Denmark",
+          "display": "#4 — Fourth place"
+        },
+        {
+          "answer": "West Germany",
+          "display": "#5 — Fifth place"
+        },
+        {
+          "answer": "Sweden",
+          "display": "#6 — Sixth place"
+        },
+        {
+          "answer": "Czechoslovakia",
+          "display": "#7 — Seventh place"
+        },
+        {
+          "answer": "Hungary",
+          "display": "#8 — Eighth place"
+        }
+      ]
+    },
+    {
+      "category": "sports/handball/world-championship-men",
+      "question": "Top 8 teams in the final ranking of the 2013 World Men's Handball Championship",
+      "cutoff": 8,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1374348977 | table 12 | name: Team | value: Rank | order: asc",
+      "tags": [
+        "handball",
+        "world-championship",
+        "men",
+        "2013"
+      ],
+      "answers": [
+        {
+          "answer": "Spain",
+          "display": "#1 — Champions"
+        },
+        {
+          "answer": "Denmark",
+          "display": "#2 — Runners-up"
+        },
+        {
+          "answer": "Croatia",
+          "display": "#3 — Third place"
+        },
+        {
+          "answer": "Slovenia",
+          "display": "#4 — Fourth place"
+        },
+        {
+          "answer": "Germany",
+          "display": "#5 — Fifth place"
+        },
+        {
+          "answer": "France",
+          "display": "#6 — Sixth place"
+        },
+        {
+          "answer": "Russia",
+          "display": "#7 — Seventh place"
+        },
+        {
+          "answer": "Hungary",
+          "display": "#8 — Eighth place"
+        },
+        {
+          "answer": "Poland",
+          "display": "#9 — Ninth place"
+        },
+        {
+          "answer": "Serbia",
+          "display": "#10 — Tenth place"
+        },
+        {
+          "answer": "Tunisia",
+          "display": "#11 — Eleventh place"
+        }
+      ]
+    },
+    {
+      "category": "sports/handball/world-championship-men",
+      "question": "Top 8 teams in the final ranking of the 2015 World Men's Handball Championship",
+      "cutoff": 8,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1333137170 | table 14 | name: Team | value: Rank | order: asc",
+      "tags": [
+        "handball",
+        "world-championship",
+        "men",
+        "2015"
+      ],
+      "answers": [
+        {
+          "answer": "France",
+          "display": "#1 — Champions"
+        },
+        {
+          "answer": "Qatar",
+          "display": "#2 — Runners-up"
+        },
+        {
+          "answer": "Poland",
+          "display": "#3 — Third place"
+        },
+        {
+          "answer": "Spain",
+          "display": "#4 — Fourth place"
+        },
+        {
+          "answer": "Denmark",
+          "display": "#5 — Fifth place"
+        },
+        {
+          "answer": "Croatia",
+          "display": "#6 — Sixth place"
+        },
+        {
+          "answer": "Germany",
+          "display": "#7 — Seventh place"
+        },
+        {
+          "answer": "Slovenia",
+          "display": "#8 — Eighth place"
+        },
+        {
+          "answer": "North Macedonia",
+          "display": "#9 — Ninth place",
+          "aliases": [
+            "Macedonia"
+          ]
+        },
+        {
+          "answer": "Sweden",
+          "display": "#10 — Tenth place"
+        },
+        {
+          "answer": "Iceland",
+          "display": "#11 — Eleventh place"
+        }
+      ]
+    },
+    {
+      "category": "sports/handball/world-championship-men",
+      "question": "Top 8 teams in the final ranking of the 2019 World Men's Handball Championship",
+      "cutoff": 8,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1378456254 | table 13 | name: Team | value: Rank | order: asc",
+      "tags": [
+        "handball",
+        "world-championship",
+        "men",
+        "2019"
+      ],
+      "answers": [
+        {
+          "answer": "Denmark",
+          "display": "#1 — Champions"
+        },
+        {
+          "answer": "Norway",
+          "display": "#2 — Runners-up"
+        },
+        {
+          "answer": "France",
+          "display": "#3 — Third place"
+        },
+        {
+          "answer": "Germany",
+          "display": "#4 — Fourth place"
+        },
+        {
+          "answer": "Sweden",
+          "display": "#5 — Fifth place"
+        },
+        {
+          "answer": "Croatia",
+          "display": "#6 — Sixth place"
+        },
+        {
+          "answer": "Spain",
+          "display": "#7 — Seventh place"
+        },
+        {
+          "answer": "Egypt",
+          "display": "#8 — Eighth place"
+        },
+        {
+          "answer": "Brazil",
+          "display": "#9 — Ninth place"
+        },
+        {
+          "answer": "Hungary",
+          "display": "#10 — Tenth place"
+        },
+        {
+          "answer": "Iceland",
+          "display": "#11 — Eleventh place"
+        }
+      ]
+    },
+    {
+      "category": "sports/handball/world-championship-men",
+      "question": "Top 10 teams in the final ranking of the 2021 World Men's Handball Championship",
+      "cutoff": 10,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1376134690 | table 22 | name: Team | value: Rank | order: asc",
+      "tags": [
+        "handball",
+        "world-championship",
+        "men",
+        "2021"
+      ],
+      "answers": [
+        {
+          "answer": "Denmark",
+          "display": "#1 — Champions"
+        },
+        {
+          "answer": "Sweden",
+          "display": "#2 — Runners-up"
+        },
+        {
+          "answer": "Spain",
+          "display": "#3 — Third place"
+        },
+        {
+          "answer": "France",
+          "display": "#4 — Fourth place"
+        },
+        {
+          "answer": "Hungary",
+          "display": "#5 — Fifth place"
+        },
+        {
+          "answer": "Norway",
+          "display": "#6 — Sixth place"
+        },
+        {
+          "answer": "Egypt",
+          "display": "#7 — Seventh place"
+        },
+        {
+          "answer": "Qatar",
+          "display": "#8 — Eighth place"
+        },
+        {
+          "answer": "Slovenia",
+          "display": "#9 — Ninth place"
+        },
+        {
+          "answer": "Portugal",
+          "display": "#10 — Tenth place"
+        },
+        {
+          "answer": "Argentina",
+          "display": "#11 — Eleventh place"
+        },
+        {
+          "answer": "Germany",
+          "display": "#12 — Twelfth place"
+        },
+        {
+          "answer": "Poland",
+          "display": "#13 — Thirteenth place"
+        }
+      ]
+    },
+    {
+      "category": "sports/handball/world-championship-men",
+      "question": "Top 10 teams in the final ranking of the 2023 World Men's Handball Championship",
+      "cutoff": 10,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1379939545 | table 25 | name: Team | value: Rank | order: asc",
+      "tags": [
+        "handball",
+        "world-championship",
+        "men",
+        "2023"
+      ],
+      "answers": [
+        {
+          "answer": "Denmark",
+          "display": "#1 — Champions"
+        },
+        {
+          "answer": "France",
+          "display": "#2 — Runners-up"
+        },
+        {
+          "answer": "Spain",
+          "display": "#3 — Third place"
+        },
+        {
+          "answer": "Sweden",
+          "display": "#4 — Fourth place"
+        },
+        {
+          "answer": "Germany",
+          "display": "#5 — Fifth place"
+        },
+        {
+          "answer": "Norway",
+          "display": "#6 — Sixth place"
+        },
+        {
+          "answer": "Egypt",
+          "display": "#7 — Seventh place"
+        },
+        {
+          "answer": "Hungary",
+          "display": "#8 — Eighth place"
+        },
+        {
+          "answer": "Croatia",
+          "display": "#9 — Ninth place"
+        },
+        {
+          "answer": "Slovenia",
+          "display": "#10 — Tenth place"
+        },
+        {
+          "answer": "Serbia",
+          "display": "#11 — Eleventh place"
+        },
+        {
+          "answer": "Iceland",
+          "display": "#12 — Twelfth place"
+        },
+        {
+          "answer": "Portugal",
+          "display": "#13 — Thirteenth place"
+        }
+      ]
+    },
+    {
+      "category": "sports/handball/world-championship-men",
+      "question": "Top 10 teams in the final ranking of the 2025 World Men's Handball Championship",
+      "cutoff": 10,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1378613629 | table 23 | name: Team | value: Rank | order: asc",
+      "tags": [
+        "handball",
+        "world-championship",
+        "men",
+        "2025"
+      ],
+      "answers": [
+        {
+          "answer": "Denmark",
+          "display": "#1 — Champions"
+        },
+        {
+          "answer": "Croatia",
+          "display": "#2 — Runners-up"
+        },
+        {
+          "answer": "France",
+          "display": "#3 — Third place"
+        },
+        {
+          "answer": "Portugal",
+          "display": "#4 — Fourth place"
+        },
+        {
+          "answer": "Egypt",
+          "display": "#5 — Fifth place"
+        },
+        {
+          "answer": "Germany",
+          "display": "#6 — Sixth place"
+        },
+        {
+          "answer": "Brazil",
+          "display": "#7 — Seventh place"
+        },
+        {
+          "answer": "Hungary",
+          "display": "#8 — Eighth place"
+        },
+        {
+          "answer": "Iceland",
+          "display": "#9 — Ninth place"
+        },
+        {
+          "answer": "Norway",
+          "display": "#10 — Tenth place"
+        },
+        {
+          "answer": "Switzerland",
+          "display": "#11 — Eleventh place"
+        },
+        {
+          "answer": "Netherlands",
+          "display": "#12 — Twelfth place",
+          "aliases": [
+            "Holland"
+          ]
+        },
+        {
+          "answer": "Slovenia",
+          "display": "#13 — Thirteenth place"
+        }
+      ]
+    },
+    {
+      "category": "sports/handball/world-championship-women",
+      "question": "Top 5 teams in the final ranking of the 1993 World Women's Handball Championship",
+      "cutoff": 5,
+      "difficulty": 3,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1335711588 | table 10 | name: Team | value: Pos | order: asc",
+      "tags": [
+        "handball",
+        "world-championship",
+        "women",
+        "1993"
+      ],
+      "answers": [
+        {
+          "answer": "Germany",
+          "display": "#1 — Champions"
+        },
+        {
+          "answer": "Denmark",
+          "display": "#2 — Runners-up"
+        },
+        {
+          "answer": "Norway",
+          "display": "#3 — Third place"
+        },
+        {
+          "answer": "Romania",
+          "display": "#4 — Fourth place"
+        },
+        {
+          "answer": "Russia",
+          "display": "#5 — Fifth place"
+        },
+        {
+          "answer": "Sweden",
+          "display": "#6 — Sixth place"
+        },
+        {
+          "answer": "Hungary",
+          "display": "#7 — Seventh place"
+        },
+        {
+          "answer": "Austria",
+          "display": "#8 — Eighth place"
+        }
+      ]
+    },
+    {
+      "category": "sports/handball/world-championship-women",
+      "question": "Top 8 teams in the final ranking of the 2001 World Women's Handball Championship",
+      "cutoff": 8,
+      "difficulty": 3,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1326048776 | table 6 | name: Team | value: Rank | order: asc",
+      "tags": [
+        "handball",
+        "world-championship",
+        "women",
+        "2001"
+      ],
+      "answers": [
+        {
+          "answer": "Russia",
+          "display": "#1 — Champions"
+        },
+        {
+          "answer": "Norway",
+          "display": "#2 — Runners-up"
+        },
+        {
+          "answer": "FR Yugoslavia",
+          "display": "#3 — Third place",
+          "aliases": [
+            "Yugoslavia"
+          ]
+        },
+        {
+          "answer": "Denmark",
+          "display": "#4 — Fourth place"
+        },
+        {
+          "answer": "France",
+          "display": "#5 — Fifth place"
+        },
+        {
+          "answer": "Hungary",
+          "display": "#6 — Sixth place"
+        },
+        {
+          "answer": "Austria",
+          "display": "#7 — Seventh place"
+        },
+        {
+          "answer": "Sweden",
+          "display": "#8 — Eighth place"
+        },
+        {
+          "answer": "Slovenia",
+          "display": "#9 — Ninth place"
+        },
+        {
+          "answer": "Spain",
+          "display": "#10 — Tenth place"
+        },
+        {
+          "answer": "China",
+          "display": "#11 — Eleventh place"
+        }
+      ]
+    },
+    {
+      "category": "sports/handball/world-championship-women",
+      "question": "Top 8 teams in the final ranking of the 2019 World Women's Handball Championship",
+      "cutoff": 8,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1329580814 | table 13 | name: Team | value: Rank | order: asc",
+      "tags": [
+        "handball",
+        "world-championship",
+        "women",
+        "2019"
+      ],
+      "answers": [
+        {
+          "answer": "Netherlands",
+          "display": "#1 — Champions",
+          "aliases": [
+            "Holland"
+          ]
+        },
+        {
+          "answer": "Spain",
+          "display": "#2 — Runners-up"
+        },
+        {
+          "answer": "Russia",
+          "display": "#3 — Third place"
+        },
+        {
+          "answer": "Norway",
+          "display": "#4 — Fourth place"
+        },
+        {
+          "answer": "Montenegro",
+          "display": "#5 — Fifth place"
+        },
+        {
+          "answer": "Serbia",
+          "display": "#6 — Sixth place"
+        },
+        {
+          "answer": "Sweden",
+          "display": "#7 — Seventh place"
+        },
+        {
+          "answer": "Germany",
+          "display": "#8 — Eighth place"
+        },
+        {
+          "answer": "Denmark",
+          "display": "#9 — Ninth place"
+        },
+        {
+          "answer": "Japan",
+          "display": "#10 — Tenth place"
+        },
+        {
+          "answer": "South Korea",
+          "display": "#11 — Eleventh place",
+          "aliases": [
+            "Korea"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/handball/world-championship-women",
+      "question": "Top 10 teams in the final ranking of the 2021 World Women's Handball Championship",
+      "cutoff": 10,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1326049783 | table 23 | name: Team | value: Rank | order: asc",
+      "tags": [
+        "handball",
+        "world-championship",
+        "women",
+        "2021"
+      ],
+      "answers": [
+        {
+          "answer": "Norway",
+          "display": "#1 — Champions"
+        },
+        {
+          "answer": "France",
+          "display": "#2 — Runners-up"
+        },
+        {
+          "answer": "Denmark",
+          "display": "#3 — Third place"
+        },
+        {
+          "answer": "Spain",
+          "display": "#4 — Fourth place"
+        },
+        {
+          "answer": "Sweden",
+          "display": "#5 — Fifth place"
+        },
+        {
+          "answer": "Brazil",
+          "display": "#6 — Sixth place"
+        },
+        {
+          "answer": "Germany",
+          "display": "#7 — Seventh place"
+        },
+        {
+          "answer": "Russia",
+          "display": "#8 — Eighth place",
+          "aliases": [
+            "Russian Handball Federation"
+          ]
+        },
+        {
+          "answer": "Netherlands",
+          "display": "#9 — Ninth place",
+          "aliases": [
+            "Holland"
+          ]
+        },
+        {
+          "answer": "Hungary",
+          "display": "#10 — Tenth place"
+        },
+        {
+          "answer": "Japan",
+          "display": "#11 — Eleventh place"
+        },
+        {
+          "answer": "Serbia",
+          "display": "#12 — Twelfth place"
+        },
+        {
+          "answer": "Romania",
+          "display": "#13 — Thirteenth place"
+        }
+      ]
+    },
+    {
+      "category": "sports/handball/world-championship-women",
+      "question": "Top 10 teams in the final ranking of the 2023 World Women's Handball Championship",
+      "cutoff": 10,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1377351639 | table 21 | name: Team | value: Rank | order: asc",
+      "tags": [
+        "handball",
+        "world-championship",
+        "women",
+        "2023"
+      ],
+      "answers": [
+        {
+          "answer": "France",
+          "display": "#1 — Champions"
+        },
+        {
+          "answer": "Norway",
+          "display": "#2 — Runners-up"
+        },
+        {
+          "answer": "Denmark",
+          "display": "#3 — Third place"
+        },
+        {
+          "answer": "Sweden",
+          "display": "#4 — Fourth place"
+        },
+        {
+          "answer": "Netherlands",
+          "display": "#5 — Fifth place",
+          "aliases": [
+            "Holland"
+          ]
+        },
+        {
+          "answer": "Germany",
+          "display": "#6 — Sixth place"
+        },
+        {
+          "answer": "Montenegro",
+          "display": "#7 — Seventh place"
+        },
+        {
+          "answer": "Czech Republic",
+          "display": "#8 — Eighth place",
+          "aliases": [
+            "Czechia"
+          ]
+        },
+        {
+          "answer": "Brazil",
+          "display": "#9 — Ninth place"
+        },
+        {
+          "answer": "Hungary",
+          "display": "#10 — Tenth place"
+        },
+        {
+          "answer": "Slovenia",
+          "display": "#11 — Eleventh place"
+        },
+        {
+          "answer": "Romania",
+          "display": "#12 — Twelfth place"
+        },
+        {
+          "answer": "Spain",
+          "display": "#13 — Thirteenth place"
+        }
+      ]
+    },
+    {
+      "category": "sports/handball/world-championship-women",
+      "question": "Top 10 teams in the final ranking of the 2025 World Women's Handball Championship",
+      "cutoff": 10,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1378615655 | table 34 | name: Team | value: Pos | order: asc",
+      "tags": [
+        "handball",
+        "world-championship",
+        "women",
+        "2025"
+      ],
+      "answers": [
+        {
+          "answer": "Norway",
+          "display": "#1 — Champions"
+        },
+        {
+          "answer": "Germany",
+          "display": "#2 — Runners-up"
+        },
+        {
+          "answer": "France",
+          "display": "#3 — Third place"
+        },
+        {
+          "answer": "Netherlands",
+          "display": "#4 — Fourth place",
+          "aliases": [
+            "Holland"
+          ]
+        },
+        {
+          "answer": "Denmark",
+          "display": "#5 — Fifth place"
+        },
+        {
+          "answer": "Brazil",
+          "display": "#6 — Sixth place"
+        },
+        {
+          "answer": "Hungary",
+          "display": "#7 — Seventh place"
+        },
+        {
+          "answer": "Montenegro",
+          "display": "#8 — Eighth place"
+        },
+        {
+          "answer": "Romania",
+          "display": "#9 — Ninth place"
+        },
+        {
+          "answer": "Angola",
+          "display": "#10 — Tenth place"
+        },
+        {
+          "answer": "Poland",
+          "display": "#11 — Eleventh place"
+        },
+        {
+          "answer": "Serbia",
+          "display": "#12 — Twelfth place"
+        },
+        {
+          "answer": "Japan",
+          "display": "#13 — Thirteenth place"
+        }
+      ]
+    },
+    {
+      "category": "sports/handball/world-championship-men",
+      "question": "Top 5 teams in the final ranking of the 1958 World Men's Handball Championship",
+      "cutoff": 5,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1330570332 | table 15 | name: Team | value: Rank | order: asc",
+      "tags": [
+        "handball",
+        "world-championship",
+        "men",
+        "1958"
+      ],
+      "answers": [
+        {
+          "answer": "Sweden",
+          "display": "#1 — Champions"
+        },
+        {
+          "answer": "Czechoslovakia",
+          "display": "#2 — Runners-up"
+        },
+        {
+          "answer": "Germany",
+          "display": "#3 — Third place"
+        },
+        {
+          "answer": "Denmark",
+          "display": "#4 — Fourth place"
+        },
+        {
+          "answer": "Poland",
+          "display": "#5 — Fifth place"
+        },
+        {
+          "answer": "Norway",
+          "display": "#6 — Sixth place"
+        },
+        {
+          "answer": "Hungary",
+          "display": "#7 — Seventh place"
+        },
+        {
+          "answer": "Yugoslavia",
+          "display": "#8 — Eighth place"
+        }
+      ]
+    },
+    {
+      "category": "sports/handball/world-championship-men",
+      "question": "Top 5 teams in the final ranking of the 1964 World Men's Handball Championship",
+      "cutoff": 5,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1366996051 | table 14 | name: 2 | value: 1 | header rows: 0 | order: asc",
+      "tags": [
+        "handball",
+        "world-championship",
+        "men",
+        "1964"
+      ],
+      "answers": [
+        {
+          "answer": "Romania",
+          "display": "#1 — Champions"
+        },
+        {
+          "answer": "Sweden",
+          "display": "#2 — Runners-up"
+        },
+        {
+          "answer": "Czechoslovakia",
+          "display": "#3 — Third place"
+        },
+        {
+          "answer": "West Germany",
+          "display": "#4 — Fourth place"
+        },
+        {
+          "answer": "Soviet Union",
+          "display": "#5 — Fifth place",
+          "aliases": [
+            "USSR"
+          ]
+        },
+        {
+          "answer": "Yugoslavia",
+          "display": "#6 — Sixth place"
+        },
+        {
+          "answer": "Denmark",
+          "display": "#7 — Seventh place"
+        },
+        {
+          "answer": "Hungary",
+          "display": "#8 — Eighth place"
+        }
+      ]
+    },
+    {
+      "category": "sports/handball/world-championship-men",
+      "question": "Top 5 teams in the final ranking of the 1967 World Men's Handball Championship",
+      "cutoff": 5,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1344023276 | table 11 | name: Team | value: Rank | order: asc",
+      "tags": [
+        "handball",
+        "world-championship",
+        "men",
+        "1967"
+      ],
+      "answers": [
+        {
+          "answer": "Czechoslovakia",
+          "display": "#1 — Champions"
+        },
+        {
+          "answer": "Denmark",
+          "display": "#2 — Runners-up"
+        },
+        {
+          "answer": "Romania",
+          "display": "#3 — Third place"
+        },
+        {
+          "answer": "Soviet Union",
+          "display": "#4 — Fourth place",
+          "aliases": [
+            "USSR"
+          ]
+        },
+        {
+          "answer": "Sweden",
+          "display": "#5 — Fifth place"
+        },
+        {
+          "answer": "West Germany",
+          "display": "#6 — Sixth place"
+        },
+        {
+          "answer": "Yugoslavia",
+          "display": "#7 — Seventh place"
+        },
+        {
+          "answer": "Hungary",
+          "display": "#8 — Eighth place"
+        }
+      ]
+    },
+    {
+      "category": "sports/handball/world-championship-men",
+      "question": "Top 5 teams in the final ranking of the 1974 World Men's Handball Championship",
+      "cutoff": 5,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1368135902 | table 20 | name: Team | value: Rank | order: asc",
+      "tags": [
+        "handball",
+        "world-championship",
+        "men",
+        "1974"
+      ],
+      "answers": [
+        {
+          "answer": "Romania",
+          "display": "#1 — Champions"
+        },
+        {
+          "answer": "East Germany",
+          "display": "#2 — Runners-up"
+        },
+        {
+          "answer": "Yugoslavia",
+          "display": "#3 — Third place"
+        },
+        {
+          "answer": "Poland",
+          "display": "#4 — Fourth place"
+        },
+        {
+          "answer": "Soviet Union",
+          "display": "#5 — Fifth place",
+          "aliases": [
+            "USSR"
+          ]
+        },
+        {
+          "answer": "Czechoslovakia",
+          "display": "#6 — Sixth place"
+        },
+        {
+          "answer": "Hungary",
+          "display": "#7 — Seventh place"
+        },
+        {
+          "answer": "Denmark",
+          "display": "#8 — Eighth place"
+        }
+      ]
+    },
+    {
+      "category": "sports/handball/world-championship-men",
+      "question": "Top 5 teams in the final ranking of the 1978 World Men's Handball Championship",
+      "cutoff": 5,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1365303874 | table 20 | name: Team | value: Rank | order: asc",
+      "tags": [
+        "handball",
+        "world-championship",
+        "men",
+        "1978"
+      ],
+      "answers": [
+        {
+          "answer": "West Germany",
+          "display": "#1 — Champions"
+        },
+        {
+          "answer": "Soviet Union",
+          "display": "#2 — Runners-up",
+          "aliases": [
+            "USSR"
+          ]
+        },
+        {
+          "answer": "East Germany",
+          "display": "#3 — Third place"
+        },
+        {
+          "answer": "Denmark",
+          "display": "#4 — Fourth place"
+        },
+        {
+          "answer": "Yugoslavia",
+          "display": "#5 — Fifth place"
+        },
+        {
+          "answer": "Poland",
+          "display": "#6 — Sixth place"
+        },
+        {
+          "answer": "Romania",
+          "display": "#7 — Seventh place"
+        },
+        {
+          "answer": "Sweden",
+          "display": "#8 — Eighth place"
+        }
+      ]
+    },
+    {
+      "category": "sports/handball/world-championship-men",
+      "question": "Top 5 teams in the final ranking of the 1982 World Men's Handball Championship",
+      "cutoff": 5,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1356461313 | table 24 | name: Team | value: Rank | order: asc",
+      "tags": [
+        "handball",
+        "world-championship",
+        "men",
+        "1982"
+      ],
+      "answers": [
+        {
+          "answer": "Soviet Union",
+          "display": "#1 — Champions",
+          "aliases": [
+            "USSR"
+          ]
+        },
+        {
+          "answer": "Yugoslavia",
+          "display": "#2 — Runners-up"
+        },
+        {
+          "answer": "Poland",
+          "display": "#3 — Third place"
+        },
+        {
+          "answer": "Denmark",
+          "display": "#4 — Fourth place"
+        },
+        {
+          "answer": "Romania",
+          "display": "#5 — Fifth place"
+        },
+        {
+          "answer": "East Germany",
+          "display": "#6 — Sixth place"
+        },
+        {
+          "answer": "West Germany",
+          "display": "#7 — Seventh place"
+        },
+        {
+          "answer": "Spain",
+          "display": "#8 — Eighth place"
+        }
+      ]
+    },
+    {
+      "category": "sports/handball/world-championship-men",
+      "question": "Top 5 teams in the final ranking of the 1986 World Men's Handball Championship",
+      "cutoff": 5,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1293444341 | table 10 | name: Team | value: Rank | order: asc",
+      "tags": [
+        "handball",
+        "world-championship",
+        "men",
+        "1986"
+      ],
+      "answers": [
+        {
+          "answer": "Yugoslavia",
+          "display": "#1 — Champions"
+        },
+        {
+          "answer": "Hungary",
+          "display": "#2 — Runners-up"
+        },
+        {
+          "answer": "East Germany",
+          "display": "#3 — Third place"
+        },
+        {
+          "answer": "Sweden",
+          "display": "#4 — Fourth place"
+        },
+        {
+          "answer": "Spain",
+          "display": "#5 — Fifth place"
+        },
+        {
+          "answer": "Iceland",
+          "display": "#6 — Sixth place"
+        },
+        {
+          "answer": "West Germany",
+          "display": "#7 — Seventh place"
+        },
+        {
+          "answer": "Denmark",
+          "display": "#8 — Eighth place"
+        }
+      ]
+    },
+    {
+      "category": "sports/handball/world-championship-men",
+      "question": "Top 5 teams in the final ranking of the 1990 World Men's Handball Championship",
+      "cutoff": 5,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1217228770 | table 10 | name: Team | value: Rank | order: asc",
+      "tags": [
+        "handball",
+        "world-championship",
+        "men",
+        "1990"
+      ],
+      "answers": [
+        {
+          "answer": "Sweden",
+          "display": "#1 — Champions"
+        },
+        {
+          "answer": "Soviet Union",
+          "display": "#2 — Runners-up",
+          "aliases": [
+            "USSR"
+          ]
+        },
+        {
+          "answer": "Romania",
+          "display": "#3 — Third place"
+        },
+        {
+          "answer": "Yugoslavia",
+          "display": "#4 — Fourth place"
+        },
+        {
+          "answer": "Spain",
+          "display": "#5 — Fifth place"
+        },
+        {
+          "answer": "Hungary",
+          "display": "#6 — Sixth place"
+        },
+        {
+          "answer": "Czechoslovakia",
+          "display": "#7 — Seventh place"
+        },
+        {
+          "answer": "East Germany",
+          "display": "#8 — Eighth place"
+        }
+      ]
+    },
+    {
+      "category": "sports/handball/world-championship-men",
+      "question": "Top 5 teams in the final ranking of the 1993 World Men's Handball Championship",
+      "cutoff": 5,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1335711490 | table 10 | name: Team | value: Rank | order: asc",
+      "tags": [
+        "handball",
+        "world-championship",
+        "men",
+        "1993"
+      ],
+      "answers": [
+        {
+          "answer": "Russia",
+          "display": "#1 — Champions"
+        },
+        {
+          "answer": "France",
+          "display": "#2 — Runners-up"
+        },
+        {
+          "answer": "Sweden",
+          "display": "#3 — Third place"
+        },
+        {
+          "answer": "Switzerland",
+          "display": "#4 — Fourth place"
+        },
+        {
+          "answer": "Spain",
+          "display": "#5 — Fifth place"
+        },
+        {
+          "answer": "Germany",
+          "display": "#6 — Sixth place"
+        },
+        {
+          "answer": "Czechoslovakia",
+          "display": "#7 — Seventh place"
+        },
+        {
+          "answer": "Iceland",
+          "display": "#8 — Eighth place"
+        }
+      ]
+    },
+    {
+      "category": "sports/handball/world-championship-men",
+      "question": "Top 8 teams in the final ranking of the 1995 World Men's Handball Championship",
+      "cutoff": 8,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1218865678 | table 6 | name: Team | value: Rank | order: asc",
+      "tags": [
+        "handball",
+        "world-championship",
+        "men",
+        "1995"
+      ],
+      "answers": [
+        {
+          "answer": "France",
+          "display": "#1 — Champions"
+        },
+        {
+          "answer": "Croatia",
+          "display": "#2 — Runners-up"
+        },
+        {
+          "answer": "Sweden",
+          "display": "#3 — Third place"
+        },
+        {
+          "answer": "Germany",
+          "display": "#4 — Fourth place"
+        },
+        {
+          "answer": "Russia",
+          "display": "#5 — Fifth place"
+        },
+        {
+          "answer": "Egypt",
+          "display": "#6 — Sixth place"
+        },
+        {
+          "answer": "Switzerland",
+          "display": "#7 — Seventh place"
+        },
+        {
+          "answer": "Czech Republic",
+          "display": "#8 — Eighth place",
+          "aliases": [
+            "Czechia"
+          ]
+        },
+        {
+          "answer": "Belarus",
+          "display": "#9 — Ninth place"
+        },
+        {
+          "answer": "Romania",
+          "display": "#10 — Tenth place"
+        },
+        {
+          "answer": "Spain",
+          "display": "#11 — Eleventh place"
+        }
+      ]
+    },
+    {
+      "category": "sports/handball/world-championship-men",
+      "question": "Top 8 teams in the final ranking of the 1999 World Men's Handball Championship",
+      "cutoff": 8,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1379394104 | table 6 | name: 2 | value: 1 | header rows: 0 | order: asc",
+      "tags": [
+        "handball",
+        "world-championship",
+        "men",
+        "1999"
+      ],
+      "answers": [
+        {
+          "answer": "Sweden",
+          "display": "#1 — Champions"
+        },
+        {
+          "answer": "Russia",
+          "display": "#2 — Runners-up"
+        },
+        {
+          "answer": "FR Yugoslavia",
+          "display": "#3 — Third place",
+          "aliases": [
+            "Yugoslavia"
+          ]
+        },
+        {
+          "answer": "Spain",
+          "display": "#4 — Fourth place"
+        },
+        {
+          "answer": "Germany",
+          "display": "#5 — Fifth place"
+        },
+        {
+          "answer": "France",
+          "display": "#6 — Sixth place"
+        },
+        {
+          "answer": "Egypt",
+          "display": "#7 — Seventh place"
+        },
+        {
+          "answer": "Cuba",
+          "display": "#8 — Eighth place"
+        },
+        {
+          "answer": "Denmark",
+          "display": "#9 — Ninth place"
+        },
+        {
+          "answer": "Croatia",
+          "display": "#10 — Tenth place"
+        },
+        {
+          "answer": "Hungary",
+          "display": "#11 — Eleventh place"
+        }
+      ]
+    },
+    {
+      "category": "sports/handball/world-championship-men",
+      "question": "Top 8 teams in the final ranking of the 2003 World Men's Handball Championship",
+      "cutoff": 8,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1294228718 | table 12 | name: Team | value: Rank | order: asc",
+      "tags": [
+        "handball",
+        "world-championship",
+        "men",
+        "2003"
+      ],
+      "answers": [
+        {
+          "answer": "Croatia",
+          "display": "#1 — Champions"
+        },
+        {
+          "answer": "Germany",
+          "display": "#2 — Runners-up"
+        },
+        {
+          "answer": "France",
+          "display": "#3 — Third place"
+        },
+        {
+          "answer": "Spain",
+          "display": "#4 — Fourth place"
+        },
+        {
+          "answer": "Russia",
+          "display": "#5 — Fifth place"
+        },
+        {
+          "answer": "Hungary",
+          "display": "#6 — Sixth place"
+        },
+        {
+          "answer": "Iceland",
+          "display": "#7 — Seventh place"
+        },
+        {
+          "answer": "FR Yugoslavia",
+          "display": "#8 — Eighth place",
+          "aliases": [
+            "Yugoslavia"
+          ]
+        },
+        {
+          "answer": "Denmark",
+          "display": "#9 — Ninth place"
+        },
+        {
+          "answer": "Poland",
+          "display": "#10 — Tenth place"
+        },
+        {
+          "answer": "Slovenia",
+          "display": "#11 — Eleventh place"
+        }
+      ]
+    },
+    {
+      "category": "sports/handball/world-championship-men",
+      "question": "Top 8 teams in the final ranking of the 2005 World Men's Handball Championship",
+      "cutoff": 8,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1326908179 | table 10 | name: Team | value: Rank | order: asc",
+      "tags": [
+        "handball",
+        "world-championship",
+        "men",
+        "2005"
+      ],
+      "answers": [
+        {
+          "answer": "Spain",
+          "display": "#1 — Champions"
+        },
+        {
+          "answer": "Croatia",
+          "display": "#2 — Runners-up"
+        },
+        {
+          "answer": "France",
+          "display": "#3 — Third place"
+        },
+        {
+          "answer": "Tunisia",
+          "display": "#4 — Fourth place"
+        },
+        {
+          "answer": "Serbia and Montenegro",
+          "display": "#5 — Fifth place"
+        },
+        {
+          "answer": "Greece",
+          "display": "#6 — Sixth place"
+        },
+        {
+          "answer": "Norway",
+          "display": "#7 — Seventh place"
+        },
+        {
+          "answer": "Russia",
+          "display": "#8 — Eighth place"
+        },
+        {
+          "answer": "Germany",
+          "display": "#9 — Ninth place"
+        },
+        {
+          "answer": "Czech Republic",
+          "display": "#10 — Tenth place",
+          "aliases": [
+            "Czechia"
+          ]
+        },
+        {
+          "answer": "Sweden",
+          "display": "#11 — Eleventh place"
+        }
+      ]
+    },
+    {
+      "category": "sports/handball/world-championship-men",
+      "question": "Top 8 teams in the final ranking of the 2007 World Men's Handball Championship",
+      "cutoff": 8,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1366076563 | table 15 | name: Team | value: Rank | order: asc",
+      "tags": [
+        "handball",
+        "world-championship",
+        "men",
+        "2007"
+      ],
+      "answers": [
+        {
+          "answer": "Germany",
+          "display": "#1 — Champions"
+        },
+        {
+          "answer": "Poland",
+          "display": "#2 — Runners-up"
+        },
+        {
+          "answer": "Denmark",
+          "display": "#3 — Third place"
+        },
+        {
+          "answer": "France",
+          "display": "#4 — Fourth place"
+        },
+        {
+          "answer": "Croatia",
+          "display": "#5 — Fifth place"
+        },
+        {
+          "answer": "Russia",
+          "display": "#6 — Sixth place"
+        },
+        {
+          "answer": "Spain",
+          "display": "#7 — Seventh place"
+        },
+        {
+          "answer": "Iceland",
+          "display": "#8 — Eighth place"
+        },
+        {
+          "answer": "Hungary",
+          "display": "#9 — Ninth place"
+        },
+        {
+          "answer": "Slovenia",
+          "display": "#10 — Tenth place"
+        },
+        {
+          "answer": "Tunisia",
+          "display": "#11 — Eleventh place"
+        }
+      ]
+    },
+    {
+      "category": "sports/handball/world-championship-men",
+      "question": "Top 8 teams in the final ranking of the 2009 World Men's Handball Championship",
+      "cutoff": 8,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1374348504 | table 15 | name: Team | value: Rank | order: asc",
+      "tags": [
+        "handball",
+        "world-championship",
+        "men",
+        "2009"
+      ],
+      "answers": [
+        {
+          "answer": "France",
+          "display": "#1 — Champions"
+        },
+        {
+          "answer": "Croatia",
+          "display": "#2 — Runners-up"
+        },
+        {
+          "answer": "Poland",
+          "display": "#3 — Third place"
+        },
+        {
+          "answer": "Denmark",
+          "display": "#4 — Fourth place"
+        },
+        {
+          "answer": "Germany",
+          "display": "#5 — Fifth place"
+        },
+        {
+          "answer": "Hungary",
+          "display": "#6 — Sixth place"
+        },
+        {
+          "answer": "Sweden",
+          "display": "#7 — Seventh place"
+        },
+        {
+          "answer": "Serbia",
+          "display": "#8 — Eighth place"
+        },
+        {
+          "answer": "Norway",
+          "display": "#9 — Ninth place"
+        },
+        {
+          "answer": "Slovakia",
+          "display": "#10 — Tenth place"
+        },
+        {
+          "answer": "North Macedonia",
+          "display": "#11 — Eleventh place",
+          "aliases": [
+            "Macedonia"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/handball/world-championship-men",
+      "question": "Top 8 teams in the final ranking of the 2011 World Men's Handball Championship",
+      "cutoff": 8,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1360704968 | table 13 | name: Team | value: Rank | order: asc",
+      "tags": [
+        "handball",
+        "world-championship",
+        "men",
+        "2011"
+      ],
+      "answers": [
+        {
+          "answer": "France",
+          "display": "#1 — Champions"
+        },
+        {
+          "answer": "Denmark",
+          "display": "#2 — Runners-up"
+        },
+        {
+          "answer": "Spain",
+          "display": "#3 — Third place"
+        },
+        {
+          "answer": "Sweden",
+          "display": "#4 — Fourth place"
+        },
+        {
+          "answer": "Croatia",
+          "display": "#5 — Fifth place"
+        },
+        {
+          "answer": "Iceland",
+          "display": "#6 — Sixth place"
+        },
+        {
+          "answer": "Hungary",
+          "display": "#7 — Seventh place"
+        },
+        {
+          "answer": "Poland",
+          "display": "#8 — Eighth place"
+        },
+        {
+          "answer": "Norway",
+          "display": "#9 — Ninth place"
+        },
+        {
+          "answer": "Serbia",
+          "display": "#10 — Tenth place"
+        },
+        {
+          "answer": "Germany",
+          "display": "#11 — Eleventh place"
+        }
+      ]
+    },
+    {
+      "category": "sports/handball/world-championship-men",
+      "question": "Top 8 teams in the final ranking of the 2017 World Men's Handball Championship",
+      "cutoff": 8,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1342714955 | table 11 | name: Team | value: Rank | order: asc",
+      "tags": [
+        "handball",
+        "world-championship",
+        "men",
+        "2017"
+      ],
+      "answers": [
+        {
+          "answer": "France",
+          "display": "#1 — Champions"
+        },
+        {
+          "answer": "Norway",
+          "display": "#2 — Runners-up"
+        },
+        {
+          "answer": "Slovenia",
+          "display": "#3 — Third place"
+        },
+        {
+          "answer": "Croatia",
+          "display": "#4 — Fourth place"
+        },
+        {
+          "answer": "Spain",
+          "display": "#5 — Fifth place"
+        },
+        {
+          "answer": "Sweden",
+          "display": "#6 — Sixth place"
+        },
+        {
+          "answer": "Hungary",
+          "display": "#7 — Seventh place"
+        },
+        {
+          "answer": "Qatar",
+          "display": "#8 — Eighth place"
+        },
+        {
+          "answer": "Germany",
+          "display": "#9 — Ninth place"
+        },
+        {
+          "answer": "Denmark",
+          "display": "#10 — Tenth place"
+        },
+        {
+          "answer": "Belarus",
+          "display": "#11 — Eleventh place"
+        }
+      ]
+    },
+    {
+      "category": "sports/handball/world-championship-women",
+      "question": "Top 5 teams in the final ranking of the 1986 World Women's Handball Championship",
+      "cutoff": 5,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1331956020 | table 9 | name: Team | value: # | order: asc",
+      "tags": [
+        "handball",
+        "world-championship",
+        "women",
+        "1986"
+      ],
+      "answers": [
+        {
+          "answer": "Soviet Union",
+          "display": "#1 — Champions",
+          "aliases": [
+            "USSR"
+          ]
+        },
+        {
+          "answer": "Czechoslovakia",
+          "display": "#2 — Runners-up"
+        },
+        {
+          "answer": "Norway",
+          "display": "#3 — Third place"
+        },
+        {
+          "answer": "East Germany",
+          "display": "#4 — Fourth place"
+        },
+        {
+          "answer": "Romania",
+          "display": "#5 — Fifth place"
+        },
+        {
+          "answer": "Yugoslavia",
+          "display": "#6 — Sixth place"
+        },
+        {
+          "answer": "West Germany",
+          "display": "#7 — Seventh place"
+        },
+        {
+          "answer": "Hungary",
+          "display": "#8 — Eighth place"
+        }
+      ]
+    },
+    {
+      "category": "sports/handball/world-championship-women",
+      "question": "Top 8 teams in the final ranking of the 2003 World Women's Handball Championship",
+      "cutoff": 8,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1373714248 | table 8 | name: 2 | value: 1 | header rows: 0 | order: asc",
+      "tags": [
+        "handball",
+        "world-championship",
+        "women",
+        "2003"
+      ],
+      "answers": [
+        {
+          "answer": "France",
+          "display": "#1 — Champions"
+        },
+        {
+          "answer": "Hungary",
+          "display": "#2 — Runners-up"
+        },
+        {
+          "answer": "South Korea",
+          "display": "#3 — Third place",
+          "aliases": [
+            "Korea"
+          ]
+        },
+        {
+          "answer": "Ukraine",
+          "display": "#4 — Fourth place"
+        },
+        {
+          "answer": "Spain",
+          "display": "#5 — Fifth place"
+        },
+        {
+          "answer": "Norway",
+          "display": "#6 — Sixth place"
+        },
+        {
+          "answer": "Russia",
+          "display": "#7 — Seventh place"
+        },
+        {
+          "answer": "Slovenia",
+          "display": "#8 — Eighth place"
+        },
+        {
+          "answer": "Serbia and Montenegro",
+          "display": "#9 — Ninth place"
+        },
+        {
+          "answer": "Romania",
+          "display": "#10 — Tenth place"
+        },
+        {
+          "answer": "Austria",
+          "display": "#11 — Eleventh place"
+        }
+      ]
+    },
+    {
+      "category": "sports/handball/world-championship-women",
+      "question": "Top 8 teams in the final ranking of the 2005 World Women's Handball Championship",
+      "cutoff": 8,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1372567866 | table 8 | name: 2 | value: 1 | header rows: 0 | order: asc",
+      "tags": [
+        "handball",
+        "world-championship",
+        "women",
+        "2005"
+      ],
+      "answers": [
+        {
+          "answer": "Russia",
+          "display": "#1 — Champions"
+        },
+        {
+          "answer": "Romania",
+          "display": "#2 — Runners-up"
+        },
+        {
+          "answer": "Hungary",
+          "display": "#3 — Third place"
+        },
+        {
+          "answer": "Denmark",
+          "display": "#4 — Fourth place"
+        },
+        {
+          "answer": "Netherlands",
+          "display": "#5 — Fifth place",
+          "aliases": [
+            "Holland"
+          ]
+        },
+        {
+          "answer": "Germany",
+          "display": "#6 — Sixth place"
+        },
+        {
+          "answer": "Brazil",
+          "display": "#7 — Seventh place"
+        },
+        {
+          "answer": "South Korea",
+          "display": "#8 — Eighth place",
+          "aliases": [
+            "Korea"
+          ]
+        },
+        {
+          "answer": "Norway",
+          "display": "#9 — Ninth place"
+        },
+        {
+          "answer": "Ukraine",
+          "display": "#10 — Tenth place"
+        },
+        {
+          "answer": "Croatia",
+          "display": "#11 — Eleventh place"
+        }
+      ]
+    },
+    {
+      "category": "sports/handball/world-championship-women",
+      "question": "Top 8 teams in the final ranking of the 2007 World Women's Handball Championship",
+      "cutoff": 8,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1373337791 | table 15 | name: Team | value: Rank | order: asc",
+      "tags": [
+        "handball",
+        "world-championship",
+        "women",
+        "2007"
+      ],
+      "answers": [
+        {
+          "answer": "Russia",
+          "display": "#1 — Champions"
+        },
+        {
+          "answer": "Norway",
+          "display": "#2 — Runners-up"
+        },
+        {
+          "answer": "Germany",
+          "display": "#3 — Third place"
+        },
+        {
+          "answer": "Romania",
+          "display": "#4 — Fourth place"
+        },
+        {
+          "answer": "France",
+          "display": "#5 — Fifth place"
+        },
+        {
+          "answer": "South Korea",
+          "display": "#6 — Sixth place",
+          "aliases": [
+            "Korea"
+          ]
+        },
+        {
+          "answer": "Angola",
+          "display": "#7 — Seventh place"
+        },
+        {
+          "answer": "Hungary",
+          "display": "#8 — Eighth place"
+        },
+        {
+          "answer": "Croatia",
+          "display": "#9 — Ninth place"
+        },
+        {
+          "answer": "Spain",
+          "display": "#10 — Tenth place"
+        },
+        {
+          "answer": "Poland",
+          "display": "#11 — Eleventh place"
+        }
+      ]
+    },
+    {
+      "category": "sports/handball/world-championship-women",
+      "question": "Top 8 teams in the final ranking of the 2009 World Women's Handball Championship",
+      "cutoff": 8,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1352352538 | table 11 | name: Team | value: Rank | order: asc",
+      "tags": [
+        "handball",
+        "world-championship",
+        "women",
+        "2009"
+      ],
+      "answers": [
+        {
+          "answer": "Russia",
+          "display": "#1 — Champions"
+        },
+        {
+          "answer": "France",
+          "display": "#2 — Runners-up"
+        },
+        {
+          "answer": "Norway",
+          "display": "#3 — Third place"
+        },
+        {
+          "answer": "Spain",
+          "display": "#4 — Fourth place"
+        },
+        {
+          "answer": "Denmark",
+          "display": "#5 — Fifth place"
+        },
+        {
+          "answer": "South Korea",
+          "display": "#6 — Sixth place",
+          "aliases": [
+            "Korea"
+          ]
+        },
+        {
+          "answer": "Germany",
+          "display": "#7 — Seventh place"
+        },
+        {
+          "answer": "Romania",
+          "display": "#8 — Eighth place"
+        },
+        {
+          "answer": "Hungary",
+          "display": "#9 — Ninth place"
+        },
+        {
+          "answer": "Austria",
+          "display": "#10 — Tenth place"
+        },
+        {
+          "answer": "Angola",
+          "display": "#11 — Eleventh place"
+        }
+      ]
+    },
+    {
+      "category": "sports/handball/world-championship-women",
+      "question": "Top 8 teams in the final ranking of the 2011 World Women's Handball Championship",
+      "cutoff": 8,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1366353442 | table 10 | name: 2 | value: 1 | header rows: 0 | order: asc",
+      "tags": [
+        "handball",
+        "world-championship",
+        "women",
+        "2011"
+      ],
+      "answers": [
+        {
+          "answer": "Norway",
+          "display": "#1 — Champions"
+        },
+        {
+          "answer": "France",
+          "display": "#2 — Runners-up"
+        },
+        {
+          "answer": "Spain",
+          "display": "#3 — Third place"
+        },
+        {
+          "answer": "Denmark",
+          "display": "#4 — Fourth place"
+        },
+        {
+          "answer": "Brazil",
+          "display": "#5 — Fifth place"
+        },
+        {
+          "answer": "Russia",
+          "display": "#6 — Sixth place"
+        },
+        {
+          "answer": "Croatia",
+          "display": "#7 — Seventh place"
+        },
+        {
+          "answer": "Angola",
+          "display": "#8 — Eighth place"
+        },
+        {
+          "answer": "Sweden",
+          "display": "#9 — Ninth place"
+        },
+        {
+          "answer": "Montenegro",
+          "display": "#10 — Tenth place"
+        },
+        {
+          "answer": "South Korea",
+          "display": "#11 — Eleventh place",
+          "aliases": [
+            "Korea"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/handball/world-championship-women",
+      "question": "Top 8 teams in the final ranking of the 2013 World Women's Handball Championship",
+      "cutoff": 8,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1367358121 | table 8 | name: 2 | value: 1 | header rows: 0 | order: asc",
+      "tags": [
+        "handball",
+        "world-championship",
+        "women",
+        "2013"
+      ],
+      "answers": [
+        {
+          "answer": "Brazil",
+          "display": "#1 — Champions"
+        },
+        {
+          "answer": "Serbia",
+          "display": "#2 — Runners-up"
+        },
+        {
+          "answer": "Denmark",
+          "display": "#3 — Third place"
+        },
+        {
+          "answer": "Poland",
+          "display": "#4 — Fourth place"
+        },
+        {
+          "answer": "Norway",
+          "display": "#5 — Fifth place"
+        },
+        {
+          "answer": "France",
+          "display": "#6 — Sixth place"
+        },
+        {
+          "answer": "Germany",
+          "display": "#7 — Seventh place"
+        },
+        {
+          "answer": "Hungary",
+          "display": "#8 — Eighth place"
+        },
+        {
+          "answer": "Spain",
+          "display": "#9 — Ninth place"
+        },
+        {
+          "answer": "Romania",
+          "display": "#10 — Tenth place"
+        },
+        {
+          "answer": "Montenegro",
+          "display": "#11 — Eleventh place"
+        }
+      ]
+    },
+    {
+      "category": "sports/handball/world-championship-women",
+      "question": "Top 8 teams in the final ranking of the 2017 World Women's Handball Championship",
+      "cutoff": 8,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1326242759 | table 11 | name: Team | value: Rank | order: asc",
+      "tags": [
+        "handball",
+        "world-championship",
+        "women",
+        "2017"
+      ],
+      "answers": [
+        {
+          "answer": "France",
+          "display": "#1 — Champions"
+        },
+        {
+          "answer": "Norway",
+          "display": "#2 — Runners-up"
+        },
+        {
+          "answer": "Netherlands",
+          "display": "#3 — Third place",
+          "aliases": [
+            "Holland"
+          ]
+        },
+        {
+          "answer": "Sweden",
+          "display": "#4 — Fourth place"
+        },
+        {
+          "answer": "Russia",
+          "display": "#5 — Fifth place"
+        },
+        {
+          "answer": "Denmark",
+          "display": "#6 — Sixth place (tied)"
+        },
+        {
+          "answer": "Montenegro",
+          "display": "#6 — Sixth place (tied)"
+        },
+        {
+          "answer": "Czech Republic",
+          "display": "#8 — Eighth place",
+          "aliases": [
+            "Czechia"
+          ]
+        },
+        {
+          "answer": "Serbia",
+          "display": "#9 — Ninth place"
+        },
+        {
+          "answer": "Romania",
+          "display": "#10 — Tenth place"
+        },
+        {
+          "answer": "Spain",
+          "display": "#11 — Eleventh place"
+        }
+      ]
+    }
+  ]
+}

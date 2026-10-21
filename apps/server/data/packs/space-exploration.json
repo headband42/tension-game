@@ -1,0 +1,305 @@
+{
+  "categories": [
+    {
+      "path": "science/space/exploration",
+      "name": "Space exploration"
+    }
+  ],
+  "questions": [
+    {
+      "category": "science/space/exploration",
+      "question": "Top 10 astronauts and cosmonauts by total cumulative time in space (as of October 2026)",
+      "cutoff": 10,
+      "difficulty": 3,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1379752385 | table 4 | name: Person | value: Days",
+      "tags": [
+        "science",
+        "space",
+        "exploration",
+        "people"
+      ],
+      "answers": [
+        {
+          "answer": "Oleg Kononenko",
+          "display": "1,110.6 days",
+          "aliases": [
+            "Kononenko"
+          ]
+        },
+        {
+          "answer": "Gennady Padalka",
+          "display": "878.5 days",
+          "aliases": [
+            "Padalka"
+          ]
+        },
+        {
+          "answer": "Yuri Malenchenko",
+          "display": "827.4 days",
+          "aliases": [
+            "Malenchenko",
+            "Yury Malenchenko"
+          ]
+        },
+        {
+          "answer": "Sergei Krikalev",
+          "display": "803.4 days",
+          "aliases": [
+            "Krikalev",
+            "Krikalyov",
+            "Sergey Krikalev"
+          ]
+        },
+        {
+          "answer": "Aleksandr Kaleri",
+          "display": "769.3 days",
+          "aliases": [
+            "Kaleri",
+            "Alexander Kaleri"
+          ]
+        },
+        {
+          "answer": "Sergei Avdeev",
+          "display": "747.6 days",
+          "aliases": [
+            "Avdeev",
+            "Sergey Avdeev"
+          ]
+        },
+        {
+          "answer": "Anton Shkaplerov",
+          "display": "709.3 days",
+          "aliases": [
+            "Shkaplerov"
+          ]
+        },
+        {
+          "answer": "Peggy Whitson",
+          "display": "695.3 days",
+          "aliases": [
+            "Whitson"
+          ]
+        },
+        {
+          "answer": "Valeri Polyakov",
+          "display": "678.7 days",
+          "aliases": [
+            "Polyakov",
+            "Valery Polyakov"
+          ]
+        },
+        {
+          "answer": "Fyodor Yurchikhin",
+          "display": "672.9 days",
+          "aliases": [
+            "Yurchikhin",
+            "Feodor Yurchikhin"
+          ]
+        },
+        {
+          "answer": "Anatoly Solovyev",
+          "display": "651.1 days",
+          "aliases": [
+            "Solovyev",
+            "Solovyov"
+          ]
+        },
+        {
+          "answer": "Sunita Williams",
+          "display": "608.0 days",
+          "aliases": [
+            "Williams",
+            "Suni Williams"
+          ]
+        },
+        {
+          "answer": "Sergey Ryzhikov",
+          "display": "603.1 days",
+          "aliases": [
+            "Sergei Ryzhikov"
+          ]
+        },
+        {
+          "answer": "Aleksey Ovchinin",
+          "display": "595.2 days",
+          "aliases": [
+            "Alexei Ovchinin",
+            "Alexey Ovchinin"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "science/space/exploration",
+      "question": "Top 7 countries by number of orbital launches in 2025",
+      "cutoff": 7,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1378648792 | table 4 | name: 2 | value: 3 | where: 2!~World",
+      "tags": [
+        "science",
+        "space",
+        "exploration",
+        "launches"
+      ],
+      "answers": [
+        {
+          "answer": "United States",
+          "display": "198 launches",
+          "aliases": [
+            "USA",
+            "US",
+            "America"
+          ]
+        },
+        {
+          "answer": "China",
+          "display": "93 launches",
+          "aliases": [
+            "PRC"
+          ]
+        },
+        {
+          "answer": "Russia",
+          "display": "17 launches",
+          "aliases": [
+            "Russian Federation"
+          ]
+        },
+        {
+          "answer": "India",
+          "display": "5 launches"
+        },
+        {
+          "answer": "France",
+          "display": "4 launches"
+        },
+        {
+          "answer": "Japan",
+          "display": "4 launches"
+        },
+        {
+          "answer": "Italy",
+          "display": "3 launches"
+        },
+        {
+          "answer": "South Korea",
+          "display": "2 launches",
+          "aliases": [
+            "Korea",
+            "Republic of Korea"
+          ]
+        },
+        {
+          "answer": "Australia",
+          "display": "1 launch"
+        },
+        {
+          "answer": "Germany",
+          "display": "1 launch"
+        },
+        {
+          "answer": "Iran",
+          "display": "1 launch"
+        },
+        {
+          "answer": "Israel",
+          "display": "1 launch"
+        }
+      ]
+    },
+    {
+      "category": "science/space/exploration",
+      "question": "Top 9 launch sites by number of orbital launches in 2025",
+      "cutoff": 9,
+      "difficulty": 3,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1378648792 | table 8 | name: Site | value: Launches | where: Site!~Total",
+      "tags": [
+        "science",
+        "space",
+        "exploration",
+        "launch-sites"
+      ],
+      "answers": [
+        {
+          "answer": "Cape Canaveral",
+          "display": "82 launches",
+          "aliases": [
+            "Cape Canaveral Space Force Station",
+            "CCSFS"
+          ]
+        },
+        {
+          "answer": "Vandenberg Space Force Base",
+          "display": "66 launches",
+          "aliases": [
+            "Vandenberg"
+          ]
+        },
+        {
+          "answer": "Jiuquan",
+          "display": "34 launches"
+        },
+        {
+          "answer": "Kennedy Space Center",
+          "display": "27 launches",
+          "aliases": [
+            "Kennedy",
+            "KSC"
+          ]
+        },
+        {
+          "answer": "Wenchang",
+          "display": "21 launches"
+        },
+        {
+          "answer": "Xichang",
+          "display": "19 launches"
+        },
+        {
+          "answer": "Māhia",
+          "display": "17 launches",
+          "aliases": [
+            "Mahia",
+            "Rocket Lab Launch Complex"
+          ]
+        },
+        {
+          "answer": "Taiyuan",
+          "display": "12 launches"
+        },
+        {
+          "answer": "Plesetsk Cosmodrome",
+          "display": "9 launches",
+          "aliases": [
+            "Plesetsk"
+          ]
+        },
+        {
+          "answer": "Guiana Space Centre",
+          "display": "7 launches",
+          "aliases": [
+            "Kourou",
+            "CSG"
+          ]
+        },
+        {
+          "answer": "Yellow Sea (sea launches)",
+          "display": "7 launches",
+          "aliases": [
+            "Yellow Sea"
+          ]
+        },
+        {
+          "answer": "Baikonur Cosmodrome",
+          "display": "6 launches",
+          "aliases": [
+            "Baikonur"
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,179 @@
+{
+  "categories": [
+    {
+      "path": "music/live",
+      "name": "Live music"
+    },
+    {
+      "path": "music/eurovision",
+      "name": "Eurovision"
+    }
+  ],
+  "questions": [
+    {
+      "category": "music/eurovision",
+      "difficulty": 2,
+      "question": "Top 10 countries by number of Eurovision Song Contest entries (as of 2026)",
+      "cutoff": 10,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1379001813 | table 2 | name: Country | value: Entries | header rows: 2",
+      "tags": [
+        "music",
+        "eurovision"
+      ],
+      "answers": [
+        {
+          "answer": "Germany",
+          "display": "69 entries"
+        },
+        {
+          "answer": "France",
+          "display": "68 entries"
+        },
+        {
+          "answer": "United Kingdom",
+          "display": "68 entries",
+          "aliases": [
+            "UK",
+            "Britain"
+          ]
+        },
+        {
+          "answer": "Belgium",
+          "display": "67 entries"
+        },
+        {
+          "answer": "Switzerland",
+          "display": "66 entries"
+        },
+        {
+          "answer": "Netherlands",
+          "display": "65 entries",
+          "aliases": [
+            "Holland"
+          ]
+        },
+        {
+          "answer": "Sweden",
+          "display": "65 entries"
+        },
+        {
+          "answer": "Norway",
+          "display": "64 entries"
+        },
+        {
+          "answer": "Spain",
+          "display": "64 entries"
+        },
+        {
+          "answer": "Finland",
+          "display": "59 entries"
+        },
+        {
+          "answer": "Austria",
+          "display": "58 entries"
+        },
+        {
+          "answer": "Ireland",
+          "display": "58 entries"
+        },
+        {
+          "answer": "Portugal",
+          "display": "57 entries"
+        }
+      ]
+    },
+    {
+      "category": "music/live",
+      "difficulty": 3,
+      "question": "Top 7 artists by their single biggest concert residency, by actual gross (as of 2026)",
+      "cutoff": 7,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1378636118 | table 4 | name: Artist | value: Actual gross",
+      "tags": [
+        "music",
+        "live",
+        "residencies"
+      ],
+      "answers": [
+        {
+          "answer": "Celine Dion",
+          "display": "$385,100,000 (A New Day...)",
+          "aliases": [
+            "Celine",
+            "Dion"
+          ]
+        },
+        {
+          "answer": "Billy Joel",
+          "display": "$266,800,000 (Billy Joel at the Garden)",
+          "aliases": [
+            "Joel"
+          ]
+        },
+        {
+          "answer": "U2",
+          "display": "$244,478,903 (U2:UV Achtung Baby Live at Sphere)"
+        },
+        {
+          "answer": "Elton John",
+          "display": "$166,400,000 (The Red Piano)",
+          "aliases": [
+            "Elton"
+          ]
+        },
+        {
+          "answer": "Bruno Mars",
+          "display": "$154,800,000 (Bruno Mars at Park MGM)"
+        },
+        {
+          "answer": "Garth Brooks",
+          "display": "$137,700,000 (Garth Brooks/Plus One)",
+          "aliases": [
+            "Garth"
+          ]
+        },
+        {
+          "answer": "Britney Spears",
+          "display": "$137,695,392 (Piece of Me)",
+          "aliases": [
+            "Britney"
+          ]
+        },
+        {
+          "answer": "Eagles",
+          "display": "$135,500,000 (Live in Concert at Sphere)"
+        },
+        {
+          "answer": "Dead & Company",
+          "display": "$131,400,000 (Dead Forever: Live at Sphere)",
+          "aliases": [
+            "Dead and Company"
+          ]
+        },
+        {
+          "answer": "Bruce Springsteen",
+          "display": "$113,058,952 (Springsteen on Broadway)",
+          "aliases": [
+            "Springsteen"
+          ]
+        },
+        {
+          "answer": "Lady Gaga",
+          "display": "$110,041,261 (Enigma + Jazz & Piano)",
+          "aliases": [
+            "Gaga"
+          ]
+        },
+        {
+          "answer": "Jennifer Lopez",
+          "display": "$101,900,000 (All I Have)",
+          "aliases": [
+            "J.Lo",
+            "JLo"
+          ]
+        }
+      ]
+    }
+  ]
+}

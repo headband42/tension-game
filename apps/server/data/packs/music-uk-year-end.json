@@ -1,0 +1,2254 @@
+{
+  "categories": [
+    {
+      "path": "music",
+      "name": "Music"
+    },
+    {
+      "path": "music/uk",
+      "name": "UK"
+    },
+    {
+      "path": "music/uk/singles",
+      "name": "UK singles"
+    },
+    {
+      "path": "music/uk/singles/year-end",
+      "name": "Year-End Singles"
+    }
+  ],
+  "questions": [
+    {
+      "category": "music/uk/singles/year-end",
+      "question": "Top 10 best-selling singles in the UK in 1980 (year-end singles chart)",
+      "cutoff": 10,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1359933127 | table 3 | name: Title | value: No. | order: asc",
+      "tags": [
+        "music",
+        "uk",
+        "singles",
+        "charts",
+        "1980s"
+      ],
+      "answers": [
+        {
+          "answer": "Don't Stand So Close to Me",
+          "display": "#1 — The Police"
+        },
+        {
+          "answer": "Woman in Love",
+          "display": "#2 — Barbra Streisand"
+        },
+        {
+          "answer": "Feels Like I'm in Love",
+          "display": "#3 — Kelly Marie"
+        },
+        {
+          "answer": "Super Trouper",
+          "display": "#4 — ABBA"
+        },
+        {
+          "answer": "D.I.S.C.O.",
+          "display": "#5 — Ottawan"
+        },
+        {
+          "answer": "The Tide Is High",
+          "display": "#6 — Blondie"
+        },
+        {
+          "answer": "Geno",
+          "display": "#7 — Dexys Midnight Runners"
+        },
+        {
+          "answer": "Together We Are Beautiful",
+          "display": "#8 — Fern Kinney"
+        },
+        {
+          "answer": "Coward of the County",
+          "display": "#9 — Kenny Rogers"
+        },
+        {
+          "answer": "(Just Like) Starting Over",
+          "display": "#10 — John Lennon",
+          "aliases": [
+            "Just Like Starting Over",
+            "Starting Over"
+          ]
+        },
+        {
+          "answer": "Working My Way Back to You",
+          "display": "#11 — The Detroit Spinners"
+        },
+        {
+          "answer": "9 to 5",
+          "display": "#12 — Sheena Easton"
+        },
+        {
+          "answer": "Baggy Trousers",
+          "display": "#13 — Madness"
+        }
+      ]
+    },
+    {
+      "category": "music/uk/singles/year-end",
+      "question": "Top 10 best-selling singles in the UK in 1981 (year-end singles chart)",
+      "cutoff": 10,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1345061957 | table 3 | name: Title | value: No. | order: asc",
+      "tags": [
+        "music",
+        "uk",
+        "singles",
+        "charts",
+        "1980s"
+      ],
+      "answers": [
+        {
+          "answer": "Don't You Want Me",
+          "display": "#1 — The Human League"
+        },
+        {
+          "answer": "Tainted Love",
+          "display": "#2 — Soft Cell"
+        },
+        {
+          "answer": "Stand and Deliver",
+          "display": "#3 — Adam and the Ants"
+        },
+        {
+          "answer": "Prince Charming",
+          "display": "#4 — Adam and the Ants"
+        },
+        {
+          "answer": "This Ole House",
+          "display": "#5 — Shakin' Stevens"
+        },
+        {
+          "answer": "Vienna",
+          "display": "#6 — Ultravox"
+        },
+        {
+          "answer": "One Day in Your Life",
+          "display": "#7 — Michael Jackson"
+        },
+        {
+          "answer": "Making Your Mind Up",
+          "display": "#8 — Bucks Fizz"
+        },
+        {
+          "answer": "Shaddup You Face",
+          "display": "#9 — Joe Dolce Music Theatre"
+        },
+        {
+          "answer": "The Birdie Song (Birdie Dance)",
+          "display": "#10 — The Tweets",
+          "aliases": [
+            "The Birdie Song"
+          ]
+        },
+        {
+          "answer": "You Drive Me Crazy",
+          "display": "#11 — Shakin' Stevens"
+        },
+        {
+          "answer": "Ghost Town",
+          "display": "#12 — The Specials"
+        },
+        {
+          "answer": "It's My Party",
+          "display": "#13 — Dave Stewart with Barbara Gaskin"
+        }
+      ]
+    },
+    {
+      "category": "music/uk/singles/year-end",
+      "question": "Top 10 best-selling singles in the UK in 1982 (year-end singles chart)",
+      "cutoff": 10,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1345205894 | table 3 | name: Title | value: No. | order: asc",
+      "tags": [
+        "music",
+        "uk",
+        "singles",
+        "charts",
+        "1980s"
+      ],
+      "answers": [
+        {
+          "answer": "Come On Eileen",
+          "display": "#1 — Dexys Midnight Runners & the Emerald Express"
+        },
+        {
+          "answer": "Fame",
+          "display": "#2 — Irene Cara"
+        },
+        {
+          "answer": "Eye of the Tiger",
+          "display": "#3 — Survivor"
+        },
+        {
+          "answer": "The Lion Sleeps Tonight",
+          "display": "#4 — Tight Fit"
+        },
+        {
+          "answer": "Do You Really Want to Hurt Me?",
+          "display": "#5 — Culture Club"
+        },
+        {
+          "answer": "Pass the Dutchie",
+          "display": "#6 — Musical Youth"
+        },
+        {
+          "answer": "I Don't Wanna Dance",
+          "display": "#7 — Eddy Grant"
+        },
+        {
+          "answer": "Seven Tears",
+          "display": "#8 — Goombay Dance Band"
+        },
+        {
+          "answer": "Ebony and Ivory",
+          "display": "#9 — Paul McCartney and Stevie Wonder"
+        },
+        {
+          "answer": "Town Called Malice",
+          "display": "#10 — The Jam",
+          "aliases": [
+            "Precious"
+          ]
+        },
+        {
+          "answer": "Golden Brown",
+          "display": "#11 — The Stranglers"
+        },
+        {
+          "answer": "Mad World",
+          "display": "#12 — Tears for Fears"
+        },
+        {
+          "answer": "Mickey",
+          "display": "#13 — Toni Basil"
+        }
+      ]
+    },
+    {
+      "category": "music/uk/singles/year-end",
+      "question": "Top 10 best-selling singles in the UK in 1983 (year-end singles chart)",
+      "cutoff": 10,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1357982524 | table 3 | name: Title | value: No. | order: asc",
+      "tags": [
+        "music",
+        "uk",
+        "singles",
+        "charts",
+        "1980s"
+      ],
+      "answers": [
+        {
+          "answer": "Karma Chameleon",
+          "display": "#1 — Culture Club"
+        },
+        {
+          "answer": "Uptown Girl",
+          "display": "#2 — Billy Joel"
+        },
+        {
+          "answer": "Red Red Wine",
+          "display": "#3 — UB40"
+        },
+        {
+          "answer": "Let's Dance",
+          "display": "#4 — David Bowie"
+        },
+        {
+          "answer": "Total Eclipse of the Heart",
+          "display": "#5 — Bonnie Tyler"
+        },
+        {
+          "answer": "True",
+          "display": "#6 — Spandau Ballet"
+        },
+        {
+          "answer": "Down Under",
+          "display": "#7 — Men at Work"
+        },
+        {
+          "answer": "Billie Jean",
+          "display": "#8 — Michael Jackson"
+        },
+        {
+          "answer": "Only You",
+          "display": "#9 — The Flying Pickets"
+        },
+        {
+          "answer": "All Night Long (All Night)",
+          "display": "#10 — Lionel Richie",
+          "aliases": [
+            "All Night Long"
+          ]
+        },
+        {
+          "answer": "Sweet Dreams (Are Made of This)",
+          "display": "#11 — Eurythmics",
+          "aliases": [
+            "Sweet Dreams"
+          ]
+        },
+        {
+          "answer": "You Can't Hurry Love",
+          "display": "#12 — Phil Collins"
+        },
+        {
+          "answer": "Too Shy",
+          "display": "#13 — Kajagoogoo"
+        }
+      ]
+    },
+    {
+      "category": "music/uk/singles/year-end",
+      "question": "Top 10 best-selling singles in the UK in 1984 (year-end singles chart)",
+      "cutoff": 10,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1345891372 | table 3 | name: Title | value: No. | order: asc",
+      "tags": [
+        "music",
+        "uk",
+        "singles",
+        "charts",
+        "1980s"
+      ],
+      "answers": [
+        {
+          "answer": "Do They Know It's Christmas?",
+          "display": "#1 — Band Aid"
+        },
+        {
+          "answer": "I Just Called to Say I Love You",
+          "display": "#2 — Stevie Wonder"
+        },
+        {
+          "answer": "Relax",
+          "display": "#3 — Frankie Goes to Hollywood"
+        },
+        {
+          "answer": "Two Tribes",
+          "display": "#4 — Frankie Goes to Hollywood"
+        },
+        {
+          "answer": "Careless Whisper",
+          "display": "#5 — George Michael"
+        },
+        {
+          "answer": "Last Christmas",
+          "display": "#6 — Wham!"
+        },
+        {
+          "answer": "Hello",
+          "display": "#7 — Lionel Richie"
+        },
+        {
+          "answer": "Agadoo",
+          "display": "#8 — Black Lace"
+        },
+        {
+          "answer": "Ghostbusters",
+          "display": "#9 — Ray Parker, Jr."
+        },
+        {
+          "answer": "Freedom",
+          "display": "#10 — Wham!"
+        },
+        {
+          "answer": "Wake Me Up Before You Go-Go",
+          "display": "#11 — Wham!"
+        },
+        {
+          "answer": "I Feel for You",
+          "display": "#12 — Chaka Khan"
+        },
+        {
+          "answer": "White Lines (Don't Don't Do It)",
+          "display": "#13 — Grandmaster Melle Mel",
+          "aliases": [
+            "White Lines"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "music/uk/singles/year-end",
+      "question": "Top 10 best-selling singles in the UK in 1985 (year-end singles chart)",
+      "cutoff": 10,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1355607222 | table 3 | name: Title | value: No. | order: asc",
+      "tags": [
+        "music",
+        "uk",
+        "singles",
+        "charts",
+        "1980s"
+      ],
+      "answers": [
+        {
+          "answer": "The Power of Love",
+          "display": "#1 — Jennifer Rush"
+        },
+        {
+          "answer": "I Know Him So Well",
+          "display": "#2 — Elaine Paige and Barbara Dickson"
+        },
+        {
+          "answer": "Into the Groove",
+          "display": "#3 — Madonna"
+        },
+        {
+          "answer": "19",
+          "display": "#4 — Paul Hardcastle"
+        },
+        {
+          "answer": "Frankie",
+          "display": "#5 — Sister Sledge"
+        },
+        {
+          "answer": "Dancing in the Street",
+          "display": "#6 — David Bowie and Mick Jagger"
+        },
+        {
+          "answer": "Move Closer",
+          "display": "#7 — Phyllis Nelson"
+        },
+        {
+          "answer": "A Good Heart",
+          "display": "#8 — Feargal Sharkey"
+        },
+        {
+          "answer": "Take On Me",
+          "display": "#9 — a-ha"
+        },
+        {
+          "answer": "Love & Pride",
+          "display": "#10 — King"
+        },
+        {
+          "answer": "I Want to Know What Love Is",
+          "display": "#11 — Foreigner"
+        },
+        {
+          "answer": "Easy Lover",
+          "display": "#12 — Philip Bailey and Phil Collins"
+        },
+        {
+          "answer": "Axel F",
+          "display": "#13 — Harold Faltermeyer"
+        }
+      ]
+    },
+    {
+      "category": "music/uk/singles/year-end",
+      "question": "Top 10 best-selling singles in the UK in 1986 (year-end singles chart)",
+      "cutoff": 10,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1368211298 | table 3 | name: Title | value: No. | order: asc",
+      "tags": [
+        "music",
+        "uk",
+        "singles",
+        "charts",
+        "1980s"
+      ],
+      "answers": [
+        {
+          "answer": "Don't Leave Me This Way",
+          "display": "#1 — The Communards"
+        },
+        {
+          "answer": "Every Loser Wins",
+          "display": "#2 — Nick Berry"
+        },
+        {
+          "answer": "I Want to Wake Up with You",
+          "display": "#3 — Boris Gardiner"
+        },
+        {
+          "answer": "Living Doll",
+          "display": "#4 — Cliff Richard & The Young Ones"
+        },
+        {
+          "answer": "Chain Reaction",
+          "display": "#5 — Diana Ross"
+        },
+        {
+          "answer": "The Lady in Red",
+          "display": "#6 — Chris de Burgh"
+        },
+        {
+          "answer": "When the Going Gets Tough, the Tough Get Going",
+          "display": "#7 — Billy Ocean"
+        },
+        {
+          "answer": "Papa Don't Preach",
+          "display": "#8 — Madonna"
+        },
+        {
+          "answer": "Take My Breath Away",
+          "display": "#9 — Berlin"
+        },
+        {
+          "answer": "So Macho",
+          "display": "#10 — Sinitta",
+          "aliases": [
+            "Cruising"
+          ]
+        },
+        {
+          "answer": "True Blue",
+          "display": "#11 — Madonna"
+        },
+        {
+          "answer": "A Different Corner",
+          "display": "#12 — George Michael"
+        },
+        {
+          "answer": "Rock Me Amadeus",
+          "display": "#13 — Falco"
+        }
+      ]
+    },
+    {
+      "category": "music/uk/singles/year-end",
+      "question": "Top 10 best-selling singles in the UK in 1987 (year-end singles chart)",
+      "cutoff": 10,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1359913440 | table 3 | name: Title | value: No. | order: asc",
+      "tags": [
+        "music",
+        "uk",
+        "singles",
+        "charts",
+        "1980s"
+      ],
+      "answers": [
+        {
+          "answer": "Never Gonna Give You Up",
+          "display": "#1 — Rick Astley"
+        },
+        {
+          "answer": "Nothing's Gonna Stop Us Now",
+          "display": "#2 — Starship"
+        },
+        {
+          "answer": "I Wanna Dance with Somebody (Who Loves Me)",
+          "display": "#3 — Whitney Houston",
+          "aliases": [
+            "I Wanna Dance with Somebody"
+          ]
+        },
+        {
+          "answer": "You Win Again",
+          "display": "#4 — Bee Gees"
+        },
+        {
+          "answer": "China in Your Hand",
+          "display": "#5 — T'Pau"
+        },
+        {
+          "answer": "Respectable",
+          "display": "#6 — Mel and Kim"
+        },
+        {
+          "answer": "Stand by Me",
+          "display": "#7 — Ben E. King"
+        },
+        {
+          "answer": "It's a Sin",
+          "display": "#8 — Pet Shop Boys"
+        },
+        {
+          "answer": "Star Trekkin'",
+          "display": "#9 — The Firm"
+        },
+        {
+          "answer": "Pump Up the Volume",
+          "display": "#10 — MARRS"
+        },
+        {
+          "answer": "I Knew You Were Waiting (For Me)",
+          "display": "#11 — George Michael and Aretha Franklin",
+          "aliases": [
+            "I Knew You Were Waiting"
+          ]
+        },
+        {
+          "answer": "Under the Boardwalk",
+          "display": "#12 — Bruce Willis"
+        },
+        {
+          "answer": "Let It Be",
+          "display": "#13 — Ferry Aid"
+        }
+      ]
+    },
+    {
+      "category": "music/uk/singles/year-end",
+      "question": "Top 10 best-selling singles in the UK in 1988 (year-end singles chart)",
+      "cutoff": 10,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1345209158 | table 3 | name: Title | value: No. | order: asc",
+      "tags": [
+        "music",
+        "uk",
+        "singles",
+        "charts",
+        "1980s"
+      ],
+      "answers": [
+        {
+          "answer": "Mistletoe and Wine",
+          "display": "#1 — Cliff Richard"
+        },
+        {
+          "answer": "The Only Way Is Up",
+          "display": "#2 — Yazz and the Plastic Population"
+        },
+        {
+          "answer": "I Should Be So Lucky",
+          "display": "#3 — Kylie Minogue"
+        },
+        {
+          "answer": "Especially for You",
+          "display": "#4 — Kylie Minogue & Jason Donovan"
+        },
+        {
+          "answer": "I Think We're Alone Now",
+          "display": "#5 — Tiffany"
+        },
+        {
+          "answer": "Nothing's Gonna Change My Love for You",
+          "display": "#6 — Glenn Medeiros"
+        },
+        {
+          "answer": "A Groovy Kind of Love",
+          "display": "#7 — Phil Collins"
+        },
+        {
+          "answer": "He Ain't Heavy, He's My Brother",
+          "display": "#8 — The Hollies"
+        },
+        {
+          "answer": "With a Little Help from My Friends",
+          "display": "#9 — Wet Wet Wet/Billy Bragg with Cara Tivey",
+          "aliases": [
+            "She's Leaving Home"
+          ]
+        },
+        {
+          "answer": "Teardrops",
+          "display": "#10 — Womack & Womack"
+        },
+        {
+          "answer": "The Loco-Motion",
+          "display": "#11 — Kylie Minogue"
+        },
+        {
+          "answer": "First Time",
+          "display": "#12 — Robin Beck"
+        },
+        {
+          "answer": "Perfect",
+          "display": "#13 — Fairground Attraction"
+        }
+      ]
+    },
+    {
+      "category": "music/uk/singles/year-end",
+      "question": "Top 10 best-selling singles in the UK in 1989 (year-end singles chart)",
+      "cutoff": 10,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1345217113 | table 4 | name: Title | value: No. | order: asc",
+      "tags": [
+        "music",
+        "uk",
+        "singles",
+        "charts",
+        "1980s"
+      ],
+      "answers": [
+        {
+          "answer": "Ride on Time",
+          "display": "#1 — Black Box"
+        },
+        {
+          "answer": "Swing the Mood",
+          "display": "#2 — Jive Bunny and the Mastermixers"
+        },
+        {
+          "answer": "Eternal Flame",
+          "display": "#3 — The Bangles"
+        },
+        {
+          "answer": "Too Many Broken Hearts",
+          "display": "#4 — Jason Donovan"
+        },
+        {
+          "answer": "Back to Life (However Do You Want Me)",
+          "display": "#5 — Soul II Soul featuring Caron Wheeler",
+          "aliases": [
+            "Back to Life"
+          ]
+        },
+        {
+          "answer": "Something's Gotten Hold of My Heart",
+          "display": "#6 — Marc Almond featuring Gene Pitney"
+        },
+        {
+          "answer": "That's What I Like",
+          "display": "#7 — Jive Bunny and the Mastermixers"
+        },
+        {
+          "answer": "Pump Up the Jam",
+          "display": "#8 — Technotronic featuring Felly"
+        },
+        {
+          "answer": "Do They Know It's Christmas?",
+          "display": "#9 — Band Aid II"
+        },
+        {
+          "answer": "Hand on Your Heart",
+          "display": "#10 — Kylie Minogue"
+        },
+        {
+          "answer": "Like a Prayer",
+          "display": "#11 — Madonna"
+        },
+        {
+          "answer": "All Around the World",
+          "display": "#12 — Lisa Stansfield"
+        },
+        {
+          "answer": "If Only I Could",
+          "display": "#13 — Sydney Youngblood"
+        }
+      ]
+    },
+    {
+      "category": "music/uk/singles/year-end",
+      "question": "Top 10 best-selling singles in the UK in 1990 (year-end singles chart)",
+      "cutoff": 10,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1373233819 | table 4 | name: Title | value: No. | order: asc",
+      "tags": [
+        "music",
+        "uk",
+        "singles",
+        "charts",
+        "1990s"
+      ],
+      "answers": [
+        {
+          "answer": "Unchained Melody",
+          "display": "#1 — The Righteous Brothers"
+        },
+        {
+          "answer": "Nothing Compares 2 U",
+          "display": "#2 — Sinéad O'Connor"
+        },
+        {
+          "answer": "Sacrifice",
+          "display": "#3 — Elton John",
+          "aliases": [
+            "Healing Hands"
+          ]
+        },
+        {
+          "answer": "Ice Ice Baby",
+          "display": "#4 — Vanilla Ice"
+        },
+        {
+          "answer": "Killer",
+          "display": "#5 — Adamski"
+        },
+        {
+          "answer": "Show Me Heaven",
+          "display": "#6 — Maria McKee"
+        },
+        {
+          "answer": "Dub Be Good to Me",
+          "display": "#7 — Beats International"
+        },
+        {
+          "answer": "Vogue",
+          "display": "#8 — Madonna"
+        },
+        {
+          "answer": "World in Motion",
+          "display": "#9 — England New Order"
+        },
+        {
+          "answer": "The Power",
+          "display": "#10 — Snap!"
+        },
+        {
+          "answer": "Nessun Dorma",
+          "display": "#11 — Luciano Pavarotti"
+        },
+        {
+          "answer": "A Little Time",
+          "display": "#12 — The Beautiful South"
+        },
+        {
+          "answer": "Turtle Power",
+          "display": "#13 — Partners in Kryme"
+        }
+      ]
+    },
+    {
+      "category": "music/uk/singles/year-end",
+      "question": "Top 10 best-selling singles in the UK in 1991 (year-end singles chart)",
+      "cutoff": 10,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1375585361 | table 3 | name: Title | value: No. | order: asc",
+      "tags": [
+        "music",
+        "uk",
+        "singles",
+        "charts",
+        "1990s"
+      ],
+      "answers": [
+        {
+          "answer": "(Everything I Do) I Do It for You",
+          "display": "#1 — Bryan Adams",
+          "aliases": [
+            "Everything I Do",
+            "I Do It for You"
+          ]
+        },
+        {
+          "answer": "Bohemian Rhapsody",
+          "display": "#2 — Queen",
+          "aliases": [
+            "These Are the Days of Our Lives"
+          ]
+        },
+        {
+          "answer": "The Shoop Shoop Song (It's in His Kiss)",
+          "display": "#3 — Cher",
+          "aliases": [
+            "The Shoop Shoop Song"
+          ]
+        },
+        {
+          "answer": "I'm Too Sexy",
+          "display": "#4 — Right Said Fred"
+        },
+        {
+          "answer": "Do the Bartman",
+          "display": "#5 — The Simpsons"
+        },
+        {
+          "answer": "Any Dream Will Do",
+          "display": "#6 — Jason Donovan"
+        },
+        {
+          "answer": "The One and Only",
+          "display": "#7 — Chesney Hawkes"
+        },
+        {
+          "answer": "Dizzy",
+          "display": "#8 — Vic Reeves & the Wonder Stuff"
+        },
+        {
+          "answer": "Insanity",
+          "display": "#9 — Oceanic"
+        },
+        {
+          "answer": "I Wanna Sex You Up",
+          "display": "#10 — Color Me Badd"
+        },
+        {
+          "answer": "Get Ready for This",
+          "display": "#11 — 2 Unlimited"
+        },
+        {
+          "answer": "3 a.m. Eternal",
+          "display": "#12 — The KLF featuring the Children of the Revolution"
+        },
+        {
+          "answer": "Black or White",
+          "display": "#13 — Michael Jackson"
+        }
+      ]
+    },
+    {
+      "category": "music/uk/singles/year-end",
+      "question": "Top 10 best-selling singles in the UK in 1992 (year-end singles chart)",
+      "cutoff": 10,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1374972706 | table 3 | name: Title | value: No. | order: asc",
+      "tags": [
+        "music",
+        "uk",
+        "singles",
+        "charts",
+        "1990s"
+      ],
+      "answers": [
+        {
+          "answer": "I Will Always Love You",
+          "display": "#1 — Whitney Houston"
+        },
+        {
+          "answer": "Rhythm Is a Dancer",
+          "display": "#2 — Snap!"
+        },
+        {
+          "answer": "Would I Lie to You?",
+          "display": "#3 — Charles & Eddie"
+        },
+        {
+          "answer": "Stay",
+          "display": "#4 — Shakespears Sister"
+        },
+        {
+          "answer": "Please Don't Go",
+          "display": "#5 — KWS",
+          "aliases": [
+            "Game Boy"
+          ]
+        },
+        {
+          "answer": "End of the Road",
+          "display": "#6 — Boyz II Men"
+        },
+        {
+          "answer": "Abba-esque",
+          "display": "#7 — Erasure"
+        },
+        {
+          "answer": "Ain't No Doubt",
+          "display": "#8 — Jimmy Nail"
+        },
+        {
+          "answer": "Heal the World",
+          "display": "#9 — Michael Jackson"
+        },
+        {
+          "answer": "Goodnight Girl",
+          "display": "#10 — Wet Wet Wet"
+        },
+        {
+          "answer": "Baker Street",
+          "display": "#11 — Undercover"
+        },
+        {
+          "answer": "Deeply Dippy",
+          "display": "#12 — Right Said Fred"
+        },
+        {
+          "answer": "Ebeneezer Goode",
+          "display": "#13 — The Shamen"
+        }
+      ]
+    },
+    {
+      "category": "music/uk/singles/year-end",
+      "question": "Top 10 best-selling singles in the UK in 1993 (year-end singles chart)",
+      "cutoff": 10,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1345527844 | table 3 | name: Title | value: No. | order: asc",
+      "tags": [
+        "music",
+        "uk",
+        "singles",
+        "charts",
+        "1990s"
+      ],
+      "answers": [
+        {
+          "answer": "I'd Do Anything for Love (But I Won't Do That)",
+          "display": "#1 — Meat Loaf",
+          "aliases": [
+            "I'd Do Anything for Love"
+          ]
+        },
+        {
+          "answer": "(I Can't Help) Falling in Love with You",
+          "display": "#2 — UB40",
+          "aliases": [
+            "Falling in Love with You",
+            "I Can't Help Falling in Love with You"
+          ]
+        },
+        {
+          "answer": "All That She Wants",
+          "display": "#3 — Ace of Base"
+        },
+        {
+          "answer": "No Limit",
+          "display": "#4 — 2 Unlimited"
+        },
+        {
+          "answer": "Dreams",
+          "display": "#5 — Gabrielle"
+        },
+        {
+          "answer": "Mr Blobby",
+          "display": "#6 — Mr Blobby"
+        },
+        {
+          "answer": "Oh Carolina",
+          "display": "#7 — Shaggy"
+        },
+        {
+          "answer": "What Is Love",
+          "display": "#8 — Haddaway"
+        },
+        {
+          "answer": "Mr. Vain",
+          "display": "#9 — Culture Beat"
+        },
+        {
+          "answer": "I Will Always Love You",
+          "display": "#10 — Whitney Houston"
+        },
+        {
+          "answer": "Five Live",
+          "display": "#11 — George Michael and Queen with Lisa Stansfield"
+        },
+        {
+          "answer": "Young at Heart",
+          "display": "#12 — The Bluebells"
+        },
+        {
+          "answer": "Tease Me",
+          "display": "#13 — Chaka Demus & Pliers"
+        }
+      ]
+    },
+    {
+      "category": "music/uk/singles/year-end",
+      "question": "Top 10 best-selling singles in the UK in 1994 (year-end singles chart)",
+      "cutoff": 10,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1357099422 | table 4 | name: Title | value: No. | order: asc",
+      "tags": [
+        "music",
+        "uk",
+        "singles",
+        "charts",
+        "1990s"
+      ],
+      "answers": [
+        {
+          "answer": "Love Is All Around",
+          "display": "#1 — Wet Wet Wet"
+        },
+        {
+          "answer": "Saturday Night",
+          "display": "#2 — Whigfield"
+        },
+        {
+          "answer": "Stay Another Day",
+          "display": "#3 — East 17"
+        },
+        {
+          "answer": "Baby Come Back",
+          "display": "#4 — Pato Banton featuring Ali and Robin Campbell of UB40"
+        },
+        {
+          "answer": "I Swear",
+          "display": "#5 — All-4-One"
+        },
+        {
+          "answer": "Without You",
+          "display": "#6 — Mariah Carey"
+        },
+        {
+          "answer": "Always",
+          "display": "#7 — Bon Jovi"
+        },
+        {
+          "answer": "Crazy for You",
+          "display": "#8 — Let Loose"
+        },
+        {
+          "answer": "Things Can Only Get Better",
+          "display": "#9 — D:Ream"
+        },
+        {
+          "answer": "Doop",
+          "display": "#10 — Doop"
+        },
+        {
+          "answer": "The Sign",
+          "display": "#11 — Ace of Base"
+        },
+        {
+          "answer": "Come On You Reds",
+          "display": "#12 — The Manchester United Football Squad"
+        },
+        {
+          "answer": "The Rhythm of the Night",
+          "display": "#13 — Corona"
+        }
+      ]
+    },
+    {
+      "category": "music/uk/singles/year-end",
+      "question": "Top 10 best-selling singles in the UK in 1995 (year-end singles chart)",
+      "cutoff": 10,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1345446720 | table 4 | name: Title | value: No. | order: asc",
+      "tags": [
+        "music",
+        "uk",
+        "singles",
+        "charts",
+        "1990s"
+      ],
+      "answers": [
+        {
+          "answer": "Unchained Melody",
+          "display": "#1 — Robson & Jerome",
+          "aliases": [
+            "The White Cliffs of Dover"
+          ]
+        },
+        {
+          "answer": "Gangsta's Paradise",
+          "display": "#2 — Coolio featuring L.V."
+        },
+        {
+          "answer": "I Believe",
+          "display": "#3 — Robson & Jerome",
+          "aliases": [
+            "Up on the Roof"
+          ]
+        },
+        {
+          "answer": "Back for Good",
+          "display": "#4 — Take That"
+        },
+        {
+          "answer": "Think Twice",
+          "display": "#5 — Celine Dion"
+        },
+        {
+          "answer": "Earth Song",
+          "display": "#6 — Michael Jackson"
+        },
+        {
+          "answer": "Fairground",
+          "display": "#7 — Simply Red"
+        },
+        {
+          "answer": "You Are Not Alone",
+          "display": "#8 — Michael Jackson"
+        },
+        {
+          "answer": "Missing",
+          "display": "#9 — Everything but the Girl"
+        },
+        {
+          "answer": "Wonderwall",
+          "display": "#10 — Oasis"
+        },
+        {
+          "answer": "Boom Boom Boom",
+          "display": "#11 — The Outhere Brothers"
+        },
+        {
+          "answer": "Country House",
+          "display": "#12 — Blur"
+        },
+        {
+          "answer": "Father and Son",
+          "display": "#13 — Boyzone"
+        }
+      ]
+    },
+    {
+      "category": "music/uk/singles/year-end",
+      "question": "Top 10 best-selling singles in the UK in 1996 (year-end singles chart)",
+      "cutoff": 10,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1375182407 | table 4 | name: Title | value: No. | order: asc",
+      "tags": [
+        "music",
+        "uk",
+        "singles",
+        "charts",
+        "1990s"
+      ],
+      "answers": [
+        {
+          "answer": "Killing Me Softly",
+          "display": "#1 — Fugees"
+        },
+        {
+          "answer": "Wannabe",
+          "display": "#2 — Spice Girls"
+        },
+        {
+          "answer": "Spaceman",
+          "display": "#3 — Babylon Zoo"
+        },
+        {
+          "answer": "Say You'll Be There",
+          "display": "#4 — Spice Girls"
+        },
+        {
+          "answer": "Return of the Mack",
+          "display": "#5 — Mark Morrison"
+        },
+        {
+          "answer": "Ooh Aah... Just a Little Bit",
+          "display": "#6 — Gina G"
+        },
+        {
+          "answer": "Three Lions",
+          "display": "#7 — Baddiel & Skinner & Lightning Seeds"
+        },
+        {
+          "answer": "Children",
+          "display": "#8 — Robert Miles"
+        },
+        {
+          "answer": "Mysterious Girl",
+          "display": "#9 — Peter Andre featuring Bubbler Ranx"
+        },
+        {
+          "answer": "2 Become 1",
+          "display": "#10 — Spice Girls"
+        },
+        {
+          "answer": "Don't Look Back in Anger",
+          "display": "#11 — Oasis"
+        },
+        {
+          "answer": "How Deep Is Your Love",
+          "display": "#12 — Take That"
+        },
+        {
+          "answer": "Un-Break My Heart",
+          "display": "#13 — Toni Braxton"
+        }
+      ]
+    },
+    {
+      "category": "music/uk/singles/year-end",
+      "question": "Top 10 best-selling singles in the UK in 1997 (year-end singles chart)",
+      "cutoff": 10,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1375182366 | table 4 | name: Title | value: No. | order: asc",
+      "tags": [
+        "music",
+        "uk",
+        "singles",
+        "charts",
+        "1990s"
+      ],
+      "answers": [
+        {
+          "answer": "Candle in the Wind 1997",
+          "display": "#1 — Elton John",
+          "aliases": [
+            "Something About the Way You Look Tonight"
+          ]
+        },
+        {
+          "answer": "Barbie Girl",
+          "display": "#2 — Aqua"
+        },
+        {
+          "answer": "I'll Be Missing You",
+          "display": "#3 — Puff Daddy & Faith Evans featuring 112"
+        },
+        {
+          "answer": "Perfect Day",
+          "display": "#4 — Various Artists"
+        },
+        {
+          "answer": "Teletubbies Say Eh-Oh!",
+          "display": "#5 — Teletubbies"
+        },
+        {
+          "answer": "Men in Black",
+          "display": "#6 — Will Smith"
+        },
+        {
+          "answer": "Don't Speak",
+          "display": "#7 — No Doubt"
+        },
+        {
+          "answer": "Torn",
+          "display": "#8 — Natalie Imbruglia"
+        },
+        {
+          "answer": "Tubthumping",
+          "display": "#9 — Chumbawamba"
+        },
+        {
+          "answer": "Spice Up Your Life",
+          "display": "#10 — Spice Girls"
+        },
+        {
+          "answer": "MMMBop",
+          "display": "#11 — Hanson"
+        },
+        {
+          "answer": "D'You Know What I Mean?",
+          "display": "#12 — Oasis"
+        },
+        {
+          "answer": "Never Ever",
+          "display": "#13 — All Saints"
+        }
+      ]
+    },
+    {
+      "category": "music/uk/singles/year-end",
+      "question": "Top 10 best-selling singles in the UK in 1998 (year-end singles chart)",
+      "cutoff": 10,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1340095446 | table 4 | name: Title | value: No. | order: asc",
+      "tags": [
+        "music",
+        "uk",
+        "singles",
+        "charts",
+        "1990s"
+      ],
+      "answers": [
+        {
+          "answer": "Believe",
+          "display": "#1 — Cher"
+        },
+        {
+          "answer": "My Heart Will Go On",
+          "display": "#2 — Celine Dion"
+        },
+        {
+          "answer": "It's Like That",
+          "display": "#3 — Run–D.M.C. vs. Jason Nevins"
+        },
+        {
+          "answer": "No Matter What",
+          "display": "#4 — Boyzone"
+        },
+        {
+          "answer": "C'est la Vie",
+          "display": "#5 — B*Witched"
+        },
+        {
+          "answer": "How Do I Live",
+          "display": "#6 — LeAnn Rimes"
+        },
+        {
+          "answer": "Chocolate Salty Balls (P.S. I Love You)",
+          "display": "#7 — Chef",
+          "aliases": [
+            "Chocolate Salty Balls"
+          ]
+        },
+        {
+          "answer": "Goodbye",
+          "display": "#8 — Spice Girls"
+        },
+        {
+          "answer": "Ghetto Supastar (That Is What You Are)",
+          "display": "#9 — Pras Michel featuring ODB & introducing Mýa",
+          "aliases": [
+            "Ghetto Supastar"
+          ]
+        },
+        {
+          "answer": "Truly Madly Deeply",
+          "display": "#10 — Savage Garden"
+        },
+        {
+          "answer": "Music Sounds Better with You",
+          "display": "#11 — Stardust"
+        },
+        {
+          "answer": "Heartbeat",
+          "display": "#12 — Steps",
+          "aliases": [
+            "Tragedy"
+          ]
+        },
+        {
+          "answer": "Viva Forever",
+          "display": "#13 — Spice Girls"
+        }
+      ]
+    },
+    {
+      "category": "music/uk/singles/year-end",
+      "question": "Top 10 best-selling singles in the UK in 2011 (Official Charts year-end)",
+      "cutoff": 10,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1337806085 | table 4 | name: Title | value: No. | order: asc",
+      "tags": [
+        "music",
+        "uk",
+        "singles",
+        "charts",
+        "2010s"
+      ],
+      "answers": [
+        {
+          "answer": "Someone Like You",
+          "display": "#1 — Adele"
+        },
+        {
+          "answer": "Moves Like Jagger",
+          "display": "#2 — Maroon 5 featuring Christina Aguilera"
+        },
+        {
+          "answer": "Party Rock Anthem",
+          "display": "#3 — LMFAO featuring Lauren Bennett & GoonRock"
+        },
+        {
+          "answer": "Price Tag",
+          "display": "#4 — Jessie J featuring B.o.B"
+        },
+        {
+          "answer": "We Found Love",
+          "display": "#5 — Rihanna featuring Calvin Harris"
+        },
+        {
+          "answer": "Give Me Everything",
+          "display": "#6 — Pitbull featuring Ne-Yo, Afrojack & Nayer"
+        },
+        {
+          "answer": "Grenade",
+          "display": "#7 — Bruno Mars"
+        },
+        {
+          "answer": "The A Team",
+          "display": "#8 — Ed Sheeran"
+        },
+        {
+          "answer": "Rolling in the Deep",
+          "display": "#9 — Adele"
+        },
+        {
+          "answer": "On the Floor",
+          "display": "#10 — Jennifer Lopez featuring Pitbull"
+        },
+        {
+          "answer": "Jar of Hearts",
+          "display": "#11 — Christina Perri"
+        },
+        {
+          "answer": "S&M",
+          "display": "#12 — Rihanna"
+        },
+        {
+          "answer": "Wherever You Are",
+          "display": "#13 — Military Wives & Gareth Malone"
+        }
+      ]
+    },
+    {
+      "category": "music/uk/singles/year-end",
+      "question": "Top 10 best-selling singles in the UK in 2012 (Official Charts year-end)",
+      "cutoff": 10,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1367939261 | table 4 | name: Title | value: No. | order: asc",
+      "tags": [
+        "music",
+        "uk",
+        "singles",
+        "charts",
+        "2010s"
+      ],
+      "answers": [
+        {
+          "answer": "Somebody That I Used to Know",
+          "display": "#1 — Gotye featuring Kimbra"
+        },
+        {
+          "answer": "Call Me Maybe",
+          "display": "#2 — Carly Rae Jepsen"
+        },
+        {
+          "answer": "We Are Young",
+          "display": "#3 — Fun featuring Janelle Monáe"
+        },
+        {
+          "answer": "Titanium",
+          "display": "#4 — David Guetta featuring Sia"
+        },
+        {
+          "answer": "Impossible",
+          "display": "#5 — James Arthur"
+        },
+        {
+          "answer": "Gangnam Style",
+          "display": "#6 — Psy"
+        },
+        {
+          "answer": "Starships",
+          "display": "#7 — Nicki Minaj"
+        },
+        {
+          "answer": "Domino",
+          "display": "#8 — Jessie J"
+        },
+        {
+          "answer": "Payphone",
+          "display": "#9 — Maroon 5 featuring Wiz Khalifa"
+        },
+        {
+          "answer": "Wild Ones",
+          "display": "#10 — Flo Rida featuring Sia"
+        },
+        {
+          "answer": "Diamonds",
+          "display": "#11 — Rihanna"
+        },
+        {
+          "answer": "Beneath Your Beautiful",
+          "display": "#12 — Labrinth featuring Emeli Sandé"
+        },
+        {
+          "answer": "Don't You Worry Child",
+          "display": "#13 — Swedish House Mafia featuring John Martin"
+        }
+      ]
+    },
+    {
+      "category": "music/uk/singles/year-end",
+      "question": "Top 10 best-selling singles in the UK in 2015 (Official Charts year-end, including streams)",
+      "cutoff": 10,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1379574047 | table 7 | name: Title | value: Combined position | order: asc",
+      "tags": [
+        "music",
+        "uk",
+        "singles",
+        "charts",
+        "2010s"
+      ],
+      "answers": [
+        {
+          "answer": "Uptown Funk",
+          "display": "#1 — Mark Ronson featuring Bruno Mars"
+        },
+        {
+          "answer": "Cheerleader",
+          "display": "#2 — OMI"
+        },
+        {
+          "answer": "Take Me to Church",
+          "display": "#3 — Hozier"
+        },
+        {
+          "answer": "Love Me like You Do",
+          "display": "#4 — Ellie Goulding"
+        },
+        {
+          "answer": "See You Again",
+          "display": "#5 — Wiz Khalifa featuring Charlie Puth"
+        },
+        {
+          "answer": "Hello",
+          "display": "#6 — Adele"
+        },
+        {
+          "answer": "Lean On",
+          "display": "#7 — Major Lazer & DJ Snake featuring MØ"
+        },
+        {
+          "answer": "Hold Back the River",
+          "display": "#8 — James Bay"
+        },
+        {
+          "answer": "What Do You Mean?",
+          "display": "#9 — Justin Bieber"
+        },
+        {
+          "answer": "Sorry",
+          "display": "#10 — Justin Bieber"
+        },
+        {
+          "answer": "King",
+          "display": "#11 — Years & Years"
+        },
+        {
+          "answer": "Thinking Out Loud",
+          "display": "#12 — Ed Sheeran"
+        },
+        {
+          "answer": "Sugar",
+          "display": "#13 — Maroon 5"
+        }
+      ]
+    },
+    {
+      "category": "music/uk/singles/year-end",
+      "question": "Top 10 best-selling singles in the UK in 2016 (Official Charts year-end, including streams)",
+      "cutoff": 10,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1373444358 | table 7 | name: Title | value: Combined position | order: asc",
+      "tags": [
+        "music",
+        "uk",
+        "singles",
+        "charts",
+        "2010s"
+      ],
+      "answers": [
+        {
+          "answer": "One Dance",
+          "display": "#1 — Drake featuring Wizkid & Kyla"
+        },
+        {
+          "answer": "7 Years",
+          "display": "#2 — Lukas Graham"
+        },
+        {
+          "answer": "Cheap Thrills",
+          "display": "#3 — Sia featuring Sean Paul"
+        },
+        {
+          "answer": "I Took a Pill in Ibiza",
+          "display": "#4 — Mike Posner"
+        },
+        {
+          "answer": "This Is What You Came For",
+          "display": "#5 — Calvin Harris and Rihanna"
+        },
+        {
+          "answer": "Lush Life",
+          "display": "#6 — Zara Larsson"
+        },
+        {
+          "answer": "Closer",
+          "display": "#7 — The Chainsmokers featuring Halsey"
+        },
+        {
+          "answer": "Love Yourself",
+          "display": "#8 — Justin Bieber"
+        },
+        {
+          "answer": "Work",
+          "display": "#9 — Rihanna featuring Drake"
+        },
+        {
+          "answer": "Can't Stop the Feeling!",
+          "display": "#10 — Justin Timberlake"
+        },
+        {
+          "answer": "Stitches",
+          "display": "#11 — Shawn Mendes"
+        },
+        {
+          "answer": "Dancing on My Own",
+          "display": "#12 — Calum Scott"
+        },
+        {
+          "answer": "Fast Car",
+          "display": "#13 — Jonas Blue featuring Dakota"
+        }
+      ]
+    },
+    {
+      "category": "music/uk/singles/year-end",
+      "question": "Top 10 best-selling singles in the UK in 2017 (Official Charts year-end, including streams)",
+      "cutoff": 10,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1373897478 | table 4 | name: Title | value: 1 | order: asc",
+      "tags": [
+        "music",
+        "uk",
+        "singles",
+        "charts",
+        "2010s"
+      ],
+      "answers": [
+        {
+          "answer": "Shape of You",
+          "display": "#1 — Ed Sheeran"
+        },
+        {
+          "answer": "Despacito",
+          "display": "#2 — Luis Fonsi and Daddy Yankee featuring Justin Bieber"
+        },
+        {
+          "answer": "Castle on the Hill",
+          "display": "#3 — Ed Sheeran"
+        },
+        {
+          "answer": "Unforgettable",
+          "display": "#4 — French Montana featuring Swae Lee"
+        },
+        {
+          "answer": "Galway Girl",
+          "display": "#5 — Ed Sheeran"
+        },
+        {
+          "answer": "Perfect",
+          "display": "#6 — Ed Sheeran"
+        },
+        {
+          "answer": "Symphony",
+          "display": "#7 — Clean Bandit featuring Zara Larsson"
+        },
+        {
+          "answer": "Human",
+          "display": "#8 — Rag'n'Bone Man"
+        },
+        {
+          "answer": "Something Just Like This",
+          "display": "#9 — Coldplay and The Chainsmokers"
+        },
+        {
+          "answer": "You Don't Know Me",
+          "display": "#10 — Jax Jones featuring RAYE"
+        },
+        {
+          "answer": "New Rules",
+          "display": "#11 — Dua Lipa"
+        },
+        {
+          "answer": "I'm the One",
+          "display": "#12 — DJ Khaled featuring Justin Bieber, Quavo, Chance the Rapper and Lil Wayne"
+        },
+        {
+          "answer": "Wild Thoughts",
+          "display": "#13 — DJ Khaled featuring Rihanna and Bryson Tiller"
+        }
+      ]
+    },
+    {
+      "category": "music/uk/singles/year-end",
+      "question": "Top 10 best-selling singles in the UK in 2019 (Official Charts year-end, including streams)",
+      "cutoff": 10,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1379619322 | table 6 | name: Title | value: 1 | order: asc",
+      "tags": [
+        "music",
+        "uk",
+        "singles",
+        "charts",
+        "2010s"
+      ],
+      "answers": [
+        {
+          "answer": "Someone You Loved",
+          "display": "#1 — Lewis Capaldi"
+        },
+        {
+          "answer": "Old Town Road",
+          "display": "#2 — Lil Nas X"
+        },
+        {
+          "answer": "I Don't Care",
+          "display": "#3 — Ed Sheeran & Justin Bieber"
+        },
+        {
+          "answer": "Bad Guy",
+          "display": "#4 — Billie Eilish"
+        },
+        {
+          "answer": "Giant",
+          "display": "#5 — Calvin Harris & Rag'n'Bone Man"
+        },
+        {
+          "answer": "Sweet but Psycho",
+          "display": "#6 — Ava Max"
+        },
+        {
+          "answer": "Vossi Bop",
+          "display": "#7 — Stormzy"
+        },
+        {
+          "answer": "Dance Monkey",
+          "display": "#8 — Tones and I"
+        },
+        {
+          "answer": "Don't Call Me Up",
+          "display": "#9 — Mabel"
+        },
+        {
+          "answer": "Señorita",
+          "display": "#10 — Shawn Mendes & Camila Cabello"
+        },
+        {
+          "answer": "Piece of Your Heart",
+          "display": "#11 — Meduza featuring Goodboys"
+        },
+        {
+          "answer": "Shotgun",
+          "display": "#12 — George Ezra"
+        },
+        {
+          "answer": "Location",
+          "display": "#13 — Dave featuring Burna Boy"
+        }
+      ]
+    },
+    {
+      "category": "music/uk/singles/year-end",
+      "question": "Top 10 best-selling singles in the UK in 2020 (Official Charts year-end, including streams)",
+      "cutoff": 10,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1375676019 | table 7 | name: Title | value: 1 | order: asc",
+      "tags": [
+        "music",
+        "uk",
+        "singles",
+        "charts",
+        "2020s"
+      ],
+      "answers": [
+        {
+          "answer": "Blinding Lights",
+          "display": "#1 — The Weeknd"
+        },
+        {
+          "answer": "Dance Monkey",
+          "display": "#2 — Tones and I"
+        },
+        {
+          "answer": "Roses",
+          "display": "#3 — Saint Jhn"
+        },
+        {
+          "answer": "Before You Go",
+          "display": "#4 — Lewis Capaldi"
+        },
+        {
+          "answer": "Head & Heart",
+          "display": "#5 — Joel Corry featuring MNEK"
+        },
+        {
+          "answer": "Don't Start Now",
+          "display": "#6 — Dua Lipa"
+        },
+        {
+          "answer": "Rockstar",
+          "display": "#7 — DaBaby featuring Roddy Ricch"
+        },
+        {
+          "answer": "Someone You Loved",
+          "display": "#8 — Lewis Capaldi"
+        },
+        {
+          "answer": "Own It",
+          "display": "#9 — Stormzy featuring Ed Sheeran and Burna Boy"
+        },
+        {
+          "answer": "Watermelon Sugar",
+          "display": "#10 — Harry Styles"
+        },
+        {
+          "answer": "Savage Love (Laxed – Siren Beat)",
+          "display": "#11 — Jawsh 685 and Jason Derulo",
+          "aliases": [
+            "Savage Love"
+          ]
+        },
+        {
+          "answer": "The Box",
+          "display": "#12 — Roddy Ricch"
+        },
+        {
+          "answer": "Say So",
+          "display": "#13 — Doja Cat"
+        }
+      ]
+    },
+    {
+      "category": "music/uk/singles/year-end",
+      "question": "Top 10 best-selling singles in the UK in 2021 (Official Charts year-end, including streams)",
+      "cutoff": 10,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1379570000 | table 6 | name: Title | value: No. | order: asc",
+      "tags": [
+        "music",
+        "uk",
+        "singles",
+        "charts",
+        "2020s"
+      ],
+      "answers": [
+        {
+          "answer": "Bad Habits",
+          "display": "#1 — Ed Sheeran"
+        },
+        {
+          "answer": "Good 4 U",
+          "display": "#2 — Olivia Rodrigo"
+        },
+        {
+          "answer": "Drivers License",
+          "display": "#3 — Olivia Rodrigo"
+        },
+        {
+          "answer": "Save Your Tears",
+          "display": "#4 — The Weeknd"
+        },
+        {
+          "answer": "Montero (Call Me by Your Name)",
+          "display": "#5 — Lil Nas X",
+          "aliases": [
+            "Montero"
+          ]
+        },
+        {
+          "answer": "Levitating",
+          "display": "#6 — Dua Lipa"
+        },
+        {
+          "answer": "Stay",
+          "display": "#7 — The Kid Laroi and Justin Bieber"
+        },
+        {
+          "answer": "Heat Waves",
+          "display": "#8 — Glass Animals"
+        },
+        {
+          "answer": "Blinding Lights",
+          "display": "#9 — The Weeknd"
+        },
+        {
+          "answer": "Body",
+          "display": "#10 — Russ Millions and Tion Wayne"
+        },
+        {
+          "answer": "Wellerman (Sea Shanty)",
+          "display": "#11 — Nathan Evans, 220 Kid and Billen Ted",
+          "aliases": [
+            "Wellerman"
+          ]
+        },
+        {
+          "answer": "Easy on Me",
+          "display": "#12 — Adele"
+        },
+        {
+          "answer": "Friday",
+          "display": "#13 — Riton and Nightcrawlers featuring Mufasa and Hypeman"
+        }
+      ]
+    },
+    {
+      "category": "music/uk/singles/year-end",
+      "question": "Top 10 best-selling singles in the UK in 2022 (Official Charts year-end, including streams)",
+      "cutoff": 10,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1351660999 | table 6 | name: Title | value: No. | order: asc",
+      "tags": [
+        "music",
+        "uk",
+        "singles",
+        "charts",
+        "2020s"
+      ],
+      "answers": [
+        {
+          "answer": "As It Was",
+          "display": "#1 — Harry Styles"
+        },
+        {
+          "answer": "Bad Habits",
+          "display": "#2 — Ed Sheeran"
+        },
+        {
+          "answer": "Peru",
+          "display": "#3 — Fireboy DML and Ed Sheeran"
+        },
+        {
+          "answer": "Go",
+          "display": "#4 — Cat Burns"
+        },
+        {
+          "answer": "Shivers",
+          "display": "#5 — Ed Sheeran"
+        },
+        {
+          "answer": "Running Up That Hill",
+          "display": "#6 — Kate Bush"
+        },
+        {
+          "answer": "Heat Waves",
+          "display": "#7 — Glass Animals"
+        },
+        {
+          "answer": "Where Are You Now",
+          "display": "#8 — Lost Frequencies and Calum Scott"
+        },
+        {
+          "answer": "Afraid to Feel",
+          "display": "#9 — LF System"
+        },
+        {
+          "answer": "Seventeen Going Under",
+          "display": "#10 — Sam Fender"
+        },
+        {
+          "answer": "We Don't Talk About Bruno",
+          "display": "#11 — Carolina Gaitán, Mauro Castillo, Adassa, Rhenzy Feliz, Diane Guerrero and Stephanie Beatriz"
+        },
+        {
+          "answer": "Make Me Feel Good",
+          "display": "#12 — Belters Only featuring Jazzy"
+        },
+        {
+          "answer": "Cold Heart (Pnau remix)",
+          "display": "#13 — Elton John and Dua Lipa",
+          "aliases": [
+            "Cold Heart"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "music/uk/singles/year-end",
+      "question": "Top 10 best-selling singles in the UK in 2023 (Official Charts year-end, including streams)",
+      "cutoff": 10,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1379128140 | table 7 | name: Title | value: No. | order: asc",
+      "tags": [
+        "music",
+        "uk",
+        "singles",
+        "charts",
+        "2020s"
+      ],
+      "answers": [
+        {
+          "answer": "Flowers",
+          "display": "#1 — Miley Cyrus"
+        },
+        {
+          "answer": "Sprinter",
+          "display": "#2 — Dave and Central Cee"
+        },
+        {
+          "answer": "Escapism",
+          "display": "#3 — Raye featuring 070 Shake"
+        },
+        {
+          "answer": "Anti-Hero",
+          "display": "#4 — Taylor Swift"
+        },
+        {
+          "answer": "Miracle",
+          "display": "#5 — Calvin Harris and Ellie Goulding"
+        },
+        {
+          "answer": "Calm Down",
+          "display": "#6 — Rema"
+        },
+        {
+          "answer": "Kill Bill",
+          "display": "#7 — SZA"
+        },
+        {
+          "answer": "Boy's a Liar",
+          "display": "#8 — PinkPantheress"
+        },
+        {
+          "answer": "As It Was",
+          "display": "#9 — Harry Styles"
+        },
+        {
+          "answer": "People",
+          "display": "#10 — Libianca"
+        },
+        {
+          "answer": "Cruel Summer",
+          "display": "#11 — Taylor Swift"
+        },
+        {
+          "answer": "Sure Thing",
+          "display": "#12 — Miguel"
+        },
+        {
+          "answer": "I'm Good (Blue)",
+          "display": "#13 — David Guetta and Bebe Rexha",
+          "aliases": [
+            "I'm Good"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "music/uk/singles/year-end",
+      "question": "Top 10 best-selling singles in the UK in 2024 (Official Charts year-end, including streams)",
+      "cutoff": 10,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1377979440 | table 6 | name: Title | value: No. | order: asc",
+      "tags": [
+        "music",
+        "uk",
+        "singles",
+        "charts",
+        "2020s"
+      ],
+      "answers": [
+        {
+          "answer": "Stick Season",
+          "display": "#1 — Noah Kahan"
+        },
+        {
+          "answer": "Beautiful Things",
+          "display": "#2 — Benson Boone"
+        },
+        {
+          "answer": "Espresso",
+          "display": "#3 — Sabrina Carpenter"
+        },
+        {
+          "answer": "Lose Control",
+          "display": "#4 — Teddy Swims"
+        },
+        {
+          "answer": "Too Sweet",
+          "display": "#5 — Hozier"
+        },
+        {
+          "answer": "A Bar Song (Tipsy)",
+          "display": "#6 — Shaboozey",
+          "aliases": [
+            "A Bar Song"
+          ]
+        },
+        {
+          "answer": "Birds of a Feather",
+          "display": "#7 — Billie Eilish"
+        },
+        {
+          "answer": "Good Luck, Babe!",
+          "display": "#8 — Chappell Roan"
+        },
+        {
+          "answer": "Austin",
+          "display": "#9 — Dasha"
+        },
+        {
+          "answer": "Please Please Please",
+          "display": "#10 — Sabrina Carpenter"
+        },
+        {
+          "answer": "Cruel Summer",
+          "display": "#11 — Taylor Swift"
+        },
+        {
+          "answer": "Stargazing",
+          "display": "#12 — Myles Smith"
+        },
+        {
+          "answer": "Prada",
+          "display": "#13 — Cassö, Raye and D-Block Europe"
+        }
+      ]
+    },
+    {
+      "category": "music/uk/singles/year-end",
+      "question": "Top 10 best-selling singles in the UK in 2025 (Official Charts year-end, including streams)",
+      "cutoff": 10,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1372050216 | table 6 | name: Title | value: No. | order: asc",
+      "tags": [
+        "music",
+        "uk",
+        "singles",
+        "charts",
+        "2020s"
+      ],
+      "answers": [
+        {
+          "answer": "Ordinary",
+          "display": "#1 — Alex Warren"
+        },
+        {
+          "answer": "Messy",
+          "display": "#2 — Lola Young"
+        },
+        {
+          "answer": "Pink Pony Club",
+          "display": "#3 — Chappell Roan"
+        },
+        {
+          "answer": "Golden",
+          "display": "#4 — Huntrix & KPop Demon Hunters Cast"
+        },
+        {
+          "answer": "APT",
+          "display": "#5 — ROSÉ and Bruno Mars"
+        },
+        {
+          "answer": "That's So True",
+          "display": "#6 — Gracie Abrams"
+        },
+        {
+          "answer": "Beautiful Things",
+          "display": "#7 — Benson Boone"
+        },
+        {
+          "answer": "Love Me Not",
+          "display": "#8 — Ravyn Lenae"
+        },
+        {
+          "answer": "Man I Need",
+          "display": "#9 — Olivia Dean"
+        },
+        {
+          "answer": "Die With a Smile",
+          "display": "#10 — Lady Gaga and Bruno Mars"
+        },
+        {
+          "answer": "Birds of a Feather",
+          "display": "#11 — Billie Eilish"
+        },
+        {
+          "answer": "The Days",
+          "display": "#12 — Chrystal"
+        },
+        {
+          "answer": "Good Luck, Babe!",
+          "display": "#13 — Chappell Roan"
+        }
+      ]
+    }
+  ]
+}

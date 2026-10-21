@@ -1,0 +1,396 @@
+{
+  "categories": [
+    {
+      "path": "music/songs/streaming/by-year",
+      "name": "Streaming Records by Year"
+    },
+    {
+      "path": "music/artists/streaming/by-year",
+      "name": "Streaming Artists by Year"
+    }
+  ],
+  "questions": [
+    {
+      "category": "music/songs/streaming/by-year",
+      "question": "Top 10 most-streamed songs on Spotify of all time at the start of 2017",
+      "cutoff": 10,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=757434546 | table 1 | name: Song | value: Streams",
+      "tags": [
+        "music",
+        "songs",
+        "spotify",
+        "streaming",
+        "by-year",
+        "2017"
+      ],
+      "answers": [
+        {
+          "answer": "One Dance",
+          "display": "1,029 million streams — Drake"
+        },
+        {
+          "answer": "Lean On",
+          "display": "914 million streams — Major Lazer"
+        },
+        {
+          "answer": "Sorry",
+          "display": "834 million streams — Justin Bieber"
+        },
+        {
+          "answer": "Love Yourself",
+          "display": "788 million streams — Justin Bieber"
+        },
+        {
+          "answer": "Thinking Out Loud",
+          "display": "774 million streams — Ed Sheeran"
+        },
+        {
+          "answer": "What Do You Mean?",
+          "display": "754 million streams — Justin Bieber"
+        },
+        {
+          "answer": "I Took a Pill in Ibiza",
+          "display": "735 million streams — Mike Posner"
+        },
+        {
+          "answer": "Cheerleader",
+          "display": "710 million streams — OMI"
+        },
+        {
+          "answer": "Closer",
+          "display": "708 million streams — The Chainsmokers"
+        },
+        {
+          "answer": "Don't Let Me Down",
+          "display": "707 million streams — The Chainsmokers"
+        },
+        {
+          "answer": "Uptown Funk",
+          "display": "667 million streams — Mark Ronson"
+        },
+        {
+          "answer": "Can't Feel My Face",
+          "display": "651 million streams — The Weeknd"
+        },
+        {
+          "answer": "Hello",
+          "display": "635 million streams — Adele"
+        },
+        {
+          "answer": "7 Years",
+          "display": "627 million streams — Lukas Graham"
+        }
+      ]
+    },
+    {
+      "category": "music/songs/streaming/by-year",
+      "question": "Top 10 most-streamed songs on Spotify of all time at the start of 2019",
+      "cutoff": 10,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=876064632 | table 1 | name: Song | value: Streams",
+      "tags": [
+        "music",
+        "songs",
+        "spotify",
+        "streaming",
+        "by-year",
+        "2019"
+      ],
+      "answers": [
+        {
+          "answer": "Shape of You",
+          "display": "2,021 million streams — Ed Sheeran"
+        },
+        {
+          "answer": "One Dance",
+          "display": "1,612 million streams — Drake"
+        },
+        {
+          "answer": "Closer",
+          "display": "1,440 million streams — The Chainsmokers"
+        },
+        {
+          "answer": "Rockstar",
+          "display": "1,373 million streams — Post Malone"
+        },
+        {
+          "answer": "Thinking Out Loud",
+          "display": "1,236 million streams — Ed Sheeran"
+        },
+        {
+          "answer": "Lean On",
+          "display": "1,191 million streams — Major Lazer"
+        },
+        {
+          "answer": "Despacito (Remix)",
+          "display": "1,175 million streams — Luis Fonsi",
+          "aliases": [
+            "Despacito"
+          ]
+        },
+        {
+          "answer": "Love Yourself",
+          "display": "1,152 million streams — Justin Bieber"
+        },
+        {
+          "answer": "God's Plan",
+          "display": "1,150 million streams — Drake"
+        },
+        {
+          "answer": "Sorry",
+          "display": "1,132 million streams — Justin Bieber"
+        },
+        {
+          "answer": "Don't Let Me Down",
+          "display": "1,114 million streams — The Chainsmokers"
+        },
+        {
+          "answer": "Havana",
+          "display": "1,109 million streams — Camila Cabello"
+        },
+        {
+          "answer": "I Took a Pill in Ibiza (Seeb Remix)",
+          "display": "1,086 million streams — Mike Posner",
+          "aliases": [
+            "I Took a Pill in Ibiza"
+          ]
+        },
+        {
+          "answer": "Starboy",
+          "display": "1,085 million streams — The Weeknd"
+        }
+      ]
+    },
+    {
+      "category": "music/songs/streaming/by-year",
+      "question": "Top 10 most-streamed songs on Spotify of all time at the start of 2021",
+      "cutoff": 10,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=997496657 | table 1 | name: Song | value: Streams",
+      "tags": [
+        "music",
+        "songs",
+        "spotify",
+        "streaming",
+        "by-year",
+        "2021"
+      ],
+      "answers": [
+        {
+          "answer": "Shape of You",
+          "display": "2,676 million streams — Ed Sheeran"
+        },
+        {
+          "answer": "Rockstar",
+          "display": "2,084 million streams — Post Malone"
+        },
+        {
+          "answer": "Dance Monkey",
+          "display": "2,009 million streams — Tones and I"
+        },
+        {
+          "answer": "One Dance",
+          "display": "1,955 million streams — Drake"
+        },
+        {
+          "answer": "Closer",
+          "display": "1,915 million streams — The Chainsmokers"
+        },
+        {
+          "answer": "Blinding Lights",
+          "display": "1,800 million streams — The Weeknd"
+        },
+        {
+          "answer": "Sunflower",
+          "display": "1,763 million streams — Post Malone"
+        },
+        {
+          "answer": "Señorita",
+          "display": "1,689 million streams — Camila Cabello"
+        },
+        {
+          "answer": "Someone You Loved",
+          "display": "1,680 million streams — Lewis Capaldi"
+        },
+        {
+          "answer": "Thinking Out Loud",
+          "display": "1,672 million streams — Ed Sheeran"
+        },
+        {
+          "answer": "God's Plan",
+          "display": "1,661 million streams — Drake"
+        },
+        {
+          "answer": "Bad Guy",
+          "display": "1,635 million streams — Billie Eilish"
+        },
+        {
+          "answer": "Say You Won't Let Go",
+          "display": "1,597 million streams — James Arthur"
+        },
+        {
+          "answer": "Perfect",
+          "display": "1,593 million streams — Ed Sheeran"
+        }
+      ]
+    },
+    {
+      "category": "music/songs/streaming/by-year",
+      "question": "Top 10 most-streamed songs on Spotify of all time at the start of 2024",
+      "cutoff": 10,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1192862271 | table 1 | name: Song | value: Streams",
+      "tags": [
+        "music",
+        "songs",
+        "spotify",
+        "streaming",
+        "by-year",
+        "2024"
+      ],
+      "answers": [
+        {
+          "answer": "Blinding Lights",
+          "display": "3.976 billion streams — The Weeknd"
+        },
+        {
+          "answer": "Shape of You",
+          "display": "3.734 billion streams — Ed Sheeran"
+        },
+        {
+          "answer": "Someone You Loved",
+          "display": "3.133 billion streams — Lewis Capaldi"
+        },
+        {
+          "answer": "Sunflower",
+          "display": "3.083 billion streams — Post Malone"
+        },
+        {
+          "answer": "Dance Monkey",
+          "display": "2.964 billion streams — Tones and I"
+        },
+        {
+          "answer": "Starboy",
+          "display": "2.922 billion streams — The Weeknd"
+        },
+        {
+          "answer": "One Dance",
+          "display": "2.916 billion streams — Drake"
+        },
+        {
+          "answer": "As It Was",
+          "display": "2.916 billion streams — Harry Styles"
+        },
+        {
+          "answer": "Stay",
+          "display": "2.890 billion streams — The Kid Laroi"
+        },
+        {
+          "answer": "Rockstar",
+          "display": "2.844 billion streams — Post Malone"
+        },
+        {
+          "answer": "Believer",
+          "display": "2.792 billion streams — Imagine Dragons"
+        },
+        {
+          "answer": "Heat Waves",
+          "display": "2.781 billion streams — Glass Animals"
+        },
+        {
+          "answer": "Perfect",
+          "display": "2.763 billion streams — Ed Sheeran"
+        },
+        {
+          "answer": "Closer",
+          "display": "2.714 billion streams — The Chainsmokers"
+        }
+      ]
+    },
+    {
+      "category": "music/artists/streaming/by-year",
+      "question": "Top 7 most-streamed artists on Spotify of all time at the start of 2021",
+      "cutoff": 7,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=997454148 | table 11 | name: Artist | value: Streams",
+      "tags": [
+        "music",
+        "artists",
+        "spotify",
+        "streaming",
+        "by-year",
+        "2021"
+      ],
+      "answers": [
+        {
+          "answer": "Drake",
+          "display": "35.364 billion streams"
+        },
+        {
+          "answer": "Ed Sheeran",
+          "display": "27.028 billion streams",
+          "aliases": [
+            "Sheeran"
+          ]
+        },
+        {
+          "answer": "Post Malone",
+          "display": "22.288 billion streams",
+          "aliases": [
+            "Malone"
+          ]
+        },
+        {
+          "answer": "Ariana Grande",
+          "display": "22.047 billion streams",
+          "aliases": [
+            "Ariana"
+          ]
+        },
+        {
+          "answer": "Eminem",
+          "display": "21.082 billion streams"
+        },
+        {
+          "answer": "Bad Bunny",
+          "display": "20.021 billion streams"
+        },
+        {
+          "answer": "The Weeknd",
+          "display": "19.836 billion streams",
+          "aliases": [
+            "Weeknd"
+          ]
+        },
+        {
+          "answer": "Justin Bieber",
+          "display": "18.765 billion streams",
+          "aliases": [
+            "Bieber"
+          ]
+        },
+        {
+          "answer": "J Balvin",
+          "display": "18.677 billion streams",
+          "aliases": [
+            "Balvin"
+          ]
+        },
+        {
+          "answer": "Kanye West",
+          "display": "15.813 billion streams",
+          "aliases": [
+            "Kanye",
+            "Ye"
+          ]
+        }
+      ]
+    }
+  ]
+}

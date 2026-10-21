@@ -1,0 +1,590 @@
+{
+  "categories": [
+    {
+      "path": "music",
+      "name": "Music"
+    },
+    {
+      "path": "music/artists",
+      "name": "Music Artists"
+    },
+    {
+      "path": "music/artists/sales",
+      "name": "Sales"
+    },
+    {
+      "path": "music/artists/streaming",
+      "name": "Streaming"
+    },
+    {
+      "path": "music/artists/charts",
+      "name": "Chart Records"
+    }
+  ],
+  "questions": [
+    {
+      "category": "music/artists/streaming",
+      "question": "Top 10 artists by monthly listeners on Spotify (as of October 11, 2026)",
+      "cutoff": 10,
+      "difficulty": 1,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1379780035 | table 5 | name: Artist | value: Monthly listeners | where: Artist!~^As of",
+      "tags": [
+        "music",
+        "spotify"
+      ],
+      "answers": [
+        {
+          "answer": "Bruno Mars",
+          "display": "129.8 million"
+        },
+        {
+          "answer": "Rihanna",
+          "display": "116.2 million"
+        },
+        {
+          "answer": "The Weeknd",
+          "display": "116.1 million",
+          "aliases": [
+            "Weeknd"
+          ]
+        },
+        {
+          "answer": "Justin Bieber",
+          "display": "112.7 million",
+          "aliases": [
+            "Bieber"
+          ]
+        },
+        {
+          "answer": "Taylor Swift",
+          "display": "106.7 million",
+          "aliases": [
+            "Taylor"
+          ]
+        },
+        {
+          "answer": "Lady Gaga",
+          "display": "100.3 million",
+          "aliases": [
+            "Gaga"
+          ]
+        },
+        {
+          "answer": "Drake",
+          "display": "94.9 million"
+        },
+        {
+          "answer": "Coldplay",
+          "display": "94.8 million"
+        },
+        {
+          "answer": "Ariana Grande",
+          "display": "93.5 million",
+          "aliases": [
+            "Ariana"
+          ]
+        },
+        {
+          "answer": "Bad Bunny",
+          "display": "92.9 million"
+        },
+        {
+          "answer": "Shakira",
+          "display": "90.8 million"
+        },
+        {
+          "answer": "Katy Perry",
+          "display": "88.6 million",
+          "aliases": [
+            "Katy"
+          ]
+        },
+        {
+          "answer": "Michael Jackson",
+          "display": "87.2 million",
+          "aliases": [
+            "MJ"
+          ]
+        },
+        {
+          "answer": "David Guetta",
+          "display": "82.9 million",
+          "aliases": [
+            "Guetta"
+          ]
+        },
+        {
+          "answer": "Maroon 5",
+          "display": "80.5 million",
+          "aliases": [
+            "Maroon Five"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "music/artists/streaming",
+      "question": "Top 10 artists by followers on Spotify (as of August 29, 2026)",
+      "cutoff": 10,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1379780035 | table 6 | name: Artist | value: Followers | where: Artist!~^As of",
+      "tags": [
+        "music",
+        "spotify"
+      ],
+      "answers": [
+        {
+          "answer": "Arijit Singh",
+          "display": "191.4 million",
+          "aliases": [
+            "Arijit"
+          ]
+        },
+        {
+          "answer": "Taylor Swift",
+          "display": "163.1 million",
+          "aliases": [
+            "Taylor"
+          ]
+        },
+        {
+          "answer": "Billie Eilish",
+          "display": "130.2 million",
+          "aliases": [
+            "Billie"
+          ]
+        },
+        {
+          "answer": "Ed Sheeran",
+          "display": "128.1 million",
+          "aliases": [
+            "Sheeran"
+          ]
+        },
+        {
+          "answer": "The Weeknd",
+          "display": "126.8 million",
+          "aliases": [
+            "Weeknd"
+          ]
+        },
+        {
+          "answer": "Bad Bunny",
+          "display": "122.4 million"
+        },
+        {
+          "answer": "Drake",
+          "display": "115.9 million"
+        },
+        {
+          "answer": "Ariana Grande",
+          "display": "114.8 million",
+          "aliases": [
+            "Ariana"
+          ]
+        },
+        {
+          "answer": "Eminem",
+          "display": "111.9 million",
+          "aliases": [
+            "Slim Shady"
+          ]
+        },
+        {
+          "answer": "Justin Bieber",
+          "display": "95.5 million",
+          "aliases": [
+            "Bieber"
+          ]
+        },
+        {
+          "answer": "BTS",
+          "display": "89.2 million",
+          "aliases": [
+            "Bangtan Boys"
+          ]
+        },
+        {
+          "answer": "Bruno Mars",
+          "display": "87.5 million",
+          "aliases": [
+            "Bruno"
+          ]
+        },
+        {
+          "answer": "A.R. Rahman",
+          "display": "83.1 million",
+          "aliases": [
+            "Rahman",
+            "AR Rahman",
+            "A. R. Rahman"
+          ]
+        },
+        {
+          "answer": "Rihanna",
+          "display": "76.2 million"
+        },
+        {
+          "answer": "Pritam",
+          "display": "75 million"
+        }
+      ]
+    },
+    {
+      "category": "music/artists/sales",
+      "question": "Top 8 best-selling girl groups by claimed sales",
+      "cutoff": 8,
+      "difficulty": 1,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1379721438 | table 1 | name: Artist | value: Claimed sales",
+      "tags": [
+        "music",
+        "girl-groups"
+      ],
+      "answers": [
+        {
+          "answer": "Spice Girls",
+          "display": "100 million",
+          "aliases": [
+            "Spice"
+          ]
+        },
+        {
+          "answer": "The Supremes",
+          "display": "100 million",
+          "aliases": [
+            "Supremes",
+            "Diana Ross and the Supremes"
+          ]
+        },
+        {
+          "answer": "The Andrews Sisters",
+          "display": "75 million"
+        },
+        {
+          "answer": "2NE1",
+          "display": "66 million"
+        },
+        {
+          "answer": "TLC",
+          "display": "65 million"
+        },
+        {
+          "answer": "AKB48",
+          "display": "60 million"
+        },
+        {
+          "answer": "Destiny's Child",
+          "display": "60 million"
+        },
+        {
+          "answer": "The Pussycat Dolls",
+          "display": "54 million"
+        },
+        {
+          "answer": "Little Mix",
+          "display": "50 million"
+        },
+        {
+          "answer": "Twice",
+          "display": "47 million"
+        },
+        {
+          "answer": "Girls' Generation",
+          "display": "45 million",
+          "aliases": [
+            "SNSD",
+            "Girls Generation"
+          ]
+        },
+        {
+          "answer": "Davichi",
+          "display": "42 million"
+        }
+      ]
+    },
+    {
+      "category": "music/artists/sales",
+      "question": "Top 10 artists with the most US-certified album-equivalent units (RIAA, as of November 30, 2025)",
+      "cutoff": 10,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1377563265 | table 1 | name: Name | value: Units",
+      "tags": [
+        "music",
+        "sales",
+        "riaa"
+      ],
+      "answers": [
+        {
+          "answer": "Garth Brooks",
+          "display": "200 million"
+        },
+        {
+          "answer": "The Beatles",
+          "display": "183 million",
+          "aliases": [
+            "Beatles"
+          ]
+        },
+        {
+          "answer": "Elvis Presley",
+          "display": "146.5 million",
+          "aliases": [
+            "Elvis"
+          ]
+        },
+        {
+          "answer": "Eagles",
+          "display": "120 million",
+          "aliases": [
+            "The Eagles"
+          ]
+        },
+        {
+          "answer": "Led Zeppelin",
+          "display": "112.5 million",
+          "aliases": [
+            "Zeppelin"
+          ]
+        },
+        {
+          "answer": "Taylor Swift",
+          "display": "110 million",
+          "aliases": [
+            "Taylor"
+          ]
+        },
+        {
+          "answer": "Queen",
+          "display": "108 million"
+        },
+        {
+          "answer": "Michael Jackson",
+          "display": "90 million",
+          "aliases": [
+            "MJ"
+          ]
+        },
+        {
+          "answer": "Billy Joel",
+          "display": "89 million"
+        },
+        {
+          "answer": "AC/DC",
+          "display": "84 million"
+        },
+        {
+          "answer": "Elton John",
+          "display": "81 million",
+          "aliases": [
+            "Elton"
+          ]
+        },
+        {
+          "answer": "Mariah Carey",
+          "display": "76 million",
+          "aliases": [
+            "Mariah"
+          ]
+        },
+        {
+          "answer": "Pink Floyd",
+          "display": "75 million"
+        }
+      ]
+    },
+    {
+      "category": "music/artists/sales",
+      "question": "Top 9 artists with the most US-certified digital single units (RIAA, as of October 18, 2025)",
+      "cutoff": 9,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1377563265 | table 2 | name: Name | value: Units",
+      "tags": [
+        "music",
+        "sales",
+        "riaa"
+      ],
+      "answers": [
+        {
+          "answer": "Drake",
+          "display": "277.5 million"
+        },
+        {
+          "answer": "Kanye West",
+          "display": "234 million",
+          "aliases": [
+            "Kanye",
+            "Ye"
+          ]
+        },
+        {
+          "answer": "Morgan Wallen",
+          "display": "216 million"
+        },
+        {
+          "answer": "Rihanna",
+          "display": "200.5 million"
+        },
+        {
+          "answer": "Eminem",
+          "display": "167 million",
+          "aliases": [
+            "Slim Shady"
+          ]
+        },
+        {
+          "answer": "Beyoncé",
+          "display": "161.5 million",
+          "aliases": [
+            "Beyonce"
+          ]
+        },
+        {
+          "answer": "Future",
+          "display": "161.5 million"
+        },
+        {
+          "answer": "Luke Combs",
+          "display": "147.5 million",
+          "aliases": [
+            "Combs"
+          ]
+        },
+        {
+          "answer": "Post Malone",
+          "display": "145 million"
+        },
+        {
+          "answer": "Chris Brown",
+          "display": "141.5 million",
+          "aliases": [
+            "Chris"
+          ]
+        },
+        {
+          "answer": "Ariana Grande",
+          "display": "141 million",
+          "aliases": [
+            "Ariana"
+          ]
+        },
+        {
+          "answer": "Travis Scott",
+          "display": "141 million",
+          "aliases": [
+            "Travis"
+          ]
+        },
+        {
+          "answer": "Taylor Swift",
+          "display": "137.5 million",
+          "aliases": [
+            "Taylor"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "music/artists/charts",
+      "question": "Top 10 artists with the most UK Singles Chart top-ten singles",
+      "cutoff": 10,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1378476839 | table 1 | name: Artist | value: Number of entries",
+      "tags": [
+        "music",
+        "charts",
+        "uk"
+      ],
+      "answers": [
+        {
+          "answer": "Elvis Presley",
+          "display": "76 top-ten singles",
+          "aliases": [
+            "Elvis"
+          ]
+        },
+        {
+          "answer": "Cliff Richard",
+          "display": "68 top-ten singles",
+          "aliases": [
+            "Cliff"
+          ]
+        },
+        {
+          "answer": "Madonna",
+          "display": "65 top-ten singles"
+        },
+        {
+          "answer": "Drake",
+          "display": "50 top-ten singles"
+        },
+        {
+          "answer": "Michael Jackson",
+          "display": "45 top-ten singles",
+          "aliases": [
+            "MJ"
+          ]
+        },
+        {
+          "answer": "Ed Sheeran",
+          "display": "43 top-ten singles",
+          "aliases": [
+            "Sheeran"
+          ]
+        },
+        {
+          "answer": "Kylie Minogue",
+          "display": "37 top-ten singles",
+          "aliases": [
+            "Kylie"
+          ]
+        },
+        {
+          "answer": "Taylor Swift",
+          "display": "37 top-ten singles",
+          "aliases": [
+            "Taylor"
+          ]
+        },
+        {
+          "answer": "Elton John",
+          "display": "36 top-ten singles",
+          "aliases": [
+            "Elton"
+          ]
+        },
+        {
+          "answer": "Eminem",
+          "display": "34 top-ten singles"
+        },
+        {
+          "answer": "U2",
+          "display": "33 top-ten singles"
+        },
+        {
+          "answer": "Calvin Harris",
+          "display": "31 top-ten singles",
+          "aliases": [
+            "Calvin"
+          ]
+        },
+        {
+          "answer": "Rihanna",
+          "display": "31 top-ten singles"
+        },
+        {
+          "answer": "Robbie Williams",
+          "display": "31 top-ten singles",
+          "aliases": [
+            "Robbie"
+          ]
+        }
+      ]
+    }
+  ]
+}

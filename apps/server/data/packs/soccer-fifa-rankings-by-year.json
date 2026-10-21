@@ -1,0 +1,427 @@
+{
+  "categories": [
+    {
+      "path": "sports/soccer/international/fifa-ranking",
+      "name": "FIFA World Ranking by Year"
+    }
+  ],
+  "questions": [
+    {
+      "category": "sports/soccer/international/fifa-ranking",
+      "difficulty": 3,
+      "submitter": "claude",
+      "question": "Top 10 men's national teams in the FIFA World Ranking of December 2007",
+      "cutoff": 10,
+      "source": "https://en.wikipedia.org/w/index.php?oldid=179334411 | table 1 | name: / Team | value: / Rank | header rows: 2 | order: asc",
+      "tags": [
+        "soccer",
+        "fifa",
+        "rankings"
+      ],
+      "answers": [
+        {
+          "answer": "Argentina",
+          "display": "#1 — 1523 points"
+        },
+        {
+          "answer": "Brazil",
+          "display": "#2 — 1502 points"
+        },
+        {
+          "answer": "Italy",
+          "display": "#3 — 1498 points"
+        },
+        {
+          "answer": "Spain",
+          "display": "#4 — 1349 points"
+        },
+        {
+          "answer": "Germany",
+          "display": "#5 — 1296 points"
+        },
+        {
+          "answer": "Czech Republic",
+          "display": "#6 — 1290 points",
+          "aliases": [
+            "Czechia"
+          ]
+        },
+        {
+          "answer": "France",
+          "display": "#7 — 1243 points"
+        },
+        {
+          "answer": "Portugal",
+          "display": "#8 — 1241 points"
+        },
+        {
+          "answer": "Netherlands",
+          "display": "#9 — 1170 points",
+          "aliases": [
+            "Holland"
+          ]
+        },
+        {
+          "answer": "Croatia",
+          "display": "#10 — 1129 points"
+        },
+        {
+          "answer": "Greece",
+          "display": "#11 — 1114 points"
+        },
+        {
+          "answer": "England",
+          "display": "#12 — 1113 points"
+        },
+        {
+          "answer": "Romania",
+          "display": "#13 — 1088 points"
+        }
+      ]
+    },
+    {
+      "category": "sports/soccer/international/fifa-ranking",
+      "difficulty": 3,
+      "submitter": "claude",
+      "question": "Top 10 men's national teams in the FIFA World Ranking of December 2010",
+      "cutoff": 10,
+      "source": "https://en.wikipedia.org/w/index.php?oldid=404708826 | table 1 | name: / Team | value: / Rank | header rows: 2 | order: asc",
+      "tags": [
+        "soccer",
+        "fifa",
+        "rankings"
+      ],
+      "answers": [
+        {
+          "answer": "Spain",
+          "display": "#1 — 1887 points"
+        },
+        {
+          "answer": "Netherlands",
+          "display": "#2 — 1723 points",
+          "aliases": [
+            "Holland"
+          ]
+        },
+        {
+          "answer": "Germany",
+          "display": "#3 — 1485 points"
+        },
+        {
+          "answer": "Brazil",
+          "display": "#4 — 1446 points"
+        },
+        {
+          "answer": "Argentina",
+          "display": "#5 — 1338 points"
+        },
+        {
+          "answer": "England",
+          "display": "#6 — 1195 points"
+        },
+        {
+          "answer": "Uruguay",
+          "display": "#7 — 1152 points"
+        },
+        {
+          "answer": "Portugal",
+          "display": "#8 — 1090 points"
+        },
+        {
+          "answer": "Egypt",
+          "display": "#9 — 1078 points"
+        },
+        {
+          "answer": "Croatia",
+          "display": "#10 — 1075 points"
+        },
+        {
+          "answer": "Greece",
+          "display": "#11 — 1016 points"
+        },
+        {
+          "answer": "Norway",
+          "display": "#12 — 995 points"
+        },
+        {
+          "answer": "Russia",
+          "display": "#13 — 982 points"
+        }
+      ]
+    },
+    {
+      "category": "sports/soccer/international/fifa-ranking",
+      "difficulty": 3,
+      "submitter": "claude",
+      "question": "Top 10 men's national teams in the FIFA World Ranking of December 2012",
+      "cutoff": 10,
+      "source": "https://en.wikipedia.org/w/index.php?oldid=530067135 | table 1 | name: / Team | value: / Rank | header rows: 3 | order: asc",
+      "tags": [
+        "soccer",
+        "fifa",
+        "rankings"
+      ],
+      "answers": [
+        {
+          "answer": "Spain",
+          "display": "#1 — 1606 points"
+        },
+        {
+          "answer": "Germany",
+          "display": "#2 — 1437 points"
+        },
+        {
+          "answer": "Argentina",
+          "display": "#3 — 1290 points"
+        },
+        {
+          "answer": "Italy",
+          "display": "#4 — 1165 points"
+        },
+        {
+          "answer": "Colombia",
+          "display": "#5 — 1164 points"
+        },
+        {
+          "answer": "England",
+          "display": "#6 — 1151 points"
+        },
+        {
+          "answer": "Portugal",
+          "display": "#7 — 1144 points"
+        },
+        {
+          "answer": "Netherlands",
+          "display": "#8 — 1124 points",
+          "aliases": [
+            "Holland"
+          ]
+        },
+        {
+          "answer": "Russia",
+          "display": "#9 — 1070 points"
+        },
+        {
+          "answer": "Croatia",
+          "display": "#10 — 1064 points"
+        },
+        {
+          "answer": "Greece",
+          "display": "#11 — 1033 points"
+        },
+        {
+          "answer": "Switzerland",
+          "display": "#12 — 1004 points"
+        },
+        {
+          "answer": "Ecuador",
+          "display": "#13 — 999 points"
+        }
+      ]
+    },
+    {
+      "category": "sports/soccer/international/fifa-ranking",
+      "difficulty": 3,
+      "submitter": "claude",
+      "question": "Top 10 men's national teams in the FIFA World Ranking of December 2013",
+      "cutoff": 10,
+      "source": "https://en.wikipedia.org/w/index.php?oldid=587711056 | table 1 | name: / Team | value: / Rank | header rows: 3 | order: asc",
+      "tags": [
+        "soccer",
+        "fifa",
+        "rankings"
+      ],
+      "answers": [
+        {
+          "answer": "Spain",
+          "display": "#1 — 1507 points"
+        },
+        {
+          "answer": "Germany",
+          "display": "#2 — 1318 points"
+        },
+        {
+          "answer": "Argentina",
+          "display": "#3 — 1251 points"
+        },
+        {
+          "answer": "Colombia",
+          "display": "#4 — 1200 points"
+        },
+        {
+          "answer": "Portugal",
+          "display": "#5 — 1172 points"
+        },
+        {
+          "answer": "Uruguay",
+          "display": "#6 — 1132 points"
+        },
+        {
+          "answer": "Italy",
+          "display": "#7 — 1120 points"
+        },
+        {
+          "answer": "Switzerland",
+          "display": "#8 — 1113 points"
+        },
+        {
+          "answer": "Netherlands",
+          "display": "#9 — 1106 points",
+          "aliases": [
+            "Holland"
+          ]
+        },
+        {
+          "answer": "Brazil",
+          "display": "#10 — 1102 points"
+        },
+        {
+          "answer": "Belgium",
+          "display": "#11 — 1098 points"
+        },
+        {
+          "answer": "Greece",
+          "display": "#12 — 1055 points"
+        },
+        {
+          "answer": "England",
+          "display": "#13 — 1041 points"
+        }
+      ]
+    },
+    {
+      "category": "sports/soccer/international/fifa-ranking",
+      "difficulty": 3,
+      "submitter": "claude",
+      "question": "Top 10 men's national teams in the FIFA World Ranking of December 2015",
+      "cutoff": 10,
+      "source": "https://en.wikipedia.org/w/index.php?oldid=697263421 | table 1 | name: / Team | value: / Rank | header rows: 2 | order: asc",
+      "tags": [
+        "soccer",
+        "fifa",
+        "rankings"
+      ],
+      "answers": [
+        {
+          "answer": "Belgium",
+          "display": "#1 — 1494 points"
+        },
+        {
+          "answer": "Argentina",
+          "display": "#2 — 1455 points"
+        },
+        {
+          "answer": "Spain",
+          "display": "#3 — 1370 points"
+        },
+        {
+          "answer": "Germany",
+          "display": "#4 — 1347 points"
+        },
+        {
+          "answer": "Chile",
+          "display": "#5 — 1273 points"
+        },
+        {
+          "answer": "Brazil",
+          "display": "#6 — 1251 points"
+        },
+        {
+          "answer": "Portugal",
+          "display": "#7 — 1219 points"
+        },
+        {
+          "answer": "Colombia",
+          "display": "#8 — 1211 points"
+        },
+        {
+          "answer": "England",
+          "display": "#9 — 1106 points"
+        },
+        {
+          "answer": "Austria",
+          "display": "#10 — 1091 points"
+        },
+        {
+          "answer": "Uruguay",
+          "display": "#11 — 1074 points"
+        },
+        {
+          "answer": "Switzerland",
+          "display": "#12 — 1050 points"
+        },
+        {
+          "answer": "Ecuador",
+          "display": "#13 — 1040 points"
+        }
+      ]
+    },
+    {
+      "category": "sports/soccer/international/fifa-ranking",
+      "difficulty": 3,
+      "submitter": "claude",
+      "question": "Top 10 men's national teams in the FIFA World Ranking of December 2017",
+      "cutoff": 10,
+      "source": "https://en.wikipedia.org/w/index.php?oldid=817392488 | table 1 | name: / Team | value: / Rank | header rows: 2 | order: asc",
+      "tags": [
+        "soccer",
+        "fifa",
+        "rankings"
+      ],
+      "answers": [
+        {
+          "answer": "Germany",
+          "display": "#1 — 1602 points"
+        },
+        {
+          "answer": "Brazil",
+          "display": "#2 — 1483 points"
+        },
+        {
+          "answer": "Portugal",
+          "display": "#3 — 1358 points"
+        },
+        {
+          "answer": "Argentina",
+          "display": "#4 — 1348 points"
+        },
+        {
+          "answer": "Belgium",
+          "display": "#5 — 1325 points"
+        },
+        {
+          "answer": "Spain",
+          "display": "#6 — 1231 points"
+        },
+        {
+          "answer": "Poland",
+          "display": "#7 — 1209 points"
+        },
+        {
+          "answer": "Switzerland",
+          "display": "#8 — 1190 points"
+        },
+        {
+          "answer": "France",
+          "display": "#9 — 1183 points"
+        },
+        {
+          "answer": "Chile",
+          "display": "#10 — 1162 points"
+        },
+        {
+          "answer": "Peru",
+          "display": "#11 — 1128 points"
+        },
+        {
+          "answer": "Denmark",
+          "display": "#12 — 1099 points"
+        },
+        {
+          "answer": "Colombia",
+          "display": "#13 — 1078 points"
+        }
+      ]
+    }
+  ]
+}

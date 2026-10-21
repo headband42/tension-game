@@ -1,0 +1,2861 @@
+{
+  "categories": [
+    {
+      "path": "sports/winter/biathlon",
+      "name": "Biathlon"
+    },
+    {
+      "path": "sports/winter/biathlon/world-cup-men",
+      "name": "Biathlon World Cup (men)"
+    },
+    {
+      "path": "sports/winter/biathlon/world-cup-women",
+      "name": "Biathlon World Cup (women)"
+    }
+  ],
+  "questions": [
+    {
+      "category": "sports/winter/biathlon/world-cup-men",
+      "question": "Top 10 men in the overall standings of the 2008–09 Biathlon World Cup",
+      "cutoff": 10,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1335158548 | table 3 | name: Name | value: Total",
+      "tags": [
+        "biathlon",
+        "world-cup",
+        "men",
+        "2008–09"
+      ],
+      "answers": [
+        {
+          "answer": "Ole Einar Bjørndalen",
+          "display": "1,080 points (#1)",
+          "aliases": [
+            "Ole Einar Bjorndalen",
+            "Bjørndalen",
+            "Bjorndalen"
+          ]
+        },
+        {
+          "answer": "Tomasz Sikora",
+          "display": "870 points (#2)",
+          "aliases": [
+            "Sikora"
+          ]
+        },
+        {
+          "answer": "Emil Hegle Svendsen",
+          "display": "844 points (#3)",
+          "aliases": [
+            "Emil Svendsen",
+            "Svendsen"
+          ]
+        },
+        {
+          "answer": "Michael Greis",
+          "display": "804 points (#4)",
+          "aliases": [
+            "Greis"
+          ]
+        },
+        {
+          "answer": "Maxim Tchoudov",
+          "display": "780 points (#5)",
+          "aliases": [
+            "Tchoudov"
+          ]
+        },
+        {
+          "answer": "Christoph Sumann",
+          "display": "759 points (#6)",
+          "aliases": [
+            "Sumann"
+          ]
+        },
+        {
+          "answer": "Ivan Tcherezov",
+          "display": "730 points (#7)",
+          "aliases": [
+            "Tcherezov"
+          ]
+        },
+        {
+          "answer": "Carl Johan Bergman",
+          "display": "643 points (#8)",
+          "aliases": [
+            "Bergman"
+          ]
+        },
+        {
+          "answer": "Björn Ferry",
+          "display": "642 points (#9)",
+          "aliases": [
+            "Bjorn Ferry",
+            "Ferry"
+          ]
+        },
+        {
+          "answer": "Halvard Hanevold",
+          "display": "600 points (#10)",
+          "aliases": [
+            "Hanevold"
+          ]
+        },
+        {
+          "answer": "Dominik Landertinger",
+          "display": "589 points (#11)",
+          "aliases": [
+            "Landertinger"
+          ]
+        },
+        {
+          "answer": "Simon Eder",
+          "display": "581 points (#12)",
+          "aliases": [
+            "Eder"
+          ]
+        },
+        {
+          "answer": "Alexander Os",
+          "display": "580 points (#13)",
+          "aliases": [
+            "Os"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/winter/biathlon/world-cup-men",
+      "question": "Top 10 men in the overall standings of the 2010–11 Biathlon World Cup",
+      "cutoff": 10,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1335158541 | table 3 | name: Name | value: Total",
+      "tags": [
+        "biathlon",
+        "world-cup",
+        "men",
+        "2010–11"
+      ],
+      "answers": [
+        {
+          "answer": "Tarjei Bø",
+          "display": "1,110 points (#1)",
+          "aliases": [
+            "Tarjei Bo"
+          ]
+        },
+        {
+          "answer": "Emil Hegle Svendsen",
+          "display": "1,105 points (#2)",
+          "aliases": [
+            "Emil Svendsen",
+            "Svendsen"
+          ]
+        },
+        {
+          "answer": "Martin Fourcade",
+          "display": "990 points (#3)",
+          "aliases": [
+            "Fourcade"
+          ]
+        },
+        {
+          "answer": "Arnd Peiffer",
+          "display": "735 points (#4)",
+          "aliases": [
+            "Peiffer"
+          ]
+        },
+        {
+          "answer": "Ivan Tcherezov",
+          "display": "711 points (#5)",
+          "aliases": [
+            "Tcherezov"
+          ]
+        },
+        {
+          "answer": "Michael Greis",
+          "display": "707 points (#6)",
+          "aliases": [
+            "Greis"
+          ]
+        },
+        {
+          "answer": "Björn Ferry",
+          "display": "607 points (#7)",
+          "aliases": [
+            "Bjorn Ferry",
+            "Ferry"
+          ]
+        },
+        {
+          "answer": "Christoph Sumann",
+          "display": "594 points (#8)",
+          "aliases": [
+            "Sumann"
+          ]
+        },
+        {
+          "answer": "Michal Šlesingr",
+          "display": "592 points (#9)",
+          "aliases": [
+            "Michal Slesingr",
+            "Šlesingr",
+            "Slesingr"
+          ]
+        },
+        {
+          "answer": "Ole Einar Bjørndalen",
+          "display": "586 points (#10)",
+          "aliases": [
+            "Ole Einar Bjorndalen",
+            "Bjørndalen",
+            "Bjorndalen"
+          ]
+        },
+        {
+          "answer": "Simon Eder",
+          "display": "582 points (#11)",
+          "aliases": [
+            "Eder"
+          ]
+        },
+        {
+          "answer": "Lukas Hofer",
+          "display": "570 points (#12)",
+          "aliases": [
+            "Hofer"
+          ]
+        },
+        {
+          "answer": "Carl Johan Bergman",
+          "display": "552 points (#13)",
+          "aliases": [
+            "Bergman"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/winter/biathlon/world-cup-men",
+      "question": "Top 10 men in the overall standings of the 2011–12 Biathlon World Cup",
+      "cutoff": 10,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1335158543 | table 3 | name: Name | value: Total",
+      "tags": [
+        "biathlon",
+        "world-cup",
+        "men",
+        "2011–12"
+      ],
+      "answers": [
+        {
+          "answer": "Martin Fourcade",
+          "display": "1,100 points (#1)"
+        },
+        {
+          "answer": "Emil Hegle Svendsen",
+          "display": "1,035 points (#2)",
+          "aliases": [
+            "Emil Svendsen",
+            "Svendsen"
+          ]
+        },
+        {
+          "answer": "Andreas Birnbacher",
+          "display": "837 points (#3)",
+          "aliases": [
+            "Birnbacher"
+          ]
+        },
+        {
+          "answer": "Arnd Peiffer",
+          "display": "736 points (#4)",
+          "aliases": [
+            "Peiffer"
+          ]
+        },
+        {
+          "answer": "Simon Fourcade",
+          "display": "716 points (#5)"
+        },
+        {
+          "answer": "Carl Johan Bergman",
+          "display": "685 points (#6)",
+          "aliases": [
+            "Bergman"
+          ]
+        },
+        {
+          "answer": "Tarjei Bø",
+          "display": "680 points (#7)",
+          "aliases": [
+            "Tarjei Bo"
+          ]
+        },
+        {
+          "answer": "Anton Shipulin",
+          "display": "637 points (#8)",
+          "aliases": [
+            "Shipulin"
+          ]
+        },
+        {
+          "answer": "Fredrik Lindström",
+          "display": "615 points (#9)",
+          "aliases": [
+            "Fredrik Lindstrom",
+            "Lindström"
+          ]
+        },
+        {
+          "answer": "Michal Šlesingr",
+          "display": "602 points (#10)",
+          "aliases": [
+            "Michal Slesingr",
+            "Šlesingr",
+            "Slesingr"
+          ]
+        },
+        {
+          "answer": "Andrei Makoveev",
+          "display": "601 points (#11)",
+          "aliases": [
+            "Makoveev"
+          ]
+        },
+        {
+          "answer": "Evgeniy Garanichev",
+          "display": "585 points (#12)",
+          "aliases": [
+            "Garanichev"
+          ]
+        },
+        {
+          "answer": "Evgeny Ustyugov",
+          "display": "574 points (#13)",
+          "aliases": [
+            "Ustyugov"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/winter/biathlon/world-cup-men",
+      "question": "Top 10 men in the overall standings of the 2012–13 Biathlon World Cup",
+      "cutoff": 10,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1335158545 | table 3 | name: Name | value: Total",
+      "tags": [
+        "biathlon",
+        "world-cup",
+        "men",
+        "2012–13"
+      ],
+      "answers": [
+        {
+          "answer": "Martin Fourcade",
+          "display": "1,248 points (#1)",
+          "aliases": [
+            "Fourcade"
+          ]
+        },
+        {
+          "answer": "Emil Hegle Svendsen",
+          "display": "827 points (#2)",
+          "aliases": [
+            "Emil Svendsen",
+            "Svendsen"
+          ]
+        },
+        {
+          "answer": "Dominik Landertinger",
+          "display": "715 points (#3)",
+          "aliases": [
+            "Landertinger"
+          ]
+        },
+        {
+          "answer": "Jakov Fak",
+          "display": "709 points (#4)",
+          "aliases": [
+            "Fak"
+          ]
+        },
+        {
+          "answer": "Andreas Birnbacher",
+          "display": "691 points (#5)",
+          "aliases": [
+            "Birnbacher"
+          ]
+        },
+        {
+          "answer": "Evgeny Ustyugov",
+          "display": "677 points (#6)",
+          "aliases": [
+            "Ustyugov"
+          ]
+        },
+        {
+          "answer": "Fredrik Lindström",
+          "display": "654 points (#7)",
+          "aliases": [
+            "Fredrik Lindstrom",
+            "Lindström"
+          ]
+        },
+        {
+          "answer": "Dmitry Malyshko",
+          "display": "645 points (#8)",
+          "aliases": [
+            "Malyshko"
+          ]
+        },
+        {
+          "answer": "Anton Shipulin",
+          "display": "618 points (#9)",
+          "aliases": [
+            "Shipulin"
+          ]
+        },
+        {
+          "answer": "Tim Burke",
+          "display": "615 points (#10)",
+          "aliases": [
+            "Burke"
+          ]
+        },
+        {
+          "answer": "Simon Eder",
+          "display": "607 points (#11)",
+          "aliases": [
+            "Eder"
+          ]
+        },
+        {
+          "answer": "Ondřej Moravec",
+          "display": "603 points (#12)",
+          "aliases": [
+            "Ondrej Moravec",
+            "Moravec"
+          ]
+        },
+        {
+          "answer": "Jean-Guillaume Béatrix",
+          "display": "589 points (#13)",
+          "aliases": [
+            "Jean-Guillaume Beatrix",
+            "Béatrix"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/winter/biathlon/world-cup-men",
+      "question": "Top 10 men in the overall standings of the 2013–14 Biathlon World Cup",
+      "cutoff": 10,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1335158546 | table 3 | name: Name | value: Total",
+      "tags": [
+        "biathlon",
+        "world-cup",
+        "men",
+        "2013–14"
+      ],
+      "answers": [
+        {
+          "answer": "Martin Fourcade",
+          "display": "928 points (#1)",
+          "aliases": [
+            "Fourcade"
+          ]
+        },
+        {
+          "answer": "Emil Hegle Svendsen",
+          "display": "636 points (#2)",
+          "aliases": [
+            "Emil Svendsen",
+            "Svendsen"
+          ]
+        },
+        {
+          "answer": "Johannes Thingnes Bø",
+          "display": "631 points (#3)",
+          "aliases": [
+            "Johannes Thingnes Bo",
+            "Johannes Bø",
+            "Johannes Bo"
+          ]
+        },
+        {
+          "answer": "Dominik Landertinger",
+          "display": "611 points (#4)",
+          "aliases": [
+            "Landertinger"
+          ]
+        },
+        {
+          "answer": "Simon Eder",
+          "display": "578 points (#5)",
+          "aliases": [
+            "Eder"
+          ]
+        },
+        {
+          "answer": "Ole Einar Bjørndalen",
+          "display": "556 points (#6)",
+          "aliases": [
+            "Ole Einar Bjorndalen",
+            "Bjørndalen",
+            "Bjorndalen"
+          ]
+        },
+        {
+          "answer": "Arnd Peiffer",
+          "display": "547 points (#7)",
+          "aliases": [
+            "Peiffer"
+          ]
+        },
+        {
+          "answer": "Anton Shipulin",
+          "display": "544 points (#8)",
+          "aliases": [
+            "Shipulin"
+          ]
+        },
+        {
+          "answer": "Björn Ferry",
+          "display": "542 points (#9)",
+          "aliases": [
+            "Bjorn Ferry",
+            "Ferry"
+          ]
+        },
+        {
+          "answer": "Simon Schempp",
+          "display": "521 points (#10)",
+          "aliases": [
+            "Schempp"
+          ]
+        },
+        {
+          "answer": "Dmitry Malyshko",
+          "display": "508 points (#11)",
+          "aliases": [
+            "Malyshko"
+          ]
+        },
+        {
+          "answer": "Jakov Fak",
+          "display": "492 points (#12)",
+          "aliases": [
+            "Fak"
+          ]
+        },
+        {
+          "answer": "Jean-Guillaume Béatrix",
+          "display": "478 points (#13)",
+          "aliases": [
+            "Jean-Guillaume Beatrix",
+            "Béatrix"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/winter/biathlon/world-cup-men",
+      "question": "Top 10 men in the overall standings of the 2014–15 Biathlon World Cup",
+      "cutoff": 10,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1335158547 | table 3 | name: Name | value: Total",
+      "tags": [
+        "biathlon",
+        "world-cup",
+        "men",
+        "2014–15"
+      ],
+      "answers": [
+        {
+          "answer": "Martin Fourcade",
+          "display": "1,042 points (#1)"
+        },
+        {
+          "answer": "Anton Shipulin",
+          "display": "978 points (#2)",
+          "aliases": [
+            "Shipulin"
+          ]
+        },
+        {
+          "answer": "Jakov Fak",
+          "display": "883 points (#3)",
+          "aliases": [
+            "Fak"
+          ]
+        },
+        {
+          "answer": "Simon Schempp",
+          "display": "792 points (#4)",
+          "aliases": [
+            "Schempp"
+          ]
+        },
+        {
+          "answer": "Johannes Thingnes Bø",
+          "display": "728 points (#5)",
+          "aliases": [
+            "Johannes Thingnes Bo",
+            "Johannes Bø",
+            "Johannes Bo"
+          ]
+        },
+        {
+          "answer": "Ondřej Moravec",
+          "display": "655 points (#6)",
+          "aliases": [
+            "Ondrej Moravec",
+            "Moravec"
+          ]
+        },
+        {
+          "answer": "Evgeniy Garanichev",
+          "display": "635 points (#7)",
+          "aliases": [
+            "Garanichev"
+          ]
+        },
+        {
+          "answer": "Michal Šlesingr",
+          "display": "630 points (#8)",
+          "aliases": [
+            "Michal Slesingr",
+            "Šlesingr",
+            "Slesingr"
+          ]
+        },
+        {
+          "answer": "Emil Hegle Svendsen",
+          "display": "613 points (#9)",
+          "aliases": [
+            "Emil Svendsen",
+            "Svendsen"
+          ]
+        },
+        {
+          "answer": "Erik Lesser",
+          "display": "606 points (#10)",
+          "aliases": [
+            "Lesser"
+          ]
+        },
+        {
+          "answer": "Simon Fourcade",
+          "display": "586 points (#11)"
+        },
+        {
+          "answer": "Fredrik Lindström",
+          "display": "543 points (#12)",
+          "aliases": [
+            "Fredrik Lindstrom",
+            "Lindström"
+          ]
+        },
+        {
+          "answer": "Arnd Peiffer",
+          "display": "538 points (#13)",
+          "aliases": [
+            "Peiffer"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/winter/biathlon/world-cup-men",
+      "question": "Top 10 men in the overall standings of the 2015–16 Biathlon World Cup",
+      "cutoff": 10,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1080234121 | table 3 | name: Name | value: Total",
+      "tags": [
+        "biathlon",
+        "world-cup",
+        "men",
+        "2015–16"
+      ],
+      "answers": [
+        {
+          "answer": "Martin Fourcade",
+          "display": "1,151 points (#1)",
+          "aliases": [
+            "Fourcade"
+          ]
+        },
+        {
+          "answer": "Johannes Thingnes Bø",
+          "display": "820 points (#2)",
+          "aliases": [
+            "Johannes Thingnes Bo",
+            "Johannes Bø",
+            "Johannes Bo"
+          ]
+        },
+        {
+          "answer": "Anton Shipulin",
+          "display": "806 points (#3)",
+          "aliases": [
+            "Shipulin"
+          ]
+        },
+        {
+          "answer": "Simon Schempp",
+          "display": "769 points (#4)",
+          "aliases": [
+            "Schempp"
+          ]
+        },
+        {
+          "answer": "Simon Eder",
+          "display": "714 points (#5)",
+          "aliases": [
+            "Eder"
+          ]
+        },
+        {
+          "answer": "Tarjei Bø",
+          "display": "708 points (#6)",
+          "aliases": [
+            "Tarjei Bo"
+          ]
+        },
+        {
+          "answer": "Evgeniy Garanichev",
+          "display": "659 points (#7)",
+          "aliases": [
+            "Garanichev"
+          ]
+        },
+        {
+          "answer": "Benedikt Doll",
+          "display": "602 points (#8)",
+          "aliases": [
+            "Doll"
+          ]
+        },
+        {
+          "answer": "Dominik Landertinger",
+          "display": "600 points (#9)",
+          "aliases": [
+            "Landertinger"
+          ]
+        },
+        {
+          "answer": "Emil Hegle Svendsen",
+          "display": "595 points (#10)",
+          "aliases": [
+            "Emil Svendsen",
+            "Svendsen"
+          ]
+        },
+        {
+          "answer": "Arnd Peiffer",
+          "display": "589 points (#11)",
+          "aliases": [
+            "Peiffer"
+          ]
+        },
+        {
+          "answer": "Quentin Fillon Maillet",
+          "display": "580 points (#12)",
+          "aliases": [
+            "Fillon Maillet",
+            "Fillon-Maillet",
+            "Maillet"
+          ]
+        },
+        {
+          "answer": "Ole Einar Bjørndalen",
+          "display": "577 points (#13)",
+          "aliases": [
+            "Ole Einar Bjorndalen",
+            "Bjørndalen",
+            "Bjorndalen"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/winter/biathlon/world-cup-men",
+      "question": "Top 10 men in the overall standings of the 2016–17 Biathlon World Cup",
+      "cutoff": 10,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1167608443 | table 3 | name: Name | value: Total",
+      "tags": [
+        "biathlon",
+        "world-cup",
+        "men",
+        "2016–17"
+      ],
+      "answers": [
+        {
+          "answer": "Martin Fourcade",
+          "display": "1,322 points (#1)",
+          "aliases": [
+            "Fourcade"
+          ]
+        },
+        {
+          "answer": "Anton Shipulin",
+          "display": "918 points (#2)",
+          "aliases": [
+            "Shipulin"
+          ]
+        },
+        {
+          "answer": "Johannes Thingnes Bø",
+          "display": "812 points (#3)",
+          "aliases": [
+            "Johannes Thingnes Bo",
+            "Johannes Bø",
+            "Johannes Bo"
+          ]
+        },
+        {
+          "answer": "Arnd Peiffer",
+          "display": "746 points (#4)",
+          "aliases": [
+            "Peiffer"
+          ]
+        },
+        {
+          "answer": "Simon Schempp",
+          "display": "741 points (#5)",
+          "aliases": [
+            "Schempp"
+          ]
+        },
+        {
+          "answer": "Julian Eberhard",
+          "display": "732 points (#6)",
+          "aliases": [
+            "Eberhard"
+          ]
+        },
+        {
+          "answer": "Emil Hegle Svendsen",
+          "display": "667 points (#7)",
+          "aliases": [
+            "Emil Svendsen",
+            "Svendsen"
+          ]
+        },
+        {
+          "answer": "Lowell Bailey",
+          "display": "641 points (#8)",
+          "aliases": [
+            "Bailey"
+          ]
+        },
+        {
+          "answer": "Ole Einar Bjørndalen",
+          "display": "631 points (#9)",
+          "aliases": [
+            "Ole Einar Bjorndalen",
+            "Bjørndalen",
+            "Bjorndalen"
+          ]
+        },
+        {
+          "answer": "Erik Lesser",
+          "display": "621 points (#10)",
+          "aliases": [
+            "Lesser"
+          ]
+        },
+        {
+          "answer": "Benedikt Doll",
+          "display": "608 points (#11)",
+          "aliases": [
+            "Doll"
+          ]
+        },
+        {
+          "answer": "Ondřej Moravec",
+          "display": "597 points (#12)",
+          "aliases": [
+            "Ondrej Moravec",
+            "Moravec"
+          ]
+        },
+        {
+          "answer": "Simon Eder",
+          "display": "552 points (#13)",
+          "aliases": [
+            "Eder"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/winter/biathlon/world-cup-men",
+      "question": "Top 10 men in the overall standings of the 2017–18 Biathlon World Cup",
+      "cutoff": 10,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1167608619 | table 4 | name: Name | value: Total",
+      "tags": [
+        "biathlon",
+        "world-cup",
+        "men",
+        "2017–18"
+      ],
+      "answers": [
+        {
+          "answer": "Martin Fourcade",
+          "display": "1,116 points (#1)",
+          "aliases": [
+            "Fourcade"
+          ]
+        },
+        {
+          "answer": "Johannes Thingnes Bø",
+          "display": "1,027 points (#2)",
+          "aliases": [
+            "Johannes Thingnes Bo",
+            "Johannes Bø",
+            "Johannes Bo"
+          ]
+        },
+        {
+          "answer": "Anton Shipulin",
+          "display": "697 points (#3)",
+          "aliases": [
+            "Shipulin"
+          ]
+        },
+        {
+          "answer": "Arnd Peiffer",
+          "display": "668 points (#4)",
+          "aliases": [
+            "Peiffer"
+          ]
+        },
+        {
+          "answer": "Lukas Hofer",
+          "display": "637 points (#5)",
+          "aliases": [
+            "Hofer"
+          ]
+        },
+        {
+          "answer": "Jakov Fak",
+          "display": "602 points (#6)",
+          "aliases": [
+            "Fak"
+          ]
+        },
+        {
+          "answer": "Tarjei Bø",
+          "display": "591 points (#7)",
+          "aliases": [
+            "Tarjei Bo"
+          ]
+        },
+        {
+          "answer": "Simon Desthieux",
+          "display": "579 points (#8)",
+          "aliases": [
+            "Desthieux"
+          ]
+        },
+        {
+          "answer": "Benedikt Doll",
+          "display": "532 points (#9)",
+          "aliases": [
+            "Doll"
+          ]
+        },
+        {
+          "answer": "Quentin Fillon Maillet",
+          "display": "518 points (#10)",
+          "aliases": [
+            "Fillon Maillet",
+            "Fillon-Maillet",
+            "Maillet"
+          ]
+        },
+        {
+          "answer": "Erik Lesser",
+          "display": "506 points (#11)",
+          "aliases": [
+            "Lesser"
+          ]
+        },
+        {
+          "answer": "Simon Schempp",
+          "display": "484 points (#12)",
+          "aliases": [
+            "Schempp"
+          ]
+        },
+        {
+          "answer": "Andrejs Rastorgujevs",
+          "display": "481 points (#13)",
+          "aliases": [
+            "Rastorgujevs"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/winter/biathlon/world-cup-men",
+      "question": "Top 10 men in the overall standings of the 2018–19 Biathlon World Cup",
+      "cutoff": 10,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1374463012 | table 4 | name: Name | value: Total",
+      "tags": [
+        "biathlon",
+        "world-cup",
+        "men",
+        "2018–19"
+      ],
+      "answers": [
+        {
+          "answer": "Johannes Thingnes Bø",
+          "display": "1,262 points (#1)",
+          "aliases": [
+            "Johannes Thingnes Bo",
+            "Johannes Bø",
+            "Johannes Bo"
+          ]
+        },
+        {
+          "answer": "Alexandr Loginov",
+          "display": "854 points (#2)",
+          "aliases": [
+            "Loginov"
+          ]
+        },
+        {
+          "answer": "Quentin Fillon Maillet",
+          "display": "843 points (#3)",
+          "aliases": [
+            "Fillon Maillet",
+            "Fillon-Maillet",
+            "Maillet"
+          ]
+        },
+        {
+          "answer": "Simon Desthieux",
+          "display": "831 points (#4)",
+          "aliases": [
+            "Desthieux"
+          ]
+        },
+        {
+          "answer": "Arnd Peiffer",
+          "display": "802 points (#5)",
+          "aliases": [
+            "Peiffer"
+          ]
+        },
+        {
+          "answer": "Tarjei Bø",
+          "display": "724 points (#6)",
+          "aliases": [
+            "Tarjei Bo"
+          ]
+        },
+        {
+          "answer": "Benedikt Doll",
+          "display": "705 points (#7)",
+          "aliases": [
+            "Doll"
+          ]
+        },
+        {
+          "answer": "Simon Eder",
+          "display": "701 points (#8)",
+          "aliases": [
+            "Eder"
+          ]
+        },
+        {
+          "answer": "Julian Eberhard",
+          "display": "695 points (#9)",
+          "aliases": [
+            "Eberhard"
+          ]
+        },
+        {
+          "answer": "Lukas Hofer",
+          "display": "694 points (#10)",
+          "aliases": [
+            "Hofer"
+          ]
+        },
+        {
+          "answer": "Antonin Guigonnat",
+          "display": "686 points (#11)",
+          "aliases": [
+            "Guigonnat"
+          ]
+        },
+        {
+          "answer": "Martin Fourcade",
+          "display": "648 points (#12)",
+          "aliases": [
+            "Fourcade"
+          ]
+        },
+        {
+          "answer": "Vetle Sjåstad Christiansen",
+          "display": "646 points (#13)",
+          "aliases": [
+            "Vetle Sjastad Christiansen",
+            "Christiansen"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/winter/biathlon/world-cup-men",
+      "question": "Top 10 men in the overall standings of the 2019–20 Biathlon World Cup",
+      "cutoff": 10,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1189225185 | table 4 | name: Name | value: Total",
+      "tags": [
+        "biathlon",
+        "world-cup",
+        "men",
+        "2019–20"
+      ],
+      "answers": [
+        {
+          "answer": "Johannes Thingnes Bø",
+          "display": "913 points (#1)",
+          "aliases": [
+            "Johannes Thingnes Bo",
+            "Johannes Bø",
+            "Johannes Bo"
+          ]
+        },
+        {
+          "answer": "Martin Fourcade",
+          "display": "911 points (#2)",
+          "aliases": [
+            "Fourcade"
+          ]
+        },
+        {
+          "answer": "Quentin Fillon Maillet",
+          "display": "843 points (#3)",
+          "aliases": [
+            "Fillon Maillet",
+            "Fillon-Maillet",
+            "Maillet"
+          ]
+        },
+        {
+          "answer": "Tarjei Bø",
+          "display": "740 points (#4)",
+          "aliases": [
+            "Tarjei Bo"
+          ]
+        },
+        {
+          "answer": "Émilien Jacquelin",
+          "display": "726 points (#5)",
+          "aliases": [
+            "Emilien Jacquelin",
+            "Jacquelin"
+          ]
+        },
+        {
+          "answer": "Simon Desthieux",
+          "display": "672 points (#6)",
+          "aliases": [
+            "Desthieux"
+          ]
+        },
+        {
+          "answer": "Alexandr Loginov",
+          "display": "629 points (#7)",
+          "aliases": [
+            "Loginov"
+          ]
+        },
+        {
+          "answer": "Benedikt Doll",
+          "display": "613 points (#8)",
+          "aliases": [
+            "Doll"
+          ]
+        },
+        {
+          "answer": "Johannes Dale",
+          "display": "576 points (#9)",
+          "aliases": [
+            "Dale"
+          ]
+        },
+        {
+          "answer": "Vetle Sjåstad Christiansen",
+          "display": "566 points (#10)",
+          "aliases": [
+            "Vetle Sjastad Christiansen",
+            "Christiansen"
+          ]
+        },
+        {
+          "answer": "Arnd Peiffer",
+          "display": "540 points (#11)",
+          "aliases": [
+            "Peiffer"
+          ]
+        },
+        {
+          "answer": "Erlend Bjøntegaard",
+          "display": "495 points (#12)",
+          "aliases": [
+            "Erlend Bjontegaard",
+            "Bjøntegaard"
+          ]
+        },
+        {
+          "answer": "Johannes Kühn",
+          "display": "474 points (#13)",
+          "aliases": [
+            "Johannes Kuhn",
+            "Kühn"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/winter/biathlon/world-cup-men",
+      "question": "Top 10 men in the overall standings of the 2020–21 Biathlon World Cup",
+      "cutoff": 10,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1375727151 | table 4 | name: Name | value: Total",
+      "tags": [
+        "biathlon",
+        "world-cup",
+        "men",
+        "2020–21"
+      ],
+      "answers": [
+        {
+          "answer": "Johannes Thingnes Bø",
+          "display": "1,052 points (#1)",
+          "aliases": [
+            "Johannes Thingnes Bo",
+            "Johannes Bø",
+            "Johannes Bo"
+          ]
+        },
+        {
+          "answer": "Sturla Holm Lægreid",
+          "display": "1,039 points (#2)",
+          "aliases": [
+            "Sturla Holm Laegreid",
+            "Lægreid",
+            "Laegreid"
+          ]
+        },
+        {
+          "answer": "Quentin Fillon Maillet",
+          "display": "930 points (#3)",
+          "aliases": [
+            "Fillon Maillet",
+            "Fillon-Maillet",
+            "Maillet"
+          ]
+        },
+        {
+          "answer": "Tarjei Bø",
+          "display": "893 points (#4)",
+          "aliases": [
+            "Tarjei Bo"
+          ]
+        },
+        {
+          "answer": "Johannes Dale",
+          "display": "843 points (#5)",
+          "aliases": [
+            "Dale"
+          ]
+        },
+        {
+          "answer": "Sebastian Samuelsson",
+          "display": "817 points (#6)",
+          "aliases": [
+            "Samuelsson"
+          ]
+        },
+        {
+          "answer": "Émilien Jacquelin",
+          "display": "812 points (#7)",
+          "aliases": [
+            "Emilien Jacquelin",
+            "Jacquelin"
+          ]
+        },
+        {
+          "answer": "Lukas Hofer",
+          "display": "753 points (#8)",
+          "aliases": [
+            "Hofer"
+          ]
+        },
+        {
+          "answer": "Simon Desthieux",
+          "display": "724 points (#9)",
+          "aliases": [
+            "Desthieux"
+          ]
+        },
+        {
+          "answer": "Martin Ponsiluoma",
+          "display": "713 points (#10)",
+          "aliases": [
+            "Ponsiluoma"
+          ]
+        },
+        {
+          "answer": "Jakov Fak",
+          "display": "693 points (#11)",
+          "aliases": [
+            "Fak"
+          ]
+        },
+        {
+          "answer": "Arnd Peiffer",
+          "display": "642 points (#12)",
+          "aliases": [
+            "Peiffer"
+          ]
+        },
+        {
+          "answer": "Vetle Sjåstad Christiansen",
+          "display": "621 points (#13)",
+          "aliases": [
+            "Vetle Sjastad Christiansen",
+            "Christiansen"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/winter/biathlon/world-cup-men",
+      "question": "Top 10 men in the overall standings of the 2022–23 Biathlon World Cup",
+      "cutoff": 10,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1261128038 | table 4 | name: Name | value: Total",
+      "tags": [
+        "biathlon",
+        "world-cup",
+        "men",
+        "2022–23"
+      ],
+      "answers": [
+        {
+          "answer": "Johannes Thingnes Bø",
+          "display": "1,139 points (#1)",
+          "aliases": [
+            "Johannes Thingnes Bo",
+            "Johannes Bø",
+            "Johannes Bo"
+          ]
+        },
+        {
+          "answer": "Sturla Holm Lægreid",
+          "display": "920 points (#2)",
+          "aliases": [
+            "Sturla Holm Laegreid",
+            "Lægreid",
+            "Laegreid"
+          ]
+        },
+        {
+          "answer": "Vetle Sjåstad Christiansen",
+          "display": "588 points (#3)",
+          "aliases": [
+            "Vetle Sjastad Christiansen",
+            "Christiansen"
+          ]
+        },
+        {
+          "answer": "Quentin Fillon Maillet",
+          "display": "483 points (#4)",
+          "aliases": [
+            "Fillon Maillet",
+            "Fillon-Maillet",
+            "Maillet"
+          ]
+        },
+        {
+          "answer": "Martin Ponsiluoma",
+          "display": "467 points (#5)",
+          "aliases": [
+            "Ponsiluoma"
+          ]
+        },
+        {
+          "answer": "Johannes Dale",
+          "display": "460 points (#6)",
+          "aliases": [
+            "Dale"
+          ]
+        },
+        {
+          "answer": "Benedikt Doll",
+          "display": "455 points (#7)",
+          "aliases": [
+            "Doll"
+          ]
+        },
+        {
+          "answer": "Tarjei Bø",
+          "display": "448 points (#8)",
+          "aliases": [
+            "Tarjei Bo"
+          ]
+        },
+        {
+          "answer": "Roman Rees",
+          "display": "444 points (#9)",
+          "aliases": [
+            "Rees"
+          ]
+        },
+        {
+          "answer": "Émilien Jacquelin",
+          "display": "431 points (#10)",
+          "aliases": [
+            "Emilien Jacquelin",
+            "Jacquelin"
+          ]
+        },
+        {
+          "answer": "Fabien Claude",
+          "display": "409 points (#11)",
+          "aliases": [
+            "Claude"
+          ]
+        },
+        {
+          "answer": "Niklas Hartweg",
+          "display": "393 points (#12)",
+          "aliases": [
+            "Hartweg"
+          ]
+        },
+        {
+          "answer": "Sebastian Samuelsson",
+          "display": "384 points (#13)",
+          "aliases": [
+            "Samuelsson"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/winter/biathlon/world-cup-women",
+      "question": "Top 10 women in the overall standings of the 2008–09 Biathlon World Cup",
+      "cutoff": 10,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1335157748 | table 3 | name: Name | value: Total | note: Helena Jonsson and Kati Wilhelm both have 952 points; official places 1 and 2 are used",
+      "tags": [
+        "biathlon",
+        "world-cup",
+        "women",
+        "2008–09"
+      ],
+      "answers": [
+        {
+          "answer": "Helena Jonsson",
+          "display": "952 points (#1)",
+          "aliases": [
+            "Jonsson"
+          ]
+        },
+        {
+          "answer": "Kati Wilhelm",
+          "display": "952 points (#2)",
+          "aliases": [
+            "Wilhelm"
+          ]
+        },
+        {
+          "answer": "Tora Berger",
+          "display": "894 points (#3)",
+          "aliases": [
+            "Berger"
+          ]
+        },
+        {
+          "answer": "Magdalena Neuner",
+          "display": "891 points (#4)",
+          "aliases": [
+            "Neuner"
+          ]
+        },
+        {
+          "answer": "Andrea Henkel",
+          "display": "838 points (#5)",
+          "aliases": [
+            "Henkel"
+          ]
+        },
+        {
+          "answer": "Olga Zaitseva",
+          "display": "834 points (#6)",
+          "aliases": [
+            "Zaitseva"
+          ]
+        },
+        {
+          "answer": "Darya Domracheva",
+          "display": "776 points (#7)",
+          "aliases": [
+            "Domracheva"
+          ]
+        },
+        {
+          "answer": "Martina Beck",
+          "display": "685 points (#8)",
+          "aliases": [
+            "Beck"
+          ]
+        },
+        {
+          "answer": "Simone Hauswald",
+          "display": "677 points (#9)",
+          "aliases": [
+            "Hauswald"
+          ]
+        },
+        {
+          "answer": "Anna Carin Olofsson-Zidek",
+          "display": "645 points (#10)",
+          "aliases": [
+            "Anna Carin Zidek",
+            "Anna Carin Olofsson",
+            "Olofsson-Zidek"
+          ]
+        },
+        {
+          "answer": "Éva Tófalvi",
+          "display": "640 points (#11)",
+          "aliases": [
+            "Eva Tofalvi",
+            "Tófalvi"
+          ]
+        },
+        {
+          "answer": "Svetlana Sleptsova",
+          "display": "628 points (#12)",
+          "aliases": [
+            "Sleptsova"
+          ]
+        },
+        {
+          "answer": "Vita Semerenko",
+          "display": "626 points (#13)",
+          "aliases": [
+            "Semerenko"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/winter/biathlon/world-cup-women",
+      "question": "Top 10 women in the overall standings of the 2009–10 Biathlon World Cup",
+      "cutoff": 10,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1335157744 | table 3 | name: Name | value: Total",
+      "tags": [
+        "biathlon",
+        "world-cup",
+        "women",
+        "2009–10"
+      ],
+      "answers": [
+        {
+          "answer": "Magdalena Neuner",
+          "display": "933 points (#1)",
+          "aliases": [
+            "Neuner"
+          ]
+        },
+        {
+          "answer": "Simone Hauswald",
+          "display": "854 points (#2)",
+          "aliases": [
+            "Hauswald"
+          ]
+        },
+        {
+          "answer": "Helena Jonsson",
+          "display": "813 points (#3)",
+          "aliases": [
+            "Jonsson"
+          ]
+        },
+        {
+          "answer": "Andrea Henkel",
+          "display": "781 points (#4)",
+          "aliases": [
+            "Henkel"
+          ]
+        },
+        {
+          "answer": "Anna Carin Olofsson-Zidek",
+          "display": "775 points (#5)",
+          "aliases": [
+            "Anna Carin Zidek",
+            "Anna Carin Olofsson",
+            "Olofsson-Zidek"
+          ]
+        },
+        {
+          "answer": "Darya Domracheva",
+          "display": "770 points (#6)",
+          "aliases": [
+            "Domracheva"
+          ]
+        },
+        {
+          "answer": "Kati Wilhelm",
+          "display": "733 points (#7)",
+          "aliases": [
+            "Wilhelm"
+          ]
+        },
+        {
+          "answer": "Olga Zaitseva",
+          "display": "719 points (#8)",
+          "aliases": [
+            "Zaitseva"
+          ]
+        },
+        {
+          "answer": "Marie-Laure Brunet",
+          "display": "682 points (#9)",
+          "aliases": [
+            "Marie Laure Brunet",
+            "Brunet"
+          ]
+        },
+        {
+          "answer": "Teja Gregorin",
+          "display": "588 points (#10)",
+          "aliases": [
+            "Gregorin"
+          ]
+        },
+        {
+          "answer": "Svetlana Sleptsova",
+          "display": "572 points (#11)",
+          "aliases": [
+            "Sleptsova"
+          ]
+        },
+        {
+          "answer": "Tora Berger",
+          "display": "564 points (#12)",
+          "aliases": [
+            "Berger"
+          ]
+        },
+        {
+          "answer": "Olga Medvedtseva",
+          "display": "542 points (#13)",
+          "aliases": [
+            "Medvedtseva"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/winter/biathlon/world-cup-women",
+      "question": "Top 10 women in the overall standings of the 2010–11 Biathlon World Cup",
+      "cutoff": 10,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1335157741 | table 3 | name: Name | value: Total",
+      "tags": [
+        "biathlon",
+        "world-cup",
+        "women",
+        "2010–11"
+      ],
+      "answers": [
+        {
+          "answer": "Kaisa Mäkäräinen",
+          "display": "1,005 points (#1)",
+          "aliases": [
+            "Kaisa Makarainen",
+            "Makarainen",
+            "Mäkäräinen"
+          ]
+        },
+        {
+          "answer": "Andrea Henkel",
+          "display": "972 points (#2)",
+          "aliases": [
+            "Henkel"
+          ]
+        },
+        {
+          "answer": "Helena Ekholm",
+          "display": "971 points (#3)",
+          "aliases": [
+            "Ekholm"
+          ]
+        },
+        {
+          "answer": "Tora Berger",
+          "display": "963 points (#4)",
+          "aliases": [
+            "Berger"
+          ]
+        },
+        {
+          "answer": "Magdalena Neuner",
+          "display": "952 points (#5)",
+          "aliases": [
+            "Neuner"
+          ]
+        },
+        {
+          "answer": "Darya Domracheva",
+          "display": "862 points (#6)",
+          "aliases": [
+            "Domracheva"
+          ]
+        },
+        {
+          "answer": "Marie Dorin Habert",
+          "display": "726 points (#7)",
+          "aliases": [
+            "Marie Dorin",
+            "Habert"
+          ]
+        },
+        {
+          "answer": "Teja Gregorin",
+          "display": "722 points (#8)",
+          "aliases": [
+            "Gregorin"
+          ]
+        },
+        {
+          "answer": "Anastasiya Kuzmina",
+          "display": "708 points (#9)",
+          "aliases": [
+            "Kuzmina"
+          ]
+        },
+        {
+          "answer": "Anna Carin Olofsson-Zidek",
+          "display": "703 points (#10)",
+          "aliases": [
+            "Anna Carin Zidek",
+            "Anna Carin Olofsson",
+            "Olofsson-Zidek"
+          ]
+        },
+        {
+          "answer": "Valj Semerenko",
+          "display": "687 points (#11)",
+          "aliases": [
+            "Semerenko"
+          ]
+        },
+        {
+          "answer": "Olga Zaitseva",
+          "display": "642 points (#12)",
+          "aliases": [
+            "Zaitseva"
+          ]
+        },
+        {
+          "answer": "Marie-Laure Brunet",
+          "display": "617 points (#13)",
+          "aliases": [
+            "Marie Laure Brunet",
+            "Brunet"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/winter/biathlon/world-cup-women",
+      "question": "Top 10 women in the overall standings of the 2011–12 Biathlon World Cup",
+      "cutoff": 10,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1335157749 | table 3 | name: Name | value: Total",
+      "tags": [
+        "biathlon",
+        "world-cup",
+        "women",
+        "2011–12"
+      ],
+      "answers": [
+        {
+          "answer": "Magdalena Neuner",
+          "display": "1,216 points (#1)",
+          "aliases": [
+            "Neuner"
+          ]
+        },
+        {
+          "answer": "Darya Domracheva",
+          "display": "1,188 points (#2)",
+          "aliases": [
+            "Domracheva"
+          ]
+        },
+        {
+          "answer": "Tora Berger",
+          "display": "1,054 points (#3)",
+          "aliases": [
+            "Berger"
+          ]
+        },
+        {
+          "answer": "Kaisa Mäkäräinen",
+          "display": "1,007 points (#4)",
+          "aliases": [
+            "Kaisa Makarainen",
+            "Makarainen",
+            "Mäkäräinen"
+          ]
+        },
+        {
+          "answer": "Helena Ekholm",
+          "display": "893 points (#5)",
+          "aliases": [
+            "Ekholm"
+          ]
+        },
+        {
+          "answer": "Olga Zaitseva",
+          "display": "857 points (#6)",
+          "aliases": [
+            "Zaitseva"
+          ]
+        },
+        {
+          "answer": "Marie-Laure Brunet",
+          "display": "807 points (#7)",
+          "aliases": [
+            "Marie Laure Brunet",
+            "Brunet"
+          ]
+        },
+        {
+          "answer": "Andrea Henkel",
+          "display": "806 points (#8)",
+          "aliases": [
+            "Henkel"
+          ]
+        },
+        {
+          "answer": "Marie Dorin Habert",
+          "display": "749 points (#9)",
+          "aliases": [
+            "Marie Dorin",
+            "Habert"
+          ]
+        },
+        {
+          "answer": "Anastasiya Kuzmina",
+          "display": "721 points (#10)",
+          "aliases": [
+            "Kuzmina"
+          ]
+        },
+        {
+          "answer": "Olga Vilukhina",
+          "display": "667 points (#11)",
+          "aliases": [
+            "Vilukhina"
+          ]
+        },
+        {
+          "answer": "Vita Semerenko",
+          "display": "622 points (#12)",
+          "aliases": [
+            "Semerenko"
+          ]
+        },
+        {
+          "answer": "Synnøve Solemdal",
+          "display": "606 points (#13)",
+          "aliases": [
+            "Synnove Solemdal",
+            "Solemdal"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/winter/biathlon/world-cup-women",
+      "question": "Top 10 women in the overall standings of the 2012–13 Biathlon World Cup",
+      "cutoff": 10,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1335157742 | table 3 | name: Name | value: Total",
+      "tags": [
+        "biathlon",
+        "world-cup",
+        "women",
+        "2012–13"
+      ],
+      "answers": [
+        {
+          "answer": "Tora Berger",
+          "display": "1,234 points (#1)",
+          "aliases": [
+            "Berger"
+          ]
+        },
+        {
+          "answer": "Darya Domracheva",
+          "display": "924 points (#2)",
+          "aliases": [
+            "Domracheva"
+          ]
+        },
+        {
+          "answer": "Andrea Henkel",
+          "display": "856 points (#3)",
+          "aliases": [
+            "Henkel"
+          ]
+        },
+        {
+          "answer": "Marie Dorin Habert",
+          "display": "843 points (#4)",
+          "aliases": [
+            "Marie Dorin",
+            "Habert"
+          ]
+        },
+        {
+          "answer": "Kaisa Mäkäräinen",
+          "display": "834 points (#5)",
+          "aliases": [
+            "Kaisa Makarainen",
+            "Makarainen",
+            "Mäkäräinen"
+          ]
+        },
+        {
+          "answer": "Gabriela Koukalová",
+          "display": "800 points (#6)",
+          "aliases": [
+            "Gabriela Koukalova",
+            "Gabriela Soukalová",
+            "Gabriela Soukalova",
+            "Soukalová",
+            "Koukalova",
+            "Koukalová"
+          ]
+        },
+        {
+          "answer": "Anastasiya Kuzmina",
+          "display": "769 points (#7)",
+          "aliases": [
+            "Kuzmina"
+          ]
+        },
+        {
+          "answer": "Olena Pidhrushna",
+          "display": "764 points (#8)",
+          "aliases": [
+            "Pidhrushna"
+          ]
+        },
+        {
+          "answer": "Miriam Gössner",
+          "display": "746 points (#9)",
+          "aliases": [
+            "Miriam Gossner",
+            "Gössner"
+          ]
+        },
+        {
+          "answer": "Vita Semerenko",
+          "display": "739 points (#10)",
+          "aliases": [
+            "Semerenko"
+          ]
+        },
+        {
+          "answer": "Olga Zaitseva",
+          "display": "718 points (#11)",
+          "aliases": [
+            "Zaitseva"
+          ]
+        },
+        {
+          "answer": "Olga Vilukhina",
+          "display": "706 points (#12)",
+          "aliases": [
+            "Vilukhina"
+          ]
+        },
+        {
+          "answer": "Teja Gregorin",
+          "display": "653 points (#13)",
+          "aliases": [
+            "Gregorin"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/winter/biathlon/world-cup-women",
+      "question": "Top 10 women in the overall standings of the 2013–14 Biathlon World Cup",
+      "cutoff": 10,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1335157750 | table 3 | name: Name | value: Total",
+      "tags": [
+        "biathlon",
+        "world-cup",
+        "women",
+        "2013–14"
+      ],
+      "answers": [
+        {
+          "answer": "Kaisa Mäkäräinen",
+          "display": "860 points (#1)",
+          "aliases": [
+            "Kaisa Makarainen",
+            "Makarainen",
+            "Mäkäräinen"
+          ]
+        },
+        {
+          "answer": "Tora Berger",
+          "display": "856 points (#2)",
+          "aliases": [
+            "Berger"
+          ]
+        },
+        {
+          "answer": "Darya Domracheva",
+          "display": "793 points (#3)",
+          "aliases": [
+            "Domracheva"
+          ]
+        },
+        {
+          "answer": "Gabriela Koukalová",
+          "display": "613 points (#4)",
+          "aliases": [
+            "Gabriela Koukalova",
+            "Gabriela Soukalová",
+            "Gabriela Soukalova",
+            "Soukalová",
+            "Koukalova",
+            "Koukalová"
+          ]
+        },
+        {
+          "answer": "Olga Vilukhina",
+          "display": "612 points (#5)",
+          "aliases": [
+            "Vilukhina"
+          ]
+        },
+        {
+          "answer": "Anastasiya Kuzmina",
+          "display": "606 points (#6)",
+          "aliases": [
+            "Kuzmina"
+          ]
+        },
+        {
+          "answer": "Tiril Eckhoff",
+          "display": "566 points (#7)",
+          "aliases": [
+            "Eckhoff"
+          ]
+        },
+        {
+          "answer": "Valj Semerenko",
+          "display": "553 points (#8)",
+          "aliases": [
+            "Semerenko"
+          ]
+        },
+        {
+          "answer": "Veronika Vítková",
+          "display": "551 points (#9)",
+          "aliases": [
+            "Veronika Vitkova",
+            "Vítková"
+          ]
+        },
+        {
+          "answer": "Andrea Henkel",
+          "display": "541 points (#10)",
+          "aliases": [
+            "Henkel"
+          ]
+        },
+        {
+          "answer": "Selina Gasparin",
+          "display": "495 points (#11)",
+          "aliases": [
+            "Gasparin"
+          ]
+        },
+        {
+          "answer": "Olga Zaitseva",
+          "display": "455 points (#12)",
+          "aliases": [
+            "Zaitseva"
+          ]
+        },
+        {
+          "answer": "Teja Gregorin",
+          "display": "437 points (#13)",
+          "aliases": [
+            "Gregorin"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/winter/biathlon/world-cup-women",
+      "question": "Top 10 women in the overall standings of the 2015–16 Biathlon World Cup",
+      "cutoff": 10,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1305235966 | table 3 | name: Name | value: Total",
+      "tags": [
+        "biathlon",
+        "world-cup",
+        "women",
+        "2015–16"
+      ],
+      "answers": [
+        {
+          "answer": "Gabriela Koukalová",
+          "display": "1,074 points (#1)",
+          "aliases": [
+            "Gabriela Koukalova",
+            "Gabriela Soukalová",
+            "Gabriela Soukalova",
+            "Soukalová",
+            "Koukalova",
+            "Koukalová"
+          ]
+        },
+        {
+          "answer": "Marie Dorin Habert",
+          "display": "1,028 points (#2)",
+          "aliases": [
+            "Marie Dorin",
+            "Habert"
+          ]
+        },
+        {
+          "answer": "Dorothea Wierer",
+          "display": "944 points (#3)",
+          "aliases": [
+            "Wierer"
+          ]
+        },
+        {
+          "answer": "Kaisa Mäkäräinen",
+          "display": "892 points (#4)",
+          "aliases": [
+            "Kaisa Makarainen",
+            "Makarainen",
+            "Mäkäräinen"
+          ]
+        },
+        {
+          "answer": "Franziska Hildebrand",
+          "display": "793 points (#5)",
+          "aliases": [
+            "Hildebrand"
+          ]
+        },
+        {
+          "answer": "Laura Dahlmeier",
+          "display": "786 points (#6)",
+          "aliases": [
+            "Dahlmeier"
+          ]
+        },
+        {
+          "answer": "Olena Pidhrushna",
+          "display": "754 points (#7)",
+          "aliases": [
+            "Pidhrushna"
+          ]
+        },
+        {
+          "answer": "Veronika Vítková",
+          "display": "703 points (#8)",
+          "aliases": [
+            "Veronika Vitkova",
+            "Vítková"
+          ]
+        },
+        {
+          "answer": "Anaïs Bescond",
+          "display": "666 points (#9)",
+          "aliases": [
+            "Anais Bescond",
+            "Bescond"
+          ]
+        },
+        {
+          "answer": "Krystyna Guzik",
+          "display": "566 points (#10)",
+          "aliases": [
+            "Guzik"
+          ]
+        },
+        {
+          "answer": "Tiril Eckhoff",
+          "display": "544 points (#11)",
+          "aliases": [
+            "Eckhoff"
+          ]
+        },
+        {
+          "answer": "Franziska Preuß",
+          "display": "533 points (#12)",
+          "aliases": [
+            "Franziska Preuss",
+            "Preuss",
+            "Preuß"
+          ]
+        },
+        {
+          "answer": "Yuliia Dzhima",
+          "display": "494 points (#13)",
+          "aliases": [
+            "Dzhima"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/winter/biathlon/world-cup-women",
+      "question": "Top 10 women in the overall standings of the 2016–17 Biathlon World Cup",
+      "cutoff": 10,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1305236044 | table 3 | name: Name | value: Total",
+      "tags": [
+        "biathlon",
+        "world-cup",
+        "women",
+        "2016–17"
+      ],
+      "answers": [
+        {
+          "answer": "Laura Dahlmeier",
+          "display": "1,211 points (#1)",
+          "aliases": [
+            "Dahlmeier"
+          ]
+        },
+        {
+          "answer": "Gabriela Koukalová",
+          "display": "1,089 points (#2)",
+          "aliases": [
+            "Gabriela Koukalova",
+            "Gabriela Soukalová",
+            "Gabriela Soukalova",
+            "Soukalová",
+            "Koukalova",
+            "Koukalová"
+          ]
+        },
+        {
+          "answer": "Kaisa Mäkäräinen",
+          "display": "971 points (#3)",
+          "aliases": [
+            "Kaisa Makarainen",
+            "Makarainen",
+            "Mäkäräinen"
+          ]
+        },
+        {
+          "answer": "Marie Dorin Habert",
+          "display": "856 points (#4)",
+          "aliases": [
+            "Marie Dorin",
+            "Habert"
+          ]
+        },
+        {
+          "answer": "Dorothea Wierer",
+          "display": "719 points (#5)",
+          "aliases": [
+            "Wierer"
+          ]
+        },
+        {
+          "answer": "Justine Braisaz-Bouchet",
+          "display": "706 points (#6)",
+          "aliases": [
+            "Justine Braisaz",
+            "Braisaz-Bouchet"
+          ]
+        },
+        {
+          "answer": "Anaïs Chevalier-Bouchet",
+          "display": "669 points (#7)",
+          "aliases": [
+            "Anais Chevalier-Bouchet",
+            "Anaïs Chevalier",
+            "Anais Chevalier",
+            "Chevalier-Bouchet"
+          ]
+        },
+        {
+          "answer": "Yuliia Dzhima",
+          "display": "632 points (#8)",
+          "aliases": [
+            "Dzhima"
+          ]
+        },
+        {
+          "answer": "Franziska Hildebrand",
+          "display": "621 points (#9)",
+          "aliases": [
+            "Hildebrand"
+          ]
+        },
+        {
+          "answer": "Susan Dunklee",
+          "display": "596 points (#10)",
+          "aliases": [
+            "Dunklee"
+          ]
+        },
+        {
+          "answer": "Tiril Eckhoff",
+          "display": "566 points (#11)",
+          "aliases": [
+            "Eckhoff"
+          ]
+        },
+        {
+          "answer": "Marte Olsbu Røiseland",
+          "display": "551 points (#12)",
+          "aliases": [
+            "Marte Olsbu Roiseland",
+            "Marte Olsbu",
+            "Olsbu Røiseland",
+            "Olsbu",
+            "Røiseland"
+          ]
+        },
+        {
+          "answer": "Eva Puskarčíková",
+          "display": "504 points (#13)",
+          "aliases": [
+            "Eva Puskarcikova",
+            "Puskarčíková"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/winter/biathlon/world-cup-women",
+      "question": "Top 10 women in the overall standings of the 2017–18 Biathlon World Cup",
+      "cutoff": 10,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1080234293 | table 4 | name: Name | value: Total",
+      "tags": [
+        "biathlon",
+        "world-cup",
+        "women",
+        "2017–18"
+      ],
+      "answers": [
+        {
+          "answer": "Kaisa Mäkäräinen",
+          "display": "822 points (#1)",
+          "aliases": [
+            "Kaisa Makarainen",
+            "Makarainen",
+            "Mäkäräinen"
+          ]
+        },
+        {
+          "answer": "Anastasiya Kuzmina",
+          "display": "819 points (#2)",
+          "aliases": [
+            "Kuzmina"
+          ]
+        },
+        {
+          "answer": "Darya Domracheva",
+          "display": "804 points (#3)",
+          "aliases": [
+            "Domracheva"
+          ]
+        },
+        {
+          "answer": "Laura Dahlmeier",
+          "display": "730 points (#4)",
+          "aliases": [
+            "Dahlmeier"
+          ]
+        },
+        {
+          "answer": "Dorothea Wierer",
+          "display": "681 points (#5)",
+          "aliases": [
+            "Wierer"
+          ]
+        },
+        {
+          "answer": "Lisa Vittozzi",
+          "display": "588 points (#6)",
+          "aliases": [
+            "Vittozzi"
+          ]
+        },
+        {
+          "answer": "Anaïs Bescond",
+          "display": "582 points (#7)",
+          "aliases": [
+            "Anais Bescond",
+            "Bescond"
+          ]
+        },
+        {
+          "answer": "Veronika Vítková",
+          "display": "545 points (#8)",
+          "aliases": [
+            "Veronika Vitkova",
+            "Vítková"
+          ]
+        },
+        {
+          "answer": "Franziska Hildebrand",
+          "display": "539 points (#9)",
+          "aliases": [
+            "Hildebrand"
+          ]
+        },
+        {
+          "answer": "Vanessa Hinz",
+          "display": "522 points (#10)",
+          "aliases": [
+            "Hinz"
+          ]
+        },
+        {
+          "answer": "Yuliia Dzhima",
+          "display": "483 points (#11)",
+          "aliases": [
+            "Dzhima"
+          ]
+        },
+        {
+          "answer": "Denise Herrmann",
+          "display": "477 points (#12)",
+          "aliases": [
+            "Herrmann"
+          ]
+        },
+        {
+          "answer": "Ekaterina Yurlova-Percht",
+          "display": "474 points (#13)",
+          "aliases": [
+            "Yurlova-Percht"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/winter/biathlon/world-cup-women",
+      "question": "Top 10 women in the overall standings of the 2018–19 Biathlon World Cup",
+      "cutoff": 10,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1374463021 | table 4 | name: Name | value: Total",
+      "tags": [
+        "biathlon",
+        "world-cup",
+        "women",
+        "2018–19"
+      ],
+      "answers": [
+        {
+          "answer": "Dorothea Wierer",
+          "display": "904 points (#1)",
+          "aliases": [
+            "Wierer"
+          ]
+        },
+        {
+          "answer": "Lisa Vittozzi",
+          "display": "882 points (#2)",
+          "aliases": [
+            "Vittozzi"
+          ]
+        },
+        {
+          "answer": "Anastasiya Kuzmina",
+          "display": "870 points (#3)",
+          "aliases": [
+            "Kuzmina"
+          ]
+        },
+        {
+          "answer": "Marte Olsbu Røiseland",
+          "display": "855 points (#4)",
+          "aliases": [
+            "Marte Olsbu Roiseland",
+            "Marte Olsbu",
+            "Olsbu Røiseland",
+            "Olsbu",
+            "Røiseland"
+          ]
+        },
+        {
+          "answer": "Hanna Öberg",
+          "display": "741 points (#5)",
+          "aliases": [
+            "Hanna Oberg",
+            "Öberg"
+          ]
+        },
+        {
+          "answer": "Paulína Fialková",
+          "display": "687 points (#6)",
+          "aliases": [
+            "Paulina Fialkova",
+            "Fialková"
+          ]
+        },
+        {
+          "answer": "Kaisa Mäkäräinen",
+          "display": "673 points (#7)",
+          "aliases": [
+            "Kaisa Makarainen",
+            "Makarainen",
+            "Mäkäräinen"
+          ]
+        },
+        {
+          "answer": "Denise Herrmann",
+          "display": "611 points (#8)",
+          "aliases": [
+            "Herrmann"
+          ]
+        },
+        {
+          "answer": "Franziska Preuß",
+          "display": "570 points (#9)",
+          "aliases": [
+            "Franziska Preuss",
+            "Preuss",
+            "Preuß"
+          ]
+        },
+        {
+          "answer": "Monika Hojnisz-Staręga",
+          "display": "567 points (#10)",
+          "aliases": [
+            "Monika Hojnisz-Starega",
+            "Monika Hojnisz",
+            "Hojnisz-Staręga"
+          ]
+        },
+        {
+          "answer": "Ingrid Landmark Tandrevold",
+          "display": "557 points (#11)",
+          "aliases": [
+            "Tandrevold"
+          ]
+        },
+        {
+          "answer": "Laura Dahlmeier",
+          "display": "554 points (#12)",
+          "aliases": [
+            "Dahlmeier"
+          ]
+        },
+        {
+          "answer": "Tiril Eckhoff",
+          "display": "516 points (#13)",
+          "aliases": [
+            "Eckhoff"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/winter/biathlon/world-cup-women",
+      "question": "Top 10 women in the overall standings of the 2019–20 Biathlon World Cup",
+      "cutoff": 10,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1080234556 | table 4 | name: Name | value: Total",
+      "tags": [
+        "biathlon",
+        "world-cup",
+        "women",
+        "2019–20"
+      ],
+      "answers": [
+        {
+          "answer": "Dorothea Wierer",
+          "display": "793 points (#1)",
+          "aliases": [
+            "Wierer"
+          ]
+        },
+        {
+          "answer": "Tiril Eckhoff",
+          "display": "786 points (#2)",
+          "aliases": [
+            "Eckhoff"
+          ]
+        },
+        {
+          "answer": "Denise Herrmann",
+          "display": "745 points (#3)",
+          "aliases": [
+            "Herrmann"
+          ]
+        },
+        {
+          "answer": "Hanna Öberg",
+          "display": "741 points (#4)",
+          "aliases": [
+            "Hanna Oberg",
+            "Öberg"
+          ]
+        },
+        {
+          "answer": "Marte Olsbu Røiseland",
+          "display": "597 points (#5)",
+          "aliases": [
+            "Marte Olsbu Roiseland",
+            "Marte Olsbu",
+            "Olsbu Røiseland",
+            "Olsbu",
+            "Røiseland"
+          ]
+        },
+        {
+          "answer": "Franziska Preuß",
+          "display": "573 points (#6)",
+          "aliases": [
+            "Franziska Preuss",
+            "Preuss",
+            "Preuß"
+          ]
+        },
+        {
+          "answer": "Ingrid Landmark Tandrevold",
+          "display": "554 points (#7)",
+          "aliases": [
+            "Tandrevold"
+          ]
+        },
+        {
+          "answer": "Julia Simon",
+          "display": "551 points (#8)",
+          "aliases": [
+            "Simon"
+          ]
+        },
+        {
+          "answer": "Justine Braisaz-Bouchet",
+          "display": "547 points (#9)",
+          "aliases": [
+            "Justine Braisaz",
+            "Braisaz-Bouchet"
+          ]
+        },
+        {
+          "answer": "Lisa Vittozzi",
+          "display": "528 points (#10)",
+          "aliases": [
+            "Vittozzi"
+          ]
+        },
+        {
+          "answer": "Kaisa Mäkäräinen",
+          "display": "506 points (#11)",
+          "aliases": [
+            "Kaisa Makarainen",
+            "Makarainen",
+            "Mäkäräinen"
+          ]
+        },
+        {
+          "answer": "Monika Hojnisz-Staręga",
+          "display": "500 points (#12)",
+          "aliases": [
+            "Monika Hojnisz-Starega",
+            "Monika Hojnisz",
+            "Hojnisz-Staręga"
+          ]
+        },
+        {
+          "answer": "Paulína Fialková",
+          "display": "489 points (#13)",
+          "aliases": [
+            "Paulina Fialkova",
+            "Fialková"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/winter/biathlon/world-cup-women",
+      "question": "Top 10 women in the overall standings of the 2020–21 Biathlon World Cup",
+      "cutoff": 10,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1375727161 | table 4 | name: Name | value: Total",
+      "tags": [
+        "biathlon",
+        "world-cup",
+        "women",
+        "2020–21"
+      ],
+      "answers": [
+        {
+          "answer": "Tiril Eckhoff",
+          "display": "1,152 points (#1)",
+          "aliases": [
+            "Eckhoff"
+          ]
+        },
+        {
+          "answer": "Marte Olsbu Røiseland",
+          "display": "963 points (#2)",
+          "aliases": [
+            "Marte Olsbu Roiseland",
+            "Marte Olsbu",
+            "Olsbu Røiseland",
+            "Olsbu",
+            "Røiseland"
+          ]
+        },
+        {
+          "answer": "Franziska Preuß",
+          "display": "840 points (#3)",
+          "aliases": [
+            "Franziska Preuss",
+            "Preuss",
+            "Preuß"
+          ]
+        },
+        {
+          "answer": "Hanna Öberg",
+          "display": "826 points (#4)",
+          "aliases": [
+            "Hanna Oberg"
+          ]
+        },
+        {
+          "answer": "Dorothea Wierer",
+          "display": "821 points (#5)",
+          "aliases": [
+            "Wierer"
+          ]
+        },
+        {
+          "answer": "Lisa Theresa Hauser",
+          "display": "818 points (#6)",
+          "aliases": [
+            "Hauser"
+          ]
+        },
+        {
+          "answer": "Dzinara Alimbekava",
+          "display": "734 points (#7)",
+          "aliases": [
+            "Alimbekava"
+          ]
+        },
+        {
+          "answer": "Ingrid Landmark Tandrevold",
+          "display": "707 points (#8)",
+          "aliases": [
+            "Tandrevold"
+          ]
+        },
+        {
+          "answer": "Anaïs Chevalier-Bouchet",
+          "display": "677 points (#9)",
+          "aliases": [
+            "Anais Chevalier-Bouchet",
+            "Anaïs Chevalier",
+            "Anais Chevalier",
+            "Chevalier-Bouchet"
+          ]
+        },
+        {
+          "answer": "Denise Herrmann",
+          "display": "667 points (#10)",
+          "aliases": [
+            "Herrmann"
+          ]
+        },
+        {
+          "answer": "Markéta Davidová",
+          "display": "649 points (#11)",
+          "aliases": [
+            "Marketa Davidova",
+            "Davidová"
+          ]
+        },
+        {
+          "answer": "Elvira Öberg",
+          "display": "631 points (#12)",
+          "aliases": [
+            "Elvira Oberg"
+          ]
+        },
+        {
+          "answer": "Julia Simon",
+          "display": "575 points (#13)",
+          "aliases": [
+            "Simon"
+          ]
+        }
+      ]
+    }
+  ]
+}

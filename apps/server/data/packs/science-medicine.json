@@ -1,0 +1,470 @@
+{
+  "categories": [
+    {
+      "path": "science/medicine",
+      "name": "Medicine"
+    },
+    {
+      "path": "science/medicine/diseases",
+      "name": "Diseases"
+    },
+    {
+      "path": "science/medicine/drugs",
+      "name": "Drugs"
+    },
+    {
+      "path": "science/medicine/healthcare",
+      "name": "Healthcare"
+    }
+  ],
+  "questions": [
+    {
+      "category": "science/medicine/diseases",
+      "question": "Top 9 deadliest epidemics and pandemics by lowest estimated death toll (as of 2026)",
+      "cutoff": 9,
+      "difficulty": 3,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1379729548 | table 1 | name: Epidemics | value: Death toll | note: ranked by the low end of each range; the article's own rank uses midpoints, so the order differs",
+      "tags": [
+        "science",
+        "medicine",
+        "epidemics",
+        "pandemics",
+        "history"
+      ],
+      "answers": [
+        {
+          "answer": "HIV/AIDS",
+          "display": "45 million (as of 2026)",
+          "aliases": [
+            "AIDS",
+            "HIV"
+          ]
+        },
+        {
+          "answer": "1918 Spanish influenza pandemic",
+          "display": "25 million–100 million",
+          "aliases": [
+            "Spanish flu",
+            "Spanish influenza",
+            "1918 flu",
+            "1918 flu pandemic"
+          ]
+        },
+        {
+          "answer": "Black Death",
+          "display": "25 million–50 million"
+        },
+        {
+          "answer": "Plague of Justinian",
+          "display": "15 million–100 million",
+          "aliases": [
+            "Justinianic Plague"
+          ]
+        },
+        {
+          "answer": "Third plague pandemic",
+          "display": "12 million–15 million"
+        },
+        {
+          "answer": "COVID-19",
+          "display": "7.13 million–38 million (as of 2026)",
+          "aliases": [
+            "COVID",
+            "Coronavirus"
+          ]
+        },
+        {
+          "answer": "Cocoliztli epidemic of 1545–1548",
+          "display": "5 million–15 million"
+        },
+        {
+          "answer": "Antonine Plague",
+          "display": "5 million–10 million"
+        },
+        {
+          "answer": "1520 Mexico smallpox epidemic",
+          "display": "5 million–8 million"
+        },
+        {
+          "answer": "1918–1922 Russia typhus epidemic",
+          "display": "2 million–3 million"
+        },
+        {
+          "answer": "Cocoliztli epidemic of 1576",
+          "display": "2 million–2.5 million"
+        },
+        {
+          "answer": "Jian'an Plague",
+          "display": "2 million"
+        },
+        {
+          "answer": "735–737 Japanese smallpox epidemic",
+          "display": "2 million"
+        },
+        {
+          "answer": "1772–1773 Persian Plague",
+          "display": "2 million"
+        }
+      ]
+    },
+    {
+      "category": "science/medicine/diseases",
+      "question": "Top 10 countries by COVID-19 deaths (as of September 2026)",
+      "cutoff": 10,
+      "difficulty": 1,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1379291356 | table 12 | name: Country | value: Deaths | where: Country!~^(World|European Union)$ | note: the table's own line says it was updated automatically on 18 September 2026",
+      "tags": [
+        "science",
+        "medicine",
+        "covid-19",
+        "deaths"
+      ],
+      "answers": [
+        {
+          "answer": "United States",
+          "display": "1,239,049 deaths",
+          "aliases": [
+            "US",
+            "USA",
+            "America"
+          ]
+        },
+        {
+          "answer": "Brazil",
+          "display": "704,066 deaths"
+        },
+        {
+          "answer": "India",
+          "display": "533,849 deaths"
+        },
+        {
+          "answer": "Russia",
+          "display": "404,290 deaths"
+        },
+        {
+          "answer": "Mexico",
+          "display": "335,153 deaths"
+        },
+        {
+          "answer": "United Kingdom",
+          "display": "232,112 deaths",
+          "aliases": [
+            "UK",
+            "Britain"
+          ]
+        },
+        {
+          "answer": "Peru",
+          "display": "221,072 deaths"
+        },
+        {
+          "answer": "Italy",
+          "display": "198,523 deaths"
+        },
+        {
+          "answer": "Germany",
+          "display": "174,979 deaths"
+        },
+        {
+          "answer": "France",
+          "display": "168,207 deaths"
+        },
+        {
+          "answer": "Indonesia",
+          "display": "162,059 deaths"
+        },
+        {
+          "answer": "Iran",
+          "display": "146,837 deaths"
+        },
+        {
+          "answer": "Colombia",
+          "display": "142,824 deaths"
+        },
+        {
+          "answer": "Argentina",
+          "display": "130,859 deaths"
+        },
+        {
+          "answer": "China",
+          "display": "122,398 deaths"
+        }
+      ]
+    },
+    {
+      "category": "science/medicine/healthcare",
+      "question": "Top 10 countries by total health spending per person (PPP dollars, latest figures, mostly 2022)",
+      "cutoff": 10,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1371686302 | table 2 | name: Location | value: PPP | note: each country's latest year, which varies between 2021 and 2023",
+      "tags": [
+        "science",
+        "medicine",
+        "healthcare",
+        "spending"
+      ],
+      "answers": [
+        {
+          "answer": "United States",
+          "display": "$12,434 (PPP)",
+          "aliases": [
+            "US",
+            "USA",
+            "America"
+          ]
+        },
+        {
+          "answer": "Switzerland",
+          "display": "$10,668 (PPP)"
+        },
+        {
+          "answer": "Norway",
+          "display": "$9,927 (PPP)"
+        },
+        {
+          "answer": "Monaco",
+          "display": "$8,765 (PPP)"
+        },
+        {
+          "answer": "Ireland",
+          "display": "$8,298 (PPP)"
+        },
+        {
+          "answer": "Luxembourg",
+          "display": "$8,175 (PPP)"
+        },
+        {
+          "answer": "Austria",
+          "display": "$7,891 (PPP)"
+        },
+        {
+          "answer": "Germany",
+          "display": "$7,758 (PPP)"
+        },
+        {
+          "answer": "Sweden",
+          "display": "$7,659 (PPP)"
+        },
+        {
+          "answer": "Netherlands",
+          "display": "$7,576 (PPP)",
+          "aliases": [
+            "Holland"
+          ]
+        },
+        {
+          "answer": "Belgium",
+          "display": "$7,388 (PPP)"
+        },
+        {
+          "answer": "Australia",
+          "display": "$7,072 (PPP)"
+        },
+        {
+          "answer": "Denmark",
+          "display": "$7,012 (PPP)"
+        },
+        {
+          "answer": "France",
+          "display": "$6,853 (PPP)"
+        },
+        {
+          "answer": "Canada",
+          "display": "$6,813 (PPP)"
+        }
+      ]
+    },
+    {
+      "category": "science/medicine/drugs",
+      "question": "Top 7 best-selling drugs by global sales (2024)",
+      "cutoff": 7,
+      "difficulty": 3,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1360477027 | table 2 | name: Drug | value: Sales",
+      "tags": [
+        "science",
+        "medicine",
+        "drugs",
+        "pharmaceuticals",
+        "sales"
+      ],
+      "answers": [
+        {
+          "answer": "Keytruda",
+          "display": "$29.5 billion",
+          "aliases": [
+            "pembrolizumab"
+          ]
+        },
+        {
+          "answer": "Ozempic",
+          "display": "$17.5 billion",
+          "aliases": [
+            "semaglutide"
+          ]
+        },
+        {
+          "answer": "Dupixent",
+          "display": "$14.1 billion",
+          "aliases": [
+            "dupilumab"
+          ]
+        },
+        {
+          "answer": "Biktarvy",
+          "display": "$13.4 billion",
+          "aliases": [
+            "Bictegravir/emtricitabine/tenofovir alafenamide"
+          ]
+        },
+        {
+          "answer": "Eliquis",
+          "display": "$13.3 billion",
+          "aliases": [
+            "apixaban"
+          ]
+        },
+        {
+          "answer": "Skyrizi",
+          "display": "$11.7 billion",
+          "aliases": [
+            "risankizumab"
+          ]
+        },
+        {
+          "answer": "Darzalex",
+          "display": "$11.7 billion",
+          "aliases": [
+            "daratumumab"
+          ]
+        },
+        {
+          "answer": "Mounjaro",
+          "display": "$11.5 billion",
+          "aliases": [
+            "tirzepatide"
+          ]
+        },
+        {
+          "answer": "Stelara",
+          "display": "$10.4 billion",
+          "aliases": [
+            "ustekinumab"
+          ]
+        },
+        {
+          "answer": "Trikafta",
+          "display": "$10.2 billion",
+          "aliases": [
+            "Kaftrio",
+            "elexacaftor/tezacaftor/ivacaftor"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "science/medicine/drugs",
+      "question": "Top 10 drug companies by pharmaceutical revenue (2024)",
+      "cutoff": 10,
+      "difficulty": 1,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1378088677 | table 1 | name: Company | value: Pharma revenue",
+      "tags": [
+        "science",
+        "medicine",
+        "drugs",
+        "companies",
+        "pharmaceuticals"
+      ],
+      "answers": [
+        {
+          "answer": "Johnson & Johnson",
+          "display": "$88.8 billion",
+          "aliases": [
+            "J&J",
+            "Johnson and Johnson"
+          ]
+        },
+        {
+          "answer": "Roche",
+          "display": "$65.3 billion"
+        },
+        {
+          "answer": "Merck & Co",
+          "display": "$64.2 billion",
+          "aliases": [
+            "Merck",
+            "MSD"
+          ]
+        },
+        {
+          "answer": "Pfizer",
+          "display": "$63.6 billion"
+        },
+        {
+          "answer": "AbbVie",
+          "display": "$56.3 billion"
+        },
+        {
+          "answer": "AstraZeneca",
+          "display": "$54.1 billion"
+        },
+        {
+          "answer": "Novartis",
+          "display": "$50.3 billion"
+        },
+        {
+          "answer": "Bristol Myers Squibb",
+          "display": "$48.3 billion",
+          "aliases": [
+            "BMS"
+          ]
+        },
+        {
+          "answer": "Eli Lilly",
+          "display": "$45.0 billion",
+          "aliases": [
+            "Lilly"
+          ]
+        },
+        {
+          "answer": "Sanofi",
+          "display": "$44.5 billion"
+        },
+        {
+          "answer": "Novo Nordisk",
+          "display": "$42.1 billion",
+          "aliases": [
+            "Novo"
+          ]
+        },
+        {
+          "answer": "GSK",
+          "display": "$40.1 billion",
+          "aliases": [
+            "GlaxoSmithKline"
+          ]
+        },
+        {
+          "answer": "Amgen",
+          "display": "$33.4 billion"
+        },
+        {
+          "answer": "Takeda",
+          "display": "$30.9 billion"
+        },
+        {
+          "answer": "Boehringer Ingelheim",
+          "display": "$29.0 billion",
+          "aliases": [
+            "Boehringer",
+            "BI"
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1973 @@
+{
+  "categories": [
+    {
+      "path": "tv/us-ratings",
+      "name": "US TV ratings"
+    }
+  ],
+  "questions": [
+    {
+      "category": "tv/us-ratings",
+      "question": "Top 10 highest-rated US TV programs of the 1970–71 season (Nielsen ratings)",
+      "cutoff": 10,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1306492824 | table 1 | name: Program | value: Rank | order: asc",
+      "tags": [
+        "tv",
+        "nielsen",
+        "ratings"
+      ],
+      "answers": [
+        {
+          "answer": "Marcus Welby, M.D.",
+          "display": "#1 — ABC (29.6 rating)",
+          "aliases": [
+            "Marcus Welby"
+          ]
+        },
+        {
+          "answer": "The Flip Wilson Show",
+          "display": "#2 — NBC (27.9 rating)"
+        },
+        {
+          "answer": "Here's Lucy",
+          "display": "#3 — CBS (26.1 rating)",
+          "aliases": [
+            "Lucy"
+          ]
+        },
+        {
+          "answer": "Ironside",
+          "display": "#4 — NBC (25.7 rating)"
+        },
+        {
+          "answer": "Gunsmoke",
+          "display": "#5 — CBS (25.5 rating)"
+        },
+        {
+          "answer": "ABC Movie of the Week",
+          "display": "#6 — ABC (25.1 rating)"
+        },
+        {
+          "answer": "Hawaii Five-O",
+          "display": "#7 — CBS (25.0 rating)"
+        },
+        {
+          "answer": "Medical Center",
+          "display": "#8 — CBS (24.5 rating)"
+        },
+        {
+          "answer": "Bonanza",
+          "display": "#9 — NBC (23.9 rating)"
+        },
+        {
+          "answer": "The F.B.I.",
+          "display": "#10 — ABC (23.0 rating)"
+        },
+        {
+          "answer": "The Mod Squad",
+          "display": "#11 — ABC (22.7 rating)"
+        },
+        {
+          "answer": "Adam-12",
+          "display": "#12 — NBC (22.6 rating)"
+        },
+        {
+          "answer": "Rowan & Martin's Laugh-In",
+          "display": "#13 — NBC (22.4 rating)"
+        },
+        {
+          "answer": "The Wonderful World of Disney",
+          "display": "#13 — NBC (22.4 rating)"
+        }
+      ]
+    },
+    {
+      "category": "tv/us-ratings",
+      "question": "Top 9 highest-rated US TV programs of the 1971–72 season (Nielsen ratings)",
+      "cutoff": 9,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1306452792 | table 1 | name: Program | value: Rank | order: asc",
+      "tags": [
+        "tv",
+        "nielsen",
+        "ratings"
+      ],
+      "answers": [
+        {
+          "answer": "All in the Family",
+          "display": "#1 — CBS (34.0 rating)"
+        },
+        {
+          "answer": "The Flip Wilson Show",
+          "display": "#2 — NBC (28.2 rating)"
+        },
+        {
+          "answer": "Marcus Welby, M.D.",
+          "display": "#3 — ABC (27.8 rating)",
+          "aliases": [
+            "Marcus Welby"
+          ]
+        },
+        {
+          "answer": "Gunsmoke",
+          "display": "#4 — CBS (26.0 rating)"
+        },
+        {
+          "answer": "ABC Movie of the Week",
+          "display": "#5 — ABC (25.6 rating)"
+        },
+        {
+          "answer": "Sanford and Son",
+          "display": "#6 — NBC (25.2 rating)"
+        },
+        {
+          "answer": "Mannix",
+          "display": "#7 — CBS (24.8 rating)"
+        },
+        {
+          "answer": "Funny Face",
+          "display": "#8 — CBS (23.9 rating)"
+        },
+        {
+          "answer": "Adam-12",
+          "display": "#8 — NBC (23.9 rating)"
+        },
+        {
+          "answer": "The Mary Tyler Moore Show",
+          "display": "#10 — CBS (23.7 rating)",
+          "aliases": [
+            "Mary Tyler Moore"
+          ]
+        },
+        {
+          "answer": "Here's Lucy",
+          "display": "#10 — CBS (23.7 rating)",
+          "aliases": [
+            "Lucy"
+          ]
+        },
+        {
+          "answer": "Hawaii Five-O",
+          "display": "#12 — CBS (23.6 rating)"
+        }
+      ]
+    },
+    {
+      "category": "tv/us-ratings",
+      "question": "Top 10 highest-rated US TV programs of the 1972–73 season (Nielsen ratings)",
+      "cutoff": 10,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1308398393 | table 1 | name: Program | value: Rank | order: asc",
+      "tags": [
+        "tv",
+        "nielsen",
+        "ratings"
+      ],
+      "answers": [
+        {
+          "answer": "All in the Family",
+          "display": "#1 — CBS (33.3 rating)"
+        },
+        {
+          "answer": "Sanford and Son",
+          "display": "#2 — NBC (27.6 rating)"
+        },
+        {
+          "answer": "Hawaii Five-O",
+          "display": "#3 — CBS (25.2 rating)"
+        },
+        {
+          "answer": "Maude",
+          "display": "#4 — CBS (24.7 rating)"
+        },
+        {
+          "answer": "Bridget Loves Bernie",
+          "display": "#5 — CBS (24.2 rating)"
+        },
+        {
+          "answer": "The NBC Sunday Mystery Movie",
+          "display": "#5 — NBC (24.2 rating)"
+        },
+        {
+          "answer": "The Mary Tyler Moore Show",
+          "display": "#7 — CBS (23.6 rating)",
+          "aliases": [
+            "Mary Tyler Moore"
+          ]
+        },
+        {
+          "answer": "Gunsmoke",
+          "display": "#7 — CBS (23.6 rating)"
+        },
+        {
+          "answer": "The Wonderful World of Disney",
+          "display": "#9 — NBC (23.5 rating)"
+        },
+        {
+          "answer": "Ironside",
+          "display": "#10 — NBC (23.4 rating)"
+        },
+        {
+          "answer": "Adam-12",
+          "display": "#11 — NBC (23.3 rating)"
+        },
+        {
+          "answer": "The Flip Wilson Show",
+          "display": "#12 — NBC (23.1 rating)"
+        },
+        {
+          "answer": "Marcus Welby, M.D.",
+          "display": "#13 — ABC (22.9 rating)",
+          "aliases": [
+            "Marcus Welby"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "tv/us-ratings",
+      "question": "Top 10 highest-rated US TV programs of the 1973–74 season (Nielsen ratings)",
+      "cutoff": 10,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1306303632 | table 1 | name: Program | value: Rank | order: asc",
+      "tags": [
+        "tv",
+        "nielsen",
+        "ratings"
+      ],
+      "answers": [
+        {
+          "answer": "All in the Family",
+          "display": "#1 — CBS (31.2 rating)"
+        },
+        {
+          "answer": "The Waltons",
+          "display": "#2 — CBS (28.1 rating)"
+        },
+        {
+          "answer": "Sanford and Son",
+          "display": "#3 — NBC (27.5 rating)"
+        },
+        {
+          "answer": "M*A*S*H",
+          "display": "#4 — CBS (25.7 rating)",
+          "aliases": [
+            "MASH"
+          ]
+        },
+        {
+          "answer": "Hawaii Five-O",
+          "display": "#5 — CBS (24.0 rating)"
+        },
+        {
+          "answer": "Maude",
+          "display": "#6 — CBS (23.5 rating)"
+        },
+        {
+          "answer": "Kojak",
+          "display": "#7 — CBS (23.3 rating)"
+        },
+        {
+          "answer": "The Sonny & Cher Comedy Hour",
+          "display": "#7 — CBS (23.3 rating)"
+        },
+        {
+          "answer": "The Mary Tyler Moore Show",
+          "display": "#9 — CBS (23.1 rating)",
+          "aliases": [
+            "Mary Tyler Moore"
+          ]
+        },
+        {
+          "answer": "Cannon",
+          "display": "#9 — CBS (23.1 rating)"
+        },
+        {
+          "answer": "The Six Million Dollar Man",
+          "display": "#11 — ABC (22.7 rating)"
+        },
+        {
+          "answer": "The Bob Newhart Show",
+          "display": "#12 — CBS (22.3 rating)"
+        },
+        {
+          "answer": "The Wonderful World of Disney",
+          "display": "#12 — NBC (22.3 rating)"
+        }
+      ]
+    },
+    {
+      "category": "tv/us-ratings",
+      "question": "Top 10 highest-rated US TV programs of the 1974–75 season (Nielsen ratings)",
+      "cutoff": 10,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1363771347 | table 1 | name: Program | value: Rank | order: asc",
+      "tags": [
+        "tv",
+        "nielsen",
+        "ratings"
+      ],
+      "answers": [
+        {
+          "answer": "All in the Family",
+          "display": "#1 — CBS (30.2 rating)"
+        },
+        {
+          "answer": "Sanford and Son",
+          "display": "#2 — NBC (29.6 rating)"
+        },
+        {
+          "answer": "Chico and the Man",
+          "display": "#3 — NBC (28.5 rating)"
+        },
+        {
+          "answer": "The Jeffersons",
+          "display": "#4 — CBS (27.6 rating)"
+        },
+        {
+          "answer": "M*A*S*H",
+          "display": "#5 — CBS (27.4 rating)",
+          "aliases": [
+            "MASH"
+          ]
+        },
+        {
+          "answer": "Rhoda",
+          "display": "#6 — CBS (26.3 rating)"
+        },
+        {
+          "answer": "Good Times",
+          "display": "#7 — CBS (25.8 rating)"
+        },
+        {
+          "answer": "The Waltons",
+          "display": "#8 — CBS (25.5 rating)"
+        },
+        {
+          "answer": "Maude",
+          "display": "#9 — CBS (24.9 rating)"
+        },
+        {
+          "answer": "Hawaii Five-O",
+          "display": "#10 — CBS (24.8 rating)"
+        },
+        {
+          "answer": "The Mary Tyler Moore Show",
+          "display": "#11 — CBS (24.0 rating)",
+          "aliases": [
+            "Mary Tyler Moore"
+          ]
+        },
+        {
+          "answer": "The Rockford Files",
+          "display": "#12 — NBC (23.7 rating)"
+        },
+        {
+          "answer": "Little House on the Prairie",
+          "display": "#13 — NBC (23.5 rating)",
+          "aliases": [
+            "Little House"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "tv/us-ratings",
+      "question": "Top 10 highest-rated US TV programs of the 1975–76 season (Nielsen ratings)",
+      "cutoff": 10,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1306310283 | table 1 | name: Program | value: Rank | order: asc",
+      "tags": [
+        "tv",
+        "nielsen",
+        "ratings"
+      ],
+      "answers": [
+        {
+          "answer": "All in the Family",
+          "display": "#1 — CBS (30.1 rating)"
+        },
+        {
+          "answer": "Rich Man, Poor Man",
+          "display": "#2 — ABC (28.0 rating)"
+        },
+        {
+          "answer": "Laverne & Shirley",
+          "display": "#3 — ABC (27.5 rating)",
+          "aliases": [
+            "Laverne and Shirley"
+          ]
+        },
+        {
+          "answer": "Maude",
+          "display": "#4 — CBS (25.0 rating)"
+        },
+        {
+          "answer": "The Bionic Woman",
+          "display": "#5 — ABC (24.9 rating)"
+        },
+        {
+          "answer": "Phyllis",
+          "display": "#6 — CBS (24.5 rating)"
+        },
+        {
+          "answer": "Sanford and Son",
+          "display": "#7 — NBC (24.4 rating)"
+        },
+        {
+          "answer": "Rhoda",
+          "display": "#7 — CBS (24.4 rating)"
+        },
+        {
+          "answer": "The Six Million Dollar Man",
+          "display": "#9 — ABC (24.3 rating)"
+        },
+        {
+          "answer": "ABC Monday Night Movie",
+          "display": "#10 — ABC (24.2 rating)",
+          "aliases": [
+            "Monday Night Movie"
+          ]
+        },
+        {
+          "answer": "Happy Days",
+          "display": "#11 — ABC (23.9 rating)"
+        },
+        {
+          "answer": "One Day at a Time",
+          "display": "#12 — CBS (23.1 rating)"
+        },
+        {
+          "answer": "ABC Sunday Night Movie",
+          "display": "#13 — ABC (23.0 rating)",
+          "aliases": [
+            "Sunday Night Movie"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "tv/us-ratings",
+      "question": "Top 10 highest-rated US TV programs of the 1976–77 season (Nielsen ratings)",
+      "cutoff": 10,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1363771350 | table 1 | name: Program | value: Rank | order: asc",
+      "tags": [
+        "tv",
+        "nielsen",
+        "ratings"
+      ],
+      "answers": [
+        {
+          "answer": "Happy Days",
+          "display": "#1 — ABC (31.5 rating)"
+        },
+        {
+          "answer": "Laverne & Shirley",
+          "display": "#2 — ABC (30.9 rating)",
+          "aliases": [
+            "Laverne and Shirley"
+          ]
+        },
+        {
+          "answer": "ABC Monday Night Movie",
+          "display": "#3 — ABC (26.0 rating)",
+          "aliases": [
+            "Monday Night Movie"
+          ]
+        },
+        {
+          "answer": "M*A*S*H",
+          "display": "#4 — CBS (25.9 rating)",
+          "aliases": [
+            "MASH"
+          ]
+        },
+        {
+          "answer": "Charlie's Angels",
+          "display": "#5 — ABC (25.8 rating)"
+        },
+        {
+          "answer": "The Big Event",
+          "display": "#6 — NBC (24.4 rating)"
+        },
+        {
+          "answer": "The Six Million Dollar Man",
+          "display": "#7 — ABC (24.2 rating)"
+        },
+        {
+          "answer": "ABC Sunday Night Movie",
+          "display": "#8 — ABC (23.4 rating)",
+          "aliases": [
+            "Sunday Night Movie"
+          ]
+        },
+        {
+          "answer": "Baretta",
+          "display": "#8 — ABC (23.4 rating)"
+        },
+        {
+          "answer": "One Day at a Time",
+          "display": "#8 — CBS (23.4 rating)"
+        },
+        {
+          "answer": "Three's Company",
+          "display": "#11 — ABC (23.1 rating)"
+        },
+        {
+          "answer": "All in the Family",
+          "display": "#12 — CBS (22.9 rating)"
+        },
+        {
+          "answer": "Welcome Back, Kotter",
+          "display": "#13 — ABC (22.7 rating)"
+        }
+      ]
+    },
+    {
+      "category": "tv/us-ratings",
+      "question": "Top 10 highest-rated US TV programs of the 1977–78 season (Nielsen ratings)",
+      "cutoff": 10,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1363771352 | table 1 | name: Program | value: Rank | order: asc",
+      "tags": [
+        "tv",
+        "nielsen",
+        "ratings"
+      ],
+      "answers": [
+        {
+          "answer": "Laverne & Shirley",
+          "display": "#1 — ABC (31.6 rating)",
+          "aliases": [
+            "Laverne and Shirley"
+          ]
+        },
+        {
+          "answer": "Happy Days",
+          "display": "#2 — ABC (31.4 rating)"
+        },
+        {
+          "answer": "Three's Company",
+          "display": "#3 — ABC (28.3 rating)"
+        },
+        {
+          "answer": "60 Minutes",
+          "display": "#4 — CBS (24.4 rating)",
+          "aliases": [
+            "Sixty Minutes"
+          ]
+        },
+        {
+          "answer": "Charlie's Angels",
+          "display": "#4 — ABC (24.4 rating)"
+        },
+        {
+          "answer": "All in the Family",
+          "display": "#4 — CBS (24.4 rating)"
+        },
+        {
+          "answer": "Little House on the Prairie",
+          "display": "#7 — NBC (24.1 rating)",
+          "aliases": [
+            "Little House"
+          ]
+        },
+        {
+          "answer": "Alice",
+          "display": "#8 — CBS (23.2 rating)"
+        },
+        {
+          "answer": "M*A*S*H",
+          "display": "#8 — CBS (23.2 rating)",
+          "aliases": [
+            "MASH"
+          ]
+        },
+        {
+          "answer": "One Day at a Time",
+          "display": "#10 — CBS (23.0 rating)"
+        },
+        {
+          "answer": "How the West Was Won",
+          "display": "#11 — ABC (22.5 rating)"
+        },
+        {
+          "answer": "Eight Is Enough",
+          "display": "#12 — ABC (22.2 rating)"
+        },
+        {
+          "answer": "Soap",
+          "display": "#13 — ABC (22.0 rating)"
+        }
+      ]
+    },
+    {
+      "category": "tv/us-ratings",
+      "question": "Top 10 highest-rated US TV programs of the 1978–79 season (Nielsen ratings)",
+      "cutoff": 10,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1363771356 | table 1 | name: Program | value: Rank | order: asc",
+      "tags": [
+        "tv",
+        "nielsen",
+        "ratings"
+      ],
+      "answers": [
+        {
+          "answer": "Laverne & Shirley",
+          "display": "#1 — ABC (30.5 rating)",
+          "aliases": [
+            "Laverne and Shirley"
+          ]
+        },
+        {
+          "answer": "Three's Company",
+          "display": "#2 — ABC (30.3 rating)"
+        },
+        {
+          "answer": "Mork & Mindy",
+          "display": "#3 — ABC (28.6 rating)",
+          "aliases": [
+            "Mork and Mindy"
+          ]
+        },
+        {
+          "answer": "Happy Days",
+          "display": "#3 — ABC (28.6 rating)"
+        },
+        {
+          "answer": "Angie",
+          "display": "#5 — ABC (26.7 rating)"
+        },
+        {
+          "answer": "60 Minutes",
+          "display": "#6 — CBS (25.5 rating)",
+          "aliases": [
+            "Sixty Minutes"
+          ]
+        },
+        {
+          "answer": "M*A*S*H",
+          "display": "#7 — CBS (25.4 rating)",
+          "aliases": [
+            "MASH"
+          ]
+        },
+        {
+          "answer": "The Ropers",
+          "display": "#8 — ABC (25.2 rating)"
+        },
+        {
+          "answer": "All in the Family",
+          "display": "#9 — CBS (24.9 rating)"
+        },
+        {
+          "answer": "Taxi",
+          "display": "#9 — ABC (24.9 rating)"
+        },
+        {
+          "answer": "Eight Is Enough",
+          "display": "#11 — ABC (24.8 rating)"
+        },
+        {
+          "answer": "Charlie's Angels",
+          "display": "#12 — ABC (24.4 rating)"
+        },
+        {
+          "answer": "Alice",
+          "display": "#13 — CBS (23.2 rating)"
+        }
+      ]
+    },
+    {
+      "category": "tv/us-ratings",
+      "question": "Top 10 highest-rated US TV programs of the 1979–80 season (Nielsen ratings)",
+      "cutoff": 10,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1363771360 | table 1 | name: Program | value: Rank | order: asc",
+      "tags": [
+        "tv",
+        "nielsen",
+        "ratings"
+      ],
+      "answers": [
+        {
+          "answer": "60 Minutes",
+          "display": "#1 — CBS (28.4 rating)",
+          "aliases": [
+            "Sixty Minutes"
+          ]
+        },
+        {
+          "answer": "Three's Company",
+          "display": "#2 — ABC (26.3 rating)"
+        },
+        {
+          "answer": "That's Incredible!",
+          "display": "#3 — ABC (25.8 rating)"
+        },
+        {
+          "answer": "Alice",
+          "display": "#4 — CBS (25.3 rating)"
+        },
+        {
+          "answer": "M*A*S*H",
+          "display": "#4 — CBS (25.3 rating)",
+          "aliases": [
+            "MASH"
+          ]
+        },
+        {
+          "answer": "Dallas",
+          "display": "#6 — CBS (25.0 rating)"
+        },
+        {
+          "answer": "Flo",
+          "display": "#7 — CBS (24.4 rating)"
+        },
+        {
+          "answer": "The Jeffersons",
+          "display": "#8 — CBS (24.3 rating)"
+        },
+        {
+          "answer": "The Dukes of Hazzard",
+          "display": "#9 — CBS (24.1 rating)",
+          "aliases": [
+            "Dukes of Hazzard"
+          ]
+        },
+        {
+          "answer": "One Day at a Time",
+          "display": "#10 — CBS (23.0 rating)"
+        },
+        {
+          "answer": "Archie Bunker's Place",
+          "display": "#11 — CBS (22.9 rating)"
+        },
+        {
+          "answer": "Eight Is Enough",
+          "display": "#12 — ABC (22.8 rating)"
+        },
+        {
+          "answer": "Taxi",
+          "display": "#13 — ABC (22.4 rating)"
+        }
+      ]
+    },
+    {
+      "category": "tv/us-ratings",
+      "question": "Top 10 highest-rated US TV programs of the 1980–81 season (Nielsen ratings)",
+      "cutoff": 10,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1363771362 | table 1 | name: Program | value: Rank | order: asc",
+      "tags": [
+        "tv",
+        "nielsen",
+        "ratings"
+      ],
+      "answers": [
+        {
+          "answer": "Dallas",
+          "display": "#1 — CBS (34.5 rating)"
+        },
+        {
+          "answer": "The Dukes of Hazzard",
+          "display": "#2 — CBS (27.3 rating)",
+          "aliases": [
+            "Dukes of Hazzard"
+          ]
+        },
+        {
+          "answer": "60 Minutes",
+          "display": "#3 — CBS (27.0 rating)",
+          "aliases": [
+            "Sixty Minutes"
+          ]
+        },
+        {
+          "answer": "M*A*S*H",
+          "display": "#4 — CBS (25.7 rating)",
+          "aliases": [
+            "MASH"
+          ]
+        },
+        {
+          "answer": "The Love Boat",
+          "display": "#5 — ABC (24.3 rating)",
+          "aliases": [
+            "Love Boat"
+          ]
+        },
+        {
+          "answer": "The Jeffersons",
+          "display": "#6 — CBS (23.5 rating)"
+        },
+        {
+          "answer": "Alice",
+          "display": "#7 — CBS (22.9 rating)"
+        },
+        {
+          "answer": "House Calls",
+          "display": "#8 — CBS (22.4 rating)"
+        },
+        {
+          "answer": "Three's Company",
+          "display": "#8 — ABC (22.4 rating)"
+        },
+        {
+          "answer": "Little House on the Prairie",
+          "display": "#10 — NBC (22.1 rating)",
+          "aliases": [
+            "Little House"
+          ]
+        },
+        {
+          "answer": "One Day at a Time",
+          "display": "#11 — CBS (22.0 rating)"
+        },
+        {
+          "answer": "Real People",
+          "display": "#12 — NBC (21.5 rating)"
+        },
+        {
+          "answer": "Archie Bunker's Place",
+          "display": "#13 — CBS (21.4 rating)"
+        }
+      ]
+    },
+    {
+      "category": "tv/us-ratings",
+      "question": "Top 10 highest-rated US TV programs of the 1981–82 season (Nielsen ratings)",
+      "cutoff": 10,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1363771365 | table 1 | name: Program | value: Rank | order: asc",
+      "tags": [
+        "tv",
+        "nielsen",
+        "ratings"
+      ],
+      "answers": [
+        {
+          "answer": "Dallas",
+          "display": "#1 — CBS (28.4 rating)"
+        },
+        {
+          "answer": "60 Minutes",
+          "display": "#2 — CBS (27.7 rating)",
+          "aliases": [
+            "Sixty Minutes"
+          ]
+        },
+        {
+          "answer": "The Jeffersons",
+          "display": "#3 — CBS (23.4 rating)"
+        },
+        {
+          "answer": "Three's Company",
+          "display": "#4 — ABC (23.3 rating)"
+        },
+        {
+          "answer": "Alice",
+          "display": "#5 — CBS (22.7 rating)"
+        },
+        {
+          "answer": "The Dukes of Hazzard",
+          "display": "#6 — CBS (22.6 rating)",
+          "aliases": [
+            "Dukes of Hazzard"
+          ]
+        },
+        {
+          "answer": "Too Close for Comfort",
+          "display": "#6 — ABC (22.6 rating)"
+        },
+        {
+          "answer": "ABC Monday Night Movie",
+          "display": "#8 — ABC (22.5 rating)"
+        },
+        {
+          "answer": "M*A*S*H",
+          "display": "#9 — CBS (22.3 rating)",
+          "aliases": [
+            "MASH"
+          ]
+        },
+        {
+          "answer": "One Day at a Time",
+          "display": "#10 — CBS (22.0 rating)"
+        },
+        {
+          "answer": "Monday Night Football",
+          "display": "#11 — ABC (21.8 rating)",
+          "aliases": [
+            "MNF"
+          ]
+        },
+        {
+          "answer": "Archie Bunker's Place",
+          "display": "#12 — CBS (21.6 rating)"
+        },
+        {
+          "answer": "Falcon Crest",
+          "display": "#13 — CBS (21.4 rating)"
+        }
+      ]
+    },
+    {
+      "category": "tv/us-ratings",
+      "question": "Top 9 highest-rated US TV programs of the 1982–83 season (Nielsen ratings)",
+      "cutoff": 9,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1363771367 | table 1 | name: Program | value: Rank | order: asc",
+      "tags": [
+        "tv",
+        "nielsen",
+        "ratings"
+      ],
+      "answers": [
+        {
+          "answer": "60 Minutes",
+          "display": "#1 — CBS (25.5 rating)",
+          "aliases": [
+            "Sixty Minutes"
+          ]
+        },
+        {
+          "answer": "Dallas",
+          "display": "#2 — CBS (24.6 rating)"
+        },
+        {
+          "answer": "M*A*S*H",
+          "display": "#3 — CBS (22.6 rating)",
+          "aliases": [
+            "MASH"
+          ]
+        },
+        {
+          "answer": "Magnum, P.I.",
+          "display": "#3 — CBS (22.6 rating)",
+          "aliases": [
+            "Magnum"
+          ]
+        },
+        {
+          "answer": "Dynasty",
+          "display": "#5 — ABC (22.4 rating)"
+        },
+        {
+          "answer": "Three's Company",
+          "display": "#6 — ABC (21.2 rating)"
+        },
+        {
+          "answer": "Simon & Simon",
+          "display": "#7 — CBS (21.0 rating)"
+        },
+        {
+          "answer": "Falcon Crest",
+          "display": "#8 — CBS (20.7 rating)"
+        },
+        {
+          "answer": "The Love Boat",
+          "display": "#9 — ABC (20.3 rating)",
+          "aliases": [
+            "Love Boat"
+          ]
+        },
+        {
+          "answer": "The A-Team",
+          "display": "#10 — NBC (20.1 rating)",
+          "aliases": [
+            "A-Team"
+          ]
+        },
+        {
+          "answer": "Monday Night Football",
+          "display": "#10 — ABC (20.1 rating)",
+          "aliases": [
+            "MNF"
+          ]
+        },
+        {
+          "answer": "The Jeffersons",
+          "display": "#12 — CBS (20.0 rating)"
+        },
+        {
+          "answer": "Newhart",
+          "display": "#12 — CBS (20.0 rating)"
+        }
+      ]
+    },
+    {
+      "category": "tv/us-ratings",
+      "question": "Top 10 highest-rated US TV programs of the 1983–84 season (Nielsen ratings)",
+      "cutoff": 10,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1306303572 | table 1 | name: Program | value: Rank | order: asc",
+      "tags": [
+        "tv",
+        "nielsen",
+        "ratings"
+      ],
+      "answers": [
+        {
+          "answer": "Dallas",
+          "display": "#1 — CBS (25.7 rating)"
+        },
+        {
+          "answer": "60 Minutes",
+          "display": "#2 — CBS (24.2 rating)",
+          "aliases": [
+            "Sixty Minutes"
+          ]
+        },
+        {
+          "answer": "Dynasty",
+          "display": "#3 — ABC (24.1 rating)"
+        },
+        {
+          "answer": "The A-Team",
+          "display": "#4 — NBC (24.0 rating)",
+          "aliases": [
+            "A-Team"
+          ]
+        },
+        {
+          "answer": "Simon & Simon",
+          "display": "#5 — CBS (23.8 rating)"
+        },
+        {
+          "answer": "Magnum, P.I.",
+          "display": "#6 — CBS (22.4 rating)",
+          "aliases": [
+            "Magnum"
+          ]
+        },
+        {
+          "answer": "Falcon Crest",
+          "display": "#7 — CBS (22.0 rating)"
+        },
+        {
+          "answer": "Kate & Allie",
+          "display": "#8 — CBS (21.9 rating)",
+          "aliases": [
+            "Kate and Allie"
+          ]
+        },
+        {
+          "answer": "Hotel",
+          "display": "#9 — ABC (21.1 rating)"
+        },
+        {
+          "answer": "Cagney & Lacey",
+          "display": "#10 — CBS (20.9 rating)",
+          "aliases": [
+            "Cagney and Lacey"
+          ]
+        },
+        {
+          "answer": "Knots Landing",
+          "display": "#11 — CBS (20.8 rating)"
+        },
+        {
+          "answer": "ABC Sunday Night Movie",
+          "display": "#12 — ABC (20.4 rating)",
+          "aliases": [
+            "Sunday Night Movie"
+          ]
+        },
+        {
+          "answer": "ABC Monday Night Movie",
+          "display": "#12 — ABC (20.4 rating)",
+          "aliases": [
+            "Monday Night Movie"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "tv/us-ratings",
+      "question": "Top 9 highest-rated US TV programs of the 1984–85 season (Nielsen ratings)",
+      "cutoff": 9,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1308398390 | table 1 | name: Program | value: Rank | order: asc",
+      "tags": [
+        "tv",
+        "nielsen",
+        "ratings"
+      ],
+      "answers": [
+        {
+          "answer": "Dynasty",
+          "display": "#1 — ABC (25.0 rating)"
+        },
+        {
+          "answer": "Dallas",
+          "display": "#2 — CBS (24.7 rating)"
+        },
+        {
+          "answer": "The Cosby Show",
+          "display": "#3 — NBC (24.2 rating)",
+          "aliases": [
+            "Cosby"
+          ]
+        },
+        {
+          "answer": "60 Minutes",
+          "display": "#4 — CBS (22.2 rating)",
+          "aliases": [
+            "Sixty Minutes"
+          ]
+        },
+        {
+          "answer": "Family Ties",
+          "display": "#5 — NBC (22.1 rating)"
+        },
+        {
+          "answer": "The A-Team",
+          "display": "#6 — NBC (21.9 rating)",
+          "aliases": [
+            "A-Team"
+          ]
+        },
+        {
+          "answer": "Simon & Simon",
+          "display": "#7 — CBS (21.8 rating)"
+        },
+        {
+          "answer": "Murder, She Wrote",
+          "display": "#8 — CBS (20.1 rating)",
+          "aliases": [
+            "Murder She Wrote"
+          ]
+        },
+        {
+          "answer": "Knots Landing",
+          "display": "#9 — CBS (20.0 rating)"
+        },
+        {
+          "answer": "Falcon Crest",
+          "display": "#10 — CBS (19.9 rating)"
+        },
+        {
+          "answer": "Crazy Like a Fox",
+          "display": "#10 — CBS (19.9 rating)"
+        },
+        {
+          "answer": "Hotel",
+          "display": "#12 — ABC (19.7 rating)"
+        },
+        {
+          "answer": "Cheers",
+          "display": "#12 — NBC (19.7 rating)"
+        }
+      ]
+    },
+    {
+      "category": "tv/us-ratings",
+      "question": "Top 10 highest-rated US TV programs of the 1985–86 season (Nielsen ratings)",
+      "cutoff": 10,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1347800738 | table 1 | name: Program | value: Rank | order: asc",
+      "tags": [
+        "tv",
+        "nielsen",
+        "ratings"
+      ],
+      "answers": [
+        {
+          "answer": "The Cosby Show",
+          "display": "#1 — NBC (33.7 rating)",
+          "aliases": [
+            "Cosby"
+          ]
+        },
+        {
+          "answer": "Family Ties",
+          "display": "#2 — NBC (30.0 rating)"
+        },
+        {
+          "answer": "Murder, She Wrote",
+          "display": "#3 — CBS (25.3 rating)",
+          "aliases": [
+            "Murder She Wrote"
+          ]
+        },
+        {
+          "answer": "60 Minutes",
+          "display": "#4 — CBS (23.9 rating)",
+          "aliases": [
+            "Sixty Minutes"
+          ]
+        },
+        {
+          "answer": "Cheers",
+          "display": "#5 — NBC (23.7 rating)"
+        },
+        {
+          "answer": "Dallas",
+          "display": "#6 — CBS (21.9 rating)"
+        },
+        {
+          "answer": "Dynasty",
+          "display": "#7 — ABC (21.8 rating)"
+        },
+        {
+          "answer": "The Golden Girls",
+          "display": "#7 — NBC (21.8 rating)",
+          "aliases": [
+            "Golden Girls"
+          ]
+        },
+        {
+          "answer": "Miami Vice",
+          "display": "#9 — NBC (21.3 rating)"
+        },
+        {
+          "answer": "Who's the Boss?",
+          "display": "#10 — ABC (21.1 rating)"
+        },
+        {
+          "answer": "Night Court",
+          "display": "#11 — NBC (20.9 rating)"
+        },
+        {
+          "answer": "CBS Sunday Night Movie",
+          "display": "#12 — CBS (20.5 rating)"
+        },
+        {
+          "answer": "Highway to Heaven",
+          "display": "#13 — NBC (20.1 rating)"
+        }
+      ]
+    },
+    {
+      "category": "tv/us-ratings",
+      "question": "Top 10 highest-rated US TV programs of the 1986–87 season (Nielsen ratings)",
+      "cutoff": 10,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1287906218 | table 1 | name: Program | value: Rank | order: asc",
+      "tags": [
+        "tv",
+        "nielsen",
+        "ratings"
+      ],
+      "answers": [
+        {
+          "answer": "The Cosby Show",
+          "display": "#1 — NBC (34.9 rating)",
+          "aliases": [
+            "Cosby"
+          ]
+        },
+        {
+          "answer": "Family Ties",
+          "display": "#2 — NBC (32.7 rating)"
+        },
+        {
+          "answer": "Cheers",
+          "display": "#3 — NBC (27.2 rating)"
+        },
+        {
+          "answer": "Murder, She Wrote",
+          "display": "#4 — CBS (25.4 rating)",
+          "aliases": [
+            "Murder She Wrote"
+          ]
+        },
+        {
+          "answer": "The Golden Girls",
+          "display": "#5 — NBC (24.5 rating)",
+          "aliases": [
+            "Golden Girls"
+          ]
+        },
+        {
+          "answer": "60 Minutes",
+          "display": "#6 — CBS (23.3 rating)",
+          "aliases": [
+            "Sixty Minutes"
+          ]
+        },
+        {
+          "answer": "Night Court",
+          "display": "#7 — NBC (23.2 rating)"
+        },
+        {
+          "answer": "Growing Pains",
+          "display": "#8 — ABC (22.7 rating)"
+        },
+        {
+          "answer": "Moonlighting",
+          "display": "#9 — ABC (22.4 rating)"
+        },
+        {
+          "answer": "Who's the Boss?",
+          "display": "#10 — ABC (22.0 rating)"
+        },
+        {
+          "answer": "Dallas",
+          "display": "#11 — CBS (21.3 rating)"
+        },
+        {
+          "answer": "Newhart",
+          "display": "#12 — CBS (19.5 rating)"
+        },
+        {
+          "answer": "Amen",
+          "display": "#13 — NBC (19.4 rating)"
+        }
+      ]
+    },
+    {
+      "category": "tv/us-ratings",
+      "question": "Top 9 highest-rated US TV programs of the 1987–88 season (Nielsen ratings)",
+      "cutoff": 9,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1341150204 | table 1 | name: Program | value: Rank | order: asc",
+      "tags": [
+        "tv",
+        "nielsen",
+        "ratings"
+      ],
+      "answers": [
+        {
+          "answer": "The Cosby Show",
+          "display": "#1 — NBC (27.8 rating)",
+          "aliases": [
+            "Cosby"
+          ]
+        },
+        {
+          "answer": "A Different World",
+          "display": "#2 — NBC (25.0 rating)"
+        },
+        {
+          "answer": "Cheers",
+          "display": "#3 — NBC (23.4 rating)"
+        },
+        {
+          "answer": "The Golden Girls",
+          "display": "#4 — NBC (21.8 rating)",
+          "aliases": [
+            "Golden Girls"
+          ]
+        },
+        {
+          "answer": "Growing Pains",
+          "display": "#5 — ABC (21.3 rating)"
+        },
+        {
+          "answer": "Who's the Boss?",
+          "display": "#6 — ABC (21.2 rating)"
+        },
+        {
+          "answer": "Night Court",
+          "display": "#7 — NBC (20.8 rating)"
+        },
+        {
+          "answer": "60 Minutes",
+          "display": "#8 — CBS (20.6 rating)",
+          "aliases": [
+            "Sixty Minutes"
+          ]
+        },
+        {
+          "answer": "Murder, She Wrote",
+          "display": "#9 — CBS (20.2 rating)",
+          "aliases": [
+            "Murder She Wrote"
+          ]
+        },
+        {
+          "answer": "ALF",
+          "display": "#10 — NBC (18.8 rating)"
+        },
+        {
+          "answer": "The Wonder Years",
+          "display": "#10 — ABC (18.8 rating)"
+        },
+        {
+          "answer": "Moonlighting",
+          "display": "#12 — ABC (18.3 rating)"
+        },
+        {
+          "answer": "L.A. Law",
+          "display": "#12 — NBC (18.3 rating)",
+          "aliases": [
+            "LA Law"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "tv/us-ratings",
+      "question": "Top 10 highest-rated US TV programs of the 1988–89 season (Nielsen ratings)",
+      "cutoff": 10,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1306303561 | table 1 | name: Program | value: Rank | order: asc",
+      "tags": [
+        "tv",
+        "nielsen",
+        "ratings"
+      ],
+      "answers": [
+        {
+          "answer": "The Cosby Show",
+          "display": "#1 — NBC (25.6 rating)",
+          "aliases": [
+            "Cosby"
+          ]
+        },
+        {
+          "answer": "Roseanne",
+          "display": "#2 — ABC (23.8 rating)"
+        },
+        {
+          "answer": "A Different World",
+          "display": "#3 — NBC (23.0 rating)"
+        },
+        {
+          "answer": "Cheers",
+          "display": "#4 — NBC (22.3 rating)"
+        },
+        {
+          "answer": "60 Minutes",
+          "display": "#5 — CBS (21.7 rating)",
+          "aliases": [
+            "Sixty Minutes"
+          ]
+        },
+        {
+          "answer": "The Golden Girls",
+          "display": "#6 — NBC (21.4 rating)",
+          "aliases": [
+            "Golden Girls"
+          ]
+        },
+        {
+          "answer": "Who's the Boss?",
+          "display": "#7 — ABC (20.8 rating)"
+        },
+        {
+          "answer": "Murder, She Wrote",
+          "display": "#8 — CBS (19.9 rating)",
+          "aliases": [
+            "Murder She Wrote"
+          ]
+        },
+        {
+          "answer": "Empty Nest",
+          "display": "#9 — NBC (19.2 rating)"
+        },
+        {
+          "answer": "Anything but Love",
+          "display": "#10 — ABC (19.0 rating)"
+        },
+        {
+          "answer": "Dear John",
+          "display": "#11 — NBC (18.5 rating)"
+        },
+        {
+          "answer": "Matlock",
+          "display": "#12 — NBC (17.7 rating)"
+        },
+        {
+          "answer": "L.A. Law",
+          "display": "#13 — NBC (17.6 rating)",
+          "aliases": [
+            "LA Law"
+          ]
+        },
+        {
+          "answer": "Growing Pains",
+          "display": "#13 — ABC (17.6 rating)"
+        }
+      ]
+    },
+    {
+      "category": "tv/us-ratings",
+      "question": "Top 10 highest-rated US TV programs of the 1989–90 season (Nielsen ratings)",
+      "cutoff": 10,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1306303465 | table 1 | name: Program | value: Rank | order: asc",
+      "tags": [
+        "tv",
+        "nielsen",
+        "ratings"
+      ],
+      "answers": [
+        {
+          "answer": "The Cosby Show",
+          "display": "#1 — NBC (23.1 rating)",
+          "aliases": [
+            "Cosby"
+          ]
+        },
+        {
+          "answer": "Roseanne",
+          "display": "#1 — ABC (23.1 rating)"
+        },
+        {
+          "answer": "Cheers",
+          "display": "#3 — NBC (22.7 rating)"
+        },
+        {
+          "answer": "A Different World",
+          "display": "#4 — NBC (21.1 rating)"
+        },
+        {
+          "answer": "America's Funniest Home Videos",
+          "display": "#5 — ABC (20.9 rating)"
+        },
+        {
+          "answer": "The Golden Girls",
+          "display": "#6 — NBC (20.1 rating)",
+          "aliases": [
+            "Golden Girls"
+          ]
+        },
+        {
+          "answer": "60 Minutes",
+          "display": "#7 — CBS (19.7 rating)",
+          "aliases": [
+            "Sixty Minutes"
+          ]
+        },
+        {
+          "answer": "The Wonder Years",
+          "display": "#8 — ABC (19.2 rating)"
+        },
+        {
+          "answer": "Empty Nest",
+          "display": "#9 — NBC (18.9 rating)"
+        },
+        {
+          "answer": "Monday Night Football",
+          "display": "#10 — ABC (18.1 rating)",
+          "aliases": [
+            "MNF"
+          ]
+        },
+        {
+          "answer": "Unsolved Mysteries",
+          "display": "#11 — NBC (18.0 rating)"
+        },
+        {
+          "answer": "Who's the Boss?",
+          "display": "#12 — ABC (17.9 rating)"
+        },
+        {
+          "answer": "Murder, She Wrote",
+          "display": "#13 — CBS (17.7 rating)",
+          "aliases": [
+            "Murder She Wrote"
+          ]
+        },
+        {
+          "answer": "Chicken Soup",
+          "display": "#13 — ABC (17.7 rating)"
+        }
+      ]
+    },
+    {
+      "category": "tv/us-ratings",
+      "question": "Top 9 highest-rated US TV programs of the 1990–91 season (Nielsen ratings)",
+      "cutoff": 9,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1376334103 | table 1 | name: Program | value: Rank | order: asc",
+      "tags": [
+        "tv",
+        "nielsen",
+        "ratings"
+      ],
+      "answers": [
+        {
+          "answer": "Cheers",
+          "display": "#1 — NBC (21.3 rating)"
+        },
+        {
+          "answer": "60 Minutes",
+          "display": "#2 — CBS (20.6 rating)",
+          "aliases": [
+            "Sixty Minutes"
+          ]
+        },
+        {
+          "answer": "Roseanne",
+          "display": "#3 — ABC (18.1 rating)"
+        },
+        {
+          "answer": "A Different World",
+          "display": "#4 — NBC (17.5 rating)"
+        },
+        {
+          "answer": "The Cosby Show",
+          "display": "#5 — NBC (17.1 rating)",
+          "aliases": [
+            "Cosby"
+          ]
+        },
+        {
+          "answer": "Murphy Brown",
+          "display": "#6 — CBS (16.9 rating)"
+        },
+        {
+          "answer": "Empty Nest",
+          "display": "#7 — NBC (16.7 rating)"
+        },
+        {
+          "answer": "America's Funniest Home Videos",
+          "display": "#7 — ABC (16.7 rating)"
+        },
+        {
+          "answer": "Monday Night Football",
+          "display": "#9 — ABC (16.6 rating)",
+          "aliases": [
+            "MNF"
+          ]
+        },
+        {
+          "answer": "The Golden Girls",
+          "display": "#10 — NBC (16.5 rating)",
+          "aliases": [
+            "Golden Girls"
+          ]
+        },
+        {
+          "answer": "Designing Women",
+          "display": "#10 — CBS (16.5 rating)"
+        },
+        {
+          "answer": "Murder, She Wrote",
+          "display": "#12 — CBS (16.4 rating)",
+          "aliases": [
+            "Murder She Wrote"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "tv/us-ratings",
+      "question": "Top 9 highest-rated US TV programs of the 1991–92 season (Nielsen ratings)",
+      "cutoff": 9,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1311448877 | table 1 | name: Program | value: Rank | order: asc",
+      "tags": [
+        "tv",
+        "nielsen",
+        "ratings"
+      ],
+      "answers": [
+        {
+          "answer": "60 Minutes",
+          "display": "#1 — CBS (21.9 rating)",
+          "aliases": [
+            "Sixty Minutes"
+          ]
+        },
+        {
+          "answer": "Roseanne",
+          "display": "#2 — ABC (19.9 rating)"
+        },
+        {
+          "answer": "Murphy Brown",
+          "display": "#3 — CBS (18.6 rating)"
+        },
+        {
+          "answer": "Cheers",
+          "display": "#4 — NBC (17.5 rating)"
+        },
+        {
+          "answer": "Home Improvement",
+          "display": "#4 — ABC (17.5 rating)"
+        },
+        {
+          "answer": "Designing Women",
+          "display": "#6 — CBS (17.3 rating)"
+        },
+        {
+          "answer": "Full House",
+          "display": "#7 — ABC (17.0 rating)"
+        },
+        {
+          "answer": "Murder, She Wrote",
+          "display": "#8 — CBS (16.9 rating)",
+          "aliases": [
+            "Murder She Wrote"
+          ]
+        },
+        {
+          "answer": "Major Dad",
+          "display": "#9 — CBS (16.8 rating)"
+        },
+        {
+          "answer": "Coach",
+          "display": "#10 — ABC (16.7 rating)"
+        },
+        {
+          "answer": "Room for Two",
+          "display": "#10 — ABC (16.7 rating)"
+        },
+        {
+          "answer": "Monday Night Football",
+          "display": "#12 — ABC (16.6 rating)",
+          "aliases": [
+            "MNF"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "tv/us-ratings",
+      "question": "Top 10 highest-rated US TV programs of the 1992–93 season (Nielsen ratings)",
+      "cutoff": 10,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1306303464 | table 1 | name: Program | value: Rank | order: asc",
+      "tags": [
+        "tv",
+        "nielsen",
+        "ratings"
+      ],
+      "answers": [
+        {
+          "answer": "60 Minutes",
+          "display": "#1 — CBS (21.9 rating)",
+          "aliases": [
+            "Sixty Minutes"
+          ]
+        },
+        {
+          "answer": "Roseanne",
+          "display": "#2 — ABC (20.7 rating)"
+        },
+        {
+          "answer": "Home Improvement",
+          "display": "#3 — ABC (19.4 rating)"
+        },
+        {
+          "answer": "Murphy Brown",
+          "display": "#4 — CBS (17.9 rating)"
+        },
+        {
+          "answer": "Murder, She Wrote",
+          "display": "#5 — CBS (17.7 rating)",
+          "aliases": [
+            "Murder She Wrote"
+          ]
+        },
+        {
+          "answer": "Coach",
+          "display": "#6 — ABC (17.5 rating)"
+        },
+        {
+          "answer": "Monday Night Football",
+          "display": "#7 — ABC (16.7 rating)",
+          "aliases": [
+            "MNF"
+          ]
+        },
+        {
+          "answer": "CBS Sunday Movie",
+          "display": "#8 — CBS (16.1 rating)"
+        },
+        {
+          "answer": "Cheers",
+          "display": "#8 — NBC (16.1 rating)"
+        },
+        {
+          "answer": "Full House",
+          "display": "#10 — ABC (15.8 rating)"
+        },
+        {
+          "answer": "Northern Exposure",
+          "display": "#11 — CBS (15.2 rating)"
+        },
+        {
+          "answer": "20/20",
+          "display": "#12 — ABC (15.1 rating)"
+        },
+        {
+          "answer": "Rescue 911",
+          "display": "#12 — CBS (15.1 rating)"
+        }
+      ]
+    },
+    {
+      "category": "tv/us-ratings",
+      "question": "Top 10 highest-rated US TV programs of the 1993–94 season (Nielsen ratings)",
+      "cutoff": 10,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1306361403 | table 1 | name: Program | value: Rank | order: asc",
+      "tags": [
+        "tv",
+        "nielsen",
+        "ratings"
+      ],
+      "answers": [
+        {
+          "answer": "60 Minutes",
+          "display": "#1 — CBS (20.9 rating)",
+          "aliases": [
+            "Sixty Minutes"
+          ]
+        },
+        {
+          "answer": "Home Improvement",
+          "display": "#2 — ABC (20.4 rating)"
+        },
+        {
+          "answer": "Seinfeld",
+          "display": "#3 — NBC (19.4 rating)"
+        },
+        {
+          "answer": "Roseanne",
+          "display": "#4 — ABC (19.1 rating)"
+        },
+        {
+          "answer": "Grace Under Fire",
+          "display": "#5 — ABC (17.7 rating)"
+        },
+        {
+          "answer": "Coach",
+          "display": "#6 — ABC (17.4 rating)"
+        },
+        {
+          "answer": "Frasier",
+          "display": "#7 — NBC (16.8 rating)"
+        },
+        {
+          "answer": "Monday Night Football",
+          "display": "#8 — ABC (16.5 rating)",
+          "aliases": [
+            "MNF"
+          ]
+        },
+        {
+          "answer": "Murphy Brown",
+          "display": "#9 — CBS (16.3 rating)"
+        },
+        {
+          "answer": "CBS Sunday Movie",
+          "display": "#10 — CBS (16.2 rating)"
+        },
+        {
+          "answer": "Murder, She Wrote",
+          "display": "#11 — CBS (16.0 rating)",
+          "aliases": [
+            "Murder She Wrote"
+          ]
+        },
+        {
+          "answer": "Thunder Alley",
+          "display": "#12 — ABC (15.9 rating)"
+        },
+        {
+          "answer": "Love & War",
+          "display": "#13 — CBS (14.5 rating)"
+        }
+      ]
+    },
+    {
+      "category": "tv/us-ratings",
+      "question": "Top 10 highest-rated US TV programs of the 1994–95 season (Nielsen ratings)",
+      "cutoff": 10,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1306303463 | table 1 | name: Program | value: Rank | order: asc",
+      "tags": [
+        "tv",
+        "nielsen",
+        "ratings"
+      ],
+      "answers": [
+        {
+          "answer": "Seinfeld",
+          "display": "#1 — NBC (20.6 rating)"
+        },
+        {
+          "answer": "ER",
+          "display": "#2 — NBC (20.0 rating)"
+        },
+        {
+          "answer": "Home Improvement",
+          "display": "#3 — ABC (19.5 rating)"
+        },
+        {
+          "answer": "Grace Under Fire",
+          "display": "#4 — ABC (18.6 rating)"
+        },
+        {
+          "answer": "Monday Night Football",
+          "display": "#5 — ABC (17.7 rating)",
+          "aliases": [
+            "MNF"
+          ]
+        },
+        {
+          "answer": "60 Minutes",
+          "display": "#6 — CBS (17.2 rating)",
+          "aliases": [
+            "Sixty Minutes"
+          ]
+        },
+        {
+          "answer": "NYPD Blue",
+          "display": "#7 — ABC (16.5 rating)"
+        },
+        {
+          "answer": "Murder, She Wrote",
+          "display": "#8 — CBS (15.6 rating)",
+          "aliases": [
+            "Murder She Wrote"
+          ]
+        },
+        {
+          "answer": "Friends",
+          "display": "#8 — NBC (15.6 rating)"
+        },
+        {
+          "answer": "Roseanne",
+          "display": "#10 — ABC (15.5 rating)"
+        },
+        {
+          "answer": "Mad About You",
+          "display": "#11 — NBC (15.2 rating)"
+        },
+        {
+          "answer": "Madman of the People",
+          "display": "#12 — NBC (14.9 rating)"
+        },
+        {
+          "answer": "Ellen",
+          "display": "#13 — ABC (14.8 rating)"
+        }
+      ]
+    }
+  ]
+}

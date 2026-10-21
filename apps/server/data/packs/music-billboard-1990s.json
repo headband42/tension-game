@@ -1,0 +1,741 @@
+{
+  "categories": [
+    {
+      "path": "music",
+      "name": "Music"
+    },
+    {
+      "path": "music/billboard-year-end",
+      "name": "Billboard Year-End Hot 100"
+    },
+    {
+      "path": "music/billboard-year-end/1990s",
+      "name": "1990s"
+    }
+  ],
+  "questions": [
+    {
+      "category": "music/billboard-year-end/1990s",
+      "question": "Top 10 songs of Billboard's 1991 year-end Hot 100",
+      "cutoff": 10,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1359091547 | table 1 | name: Title | value: No. | order: asc",
+      "tags": [
+        "music",
+        "songs",
+        "billboard",
+        "charts",
+        "1990s"
+      ],
+      "answers": [
+        {
+          "answer": "(Everything I Do) I Do It for You",
+          "display": "#1 — Bryan Adams",
+          "aliases": [
+            "Everything I Do",
+            "I Do It for You"
+          ]
+        },
+        {
+          "answer": "I Wanna Sex You Up",
+          "display": "#2 — Color Me Badd"
+        },
+        {
+          "answer": "Gonna Make You Sweat (Everybody Dance Now)",
+          "display": "#3 — C+C Music Factory",
+          "aliases": [
+            "Gonna Make You Sweat",
+            "Everybody Dance Now"
+          ]
+        },
+        {
+          "answer": "Rush Rush",
+          "display": "#4 — Paula Abdul"
+        },
+        {
+          "answer": "One More Try",
+          "display": "#5 — Timmy T"
+        },
+        {
+          "answer": "Unbelievable",
+          "display": "#6 — EMF"
+        },
+        {
+          "answer": "More Than Words",
+          "display": "#7 — Extreme"
+        },
+        {
+          "answer": "I Like the Way (The Kissing Game)",
+          "display": "#8 — Hi-Five",
+          "aliases": [
+            "I Like the Way",
+            "The Kissing Game"
+          ]
+        },
+        {
+          "answer": "The First Time",
+          "display": "#9 — Surface"
+        },
+        {
+          "answer": "Baby Baby",
+          "display": "#10 — Amy Grant"
+        },
+        {
+          "answer": "Motownphilly",
+          "display": "#11 — Boyz II Men"
+        },
+        {
+          "answer": "Because I Love You (The Postman Song)",
+          "display": "#12 — Stevie B",
+          "aliases": [
+            "Because I Love You",
+            "The Postman Song"
+          ]
+        },
+        {
+          "answer": "Someday",
+          "display": "#13 — Mariah Carey"
+        }
+      ]
+    },
+    {
+      "category": "music/billboard-year-end/1990s",
+      "question": "Top 10 songs of Billboard's 1992 year-end Hot 100",
+      "cutoff": 10,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1371364863 | table 1 | name: Title | value: № | order: asc",
+      "tags": [
+        "music",
+        "songs",
+        "billboard",
+        "charts",
+        "1990s"
+      ],
+      "answers": [
+        {
+          "answer": "End of the Road",
+          "display": "#1 — Boyz II Men"
+        },
+        {
+          "answer": "Baby Got Back",
+          "display": "#2 — Sir Mix-a-Lot"
+        },
+        {
+          "answer": "Jump",
+          "display": "#3 — Kris Kross"
+        },
+        {
+          "answer": "Save the Best for Last",
+          "display": "#4 — Vanessa Williams"
+        },
+        {
+          "answer": "Baby-Baby-Baby",
+          "display": "#5 — TLC",
+          "aliases": [
+            "Baby Baby Baby"
+          ]
+        },
+        {
+          "answer": "Tears in Heaven",
+          "display": "#6 — Eric Clapton"
+        },
+        {
+          "answer": "My Lovin' (You're Never Gonna Get It)",
+          "display": "#7 — En Vogue",
+          "aliases": [
+            "My Lovin'"
+          ]
+        },
+        {
+          "answer": "Under the Bridge",
+          "display": "#8 — Red Hot Chili Peppers"
+        },
+        {
+          "answer": "All 4 Love",
+          "display": "#9 — Color Me Badd"
+        },
+        {
+          "answer": "Just Another Day",
+          "display": "#10 — Jon Secada"
+        },
+        {
+          "answer": "I Love Your Smile",
+          "display": "#11 — Shanice"
+        },
+        {
+          "answer": "To Be with You",
+          "display": "#12 — Mr. Big"
+        },
+        {
+          "answer": "I'm Too Sexy",
+          "display": "#13 — Right Said Fred",
+          "aliases": [
+            "Too Sexy"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "music/billboard-year-end/1990s",
+      "question": "Top 10 songs of Billboard's 1993 year-end Hot 100",
+      "cutoff": 10,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1371364816 | table 1 | name: Title | value: № | order: asc",
+      "tags": [
+        "music",
+        "songs",
+        "billboard",
+        "charts",
+        "1990s"
+      ],
+      "answers": [
+        {
+          "answer": "I Will Always Love You",
+          "display": "#1 — Whitney Houston"
+        },
+        {
+          "answer": "Whoomp! (There It Is)",
+          "display": "#2 — Tag Team",
+          "aliases": [
+            "Whoomp",
+            "Whoomp There It Is"
+          ]
+        },
+        {
+          "answer": "Can't Help Falling in Love",
+          "display": "#3 — UB40"
+        },
+        {
+          "answer": "That's the Way Love Goes",
+          "display": "#4 — Janet Jackson"
+        },
+        {
+          "answer": "Freak Me",
+          "display": "#5 — Silk"
+        },
+        {
+          "answer": "Weak",
+          "display": "#6 — SWV"
+        },
+        {
+          "answer": "If I Ever Fall in Love",
+          "display": "#7 — Shai"
+        },
+        {
+          "answer": "Dreamlover",
+          "display": "#8 — Mariah Carey"
+        },
+        {
+          "answer": "Rump Shaker",
+          "display": "#9 — Wreckx-n-Effect"
+        },
+        {
+          "answer": "Informer",
+          "display": "#10 — Snow"
+        },
+        {
+          "answer": "Nuthin' but a 'G' Thang",
+          "display": "#11 — Dr. Dre",
+          "aliases": [
+            "G Thang"
+          ]
+        },
+        {
+          "answer": "In the Still of the Nite",
+          "display": "#12 — Boyz II Men",
+          "aliases": [
+            "In the Still of the Night"
+          ]
+        },
+        {
+          "answer": "Don't Walk Away",
+          "display": "#13 — Jade"
+        }
+      ]
+    },
+    {
+      "category": "music/billboard-year-end/1990s",
+      "question": "Top 10 songs of Billboard's 1994 year-end Hot 100",
+      "cutoff": 10,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1359581835 | table 1 | name: Title | value: № | order: asc",
+      "tags": [
+        "music",
+        "songs",
+        "billboard",
+        "charts",
+        "1990s"
+      ],
+      "answers": [
+        {
+          "answer": "The Sign",
+          "display": "#1 — Ace of Base"
+        },
+        {
+          "answer": "I Swear",
+          "display": "#2 — All-4-One"
+        },
+        {
+          "answer": "I'll Make Love to You",
+          "display": "#3 — Boyz II Men",
+          "aliases": [
+            "Make Love to You"
+          ]
+        },
+        {
+          "answer": "The Power of Love",
+          "display": "#4 — Celine Dion",
+          "aliases": [
+            "Power of Love"
+          ]
+        },
+        {
+          "answer": "Hero",
+          "display": "#5 — Mariah Carey"
+        },
+        {
+          "answer": "Stay (I Missed You)",
+          "display": "#6 — Lisa Loeb and Nine Stories",
+          "aliases": [
+            "Stay",
+            "I Missed You"
+          ]
+        },
+        {
+          "answer": "Breathe Again",
+          "display": "#7 — Toni Braxton"
+        },
+        {
+          "answer": "All for Love",
+          "display": "#8 — Bryan Adams, Rod Stewart and Sting"
+        },
+        {
+          "answer": "All That She Wants",
+          "display": "#9 — Ace of Base"
+        },
+        {
+          "answer": "Don't Turn Around",
+          "display": "#10 — Ace of Base"
+        },
+        {
+          "answer": "Bump n' Grind",
+          "display": "#11 — R. Kelly",
+          "aliases": [
+            "Bump and Grind"
+          ]
+        },
+        {
+          "answer": "Again",
+          "display": "#12 — Janet Jackson"
+        },
+        {
+          "answer": "I'll Remember",
+          "display": "#13 — Madonna"
+        }
+      ]
+    },
+    {
+      "category": "music/billboard-year-end/1990s",
+      "question": "Top 10 songs of Billboard's 1995 year-end Hot 100",
+      "cutoff": 10,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1371361855 | table 1 | name: Title | value: No. | order: asc",
+      "tags": [
+        "music",
+        "songs",
+        "billboard",
+        "charts",
+        "1990s"
+      ],
+      "answers": [
+        {
+          "answer": "Gangsta's Paradise",
+          "display": "#1 — Coolio featuring L.V."
+        },
+        {
+          "answer": "Waterfalls",
+          "display": "#2 — TLC"
+        },
+        {
+          "answer": "Creep",
+          "display": "#3 — TLC"
+        },
+        {
+          "answer": "Kiss from a Rose",
+          "display": "#4 — Seal"
+        },
+        {
+          "answer": "On Bended Knee",
+          "display": "#5 — Boyz II Men",
+          "aliases": [
+            "Bended Knee"
+          ]
+        },
+        {
+          "answer": "Another Night",
+          "display": "#6 — Real McCoy"
+        },
+        {
+          "answer": "Fantasy",
+          "display": "#7 — Mariah Carey"
+        },
+        {
+          "answer": "Take a Bow",
+          "display": "#8 — Madonna"
+        },
+        {
+          "answer": "Don't Take It Personal (Just One of Dem Days)",
+          "display": "#9 — Monica",
+          "aliases": [
+            "Don't Take It Personal",
+            "Just One of Dem Days"
+          ]
+        },
+        {
+          "answer": "This Is How We Do It",
+          "display": "#10 — Montell Jordan"
+        },
+        {
+          "answer": "I Know",
+          "display": "#11 — Dionne Farris"
+        },
+        {
+          "answer": "Water Runs Dry",
+          "display": "#12 — Boyz II Men"
+        },
+        {
+          "answer": "Freak Like Me",
+          "display": "#13 — Adina Howard"
+        }
+      ]
+    },
+    {
+      "category": "music/billboard-year-end/1990s",
+      "question": "Top 10 songs of Billboard's 1996 year-end Hot 100",
+      "cutoff": 10,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1359632921 | table 1 | name: Title | value: № | order: asc",
+      "tags": [
+        "music",
+        "songs",
+        "billboard",
+        "charts",
+        "1990s"
+      ],
+      "answers": [
+        {
+          "answer": "Macarena (Bayside Boys Mix)",
+          "display": "#1 — Los del Río",
+          "aliases": [
+            "Macarena"
+          ]
+        },
+        {
+          "answer": "One Sweet Day",
+          "display": "#2 — Mariah Carey and Boyz II Men"
+        },
+        {
+          "answer": "Because You Loved Me",
+          "display": "#3 — Celine Dion"
+        },
+        {
+          "answer": "Nobody Knows",
+          "display": "#4 — The Tony Rich Project"
+        },
+        {
+          "answer": "Always Be My Baby",
+          "display": "#5 — Mariah Carey"
+        },
+        {
+          "answer": "Give Me One Reason",
+          "display": "#6 — Tracy Chapman"
+        },
+        {
+          "answer": "Tha Crossroads",
+          "display": "#7 — Bone Thugs-n-Harmony",
+          "aliases": [
+            "The Crossroads"
+          ]
+        },
+        {
+          "answer": "I Love You Always Forever",
+          "display": "#8 — Donna Lewis"
+        },
+        {
+          "answer": "You're Makin' Me High",
+          "display": "#9 — Toni Braxton",
+          "aliases": [
+            "Let It Flow"
+          ]
+        },
+        {
+          "answer": "Twisted",
+          "display": "#10 — Keith Sweat"
+        },
+        {
+          "answer": "C'mon N' Ride It (The Train)",
+          "display": "#11 — Quad City DJ's",
+          "aliases": [
+            "C'mon N' Ride It"
+          ]
+        },
+        {
+          "answer": "Missing",
+          "display": "#12 — Everything but the Girl"
+        },
+        {
+          "answer": "Ironic",
+          "display": "#13 — Alanis Morissette"
+        }
+      ]
+    },
+    {
+      "category": "music/billboard-year-end/1990s",
+      "question": "Top 10 songs of Billboard's 1997 year-end Hot 100",
+      "cutoff": 10,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1359800231 | table 1 | name: Title | value: No. | order: asc",
+      "tags": [
+        "music",
+        "songs",
+        "billboard",
+        "charts",
+        "1990s"
+      ],
+      "answers": [
+        {
+          "answer": "Candle in the Wind 1997",
+          "display": "#1 — Elton John",
+          "aliases": [
+            "Candle in the Wind",
+            "Something About the Way You Look Tonight"
+          ]
+        },
+        {
+          "answer": "You Were Meant for Me",
+          "display": "#2 — Jewel",
+          "aliases": [
+            "Foolish Games"
+          ]
+        },
+        {
+          "answer": "I'll Be Missing You",
+          "display": "#3 — Puff Daddy and Faith Evans featuring 112"
+        },
+        {
+          "answer": "Un-Break My Heart",
+          "display": "#4 — Toni Braxton"
+        },
+        {
+          "answer": "Can't Nobody Hold Me Down",
+          "display": "#5 — Puff Daddy featuring Mase"
+        },
+        {
+          "answer": "I Believe I Can Fly",
+          "display": "#6 — R. Kelly"
+        },
+        {
+          "answer": "Don't Let Go (Love)",
+          "display": "#7 — En Vogue",
+          "aliases": [
+            "Don't Let Go"
+          ]
+        },
+        {
+          "answer": "Return of the Mack",
+          "display": "#8 — Mark Morrison"
+        },
+        {
+          "answer": "How Do I Live",
+          "display": "#9 — LeAnn Rimes"
+        },
+        {
+          "answer": "Wannabe",
+          "display": "#10 — Spice Girls"
+        },
+        {
+          "answer": "Quit Playing Games (With My Heart)",
+          "display": "#11 — Backstreet Boys",
+          "aliases": [
+            "Quit Playing Games"
+          ]
+        },
+        {
+          "answer": "MMMBop",
+          "display": "#12 — Hanson"
+        },
+        {
+          "answer": "For You I Will",
+          "display": "#13 — Monica"
+        }
+      ]
+    },
+    {
+      "category": "music/billboard-year-end/1990s",
+      "question": "Top 10 songs of Billboard's 1998 year-end Hot 100",
+      "cutoff": 10,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1363927689 | table 1 | name: Title | value: № | order: asc",
+      "tags": [
+        "music",
+        "songs",
+        "billboard",
+        "charts",
+        "1990s"
+      ],
+      "answers": [
+        {
+          "answer": "Too Close",
+          "display": "#1 — Next"
+        },
+        {
+          "answer": "The Boy Is Mine",
+          "display": "#2 — Brandy and Monica",
+          "aliases": [
+            "Boy Is Mine"
+          ]
+        },
+        {
+          "answer": "You're Still the One",
+          "display": "#3 — Shania Twain",
+          "aliases": [
+            "Still the One"
+          ]
+        },
+        {
+          "answer": "Truly Madly Deeply",
+          "display": "#4 — Savage Garden"
+        },
+        {
+          "answer": "How Do I Live",
+          "display": "#5 — LeAnn Rimes"
+        },
+        {
+          "answer": "Together Again",
+          "display": "#6 — Janet"
+        },
+        {
+          "answer": "All My Life",
+          "display": "#7 — K-Ci & JoJo"
+        },
+        {
+          "answer": "Candle in the Wind 1997",
+          "display": "#8 — Elton John",
+          "aliases": [
+            "Candle in the Wind",
+            "Something About the Way You Look Tonight"
+          ]
+        },
+        {
+          "answer": "Nice & Slow",
+          "display": "#9 — Usher",
+          "aliases": [
+            "Nice and Slow"
+          ]
+        },
+        {
+          "answer": "I Don't Want to Wait",
+          "display": "#10 — Paula Cole"
+        },
+        {
+          "answer": "How's It Going to Be",
+          "display": "#11 — Third Eye Blind"
+        },
+        {
+          "answer": "No, No, No",
+          "display": "#12 — Destiny's Child",
+          "aliases": [
+            "No No No"
+          ]
+        },
+        {
+          "answer": "My Heart Will Go On",
+          "display": "#13 — Celine Dion"
+        }
+      ]
+    },
+    {
+      "category": "music/billboard-year-end/1990s",
+      "question": "Top 10 songs of Billboard's 1999 year-end Hot 100",
+      "cutoff": 10,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1360106832 | table 1 | name: Title | value: No. | order: asc",
+      "tags": [
+        "music",
+        "songs",
+        "billboard",
+        "charts",
+        "1990s"
+      ],
+      "answers": [
+        {
+          "answer": "Believe",
+          "display": "#1 — Cher"
+        },
+        {
+          "answer": "No Scrubs",
+          "display": "#2 — TLC"
+        },
+        {
+          "answer": "Angel of Mine",
+          "display": "#3 — Monica"
+        },
+        {
+          "answer": "Heartbreak Hotel",
+          "display": "#4 — Whitney Houston featuring Faith Evans and Kelly Price"
+        },
+        {
+          "answer": "Baby One More Time",
+          "display": "#5 — Britney Spears",
+          "aliases": [
+            "...Baby One More Time"
+          ]
+        },
+        {
+          "answer": "Kiss Me",
+          "display": "#6 — Sixpence None the Richer"
+        },
+        {
+          "answer": "Genie in a Bottle",
+          "display": "#7 — Christina Aguilera"
+        },
+        {
+          "answer": "Every Morning",
+          "display": "#8 — Sugar Ray"
+        },
+        {
+          "answer": "Nobody's Supposed to Be Here",
+          "display": "#9 — Deborah Cox"
+        },
+        {
+          "answer": "Livin' la Vida Loca",
+          "display": "#10 — Ricky Martin",
+          "aliases": [
+            "Vida Loca"
+          ]
+        },
+        {
+          "answer": "Where My Girls At?",
+          "display": "#11 — 702"
+        },
+        {
+          "answer": "If You Had My Love",
+          "display": "#12 — Jennifer Lopez"
+        },
+        {
+          "answer": "Slide",
+          "display": "#13 — Goo Goo Dolls"
+        }
+      ]
+    }
+  ]
+}

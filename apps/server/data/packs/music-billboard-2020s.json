@@ -1,0 +1,450 @@
+{
+  "categories": [
+    {
+      "path": "music",
+      "name": "Music"
+    },
+    {
+      "path": "music/billboard-year-end",
+      "name": "Billboard Year-End Hot 100"
+    },
+    {
+      "path": "music/billboard-year-end/2020s",
+      "name": "2020s"
+    }
+  ],
+  "questions": [
+    {
+      "category": "music/billboard-year-end/2020s",
+      "question": "Top 10 songs of Billboard's 2020 year-end Hot 100",
+      "cutoff": 10,
+      "difficulty": 1,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1369604372 | table 1 | name: Title | value: No. | order: asc",
+      "tags": [
+        "music",
+        "billboard",
+        "2020s"
+      ],
+      "answers": [
+        {
+          "answer": "Blinding Lights",
+          "display": "#1 — The Weeknd"
+        },
+        {
+          "answer": "Circles",
+          "display": "#2 — Post Malone"
+        },
+        {
+          "answer": "The Box",
+          "display": "#3 — Roddy Ricch"
+        },
+        {
+          "answer": "Don't Start Now",
+          "display": "#4 — Dua Lipa",
+          "aliases": [
+            "Start Now"
+          ]
+        },
+        {
+          "answer": "Rockstar",
+          "display": "#5 — DaBaby featuring Roddy Ricch"
+        },
+        {
+          "answer": "Adore You",
+          "display": "#6 — Harry Styles"
+        },
+        {
+          "answer": "Life Is Good",
+          "display": "#7 — Future featuring Drake"
+        },
+        {
+          "answer": "Memories",
+          "display": "#8 — Maroon 5"
+        },
+        {
+          "answer": "The Bones",
+          "display": "#9 — Maren Morris"
+        },
+        {
+          "answer": "Someone You Loved",
+          "display": "#10 — Lewis Capaldi"
+        },
+        {
+          "answer": "Say So",
+          "display": "#11 — Doja Cat"
+        },
+        {
+          "answer": "I Hope",
+          "display": "#12 — Gabby Barrett featuring Charlie Puth"
+        },
+        {
+          "answer": "What's Poppin",
+          "display": "#13 — Jack Harlow featuring DaBaby, Tory Lanez and Lil Wayne"
+        }
+      ]
+    },
+    {
+      "category": "music/billboard-year-end/2020s",
+      "question": "Top 10 songs of Billboard's 2021 year-end Hot 100",
+      "cutoff": 10,
+      "difficulty": 1,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1362868665 | table 1 | name: Title | value: No. | order: asc",
+      "tags": [
+        "music",
+        "billboard",
+        "2020s"
+      ],
+      "answers": [
+        {
+          "answer": "Levitating",
+          "display": "#1 — Dua Lipa"
+        },
+        {
+          "answer": "Save Your Tears",
+          "display": "#2 — The Weeknd and Ariana Grande"
+        },
+        {
+          "answer": "Blinding Lights",
+          "display": "#3 — The Weeknd"
+        },
+        {
+          "answer": "Mood",
+          "display": "#4 — 24kGoldn featuring Iann Dior"
+        },
+        {
+          "answer": "Good 4 U",
+          "display": "#5 — Olivia Rodrigo"
+        },
+        {
+          "answer": "Kiss Me More",
+          "display": "#6 — Doja Cat featuring SZA"
+        },
+        {
+          "answer": "Leave the Door Open",
+          "display": "#7 — Silk Sonic (Bruno Mars and Anderson .Paak)"
+        },
+        {
+          "answer": "Driver's License",
+          "display": "#8 — Olivia Rodrigo"
+        },
+        {
+          "answer": "Montero (Call Me by Your Name)",
+          "display": "#9 — Lil Nas X",
+          "aliases": [
+            "Montero",
+            "Call Me by Your Name"
+          ]
+        },
+        {
+          "answer": "Peaches",
+          "display": "#10 — Justin Bieber featuring Daniel Caesar and Giveon"
+        },
+        {
+          "answer": "Butter",
+          "display": "#11 — BTS"
+        },
+        {
+          "answer": "Stay",
+          "display": "#12 — The Kid Laroi and Justin Bieber"
+        },
+        {
+          "answer": "Deja Vu",
+          "display": "#13 — Olivia Rodrigo"
+        }
+      ]
+    },
+    {
+      "category": "music/billboard-year-end/2020s",
+      "question": "Top 10 songs of Billboard's 2022 year-end Hot 100",
+      "cutoff": 10,
+      "difficulty": 1,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1371131382 | table 1 | name: Title | value: No. | order: asc",
+      "tags": [
+        "music",
+        "billboard",
+        "2020s"
+      ],
+      "answers": [
+        {
+          "answer": "Heat Waves",
+          "display": "#1 — Glass Animals"
+        },
+        {
+          "answer": "As It Was",
+          "display": "#2 — Harry Styles"
+        },
+        {
+          "answer": "Stay",
+          "display": "#3 — The Kid Laroi and Justin Bieber"
+        },
+        {
+          "answer": "Easy on Me",
+          "display": "#4 — Adele"
+        },
+        {
+          "answer": "Shivers",
+          "display": "#5 — Ed Sheeran"
+        },
+        {
+          "answer": "First Class",
+          "display": "#6 — Jack Harlow"
+        },
+        {
+          "answer": "Big Energy",
+          "display": "#7 — Latto"
+        },
+        {
+          "answer": "Ghost",
+          "display": "#8 — Justin Bieber"
+        },
+        {
+          "answer": "Super Gremlin",
+          "display": "#9 — Kodak Black"
+        },
+        {
+          "answer": "Cold Heart (Pnau Remix)",
+          "display": "#10 — Elton John and Dua Lipa",
+          "aliases": [
+            "Cold Heart"
+          ]
+        },
+        {
+          "answer": "Wait for U",
+          "display": "#11 — Future featuring Drake and Tems"
+        },
+        {
+          "answer": "About Damn Time",
+          "display": "#12 — Lizzo"
+        },
+        {
+          "answer": "Bad Habits",
+          "display": "#13 — Ed Sheeran"
+        }
+      ]
+    },
+    {
+      "category": "music/billboard-year-end/2020s",
+      "question": "Top 10 songs of Billboard's 2023 year-end Hot 100",
+      "cutoff": 10,
+      "difficulty": 1,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1371397662 | table 1 | name: Title | value: No. | order: asc",
+      "tags": [
+        "music",
+        "billboard",
+        "2020s"
+      ],
+      "answers": [
+        {
+          "answer": "Last Night",
+          "display": "#1 — Morgan Wallen"
+        },
+        {
+          "answer": "Flowers",
+          "display": "#2 — Miley Cyrus"
+        },
+        {
+          "answer": "Kill Bill",
+          "display": "#3 — SZA"
+        },
+        {
+          "answer": "Anti-Hero",
+          "display": "#4 — Taylor Swift"
+        },
+        {
+          "answer": "Creepin'",
+          "display": "#5 — Metro Boomin, the Weeknd and 21 Savage"
+        },
+        {
+          "answer": "Calm Down",
+          "display": "#6 — Rema and Selena Gomez"
+        },
+        {
+          "answer": "Die for You",
+          "display": "#7 — The Weeknd and Ariana Grande"
+        },
+        {
+          "answer": "Fast Car",
+          "display": "#8 — Luke Combs"
+        },
+        {
+          "answer": "Snooze",
+          "display": "#9 — SZA"
+        },
+        {
+          "answer": "I'm Good (Blue)",
+          "display": "#10 — David Guetta and Bebe Rexha",
+          "aliases": [
+            "I'm Good"
+          ]
+        },
+        {
+          "answer": "Unholy",
+          "display": "#11 — Sam Smith and Kim Petras"
+        },
+        {
+          "answer": "You Proof",
+          "display": "#12 — Morgan Wallen"
+        },
+        {
+          "answer": "Something in the Orange",
+          "display": "#13 — Zach Bryan"
+        }
+      ]
+    },
+    {
+      "category": "music/billboard-year-end/2020s",
+      "question": "Top 10 songs of Billboard's 2024 year-end Hot 100",
+      "cutoff": 10,
+      "difficulty": 1,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1371570313 | table 1 | name: Title | value: No. | order: asc",
+      "tags": [
+        "music",
+        "billboard",
+        "2020s"
+      ],
+      "answers": [
+        {
+          "answer": "Lose Control",
+          "display": "#1 — Teddy Swims"
+        },
+        {
+          "answer": "A Bar Song (Tipsy)",
+          "display": "#2 — Shaboozey",
+          "aliases": [
+            "A Bar Song",
+            "Tipsy"
+          ]
+        },
+        {
+          "answer": "Beautiful Things",
+          "display": "#3 — Benson Boone"
+        },
+        {
+          "answer": "I Had Some Help",
+          "display": "#4 — Post Malone featuring Morgan Wallen"
+        },
+        {
+          "answer": "Lovin on Me",
+          "display": "#5 — Jack Harlow"
+        },
+        {
+          "answer": "Not Like Us",
+          "display": "#6 — Kendrick Lamar"
+        },
+        {
+          "answer": "Espresso",
+          "display": "#7 — Sabrina Carpenter"
+        },
+        {
+          "answer": "Million Dollar Baby",
+          "display": "#8 — Tommy Richman"
+        },
+        {
+          "answer": "I Remember Everything",
+          "display": "#9 — Zach Bryan featuring Kacey Musgraves",
+          "aliases": [
+            "Remember Everything"
+          ]
+        },
+        {
+          "answer": "Too Sweet",
+          "display": "#10 — Hozier"
+        },
+        {
+          "answer": "Stick Season",
+          "display": "#11 — Noah Kahan"
+        },
+        {
+          "answer": "Cruel Summer",
+          "display": "#12 — Taylor Swift"
+        },
+        {
+          "answer": "Greedy",
+          "display": "#13 — Tate McRae"
+        }
+      ]
+    },
+    {
+      "category": "music/billboard-year-end/2020s",
+      "question": "Top 10 songs of Billboard's 2025 year-end Hot 100",
+      "cutoff": 10,
+      "difficulty": 1,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1372373398 | table 1 | name: Title | value: No. | order: asc",
+      "tags": [
+        "music",
+        "billboard",
+        "2020s"
+      ],
+      "answers": [
+        {
+          "answer": "Die with a Smile",
+          "display": "#1 — Lady Gaga and Bruno Mars"
+        },
+        {
+          "answer": "Luther",
+          "display": "#2 — Kendrick Lamar and SZA"
+        },
+        {
+          "answer": "A Bar Song (Tipsy)",
+          "display": "#3 — Shaboozey",
+          "aliases": [
+            "A Bar Song",
+            "Tipsy"
+          ]
+        },
+        {
+          "answer": "Lose Control",
+          "display": "#4 — Teddy Swims"
+        },
+        {
+          "answer": "Birds of a Feather",
+          "display": "#5 — Billie Eilish"
+        },
+        {
+          "answer": "Beautiful Things",
+          "display": "#6 — Benson Boone"
+        },
+        {
+          "answer": "Ordinary",
+          "display": "#7 — Alex Warren"
+        },
+        {
+          "answer": "I Had Some Help",
+          "display": "#8 — Post Malone featuring Morgan Wallen"
+        },
+        {
+          "answer": "APT.",
+          "display": "#9 — Rosé and Bruno Mars"
+        },
+        {
+          "answer": "Pink Pony Club",
+          "display": "#10 — Chappell Roan",
+          "aliases": [
+            "Pink Pony"
+          ]
+        },
+        {
+          "answer": "Love Somebody",
+          "display": "#11 — Morgan Wallen"
+        },
+        {
+          "answer": "Espresso",
+          "display": "#12 — Sabrina Carpenter"
+        },
+        {
+          "answer": "I'm the Problem",
+          "display": "#13 — Morgan Wallen",
+          "aliases": [
+            "The Problem"
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,390 @@
+{
+  "categories": [
+    {
+      "path": "sports/basketball/international",
+      "name": "International basketball"
+    },
+    {
+      "path": "sports/basketball/international/europe",
+      "name": "European basketball"
+    },
+    {
+      "path": "sports/basketball/international/olympics",
+      "name": "Olympic basketball"
+    },
+    {
+      "path": "sports/basketball/international/fiba",
+      "name": "FIBA"
+    },
+    {
+      "path": "sports/basketball/wnba",
+      "name": "WNBA"
+    }
+  ],
+  "questions": [
+    {
+      "category": "sports/basketball/international/europe",
+      "question": "Top 8 nations by total men's EuroBasket medals won (gold, silver and bronze combined; all editions, as of 2026)",
+      "cutoff": 8,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1375424928 | table 2 | name: Nation | value: Total | where: Nation!~^Totals",
+      "tags": [
+        "sports",
+        "basketball",
+        "eurobasket",
+        "medals"
+      ],
+      "answers": [
+        {
+          "answer": "Soviet Union",
+          "display": "21 medals",
+          "aliases": [
+            "USSR"
+          ]
+        },
+        {
+          "answer": "Yugoslavia",
+          "display": "17 medals",
+          "aliases": [
+            "FR Yugoslavia"
+          ]
+        },
+        {
+          "answer": "Spain",
+          "display": "14 medals"
+        },
+        {
+          "answer": "Czechoslovakia",
+          "display": "12 medals"
+        },
+        {
+          "answer": "Italy",
+          "display": "10 medals"
+        },
+        {
+          "answer": "France",
+          "display": "10 medals"
+        },
+        {
+          "answer": "Lithuania",
+          "display": "7 medals"
+        },
+        {
+          "answer": "Greece",
+          "display": "6 medals"
+        },
+        {
+          "answer": "Germany",
+          "display": "4 medals"
+        },
+        {
+          "answer": "Russia",
+          "display": "4 medals"
+        },
+        {
+          "answer": "Poland",
+          "display": "4 medals"
+        }
+      ]
+    },
+    {
+      "category": "sports/basketball/international/olympics",
+      "question": "Top 7 nations by total Olympic basketball medals, men's and women's combined (gold, silver and bronze; through 2024)",
+      "cutoff": 7,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1375734495 | table 10 | name: Nation | value: Total | where: Nation!~^Totals",
+      "tags": [
+        "sports",
+        "basketball",
+        "olympics",
+        "medals"
+      ],
+      "answers": [
+        {
+          "answer": "United States",
+          "display": "32 medals",
+          "aliases": [
+            "USA",
+            "US"
+          ]
+        },
+        {
+          "answer": "Soviet Union",
+          "display": "12 medals",
+          "aliases": [
+            "USSR"
+          ]
+        },
+        {
+          "answer": "Yugoslavia",
+          "display": "7 medals",
+          "aliases": [
+            "FR Yugoslavia"
+          ]
+        },
+        {
+          "answer": "France",
+          "display": "7 medals"
+        },
+        {
+          "answer": "Australia",
+          "display": "7 medals"
+        },
+        {
+          "answer": "Spain",
+          "display": "5 medals"
+        },
+        {
+          "answer": "Brazil",
+          "display": "5 medals"
+        },
+        {
+          "answer": "Serbia",
+          "display": "3 medals"
+        },
+        {
+          "answer": "Lithuania",
+          "display": "3 medals"
+        },
+        {
+          "answer": "Russia",
+          "display": "3 medals"
+        }
+      ]
+    },
+    {
+      "category": "sports/basketball/international/olympics",
+      "question": "Top 10 nations by games won at men's Olympic basketball tournaments (through 2024)",
+      "cutoff": 10,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1375734495 | table 11 | name: Team | value: Wins",
+      "tags": [
+        "sports",
+        "basketball",
+        "olympics",
+        "wins"
+      ],
+      "answers": [
+        {
+          "answer": "United States",
+          "display": "149 wins",
+          "aliases": [
+            "USA",
+            "US"
+          ]
+        },
+        {
+          "answer": "Brazil",
+          "display": "66 wins"
+        },
+        {
+          "answer": "Soviet Union",
+          "display": "61 wins",
+          "aliases": [
+            "USSR"
+          ]
+        },
+        {
+          "answer": "Australia",
+          "display": "58 wins"
+        },
+        {
+          "answer": "Italy",
+          "display": "56 wins"
+        },
+        {
+          "answer": "Spain",
+          "display": "55 wins"
+        },
+        {
+          "answer": "Yugoslavia",
+          "display": "48 wins",
+          "aliases": [
+            "FR Yugoslavia"
+          ]
+        },
+        {
+          "answer": "France",
+          "display": "40 wins"
+        },
+        {
+          "answer": "Canada",
+          "display": "39 wins"
+        },
+        {
+          "answer": "Puerto Rico",
+          "display": "34 wins"
+        },
+        {
+          "answer": "Argentina",
+          "display": "33 wins"
+        },
+        {
+          "answer": "Lithuania",
+          "display": "32 wins"
+        },
+        {
+          "answer": "Uruguay",
+          "display": "29 wins"
+        }
+      ]
+    },
+    {
+      "category": "sports/basketball/wnba",
+      "question": "Top 10 WNBA career assists leaders (as of 27 September 2026)",
+      "cutoff": 10,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1377090797 | table 2 | name: Player | value: Total assists",
+      "tags": [
+        "sports",
+        "basketball",
+        "wnba",
+        "assists"
+      ],
+      "answers": [
+        {
+          "answer": "Sue Bird",
+          "display": "3,234 assists",
+          "aliases": [
+            "Bird"
+          ]
+        },
+        {
+          "answer": "Courtney Vandersloot",
+          "display": "3,033 assists",
+          "aliases": [
+            "Vandersloot"
+          ]
+        },
+        {
+          "answer": "Ticha Penicheiro",
+          "display": "2,599 assists"
+        },
+        {
+          "answer": "Diana Taurasi",
+          "display": "2,394 assists",
+          "aliases": [
+            "Taurasi"
+          ]
+        },
+        {
+          "answer": "Lindsay Whalen",
+          "display": "2,348 assists"
+        },
+        {
+          "answer": "Alyssa Thomas",
+          "display": "2,177 assists"
+        },
+        {
+          "answer": "Chelsea Gray",
+          "display": "2,156 assists"
+        },
+        {
+          "answer": "Natasha Cloud",
+          "display": "1,925 assists"
+        },
+        {
+          "answer": "Skylar Diggins",
+          "display": "1,861 assists"
+        },
+        {
+          "answer": "Becky Hammon",
+          "display": "1,708 assists"
+        },
+        {
+          "answer": "Candace Parker",
+          "display": "1,634 assists"
+        },
+        {
+          "answer": "Cappie Pondexter",
+          "display": "1,578 assists"
+        },
+        {
+          "answer": "Courtney Williams",
+          "display": "1,552 assists"
+        }
+      ]
+    },
+    {
+      "category": "sports/basketball/wnba",
+      "question": "Top 10 WNBA career blocks leaders (as of 27 September 2026)",
+      "cutoff": 10,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1377092141 | table 2 | name: Player | value: Total blocks",
+      "tags": [
+        "sports",
+        "basketball",
+        "wnba",
+        "blocks"
+      ],
+      "answers": [
+        {
+          "answer": "Brittney Griner",
+          "display": "891 blocks",
+          "aliases": [
+            "Griner"
+          ]
+        },
+        {
+          "answer": "Margo Dydek",
+          "display": "877 blocks"
+        },
+        {
+          "answer": "Lisa Leslie",
+          "display": "822 blocks",
+          "aliases": [
+            "Leslie"
+          ]
+        },
+        {
+          "answer": "Sylvia Fowles",
+          "display": "721 blocks"
+        },
+        {
+          "answer": "Candace Parker",
+          "display": "619 blocks"
+        },
+        {
+          "answer": "A'ja Wilson",
+          "display": "612 blocks"
+        },
+        {
+          "answer": "Lauren Jackson",
+          "display": "586 blocks",
+          "aliases": [
+            "Jackson"
+          ]
+        },
+        {
+          "answer": "Tangela Smith",
+          "display": "556 blocks"
+        },
+        {
+          "answer": "Tammy Sutton-Brown",
+          "display": "555 blocks"
+        },
+        {
+          "answer": "Elizabeth Williams",
+          "display": "522 blocks"
+        },
+        {
+          "answer": "Ruth Riley",
+          "display": "505 blocks"
+        },
+        {
+          "answer": "Breanna Stewart",
+          "display": "478 blocks"
+        },
+        {
+          "answer": "Jonquel Jones",
+          "display": "452 blocks"
+        }
+      ]
+    }
+  ]
+}

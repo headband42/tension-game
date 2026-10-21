@@ -1,0 +1,1040 @@
+{
+  "categories": [
+    {
+      "path": "movies/box-office",
+      "name": "Box Office"
+    }
+  ],
+  "questions": [
+    {
+      "category": "movies/box-office",
+      "difficulty": 1,
+      "question": "Top 10 highest-grossing films released in the 1980s (unadjusted worldwide box office, including re-releases, as of October 2026)",
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1379547987 | table 1 | name: Title | value: Worldwide gross | where: Year~^198",
+      "tags": [
+        "movies",
+        "box-office",
+        "1980s"
+      ],
+      "answers": [
+        {
+          "answer": "E.T. the Extra-Terrestrial",
+          "display": "$701,000,000",
+          "aliases": [
+            "E.T.",
+            "ET"
+          ]
+        },
+        {
+          "answer": "Indiana Jones and the Last Crusade",
+          "display": "$474,171,806",
+          "aliases": [
+            "Last Crusade"
+          ]
+        },
+        {
+          "answer": "The Empire Strikes Back",
+          "display": "$413,562,607",
+          "aliases": [
+            "Empire Strikes Back"
+          ]
+        },
+        {
+          "answer": "Batman",
+          "display": "$411,348,924"
+        },
+        {
+          "answer": "Return of the Jedi",
+          "display": "$385,845,197",
+          "aliases": [
+            "Jedi"
+          ]
+        },
+        {
+          "answer": "Back to the Future",
+          "display": "$381,109,762"
+        },
+        {
+          "answer": "Top Gun",
+          "display": "$357,463,748"
+        },
+        {
+          "answer": "Rain Man",
+          "display": "$354,825,435"
+        },
+        {
+          "answer": "Raiders of the Lost Ark",
+          "display": "$353,988,025",
+          "aliases": [
+            "Raiders"
+          ]
+        },
+        {
+          "answer": "Indiana Jones and the Temple of Doom",
+          "display": "$333,080,271",
+          "aliases": [
+            "Temple of Doom"
+          ]
+        },
+        {
+          "answer": "Back to the Future Part II",
+          "display": "$331,950,002",
+          "aliases": [
+            "BTTF 2",
+            "BTTF II"
+          ]
+        },
+        {
+          "answer": "Who Framed Roger Rabbit",
+          "display": "$329,803,958",
+          "aliases": [
+            "Roger Rabbit"
+          ]
+        },
+        {
+          "answer": "Crocodile Dundee",
+          "display": "$328,203,506"
+        }
+      ]
+    },
+    {
+      "category": "movies/box-office",
+      "difficulty": 1,
+      "question": "Top 10 highest-grossing films released in the 1990s (unadjusted worldwide box office, as of August 2026)",
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1370622212 | table 1 | name: Title | value: Worldwide gross | where: Year~^199",
+      "tags": [
+        "movies",
+        "box-office",
+        "1990s"
+      ],
+      "answers": [
+        {
+          "answer": "Titanic",
+          "display": "$1,843,201,268"
+        },
+        {
+          "answer": "Star Wars: Episode I – The Phantom Menace",
+          "display": "$924,317,558",
+          "aliases": [
+            "The Phantom Menace",
+            "Phantom Menace",
+            "Episode I"
+          ]
+        },
+        {
+          "answer": "Jurassic Park",
+          "display": "$914,691,118"
+        },
+        {
+          "answer": "Independence Day",
+          "display": "$817,400,891",
+          "aliases": [
+            "ID4"
+          ]
+        },
+        {
+          "answer": "The Lion King",
+          "display": "$763,455,561",
+          "aliases": [
+            "Lion King"
+          ]
+        },
+        {
+          "answer": "Forrest Gump",
+          "display": "$677,387,716"
+        },
+        {
+          "answer": "The Sixth Sense",
+          "display": "$672,806,292",
+          "aliases": [
+            "Sixth Sense"
+          ]
+        },
+        {
+          "answer": "The Lost World: Jurassic Park",
+          "display": "$618,638,999",
+          "aliases": [
+            "Lost World"
+          ]
+        },
+        {
+          "answer": "Men in Black",
+          "display": "$589,390,539",
+          "aliases": [
+            "MIB"
+          ]
+        },
+        {
+          "answer": "Armageddon",
+          "display": "$553,709,788"
+        },
+        {
+          "answer": "Terminator 2: Judgment Day",
+          "display": "$519,843,345",
+          "aliases": [
+            "T2",
+            "Terminator 2"
+          ]
+        },
+        {
+          "answer": "Ghost",
+          "display": "$505,702,588"
+        },
+        {
+          "answer": "Aladdin",
+          "display": "$504,050,219"
+        }
+      ]
+    },
+    {
+      "category": "movies/box-office",
+      "difficulty": 2,
+      "question": "Top 10 highest-grossing films released in the 2000s (unadjusted worldwide box office, as of August 2026)",
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1369073362 | table 1 | name: Title | value: Worldwide gross | where: Year~^200",
+      "tags": [
+        "movies",
+        "box-office",
+        "2000s"
+      ],
+      "answers": [
+        {
+          "answer": "Avatar",
+          "display": "$2,743,577,587"
+        },
+        {
+          "answer": "The Lord of the Rings: The Return of the King",
+          "display": "$1,140,682,011",
+          "aliases": [
+            "Return of the King"
+          ]
+        },
+        {
+          "answer": "Pirates of the Caribbean: Dead Man's Chest",
+          "display": "$1,066,179,725",
+          "aliases": [
+            "Dead Man's Chest"
+          ]
+        },
+        {
+          "answer": "The Dark Knight",
+          "display": "$1,003,845,358",
+          "aliases": [
+            "Dark Knight"
+          ]
+        },
+        {
+          "answer": "Harry Potter and the Philosopher's Stone",
+          "display": "$974,755,371",
+          "aliases": [
+            "Philosopher's Stone",
+            "Sorcerer's Stone"
+          ]
+        },
+        {
+          "answer": "Pirates of the Caribbean: At World's End",
+          "display": "$960,996,492",
+          "aliases": [
+            "At World's End"
+          ]
+        },
+        {
+          "answer": "Harry Potter and the Order of the Phoenix",
+          "display": "$941,676,843",
+          "aliases": [
+            "Order of the Phoenix"
+          ]
+        },
+        {
+          "answer": "The Lord of the Rings: The Two Towers",
+          "display": "$936,689,735",
+          "aliases": [
+            "Two Towers"
+          ]
+        },
+        {
+          "answer": "Harry Potter and the Half-Blood Prince",
+          "display": "$933,959,197",
+          "aliases": [
+            "Half-Blood Prince"
+          ]
+        },
+        {
+          "answer": "Shrek 2",
+          "display": "$929,098,316"
+        },
+        {
+          "answer": "Harry Potter and the Goblet of Fire",
+          "display": "$895,921,036",
+          "aliases": [
+            "Goblet of Fire"
+          ]
+        },
+        {
+          "answer": "Spider-Man 3",
+          "display": "$895,871,626"
+        },
+        {
+          "answer": "Ice Age: Dawn of the Dinosaurs",
+          "display": "$886,686,817",
+          "aliases": [
+            "Ice Age 3"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "movies/box-office",
+      "cutoff": 7,
+      "difficulty": 2,
+      "question": "Top 7 highest-grossing films of 2012 (worldwide box office, as of September 2026)",
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1376008328 | table 1 | name: Title | value: Worldwide gross",
+      "tags": [
+        "movies",
+        "box-office"
+      ],
+      "answers": [
+        {
+          "answer": "The Avengers",
+          "display": "$1,518,812,988",
+          "aliases": [
+            "Avengers"
+          ]
+        },
+        {
+          "answer": "Skyfall",
+          "display": "$1,108,561,013"
+        },
+        {
+          "answer": "The Dark Knight Rises",
+          "display": "$1,081,041,287",
+          "aliases": [
+            "Dark Knight Rises"
+          ]
+        },
+        {
+          "answer": "The Hobbit: An Unexpected Journey",
+          "display": "$1,017,003,568",
+          "aliases": [
+            "An Unexpected Journey"
+          ]
+        },
+        {
+          "answer": "Ice Age: Continental Drift",
+          "display": "$877,244,782",
+          "aliases": [
+            "Continental Drift"
+          ]
+        },
+        {
+          "answer": "The Twilight Saga: Breaking Dawn – Part 2",
+          "display": "$829,746,820",
+          "aliases": [
+            "Breaking Dawn Part 2"
+          ]
+        },
+        {
+          "answer": "The Amazing Spider-Man",
+          "display": "$757,930,663",
+          "aliases": [
+            "Amazing Spider-Man"
+          ]
+        },
+        {
+          "answer": "Madagascar 3: Europe's Most Wanted",
+          "display": "$746,921,274",
+          "aliases": [
+            "Madagascar 3"
+          ]
+        },
+        {
+          "answer": "The Hunger Games",
+          "display": "$694,394,724",
+          "aliases": [
+            "Hunger Games"
+          ]
+        },
+        {
+          "answer": "Men in Black 3",
+          "display": "$654,213,485",
+          "aliases": [
+            "MIB 3"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "movies/box-office",
+      "cutoff": 7,
+      "difficulty": 2,
+      "question": "Top 7 highest-grossing films of 2019 (worldwide box office, as of October 2026)",
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1379396394 | table 1 | name: Title | value: Worldwide gross",
+      "tags": [
+        "movies",
+        "box-office"
+      ],
+      "answers": [
+        {
+          "answer": "Avengers: Endgame",
+          "display": "$2,799,439,100",
+          "aliases": [
+            "Endgame"
+          ]
+        },
+        {
+          "answer": "The Lion King",
+          "display": "$1,662,943,394",
+          "aliases": [
+            "Lion King"
+          ]
+        },
+        {
+          "answer": "Frozen II",
+          "display": "$1,453,026,933",
+          "aliases": [
+            "Frozen 2"
+          ]
+        },
+        {
+          "answer": "Spider-Man: Far From Home",
+          "display": "$1,133,927,996",
+          "aliases": [
+            "Far From Home"
+          ]
+        },
+        {
+          "answer": "Captain Marvel",
+          "display": "$1,131,274,794"
+        },
+        {
+          "answer": "Joker",
+          "display": "$1,079,751,311"
+        },
+        {
+          "answer": "Star Wars: The Rise of Skywalker",
+          "display": "$1,077,144,248",
+          "aliases": [
+            "Rise of Skywalker"
+          ]
+        },
+        {
+          "answer": "Toy Story 4",
+          "display": "$1,074,841,294"
+        },
+        {
+          "answer": "Aladdin",
+          "display": "$1,051,693,953"
+        },
+        {
+          "answer": "Jumanji: The Next Level",
+          "display": "$801,693,929",
+          "aliases": [
+            "Jumanji"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "movies/box-office",
+      "cutoff": 7,
+      "difficulty": 2,
+      "question": "Top 7 highest-grossing films of 2024 (worldwide box office, as of October 2026)",
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1377993317 | table 1 | name: Title | value: Worldwide gross",
+      "tags": [
+        "movies",
+        "box-office"
+      ],
+      "answers": [
+        {
+          "answer": "Inside Out 2",
+          "display": "$1,698,863,816"
+        },
+        {
+          "answer": "Deadpool & Wolverine",
+          "display": "$1,338,073,645",
+          "aliases": [
+            "Deadpool and Wolverine"
+          ]
+        },
+        {
+          "answer": "Moana 2",
+          "display": "$1,059,242,164"
+        },
+        {
+          "answer": "Despicable Me 4",
+          "display": "$972,021,410"
+        },
+        {
+          "answer": "Wicked",
+          "display": "$758,729,195"
+        },
+        {
+          "answer": "Mufasa: The Lion King",
+          "display": "$723,060,982",
+          "aliases": [
+            "Mufasa"
+          ]
+        },
+        {
+          "answer": "Dune: Part Two",
+          "display": "$715,409,065",
+          "aliases": [
+            "Dune 2"
+          ]
+        },
+        {
+          "answer": "Godzilla x Kong: The New Empire",
+          "display": "$572,505,338",
+          "aliases": [
+            "Godzilla x Kong"
+          ]
+        },
+        {
+          "answer": "Kung Fu Panda 4",
+          "display": "$547,689,492"
+        },
+        {
+          "answer": "Sonic the Hedgehog 3",
+          "display": "$492,162,604",
+          "aliases": [
+            "Sonic 3"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "movies/box-office",
+      "difficulty": 2,
+      "question": "Top 10 highest-grossing films in Japan (box office revenue in yen, as of October 2026)",
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1378640915 | table 1 | name: Title | value: Gross revenue | where: Title!~^indicates",
+      "tags": [
+        "movies",
+        "box-office",
+        "japan"
+      ],
+      "answers": [
+        {
+          "answer": "Demon Slayer: Mugen Train",
+          "display": "¥40.75 billion",
+          "aliases": [
+            "Mugen Train"
+          ]
+        },
+        {
+          "answer": "Demon Slayer: Infinity Castle",
+          "display": "¥40.36 billion",
+          "aliases": [
+            "Infinity Castle"
+          ]
+        },
+        {
+          "answer": "Spirited Away",
+          "display": "¥31.68 billion"
+        },
+        {
+          "answer": "Titanic",
+          "display": "¥27.77 billion"
+        },
+        {
+          "answer": "Frozen",
+          "display": "¥25.50 billion"
+        },
+        {
+          "answer": "Your Name",
+          "display": "¥25.17 billion"
+        },
+        {
+          "answer": "Princess Mononoke",
+          "display": "¥21.46 billion",
+          "aliases": [
+            "Mononoke"
+          ]
+        },
+        {
+          "answer": "Kokuho",
+          "display": "¥20.90 billion"
+        },
+        {
+          "answer": "One Piece Film: Red",
+          "display": "¥20.34 billion"
+        },
+        {
+          "answer": "Harry Potter and the Philosopher's Stone",
+          "display": "¥20.30 billion",
+          "aliases": [
+            "Philosopher's Stone"
+          ]
+        },
+        {
+          "answer": "Howl's Moving Castle",
+          "display": "¥19.60 billion",
+          "aliases": [
+            "Howl's"
+          ]
+        },
+        {
+          "answer": "Bayside Shakedown 2",
+          "display": "¥17.35 billion"
+        },
+        {
+          "answer": "Harry Potter and the Chamber of Secrets",
+          "display": "¥17.30 billion",
+          "aliases": [
+            "Chamber of Secrets"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "movies/box-office",
+      "difficulty": 2,
+      "question": "Top 10 highest-grossing foreign films in China (box office in yuan, as of October 2026)",
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1379008201 | table 2 | name: Title | value: Total gross",
+      "tags": [
+        "movies",
+        "box-office",
+        "china"
+      ],
+      "answers": [
+        {
+          "answer": "Zootopia 2",
+          "display": "CN¥4,594,840,000"
+        },
+        {
+          "answer": "Avengers: Endgame",
+          "display": "CN¥4,398,000,000",
+          "aliases": [
+            "Endgame"
+          ]
+        },
+        {
+          "answer": "The Fate of the Furious",
+          "display": "CN¥2,670,960,000",
+          "aliases": [
+            "Fate of the Furious",
+            "F8",
+            "Fast & Furious 8"
+          ]
+        },
+        {
+          "answer": "Furious 7",
+          "display": "CN¥2,446,310,000",
+          "aliases": [
+            "Furious Seven",
+            "Fast & Furious 7"
+          ]
+        },
+        {
+          "answer": "Avengers: Infinity War",
+          "display": "CN¥2,390,540,000",
+          "aliases": [
+            "Infinity War"
+          ]
+        },
+        {
+          "answer": "Aquaman",
+          "display": "CN¥2,013,200,000"
+        },
+        {
+          "answer": "Transformers: Age of Extinction",
+          "display": "CN¥1,977,520,000",
+          "aliases": [
+            "Age of Extinction"
+          ]
+        },
+        {
+          "answer": "Venom",
+          "display": "CN¥1,870,680,000"
+        },
+        {
+          "answer": "Avatar",
+          "display": "CN¥1,712,860,000"
+        },
+        {
+          "answer": "Avatar: The Way of Water",
+          "display": "CN¥1,697,500,000",
+          "aliases": [
+            "The Way of Water"
+          ]
+        },
+        {
+          "answer": "Jurassic World: Fallen Kingdom",
+          "display": "CN¥1,695,880,000",
+          "aliases": [
+            "Fallen Kingdom"
+          ]
+        },
+        {
+          "answer": "Spider-Man: Brand New Day",
+          "display": "CN¥1,614,347,900",
+          "aliases": [
+            "Brand New Day"
+          ]
+        },
+        {
+          "answer": "Transformers: The Last Knight",
+          "display": "CN¥1,551,240,000",
+          "aliases": [
+            "The Last Knight"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "movies/box-office",
+      "difficulty": 2,
+      "question": "Top 10 highest-grossing films in UK cinemas since 1989 (gross in £ million, including re-releases, as of October 2026)",
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1379094363 | table 1 | name: Title | value: Gross | where: Title!~^Films marked",
+      "tags": [
+        "movies",
+        "box-office",
+        "uk"
+      ],
+      "answers": [
+        {
+          "answer": "Star Wars: The Force Awakens",
+          "display": "£123.3 million",
+          "aliases": [
+            "The Force Awakens"
+          ]
+        },
+        {
+          "answer": "Skyfall",
+          "display": "£102.8 million"
+        },
+        {
+          "answer": "Spider-Man: Brand New Day",
+          "display": "£99.8 million",
+          "aliases": [
+            "Brand New Day"
+          ]
+        },
+        {
+          "answer": "No Time to Die",
+          "display": "£98.0 million"
+        },
+        {
+          "answer": "Spider-Man: No Way Home",
+          "display": "£97.2 million",
+          "aliases": [
+            "No Way Home"
+          ]
+        },
+        {
+          "answer": "Avatar",
+          "display": "£96.7 million"
+        },
+        {
+          "answer": "Barbie",
+          "display": "£95.7 million"
+        },
+        {
+          "answer": "Spectre",
+          "display": "£95.2 million"
+        },
+        {
+          "answer": "Avengers: Endgame",
+          "display": "£94.6 million",
+          "aliases": [
+            "Endgame"
+          ]
+        },
+        {
+          "answer": "The Odyssey",
+          "display": "£87.1 million"
+        },
+        {
+          "answer": "Top Gun: Maverick",
+          "display": "£83.8 million",
+          "aliases": [
+            "Top Gun"
+          ]
+        },
+        {
+          "answer": "Star Wars: The Last Jedi",
+          "display": "£82.7 million",
+          "aliases": [
+            "The Last Jedi"
+          ]
+        },
+        {
+          "answer": "Titanic",
+          "display": "£82.7 million"
+        },
+        {
+          "answer": "Avatar: The Way of Water",
+          "display": "£77.7 million",
+          "aliases": [
+            "The Way of Water"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "movies/box-office",
+      "difficulty": 2,
+      "question": "Top 10 highest-grossing R-rated films released before 2020 (MPA R rating in the US; worldwide box office, as of October 2026)",
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1379353613 | table 1 | name: Film | value: Worldwide gross | where: Year!~^202 | where: Film!~NA$",
+      "tags": [
+        "movies",
+        "box-office",
+        "r-rated"
+      ],
+      "answers": [
+        {
+          "answer": "Joker",
+          "display": "$1,078,751,311"
+        },
+        {
+          "answer": "Deadpool 2",
+          "display": "$785,896,632"
+        },
+        {
+          "answer": "Deadpool",
+          "display": "$782,612,155"
+        },
+        {
+          "answer": "The Matrix Reloaded",
+          "display": "$741,847,937",
+          "aliases": [
+            "Matrix Reloaded"
+          ]
+        },
+        {
+          "answer": "It",
+          "display": "$704,242,888"
+        },
+        {
+          "answer": "The Passion of the Christ",
+          "display": "$623,395,363",
+          "aliases": [
+            "Passion of the Christ"
+          ]
+        },
+        {
+          "answer": "Logan",
+          "display": "$619,021,436"
+        },
+        {
+          "answer": "The Hangover Part II",
+          "display": "$586,764,305",
+          "aliases": [
+            "The Hangover 2"
+          ]
+        },
+        {
+          "answer": "Fifty Shades of Grey",
+          "display": "$569,651,467",
+          "aliases": [
+            "Fifty Shades"
+          ]
+        },
+        {
+          "answer": "Ted",
+          "display": "$549,368,315"
+        },
+        {
+          "answer": "American Sniper",
+          "display": "$547,326,372"
+        },
+        {
+          "answer": "The Revenant",
+          "display": "$532,938,302"
+        },
+        {
+          "answer": "Terminator 2: Judgment Day",
+          "display": "$518,867,637",
+          "aliases": [
+            "T2",
+            "Terminator 2"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "movies/box-office",
+      "difficulty": 2,
+      "question": "Top 10 highest-grossing horror films released before 2020 (worldwide box office, as of October 2026)",
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1379149729 | table 1 | name: Film | value: Worldwide gross | where: Year!~^202",
+      "tags": [
+        "movies",
+        "box-office",
+        "horror"
+      ],
+      "answers": [
+        {
+          "answer": "It",
+          "display": "$719,766,009"
+        },
+        {
+          "answer": "The Sixth Sense",
+          "display": "$672,806,292",
+          "aliases": [
+            "Sixth Sense"
+          ]
+        },
+        {
+          "answer": "I Am Legend",
+          "display": "$585,532,684"
+        },
+        {
+          "answer": "World War Z",
+          "display": "$540,007,876",
+          "aliases": [
+            "WWZ"
+          ]
+        },
+        {
+          "answer": "Jaws",
+          "display": "$495,201,848"
+        },
+        {
+          "answer": "It Chapter Two",
+          "display": "$473,123,154",
+          "aliases": [
+            "It Chapter 2"
+          ]
+        },
+        {
+          "answer": "The Exorcist",
+          "display": "$430,872,776"
+        },
+        {
+          "answer": "Signs",
+          "display": "$408,250,578"
+        },
+        {
+          "answer": "Prometheus",
+          "display": "$403,354,469"
+        },
+        {
+          "answer": "The Nun",
+          "display": "$366,082,797"
+        },
+        {
+          "answer": "Hannibal",
+          "display": "$351,692,268"
+        },
+        {
+          "answer": "A Quiet Place",
+          "display": "$340,955,294"
+        },
+        {
+          "answer": "The Conjuring 2",
+          "display": "$322,811,702",
+          "aliases": [
+            "Conjuring 2"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "movies/box-office",
+      "difficulty": 1,
+      "question": "Top 10 films with the biggest worldwide openings (gross from first day of release through the first Sunday, USD, as of September 2026)",
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1373880396 | table 1 | name: Film | value: Opening",
+      "tags": [
+        "movies",
+        "box-office",
+        "opening-weekend"
+      ],
+      "answers": [
+        {
+          "answer": "Avengers: Endgame",
+          "display": "$1,223,641,414",
+          "aliases": [
+            "Endgame"
+          ]
+        },
+        {
+          "answer": "Spider-Man: Brand New Day",
+          "display": "$932,091,572",
+          "aliases": [
+            "Brand New Day"
+          ]
+        },
+        {
+          "answer": "Avengers: Infinity War",
+          "display": "$640,521,291",
+          "aliases": [
+            "Infinity War"
+          ]
+        },
+        {
+          "answer": "Spider-Man: No Way Home",
+          "display": "$600,506,041",
+          "aliases": [
+            "No Way Home"
+          ]
+        },
+        {
+          "answer": "Zootopia 2",
+          "display": "$560,333,554"
+        },
+        {
+          "answer": "The Fate of the Furious",
+          "display": "$541,937,239",
+          "aliases": [
+            "Fate of the Furious",
+            "F8",
+            "Fast & Furious 8"
+          ]
+        },
+        {
+          "answer": "Star Wars: The Force Awakens",
+          "display": "$528,966,675",
+          "aliases": [
+            "The Force Awakens"
+          ]
+        },
+        {
+          "answer": "Jurassic World",
+          "display": "$525,504,128"
+        },
+        {
+          "answer": "Harry Potter and the Deathly Hallows – Part 2",
+          "display": "$483,189,427",
+          "aliases": [
+            "Deathly Hallows Part 2"
+          ]
+        },
+        {
+          "answer": "Captain Marvel",
+          "display": "$456,718,598"
+        },
+        {
+          "answer": "Doctor Strange in the Multiverse of Madness",
+          "display": "$452,000,000",
+          "aliases": [
+            "Doctor Strange 2"
+          ]
+        },
+        {
+          "answer": "Star Wars: The Last Jedi",
+          "display": "$450,821,889",
+          "aliases": [
+            "The Last Jedi"
+          ]
+        },
+        {
+          "answer": "Deadpool & Wolverine",
+          "display": "$444,735,291",
+          "aliases": [
+            "Deadpool and Wolverine"
+          ]
+        }
+      ]
+    }
+  ]
+}

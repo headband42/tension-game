@@ -1,0 +1,539 @@
+{
+  "categories": [
+    {
+      "path": "geography/cities",
+      "name": "Cities"
+    },
+    {
+      "path": "geography/cities/usa",
+      "name": "USA"
+    }
+  ],
+  "questions": [
+    {
+      "category": "geography/cities/usa",
+      "difficulty": 1,
+      "question": "Top 10 most populated US cities (2025 estimate)",
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1379161001 | table 2 | name: Municipality | value: 2025 estimate",
+      "tags": [
+        "geography",
+        "cities",
+        "usa",
+        "population"
+      ],
+      "answers": [
+        {
+          "answer": "New York",
+          "display": "8,584,629",
+          "aliases": [
+            "NYC",
+            "New York City"
+          ]
+        },
+        {
+          "answer": "Los Angeles",
+          "display": "3,869,089",
+          "aliases": [
+            "LA"
+          ]
+        },
+        {
+          "answer": "Chicago",
+          "display": "2,731,585"
+        },
+        {
+          "answer": "Houston",
+          "display": "2,397,315"
+        },
+        {
+          "answer": "Phoenix",
+          "display": "1,665,481"
+        },
+        {
+          "answer": "Philadelphia",
+          "display": "1,574,281",
+          "aliases": [
+            "Philly"
+          ]
+        },
+        {
+          "answer": "San Antonio",
+          "display": "1,548,422"
+        },
+        {
+          "answer": "San Diego",
+          "display": "1,406,106"
+        },
+        {
+          "answer": "Dallas",
+          "display": "1,329,491"
+        },
+        {
+          "answer": "Fort Worth",
+          "display": "1,028,117"
+        },
+        {
+          "answer": "Jacksonville",
+          "display": "1,017,689"
+        },
+        {
+          "answer": "Austin",
+          "display": "1,002,632"
+        },
+        {
+          "answer": "San Jose",
+          "display": "989,814"
+        },
+        {
+          "answer": "Charlotte",
+          "display": "964,784"
+        }
+      ]
+    },
+    {
+      "category": "geography/cities/asia",
+      "difficulty": 1,
+      "question": "Top 10 largest cities in China by 2020 census population",
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1374268632 | table 3 | name: City | value: 2020 Census",
+      "tags": [
+        "geography",
+        "cities",
+        "china",
+        "population"
+      ],
+      "answers": [
+        {
+          "answer": "Shanghai",
+          "display": "21,909,814"
+        },
+        {
+          "answer": "Beijing",
+          "display": "18,960,744",
+          "aliases": [
+            "Peking"
+          ]
+        },
+        {
+          "answer": "Shenzhen",
+          "display": "17,444,609"
+        },
+        {
+          "answer": "Guangzhou",
+          "display": "16,096,724",
+          "aliases": [
+            "Canton"
+          ]
+        },
+        {
+          "answer": "Chengdu",
+          "display": "13,568,357"
+        },
+        {
+          "answer": "Tianjin",
+          "display": "11,052,404"
+        },
+        {
+          "answer": "Wuhan",
+          "display": "10,494,879"
+        },
+        {
+          "answer": "Dongguan",
+          "display": "9,644,871"
+        },
+        {
+          "answer": "Chongqing",
+          "display": "9,580,819"
+        },
+        {
+          "answer": "Xi'an",
+          "display": "9,392,938",
+          "aliases": [
+            "Xian"
+          ]
+        },
+        {
+          "answer": "Hangzhou",
+          "display": "9,236,032"
+        },
+        {
+          "answer": "Foshan",
+          "display": "9,042,509"
+        },
+        {
+          "answer": "Nanjing",
+          "display": "7,519,814"
+        },
+        {
+          "answer": "Shenyang",
+          "display": "7,026,358"
+        }
+      ]
+    },
+    {
+      "category": "geography/cities/asia",
+      "difficulty": 2,
+      "question": "Top 10 largest cities in India by 2011 census population",
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1378184247 | table 1 | name: Name | value: Census / 2011 Census | header rows: 2 | where: Name!=India",
+      "tags": [
+        "geography",
+        "cities",
+        "india",
+        "population"
+      ],
+      "answers": [
+        {
+          "answer": "Mumbai",
+          "display": "12,442,373",
+          "aliases": [
+            "Bombay"
+          ]
+        },
+        {
+          "answer": "Delhi",
+          "display": "11,034,555",
+          "aliases": [
+            "New Delhi"
+          ]
+        },
+        {
+          "answer": "Bengaluru",
+          "display": "8,443,675",
+          "aliases": [
+            "Bangalore"
+          ]
+        },
+        {
+          "answer": "Hyderabad",
+          "display": "6,993,262"
+        },
+        {
+          "answer": "Chennai",
+          "display": "6,748,026",
+          "aliases": [
+            "Madras"
+          ]
+        },
+        {
+          "answer": "Ahmedabad",
+          "display": "5,577,940"
+        },
+        {
+          "answer": "Kolkata",
+          "display": "4,496,694",
+          "aliases": [
+            "Calcutta"
+          ]
+        },
+        {
+          "answer": "Surat",
+          "display": "4,467,797"
+        },
+        {
+          "answer": "Pune",
+          "display": "3,124,458",
+          "aliases": [
+            "Poona"
+          ]
+        },
+        {
+          "answer": "Jaipur",
+          "display": "3,046,163",
+          "aliases": [
+            "Pink City"
+          ]
+        },
+        {
+          "answer": "Lucknow",
+          "display": "2,817,105"
+        },
+        {
+          "answer": "Kanpur",
+          "display": "2,765,348",
+          "aliases": [
+            "Cawnpore"
+          ]
+        },
+        {
+          "answer": "Nagpur",
+          "display": "2,405,665"
+        },
+        {
+          "answer": "Indore",
+          "display": "1,964,086"
+        }
+      ]
+    },
+    {
+      "category": "geography/cities/americas",
+      "difficulty": 1,
+      "question": "Top 10 largest cities in Brazil by 2025 estimate",
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1371063956 | table 2 | name: Municipality | value: 2025 estimate",
+      "tags": [
+        "geography",
+        "cities",
+        "brazil",
+        "population"
+      ],
+      "answers": [
+        {
+          "answer": "São Paulo",
+          "display": "11,904,961",
+          "aliases": [
+            "Sao Paulo"
+          ]
+        },
+        {
+          "answer": "Rio de Janeiro",
+          "display": "6,730,729",
+          "aliases": [
+            "Rio"
+          ]
+        },
+        {
+          "answer": "Brasília",
+          "display": "2,996,899",
+          "aliases": [
+            "Brasilia"
+          ]
+        },
+        {
+          "answer": "Fortaleza",
+          "display": "2,578,483"
+        },
+        {
+          "answer": "Salvador",
+          "display": "2,564,204"
+        },
+        {
+          "answer": "Belo Horizonte",
+          "display": "2,415,872"
+        },
+        {
+          "answer": "Manaus",
+          "display": "2,303,732"
+        },
+        {
+          "answer": "Curitiba",
+          "display": "1,830,795"
+        },
+        {
+          "answer": "Recife",
+          "display": "1,588,376"
+        },
+        {
+          "answer": "Goiânia",
+          "display": "1,503,256",
+          "aliases": [
+            "Goiania"
+          ]
+        },
+        {
+          "answer": "Belém",
+          "display": "1,397,315",
+          "aliases": [
+            "Belem"
+          ]
+        },
+        {
+          "answer": "Porto Alegre",
+          "display": "1,388,794"
+        },
+        {
+          "answer": "Guarulhos",
+          "display": "1,349,100"
+        },
+        {
+          "answer": "Campinas",
+          "display": "1,187,974"
+        }
+      ]
+    },
+    {
+      "category": "geography/cities/americas",
+      "difficulty": 1,
+      "question": "Top 10 largest metropolitan areas in Mexico by 2020 census population",
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1371661626 | table 1 | name: Metropolitan area | value: 2020 Census",
+      "tags": [
+        "geography",
+        "cities",
+        "mexico",
+        "population"
+      ],
+      "answers": [
+        {
+          "answer": "Mexico City",
+          "display": "21,804,515",
+          "aliases": [
+            "Greater Mexico City",
+            "Mexico City Metropolitan Area"
+          ]
+        },
+        {
+          "answer": "Monterrey",
+          "display": "5,341,171"
+        },
+        {
+          "answer": "Guadalajara",
+          "display": "5,286,642"
+        },
+        {
+          "answer": "Puebla",
+          "display": "3,199,530",
+          "aliases": [
+            "Puebla-Tlaxcala"
+          ]
+        },
+        {
+          "answer": "Toluca",
+          "display": "2,353,924"
+        },
+        {
+          "answer": "Tijuana",
+          "display": "2,157,853"
+        },
+        {
+          "answer": "León",
+          "display": "1,924,771",
+          "aliases": [
+            "Leon"
+          ]
+        },
+        {
+          "answer": "Querétaro",
+          "display": "1,594,212",
+          "aliases": [
+            "Queretaro"
+          ]
+        },
+        {
+          "answer": "Ciudad Juárez",
+          "display": "1,512,450",
+          "aliases": [
+            "Juárez",
+            "Juarez"
+          ]
+        },
+        {
+          "answer": "La Laguna",
+          "display": "1,434,283"
+        },
+        {
+          "answer": "Mérida",
+          "display": "1,316,088",
+          "aliases": [
+            "Merida"
+          ]
+        },
+        {
+          "answer": "San Luis Potosí",
+          "display": "1,271,366",
+          "aliases": [
+            "San Luis Potosi"
+          ]
+        },
+        {
+          "answer": "Aguascalientes",
+          "display": "1,225,432"
+        },
+        {
+          "answer": "Mexicali",
+          "display": "1,049,792"
+        }
+      ]
+    },
+    {
+      "category": "geography/cities",
+      "difficulty": 1,
+      "question": "Top 10 largest cities in the world by UN 2025 population estimate",
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1378652449 | table 1 | name: City | value: UN 2025 population estimates | header rows: 2",
+      "tags": [
+        "geography",
+        "cities",
+        "world",
+        "population"
+      ],
+      "answers": [
+        {
+          "answer": "Jakarta",
+          "display": "41,913,860"
+        },
+        {
+          "answer": "Dhaka",
+          "display": "36,585,479"
+        },
+        {
+          "answer": "Tokyo",
+          "display": "33,412,512"
+        },
+        {
+          "answer": "Delhi",
+          "display": "30,222,405",
+          "aliases": [
+            "New Delhi"
+          ]
+        },
+        {
+          "answer": "Shanghai",
+          "display": "29,558,908"
+        },
+        {
+          "answer": "Guangzhou",
+          "display": "27,563,372",
+          "aliases": [
+            "Canton"
+          ]
+        },
+        {
+          "answer": "Cairo",
+          "display": "25,566,102"
+        },
+        {
+          "answer": "Manila",
+          "display": "24,735,305"
+        },
+        {
+          "answer": "Kolkata",
+          "display": "22,549,738",
+          "aliases": [
+            "Calcutta"
+          ]
+        },
+        {
+          "answer": "Seoul",
+          "display": "22,490,482"
+        },
+        {
+          "answer": "Karachi",
+          "display": "21,422,590"
+        },
+        {
+          "answer": "Mumbai",
+          "display": "20,203,056",
+          "aliases": [
+            "Bombay"
+          ]
+        },
+        {
+          "answer": "São Paulo",
+          "display": "18,949,790",
+          "aliases": [
+            "Sao Paulo"
+          ]
+        },
+        {
+          "answer": "Bangkok",
+          "display": "18,180,280",
+          "aliases": [
+            "Krung Thep Maha Nakhon"
+          ]
+        }
+      ]
+    }
+  ]
+}

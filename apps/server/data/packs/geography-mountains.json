@@ -1,0 +1,333 @@
+{
+  "categories": [
+    {
+      "path": "geography/mountains/highest-points",
+      "name": "Highest Points"
+    }
+  ],
+  "questions": [
+    {
+      "category": "geography/mountains/highest-points",
+      "question": "Top 10 countries starting with A to M by highest point (elevation above sea level)",
+      "difficulty": 1,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1379598909 | table 1 | name: 1 | value: 3 | where: Country!=Earth | where: Country~^[A-M]",
+      "tags": [
+        "geography",
+        "mountains",
+        "countries",
+        "highest"
+      ],
+      "answers": [
+        {
+          "answer": "China",
+          "display": "8,849 m"
+        },
+        {
+          "answer": "India",
+          "display": "8,586 m"
+        },
+        {
+          "answer": "Bhutan",
+          "display": "7,571 m"
+        },
+        {
+          "answer": "Afghanistan",
+          "display": "7,492 m"
+        },
+        {
+          "answer": "Kyrgyzstan",
+          "display": "7,439 m",
+          "aliases": [
+            "kyrgyz republic"
+          ]
+        },
+        {
+          "answer": "Kazakhstan",
+          "display": "7,010 m"
+        },
+        {
+          "answer": "Argentina",
+          "display": "6,961 m"
+        },
+        {
+          "answer": "Chile",
+          "display": "6,893 m"
+        },
+        {
+          "answer": "Bolivia",
+          "display": "6,542 m"
+        },
+        {
+          "answer": "Ecuador",
+          "display": "6,263 m"
+        },
+        {
+          "answer": "Canada",
+          "display": "5,959 m"
+        },
+        {
+          "answer": "Myanmar",
+          "display": "5,881 m",
+          "aliases": [
+            "burma"
+          ]
+        },
+        {
+          "answer": "Colombia",
+          "display": "5,775 m"
+        },
+        {
+          "answer": "Mexico",
+          "display": "5,636 m"
+        },
+        {
+          "answer": "Iran",
+          "display": "5,609 m",
+          "aliases": [
+            "persia"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "geography/mountains/highest-points",
+      "question": "Top 10 countries by elevation span (highest point minus lowest point)",
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1379598909 | table 1 | name: 1 | value: 6 | where: Country!=Earth",
+      "tags": [
+        "geography",
+        "mountains",
+        "countries",
+        "elevation"
+      ],
+      "answers": [
+        {
+          "answer": "China",
+          "display": "9,003 m",
+          "aliases": [
+            "prc"
+          ]
+        },
+        {
+          "answer": "Nepal",
+          "display": "8,789 m"
+        },
+        {
+          "answer": "Pakistan",
+          "display": "8,611 m"
+        },
+        {
+          "answer": "India",
+          "display": "8,589 m"
+        },
+        {
+          "answer": "Bhutan",
+          "display": "7,473 m"
+        },
+        {
+          "answer": "Afghanistan",
+          "display": "7,234 m"
+        },
+        {
+          "answer": "Tajikistan",
+          "display": "7,195 m"
+        },
+        {
+          "answer": "Kazakhstan",
+          "display": "7,144 m"
+        },
+        {
+          "answer": "Argentina",
+          "display": "7,065 m"
+        },
+        {
+          "answer": "Kyrgyzstan",
+          "display": "7,004 m",
+          "aliases": [
+            "kyrgyz republic"
+          ]
+        },
+        {
+          "answer": "Chile",
+          "display": "6,893 m"
+        },
+        {
+          "answer": "Peru",
+          "display": "6,802 m"
+        },
+        {
+          "answer": "Bolivia",
+          "display": "6,452 m"
+        },
+        {
+          "answer": "United States",
+          "display": "6,276 m",
+          "aliases": [
+            "usa",
+            "us",
+            "united states of america",
+            "america"
+          ]
+        },
+        {
+          "answer": "Ecuador",
+          "display": "6,267 m"
+        }
+      ]
+    },
+    {
+      "category": "geography/mountains/highest-points",
+      "question": "Top 10 US states by highest point (above sea level, 50 states only)",
+      "difficulty": 1,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1379729671 | table 1 | name: 1 | value: 4 | header rows: 2 | where: State!~(American Samoa|Guam|Northern|Puerto|Virgin|District|Outlying)",
+      "tags": [
+        "geography",
+        "mountains",
+        "states",
+        "highest"
+      ],
+      "answers": [
+        {
+          "answer": "Alaska",
+          "display": "20,310 ft"
+        },
+        {
+          "answer": "California",
+          "display": "14,505 ft",
+          "aliases": [
+            "ca"
+          ]
+        },
+        {
+          "answer": "Colorado",
+          "display": "14,440 ft"
+        },
+        {
+          "answer": "Washington",
+          "display": "14,400 ft",
+          "aliases": [
+            "washington state"
+          ]
+        },
+        {
+          "answer": "Wyoming",
+          "display": "13,809 ft"
+        },
+        {
+          "answer": "Hawaii",
+          "display": "13,803 ft"
+        },
+        {
+          "answer": "Utah",
+          "display": "13,534 ft"
+        },
+        {
+          "answer": "New Mexico",
+          "display": "13,167 ft"
+        },
+        {
+          "answer": "Nevada",
+          "display": "13,147 ft"
+        },
+        {
+          "answer": "Montana",
+          "display": "12,807 ft"
+        },
+        {
+          "answer": "Idaho",
+          "display": "12,668 ft"
+        },
+        {
+          "answer": "Arizona",
+          "display": "12,637 ft"
+        },
+        {
+          "answer": "Oregon",
+          "display": "11,249 ft"
+        },
+        {
+          "answer": "Texas",
+          "display": "8,751 ft"
+        },
+        {
+          "answer": "South Dakota",
+          "display": "7,244 ft"
+        }
+      ]
+    },
+    {
+      "category": "geography/mountains/highest-points",
+      "question": "Top 10 US states by mean elevation (50 states only)",
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1379729671 | table 1 | name: 1 | value: 9 | header rows: 2 | where: State!~(American Samoa|Guam|Northern|Puerto|Virgin|District|Outlying)",
+      "tags": [
+        "geography",
+        "mountains",
+        "states",
+        "elevation"
+      ],
+      "answers": [
+        {
+          "answer": "Colorado",
+          "display": "6,800 ft"
+        },
+        {
+          "answer": "Wyoming",
+          "display": "6,700 ft"
+        },
+        {
+          "answer": "Utah",
+          "display": "6,100 ft"
+        },
+        {
+          "answer": "New Mexico",
+          "display": "5,700 ft"
+        },
+        {
+          "answer": "Nevada",
+          "display": "5,500 ft"
+        },
+        {
+          "answer": "Idaho",
+          "display": "5,000 ft"
+        },
+        {
+          "answer": "Arizona",
+          "display": "4,100 ft"
+        },
+        {
+          "answer": "Montana",
+          "display": "3,400 ft"
+        },
+        {
+          "answer": "Oregon",
+          "display": "3,300 ft"
+        },
+        {
+          "answer": "Hawaii",
+          "display": "3,030 ft"
+        },
+        {
+          "answer": "California",
+          "display": "2,900 ft"
+        },
+        {
+          "answer": "Nebraska",
+          "display": "2,600 ft"
+        },
+        {
+          "answer": "South Dakota",
+          "display": "2,200 ft"
+        },
+        {
+          "answer": "Kansas",
+          "display": "2,000 ft"
+        }
+      ]
+    }
+  ]
+}

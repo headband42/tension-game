@@ -1,0 +1,1911 @@
+{
+  "categories": [
+    {
+      "path": "sports/aquatics",
+      "name": "Aquatics"
+    },
+    {
+      "path": "sports/aquatics/world-championships",
+      "name": "World Championships"
+    },
+    {
+      "path": "sports/aquatics/world-championships/medal-tables",
+      "name": "Medal Tables"
+    },
+    {
+      "path": "sports/multi-sport",
+      "name": "Multi-Sport Games"
+    },
+    {
+      "path": "sports/multi-sport/universiade",
+      "name": "Universiade"
+    },
+    {
+      "path": "sports/multi-sport/universiade/medal-tables",
+      "name": "Medal Tables"
+    }
+  ],
+  "questions": [
+    {
+      "category": "sports/aquatics/world-championships/medal-tables",
+      "question": "Top 10 nations in the 1973 World Aquatics Championships medal table (ranked by gold medals, then silver, then bronze)",
+      "cutoff": 10,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1339660846 | table 1 | name: Nation | value: Rank | order: asc",
+      "tags": [
+        "aquatics",
+        "swimming",
+        "world-championships",
+        "medals",
+        "nations",
+        "1973"
+      ],
+      "answers": [
+        {
+          "answer": "United States",
+          "display": "#1 — 15 gold, 16 silver, 7 bronze",
+          "aliases": [
+            "USA",
+            "US",
+            "America"
+          ]
+        },
+        {
+          "answer": "East Germany",
+          "display": "#2 — 13 gold, 6 silver, 9 bronze",
+          "aliases": [
+            "GDR"
+          ]
+        },
+        {
+          "answer": "Italy",
+          "display": "#3 — 2 gold, 1 silver, 2 bronze"
+        },
+        {
+          "answer": "Hungary",
+          "display": "#4 — 2 gold, 1 silver, 1 bronze"
+        },
+        {
+          "answer": "Sweden",
+          "display": "#4 — 2 gold, 1 silver, 1 bronze"
+        },
+        {
+          "answer": "Canada",
+          "display": "#6 — 1 gold, 3 silver, 2 bronze"
+        },
+        {
+          "answer": "Australia",
+          "display": "#7 — 1 gold, 2 silver, 2 bronze"
+        },
+        {
+          "answer": "Great Britain",
+          "display": "#8 — 1 gold, 0 silver, 1 bronze",
+          "aliases": [
+            "GB",
+            "UK",
+            "Britain"
+          ]
+        },
+        {
+          "answer": "Soviet Union",
+          "display": "#9 — 0 gold, 4 silver, 1 bronze",
+          "aliases": [
+            "USSR"
+          ]
+        },
+        {
+          "answer": "Netherlands",
+          "display": "#10 — 0 gold, 1 silver, 1 bronze",
+          "aliases": [
+            "Holland"
+          ]
+        },
+        {
+          "answer": "Czechoslovakia",
+          "display": "#11 — 0 gold, 1 silver, 0 bronze"
+        },
+        {
+          "answer": "France",
+          "display": "#11 — 0 gold, 1 silver, 0 bronze"
+        },
+        {
+          "answer": "Japan",
+          "display": "#13 — 0 gold, 0 silver, 6 bronze"
+        }
+      ]
+    },
+    {
+      "category": "sports/aquatics/world-championships/medal-tables",
+      "question": "Top 10 nations in the 1975 World Aquatics Championships medal table (ranked by gold medals, then silver, then bronze)",
+      "cutoff": 10,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1312962727 | table 1 | name: Nation | value: Place | order: asc",
+      "tags": [
+        "aquatics",
+        "swimming",
+        "world-championships",
+        "medals",
+        "nations",
+        "1975"
+      ],
+      "answers": [
+        {
+          "answer": "United States",
+          "display": "#1 — 16 gold, 11 silver, 10 bronze",
+          "aliases": [
+            "USA",
+            "US",
+            "America"
+          ]
+        },
+        {
+          "answer": "East Germany",
+          "display": "#2 — 11 gold, 7 silver, 5 bronze",
+          "aliases": [
+            "GDR"
+          ]
+        },
+        {
+          "answer": "Hungary",
+          "display": "#3 — 3 gold, 1 silver, 0 bronze"
+        },
+        {
+          "answer": "Soviet Union",
+          "display": "#4 — 2 gold, 5 silver, 4 bronze",
+          "aliases": [
+            "USSR"
+          ]
+        },
+        {
+          "answer": "Great Britain",
+          "display": "#5 — 2 gold, 1 silver, 5 bronze",
+          "aliases": [
+            "GB",
+            "UK",
+            "Britain"
+          ]
+        },
+        {
+          "answer": "West Germany",
+          "display": "#6 — 1 gold, 2 silver, 1 bronze",
+          "aliases": [
+            "FRG"
+          ]
+        },
+        {
+          "answer": "Australia",
+          "display": "#7 — 1 gold, 2 silver, 0 bronze"
+        },
+        {
+          "answer": "Italy",
+          "display": "#8 — 1 gold, 1 silver, 2 bronze"
+        },
+        {
+          "answer": "Canada",
+          "display": "#9 — 0 gold, 4 silver, 2 bronze"
+        },
+        {
+          "answer": "Netherlands",
+          "display": "#10 — 0 gold, 2 silver, 3 bronze",
+          "aliases": [
+            "Holland"
+          ]
+        },
+        {
+          "answer": "Japan",
+          "display": "#11 — 0 gold, 1 silver, 3 bronze"
+        },
+        {
+          "answer": "Mexico",
+          "display": "#12 — 0 gold, 0 silver, 1 bronze"
+        },
+        {
+          "answer": "Sweden",
+          "display": "#12 — 0 gold, 0 silver, 1 bronze"
+        }
+      ]
+    },
+    {
+      "category": "sports/aquatics/world-championships/medal-tables",
+      "question": "Top 10 nations in the 1991 World Aquatics Championships medal table (ranked by gold medals, then silver, then bronze)",
+      "cutoff": 10,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1305041491 | table 1 | name: Nation | value: Place | order: asc",
+      "tags": [
+        "aquatics",
+        "swimming",
+        "world-championships",
+        "medals",
+        "nations",
+        "1991"
+      ],
+      "answers": [
+        {
+          "answer": "United States",
+          "display": "#1 — 17 gold, 11 silver, 6 bronze",
+          "aliases": [
+            "USA",
+            "US",
+            "America"
+          ]
+        },
+        {
+          "answer": "China",
+          "display": "#2 — 8 gold, 3 silver, 2 bronze",
+          "aliases": [
+            "PRC"
+          ]
+        },
+        {
+          "answer": "Hungary",
+          "display": "#3 — 5 gold, 2 silver, 2 bronze"
+        },
+        {
+          "answer": "Germany",
+          "display": "#4 — 4 gold, 9 silver, 9 bronze",
+          "aliases": [
+            "GER"
+          ]
+        },
+        {
+          "answer": "Australia",
+          "display": "#5 — 3 gold, 5 silver, 2 bronze"
+        },
+        {
+          "answer": "Netherlands",
+          "display": "#6 — 2 gold, 1 silver, 1 bronze",
+          "aliases": [
+            "Holland"
+          ]
+        },
+        {
+          "answer": "Soviet Union",
+          "display": "#7 — 1 gold, 3 silver, 6 bronze",
+          "aliases": [
+            "USSR"
+          ]
+        },
+        {
+          "answer": "Canada",
+          "display": "#8 — 1 gold, 3 silver, 1 bronze"
+        },
+        {
+          "answer": "Italy",
+          "display": "#9 — 1 gold, 2 silver, 4 bronze"
+        },
+        {
+          "answer": "Spain",
+          "display": "#10 — 1 gold, 1 silver, 1 bronze"
+        },
+        {
+          "answer": "Suriname",
+          "display": "#11 — 1 gold, 0 silver, 0 bronze"
+        },
+        {
+          "answer": "Yugoslavia",
+          "display": "#11 — 1 gold, 0 silver, 0 bronze"
+        },
+        {
+          "answer": "Japan",
+          "display": "#13 — 0 gold, 2 silver, 3 bronze"
+        }
+      ]
+    },
+    {
+      "category": "sports/aquatics/world-championships/medal-tables",
+      "question": "Top 10 nations in the 2003 World Aquatics Championships medal table (ranked by gold medals, then silver, then bronze)",
+      "cutoff": 10,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1368344349 | table 1 | name: Nation | value: Rank | order: asc",
+      "tags": [
+        "aquatics",
+        "swimming",
+        "world-championships",
+        "medals",
+        "nations",
+        "2003"
+      ],
+      "answers": [
+        {
+          "answer": "United States",
+          "display": "#1 — 12 gold, 13 silver, 6 bronze",
+          "aliases": [
+            "USA",
+            "US",
+            "America"
+          ]
+        },
+        {
+          "answer": "Russia",
+          "display": "#2 — 10 gold, 5 silver, 6 bronze",
+          "aliases": [
+            "Russian Federation"
+          ]
+        },
+        {
+          "answer": "Australia",
+          "display": "#3 — 8 gold, 12 silver, 6 bronze"
+        },
+        {
+          "answer": "China",
+          "display": "#4 — 7 gold, 4 silver, 8 bronze",
+          "aliases": [
+            "PRC"
+          ]
+        },
+        {
+          "answer": "Germany",
+          "display": "#5 — 5 gold, 6 silver, 5 bronze",
+          "aliases": [
+            "GER"
+          ]
+        },
+        {
+          "answer": "Japan",
+          "display": "#6 — 3 gold, 3 silver, 3 bronze"
+        },
+        {
+          "answer": "Netherlands",
+          "display": "#7 — 3 gold, 2 silver, 2 bronze",
+          "aliases": [
+            "Holland"
+          ]
+        },
+        {
+          "answer": "Great Britain",
+          "display": "#8 — 2 gold, 3 silver, 3 bronze",
+          "aliases": [
+            "GB",
+            "UK",
+            "Britain"
+          ]
+        },
+        {
+          "answer": "Ukraine",
+          "display": "#9 — 2 gold, 3 silver, 2 bronze"
+        },
+        {
+          "answer": "Italy",
+          "display": "#10 — 2 gold, 2 silver, 1 bronze"
+        },
+        {
+          "answer": "Canada",
+          "display": "#11 — 2 gold, 0 silver, 1 bronze"
+        },
+        {
+          "answer": "Hungary",
+          "display": "#12 — 1 gold, 4 silver, 1 bronze"
+        },
+        {
+          "answer": "Spain",
+          "display": "#13 — 1 gold, 2 silver, 3 bronze"
+        }
+      ]
+    },
+    {
+      "category": "sports/aquatics/world-championships/medal-tables",
+      "question": "Top 10 nations in the 2005 World Aquatics Championships medal table (ranked by gold medals, then silver, then bronze)",
+      "cutoff": 10,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1299191136 | table 1 | name: Nation | value: Rank | order: asc",
+      "tags": [
+        "aquatics",
+        "swimming",
+        "world-championships",
+        "medals",
+        "nations",
+        "2005"
+      ],
+      "answers": [
+        {
+          "answer": "United States",
+          "display": "#1 — 17 gold, 15 silver, 7 bronze",
+          "aliases": [
+            "USA",
+            "US",
+            "America"
+          ]
+        },
+        {
+          "answer": "Australia",
+          "display": "#2 — 13 gold, 8 silver, 4 bronze"
+        },
+        {
+          "answer": "China",
+          "display": "#3 — 5 gold, 5 silver, 7 bronze",
+          "aliases": [
+            "PRC"
+          ]
+        },
+        {
+          "answer": "Russia",
+          "display": "#4 — 5 gold, 3 silver, 2 bronze",
+          "aliases": [
+            "Russian Federation"
+          ]
+        },
+        {
+          "answer": "Canada",
+          "display": "#5 — 3 gold, 4 silver, 3 bronze"
+        },
+        {
+          "answer": "France",
+          "display": "#6 — 3 gold, 1 silver, 1 bronze"
+        },
+        {
+          "answer": "Germany",
+          "display": "#7 — 2 gold, 7 silver, 4 bronze",
+          "aliases": [
+            "GER"
+          ]
+        },
+        {
+          "answer": "Hungary",
+          "display": "#8 — 2 gold, 2 silver, 1 bronze"
+        },
+        {
+          "answer": "Zimbabwe",
+          "display": "#9 — 2 gold, 2 silver, 0 bronze"
+        },
+        {
+          "answer": "South Africa",
+          "display": "#10 — 2 gold, 1 silver, 2 bronze",
+          "aliases": [
+            "RSA"
+          ]
+        },
+        {
+          "answer": "Netherlands",
+          "display": "#11 — 2 gold, 1 silver, 1 bronze",
+          "aliases": [
+            "Holland"
+          ]
+        },
+        {
+          "answer": "Poland",
+          "display": "#12 — 2 gold, 0 silver, 2 bronze"
+        },
+        {
+          "answer": "Italy",
+          "display": "#13 — 1 gold, 3 silver, 3 bronze"
+        }
+      ]
+    },
+    {
+      "category": "sports/aquatics/world-championships/medal-tables",
+      "question": "Top 10 nations in the 2007 World Aquatics Championships medal table (ranked by gold medals, then silver, then bronze)",
+      "cutoff": 10,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1339752303 | table 1 | name: Nation | value: Rank | order: asc",
+      "tags": [
+        "aquatics",
+        "swimming",
+        "world-championships",
+        "medals",
+        "nations",
+        "2007"
+      ],
+      "answers": [
+        {
+          "answer": "United States",
+          "display": "#1 — 21 gold, 14 silver, 5 bronze",
+          "aliases": [
+            "USA",
+            "US",
+            "America"
+          ]
+        },
+        {
+          "answer": "Russia",
+          "display": "#2 — 11 gold, 6 silver, 8 bronze",
+          "aliases": [
+            "Russian Federation"
+          ]
+        },
+        {
+          "answer": "Australia",
+          "display": "#3 — 9 gold, 9 silver, 8 bronze"
+        },
+        {
+          "answer": "China",
+          "display": "#4 — 9 gold, 5 silver, 2 bronze",
+          "aliases": [
+            "PRC"
+          ]
+        },
+        {
+          "answer": "France",
+          "display": "#5 — 3 gold, 2 silver, 2 bronze"
+        },
+        {
+          "answer": "Germany",
+          "display": "#6 — 2 gold, 5 silver, 4 bronze",
+          "aliases": [
+            "GER"
+          ]
+        },
+        {
+          "answer": "Poland",
+          "display": "#7 — 2 gold, 1 silver, 1 bronze"
+        },
+        {
+          "answer": "South Africa",
+          "display": "#8 — 2 gold, 0 silver, 1 bronze",
+          "aliases": [
+            "RSA"
+          ]
+        },
+        {
+          "answer": "Japan",
+          "display": "#9 — 1 gold, 4 silver, 8 bronze"
+        },
+        {
+          "answer": "Canada",
+          "display": "#10 — 1 gold, 3 silver, 1 bronze"
+        },
+        {
+          "answer": "Italy",
+          "display": "#11 — 1 gold, 2 silver, 6 bronze"
+        },
+        {
+          "answer": "Sweden",
+          "display": "#12 — 1 gold, 1 silver, 1 bronze"
+        },
+        {
+          "answer": "South Korea",
+          "display": "#13 — 1 gold, 0 silver, 1 bronze",
+          "aliases": [
+            "Korea",
+            "ROK"
+          ]
+        },
+        {
+          "answer": "Ukraine",
+          "display": "#13 — 1 gold, 0 silver, 1 bronze"
+        }
+      ]
+    },
+    {
+      "category": "sports/aquatics/world-championships/medal-tables",
+      "question": "Top 10 nations in the 2009 World Aquatics Championships medal table (ranked by gold medals, then silver, then bronze)",
+      "cutoff": 10,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1366104865 | table 1 | name: Nation | value: Rank | order: asc",
+      "tags": [
+        "aquatics",
+        "swimming",
+        "world-championships",
+        "medals",
+        "nations",
+        "2009"
+      ],
+      "answers": [
+        {
+          "answer": "United States",
+          "display": "#1 — 11 gold, 11 silver, 7 bronze",
+          "aliases": [
+            "USA",
+            "US",
+            "America"
+          ]
+        },
+        {
+          "answer": "China",
+          "display": "#2 — 11 gold, 7 silver, 11 bronze",
+          "aliases": [
+            "PRC"
+          ]
+        },
+        {
+          "answer": "Russia",
+          "display": "#3 — 8 gold, 8 silver, 4 bronze",
+          "aliases": [
+            "Russian Federation"
+          ]
+        },
+        {
+          "answer": "Germany",
+          "display": "#4 — 7 gold, 4 silver, 1 bronze",
+          "aliases": [
+            "GER"
+          ]
+        },
+        {
+          "answer": "Australia",
+          "display": "#5 — 4 gold, 5 silver, 10 bronze"
+        },
+        {
+          "answer": "Great Britain",
+          "display": "#6 — 4 gold, 3 silver, 2 bronze",
+          "aliases": [
+            "GB",
+            "UK",
+            "Britain"
+          ]
+        },
+        {
+          "answer": "Italy",
+          "display": "#7 — 4 gold, 1 silver, 5 bronze"
+        },
+        {
+          "answer": "Serbia",
+          "display": "#8 — 3 gold, 1 silver, 0 bronze"
+        },
+        {
+          "answer": "Hungary",
+          "display": "#9 — 2 gold, 1 silver, 3 bronze"
+        },
+        {
+          "answer": "Brazil",
+          "display": "#10 — 2 gold, 1 silver, 1 bronze"
+        },
+        {
+          "answer": "Spain",
+          "display": "#11 — 1 gold, 7 silver, 3 bronze"
+        },
+        {
+          "answer": "Japan",
+          "display": "#12 — 1 gold, 2 silver, 1 bronze"
+        },
+        {
+          "answer": "Tunisia",
+          "display": "#13 — 1 gold, 2 silver, 0 bronze"
+        }
+      ]
+    },
+    {
+      "category": "sports/aquatics/world-championships/medal-tables",
+      "question": "Top 10 nations in the 2011 World Aquatics Championships medal table (ranked by gold medals, then silver, then bronze)",
+      "cutoff": 10,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1271885462 | table 3 | name: Nation | value: Rank | order: asc",
+      "tags": [
+        "aquatics",
+        "swimming",
+        "world-championships",
+        "medals",
+        "nations",
+        "2011"
+      ],
+      "answers": [
+        {
+          "answer": "United States",
+          "display": "#1 — 17 gold, 6 silver, 9 bronze",
+          "aliases": [
+            "USA",
+            "US",
+            "America"
+          ]
+        },
+        {
+          "answer": "China",
+          "display": "#2 — 15 gold, 13 silver, 8 bronze",
+          "aliases": [
+            "PRC"
+          ]
+        },
+        {
+          "answer": "Russia",
+          "display": "#3 — 8 gold, 6 silver, 4 bronze",
+          "aliases": [
+            "Russian Federation"
+          ]
+        },
+        {
+          "answer": "Brazil",
+          "display": "#4 — 4 gold, 0 silver, 0 bronze"
+        },
+        {
+          "answer": "Italy",
+          "display": "#5 — 3 gold, 4 silver, 2 bronze"
+        },
+        {
+          "answer": "Great Britain",
+          "display": "#6 — 3 gold, 3 silver, 0 bronze",
+          "aliases": [
+            "GB",
+            "UK",
+            "Britain"
+          ]
+        },
+        {
+          "answer": "Australia",
+          "display": "#7 — 2 gold, 10 silver, 4 bronze"
+        },
+        {
+          "answer": "France",
+          "display": "#8 — 2 gold, 4 silver, 5 bronze"
+        },
+        {
+          "answer": "Netherlands",
+          "display": "#9 — 2 gold, 1 silver, 3 bronze",
+          "aliases": [
+            "Holland"
+          ]
+        },
+        {
+          "answer": "Greece",
+          "display": "#10 — 2 gold, 1 silver, 1 bronze"
+        },
+        {
+          "answer": "Denmark",
+          "display": "#11 — 2 gold, 1 silver, 0 bronze"
+        },
+        {
+          "answer": "Germany",
+          "display": "#12 — 1 gold, 3 silver, 9 bronze",
+          "aliases": [
+            "GER"
+          ]
+        },
+        {
+          "answer": "Sweden",
+          "display": "#13 — 1 gold, 1 silver, 0 bronze"
+        }
+      ]
+    },
+    {
+      "category": "sports/aquatics/world-championships/medal-tables",
+      "question": "Top 10 nations in the 2013 World Aquatics Championships medal table (ranked by gold medals, then silver, then bronze)",
+      "cutoff": 10,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1336258157 | table 3 | name: Nation | value: Rank | order: asc",
+      "tags": [
+        "aquatics",
+        "swimming",
+        "world-championships",
+        "medals",
+        "nations",
+        "2013"
+      ],
+      "answers": [
+        {
+          "answer": "United States",
+          "display": "#1 — 15 gold, 10 silver, 9 bronze",
+          "aliases": [
+            "USA",
+            "US",
+            "America"
+          ]
+        },
+        {
+          "answer": "China",
+          "display": "#2 — 14 gold, 8 silver, 4 bronze",
+          "aliases": [
+            "PRC"
+          ]
+        },
+        {
+          "answer": "Russia",
+          "display": "#3 — 9 gold, 6 silver, 4 bronze",
+          "aliases": [
+            "Russian Federation"
+          ]
+        },
+        {
+          "answer": "France",
+          "display": "#4 — 4 gold, 1 silver, 4 bronze"
+        },
+        {
+          "answer": "Hungary",
+          "display": "#5 — 4 gold, 1 silver, 2 bronze"
+        },
+        {
+          "answer": "Australia",
+          "display": "#6 — 3 gold, 11 silver, 0 bronze"
+        },
+        {
+          "answer": "Germany",
+          "display": "#7 — 3 gold, 3 silver, 4 bronze",
+          "aliases": [
+            "GER"
+          ]
+        },
+        {
+          "answer": "Brazil",
+          "display": "#8 — 3 gold, 2 silver, 5 bronze"
+        },
+        {
+          "answer": "South Africa",
+          "display": "#9 — 3 gold, 1 silver, 1 bronze",
+          "aliases": [
+            "RSA"
+          ]
+        },
+        {
+          "answer": "Spain",
+          "display": "#10 — 1 gold, 6 silver, 5 bronze"
+        },
+        {
+          "answer": "Italy",
+          "display": "#11 — 1 gold, 3 silver, 1 bronze"
+        },
+        {
+          "answer": "Denmark",
+          "display": "#12 — 1 gold, 3 silver, 0 bronze"
+        },
+        {
+          "answer": "Japan",
+          "display": "#13 — 1 gold, 2 silver, 3 bronze"
+        }
+      ]
+    },
+    {
+      "category": "sports/aquatics/world-championships/medal-tables",
+      "question": "Top 10 nations in the 2015 World Aquatics Championships medal table (ranked by gold medals, then silver, then bronze)",
+      "cutoff": 10,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1330382673 | table 4 | name: Nation | value: Rank | order: asc",
+      "tags": [
+        "aquatics",
+        "swimming",
+        "world-championships",
+        "medals",
+        "nations",
+        "2015"
+      ],
+      "answers": [
+        {
+          "answer": "China",
+          "display": "#1 — 15 gold, 10 silver, 10 bronze",
+          "aliases": [
+            "PRC"
+          ]
+        },
+        {
+          "answer": "United States",
+          "display": "#2 — 13 gold, 14 silver, 6 bronze",
+          "aliases": [
+            "USA",
+            "US",
+            "America"
+          ]
+        },
+        {
+          "answer": "Russia",
+          "display": "#3 — 9 gold, 4 silver, 4 bronze",
+          "aliases": [
+            "Russian Federation"
+          ]
+        },
+        {
+          "answer": "Australia",
+          "display": "#4 — 7 gold, 3 silver, 8 bronze"
+        },
+        {
+          "answer": "Great Britain",
+          "display": "#5 — 7 gold, 1 silver, 6 bronze",
+          "aliases": [
+            "GB",
+            "UK",
+            "Britain"
+          ]
+        },
+        {
+          "answer": "France",
+          "display": "#6 — 5 gold, 1 silver, 1 bronze"
+        },
+        {
+          "answer": "Italy",
+          "display": "#7 — 3 gold, 3 silver, 8 bronze"
+        },
+        {
+          "answer": "Hungary",
+          "display": "#8 — 3 gold, 3 silver, 4 bronze"
+        },
+        {
+          "answer": "Sweden",
+          "display": "#9 — 3 gold, 2 silver, 1 bronze"
+        },
+        {
+          "answer": "Japan",
+          "display": "#10 — 3 gold, 1 silver, 4 bronze"
+        },
+        {
+          "answer": "South Africa",
+          "display": "#11 — 2 gold, 3 silver, 0 bronze",
+          "aliases": [
+            "RSA"
+          ]
+        },
+        {
+          "answer": "Germany",
+          "display": "#12 — 2 gold, 1 silver, 4 bronze",
+          "aliases": [
+            "GER"
+          ]
+        },
+        {
+          "answer": "Brazil",
+          "display": "#13 — 1 gold, 4 silver, 2 bronze"
+        }
+      ]
+    },
+    {
+      "category": "sports/aquatics/world-championships/medal-tables",
+      "question": "Top 10 nations in the 2017 World Aquatics Championships medal table (ranked by gold medals, then silver, then bronze)",
+      "cutoff": 10,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1318479156 | table 3 | name: Nation | value: Rank | order: asc",
+      "tags": [
+        "aquatics",
+        "swimming",
+        "world-championships",
+        "medals",
+        "nations",
+        "2017"
+      ],
+      "answers": [
+        {
+          "answer": "United States",
+          "display": "#1 — 21 gold, 12 silver, 13 bronze",
+          "aliases": [
+            "USA",
+            "US",
+            "America"
+          ]
+        },
+        {
+          "answer": "China",
+          "display": "#2 — 12 gold, 12 silver, 6 bronze",
+          "aliases": [
+            "PRC"
+          ]
+        },
+        {
+          "answer": "Russia",
+          "display": "#3 — 11 gold, 6 silver, 8 bronze",
+          "aliases": [
+            "Russian Federation"
+          ]
+        },
+        {
+          "answer": "France",
+          "display": "#4 — 6 gold, 1 silver, 2 bronze"
+        },
+        {
+          "answer": "Great Britain",
+          "display": "#5 — 5 gold, 3 silver, 3 bronze",
+          "aliases": [
+            "GB",
+            "UK",
+            "Britain"
+          ]
+        },
+        {
+          "answer": "Italy",
+          "display": "#6 — 4 gold, 3 silver, 9 bronze"
+        },
+        {
+          "answer": "Australia",
+          "display": "#7 — 3 gold, 5 silver, 4 bronze"
+        },
+        {
+          "answer": "Sweden",
+          "display": "#8 — 3 gold, 1 silver, 0 bronze"
+        },
+        {
+          "answer": "Hungary",
+          "display": "#9 — 2 gold, 5 silver, 2 bronze"
+        },
+        {
+          "answer": "Brazil",
+          "display": "#10 — 2 gold, 4 silver, 2 bronze"
+        },
+        {
+          "answer": "Spain",
+          "display": "#11 — 1 gold, 5 silver, 0 bronze"
+        },
+        {
+          "answer": "Netherlands",
+          "display": "#12 — 1 gold, 4 silver, 1 bronze",
+          "aliases": [
+            "Holland"
+          ]
+        },
+        {
+          "answer": "Canada",
+          "display": "#13 — 1 gold, 1 silver, 5 bronze"
+        }
+      ]
+    },
+    {
+      "category": "sports/aquatics/world-championships/medal-tables",
+      "question": "Top 10 nations in the 2019 World Aquatics Championships medal table (ranked by gold medals, then silver, then bronze)",
+      "cutoff": 10,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1377413819 | table 3 | name: Nation | value: Rank | order: asc",
+      "tags": [
+        "aquatics",
+        "swimming",
+        "world-championships",
+        "medals",
+        "nations",
+        "2019"
+      ],
+      "answers": [
+        {
+          "answer": "China",
+          "display": "#1 — 16 gold, 11 silver, 3 bronze",
+          "aliases": [
+            "PRC"
+          ]
+        },
+        {
+          "answer": "United States",
+          "display": "#2 — 15 gold, 11 silver, 10 bronze",
+          "aliases": [
+            "USA",
+            "US",
+            "America"
+          ]
+        },
+        {
+          "answer": "Russia",
+          "display": "#3 — 12 gold, 11 silver, 7 bronze",
+          "aliases": [
+            "Russian Federation"
+          ]
+        },
+        {
+          "answer": "Australia",
+          "display": "#4 — 7 gold, 9 silver, 7 bronze"
+        },
+        {
+          "answer": "Hungary",
+          "display": "#5 — 5 gold, 0 silver, 0 bronze"
+        },
+        {
+          "answer": "Italy",
+          "display": "#6 — 4 gold, 6 silver, 5 bronze"
+        },
+        {
+          "answer": "Great Britain",
+          "display": "#7 — 4 gold, 2 silver, 6 bronze",
+          "aliases": [
+            "GB",
+            "UK",
+            "Britain"
+          ]
+        },
+        {
+          "answer": "Germany",
+          "display": "#8 — 3 gold, 2 silver, 3 bronze",
+          "aliases": [
+            "GER"
+          ]
+        },
+        {
+          "answer": "Brazil",
+          "display": "#9 — 2 gold, 3 silver, 2 bronze"
+        },
+        {
+          "answer": "Canada",
+          "display": "#10 — 2 gold, 2 silver, 7 bronze"
+        },
+        {
+          "answer": "Japan",
+          "display": "#11 — 2 gold, 2 silver, 6 bronze"
+        },
+        {
+          "answer": "France",
+          "display": "#12 — 1 gold, 3 silver, 3 bronze"
+        },
+        {
+          "answer": "Sweden",
+          "display": "#13 — 1 gold, 2 silver, 2 bronze"
+        }
+      ]
+    },
+    {
+      "category": "sports/aquatics/world-championships/medal-tables",
+      "question": "Top 10 nations in the 2022 World Aquatics Championships medal table (ranked by gold medals, then silver, then bronze)",
+      "cutoff": 10,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1339338901 | table 3 | name: Nation | value: Rank | order: asc",
+      "tags": [
+        "aquatics",
+        "swimming",
+        "world-championships",
+        "medals",
+        "nations",
+        "2022"
+      ],
+      "answers": [
+        {
+          "answer": "United States",
+          "display": "#1 — 18 gold, 14 silver, 17 bronze",
+          "aliases": [
+            "USA",
+            "US",
+            "America"
+          ]
+        },
+        {
+          "answer": "China",
+          "display": "#2 — 18 gold, 2 silver, 8 bronze",
+          "aliases": [
+            "PRC"
+          ]
+        },
+        {
+          "answer": "Italy",
+          "display": "#3 — 9 gold, 7 silver, 6 bronze"
+        },
+        {
+          "answer": "Australia",
+          "display": "#4 — 6 gold, 9 silver, 4 bronze"
+        },
+        {
+          "answer": "Canada",
+          "display": "#5 — 3 gold, 5 silver, 6 bronze"
+        },
+        {
+          "answer": "Japan",
+          "display": "#6 — 2 gold, 8 silver, 3 bronze"
+        },
+        {
+          "answer": "France",
+          "display": "#7 — 2 gold, 7 silver, 2 bronze"
+        },
+        {
+          "answer": "Ukraine",
+          "display": "#8 — 2 gold, 6 silver, 2 bronze"
+        },
+        {
+          "answer": "Germany",
+          "display": "#9 — 2 gold, 5 silver, 3 bronze",
+          "aliases": [
+            "GER"
+          ]
+        },
+        {
+          "answer": "Hungary",
+          "display": "#10 — 2 gold, 2 silver, 1 bronze"
+        },
+        {
+          "answer": "Sweden",
+          "display": "#11 — 2 gold, 2 silver, 0 bronze"
+        },
+        {
+          "answer": "Brazil",
+          "display": "#12 — 2 gold, 1 silver, 2 bronze"
+        },
+        {
+          "answer": "Romania",
+          "display": "#13 — 2 gold, 0 silver, 0 bronze"
+        }
+      ]
+    },
+    {
+      "category": "sports/aquatics/world-championships/medal-tables",
+      "question": "Top 10 nations in the 2023 World Aquatics Championships medal table (ranked by gold medals, then silver, then bronze)",
+      "cutoff": 10,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1377339454 | table 3 | name: Nation | value: Rank | order: asc",
+      "tags": [
+        "aquatics",
+        "swimming",
+        "world-championships",
+        "medals",
+        "nations",
+        "2023"
+      ],
+      "answers": [
+        {
+          "answer": "China",
+          "display": "#1 — 20 gold, 8 silver, 12 bronze",
+          "aliases": [
+            "PRC"
+          ]
+        },
+        {
+          "answer": "Australia",
+          "display": "#2 — 15 gold, 9 silver, 6 bronze"
+        },
+        {
+          "answer": "United States",
+          "display": "#3 — 7 gold, 22 silver, 15 bronze",
+          "aliases": [
+            "USA",
+            "US",
+            "America"
+          ]
+        },
+        {
+          "answer": "Japan",
+          "display": "#4 — 4 gold, 1 silver, 5 bronze"
+        },
+        {
+          "answer": "France",
+          "display": "#5 — 4 gold, 0 silver, 4 bronze"
+        },
+        {
+          "answer": "Germany",
+          "display": "#6 — 4 gold, 0 silver, 3 bronze",
+          "aliases": [
+            "GER"
+          ]
+        },
+        {
+          "answer": "Spain",
+          "display": "#7 — 3 gold, 2 silver, 4 bronze"
+        },
+        {
+          "answer": "Italy",
+          "display": "#8 — 2 gold, 7 silver, 5 bronze"
+        },
+        {
+          "answer": "Great Britain",
+          "display": "#9 — 2 gold, 5 silver, 5 bronze",
+          "aliases": [
+            "GB",
+            "UK",
+            "Britain"
+          ]
+        },
+        {
+          "answer": "Canada",
+          "display": "#10 — 2 gold, 3 silver, 5 bronze"
+        },
+        {
+          "answer": "Hungary",
+          "display": "#11 — 2 gold, 2 silver, 0 bronze"
+        },
+        {
+          "answer": "Tunisia",
+          "display": "#12 — 2 gold, 1 silver, 0 bronze"
+        },
+        {
+          "answer": "Lithuania",
+          "display": "#13 — 2 gold, 0 silver, 0 bronze"
+        },
+        {
+          "answer": "Sweden",
+          "display": "#13 — 2 gold, 0 silver, 0 bronze"
+        }
+      ]
+    },
+    {
+      "category": "sports/aquatics/world-championships/medal-tables",
+      "question": "Top 9 nations in the 2024 World Aquatics Championships medal table (ranked by gold medals, then silver, then bronze)",
+      "cutoff": 9,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1377961142 | table 3 | name: Nation | value: Rank | order: asc",
+      "tags": [
+        "aquatics",
+        "swimming",
+        "world-championships",
+        "medals",
+        "nations",
+        "2024"
+      ],
+      "answers": [
+        {
+          "answer": "China",
+          "display": "#1 — 23 gold, 8 silver, 2 bronze",
+          "aliases": [
+            "PRC"
+          ]
+        },
+        {
+          "answer": "United States",
+          "display": "#2 — 9 gold, 6 silver, 8 bronze",
+          "aliases": [
+            "USA",
+            "US",
+            "America"
+          ]
+        },
+        {
+          "answer": "Australia",
+          "display": "#3 — 7 gold, 12 silver, 5 bronze"
+        },
+        {
+          "answer": "Netherlands",
+          "display": "#4 — 5 gold, 4 silver, 0 bronze",
+          "aliases": [
+            "Holland"
+          ]
+        },
+        {
+          "answer": "France",
+          "display": "#5 — 4 gold, 5 silver, 9 bronze"
+        },
+        {
+          "answer": "Great Britain",
+          "display": "#5 — 4 gold, 5 silver, 9 bronze",
+          "aliases": [
+            "GB",
+            "UK",
+            "Britain"
+          ]
+        },
+        {
+          "answer": "Italy",
+          "display": "#7 — 3 gold, 10 silver, 6 bronze"
+        },
+        {
+          "answer": "Canada",
+          "display": "#8 — 2 gold, 3 silver, 6 bronze"
+        },
+        {
+          "answer": "South Korea",
+          "display": "#9 — 2 gold, 1 silver, 2 bronze",
+          "aliases": [
+            "Korea",
+            "ROK"
+          ]
+        },
+        {
+          "answer": "New Zealand",
+          "display": "#10 — 2 gold, 1 silver, 1 bronze",
+          "aliases": [
+            "NZ"
+          ]
+        },
+        {
+          "answer": "Sweden",
+          "display": "#10 — 2 gold, 1 silver, 1 bronze"
+        },
+        {
+          "answer": "Portugal",
+          "display": "#12 — 2 gold, 0 silver, 1 bronze"
+        }
+      ]
+    },
+    {
+      "category": "sports/multi-sport/universiade/medal-tables",
+      "question": "Top 10 nations in the 1995 Summer Universiade medal table (ranked by gold medals, then silver, then bronze)",
+      "cutoff": 10,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1379588175 | table 1 | name: Nation | value: Rank | order: asc",
+      "tags": [
+        "universiade",
+        "multi-sport",
+        "medals",
+        "nations",
+        "1995"
+      ],
+      "answers": [
+        {
+          "answer": "United States",
+          "display": "#1 — 24 gold, 27 silver, 18 bronze",
+          "aliases": [
+            "USA",
+            "US",
+            "America"
+          ]
+        },
+        {
+          "answer": "Japan",
+          "display": "#2 — 24 gold, 16 silver, 24 bronze"
+        },
+        {
+          "answer": "Russia",
+          "display": "#3 — 15 gold, 12 silver, 23 bronze",
+          "aliases": [
+            "Russian Federation"
+          ]
+        },
+        {
+          "answer": "China",
+          "display": "#4 — 13 gold, 10 silver, 16 bronze",
+          "aliases": [
+            "PRC"
+          ]
+        },
+        {
+          "answer": "South Korea",
+          "display": "#5 — 10 gold, 7 silver, 10 bronze",
+          "aliases": [
+            "Korea",
+            "ROK"
+          ]
+        },
+        {
+          "answer": "Hungary",
+          "display": "#6 — 8 gold, 4 silver, 2 bronze"
+        },
+        {
+          "answer": "Germany",
+          "display": "#7 — 6 gold, 6 silver, 8 bronze",
+          "aliases": [
+            "GER"
+          ]
+        },
+        {
+          "answer": "Bulgaria",
+          "display": "#8 — 5 gold, 4 silver, 2 bronze"
+        },
+        {
+          "answer": "Ukraine",
+          "display": "#9 — 4 gold, 5 silver, 6 bronze"
+        },
+        {
+          "answer": "Romania",
+          "display": "#10 — 4 gold, 5 silver, 2 bronze"
+        },
+        {
+          "answer": "Cuba",
+          "display": "#11 — 4 gold, 3 silver, 3 bronze"
+        },
+        {
+          "answer": "Italy",
+          "display": "#12 — 3 gold, 7 silver, 11 bronze"
+        },
+        {
+          "answer": "South Africa",
+          "display": "#13 — 3 gold, 1 silver, 0 bronze",
+          "aliases": [
+            "RSA"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/multi-sport/universiade/medal-tables",
+      "question": "Top 10 nations in the 1997 Summer Universiade medal table (ranked by gold medals, then silver, then bronze)",
+      "cutoff": 10,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1360368367 | table 1 | name: Nation | value: Rank | order: asc",
+      "tags": [
+        "universiade",
+        "multi-sport",
+        "medals",
+        "nations",
+        "1997"
+      ],
+      "answers": [
+        {
+          "answer": "United States",
+          "display": "#1 — 20 gold, 19 silver, 22 bronze",
+          "aliases": [
+            "USA",
+            "US",
+            "America"
+          ]
+        },
+        {
+          "answer": "Ukraine",
+          "display": "#2 — 17 gold, 6 silver, 4 bronze"
+        },
+        {
+          "answer": "Japan",
+          "display": "#3 — 14 gold, 8 silver, 11 bronze"
+        },
+        {
+          "answer": "Russia",
+          "display": "#4 — 10 gold, 14 silver, 10 bronze",
+          "aliases": [
+            "Russian Federation"
+          ]
+        },
+        {
+          "answer": "China",
+          "display": "#5 — 10 gold, 9 silver, 7 bronze",
+          "aliases": [
+            "PRC"
+          ]
+        },
+        {
+          "answer": "Italy",
+          "display": "#6 — 7 gold, 14 silver, 10 bronze"
+        },
+        {
+          "answer": "Cuba",
+          "display": "#7 — 7 gold, 11 silver, 4 bronze"
+        },
+        {
+          "answer": "Hungary",
+          "display": "#8 — 7 gold, 4 silver, 1 bronze"
+        },
+        {
+          "answer": "South Korea",
+          "display": "#9 — 5 gold, 3 silver, 2 bronze",
+          "aliases": [
+            "Korea",
+            "ROK"
+          ]
+        },
+        {
+          "answer": "Slovakia",
+          "display": "#10 — 4 gold, 0 silver, 2 bronze"
+        },
+        {
+          "answer": "Romania",
+          "display": "#11 — 3 gold, 4 silver, 6 bronze"
+        },
+        {
+          "answer": "Belarus",
+          "display": "#12 — 3 gold, 2 silver, 3 bronze"
+        },
+        {
+          "answer": "Brazil",
+          "display": "#13 — 3 gold, 2 silver, 1 bronze"
+        }
+      ]
+    },
+    {
+      "category": "sports/multi-sport/universiade/medal-tables",
+      "question": "Top 10 nations in the 2003 Summer Universiade medal table (ranked by gold medals, then silver, then bronze)",
+      "cutoff": 10,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1335806586 | table 1 | name: Nation | value: Rank | order: asc",
+      "tags": [
+        "universiade",
+        "multi-sport",
+        "medals",
+        "nations",
+        "2003"
+      ],
+      "answers": [
+        {
+          "answer": "China",
+          "display": "#1 — 41 gold, 27 silver, 13 bronze",
+          "aliases": [
+            "PRC"
+          ]
+        },
+        {
+          "answer": "Russia",
+          "display": "#2 — 26 gold, 22 silver, 34 bronze",
+          "aliases": [
+            "Russian Federation"
+          ]
+        },
+        {
+          "answer": "South Korea",
+          "display": "#3 — 26 gold, 12 silver, 17 bronze",
+          "aliases": [
+            "ROK"
+          ]
+        },
+        {
+          "answer": "Ukraine",
+          "display": "#4 — 23 gold, 15 silver, 17 bronze"
+        },
+        {
+          "answer": "Japan",
+          "display": "#5 — 13 gold, 13 silver, 21 bronze"
+        },
+        {
+          "answer": "France",
+          "display": "#6 — 8 gold, 8 silver, 4 bronze"
+        },
+        {
+          "answer": "Great Britain",
+          "display": "#7 — 8 gold, 3 silver, 6 bronze",
+          "aliases": [
+            "GB",
+            "UK",
+            "Britain"
+          ]
+        },
+        {
+          "answer": "United States",
+          "display": "#8 — 5 gold, 13 silver, 18 bronze",
+          "aliases": [
+            "USA",
+            "US",
+            "America"
+          ]
+        },
+        {
+          "answer": "North Korea",
+          "display": "#9 — 3 gold, 8 silver, 3 bronze",
+          "aliases": [
+            "DPRK"
+          ]
+        },
+        {
+          "answer": "Poland",
+          "display": "#10 — 3 gold, 4 silver, 3 bronze"
+        },
+        {
+          "answer": "Chinese Taipei",
+          "display": "#11 — 3 gold, 3 silver, 5 bronze",
+          "aliases": [
+            "Taiwan"
+          ]
+        },
+        {
+          "answer": "Belarus",
+          "display": "#12 — 3 gold, 3 silver, 4 bronze"
+        },
+        {
+          "answer": "Germany",
+          "display": "#13 — 3 gold, 2 silver, 8 bronze",
+          "aliases": [
+            "GER"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/multi-sport/universiade/medal-tables",
+      "question": "Top 10 nations in the 2005 Summer Universiade medal table (ranked by gold medals, then silver, then bronze)",
+      "cutoff": 10,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1355961962 | table 1 | name: Nation | value: Rank | order: asc",
+      "tags": [
+        "universiade",
+        "multi-sport",
+        "medals",
+        "nations",
+        "2005"
+      ],
+      "answers": [
+        {
+          "answer": "Russia",
+          "display": "#1 — 26 gold, 16 silver, 23 bronze",
+          "aliases": [
+            "Russian Federation"
+          ]
+        },
+        {
+          "answer": "China",
+          "display": "#2 — 21 gold, 16 silver, 12 bronze",
+          "aliases": [
+            "PRC"
+          ]
+        },
+        {
+          "answer": "Japan",
+          "display": "#3 — 18 gold, 18 silver, 20 bronze"
+        },
+        {
+          "answer": "Ukraine",
+          "display": "#4 — 18 gold, 16 silver, 18 bronze"
+        },
+        {
+          "answer": "United States",
+          "display": "#5 — 17 gold, 12 silver, 14 bronze",
+          "aliases": [
+            "USA",
+            "US",
+            "America"
+          ]
+        },
+        {
+          "answer": "Poland",
+          "display": "#6 — 12 gold, 8 silver, 8 bronze"
+        },
+        {
+          "answer": "South Korea",
+          "display": "#7 — 11 gold, 14 silver, 9 bronze",
+          "aliases": [
+            "Korea",
+            "ROK"
+          ]
+        },
+        {
+          "answer": "Turkey",
+          "display": "#8 — 10 gold, 11 silver, 6 bronze"
+        },
+        {
+          "answer": "Chinese Taipei",
+          "display": "#9 — 6 gold, 2 silver, 4 bronze",
+          "aliases": [
+            "Taiwan"
+          ]
+        },
+        {
+          "answer": "Italy",
+          "display": "#10 — 5 gold, 6 silver, 13 bronze"
+        },
+        {
+          "answer": "France",
+          "display": "#11 — 5 gold, 3 silver, 7 bronze"
+        },
+        {
+          "answer": "Germany",
+          "display": "#12 — 4 gold, 5 silver, 8 bronze",
+          "aliases": [
+            "GER"
+          ]
+        },
+        {
+          "answer": "Brazil",
+          "display": "#13 — 4 gold, 2 silver, 9 bronze"
+        }
+      ]
+    },
+    {
+      "category": "sports/multi-sport/universiade/medal-tables",
+      "question": "Top 10 nations in the 2009 Summer Universiade medal table (ranked by gold medals, then silver, then bronze)",
+      "cutoff": 10,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1354305706 | table 2 | name: Nation | value: Rank | order: asc",
+      "tags": [
+        "universiade",
+        "multi-sport",
+        "medals",
+        "nations",
+        "2009"
+      ],
+      "answers": [
+        {
+          "answer": "Russia",
+          "display": "#1 — 27 gold, 22 silver, 27 bronze",
+          "aliases": [
+            "Russian Federation"
+          ]
+        },
+        {
+          "answer": "China",
+          "display": "#2 — 22 gold, 21 silver, 15 bronze",
+          "aliases": [
+            "PRC"
+          ]
+        },
+        {
+          "answer": "South Korea",
+          "display": "#3 — 21 gold, 11 silver, 15 bronze",
+          "aliases": [
+            "Korea",
+            "ROK"
+          ]
+        },
+        {
+          "answer": "Japan",
+          "display": "#4 — 20 gold, 21 silver, 32 bronze"
+        },
+        {
+          "answer": "United States",
+          "display": "#5 — 13 gold, 13 silver, 13 bronze",
+          "aliases": [
+            "USA",
+            "US",
+            "America"
+          ]
+        },
+        {
+          "answer": "Ukraine",
+          "display": "#6 — 7 gold, 11 silver, 13 bronze"
+        },
+        {
+          "answer": "Chinese Taipei",
+          "display": "#7 — 7 gold, 5 silver, 5 bronze",
+          "aliases": [
+            "Taiwan"
+          ]
+        },
+        {
+          "answer": "Italy",
+          "display": "#8 — 6 gold, 14 silver, 11 bronze"
+        },
+        {
+          "answer": "Poland",
+          "display": "#9 — 6 gold, 10 silver, 8 bronze"
+        },
+        {
+          "answer": "Serbia",
+          "display": "#10 — 5 gold, 5 silver, 9 bronze"
+        },
+        {
+          "answer": "Australia",
+          "display": "#11 — 5 gold, 2 silver, 1 bronze"
+        },
+        {
+          "answer": "Iran",
+          "display": "#11 — 5 gold, 2 silver, 1 bronze"
+        },
+        {
+          "answer": "France",
+          "display": "#13 — 4 gold, 8 silver, 9 bronze"
+        }
+      ]
+    },
+    {
+      "category": "sports/multi-sport/universiade/medal-tables",
+      "question": "Top 10 nations in the 2015 Summer Universiade medal table (ranked by gold medals, then silver, then bronze)",
+      "cutoff": 10,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1377413786 | table 3 | name: Nation | value: Rank | order: asc",
+      "tags": [
+        "universiade",
+        "multi-sport",
+        "medals",
+        "nations",
+        "2015"
+      ],
+      "answers": [
+        {
+          "answer": "South Korea",
+          "display": "#1 — 47 gold, 32 silver, 29 bronze",
+          "aliases": [
+            "Korea",
+            "ROK"
+          ]
+        },
+        {
+          "answer": "Russia",
+          "display": "#2 — 34 gold, 39 silver, 49 bronze",
+          "aliases": [
+            "Russian Federation"
+          ]
+        },
+        {
+          "answer": "China",
+          "display": "#3 — 34 gold, 21 silver, 16 bronze",
+          "aliases": [
+            "PRC"
+          ]
+        },
+        {
+          "answer": "Japan",
+          "display": "#4 — 25 gold, 25 silver, 35 bronze"
+        },
+        {
+          "answer": "United States",
+          "display": "#5 — 20 gold, 15 silver, 19 bronze",
+          "aliases": [
+            "USA",
+            "US",
+            "America"
+          ]
+        },
+        {
+          "answer": "France",
+          "display": "#6 — 13 gold, 9 silver, 8 bronze"
+        },
+        {
+          "answer": "Italy",
+          "display": "#7 — 11 gold, 15 silver, 17 bronze"
+        },
+        {
+          "answer": "Ukraine",
+          "display": "#8 — 8 gold, 17 silver, 6 bronze"
+        },
+        {
+          "answer": "Iran",
+          "display": "#9 — 7 gold, 2 silver, 6 bronze"
+        },
+        {
+          "answer": "Chinese Taipei",
+          "display": "#10 — 6 gold, 12 silver, 19 bronze",
+          "aliases": [
+            "Taiwan"
+          ]
+        },
+        {
+          "answer": "Kazakhstan",
+          "display": "#11 — 6 gold, 0 silver, 4 bronze"
+        },
+        {
+          "answer": "Germany",
+          "display": "#12 — 5 gold, 5 silver, 8 bronze",
+          "aliases": [
+            "GER"
+          ]
+        },
+        {
+          "answer": "Lithuania",
+          "display": "#13 — 5 gold, 1 silver, 3 bronze"
+        }
+      ]
+    }
+  ]
+}

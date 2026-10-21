@@ -1,0 +1,899 @@
+{
+  "questions": [
+    {
+      "category": "geography/islands",
+      "difficulty": 1,
+      "question": "Top 10 most populous islands in the world (latest estimates, 2020–2024)",
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1373513988 | table 1 | name: Island | value: Population | where: Ranking~^[0-9] | where: Population!~2025",
+      "tags": [
+        "geography",
+        "islands",
+        "population"
+      ],
+      "answers": [
+        {
+          "answer": "Java",
+          "display": "156,927,804",
+          "aliases": [
+            "java island"
+          ]
+        },
+        {
+          "answer": "Honshu",
+          "display": "102,579,606",
+          "aliases": [
+            "honshū",
+            "honshu island"
+          ]
+        },
+        {
+          "answer": "Great Britain",
+          "display": "66,344,800",
+          "aliases": [
+            "britain"
+          ]
+        },
+        {
+          "answer": "Luzon",
+          "display": "64,301,558"
+        },
+        {
+          "answer": "Sumatra",
+          "display": "60,795,669"
+        },
+        {
+          "answer": "Madagascar",
+          "display": "31,964,956"
+        },
+        {
+          "answer": "Mindanao",
+          "display": "27,384,138"
+        },
+        {
+          "answer": "Taiwan",
+          "display": "23,865,820",
+          "aliases": [
+            "formosa"
+          ]
+        },
+        {
+          "answer": "Salsette",
+          "display": "23,729,378",
+          "aliases": [
+            "salsette island"
+          ]
+        },
+        {
+          "answer": "Borneo",
+          "display": "23,720,000"
+        },
+        {
+          "answer": "Hispaniola",
+          "display": "22,278,000",
+          "aliases": [
+            "hispaniola island"
+          ]
+        },
+        {
+          "answer": "Sri Lanka",
+          "display": "22,000,000",
+          "aliases": [
+            "ceylon"
+          ]
+        },
+        {
+          "answer": "Sulawesi",
+          "display": "20,568,411"
+        },
+        {
+          "answer": "New Guinea",
+          "display": "14,800,000",
+          "aliases": [
+            "irian",
+            "papua"
+          ]
+        },
+        {
+          "answer": "Kyushu",
+          "display": "12,346,465",
+          "aliases": [
+            "kyūshū"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "geography/islands",
+      "difficulty": 1,
+      "question": "Top 10 largest islands of Japan by area",
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1373724350 | table 1 | name: Island name | value: Area (km2)",
+      "tags": [
+        "geography",
+        "islands",
+        "japan",
+        "area"
+      ],
+      "answers": [
+        {
+          "answer": "Honshu",
+          "display": "227,960 km²",
+          "aliases": [
+            "honshū"
+          ]
+        },
+        {
+          "answer": "Hokkaido",
+          "display": "83,424 km²",
+          "aliases": [
+            "hokkaidō"
+          ]
+        },
+        {
+          "answer": "Kyushu",
+          "display": "36,782 km²",
+          "aliases": [
+            "kyūshū"
+          ]
+        },
+        {
+          "answer": "Shikoku",
+          "display": "18,800 km²"
+        },
+        {
+          "answer": "Okinawa Island",
+          "display": "1,207 km²",
+          "aliases": [
+            "okinawa"
+          ]
+        },
+        {
+          "answer": "Sado Island",
+          "display": "855.26 km²",
+          "aliases": [
+            "sado"
+          ]
+        },
+        {
+          "answer": "Amami Ōshima",
+          "display": "712.35 km²",
+          "aliases": [
+            "amami oshima",
+            "amami"
+          ]
+        },
+        {
+          "answer": "Tsushima Island",
+          "display": "708.7 km²",
+          "aliases": [
+            "tsushima"
+          ]
+        },
+        {
+          "answer": "Awaji Island",
+          "display": "592.17 km²",
+          "aliases": [
+            "awaji"
+          ]
+        },
+        {
+          "answer": "Shimoshima",
+          "display": "574.01 km²",
+          "aliases": [
+            "shimoshima island",
+            "amakusa shimoshima"
+          ]
+        },
+        {
+          "answer": "Yakushima",
+          "display": "504.88 km²"
+        },
+        {
+          "answer": "Tanegashima",
+          "display": "444.99 km²"
+        },
+        {
+          "answer": "Fukue Island",
+          "display": "326.43 km²",
+          "aliases": [
+            "fukue"
+          ]
+        },
+        {
+          "answer": "Iriomote Island",
+          "display": "289.27 km²",
+          "aliases": [
+            "iriomote"
+          ]
+        },
+        {
+          "answer": "Tokunoshima",
+          "display": "247.8 km²"
+        }
+      ]
+    },
+    {
+      "category": "geography/islands",
+      "difficulty": 2,
+      "question": "Top 10 largest islands of Greece by area",
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1375223634 | table 1 | name: Island | value: Area (km2)",
+      "tags": [
+        "geography",
+        "islands",
+        "greece",
+        "area"
+      ],
+      "answers": [
+        {
+          "answer": "Crete",
+          "display": "8,336 km²",
+          "aliases": [
+            "kriti"
+          ]
+        },
+        {
+          "answer": "Euboea",
+          "display": "3,670 km²",
+          "aliases": [
+            "evia"
+          ]
+        },
+        {
+          "answer": "Lesbos",
+          "display": "1,633 km²",
+          "aliases": [
+            "lesvos"
+          ]
+        },
+        {
+          "answer": "Rhodes",
+          "display": "1,401 km²",
+          "aliases": [
+            "rodos"
+          ]
+        },
+        {
+          "answer": "Chios",
+          "display": "842.3 km²",
+          "aliases": [
+            "chíos"
+          ]
+        },
+        {
+          "answer": "Kefalonia",
+          "display": "781 km²",
+          "aliases": [
+            "cephalonia"
+          ]
+        },
+        {
+          "answer": "Corfu",
+          "display": "592.9 km²",
+          "aliases": [
+            "kerkyra"
+          ]
+        },
+        {
+          "answer": "Lemnos",
+          "display": "477.6 km²",
+          "aliases": [
+            "limnos"
+          ]
+        },
+        {
+          "answer": "Samos",
+          "display": "477.4 km²"
+        },
+        {
+          "answer": "Naxos",
+          "display": "429.8 km²"
+        },
+        {
+          "answer": "Zakynthos",
+          "display": "406 km²",
+          "aliases": [
+            "zante"
+          ]
+        },
+        {
+          "answer": "Thasos",
+          "display": "380.1 km²"
+        },
+        {
+          "answer": "Andros",
+          "display": "380.0 km²"
+        },
+        {
+          "answer": "Lefkada",
+          "display": "303 km²"
+        },
+        {
+          "answer": "Karpathos",
+          "display": "300 km²"
+        }
+      ]
+    },
+    {
+      "category": "geography/islands",
+      "difficulty": 2,
+      "question": "Top 10 most populous islands of Greece",
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1375223634 | table 2 | name: Island | value: Population",
+      "tags": [
+        "geography",
+        "islands",
+        "greece",
+        "population"
+      ],
+      "answers": [
+        {
+          "answer": "Crete",
+          "display": "624,408",
+          "aliases": [
+            "kriti"
+          ]
+        },
+        {
+          "answer": "Euboea",
+          "display": "191,206",
+          "aliases": [
+            "evia"
+          ]
+        },
+        {
+          "answer": "Rhodes",
+          "display": "125,113",
+          "aliases": [
+            "rodos"
+          ]
+        },
+        {
+          "answer": "Corfu",
+          "display": "99,134",
+          "aliases": [
+            "kerkyra"
+          ]
+        },
+        {
+          "answer": "Lesbos",
+          "display": "83,755",
+          "aliases": [
+            "lesvos"
+          ]
+        },
+        {
+          "answer": "Chios",
+          "display": "50,361"
+        },
+        {
+          "answer": "Zakynthos",
+          "display": "41,180",
+          "aliases": [
+            "zante"
+          ]
+        },
+        {
+          "answer": "Salamis",
+          "display": "37,220",
+          "aliases": [
+            "salamina"
+          ]
+        },
+        {
+          "answer": "Kos",
+          "display": "37,089"
+        },
+        {
+          "answer": "Kefalonia",
+          "display": "36,064",
+          "aliases": [
+            "cephalonia"
+          ]
+        },
+        {
+          "answer": "Samos",
+          "display": "32,642"
+        },
+        {
+          "answer": "Lefkada",
+          "display": "21,900"
+        },
+        {
+          "answer": "Syros",
+          "display": "21,507"
+        },
+        {
+          "answer": "Naxos",
+          "display": "20,578"
+        },
+        {
+          "answer": "Kalymnos",
+          "display": "17,752"
+        }
+      ]
+    },
+    {
+      "category": "geography/islands",
+      "difficulty": 2,
+      "question": "Top 10 islands with the highest peaks (height above sea level)",
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1372352128 | table 1 | name: Island | value: Height",
+      "tags": [
+        "geography",
+        "islands",
+        "mountains",
+        "highest"
+      ],
+      "answers": [
+        {
+          "answer": "New Guinea",
+          "display": "4,884 m",
+          "aliases": [
+            "irian",
+            "papua"
+          ]
+        },
+        {
+          "answer": "Hawaii",
+          "display": "4,207 m",
+          "aliases": [
+            "hawaiʻi",
+            "big island"
+          ]
+        },
+        {
+          "answer": "Borneo",
+          "display": "4,095 m"
+        },
+        {
+          "answer": "Taiwan",
+          "display": "3,952 m",
+          "aliases": [
+            "formosa"
+          ]
+        },
+        {
+          "answer": "Sumatra",
+          "display": "3,805 m"
+        },
+        {
+          "answer": "Ross Island",
+          "display": "3,794 m"
+        },
+        {
+          "answer": "Honshu",
+          "display": "3,776 m",
+          "aliases": [
+            "honshū"
+          ]
+        },
+        {
+          "answer": "Lombok",
+          "display": "3,726 m"
+        },
+        {
+          "answer": "South Island",
+          "display": "3,724 m"
+        },
+        {
+          "answer": "Tenerife",
+          "display": "3,715 m"
+        },
+        {
+          "answer": "Greenland",
+          "display": "3,694 m"
+        },
+        {
+          "answer": "Java",
+          "display": "3,676 m"
+        },
+        {
+          "answer": "Sulawesi",
+          "display": "3,478 m"
+        },
+        {
+          "answer": "Sicily",
+          "display": "3,403 m",
+          "aliases": [
+            "sicilia"
+          ]
+        },
+        {
+          "answer": "Siple Island",
+          "display": "3,110 m"
+        }
+      ]
+    },
+    {
+      "category": "geography/islands",
+      "difficulty": 3,
+      "question": "Top 10 islands with the highest peaks whose names end in A (height above sea level)",
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1372352128 | table 1 | name: Island | value: Height | where: Island~a$",
+      "tags": [
+        "geography",
+        "islands",
+        "mountains",
+        "highest",
+        "letters"
+      ],
+      "answers": [
+        {
+          "answer": "New Guinea",
+          "display": "4,884 m",
+          "aliases": [
+            "irian",
+            "papua"
+          ]
+        },
+        {
+          "answer": "Sumatra",
+          "display": "3,805 m"
+        },
+        {
+          "answer": "Java",
+          "display": "3,676 m"
+        },
+        {
+          "answer": "Hispaniola",
+          "display": "3,098 m"
+        },
+        {
+          "answer": "South Georgia",
+          "display": "2,935 m"
+        },
+        {
+          "answer": "Sumbawa",
+          "display": "2,722 m"
+        },
+        {
+          "answer": "Corsica",
+          "display": "2,706 m"
+        },
+        {
+          "answer": "Sri Lanka",
+          "display": "2,524 m",
+          "aliases": [
+            "ceylon"
+          ]
+        },
+        {
+          "answer": "La Palma",
+          "display": "2,423 m"
+        },
+        {
+          "answer": "Jamaica",
+          "display": "2,256 m"
+        },
+        {
+          "answer": "Tristan da Cunha",
+          "display": "2,062 m"
+        },
+        {
+          "answer": "Gran Canaria",
+          "display": "1,956 m"
+        },
+        {
+          "answer": "Yakushima",
+          "display": "1,936 m"
+        },
+        {
+          "answer": "Madeira",
+          "display": "1,861 m"
+        },
+        {
+          "answer": "Sardinia",
+          "display": "1,834 m",
+          "aliases": [
+            "sardegna"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "geography/islands",
+      "difficulty": 2,
+      "question": "Top 10 largest islands in the Mediterranean by area",
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1379044772 | table 1 | name: Name | value: km2 | header rows: 2 | where: Name!~^Total",
+      "tags": [
+        "geography",
+        "islands",
+        "mediterranean",
+        "area"
+      ],
+      "answers": [
+        {
+          "answer": "Sicily",
+          "display": "25,834 km²",
+          "aliases": [
+            "sicilia"
+          ]
+        },
+        {
+          "answer": "Sardinia",
+          "display": "24,100 km²",
+          "aliases": [
+            "sardegna"
+          ]
+        },
+        {
+          "answer": "Cyprus",
+          "display": "9,251 km²"
+        },
+        {
+          "answer": "Corsica",
+          "display": "8,681 km²"
+        },
+        {
+          "answer": "Crete",
+          "display": "8,312 km²",
+          "aliases": [
+            "kriti"
+          ]
+        },
+        {
+          "answer": "Euboea",
+          "display": "3,655 km²",
+          "aliases": [
+            "evia"
+          ]
+        },
+        {
+          "answer": "Mallorca",
+          "display": "3,640 km²",
+          "aliases": [
+            "majorca"
+          ]
+        },
+        {
+          "answer": "Lesbos",
+          "display": "1,630 km²",
+          "aliases": [
+            "lesvos"
+          ]
+        },
+        {
+          "answer": "Rhodes",
+          "display": "1,398 km²",
+          "aliases": [
+            "rodos"
+          ]
+        },
+        {
+          "answer": "Chios",
+          "display": "842 km²"
+        },
+        {
+          "answer": "Kefalonia",
+          "display": "781 km²",
+          "aliases": [
+            "cephalonia"
+          ]
+        },
+        {
+          "answer": "Menorca",
+          "display": "694 km²",
+          "aliases": [
+            "minorca"
+          ]
+        },
+        {
+          "answer": "Corfu",
+          "display": "592 km²",
+          "aliases": [
+            "kerkyra"
+          ]
+        },
+        {
+          "answer": "Ibiza",
+          "display": "577 km²"
+        },
+        {
+          "answer": "Djerba",
+          "display": "523 km²"
+        }
+      ]
+    },
+    {
+      "category": "geography/islands",
+      "difficulty": 2,
+      "question": "Top 10 largest island countries by total area (Australia excluded as a continent)",
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1374131242 | table 1 | name: 1 | value: 5",
+      "tags": [
+        "geography",
+        "islands",
+        "countries",
+        "area"
+      ],
+      "answers": [
+        {
+          "answer": "Indonesia",
+          "display": "1,904,569 km²"
+        },
+        {
+          "answer": "Madagascar",
+          "display": "587,041 km²"
+        },
+        {
+          "answer": "Papua New Guinea",
+          "display": "462,840 km²",
+          "aliases": [
+            "png"
+          ]
+        },
+        {
+          "answer": "Japan",
+          "display": "377,976 km²"
+        },
+        {
+          "answer": "Philippines",
+          "display": "300,000 km²"
+        },
+        {
+          "answer": "New Zealand",
+          "display": "270,467 km²",
+          "aliases": [
+            "nz",
+            "aotearoa"
+          ]
+        },
+        {
+          "answer": "United Kingdom",
+          "display": "244,820 km²",
+          "aliases": [
+            "uk",
+            "britain"
+          ]
+        },
+        {
+          "answer": "Cuba",
+          "display": "109,884 km²"
+        },
+        {
+          "answer": "Iceland",
+          "display": "102,775 km²"
+        },
+        {
+          "answer": "Ireland",
+          "display": "70,273 km²",
+          "aliases": [
+            "republic of ireland",
+            "eire"
+          ]
+        },
+        {
+          "answer": "Sri Lanka",
+          "display": "65,610 km²",
+          "aliases": [
+            "ceylon"
+          ]
+        },
+        {
+          "answer": "Dominican Republic",
+          "display": "48,671 km²",
+          "aliases": [
+            "dominican"
+          ]
+        },
+        {
+          "answer": "Taiwan",
+          "display": "36,193 km²",
+          "aliases": [
+            "formosa"
+          ]
+        },
+        {
+          "answer": "Solomon Islands",
+          "display": "28,400 km²"
+        },
+        {
+          "answer": "Haiti",
+          "display": "27,750 km²"
+        }
+      ]
+    },
+    {
+      "category": "geography/islands",
+      "difficulty": 2,
+      "question": "Top 10 most populous island countries (Australia excluded as a continent)",
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1374131242 | table 1 | name: Name | value: Population",
+      "tags": [
+        "geography",
+        "islands",
+        "countries",
+        "population"
+      ],
+      "answers": [
+        {
+          "answer": "Indonesia",
+          "display": "270,625,570"
+        },
+        {
+          "answer": "Japan",
+          "display": "126,264,930"
+        },
+        {
+          "answer": "Philippines",
+          "display": "108,116,620"
+        },
+        {
+          "answer": "United Kingdom",
+          "display": "67,886,004",
+          "aliases": [
+            "uk",
+            "britain"
+          ]
+        },
+        {
+          "answer": "Madagascar",
+          "display": "26,969,310"
+        },
+        {
+          "answer": "Taiwan",
+          "display": "23,603,121",
+          "aliases": [
+            "formosa"
+          ]
+        },
+        {
+          "answer": "Sri Lanka",
+          "display": "21,803,000",
+          "aliases": [
+            "ceylon"
+          ]
+        },
+        {
+          "answer": "Haiti",
+          "display": "11,743,017"
+        },
+        {
+          "answer": "Cuba",
+          "display": "11,346,346"
+        },
+        {
+          "answer": "Dominican Republic",
+          "display": "10,738,960",
+          "aliases": [
+            "dominican"
+          ]
+        },
+        {
+          "answer": "Papua New Guinea",
+          "display": "8,776,110",
+          "aliases": [
+            "png"
+          ]
+        },
+        {
+          "answer": "Singapore",
+          "display": "5,703,570"
+        },
+        {
+          "answer": "New Zealand",
+          "display": "5,125,451",
+          "aliases": [
+            "nz",
+            "aotearoa"
+          ]
+        },
+        {
+          "answer": "Ireland",
+          "display": "4,977,400",
+          "aliases": [
+            "republic of ireland",
+            "eire"
+          ]
+        },
+        {
+          "answer": "Jamaica",
+          "display": "2,734,092"
+        }
+      ]
+    }
+  ]
+}

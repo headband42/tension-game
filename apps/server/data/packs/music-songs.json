@@ -1,0 +1,709 @@
+{
+  "categories": [
+    {
+      "path": "music",
+      "name": "Music"
+    },
+    {
+      "path": "music/songs",
+      "name": "Songs"
+    },
+    {
+      "path": "music/songs/streaming",
+      "name": "Streaming and Video"
+    },
+    {
+      "path": "music/songs/charts",
+      "name": "Charts and Sales"
+    },
+    {
+      "path": "music/songs/christmas",
+      "name": "Christmas Songs"
+    }
+  ],
+  "questions": [
+    {
+      "category": "music/songs/streaming",
+      "question": "Top 10 most-streamed songs on Spotify, all time (streams in billions, as of 2026)",
+      "cutoff": 10,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1379646510 | table 1 | name: Song | value: Streams | where: Song!~^As of",
+      "tags": [
+        "music",
+        "songs",
+        "spotify",
+        "streaming"
+      ],
+      "answers": [
+        {
+          "answer": "Blinding Lights",
+          "display": "5.628 billion streams — The Weeknd"
+        },
+        {
+          "answer": "Shape of You",
+          "display": "5.136 billion streams — Ed Sheeran"
+        },
+        {
+          "answer": "Sweater Weather",
+          "display": "4.941 billion streams — The Neighbourhood"
+        },
+        {
+          "answer": "Starboy",
+          "display": "4.803 billion streams — The Weeknd and Daft Punk"
+        },
+        {
+          "answer": "As It Was",
+          "display": "4.664 billion streams — Harry Styles"
+        },
+        {
+          "answer": "One Dance",
+          "display": "4.509 billion streams — Drake, Wizkid, and Kyla"
+        },
+        {
+          "answer": "Sunflower",
+          "display": "4.505 billion streams — Post Malone and Swae Lee"
+        },
+        {
+          "answer": "Someone You Loved",
+          "display": "4.463 billion streams — Lewis Capaldi"
+        },
+        {
+          "answer": "Perfect",
+          "display": "4.142 billion streams — Ed Sheeran"
+        },
+        {
+          "answer": "Stay",
+          "display": "4.102 billion streams — The Kid Laroi and Justin Bieber"
+        },
+        {
+          "answer": "Die With A Smile",
+          "display": "4.052 billion streams — Lady Gaga and Bruno Mars"
+        },
+        {
+          "answer": "I Wanna Be Yours",
+          "display": "4.045 billion streams — Arctic Monkeys"
+        },
+        {
+          "answer": "Birds of a Feather",
+          "display": "4.033 billion streams — Billie Eilish"
+        },
+        {
+          "answer": "Yellow",
+          "display": "4.026 billion streams — Coldplay"
+        },
+        {
+          "answer": "Believer",
+          "display": "3.984 billion streams — Imagine Dragons"
+        }
+      ]
+    },
+    {
+      "category": "music/songs/streaming",
+      "question": "Top 10 most-streamed songs on Spotify in a single week (as of 2026)",
+      "cutoff": 10,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1379646510 | table 11 | name: Song | value: Streams",
+      "tags": [
+        "music",
+        "songs",
+        "spotify",
+        "streaming"
+      ],
+      "answers": [
+        {
+          "answer": "The Fate of Ophelia",
+          "display": "128,896,137 streams — Taylor Swift"
+        },
+        {
+          "answer": "Flowers",
+          "display": "115,156,896 streams — Miley Cyrus"
+        },
+        {
+          "answer": "Fortnight",
+          "display": "102,878,399 streams — Taylor Swift featuring Post Malone"
+        },
+        {
+          "answer": "Opalite",
+          "display": "93,572,415 streams — Taylor Swift"
+        },
+        {
+          "answer": "All I Want for Christmas Is You",
+          "display": "92,546,541 streams — Mariah Carey",
+          "aliases": [
+            "All I Want for Christmas"
+          ]
+        },
+        {
+          "answer": "Last Christmas",
+          "display": "91,090,914 streams — Wham!"
+        },
+        {
+          "answer": "Seven",
+          "display": "89,748,171 streams — Jungkook featuring Latto"
+        },
+        {
+          "answer": "DTMF",
+          "display": "88,786,254 streams — Bad Bunny"
+        },
+        {
+          "answer": "Apt.",
+          "display": "87,041,494 streams — Rosé and Bruno Mars",
+          "aliases": [
+            "Apt"
+          ]
+        },
+        {
+          "answer": "Elizabeth Taylor",
+          "display": "85,348,366 streams — Taylor Swift"
+        },
+        {
+          "answer": "Please Please Please",
+          "display": "85,283,851 streams — Sabrina Carpenter"
+        },
+        {
+          "answer": "Easy on Me",
+          "display": "84,952,932 streams — Adele"
+        },
+        {
+          "answer": "Good 4 U",
+          "display": "84,131,760 streams — Olivia Rodrigo"
+        },
+        {
+          "answer": "Anti-Hero",
+          "display": "82,935,273 streams — Taylor Swift"
+        },
+        {
+          "answer": "Rockin' Around the Christmas Tree",
+          "display": "82,406,485 streams — Brenda Lee",
+          "aliases": [
+            "Rocking Around the Christmas Tree"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "music/songs/streaming",
+      "question": "Top 10 most-viewed music videos on YouTube (views in billions, as of 2026)",
+      "cutoff": 10,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1379157802 | table 1 | name: Video name | value: Views | where: Genre=Music video",
+      "tags": [
+        "music",
+        "songs",
+        "youtube",
+        "video"
+      ],
+      "answers": [
+        {
+          "answer": "Despacito",
+          "display": "9.11 billion views — Luis Fonsi"
+        },
+        {
+          "answer": "See You Again",
+          "display": "7.08 billion views — Wiz Khalifa"
+        },
+        {
+          "answer": "Shape of You",
+          "display": "6.79 billion views — Ed Sheeran"
+        },
+        {
+          "answer": "Axel F",
+          "display": "6.14 billion views — Crazy Frog"
+        },
+        {
+          "answer": "Gangnam Style",
+          "display": "6.05 billion views — Psy",
+          "aliases": [
+            "Gangnam"
+          ]
+        },
+        {
+          "answer": "Uptown Funk",
+          "display": "5.89 billion views — Mark Ronson"
+        },
+        {
+          "answer": "Dame Tu Cosita",
+          "display": "5.60 billion views — El Chombo featuring Cutty Ranks"
+        },
+        {
+          "answer": "Waka Waka (This Time for Africa)",
+          "display": "4.73 billion views — Shakira",
+          "aliases": [
+            "Waka Waka"
+          ]
+        },
+        {
+          "answer": "Counting Stars",
+          "display": "4.40 billion views — OneRepublic"
+        },
+        {
+          "answer": "Sugar",
+          "display": "4.37 billion views — Maroon 5"
+        },
+        {
+          "answer": "Roar",
+          "display": "4.30 billion views — Katy Perry"
+        },
+        {
+          "answer": "Dark Horse",
+          "display": "4.15 billion views — Katy Perry"
+        },
+        {
+          "answer": "Perfect",
+          "display": "4.14 billion views — Ed Sheeran"
+        },
+        {
+          "answer": "Sorry",
+          "display": "4.09 billion views — Justin Bieber"
+        },
+        {
+          "answer": "Let Her Go",
+          "display": "4.04 billion views — Passenger"
+        }
+      ]
+    },
+    {
+      "category": "music/songs/charts",
+      "question": "Top 10 best-selling digital singles in the United States (reported sales in millions, as of 2026)",
+      "cutoff": 10,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1351108834 | table 2 | name: Song | value: Reported sales",
+      "tags": [
+        "music",
+        "songs",
+        "us",
+        "charts"
+      ],
+      "answers": [
+        {
+          "answer": "I Gotta Feeling",
+          "display": "8.7 million — The Black Eyed Peas"
+        },
+        {
+          "answer": "Rolling in the Deep",
+          "display": "8.4 million — Adele"
+        },
+        {
+          "answer": "Radioactive",
+          "display": "8.2 million — Imagine Dragons"
+        },
+        {
+          "answer": "Uptown Funk",
+          "display": "8.1 million — Mark Ronson featuring Bruno Mars"
+        },
+        {
+          "answer": "Party Rock Anthem",
+          "display": "8.1 million — LMFAO featuring Lauren Bennett and GoonRock"
+        },
+        {
+          "answer": "Somebody That I Used to Know",
+          "display": "7.9 million — Gotye featuring Kimbra"
+        },
+        {
+          "answer": "Cruise",
+          "display": "7.6 million — Florida Georgia Line"
+        },
+        {
+          "answer": "Call Me Maybe",
+          "display": "7.6 million — Carly Rae Jepsen"
+        },
+        {
+          "answer": "Poker Face",
+          "display": "7.5 million — Lady Gaga"
+        },
+        {
+          "answer": "Lose Yourself",
+          "display": "7.4 million — Eminem"
+        },
+        {
+          "answer": "Firework",
+          "display": "7.2 million — Katy Perry"
+        },
+        {
+          "answer": "Just Dance",
+          "display": "7.2 million — Lady Gaga featuring Colby O'Donis"
+        },
+        {
+          "answer": "Don't Stop Believin'",
+          "display": "7.0 million — Journey",
+          "aliases": [
+            "Don't Stop Believing"
+          ]
+        },
+        {
+          "answer": "Just the Way You Are",
+          "display": "7.0 million — Bruno Mars"
+        },
+        {
+          "answer": "Low",
+          "display": "7.0 million — Flo Rida featuring T-Pain"
+        }
+      ]
+    },
+    {
+      "category": "music/songs/charts",
+      "question": "Top 8 highest-certified singles in Australia (ARIA certified units, as of 2026)",
+      "cutoff": 8,
+      "difficulty": 3,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1362350669 | table 1 | name: Title | value: Certified units",
+      "tags": [
+        "music",
+        "songs",
+        "australia",
+        "charts"
+      ],
+      "answers": [
+        {
+          "answer": "Somebody That I Used to Know",
+          "display": "1,820,000 certified units — Gotye featuring Kimbra"
+        },
+        {
+          "answer": "Mr. Brightside",
+          "display": "1,750,000 certified units — The Killers"
+        },
+        {
+          "answer": "Heat Waves",
+          "display": "1,610,000 certified units — Glass Animals"
+        },
+        {
+          "answer": "Someone You Loved",
+          "display": "1,610,000 certified units — Lewis Capaldi"
+        },
+        {
+          "answer": "Blinding Lights",
+          "display": "1,540,000 certified units — The Weeknd"
+        },
+        {
+          "answer": "Roar",
+          "display": "1,540,000 certified units — Katy Perry"
+        },
+        {
+          "answer": "Uptown Funk",
+          "display": "1,540,000 certified units — Mark Ronson featuring Bruno Mars"
+        },
+        {
+          "answer": "Counting Stars",
+          "display": "1,470,000 certified units — OneRepublic"
+        },
+        {
+          "answer": "Closer",
+          "display": "1,400,000 certified units — The Chainsmokers featuring Halsey"
+        },
+        {
+          "answer": "Lose Yourself",
+          "display": "1,400,000 certified units — Eminem"
+        },
+        {
+          "answer": "Sunflower",
+          "display": "1,400,000 certified units — Post Malone and Swae Lee"
+        }
+      ]
+    },
+    {
+      "category": "music/songs/charts",
+      "question": "Top 10 songs on Billboard's 2019 year-end Hot 100 chart",
+      "cutoff": 10,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1378622904 | table 1 | name: Title | value: No. | order: asc",
+      "tags": [
+        "music",
+        "songs",
+        "billboard",
+        "charts"
+      ],
+      "answers": [
+        {
+          "answer": "Old Town Road",
+          "display": "No. 1 — Lil Nas X featuring Billy Ray Cyrus"
+        },
+        {
+          "answer": "Sunflower",
+          "display": "No. 2 — Post Malone and Swae Lee"
+        },
+        {
+          "answer": "Without Me",
+          "display": "No. 3 — Halsey"
+        },
+        {
+          "answer": "Bad Guy",
+          "display": "No. 4 — Billie Eilish"
+        },
+        {
+          "answer": "Wow",
+          "display": "No. 5 — Post Malone"
+        },
+        {
+          "answer": "Happier",
+          "display": "No. 6 — Marshmello and Bastille"
+        },
+        {
+          "answer": "7 Rings",
+          "display": "No. 7 — Ariana Grande"
+        },
+        {
+          "answer": "Talk",
+          "display": "No. 8 — Khalid"
+        },
+        {
+          "answer": "Sicko Mode",
+          "display": "No. 9 — Travis Scott"
+        },
+        {
+          "answer": "Sucker",
+          "display": "No. 10 — Jonas Brothers"
+        },
+        {
+          "answer": "High Hopes",
+          "display": "No. 11 — Panic! at the Disco"
+        },
+        {
+          "answer": "Thank U, Next",
+          "display": "No. 12 — Ariana Grande",
+          "aliases": [
+            "Thank U Next"
+          ]
+        },
+        {
+          "answer": "Truth Hurts",
+          "display": "No. 13 — Lizzo"
+        },
+        {
+          "answer": "Dancing with a Stranger",
+          "display": "No. 14 — Sam Smith and Normani"
+        },
+        {
+          "answer": "Señorita",
+          "display": "No. 15 — Shawn Mendes and Camila Cabello"
+        }
+      ]
+    },
+    {
+      "category": "music/songs/charts",
+      "question": "Top 8 songs with the most weeks at No. 1 on the Billboard Hot 100 in the 2010s (as of 2026)",
+      "cutoff": 8,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1356457454 | table 4 | name: Song | value: Weeks",
+      "tags": [
+        "music",
+        "songs",
+        "billboard",
+        "charts"
+      ],
+      "answers": [
+        {
+          "answer": "Old Town Road",
+          "display": "19 weeks — Lil Nas X featuring Billy Ray Cyrus"
+        },
+        {
+          "answer": "Despacito",
+          "display": "16 weeks — Luis Fonsi and Daddy Yankee featuring Justin Bieber"
+        },
+        {
+          "answer": "Uptown Funk",
+          "display": "14 weeks — Mark Ronson featuring Bruno Mars"
+        },
+        {
+          "answer": "Blurred Lines",
+          "display": "12 weeks — Robin Thicke featuring T.I. and Pharrell Williams"
+        },
+        {
+          "answer": "See You Again",
+          "display": "12 weeks — Wiz Khalifa featuring Charlie Puth"
+        },
+        {
+          "answer": "Closer",
+          "display": "12 weeks — The Chainsmokers featuring Halsey"
+        },
+        {
+          "answer": "Shape of You",
+          "display": "12 weeks — Ed Sheeran"
+        },
+        {
+          "answer": "God's Plan",
+          "display": "11 weeks — Drake"
+        },
+        {
+          "answer": "We Found Love",
+          "display": "10 weeks — Rihanna featuring Calvin Harris"
+        },
+        {
+          "answer": "Happy",
+          "display": "10 weeks — Pharrell Williams"
+        },
+        {
+          "answer": "Hello",
+          "display": "10 weeks — Adele"
+        },
+        {
+          "answer": "One Dance",
+          "display": "10 weeks — Drake featuring Wizkid and Kyla"
+        },
+        {
+          "answer": "In My Feelings",
+          "display": "10 weeks — Drake"
+        }
+      ]
+    },
+    {
+      "category": "music/songs/charts",
+      "question": "Top 7 songs with the most weeks at No. 1 on the Billboard Hot 100 in the 2020s (as of 2026)",
+      "cutoff": 7,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1378679605 | table 4 | name: Song | value: Weeks at number one",
+      "tags": [
+        "music",
+        "songs",
+        "billboard",
+        "charts"
+      ],
+      "answers": [
+        {
+          "answer": "Choosin' Texas",
+          "display": "24 weeks — Ella Langley"
+        },
+        {
+          "answer": "All I Want for Christmas Is You",
+          "display": "20 weeks — Mariah Carey",
+          "aliases": [
+            "All I Want for Christmas"
+          ]
+        },
+        {
+          "answer": "A Bar Song (Tipsy)",
+          "display": "19 weeks — Shaboozey",
+          "aliases": [
+            "A Bar Song"
+          ]
+        },
+        {
+          "answer": "Last Night",
+          "display": "16 weeks — Morgan Wallen"
+        },
+        {
+          "answer": "As It Was",
+          "display": "15 weeks — Harry Styles"
+        },
+        {
+          "answer": "Luther",
+          "display": "13 weeks — Kendrick Lamar and SZA"
+        },
+        {
+          "answer": "The Box",
+          "display": "11 weeks — Roddy Ricch"
+        },
+        {
+          "answer": "Butter",
+          "display": "10 weeks — BTS"
+        },
+        {
+          "answer": "Easy on Me",
+          "display": "10 weeks — Adele"
+        },
+        {
+          "answer": "Ordinary",
+          "display": "10 weeks — Alex Warren"
+        },
+        {
+          "answer": "The Fate of Ophelia",
+          "display": "10 weeks — Taylor Swift"
+        }
+      ]
+    },
+    {
+      "category": "music/songs/christmas",
+      "question": "Top 10 most-performed Christmas songs by ASCAP in 2015",
+      "cutoff": 10,
+      "difficulty": 3,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1375165695 | table 1 | name: Song | value: Rank | order: asc",
+      "tags": [
+        "music",
+        "songs",
+        "christmas",
+        "ascap"
+      ],
+      "answers": [
+        {
+          "answer": "Santa Claus Is Comin' to Town",
+          "display": "#1 — J. Fred Coots, Haven Gillespie",
+          "aliases": [
+            "Santa Claus Is Coming to Town"
+          ]
+        },
+        {
+          "answer": "Have Yourself a Merry Little Christmas",
+          "display": "#2 — Ralph Blane, Hugh Martin"
+        },
+        {
+          "answer": "Winter Wonderland",
+          "display": "#3 — Felix Bernard, Richard B. Smith"
+        },
+        {
+          "answer": "Let It Snow! Let It Snow! Let It Snow!",
+          "display": "#4 — Sammy Cahn, Jule Styne",
+          "aliases": [
+            "Let It Snow"
+          ]
+        },
+        {
+          "answer": "The Christmas Song",
+          "display": "#5 — Mel Tormé, Robert Wells"
+        },
+        {
+          "answer": "Jingle Bell Rock",
+          "display": "#6 — Joseph Carleton Beal, James Ross Boothe"
+        },
+        {
+          "answer": "It's the Most Wonderful Time of the Year",
+          "display": "#7 — Edward Pola, George Wyle"
+        },
+        {
+          "answer": "Sleigh Ride",
+          "display": "#8 — Leroy Anderson, Mitchell Parish"
+        },
+        {
+          "answer": "Rudolph the Red-Nosed Reindeer",
+          "display": "#9 — Johnny Marks"
+        },
+        {
+          "answer": "It's Beginning to Look a Lot Like Christmas",
+          "display": "#10 — Meredith Willson"
+        },
+        {
+          "answer": "White Christmas",
+          "display": "#11 — Irving Berlin"
+        },
+        {
+          "answer": "A Holly Jolly Christmas",
+          "display": "#12 — Johnny Marks"
+        },
+        {
+          "answer": "Carol of the Bells",
+          "display": "#13 — Peter J. Wilhousky"
+        },
+        {
+          "answer": "Rockin' Around the Christmas Tree",
+          "display": "#14 — Johnny Marks",
+          "aliases": [
+            "Rocking Around the Christmas Tree"
+          ]
+        },
+        {
+          "answer": "All I Want for Christmas Is You",
+          "display": "#15 — Mariah Carey, Walter Afanasieff",
+          "aliases": [
+            "All I Want for Christmas"
+          ]
+        }
+      ]
+    }
+  ]
+}

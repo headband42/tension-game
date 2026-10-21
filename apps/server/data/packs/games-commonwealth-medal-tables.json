@@ -1,0 +1,1378 @@
+{
+  "categories": [
+    {
+      "path": "sports/multi-sport",
+      "name": "Multi-Sport Games"
+    },
+    {
+      "path": "sports/multi-sport/commonwealth-games",
+      "name": "Commonwealth Games"
+    }
+  ],
+  "questions": [
+    {
+      "category": "sports/multi-sport/commonwealth-games",
+      "question": "Top 8 nations in the 1954 British Empire and Commonwealth Games (Vancouver) medal table (ranked by gold medals, then silver, then bronze)",
+      "cutoff": 8,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1373597142 | table 1 | name: Nation | value: Rank | order: asc",
+      "tags": [
+        "commonwealth-games",
+        "medals",
+        "nations",
+        "1954"
+      ],
+      "answers": [
+        {
+          "answer": "England",
+          "display": "#1 — 23 gold, 24 silver, 20 bronze"
+        },
+        {
+          "answer": "Australia",
+          "display": "#2 — 20 gold, 11 silver, 17 bronze"
+        },
+        {
+          "answer": "South Africa",
+          "display": "#3 — 16 gold, 6 silver, 13 bronze"
+        },
+        {
+          "answer": "Canada",
+          "display": "#4 — 9 gold, 20 silver, 14 bronze"
+        },
+        {
+          "answer": "New Zealand",
+          "display": "#5 — 7 gold, 7 silver, 5 bronze",
+          "aliases": [
+            "NZ"
+          ]
+        },
+        {
+          "answer": "Scotland",
+          "display": "#6 — 6 gold, 2 silver, 5 bronze"
+        },
+        {
+          "answer": "Southern Rhodesia",
+          "display": "#7 — 2 gold, 2 silver, 1 bronze"
+        },
+        {
+          "answer": "Trinidad and Tobago",
+          "display": "#8 — 2 gold, 2 silver, 0 bronze",
+          "aliases": [
+            "Trinidad"
+          ]
+        },
+        {
+          "answer": "Northern Ireland",
+          "display": "#9 — 2 gold, 1 silver, 0 bronze",
+          "aliases": [
+            "NI"
+          ]
+        },
+        {
+          "answer": "Northern Rhodesia",
+          "display": "#10 — 1 gold, 4 silver, 3 bronze"
+        },
+        {
+          "answer": "Nigeria",
+          "display": "#11 — 1 gold, 3 silver, 3 bronze"
+        }
+      ]
+    },
+    {
+      "category": "sports/multi-sport/commonwealth-games",
+      "question": "Top 10 nations in the 1958 British Empire and Commonwealth Games (Cardiff) medal table (ranked by gold medals, then silver, then bronze)",
+      "cutoff": 10,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1373597085 | table 1 | name: Nation | value: Rank | order: asc",
+      "tags": [
+        "commonwealth-games",
+        "medals",
+        "nations",
+        "1958"
+      ],
+      "answers": [
+        {
+          "answer": "England",
+          "display": "#1 — 29 gold, 22 silver, 29 bronze"
+        },
+        {
+          "answer": "Australia",
+          "display": "#2 — 27 gold, 22 silver, 17 bronze"
+        },
+        {
+          "answer": "South Africa",
+          "display": "#3 — 13 gold, 10 silver, 8 bronze"
+        },
+        {
+          "answer": "Scotland",
+          "display": "#4 — 5 gold, 5 silver, 3 bronze"
+        },
+        {
+          "answer": "New Zealand",
+          "display": "#5 — 4 gold, 6 silver, 9 bronze",
+          "aliases": [
+            "NZ"
+          ]
+        },
+        {
+          "answer": "Jamaica",
+          "display": "#6 — 4 gold, 2 silver, 1 bronze"
+        },
+        {
+          "answer": "Pakistan",
+          "display": "#7 — 3 gold, 5 silver, 2 bronze"
+        },
+        {
+          "answer": "India",
+          "display": "#8 — 2 gold, 1 silver, 0 bronze"
+        },
+        {
+          "answer": "Singapore",
+          "display": "#9 — 2 gold, 0 silver, 0 bronze"
+        },
+        {
+          "answer": "Canada",
+          "display": "#10 — 1 gold, 10 silver, 15 bronze"
+        },
+        {
+          "answer": "Wales",
+          "display": "#11 — 1 gold, 3 silver, 7 bronze"
+        },
+        {
+          "answer": "Northern Ireland",
+          "display": "#12 — 1 gold, 1 silver, 3 bronze",
+          "aliases": [
+            "NI"
+          ]
+        },
+        {
+          "answer": "Bahama Islands",
+          "display": "#13 — 1 gold, 1 silver, 0 bronze",
+          "aliases": [
+            "Bahamas"
+          ]
+        },
+        {
+          "answer": "Barbados",
+          "display": "#13 — 1 gold, 1 silver, 0 bronze"
+        }
+      ]
+    },
+    {
+      "category": "sports/multi-sport/commonwealth-games",
+      "question": "Top 10 nations in the 1962 British Empire and Commonwealth Games (Perth) medal table (ranked by gold medals, then silver, then bronze)",
+      "cutoff": 10,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1373596905 | table 1 | name: Nation | value: Rank | order: asc",
+      "tags": [
+        "commonwealth-games",
+        "medals",
+        "nations",
+        "1962"
+      ],
+      "answers": [
+        {
+          "answer": "Australia",
+          "display": "#1 — 38 gold, 36 silver, 31 bronze"
+        },
+        {
+          "answer": "England",
+          "display": "#2 — 29 gold, 22 silver, 27 bronze"
+        },
+        {
+          "answer": "New Zealand",
+          "display": "#3 — 10 gold, 12 silver, 10 bronze",
+          "aliases": [
+            "NZ"
+          ]
+        },
+        {
+          "answer": "Pakistan",
+          "display": "#4 — 8 gold, 1 silver, 0 bronze"
+        },
+        {
+          "answer": "Canada",
+          "display": "#5 — 4 gold, 12 silver, 15 bronze"
+        },
+        {
+          "answer": "Scotland",
+          "display": "#6 — 4 gold, 7 silver, 3 bronze"
+        },
+        {
+          "answer": "Ghana",
+          "display": "#7 — 3 gold, 5 silver, 1 bronze",
+          "aliases": [
+            "Gold Coast"
+          ]
+        },
+        {
+          "answer": "Jamaica",
+          "display": "#8 — 3 gold, 1 silver, 1 bronze"
+        },
+        {
+          "answer": "Kenya",
+          "display": "#9 — 2 gold, 2 silver, 1 bronze"
+        },
+        {
+          "answer": "Singapore",
+          "display": "#10 — 2 gold, 0 silver, 0 bronze"
+        },
+        {
+          "answer": "Uganda",
+          "display": "#11 — 1 gold, 1 silver, 4 bronze"
+        },
+        {
+          "answer": "Rhodesia and Nyasaland",
+          "display": "#12 — 0 gold, 2 silver, 5 bronze"
+        },
+        {
+          "answer": "Wales",
+          "display": "#13 — 0 gold, 2 silver, 4 bronze"
+        }
+      ]
+    },
+    {
+      "category": "sports/multi-sport/commonwealth-games",
+      "question": "Top 10 nations in the 1966 British Empire and Commonwealth Games (Kingston) medal table (ranked by gold medals, then silver, then bronze)",
+      "cutoff": 10,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1373596764 | table 2 | name: Nation | value: Rank | order: asc",
+      "tags": [
+        "commonwealth-games",
+        "medals",
+        "nations",
+        "1966"
+      ],
+      "answers": [
+        {
+          "answer": "England",
+          "display": "#1 — 33 gold, 24 silver, 23 bronze"
+        },
+        {
+          "answer": "Australia",
+          "display": "#2 — 23 gold, 28 silver, 22 bronze"
+        },
+        {
+          "answer": "Canada",
+          "display": "#3 — 14 gold, 20 silver, 23 bronze"
+        },
+        {
+          "answer": "New Zealand",
+          "display": "#4 — 8 gold, 5 silver, 13 bronze",
+          "aliases": [
+            "NZ"
+          ]
+        },
+        {
+          "answer": "Ghana",
+          "display": "#5 — 5 gold, 2 silver, 2 bronze",
+          "aliases": [
+            "Gold Coast"
+          ]
+        },
+        {
+          "answer": "Trinidad and Tobago",
+          "display": "#5 — 5 gold, 2 silver, 2 bronze",
+          "aliases": [
+            "Trinidad"
+          ]
+        },
+        {
+          "answer": "Pakistan",
+          "display": "#7 — 4 gold, 1 silver, 4 bronze"
+        },
+        {
+          "answer": "Kenya",
+          "display": "#8 — 4 gold, 1 silver, 3 bronze"
+        },
+        {
+          "answer": "India",
+          "display": "#9 — 3 gold, 4 silver, 3 bronze"
+        },
+        {
+          "answer": "Nigeria",
+          "display": "#9 — 3 gold, 4 silver, 3 bronze"
+        },
+        {
+          "answer": "Wales",
+          "display": "#11 — 3 gold, 2 silver, 2 bronze"
+        },
+        {
+          "answer": "Malaysia",
+          "display": "#12 — 2 gold, 2 silver, 1 bronze",
+          "aliases": [
+            "Malaya"
+          ]
+        },
+        {
+          "answer": "Scotland",
+          "display": "#13 — 1 gold, 4 silver, 4 bronze"
+        }
+      ]
+    },
+    {
+      "category": "sports/multi-sport/commonwealth-games",
+      "question": "Top 10 nations in the 1970 British Commonwealth Games (Edinburgh) medal table (ranked by gold medals, then silver, then bronze)",
+      "cutoff": 10,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1373425334 | table 2 | name: Nation | value: Rank | order: asc",
+      "tags": [
+        "commonwealth-games",
+        "medals",
+        "nations",
+        "1970"
+      ],
+      "answers": [
+        {
+          "answer": "Australia",
+          "display": "#1 — 36 gold, 24 silver, 22 bronze"
+        },
+        {
+          "answer": "England",
+          "display": "#2 — 27 gold, 25 silver, 32 bronze"
+        },
+        {
+          "answer": "Canada",
+          "display": "#3 — 18 gold, 24 silver, 24 bronze"
+        },
+        {
+          "answer": "Scotland",
+          "display": "#4 — 6 gold, 8 silver, 11 bronze"
+        },
+        {
+          "answer": "Kenya",
+          "display": "#5 — 5 gold, 3 silver, 6 bronze"
+        },
+        {
+          "answer": "India",
+          "display": "#6 — 5 gold, 3 silver, 4 bronze"
+        },
+        {
+          "answer": "Pakistan",
+          "display": "#7 — 4 gold, 3 silver, 2 bronze"
+        },
+        {
+          "answer": "Jamaica",
+          "display": "#8 — 4 gold, 2 silver, 1 bronze"
+        },
+        {
+          "answer": "Uganda",
+          "display": "#9 — 3 gold, 3 silver, 1 bronze"
+        },
+        {
+          "answer": "Northern Ireland",
+          "display": "#10 — 3 gold, 1 silver, 5 bronze",
+          "aliases": [
+            "NI"
+          ]
+        },
+        {
+          "answer": "New Zealand",
+          "display": "#11 — 2 gold, 6 silver, 6 bronze",
+          "aliases": [
+            "NZ"
+          ]
+        },
+        {
+          "answer": "Wales",
+          "display": "#12 — 2 gold, 6 silver, 4 bronze"
+        },
+        {
+          "answer": "Ghana",
+          "display": "#13 — 2 gold, 3 silver, 2 bronze",
+          "aliases": [
+            "Gold Coast"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/multi-sport/commonwealth-games",
+      "question": "Top 10 nations in the 1974 British Commonwealth Games (Christchurch) medal table (ranked by gold medals, then silver, then bronze)",
+      "cutoff": 10,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1373596024 | table 3 | name: Nation | value: Rank | order: asc",
+      "tags": [
+        "commonwealth-games",
+        "medals",
+        "nations",
+        "1974"
+      ],
+      "answers": [
+        {
+          "answer": "Australia",
+          "display": "#1 — 29 gold, 28 silver, 25 bronze"
+        },
+        {
+          "answer": "England",
+          "display": "#2 — 28 gold, 31 silver, 21 bronze"
+        },
+        {
+          "answer": "Canada",
+          "display": "#3 — 25 gold, 19 silver, 18 bronze"
+        },
+        {
+          "answer": "New Zealand",
+          "display": "#4 — 9 gold, 8 silver, 18 bronze",
+          "aliases": [
+            "NZ"
+          ]
+        },
+        {
+          "answer": "Kenya",
+          "display": "#5 — 7 gold, 2 silver, 9 bronze"
+        },
+        {
+          "answer": "India",
+          "display": "#6 — 4 gold, 8 silver, 3 bronze"
+        },
+        {
+          "answer": "Scotland",
+          "display": "#7 — 3 gold, 5 silver, 11 bronze"
+        },
+        {
+          "answer": "Nigeria",
+          "display": "#8 — 3 gold, 3 silver, 4 bronze"
+        },
+        {
+          "answer": "Northern Ireland",
+          "display": "#9 — 3 gold, 1 silver, 2 bronze",
+          "aliases": [
+            "NI"
+          ]
+        },
+        {
+          "answer": "Uganda",
+          "display": "#10 — 2 gold, 4 silver, 3 bronze"
+        },
+        {
+          "answer": "Jamaica",
+          "display": "#11 — 2 gold, 1 silver, 0 bronze"
+        },
+        {
+          "answer": "Wales",
+          "display": "#12 — 1 gold, 5 silver, 4 bronze"
+        },
+        {
+          "answer": "Ghana",
+          "display": "#13 — 1 gold, 3 silver, 5 bronze",
+          "aliases": [
+            "Gold Coast"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/multi-sport/commonwealth-games",
+      "question": "Top 10 nations in the 1978 Commonwealth Games (Edmonton) medal table (ranked by gold medals, then silver, then bronze)",
+      "cutoff": 10,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1373596256 | table 3 | name: Nation | value: Rank | order: asc",
+      "tags": [
+        "commonwealth-games",
+        "medals",
+        "nations",
+        "1978"
+      ],
+      "answers": [
+        {
+          "answer": "Canada",
+          "display": "#1 — 45 gold, 31 silver, 33 bronze"
+        },
+        {
+          "answer": "England",
+          "display": "#2 — 27 gold, 28 silver, 32 bronze"
+        },
+        {
+          "answer": "Australia",
+          "display": "#3 — 24 gold, 33 silver, 27 bronze"
+        },
+        {
+          "answer": "Kenya",
+          "display": "#4 — 7 gold, 6 silver, 5 bronze"
+        },
+        {
+          "answer": "New Zealand",
+          "display": "#5 — 5 gold, 6 silver, 9 bronze",
+          "aliases": [
+            "NZ"
+          ]
+        },
+        {
+          "answer": "India",
+          "display": "#6 — 5 gold, 4 silver, 6 bronze"
+        },
+        {
+          "answer": "Scotland",
+          "display": "#7 — 3 gold, 6 silver, 5 bronze"
+        },
+        {
+          "answer": "Jamaica",
+          "display": "#8 — 2 gold, 2 silver, 3 bronze"
+        },
+        {
+          "answer": "Wales",
+          "display": "#9 — 2 gold, 1 silver, 5 bronze"
+        },
+        {
+          "answer": "Northern Ireland",
+          "display": "#10 — 2 gold, 1 silver, 2 bronze",
+          "aliases": [
+            "NI"
+          ]
+        },
+        {
+          "answer": "Hong Kong",
+          "display": "#11 — 2 gold, 0 silver, 0 bronze"
+        },
+        {
+          "answer": "Malaysia",
+          "display": "#12 — 1 gold, 2 silver, 1 bronze",
+          "aliases": [
+            "Malaya"
+          ]
+        },
+        {
+          "answer": "Ghana",
+          "display": "#13 — 1 gold, 1 silver, 1 bronze",
+          "aliases": [
+            "Gold Coast"
+          ]
+        },
+        {
+          "answer": "Guyana",
+          "display": "#13 — 1 gold, 1 silver, 1 bronze"
+        }
+      ]
+    },
+    {
+      "category": "sports/multi-sport/commonwealth-games",
+      "question": "Top 10 nations in the 1982 Commonwealth Games (Brisbane) medal table (ranked by gold medals, then silver, then bronze)",
+      "cutoff": 10,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1373596316 | table 2 | name: Nation | value: Rank | order: asc",
+      "tags": [
+        "commonwealth-games",
+        "medals",
+        "nations",
+        "1982"
+      ],
+      "answers": [
+        {
+          "answer": "Australia",
+          "display": "#1 — 39 gold, 39 silver, 29 bronze"
+        },
+        {
+          "answer": "England",
+          "display": "#2 — 38 gold, 38 silver, 32 bronze"
+        },
+        {
+          "answer": "Canada",
+          "display": "#3 — 26 gold, 23 silver, 33 bronze"
+        },
+        {
+          "answer": "Scotland",
+          "display": "#4 — 8 gold, 6 silver, 12 bronze"
+        },
+        {
+          "answer": "New Zealand",
+          "display": "#5 — 5 gold, 8 silver, 13 bronze",
+          "aliases": [
+            "NZ"
+          ]
+        },
+        {
+          "answer": "India",
+          "display": "#6 — 5 gold, 8 silver, 3 bronze"
+        },
+        {
+          "answer": "Nigeria",
+          "display": "#7 — 5 gold, 0 silver, 8 bronze"
+        },
+        {
+          "answer": "Wales",
+          "display": "#8 — 4 gold, 4 silver, 1 bronze"
+        },
+        {
+          "answer": "Kenya",
+          "display": "#9 — 4 gold, 2 silver, 4 bronze"
+        },
+        {
+          "answer": "Bahamas",
+          "display": "#10 — 2 gold, 2 silver, 2 bronze",
+          "aliases": [
+            "Bahama Islands"
+          ]
+        },
+        {
+          "answer": "Jamaica",
+          "display": "#11 — 2 gold, 1 silver, 1 bronze"
+        },
+        {
+          "answer": "Tanzania",
+          "display": "#12 — 1 gold, 2 silver, 2 bronze"
+        },
+        {
+          "answer": "Malaysia",
+          "display": "#13 — 1 gold, 0 silver, 1 bronze",
+          "aliases": [
+            "Malaya"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/multi-sport/commonwealth-games",
+      "question": "Top 8 nations in the 1986 Commonwealth Games (Edinburgh, boycott) medal table (ranked by gold medals, then silver, then bronze)",
+      "cutoff": 8,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1373596492 | table 3 | name: Nation | value: Rank | order: asc",
+      "tags": [
+        "commonwealth-games",
+        "medals",
+        "nations",
+        "1986"
+      ],
+      "answers": [
+        {
+          "answer": "England",
+          "display": "#1 — 52 gold, 43 silver, 49 bronze"
+        },
+        {
+          "answer": "Canada",
+          "display": "#2 — 51 gold, 34 silver, 31 bronze"
+        },
+        {
+          "answer": "Australia",
+          "display": "#3 — 40 gold, 46 silver, 35 bronze"
+        },
+        {
+          "answer": "New Zealand",
+          "display": "#4 — 8 gold, 16 silver, 14 bronze",
+          "aliases": [
+            "NZ"
+          ]
+        },
+        {
+          "answer": "Wales",
+          "display": "#5 — 6 gold, 5 silver, 11 bronze"
+        },
+        {
+          "answer": "Scotland",
+          "display": "#6 — 3 gold, 12 silver, 18 bronze"
+        },
+        {
+          "answer": "Northern Ireland",
+          "display": "#7 — 2 gold, 4 silver, 9 bronze",
+          "aliases": [
+            "NI"
+          ]
+        },
+        {
+          "answer": "Isle of Man",
+          "display": "#8 — 1 gold, 0 silver, 0 bronze"
+        },
+        {
+          "answer": "Guernsey",
+          "display": "#9 — 0 gold, 2 silver, 0 bronze"
+        },
+        {
+          "answer": "Swaziland",
+          "display": "#10 — 0 gold, 1 silver, 0 bronze"
+        },
+        {
+          "answer": "Hong Kong",
+          "display": "#11 — 0 gold, 0 silver, 2 bronze"
+        },
+        {
+          "answer": "Malawi",
+          "display": "#11 — 0 gold, 0 silver, 2 bronze"
+        }
+      ]
+    },
+    {
+      "category": "sports/multi-sport/commonwealth-games",
+      "question": "Top 10 nations in the 1990 Commonwealth Games (Auckland) medal table (ranked by gold medals, then silver, then bronze)",
+      "cutoff": 10,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1375072332 | table 3 | name: Nation | value: Rank | order: asc",
+      "tags": [
+        "commonwealth-games",
+        "medals",
+        "nations",
+        "1990"
+      ],
+      "answers": [
+        {
+          "answer": "Australia",
+          "display": "#1 — 52 gold, 54 silver, 58 bronze"
+        },
+        {
+          "answer": "England",
+          "display": "#2 — 47 gold, 40 silver, 42 bronze"
+        },
+        {
+          "answer": "Canada",
+          "display": "#3 — 36 gold, 42 silver, 38 bronze"
+        },
+        {
+          "answer": "New Zealand",
+          "display": "#4 — 17 gold, 14 silver, 27 bronze",
+          "aliases": [
+            "NZ"
+          ]
+        },
+        {
+          "answer": "India",
+          "display": "#5 — 13 gold, 8 silver, 11 bronze"
+        },
+        {
+          "answer": "Wales",
+          "display": "#6 — 10 gold, 3 silver, 12 bronze"
+        },
+        {
+          "answer": "Kenya",
+          "display": "#7 — 6 gold, 9 silver, 3 bronze"
+        },
+        {
+          "answer": "Nigeria",
+          "display": "#8 — 5 gold, 13 silver, 7 bronze"
+        },
+        {
+          "answer": "Scotland",
+          "display": "#9 — 5 gold, 7 silver, 10 bronze"
+        },
+        {
+          "answer": "Malaysia",
+          "display": "#10 — 2 gold, 2 silver, 0 bronze",
+          "aliases": [
+            "Malaya"
+          ]
+        },
+        {
+          "answer": "Jamaica",
+          "display": "#11 — 2 gold, 0 silver, 2 bronze"
+        },
+        {
+          "answer": "Uganda",
+          "display": "#11 — 2 gold, 0 silver, 2 bronze"
+        },
+        {
+          "answer": "Northern Ireland",
+          "display": "#13 — 1 gold, 3 silver, 5 bronze",
+          "aliases": [
+            "NI"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/multi-sport/commonwealth-games",
+      "question": "Top 10 nations in the 1994 Commonwealth Games (Victoria) medal table (ranked by gold medals, then silver, then bronze)",
+      "cutoff": 10,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1371241171 | table 5 | name: Nation | value: Rank | order: asc",
+      "tags": [
+        "commonwealth-games",
+        "medals",
+        "nations",
+        "1994"
+      ],
+      "answers": [
+        {
+          "answer": "Australia",
+          "display": "#1 — 87 gold, 52 silver, 43 bronze"
+        },
+        {
+          "answer": "Canada",
+          "display": "#2 — 40 gold, 42 silver, 46 bronze"
+        },
+        {
+          "answer": "England",
+          "display": "#3 — 31 gold, 45 silver, 49 bronze"
+        },
+        {
+          "answer": "Nigeria",
+          "display": "#4 — 11 gold, 13 silver, 13 bronze"
+        },
+        {
+          "answer": "Kenya",
+          "display": "#5 — 7 gold, 4 silver, 5 bronze"
+        },
+        {
+          "answer": "India",
+          "display": "#6 — 6 gold, 11 silver, 7 bronze"
+        },
+        {
+          "answer": "Scotland",
+          "display": "#7 — 6 gold, 3 silver, 11 bronze"
+        },
+        {
+          "answer": "New Zealand",
+          "display": "#8 — 5 gold, 16 silver, 20 bronze",
+          "aliases": [
+            "NZ"
+          ]
+        },
+        {
+          "answer": "Wales",
+          "display": "#9 — 5 gold, 8 silver, 6 bronze"
+        },
+        {
+          "answer": "Northern Ireland",
+          "display": "#10 — 5 gold, 2 silver, 3 bronze",
+          "aliases": [
+            "NI"
+          ]
+        },
+        {
+          "answer": "Nauru",
+          "display": "#11 — 3 gold, 0 silver, 0 bronze"
+        },
+        {
+          "answer": "South Africa",
+          "display": "#12 — 2 gold, 4 silver, 5 bronze"
+        },
+        {
+          "answer": "Jamaica",
+          "display": "#13 — 2 gold, 4 silver, 2 bronze"
+        }
+      ]
+    },
+    {
+      "category": "sports/multi-sport/commonwealth-games",
+      "question": "Top 10 nations in the 1998 Commonwealth Games (Kuala Lumpur) medal table (ranked by gold medals, then silver, then bronze)",
+      "cutoff": 10,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1376055012 | table 5 | name: Nation | value: Rank | order: asc",
+      "tags": [
+        "commonwealth-games",
+        "medals",
+        "nations",
+        "1998"
+      ],
+      "answers": [
+        {
+          "answer": "Australia",
+          "display": "#1 — 80 gold, 61 silver, 57 bronze"
+        },
+        {
+          "answer": "England",
+          "display": "#2 — 36 gold, 47 silver, 53 bronze"
+        },
+        {
+          "answer": "Canada",
+          "display": "#3 — 30 gold, 31 silver, 38 bronze"
+        },
+        {
+          "answer": "Malaysia",
+          "display": "#4 — 10 gold, 14 silver, 12 bronze",
+          "aliases": [
+            "Malaya"
+          ]
+        },
+        {
+          "answer": "South Africa",
+          "display": "#5 — 9 gold, 11 silver, 13 bronze"
+        },
+        {
+          "answer": "New Zealand",
+          "display": "#6 — 8 gold, 6 silver, 20 bronze",
+          "aliases": [
+            "NZ"
+          ]
+        },
+        {
+          "answer": "India",
+          "display": "#7 — 7 gold, 10 silver, 8 bronze"
+        },
+        {
+          "answer": "Kenya",
+          "display": "#8 — 7 gold, 5 silver, 4 bronze"
+        },
+        {
+          "answer": "Jamaica",
+          "display": "#9 — 4 gold, 2 silver, 0 bronze"
+        },
+        {
+          "answer": "Wales",
+          "display": "#10 — 3 gold, 4 silver, 9 bronze"
+        },
+        {
+          "answer": "Scotland",
+          "display": "#11 — 3 gold, 2 silver, 7 bronze"
+        },
+        {
+          "answer": "Nauru",
+          "display": "#12 — 3 gold, 0 silver, 0 bronze"
+        },
+        {
+          "answer": "Northern Ireland",
+          "display": "#13 — 2 gold, 1 silver, 2 bronze",
+          "aliases": [
+            "NI"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/multi-sport/commonwealth-games",
+      "question": "Top 10 nations in the 2002 Commonwealth Games (Manchester) medal table (ranked by gold medals, then silver, then bronze)",
+      "cutoff": 10,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1379827134 | table 6 | name: CGA | value: Rank | order: asc",
+      "tags": [
+        "commonwealth-games",
+        "medals",
+        "nations",
+        "2002"
+      ],
+      "answers": [
+        {
+          "answer": "Australia",
+          "display": "#1 — 82 gold, 62 silver, 63 bronze"
+        },
+        {
+          "answer": "England",
+          "display": "#2 — 54 gold, 51 silver, 60 bronze"
+        },
+        {
+          "answer": "Canada",
+          "display": "#3 — 31 gold, 41 silver, 44 bronze"
+        },
+        {
+          "answer": "India",
+          "display": "#4 — 30 gold, 22 silver, 17 bronze"
+        },
+        {
+          "answer": "New Zealand",
+          "display": "#5 — 11 gold, 13 silver, 21 bronze",
+          "aliases": [
+            "NZ"
+          ]
+        },
+        {
+          "answer": "South Africa",
+          "display": "#6 — 9 gold, 20 silver, 17 bronze"
+        },
+        {
+          "answer": "Cameroon",
+          "display": "#7 — 9 gold, 1 silver, 2 bronze"
+        },
+        {
+          "answer": "Malaysia",
+          "display": "#8 — 7 gold, 9 silver, 18 bronze",
+          "aliases": [
+            "Malaya"
+          ]
+        },
+        {
+          "answer": "Wales",
+          "display": "#9 — 6 gold, 13 silver, 12 bronze"
+        },
+        {
+          "answer": "Scotland",
+          "display": "#10 — 6 gold, 8 silver, 16 bronze"
+        },
+        {
+          "answer": "Nigeria",
+          "display": "#11 — 5 gold, 3 silver, 11 bronze"
+        },
+        {
+          "answer": "Kenya",
+          "display": "#12 — 4 gold, 8 silver, 4 bronze"
+        },
+        {
+          "answer": "Jamaica",
+          "display": "#13 — 4 gold, 6 silver, 7 bronze"
+        }
+      ]
+    },
+    {
+      "category": "sports/multi-sport/commonwealth-games",
+      "question": "Top 10 nations in the 2006 Commonwealth Games (Melbourne) medal table (ranked by gold medals, then silver, then bronze)",
+      "cutoff": 10,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1371245472 | table 1 | name: CGA | value: Rank | order: asc",
+      "tags": [
+        "commonwealth-games",
+        "medals",
+        "nations",
+        "2006"
+      ],
+      "answers": [
+        {
+          "answer": "Australia",
+          "display": "#1 — 84 gold, 70 silver, 67 bronze"
+        },
+        {
+          "answer": "England",
+          "display": "#2 — 36 gold, 40 silver, 35 bronze"
+        },
+        {
+          "answer": "Canada",
+          "display": "#3 — 26 gold, 28 silver, 32 bronze"
+        },
+        {
+          "answer": "India",
+          "display": "#4 — 22 gold, 17 silver, 11 bronze"
+        },
+        {
+          "answer": "South Africa",
+          "display": "#5 — 12 gold, 13 silver, 13 bronze"
+        },
+        {
+          "answer": "Scotland",
+          "display": "#6 — 11 gold, 7 silver, 11 bronze"
+        },
+        {
+          "answer": "Jamaica",
+          "display": "#7 — 10 gold, 4 silver, 8 bronze"
+        },
+        {
+          "answer": "Malaysia",
+          "display": "#8 — 7 gold, 12 silver, 10 bronze",
+          "aliases": [
+            "Malaya"
+          ]
+        },
+        {
+          "answer": "New Zealand",
+          "display": "#9 — 6 gold, 12 silver, 13 bronze",
+          "aliases": [
+            "NZ"
+          ]
+        },
+        {
+          "answer": "Kenya",
+          "display": "#10 — 6 gold, 5 silver, 7 bronze"
+        },
+        {
+          "answer": "Singapore",
+          "display": "#11 — 5 gold, 6 silver, 7 bronze"
+        },
+        {
+          "answer": "Nigeria",
+          "display": "#12 — 4 gold, 6 silver, 7 bronze"
+        },
+        {
+          "answer": "Wales",
+          "display": "#13 — 3 gold, 5 silver, 11 bronze"
+        }
+      ]
+    },
+    {
+      "category": "sports/multi-sport/commonwealth-games",
+      "question": "Top 10 nations in the 2010 Commonwealth Games (Delhi) medal table (ranked by gold medals, then silver, then bronze)",
+      "cutoff": 10,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1370309068 | table 1 | name: CGA | value: Rank | order: asc",
+      "tags": [
+        "commonwealth-games",
+        "medals",
+        "nations",
+        "2010"
+      ],
+      "answers": [
+        {
+          "answer": "Australia",
+          "display": "#1 — 74 gold, 55 silver, 48 bronze"
+        },
+        {
+          "answer": "India",
+          "display": "#2 — 38 gold, 27 silver, 36 bronze"
+        },
+        {
+          "answer": "England",
+          "display": "#3 — 37 gold, 60 silver, 45 bronze"
+        },
+        {
+          "answer": "Canada",
+          "display": "#4 — 26 gold, 17 silver, 34 bronze"
+        },
+        {
+          "answer": "Kenya",
+          "display": "#5 — 12 gold, 11 silver, 10 bronze"
+        },
+        {
+          "answer": "South Africa",
+          "display": "#5 — 12 gold, 11 silver, 10 bronze"
+        },
+        {
+          "answer": "Malaysia",
+          "display": "#7 — 12 gold, 10 silver, 14 bronze",
+          "aliases": [
+            "Malaya"
+          ]
+        },
+        {
+          "answer": "Singapore",
+          "display": "#8 — 11 gold, 11 silver, 9 bronze"
+        },
+        {
+          "answer": "Nigeria",
+          "display": "#9 — 11 gold, 8 silver, 14 bronze"
+        },
+        {
+          "answer": "Scotland",
+          "display": "#10 — 9 gold, 10 silver, 7 bronze"
+        },
+        {
+          "answer": "New Zealand",
+          "display": "#11 — 6 gold, 22 silver, 8 bronze",
+          "aliases": [
+            "NZ"
+          ]
+        },
+        {
+          "answer": "Cyprus",
+          "display": "#12 — 4 gold, 3 silver, 4 bronze"
+        },
+        {
+          "answer": "Wales",
+          "display": "#13 — 3 gold, 6 silver, 10 bronze"
+        }
+      ]
+    },
+    {
+      "category": "sports/multi-sport/commonwealth-games",
+      "question": "Top 10 nations in the 2014 Commonwealth Games (Glasgow) medal table (ranked by gold medals, then silver, then bronze)",
+      "cutoff": 10,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1371852479 | table 1 | name: CGA | value: Rank | order: asc",
+      "tags": [
+        "commonwealth-games",
+        "medals",
+        "nations",
+        "2014"
+      ],
+      "answers": [
+        {
+          "answer": "England",
+          "display": "#1 — 58 gold, 59 silver, 57 bronze"
+        },
+        {
+          "answer": "Australia",
+          "display": "#2 — 49 gold, 42 silver, 46 bronze"
+        },
+        {
+          "answer": "Canada",
+          "display": "#3 — 32 gold, 16 silver, 34 bronze"
+        },
+        {
+          "answer": "Scotland",
+          "display": "#4 — 19 gold, 15 silver, 19 bronze"
+        },
+        {
+          "answer": "India",
+          "display": "#5 — 15 gold, 30 silver, 19 bronze"
+        },
+        {
+          "answer": "New Zealand",
+          "display": "#6 — 14 gold, 14 silver, 17 bronze",
+          "aliases": [
+            "NZ"
+          ]
+        },
+        {
+          "answer": "South Africa",
+          "display": "#7 — 13 gold, 10 silver, 17 bronze"
+        },
+        {
+          "answer": "Nigeria",
+          "display": "#8 — 11 gold, 11 silver, 14 bronze"
+        },
+        {
+          "answer": "Kenya",
+          "display": "#9 — 10 gold, 10 silver, 5 bronze"
+        },
+        {
+          "answer": "Jamaica",
+          "display": "#10 — 10 gold, 4 silver, 8 bronze"
+        },
+        {
+          "answer": "Singapore",
+          "display": "#11 — 8 gold, 5 silver, 4 bronze"
+        },
+        {
+          "answer": "Malaysia",
+          "display": "#12 — 6 gold, 7 silver, 6 bronze",
+          "aliases": [
+            "Malaya"
+          ]
+        },
+        {
+          "answer": "Wales",
+          "display": "#13 — 5 gold, 11 silver, 20 bronze"
+        }
+      ]
+    },
+    {
+      "category": "sports/multi-sport/commonwealth-games",
+      "question": "Top 10 nations in the 2018 Commonwealth Games (Gold Coast) medal table (ranked by gold medals, then silver, then bronze)",
+      "cutoff": 10,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1370723801 | table 1 | name: CGA | value: Rank | order: asc",
+      "tags": [
+        "commonwealth-games",
+        "medals",
+        "nations",
+        "2018"
+      ],
+      "answers": [
+        {
+          "answer": "Australia",
+          "display": "#1 — 80 gold, 59 silver, 59 bronze"
+        },
+        {
+          "answer": "England",
+          "display": "#2 — 45 gold, 45 silver, 46 bronze"
+        },
+        {
+          "answer": "India",
+          "display": "#3 — 26 gold, 20 silver, 20 bronze"
+        },
+        {
+          "answer": "Canada",
+          "display": "#4 — 15 gold, 40 silver, 27 bronze"
+        },
+        {
+          "answer": "New Zealand",
+          "display": "#5 — 15 gold, 16 silver, 15 bronze",
+          "aliases": [
+            "NZ"
+          ]
+        },
+        {
+          "answer": "South Africa",
+          "display": "#6 — 13 gold, 11 silver, 13 bronze"
+        },
+        {
+          "answer": "Wales",
+          "display": "#7 — 10 gold, 12 silver, 14 bronze"
+        },
+        {
+          "answer": "Scotland",
+          "display": "#8 — 9 gold, 13 silver, 22 bronze"
+        },
+        {
+          "answer": "Nigeria",
+          "display": "#9 — 9 gold, 9 silver, 6 bronze"
+        },
+        {
+          "answer": "Cyprus",
+          "display": "#10 — 8 gold, 1 silver, 5 bronze"
+        },
+        {
+          "answer": "Jamaica",
+          "display": "#11 — 7 gold, 9 silver, 11 bronze"
+        },
+        {
+          "answer": "Malaysia",
+          "display": "#12 — 7 gold, 5 silver, 12 bronze",
+          "aliases": [
+            "Malaya"
+          ]
+        },
+        {
+          "answer": "Singapore",
+          "display": "#13 — 5 gold, 2 silver, 2 bronze"
+        }
+      ]
+    },
+    {
+      "category": "sports/multi-sport/commonwealth-games",
+      "question": "Top 10 nations in the 2022 Commonwealth Games (Birmingham) medal table (ranked by gold medals, then silver, then bronze)",
+      "cutoff": 10,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1376429961 | table 1 | name: CGA | value: Rank | order: asc",
+      "tags": [
+        "commonwealth-games",
+        "medals",
+        "nations",
+        "2022"
+      ],
+      "answers": [
+        {
+          "answer": "Australia",
+          "display": "#1 — 67 gold, 57 silver, 56 bronze"
+        },
+        {
+          "answer": "England",
+          "display": "#2 — 58 gold, 65 silver, 53 bronze"
+        },
+        {
+          "answer": "Canada",
+          "display": "#3 — 26 gold, 32 silver, 34 bronze"
+        },
+        {
+          "answer": "India",
+          "display": "#4 — 21 gold, 16 silver, 23 bronze"
+        },
+        {
+          "answer": "New Zealand",
+          "display": "#5 — 20 gold, 12 silver, 18 bronze",
+          "aliases": [
+            "NZ"
+          ]
+        },
+        {
+          "answer": "Scotland",
+          "display": "#6 — 13 gold, 12 silver, 26 bronze"
+        },
+        {
+          "answer": "Nigeria",
+          "display": "#7 — 12 gold, 8 silver, 14 bronze"
+        },
+        {
+          "answer": "Wales",
+          "display": "#8 — 8 gold, 6 silver, 14 bronze"
+        },
+        {
+          "answer": "South Africa",
+          "display": "#9 — 7 gold, 9 silver, 11 bronze"
+        },
+        {
+          "answer": "Malaysia",
+          "display": "#10 — 7 gold, 8 silver, 8 bronze",
+          "aliases": [
+            "Malaya"
+          ]
+        },
+        {
+          "answer": "Northern Ireland",
+          "display": "#11 — 7 gold, 7 silver, 4 bronze",
+          "aliases": [
+            "NI"
+          ]
+        },
+        {
+          "answer": "Jamaica",
+          "display": "#12 — 6 gold, 7 silver, 2 bronze"
+        },
+        {
+          "answer": "Kenya",
+          "display": "#13 — 6 gold, 5 silver, 10 bronze"
+        }
+      ]
+    }
+  ]
+}

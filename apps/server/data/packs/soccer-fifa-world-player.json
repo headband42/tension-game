@@ -1,0 +1,2540 @@
+{
+  "categories": [
+    {
+      "path": "sports/soccer/awards",
+      "name": "Awards"
+    },
+    {
+      "path": "sports/soccer/awards/fifa-world-player",
+      "name": "FIFA World Player"
+    }
+  ],
+  "questions": [
+    {
+      "category": "sports/soccer/awards/fifa-world-player",
+      "difficulty": 2,
+      "question": "Top 7 in the 1991 FIFA World Player of the Year voting",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1321899808 | table 1 | name: Player | value: Points",
+      "tags": [
+        "soccer",
+        "fifa",
+        "awards",
+        "voting"
+      ],
+      "cutoff": 7,
+      "submitter": "claude",
+      "answers": [
+        {
+          "answer": "Lothar Matthäus",
+          "display": "128 points",
+          "aliases": [
+            "Matthäus"
+          ]
+        },
+        {
+          "answer": "Jean-Pierre Papin",
+          "display": "113 points",
+          "aliases": [
+            "Papin"
+          ]
+        },
+        {
+          "answer": "Gary Lineker",
+          "display": "40 points",
+          "aliases": [
+            "Lineker"
+          ]
+        },
+        {
+          "answer": "Robert Prosinečki",
+          "display": "38 points",
+          "aliases": [
+            "Prosinečki"
+          ]
+        },
+        {
+          "answer": "Marco van Basten",
+          "display": "23 points",
+          "aliases": [
+            "Van Basten"
+          ]
+        },
+        {
+          "answer": "Franco Baresi",
+          "display": "12 points",
+          "aliases": [
+            "Baresi"
+          ]
+        },
+        {
+          "answer": "Iván Zamorano",
+          "display": "10 points",
+          "aliases": [
+            "Zamorano"
+          ]
+        },
+        {
+          "answer": "Andreas Brehme",
+          "display": "9 points",
+          "aliases": [
+            "Brehme"
+          ]
+        },
+        {
+          "answer": "Gianluca Vialli",
+          "display": "8 points",
+          "aliases": [
+            "Vialli"
+          ]
+        },
+        {
+          "answer": "Enzo Scifo",
+          "display": "7 points",
+          "aliases": [
+            "Scifo"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/soccer/awards/fifa-world-player",
+      "difficulty": 2,
+      "question": "Top 8 in the 1992 FIFA World Player of the Year voting",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1266937725 | table 1 | name: Player | value: Points | note: #5 Brian Laudrup and #6 Peter Schmeichel tie on 44 points; #9 Abedi Pele, #10 Franco Baresi and #11 Jürgen Klinsmann tie on 10 points",
+      "tags": [
+        "soccer",
+        "fifa",
+        "awards",
+        "voting"
+      ],
+      "cutoff": 8,
+      "submitter": "claude",
+      "answers": [
+        {
+          "answer": "Marco van Basten",
+          "display": "161 points",
+          "aliases": [
+            "Van Basten"
+          ]
+        },
+        {
+          "answer": "Hristo Stoichkov",
+          "display": "88 points",
+          "aliases": [
+            "Stoichkov"
+          ]
+        },
+        {
+          "answer": "Thomas Häßler",
+          "display": "61 points",
+          "aliases": [
+            "Häßler"
+          ]
+        },
+        {
+          "answer": "Jean-Pierre Papin",
+          "display": "46 points",
+          "aliases": [
+            "Papin"
+          ]
+        },
+        {
+          "answer": "Brian Laudrup",
+          "display": "44 points",
+          "aliases": [
+            "Laudrup"
+          ]
+        },
+        {
+          "answer": "Peter Schmeichel",
+          "display": "44 points",
+          "aliases": [
+            "Schmeichel"
+          ]
+        },
+        {
+          "answer": "Dennis Bergkamp",
+          "display": "29 points",
+          "aliases": [
+            "Bergkamp"
+          ]
+        },
+        {
+          "answer": "Frank Rijkaard",
+          "display": "23 points",
+          "aliases": [
+            "Rijkaard"
+          ]
+        },
+        {
+          "answer": "Abedi Pele",
+          "display": "10 points"
+        },
+        {
+          "answer": "Franco Baresi",
+          "display": "10 points",
+          "aliases": [
+            "Baresi"
+          ]
+        },
+        {
+          "answer": "Jürgen Klinsmann",
+          "display": "10 points",
+          "aliases": [
+            "Klinsmann"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/soccer/awards/fifa-world-player",
+      "difficulty": 2,
+      "question": "Top 7 in the 1993 FIFA World Player of the Year voting",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1266937750 | table 1 | name: Player | value: Points",
+      "tags": [
+        "soccer",
+        "fifa",
+        "awards",
+        "voting"
+      ],
+      "cutoff": 7,
+      "submitter": "claude",
+      "answers": [
+        {
+          "answer": "Roberto Baggio",
+          "display": "152 points",
+          "aliases": [
+            "Baggio"
+          ]
+        },
+        {
+          "answer": "Romário",
+          "display": "84 points"
+        },
+        {
+          "answer": "Dennis Bergkamp",
+          "display": "58 points",
+          "aliases": [
+            "Bergkamp"
+          ]
+        },
+        {
+          "answer": "Peter Schmeichel",
+          "display": "29 points",
+          "aliases": [
+            "Schmeichel"
+          ]
+        },
+        {
+          "answer": "Hristo Stoichkov",
+          "display": "22 points",
+          "aliases": [
+            "Stoichkov"
+          ]
+        },
+        {
+          "answer": "Faustino Asprilla",
+          "display": "21 points",
+          "aliases": [
+            "Asprilla"
+          ]
+        },
+        {
+          "answer": "Bebeto",
+          "display": "16 points"
+        },
+        {
+          "answer": "Ronald Koeman",
+          "display": "15 points",
+          "aliases": [
+            "Koeman"
+          ]
+        },
+        {
+          "answer": "Tony Yeboah",
+          "display": "13 points",
+          "aliases": [
+            "Yeboah"
+          ]
+        },
+        {
+          "answer": "Raí",
+          "display": "12 points"
+        }
+      ]
+    },
+    {
+      "category": "sports/soccer/awards/fifa-world-player",
+      "difficulty": 2,
+      "question": "Top 8 in the 1994 FIFA World Player of the Year voting",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1266937775 | table 1 | name: Player | value: Points | note: #9 to #12 all tie on 7 points, and the list ends at #12",
+      "tags": [
+        "soccer",
+        "fifa",
+        "awards",
+        "voting"
+      ],
+      "cutoff": 8,
+      "submitter": "claude",
+      "answers": [
+        {
+          "answer": "Romário",
+          "display": "346 points"
+        },
+        {
+          "answer": "Hristo Stoichkov",
+          "display": "100 points",
+          "aliases": [
+            "Stoichkov"
+          ]
+        },
+        {
+          "answer": "Roberto Baggio",
+          "display": "80 points",
+          "aliases": [
+            "Baggio"
+          ]
+        },
+        {
+          "answer": "Gheorghe Hagi",
+          "display": "50 points",
+          "aliases": [
+            "Hagi"
+          ]
+        },
+        {
+          "answer": "Paolo Maldini",
+          "display": "40 points",
+          "aliases": [
+            "Maldini"
+          ]
+        },
+        {
+          "answer": "Bebeto",
+          "display": "16 points"
+        },
+        {
+          "answer": "Dennis Bergkamp",
+          "display": "11 points",
+          "aliases": [
+            "Bergkamp"
+          ]
+        },
+        {
+          "answer": "Dunga",
+          "display": "9 points"
+        },
+        {
+          "answer": "Franco Baresi",
+          "display": "7 points",
+          "aliases": [
+            "Baresi"
+          ]
+        },
+        {
+          "answer": "Tomas Brolin",
+          "display": "7 points",
+          "aliases": [
+            "Brolin"
+          ]
+        },
+        {
+          "answer": "Jürgen Klinsmann",
+          "display": "7 points",
+          "aliases": [
+            "Klinsmann"
+          ]
+        },
+        {
+          "answer": "Mauro Silva",
+          "display": "7 points"
+        }
+      ]
+    },
+    {
+      "category": "sports/soccer/awards/fifa-world-player",
+      "difficulty": 2,
+      "question": "Top 8 in the 1995 FIFA World Player of the Year voting",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1266937806 | table 1 | name: Player | value: Points | note: #9 Sammer, #10 Laudrup and #11 Zola; #10 and #11 tie on 20 points",
+      "tags": [
+        "soccer",
+        "fifa",
+        "awards",
+        "voting"
+      ],
+      "cutoff": 8,
+      "submitter": "claude",
+      "answers": [
+        {
+          "answer": "George Weah",
+          "display": "170 points",
+          "aliases": [
+            "Weah"
+          ]
+        },
+        {
+          "answer": "Paolo Maldini",
+          "display": "80 points",
+          "aliases": [
+            "Maldini"
+          ]
+        },
+        {
+          "answer": "Jürgen Klinsmann",
+          "display": "58 points",
+          "aliases": [
+            "Klinsmann"
+          ]
+        },
+        {
+          "answer": "Romário",
+          "display": "50 points"
+        },
+        {
+          "answer": "Roberto Baggio",
+          "display": "49 points",
+          "aliases": [
+            "Baggio"
+          ]
+        },
+        {
+          "answer": "Hristo Stoichkov",
+          "display": "37 points",
+          "aliases": [
+            "Stoichkov"
+          ]
+        },
+        {
+          "answer": "Iván Zamorano",
+          "display": "36 points",
+          "aliases": [
+            "Zamorano"
+          ]
+        },
+        {
+          "answer": "Juninho",
+          "display": "28 points"
+        },
+        {
+          "answer": "Matthias Sammer",
+          "display": "23 points",
+          "aliases": [
+            "Sammer"
+          ]
+        },
+        {
+          "answer": "Michael Laudrup",
+          "display": "20 points",
+          "aliases": [
+            "Laudrup"
+          ]
+        },
+        {
+          "answer": "Gianfranco Zola",
+          "display": "20 points",
+          "aliases": [
+            "Zola"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/soccer/awards/fifa-world-player",
+      "difficulty": 2,
+      "question": "Top 7 in the 1996 FIFA World Player of the Year voting",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1266937709 | table 1 | name: Player | value: Points",
+      "tags": [
+        "soccer",
+        "fifa",
+        "awards",
+        "voting"
+      ],
+      "cutoff": 7,
+      "submitter": "claude",
+      "answers": [
+        {
+          "answer": "Ronaldo Nazário",
+          "display": "329 points",
+          "aliases": [
+            "R9",
+            "Ronaldo"
+          ]
+        },
+        {
+          "answer": "George Weah",
+          "display": "140 points",
+          "aliases": [
+            "Weah"
+          ]
+        },
+        {
+          "answer": "Alan Shearer",
+          "display": "123 points",
+          "aliases": [
+            "Shearer"
+          ]
+        },
+        {
+          "answer": "Matthias Sammer",
+          "display": "109 points",
+          "aliases": [
+            "Sammer"
+          ]
+        },
+        {
+          "answer": "Jürgen Klinsmann",
+          "display": "54 points",
+          "aliases": [
+            "Klinsmann"
+          ]
+        },
+        {
+          "answer": "Nwankwo Kanu",
+          "display": "32 points",
+          "aliases": [
+            "Kanu"
+          ]
+        },
+        {
+          "answer": "Paolo Maldini",
+          "display": "25 points",
+          "aliases": [
+            "Maldini"
+          ]
+        },
+        {
+          "answer": "Davor Šuker",
+          "display": "24 points",
+          "aliases": [
+            "Šuker"
+          ]
+        },
+        {
+          "answer": "Gabriel Batistuta",
+          "display": "19 points",
+          "aliases": [
+            "Batistuta"
+          ]
+        },
+        {
+          "answer": "Romário",
+          "display": "13 points"
+        }
+      ]
+    },
+    {
+      "category": "sports/soccer/awards/fifa-world-player",
+      "difficulty": 2,
+      "question": "Top 7 in the 1997 FIFA World Player of the Year voting",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1266937730 | table 1 | name: Player | value: Points | note: #3 Bergkamp and #4 Zidane tie on 62 points; #8 Batistuta and #9 Shearer tie on 16 points",
+      "tags": [
+        "soccer",
+        "fifa",
+        "awards",
+        "voting"
+      ],
+      "cutoff": 7,
+      "submitter": "claude",
+      "answers": [
+        {
+          "answer": "Ronaldo Nazário",
+          "display": "480 points",
+          "aliases": [
+            "R9",
+            "Ronaldo"
+          ]
+        },
+        {
+          "answer": "Roberto Carlos",
+          "display": "85 points"
+        },
+        {
+          "answer": "Dennis Bergkamp",
+          "display": "62 points",
+          "aliases": [
+            "Bergkamp"
+          ]
+        },
+        {
+          "answer": "Zinedine Zidane",
+          "display": "62 points",
+          "aliases": [
+            "Zidane",
+            "Zizou"
+          ]
+        },
+        {
+          "answer": "Raúl González",
+          "display": "51 points",
+          "aliases": [
+            "Raúl"
+          ]
+        },
+        {
+          "answer": "Alessandro Del Piero",
+          "display": "27 points",
+          "aliases": [
+            "Del Piero"
+          ]
+        },
+        {
+          "answer": "Davor Šuker",
+          "display": "20 points",
+          "aliases": [
+            "Šuker"
+          ]
+        },
+        {
+          "answer": "Gabriel Batistuta",
+          "display": "16 points",
+          "aliases": [
+            "Batistuta"
+          ]
+        },
+        {
+          "answer": "Alan Shearer",
+          "display": "16 points",
+          "aliases": [
+            "Shearer"
+          ]
+        },
+        {
+          "answer": "Leonardo",
+          "display": "14 points"
+        },
+        {
+          "answer": "Peter Schmeichel",
+          "display": "14 points",
+          "aliases": [
+            "Schmeichel"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/soccer/awards/fifa-world-player",
+      "difficulty": 2,
+      "question": "Top 7 in the 1998 FIFA World Player of the Year voting",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1330923672 | table 1 | name: Player | value: Points",
+      "tags": [
+        "soccer",
+        "fifa",
+        "awards",
+        "voting"
+      ],
+      "cutoff": 7,
+      "submitter": "claude",
+      "answers": [
+        {
+          "answer": "Zinedine Zidane",
+          "display": "518 points",
+          "aliases": [
+            "Zidane",
+            "Zizou"
+          ]
+        },
+        {
+          "answer": "Ronaldo Nazário",
+          "display": "164 points",
+          "aliases": [
+            "R9",
+            "Ronaldo"
+          ]
+        },
+        {
+          "answer": "Davor Šuker",
+          "display": "108 points",
+          "aliases": [
+            "Šuker"
+          ]
+        },
+        {
+          "answer": "Michael Owen",
+          "display": "43 points",
+          "aliases": [
+            "Owen"
+          ]
+        },
+        {
+          "answer": "Gabriel Batistuta",
+          "display": "40 points",
+          "aliases": [
+            "Batistuta"
+          ]
+        },
+        {
+          "answer": "Rivaldo",
+          "display": "37 points"
+        },
+        {
+          "answer": "Dennis Bergkamp",
+          "display": "33 points",
+          "aliases": [
+            "Bergkamp"
+          ]
+        },
+        {
+          "answer": "Edgar Davids",
+          "display": "26 points",
+          "aliases": [
+            "Davids"
+          ]
+        },
+        {
+          "answer": "Marcel Desailly",
+          "display": "23 points",
+          "aliases": [
+            "Desailly"
+          ]
+        },
+        {
+          "answer": "Lilian Thuram",
+          "display": "14 points",
+          "aliases": [
+            "Thuram"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/soccer/awards/fifa-world-player",
+      "difficulty": 2,
+      "question": "Top 7 in the 1999 FIFA World Player of the Year voting",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1328472927 | table 1 | name: Player | value: Points",
+      "tags": [
+        "soccer",
+        "fifa",
+        "awards",
+        "voting"
+      ],
+      "cutoff": 7,
+      "submitter": "claude",
+      "answers": [
+        {
+          "answer": "Rivaldo",
+          "display": "543 points"
+        },
+        {
+          "answer": "David Beckham",
+          "display": "194 points",
+          "aliases": [
+            "Beckham"
+          ]
+        },
+        {
+          "answer": "Gabriel Batistuta",
+          "display": "79 points",
+          "aliases": [
+            "Batistuta"
+          ]
+        },
+        {
+          "answer": "Zinedine Zidane",
+          "display": "68 points",
+          "aliases": [
+            "Zidane",
+            "Zizou"
+          ]
+        },
+        {
+          "answer": "Christian Vieri",
+          "display": "39 points",
+          "aliases": [
+            "Vieri"
+          ]
+        },
+        {
+          "answer": "Luís Figo",
+          "display": "35 points",
+          "aliases": [
+            "Figo"
+          ]
+        },
+        {
+          "answer": "Andriy Shevchenko",
+          "display": "34 points",
+          "aliases": [
+            "Sheva",
+            "Shevchenko"
+          ]
+        },
+        {
+          "answer": "Raúl González",
+          "display": "31 points",
+          "aliases": [
+            "Raúl"
+          ]
+        },
+        {
+          "answer": "Andy Cole",
+          "display": "24 points"
+        },
+        {
+          "answer": "Dwight Yorke",
+          "display": "19 points",
+          "aliases": [
+            "Yorke"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/soccer/awards/fifa-world-player",
+      "difficulty": 2,
+      "question": "Top 8 in the 2000 FIFA World Player of the Year voting",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1328418662 | table 1 | name: Player | value: Points | note: #10 Totti and #11 Raúl tie on 14 points",
+      "tags": [
+        "soccer",
+        "fifa",
+        "awards",
+        "voting"
+      ],
+      "cutoff": 8,
+      "submitter": "claude",
+      "answers": [
+        {
+          "answer": "Zinedine Zidane",
+          "display": "370 points",
+          "aliases": [
+            "Zidane",
+            "Zizou"
+          ]
+        },
+        {
+          "answer": "Luís Figo",
+          "display": "329 points",
+          "aliases": [
+            "Figo"
+          ]
+        },
+        {
+          "answer": "Rivaldo",
+          "display": "263 points"
+        },
+        {
+          "answer": "Gabriel Batistuta",
+          "display": "57 points",
+          "aliases": [
+            "Batistuta"
+          ]
+        },
+        {
+          "answer": "Andriy Shevchenko",
+          "display": "48 points",
+          "aliases": [
+            "Sheva",
+            "Shevchenko"
+          ]
+        },
+        {
+          "answer": "David Beckham",
+          "display": "41 points",
+          "aliases": [
+            "Beckham"
+          ]
+        },
+        {
+          "answer": "Thierry Henry",
+          "display": "35 points",
+          "aliases": [
+            "Henry"
+          ]
+        },
+        {
+          "answer": "Alessandro Nesta",
+          "display": "23 points",
+          "aliases": [
+            "Nesta"
+          ]
+        },
+        {
+          "answer": "Patrick Kluivert",
+          "display": "22 points",
+          "aliases": [
+            "Kluivert"
+          ]
+        },
+        {
+          "answer": "Francesco Totti",
+          "display": "14 points",
+          "aliases": [
+            "Totti"
+          ]
+        },
+        {
+          "answer": "Raúl González",
+          "display": "14 points",
+          "aliases": [
+            "Raúl"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/soccer/awards/fifa-world-player",
+      "difficulty": 2,
+      "question": "Top 10 in the 2001 FIFA World Player of the Year voting",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1375863227 | table 1 | name: Player | value: Points",
+      "tags": [
+        "soccer",
+        "fifa",
+        "awards",
+        "voting"
+      ],
+      "cutoff": 10,
+      "submitter": "claude",
+      "answers": [
+        {
+          "answer": "Luís Figo",
+          "display": "250 points",
+          "aliases": [
+            "Figo"
+          ]
+        },
+        {
+          "answer": "David Beckham",
+          "display": "238 points",
+          "aliases": [
+            "Beckham"
+          ]
+        },
+        {
+          "answer": "Raúl González",
+          "display": "96 points",
+          "aliases": [
+            "Raúl"
+          ]
+        },
+        {
+          "answer": "Zinedine Zidane",
+          "display": "94 points",
+          "aliases": [
+            "Zidane",
+            "Zizou"
+          ]
+        },
+        {
+          "answer": "Rivaldo",
+          "display": "92 points"
+        },
+        {
+          "answer": "Juan Sebastián Verón",
+          "display": "71 points",
+          "aliases": [
+            "Verón"
+          ]
+        },
+        {
+          "answer": "Oliver Kahn",
+          "display": "65 points",
+          "aliases": [
+            "Kahn"
+          ]
+        },
+        {
+          "answer": "Michael Owen",
+          "display": "61 points",
+          "aliases": [
+            "Owen"
+          ]
+        },
+        {
+          "answer": "Andriy Shevchenko",
+          "display": "46 points",
+          "aliases": [
+            "Sheva",
+            "Shevchenko"
+          ]
+        },
+        {
+          "answer": "Francesco Totti",
+          "display": "40 points",
+          "aliases": [
+            "Totti"
+          ]
+        },
+        {
+          "answer": "Thierry Henry",
+          "display": "15 points",
+          "aliases": [
+            "Henry"
+          ]
+        },
+        {
+          "answer": "Manuel Rui Costa",
+          "display": "14 points",
+          "aliases": [
+            "Rui Costa"
+          ]
+        },
+        {
+          "answer": "Patrick Vieira",
+          "display": "13 points",
+          "aliases": [
+            "Vieira"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/soccer/awards/fifa-world-player",
+      "difficulty": 2,
+      "question": "Top 7 in the 2002 FIFA World Player of the Year voting",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1379766971 | table 1 | name: Player | value: Points",
+      "tags": [
+        "soccer",
+        "fifa",
+        "awards",
+        "voting"
+      ],
+      "cutoff": 7,
+      "submitter": "claude",
+      "answers": [
+        {
+          "answer": "Ronaldo Nazário",
+          "display": "387 points",
+          "aliases": [
+            "R9",
+            "Ronaldo"
+          ]
+        },
+        {
+          "answer": "Oliver Kahn",
+          "display": "171 points",
+          "aliases": [
+            "Kahn"
+          ]
+        },
+        {
+          "answer": "Zinedine Zidane",
+          "display": "148 points",
+          "aliases": [
+            "Zidane",
+            "Zizou"
+          ]
+        },
+        {
+          "answer": "Roberto Carlos",
+          "display": "114 points"
+        },
+        {
+          "answer": "Rivaldo",
+          "display": "92 points"
+        },
+        {
+          "answer": "Raúl González",
+          "display": "90 points",
+          "aliases": [
+            "Raúl"
+          ]
+        },
+        {
+          "answer": "Michael Ballack",
+          "display": "82 points",
+          "aliases": [
+            "Ballack"
+          ]
+        },
+        {
+          "answer": "David Beckham",
+          "display": "51 points",
+          "aliases": [
+            "Beckham"
+          ]
+        },
+        {
+          "answer": "Thierry Henry",
+          "display": "38 points",
+          "aliases": [
+            "Henry"
+          ]
+        },
+        {
+          "answer": "Michael Owen",
+          "display": "34 points",
+          "aliases": [
+            "Owen"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/soccer/awards/fifa-world-player",
+      "difficulty": 2,
+      "question": "Top 10 in the 2003 FIFA World Player of the Year voting",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1328412496 | table 1 | name: Player | value: Points",
+      "tags": [
+        "soccer",
+        "fifa",
+        "awards",
+        "voting"
+      ],
+      "cutoff": 10,
+      "submitter": "claude",
+      "answers": [
+        {
+          "answer": "Zinedine Zidane",
+          "display": "264 points",
+          "aliases": [
+            "Zidane",
+            "Zizou"
+          ]
+        },
+        {
+          "answer": "Thierry Henry",
+          "display": "186 points",
+          "aliases": [
+            "Henry"
+          ]
+        },
+        {
+          "answer": "Ronaldo Nazário",
+          "display": "176 points",
+          "aliases": [
+            "R9",
+            "Ronaldo"
+          ]
+        },
+        {
+          "answer": "Pavel Nedvěd",
+          "display": "158 points",
+          "aliases": [
+            "Nedvěd"
+          ]
+        },
+        {
+          "answer": "Roberto Carlos",
+          "display": "105 points"
+        },
+        {
+          "answer": "Ruud van Nistelrooy",
+          "display": "86 points",
+          "aliases": [
+            "Van Nistelrooy"
+          ]
+        },
+        {
+          "answer": "David Beckham",
+          "display": "74 points",
+          "aliases": [
+            "Beckham"
+          ]
+        },
+        {
+          "answer": "Raúl González",
+          "display": "39 points",
+          "aliases": [
+            "Raúl"
+          ]
+        },
+        {
+          "answer": "Paolo Maldini",
+          "display": "37 points",
+          "aliases": [
+            "Maldini"
+          ]
+        },
+        {
+          "answer": "Andriy Shevchenko",
+          "display": "26 points",
+          "aliases": [
+            "Sheva",
+            "Shevchenko"
+          ]
+        },
+        {
+          "answer": "Luís Figo",
+          "display": "17 points",
+          "aliases": [
+            "Figo"
+          ]
+        },
+        {
+          "answer": "Michael Ballack",
+          "display": "15 points",
+          "aliases": [
+            "Ballack"
+          ]
+        },
+        {
+          "answer": "Oliver Kahn",
+          "display": "13 points",
+          "aliases": [
+            "Kahn"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/soccer/awards/fifa-world-player",
+      "difficulty": 2,
+      "question": "Top 9 in the 2004 FIFA World Player of the Year voting",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1331292805 | table 1 | name: Player | value: Points | note: #10 Kaká and #11 Wayne Rooney tie on 64 points; #7 Deco and #8 Ronaldo tie on 96 points",
+      "tags": [
+        "soccer",
+        "fifa",
+        "awards",
+        "voting"
+      ],
+      "cutoff": 9,
+      "submitter": "claude",
+      "answers": [
+        {
+          "answer": "Ronaldinho",
+          "display": "620 points"
+        },
+        {
+          "answer": "Thierry Henry",
+          "display": "552 points",
+          "aliases": [
+            "Henry"
+          ]
+        },
+        {
+          "answer": "Andriy Shevchenko",
+          "display": "253 points",
+          "aliases": [
+            "Sheva",
+            "Shevchenko"
+          ]
+        },
+        {
+          "answer": "Pavel Nedvěd",
+          "display": "178 points",
+          "aliases": [
+            "Nedvěd"
+          ]
+        },
+        {
+          "answer": "Zinedine Zidane",
+          "display": "150 points",
+          "aliases": [
+            "Zidane",
+            "Zizou"
+          ]
+        },
+        {
+          "answer": "Adriano",
+          "display": "98 points"
+        },
+        {
+          "answer": "Deco",
+          "display": "96 points"
+        },
+        {
+          "answer": "Ronaldo Nazário",
+          "display": "96 points",
+          "aliases": [
+            "R9",
+            "Ronaldo"
+          ]
+        },
+        {
+          "answer": "Ruud van Nistelrooy",
+          "display": "67 points",
+          "aliases": [
+            "Van Nistelrooy"
+          ]
+        },
+        {
+          "answer": "Kaká",
+          "display": "64 points"
+        },
+        {
+          "answer": "Wayne Rooney",
+          "display": "64 points",
+          "aliases": [
+            "Rooney"
+          ]
+        },
+        {
+          "answer": "Didier Drogba",
+          "display": "46 points",
+          "aliases": [
+            "Drogba"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/soccer/awards/fifa-world-player",
+      "difficulty": 2,
+      "question": "Top 10 in the 2005 FIFA World Player of the Year voting",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1362667613 | table 1 | name: Name | value: Points",
+      "tags": [
+        "soccer",
+        "fifa",
+        "awards",
+        "voting"
+      ],
+      "cutoff": 10,
+      "submitter": "claude",
+      "answers": [
+        {
+          "answer": "Ronaldinho",
+          "display": "956 points"
+        },
+        {
+          "answer": "Frank Lampard",
+          "display": "306 points",
+          "aliases": [
+            "Lampard"
+          ]
+        },
+        {
+          "answer": "Samuel Eto'o",
+          "display": "190 points",
+          "aliases": [
+            "Eto'o"
+          ]
+        },
+        {
+          "answer": "Thierry Henry",
+          "display": "172 points",
+          "aliases": [
+            "Henry"
+          ]
+        },
+        {
+          "answer": "Adriano",
+          "display": "170 points"
+        },
+        {
+          "answer": "Andriy Shevchenko",
+          "display": "153 points",
+          "aliases": [
+            "Sheva",
+            "Shevchenko"
+          ]
+        },
+        {
+          "answer": "Steven Gerrard",
+          "display": "131 points",
+          "aliases": [
+            "Gerrard"
+          ]
+        },
+        {
+          "answer": "Kaká",
+          "display": "101 points"
+        },
+        {
+          "answer": "Paolo Maldini",
+          "display": "76 points",
+          "aliases": [
+            "Maldini"
+          ]
+        },
+        {
+          "answer": "Michael Ballack",
+          "display": "64 points",
+          "aliases": [
+            "Ballack"
+          ]
+        },
+        {
+          "answer": "Ronaldo Nazário",
+          "display": "63 points",
+          "aliases": [
+            "R9",
+            "Ronaldo"
+          ]
+        },
+        {
+          "answer": "Didier Drogba",
+          "display": "56 points",
+          "aliases": [
+            "Drogba"
+          ]
+        },
+        {
+          "answer": "Zinedine Zidane",
+          "display": "55 points",
+          "aliases": [
+            "Zidane",
+            "Zizou"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/soccer/awards/fifa-world-player",
+      "difficulty": 2,
+      "question": "Top 10 in the 2006 FIFA World Player of the Year voting",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1337099630 | table 1 | name: Player | value: Points",
+      "tags": [
+        "soccer",
+        "fifa",
+        "awards",
+        "voting"
+      ],
+      "cutoff": 10,
+      "submitter": "claude",
+      "answers": [
+        {
+          "answer": "Fabio Cannavaro",
+          "display": "498 points",
+          "aliases": [
+            "Cannavaro"
+          ]
+        },
+        {
+          "answer": "Zinedine Zidane",
+          "display": "454 points",
+          "aliases": [
+            "Zidane",
+            "Zizou"
+          ]
+        },
+        {
+          "answer": "Ronaldinho",
+          "display": "380 points"
+        },
+        {
+          "answer": "Thierry Henry",
+          "display": "317 points",
+          "aliases": [
+            "Henry"
+          ]
+        },
+        {
+          "answer": "Samuel Eto'o",
+          "display": "300 points",
+          "aliases": [
+            "Eto'o"
+          ]
+        },
+        {
+          "answer": "Didier Drogba",
+          "display": "150 points",
+          "aliases": [
+            "Drogba"
+          ]
+        },
+        {
+          "answer": "Kaká",
+          "display": "139 points"
+        },
+        {
+          "answer": "Gianluigi Buffon",
+          "display": "118 points",
+          "aliases": [
+            "Buffon"
+          ]
+        },
+        {
+          "answer": "Andrea Pirlo",
+          "display": "86 points",
+          "aliases": [
+            "Pirlo"
+          ]
+        },
+        {
+          "answer": "Cristiano Ronaldo",
+          "display": "69 points",
+          "aliases": [
+            "Cristiano",
+            "CR7",
+            "Ronaldo"
+          ]
+        },
+        {
+          "answer": "Michael Ballack",
+          "display": "53 points",
+          "aliases": [
+            "Ballack"
+          ]
+        },
+        {
+          "answer": "Steven Gerrard",
+          "display": "48 points",
+          "aliases": [
+            "Gerrard"
+          ]
+        },
+        {
+          "answer": "Miroslav Klose",
+          "display": "46 points",
+          "aliases": [
+            "Klose"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/soccer/awards/fifa-world-player",
+      "difficulty": 2,
+      "question": "Top 10 in the 2007 FIFA World Player of the Year voting",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1360310603 | table 1 | name: Player | value: Points",
+      "tags": [
+        "soccer",
+        "fifa",
+        "awards",
+        "voting"
+      ],
+      "cutoff": 10,
+      "submitter": "claude",
+      "answers": [
+        {
+          "answer": "Kaká",
+          "display": "1047 points"
+        },
+        {
+          "answer": "Lionel Messi",
+          "display": "504 points",
+          "aliases": [
+            "Messi"
+          ]
+        },
+        {
+          "answer": "Cristiano Ronaldo",
+          "display": "426 points",
+          "aliases": [
+            "Cristiano",
+            "CR7",
+            "Ronaldo"
+          ]
+        },
+        {
+          "answer": "Didier Drogba",
+          "display": "209 points",
+          "aliases": [
+            "Drogba"
+          ]
+        },
+        {
+          "answer": "Ronaldinho",
+          "display": "109 points"
+        },
+        {
+          "answer": "Steven Gerrard",
+          "display": "68 points",
+          "aliases": [
+            "Gerrard"
+          ]
+        },
+        {
+          "answer": "Andrea Pirlo",
+          "display": "57 points",
+          "aliases": [
+            "Pirlo"
+          ]
+        },
+        {
+          "answer": "Thierry Henry",
+          "display": "54 points",
+          "aliases": [
+            "Henry"
+          ]
+        },
+        {
+          "answer": "Fabio Cannavaro",
+          "display": "47 points",
+          "aliases": [
+            "Cannavaro"
+          ]
+        },
+        {
+          "answer": "Gianluigi Buffon",
+          "display": "31 points",
+          "aliases": [
+            "Buffon"
+          ]
+        },
+        {
+          "answer": "Franck Ribéry",
+          "display": "30 points",
+          "aliases": [
+            "Ribéry"
+          ]
+        },
+        {
+          "answer": "Samuel Eto'o",
+          "display": "29 points",
+          "aliases": [
+            "Eto'o"
+          ]
+        },
+        {
+          "answer": "Wayne Rooney",
+          "display": "22 points",
+          "aliases": [
+            "Rooney"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/soccer/awards/fifa-world-player",
+      "difficulty": 2,
+      "question": "Top 10 in the 2008 FIFA World Player of the Year voting",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1304953742 | table 1 | name: Player | value: Points | note: #9 Iniesta and #10 Villa tie on 37 points",
+      "tags": [
+        "soccer",
+        "fifa",
+        "awards",
+        "voting"
+      ],
+      "cutoff": 10,
+      "submitter": "claude",
+      "answers": [
+        {
+          "answer": "Cristiano Ronaldo",
+          "display": "935 points",
+          "aliases": [
+            "Cristiano",
+            "CR7",
+            "Ronaldo"
+          ]
+        },
+        {
+          "answer": "Lionel Messi",
+          "display": "678 points",
+          "aliases": [
+            "Messi"
+          ]
+        },
+        {
+          "answer": "Fernando Torres",
+          "display": "203 points",
+          "aliases": [
+            "Torres"
+          ]
+        },
+        {
+          "answer": "Kaká",
+          "display": "183 points"
+        },
+        {
+          "answer": "Xavi",
+          "display": "155 points"
+        },
+        {
+          "answer": "Steven Gerrard",
+          "display": "98 points",
+          "aliases": [
+            "Gerrard"
+          ]
+        },
+        {
+          "answer": "Samuel Eto'o",
+          "display": "58 points",
+          "aliases": [
+            "Eto'o"
+          ]
+        },
+        {
+          "answer": "Iker Casillas",
+          "display": "49 points",
+          "aliases": [
+            "Casillas"
+          ]
+        },
+        {
+          "answer": "Andrés Iniesta",
+          "display": "37 points",
+          "aliases": [
+            "Iniesta"
+          ]
+        },
+        {
+          "answer": "David Villa",
+          "display": "37 points",
+          "aliases": [
+            "Villa"
+          ]
+        },
+        {
+          "answer": "Andrey Arshavin",
+          "display": "36 points",
+          "aliases": [
+            "Arshavin"
+          ]
+        },
+        {
+          "answer": "Frank Lampard",
+          "display": "33 points",
+          "aliases": [
+            "Lampard"
+          ]
+        },
+        {
+          "answer": "Didier Drogba",
+          "display": "30 points",
+          "aliases": [
+            "Drogba"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/soccer/awards/fifa-world-player",
+      "difficulty": 2,
+      "question": "Top 10 in the 2009 FIFA World Player of the Year voting",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1328395294 | table 1 | name: Player | value: Points",
+      "tags": [
+        "soccer",
+        "fifa",
+        "awards",
+        "voting"
+      ],
+      "cutoff": 10,
+      "submitter": "claude",
+      "answers": [
+        {
+          "answer": "Lionel Messi",
+          "display": "1073 points",
+          "aliases": [
+            "Messi"
+          ]
+        },
+        {
+          "answer": "Cristiano Ronaldo",
+          "display": "352 points",
+          "aliases": [
+            "Cristiano",
+            "CR7",
+            "Ronaldo"
+          ]
+        },
+        {
+          "answer": "Xavi",
+          "display": "196 points"
+        },
+        {
+          "answer": "Kaká",
+          "display": "190 points"
+        },
+        {
+          "answer": "Andrés Iniesta",
+          "display": "134 points",
+          "aliases": [
+            "Iniesta"
+          ]
+        },
+        {
+          "answer": "Didier Drogba",
+          "display": "128 points",
+          "aliases": [
+            "Drogba"
+          ]
+        },
+        {
+          "answer": "Fernando Torres",
+          "display": "113 points",
+          "aliases": [
+            "Torres"
+          ]
+        },
+        {
+          "answer": "Steven Gerrard",
+          "display": "64 points",
+          "aliases": [
+            "Gerrard"
+          ]
+        },
+        {
+          "answer": "Samuel Eto'o",
+          "display": "54 points",
+          "aliases": [
+            "Eto'o"
+          ]
+        },
+        {
+          "answer": "Wayne Rooney",
+          "display": "45 points",
+          "aliases": [
+            "Rooney"
+          ]
+        },
+        {
+          "answer": "Frank Lampard",
+          "display": "31 points",
+          "aliases": [
+            "Lampard"
+          ]
+        },
+        {
+          "answer": "Michael Ballack",
+          "display": "27 points",
+          "aliases": [
+            "Ballack"
+          ]
+        },
+        {
+          "answer": "John Terry",
+          "display": "27 points",
+          "aliases": [
+            "Terry"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/soccer/awards/fifa-world-player",
+      "difficulty": 2,
+      "question": "Top 10 in the 2016 The Best FIFA Men's Player voting",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1376287472 | table 1 | name: Player | value: Percent",
+      "tags": [
+        "soccer",
+        "fifa",
+        "awards",
+        "voting"
+      ],
+      "cutoff": 10,
+      "submitter": "claude",
+      "answers": [
+        {
+          "answer": "Cristiano Ronaldo",
+          "display": "34.54%",
+          "aliases": [
+            "Cristiano",
+            "CR7",
+            "Ronaldo"
+          ]
+        },
+        {
+          "answer": "Lionel Messi",
+          "display": "26.42%",
+          "aliases": [
+            "Messi"
+          ]
+        },
+        {
+          "answer": "Antoine Griezmann",
+          "display": "7.53%",
+          "aliases": [
+            "Griezmann"
+          ]
+        },
+        {
+          "answer": "Neymar",
+          "display": "6.23%"
+        },
+        {
+          "answer": "Luis Suárez",
+          "display": "5.11%",
+          "aliases": [
+            "Suárez"
+          ]
+        },
+        {
+          "answer": "Gareth Bale",
+          "display": "4.62%",
+          "aliases": [
+            "Bale"
+          ]
+        },
+        {
+          "answer": "Riyad Mahrez",
+          "display": "2.20%",
+          "aliases": [
+            "Mahrez"
+          ]
+        },
+        {
+          "answer": "Gianluigi Buffon",
+          "display": "1.85%",
+          "aliases": [
+            "Buffon"
+          ]
+        },
+        {
+          "answer": "Andrés Iniesta",
+          "display": "1.69%",
+          "aliases": [
+            "Iniesta"
+          ]
+        },
+        {
+          "answer": "Toni Kroos",
+          "display": "1.25%",
+          "aliases": [
+            "Kroos"
+          ]
+        },
+        {
+          "answer": "Alexis Sánchez",
+          "display": "1.19%",
+          "aliases": [
+            "Sánchez"
+          ]
+        },
+        {
+          "answer": "Robert Lewandowski",
+          "display": "0.93%",
+          "aliases": [
+            "Lewandowski"
+          ]
+        },
+        {
+          "answer": "Luka Modrić",
+          "display": "0.89%",
+          "aliases": [
+            "Modrić"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/soccer/awards/fifa-world-player",
+      "difficulty": 2,
+      "question": "Top 10 in the 2017 The Best FIFA Men's Player voting",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1376287477 | table 1 | name: Player | value: Percent",
+      "tags": [
+        "soccer",
+        "fifa",
+        "awards",
+        "voting"
+      ],
+      "cutoff": 10,
+      "submitter": "claude",
+      "answers": [
+        {
+          "answer": "Cristiano Ronaldo",
+          "display": "43.16%",
+          "aliases": [
+            "Cristiano",
+            "CR7",
+            "Ronaldo"
+          ]
+        },
+        {
+          "answer": "Lionel Messi",
+          "display": "19.25%",
+          "aliases": [
+            "Messi"
+          ]
+        },
+        {
+          "answer": "Neymar",
+          "display": "6.97%"
+        },
+        {
+          "answer": "Gianluigi Buffon",
+          "display": "6.82%",
+          "aliases": [
+            "Buffon"
+          ]
+        },
+        {
+          "answer": "Sergio Ramos",
+          "display": "3.34%",
+          "aliases": [
+            "Ramos"
+          ]
+        },
+        {
+          "answer": "Luka Modrić",
+          "display": "3.33%",
+          "aliases": [
+            "Modrić"
+          ]
+        },
+        {
+          "answer": "Toni Kroos",
+          "display": "2.70%",
+          "aliases": [
+            "Kroos"
+          ]
+        },
+        {
+          "answer": "Marcelo",
+          "display": "2.09%"
+        },
+        {
+          "answer": "N'Golo Kanté",
+          "display": "1.35%",
+          "aliases": [
+            "Kanté"
+          ]
+        },
+        {
+          "answer": "Luis Suárez",
+          "display": "1.19%",
+          "aliases": [
+            "Suárez"
+          ]
+        },
+        {
+          "answer": "Pierre-Emerick Aubameyang",
+          "display": "1.10%",
+          "aliases": [
+            "Aubameyang"
+          ]
+        },
+        {
+          "answer": "Paulo Dybala",
+          "display": "1.07%",
+          "aliases": [
+            "Dybala"
+          ]
+        },
+        {
+          "answer": "Eden Hazard",
+          "display": "1.03%",
+          "aliases": [
+            "Hazard"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/soccer/awards/fifa-world-player",
+      "difficulty": 2,
+      "question": "Top 7 in the 2018 The Best FIFA Men's Player voting",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1376287485 | table 1 | name: Player | value: Percent",
+      "tags": [
+        "soccer",
+        "fifa",
+        "awards",
+        "voting"
+      ],
+      "cutoff": 7,
+      "submitter": "claude",
+      "answers": [
+        {
+          "answer": "Luka Modrić",
+          "display": "29.05%",
+          "aliases": [
+            "Modrić"
+          ]
+        },
+        {
+          "answer": "Cristiano Ronaldo",
+          "display": "19.08%",
+          "aliases": [
+            "Cristiano",
+            "CR7",
+            "Ronaldo"
+          ]
+        },
+        {
+          "answer": "Mohamed Salah",
+          "display": "11.23%",
+          "aliases": [
+            "Salah"
+          ]
+        },
+        {
+          "answer": "Kylian Mbappé",
+          "display": "10.52%",
+          "aliases": [
+            "Mbappé"
+          ]
+        },
+        {
+          "answer": "Lionel Messi",
+          "display": "9.81%",
+          "aliases": [
+            "Messi"
+          ]
+        },
+        {
+          "answer": "Antoine Griezmann",
+          "display": "6.69%",
+          "aliases": [
+            "Griezmann"
+          ]
+        },
+        {
+          "answer": "Eden Hazard",
+          "display": "5.65%",
+          "aliases": [
+            "Hazard"
+          ]
+        },
+        {
+          "answer": "Kevin De Bruyne",
+          "display": "3.54%",
+          "aliases": [
+            "De Bruyne",
+            "KDB"
+          ]
+        },
+        {
+          "answer": "Raphaël Varane",
+          "display": "3.45%",
+          "aliases": [
+            "Varane"
+          ]
+        },
+        {
+          "answer": "Harry Kane",
+          "display": "0.98%",
+          "aliases": [
+            "Kane"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/soccer/awards/fifa-world-player",
+      "difficulty": 2,
+      "question": "Top 8 in the 2020 The Best FIFA Men's Player voting",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1376287496 | table 1 | name: Player | value: Points",
+      "tags": [
+        "soccer",
+        "fifa",
+        "awards",
+        "voting"
+      ],
+      "cutoff": 8,
+      "submitter": "claude",
+      "answers": [
+        {
+          "answer": "Robert Lewandowski",
+          "display": "52 points",
+          "aliases": [
+            "Lewandowski"
+          ]
+        },
+        {
+          "answer": "Cristiano Ronaldo",
+          "display": "38 points",
+          "aliases": [
+            "Cristiano",
+            "CR7",
+            "Ronaldo"
+          ]
+        },
+        {
+          "answer": "Lionel Messi",
+          "display": "35 points",
+          "aliases": [
+            "Messi"
+          ]
+        },
+        {
+          "answer": "Sadio Mané",
+          "display": "29 points",
+          "aliases": [
+            "Mané"
+          ]
+        },
+        {
+          "answer": "Kevin De Bruyne",
+          "display": "26 points",
+          "aliases": [
+            "De Bruyne",
+            "KDB"
+          ]
+        },
+        {
+          "answer": "Mohamed Salah",
+          "display": "25 points",
+          "aliases": [
+            "Salah"
+          ]
+        },
+        {
+          "answer": "Kylian Mbappé",
+          "display": "19 points",
+          "aliases": [
+            "Mbappé"
+          ]
+        },
+        {
+          "answer": "Thiago",
+          "display": "17 points"
+        },
+        {
+          "answer": "Neymar",
+          "display": "16 points"
+        },
+        {
+          "answer": "Virgil van Dijk",
+          "display": "13 points",
+          "aliases": [
+            "Van Dijk"
+          ]
+        },
+        {
+          "answer": "Sergio Ramos",
+          "display": "7 points",
+          "aliases": [
+            "Ramos"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/soccer/awards/fifa-world-player",
+      "difficulty": 2,
+      "question": "Top 8 in the 2021 The Best FIFA Men's Player voting",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1304953582 | table 1 | name: Player | value: Points | note: #5 Kanté and #6 Jorginho tie on 24 points",
+      "tags": [
+        "soccer",
+        "fifa",
+        "awards",
+        "voting"
+      ],
+      "cutoff": 8,
+      "submitter": "claude",
+      "answers": [
+        {
+          "answer": "Robert Lewandowski",
+          "display": "48 points",
+          "aliases": [
+            "Lewandowski"
+          ]
+        },
+        {
+          "answer": "Lionel Messi",
+          "display": "44 points",
+          "aliases": [
+            "Messi"
+          ]
+        },
+        {
+          "answer": "Mohamed Salah",
+          "display": "39 points",
+          "aliases": [
+            "Salah"
+          ]
+        },
+        {
+          "answer": "Karim Benzema",
+          "display": "30 points",
+          "aliases": [
+            "Benzema"
+          ]
+        },
+        {
+          "answer": "N'Golo Kanté",
+          "display": "24 points",
+          "aliases": [
+            "Kanté"
+          ]
+        },
+        {
+          "answer": "Jorginho",
+          "display": "24 points"
+        },
+        {
+          "answer": "Cristiano Ronaldo",
+          "display": "23 points",
+          "aliases": [
+            "Cristiano",
+            "CR7",
+            "Ronaldo"
+          ]
+        },
+        {
+          "answer": "Kylian Mbappé",
+          "display": "16 points",
+          "aliases": [
+            "Mbappé"
+          ]
+        },
+        {
+          "answer": "Kevin De Bruyne",
+          "display": "11 points",
+          "aliases": [
+            "De Bruyne",
+            "KDB"
+          ]
+        },
+        {
+          "answer": "Neymar",
+          "display": "10 points"
+        },
+        {
+          "answer": "Erling Haaland",
+          "display": "7 points",
+          "aliases": [
+            "Haaland"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/soccer/awards/fifa-world-player",
+      "difficulty": 2,
+      "question": "Top 9 in the 2022 The Best FIFA Men's Player voting",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1328346093 | table 1 | name: Player | value: Points | note: #10 De Bruyne and #11 Vinícius tie on 10 points",
+      "tags": [
+        "soccer",
+        "fifa",
+        "awards",
+        "voting"
+      ],
+      "cutoff": 9,
+      "submitter": "claude",
+      "answers": [
+        {
+          "answer": "Lionel Messi",
+          "display": "52 points",
+          "aliases": [
+            "Messi"
+          ]
+        },
+        {
+          "answer": "Kylian Mbappé",
+          "display": "44 points",
+          "aliases": [
+            "Mbappé"
+          ]
+        },
+        {
+          "answer": "Karim Benzema",
+          "display": "34 points",
+          "aliases": [
+            "Benzema"
+          ]
+        },
+        {
+          "answer": "Luka Modrić",
+          "display": "28 points",
+          "aliases": [
+            "Modrić"
+          ]
+        },
+        {
+          "answer": "Erling Haaland",
+          "display": "24 points",
+          "aliases": [
+            "Haaland"
+          ]
+        },
+        {
+          "answer": "Sadio Mané",
+          "display": "19 points",
+          "aliases": [
+            "Mané"
+          ]
+        },
+        {
+          "answer": "Julián Álvarez",
+          "display": "17 points",
+          "aliases": [
+            "Álvarez"
+          ]
+        },
+        {
+          "answer": "Achraf Hakimi",
+          "display": "15 points",
+          "aliases": [
+            "Hakimi"
+          ]
+        },
+        {
+          "answer": "Neymar",
+          "display": "13 points"
+        },
+        {
+          "answer": "Kevin De Bruyne",
+          "display": "10 points",
+          "aliases": [
+            "De Bruyne",
+            "KDB"
+          ]
+        },
+        {
+          "answer": "Vinícius Júnior",
+          "display": "10 points",
+          "aliases": [
+            "Vini Jr",
+            "Vinícius"
+          ]
+        },
+        {
+          "answer": "Robert Lewandowski",
+          "display": "7 points",
+          "aliases": [
+            "Lewandowski"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/soccer/awards/fifa-world-player",
+      "difficulty": 2,
+      "question": "Top 9 in the 2023 The Best FIFA Men's Player voting",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1360812010 | table 1 | name: Player | value: Points | note: #1 Messi and #2 Haaland tie on 48 points (Messi is ranked first in the article)",
+      "tags": [
+        "soccer",
+        "fifa",
+        "awards",
+        "voting"
+      ],
+      "cutoff": 9,
+      "submitter": "claude",
+      "answers": [
+        {
+          "answer": "Lionel Messi",
+          "display": "48 points",
+          "aliases": [
+            "Messi"
+          ]
+        },
+        {
+          "answer": "Erling Haaland",
+          "display": "48 points",
+          "aliases": [
+            "Haaland"
+          ]
+        },
+        {
+          "answer": "Kylian Mbappé",
+          "display": "35 points",
+          "aliases": [
+            "Mbappé"
+          ]
+        },
+        {
+          "answer": "Kevin De Bruyne",
+          "display": "32 points",
+          "aliases": [
+            "De Bruyne",
+            "KDB"
+          ]
+        },
+        {
+          "answer": "Victor Osimhen",
+          "display": "24 points",
+          "aliases": [
+            "Osimhen"
+          ]
+        },
+        {
+          "answer": "Rodri",
+          "display": "24 points"
+        },
+        {
+          "answer": "Julián Álvarez",
+          "display": "21 points",
+          "aliases": [
+            "Álvarez"
+          ]
+        },
+        {
+          "answer": "Bernardo Silva",
+          "display": "18 points",
+          "aliases": [
+            "Silva"
+          ]
+        },
+        {
+          "answer": "İlkay Gündoğan",
+          "display": "13 points",
+          "aliases": [
+            "Gündoğan"
+          ]
+        },
+        {
+          "answer": "Khvicha Kvaratskhelia",
+          "display": "7 points",
+          "aliases": [
+            "Kvaratskhelia"
+          ]
+        },
+        {
+          "answer": "Marcelo Brozović",
+          "display": "7 points",
+          "aliases": [
+            "Brozović"
+          ]
+        },
+        {
+          "answer": "Declan Rice",
+          "display": "1 point",
+          "aliases": [
+            "Rice"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/soccer/awards/fifa-world-player",
+      "difficulty": 2,
+      "question": "Top 8 in the 2024 The Best FIFA Men's Player voting",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1376287499 | table 1 | name: Player | value: Points | note: #7 Kroos and #8 Haaland tie on 18 points",
+      "tags": [
+        "soccer",
+        "fifa",
+        "awards",
+        "voting"
+      ],
+      "cutoff": 8,
+      "submitter": "claude",
+      "answers": [
+        {
+          "answer": "Vinícius Júnior",
+          "display": "48 points",
+          "aliases": [
+            "Vini Jr",
+            "Vinícius"
+          ]
+        },
+        {
+          "answer": "Rodri",
+          "display": "43 points"
+        },
+        {
+          "answer": "Jude Bellingham",
+          "display": "37 points",
+          "aliases": [
+            "Bellingham"
+          ]
+        },
+        {
+          "answer": "Dani Carvajal",
+          "display": "31 points",
+          "aliases": [
+            "Carvajal"
+          ]
+        },
+        {
+          "answer": "Lamine Yamal",
+          "display": "30 points",
+          "aliases": [
+            "Yamal"
+          ]
+        },
+        {
+          "answer": "Lionel Messi",
+          "display": "25 points",
+          "aliases": [
+            "Messi"
+          ]
+        },
+        {
+          "answer": "Toni Kroos",
+          "display": "18 points",
+          "aliases": [
+            "Kroos"
+          ]
+        },
+        {
+          "answer": "Erling Haaland",
+          "display": "18 points",
+          "aliases": [
+            "Haaland"
+          ]
+        },
+        {
+          "answer": "Kylian Mbappé",
+          "display": "14 points",
+          "aliases": [
+            "Mbappé"
+          ]
+        },
+        {
+          "answer": "Florian Wirtz",
+          "display": "8 points",
+          "aliases": [
+            "Wirtz"
+          ]
+        },
+        {
+          "answer": "Federico Valverde",
+          "display": "4 points",
+          "aliases": [
+            "Valverde"
+          ]
+        }
+      ]
+    }
+  ]
+}

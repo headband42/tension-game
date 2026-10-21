@@ -1,0 +1,1162 @@
+{
+  "categories": [
+    {
+      "path": "sports/soccer/england",
+      "name": "English Football"
+    },
+    {
+      "path": "sports/soccer/england/clubs",
+      "name": "English Clubs"
+    },
+    {
+      "path": "sports/soccer/england/national-team",
+      "name": "England National Team"
+    },
+    {
+      "path": "sports/soccer/england/premier-league",
+      "name": "Premier League"
+    },
+    {
+      "path": "sports/soccer/england/stadiums",
+      "name": "Stadiums"
+    }
+  ],
+  "questions": [
+    {
+      "category": "sports/soccer/england/clubs",
+      "difficulty": 2,
+      "question": "Top 10 clubs by English top-flight league titles (through 2025–26 season)",
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1377719126 | table 2 | name: Club | value: Winners | note: ties ordered as in the source table",
+      "tags": [
+        "soccer",
+        "england",
+        "league titles",
+        "clubs"
+      ],
+      "cutoff": 10,
+      "answers": [
+        {
+          "answer": "Manchester United",
+          "display": "20 titles",
+          "aliases": [
+            "man utd",
+            "man united"
+          ]
+        },
+        {
+          "answer": "Liverpool",
+          "display": "20 titles"
+        },
+        {
+          "answer": "Arsenal",
+          "display": "14 titles",
+          "aliases": [
+            "gunners"
+          ]
+        },
+        {
+          "answer": "Manchester City",
+          "display": "10 titles",
+          "aliases": [
+            "man city",
+            "city"
+          ]
+        },
+        {
+          "answer": "Everton",
+          "display": "9 titles"
+        },
+        {
+          "answer": "Aston Villa",
+          "display": "7 titles",
+          "aliases": [
+            "villa"
+          ]
+        },
+        {
+          "answer": "Sunderland",
+          "display": "6 titles"
+        },
+        {
+          "answer": "Chelsea",
+          "display": "6 titles"
+        },
+        {
+          "answer": "Sheffield Wednesday",
+          "display": "4 titles",
+          "aliases": [
+            "sheffield wed",
+            "owls",
+            "wednesday"
+          ]
+        },
+        {
+          "answer": "Newcastle United",
+          "display": "4 titles",
+          "aliases": [
+            "newcastle"
+          ]
+        },
+        {
+          "answer": "Blackburn Rovers",
+          "display": "3 titles",
+          "aliases": [
+            "blackburn"
+          ]
+        },
+        {
+          "answer": "Huddersfield Town",
+          "display": "3 titles",
+          "aliases": [
+            "huddersfield"
+          ]
+        },
+        {
+          "answer": "Wolverhampton Wanderers",
+          "display": "3 titles",
+          "aliases": [
+            "wolves"
+          ]
+        },
+        {
+          "answer": "Leeds United",
+          "display": "3 titles",
+          "aliases": [
+            "leeds"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/soccer/england/clubs",
+      "difficulty": 2,
+      "question": "Top 9 clubs by FA Cup wins (as of 2026)",
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1379411561 | table 3 | name: Club | value: Wins",
+      "tags": [
+        "soccer",
+        "england",
+        "fa cup",
+        "clubs"
+      ],
+      "cutoff": 9,
+      "answers": [
+        {
+          "answer": "Arsenal",
+          "display": "14 wins",
+          "aliases": [
+            "gunners"
+          ]
+        },
+        {
+          "answer": "Manchester United",
+          "display": "13 wins",
+          "aliases": [
+            "man utd",
+            "man united"
+          ]
+        },
+        {
+          "answer": "Chelsea",
+          "display": "8 wins"
+        },
+        {
+          "answer": "Liverpool",
+          "display": "8 wins"
+        },
+        {
+          "answer": "Manchester City",
+          "display": "8 wins",
+          "aliases": [
+            "man city",
+            "city"
+          ]
+        },
+        {
+          "answer": "Tottenham Hotspur",
+          "display": "8 wins",
+          "aliases": [
+            "tottenham",
+            "spurs"
+          ]
+        },
+        {
+          "answer": "Aston Villa",
+          "display": "7 wins",
+          "aliases": [
+            "villa"
+          ]
+        },
+        {
+          "answer": "Newcastle United",
+          "display": "6 wins",
+          "aliases": [
+            "newcastle"
+          ]
+        },
+        {
+          "answer": "Blackburn Rovers",
+          "display": "6 wins",
+          "aliases": [
+            "blackburn"
+          ]
+        },
+        {
+          "answer": "Everton",
+          "display": "5 wins"
+        },
+        {
+          "answer": "West Bromwich Albion",
+          "display": "5 wins",
+          "aliases": [
+            "west brom",
+            "wba"
+          ]
+        },
+        {
+          "answer": "Wanderers (1870s club)",
+          "display": "5 wins",
+          "aliases": [
+            "wanderers"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/soccer/england/clubs",
+      "difficulty": 2,
+      "question": "Top 8 clubs by League Cup wins (as of 2026)",
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1379755966 | table 2 | name: Team | value: Winners",
+      "tags": [
+        "soccer",
+        "england",
+        "league cup",
+        "clubs"
+      ],
+      "cutoff": 8,
+      "answers": [
+        {
+          "answer": "Liverpool",
+          "display": "10 wins"
+        },
+        {
+          "answer": "Manchester City",
+          "display": "9 wins",
+          "aliases": [
+            "man city"
+          ]
+        },
+        {
+          "answer": "Manchester United",
+          "display": "6 wins",
+          "aliases": [
+            "man utd",
+            "man united"
+          ]
+        },
+        {
+          "answer": "Chelsea",
+          "display": "5 wins"
+        },
+        {
+          "answer": "Aston Villa",
+          "display": "5 wins",
+          "aliases": [
+            "villa"
+          ]
+        },
+        {
+          "answer": "Tottenham Hotspur",
+          "display": "4 wins",
+          "aliases": [
+            "tottenham",
+            "spurs"
+          ]
+        },
+        {
+          "answer": "Nottingham Forest",
+          "display": "4 wins",
+          "aliases": [
+            "forest"
+          ]
+        },
+        {
+          "answer": "Leicester City",
+          "display": "3 wins",
+          "aliases": [
+            "leicester"
+          ]
+        },
+        {
+          "answer": "Arsenal",
+          "display": "2 wins",
+          "aliases": [
+            "gunners"
+          ]
+        },
+        {
+          "answer": "Norwich City",
+          "display": "2 wins",
+          "aliases": [
+            "norwich"
+          ]
+        },
+        {
+          "answer": "Birmingham City",
+          "display": "2 wins",
+          "aliases": [
+            "birmingham"
+          ]
+        },
+        {
+          "answer": "Wolverhampton Wanderers",
+          "display": "2 wins",
+          "aliases": [
+            "wolves"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/soccer/england/clubs",
+      "difficulty": 3,
+      "question": "Top 9 Premier League clubs by hat-tricks scored (as of 2026)",
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1376380176 | table 5 | name: Club | value: Hat-tricks",
+      "tags": [
+        "soccer",
+        "england",
+        "premier league",
+        "hat-tricks",
+        "clubs"
+      ],
+      "cutoff": 9,
+      "answers": [
+        {
+          "answer": "Manchester City",
+          "display": "44 hat-tricks",
+          "aliases": [
+            "man city"
+          ]
+        },
+        {
+          "answer": "Liverpool",
+          "display": "42 hat-tricks"
+        },
+        {
+          "answer": "Arsenal",
+          "display": "42 hat-tricks",
+          "aliases": [
+            "gunners"
+          ]
+        },
+        {
+          "answer": "Manchester United",
+          "display": "38 hat-tricks",
+          "aliases": [
+            "man utd",
+            "man united"
+          ]
+        },
+        {
+          "answer": "Chelsea",
+          "display": "34 hat-tricks"
+        },
+        {
+          "answer": "Tottenham Hotspur",
+          "display": "29 hat-tricks",
+          "aliases": [
+            "tottenham",
+            "spurs"
+          ]
+        },
+        {
+          "answer": "Blackburn Rovers",
+          "display": "17 hat-tricks",
+          "aliases": [
+            "blackburn"
+          ]
+        },
+        {
+          "answer": "Everton",
+          "display": "16 hat-tricks"
+        },
+        {
+          "answer": "Newcastle United",
+          "display": "15 hat-tricks",
+          "aliases": [
+            "newcastle"
+          ]
+        },
+        {
+          "answer": "Aston Villa",
+          "display": "12 hat-tricks",
+          "aliases": [
+            "villa"
+          ]
+        },
+        {
+          "answer": "Leeds United",
+          "display": "12 hat-tricks",
+          "aliases": [
+            "leeds"
+          ]
+        },
+        {
+          "answer": "Leicester City",
+          "display": "8 hat-tricks",
+          "aliases": [
+            "leicester"
+          ]
+        },
+        {
+          "answer": "West Ham United",
+          "display": "8 hat-tricks",
+          "aliases": [
+            "west ham"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/soccer/england/premier-league",
+      "difficulty": 2,
+      "question": "Top 10 nations by Premier League hat-tricks (as of 2026)",
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1376380176 | table 4 | name: Nation | value: Hat-tricks",
+      "tags": [
+        "soccer",
+        "england",
+        "premier league",
+        "hat-tricks",
+        "nations"
+      ],
+      "cutoff": 10,
+      "answers": [
+        {
+          "answer": "England",
+          "display": "175 hat-tricks"
+        },
+        {
+          "answer": "Netherlands",
+          "display": "21 hat-tricks",
+          "aliases": [
+            "holland"
+          ]
+        },
+        {
+          "answer": "France",
+          "display": "19 hat-tricks"
+        },
+        {
+          "answer": "Argentina",
+          "display": "18 hat-tricks"
+        },
+        {
+          "answer": "Norway",
+          "display": "18 hat-tricks"
+        },
+        {
+          "answer": "Spain",
+          "display": "12 hat-tricks"
+        },
+        {
+          "answer": "Belgium",
+          "display": "9 hat-tricks"
+        },
+        {
+          "answer": "Brazil",
+          "display": "9 hat-tricks"
+        },
+        {
+          "answer": "Ivory Coast",
+          "display": "8 hat-tricks",
+          "aliases": [
+            "cote d'ivoire"
+          ]
+        },
+        {
+          "answer": "Nigeria",
+          "display": "8 hat-tricks"
+        },
+        {
+          "answer": "Portugal",
+          "display": "7 hat-tricks"
+        },
+        {
+          "answer": "Scotland",
+          "display": "7 hat-tricks"
+        },
+        {
+          "answer": "Wales",
+          "display": "7 hat-tricks"
+        }
+      ]
+    },
+    {
+      "category": "sports/soccer/england/national-team",
+      "difficulty": 1,
+      "question": "Top 7 England men's players by caps (as of 2026)",
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1379060829 | table 1 | name: Player | value: Caps",
+      "tags": [
+        "soccer",
+        "england",
+        "caps",
+        "national team"
+      ],
+      "cutoff": 7,
+      "answers": [
+        {
+          "answer": "Peter Shilton",
+          "display": "125 caps",
+          "aliases": [
+            "shilton"
+          ]
+        },
+        {
+          "answer": "Harry Kane",
+          "display": "125 caps",
+          "aliases": [
+            "kane"
+          ]
+        },
+        {
+          "answer": "Wayne Rooney",
+          "display": "120 caps",
+          "aliases": [
+            "rooney"
+          ]
+        },
+        {
+          "answer": "David Beckham",
+          "display": "115 caps",
+          "aliases": [
+            "beckham"
+          ]
+        },
+        {
+          "answer": "Steven Gerrard",
+          "display": "114 caps",
+          "aliases": [
+            "gerrard"
+          ]
+        },
+        {
+          "answer": "Bobby Moore",
+          "display": "108 caps",
+          "aliases": [
+            "moore"
+          ]
+        },
+        {
+          "answer": "Ashley Cole",
+          "display": "107 caps",
+          "aliases": [
+            "cole"
+          ]
+        },
+        {
+          "answer": "Bobby Charlton",
+          "display": "106 caps",
+          "aliases": [
+            "charlton"
+          ]
+        },
+        {
+          "answer": "Frank Lampard",
+          "display": "106 caps",
+          "aliases": [
+            "lampard"
+          ]
+        },
+        {
+          "answer": "Billy Wright",
+          "display": "105 caps",
+          "aliases": [
+            "wright"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/soccer/england/national-team",
+      "difficulty": 2,
+      "question": "Top 10 England men's managers by matches in charge (as of 2026)",
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1369422353 | table 1 | name: Manager | value: Pld",
+      "tags": [
+        "soccer",
+        "england",
+        "managers",
+        "national team"
+      ],
+      "answers": [
+        {
+          "answer": "Walter Winterbottom",
+          "display": "139 matches",
+          "aliases": [
+            "winterbottom"
+          ]
+        },
+        {
+          "answer": "Alf Ramsey",
+          "display": "113 matches",
+          "aliases": [
+            "ramsey"
+          ]
+        },
+        {
+          "answer": "Gareth Southgate",
+          "display": "102 matches",
+          "aliases": [
+            "southgate"
+          ]
+        },
+        {
+          "answer": "Bobby Robson",
+          "display": "95 matches",
+          "aliases": [
+            "robson"
+          ]
+        },
+        {
+          "answer": "Sven-Göran Eriksson",
+          "display": "67 matches",
+          "aliases": [
+            "eriksson",
+            "sven"
+          ]
+        },
+        {
+          "answer": "Roy Hodgson",
+          "display": "56 matches",
+          "aliases": [
+            "hodgson"
+          ]
+        },
+        {
+          "answer": "Ron Greenwood",
+          "display": "55 matches",
+          "aliases": [
+            "greenwood"
+          ]
+        },
+        {
+          "answer": "Fabio Capello",
+          "display": "42 matches",
+          "aliases": [
+            "capello"
+          ]
+        },
+        {
+          "answer": "Graham Taylor",
+          "display": "38 matches",
+          "aliases": [
+            "taylor"
+          ]
+        },
+        {
+          "answer": "Don Revie",
+          "display": "29 matches",
+          "aliases": [
+            "revie"
+          ]
+        },
+        {
+          "answer": "Glenn Hoddle",
+          "display": "28 matches",
+          "aliases": [
+            "hoddle"
+          ]
+        },
+        {
+          "answer": "Terry Venables",
+          "display": "23 matches",
+          "aliases": [
+            "venables"
+          ]
+        },
+        {
+          "answer": "Thomas Tuchel",
+          "display": "22 matches",
+          "aliases": [
+            "tuchel"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/soccer/england/national-team",
+      "difficulty": 2,
+      "question": "Top 7 England women's players by caps (as of 2026)",
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1379387765 | table 1 | name: Player | value: Caps",
+      "tags": [
+        "soccer",
+        "england",
+        "women",
+        "caps",
+        "national team"
+      ],
+      "cutoff": 7,
+      "answers": [
+        {
+          "answer": "Fara Williams",
+          "display": "172 caps",
+          "aliases": [
+            "williams"
+          ]
+        },
+        {
+          "answer": "Jill Scott",
+          "display": "161 caps"
+        },
+        {
+          "answer": "Lucy Bronze",
+          "display": "148 caps",
+          "aliases": [
+            "bronze"
+          ]
+        },
+        {
+          "answer": "Karen Carney",
+          "display": "144 caps",
+          "aliases": [
+            "carney"
+          ]
+        },
+        {
+          "answer": "Alex Scott",
+          "display": "140 caps"
+        },
+        {
+          "answer": "Casey Stoney",
+          "display": "130 caps",
+          "aliases": [
+            "stoney"
+          ]
+        },
+        {
+          "answer": "Rachel Yankey",
+          "display": "129 caps",
+          "aliases": [
+            "yankey"
+          ]
+        },
+        {
+          "answer": "Steph Houghton",
+          "display": "121 caps",
+          "aliases": [
+            "houghton"
+          ]
+        },
+        {
+          "answer": "Gillian Coultard",
+          "display": "119 caps",
+          "aliases": [
+            "coultard"
+          ]
+        },
+        {
+          "answer": "Kelly Smith",
+          "display": "117 caps",
+          "aliases": [
+            "smith"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/soccer/england/premier-league",
+      "difficulty": 2,
+      "question": "Top 10 Premier League managers by games managed (as of 2026)",
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1378817224 | table 6 | name: Manager | value: Games",
+      "tags": [
+        "soccer",
+        "england",
+        "premier league",
+        "managers"
+      ],
+      "answers": [
+        {
+          "answer": "Arsène Wenger",
+          "display": "828 games",
+          "aliases": [
+            "wenger"
+          ]
+        },
+        {
+          "answer": "Alex Ferguson",
+          "display": "810 games",
+          "aliases": [
+            "ferguson"
+          ]
+        },
+        {
+          "answer": "David Moyes",
+          "display": "759 games",
+          "aliases": [
+            "moyes"
+          ]
+        },
+        {
+          "answer": "Harry Redknapp",
+          "display": "641 games",
+          "aliases": [
+            "redknapp"
+          ]
+        },
+        {
+          "answer": "Sam Allardyce",
+          "display": "541 games",
+          "aliases": [
+            "allardyce",
+            "big sam"
+          ]
+        },
+        {
+          "answer": "Steve Bruce",
+          "display": "476 games",
+          "aliases": [
+            "bruce"
+          ]
+        },
+        {
+          "answer": "Mark Hughes",
+          "display": "466 games",
+          "aliases": [
+            "hughes"
+          ]
+        },
+        {
+          "answer": "Roy Hodgson",
+          "display": "416 games",
+          "aliases": [
+            "hodgson"
+          ]
+        },
+        {
+          "answer": "Pep Guardiola",
+          "display": "380 games",
+          "aliases": [
+            "guardiola"
+          ]
+        },
+        {
+          "answer": "Eddie Howe",
+          "display": "369 games",
+          "aliases": [
+            "howe"
+          ]
+        },
+        {
+          "answer": "José Mourinho",
+          "display": "363 games",
+          "aliases": [
+            "mourinho"
+          ]
+        },
+        {
+          "answer": "Martin O'Neill",
+          "display": "359 games",
+          "aliases": [
+            "o'neill"
+          ]
+        },
+        {
+          "answer": "Rafael Benítez",
+          "display": "359 games",
+          "aliases": [
+            "benitez"
+          ]
+        },
+        {
+          "answer": "Sean Dyche",
+          "display": "351 games",
+          "aliases": [
+            "dyche"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/soccer/england/premier-league",
+      "difficulty": 2,
+      "question": "Top 7 Premier League all-time assist providers (as of 2026)",
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1376287002 | table 7 | name: Player | value: Assists",
+      "tags": [
+        "soccer",
+        "england",
+        "premier league",
+        "assists"
+      ],
+      "cutoff": 7,
+      "answers": [
+        {
+          "answer": "Ryan Giggs",
+          "display": "162 assists",
+          "aliases": [
+            "giggs"
+          ]
+        },
+        {
+          "answer": "Kevin De Bruyne",
+          "display": "119 assists",
+          "aliases": [
+            "de bruyne",
+            "debruyne"
+          ]
+        },
+        {
+          "answer": "Cesc Fàbregas",
+          "display": "111 assists",
+          "aliases": [
+            "fabregas",
+            "cesc"
+          ]
+        },
+        {
+          "answer": "Wayne Rooney",
+          "display": "103 assists",
+          "aliases": [
+            "rooney"
+          ]
+        },
+        {
+          "answer": "Frank Lampard",
+          "display": "102 assists",
+          "aliases": [
+            "lampard"
+          ]
+        },
+        {
+          "answer": "Dennis Bergkamp",
+          "display": "94 assists",
+          "aliases": [
+            "bergkamp"
+          ]
+        },
+        {
+          "answer": "Mohamed Salah",
+          "display": "94 assists",
+          "aliases": [
+            "salah"
+          ]
+        },
+        {
+          "answer": "David Silva",
+          "display": "93 assists",
+          "aliases": [
+            "silva"
+          ]
+        },
+        {
+          "answer": "Steven Gerrard",
+          "display": "92 assists",
+          "aliases": [
+            "gerrard"
+          ]
+        },
+        {
+          "answer": "James Milner",
+          "display": "90 assists",
+          "aliases": [
+            "milner"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/soccer/england/premier-league",
+      "difficulty": 2,
+      "question": "Top 7 Premier League all-time appearance makers (as of 2026)",
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1376287002 | table 3 | name: Player | value: Games",
+      "tags": [
+        "soccer",
+        "england",
+        "premier league",
+        "appearances"
+      ],
+      "cutoff": 7,
+      "answers": [
+        {
+          "answer": "James Milner",
+          "display": "658 games",
+          "aliases": [
+            "milner"
+          ]
+        },
+        {
+          "answer": "Gareth Barry",
+          "display": "653 games",
+          "aliases": [
+            "barry"
+          ]
+        },
+        {
+          "answer": "Ryan Giggs",
+          "display": "632 games",
+          "aliases": [
+            "giggs"
+          ]
+        },
+        {
+          "answer": "Frank Lampard",
+          "display": "609 games",
+          "aliases": [
+            "lampard"
+          ]
+        },
+        {
+          "answer": "David James",
+          "display": "572 games"
+        },
+        {
+          "answer": "Gary Speed",
+          "display": "535 games",
+          "aliases": [
+            "speed"
+          ]
+        },
+        {
+          "answer": "Emile Heskey",
+          "display": "516 games",
+          "aliases": [
+            "heskey"
+          ]
+        },
+        {
+          "answer": "Mark Schwarzer",
+          "display": "514 games",
+          "aliases": [
+            "schwarzer"
+          ]
+        },
+        {
+          "answer": "Jamie Carragher",
+          "display": "508 games",
+          "aliases": [
+            "carragher"
+          ]
+        },
+        {
+          "answer": "Phil Neville",
+          "display": "505 games",
+          "aliases": [
+            "neville"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/soccer/england/stadiums",
+      "difficulty": 1,
+      "question": "Top 10 largest football stadiums in England by capacity (as of 2026)",
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1379576474 | table 1 | name: Stadium | value: Capacity",
+      "tags": [
+        "soccer",
+        "england",
+        "stadiums",
+        "capacity"
+      ],
+      "cutoff": 10,
+      "answers": [
+        {
+          "answer": "Wembley Stadium",
+          "display": "90,000",
+          "aliases": [
+            "wembley"
+          ]
+        },
+        {
+          "answer": "Old Trafford",
+          "display": "74,244"
+        },
+        {
+          "answer": "Tottenham Hotspur Stadium",
+          "display": "62,850",
+          "aliases": [
+            "spurs stadium",
+            "tottenham stadium"
+          ]
+        },
+        {
+          "answer": "London Stadium",
+          "display": "62,500"
+        },
+        {
+          "answer": "Anfield",
+          "display": "61,276"
+        },
+        {
+          "answer": "Etihad Stadium",
+          "display": "61,038",
+          "aliases": [
+            "etihad",
+            "City of Manchester Stadium"
+          ]
+        },
+        {
+          "answer": "Emirates Stadium",
+          "display": "60,704",
+          "aliases": [
+            "emirates"
+          ]
+        },
+        {
+          "answer": "Hill Dickinson Stadium",
+          "display": "52,769",
+          "aliases": [
+            "hill dickinson",
+            "Everton Stadium",
+            "Bramley-Moore Dock"
+          ]
+        },
+        {
+          "answer": "St James' Park",
+          "display": "52,719",
+          "aliases": [
+            "st james park",
+            "St James's Park"
+          ]
+        },
+        {
+          "answer": "Stadium of Light",
+          "display": "48,095"
+        },
+        {
+          "answer": "Villa Park",
+          "display": "43,205",
+          "aliases": [
+            "villa"
+          ]
+        },
+        {
+          "answer": "Stamford Bridge",
+          "display": "40,044"
+        },
+        {
+          "answer": "Goodison Park",
+          "display": "39,414",
+          "aliases": [
+            "goodison"
+          ]
+        },
+        {
+          "answer": "Elland Road",
+          "display": "37,645",
+          "aliases": [
+            "elland"
+          ]
+        }
+      ]
+    }
+  ]
+}

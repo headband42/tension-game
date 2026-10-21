@@ -1,6 +1,6 @@
 import type { PrismaClient } from '@prisma/client';
-import { MIN_TENSION_ANSWERS, type GameSettings } from '@tension/shared';
-import type { AnswerKey } from './matching';
+import { MAX_TENSION_ANSWERS, MIN_TENSION_ANSWERS, type GameSettings } from '@tension/shared';
+import { decoyIndex, decoysFor, type AnswerKey, type DecoyIndex } from './matching';
 
 export interface StoredAnswer extends AnswerKey {
   displayValue: string | null;
@@ -117,24 +117,67 @@ type QuestionRow = {
   answers: { id: string; rank: number; answerText: string; displayValue: string | null; aliases: string }[];
 };
 
-function toRoundQuestion(row: QuestionRow): RoundQuestion {
+function toRoundQuestion(row: QuestionRow, decoys: DecoyIndex): RoundQuestion {
+  // Rows from older databases may list more of the ranking than the tension zone;
+  // anything deeper than MAX_TENSION_ANSWERS below the cutoff is a plain miss.
+  const answers = row.answers.filter((a) => a.rank <= row.tensionCutoff + MAX_TENSION_ANSWERS);
   return {
     id: row.id,
     text: row.questionText,
     category: row.category.name,
     cutoff: row.tensionCutoff,
-    answers: row.answers.map((a) => ({
-      id: a.id,
-      rank: a.rank,
-      text: a.answerText,
-      displayValue: a.displayValue,
-      aliases: parseStringArray(a.aliases),
-    })),
+    answers: answers.map((a) => {
+      const answer = { id: a.id, rank: a.rank, text: a.answerText, displayValue: a.displayValue, aliases: parseStringArray(a.aliases) };
+      return { ...answer, decoys: decoysFor(answer, decoys) };
+    }),
   };
 }
 
+/** How often the question bank is checked for changes that call for a new decoy index. */
+const DECOY_CHECK_MS = 60_000;
+
 export class PrismaGameStore implements GameStore {
+  private decoyCache?: { bank: string; index: DecoyIndex; checkedAt: number };
+  private decoyRefresh?: Promise<DecoyIndex>;
+
   constructor(private readonly prisma: PrismaClient) {}
+
+  /** Look-alike answers the bank lists side by side (see decoyIndex), rebuilt when an import changes the bank. */
+  private decoys(): Promise<DecoyIndex> {
+    const cache = this.decoyCache;
+    if (cache && Date.now() - cache.checkedAt < DECOY_CHECK_MS) return Promise.resolve(cache.index);
+    this.decoyRefresh ??= this.refreshDecoys().finally(() => (this.decoyRefresh = undefined));
+    return this.decoyRefresh;
+  }
+
+  private async refreshDecoys(): Promise<DecoyIndex> {
+    try {
+      // Imports replace a changed question's answers, so new answer ids show any change.
+      const [questions, answers] = await Promise.all([
+        this.prisma.question.count({ where: { active: true } }),
+        this.prisma.answer.aggregate({ _count: true, _max: { id: true } }),
+      ]);
+      const bank = `${questions}:${answers._count}:${answers._max.id ?? ''}`;
+      if (this.decoyCache?.bank !== bank) {
+        const rows = await this.prisma.answer.findMany({
+          where: { question: { active: true } },
+          select: { questionId: true, answerText: true, aliases: true },
+        });
+        const byQuestion = new Map<string, { text: string; aliases: string[] }[]>();
+        for (const row of rows) {
+          const list = byQuestion.get(row.questionId) ?? [];
+          list.push({ text: row.answerText, aliases: parseStringArray(row.aliases) });
+          byQuestion.set(row.questionId, list);
+        }
+        this.decoyCache = { bank, index: decoyIndex(byQuestion.values()), checkedAt: 0 };
+      }
+      this.decoyCache.checkedAt = Date.now();
+      return this.decoyCache.index;
+    } catch {
+      // Matching still works without decoys, or with the last ones; check again next time.
+      return this.decoyCache?.index ?? new Map();
+    }
+  }
 
   async codeInUse(code: string) {
     return (await this.prisma.game.count({ where: { code } })) > 0;
@@ -181,7 +224,7 @@ export class PrismaGameStore implements GameStore {
         score,
         doublesRemaining,
       })),
-      questions: game.questions.map((gq) => toRoundQuestion(gq.question)),
+      questions: game.questions.length ? await this.roundQuestions(game.questions.map((gq) => gq.question)) : [],
       scoredRounds: lastScored._max.round ?? 0,
     };
   }
@@ -204,10 +247,12 @@ export class PrismaGameStore implements GameStore {
 
     const rows = await this.prisma.question.findMany({ where: { id: { in: ids } }, include: questionWithAnswers });
     const byId = new Map(rows.map((row) => [row.id, row]));
-    return ids.flatMap((id) => {
-      const row = byId.get(id);
-      return row ? [toRoundQuestion(row)] : [];
-    });
+    return this.roundQuestions(ids.flatMap((id) => byId.get(id) ?? []));
+  }
+
+  private async roundQuestions(rows: QuestionRow[]) {
+    const decoys = await this.decoys();
+    return rows.map((row) => toRoundQuestion(row, decoys));
   }
 
   async startGame(gameId: string, questions: RoundQuestion[]) {

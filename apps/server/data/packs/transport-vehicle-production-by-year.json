@@ -1,0 +1,2253 @@
+{
+  "categories": [
+    {
+      "path": "transport/cars/production-by-year",
+      "name": "Vehicle Production by Year"
+    }
+  ],
+  "questions": [
+    {
+      "category": "transport/cars/production-by-year",
+      "question": "Top 10 countries by motor vehicle production in 2024 (OICA)",
+      "cutoff": 10,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1377629323 | table 1 | name: Country | value: 2024 | where: Country!=World",
+      "tags": [
+        "cars",
+        "production",
+        "countries",
+        "history"
+      ],
+      "answers": [
+        {
+          "answer": "China",
+          "display": "31,281,592 vehicles"
+        },
+        {
+          "answer": "United States",
+          "display": "10,562,188 vehicles",
+          "aliases": [
+            "USA",
+            "US",
+            "America"
+          ]
+        },
+        {
+          "answer": "Japan",
+          "display": "8,234,681 vehicles"
+        },
+        {
+          "answer": "India",
+          "display": "6,014,691 vehicles"
+        },
+        {
+          "answer": "Mexico",
+          "display": "4,202,642 vehicles"
+        },
+        {
+          "answer": "South Korea",
+          "display": "4,127,252 vehicles",
+          "aliases": [
+            "Korea"
+          ]
+        },
+        {
+          "answer": "Germany",
+          "display": "4,069,222 vehicles"
+        },
+        {
+          "answer": "Brazil",
+          "display": "2,549,595 vehicles"
+        },
+        {
+          "answer": "Spain",
+          "display": "2,376,504 vehicles"
+        },
+        {
+          "answer": "Thailand",
+          "display": "1,468,997 vehicles"
+        },
+        {
+          "answer": "Czech Republic",
+          "display": "1,458,892 vehicles",
+          "aliases": [
+            "Czechia"
+          ]
+        },
+        {
+          "answer": "Turkey",
+          "display": "1,365,296 vehicles",
+          "aliases": [
+            "Türkiye"
+          ]
+        },
+        {
+          "answer": "France",
+          "display": "1,357,701 vehicles"
+        },
+        {
+          "answer": "Canada",
+          "display": "1,339,288 vehicles"
+        },
+        {
+          "answer": "Indonesia",
+          "display": "1,196,664 vehicles"
+        }
+      ]
+    },
+    {
+      "category": "transport/cars/production-by-year",
+      "question": "Top 10 countries by motor vehicle production in 2023 (OICA)",
+      "cutoff": 10,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1377629323 | table 1 | name: Country | value: 2023 | where: Country!=World",
+      "tags": [
+        "cars",
+        "production",
+        "countries",
+        "history"
+      ],
+      "answers": [
+        {
+          "answer": "China",
+          "display": "30,160,966 vehicles"
+        },
+        {
+          "answer": "United States",
+          "display": "10,611,555 vehicles",
+          "aliases": [
+            "USA",
+            "US",
+            "America"
+          ]
+        },
+        {
+          "answer": "Japan",
+          "display": "8,997,440 vehicles"
+        },
+        {
+          "answer": "India",
+          "display": "5,851,507 vehicles"
+        },
+        {
+          "answer": "South Korea",
+          "display": "4,244,000 vehicles",
+          "aliases": [
+            "Korea"
+          ]
+        },
+        {
+          "answer": "Germany",
+          "display": "4,109,371 vehicles"
+        },
+        {
+          "answer": "Mexico",
+          "display": "4,002,047 vehicles"
+        },
+        {
+          "answer": "Spain",
+          "display": "2,451,221 vehicles"
+        },
+        {
+          "answer": "Brazil",
+          "display": "2,324,838 vehicles"
+        },
+        {
+          "answer": "Thailand",
+          "display": "1,841,663 vehicles"
+        },
+        {
+          "answer": "Canada",
+          "display": "1,553,758 vehicles"
+        },
+        {
+          "answer": "France",
+          "display": "1,505,079 vehicles"
+        },
+        {
+          "answer": "Turkey",
+          "display": "1,468,393 vehicles",
+          "aliases": [
+            "Türkiye"
+          ]
+        },
+        {
+          "answer": "Czech Republic",
+          "display": "1,404,501 vehicles",
+          "aliases": [
+            "Czechia"
+          ]
+        },
+        {
+          "answer": "Indonesia",
+          "display": "1,395,717 vehicles"
+        }
+      ]
+    },
+    {
+      "category": "transport/cars/production-by-year",
+      "question": "Top 10 countries by motor vehicle production in 2019 (OICA)",
+      "cutoff": 10,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1377629323 | table 2 | name: Country | value: 2019 | where: Country!=World",
+      "tags": [
+        "cars",
+        "production",
+        "countries",
+        "history"
+      ],
+      "answers": [
+        {
+          "answer": "China",
+          "display": "25,720,665 vehicles"
+        },
+        {
+          "answer": "United States",
+          "display": "10,880,019 vehicles",
+          "aliases": [
+            "USA",
+            "US",
+            "America"
+          ]
+        },
+        {
+          "answer": "Japan",
+          "display": "9,684,298 vehicles"
+        },
+        {
+          "answer": "Germany",
+          "display": "4,661,328 vehicles"
+        },
+        {
+          "answer": "India",
+          "display": "4,516,017 vehicles"
+        },
+        {
+          "answer": "Mexico",
+          "display": "3,986,794 vehicles"
+        },
+        {
+          "answer": "South Korea",
+          "display": "3,950,617 vehicles",
+          "aliases": [
+            "Korea"
+          ]
+        },
+        {
+          "answer": "Brazil",
+          "display": "2,944,988 vehicles"
+        },
+        {
+          "answer": "Spain",
+          "display": "2,822,355 vehicles"
+        },
+        {
+          "answer": "France",
+          "display": "2,202,460 vehicles"
+        },
+        {
+          "answer": "Thailand",
+          "display": "2,013,710 vehicles"
+        },
+        {
+          "answer": "Canada",
+          "display": "1,916,585 vehicles"
+        },
+        {
+          "answer": "Russia",
+          "display": "1,719,784 vehicles",
+          "aliases": [
+            "Russian Federation"
+          ]
+        },
+        {
+          "answer": "Iran",
+          "display": "1,461,244 vehicles"
+        },
+        {
+          "answer": "Czech Republic",
+          "display": "1,433,963 vehicles",
+          "aliases": [
+            "Czechia"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "transport/cars/production-by-year",
+      "question": "Top 10 countries by motor vehicle production in 2016 (OICA and other sources)",
+      "cutoff": 10,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1377629323 | table 2 | name: Country | value: 2016 | where: Country!=World",
+      "tags": [
+        "cars",
+        "production",
+        "countries",
+        "history"
+      ],
+      "answers": [
+        {
+          "answer": "China",
+          "display": "28,118,794 vehicles"
+        },
+        {
+          "answer": "United States",
+          "display": "12,198,137 vehicles",
+          "aliases": [
+            "USA",
+            "US",
+            "America"
+          ]
+        },
+        {
+          "answer": "Japan",
+          "display": "9,204,590 vehicles"
+        },
+        {
+          "answer": "Germany",
+          "display": "5,746,808 vehicles"
+        },
+        {
+          "answer": "India",
+          "display": "4,519,341 vehicles"
+        },
+        {
+          "answer": "Mexico",
+          "display": "4,396,356 vehicles"
+        },
+        {
+          "answer": "South Korea",
+          "display": "4,228,509 vehicles",
+          "aliases": [
+            "Korea"
+          ]
+        },
+        {
+          "answer": "Spain",
+          "display": "2,885,922 vehicles"
+        },
+        {
+          "answer": "Canada",
+          "display": "2,370,271 vehicles"
+        },
+        {
+          "answer": "Brazil",
+          "display": "2,156,356 vehicles"
+        },
+        {
+          "answer": "France",
+          "display": "2,082,000 vehicles"
+        },
+        {
+          "answer": "Thailand",
+          "display": "1,944,417 vehicles"
+        },
+        {
+          "answer": "United Kingdom",
+          "display": "1,816,622 vehicles",
+          "aliases": [
+            "UK",
+            "Britain"
+          ]
+        },
+        {
+          "answer": "Iran",
+          "display": "1,485,927 vehicles"
+        },
+        {
+          "answer": "Czech Republic",
+          "display": "1,349,896 vehicles",
+          "aliases": [
+            "Czechia"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "transport/cars/production-by-year",
+      "question": "Top 10 countries by motor vehicle production in 2015 (OICA and other sources)",
+      "cutoff": 10,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1377629323 | table 3 | name: Country | value: 2015 | where: Country!=World",
+      "tags": [
+        "cars",
+        "production",
+        "countries",
+        "history"
+      ],
+      "answers": [
+        {
+          "answer": "China",
+          "display": "24,503,326 vehicles"
+        },
+        {
+          "answer": "United States",
+          "display": "12,100,095 vehicles",
+          "aliases": [
+            "USA",
+            "US",
+            "America"
+          ]
+        },
+        {
+          "answer": "Japan",
+          "display": "9,278,321 vehicles"
+        },
+        {
+          "answer": "Germany",
+          "display": "6,033,164 vehicles"
+        },
+        {
+          "answer": "South Korea",
+          "display": "4,555,957 vehicles",
+          "aliases": [
+            "Korea"
+          ]
+        },
+        {
+          "answer": "India",
+          "display": "4,160,585 vehicles"
+        },
+        {
+          "answer": "Mexico",
+          "display": "4,029,463 vehicles"
+        },
+        {
+          "answer": "Spain",
+          "display": "2,733,201 vehicles"
+        },
+        {
+          "answer": "Brazil",
+          "display": "2,429,463 vehicles"
+        },
+        {
+          "answer": "Canada",
+          "display": "2,283,474 vehicles"
+        },
+        {
+          "answer": "France",
+          "display": "1,972,000 vehicles"
+        },
+        {
+          "answer": "Thailand",
+          "display": "1,915,420 vehicles"
+        },
+        {
+          "answer": "United Kingdom",
+          "display": "1,682,156 vehicles",
+          "aliases": [
+            "UK",
+            "Britain"
+          ]
+        },
+        {
+          "answer": "Russia",
+          "display": "1,384,399 vehicles",
+          "aliases": [
+            "Russian Federation"
+          ]
+        },
+        {
+          "answer": "Iran",
+          "display": "1,358,796 vehicles"
+        }
+      ]
+    },
+    {
+      "category": "transport/cars/production-by-year",
+      "question": "Top 10 countries by motor vehicle production in 2014 (OICA and other sources)",
+      "cutoff": 10,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1377629323 | table 3 | name: Country | value: 2014 | where: Country!=World",
+      "tags": [
+        "cars",
+        "production",
+        "countries",
+        "history"
+      ],
+      "answers": [
+        {
+          "answer": "China",
+          "display": "23,722,890 vehicles"
+        },
+        {
+          "answer": "United States",
+          "display": "11,660,699 vehicles",
+          "aliases": [
+            "USA",
+            "US",
+            "America"
+          ]
+        },
+        {
+          "answer": "Japan",
+          "display": "9,774,558 vehicles"
+        },
+        {
+          "answer": "Germany",
+          "display": "5,907,548 vehicles"
+        },
+        {
+          "answer": "Mexico",
+          "display": "4,664,779 vehicles"
+        },
+        {
+          "answer": "South Korea",
+          "display": "4,524,932 vehicles",
+          "aliases": [
+            "Korea"
+          ]
+        },
+        {
+          "answer": "India",
+          "display": "3,840,160 vehicles"
+        },
+        {
+          "answer": "Brazil",
+          "display": "3,146,306 vehicles"
+        },
+        {
+          "answer": "Spain",
+          "display": "2,402,978 vehicles"
+        },
+        {
+          "answer": "Canada",
+          "display": "2,393,890 vehicles"
+        },
+        {
+          "answer": "Russia",
+          "display": "1,886,646 vehicles",
+          "aliases": [
+            "Russian Federation"
+          ]
+        },
+        {
+          "answer": "Thailand",
+          "display": "1,880,007 vehicles"
+        },
+        {
+          "answer": "France",
+          "display": "1,817,000 vehicles"
+        },
+        {
+          "answer": "United Kingdom",
+          "display": "1,598,879 vehicles",
+          "aliases": [
+            "UK",
+            "Britain"
+          ]
+        },
+        {
+          "answer": "Indonesia",
+          "display": "1,298,523 vehicles"
+        }
+      ]
+    },
+    {
+      "category": "transport/cars/production-by-year",
+      "question": "Top 10 countries by motor vehicle production in 2012 (OICA and other sources)",
+      "cutoff": 10,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1377629323 | table 3 | name: Country | value: 2012 | where: Country!=World",
+      "tags": [
+        "cars",
+        "production",
+        "countries",
+        "history"
+      ],
+      "answers": [
+        {
+          "answer": "China",
+          "display": "19,271,808 vehicles"
+        },
+        {
+          "answer": "United States",
+          "display": "10,335,765 vehicles",
+          "aliases": [
+            "USA",
+            "US",
+            "America"
+          ]
+        },
+        {
+          "answer": "Japan",
+          "display": "9,943,077 vehicles"
+        },
+        {
+          "answer": "Germany",
+          "display": "5,649,260 vehicles"
+        },
+        {
+          "answer": "South Korea",
+          "display": "4,561,766 vehicles",
+          "aliases": [
+            "Korea"
+          ]
+        },
+        {
+          "answer": "India",
+          "display": "4,174,713 vehicles"
+        },
+        {
+          "answer": "Mexico",
+          "display": "4,002,508 vehicles"
+        },
+        {
+          "answer": "Brazil",
+          "display": "3,402,508 vehicles"
+        },
+        {
+          "answer": "Canada",
+          "display": "2,463,364 vehicles"
+        },
+        {
+          "answer": "Thailand",
+          "display": "2,429,142 vehicles"
+        },
+        {
+          "answer": "Russia",
+          "display": "2,233,103 vehicles",
+          "aliases": [
+            "Russian Federation"
+          ]
+        },
+        {
+          "answer": "Spain",
+          "display": "1,979,179 vehicles"
+        },
+        {
+          "answer": "France",
+          "display": "1,967,765 vehicles"
+        },
+        {
+          "answer": "United Kingdom",
+          "display": "1,576,945 vehicles",
+          "aliases": [
+            "UK",
+            "Britain"
+          ]
+        },
+        {
+          "answer": "Czech Republic",
+          "display": "1,178,995 vehicles",
+          "aliases": [
+            "Czechia"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "transport/cars/production-by-year",
+      "question": "Top 10 countries by motor vehicle production in 2010 (OICA and other sources)",
+      "cutoff": 10,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1377629323 | table 3 | name: Country | value: 2010 | where: Country!=World",
+      "tags": [
+        "cars",
+        "production",
+        "countries",
+        "history"
+      ],
+      "answers": [
+        {
+          "answer": "China",
+          "display": "18,264,761 vehicles"
+        },
+        {
+          "answer": "Japan",
+          "display": "9,628,920 vehicles"
+        },
+        {
+          "answer": "United States",
+          "display": "7,743,093 vehicles",
+          "aliases": [
+            "USA",
+            "US",
+            "America"
+          ]
+        },
+        {
+          "answer": "Germany",
+          "display": "5,905,985 vehicles"
+        },
+        {
+          "answer": "South Korea",
+          "display": "4,271,741 vehicles",
+          "aliases": [
+            "Korea"
+          ]
+        },
+        {
+          "answer": "Mexico",
+          "display": "3,981,728 vehicles"
+        },
+        {
+          "answer": "India",
+          "display": "3,557,073 vehicles"
+        },
+        {
+          "answer": "Brazil",
+          "display": "3,381,728 vehicles"
+        },
+        {
+          "answer": "Spain",
+          "display": "2,387,900 vehicles"
+        },
+        {
+          "answer": "France",
+          "display": "2,229,421 vehicles"
+        },
+        {
+          "answer": "Canada",
+          "display": "2,068,189 vehicles"
+        },
+        {
+          "answer": "Thailand",
+          "display": "1,644,513 vehicles"
+        },
+        {
+          "answer": "Turkey",
+          "display": "1,599,454 vehicles",
+          "aliases": [
+            "Türkiye"
+          ]
+        },
+        {
+          "answer": "Russia",
+          "display": "1,403,244 vehicles",
+          "aliases": [
+            "Russian Federation"
+          ]
+        },
+        {
+          "answer": "United Kingdom",
+          "display": "1,393,463 vehicles",
+          "aliases": [
+            "UK",
+            "Britain"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "transport/cars/production-by-year",
+      "question": "Top 10 countries by motor vehicle production in 2005 (OICA and other sources)",
+      "cutoff": 10,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1377629323 | table 3 | name: Country | value: 2005 | where: Country!=World",
+      "tags": [
+        "cars",
+        "production",
+        "countries",
+        "history"
+      ],
+      "answers": [
+        {
+          "answer": "United States",
+          "display": "11,946,653 vehicles",
+          "aliases": [
+            "USA",
+            "US",
+            "America"
+          ]
+        },
+        {
+          "answer": "Japan",
+          "display": "10,799,659 vehicles"
+        },
+        {
+          "answer": "Germany",
+          "display": "5,757,710 vehicles"
+        },
+        {
+          "answer": "China",
+          "display": "5,717,619 vehicles"
+        },
+        {
+          "answer": "South Korea",
+          "display": "3,699,350 vehicles",
+          "aliases": [
+            "Korea"
+          ]
+        },
+        {
+          "answer": "Mexico",
+          "display": "3,583,076 vehicles"
+        },
+        {
+          "answer": "France",
+          "display": "3,549,008 vehicles"
+        },
+        {
+          "answer": "Spain",
+          "display": "2,752,500 vehicles"
+        },
+        {
+          "answer": "Canada",
+          "display": "2,687,892 vehicles"
+        },
+        {
+          "answer": "Brazil",
+          "display": "2,530,840 vehicles"
+        },
+        {
+          "answer": "United Kingdom",
+          "display": "1,803,109 vehicles",
+          "aliases": [
+            "UK",
+            "Britain"
+          ]
+        },
+        {
+          "answer": "India",
+          "display": "1,638,674 vehicles"
+        },
+        {
+          "answer": "Russia",
+          "display": "1,354,504 vehicles",
+          "aliases": [
+            "Russian Federation"
+          ]
+        },
+        {
+          "answer": "Thailand",
+          "display": "1,122,712 vehicles"
+        },
+        {
+          "answer": "Turkey",
+          "display": "1,077,190 vehicles",
+          "aliases": [
+            "Türkiye"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "transport/cars/production-by-year",
+      "question": "Top 10 countries by motor vehicle production in 2000 (OICA and other sources)",
+      "cutoff": 10,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1377629323 | table 3 | name: Country | value: 2000 | where: Country!=World",
+      "tags": [
+        "cars",
+        "production",
+        "countries",
+        "history"
+      ],
+      "answers": [
+        {
+          "answer": "United States",
+          "display": "12,799,857 vehicles",
+          "aliases": [
+            "USA",
+            "US",
+            "America"
+          ]
+        },
+        {
+          "answer": "Japan",
+          "display": "10,140,796 vehicles"
+        },
+        {
+          "answer": "Germany",
+          "display": "5,526,615 vehicles"
+        },
+        {
+          "answer": "France",
+          "display": "3,348,361 vehicles"
+        },
+        {
+          "answer": "South Korea",
+          "display": "3,114,998 vehicles",
+          "aliases": [
+            "Korea"
+          ]
+        },
+        {
+          "answer": "Mexico",
+          "display": "3,099,522 vehicles"
+        },
+        {
+          "answer": "Spain",
+          "display": "3,032,874 vehicles"
+        },
+        {
+          "answer": "Canada",
+          "display": "2,961,636 vehicles"
+        },
+        {
+          "answer": "China",
+          "display": "2,069,069 vehicles"
+        },
+        {
+          "answer": "United Kingdom",
+          "display": "1,813,894 vehicles",
+          "aliases": [
+            "UK",
+            "Britain"
+          ]
+        },
+        {
+          "answer": "Italy",
+          "display": "1,738,315 vehicles"
+        },
+        {
+          "answer": "Brazil",
+          "display": "1,681,527 vehicles"
+        },
+        {
+          "answer": "Russia",
+          "display": "1,205,581 vehicles",
+          "aliases": [
+            "Russian Federation"
+          ]
+        },
+        {
+          "answer": "Belgium",
+          "display": "1,033,294 vehicles"
+        },
+        {
+          "answer": "India",
+          "display": "801,360 vehicles"
+        }
+      ]
+    },
+    {
+      "category": "transport/cars/production-by-year",
+      "question": "Top 10 countries by motor vehicle production in 1995 (OICA and other sources; former countries included)",
+      "cutoff": 10,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1377629323 | table 4 | name: Country | value: 1995 | where: Country!=World",
+      "tags": [
+        "cars",
+        "production",
+        "countries",
+        "history"
+      ],
+      "answers": [
+        {
+          "answer": "United States",
+          "display": "11,985,457 vehicles",
+          "aliases": [
+            "USA",
+            "US",
+            "America"
+          ]
+        },
+        {
+          "answer": "Japan",
+          "display": "10,195,536 vehicles"
+        },
+        {
+          "answer": "Germany",
+          "display": "4,667,364 vehicles"
+        },
+        {
+          "answer": "France",
+          "display": "3,474,705 vehicles"
+        },
+        {
+          "answer": "Mexico",
+          "display": "2,629,008 vehicles"
+        },
+        {
+          "answer": "South Korea",
+          "display": "2,526,400 vehicles",
+          "aliases": [
+            "Korea"
+          ]
+        },
+        {
+          "answer": "Canada",
+          "display": "2,407,999 vehicles"
+        },
+        {
+          "answer": "Spain",
+          "display": "2,333,787 vehicles"
+        },
+        {
+          "answer": "United Kingdom",
+          "display": "1,765,000 vehicles",
+          "aliases": [
+            "UK",
+            "Britain"
+          ]
+        },
+        {
+          "answer": "Italy",
+          "display": "1,667,270 vehicles"
+        },
+        {
+          "answer": "Brazil",
+          "display": "1,629,008 vehicles"
+        },
+        {
+          "answer": "China",
+          "display": "1,434,772 vehicles"
+        },
+        {
+          "answer": "India",
+          "display": "636,000 vehicles"
+        },
+        {
+          "answer": "Russia",
+          "display": "608,460 vehicles",
+          "aliases": [
+            "Russian Federation"
+          ]
+        },
+        {
+          "answer": "Thailand",
+          "display": "533,200 vehicles"
+        }
+      ]
+    },
+    {
+      "category": "transport/cars/production-by-year",
+      "question": "Top 10 countries by motor vehicle production in 1990 (OICA and other sources; former countries included)",
+      "cutoff": 10,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1377629323 | table 4 | name: Country | value: 1990 | where: Country!=World",
+      "tags": [
+        "cars",
+        "production",
+        "countries",
+        "history"
+      ],
+      "answers": [
+        {
+          "answer": "Japan",
+          "display": "13,486,796 vehicles"
+        },
+        {
+          "answer": "United States",
+          "display": "9,782,997 vehicles",
+          "aliases": [
+            "USA",
+            "US",
+            "America"
+          ]
+        },
+        {
+          "answer": "Germany",
+          "display": "4,976,552 vehicles"
+        },
+        {
+          "answer": "France",
+          "display": "3,768,993 vehicles"
+        },
+        {
+          "answer": "Italy",
+          "display": "2,120,850 vehicles"
+        },
+        {
+          "answer": "Spain",
+          "display": "2,053,350 vehicles"
+        },
+        {
+          "answer": "Soviet Union",
+          "display": "2,039,600 vehicles",
+          "aliases": [
+            "USSR"
+          ]
+        },
+        {
+          "answer": "Canada",
+          "display": "1,947,106 vehicles"
+        },
+        {
+          "answer": "Mexico",
+          "display": "1,814,466 vehicles"
+        },
+        {
+          "answer": "United Kingdom",
+          "display": "1,565,957 vehicles",
+          "aliases": [
+            "UK",
+            "Britain"
+          ]
+        },
+        {
+          "answer": "South Korea",
+          "display": "1,321,630 vehicles",
+          "aliases": [
+            "Korea"
+          ]
+        },
+        {
+          "answer": "Belgium",
+          "display": "1,248,290 vehicles"
+        },
+        {
+          "answer": "Brazil",
+          "display": "914,466 vehicles"
+        },
+        {
+          "answer": "China",
+          "display": "509,242 vehicles"
+        },
+        {
+          "answer": "Sweden",
+          "display": "490,000 vehicles"
+        }
+      ]
+    },
+    {
+      "category": "transport/cars/production-by-year",
+      "question": "Top 10 countries by motor vehicle production in 1980 (OICA and other sources; former countries included)",
+      "cutoff": 10,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1377629323 | table 4 | name: Country | value: 1980 | where: Country!=World",
+      "tags": [
+        "cars",
+        "production",
+        "countries",
+        "history"
+      ],
+      "answers": [
+        {
+          "answer": "Japan",
+          "display": "11,042,884 vehicles"
+        },
+        {
+          "answer": "United States",
+          "display": "8,009,841 vehicles",
+          "aliases": [
+            "USA",
+            "US",
+            "America"
+          ]
+        },
+        {
+          "answer": "Germany",
+          "display": "3,878,553 vehicles"
+        },
+        {
+          "answer": "France",
+          "display": "3,378,433 vehicles"
+        },
+        {
+          "answer": "Soviet Union",
+          "display": "2,199,200 vehicles",
+          "aliases": [
+            "USSR"
+          ]
+        },
+        {
+          "answer": "Italy",
+          "display": "1,610,287 vehicles"
+        },
+        {
+          "answer": "Mexico",
+          "display": "1,565,174 vehicles"
+        },
+        {
+          "answer": "Canada",
+          "display": "1,369,607 vehicles"
+        },
+        {
+          "answer": "United Kingdom",
+          "display": "1,312,914 vehicles",
+          "aliases": [
+            "UK",
+            "Britain"
+          ]
+        },
+        {
+          "answer": "Spain",
+          "display": "1,181,659 vehicles"
+        },
+        {
+          "answer": "Brazil",
+          "display": "1,165,174 vehicles"
+        },
+        {
+          "answer": "Belgium",
+          "display": "923,426 vehicles"
+        },
+        {
+          "answer": "South Africa",
+          "display": "404,766 vehicles"
+        },
+        {
+          "answer": "Australia",
+          "display": "361,000 vehicles"
+        },
+        {
+          "answer": "Sweden",
+          "display": "344,000 vehicles"
+        }
+      ]
+    },
+    {
+      "category": "transport/cars/production-by-year",
+      "question": "Top 10 countries by motor vehicle production in 1970 (OICA and other sources; former countries included)",
+      "cutoff": 10,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1377629323 | table 4 | name: Country | value: 1970 | where: Country!=World",
+      "tags": [
+        "cars",
+        "production",
+        "countries",
+        "history"
+      ],
+      "answers": [
+        {
+          "answer": "United States",
+          "display": "8,283,949 vehicles",
+          "aliases": [
+            "USA",
+            "US",
+            "America"
+          ]
+        },
+        {
+          "answer": "Japan",
+          "display": "5,289,157 vehicles"
+        },
+        {
+          "answer": "Germany",
+          "display": "3,842,247 vehicles"
+        },
+        {
+          "answer": "France",
+          "display": "2,750,086 vehicles"
+        },
+        {
+          "answer": "United Kingdom",
+          "display": "2,098,498 vehicles",
+          "aliases": [
+            "UK",
+            "Britain"
+          ]
+        },
+        {
+          "answer": "Italy",
+          "display": "1,854,252 vehicles"
+        },
+        {
+          "answer": "Canada",
+          "display": "1,159,504 vehicles"
+        },
+        {
+          "answer": "Soviet Union",
+          "display": "916,118 vehicles",
+          "aliases": [
+            "USSR"
+          ]
+        },
+        {
+          "answer": "Mexico",
+          "display": "916,089 vehicles"
+        },
+        {
+          "answer": "Spain",
+          "display": "539,132 vehicles"
+        },
+        {
+          "answer": "Australia",
+          "display": "475,000 vehicles"
+        },
+        {
+          "answer": "Brazil",
+          "display": "416,089 vehicles"
+        },
+        {
+          "answer": "Sweden",
+          "display": "317,000 vehicles"
+        },
+        {
+          "answer": "South Africa",
+          "display": "297,573 vehicles"
+        },
+        {
+          "answer": "Belgium",
+          "display": "296,000 vehicles"
+        }
+      ]
+    },
+    {
+      "category": "transport/cars/production-by-year",
+      "question": "Top 10 countries by motor vehicle production in 1960 (OICA and other sources; former countries included)",
+      "cutoff": 10,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1377629323 | table 4 | name: Country | value: 1960 | where: Country!=World",
+      "tags": [
+        "cars",
+        "production",
+        "countries",
+        "history"
+      ],
+      "answers": [
+        {
+          "answer": "United States",
+          "display": "7,905,119 vehicles",
+          "aliases": [
+            "USA",
+            "US",
+            "America"
+          ]
+        },
+        {
+          "answer": "Germany",
+          "display": "2,056,149 vehicles"
+        },
+        {
+          "answer": "United Kingdom",
+          "display": "1,810,700 vehicles",
+          "aliases": [
+            "UK",
+            "Britain"
+          ]
+        },
+        {
+          "answer": "France",
+          "display": "1,369,210 vehicles"
+        },
+        {
+          "answer": "Italy",
+          "display": "644,633 vehicles"
+        },
+        {
+          "answer": "Mexico",
+          "display": "533,041 vehicles"
+        },
+        {
+          "answer": "Soviet Union",
+          "display": "523,591 vehicles",
+          "aliases": [
+            "USSR"
+          ]
+        },
+        {
+          "answer": "Japan",
+          "display": "481,551 vehicles"
+        },
+        {
+          "answer": "Canada",
+          "display": "397,739 vehicles"
+        },
+        {
+          "answer": "Sweden",
+          "display": "311,000 vehicles"
+        },
+        {
+          "answer": "Australia",
+          "display": "204,000 vehicles"
+        },
+        {
+          "answer": "Brazil",
+          "display": "133,041 vehicles"
+        },
+        {
+          "answer": "Argentina",
+          "display": "89,000 vehicles"
+        },
+        {
+          "answer": "East Germany",
+          "display": "77,350 vehicles"
+        },
+        {
+          "answer": "Czechoslovakia",
+          "display": "75,000 vehicles"
+        }
+      ]
+    },
+    {
+      "category": "transport/cars/production-by-year",
+      "question": "Top 10 motor vehicle manufacturer groups by production in 2017",
+      "cutoff": 10,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1371855777 | table 3 | name: Group | value: Vehicles (2017) | note: source ranks General Motors and Hyundai Motor Group jointly 3/4 in 2017; ordered by figure",
+      "tags": [
+        "cars",
+        "production",
+        "manufacturers",
+        "history"
+      ],
+      "answers": [
+        {
+          "answer": "Toyota",
+          "display": "10,466,051 vehicles"
+        },
+        {
+          "answer": "Volkswagen Group",
+          "display": "10,382,334 vehicles",
+          "aliases": [
+            "Volkswagen",
+            "VW"
+          ]
+        },
+        {
+          "answer": "Hyundai",
+          "display": "7,218,391 vehicles (incl. Kia)",
+          "aliases": [
+            "Hyundai Motor Group",
+            "Hyundai-Kia"
+          ]
+        },
+        {
+          "answer": "General Motors",
+          "display": "6,856,880 vehicles (excl. SAIC-GM-Wuling)",
+          "aliases": [
+            "GM"
+          ]
+        },
+        {
+          "answer": "Ford",
+          "display": "6,386,818 vehicles"
+        },
+        {
+          "answer": "Nissan",
+          "display": "5,769,277 vehicles"
+        },
+        {
+          "answer": "Honda",
+          "display": "5,235,842 vehicles"
+        },
+        {
+          "answer": "Fiat Chrysler",
+          "display": "4,600,847 vehicles",
+          "aliases": [
+            "FCA"
+          ]
+        },
+        {
+          "answer": "Renault",
+          "display": "4,153,589 vehicles"
+        },
+        {
+          "answer": "PSA Peugeot Citroën",
+          "display": "3,649,742 vehicles",
+          "aliases": [
+            "Groupe PSA",
+            "PSA",
+            "Peugeot"
+          ]
+        },
+        {
+          "answer": "Suzuki",
+          "display": "3,302,336 vehicles"
+        },
+        {
+          "answer": "SAIC",
+          "display": "2,866,913 vehicles"
+        },
+        {
+          "answer": "Daimler",
+          "display": "2,549,142 vehicles"
+        },
+        {
+          "answer": "BMW",
+          "display": "2,505,741 vehicles"
+        },
+        {
+          "answer": "Geely",
+          "display": "1,950,382 vehicles"
+        }
+      ]
+    },
+    {
+      "category": "transport/cars/production-by-year",
+      "question": "Top 10 motor vehicle manufacturer groups by production in 2015",
+      "cutoff": 10,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1371855777 | table 3 | name: Group | value: Vehicles (2015) | note: ordered by 2015 figure; GM excludes the SAIC-GM-Wuling JV, as the source headline does",
+      "tags": [
+        "cars",
+        "production",
+        "manufacturers",
+        "history"
+      ],
+      "answers": [
+        {
+          "answer": "Toyota",
+          "display": "10,083,831 vehicles"
+        },
+        {
+          "answer": "Volkswagen Group",
+          "display": "9,872,424 vehicles",
+          "aliases": [
+            "Volkswagen",
+            "VW"
+          ]
+        },
+        {
+          "answer": "Hyundai",
+          "display": "7,988,479 vehicles (incl. Kia)",
+          "aliases": [
+            "Hyundai Motor Group",
+            "Hyundai-Kia"
+          ]
+        },
+        {
+          "answer": "General Motors",
+          "display": "7,485,587 vehicles (excl. SAIC-GM-Wuling)",
+          "aliases": [
+            "GM"
+          ]
+        },
+        {
+          "answer": "Ford",
+          "display": "6,396,369 vehicles"
+        },
+        {
+          "answer": "Nissan",
+          "display": "5,170,074 vehicles"
+        },
+        {
+          "answer": "Fiat Chrysler",
+          "display": "4,865,233 vehicles",
+          "aliases": [
+            "FCA"
+          ]
+        },
+        {
+          "answer": "Honda",
+          "display": "4,543,838 vehicles"
+        },
+        {
+          "answer": "Suzuki",
+          "display": "3,034,081 vehicles"
+        },
+        {
+          "answer": "Renault",
+          "display": "3,032,652 vehicles"
+        },
+        {
+          "answer": "PSA Peugeot Citroën",
+          "display": "2,982,035 vehicles",
+          "aliases": [
+            "Groupe PSA",
+            "PSA",
+            "Peugeot"
+          ]
+        },
+        {
+          "answer": "BMW",
+          "display": "2,279,503 vehicles"
+        },
+        {
+          "answer": "SAIC",
+          "display": "2,260,579 vehicles"
+        },
+        {
+          "answer": "Daimler",
+          "display": "2,134,645 vehicles"
+        },
+        {
+          "answer": "Mazda",
+          "display": "1,540,576 vehicles"
+        }
+      ]
+    },
+    {
+      "category": "transport/cars/production-by-year",
+      "question": "Top 10 motor vehicle manufacturer groups by production in 2014",
+      "cutoff": 10,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1371855777 | table 4 | name: Group | value: Total",
+      "tags": [
+        "cars",
+        "production",
+        "manufacturers",
+        "history"
+      ],
+      "answers": [
+        {
+          "answer": "Toyota",
+          "display": "10,475,338 vehicles"
+        },
+        {
+          "answer": "Volkswagen Group",
+          "display": "9,894,891 vehicles",
+          "aliases": [
+            "Volkswagen",
+            "VW"
+          ]
+        },
+        {
+          "answer": "General Motors",
+          "display": "9,609,326 vehicles",
+          "aliases": [
+            "GM"
+          ]
+        },
+        {
+          "answer": "Hyundai",
+          "display": "8,008,987 vehicles (incl. Kia)",
+          "aliases": [
+            "Hyundai Motor Group",
+            "Hyundai-Kia"
+          ]
+        },
+        {
+          "answer": "Ford",
+          "display": "5,969,541 vehicles"
+        },
+        {
+          "answer": "Nissan",
+          "display": "5,097,772 vehicles"
+        },
+        {
+          "answer": "Fiat Chrysler",
+          "display": "4,865,758 vehicles",
+          "aliases": [
+            "FCA"
+          ]
+        },
+        {
+          "answer": "Honda",
+          "display": "4,513,769 vehicles"
+        },
+        {
+          "answer": "Suzuki",
+          "display": "3,016,710 vehicles"
+        },
+        {
+          "answer": "PSA Peugeot Citroën",
+          "display": "2,917,046 vehicles"
+        },
+        {
+          "answer": "Renault",
+          "display": "2,761,969 vehicles"
+        },
+        {
+          "answer": "BMW",
+          "display": "2,165,566 vehicles"
+        },
+        {
+          "answer": "SAIC",
+          "display": "2,087,949 vehicles"
+        },
+        {
+          "answer": "Daimler",
+          "display": "1,973,270 vehicles"
+        },
+        {
+          "answer": "Changan",
+          "display": "1,447,017 vehicles"
+        }
+      ]
+    },
+    {
+      "category": "transport/cars/production-by-year",
+      "question": "Top 10 motor vehicle manufacturer groups by production in 2012",
+      "cutoff": 10,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1371855777 | table 6 | name: Group | value: Total",
+      "tags": [
+        "cars",
+        "production",
+        "manufacturers",
+        "history"
+      ],
+      "answers": [
+        {
+          "answer": "Toyota",
+          "display": "10,104,424 vehicles"
+        },
+        {
+          "answer": "General Motors",
+          "display": "9,285,425 vehicles",
+          "aliases": [
+            "GM"
+          ]
+        },
+        {
+          "answer": "Volkswagen Group",
+          "display": "9,254,742 vehicles",
+          "aliases": [
+            "Volkswagen",
+            "VW"
+          ]
+        },
+        {
+          "answer": "Hyundai",
+          "display": "7,126,413 vehicles (incl. Kia)",
+          "aliases": [
+            "Hyundai Motor Group",
+            "Hyundai-Kia"
+          ]
+        },
+        {
+          "answer": "Ford",
+          "display": "5,595,483 vehicles"
+        },
+        {
+          "answer": "Nissan",
+          "display": "4,889,379 vehicles"
+        },
+        {
+          "answer": "Honda",
+          "display": "4,110,857 vehicles"
+        },
+        {
+          "answer": "PSA Peugeot Citroën",
+          "display": "2,911,764 vehicles"
+        },
+        {
+          "answer": "Suzuki",
+          "display": "2,893,602 vehicles"
+        },
+        {
+          "answer": "Renault",
+          "display": "2,676,226 vehicles"
+        },
+        {
+          "answer": "Chrysler",
+          "display": "2,371,427 vehicles"
+        },
+        {
+          "answer": "Daimler",
+          "display": "2,195,152 vehicles"
+        },
+        {
+          "answer": "Fiat",
+          "display": "2,127,295 vehicles"
+        },
+        {
+          "answer": "BMW",
+          "display": "2,065,477 vehicles"
+        },
+        {
+          "answer": "SAIC",
+          "display": "1,783,548 vehicles"
+        }
+      ]
+    },
+    {
+      "category": "transport/cars/production-by-year",
+      "question": "Top 10 motor vehicle manufacturer groups by production in 2008",
+      "cutoff": 10,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1371855777 | table 7 | name: Group | value: Vehicles",
+      "tags": [
+        "cars",
+        "production",
+        "manufacturers",
+        "history"
+      ],
+      "answers": [
+        {
+          "answer": "Toyota",
+          "display": "9,237,780 vehicles"
+        },
+        {
+          "answer": "General Motors",
+          "display": "8,282,803 vehicles",
+          "aliases": [
+            "GM"
+          ]
+        },
+        {
+          "answer": "Volkswagen Group",
+          "display": "6,437,414 vehicles",
+          "aliases": [
+            "Volkswagen",
+            "VW"
+          ]
+        },
+        {
+          "answer": "Ford",
+          "display": "5,407,000 vehicles"
+        },
+        {
+          "answer": "Hyundai",
+          "display": "4,172,461 vehicles (incl. Kia)",
+          "aliases": [
+            "Hyundai Motor Group",
+            "Hyundai-Kia"
+          ]
+        },
+        {
+          "answer": "Honda",
+          "display": "3,912,700 vehicles"
+        },
+        {
+          "answer": "Nissan",
+          "display": "3,395,065 vehicles"
+        },
+        {
+          "answer": "PSA Peugeot Citroën",
+          "display": "3,325,407 vehicles"
+        },
+        {
+          "answer": "Suzuki",
+          "display": "2,623,567 vehicles"
+        },
+        {
+          "answer": "Fiat",
+          "display": "2,524,325 vehicles"
+        },
+        {
+          "answer": "Renault",
+          "display": "2,417,351 vehicles"
+        },
+        {
+          "answer": "Daimler",
+          "display": "2,174,299 vehicles"
+        },
+        {
+          "answer": "Chrysler",
+          "display": "1,893,068 vehicles"
+        },
+        {
+          "answer": "BMW",
+          "display": "1,439,918 vehicles"
+        },
+        {
+          "answer": "Mazda",
+          "display": "1,349,274 vehicles"
+        }
+      ]
+    },
+    {
+      "category": "transport/cars/production-by-year",
+      "question": "Top 10 motor vehicle manufacturer groups by production in 2007",
+      "cutoff": 10,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1371855777 | table 8 | name: Group | value: Vehicles",
+      "tags": [
+        "cars",
+        "production",
+        "manufacturers",
+        "history"
+      ],
+      "answers": [
+        {
+          "answer": "General Motors",
+          "display": "9,349,818 vehicles",
+          "aliases": [
+            "GM"
+          ]
+        },
+        {
+          "answer": "Toyota",
+          "display": "8,534,690 vehicles"
+        },
+        {
+          "answer": "Volkswagen Group",
+          "display": "6,267,891 vehicles",
+          "aliases": [
+            "Volkswagen",
+            "VW"
+          ]
+        },
+        {
+          "answer": "Ford",
+          "display": "6,247,506 vehicles"
+        },
+        {
+          "answer": "Hyundai",
+          "display": "3,987,055 vehicles (incl. Kia)",
+          "aliases": [
+            "Hyundai Motor Group",
+            "Hyundai-Kia"
+          ]
+        },
+        {
+          "answer": "Honda",
+          "display": "3,911,814 vehicles"
+        },
+        {
+          "answer": "PSA Peugeot Citroën",
+          "display": "3,457,385 vehicles"
+        },
+        {
+          "answer": "Nissan",
+          "display": "3,431,398 vehicles"
+        },
+        {
+          "answer": "Fiat",
+          "display": "2,679,451 vehicles"
+        },
+        {
+          "answer": "Renault",
+          "display": "2,669,040 vehicles"
+        },
+        {
+          "answer": "Suzuki",
+          "display": "2,596,316 vehicles"
+        },
+        {
+          "answer": "Chrysler",
+          "display": "2,538,624 vehicles"
+        },
+        {
+          "answer": "Daimler",
+          "display": "2,096,977 vehicles"
+        },
+        {
+          "answer": "BMW",
+          "display": "1,541,503 vehicles"
+        },
+        {
+          "answer": "Mitsubishi",
+          "display": "1,411,975 vehicles"
+        }
+      ]
+    },
+    {
+      "category": "transport/cars/production-by-year",
+      "question": "Top 10 motor vehicle manufacturer groups by production in 2006",
+      "cutoff": 10,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1371855777 | table 9 | name: Group | value: Vehicles",
+      "tags": [
+        "cars",
+        "production",
+        "manufacturers",
+        "history"
+      ],
+      "answers": [
+        {
+          "answer": "General Motors",
+          "display": "8,926,160 vehicles",
+          "aliases": [
+            "GM"
+          ]
+        },
+        {
+          "answer": "Toyota",
+          "display": "8,036,010 vehicles"
+        },
+        {
+          "answer": "Ford",
+          "display": "6,268,193 vehicles"
+        },
+        {
+          "answer": "Volkswagen Group",
+          "display": "5,684,603 vehicles",
+          "aliases": [
+            "Volkswagen",
+            "VW"
+          ]
+        },
+        {
+          "answer": "Hyundai",
+          "display": "3,775,749 vehicles (incl. Kia)",
+          "aliases": [
+            "Hyundai Motor Group",
+            "Hyundai-Kia"
+          ]
+        },
+        {
+          "answer": "Honda",
+          "display": "3,669,514 vehicles"
+        },
+        {
+          "answer": "PSA Peugeot Citroën",
+          "display": "3,356,859 vehicles"
+        },
+        {
+          "answer": "Nissan",
+          "display": "3,266,205 vehicles"
+        },
+        {
+          "answer": "Chrysler",
+          "display": "2,544,590 vehicles"
+        },
+        {
+          "answer": "Renault",
+          "display": "2,543,649 vehicles"
+        },
+        {
+          "answer": "Fiat",
+          "display": "2,319,642 vehicles"
+        },
+        {
+          "answer": "Suzuki",
+          "display": "2,297,277 vehicles"
+        },
+        {
+          "answer": "Daimler",
+          "display": "2,044,533 vehicles"
+        },
+        {
+          "answer": "Mazda",
+          "display": "1,396,412 vehicles"
+        },
+        {
+          "answer": "BMW",
+          "display": "1,366,838 vehicles"
+        }
+      ]
+    },
+    {
+      "category": "transport/cars/production-by-year",
+      "question": "Top 10 motor vehicle manufacturer groups by production in 2005",
+      "cutoff": 10,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1371855777 | table 10 | name: Group | value: Total",
+      "tags": [
+        "cars",
+        "production",
+        "manufacturers",
+        "history"
+      ],
+      "answers": [
+        {
+          "answer": "General Motors",
+          "display": "7,943,304 vehicles",
+          "aliases": [
+            "GM"
+          ]
+        },
+        {
+          "answer": "Toyota",
+          "display": "7,338,314 vehicles"
+        },
+        {
+          "answer": "Ford",
+          "display": "6,497,746 vehicles"
+        },
+        {
+          "answer": "Volkswagen Group",
+          "display": "5,211,413 vehicles",
+          "aliases": [
+            "Volkswagen",
+            "VW"
+          ]
+        },
+        {
+          "answer": "DaimlerChrysler",
+          "display": "4,815,593 vehicles"
+        },
+        {
+          "answer": "Nissan",
+          "display": "3,535,345 vehicles"
+        },
+        {
+          "answer": "Honda",
+          "display": "3,436,164 vehicles"
+        },
+        {
+          "answer": "PSA Peugeot Citroën",
+          "display": "3,375,366 vehicles"
+        },
+        {
+          "answer": "Hyundai",
+          "display": "3,091,060 vehicles (incl. Kia)",
+          "aliases": [
+            "Hyundai Motor Group",
+            "Hyundai-Kia"
+          ]
+        },
+        {
+          "answer": "Renault",
+          "display": "2,616,818 vehicles"
+        },
+        {
+          "answer": "Suzuki",
+          "display": "2,071,707 vehicles"
+        },
+        {
+          "answer": "Fiat",
+          "display": "2,037,695 vehicles"
+        },
+        {
+          "answer": "Mitsubishi",
+          "display": "1,331,060 vehicles"
+        },
+        {
+          "answer": "BMW",
+          "display": "1,323,119 vehicles"
+        },
+        {
+          "answer": "Mazda",
+          "display": "1,287,561 vehicles"
+        }
+      ]
+    },
+    {
+      "category": "transport/cars/production-by-year",
+      "question": "Top 10 motor vehicle manufacturer groups by production in 2003",
+      "cutoff": 10,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1371855777 | table 11 | name: Group | value: Vehicles (2003)",
+      "tags": [
+        "cars",
+        "production",
+        "manufacturers",
+        "history"
+      ],
+      "answers": [
+        {
+          "answer": "General Motors",
+          "display": "8,706,553 vehicles",
+          "aliases": [
+            "GM"
+          ]
+        },
+        {
+          "answer": "Ford",
+          "display": "6,566,089 vehicles"
+        },
+        {
+          "answer": "Toyota",
+          "display": "6,240,526 vehicles"
+        },
+        {
+          "answer": "Volkswagen Group",
+          "display": "5,024,032 vehicles",
+          "aliases": [
+            "Volkswagen",
+            "VW"
+          ]
+        },
+        {
+          "answer": "DaimlerChrysler",
+          "display": "4,231,603 vehicles"
+        },
+        {
+          "answer": "PSA Peugeot Citroën",
+          "display": "3,310,368 vehicles"
+        },
+        {
+          "answer": "Nissan",
+          "display": "2,981,154 vehicles"
+        },
+        {
+          "answer": "Honda",
+          "display": "2,922,526 vehicles"
+        },
+        {
+          "answer": "Hyundai",
+          "display": "2,697,435 vehicles (incl. Kia)",
+          "aliases": [
+            "Hyundai Motor Group",
+            "Hyundai-Kia"
+          ]
+        },
+        {
+          "answer": "Renault",
+          "display": "2,386,098 vehicles"
+        },
+        {
+          "answer": "Fiat",
+          "display": "2,077,828 vehicles"
+        },
+        {
+          "answer": "Suzuki",
+          "display": "1,811,214 vehicles"
+        },
+        {
+          "answer": "Mitsubishi",
+          "display": "1,582,205 vehicles"
+        },
+        {
+          "answer": "Mazda",
+          "display": "1,152,578 vehicles"
+        }
+      ]
+    },
+    {
+      "category": "transport/cars/production-by-year",
+      "question": "Top 10 motor vehicle manufacturer groups by production in 2001",
+      "cutoff": 10,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1371855777 | table 13 | name: Group | value: Vehicles",
+      "tags": [
+        "cars",
+        "production",
+        "manufacturers",
+        "history"
+      ],
+      "answers": [
+        {
+          "answer": "General Motors",
+          "display": "8,086,250 vehicles",
+          "aliases": [
+            "GM"
+          ]
+        },
+        {
+          "answer": "Ford",
+          "display": "6,676,491 vehicles"
+        },
+        {
+          "answer": "Toyota",
+          "display": "6,054,968 vehicles"
+        },
+        {
+          "answer": "Volkswagen Group",
+          "display": "5,108,982 vehicles",
+          "aliases": [
+            "Volkswagen",
+            "VW"
+          ]
+        },
+        {
+          "answer": "DaimlerChrysler",
+          "display": "4,364,492 vehicles"
+        },
+        {
+          "answer": "PSA Peugeot Citroën",
+          "display": "3,102,449 vehicles"
+        },
+        {
+          "answer": "Honda",
+          "display": "2,673,671 vehicles"
+        },
+        {
+          "answer": "Nissan",
+          "display": "2,558,979 vehicles"
+        },
+        {
+          "answer": "Hyundai",
+          "display": "2,518,443 vehicles (incl. Kia)",
+          "aliases": [
+            "Hyundai Motor Group",
+            "Hyundai-Kia"
+          ]
+        },
+        {
+          "answer": "Fiat",
+          "display": "2,409,016 vehicles"
+        },
+        {
+          "answer": "Renault",
+          "display": "2,375,084 vehicles"
+        },
+        {
+          "answer": "Mitsubishi",
+          "display": "1,647,817 vehicles"
+        },
+        {
+          "answer": "Suzuki",
+          "display": "1,541,103 vehicles"
+        },
+        {
+          "answer": "Mazda",
+          "display": "957,012 vehicles"
+        }
+      ]
+    }
+  ]
+}

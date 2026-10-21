@@ -1,0 +1,481 @@
+{
+  "questions": [
+    {
+      "category": "sports/soccer/europe/top-scorers",
+      "difficulty": 1,
+      "question": "Top 10 Premier League all-time goalscorers (through 2026 season)",
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1379083522 | table 1 | name: Player | value: Goals",
+      "tags": [
+        "soccer",
+        "premier league",
+        "scorers",
+        "goals"
+      ],
+      "answers": [
+        {
+          "answer": "Alan Shearer",
+          "display": "260 goals",
+          "aliases": [
+            "shearer"
+          ]
+        },
+        {
+          "answer": "Harry Kane",
+          "display": "213 goals",
+          "aliases": [
+            "kane"
+          ]
+        },
+        {
+          "answer": "Wayne Rooney",
+          "display": "208 goals",
+          "aliases": [
+            "rooney"
+          ]
+        },
+        {
+          "answer": "Mohamed Salah",
+          "display": "193 goals",
+          "aliases": [
+            "salah"
+          ]
+        },
+        {
+          "answer": "Andy Cole",
+          "display": "187 goals",
+          "aliases": [
+            "cole"
+          ]
+        },
+        {
+          "answer": "Sergio Agüero",
+          "display": "184 goals",
+          "aliases": [
+            "agüero",
+            "sergio aguero",
+            "aguero"
+          ]
+        },
+        {
+          "answer": "Frank Lampard",
+          "display": "177 goals",
+          "aliases": [
+            "lampard"
+          ]
+        },
+        {
+          "answer": "Thierry Henry",
+          "display": "175 goals",
+          "aliases": [
+            "henry"
+          ]
+        },
+        {
+          "answer": "Robbie Fowler",
+          "display": "163 goals",
+          "aliases": [
+            "fowler"
+          ]
+        },
+        {
+          "answer": "Jermain Defoe",
+          "display": "162 goals",
+          "aliases": [
+            "defoe"
+          ]
+        },
+        {
+          "answer": "Michael Owen",
+          "display": "150 goals",
+          "aliases": [
+            "owen"
+          ]
+        },
+        {
+          "answer": "Les Ferdinand",
+          "display": "149 goals",
+          "aliases": [
+            "ferdinand"
+          ]
+        },
+        {
+          "answer": "Teddy Sheringham",
+          "display": "146 goals",
+          "aliases": [
+            "sheringham"
+          ]
+        },
+        {
+          "answer": "Jamie Vardy",
+          "display": "145 goals",
+          "aliases": [
+            "vardy"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/soccer/europe/transfers",
+      "difficulty": 2,
+      "question": "Top 10 most expensive football transfer fees in history (as of 2026)",
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1378892940 | table 1 | name: Player | value: Fee (€ million)",
+      "tags": [
+        "soccer",
+        "transfers",
+        "fees",
+        "expensive"
+      ],
+      "answers": [
+        {
+          "answer": "Neymar",
+          "display": "€222 million",
+          "aliases": [
+            "neymar jr"
+          ]
+        },
+        {
+          "answer": "Kylian Mbappé",
+          "display": "€180 million",
+          "aliases": [
+            "mbappe",
+            "mbappé"
+          ]
+        },
+        {
+          "answer": "Enzo Fernández",
+          "display": "€145.8 million",
+          "aliases": [
+            "fernandez"
+          ]
+        },
+        {
+          "answer": "Alexander Isak",
+          "display": "€144.5 million",
+          "aliases": [
+            "isak"
+          ]
+        },
+        {
+          "answer": "Morgan Rogers",
+          "display": "€137.3 million",
+          "aliases": [
+            "rogers"
+          ]
+        },
+        {
+          "answer": "Elliot Anderson",
+          "display": "€135.5 million",
+          "aliases": [
+            "anderson"
+          ]
+        },
+        {
+          "answer": "João Félix",
+          "display": "€126 million",
+          "aliases": [
+            "joao felix",
+            "felix"
+          ]
+        },
+        {
+          "answer": "Yan Diomande",
+          "display": "€125 million",
+          "aliases": [
+            "diomande"
+          ]
+        },
+        {
+          "answer": "Bradley Barcola",
+          "display": "€125 million",
+          "aliases": [
+            "barcola"
+          ]
+        },
+        {
+          "answer": "Antoine Griezmann",
+          "display": "€120 million",
+          "aliases": [
+            "griezmann"
+          ]
+        },
+        {
+          "answer": "Philippe Coutinho",
+          "display": "€118.4 million",
+          "aliases": [
+            "coutinho"
+          ]
+        },
+        {
+          "answer": "Jack Grealish",
+          "display": "€117.7 million",
+          "aliases": [
+            "grealish"
+          ]
+        },
+        {
+          "answer": "Florian Wirtz",
+          "display": "€117.5 million",
+          "aliases": [
+            "wirtz"
+          ]
+        },
+        {
+          "answer": "Declan Rice",
+          "display": "€116.5 million",
+          "aliases": [
+            "rice"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/soccer/europe/top-scorers",
+      "difficulty": 1,
+      "question": "Top 10 UEFA Champions League all-time top scorers (as of 2026)",
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1378913992 | table 1 | name: Player | value: Goals",
+      "tags": [
+        "soccer",
+        "champions league",
+        "scorers",
+        "goals"
+      ],
+      "answers": [
+        {
+          "answer": "Cristiano Ronaldo",
+          "display": "140 goals",
+          "aliases": [
+            "ronaldo",
+            "cr7"
+          ]
+        },
+        {
+          "answer": "Lionel Messi",
+          "display": "129 goals",
+          "aliases": [
+            "messi"
+          ]
+        },
+        {
+          "answer": "Robert Lewandowski",
+          "display": "109 goals",
+          "aliases": [
+            "lewandowski",
+            "lewy"
+          ]
+        },
+        {
+          "answer": "Karim Benzema",
+          "display": "90 goals",
+          "aliases": [
+            "benzema"
+          ]
+        },
+        {
+          "answer": "Kylian Mbappé",
+          "display": "71 goals",
+          "aliases": [
+            "mbappe",
+            "mbappé"
+          ]
+        },
+        {
+          "answer": "Raúl",
+          "display": "71 goals",
+          "aliases": [
+            "raul"
+          ]
+        },
+        {
+          "answer": "Erling Haaland",
+          "display": "59 goals",
+          "aliases": [
+            "haaland"
+          ]
+        },
+        {
+          "answer": "Thomas Müller",
+          "display": "57 goals",
+          "aliases": [
+            "muller",
+            "müller"
+          ]
+        },
+        {
+          "answer": "Ruud van Nistelrooy",
+          "display": "56 goals",
+          "aliases": [
+            "van nistelrooy",
+            "nistelrooy"
+          ]
+        },
+        {
+          "answer": "Harry Kane",
+          "display": "55 goals",
+          "aliases": [
+            "kane"
+          ]
+        },
+        {
+          "answer": "Mohamed Salah",
+          "display": "50 goals",
+          "aliases": [
+            "salah"
+          ]
+        },
+        {
+          "answer": "Thierry Henry",
+          "display": "50 goals",
+          "aliases": [
+            "henry"
+          ]
+        },
+        {
+          "answer": "Alfredo Di Stéfano",
+          "display": "49 goals",
+          "aliases": [
+            "di stefano",
+            "di stéfano"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/soccer/international/world-cup",
+      "difficulty": 1,
+      "question": "Top 9 national teams by goals scored at the FIFA World Cup (all-time, as of 2026)",
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1378914783 | table 2 | name: Team | value: GF",
+      "tags": [
+        "soccer",
+        "world cup",
+        "goals",
+        "teams"
+      ],
+      "cutoff": 9,
+      "answers": [
+        {
+          "answer": "Brazil",
+          "display": "247 goals"
+        },
+        {
+          "answer": "Germany",
+          "display": "243 goals"
+        },
+        {
+          "answer": "Argentina",
+          "display": "171 goals"
+        },
+        {
+          "answer": "France",
+          "display": "156 goals"
+        },
+        {
+          "answer": "Italy",
+          "display": "128 goals"
+        },
+        {
+          "answer": "England",
+          "display": "124 goals"
+        },
+        {
+          "answer": "Spain",
+          "display": "122 goals"
+        },
+        {
+          "answer": "Netherlands",
+          "display": "107 goals",
+          "aliases": [
+            "holland"
+          ]
+        },
+        {
+          "answer": "Uruguay",
+          "display": "92 goals"
+        },
+        {
+          "answer": "Sweden",
+          "display": "87 goals"
+        },
+        {
+          "answer": "Hungary",
+          "display": "87 goals"
+        },
+        {
+          "answer": "Belgium",
+          "display": "83 goals"
+        }
+      ]
+    },
+    {
+      "category": "sports/soccer/international/world-cup",
+      "difficulty": 2,
+      "question": "Top 8 national teams by FIFA World Cup appearances (all-time, as of 2026)",
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1378914783 | table 2 | name: Team | value: Part",
+      "tags": [
+        "soccer",
+        "world cup",
+        "appearances",
+        "teams"
+      ],
+      "cutoff": 8,
+      "answers": [
+        {
+          "answer": "Brazil",
+          "display": "23 tournaments"
+        },
+        {
+          "answer": "Germany",
+          "display": "21 tournaments"
+        },
+        {
+          "answer": "Argentina",
+          "display": "19 tournaments"
+        },
+        {
+          "answer": "Italy",
+          "display": "18 tournaments"
+        },
+        {
+          "answer": "Mexico",
+          "display": "18 tournaments"
+        },
+        {
+          "answer": "France",
+          "display": "17 tournaments"
+        },
+        {
+          "answer": "England",
+          "display": "17 tournaments"
+        },
+        {
+          "answer": "Spain",
+          "display": "17 tournaments"
+        },
+        {
+          "answer": "Uruguay",
+          "display": "15 tournaments"
+        },
+        {
+          "answer": "Belgium",
+          "display": "15 tournaments"
+        },
+        {
+          "answer": "Sweden",
+          "display": "13 tournaments"
+        },
+        {
+          "answer": "Serbia",
+          "display": "13 tournaments"
+        },
+        {
+          "answer": "Switzerland",
+          "display": "13 tournaments"
+        }
+      ]
+    }
+  ]
+}

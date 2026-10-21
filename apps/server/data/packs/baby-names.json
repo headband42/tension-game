@@ -1,0 +1,276 @@
+{
+  "categories": [
+    {
+      "path": "people/names/baby-names",
+      "name": "Baby Names"
+    }
+  ],
+  "questions": [
+    {
+      "category": "people/names/baby-names",
+      "question": "Top 7 most popular boys' names in the United States in the 1930s",
+      "cutoff": 7,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1377792274 | table 1 | name: name | value: 1930s | order: asc",
+      "tags": [
+        "baby names",
+        "united states",
+        "1930s"
+      ],
+      "answers": [
+        {
+          "answer": "Robert",
+          "display": "#1",
+          "aliases": [
+            "Bob"
+          ]
+        },
+        {
+          "answer": "James",
+          "display": "#2",
+          "aliases": [
+            "Jim"
+          ]
+        },
+        {
+          "answer": "John",
+          "display": "#3"
+        },
+        {
+          "answer": "William",
+          "display": "#4",
+          "aliases": [
+            "Bill"
+          ]
+        },
+        {
+          "answer": "Richard",
+          "display": "#5",
+          "aliases": [
+            "Rick",
+            "Dick"
+          ]
+        },
+        {
+          "answer": "Charles",
+          "display": "#6",
+          "aliases": [
+            "Chuck"
+          ]
+        },
+        {
+          "answer": "Donald",
+          "display": "#7",
+          "aliases": [
+            "Don"
+          ]
+        },
+        {
+          "answer": "George",
+          "display": "#8"
+        },
+        {
+          "answer": "Thomas",
+          "display": "#9",
+          "aliases": [
+            "Tom"
+          ]
+        },
+        {
+          "answer": "Joseph",
+          "display": "#10",
+          "aliases": [
+            "Joe"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "people/names/baby-names",
+      "question": "Top 10 most popular boys' names in the United States in the 1980s",
+      "cutoff": 10,
+      "difficulty": 1,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1377792274 | table 1 | name: name | value: 1980s | order: asc",
+      "tags": [
+        "baby names",
+        "united states",
+        "1980s"
+      ],
+      "answers": [
+        {
+          "answer": "Michael",
+          "display": "#1",
+          "aliases": [
+            "Mike"
+          ]
+        },
+        {
+          "answer": "Christopher",
+          "display": "#2",
+          "aliases": [
+            "Chris"
+          ]
+        },
+        {
+          "answer": "Matthew",
+          "display": "#3",
+          "aliases": [
+            "Matt"
+          ]
+        },
+        {
+          "answer": "Joshua",
+          "display": "#4",
+          "aliases": [
+            "Josh"
+          ]
+        },
+        {
+          "answer": "David",
+          "display": "#5",
+          "aliases": [
+            "Dave"
+          ]
+        },
+        {
+          "answer": "James",
+          "display": "#6",
+          "aliases": [
+            "Jim"
+          ]
+        },
+        {
+          "answer": "Daniel",
+          "display": "#7",
+          "aliases": [
+            "Dan"
+          ]
+        },
+        {
+          "answer": "Robert",
+          "display": "#8",
+          "aliases": [
+            "Bob"
+          ]
+        },
+        {
+          "answer": "John",
+          "display": "#9"
+        },
+        {
+          "answer": "Joseph",
+          "display": "#10",
+          "aliases": [
+            "Joe"
+          ]
+        },
+        {
+          "answer": "Jason",
+          "display": "#11"
+        },
+        {
+          "answer": "Justin",
+          "display": "#12"
+        },
+        {
+          "answer": "Andrew",
+          "display": "#13",
+          "aliases": [
+            "Andy"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "people/names/baby-names",
+      "question": "Top 10 most popular girls' names in the United States, 1926–2025 (overall rank)",
+      "cutoff": 10,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1377792241 | table 1 | name: name | value: 1926-2025 rank | order: asc",
+      "tags": [
+        "baby names",
+        "united states"
+      ],
+      "answers": [
+        {
+          "answer": "Mary",
+          "display": "#1"
+        },
+        {
+          "answer": "Patricia",
+          "display": "#2",
+          "aliases": [
+            "Pat",
+            "Patty"
+          ]
+        },
+        {
+          "answer": "Jennifer",
+          "display": "#3",
+          "aliases": [
+            "Jen"
+          ]
+        },
+        {
+          "answer": "Linda",
+          "display": "#4"
+        },
+        {
+          "answer": "Elizabeth",
+          "display": "#5",
+          "aliases": [
+            "Liz",
+            "Beth"
+          ]
+        },
+        {
+          "answer": "Barbara",
+          "display": "#6",
+          "aliases": [
+            "Barb"
+          ]
+        },
+        {
+          "answer": "Susan",
+          "display": "#7",
+          "aliases": [
+            "Sue"
+          ]
+        },
+        {
+          "answer": "Jessica",
+          "display": "#8",
+          "aliases": [
+            "Jess"
+          ]
+        },
+        {
+          "answer": "Karen",
+          "display": "#9"
+        },
+        {
+          "answer": "Sarah",
+          "display": "#10"
+        },
+        {
+          "answer": "Lisa",
+          "display": "#11"
+        },
+        {
+          "answer": "Nancy",
+          "display": "#12"
+        },
+        {
+          "answer": "Sandra",
+          "display": "#13",
+          "aliases": [
+            "Sandy"
+          ]
+        }
+      ]
+    }
+  ]
+}

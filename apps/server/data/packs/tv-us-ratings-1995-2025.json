@@ -1,0 +1,644 @@
+{
+  "categories": [
+    {
+      "path": "tv/us-ratings",
+      "name": "US TV ratings"
+    }
+  ],
+  "questions": [
+    {
+      "category": "tv/us-ratings",
+      "question": "Top 10 highest-rated US TV programs of the 1995–96 season (Nielsen ratings)",
+      "cutoff": 10,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1306303452 | table 1 | name: Program | value: Rank | order: asc",
+      "tags": [
+        "tv",
+        "nielsen",
+        "ratings"
+      ],
+      "answers": [
+        {
+          "answer": "ER",
+          "display": "#1 — NBC (22.0 rating)"
+        },
+        {
+          "answer": "Seinfeld",
+          "display": "#2 — NBC (21.2 rating)"
+        },
+        {
+          "answer": "Friends",
+          "display": "#3 — NBC (18.7 rating)"
+        },
+        {
+          "answer": "Caroline in the City",
+          "display": "#4 — NBC (18.0 rating)"
+        },
+        {
+          "answer": "Monday Night Football",
+          "display": "#5 — ABC (17.1 rating)",
+          "aliases": [
+            "MNF"
+          ]
+        },
+        {
+          "answer": "The Single Guy",
+          "display": "#6 — NBC (16.7 rating)",
+          "aliases": [
+            "Single Guy"
+          ]
+        },
+        {
+          "answer": "Home Improvement",
+          "display": "#7 — ABC (16.1 rating)"
+        },
+        {
+          "answer": "Boston Common",
+          "display": "#8 — NBC (15.6 rating)"
+        },
+        {
+          "answer": "60 Minutes",
+          "display": "#9 — CBS (14.2 rating)",
+          "aliases": [
+            "Sixty Minutes"
+          ]
+        },
+        {
+          "answer": "NYPD Blue",
+          "display": "#10 — ABC (14.1 rating)"
+        },
+        {
+          "answer": "20/20",
+          "display": "#11 — ABC (13.6 rating)"
+        },
+        {
+          "answer": "Frasier",
+          "display": "#11 — NBC (13.6 rating)"
+        },
+        {
+          "answer": "Grace Under Fire",
+          "display": "#13 — ABC (13.2 rating)"
+        }
+      ]
+    },
+    {
+      "category": "tv/us-ratings",
+      "question": "Top 10 highest-rated US TV programs of the 1996–97 season (Nielsen ratings)",
+      "cutoff": 10,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1307483108 | table 1 | name: Program | value: Rank | order: asc",
+      "tags": [
+        "tv",
+        "nielsen",
+        "ratings"
+      ],
+      "answers": [
+        {
+          "answer": "ER",
+          "display": "#1 — NBC (21.2 rating)"
+        },
+        {
+          "answer": "Seinfeld",
+          "display": "#2 — NBC (20.5 rating)"
+        },
+        {
+          "answer": "Suddenly Susan",
+          "display": "#3 — NBC (17.0 rating)"
+        },
+        {
+          "answer": "Friends",
+          "display": "#4 — NBC (16.8 rating)"
+        },
+        {
+          "answer": "The Naked Truth",
+          "display": "#4 — NBC (16.8 rating)"
+        },
+        {
+          "answer": "Fired Up",
+          "display": "#6 — NBC (16.5 rating)"
+        },
+        {
+          "answer": "Monday Night Football",
+          "display": "#7 — ABC (16.0 rating)",
+          "aliases": [
+            "MNF"
+          ]
+        },
+        {
+          "answer": "The Single Guy",
+          "display": "#8 — NBC (14.1 rating)",
+          "aliases": [
+            "Single Guy"
+          ]
+        },
+        {
+          "answer": "Home Improvement",
+          "display": "#9 — ABC (14.0 rating)"
+        },
+        {
+          "answer": "Touched by an Angel",
+          "display": "#10 — CBS (13.6 rating)"
+        },
+        {
+          "answer": "60 Minutes",
+          "display": "#11 — CBS (13.3 rating)",
+          "aliases": [
+            "Sixty Minutes"
+          ]
+        },
+        {
+          "answer": "20/20",
+          "display": "#12 — ABC (12.8 rating)"
+        },
+        {
+          "answer": "NYPD Blue",
+          "display": "#13 — ABC (12.5 rating)"
+        }
+      ]
+    },
+    {
+      "category": "tv/us-ratings",
+      "question": "Top 9 highest-rated US TV programs of the 1997–98 season (Nielsen ratings)",
+      "cutoff": 9,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1306296549 | table 1 | name: Program | value: Rank | order: asc",
+      "tags": [
+        "tv",
+        "nielsen",
+        "ratings"
+      ],
+      "answers": [
+        {
+          "answer": "Seinfeld",
+          "display": "#1 — NBC (21.7 rating)"
+        },
+        {
+          "answer": "ER",
+          "display": "#2 — NBC (20.4 rating)"
+        },
+        {
+          "answer": "Veronica's Closet",
+          "display": "#3 — NBC (16.6 rating)"
+        },
+        {
+          "answer": "Friends",
+          "display": "#4 — NBC (16.1 rating)"
+        },
+        {
+          "answer": "Monday Night Football",
+          "display": "#5 — ABC (15.0 rating)",
+          "aliases": [
+            "MNF"
+          ]
+        },
+        {
+          "answer": "Touched by an Angel",
+          "display": "#6 — CBS (14.2 rating)"
+        },
+        {
+          "answer": "60 Minutes",
+          "display": "#7 — CBS (13.8 rating)",
+          "aliases": [
+            "Sixty Minutes"
+          ]
+        },
+        {
+          "answer": "Union Square",
+          "display": "#8 — NBC (13.6 rating)"
+        },
+        {
+          "answer": "CBS Sunday Movie",
+          "display": "#9 — CBS (13.1 rating)"
+        },
+        {
+          "answer": "Home Improvement",
+          "display": "#10 — ABC (12.0 rating)"
+        },
+        {
+          "answer": "Frasier",
+          "display": "#10 — NBC (12.0 rating)"
+        },
+        {
+          "answer": "Just Shoot Me!",
+          "display": "#12 — NBC (11.9 rating)"
+        }
+      ]
+    },
+    {
+      "category": "tv/us-ratings",
+      "question": "Top 10 highest-rated US TV programs of the 1998–99 season (Nielsen ratings)",
+      "cutoff": 10,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1306303448 | table 1 | name: Program | value: Rank | order: asc",
+      "tags": [
+        "tv",
+        "nielsen",
+        "ratings"
+      ],
+      "answers": [
+        {
+          "answer": "ER",
+          "display": "#1 — NBC (17.8 rating)"
+        },
+        {
+          "answer": "Friends",
+          "display": "#2 — NBC (15.7 rating)"
+        },
+        {
+          "answer": "Frasier",
+          "display": "#3 — NBC (15.6 rating)"
+        },
+        {
+          "answer": "Monday Night Football",
+          "display": "#4 — ABC (14.9 rating)",
+          "aliases": [
+            "MNF"
+          ]
+        },
+        {
+          "answer": "Veronica's Closet",
+          "display": "#5 — NBC (13.7 rating)"
+        },
+        {
+          "answer": "Jesse",
+          "display": "#5 — NBC (13.7 rating)"
+        },
+        {
+          "answer": "60 Minutes",
+          "display": "#7 — CBS (13.2 rating)",
+          "aliases": [
+            "Sixty Minutes"
+          ]
+        },
+        {
+          "answer": "Touched by an Angel",
+          "display": "#8 — CBS (13.1 rating)"
+        },
+        {
+          "answer": "CBS Sunday Movie",
+          "display": "#9 — CBS (12.0 rating)"
+        },
+        {
+          "answer": "Home Improvement",
+          "display": "#10 — ABC (11.0 rating)"
+        },
+        {
+          "answer": "Everybody Loves Raymond",
+          "display": "#11 — CBS (10.6 rating)",
+          "aliases": [
+            "Raymond"
+          ]
+        },
+        {
+          "answer": "NYPD Blue",
+          "display": "#12 — ABC (10.5 rating)"
+        },
+        {
+          "answer": "Law & Order",
+          "display": "#13 — NBC (10.1 rating)"
+        }
+      ]
+    },
+    {
+      "category": "tv/us-ratings",
+      "question": "Top 10 highest-rated US TV programs of the 2001–02 season (Nielsen ratings)",
+      "cutoff": 10,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1306452789 | table 1 | name: Program | value: Rank | order: asc",
+      "tags": [
+        "tv",
+        "nielsen",
+        "ratings"
+      ],
+      "answers": [
+        {
+          "answer": "Friends",
+          "display": "#1 — NBC (15.0 rating)"
+        },
+        {
+          "answer": "CSI: Crime Scene Investigation",
+          "display": "#2 — CBS (14.5 rating)",
+          "aliases": [
+            "CSI"
+          ]
+        },
+        {
+          "answer": "ER",
+          "display": "#3 — NBC (14.2 rating)"
+        },
+        {
+          "answer": "Everybody Loves Raymond",
+          "display": "#4 — CBS (12.8 rating)",
+          "aliases": [
+            "Raymond"
+          ]
+        },
+        {
+          "answer": "Law & Order",
+          "display": "#5 — NBC (12.6 rating)"
+        },
+        {
+          "answer": "Survivor",
+          "display": "#6 — CBS (11.8 rating)"
+        },
+        {
+          "answer": "Monday Night Football",
+          "display": "#7 — ABC (11.5 rating)",
+          "aliases": [
+            "MNF"
+          ]
+        },
+        {
+          "answer": "The West Wing",
+          "display": "#8 — NBC (11.4 rating)",
+          "aliases": [
+            "West Wing"
+          ]
+        },
+        {
+          "answer": "Will & Grace",
+          "display": "#9 — NBC (11.0 rating)"
+        },
+        {
+          "answer": "Leap of Faith",
+          "display": "#9 — NBC (11.0 rating)"
+        },
+        {
+          "answer": "Becker",
+          "display": "#11 — CBS (10.7 rating)"
+        },
+        {
+          "answer": "Law & Order: Special Victims Unit",
+          "display": "#12 — NBC (10.4 rating)",
+          "aliases": [
+            "SVU",
+            "Law & Order: SVU"
+          ]
+        },
+        {
+          "answer": "60 Minutes",
+          "display": "#13 — CBS (10.1 rating)",
+          "aliases": [
+            "Sixty Minutes"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "tv/us-ratings",
+      "question": "Top 10 highest-rated US TV programs of the 2014–15 season (Nielsen ratings)",
+      "cutoff": 10,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1287906287 | table 1 | name: Program | value: Rank | order: asc",
+      "tags": [
+        "tv",
+        "nielsen",
+        "ratings"
+      ],
+      "answers": [
+        {
+          "answer": "Sunday Night Football",
+          "display": "#1 — NBC (12.3 rating)",
+          "aliases": [
+            "SNF"
+          ]
+        },
+        {
+          "answer": "The Big Bang Theory",
+          "display": "#2 — CBS (11.6 rating)",
+          "aliases": [
+            "Big Bang Theory"
+          ]
+        },
+        {
+          "answer": "NCIS",
+          "display": "#2 — CBS (11.6 rating)"
+        },
+        {
+          "answer": "NCIS: New Orleans",
+          "display": "#4 — CBS (11.3 rating)",
+          "aliases": [
+            "NCIS New Orleans"
+          ]
+        },
+        {
+          "answer": "Empire",
+          "display": "#5 — FOX (10.9 rating)"
+        },
+        {
+          "answer": "Thursday Night Football",
+          "display": "#6 — CBS (10.6 rating)",
+          "aliases": [
+            "TNF"
+          ]
+        },
+        {
+          "answer": "Dancing with the Stars",
+          "display": "#7 — ABC (9.7 rating)"
+        },
+        {
+          "answer": "Criminal Minds",
+          "display": "#8 — CBS (9.0 rating)"
+        },
+        {
+          "answer": "Madam Secretary",
+          "display": "#8 — CBS (9.0 rating)"
+        },
+        {
+          "answer": "Scandal",
+          "display": "#8 — ABC (9.0 rating)"
+        },
+        {
+          "answer": "Blue Bloods",
+          "display": "#11 — CBS (8.8 rating)"
+        },
+        {
+          "answer": "The Blacklist",
+          "display": "#12 — NBC (8.7 rating)"
+        },
+        {
+          "answer": "The Voice",
+          "display": "#13 — NBC (8.5 rating)"
+        }
+      ]
+    },
+    {
+      "category": "tv/us-ratings",
+      "question": "Top 10 highest-rated US TV programs of the 2016–17 season (Nielsen ratings)",
+      "cutoff": 10,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1297316634 | table 1 | name: Program | value: Rank | order: asc",
+      "tags": [
+        "tv",
+        "nielsen",
+        "ratings"
+      ],
+      "answers": [
+        {
+          "answer": "The Big Bang Theory",
+          "display": "#1 — CBS (11.5 rating)",
+          "aliases": [
+            "Big Bang Theory"
+          ]
+        },
+        {
+          "answer": "NCIS",
+          "display": "#2 — CBS (11.4 rating)"
+        },
+        {
+          "answer": "Sunday Night Football",
+          "display": "#3 — NBC (11.1 rating)",
+          "aliases": [
+            "SNF"
+          ]
+        },
+        {
+          "answer": "Thursday Night Football",
+          "display": "#4 — CBS/NBC (9.6 rating)",
+          "aliases": [
+            "TNF"
+          ]
+        },
+        {
+          "answer": "Bull",
+          "display": "#4 — CBS (9.6 rating)"
+        },
+        {
+          "answer": "This Is Us",
+          "display": "#6 — NBC (9.4 rating)"
+        },
+        {
+          "answer": "Blue Bloods",
+          "display": "#7 — CBS (8.9 rating)"
+        },
+        {
+          "answer": "NCIS: New Orleans",
+          "display": "#8 — CBS (8.5 rating)",
+          "aliases": [
+            "NCIS New Orleans"
+          ]
+        },
+        {
+          "answer": "Dancing with the Stars",
+          "display": "#9 — ABC (8.1 rating)"
+        },
+        {
+          "answer": "NCIS: Los Angeles",
+          "display": "#10 — CBS (7.8 rating)",
+          "aliases": [
+            "NCIS LA",
+            "NCIS: LA"
+          ]
+        },
+        {
+          "answer": "60 Minutes",
+          "display": "#11 — CBS (7.7 rating)",
+          "aliases": [
+            "Sixty Minutes"
+          ]
+        },
+        {
+          "answer": "Hawaii Five-0",
+          "display": "#12 — CBS (7.6 rating)"
+        },
+        {
+          "answer": "The Voice",
+          "display": "#12 — NBC (7.6 rating)"
+        }
+      ]
+    },
+    {
+      "category": "tv/us-ratings",
+      "question": "Top 10 highest-rated US TV programs of the 2017–18 season (Nielsen ratings)",
+      "cutoff": 10,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1287906295 | table 1 | name: Program | value: Rank | order: asc",
+      "tags": [
+        "tv",
+        "nielsen",
+        "ratings"
+      ],
+      "answers": [
+        {
+          "answer": "The Big Bang Theory",
+          "display": "#1 — CBS (11.1 rating)",
+          "aliases": [
+            "Big Bang Theory"
+          ]
+        },
+        {
+          "answer": "NCIS",
+          "display": "#2 — CBS (10.3 rating)"
+        },
+        {
+          "answer": "Sunday Night Football",
+          "display": "#2 — NBC (10.3 rating)",
+          "aliases": [
+            "SNF"
+          ]
+        },
+        {
+          "answer": "This Is Us",
+          "display": "#4 — NBC (10.2 rating)"
+        },
+        {
+          "answer": "Roseanne",
+          "display": "#4 — ABC (10.2 rating)"
+        },
+        {
+          "answer": "Young Sheldon",
+          "display": "#6 — CBS (9.5 rating)"
+        },
+        {
+          "answer": "The Good Doctor",
+          "display": "#7 — ABC (9.3 rating)"
+        },
+        {
+          "answer": "Bull",
+          "display": "#8 — CBS (8.9 rating)"
+        },
+        {
+          "answer": "Thursday Night Football",
+          "display": "#9 — CBS/NBC (8.5 rating)",
+          "aliases": [
+            "TNF"
+          ]
+        },
+        {
+          "answer": "Blue Bloods",
+          "display": "#10 — CBS (8.2 rating)"
+        },
+        {
+          "answer": "NCIS: New Orleans",
+          "display": "#11 — CBS (7.8 rating)",
+          "aliases": [
+            "NCIS New Orleans"
+          ]
+        },
+        {
+          "answer": "The Voice",
+          "display": "#12 — NBC (7.1 rating)"
+        },
+        {
+          "answer": "60 Minutes",
+          "display": "#12 — CBS (7.1 rating)",
+          "aliases": [
+            "Sixty Minutes"
+          ]
+        },
+        {
+          "answer": "Grey's Anatomy",
+          "display": "#12 — ABC (7.1 rating)"
+        }
+      ]
+    }
+  ]
+}

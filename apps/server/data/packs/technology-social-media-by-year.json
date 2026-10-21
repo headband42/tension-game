@@ -1,0 +1,4057 @@
+{
+  "categories": [
+    {
+      "path": "technology/social-media/by-year",
+      "name": "Social Media by Year"
+    }
+  ],
+  "questions": [
+    {
+      "category": "technology/social-media/by-year",
+      "question": "Top 10 most-subscribed YouTube channels at the start of 2015",
+      "cutoff": 10,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=639808531 | table 1 | name: User | value: Subscribers",
+      "tags": [
+        "youtube",
+        "channels",
+        "2015"
+      ],
+      "answers": [
+        {
+          "answer": "PewDiePie",
+          "display": "32.7 million subscribers",
+          "aliases": [
+            "Felix Kjellberg"
+          ]
+        },
+        {
+          "answer": "HolaSoyGerman",
+          "display": "20.3 million subscribers"
+        },
+        {
+          "answer": "Smosh",
+          "display": "19.3 million subscribers"
+        },
+        {
+          "answer": "Rihanna",
+          "display": "15.0 million subscribers",
+          "aliases": [
+            "RihannaVEVO"
+          ]
+        },
+        {
+          "answer": "One Direction",
+          "display": "14.7 million subscribers",
+          "aliases": [
+            "OneDirectionVEVO"
+          ]
+        },
+        {
+          "answer": "Katy Perry",
+          "display": "14.4 million subscribers",
+          "aliases": [
+            "KatyPerryVEVO"
+          ]
+        },
+        {
+          "answer": "Jenna Marbles",
+          "display": "14.3 million subscribers",
+          "aliases": [
+            "JennaMarbles"
+          ]
+        },
+        {
+          "answer": "Eminem",
+          "display": "14.1 million subscribers",
+          "aliases": [
+            "EminemVEVO"
+          ]
+        },
+        {
+          "answer": "nigahiga",
+          "display": "13.4 million subscribers"
+        },
+        {
+          "answer": "Machinima",
+          "display": "12.1 million subscribers"
+        },
+        {
+          "answer": "ERB",
+          "display": "11.4 million subscribers"
+        },
+        {
+          "answer": "The Fine Brothers",
+          "display": "10.8 million subscribers",
+          "aliases": [
+            "TheFineBros"
+          ]
+        },
+        {
+          "answer": "Ray William Johnson",
+          "display": "10.8 million subscribers",
+          "aliases": [
+            "RayWilliamJohnson"
+          ]
+        },
+        {
+          "answer": "SkyDoesMinecraft",
+          "display": "10.6 million subscribers"
+        }
+      ]
+    },
+    {
+      "category": "technology/social-media/by-year",
+      "question": "Top 10 most-subscribed YouTube channels at the start of 2017 (YouTube Spotlight excluded)",
+      "cutoff": 10,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=757339173 | table 1 | name: Channel name | value: Subscribers | where: Channel name!=YouTube Spotlight",
+      "tags": [
+        "youtube",
+        "channels",
+        "2017"
+      ],
+      "answers": [
+        {
+          "answer": "PewDiePie",
+          "display": "51 million subscribers"
+        },
+        {
+          "answer": "HolaSoyGerman",
+          "display": "30 million subscribers"
+        },
+        {
+          "answer": "Justin Bieber",
+          "display": "26 million subscribers",
+          "aliases": [
+            "JustinBieberVEVO"
+          ]
+        },
+        {
+          "answer": "Rihanna",
+          "display": "23 million subscribers",
+          "aliases": [
+            "RihannaVEVO"
+          ]
+        },
+        {
+          "answer": "Smosh",
+          "display": "22 million subscribers"
+        },
+        {
+          "answer": "elrubius",
+          "display": "22 million subscribers",
+          "aliases": [
+            "elrubiusOMG"
+          ]
+        },
+        {
+          "answer": "One Direction",
+          "display": "21 million subscribers",
+          "aliases": [
+            "OneDirectionVEVO"
+          ]
+        },
+        {
+          "answer": "Taylor Swift",
+          "display": "20 million subscribers",
+          "aliases": [
+            "TaylorSwiftVEVO"
+          ]
+        },
+        {
+          "answer": "Eminem",
+          "display": "20 million subscribers",
+          "aliases": [
+            "EminemVEVO"
+          ]
+        },
+        {
+          "answer": "Katy Perry",
+          "display": "20 million subscribers",
+          "aliases": [
+            "KatyPerryVEVO"
+          ]
+        },
+        {
+          "answer": "VanossGaming",
+          "display": "19 million subscribers"
+        },
+        {
+          "answer": "nigahiga",
+          "display": "18 million subscribers"
+        },
+        {
+          "answer": "The Ellen Show",
+          "display": "18 million subscribers",
+          "aliases": [
+            "TheEllenShow"
+          ]
+        },
+        {
+          "answer": "Fernanfloo",
+          "display": "18 million subscribers"
+        }
+      ]
+    },
+    {
+      "category": "technology/social-media/by-year",
+      "question": "Top 8 most-subscribed YouTube channels at the start of 2018 (YouTube Spotlight excluded)",
+      "cutoff": 8,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=817975501 | table 1 | name: Channel name | value: Subscribers | where: Channel name!=YouTube Spotlight",
+      "tags": [
+        "youtube",
+        "channels",
+        "2018"
+      ],
+      "answers": [
+        {
+          "answer": "PewDiePie",
+          "display": "58 million subscribers"
+        },
+        {
+          "answer": "Justin Bieber",
+          "display": "33 million subscribers",
+          "aliases": [
+            "JustinBieberVEVO"
+          ]
+        },
+        {
+          "answer": "HolaSoyGerman",
+          "display": "32 million subscribers"
+        },
+        {
+          "answer": "T-Series",
+          "display": "31 million subscribers"
+        },
+        {
+          "answer": "elrubius",
+          "display": "26 million subscribers",
+          "aliases": [
+            "elrubiusOMG"
+          ]
+        },
+        {
+          "answer": "Taylor Swift",
+          "display": "26 million subscribers",
+          "aliases": [
+            "TaylorSwiftVEVO"
+          ]
+        },
+        {
+          "answer": "Rihanna",
+          "display": "26 million subscribers",
+          "aliases": [
+            "RihannaVEVO"
+          ]
+        },
+        {
+          "answer": "Katy Perry",
+          "display": "26 million subscribers",
+          "aliases": [
+            "KatyPerryVEVO"
+          ]
+        },
+        {
+          "answer": "Whindersson Nunes",
+          "display": "25 million subscribers",
+          "aliases": [
+            "whinderssonnunes"
+          ]
+        },
+        {
+          "answer": "Fernanfloo",
+          "display": "25 million subscribers"
+        },
+        {
+          "answer": "Ed Sheeran",
+          "display": "25 million subscribers"
+        },
+        {
+          "answer": "Eminem",
+          "display": "25 million subscribers",
+          "aliases": [
+            "EminemVEVO"
+          ]
+        },
+        {
+          "answer": "Dude Perfect",
+          "display": "25 million subscribers"
+        }
+      ]
+    },
+    {
+      "category": "technology/social-media/by-year",
+      "question": "Top 9 most-subscribed YouTube channels at the start of 2019",
+      "cutoff": 9,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=876226424 | table 2 | name: Channel | value: Subscribers",
+      "tags": [
+        "youtube",
+        "channels",
+        "2019"
+      ],
+      "answers": [
+        {
+          "answer": "PewDiePie",
+          "display": "79 million subscribers"
+        },
+        {
+          "answer": "T-Series",
+          "display": "78 million subscribers"
+        },
+        {
+          "answer": "5-Minute Crafts",
+          "display": "45 million subscribers"
+        },
+        {
+          "answer": "Canal KondZilla",
+          "display": "44 million subscribers"
+        },
+        {
+          "answer": "Justin Bieber",
+          "display": "42 million subscribers"
+        },
+        {
+          "answer": "SET India",
+          "display": "38 million subscribers"
+        },
+        {
+          "answer": "WWE",
+          "display": "38 million subscribers"
+        },
+        {
+          "answer": "Dude Perfect",
+          "display": "37 million subscribers"
+        },
+        {
+          "answer": "Ed Sheeran",
+          "display": "36 million subscribers"
+        },
+        {
+          "answer": "HolaSoyGerman",
+          "display": "35 million subscribers"
+        },
+        {
+          "answer": "Eminem",
+          "display": "35 million subscribers",
+          "aliases": [
+            "EminemMusic"
+          ]
+        },
+        {
+          "answer": "Whindersson Nunes",
+          "display": "33 million subscribers",
+          "aliases": [
+            "whinderssonnunes"
+          ]
+        },
+        {
+          "answer": "elrubius",
+          "display": "32 million subscribers",
+          "aliases": [
+            "elrubiusOMG"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "technology/social-media/by-year",
+      "question": "Top 10 most-subscribed YouTube channels at the start of 2021",
+      "cutoff": 10,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=997160923 | table 1 | name: Channel | value: Subscribers",
+      "tags": [
+        "youtube",
+        "channels",
+        "2021"
+      ],
+      "answers": [
+        {
+          "answer": "T-Series",
+          "display": "166 million subscribers"
+        },
+        {
+          "answer": "PewDiePie",
+          "display": "108 million subscribers"
+        },
+        {
+          "answer": "Cocomelon",
+          "display": "101 million subscribers",
+          "aliases": [
+            "Cocomelon - Nursery Rhymes"
+          ]
+        },
+        {
+          "answer": "SET India",
+          "display": "91 million subscribers"
+        },
+        {
+          "answer": "Kids Diana Show",
+          "display": "72 million subscribers"
+        },
+        {
+          "answer": "WWE",
+          "display": "71 million subscribers"
+        },
+        {
+          "answer": "5-Minute Crafts",
+          "display": "70 million subscribers"
+        },
+        {
+          "answer": "Zee Music Company",
+          "display": "66 million subscribers"
+        },
+        {
+          "answer": "Like Nastya",
+          "display": "65 million subscribers"
+        },
+        {
+          "answer": "Canal KondZilla",
+          "display": "62 million subscribers"
+        },
+        {
+          "answer": "Vlad and Nikita",
+          "display": "60 million subscribers"
+        },
+        {
+          "answer": "Justin Bieber",
+          "display": "59 million subscribers"
+        },
+        {
+          "answer": "Blackpink",
+          "display": "55 million subscribers"
+        }
+      ]
+    },
+    {
+      "category": "technology/social-media/by-year",
+      "question": "Top 9 most-subscribed YouTube channels at the start of 2025",
+      "cutoff": 9,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1266322168 | table 1 | name: Name | value: Subscribers",
+      "tags": [
+        "youtube",
+        "channels",
+        "2025"
+      ],
+      "answers": [
+        {
+          "answer": "MrBeast",
+          "display": "340 million subscribers"
+        },
+        {
+          "answer": "T-Series",
+          "display": "282 million subscribers"
+        },
+        {
+          "answer": "Cocomelon",
+          "display": "187 million subscribers",
+          "aliases": [
+            "Cocomelon - Nursery Rhymes"
+          ]
+        },
+        {
+          "answer": "SET India",
+          "display": "180 million subscribers"
+        },
+        {
+          "answer": "Vlad and Niki",
+          "display": "131 million subscribers"
+        },
+        {
+          "answer": "Kids Diana Show",
+          "display": "129 million subscribers"
+        },
+        {
+          "answer": "Like Nastya",
+          "display": "124 million subscribers"
+        },
+        {
+          "answer": "Zee Music",
+          "display": "113 million subscribers"
+        },
+        {
+          "answer": "PewDiePie",
+          "display": "110 million subscribers"
+        },
+        {
+          "answer": "Stokes Twins",
+          "display": "106 million subscribers"
+        },
+        {
+          "answer": "WWE",
+          "display": "106 million subscribers"
+        },
+        {
+          "answer": "Goldmines",
+          "display": "102 million subscribers"
+        },
+        {
+          "answer": "Sony SAB",
+          "display": "98.2 million subscribers"
+        }
+      ]
+    },
+    {
+      "category": "technology/social-media/by-year",
+      "question": "Top 10 most-followed Instagram accounts at the start of 2017 (Instagram's own account excluded)",
+      "cutoff": 10,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=756198356 | table 1 | name: Owner | value: Followers | where: Owner!~^Instagram",
+      "tags": [
+        "instagram",
+        "2017"
+      ],
+      "answers": [
+        {
+          "answer": "Selena Gomez",
+          "display": "105 million followers"
+        },
+        {
+          "answer": "Taylor Swift",
+          "display": "95 million followers"
+        },
+        {
+          "answer": "Ariana Grande",
+          "display": "92 million followers"
+        },
+        {
+          "answer": "Beyoncé",
+          "display": "90 million followers"
+        },
+        {
+          "answer": "Kim Kardashian",
+          "display": "89 million followers"
+        },
+        {
+          "answer": "Cristiano Ronaldo",
+          "display": "85 million followers"
+        },
+        {
+          "answer": "Kylie Jenner",
+          "display": "81 million followers"
+        },
+        {
+          "answer": "Dwayne Johnson",
+          "display": "73 million followers",
+          "aliases": [
+            "The Rock"
+          ]
+        },
+        {
+          "answer": "Kendall Jenner",
+          "display": "71 million followers"
+        },
+        {
+          "answer": "Nicki Minaj",
+          "display": "71 million followers"
+        },
+        {
+          "answer": "Nike",
+          "display": "68 million followers"
+        },
+        {
+          "answer": "National Geographic",
+          "display": "66 million followers",
+          "aliases": [
+            "NatGeo"
+          ]
+        },
+        {
+          "answer": "Neymar",
+          "display": "64 million followers"
+        },
+        {
+          "answer": "Lionel Messi",
+          "display": "62 million followers"
+        }
+      ]
+    },
+    {
+      "category": "technology/social-media/by-year",
+      "question": "Top 10 most-followed Instagram accounts at the start of 2020 (Instagram's own account excluded)",
+      "cutoff": 10,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=933432519 | table 1 | name: Owner | value: Followers | where: Owner!~^Instagram",
+      "tags": [
+        "instagram",
+        "2020"
+      ],
+      "answers": [
+        {
+          "answer": "Cristiano Ronaldo",
+          "display": "195 million followers"
+        },
+        {
+          "answer": "Ariana Grande",
+          "display": "170 million followers"
+        },
+        {
+          "answer": "Dwayne Johnson",
+          "display": "166 million followers",
+          "aliases": [
+            "The Rock"
+          ]
+        },
+        {
+          "answer": "Selena Gomez",
+          "display": "164 million followers"
+        },
+        {
+          "answer": "Kylie Jenner",
+          "display": "155 million followers"
+        },
+        {
+          "answer": "Kim Kardashian",
+          "display": "155 million followers"
+        },
+        {
+          "answer": "Lionel Messi",
+          "display": "139 million followers"
+        },
+        {
+          "answer": "Beyoncé",
+          "display": "137 million followers"
+        },
+        {
+          "answer": "Neymar",
+          "display": "130 million followers"
+        },
+        {
+          "answer": "National Geographic",
+          "display": "128 million followers",
+          "aliases": [
+            "NatGeo"
+          ]
+        },
+        {
+          "answer": "Taylor Swift",
+          "display": "124 million followers"
+        },
+        {
+          "answer": "Justin Bieber",
+          "display": "123 million followers"
+        },
+        {
+          "answer": "Kendall Jenner",
+          "display": "120 million followers"
+        },
+        {
+          "answer": "Nicki Minaj",
+          "display": "109 million followers"
+        }
+      ]
+    },
+    {
+      "category": "technology/social-media/by-year",
+      "question": "Top 10 most-followed X accounts at the start of 2017 (Twitter's own account excluded)",
+      "cutoff": 10,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=755925473 | table 1 | name: Owner | value: Followers | where: Account name!=@twitter",
+      "tags": [
+        "x",
+        "2017"
+      ],
+      "answers": [
+        {
+          "answer": "Katy Perry",
+          "display": "95 million followers"
+        },
+        {
+          "answer": "Justin Bieber",
+          "display": "91 million followers"
+        },
+        {
+          "answer": "Taylor Swift",
+          "display": "82 million followers"
+        },
+        {
+          "answer": "Barack Obama",
+          "display": "80 million followers"
+        },
+        {
+          "answer": "Rihanna",
+          "display": "68 million followers"
+        },
+        {
+          "answer": "YouTube",
+          "display": "66 million followers"
+        },
+        {
+          "answer": "Lady Gaga",
+          "display": "65 million followers"
+        },
+        {
+          "answer": "Ellen DeGeneres",
+          "display": "64 million followers"
+        },
+        {
+          "answer": "Justin Timberlake",
+          "display": "57 million followers"
+        },
+        {
+          "answer": "Britney Spears",
+          "display": "50 million followers"
+        },
+        {
+          "answer": "Kim Kardashian",
+          "display": "49 million followers"
+        },
+        {
+          "answer": "Cristiano Ronaldo",
+          "display": "49 million followers"
+        },
+        {
+          "answer": "Selena Gomez",
+          "display": "46 million followers"
+        },
+        {
+          "answer": "CNN Breaking News",
+          "display": "45 million followers",
+          "aliases": [
+            "CNN"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "technology/social-media/by-year",
+      "question": "Top 10 most-followed X accounts at the start of 2021 (Twitter's own account excluded)",
+      "cutoff": 10,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=996680049 | table 1 | name: Owner | value: Followers | where: Account name!=@twitter",
+      "tags": [
+        "x",
+        "2021"
+      ],
+      "answers": [
+        {
+          "answer": "Barack Obama",
+          "display": "127 million followers"
+        },
+        {
+          "answer": "Justin Bieber",
+          "display": "113 million followers"
+        },
+        {
+          "answer": "Katy Perry",
+          "display": "109 million followers"
+        },
+        {
+          "answer": "Rihanna",
+          "display": "100 million followers"
+        },
+        {
+          "answer": "Cristiano Ronaldo",
+          "display": "90 million followers"
+        },
+        {
+          "answer": "Donald Trump",
+          "display": "88 million followers"
+        },
+        {
+          "answer": "Taylor Swift",
+          "display": "87 million followers"
+        },
+        {
+          "answer": "Lady Gaga",
+          "display": "83 million followers"
+        },
+        {
+          "answer": "Ariana Grande",
+          "display": "80 million followers"
+        },
+        {
+          "answer": "Ellen DeGeneres",
+          "display": "79 million followers"
+        },
+        {
+          "answer": "YouTube",
+          "display": "72 million followers"
+        },
+        {
+          "answer": "Kim Kardashian",
+          "display": "68 million followers"
+        },
+        {
+          "answer": "Narendra Modi",
+          "display": "64 million followers"
+        },
+        {
+          "answer": "Justin Timberlake",
+          "display": "64 million followers"
+        }
+      ]
+    },
+    {
+      "category": "technology/social-media/by-year",
+      "question": "Top 10 most-followed X accounts at the start of 2026 (Twitter's own account excluded)",
+      "cutoff": 10,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1328741262 | table 1 | name: Owner | value: Followers | where: Username!=@twitter",
+      "tags": [
+        "x",
+        "2026"
+      ],
+      "answers": [
+        {
+          "answer": "Elon Musk",
+          "display": "230.7 million followers"
+        },
+        {
+          "answer": "Barack Obama",
+          "display": "118.8 million followers"
+        },
+        {
+          "answer": "Donald Trump",
+          "display": "108.6 million followers"
+        },
+        {
+          "answer": "Narendra Modi",
+          "display": "105.9 million followers"
+        },
+        {
+          "answer": "Cristiano Ronaldo",
+          "display": "105.3 million followers"
+        },
+        {
+          "answer": "Rihanna",
+          "display": "96.2 million followers"
+        },
+        {
+          "answer": "Justin Bieber",
+          "display": "89.8 million followers"
+        },
+        {
+          "answer": "NASA",
+          "display": "87.8 million followers"
+        },
+        {
+          "answer": "Katy Perry",
+          "display": "85.0 million followers"
+        },
+        {
+          "answer": "Taylor Swift",
+          "display": "78.8 million followers"
+        },
+        {
+          "answer": "Lady Gaga",
+          "display": "70.3 million followers"
+        },
+        {
+          "answer": "Kim Kardashian",
+          "display": "68.5 million followers"
+        },
+        {
+          "answer": "YouTube",
+          "display": "68.0 million followers"
+        },
+        {
+          "answer": "Virat Kohli",
+          "display": "65.8 million followers"
+        }
+      ]
+    },
+    {
+      "category": "technology/social-media/by-year",
+      "question": "Top 10 most-viewed YouTube videos at the start of 2013",
+      "cutoff": 10,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=530586330 | table 1 | name: Video name | value: Number of views",
+      "tags": [
+        "youtube",
+        "videos",
+        "2013"
+      ],
+      "answers": [
+        {
+          "answer": "Gangnam Style",
+          "display": "1.05 billion views"
+        },
+        {
+          "answer": "Baby",
+          "display": "0.81 billion views"
+        },
+        {
+          "answer": "On the Floor",
+          "display": "0.63 billion views"
+        },
+        {
+          "answer": "Love the Way You Lie",
+          "display": "0.52 billion views"
+        },
+        {
+          "answer": "Party Rock Anthem",
+          "display": "0.51 billion views"
+        },
+        {
+          "answer": "Waka Waka (This Time for Africa)",
+          "display": "0.50 billion views",
+          "aliases": [
+            "Waka Waka"
+          ]
+        },
+        {
+          "answer": "Charlie Bit My Finger – Again!",
+          "display": "0.50 billion views"
+        },
+        {
+          "answer": "Bad Romance",
+          "display": "0.50 billion views"
+        },
+        {
+          "answer": "Ai Se Eu Te Pego",
+          "display": "0.47 billion views"
+        },
+        {
+          "answer": "Danza Kuduro",
+          "display": "0.41 billion views"
+        },
+        {
+          "answer": "Not Afraid",
+          "display": "0.38 billion views"
+        },
+        {
+          "answer": "Rain Over Me",
+          "display": "0.37 billion views"
+        },
+        {
+          "answer": "Rolling in the Deep",
+          "display": "0.36 billion views"
+        }
+      ]
+    },
+    {
+      "category": "technology/social-media/by-year",
+      "question": "Top 10 most-viewed YouTube videos at the start of 2015",
+      "cutoff": 10,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=640110029 | table 1 | name: Video name | value: Views",
+      "tags": [
+        "youtube",
+        "videos",
+        "2015"
+      ],
+      "answers": [
+        {
+          "answer": "Gangnam Style",
+          "display": "2.19 billion views"
+        },
+        {
+          "answer": "Baby",
+          "display": "1.12 billion views"
+        },
+        {
+          "answer": "Charlie Bit My Finger – Again!",
+          "display": "0.81 billion views"
+        },
+        {
+          "answer": "On the Floor",
+          "display": "0.80 billion views"
+        },
+        {
+          "answer": "Party Rock Anthem",
+          "display": "0.79 billion views"
+        },
+        {
+          "answer": "Waka Waka (This Time for Africa)",
+          "display": "0.79 billion views",
+          "aliases": [
+            "Waka Waka"
+          ]
+        },
+        {
+          "answer": "Love the Way You Lie",
+          "display": "0.79 billion views"
+        },
+        {
+          "answer": "Gentleman",
+          "display": "0.78 billion views"
+        },
+        {
+          "answer": "Dark Horse",
+          "display": "0.75 billion views"
+        },
+        {
+          "answer": "Roar",
+          "display": "0.74 billion views"
+        },
+        {
+          "answer": "Wrecking Ball",
+          "display": "0.73 billion views"
+        },
+        {
+          "answer": "Danza Kuduro",
+          "display": "0.62 billion views"
+        },
+        {
+          "answer": "Thrift Shop",
+          "display": "0.62 billion views"
+        }
+      ]
+    },
+    {
+      "category": "technology/social-media/by-year",
+      "question": "Top 10 most-viewed YouTube videos at the start of 2016",
+      "cutoff": 10,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=697660542 | table 1 | name: Video name | value: Views",
+      "tags": [
+        "youtube",
+        "videos",
+        "2016"
+      ],
+      "answers": [
+        {
+          "answer": "Gangnam Style",
+          "display": "2.49 billion views"
+        },
+        {
+          "answer": "Blank Space",
+          "display": "1.37 billion views"
+        },
+        {
+          "answer": "See You Again",
+          "display": "1.30 billion views"
+        },
+        {
+          "answer": "Baby",
+          "display": "1.27 billion views"
+        },
+        {
+          "answer": "Uptown Funk",
+          "display": "1.25 billion views"
+        },
+        {
+          "answer": "Shake It Off",
+          "display": "1.24 billion views"
+        },
+        {
+          "answer": "Dark Horse",
+          "display": "1.23 billion views"
+        },
+        {
+          "answer": "Bailando",
+          "display": "1.22 billion views"
+        },
+        {
+          "answer": "Roar",
+          "display": "1.20 billion views"
+        },
+        {
+          "answer": "All About That Bass",
+          "display": "1.19 billion views"
+        },
+        {
+          "answer": "Wheels on the Bus",
+          "display": "1.10 billion views"
+        },
+        {
+          "answer": "Counting Stars",
+          "display": "1.09 billion views"
+        },
+        {
+          "answer": "Chandelier",
+          "display": "1.06 billion views"
+        }
+      ]
+    },
+    {
+      "category": "technology/social-media/by-year",
+      "question": "Top 10 most-viewed YouTube videos at the start of 2018",
+      "cutoff": 10,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=818000701 | table 1 | name: Video name | value: Views",
+      "tags": [
+        "youtube",
+        "videos",
+        "2018"
+      ],
+      "answers": [
+        {
+          "answer": "Despacito",
+          "display": "4.61 billion views"
+        },
+        {
+          "answer": "See You Again",
+          "display": "3.31 billion views"
+        },
+        {
+          "answer": "Gangnam Style",
+          "display": "3.04 billion views"
+        },
+        {
+          "answer": "Shape of You",
+          "display": "2.95 billion views"
+        },
+        {
+          "answer": "Sorry",
+          "display": "2.86 billion views"
+        },
+        {
+          "answer": "Uptown Funk",
+          "display": "2.85 billion views"
+        },
+        {
+          "answer": "Masha and the Bear: Recipe for Disaster",
+          "display": "2.73 billion views",
+          "aliases": [
+            "Masha and the Bear"
+          ]
+        },
+        {
+          "answer": "Sugar",
+          "display": "2.48 billion views"
+        },
+        {
+          "answer": "Shake It Off",
+          "display": "2.46 billion views"
+        },
+        {
+          "answer": "Bailando",
+          "display": "2.45 billion views"
+        },
+        {
+          "answer": "Roar",
+          "display": "2.38 billion views"
+        },
+        {
+          "answer": "Lean On",
+          "display": "2.24 billion views"
+        },
+        {
+          "answer": "Blank Space",
+          "display": "2.24 billion views"
+        },
+        {
+          "answer": "Dark Horse",
+          "display": "2.20 billion views"
+        }
+      ]
+    },
+    {
+      "category": "technology/social-media/by-year",
+      "question": "Top 10 most-viewed YouTube videos at the start of 2021",
+      "cutoff": 10,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=997509574 | table 1 | name: Video name | value: Views",
+      "tags": [
+        "youtube",
+        "videos",
+        "2021"
+      ],
+      "answers": [
+        {
+          "answer": "Baby Shark Dance",
+          "display": "7.57 billion views"
+        },
+        {
+          "answer": "Despacito",
+          "display": "7.13 billion views"
+        },
+        {
+          "answer": "Shape of You",
+          "display": "5.13 billion views"
+        },
+        {
+          "answer": "See You Again",
+          "display": "4.89 billion views"
+        },
+        {
+          "answer": "Johny Johny Yes Papa",
+          "display": "4.50 billion views"
+        },
+        {
+          "answer": "Masha and the Bear – Recipe for Disaster",
+          "display": "4.39 billion views",
+          "aliases": [
+            "Masha and the Bear"
+          ]
+        },
+        {
+          "answer": "Uptown Funk",
+          "display": "4.05 billion views"
+        },
+        {
+          "answer": "Gangnam Style",
+          "display": "3.91 billion views"
+        },
+        {
+          "answer": "Learning Colors – Colorful Eggs on a Farm",
+          "display": "3.65 billion views"
+        },
+        {
+          "answer": "Bath Song",
+          "display": "3.46 billion views"
+        },
+        {
+          "answer": "Sorry",
+          "display": "3.38 billion views"
+        },
+        {
+          "answer": "Phonics Song with Two Words",
+          "display": "3.38 billion views"
+        },
+        {
+          "answer": "Sugar",
+          "display": "3.36 billion views"
+        },
+        {
+          "answer": "Roar",
+          "display": "3.23 billion views"
+        }
+      ]
+    },
+    {
+      "category": "technology/social-media/by-year",
+      "question": "Top 10 most-followed TikTok accounts at the start of 2020 (TikTok, TikTok India and Musical.ly accounts excluded)",
+      "cutoff": 10,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=933273469 | table 1 | name: Owner | value: Followers | where: Owner!~^(Musical|TikTok)",
+      "tags": [
+        "tiktok",
+        "2020"
+      ],
+      "answers": [
+        {
+          "answer": "Loren Gray",
+          "display": "36.3 million followers"
+        },
+        {
+          "answer": "Baby Ariel",
+          "display": "30.0 million followers"
+        },
+        {
+          "answer": "Zach King",
+          "display": "28.9 million followers"
+        },
+        {
+          "answer": "Riyaz Aly",
+          "display": "25.1 million followers"
+        },
+        {
+          "answer": "Kristen Hancher",
+          "display": "23.2 million followers"
+        },
+        {
+          "answer": "Gil Croes",
+          "display": "22.7 million followers"
+        },
+        {
+          "answer": "Flighthouse",
+          "display": "21.8 million followers"
+        },
+        {
+          "answer": "Nisha Guragain",
+          "display": "21.7 million followers"
+        },
+        {
+          "answer": "Jacob Sartorius",
+          "display": "21.7 million followers"
+        },
+        {
+          "answer": "Awez Darbar",
+          "display": "20.8 million followers"
+        },
+        {
+          "answer": "Arishfa Khan",
+          "display": "20.5 million followers"
+        },
+        {
+          "answer": "Jiff Pom",
+          "display": "20.4 million followers"
+        },
+        {
+          "answer": "Jannat Zubair Rahmani",
+          "display": "20.3 million followers"
+        },
+        {
+          "answer": "Jayden Croes",
+          "display": "19.3 million followers"
+        }
+      ]
+    },
+    {
+      "category": "technology/social-media/by-year",
+      "question": "Top 10 most-followed TikTok accounts at the start of 2021 (TikTok's own account excluded)",
+      "cutoff": 10,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=997510470 | table 1 | name: Owner | value: Followers | where: Username!=@tiktok",
+      "tags": [
+        "tiktok",
+        "2021"
+      ],
+      "answers": [
+        {
+          "answer": "Charli D'Amelio",
+          "display": "104.5 million followers"
+        },
+        {
+          "answer": "Addison Rae",
+          "display": "73.1 million followers"
+        },
+        {
+          "answer": "Zach King",
+          "display": "54.2 million followers"
+        },
+        {
+          "answer": "Bella Poarch",
+          "display": "50.8 million followers"
+        },
+        {
+          "answer": "Spencer Polanco Knight",
+          "display": "50.6 million followers"
+        },
+        {
+          "answer": "Loren Gray",
+          "display": "50.4 million followers"
+        },
+        {
+          "answer": "Dixie D'Amelio",
+          "display": "47.5 million followers"
+        },
+        {
+          "answer": "Will Smith",
+          "display": "46.0 million followers"
+        },
+        {
+          "answer": "Michael Le",
+          "display": "43.8 million followers"
+        },
+        {
+          "answer": "Riyaz Aly",
+          "display": "43.7 million followers"
+        },
+        {
+          "answer": "Jason Derulo",
+          "display": "42.0 million followers"
+        },
+        {
+          "answer": "Brent Rivera",
+          "display": "35.5 million followers"
+        },
+        {
+          "answer": "Baby Ariel",
+          "display": "35.2 million followers"
+        }
+      ]
+    },
+    {
+      "category": "technology/social-media/by-year",
+      "question": "Top 10 most-followed TikTok accounts at the start of 2022 (TikTok's own account excluded)",
+      "cutoff": 10,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1062579251 | table 1 | name: Owner | value: Followers | where: Username!=@tiktok",
+      "tags": [
+        "tiktok",
+        "2022"
+      ],
+      "answers": [
+        {
+          "answer": "Charli D'Amelio",
+          "display": "132.4 million followers"
+        },
+        {
+          "answer": "Khaby Lame",
+          "display": "124.6 million followers",
+          "aliases": [
+            "Khabane Lame"
+          ]
+        },
+        {
+          "answer": "Bella Poarch",
+          "display": "87.0 million followers"
+        },
+        {
+          "answer": "Addison Rae",
+          "display": "86 million followers"
+        },
+        {
+          "answer": "Zach King",
+          "display": "66.6 million followers"
+        },
+        {
+          "answer": "Will Smith",
+          "display": "64.3 million followers"
+        },
+        {
+          "answer": "Kimberly Loaiza",
+          "display": "57 million followers"
+        },
+        {
+          "answer": "Dixie D'Amelio",
+          "display": "56.3 million followers"
+        },
+        {
+          "answer": "Spencer Polanco Knight",
+          "display": "55 million followers"
+        },
+        {
+          "answer": "Burak Özdemir",
+          "display": "54.6 million followers"
+        },
+        {
+          "answer": "Loren Gray",
+          "display": "54.3 million followers"
+        },
+        {
+          "answer": "Michael Le",
+          "display": "51.5 million followers"
+        },
+        {
+          "answer": "Jason Derulo",
+          "display": "51 million followers"
+        },
+        {
+          "answer": "Dominik Lipa",
+          "display": "46 million followers"
+        }
+      ]
+    },
+    {
+      "category": "technology/social-media/by-year",
+      "question": "Top 10 most-followed TikTok accounts at the start of 2025 (TikTok's own account excluded)",
+      "cutoff": 10,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1266492969 | table 1 | name: Owner | value: Followers | where: Username!=@tiktok",
+      "tags": [
+        "tiktok",
+        "2025"
+      ],
+      "answers": [
+        {
+          "answer": "Khaby Lame",
+          "display": "162.5 million followers",
+          "aliases": [
+            "Khabane Lame"
+          ]
+        },
+        {
+          "answer": "Charli D'Amelio",
+          "display": "155.7 million followers"
+        },
+        {
+          "answer": "MrBeast",
+          "display": "106.4 million followers"
+        },
+        {
+          "answer": "Bella Poarch",
+          "display": "94.4 million followers"
+        },
+        {
+          "answer": "Addison Rae",
+          "display": "88.7 million followers"
+        },
+        {
+          "answer": "Kimberly Loaiza",
+          "display": "82.9 million followers"
+        },
+        {
+          "answer": "Zach King",
+          "display": "82.1 million followers"
+        },
+        {
+          "answer": "Dominik Lipa",
+          "display": "76.6 million followers"
+        },
+        {
+          "answer": "Dwayne Johnson",
+          "display": "75.1 million followers",
+          "aliases": [
+            "The Rock"
+          ]
+        },
+        {
+          "answer": "CZN Burak",
+          "display": "74.9 million followers",
+          "aliases": [
+            "Burak Özdemir"
+          ]
+        },
+        {
+          "answer": "Will Smith",
+          "display": "74.8 million followers"
+        },
+        {
+          "answer": "BTS",
+          "display": "71.1 million followers"
+        },
+        {
+          "answer": "Billie Eilish",
+          "display": "68.7 million followers"
+        },
+        {
+          "answer": "Jason Derulo",
+          "display": "65.2 million followers"
+        }
+      ]
+    },
+    {
+      "category": "technology/social-media/by-year",
+      "question": "Top 9 most-subscribed YouTube channels at the start of 2016 (YouTube Spotlight excluded)",
+      "cutoff": 9,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=697648696 | table 1 | name: User | value: Subscribers | where: User!=YouTube Spotlight",
+      "tags": [
+        "youtube",
+        "channels",
+        "2016"
+      ],
+      "answers": [
+        {
+          "answer": "PewDiePie",
+          "display": "41 million subscribers"
+        },
+        {
+          "answer": "HolaSoyGerman",
+          "display": "25 million subscribers"
+        },
+        {
+          "answer": "Smosh",
+          "display": "21 million subscribers"
+        },
+        {
+          "answer": "One Direction",
+          "display": "18 million subscribers",
+          "aliases": [
+            "OneDirectionVEVO"
+          ]
+        },
+        {
+          "answer": "Rihanna",
+          "display": "18 million subscribers",
+          "aliases": [
+            "RihannaVEVO"
+          ]
+        },
+        {
+          "answer": "Katy Perry",
+          "display": "17 million subscribers",
+          "aliases": [
+            "KatyPerryVEVO"
+          ]
+        },
+        {
+          "answer": "Taylor Swift",
+          "display": "17 million subscribers",
+          "aliases": [
+            "TaylorSwiftVEVO"
+          ]
+        },
+        {
+          "answer": "Eminem",
+          "display": "17 million subscribers",
+          "aliases": [
+            "EminemVEVO"
+          ]
+        },
+        {
+          "answer": "Justin Bieber",
+          "display": "16 million subscribers",
+          "aliases": [
+            "JustinBieberVEVO"
+          ]
+        },
+        {
+          "answer": "nigahiga",
+          "display": "15 million subscribers"
+        },
+        {
+          "answer": "Jenna Marbles",
+          "display": "15 million subscribers",
+          "aliases": [
+            "JennaMarbles"
+          ]
+        },
+        {
+          "answer": "VanossGaming",
+          "display": "15 million subscribers"
+        },
+        {
+          "answer": "El Rubius",
+          "display": "15 million subscribers",
+          "aliases": [
+            "elrubiusOMG",
+            "elrubius"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "technology/social-media/by-year",
+      "question": "Top 10 most-subscribed YouTube channels at the start of 2020",
+      "cutoff": 10,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=933295252 | table 1 | name: Channel | value: Subscribers",
+      "tags": [
+        "youtube",
+        "channels",
+        "2020"
+      ],
+      "answers": [
+        {
+          "answer": "T-Series",
+          "display": "123 million subscribers"
+        },
+        {
+          "answer": "PewDiePie",
+          "display": "102 million subscribers"
+        },
+        {
+          "answer": "Cocomelon",
+          "display": "68 million subscribers"
+        },
+        {
+          "answer": "5-Minute Crafts",
+          "display": "63 million subscribers"
+        },
+        {
+          "answer": "SET India",
+          "display": "62 million subscribers"
+        },
+        {
+          "answer": "Canal KondZilla",
+          "display": "54 million subscribers"
+        },
+        {
+          "answer": "WWE",
+          "display": "52 million subscribers"
+        },
+        {
+          "answer": "Zee Music Company",
+          "display": "48 million subscribers"
+        },
+        {
+          "answer": "Dude Perfect",
+          "display": "47 million subscribers"
+        },
+        {
+          "answer": "Justin Bieber",
+          "display": "47 million subscribers"
+        },
+        {
+          "answer": "Like Nastya Vlog",
+          "display": "43 million subscribers"
+        },
+        {
+          "answer": "Ed Sheeran",
+          "display": "43 million subscribers"
+        },
+        {
+          "answer": "Kids Diana Show",
+          "display": "42 million subscribers"
+        },
+        {
+          "answer": "Badabun",
+          "display": "42 million subscribers"
+        }
+      ]
+    },
+    {
+      "category": "technology/social-media/by-year",
+      "question": "Top 10 most-subscribed YouTube channels at the start of 2022",
+      "cutoff": 10,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1063042127 | table 1 | name: Channel | value: Subscribers",
+      "tags": [
+        "youtube",
+        "channels",
+        "2022"
+      ],
+      "answers": [
+        {
+          "answer": "T-Series",
+          "display": "203 million subscribers"
+        },
+        {
+          "answer": "Cocomelon",
+          "display": "125 million subscribers"
+        },
+        {
+          "answer": "SET India",
+          "display": "122 million subscribers"
+        },
+        {
+          "answer": "PewDiePie",
+          "display": "111 million subscribers"
+        },
+        {
+          "answer": "MrBeast",
+          "display": "86.6 million subscribers"
+        },
+        {
+          "answer": "Kids Diana Show",
+          "display": "86.6 million subscribers"
+        },
+        {
+          "answer": "WWE",
+          "display": "84.4 million subscribers"
+        },
+        {
+          "answer": "Like Nastya",
+          "display": "84.4 million subscribers"
+        },
+        {
+          "answer": "Zee Music Company",
+          "display": "80.2 million subscribers"
+        },
+        {
+          "answer": "Vlad and Niki",
+          "display": "76.5 million subscribers"
+        },
+        {
+          "answer": "5-Minute Crafts",
+          "display": "75.1 million subscribers"
+        },
+        {
+          "answer": "Blackpink",
+          "display": "70.9 million subscribers"
+        },
+        {
+          "answer": "Justin Bieber",
+          "display": "66.8 million subscribers"
+        }
+      ]
+    },
+    {
+      "category": "technology/social-media/by-year",
+      "question": "Top 10 most-viewed YouTube videos at the start of 2014",
+      "cutoff": 10,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=588523558 | table 1 | name: Video name | value: Views",
+      "tags": [
+        "youtube",
+        "videos",
+        "2014"
+      ],
+      "answers": [
+        {
+          "answer": "Gangnam Style",
+          "display": "1.86 billion views",
+          "aliases": [
+            "PSY Gangnam Style"
+          ]
+        },
+        {
+          "answer": "Baby",
+          "display": "0.96 billion views",
+          "aliases": [
+            "Justin Bieber Baby"
+          ]
+        },
+        {
+          "answer": "On the Floor",
+          "display": "0.72 billion views",
+          "aliases": [
+            "Jennifer Lopez On the Floor"
+          ]
+        },
+        {
+          "answer": "Love the Way You Lie",
+          "display": "0.65 billion views",
+          "aliases": [
+            "Eminem Love the Way You Lie"
+          ]
+        },
+        {
+          "answer": "Party Rock Anthem",
+          "display": "0.62 billion views",
+          "aliases": [
+            "LMFAO Party Rock Anthem"
+          ]
+        },
+        {
+          "answer": "Charlie Bit My Finger – Again!",
+          "display": "0.62 billion views"
+        },
+        {
+          "answer": "Gentleman",
+          "display": "0.61 billion views",
+          "aliases": [
+            "PSY Gentleman"
+          ]
+        },
+        {
+          "answer": "Waka Waka (This Time for Africa)",
+          "display": "0.59 billion views",
+          "aliases": [
+            "Shakira Waka Waka",
+            "Waka Waka"
+          ]
+        },
+        {
+          "answer": "Bad Romance",
+          "display": "0.56 billion views",
+          "aliases": [
+            "Lady Gaga Bad Romance"
+          ]
+        },
+        {
+          "answer": "Ai Se Eu Te Pego",
+          "display": "0.54 billion views",
+          "aliases": [
+            "Michel Teló Ai Se Eu Te Pego"
+          ]
+        },
+        {
+          "answer": "Call Me Maybe",
+          "display": "0.52 billion views",
+          "aliases": [
+            "Carly Rae Jepsen Call Me Maybe"
+          ]
+        },
+        {
+          "answer": "Danza Kuduro",
+          "display": "0.49 billion views",
+          "aliases": [
+            "Don Omar Danza Kuduro"
+          ]
+        },
+        {
+          "answer": "Thrift Shop",
+          "display": "0.47 billion views",
+          "aliases": [
+            "Macklemore Thrift Shop"
+          ]
+        },
+        {
+          "answer": "Not Afraid",
+          "display": "0.47 billion views",
+          "aliases": [
+            "Eminem Not Afraid"
+          ]
+        },
+        {
+          "answer": "What Makes You Beautiful",
+          "display": "0.47 billion views",
+          "aliases": [
+            "One Direction What Makes You Beautiful"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "technology/social-media/by-year",
+      "question": "Top 10 most-viewed YouTube videos at the start of 2019",
+      "cutoff": 10,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=876227275 | table 1 | name: Video name | value: Views",
+      "tags": [
+        "youtube",
+        "videos",
+        "2019"
+      ],
+      "answers": [
+        {
+          "answer": "Despacito",
+          "display": "5.84 billion views",
+          "aliases": [
+            "Luis Fonsi Despacito"
+          ]
+        },
+        {
+          "answer": "Shape of You",
+          "display": "3.98 billion views",
+          "aliases": [
+            "Ed Sheeran Shape of You"
+          ]
+        },
+        {
+          "answer": "See You Again",
+          "display": "3.94 billion views",
+          "aliases": [
+            "Wiz Khalifa See You Again"
+          ]
+        },
+        {
+          "answer": "Uptown Funk",
+          "display": "3.41 billion views",
+          "aliases": [
+            "Mark Ronson Uptown Funk"
+          ]
+        },
+        {
+          "answer": "Masha and the Bear – Recipe for Disaster",
+          "display": "3.38 billion views"
+        },
+        {
+          "answer": "Gangnam Style",
+          "display": "3.26 billion views",
+          "aliases": [
+            "PSY Gangnam Style"
+          ]
+        },
+        {
+          "answer": "Sorry",
+          "display": "3.06 billion views",
+          "aliases": [
+            "Justin Bieber Sorry"
+          ]
+        },
+        {
+          "answer": "Sugar",
+          "display": "2.85 billion views",
+          "aliases": [
+            "Maroon 5 Sugar"
+          ]
+        },
+        {
+          "answer": "Shake It Off",
+          "display": "2.71 billion views",
+          "aliases": [
+            "Taylor Swift Shake It Off"
+          ]
+        },
+        {
+          "answer": "Roar",
+          "display": "2.70 billion views",
+          "aliases": [
+            "Katy Perry Roar"
+          ]
+        },
+        {
+          "answer": "Bailando",
+          "display": "2.66 billion views",
+          "aliases": [
+            "Enrique Iglesias Bailando"
+          ]
+        },
+        {
+          "answer": "Thinking Out Loud",
+          "display": "2.60 billion views",
+          "aliases": [
+            "Ed Sheeran Thinking Out Loud"
+          ]
+        },
+        {
+          "answer": "Counting Stars",
+          "display": "2.59 billion views",
+          "aliases": [
+            "OneRepublic Counting Stars"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "technology/social-media/by-year",
+      "question": "Top 10 most-viewed YouTube videos at the start of 2020",
+      "cutoff": 10,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=933432838 | table 1 | name: Video name | value: Views",
+      "tags": [
+        "youtube",
+        "videos",
+        "2020"
+      ],
+      "answers": [
+        {
+          "answer": "Despacito",
+          "display": "6.58 billion views",
+          "aliases": [
+            "Luis Fonsi Despacito"
+          ]
+        },
+        {
+          "answer": "Shape of You",
+          "display": "4.55 billion views",
+          "aliases": [
+            "Ed Sheeran Shape of You"
+          ]
+        },
+        {
+          "answer": "See You Again",
+          "display": "4.35 billion views",
+          "aliases": [
+            "Wiz Khalifa See You Again"
+          ]
+        },
+        {
+          "answer": "Baby Shark Dance",
+          "display": "4.25 billion views",
+          "aliases": [
+            "Pinkfong Baby Shark Dance"
+          ]
+        },
+        {
+          "answer": "Masha and the Bear – Recipe for Disaster",
+          "display": "4.21 billion views"
+        },
+        {
+          "answer": "Uptown Funk",
+          "display": "3.75 billion views",
+          "aliases": [
+            "Mark Ronson Uptown Funk"
+          ]
+        },
+        {
+          "answer": "Gangnam Style",
+          "display": "3.49 billion views",
+          "aliases": [
+            "PSY Gangnam Style"
+          ]
+        },
+        {
+          "answer": "Sorry",
+          "display": "3.23 billion views",
+          "aliases": [
+            "Justin Bieber Sorry"
+          ]
+        },
+        {
+          "answer": "Sugar",
+          "display": "3.10 billion views",
+          "aliases": [
+            "Maroon 5 Sugar"
+          ]
+        },
+        {
+          "answer": "Roar",
+          "display": "2.98 billion views",
+          "aliases": [
+            "Katy Perry Roar"
+          ]
+        },
+        {
+          "answer": "Counting Stars",
+          "display": "2.90 billion views",
+          "aliases": [
+            "OneRepublic Counting Stars"
+          ]
+        },
+        {
+          "answer": "Thinking Out Loud",
+          "display": "2.88 billion views",
+          "aliases": [
+            "Ed Sheeran Thinking Out Loud"
+          ]
+        },
+        {
+          "answer": "Shake It Off",
+          "display": "2.86 billion views",
+          "aliases": [
+            "Taylor Swift Shake It Off"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "technology/social-media/by-year",
+      "question": "Top 10 most-viewed YouTube videos at the start of 2022",
+      "cutoff": 10,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1062872527 | table 1 | name: Video name | value: Views",
+      "tags": [
+        "youtube",
+        "videos",
+        "2022"
+      ],
+      "answers": [
+        {
+          "answer": "Baby Shark Dance",
+          "display": "9.92 billion views",
+          "aliases": [
+            "Pinkfong Baby Shark Dance"
+          ]
+        },
+        {
+          "answer": "Despacito",
+          "display": "7.68 billion views",
+          "aliases": [
+            "Luis Fonsi Despacito"
+          ]
+        },
+        {
+          "answer": "Johny Johny Yes Papa",
+          "display": "6.07 billion views"
+        },
+        {
+          "answer": "Shape of You",
+          "display": "5.57 billion views",
+          "aliases": [
+            "Ed Sheeran Shape of You"
+          ]
+        },
+        {
+          "answer": "See You Again",
+          "display": "5.37 billion views",
+          "aliases": [
+            "Wiz Khalifa See You Again"
+          ]
+        },
+        {
+          "answer": "Bath Song",
+          "display": "4.81 billion views"
+        },
+        {
+          "answer": "Learning Colors – Colorful Eggs on a Farm",
+          "display": "4.54 billion views"
+        },
+        {
+          "answer": "Masha and the Bear – Recipe for Disaster",
+          "display": "4.48 billion views"
+        },
+        {
+          "answer": "Uptown Funk",
+          "display": "4.41 billion views",
+          "aliases": [
+            "Mark Ronson Uptown Funk"
+          ]
+        },
+        {
+          "answer": "Phonics Song with Two Words",
+          "display": "4.38 billion views"
+        },
+        {
+          "answer": "Gangnam Style",
+          "display": "4.29 billion views",
+          "aliases": [
+            "PSY Gangnam Style"
+          ]
+        },
+        {
+          "answer": "Dame Tu Cosita",
+          "display": "3.78 billion views",
+          "aliases": [
+            "El Chombo Dame Tu Cosita"
+          ]
+        },
+        {
+          "answer": "Sugar",
+          "display": "3.62 billion views",
+          "aliases": [
+            "Maroon 5 Sugar"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "technology/social-media/by-year",
+      "question": "Top 10 most-viewed YouTube videos at the start of 2023",
+      "cutoff": 10,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1130267147 | table 1 | name: Video name | value: Views",
+      "tags": [
+        "youtube",
+        "videos",
+        "2023"
+      ],
+      "answers": [
+        {
+          "answer": "Baby Shark Dance",
+          "display": "12.00 billion views",
+          "aliases": [
+            "Pinkfong Baby Shark Dance"
+          ]
+        },
+        {
+          "answer": "Despacito",
+          "display": "8.05 billion views",
+          "aliases": [
+            "Luis Fonsi Despacito"
+          ]
+        },
+        {
+          "answer": "Johny Johny Yes Papa",
+          "display": "6.57 billion views"
+        },
+        {
+          "answer": "Bath Song",
+          "display": "5.89 billion views"
+        },
+        {
+          "answer": "Shape of You",
+          "display": "5.88 billion views",
+          "aliases": [
+            "Ed Sheeran Shape of You"
+          ]
+        },
+        {
+          "answer": "See You Again",
+          "display": "5.74 billion views",
+          "aliases": [
+            "Wiz Khalifa See You Again"
+          ]
+        },
+        {
+          "answer": "Phonics Song with Two Words",
+          "display": "5.08 billion views"
+        },
+        {
+          "answer": "Uptown Funk",
+          "display": "4.79 billion views",
+          "aliases": [
+            "Mark Ronson Uptown Funk"
+          ]
+        },
+        {
+          "answer": "Wheels on the Bus",
+          "display": "4.77 billion views"
+        },
+        {
+          "answer": "Learning Colors – Colorful Eggs on a Farm",
+          "display": "4.76 billion views"
+        },
+        {
+          "answer": "Gangnam Style",
+          "display": "4.64 billion views",
+          "aliases": [
+            "PSY Gangnam Style"
+          ]
+        },
+        {
+          "answer": "Masha and the Bear – Recipe for Disaster",
+          "display": "4.52 billion views"
+        },
+        {
+          "answer": "Dame Tu Cosita",
+          "display": "4.18 billion views",
+          "aliases": [
+            "El Chombo Dame Tu Cosita"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "technology/social-media/by-year",
+      "question": "Top 10 most-viewed YouTube videos at the start of 2025",
+      "cutoff": 10,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1260957595 | table 1 | name: Video name | value: Views",
+      "tags": [
+        "youtube",
+        "videos",
+        "2025"
+      ],
+      "answers": [
+        {
+          "answer": "Baby Shark Dance",
+          "display": "15.36 billion views",
+          "aliases": [
+            "Pinkfong Baby Shark Dance"
+          ]
+        },
+        {
+          "answer": "Despacito",
+          "display": "8.60 billion views",
+          "aliases": [
+            "Luis Fonsi Despacito"
+          ]
+        },
+        {
+          "answer": "Johny Johny Yes Papa",
+          "display": "6.99 billion views"
+        },
+        {
+          "answer": "Bath Song",
+          "display": "6.93 billion views"
+        },
+        {
+          "answer": "Wheels on the Bus",
+          "display": "6.82 billion views"
+        },
+        {
+          "answer": "See You Again",
+          "display": "6.49 billion views",
+          "aliases": [
+            "Wiz Khalifa See You Again"
+          ]
+        },
+        {
+          "answer": "Shape of You",
+          "display": "6.38 billion views",
+          "aliases": [
+            "Ed Sheeran Shape of You"
+          ]
+        },
+        {
+          "answer": "Phonics Song with Two Words",
+          "display": "6.14 billion views"
+        },
+        {
+          "answer": "Uptown Funk",
+          "display": "5.41 billion views",
+          "aliases": [
+            "Mark Ronson Uptown Funk"
+          ]
+        },
+        {
+          "answer": "Gangnam Style",
+          "display": "5.37 billion views",
+          "aliases": [
+            "PSY Gangnam Style"
+          ]
+        },
+        {
+          "answer": "Learning Colors – Colorful Eggs on a Farm",
+          "display": "5.20 billion views"
+        },
+        {
+          "answer": "Axel F",
+          "display": "4.90 billion views",
+          "aliases": [
+            "Crazy Frog Axel F"
+          ]
+        },
+        {
+          "answer": "Dame Tu Cosita",
+          "display": "4.88 billion views",
+          "aliases": [
+            "El Chombo Dame Tu Cosita"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "technology/social-media/by-year",
+      "question": "Top 9 most-followed Instagram accounts at the start of 2018 (Instagram's own account excluded)",
+      "cutoff": 9,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=817908439 | table 1 | name: Owner | value: Followers | where: Owner!~^Instagram",
+      "tags": [
+        "instagram",
+        "2018"
+      ],
+      "answers": [
+        {
+          "answer": "Selena Gomez",
+          "display": "131 million followers"
+        },
+        {
+          "answer": "Cristiano Ronaldo",
+          "display": "118 million followers"
+        },
+        {
+          "answer": "Ariana Grande",
+          "display": "116 million followers"
+        },
+        {
+          "answer": "Beyoncé",
+          "display": "109 million followers"
+        },
+        {
+          "answer": "Kim Kardashian",
+          "display": "105 million followers",
+          "aliases": [
+            "Kim Kardashian West"
+          ]
+        },
+        {
+          "answer": "Taylor Swift",
+          "display": "105 million followers"
+        },
+        {
+          "answer": "Kylie Jenner",
+          "display": "100 million followers"
+        },
+        {
+          "answer": "Dwayne Johnson",
+          "display": "97 million followers",
+          "aliases": [
+            "The Rock"
+          ]
+        },
+        {
+          "answer": "Justin Bieber",
+          "display": "95 million followers"
+        },
+        {
+          "answer": "Kendall Jenner",
+          "display": "85 million followers"
+        },
+        {
+          "answer": "Neymar",
+          "display": "85 million followers"
+        },
+        {
+          "answer": "Nicki Minaj",
+          "display": "85 million followers"
+        },
+        {
+          "answer": "Lionel Messi",
+          "display": "85 million followers"
+        },
+        {
+          "answer": "National Geographic",
+          "display": "84 million followers"
+        }
+      ]
+    },
+    {
+      "category": "technology/social-media/by-year",
+      "question": "Top 10 most-followed Instagram accounts at the start of 2019 (Instagram's own account excluded)",
+      "cutoff": 10,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=876136542 | table 1 | name: Owner | value: Followers | where: Owner!~^Instagram",
+      "tags": [
+        "instagram",
+        "2019"
+      ],
+      "answers": [
+        {
+          "answer": "Cristiano Ronaldo",
+          "display": "149.6 million followers"
+        },
+        {
+          "answer": "Selena Gomez",
+          "display": "144.5 million followers"
+        },
+        {
+          "answer": "Ariana Grande",
+          "display": "141.0 million followers"
+        },
+        {
+          "answer": "Dwayne Johnson",
+          "display": "126.4 million followers",
+          "aliases": [
+            "The Rock"
+          ]
+        },
+        {
+          "answer": "Kim Kardashian",
+          "display": "123.5 million followers",
+          "aliases": [
+            "Kim Kardashian West"
+          ]
+        },
+        {
+          "answer": "Kylie Jenner",
+          "display": "122.7 million followers"
+        },
+        {
+          "answer": "Beyoncé",
+          "display": "122.0 million followers"
+        },
+        {
+          "answer": "Taylor Swift",
+          "display": "113.9 million followers"
+        },
+        {
+          "answer": "Neymar",
+          "display": "108.5 million followers"
+        },
+        {
+          "answer": "Lionel Messi",
+          "display": "104.5 million followers"
+        },
+        {
+          "answer": "Justin Bieber",
+          "display": "103.6 million followers"
+        },
+        {
+          "answer": "Kendall Jenner",
+          "display": "100.8 million followers"
+        },
+        {
+          "answer": "Nicki Minaj",
+          "display": "96.7 million followers"
+        },
+        {
+          "answer": "National Geographic",
+          "display": "95.9 million followers"
+        }
+      ]
+    },
+    {
+      "category": "technology/social-media/by-year",
+      "question": "Top 10 most-followed Instagram accounts at the start of 2021 (Instagram's own account excluded)",
+      "cutoff": 10,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=997477290 | table 1 | name: Owner | value: Followers | where: Owner!~^Instagram",
+      "tags": [
+        "instagram",
+        "2021"
+      ],
+      "answers": [
+        {
+          "answer": "Cristiano Ronaldo",
+          "display": "249 million followers"
+        },
+        {
+          "answer": "Ariana Grande",
+          "display": "213 million followers"
+        },
+        {
+          "answer": "Dwayne Johnson",
+          "display": "208 million followers",
+          "aliases": [
+            "The Rock"
+          ]
+        },
+        {
+          "answer": "Kylie Jenner",
+          "display": "206 million followers"
+        },
+        {
+          "answer": "Selena Gomez",
+          "display": "200 million followers"
+        },
+        {
+          "answer": "Kim Kardashian",
+          "display": "197 million followers",
+          "aliases": [
+            "Kim Kardashian West"
+          ]
+        },
+        {
+          "answer": "Lionel Messi",
+          "display": "174 million followers"
+        },
+        {
+          "answer": "Beyoncé",
+          "display": "159 million followers"
+        },
+        {
+          "answer": "Justin Bieber",
+          "display": "155 million followers"
+        },
+        {
+          "answer": "National Geographic",
+          "display": "148 million followers"
+        },
+        {
+          "answer": "Kendall Jenner",
+          "display": "145 million followers"
+        },
+        {
+          "answer": "Neymar",
+          "display": "144 million followers"
+        },
+        {
+          "answer": "Taylor Swift",
+          "display": "143 million followers"
+        },
+        {
+          "answer": "Jennifer Lopez",
+          "display": "136 million followers"
+        }
+      ]
+    },
+    {
+      "category": "technology/social-media/by-year",
+      "question": "Top 10 most-followed Instagram accounts at the start of 2022 (Instagram's own account excluded)",
+      "cutoff": 10,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1063018789 | table 1 | name: Owner | value: Followers | where: Owner!~^Instagram",
+      "tags": [
+        "instagram",
+        "2022"
+      ],
+      "answers": [
+        {
+          "answer": "Cristiano Ronaldo",
+          "display": "384 million followers"
+        },
+        {
+          "answer": "Lionel Messi",
+          "display": "295 million followers"
+        },
+        {
+          "answer": "Kylie Jenner",
+          "display": "295 million followers"
+        },
+        {
+          "answer": "Ariana Grande",
+          "display": "286 million followers"
+        },
+        {
+          "answer": "Dwayne Johnson",
+          "display": "285 million followers",
+          "aliases": [
+            "The Rock"
+          ]
+        },
+        {
+          "answer": "Selena Gomez",
+          "display": "284 million followers"
+        },
+        {
+          "answer": "Kim Kardashian",
+          "display": "274 million followers",
+          "aliases": [
+            "Kim Kardashian West"
+          ]
+        },
+        {
+          "answer": "Beyoncé",
+          "display": "228 million followers"
+        },
+        {
+          "answer": "Justin Bieber",
+          "display": "212 million followers"
+        },
+        {
+          "answer": "Kendall Jenner",
+          "display": "209 million followers"
+        },
+        {
+          "answer": "Khloé Kardashian",
+          "display": "207 million followers"
+        },
+        {
+          "answer": "National Geographic",
+          "display": "199 million followers"
+        },
+        {
+          "answer": "Taylor Swift",
+          "display": "194 million followers"
+        },
+        {
+          "answer": "Nike",
+          "display": "190 million followers"
+        },
+        {
+          "answer": "Jennifer Lopez",
+          "display": "189 million followers"
+        }
+      ]
+    },
+    {
+      "category": "technology/social-media/by-year",
+      "question": "Top 10 most-followed Instagram accounts at the start of 2023 (Instagram's own account excluded)",
+      "cutoff": 10,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1130706605 | table 1 | name: Owner | value: Followers | where: Owner!~^Instagram",
+      "tags": [
+        "instagram",
+        "2023"
+      ],
+      "answers": [
+        {
+          "answer": "Cristiano Ronaldo",
+          "display": "526 million followers"
+        },
+        {
+          "answer": "Lionel Messi",
+          "display": "412 million followers"
+        },
+        {
+          "answer": "Kylie Jenner",
+          "display": "376 million followers"
+        },
+        {
+          "answer": "Selena Gomez",
+          "display": "367 million followers"
+        },
+        {
+          "answer": "Dwayne Johnson",
+          "display": "356 million followers",
+          "aliases": [
+            "The Rock"
+          ]
+        },
+        {
+          "answer": "Ariana Grande",
+          "display": "347 million followers"
+        },
+        {
+          "answer": "Kim Kardashian",
+          "display": "338 million followers",
+          "aliases": [
+            "Kim Kardashian West"
+          ]
+        },
+        {
+          "answer": "Beyoncé",
+          "display": "288 million followers"
+        },
+        {
+          "answer": "Khloé Kardashian",
+          "display": "286 million followers"
+        },
+        {
+          "answer": "Justin Bieber",
+          "display": "271 million followers"
+        },
+        {
+          "answer": "Kendall Jenner",
+          "display": "268 million followers"
+        },
+        {
+          "answer": "Nike",
+          "display": "260 million followers"
+        },
+        {
+          "answer": "National Geographic",
+          "display": "253 million followers"
+        },
+        {
+          "answer": "Taylor Swift",
+          "display": "238 million followers"
+        },
+        {
+          "answer": "Jennifer Lopez",
+          "display": "230 million followers"
+        }
+      ]
+    },
+    {
+      "category": "technology/social-media/by-year",
+      "question": "Top 10 most-followed Instagram accounts at the start of 2024 (Instagram's own account excluded)",
+      "cutoff": 10,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1192643391 | table 1 | name: Owner | value: Followers | where: Owner!~^Instagram",
+      "tags": [
+        "instagram",
+        "2024"
+      ],
+      "answers": [
+        {
+          "answer": "Cristiano Ronaldo",
+          "display": "616 million followers"
+        },
+        {
+          "answer": "Lionel Messi",
+          "display": "496 million followers"
+        },
+        {
+          "answer": "Selena Gomez",
+          "display": "429 million followers"
+        },
+        {
+          "answer": "Kylie Jenner",
+          "display": "399 million followers"
+        },
+        {
+          "answer": "Dwayne Johnson",
+          "display": "395 million followers",
+          "aliases": [
+            "The Rock"
+          ]
+        },
+        {
+          "answer": "Ariana Grande",
+          "display": "380 million followers"
+        },
+        {
+          "answer": "Kim Kardashian",
+          "display": "364 million followers",
+          "aliases": [
+            "Kim Kardashian West"
+          ]
+        },
+        {
+          "answer": "Beyoncé",
+          "display": "319 million followers"
+        },
+        {
+          "answer": "Khloé Kardashian",
+          "display": "311 million followers"
+        },
+        {
+          "answer": "Nike",
+          "display": "306 million followers"
+        },
+        {
+          "answer": "Kendall Jenner",
+          "display": "294 million followers"
+        },
+        {
+          "answer": "Justin Bieber",
+          "display": "292 million followers"
+        },
+        {
+          "answer": "National Geographic",
+          "display": "283 million followers"
+        },
+        {
+          "answer": "Taylor Swift",
+          "display": "279 million followers"
+        },
+        {
+          "answer": "Virat Kohli",
+          "display": "265 million followers"
+        }
+      ]
+    },
+    {
+      "category": "technology/social-media/by-year",
+      "question": "Top 10 most-followed X accounts at the start of 2018 (Twitter's own account excluded)",
+      "cutoff": 10,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=817348412 | table 1 | name: Owner | value: Followers | where: Account name!=@twitter",
+      "tags": [
+        "x",
+        "2018"
+      ],
+      "answers": [
+        {
+          "answer": "Katy Perry",
+          "display": "108 million followers"
+        },
+        {
+          "answer": "Justin Bieber",
+          "display": "105 million followers"
+        },
+        {
+          "answer": "Barack Obama",
+          "display": "98 million followers"
+        },
+        {
+          "answer": "Taylor Swift",
+          "display": "86 million followers"
+        },
+        {
+          "answer": "Rihanna",
+          "display": "85 million followers"
+        },
+        {
+          "answer": "Ellen DeGeneres",
+          "display": "77 million followers"
+        },
+        {
+          "answer": "Lady Gaga",
+          "display": "76 million followers"
+        },
+        {
+          "answer": "YouTube",
+          "display": "71 million followers"
+        },
+        {
+          "answer": "Cristiano Ronaldo",
+          "display": "67 million followers"
+        },
+        {
+          "answer": "Justin Timberlake",
+          "display": "65 million followers"
+        },
+        {
+          "answer": "Kim Kardashian",
+          "display": "58 million followers",
+          "aliases": [
+            "Kim Kardashian West"
+          ]
+        },
+        {
+          "answer": "Britney Spears",
+          "display": "56 million followers"
+        },
+        {
+          "answer": "Ariana Grande",
+          "display": "56 million followers"
+        },
+        {
+          "answer": "Selena Gomez",
+          "display": "56 million followers"
+        }
+      ]
+    },
+    {
+      "category": "technology/social-media/by-year",
+      "question": "Top 9 most-followed X accounts at the start of 2020 (Twitter's own account excluded)",
+      "cutoff": 9,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=930853456 | table 1 | name: Owner | value: Followers | where: Account name!=@twitter",
+      "tags": [
+        "x",
+        "2020"
+      ],
+      "answers": [
+        {
+          "answer": "Barack Obama",
+          "display": "111 million followers"
+        },
+        {
+          "answer": "Katy Perry",
+          "display": "108 million followers"
+        },
+        {
+          "answer": "Justin Bieber",
+          "display": "107 million followers"
+        },
+        {
+          "answer": "Rihanna",
+          "display": "95 million followers"
+        },
+        {
+          "answer": "Taylor Swift",
+          "display": "85 million followers"
+        },
+        {
+          "answer": "Cristiano Ronaldo",
+          "display": "81 million followers"
+        },
+        {
+          "answer": "Lady Gaga",
+          "display": "80 million followers"
+        },
+        {
+          "answer": "Ellen DeGeneres",
+          "display": "79 million followers"
+        },
+        {
+          "answer": "YouTube",
+          "display": "72 million followers"
+        },
+        {
+          "answer": "Ariana Grande",
+          "display": "68 million followers"
+        },
+        {
+          "answer": "Donald Trump",
+          "display": "68 million followers"
+        },
+        {
+          "answer": "Justin Timberlake",
+          "display": "65 million followers"
+        },
+        {
+          "answer": "Kim Kardashian",
+          "display": "62 million followers",
+          "aliases": [
+            "Kim Kardashian West"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "technology/social-media/by-year",
+      "question": "Top 10 most-followed X accounts at the start of 2022 (Twitter's own account excluded)",
+      "cutoff": 10,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1062832433 | table 1 | name: Owner | value: Followers | where: Account name!=@twitter",
+      "tags": [
+        "x",
+        "2022"
+      ],
+      "answers": [
+        {
+          "answer": "Barack Obama",
+          "display": "130.4 million followers"
+        },
+        {
+          "answer": "Justin Bieber",
+          "display": "114.1 million followers"
+        },
+        {
+          "answer": "Katy Perry",
+          "display": "108.7 million followers"
+        },
+        {
+          "answer": "Rihanna",
+          "display": "103.8 million followers"
+        },
+        {
+          "answer": "Cristiano Ronaldo",
+          "display": "96 million followers"
+        },
+        {
+          "answer": "Taylor Swift",
+          "display": "89.5 million followers"
+        },
+        {
+          "answer": "Lady Gaga",
+          "display": "84 million followers"
+        },
+        {
+          "answer": "Ellen DeGeneres",
+          "display": "77.7 million followers"
+        },
+        {
+          "answer": "Narendra Modi",
+          "display": "73.9 million followers"
+        },
+        {
+          "answer": "YouTube",
+          "display": "73.9 million followers"
+        },
+        {
+          "answer": "Kim Kardashian",
+          "display": "70.7 million followers",
+          "aliases": [
+            "Kim Kardashian West"
+          ]
+        },
+        {
+          "answer": "Elon Musk",
+          "display": "67 million followers"
+        },
+        {
+          "answer": "Selena Gomez",
+          "display": "65.4 million followers"
+        }
+      ]
+    },
+    {
+      "category": "technology/social-media/by-year",
+      "question": "Top 10 most-followed X accounts at the start of 2023 (Twitter's own account excluded)",
+      "cutoff": 10,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1130642838 | table 1 | name: Owner | value: Followers | where: Account name!=@twitter",
+      "tags": [
+        "x",
+        "2023"
+      ],
+      "answers": [
+        {
+          "answer": "Barack Obama",
+          "display": "133.4 million followers"
+        },
+        {
+          "answer": "Elon Musk",
+          "display": "123.9 million followers"
+        },
+        {
+          "answer": "Justin Bieber",
+          "display": "113.6 million followers"
+        },
+        {
+          "answer": "Katy Perry",
+          "display": "108.7 million followers"
+        },
+        {
+          "answer": "Rihanna",
+          "display": "107.4 million followers"
+        },
+        {
+          "answer": "Cristiano Ronaldo",
+          "display": "106.3 million followers"
+        },
+        {
+          "answer": "Taylor Swift",
+          "display": "92.0 million followers"
+        },
+        {
+          "answer": "Donald Trump",
+          "display": "87.8 million followers"
+        },
+        {
+          "answer": "Narendra Modi",
+          "display": "85.1 million followers"
+        },
+        {
+          "answer": "Lady Gaga",
+          "display": "84.9 million followers"
+        },
+        {
+          "answer": "YouTube",
+          "display": "77.9 million followers"
+        },
+        {
+          "answer": "Ellen DeGeneres",
+          "display": "76.9 million followers"
+        },
+        {
+          "answer": "Kim Kardashian",
+          "display": "74.3 million followers",
+          "aliases": [
+            "Kim Kardashian West"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "technology/social-media/by-year",
+      "question": "Top 10 most-followed TikTok accounts at the start of 2023 (TikTok's own account excluded)",
+      "cutoff": 10,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1130624850 | table 1 | name: Owner | value: Followers | where: Username!=@tiktok",
+      "tags": [
+        "tiktok",
+        "2023"
+      ],
+      "answers": [
+        {
+          "answer": "Khaby Lame",
+          "display": "153.7 million followers",
+          "aliases": [
+            "Khabane Lame"
+          ]
+        },
+        {
+          "answer": "Charli D'Amelio",
+          "display": "149.4 million followers"
+        },
+        {
+          "answer": "Bella Poarch",
+          "display": "92.6 million followers"
+        },
+        {
+          "answer": "Addison Rae",
+          "display": "88.8 million followers"
+        },
+        {
+          "answer": "Will Smith",
+          "display": "72.9 million followers"
+        },
+        {
+          "answer": "Zach King",
+          "display": "72.2 million followers"
+        },
+        {
+          "answer": "Kimberly Loaiza",
+          "display": "71.1 million followers"
+        },
+        {
+          "answer": "MrBeast",
+          "display": "66.8 million followers"
+        },
+        {
+          "answer": "CZN Burak",
+          "display": "66.6 million followers",
+          "aliases": [
+            "Burak Özdemir"
+          ]
+        },
+        {
+          "answer": "Dwayne Johnson",
+          "display": "64.8 million followers",
+          "aliases": [
+            "The Rock"
+          ]
+        },
+        {
+          "answer": "Dominik Lipa",
+          "display": "62.3 million followers"
+        },
+        {
+          "answer": "Dixie D'Amelio",
+          "display": "57.5 million followers"
+        },
+        {
+          "answer": "Jason Derulo",
+          "display": "56.8 million followers"
+        }
+      ]
+    },
+    {
+      "category": "technology/social-media/by-year",
+      "question": "Top 10 most-followed TikTok accounts at the start of 2026 (TikTok's own account excluded)",
+      "cutoff": 10,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1329773130 | table 1 | name: Owner | value: Followers | where: Username!=@tiktok",
+      "tags": [
+        "tiktok",
+        "2026"
+      ],
+      "answers": [
+        {
+          "answer": "Khaby Lame",
+          "display": "160.7 million followers",
+          "aliases": [
+            "Khabane Lame"
+          ]
+        },
+        {
+          "answer": "Charli D'Amelio",
+          "display": "156.0 million followers"
+        },
+        {
+          "answer": "MrBeast",
+          "display": "123.6 million followers"
+        },
+        {
+          "answer": "Bella Poarch",
+          "display": "92.9 million followers"
+        },
+        {
+          "answer": "Addison Rae",
+          "display": "88.3 million followers"
+        },
+        {
+          "answer": "Zach King",
+          "display": "84.3 million followers"
+        },
+        {
+          "answer": "Kimberly Loaiza",
+          "display": "83.7 million followers"
+        },
+        {
+          "answer": "Willie Salim",
+          "display": "83.2 million followers"
+        },
+        {
+          "answer": "Dwayne Johnson",
+          "display": "80 million followers",
+          "aliases": [
+            "The Rock"
+          ]
+        },
+        {
+          "answer": "Will Smith",
+          "display": "78.9 million followers"
+        },
+        {
+          "answer": "Dominik Lipa",
+          "display": "76.1 million followers"
+        },
+        {
+          "answer": "CZN Burak",
+          "display": "74.2 million followers",
+          "aliases": [
+            "Burak Özdemir"
+          ]
+        },
+        {
+          "answer": "Billie Eilish",
+          "display": "74.1 million followers"
+        }
+      ]
+    },
+    {
+      "category": "technology/social-media/by-year",
+      "question": "Top 10 most-followed Facebook pages at the start of 2019",
+      "cutoff": 10,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=872703860 | table 1 | name: Account name | value: Followers",
+      "tags": [
+        "facebook",
+        "pages",
+        "2019"
+      ],
+      "answers": [
+        {
+          "answer": "Facebook",
+          "display": "213 million followers"
+        },
+        {
+          "answer": "Samsung",
+          "display": "160 million followers"
+        },
+        {
+          "answer": "Cristiano Ronaldo",
+          "display": "123 million followers"
+        },
+        {
+          "answer": "Real Madrid",
+          "display": "109 million followers",
+          "aliases": [
+            "Real Madrid C.F."
+          ]
+        },
+        {
+          "answer": "Coca-Cola",
+          "display": "108 million followers"
+        },
+        {
+          "answer": "FC Barcelona",
+          "display": "103 million followers"
+        },
+        {
+          "answer": "Shakira",
+          "display": "102 million followers"
+        },
+        {
+          "answer": "Vin Diesel",
+          "display": "99 million followers"
+        },
+        {
+          "answer": "Tasty",
+          "display": "95 million followers"
+        },
+        {
+          "answer": "Lionel Messi",
+          "display": "90 million followers"
+        },
+        {
+          "answer": "Eminem",
+          "display": "88 million followers"
+        },
+        {
+          "answer": "YouTube",
+          "display": "83 million followers"
+        },
+        {
+          "answer": "Mr. Bean",
+          "display": "80 million followers"
+        },
+        {
+          "answer": "Rihanna",
+          "display": "80 million followers"
+        },
+        {
+          "answer": "McDonald's",
+          "display": "79 million followers"
+        }
+      ]
+    },
+    {
+      "category": "technology/social-media/by-year",
+      "question": "Top 8 most-followed Facebook pages at the start of 2021",
+      "cutoff": 8,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=996240060 | table 1 | name: Page name | value: Followers",
+      "tags": [
+        "facebook",
+        "pages",
+        "2021"
+      ],
+      "answers": [
+        {
+          "answer": "Facebook App",
+          "display": "211 million followers",
+          "aliases": [
+            "Facebook"
+          ]
+        },
+        {
+          "answer": "Samsung",
+          "display": "162 million followers"
+        },
+        {
+          "answer": "Cristiano Ronaldo",
+          "display": "147 million followers"
+        },
+        {
+          "answer": "CGTN",
+          "display": "113 million followers"
+        },
+        {
+          "answer": "Real Madrid",
+          "display": "111 million followers",
+          "aliases": [
+            "Real Madrid C.F."
+          ]
+        },
+        {
+          "answer": "Shakira",
+          "display": "109 million followers"
+        },
+        {
+          "answer": "Coca-Cola",
+          "display": "106 million followers"
+        },
+        {
+          "answer": "Tasty",
+          "display": "106 million followers"
+        },
+        {
+          "answer": "China Daily",
+          "display": "104 million followers"
+        },
+        {
+          "answer": "Mr. Bean",
+          "display": "104 million followers"
+        },
+        {
+          "answer": "Will Smith",
+          "display": "104 million followers"
+        },
+        {
+          "answer": "FC Barcelona",
+          "display": "103 million followers"
+        },
+        {
+          "answer": "Vin Diesel",
+          "display": "103 million followers"
+        }
+      ]
+    },
+    {
+      "category": "technology/social-media/by-year",
+      "question": "Top 10 most-followed Facebook pages at the start of 2022",
+      "cutoff": 10,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1062565439 | table 1 | name: Page name | value: Followers",
+      "tags": [
+        "facebook",
+        "pages",
+        "2022"
+      ],
+      "answers": [
+        {
+          "answer": "Facebook App",
+          "display": "194 million followers",
+          "aliases": [
+            "Facebook"
+          ]
+        },
+        {
+          "answer": "Samsung",
+          "display": "161 million followers"
+        },
+        {
+          "answer": "Cristiano Ronaldo",
+          "display": "150 million followers"
+        },
+        {
+          "answer": "Mr. Bean",
+          "display": "129 million followers"
+        },
+        {
+          "answer": "CGTN",
+          "display": "117 million followers"
+        },
+        {
+          "answer": "5-Minute Crafts",
+          "display": "115 million followers"
+        },
+        {
+          "answer": "Lionel Messi",
+          "display": "115 million followers"
+        },
+        {
+          "answer": "Shakira",
+          "display": "114 million followers"
+        },
+        {
+          "answer": "Real Madrid",
+          "display": "111 million followers",
+          "aliases": [
+            "Real Madrid C.F."
+          ]
+        },
+        {
+          "answer": "Will Smith",
+          "display": "111 million followers"
+        },
+        {
+          "answer": "Vin Diesel",
+          "display": "108 million followers"
+        },
+        {
+          "answer": "Tasty",
+          "display": "106 million followers"
+        },
+        {
+          "answer": "FC Barcelona",
+          "display": "106 million followers"
+        },
+        {
+          "answer": "Coca-Cola",
+          "display": "105 million followers"
+        },
+        {
+          "answer": "China Daily",
+          "display": "104 million followers"
+        }
+      ]
+    },
+    {
+      "category": "technology/social-media/by-year",
+      "question": "Top 10 most-followed Facebook pages at the start of 2023",
+      "cutoff": 10,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1130318771 | table 1 | name: Page name | value: Followers",
+      "tags": [
+        "facebook",
+        "pages",
+        "2023"
+      ],
+      "answers": [
+        {
+          "answer": "Facebook",
+          "display": "181 million followers"
+        },
+        {
+          "answer": "Samsung",
+          "display": "162 million followers"
+        },
+        {
+          "answer": "Cristiano Ronaldo",
+          "display": "158 million followers"
+        },
+        {
+          "answer": "Mr. Bean",
+          "display": "133 million followers"
+        },
+        {
+          "answer": "5-Minute Crafts",
+          "display": "124 million followers"
+        },
+        {
+          "answer": "CGTN",
+          "display": "120 million followers"
+        },
+        {
+          "answer": "Shakira",
+          "display": "118 million followers"
+        },
+        {
+          "answer": "Real Madrid",
+          "display": "116 million followers",
+          "aliases": [
+            "Real Madrid C.F."
+          ]
+        },
+        {
+          "answer": "Will Smith",
+          "display": "113 million followers"
+        },
+        {
+          "answer": "Lionel Messi",
+          "display": "111 million followers"
+        },
+        {
+          "answer": "Coca-Cola",
+          "display": "110 million followers"
+        },
+        {
+          "answer": "FC Barcelona",
+          "display": "110 million followers"
+        },
+        {
+          "answer": "Vin Diesel",
+          "display": "108 million followers"
+        },
+        {
+          "answer": "Tasty",
+          "display": "107 million followers"
+        },
+        {
+          "answer": "YouTube",
+          "display": "105 million followers"
+        }
+      ]
+    },
+    {
+      "category": "technology/social-media/by-year",
+      "question": "Top 9 most-followed Facebook pages at the start of 2025",
+      "cutoff": 9,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1263062525 | table 1 | name: Page name | value: Followers",
+      "tags": [
+        "facebook",
+        "pages",
+        "2025"
+      ],
+      "answers": [
+        {
+          "answer": "Facebook",
+          "display": "188 million followers"
+        },
+        {
+          "answer": "Cristiano Ronaldo",
+          "display": "170 million followers"
+        },
+        {
+          "answer": "Samsung",
+          "display": "162 million followers"
+        },
+        {
+          "answer": "Mr. Bean",
+          "display": "140 million followers"
+        },
+        {
+          "answer": "5-Minute Crafts",
+          "display": "126 million followers"
+        },
+        {
+          "answer": "Shakira",
+          "display": "123 million followers"
+        },
+        {
+          "answer": "CGTN",
+          "display": "121 million followers"
+        },
+        {
+          "answer": "Real Madrid",
+          "display": "121 million followers",
+          "aliases": [
+            "Real Madrid C.F."
+          ]
+        },
+        {
+          "answer": "Lionel Messi",
+          "display": "117 million followers"
+        },
+        {
+          "answer": "Will Smith",
+          "display": "115 million followers"
+        },
+        {
+          "answer": "FC Barcelona",
+          "display": "115 million followers"
+        },
+        {
+          "answer": "China Daily",
+          "display": "111 million followers"
+        },
+        {
+          "answer": "Coca-Cola",
+          "display": "109 million followers"
+        },
+        {
+          "answer": "YouTube",
+          "display": "108 million followers"
+        }
+      ]
+    },
+    {
+      "category": "technology/social-media/by-year",
+      "question": "Top 10 most-followed Facebook pages at the start of 2026",
+      "cutoff": 10,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1325584126 | table 1 | name: Page name | value: Followers",
+      "tags": [
+        "facebook",
+        "pages",
+        "2026"
+      ],
+      "answers": [
+        {
+          "answer": "Cristiano Ronaldo",
+          "display": "171 million followers"
+        },
+        {
+          "answer": "Samsung",
+          "display": "162 million followers"
+        },
+        {
+          "answer": "Facebook",
+          "display": "155 million followers"
+        },
+        {
+          "answer": "Mr. Bean",
+          "display": "139 million followers"
+        },
+        {
+          "answer": "5-Minute Crafts",
+          "display": "131 million followers"
+        },
+        {
+          "answer": "Real Madrid",
+          "display": "130 million followers",
+          "aliases": [
+            "Real Madrid C.F."
+          ]
+        },
+        {
+          "answer": "CGTN",
+          "display": "125 million followers"
+        },
+        {
+          "answer": "Shakira",
+          "display": "122 million followers"
+        },
+        {
+          "answer": "FC Barcelona",
+          "display": "120 million followers"
+        },
+        {
+          "answer": "Lionel Messi",
+          "display": "116 million followers"
+        },
+        {
+          "answer": "Will Smith",
+          "display": "115 million followers"
+        },
+        {
+          "answer": "Netflix",
+          "display": "108 million followers"
+        },
+        {
+          "answer": "China Daily",
+          "display": "108 million followers"
+        },
+        {
+          "answer": "Coca-Cola",
+          "display": "108 million followers"
+        },
+        {
+          "answer": "YouTube",
+          "display": "108 million followers"
+        }
+      ]
+    },
+    {
+      "category": "technology/social-media/by-year",
+      "question": "Top 10 most-followed Twitch channels at the start of 2021",
+      "cutoff": 10,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=997525158 | table 1 | name: Channel | value: followers",
+      "tags": [
+        "twitch",
+        "channels",
+        "2021"
+      ],
+      "answers": [
+        {
+          "answer": "Ninja",
+          "display": "16.5 million followers"
+        },
+        {
+          "answer": "Tfue",
+          "display": "9.8 million followers"
+        },
+        {
+          "answer": "shroud",
+          "display": "8.7 million followers"
+        },
+        {
+          "answer": "El Rubius",
+          "display": "7.6 million followers",
+          "aliases": [
+            "Rubius",
+            "elrubius",
+            "elrubiusOMG"
+          ]
+        },
+        {
+          "answer": "xQc",
+          "display": "7.2 million followers",
+          "aliases": [
+            "xQcOW"
+          ]
+        },
+        {
+          "answer": "Myth",
+          "display": "7.1 million followers"
+        },
+        {
+          "answer": "Pokimane",
+          "display": "6.9 million followers"
+        },
+        {
+          "answer": "Auronplay",
+          "display": "6.4 million followers"
+        },
+        {
+          "answer": "sodapoppin",
+          "display": "6.0 million followers"
+        },
+        {
+          "answer": "TimTheTatman",
+          "display": "5.9 million followers"
+        },
+        {
+          "answer": "summit1g",
+          "display": "5.7 million followers"
+        },
+        {
+          "answer": "TheGrefg",
+          "display": "5.5 million followers"
+        },
+        {
+          "answer": "Riot Games",
+          "display": "5.0 million followers"
+        },
+        {
+          "answer": "NICKMERCS",
+          "display": "4.8 million followers"
+        },
+        {
+          "answer": "dakotaz",
+          "display": "4.7 million followers"
+        }
+      ]
+    },
+    {
+      "category": "technology/social-media/by-year",
+      "question": "Top 9 most-followed Twitch channels at the start of 2022",
+      "cutoff": 9,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1062939500 | table 1 | name: Channel | value: followers",
+      "tags": [
+        "twitch",
+        "channels",
+        "2022"
+      ],
+      "answers": [
+        {
+          "answer": "Ninja",
+          "display": "17.2 million followers"
+        },
+        {
+          "answer": "Auronplay",
+          "display": "11.0 million followers"
+        },
+        {
+          "answer": "Tfue",
+          "display": "10.8 million followers"
+        },
+        {
+          "answer": "El Rubius",
+          "display": "10.6 million followers",
+          "aliases": [
+            "Rubius",
+            "elrubius",
+            "elrubiusOMG"
+          ]
+        },
+        {
+          "answer": "shroud",
+          "display": "9.9 million followers"
+        },
+        {
+          "answer": "xQc",
+          "display": "9.7 million followers",
+          "aliases": [
+            "xQcOW"
+          ]
+        },
+        {
+          "answer": "TheGrefg",
+          "display": "9.0 million followers"
+        },
+        {
+          "answer": "Ibai",
+          "display": "8.8 million followers"
+        },
+        {
+          "answer": "Pokimane",
+          "display": "8.5 million followers"
+        },
+        {
+          "answer": "Myth",
+          "display": "7.4 million followers"
+        },
+        {
+          "answer": "Heelmike",
+          "display": "7.4 million followers"
+        },
+        {
+          "answer": "TimTheTatman",
+          "display": "7.0 million followers"
+        },
+        {
+          "answer": "tommyinnit",
+          "display": "6.9 million followers"
+        },
+        {
+          "answer": "NICKMERCS",
+          "display": "6.3 million followers"
+        }
+      ]
+    },
+    {
+      "category": "technology/social-media/by-year",
+      "question": "Top 10 most-followed Twitch channels at the start of 2023",
+      "cutoff": 10,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1129275611 | table 1 | name: Channel | value: followers",
+      "tags": [
+        "twitch",
+        "channels",
+        "2023"
+      ],
+      "answers": [
+        {
+          "answer": "Ninja",
+          "display": "18.4 million followers"
+        },
+        {
+          "answer": "Auronplay",
+          "display": "14.2 million followers"
+        },
+        {
+          "answer": "El Rubius",
+          "display": "13.3 million followers",
+          "aliases": [
+            "Rubius",
+            "elrubius",
+            "elrubiusOMG"
+          ]
+        },
+        {
+          "answer": "Ibai",
+          "display": "12.1 million followers"
+        },
+        {
+          "answer": "xQc",
+          "display": "11.4 million followers",
+          "aliases": [
+            "xQcOW"
+          ]
+        },
+        {
+          "answer": "Tfue",
+          "display": "11.3 million followers"
+        },
+        {
+          "answer": "TheGrefg",
+          "display": "10.5 million followers"
+        },
+        {
+          "answer": "shroud",
+          "display": "10.4 million followers"
+        },
+        {
+          "answer": "Juansguarnizo",
+          "display": "9.5 million followers"
+        },
+        {
+          "answer": "Pokimane",
+          "display": "9.3 million followers"
+        },
+        {
+          "answer": "sodapoppin",
+          "display": "8.8 million followers"
+        },
+        {
+          "answer": "Heelmike",
+          "display": "7.4 million followers"
+        },
+        {
+          "answer": "Myth",
+          "display": "7.4 million followers"
+        },
+        {
+          "answer": "tommyinnit",
+          "display": "7.4 million followers"
+        },
+        {
+          "answer": "AdinRoss",
+          "display": "7.1 million followers"
+        }
+      ]
+    },
+    {
+      "category": "technology/social-media/by-year",
+      "question": "Top 10 most-followed Twitch channels at the start of 2025",
+      "cutoff": 10,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1266215941 | table 1 | name: Channel | value: followers",
+      "tags": [
+        "twitch",
+        "channels",
+        "2025"
+      ],
+      "answers": [
+        {
+          "answer": "Ninja",
+          "display": "19.2 million followers"
+        },
+        {
+          "answer": "Ibai",
+          "display": "17.2 million followers"
+        },
+        {
+          "answer": "Auronplay",
+          "display": "16.7 million followers"
+        },
+        {
+          "answer": "El Rubius",
+          "display": "15.5 million followers",
+          "aliases": [
+            "Rubius",
+            "elrubius",
+            "elrubiusOMG"
+          ]
+        },
+        {
+          "answer": "Kai Cenat",
+          "display": "15.4 million followers",
+          "aliases": [
+            "KaiCenat"
+          ]
+        },
+        {
+          "answer": "TheGrefg",
+          "display": "12.2 million followers"
+        },
+        {
+          "answer": "xQc",
+          "display": "12.0 million followers",
+          "aliases": [
+            "xQcOW"
+          ]
+        },
+        {
+          "answer": "Juansguarnizo",
+          "display": "11.4 million followers"
+        },
+        {
+          "answer": "Tfue",
+          "display": "11.3 million followers"
+        },
+        {
+          "answer": "shroud",
+          "display": "11.1 million followers"
+        },
+        {
+          "answer": "ElMariana",
+          "display": "10.1 million followers"
+        },
+        {
+          "answer": "ElSpreen",
+          "display": "9.6 million followers"
+        },
+        {
+          "answer": "Pokimane",
+          "display": "9.3 million followers"
+        },
+        {
+          "answer": "Sodapoppin",
+          "display": "8.9 million followers"
+        },
+        {
+          "answer": "Clix",
+          "display": "7.9 million followers"
+        }
+      ]
+    },
+    {
+      "category": "technology/social-media/by-year",
+      "question": "Top 9 most-followed Twitch channels at the start of 2026",
+      "cutoff": 9,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1328174349 | table 1 | name: Channel | value: followers",
+      "tags": [
+        "twitch",
+        "channels",
+        "2026"
+      ],
+      "answers": [
+        {
+          "answer": "Kai Cenat",
+          "display": "20.1 million followers",
+          "aliases": [
+            "KaiCenat"
+          ]
+        },
+        {
+          "answer": "Ibai",
+          "display": "19.8 million followers"
+        },
+        {
+          "answer": "Ninja",
+          "display": "19.3 million followers"
+        },
+        {
+          "answer": "Auronplay",
+          "display": "17 million followers"
+        },
+        {
+          "answer": "El Rubius",
+          "display": "16 million followers",
+          "aliases": [
+            "Rubius",
+            "elrubius",
+            "elrubiusOMG"
+          ]
+        },
+        {
+          "answer": "EasyLiker",
+          "display": "12.3 million followers"
+        },
+        {
+          "answer": "TheGrefg",
+          "display": "12.3 million followers"
+        },
+        {
+          "answer": "xQc",
+          "display": "12.2 million followers",
+          "aliases": [
+            "xQcOW"
+          ]
+        },
+        {
+          "answer": "Juansguarnizo",
+          "display": "11.6 million followers"
+        },
+        {
+          "answer": "Tfue",
+          "display": "11.3 million followers"
+        },
+        {
+          "answer": "shroud",
+          "display": "11.3 million followers"
+        },
+        {
+          "answer": "ElMariana",
+          "display": "10.7 million followers"
+        },
+        {
+          "answer": "ElSpreen",
+          "display": "9.7 million followers"
+        },
+        {
+          "answer": "Pokimane",
+          "display": "9.4 million followers"
+        }
+      ]
+    }
+  ]
+}

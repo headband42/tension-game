@@ -10,13 +10,16 @@ questions, the countdown and the big reveal. Everyone else plays on their phone;
 Every round asks for a ranked list, like *"Top 10 highest mountains in the world"*. Everyone
 answers at the same time on their own phone before the timer runs out.
 
-| Your answer                                       | Points                          |
-| ------------------------------------------------- | ------------------------------- |
-| In the top 10                                     | its rank: #1 = **+1** … #10 = **+10** |
-| On the list, but below the top 10 — **TENSION!**  | **−5**                          |
-| Not on the list (or no answer)                    | **−3**                          |
+| Your answer                                                    | Points                          |
+| -------------------------------------------------------------- | ------------------------------- |
+| In the top 10                                                  | its rank: #1 = **+1** … #10 = **+10** |
+| One of the 3–5 answers lurking just below the list — **TENSION!** | **−5**                       |
+| Anything else (including no answer)                            | **−3**                          |
 
-The obvious answer is safe but cheap. The obscure one pays more, unless you overshoot.
+The obvious answer is safe but cheap. The obscure one pays more, unless you overshoot just
+slightly: missing by a little hurts more than missing by a lot. Each question announces how many
+tension answers it has. The rules follow the [TENS10N](https://www.youtube.com/@Tens10n_game)
+YouTube game show.
 
 - **Doubles.** Each player gets one per game by default. A double multiplies that answer's points
   ×2, good or bad. Using it on a blank answer doesn't burn it.
@@ -35,7 +38,7 @@ You need [Bun](https://bun.sh) 1.2 or newer.
 
 ```bash
 bun install
-bun run setup   # creates apps/server/.env, builds the SQLite database, imports the starter questions
+bun run setup   # creates apps/server/.env, builds the SQLite database, imports the question bank
 bun run dev     # game server on :3001, web app on :5173
 ```
 
@@ -72,13 +75,16 @@ Things that trip people up:
 
 ## Adding questions
 
-Questions are JSON files called question packs. The starter pack is
-[`apps/server/data/questions.json`](apps/server/data/questions.json).
+Questions are JSON files called question packs. The bundled bank lives in
+[`apps/server/data/`](apps/server/data/): the starter pack `questions.json` and one pack per topic
+in `packs/`: about 4,800 questions in 259 packs, from league tables and medal tables to box office,
+awards, charts and geography.
 
 ```bash
 bun run import my-pack.json             # add the questions that aren't already there
 bun run import my-pack.json --replace   # also overwrite existing ones
 bun run import my-pack.json --dry-run   # only check the file
+bun run import data/packs --dry-run     # check every pack in a folder
 ```
 
 [docs/QUESTIONS.md](docs/QUESTIONS.md) covers the format and how to write questions that play well.
@@ -97,7 +103,7 @@ Run these from the repository root:
 | `bun run check`      | Type-checks the server and the web app                               |
 | `bun run import`     | Imports question packs (see above)                                   |
 | `bun run db:migrate` | Creates and applies a migration after editing `schema.prisma`        |
-| `bun run db:reset`   | Wipes the database and re-imports the starter questions              |
+| `bun run db:reset`   | Wipes the database and re-imports the question bank                  |
 | `bun run db:studio`  | Opens Prisma Studio to browse or edit the data                       |
 
 ## Project layout
@@ -137,7 +143,7 @@ docs/                    Architecture, question authoring, roadmap
 - If port 3001 is taken in development, run the two halves separately:
   `PORT=3002 bun run dev:server` and `GAME_SERVER_URL=http://localhost:3002 bun run dev:web`.
 - Coming from an older checkout? Run `bun run setup`. It applies the new migration and keeps
-  existing data. To refresh the starter questions as well, run `bun run db:reset`. That deletes
+  existing data. To refresh the bundled questions as well, run `bun run db:reset`. That deletes
   past games too.
 
 More detail:

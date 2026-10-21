@@ -1,0 +1,1816 @@
+{
+  "categories": [
+    {
+      "path": "music",
+      "name": "Music"
+    },
+    {
+      "path": "music/eurovision",
+      "name": "Eurovision"
+    }
+  ],
+  "questions": [
+    {
+      "category": "music/eurovision",
+      "question": "Top 10 countries in the Eurovision Song Contest 2000 grand final",
+      "cutoff": 10,
+      "difficulty": 1,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1378389162 | table 3 | name: Country | value: Place | order: asc",
+      "tags": [
+        "music",
+        "eurovision",
+        "2000"
+      ],
+      "answers": [
+        {
+          "answer": "Denmark",
+          "display": "#1 — Fly on the Wings of Love by Olsen Brothers (195 points)"
+        },
+        {
+          "answer": "Russia",
+          "display": "#2 — Solo by Alsou (155 points)"
+        },
+        {
+          "answer": "Latvia",
+          "display": "#3 — My Star by Brainstorm (136 points)"
+        },
+        {
+          "answer": "Estonia",
+          "display": "#4 — Once in a Lifetime by Ines (98 points)"
+        },
+        {
+          "answer": "Germany",
+          "display": "#5 — Wadde hadde dudde da? by Stefan Raab (96 points)"
+        },
+        {
+          "answer": "Ireland",
+          "display": "#6 — Millennium of Love by Eamonn Toal (92 points)"
+        },
+        {
+          "answer": "Sweden",
+          "display": "#7 — When Spirits Are Calling My Name by Roger Pontare (88 points)"
+        },
+        {
+          "answer": "Malta",
+          "display": "#8 — Desire by Claudette Pace (73 points)"
+        },
+        {
+          "answer": "Croatia",
+          "display": "#9 — Kad zaspu anđeli by Goran Karan (70 points)"
+        },
+        {
+          "answer": "Turkey",
+          "display": "#10 — Yorgunum Anla by Pınar and the SOS (59 points)",
+          "aliases": [
+            "Türkiye"
+          ]
+        },
+        {
+          "answer": "Norway",
+          "display": "#11 — My Heart Goes Boom by Charmed (57 points)"
+        },
+        {
+          "answer": "Iceland",
+          "display": "#12 — Tell Me! by August and Telma (45 points)"
+        },
+        {
+          "answer": "Netherlands",
+          "display": "#13 — No Goodbyes by Linda (40 points)",
+          "aliases": [
+            "Holland"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "music/eurovision",
+      "question": "Top 10 countries in the Eurovision Song Contest 2001 grand final",
+      "cutoff": 10,
+      "difficulty": 1,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1370565867 | table 3 | name: Country | value: Place | order: asc",
+      "tags": [
+        "music",
+        "eurovision",
+        "2001"
+      ],
+      "answers": [
+        {
+          "answer": "Estonia",
+          "display": "#1 — Everybody by Tanel Padar, Dave Benton and 2XL (198 points)"
+        },
+        {
+          "answer": "Denmark",
+          "display": "#2 — Never Ever Let You Go by Rollo & King (177 points)"
+        },
+        {
+          "answer": "Greece",
+          "display": "#3 — Die for You by Antique (147 points)"
+        },
+        {
+          "answer": "France",
+          "display": "#4 — Je n'ai que mon âme by Natasha St-Pier (142 points)"
+        },
+        {
+          "answer": "Sweden",
+          "display": "#5 — Listen to Your Heartbeat by Friends (100 points)"
+        },
+        {
+          "answer": "Spain",
+          "display": "#6 — Dile que la quiero by David Civera (76 points)"
+        },
+        {
+          "answer": "Slovenia",
+          "display": "#7 — Energy by Nuša Derenda (70 points)"
+        },
+        {
+          "answer": "Germany",
+          "display": "#8 — Wer Liebe lebt by Michelle (66 points)"
+        },
+        {
+          "answer": "Malta",
+          "display": "#9 — Another Summer Night by Fabrizio Faniello (48 points)"
+        },
+        {
+          "answer": "Croatia",
+          "display": "#10 — Strings of My Heart by Vanna (42 points)"
+        },
+        {
+          "answer": "Turkey",
+          "display": "#11 — Sevgiliye Son by Sedat Yüce (41 points)",
+          "aliases": [
+            "Türkiye"
+          ]
+        },
+        {
+          "answer": "Russia",
+          "display": "#12 — Lady Alpine Blue by Mumiy Troll (37 points)"
+        },
+        {
+          "answer": "Lithuania",
+          "display": "#13 — You Got Style by Skamp (35 points)"
+        }
+      ]
+    },
+    {
+      "category": "music/eurovision",
+      "question": "Top 10 countries in the Eurovision Song Contest 2002 grand final",
+      "cutoff": 10,
+      "difficulty": 1,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1375242296 | table 2 | name: Country | value: Place | order: asc",
+      "tags": [
+        "music",
+        "eurovision",
+        "2002"
+      ],
+      "answers": [
+        {
+          "answer": "Latvia",
+          "display": "#1 — I Wanna by Marie N (176 points)"
+        },
+        {
+          "answer": "Malta",
+          "display": "#2 — 7th Wonder by Ira Losco (164 points)"
+        },
+        {
+          "answer": "United Kingdom",
+          "display": "#3 — Come Back by Jessica Garlick (111 points)",
+          "aliases": [
+            "UK",
+            "Britain",
+            "Great Britain"
+          ]
+        },
+        {
+          "answer": "Estonia",
+          "display": "#3 — Runaway by Sahlene (111 points)"
+        },
+        {
+          "answer": "France",
+          "display": "#5 — Il faut du temps by Sandrine François (104 points)"
+        },
+        {
+          "answer": "Cyprus",
+          "display": "#6 — Gimme by One (85 points)"
+        },
+        {
+          "answer": "Spain",
+          "display": "#7 — Europe's Living a Celebration by Rosa (81 points)"
+        },
+        {
+          "answer": "Sweden",
+          "display": "#8 — Never Let It Go by Afro-dite (72 points)"
+        },
+        {
+          "answer": "Romania",
+          "display": "#9 — Tell Me Why by Monica Anghel and Marcel Pavel (71 points)"
+        },
+        {
+          "answer": "Russia",
+          "display": "#10 — Northern Girl by Prime Minister (55 points)"
+        },
+        {
+          "answer": "Croatia",
+          "display": "#11 — Everything I Want by Vesna Pisarović (44 points)"
+        },
+        {
+          "answer": "Israel",
+          "display": "#12 — Light a Candle by Sarit Hadad (37 points)"
+        },
+        {
+          "answer": "Bosnia and Herzegovina",
+          "display": "#13 — Na jastuku za dvoje by Maja (33 points)",
+          "aliases": [
+            "Bosnia"
+          ]
+        },
+        {
+          "answer": "Belgium",
+          "display": "#13 — Sister by Sergio and the Ladies (33 points)"
+        },
+        {
+          "answer": "Slovenia",
+          "display": "#13 — Samo ljubezen by Sestre (33 points)"
+        }
+      ]
+    },
+    {
+      "category": "music/eurovision",
+      "question": "Top 10 countries in the Eurovision Song Contest 2003 grand final",
+      "cutoff": 10,
+      "difficulty": 1,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1370565804 | table 3 | name: Country | value: Place | order: asc",
+      "tags": [
+        "music",
+        "eurovision",
+        "2003"
+      ],
+      "answers": [
+        {
+          "answer": "Turkey",
+          "display": "#1 — Everyway That I Can by Sertab Erener (167 points)",
+          "aliases": [
+            "Türkiye"
+          ]
+        },
+        {
+          "answer": "Belgium",
+          "display": "#2 — Sanomi by Urban Trad (165 points)"
+        },
+        {
+          "answer": "Russia",
+          "display": "#3 — Ne ver', ne boisia by t.A.T.u. (164 points)"
+        },
+        {
+          "answer": "Norway",
+          "display": "#4 — I'm Not Afraid to Move On by Jostein Hasselgård (123 points)"
+        },
+        {
+          "answer": "Sweden",
+          "display": "#5 — Give Me Your Love by Fame (107 points)"
+        },
+        {
+          "answer": "Austria",
+          "display": "#6 — Weil der Mensch zählt by Alf Poier (101 points)"
+        },
+        {
+          "answer": "Poland",
+          "display": "#7 — Keine Grenzen – Żadnych granic by Ich Troje (90 points)"
+        },
+        {
+          "answer": "Iceland",
+          "display": "#8 — Open Your Heart by Birgitta (81 points)"
+        },
+        {
+          "answer": "Spain",
+          "display": "#8 — Dime by Beth (81 points)"
+        },
+        {
+          "answer": "Romania",
+          "display": "#10 — Don't Break My Heart by Nicola (73 points)"
+        },
+        {
+          "answer": "Ireland",
+          "display": "#11 — We've Got the World by Mickey Harte (53 points)"
+        },
+        {
+          "answer": "Germany",
+          "display": "#11 — Let's Get Happy by Lou (53 points)"
+        },
+        {
+          "answer": "Netherlands",
+          "display": "#13 — One More Night by Esther Hart (45 points)",
+          "aliases": [
+            "Holland"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "music/eurovision",
+      "question": "Top 10 countries in the Eurovision Song Contest 2004 grand final",
+      "cutoff": 10,
+      "difficulty": 1,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1373715776 | table 3 | name: Country | value: Place | order: asc",
+      "tags": [
+        "music",
+        "eurovision",
+        "2004"
+      ],
+      "answers": [
+        {
+          "answer": "Ukraine",
+          "display": "#1 — Wild Dances by Ruslana (280 points)"
+        },
+        {
+          "answer": "Serbia and Montenegro",
+          "display": "#2 — Lane moje by Željko Joksimović and Ad-Hoc Orchestra (263 points)"
+        },
+        {
+          "answer": "Greece",
+          "display": "#3 — Shake It by Sakis Rouvas (252 points)"
+        },
+        {
+          "answer": "Turkey",
+          "display": "#4 — For Real by Athena (195 points)",
+          "aliases": [
+            "Türkiye"
+          ]
+        },
+        {
+          "answer": "Cyprus",
+          "display": "#5 — Stronger Every Minute by Lisa Andreas (170 points)"
+        },
+        {
+          "answer": "Sweden",
+          "display": "#5 — It Hurts by Lena Philipsson (170 points)"
+        },
+        {
+          "answer": "Albania",
+          "display": "#7 — The Image of You by Anjeza Shahini (106 points)"
+        },
+        {
+          "answer": "Germany",
+          "display": "#8 — Can't Wait Until Tonight by Max (93 points)"
+        },
+        {
+          "answer": "Bosnia and Herzegovina",
+          "display": "#9 — In the Disco by Deen (91 points)",
+          "aliases": [
+            "Bosnia"
+          ]
+        },
+        {
+          "answer": "Spain",
+          "display": "#10 — Para llenarme de ti by Ramón (87 points)"
+        },
+        {
+          "answer": "Russia",
+          "display": "#11 — Believe Me by Julia Savicheva (67 points)"
+        },
+        {
+          "answer": "Malta",
+          "display": "#12 — On Again... Off Again by Julie and Ludwig (50 points)"
+        },
+        {
+          "answer": "Croatia",
+          "display": "#12 — You Are the Only One by Ivan Mikulić (50 points)"
+        }
+      ]
+    },
+    {
+      "category": "music/eurovision",
+      "question": "Top 10 countries in the Eurovision Song Contest 2005 grand final",
+      "cutoff": 10,
+      "difficulty": 1,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1373062731 | table 3 | name: Country | value: Place | order: asc",
+      "tags": [
+        "music",
+        "eurovision",
+        "2005"
+      ],
+      "answers": [
+        {
+          "answer": "Greece",
+          "display": "#1 — My Number One by Helena Paparizou (230 points)"
+        },
+        {
+          "answer": "Malta",
+          "display": "#2 — Angel by Chiara (192 points)"
+        },
+        {
+          "answer": "Romania",
+          "display": "#3 — Let Me Try by Luminița Anghel and Sistem (158 points)"
+        },
+        {
+          "answer": "Israel",
+          "display": "#4 — HaSheket SheNish'ar by Shiri Maimon (154 points)"
+        },
+        {
+          "answer": "Latvia",
+          "display": "#5 — The War Is Not Over by Walters and Kazha (153 points)"
+        },
+        {
+          "answer": "Moldova",
+          "display": "#6 — Boonika bate doba by Zdob și Zdub (148 points)"
+        },
+        {
+          "answer": "Serbia and Montenegro",
+          "display": "#7 — Zauvijek moja by No Name (137 points)"
+        },
+        {
+          "answer": "Switzerland",
+          "display": "#8 — Cool Vibes by Vanilla Ninja (128 points)"
+        },
+        {
+          "answer": "Norway",
+          "display": "#9 — In My Dreams by Wig Wam (125 points)"
+        },
+        {
+          "answer": "Denmark",
+          "display": "#9 — Talking to You by Jakob Sveistrup (125 points)"
+        },
+        {
+          "answer": "Croatia",
+          "display": "#11 — Vukovi umiru sami by Boris Novković feat. Lado members (115 points)"
+        },
+        {
+          "answer": "Hungary",
+          "display": "#12 — Forogj, világ by Nox (97 points)"
+        },
+        {
+          "answer": "Turkey",
+          "display": "#13 — Rimi Rimi Ley by Gülseren (92 points)",
+          "aliases": [
+            "Türkiye"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "music/eurovision",
+      "question": "Top 10 countries in the Eurovision Song Contest 2006 grand final",
+      "cutoff": 10,
+      "difficulty": 1,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1373062025 | table 3 | name: Country | value: Place | order: asc",
+      "tags": [
+        "music",
+        "eurovision",
+        "2006"
+      ],
+      "answers": [
+        {
+          "answer": "Finland",
+          "display": "#1 — Hard Rock Hallelujah by Lordi (292 points)"
+        },
+        {
+          "answer": "Russia",
+          "display": "#2 — Never Let You Go by Dima Bilan (248 points)"
+        },
+        {
+          "answer": "Bosnia and Herzegovina",
+          "display": "#3 — Lejla by Hari Mata Hari (229 points)",
+          "aliases": [
+            "Bosnia"
+          ]
+        },
+        {
+          "answer": "Romania",
+          "display": "#4 — Tornerò by Mihai Trăistariu (172 points)"
+        },
+        {
+          "answer": "Sweden",
+          "display": "#5 — Invincible by Carola (170 points)"
+        },
+        {
+          "answer": "Lithuania",
+          "display": "#6 — We Are the Winners by LT United (162 points)"
+        },
+        {
+          "answer": "Ukraine",
+          "display": "#7 — Show Me Your Love by Tina Karol (145 points)"
+        },
+        {
+          "answer": "Armenia",
+          "display": "#8 — Without Your Love by André (129 points)"
+        },
+        {
+          "answer": "Greece",
+          "display": "#9 — Everything by Anna Vissi (128 points)"
+        },
+        {
+          "answer": "Ireland",
+          "display": "#10 — Every Song Is a Cry for Love by Brian Kennedy (93 points)"
+        },
+        {
+          "answer": "Turkey",
+          "display": "#11 — Süper Star by Sibel Tüzün (91 points)",
+          "aliases": [
+            "Türkiye"
+          ]
+        },
+        {
+          "answer": "North Macedonia",
+          "display": "#12 — Ninanajna by Elena Risteska (56 points)",
+          "aliases": [
+            "Macedonia"
+          ]
+        },
+        {
+          "answer": "Croatia",
+          "display": "#12 — Moja štikla by Severina (56 points)"
+        }
+      ]
+    },
+    {
+      "category": "music/eurovision",
+      "question": "Top 10 countries in the Eurovision Song Contest 2007 grand final",
+      "cutoff": 10,
+      "difficulty": 1,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1373061404 | table 3 | name: Country | value: Place | order: asc",
+      "tags": [
+        "music",
+        "eurovision",
+        "2007"
+      ],
+      "answers": [
+        {
+          "answer": "Serbia",
+          "display": "#1 — Molitva by Marija Šerifović (268 points)"
+        },
+        {
+          "answer": "Ukraine",
+          "display": "#2 — Dancing Lasha Tumbai by Verka Serduchka (235 points)"
+        },
+        {
+          "answer": "Russia",
+          "display": "#3 — Song #1 by Serebro (207 points)"
+        },
+        {
+          "answer": "Turkey",
+          "display": "#4 — Shake It Up Şekerim by Kenan Doğulu (163 points)",
+          "aliases": [
+            "Türkiye"
+          ]
+        },
+        {
+          "answer": "Bulgaria",
+          "display": "#5 — Water by Elitsa Todorova and Stoyan Yankoulov (157 points)"
+        },
+        {
+          "answer": "Belarus",
+          "display": "#6 — Work Your Magic by Koldun (145 points)"
+        },
+        {
+          "answer": "Greece",
+          "display": "#7 — Yassou Maria by Sarbel (139 points)"
+        },
+        {
+          "answer": "Armenia",
+          "display": "#8 — Anytime You Need by Hayko (138 points)"
+        },
+        {
+          "answer": "Hungary",
+          "display": "#9 — Unsubstantial Blues by Magdi Rúzsa (128 points)"
+        },
+        {
+          "answer": "Moldova",
+          "display": "#10 — Fight by Natalia Barbu (109 points)"
+        },
+        {
+          "answer": "Bosnia and Herzegovina",
+          "display": "#11 — Rijeka bez imena by Marija Šestić (106 points)",
+          "aliases": [
+            "Bosnia"
+          ]
+        },
+        {
+          "answer": "Georgia",
+          "display": "#12 — Visionary Dream by Sopho (97 points)"
+        },
+        {
+          "answer": "Romania",
+          "display": "#13 — Liubi, Liubi, I Love You by Todomondo (84 points)"
+        }
+      ]
+    },
+    {
+      "category": "music/eurovision",
+      "question": "Top 10 countries in the Eurovision Song Contest 2008 grand final",
+      "cutoff": 10,
+      "difficulty": 1,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1373043938 | table 5 | name: Country | value: Place | order: asc",
+      "tags": [
+        "music",
+        "eurovision",
+        "2008"
+      ],
+      "answers": [
+        {
+          "answer": "Russia",
+          "display": "#1 — Believe by Dima Bilan (272 points)"
+        },
+        {
+          "answer": "Ukraine",
+          "display": "#2 — Shady Lady by Ani Lorak (230 points)"
+        },
+        {
+          "answer": "Greece",
+          "display": "#3 — Secret Combination by Kalomira (218 points)"
+        },
+        {
+          "answer": "Armenia",
+          "display": "#4 — Qélé, Qélé by Sirusho (199 points)"
+        },
+        {
+          "answer": "Norway",
+          "display": "#5 — Hold On Be Strong by Maria (182 points)"
+        },
+        {
+          "answer": "Serbia",
+          "display": "#6 — Oro by Jelena Tomašević feat. Bora Dugić (160 points)"
+        },
+        {
+          "answer": "Turkey",
+          "display": "#7 — Deli by Mor ve Ötesi (138 points)",
+          "aliases": [
+            "Türkiye"
+          ]
+        },
+        {
+          "answer": "Azerbaijan",
+          "display": "#8 — Day After Day by Elnur and Samir (132 points)"
+        },
+        {
+          "answer": "Israel",
+          "display": "#9 — The Fire in Your Eyes by Boaz (124 points)"
+        },
+        {
+          "answer": "Bosnia and Herzegovina",
+          "display": "#10 — Pokušaj by Laka (110 points)",
+          "aliases": [
+            "Bosnia"
+          ]
+        },
+        {
+          "answer": "Georgia",
+          "display": "#11 — Peace Will Come by Diana Gurtskaya (83 points)"
+        },
+        {
+          "answer": "Latvia",
+          "display": "#12 — Wolves of the Sea by Pirates of the Sea (83 points)"
+        },
+        {
+          "answer": "Portugal",
+          "display": "#13 — Senhora do mar (negras águas) by Vânia Fernandes (69 points)"
+        }
+      ]
+    },
+    {
+      "category": "music/eurovision",
+      "question": "Top 10 countries in the Eurovision Song Contest 2009 grand final",
+      "cutoff": 10,
+      "difficulty": 1,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1373064713 | table 5 | name: Country | value: Place | order: asc",
+      "tags": [
+        "music",
+        "eurovision",
+        "2009"
+      ],
+      "answers": [
+        {
+          "answer": "Norway",
+          "display": "#1 — Fairytale by Alexander Rybak (387 points)"
+        },
+        {
+          "answer": "Iceland",
+          "display": "#2 — Is It True? by Yohanna (218 points)"
+        },
+        {
+          "answer": "Azerbaijan",
+          "display": "#3 — Always by Aysel and Arash (207 points)"
+        },
+        {
+          "answer": "Turkey",
+          "display": "#4 — Düm Tek Tek by Hadise (177 points)",
+          "aliases": [
+            "Türkiye"
+          ]
+        },
+        {
+          "answer": "United Kingdom",
+          "display": "#5 — It's My Time by Jade Ewen (173 points)",
+          "aliases": [
+            "UK",
+            "Britain",
+            "Great Britain"
+          ]
+        },
+        {
+          "answer": "Estonia",
+          "display": "#6 — Rändajad by Urban Symphony (129 points)"
+        },
+        {
+          "answer": "Greece",
+          "display": "#7 — This Is Our Night by Sakis Rouvas (120 points)"
+        },
+        {
+          "answer": "France",
+          "display": "#8 — Et s'il fallait le faire by Patricia Kaas (107 points)"
+        },
+        {
+          "answer": "Bosnia and Herzegovina",
+          "display": "#9 — Bistra voda by Regina (106 points)",
+          "aliases": [
+            "Bosnia"
+          ]
+        },
+        {
+          "answer": "Armenia",
+          "display": "#10 — Jan Jan by Inga and Anush (92 points)"
+        },
+        {
+          "answer": "Russia",
+          "display": "#11 — Mamo by Anastasia Prikhodko (91 points)"
+        },
+        {
+          "answer": "Ukraine",
+          "display": "#12 — Be My Valentine! (Anti-Crisis Girl) by Svetlana Loboda (76 points)"
+        },
+        {
+          "answer": "Denmark",
+          "display": "#13 — Believe Again by Brinck (74 points)"
+        }
+      ]
+    },
+    {
+      "category": "music/eurovision",
+      "question": "Top 10 countries in the Eurovision Song Contest 2010 grand final",
+      "cutoff": 10,
+      "difficulty": 1,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1373069232 | table 5 | name: Country | value: Place | order: asc",
+      "tags": [
+        "music",
+        "eurovision",
+        "2010"
+      ],
+      "answers": [
+        {
+          "answer": "Germany",
+          "display": "#1 — Satellite by Lena (246 points)"
+        },
+        {
+          "answer": "Turkey",
+          "display": "#2 — We Could Be the Same by Manga (170 points)",
+          "aliases": [
+            "Türkiye"
+          ]
+        },
+        {
+          "answer": "Romania",
+          "display": "#3 — Playing with Fire by Paula Seling and Ovi (162 points)"
+        },
+        {
+          "answer": "Denmark",
+          "display": "#4 — In a Moment like This by Chanée and N'evergreen (149 points)"
+        },
+        {
+          "answer": "Azerbaijan",
+          "display": "#5 — Drip Drop by Safura (145 points)"
+        },
+        {
+          "answer": "Belgium",
+          "display": "#6 — Me and My Guitar by Tom Dice (143 points)"
+        },
+        {
+          "answer": "Armenia",
+          "display": "#7 — Apricot Stone by Eva Rivas (141 points)"
+        },
+        {
+          "answer": "Greece",
+          "display": "#8 — Opa by Giorgos Alkaios and Friends (140 points)"
+        },
+        {
+          "answer": "Georgia",
+          "display": "#9 — Shine by Sofia Nizharadze (136 points)"
+        },
+        {
+          "answer": "Ukraine",
+          "display": "#10 — Sweet People by Alyosha (108 points)"
+        },
+        {
+          "answer": "Russia",
+          "display": "#11 — Lost and Forgotten by Peter Nalitch and Friends (90 points)"
+        },
+        {
+          "answer": "France",
+          "display": "#12 — Allez Ola Olé by Jessy Matador (82 points)"
+        },
+        {
+          "answer": "Serbia",
+          "display": "#13 — Ovo je Balkan by Milan Stanković (72 points)"
+        }
+      ]
+    },
+    {
+      "category": "music/eurovision",
+      "question": "Top 10 countries in the Eurovision Song Contest 2011 grand final",
+      "cutoff": 10,
+      "difficulty": 1,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1373202743 | table 6 | name: Country | value: Place | order: asc",
+      "tags": [
+        "music",
+        "eurovision",
+        "2011"
+      ],
+      "answers": [
+        {
+          "answer": "Azerbaijan",
+          "display": "#1 — Running Scared by Ell and Nikki (221 points)"
+        },
+        {
+          "answer": "Italy",
+          "display": "#2 — Madness of Love by Raphael Gualazzi (189 points)"
+        },
+        {
+          "answer": "Sweden",
+          "display": "#3 — Popular by Eric Saade (185 points)"
+        },
+        {
+          "answer": "Ukraine",
+          "display": "#4 — Angel by Mika Newton (159 points)"
+        },
+        {
+          "answer": "Denmark",
+          "display": "#5 — New Tomorrow by A Friend in London (134 points)"
+        },
+        {
+          "answer": "Bosnia and Herzegovina",
+          "display": "#6 — Love in Rewind by Dino Merlin (125 points)",
+          "aliases": [
+            "Bosnia"
+          ]
+        },
+        {
+          "answer": "Greece",
+          "display": "#7 — Watch My Dance by Loukas Yorkas feat. Stereo Mike (120 points)"
+        },
+        {
+          "answer": "Ireland",
+          "display": "#8 — Lipstick by Jedward (119 points)"
+        },
+        {
+          "answer": "Georgia",
+          "display": "#9 — One More Day by Eldrine (110 points)"
+        },
+        {
+          "answer": "Germany",
+          "display": "#10 — Taken by a Stranger by Lena (107 points)"
+        },
+        {
+          "answer": "United Kingdom",
+          "display": "#11 — I Can by Blue (100 points)",
+          "aliases": [
+            "UK",
+            "Britain",
+            "Great Britain"
+          ]
+        },
+        {
+          "answer": "Moldova",
+          "display": "#12 — So Lucky by Zdob și Zdub (97 points)"
+        },
+        {
+          "answer": "Slovenia",
+          "display": "#13 — No One by Maja Keuc (96 points)"
+        }
+      ]
+    },
+    {
+      "category": "music/eurovision",
+      "question": "Top 10 countries in the Eurovision Song Contest 2012 grand final",
+      "cutoff": 10,
+      "difficulty": 1,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1378877301 | table 5 | name: Country | value: Place | order: asc",
+      "tags": [
+        "music",
+        "eurovision",
+        "2012"
+      ],
+      "answers": [
+        {
+          "answer": "Sweden",
+          "display": "#1 — Euphoria by Loreen (372 points)"
+        },
+        {
+          "answer": "Russia",
+          "display": "#2 — Party for Everybody by Buranovskiye Babushki (259 points)"
+        },
+        {
+          "answer": "Serbia",
+          "display": "#3 — Nije ljubav stvar by Željko Joksimović (214 points)"
+        },
+        {
+          "answer": "Azerbaijan",
+          "display": "#4 — When the Music Dies by Sabina Babayeva (150 points)"
+        },
+        {
+          "answer": "Albania",
+          "display": "#5 — Suus by Rona Nishliu (146 points)"
+        },
+        {
+          "answer": "Estonia",
+          "display": "#6 — Kuula by Ott Lepland (120 points)"
+        },
+        {
+          "answer": "Turkey",
+          "display": "#7 — Love Me Back by Can Bonomo (112 points)",
+          "aliases": [
+            "Türkiye"
+          ]
+        },
+        {
+          "answer": "Germany",
+          "display": "#8 — Standing Still by Roman Lob (110 points)"
+        },
+        {
+          "answer": "Italy",
+          "display": "#9 — L'amore è femmina (Out of Love) by Nina Zilli (101 points)"
+        },
+        {
+          "answer": "Spain",
+          "display": "#10 — Quédate conmigo by Pastora Soler (97 points)"
+        },
+        {
+          "answer": "Moldova",
+          "display": "#11 — Lăutar by Pasha Parfeny (81 points)"
+        },
+        {
+          "answer": "Romania",
+          "display": "#12 — Zaleilah by Mandinga (71 points)"
+        },
+        {
+          "answer": "North Macedonia",
+          "display": "#13 — Crno i belo by Kaliopi (71 points)",
+          "aliases": [
+            "Macedonia"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "music/eurovision",
+      "question": "Top 10 countries in the Eurovision Song Contest 2013 grand final",
+      "cutoff": 10,
+      "difficulty": 1,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1373205184 | table 6 | name: Country | value: Place | order: asc",
+      "tags": [
+        "music",
+        "eurovision",
+        "2013"
+      ],
+      "answers": [
+        {
+          "answer": "Denmark",
+          "display": "#1 — Only Teardrops by Emmelie de Forest (281 points)"
+        },
+        {
+          "answer": "Azerbaijan",
+          "display": "#2 — Hold Me by Farid Mammadov (234 points)"
+        },
+        {
+          "answer": "Ukraine",
+          "display": "#3 — Gravity by Zlata Ognevich (214 points)"
+        },
+        {
+          "answer": "Norway",
+          "display": "#4 — I Feed You My Love by Margaret Berger (191 points)"
+        },
+        {
+          "answer": "Russia",
+          "display": "#5 — What If by Dina Garipova (174 points)"
+        },
+        {
+          "answer": "Greece",
+          "display": "#6 — Alcohol Is Free by Koza Mostra feat. Agathon Iakovidis (152 points)"
+        },
+        {
+          "answer": "Italy",
+          "display": "#7 — L'essenziale by Marco Mengoni (126 points)"
+        },
+        {
+          "answer": "Malta",
+          "display": "#8 — Tomorrow by Gianluca (120 points)"
+        },
+        {
+          "answer": "Netherlands",
+          "display": "#9 — Birds by Anouk (114 points)",
+          "aliases": [
+            "Holland"
+          ]
+        },
+        {
+          "answer": "Hungary",
+          "display": "#10 — Kedvesem\" (Zoohacker Remix) by ByeAlex (84 points)"
+        },
+        {
+          "answer": "Moldova",
+          "display": "#11 — O mie by Aliona Moon (71 points)"
+        },
+        {
+          "answer": "Belgium",
+          "display": "#12 — Love Kills by Roberto Bellarosa (71 points)"
+        },
+        {
+          "answer": "Romania",
+          "display": "#13 — It's My Life by Cezar (65 points)"
+        }
+      ]
+    },
+    {
+      "category": "music/eurovision",
+      "question": "Top 10 countries in the Eurovision Song Contest 2014 grand final",
+      "cutoff": 10,
+      "difficulty": 1,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1367375806 | table 6 | name: Country | value: Place | order: asc",
+      "tags": [
+        "music",
+        "eurovision",
+        "2014"
+      ],
+      "answers": [
+        {
+          "answer": "Austria",
+          "display": "#1 — Rise Like a Phoenix by Conchita Wurst (290 points)"
+        },
+        {
+          "answer": "Netherlands",
+          "display": "#2 — Calm After the Storm by The Common Linnets (238 points)",
+          "aliases": [
+            "Holland"
+          ]
+        },
+        {
+          "answer": "Sweden",
+          "display": "#3 — Undo by Sanna Nielsen (218 points)"
+        },
+        {
+          "answer": "Armenia",
+          "display": "#4 — Not Alone by Aram Mp3 (174 points)"
+        },
+        {
+          "answer": "Hungary",
+          "display": "#5 — Running by András Kállay-Saunders (143 points)"
+        },
+        {
+          "answer": "Ukraine",
+          "display": "#6 — Tick-Tock by Mariya Yaremchuk (113 points)"
+        },
+        {
+          "answer": "Russia",
+          "display": "#7 — Shine by Tolmachevy Sisters (89 points)"
+        },
+        {
+          "answer": "Norway",
+          "display": "#8 — Silent Storm by Carl Espen (88 points)"
+        },
+        {
+          "answer": "Denmark",
+          "display": "#9 — Cliche Love Song by Basim (74 points)"
+        },
+        {
+          "answer": "Spain",
+          "display": "#10 — Dancing in the Rain by Ruth Lorenzo (74 points)"
+        },
+        {
+          "answer": "Finland",
+          "display": "#11 — Something Better by Softengine (72 points)"
+        },
+        {
+          "answer": "Romania",
+          "display": "#12 — Miracle by Paula Seling and Ovi (72 points)"
+        },
+        {
+          "answer": "Switzerland",
+          "display": "#13 — Hunter of Stars by Sebalter (64 points)"
+        }
+      ]
+    },
+    {
+      "category": "music/eurovision",
+      "question": "Top 10 countries in the Eurovision Song Contest 2015 grand final",
+      "cutoff": 10,
+      "difficulty": 1,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1373206790 | table 6 | name: Country | value: Place | order: asc",
+      "tags": [
+        "music",
+        "eurovision",
+        "2015"
+      ],
+      "answers": [
+        {
+          "answer": "Sweden",
+          "display": "#1 — Heroes by Måns Zelmerlöw (365 points)"
+        },
+        {
+          "answer": "Russia",
+          "display": "#2 — A Million Voices by Polina Gagarina (303 points)"
+        },
+        {
+          "answer": "Italy",
+          "display": "#3 — Grande amore by Il Volo (292 points)"
+        },
+        {
+          "answer": "Belgium",
+          "display": "#4 — Rhythm Inside by Loïc Nottet (217 points)"
+        },
+        {
+          "answer": "Australia",
+          "display": "#5 — Tonight Again by Guy Sebastian (196 points)"
+        },
+        {
+          "answer": "Latvia",
+          "display": "#6 — Love Injected by Aminata (186 points)"
+        },
+        {
+          "answer": "Estonia",
+          "display": "#7 — Goodbye to Yesterday by Elina Born and Stig Rästa (106 points)"
+        },
+        {
+          "answer": "Norway",
+          "display": "#8 — A Monster Like Me by Mørland and Debrah Scarlett (102 points)"
+        },
+        {
+          "answer": "Israel",
+          "display": "#9 — Golden Boy by Nadav Guedj (97 points)"
+        },
+        {
+          "answer": "Serbia",
+          "display": "#10 — Beauty Never Lies by Bojana Stamenov (53 points)"
+        },
+        {
+          "answer": "Georgia",
+          "display": "#11 — Warrior by Nina Sublatti (51 points)"
+        },
+        {
+          "answer": "Azerbaijan",
+          "display": "#12 — Hour of the Wolf by Elnur Hüseynov (49 points)"
+        },
+        {
+          "answer": "Montenegro",
+          "display": "#13 — Adio by Knez (44 points)"
+        }
+      ]
+    },
+    {
+      "category": "music/eurovision",
+      "question": "Top 10 countries in the Eurovision Song Contest 2016 grand final",
+      "cutoff": 10,
+      "difficulty": 1,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1373207137 | table 6 | name: Country | value: Place | order: asc",
+      "tags": [
+        "music",
+        "eurovision",
+        "2016"
+      ],
+      "answers": [
+        {
+          "answer": "Ukraine",
+          "display": "#1 — 1944 by Jamala (534 points)"
+        },
+        {
+          "answer": "Australia",
+          "display": "#2 — Sound of Silence by Dami Im (511 points)"
+        },
+        {
+          "answer": "Russia",
+          "display": "#3 — You Are the Only One by Sergey Lazarev (491 points)"
+        },
+        {
+          "answer": "Bulgaria",
+          "display": "#4 — If Love Was a Crime by Poli Genova (307 points)"
+        },
+        {
+          "answer": "Sweden",
+          "display": "#5 — If I Were Sorry by Frans (261 points)"
+        },
+        {
+          "answer": "France",
+          "display": "#6 — J'ai cherché by Amir (257 points)"
+        },
+        {
+          "answer": "Armenia",
+          "display": "#7 — LoveWave by Iveta Mukuchyan (249 points)"
+        },
+        {
+          "answer": "Poland",
+          "display": "#8 — Color of Your Life by Michał Szpak (229 points)"
+        },
+        {
+          "answer": "Lithuania",
+          "display": "#9 — I've Been Waiting for This Night by Donny Montell (200 points)"
+        },
+        {
+          "answer": "Belgium",
+          "display": "#10 — What's the Pressure by Laura Tesoro (181 points)"
+        },
+        {
+          "answer": "Netherlands",
+          "display": "#11 — Slow Down by Douwe Bob (153 points)",
+          "aliases": [
+            "Holland"
+          ]
+        },
+        {
+          "answer": "Malta",
+          "display": "#12 — Walk on Water by Ira Losco (153 points)"
+        },
+        {
+          "answer": "Austria",
+          "display": "#13 — Loin d'ici by Zoë (151 points)"
+        }
+      ]
+    },
+    {
+      "category": "music/eurovision",
+      "question": "Top 10 countries in the Eurovision Song Contest 2017 grand final",
+      "cutoff": 10,
+      "difficulty": 1,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1374456829 | table 6 | name: Country | value: Place | order: asc",
+      "tags": [
+        "music",
+        "eurovision",
+        "2017"
+      ],
+      "answers": [
+        {
+          "answer": "Portugal",
+          "display": "#1 — Amar pelos dois by Salvador Sobral (758 points)"
+        },
+        {
+          "answer": "Bulgaria",
+          "display": "#2 — Beautiful Mess by Kristian Kostov (615 points)"
+        },
+        {
+          "answer": "Moldova",
+          "display": "#3 — Hey Mamma by SunStroke Project (374 points)"
+        },
+        {
+          "answer": "Belgium",
+          "display": "#4 — City Lights by Blanche (363 points)"
+        },
+        {
+          "answer": "Sweden",
+          "display": "#5 — I Can't Go On by Robin Bengtsson (344 points)"
+        },
+        {
+          "answer": "Italy",
+          "display": "#6 — Occidentali's Karma by Francesco Gabbani (334 points)"
+        },
+        {
+          "answer": "Romania",
+          "display": "#7 — Yodel It! by Ilinca feat. Alex Florea (282 points)"
+        },
+        {
+          "answer": "Hungary",
+          "display": "#8 — Origo by Joci Pápai (200 points)"
+        },
+        {
+          "answer": "Australia",
+          "display": "#9 — Don't Come Easy by Isaiah (173 points)"
+        },
+        {
+          "answer": "Norway",
+          "display": "#10 — Grab the Moment by Jowst (158 points)"
+        },
+        {
+          "answer": "Netherlands",
+          "display": "#11 — Lights and Shadows by Og3ne (150 points)",
+          "aliases": [
+            "Holland"
+          ]
+        },
+        {
+          "answer": "France",
+          "display": "#12 — Requiem by Alma (135 points)"
+        },
+        {
+          "answer": "Croatia",
+          "display": "#13 — My Friend by Jacques Houdek (128 points)"
+        }
+      ]
+    },
+    {
+      "category": "music/eurovision",
+      "question": "Top 10 countries in the Eurovision Song Contest 2018 grand final",
+      "cutoff": 10,
+      "difficulty": 1,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1378844074 | table 6 | name: Country | value: Place | order: asc",
+      "tags": [
+        "music",
+        "eurovision",
+        "2018"
+      ],
+      "answers": [
+        {
+          "answer": "Israel",
+          "display": "#1 — Toy by Netta (529 points)"
+        },
+        {
+          "answer": "Cyprus",
+          "display": "#2 — Fuego by Eleni Foureira (436 points)"
+        },
+        {
+          "answer": "Austria",
+          "display": "#3 — Nobody but You by Cesár Sampson (342 points)"
+        },
+        {
+          "answer": "Germany",
+          "display": "#4 — You Let Me Walk Alone by Michael Schulte (340 points)"
+        },
+        {
+          "answer": "Italy",
+          "display": "#5 — Non mi avete fatto niente by Ermal Meta and Fabrizio Moro (308 points)"
+        },
+        {
+          "answer": "Czechia",
+          "display": "#6 — Lie to Me by Mikolas Josef (281 points)",
+          "aliases": [
+            "Czech Republic"
+          ]
+        },
+        {
+          "answer": "Sweden",
+          "display": "#7 — Dance You Off by Benjamin Ingrosso (274 points)"
+        },
+        {
+          "answer": "Estonia",
+          "display": "#8 — La forza by Elina Nechayeva (245 points)"
+        },
+        {
+          "answer": "Denmark",
+          "display": "#9 — Higher Ground by Rasmussen (226 points)"
+        },
+        {
+          "answer": "Moldova",
+          "display": "#10 — My Lucky Day by DoReDoS (209 points)"
+        },
+        {
+          "answer": "Albania",
+          "display": "#11 — Mall by Eugent Bushpepa (184 points)"
+        },
+        {
+          "answer": "Lithuania",
+          "display": "#12 — When We're Old by Ieva Zasimauskaitė (181 points)"
+        },
+        {
+          "answer": "France",
+          "display": "#13 — Mercy by Madame Monsieur (173 points)"
+        }
+      ]
+    },
+    {
+      "category": "music/eurovision",
+      "question": "Top 10 countries in the Eurovision Song Contest 2019 grand final",
+      "cutoff": 10,
+      "difficulty": 1,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1379585686 | table 6 | name: Country | value: Place | order: asc",
+      "tags": [
+        "music",
+        "eurovision",
+        "2019"
+      ],
+      "answers": [
+        {
+          "answer": "Netherlands",
+          "display": "#1 — Arcade by Duncan Laurence (498 points)",
+          "aliases": [
+            "Holland"
+          ]
+        },
+        {
+          "answer": "Italy",
+          "display": "#2 — Soldi by Mahmood (472 points)"
+        },
+        {
+          "answer": "Russia",
+          "display": "#3 — Scream by Sergey Lazarev (370 points)"
+        },
+        {
+          "answer": "Switzerland",
+          "display": "#4 — She Got Me by Luca Hänni (364 points)"
+        },
+        {
+          "answer": "Sweden",
+          "display": "#5 — Too Late for Love by John Lundvik (334 points)"
+        },
+        {
+          "answer": "Norway",
+          "display": "#6 — Spirit in the Sky by Keiino (331 points)"
+        },
+        {
+          "answer": "North Macedonia",
+          "display": "#7 — Proud by Tamara Todevska (305 points)",
+          "aliases": [
+            "Macedonia"
+          ]
+        },
+        {
+          "answer": "Azerbaijan",
+          "display": "#8 — Truth by Chingiz (302 points)"
+        },
+        {
+          "answer": "Australia",
+          "display": "#9 — Zero Gravity by Kate Miller-Heidke (284 points)"
+        },
+        {
+          "answer": "Iceland",
+          "display": "#10 — Hatrið mun sigra by Hatari (232 points)"
+        },
+        {
+          "answer": "Czechia",
+          "display": "#11 — Friend of a Friend by Lake Malawi (157 points)",
+          "aliases": [
+            "Czech Republic"
+          ]
+        },
+        {
+          "answer": "Denmark",
+          "display": "#12 — Love Is Forever by Leonora (120 points)"
+        },
+        {
+          "answer": "Cyprus",
+          "display": "#13 — Replay by Tamta (109 points)"
+        }
+      ]
+    },
+    {
+      "category": "music/eurovision",
+      "question": "Top 10 countries in the Eurovision Song Contest 2021 grand final",
+      "cutoff": 10,
+      "difficulty": 1,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1379734512 | table 6 | name: Country | value: Place | order: asc",
+      "tags": [
+        "music",
+        "eurovision",
+        "2021"
+      ],
+      "answers": [
+        {
+          "answer": "Italy",
+          "display": "#1 — Zitti e buoni by Måneskin (524 points)"
+        },
+        {
+          "answer": "France",
+          "display": "#2 — Voilà by Barbara Pravi (499 points)"
+        },
+        {
+          "answer": "Switzerland",
+          "display": "#3 — Tout l'univers by Gjon's Tears (432 points)"
+        },
+        {
+          "answer": "Iceland",
+          "display": "#4 — by Daði og Gagnamagnið (378 points)"
+        },
+        {
+          "answer": "Ukraine",
+          "display": "#5 — Shum by Go_A (364 points)"
+        },
+        {
+          "answer": "Finland",
+          "display": "#6 — Dark Side by Blind Channel (301 points)"
+        },
+        {
+          "answer": "Malta",
+          "display": "#7 — Je me casse by Destiny (255 points)"
+        },
+        {
+          "answer": "Lithuania",
+          "display": "#8 — Discoteque by The Roop (220 points)"
+        },
+        {
+          "answer": "Russia",
+          "display": "#9 — Russian Woman by Manizha (204 points)"
+        },
+        {
+          "answer": "Greece",
+          "display": "#10 — Last Dance by Stefania (170 points)"
+        },
+        {
+          "answer": "Bulgaria",
+          "display": "#11 — Growing Up Is Getting Old by Victoria (170 points)"
+        },
+        {
+          "answer": "Portugal",
+          "display": "#12 — Love Is on My Side by The Black Mamba (153 points)"
+        },
+        {
+          "answer": "Moldova",
+          "display": "#13 — Sugar by Natalia Gordienko (115 points)"
+        }
+      ]
+    },
+    {
+      "category": "music/eurovision",
+      "question": "Top 10 countries in the Eurovision Song Contest 2022 grand final",
+      "cutoff": 10,
+      "difficulty": 1,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1379720235 | table 6 | name: Country | value: Place | order: asc",
+      "tags": [
+        "music",
+        "eurovision",
+        "2022"
+      ],
+      "answers": [
+        {
+          "answer": "Ukraine",
+          "display": "#1 — Stefania by Kalush Orchestra (631 points)"
+        },
+        {
+          "answer": "United Kingdom",
+          "display": "#2 — Space Man by Sam Ryder (466 points)",
+          "aliases": [
+            "UK",
+            "Britain",
+            "Great Britain"
+          ]
+        },
+        {
+          "answer": "Spain",
+          "display": "#3 — SloMo by Chanel (459 points)"
+        },
+        {
+          "answer": "Sweden",
+          "display": "#4 — Hold Me Closer by Cornelia Jakobs (438 points)"
+        },
+        {
+          "answer": "Serbia",
+          "display": "#5 — In corpore sano by Konstrakta (312 points)"
+        },
+        {
+          "answer": "Italy",
+          "display": "#6 — Brividi by Mahmood and Blanco (268 points)"
+        },
+        {
+          "answer": "Moldova",
+          "display": "#7 — Trenulețul by Zdob și Zdub and Advahov Brothers (253 points)"
+        },
+        {
+          "answer": "Greece",
+          "display": "#8 — Die Together by Amanda Georgiadi Tenfjord (215 points)"
+        },
+        {
+          "answer": "Portugal",
+          "display": "#9 — Saudade, saudade by Maro (207 points)"
+        },
+        {
+          "answer": "Norway",
+          "display": "#10 — Give That Wolf a Banana by Subwoolfer (182 points)"
+        },
+        {
+          "answer": "Netherlands",
+          "display": "#11 — De diepte by S10 (171 points)",
+          "aliases": [
+            "Holland"
+          ]
+        },
+        {
+          "answer": "Poland",
+          "display": "#12 — River by Ochman (151 points)"
+        },
+        {
+          "answer": "Estonia",
+          "display": "#13 — Hope by Stefan (141 points)"
+        }
+      ]
+    },
+    {
+      "category": "music/eurovision",
+      "question": "Top 10 countries in the Eurovision Song Contest 2023 grand final",
+      "cutoff": 10,
+      "difficulty": 1,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1379735709 | table 7 | name: Country | value: Place | order: asc",
+      "tags": [
+        "music",
+        "eurovision",
+        "2023"
+      ],
+      "answers": [
+        {
+          "answer": "Sweden",
+          "display": "#1 — Tattoo by Loreen (583 points)"
+        },
+        {
+          "answer": "Finland",
+          "display": "#2 — Cha Cha Cha by Käärijä (526 points)"
+        },
+        {
+          "answer": "Israel",
+          "display": "#3 — Unicorn by Noa Kirel (362 points)"
+        },
+        {
+          "answer": "Italy",
+          "display": "#4 — Due vite by Marco Mengoni (350 points)"
+        },
+        {
+          "answer": "Norway",
+          "display": "#5 — Queen of Kings by Alessandra (268 points)"
+        },
+        {
+          "answer": "Ukraine",
+          "display": "#6 — Heart of Steel by Tvorchi (243 points)"
+        },
+        {
+          "answer": "Belgium",
+          "display": "#7 — Because of You by Gustaph (182 points)"
+        },
+        {
+          "answer": "Estonia",
+          "display": "#8 — Bridges by Alika (168 points)"
+        },
+        {
+          "answer": "Australia",
+          "display": "#9 — Promise by Voyager (151 points)"
+        },
+        {
+          "answer": "Czechia",
+          "display": "#10 — My Sister's Crown by Vesna (129 points)",
+          "aliases": [
+            "Czech Republic"
+          ]
+        },
+        {
+          "answer": "Lithuania",
+          "display": "#11 — Stay by Monika Linkytė (127 points)"
+        },
+        {
+          "answer": "Cyprus",
+          "display": "#12 — Break a Broken Heart by Andrew Lambrou (126 points)"
+        },
+        {
+          "answer": "Croatia",
+          "display": "#13 — Mama ŠČ! by Let 3 (123 points)"
+        }
+      ]
+    },
+    {
+      "category": "music/eurovision",
+      "question": "Top 10 countries in the Eurovision Song Contest 2024 grand final",
+      "cutoff": 10,
+      "difficulty": 1,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1379582116 | table 7 | name: Country | value: Place | order: asc",
+      "tags": [
+        "music",
+        "eurovision",
+        "2024"
+      ],
+      "answers": [
+        {
+          "answer": "Switzerland",
+          "display": "#1 — The Code by Nemo (591 points)"
+        },
+        {
+          "answer": "Croatia",
+          "display": "#2 — Rim Tim Tagi Dim by Baby Lasagna (547 points)"
+        },
+        {
+          "answer": "Ukraine",
+          "display": "#3 — Teresa & Maria by Alyona Alyona and Jerry Heil (453 points)"
+        },
+        {
+          "answer": "France",
+          "display": "#4 — Mon amour by Slimane (445 points)"
+        },
+        {
+          "answer": "Israel",
+          "display": "#5 — Hurricane by Eden Golan (375 points)"
+        },
+        {
+          "answer": "Ireland",
+          "display": "#6 — Doomsday Blue by Bambie Thug (278 points)"
+        },
+        {
+          "answer": "Italy",
+          "display": "#7 — La noia by Angelina Mango (268 points)"
+        },
+        {
+          "answer": "Armenia",
+          "display": "#8 — Jako by Ladaniva (183 points)"
+        },
+        {
+          "answer": "Sweden",
+          "display": "#9 — Unforgettable by Marcus & Martinus (174 points)"
+        },
+        {
+          "answer": "Portugal",
+          "display": "#10 — Grito by Iolanda (152 points)"
+        },
+        {
+          "answer": "Greece",
+          "display": "#11 — Zari by Marina Satti (126 points)"
+        },
+        {
+          "answer": "Germany",
+          "display": "#12 — Always on the Run by Isaak (117 points)"
+        },
+        {
+          "answer": "Luxembourg",
+          "display": "#13 — Fighter by Tali (103 points)"
+        }
+      ]
+    },
+    {
+      "category": "music/eurovision",
+      "question": "Top 10 countries in the Eurovision Song Contest 2025 grand final",
+      "cutoff": 10,
+      "difficulty": 1,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1378018909 | table 6 | name: Country | value: Place | order: asc",
+      "tags": [
+        "music",
+        "eurovision",
+        "2025"
+      ],
+      "answers": [
+        {
+          "answer": "Austria",
+          "display": "#1 — Wasted Love by JJ (436 points)"
+        },
+        {
+          "answer": "Israel",
+          "display": "#2 — New Day Will Rise by Yuval Raphael (357 points)"
+        },
+        {
+          "answer": "Estonia",
+          "display": "#3 — Espresso Macchiato by Tommy Cash (356 points)"
+        },
+        {
+          "answer": "Sweden",
+          "display": "#4 — Bara bada bastu by KAJ (321 points)"
+        },
+        {
+          "answer": "Italy",
+          "display": "#5 — Volevo essere un duro by Lucio Corsi (256 points)"
+        },
+        {
+          "answer": "Greece",
+          "display": "#6 — Asteromata by Klavdia (231 points)"
+        },
+        {
+          "answer": "France",
+          "display": "#7 — Maman by Louane (230 points)"
+        },
+        {
+          "answer": "Albania",
+          "display": "#8 — Zjerm by Shkodra Elektronike (218 points)"
+        },
+        {
+          "answer": "Ukraine",
+          "display": "#9 — Bird of Pray by Ziferblat (218 points)"
+        },
+        {
+          "answer": "Switzerland",
+          "display": "#10 — Voyage by Zoë Më (214 points)"
+        },
+        {
+          "answer": "Finland",
+          "display": "#11 — Ich komme by Erika Vikman (196 points)"
+        },
+        {
+          "answer": "Netherlands",
+          "display": "#12 — C'est la vie by Claude (175 points)",
+          "aliases": [
+            "Holland"
+          ]
+        },
+        {
+          "answer": "Latvia",
+          "display": "#13 — Bur man laimi by Tautumeitas (158 points)"
+        }
+      ]
+    }
+  ]
+}

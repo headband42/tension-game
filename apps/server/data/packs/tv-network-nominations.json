@@ -1,0 +1,563 @@
+{
+  "categories": [
+    {
+      "path": "tv/awards/networks",
+      "name": "Networks at the Emmys"
+    }
+  ],
+  "questions": [
+    {
+      "category": "tv/awards/networks",
+      "question": "Top 5 networks by nominations at the 71st Primetime Emmy Awards (all categories, including Creative Arts)",
+      "cutoff": 5,
+      "difficulty": 3,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1365311995 | table 11 | name: Network | value: Nominations",
+      "tags": [
+        "emmys",
+        "primetime-emmys",
+        "television",
+        "awards",
+        "networks"
+      ],
+      "answers": [
+        {
+          "answer": "HBO",
+          "display": "137 nominations",
+          "aliases": [
+            "HBO Max",
+            "Max"
+          ]
+        },
+        {
+          "answer": "Netflix",
+          "display": "118 nominations"
+        },
+        {
+          "answer": "NBC",
+          "display": "58 nominations"
+        },
+        {
+          "answer": "Prime Video",
+          "display": "47 nominations",
+          "aliases": [
+            "Amazon Prime Video",
+            "Amazon"
+          ]
+        },
+        {
+          "answer": "CBS",
+          "display": "43 nominations"
+        },
+        {
+          "answer": "FX",
+          "display": "32 nominations",
+          "aliases": [
+            "FX Networks"
+          ]
+        },
+        {
+          "answer": "ABC",
+          "display": "26 nominations"
+        },
+        {
+          "answer": "Hulu",
+          "display": "20 nominations"
+        }
+      ]
+    },
+    {
+      "category": "tv/awards/networks",
+      "question": "Top 7 networks by nominations at the 72nd Primetime Emmy Awards (all categories, including Creative Arts)",
+      "cutoff": 7,
+      "difficulty": 3,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1352987767 | table 11 | name: Network | value: Nominations",
+      "tags": [
+        "emmys",
+        "primetime-emmys",
+        "television",
+        "awards",
+        "networks"
+      ],
+      "answers": [
+        {
+          "answer": "Netflix",
+          "display": "160 nominations"
+        },
+        {
+          "answer": "HBO",
+          "display": "107 nominations",
+          "aliases": [
+            "HBO Max",
+            "Max"
+          ]
+        },
+        {
+          "answer": "NBC",
+          "display": "47 nominations"
+        },
+        {
+          "answer": "ABC",
+          "display": "36 nominations"
+        },
+        {
+          "answer": "FX",
+          "display": "33 nominations",
+          "aliases": [
+            "FX Networks",
+            "FX on Hulu"
+          ]
+        },
+        {
+          "answer": "Prime Video",
+          "display": "31 nominations",
+          "aliases": [
+            "Amazon Prime Video",
+            "Amazon"
+          ]
+        },
+        {
+          "answer": "Hulu",
+          "display": "26 nominations"
+        },
+        {
+          "answer": "CBS",
+          "display": "23 nominations"
+        },
+        {
+          "answer": "Disney+",
+          "display": "19 nominations",
+          "aliases": [
+            "Disney Plus"
+          ]
+        },
+        {
+          "answer": "Apple TV+",
+          "display": "18 nominations",
+          "aliases": [
+            "Apple TV",
+            "Apple TV Plus"
+          ]
+        },
+        {
+          "answer": "Pop TV",
+          "display": "16 nominations"
+        }
+      ]
+    },
+    {
+      "category": "tv/awards/networks",
+      "question": "Top 5 networks by nominations at the 73rd Primetime Emmy Awards (all categories, including Creative Arts)",
+      "cutoff": 5,
+      "difficulty": 3,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1376756793 | table 11 | name: Network | value: Nominations",
+      "tags": [
+        "emmys",
+        "primetime-emmys",
+        "television",
+        "awards",
+        "networks"
+      ],
+      "answers": [
+        {
+          "answer": "HBO",
+          "display": "130 nominations",
+          "aliases": [
+            "HBO Max",
+            "Max"
+          ]
+        },
+        {
+          "answer": "Netflix",
+          "display": "129 nominations"
+        },
+        {
+          "answer": "Disney+",
+          "display": "71 nominations",
+          "aliases": [
+            "Disney Plus"
+          ]
+        },
+        {
+          "answer": "NBC",
+          "display": "46 nominations"
+        },
+        {
+          "answer": "Apple TV+",
+          "display": "35 nominations",
+          "aliases": [
+            "Apple TV",
+            "Apple TV Plus"
+          ]
+        },
+        {
+          "answer": "CBS",
+          "display": "26 nominations"
+        },
+        {
+          "answer": "Hulu",
+          "display": "25 nominations"
+        },
+        {
+          "answer": "ABC",
+          "display": "23 nominations"
+        }
+      ]
+    },
+    {
+      "category": "tv/awards/networks",
+      "question": "Top 5 networks by nominations at the 74th Primetime Emmy Awards (all categories, including Creative Arts)",
+      "cutoff": 5,
+      "difficulty": 3,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1374940262 | table 11 | name: Network | value: Nominations",
+      "tags": [
+        "emmys",
+        "primetime-emmys",
+        "television",
+        "awards",
+        "networks"
+      ],
+      "answers": [
+        {
+          "answer": "HBO",
+          "display": "140 nominations",
+          "aliases": [
+            "HBO Max",
+            "Max"
+          ]
+        },
+        {
+          "answer": "Netflix",
+          "display": "105 nominations"
+        },
+        {
+          "answer": "Hulu",
+          "display": "58 nominations"
+        },
+        {
+          "answer": "Apple TV+",
+          "display": "51 nominations",
+          "aliases": [
+            "Apple TV",
+            "Apple TV Plus"
+          ]
+        },
+        {
+          "answer": "Disney+",
+          "display": "34 nominations",
+          "aliases": [
+            "Disney Plus"
+          ]
+        },
+        {
+          "answer": "Prime Video",
+          "display": "30 nominations",
+          "aliases": [
+            "Amazon Prime Video",
+            "Amazon"
+          ]
+        },
+        {
+          "answer": "CBS",
+          "display": "29 nominations"
+        },
+        {
+          "answer": "NBC",
+          "display": "28 nominations"
+        }
+      ]
+    },
+    {
+      "category": "tv/awards/networks",
+      "question": "Top 8 networks by nominations at the 75th Primetime Emmy Awards (all categories, including Creative Arts)",
+      "cutoff": 8,
+      "difficulty": 3,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1374958298 | table 8 | name: Network | value: Total | header rows: 2",
+      "tags": [
+        "emmys",
+        "primetime-emmys",
+        "television",
+        "awards",
+        "networks"
+      ],
+      "answers": [
+        {
+          "answer": "HBO",
+          "display": "127 nominations",
+          "aliases": [
+            "HBO Max",
+            "Max"
+          ]
+        },
+        {
+          "answer": "Netflix",
+          "display": "103 nominations"
+        },
+        {
+          "answer": "Apple TV+",
+          "display": "54 nominations",
+          "aliases": [
+            "Apple TV",
+            "Apple TV Plus"
+          ]
+        },
+        {
+          "answer": "Hulu",
+          "display": "42 nominations"
+        },
+        {
+          "answer": "Prime Video",
+          "display": "42 nominations",
+          "aliases": [
+            "Amazon Prime Video",
+            "Amazon"
+          ]
+        },
+        {
+          "answer": "Disney+",
+          "display": "40 nominations",
+          "aliases": [
+            "Disney Plus"
+          ]
+        },
+        {
+          "answer": "FX",
+          "display": "37 nominations",
+          "aliases": [
+            "FX Networks"
+          ]
+        },
+        {
+          "answer": "ABC",
+          "display": "28 nominations"
+        },
+        {
+          "answer": "NBC",
+          "display": "27 nominations"
+        },
+        {
+          "answer": "CBS",
+          "display": "20 nominations"
+        },
+        {
+          "answer": "The Roku Channel",
+          "display": "12 nominations",
+          "aliases": [
+            "Roku Channel"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "tv/awards/networks",
+      "question": "Top 6 networks by nominations at the 76th Primetime Emmy Awards (all categories, including Creative Arts)",
+      "cutoff": 6,
+      "difficulty": 3,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1375035965 | table 8 | name: Network | value: Total | header rows: 2",
+      "tags": [
+        "emmys",
+        "primetime-emmys",
+        "television",
+        "awards",
+        "networks"
+      ],
+      "answers": [
+        {
+          "answer": "Netflix",
+          "display": "107 nominations"
+        },
+        {
+          "answer": "FX",
+          "display": "93 nominations",
+          "aliases": [
+            "FX Networks"
+          ]
+        },
+        {
+          "answer": "HBO",
+          "display": "91 nominations",
+          "aliases": [
+            "HBO Max",
+            "Max"
+          ]
+        },
+        {
+          "answer": "Apple TV+",
+          "display": "70 nominations",
+          "aliases": [
+            "Apple TV",
+            "Apple TV Plus"
+          ]
+        },
+        {
+          "answer": "ABC",
+          "display": "38 nominations"
+        },
+        {
+          "answer": "CBS",
+          "display": "38 nominations"
+        },
+        {
+          "answer": "Prime Video",
+          "display": "37 nominations",
+          "aliases": [
+            "Amazon Prime Video",
+            "Amazon"
+          ]
+        },
+        {
+          "answer": "NBC",
+          "display": "33 nominations"
+        },
+        {
+          "answer": "Hulu",
+          "display": "26 nominations"
+        }
+      ]
+    },
+    {
+      "category": "tv/awards/networks",
+      "question": "Top 5 networks by nominations at the 77th Primetime Emmy Awards (all categories, including Creative Arts)",
+      "cutoff": 5,
+      "difficulty": 3,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1371680941 | table 8 | name: Network | value: Total | header rows: 2",
+      "tags": [
+        "emmys",
+        "primetime-emmys",
+        "television",
+        "awards",
+        "networks"
+      ],
+      "answers": [
+        {
+          "answer": "HBO",
+          "display": "142 nominations",
+          "aliases": [
+            "HBO Max",
+            "Max"
+          ]
+        },
+        {
+          "answer": "Netflix",
+          "display": "120 nominations"
+        },
+        {
+          "answer": "Apple TV+",
+          "display": "79 nominations",
+          "aliases": [
+            "Apple TV",
+            "Apple TV Plus"
+          ]
+        },
+        {
+          "answer": "ABC",
+          "display": "37 nominations"
+        },
+        {
+          "answer": "FX",
+          "display": "35 nominations",
+          "aliases": [
+            "FX Networks"
+          ]
+        },
+        {
+          "answer": "NBC",
+          "display": "29 nominations"
+        },
+        {
+          "answer": "Disney+",
+          "display": "28 nominations",
+          "aliases": [
+            "Disney Plus"
+          ]
+        },
+        {
+          "answer": "CBS",
+          "display": "26 nominations"
+        },
+        {
+          "answer": "Hulu",
+          "display": "23 nominations"
+        }
+      ]
+    },
+    {
+      "category": "tv/awards/networks",
+      "question": "Top 6 networks by nominations at the 78th Primetime Emmy Awards (all categories, including Creative Arts)",
+      "cutoff": 6,
+      "difficulty": 3,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1379327811 | table 8 | name: Network | value: Total | header rows: 2",
+      "tags": [
+        "emmys",
+        "primetime-emmys",
+        "television",
+        "awards",
+        "networks"
+      ],
+      "answers": [
+        {
+          "answer": "HBO",
+          "display": "122 nominations",
+          "aliases": [
+            "HBO Max",
+            "Max"
+          ]
+        },
+        {
+          "answer": "Netflix",
+          "display": "111 nominations"
+        },
+        {
+          "answer": "Apple TV+",
+          "display": "87 nominations",
+          "aliases": [
+            "Apple TV",
+            "Apple TV Plus"
+          ]
+        },
+        {
+          "answer": "ABC",
+          "display": "40 nominations"
+        },
+        {
+          "answer": "CBS",
+          "display": "32 nominations"
+        },
+        {
+          "answer": "NBC",
+          "display": "30 nominations"
+        },
+        {
+          "answer": "Prime Video",
+          "display": "28 nominations",
+          "aliases": [
+            "Amazon Prime Video",
+            "Amazon"
+          ]
+        },
+        {
+          "answer": "FX",
+          "display": "23 nominations",
+          "aliases": [
+            "FX Networks"
+          ]
+        },
+        {
+          "answer": "Hulu",
+          "display": "22 nominations"
+        },
+        {
+          "answer": "Peacock",
+          "display": "18 nominations"
+        }
+      ]
+    }
+  ]
+}

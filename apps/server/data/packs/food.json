@@ -1,0 +1,226 @@
+{
+  "categories": [
+    {
+      "path": "food/michelin",
+      "name": "Michelin Guide"
+    },
+    {
+      "path": "food/production",
+      "name": "Food production"
+    }
+  ],
+  "questions": [
+    {
+      "category": "food/michelin",
+      "difficulty": 2,
+      "question": "Top 10 countries and regions by Michelin-starred restaurants (one star or more, latest guide editions, 2023-2026)",
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1379288317 | table 1 | name: Country | value: One star or more | note: each country's latest Michelin Guide edition (2023-2026)",
+      "tags": [
+        "food",
+        "michelin",
+        "restaurants"
+      ],
+      "answers": [
+        {
+          "answer": "France",
+          "display": "668 restaurants",
+          "aliases": [
+            "Metropolitan France and Monaco"
+          ]
+        },
+        {
+          "answer": "Japan",
+          "display": "547 restaurants"
+        },
+        {
+          "answer": "Italy",
+          "display": "394 restaurants"
+        },
+        {
+          "answer": "Germany",
+          "display": "339 restaurants"
+        },
+        {
+          "answer": "Spain",
+          "display": "307 restaurants"
+        },
+        {
+          "answer": "United States",
+          "display": "280 restaurants",
+          "aliases": [
+            "USA",
+            "US"
+          ]
+        },
+        {
+          "answer": "Great Britain and Ireland",
+          "display": "230 restaurants",
+          "aliases": [
+            "UK",
+            "Britain"
+          ]
+        },
+        {
+          "answer": "Switzerland",
+          "display": "145 restaurants"
+        },
+        {
+          "answer": "Belgium & Luxembourg",
+          "display": "139 restaurants",
+          "aliases": [
+            "Belgium",
+            "Luxembourg"
+          ]
+        },
+        {
+          "answer": "China",
+          "display": "131 restaurants",
+          "aliases": [
+            "Mainland China"
+          ]
+        },
+        {
+          "answer": "Netherlands",
+          "display": "119 restaurants",
+          "aliases": [
+            "Holland"
+          ]
+        },
+        {
+          "answer": "Austria",
+          "display": "101 restaurants"
+        },
+        {
+          "answer": "Nordic countries",
+          "display": "99 restaurants"
+        }
+      ]
+    },
+    {
+      "category": "food/production",
+      "difficulty": 2,
+      "cutoff": 7,
+      "question": "Top 7 countries by tea production (2022)",
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1379637987 | table 1 | name: Country | value: Million tonnes | where: Country!~World | note: FAO data as listed in the Tea article",
+      "tags": [
+        "food",
+        "tea",
+        "production"
+      ],
+      "answers": [
+        {
+          "answer": "China",
+          "display": "14.53 million t"
+        },
+        {
+          "answer": "India",
+          "display": "5.97 million t"
+        },
+        {
+          "answer": "Kenya",
+          "display": "2.33 million t"
+        },
+        {
+          "answer": "Sri Lanka",
+          "display": "1.40 million t",
+          "aliases": [
+            "Ceylon"
+          ]
+        },
+        {
+          "answer": "Turkey",
+          "display": "1.30 million t",
+          "aliases": [
+            "Turkiye",
+            "Türkiye"
+          ]
+        },
+        {
+          "answer": "Vietnam",
+          "display": "1.12 million t"
+        },
+        {
+          "answer": "Indonesia",
+          "display": "0.60 million t"
+        },
+        {
+          "answer": "Bangladesh",
+          "display": "0.44 million t"
+        },
+        {
+          "answer": "Argentina",
+          "display": "0.36 million t"
+        },
+        {
+          "answer": "Uganda",
+          "display": "0.33 million t"
+        }
+      ]
+    },
+    {
+      "category": "food/production",
+      "difficulty": 2,
+      "cutoff": 7,
+      "question": "Top 7 countries by cow's milk production (2024)",
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1379624351 | table 3 | name: Country | value: Production",
+      "tags": [
+        "food",
+        "dairy",
+        "production"
+      ],
+      "answers": [
+        {
+          "answer": "India",
+          "display": "135 million t"
+        },
+        {
+          "answer": "United States",
+          "display": "102.5 million t",
+          "aliases": [
+            "USA",
+            "US"
+          ]
+        },
+        {
+          "answer": "China",
+          "display": "40.8 million t"
+        },
+        {
+          "answer": "Brazil",
+          "display": "36.8 million t"
+        },
+        {
+          "answer": "Germany",
+          "display": "33.8 million t"
+        },
+        {
+          "answer": "Russia",
+          "display": "32.8 million t"
+        },
+        {
+          "answer": "Pakistan",
+          "display": "24.8 million t"
+        },
+        {
+          "answer": "France",
+          "display": "24.2 million t"
+        },
+        {
+          "answer": "New Zealand",
+          "display": "21.5 million t"
+        },
+        {
+          "answer": "Turkey",
+          "display": "21.0 million t",
+          "aliases": [
+            "Turkiye",
+            "Türkiye"
+          ]
+        }
+      ]
+    }
+  ]
+}

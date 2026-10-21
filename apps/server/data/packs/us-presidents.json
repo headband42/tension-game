@@ -1,0 +1,536 @@
+{
+  "categories": [
+    {
+      "path": "history",
+      "name": "History"
+    },
+    {
+      "path": "history/us-presidents",
+      "name": "Us Presidents"
+    },
+    {
+      "path": "history/us-presidents/heights",
+      "name": "Heights"
+    },
+    {
+      "path": "history/us-presidents/elections",
+      "name": "Elections"
+    },
+    {
+      "path": "history/us-presidents/approval",
+      "name": "Approval"
+    },
+    {
+      "path": "history/us-presidents/wealth",
+      "name": "Wealth"
+    }
+  ],
+  "questions": [
+    {
+      "category": "history/us-presidents/heights",
+      "question": "Top 10 tallest US presidents by height",
+      "cutoff": 10,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1374792560 | table 1 | name: President | value: metric",
+      "tags": [
+        "history",
+        "us-presidents",
+        "height"
+      ],
+      "answers": [
+        {
+          "answer": "Abraham Lincoln",
+          "display": "193 cm",
+          "aliases": [
+            "Abe Lincoln"
+          ]
+        },
+        {
+          "answer": "Lyndon B. Johnson",
+          "display": "192 cm",
+          "aliases": [
+            "LBJ",
+            "Lyndon Johnson"
+          ]
+        },
+        {
+          "answer": "Donald Trump",
+          "display": "191 cm",
+          "aliases": [
+            "Trump"
+          ]
+        },
+        {
+          "answer": "Thomas Jefferson",
+          "display": "189 cm"
+        },
+        {
+          "answer": "Bill Clinton",
+          "display": "189 cm",
+          "aliases": [
+            "Clinton"
+          ]
+        },
+        {
+          "answer": "Chester A. Arthur",
+          "display": "188 cm"
+        },
+        {
+          "answer": "Franklin D. Roosevelt",
+          "display": "188 cm",
+          "aliases": [
+            "FDR"
+          ]
+        },
+        {
+          "answer": "George H. W. Bush",
+          "display": "188 cm",
+          "aliases": [
+            "George H.W. Bush"
+          ]
+        },
+        {
+          "answer": "George Washington",
+          "display": "187 cm"
+        },
+        {
+          "answer": "Barack Obama",
+          "display": "187 cm",
+          "aliases": [
+            "Obama"
+          ]
+        },
+        {
+          "answer": "Andrew Jackson",
+          "display": "185 cm"
+        },
+        {
+          "answer": "John F. Kennedy",
+          "display": "185 cm",
+          "aliases": [
+            "JFK"
+          ]
+        },
+        {
+          "answer": "Ronald Reagan",
+          "display": "185 cm",
+          "aliases": [
+            "Reagan"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "history/us-presidents/heights",
+      "question": "Top 10 shortest US presidents by height",
+      "cutoff": 10,
+      "difficulty": 3,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1374792560 | table 1 | name: President | value: metric | order: asc",
+      "tags": [
+        "history",
+        "us-presidents",
+        "height"
+      ],
+      "answers": [
+        {
+          "answer": "James Madison",
+          "display": "163 cm"
+        },
+        {
+          "answer": "Martin Van Buren",
+          "display": "168 cm",
+          "aliases": [
+            "Van Buren"
+          ]
+        },
+        {
+          "answer": "Benjamin Harrison",
+          "display": "168 cm",
+          "aliases": [
+            "Ben Harrison"
+          ]
+        },
+        {
+          "answer": "John Adams",
+          "display": "170 cm"
+        },
+        {
+          "answer": "William McKinley",
+          "display": "170 cm",
+          "aliases": [
+            "McKinley"
+          ]
+        },
+        {
+          "answer": "John Quincy Adams",
+          "display": "171 cm",
+          "aliases": [
+            "JQA"
+          ]
+        },
+        {
+          "answer": "William Henry Harrison",
+          "display": "173 cm"
+        },
+        {
+          "answer": "James K. Polk",
+          "display": "173 cm",
+          "aliases": [
+            "Polk"
+          ]
+        },
+        {
+          "answer": "Zachary Taylor",
+          "display": "173 cm",
+          "aliases": [
+            "Old Rough and Ready"
+          ]
+        },
+        {
+          "answer": "Ulysses S. Grant",
+          "display": "173 cm",
+          "aliases": [
+            "Grant"
+          ]
+        },
+        {
+          "answer": "Rutherford B. Hayes",
+          "display": "174 cm",
+          "aliases": [
+            "Hayes"
+          ]
+        },
+        {
+          "answer": "Millard Fillmore",
+          "display": "175 cm",
+          "aliases": [
+            "Fillmore"
+          ]
+        },
+        {
+          "answer": "Harry S. Truman",
+          "display": "175 cm",
+          "aliases": [
+            "Truman"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "history/us-presidents/elections",
+      "question": "Name the year: Top 10 US presidential elections from 1900 to 2024 by electoral votes won by the winner",
+      "cutoff": 10,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1377528733 | table 1 | name: Year | value: Electoral votes | where: Year~^(19|20)[0-9][0-9]$ | where: Electoral votes~^(2[7-9][0-9]|[3-9][0-9][0-9]) /",
+      "tags": [
+        "history",
+        "us-presidents",
+        "elections",
+        "electoral-votes"
+      ],
+      "answers": [
+        {
+          "answer": "1984",
+          "display": "525 (Reagan)"
+        },
+        {
+          "answer": "1936",
+          "display": "523 (Roosevelt)"
+        },
+        {
+          "answer": "1972",
+          "display": "520 (Nixon)",
+          "aliases": [
+            "Nixon"
+          ]
+        },
+        {
+          "answer": "1980",
+          "display": "489 (Reagan)"
+        },
+        {
+          "answer": "1964",
+          "display": "486 (Johnson)",
+          "aliases": [
+            "Johnson"
+          ]
+        },
+        {
+          "answer": "1932",
+          "display": "472 (Roosevelt)"
+        },
+        {
+          "answer": "1956",
+          "display": "457 (Eisenhower)"
+        },
+        {
+          "answer": "1940",
+          "display": "449 (Roosevelt)"
+        },
+        {
+          "answer": "1928",
+          "display": "444 (Hoover)",
+          "aliases": [
+            "Hoover"
+          ]
+        },
+        {
+          "answer": "1952",
+          "display": "442 (Eisenhower)"
+        },
+        {
+          "answer": "1912",
+          "display": "435 (Wilson)",
+          "aliases": [
+            "Wilson"
+          ]
+        },
+        {
+          "answer": "1944",
+          "display": "432 (Roosevelt)"
+        },
+        {
+          "answer": "1988",
+          "display": "426 (Bush)",
+          "aliases": [
+            "George H. W. Bush"
+          ]
+        },
+        {
+          "answer": "1920",
+          "display": "404 (Harding)",
+          "aliases": [
+            "Harding"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "history/us-presidents/approval",
+      "question": "Top 10 US presidents by average Gallup approval rating while in office (Gallup polls, 1937 to 2025)",
+      "cutoff": 10,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1378369466 | table 2 | name: President | value: Avg | header rows: 2",
+      "tags": [
+        "history",
+        "us-presidents",
+        "approval"
+      ],
+      "answers": [
+        {
+          "answer": "John F. Kennedy",
+          "display": "70%",
+          "aliases": [
+            "JFK"
+          ]
+        },
+        {
+          "answer": "Dwight D. Eisenhower",
+          "display": "65%",
+          "aliases": [
+            "Ike",
+            "Eisenhower"
+          ]
+        },
+        {
+          "answer": "Franklin D. Roosevelt",
+          "display": "63%",
+          "aliases": [
+            "FDR"
+          ]
+        },
+        {
+          "answer": "George H. W. Bush",
+          "display": "61%",
+          "aliases": [
+            "Bush 41",
+            "H.W. Bush"
+          ]
+        },
+        {
+          "answer": "Bill Clinton",
+          "display": "55%",
+          "aliases": [
+            "Clinton"
+          ]
+        },
+        {
+          "answer": "Lyndon B. Johnson",
+          "display": "55%",
+          "aliases": [
+            "LBJ"
+          ]
+        },
+        {
+          "answer": "Ronald Reagan",
+          "display": "53%",
+          "aliases": [
+            "Reagan"
+          ]
+        },
+        {
+          "answer": "George W. Bush",
+          "display": "49%",
+          "aliases": [
+            "Dubya",
+            "Bush 43"
+          ]
+        },
+        {
+          "answer": "Richard Nixon",
+          "display": "49%",
+          "aliases": [
+            "Nixon"
+          ]
+        },
+        {
+          "answer": "Barack Obama",
+          "display": "48%",
+          "aliases": [
+            "Obama"
+          ]
+        },
+        {
+          "answer": "Gerald Ford",
+          "display": "47%",
+          "aliases": [
+            "Ford"
+          ]
+        },
+        {
+          "answer": "Jimmy Carter",
+          "display": "46%",
+          "aliases": [
+            "Carter"
+          ]
+        },
+        {
+          "answer": "Harry S. Truman",
+          "display": "45%",
+          "aliases": [
+            "Truman"
+          ]
+        },
+        {
+          "answer": "Joe Biden",
+          "display": "42%",
+          "aliases": [
+            "Biden"
+          ]
+        },
+        {
+          "answer": "Donald Trump",
+          "display": "41%",
+          "aliases": [
+            "Trump"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "history/us-presidents/wealth",
+      "question": "Top 10 richest US presidents by peak net worth (inflation-adjusted)",
+      "cutoff": 10,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1377981038 | table 1 | name: Name | value: Net worth",
+      "tags": [
+        "history",
+        "us-presidents",
+        "wealth"
+      ],
+      "answers": [
+        {
+          "answer": "Donald Trump",
+          "display": "$6.5 billion",
+          "aliases": [
+            "Trump"
+          ]
+        },
+        {
+          "answer": "George Washington",
+          "display": "$539 million"
+        },
+        {
+          "answer": "Thomas Jefferson",
+          "display": "$284 million"
+        },
+        {
+          "answer": "Bill Clinton",
+          "display": "$245 million",
+          "aliases": [
+            "Clinton"
+          ]
+        },
+        {
+          "answer": "Theodore Roosevelt",
+          "display": "$168 million",
+          "aliases": [
+            "Teddy Roosevelt"
+          ]
+        },
+        {
+          "answer": "Andrew Jackson",
+          "display": "$159 million"
+        },
+        {
+          "answer": "James Madison",
+          "display": "$136 million"
+        },
+        {
+          "answer": "Lyndon B. Johnson",
+          "display": "$115 million",
+          "aliases": [
+            "LBJ"
+          ]
+        },
+        {
+          "answer": "Herbert Hoover",
+          "display": "$100 million",
+          "aliases": [
+            "Hoover"
+          ]
+        },
+        {
+          "answer": "John F. Kennedy",
+          "display": "$100 million",
+          "aliases": [
+            "JFK"
+          ]
+        },
+        {
+          "answer": "Franklin D. Roosevelt",
+          "display": "$79 million",
+          "aliases": [
+            "FDR"
+          ]
+        },
+        {
+          "answer": "Barack Obama",
+          "display": "$70 million",
+          "aliases": [
+            "Obama"
+          ]
+        },
+        {
+          "answer": "John Tyler",
+          "display": "$68 million",
+          "aliases": [
+            "Tyler"
+          ]
+        },
+        {
+          "answer": "George W. Bush",
+          "display": "$50 million",
+          "aliases": [
+            "Dubya"
+          ]
+        }
+      ]
+    }
+  ]
+}

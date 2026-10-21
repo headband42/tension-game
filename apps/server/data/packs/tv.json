@@ -1,0 +1,454 @@
+{
+  "categories": [
+    {
+      "path": "tv/broadcasts",
+      "name": "TV broadcasts"
+    },
+    {
+      "path": "tv/finales",
+      "name": "Series finales"
+    }
+  ],
+  "questions": [
+    {
+      "category": "tv/broadcasts",
+      "question": "Top 10 most-watched US TV broadcasts of all time (average viewers, Nielsen, through Super Bowl LX)",
+      "cutoff": 10,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1377092844 | table 1 | name: Broadcast | value: Average viewers | note: Nielsen average viewers, as listed",
+      "tags": [
+        "tv",
+        "super bowl",
+        "ratings"
+      ],
+      "answers": [
+        {
+          "answer": "Super Bowl LIX",
+          "display": "127.7 million viewers",
+          "aliases": [
+            "Super Bowl 59",
+            "LIX"
+          ]
+        },
+        {
+          "answer": "Super Bowl LX",
+          "display": "125.6 million viewers",
+          "aliases": [
+            "Super Bowl 60",
+            "LX"
+          ]
+        },
+        {
+          "answer": "Super Bowl LVIII",
+          "display": "123.7 million viewers",
+          "aliases": [
+            "Super Bowl 58",
+            "LVIII"
+          ]
+        },
+        {
+          "answer": "Super Bowl LVII",
+          "display": "115.1 million viewers",
+          "aliases": [
+            "Super Bowl 57",
+            "LVII"
+          ]
+        },
+        {
+          "answer": "Super Bowl XLIX",
+          "display": "114.8 million viewers",
+          "aliases": [
+            "Super Bowl 49",
+            "XLIX"
+          ]
+        },
+        {
+          "answer": "Super Bowl XLVIII",
+          "display": "112.8 million viewers",
+          "aliases": [
+            "Super Bowl 48",
+            "XLVIII"
+          ]
+        },
+        {
+          "answer": "Super Bowl 50",
+          "display": "112.3 million viewers",
+          "aliases": [
+            "Super Bowl L",
+            "L"
+          ]
+        },
+        {
+          "answer": "Super Bowl LI",
+          "display": "112.0 million viewers",
+          "aliases": [
+            "Super Bowl 51",
+            "LI"
+          ]
+        },
+        {
+          "answer": "Super Bowl XLVI",
+          "display": "111.3 million viewers",
+          "aliases": [
+            "Super Bowl 46",
+            "XLVI"
+          ]
+        },
+        {
+          "answer": "Super Bowl XLV",
+          "display": "111.0 million viewers",
+          "aliases": [
+            "Super Bowl 45",
+            "XLV"
+          ]
+        },
+        {
+          "answer": "Super Bowl XLVII",
+          "display": "108.7 million viewers",
+          "aliases": [
+            "Super Bowl 47",
+            "XLVII"
+          ]
+        },
+        {
+          "answer": "Super Bowl XLIV",
+          "display": "106.5 million viewers",
+          "aliases": [
+            "Super Bowl 44",
+            "XLIV"
+          ]
+        },
+        {
+          "answer": "M*A*S*H",
+          "display": "106.0 million viewers",
+          "aliases": [
+            "MASH",
+            "M.A.S.H"
+          ]
+        },
+        {
+          "answer": "Super Bowl LII",
+          "display": "104.0 million viewers",
+          "aliases": [
+            "Super Bowl 52",
+            "LII"
+          ]
+        },
+        {
+          "answer": "Super Bowl LIV",
+          "display": "102.1 million viewers",
+          "aliases": [
+            "Super Bowl 54",
+            "LIV"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "tv/broadcasts",
+      "question": "Top 10 highest-rated US TV broadcasts of all time (Nielsen rating, through Super Bowl LX)",
+      "cutoff": 10,
+      "difficulty": 3,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1377092844 | table 4 | name: Broadcast | value: Rating",
+      "tags": [
+        "tv",
+        "super bowl",
+        "ratings"
+      ],
+      "answers": [
+        {
+          "answer": "M*A*S*H",
+          "display": "60.2 rating",
+          "aliases": [
+            "MASH",
+            "M.A.S.H"
+          ]
+        },
+        {
+          "answer": "Dallas: Who Shot J.R.?",
+          "display": "53.3 rating",
+          "aliases": [
+            "Who Shot J.R.",
+            "Who Shot JR",
+            "Dallas"
+          ]
+        },
+        {
+          "answer": "Roots (Part VIII)",
+          "display": "51.1 rating",
+          "aliases": [
+            "Roots"
+          ]
+        },
+        {
+          "answer": "Super Bowl XVI",
+          "display": "49.1 rating",
+          "aliases": [
+            "Super Bowl 16",
+            "XVI"
+          ]
+        },
+        {
+          "answer": "Super Bowl XVII",
+          "display": "48.6 rating",
+          "aliases": [
+            "Super Bowl 17",
+            "XVII"
+          ]
+        },
+        {
+          "answer": "1994 Winter Olympics (Ladies' singles)",
+          "display": "48.5 rating",
+          "aliases": [
+            "1994 Winter Olympics figure skating"
+          ]
+        },
+        {
+          "answer": "Super Bowl XX",
+          "display": "48.3 rating",
+          "aliases": [
+            "Super Bowl 20",
+            "XX"
+          ]
+        },
+        {
+          "answer": "Gone with the Wind, Part 1",
+          "display": "47.7 rating",
+          "aliases": [
+            "The Big Event"
+          ]
+        },
+        {
+          "answer": "Super Bowl XLIX",
+          "display": "47.5 rating",
+          "aliases": [
+            "Super Bowl 49",
+            "XLIX"
+          ]
+        },
+        {
+          "answer": "Gone with the Wind, Part 2",
+          "display": "47.4 rating",
+          "aliases": [
+            "Monday Night at the Movies"
+          ]
+        },
+        {
+          "answer": "Super Bowl XII",
+          "display": "47.2 rating",
+          "aliases": [
+            "Super Bowl 12",
+            "XII"
+          ]
+        },
+        {
+          "answer": "Super Bowl XIII",
+          "display": "47.1 rating",
+          "aliases": [
+            "Super Bowl 13",
+            "XIII"
+          ]
+        },
+        {
+          "answer": "Super Bowl XLVI",
+          "display": "47.0 rating",
+          "aliases": [
+            "Super Bowl 46",
+            "XLVI"
+          ]
+        },
+        {
+          "answer": "Super Bowl XLVIII",
+          "display": "46.7 rating",
+          "aliases": [
+            "Super Bowl 48",
+            "XLVIII"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "tv/finales",
+      "question": "Top 10 most-watched American TV series finales (US viewers, as of September 2026)",
+      "cutoff": 10,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1374653529 | table 1 | name: Title | value: Views",
+      "tags": [
+        "tv",
+        "finales"
+      ],
+      "answers": [
+        {
+          "answer": "M*A*S*H",
+          "display": "105 million viewers (1983)",
+          "aliases": [
+            "MASH",
+            "M.A.S.H"
+          ]
+        },
+        {
+          "answer": "Cheers",
+          "display": "93 million viewers (1993)"
+        },
+        {
+          "answer": "The Fugitive",
+          "display": "78 million viewers (1967)"
+        },
+        {
+          "answer": "Seinfeld",
+          "display": "76.3 million viewers (1998)"
+        },
+        {
+          "answer": "Friends",
+          "display": "52.5 million viewers (2004)"
+        },
+        {
+          "answer": "Magnum P.I.",
+          "display": "50.7 million viewers (1988)"
+        },
+        {
+          "answer": "The Cosby Show",
+          "display": "44.4 million viewers (1992)",
+          "aliases": [
+            "Cosby Show"
+          ]
+        },
+        {
+          "answer": "All in the Family",
+          "display": "40.2 million viewers (1979)"
+        },
+        {
+          "answer": "Family Ties",
+          "display": "36.3 million viewers (1989)"
+        },
+        {
+          "answer": "Home Improvement",
+          "display": "35.5 million viewers (1999)"
+        },
+        {
+          "answer": "Frasier",
+          "display": "33.7 million viewers (2004)"
+        },
+        {
+          "answer": "Dallas",
+          "display": "33.3 million viewers (1991)"
+        },
+        {
+          "answer": "Everybody Loves Raymond",
+          "display": "32.9 million viewers (2005)"
+        },
+        {
+          "answer": "Star Trek: The Next Generation",
+          "display": "31 million viewers (1994)",
+          "aliases": [
+            "TNG",
+            "The Next Generation"
+          ]
+        },
+        {
+          "answer": "Gunsmoke",
+          "display": "30.9 million viewers (1975)"
+        }
+      ]
+    },
+    {
+      "category": "tv/broadcasts",
+      "question": "Top 9 most-watched UK TV special events of all time (average audience, millions, as of October 2026)",
+      "cutoff": 9,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1379218989 | table 1 | name: Event | value: Average audience | note: the table has only 12 entries, so the tension zone is 3",
+      "tags": [
+        "tv",
+        "uk",
+        "royalty",
+        "football"
+      ],
+      "answers": [
+        {
+          "answer": "1966 FIFA World Cup final",
+          "display": "32.30 million",
+          "aliases": [
+            "1966 World Cup final",
+            "England v West Germany"
+          ]
+        },
+        {
+          "answer": "Funeral of Diana, Princess of Wales",
+          "display": "32.10 million",
+          "aliases": [
+            "Diana's funeral",
+            "Princess Diana's funeral"
+          ]
+        },
+        {
+          "answer": "Royal Family (documentary)",
+          "display": "30.69 million",
+          "aliases": [
+            "Royal Family"
+          ]
+        },
+        {
+          "answer": "UEFA Euro 2020 final",
+          "display": "29.85 million",
+          "aliases": [
+            "Euro 2020 final"
+          ]
+        },
+        {
+          "answer": "Apollo 13 Splashdown",
+          "display": "28.60 million"
+        },
+        {
+          "answer": "1970 FA Cup final replay",
+          "display": "28.49 million",
+          "aliases": [
+            "1970 FA Cup replay"
+          ]
+        },
+        {
+          "answer": "Wedding of Prince Charles and Lady Diana Spencer",
+          "display": "28.40 million",
+          "aliases": [
+            "Charles and Diana's wedding"
+          ]
+        },
+        {
+          "answer": "Wedding of Princess Anne and Mark Phillips",
+          "display": "27.60 million",
+          "aliases": [
+            "Princess Anne's wedding"
+          ]
+        },
+        {
+          "answer": "Prime Minister Boris Johnson's statement announcing a national lockdown due to the COVID-19 pandemic",
+          "display": "27.10 million",
+          "aliases": [
+            "Boris Johnson lockdown announcement"
+          ]
+        },
+        {
+          "answer": "State funeral of Queen Elizabeth II",
+          "display": "26.20 million",
+          "aliases": [
+            "Queen's funeral"
+          ]
+        },
+        {
+          "answer": "Elizabeth II's COVID-19 address",
+          "display": "24.50 million"
+        },
+        {
+          "answer": "2012 Summer Olympics closing ceremony",
+          "display": "23.20 million",
+          "aliases": [
+            "London 2012 closing ceremony"
+          ]
+        }
+      ]
+    }
+  ]
+}

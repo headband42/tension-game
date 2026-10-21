@@ -1,0 +1,1004 @@
+{
+  "questions": [
+    {
+      "category": "travel/tourism/museums",
+      "difficulty": 2,
+      "question": "Top 10 most visited museums in the world (2016 visitors)",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=822042384 | table 1 | name: Name | value: Visitors annually | header rows: 2",
+      "tags": [
+        "travel",
+        "museums",
+        "visitors"
+      ],
+      "submitter": "claude",
+      "answers": [
+        {
+          "answer": "National Museum of China",
+          "display": "7,550,000 visitors"
+        },
+        {
+          "answer": "National Air and Space Museum",
+          "display": "7,500,000 visitors"
+        },
+        {
+          "answer": "Louvre",
+          "display": "7,400,000 visitors",
+          "aliases": [
+            "The Louvre",
+            "Musée du Louvre"
+          ]
+        },
+        {
+          "answer": "National Museum of Natural History",
+          "display": "7,100,000 visitors"
+        },
+        {
+          "answer": "Metropolitan Museum of Art",
+          "display": "7,006,000 visitors",
+          "aliases": [
+            "The Met",
+            "Met Museum"
+          ]
+        },
+        {
+          "answer": "British Museum",
+          "display": "6,420,000 visitors"
+        },
+        {
+          "answer": "Shanghai Science and Technology Museum",
+          "display": "6,316,000 visitors"
+        },
+        {
+          "answer": "National Gallery",
+          "display": "6,263,000 visitors",
+          "aliases": [
+            "The National Gallery",
+            "National Gallery London"
+          ]
+        },
+        {
+          "answer": "National Palace Museum",
+          "display": "6,142,892 visitors"
+        },
+        {
+          "answer": "Vatican Museums",
+          "display": "6,067,000 visitors",
+          "aliases": [
+            "Vatican"
+          ]
+        },
+        {
+          "answer": "Tate Modern",
+          "display": "5,839,000 visitors"
+        },
+        {
+          "answer": "American Museum of Natural History",
+          "display": "5,000,000 visitors",
+          "aliases": [
+            "AMNH"
+          ]
+        },
+        {
+          "answer": "Natural History Museum, London",
+          "display": "4,624,113 visitors",
+          "aliases": [
+            "Natural History Museum",
+            "London Natural History Museum"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "travel/tourism/museums",
+      "difficulty": 2,
+      "question": "Top 10 most visited museums in the world (2017 visitors)",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=892220453 | table 1 | name: 1 | value: 3 | header rows: 2 | where: Year reported=2017",
+      "tags": [
+        "travel",
+        "museums",
+        "visitors"
+      ],
+      "submitter": "claude",
+      "answers": [
+        {
+          "answer": "Louvre",
+          "display": "8,100,000 visitors",
+          "aliases": [
+            "The Louvre",
+            "Musée du Louvre"
+          ]
+        },
+        {
+          "answer": "National Museum of China",
+          "display": "8,062,625 visitors"
+        },
+        {
+          "answer": "National Air and Space Museum",
+          "display": "7,000,000 visitors"
+        },
+        {
+          "answer": "Metropolitan Museum of Art",
+          "display": "6,692,909 visitors",
+          "aliases": [
+            "The Met",
+            "Met Museum"
+          ]
+        },
+        {
+          "answer": "Vatican Museums",
+          "display": "6,427,277 visitors",
+          "aliases": [
+            "Vatican"
+          ]
+        },
+        {
+          "answer": "Shanghai Science and Technology Museum",
+          "display": "6,421,000 visitors"
+        },
+        {
+          "answer": "National Museum of Natural History",
+          "display": "6,000,000 visitors"
+        },
+        {
+          "answer": "British Museum",
+          "display": "5,906,716 visitors"
+        },
+        {
+          "answer": "Tate Modern",
+          "display": "5,656,004 visitors"
+        },
+        {
+          "answer": "National Gallery of Art",
+          "display": "5,232,000 visitors"
+        },
+        {
+          "answer": "National Gallery",
+          "display": "5,229,192 visitors",
+          "aliases": [
+            "The National Gallery",
+            "National Gallery London"
+          ]
+        },
+        {
+          "answer": "American Museum of Natural History",
+          "display": "5,000,000 visitors",
+          "aliases": [
+            "AMNH"
+          ]
+        },
+        {
+          "answer": "Natural History Museum, London",
+          "display": "4,435,000 visitors",
+          "aliases": [
+            "Natural History Museum",
+            "London Natural History Museum"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "travel/tourism/museums",
+      "difficulty": 2,
+      "question": "Top 10 most visited museums in the world (2018 visitors)",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=960336280 | table 1 | name: Name | value: Visitors per year | where: Year reported=2018",
+      "tags": [
+        "travel",
+        "museums",
+        "visitors"
+      ],
+      "submitter": "claude",
+      "answers": [
+        {
+          "answer": "Louvre",
+          "display": "10,200,000 visitors",
+          "aliases": [
+            "The Louvre",
+            "Musée du Louvre"
+          ]
+        },
+        {
+          "answer": "National Museum of China",
+          "display": "8,610,092 visitors"
+        },
+        {
+          "answer": "Metropolitan Museum of Art",
+          "display": "6,953,927 visitors",
+          "aliases": [
+            "The Met",
+            "Met Museum"
+          ]
+        },
+        {
+          "answer": "Vatican Museums",
+          "display": "6,756,186 visitors",
+          "aliases": [
+            "Vatican"
+          ]
+        },
+        {
+          "answer": "National Air and Space Museum",
+          "display": "6,200,000 visitors"
+        },
+        {
+          "answer": "Tate Modern",
+          "display": "5,868,562 visitors"
+        },
+        {
+          "answer": "British Museum",
+          "display": "5,829,000 visitors"
+        },
+        {
+          "answer": "National Gallery",
+          "display": "5,735,831 visitors",
+          "aliases": [
+            "The National Gallery",
+            "National Gallery London"
+          ]
+        },
+        {
+          "answer": "Natural History Museum, London",
+          "display": "5,226,000 visitors",
+          "aliases": [
+            "Natural History Museum",
+            "London Natural History Museum"
+          ]
+        },
+        {
+          "answer": "American Museum of Natural History",
+          "display": "5,000,000 visitors",
+          "aliases": [
+            "AMNH"
+          ]
+        },
+        {
+          "answer": "National Museum of Natural History",
+          "display": "4,800,000 visitors"
+        },
+        {
+          "answer": "National Gallery of Art",
+          "display": "4,404,212 visitors"
+        },
+        {
+          "answer": "China Science and Technology Museum",
+          "display": "4,400,000 visitors"
+        }
+      ]
+    },
+    {
+      "category": "travel/tourism/museums",
+      "difficulty": 2,
+      "question": "Top 10 most visited museums in the world (2019 visitors)",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1043264844 | table 1 | name: Name | value: Visitors per year | where: Year reported=2019",
+      "tags": [
+        "travel",
+        "museums",
+        "visitors"
+      ],
+      "submitter": "claude",
+      "answers": [
+        {
+          "answer": "Louvre",
+          "display": "9,600,000 visitors",
+          "aliases": [
+            "The Louvre",
+            "Musée du Louvre"
+          ]
+        },
+        {
+          "answer": "National Museum of China",
+          "display": "7,390,000 visitors"
+        },
+        {
+          "answer": "Vatican Museums",
+          "display": "6,882,931 visitors",
+          "aliases": [
+            "Vatican"
+          ]
+        },
+        {
+          "answer": "Metropolitan Museum of Art",
+          "display": "6,479,548 visitors",
+          "aliases": [
+            "The Met",
+            "Met Museum"
+          ]
+        },
+        {
+          "answer": "British Museum",
+          "display": "6,239,983 visitors"
+        },
+        {
+          "answer": "Tate Modern",
+          "display": "6,098,340 visitors"
+        },
+        {
+          "answer": "National Gallery",
+          "display": "6,011,007 visitors",
+          "aliases": [
+            "The National Gallery",
+            "National Gallery London"
+          ]
+        },
+        {
+          "answer": "Natural History Museum, London",
+          "display": "5,424,000 visitors",
+          "aliases": [
+            "Natural History Museum",
+            "London Natural History Museum"
+          ]
+        },
+        {
+          "answer": "American Museum of Natural History",
+          "display": "5,000,000 visitors",
+          "aliases": [
+            "AMNH"
+          ]
+        },
+        {
+          "answer": "State Hermitage Museum",
+          "display": "4,956,529 visitors",
+          "aliases": [
+            "Hermitage"
+          ]
+        },
+        {
+          "answer": "Shanghai Science and Technology Museum",
+          "display": "4,824,000 visitors"
+        },
+        {
+          "answer": "Museo Reina Sofía",
+          "display": "4,425,699 visitors",
+          "aliases": [
+            "Reina Sofía"
+          ]
+        },
+        {
+          "answer": "Guangdong Museum of Revolutionary History",
+          "display": "4,257,100 visitors"
+        }
+      ]
+    },
+    {
+      "category": "travel/tourism/museums",
+      "difficulty": 2,
+      "question": "Top 10 most visited museums in the world (2020 visitors)",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1079791256 | table 1 | name: Name | value: Visitors per year | where: Year reported=2020",
+      "tags": [
+        "travel",
+        "museums",
+        "visitors"
+      ],
+      "submitter": "claude",
+      "answers": [
+        {
+          "answer": "Louvre",
+          "display": "2,700,000 visitors",
+          "aliases": [
+            "The Louvre",
+            "Musée du Louvre"
+          ]
+        },
+        {
+          "answer": "National Museum of Natural Science",
+          "display": "2,263,000 visitors"
+        },
+        {
+          "answer": "National Museum of China",
+          "display": "1,600,000 visitors"
+        },
+        {
+          "answer": "Nanjing Museum",
+          "display": "1,515,000 visitors"
+        },
+        {
+          "answer": "Tate Modern",
+          "display": "1,433,000 visitors"
+        },
+        {
+          "answer": "Shanghai Science and Technology Museum",
+          "display": "1,351,000 visitors"
+        },
+        {
+          "answer": "Vatican Museums",
+          "display": "1,300,000 visitors",
+          "aliases": [
+            "Vatican"
+          ]
+        },
+        {
+          "answer": "British Museum",
+          "display": "1,275,000 visitors"
+        },
+        {
+          "answer": "Museo Reina Sofía",
+          "display": "1,248,000 visitors",
+          "aliases": [
+            "Reina Sofía"
+          ]
+        },
+        {
+          "answer": "Russian Museum",
+          "display": "1,203,324 visitors"
+        },
+        {
+          "answer": "National Gallery",
+          "display": "1,197,000 visitors",
+          "aliases": [
+            "The National Gallery",
+            "National Gallery London"
+          ]
+        },
+        {
+          "answer": "Natural History Museum, London",
+          "display": "1,197,000 visitors",
+          "aliases": [
+            "Natural History Museum",
+            "London Natural History Museum"
+          ]
+        },
+        {
+          "answer": "Hunan Museum",
+          "display": "1,130,000 visitors"
+        }
+      ]
+    },
+    {
+      "category": "travel/tourism/museums",
+      "difficulty": 2,
+      "question": "Top 10 most visited museums in the world (2021 visitors)",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1128863611 | table 1 | name: Name | value: Visitors per year | where: Year reported=2021",
+      "tags": [
+        "travel",
+        "museums",
+        "visitors"
+      ],
+      "submitter": "claude",
+      "answers": [
+        {
+          "answer": "Louvre",
+          "display": "2,825,000 visitors",
+          "aliases": [
+            "The Louvre",
+            "Musée du Louvre"
+          ]
+        },
+        {
+          "answer": "National Museum of China",
+          "display": "2,378,000 visitors"
+        },
+        {
+          "answer": "Shanghai Science and Technology Museum",
+          "display": "2,368,000 visitors"
+        },
+        {
+          "answer": "China Science and Technology Museum",
+          "display": "2,360,000 visitors"
+        },
+        {
+          "answer": "Russian Museum",
+          "display": "2,260,231 visitors"
+        },
+        {
+          "answer": "Multimedia Art Museum",
+          "display": "2,242,405 visitors"
+        },
+        {
+          "answer": "Shanghai Natural History Museum",
+          "display": "2,166,000 visitors"
+        },
+        {
+          "answer": "Nanjing Museum",
+          "display": "2,034,000 visitors"
+        },
+        {
+          "answer": "Metropolitan Museum of Art",
+          "display": "1,958,000 visitors",
+          "aliases": [
+            "The Met",
+            "Met Museum"
+          ]
+        },
+        {
+          "answer": "Galleria degli Uffizi",
+          "display": "1,721,637 visitors",
+          "aliases": [
+            "Uffizi"
+          ]
+        },
+        {
+          "answer": "National Gallery of Art",
+          "display": "1,704,606 visitors"
+        },
+        {
+          "answer": "State Hermitage Museum",
+          "display": "1,649,443 visitors",
+          "aliases": [
+            "Hermitage"
+          ]
+        },
+        {
+          "answer": "Museo Reina Sofía",
+          "display": "1,643,000 visitors",
+          "aliases": [
+            "Reina Sofía"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "travel/tourism/museums",
+      "difficulty": 2,
+      "question": "Top 10 most visited museums in the world (2022 visitors)",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1192890617 | table 1 | name: Name | value: Visitors in 2022",
+      "tags": [
+        "travel",
+        "museums",
+        "visitors"
+      ],
+      "submitter": "claude",
+      "answers": [
+        {
+          "answer": "Louvre",
+          "display": "7,726,321 visitors",
+          "aliases": [
+            "The Louvre",
+            "Musée du Louvre"
+          ]
+        },
+        {
+          "answer": "Vatican Museums",
+          "display": "5,080,866 visitors",
+          "aliases": [
+            "Vatican"
+          ]
+        },
+        {
+          "answer": "Natural History Museum, London",
+          "display": "4,654,608 visitors",
+          "aliases": [
+            "Natural History Museum",
+            "London Natural History Museum"
+          ]
+        },
+        {
+          "answer": "British Museum",
+          "display": "4,097,253 visitors"
+        },
+        {
+          "answer": "National Museum of Natural History",
+          "display": "3,900,000 visitors"
+        },
+        {
+          "answer": "Tate Modern",
+          "display": "3,883,160 visitors"
+        },
+        {
+          "answer": "National Museum of Korea",
+          "display": "3,411,381 visitors"
+        },
+        {
+          "answer": "Guangdong Museum",
+          "display": "3,359,700 visitors"
+        },
+        {
+          "answer": "Mevlana Museum",
+          "display": "3,352,505 visitors"
+        },
+        {
+          "answer": "Musée d'Orsay",
+          "display": "3,270,182 visitors",
+          "aliases": [
+            "Orsay"
+          ]
+        },
+        {
+          "answer": "National Gallery of Art",
+          "display": "3,256,433 visitors"
+        },
+        {
+          "answer": "Metropolitan Museum of Art",
+          "display": "3,208,832 visitors",
+          "aliases": [
+            "The Met",
+            "Met Museum"
+          ]
+        },
+        {
+          "answer": "Centre Pompidou",
+          "display": "3,009,570 visitors",
+          "aliases": [
+            "Pompidou"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "travel/tourism/national-parks",
+      "difficulty": 1,
+      "question": "Top 10 most visited US national parks (2013 recreation visitors)",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=670993175 | table 1 | name: Name | value: Recreation",
+      "tags": [
+        "travel",
+        "national parks",
+        "visitors"
+      ],
+      "submitter": "claude",
+      "answers": [
+        {
+          "answer": "Great Smoky Mountains",
+          "display": "9,354,695 visitors",
+          "aliases": [
+            "Great Smoky Mountains National Park",
+            "Smoky Mountains",
+            "Smokies"
+          ]
+        },
+        {
+          "answer": "Grand Canyon",
+          "display": "4,564,840 visitors"
+        },
+        {
+          "answer": "Yosemite",
+          "display": "3,691,191 visitors"
+        },
+        {
+          "answer": "Yellowstone",
+          "display": "3,188,030 visitors"
+        },
+        {
+          "answer": "Olympic",
+          "display": "3,085,340 visitors"
+        },
+        {
+          "answer": "Rocky Mountain",
+          "display": "2,991,141 visitors",
+          "aliases": [
+            "Rocky Mountain National Park"
+          ]
+        },
+        {
+          "answer": "Zion",
+          "display": "2,807,387 visitors"
+        },
+        {
+          "answer": "Grand Teton",
+          "display": "2,688,794 visitors",
+          "aliases": [
+            "Teton"
+          ]
+        },
+        {
+          "answer": "Acadia",
+          "display": "2,254,922 visitors"
+        },
+        {
+          "answer": "Glacier",
+          "display": "2,190,374 visitors"
+        },
+        {
+          "answer": "Cuyahoga Valley",
+          "display": "2,103,010 visitors"
+        },
+        {
+          "answer": "Hawaii Volcanoes",
+          "display": "1,583,209 visitors",
+          "aliases": [
+            "Hawaiʻi Volcanoes"
+          ]
+        },
+        {
+          "answer": "Joshua Tree",
+          "display": "1,383,340 visitors"
+        }
+      ]
+    },
+    {
+      "category": "travel/tourism/national-parks",
+      "difficulty": 1,
+      "question": "Top 10 most visited US national parks (2020 recreation visitors)",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1074142177 | table 1 | name: Name | value: Recreation",
+      "tags": [
+        "travel",
+        "national parks",
+        "visitors"
+      ],
+      "submitter": "claude",
+      "answers": [
+        {
+          "answer": "Great Smoky Mountains",
+          "display": "12,095,720 visitors",
+          "aliases": [
+            "Great Smoky Mountains National Park",
+            "Smoky Mountains",
+            "Smokies"
+          ]
+        },
+        {
+          "answer": "Yellowstone",
+          "display": "3,806,306 visitors"
+        },
+        {
+          "answer": "Zion",
+          "display": "3,591,254 visitors"
+        },
+        {
+          "answer": "Rocky Mountain",
+          "display": "3,305,199 visitors",
+          "aliases": [
+            "Rocky Mountain National Park"
+          ]
+        },
+        {
+          "answer": "Grand Teton",
+          "display": "3,289,638 visitors",
+          "aliases": [
+            "Teton"
+          ]
+        },
+        {
+          "answer": "Grand Canyon",
+          "display": "2,897,098 visitors"
+        },
+        {
+          "answer": "Cuyahoga Valley",
+          "display": "2,755,628 visitors"
+        },
+        {
+          "answer": "Acadia",
+          "display": "2,669,034 visitors"
+        },
+        {
+          "answer": "Olympic",
+          "display": "2,499,177 visitors"
+        },
+        {
+          "answer": "Joshua Tree",
+          "display": "2,399,542 visitors"
+        },
+        {
+          "answer": "Indiana Dunes",
+          "display": "2,293,106 visitors"
+        },
+        {
+          "answer": "Yosemite",
+          "display": "2,268,313 visitors"
+        },
+        {
+          "answer": "Glacier",
+          "display": "1,698,864 visitors"
+        }
+      ]
+    },
+    {
+      "category": "travel/tourism/national-parks",
+      "difficulty": 1,
+      "question": "Top 10 most visited US national parks (2021 recreation visitors)",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1153986568 | table 1 | name: Name | value: Recreation",
+      "tags": [
+        "travel",
+        "national parks",
+        "visitors"
+      ],
+      "submitter": "claude",
+      "answers": [
+        {
+          "answer": "Great Smoky Mountains",
+          "display": "14,161,548 visitors",
+          "aliases": [
+            "Great Smoky Mountains National Park",
+            "Smoky Mountains",
+            "Smokies"
+          ]
+        },
+        {
+          "answer": "Zion",
+          "display": "5,039,835 visitors"
+        },
+        {
+          "answer": "Yellowstone",
+          "display": "4,860,242 visitors"
+        },
+        {
+          "answer": "Grand Canyon",
+          "display": "4,532,677 visitors"
+        },
+        {
+          "answer": "Rocky Mountain",
+          "display": "4,434,848 visitors",
+          "aliases": [
+            "Rocky Mountain National Park"
+          ]
+        },
+        {
+          "answer": "Acadia",
+          "display": "4,069,098 visitors"
+        },
+        {
+          "answer": "Grand Teton",
+          "display": "3,885,230 visitors",
+          "aliases": [
+            "Teton"
+          ]
+        },
+        {
+          "answer": "Yosemite",
+          "display": "3,287,595 visitors"
+        },
+        {
+          "answer": "Indiana Dunes",
+          "display": "3,177,210 visitors"
+        },
+        {
+          "answer": "Glacier",
+          "display": "3,081,656 visitors"
+        },
+        {
+          "answer": "Joshua Tree",
+          "display": "3,064,400 visitors"
+        },
+        {
+          "answer": "Olympic",
+          "display": "2,718,925 visitors"
+        },
+        {
+          "answer": "Cuyahoga Valley",
+          "display": "2,575,275 visitors"
+        }
+      ]
+    },
+    {
+      "category": "travel/tourism/national-parks",
+      "difficulty": 1,
+      "question": "Top 10 most visited US national parks (2022 recreation visitors)",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1280145612 | table 1 | name: Name | value: Recreation",
+      "tags": [
+        "travel",
+        "national parks",
+        "visitors"
+      ],
+      "submitter": "claude",
+      "answers": [
+        {
+          "answer": "Great Smoky Mountains",
+          "display": "12,937,633 visitors",
+          "aliases": [
+            "Great Smoky Mountains National Park",
+            "Smoky Mountains",
+            "Smokies"
+          ]
+        },
+        {
+          "answer": "Grand Canyon",
+          "display": "4,732,101 visitors"
+        },
+        {
+          "answer": "Zion",
+          "display": "4,692,417 visitors"
+        },
+        {
+          "answer": "Rocky Mountain",
+          "display": "4,300,424 visitors",
+          "aliases": [
+            "Rocky Mountain National Park"
+          ]
+        },
+        {
+          "answer": "Acadia",
+          "display": "3,970,260 visitors"
+        },
+        {
+          "answer": "Yosemite",
+          "display": "3,667,550 visitors"
+        },
+        {
+          "answer": "Yellowstone",
+          "display": "3,290,242 visitors"
+        },
+        {
+          "answer": "Joshua Tree",
+          "display": "3,058,294 visitors"
+        },
+        {
+          "answer": "Cuyahoga Valley",
+          "display": "2,913,312 visitors"
+        },
+        {
+          "answer": "Glacier",
+          "display": "2,908,458 visitors"
+        },
+        {
+          "answer": "Indiana Dunes",
+          "display": "2,834,180 visitors"
+        },
+        {
+          "answer": "Grand Teton",
+          "display": "2,806,223 visitors",
+          "aliases": [
+            "Teton"
+          ]
+        },
+        {
+          "answer": "Hot Springs",
+          "display": "2,646,133 visitors"
+        }
+      ]
+    },
+    {
+      "category": "travel/tourism/national-parks",
+      "difficulty": 1,
+      "question": "Top 10 most visited US national parks (2024 recreation visitors)",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1326671800 | table 1 | name: Name | value: Recreation",
+      "tags": [
+        "travel",
+        "national parks",
+        "visitors"
+      ],
+      "submitter": "claude",
+      "answers": [
+        {
+          "answer": "Great Smoky Mountains",
+          "display": "12,191,834 visitors",
+          "aliases": [
+            "Great Smoky Mountains National Park",
+            "Smoky Mountains",
+            "Smokies"
+          ]
+        },
+        {
+          "answer": "Zion",
+          "display": "4,946,592 visitors"
+        },
+        {
+          "answer": "Grand Canyon",
+          "display": "4,919,163 visitors"
+        },
+        {
+          "answer": "Yellowstone",
+          "display": "4,744,353 visitors"
+        },
+        {
+          "answer": "Rocky Mountain",
+          "display": "4,154,349 visitors",
+          "aliases": [
+            "Rocky Mountain National Park"
+          ]
+        },
+        {
+          "answer": "Yosemite",
+          "display": "4,121,807 visitors"
+        },
+        {
+          "answer": "Acadia",
+          "display": "3,961,661 visitors"
+        },
+        {
+          "answer": "Olympic",
+          "display": "3,717,267 visitors"
+        },
+        {
+          "answer": "Grand Teton",
+          "display": "3,628,222 visitors",
+          "aliases": [
+            "Teton"
+          ]
+        },
+        {
+          "answer": "Glacier",
+          "display": "3,208,755 visitors"
+        },
+        {
+          "answer": "Joshua Tree",
+          "display": "2,991,874 visitors"
+        },
+        {
+          "answer": "Cuyahoga Valley",
+          "display": "2,912,454 visitors"
+        },
+        {
+          "answer": "Indiana Dunes",
+          "display": "2,705,209 visitors"
+        }
+      ]
+    }
+  ]
+}

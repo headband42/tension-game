@@ -10,8 +10,13 @@ export const DOUBLE_MULTIPLIER = 2;
 /** The default cutoff: answers ranked #1–#10 score, #11+ are "tension". */
 export const DEFAULT_CUTOFF = 10;
 
-/** Every question lists at least this many tension answers below its cutoff. */
+/**
+ * Every question lists 3–5 tension answers: the entries just below the cutoff.
+ * Anything deeper on the real ranking is deliberately left off, so missing by a
+ * lot (−3) costs less than missing by a little (−5), as on the TENS10N show.
+ */
 export const MIN_TENSION_ANSWERS = 3;
+export const MAX_TENSION_ANSWERS = 5;
 
 /**
  * - `hit`: ranked at or above the cutoff, worth its rank in points (#1 = 1, #10 = 10)

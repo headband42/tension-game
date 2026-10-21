@@ -1,0 +1,2238 @@
+{
+  "categories": [
+    {
+      "path": "movies/awards",
+      "name": "Film Awards"
+    },
+    {
+      "path": "movies/awards/golden-globes",
+      "name": "Golden Globes"
+    },
+    {
+      "path": "movies/awards/bafta",
+      "name": "BAFTA Film Awards"
+    }
+  ],
+  "questions": [
+    {
+      "category": "movies/awards/bafta",
+      "difficulty": 2,
+      "question": "Top 8 films by nominations at the 79th British Academy Film Awards",
+      "cutoff": 8,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1373814287 | table 2 | name: Film | value: Nominations",
+      "tags": [
+        "movies",
+        "awards",
+        "nominations",
+        "bafta"
+      ],
+      "answers": [
+        {
+          "answer": "One Battle After Another",
+          "display": "14 nominations"
+        },
+        {
+          "answer": "Sinners",
+          "display": "13 nominations"
+        },
+        {
+          "answer": "Hamnet",
+          "display": "11 nominations"
+        },
+        {
+          "answer": "Marty Supreme",
+          "display": "11 nominations"
+        },
+        {
+          "answer": "Frankenstein",
+          "display": "8 nominations"
+        },
+        {
+          "answer": "Sentimental Value",
+          "display": "8 nominations"
+        },
+        {
+          "answer": "Bugonia",
+          "display": "5 nominations"
+        },
+        {
+          "answer": "I Swear",
+          "display": "5 nominations"
+        },
+        {
+          "answer": "The Ballad of Wallis Island",
+          "display": "3 nominations"
+        },
+        {
+          "answer": "F1",
+          "display": "3 nominations",
+          "aliases": [
+            "F1: The Movie"
+          ]
+        },
+        {
+          "answer": "Pillion",
+          "display": "3 nominations"
+        }
+      ]
+    },
+    {
+      "category": "movies/awards/bafta",
+      "difficulty": 2,
+      "question": "Top 6 films by nominations at the 78th British Academy Film Awards",
+      "cutoff": 6,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1356745988 | table 2 | name: Film | value: Nominations",
+      "tags": [
+        "movies",
+        "awards",
+        "nominations",
+        "bafta"
+      ],
+      "answers": [
+        {
+          "answer": "Conclave",
+          "display": "12 nominations"
+        },
+        {
+          "answer": "Emilia Pérez",
+          "display": "11 nominations"
+        },
+        {
+          "answer": "The Brutalist",
+          "display": "9 nominations"
+        },
+        {
+          "answer": "Anora",
+          "display": "7 nominations"
+        },
+        {
+          "answer": "Dune: Part Two",
+          "display": "7 nominations",
+          "aliases": [
+            "Dune"
+          ]
+        },
+        {
+          "answer": "Wicked",
+          "display": "7 nominations"
+        },
+        {
+          "answer": "A Complete Unknown",
+          "display": "6 nominations"
+        },
+        {
+          "answer": "Kneecap",
+          "display": "6 nominations"
+        },
+        {
+          "answer": "Nosferatu",
+          "display": "5 nominations"
+        },
+        {
+          "answer": "The Substance",
+          "display": "5 nominations"
+        }
+      ]
+    },
+    {
+      "category": "movies/awards/bafta",
+      "difficulty": 2,
+      "question": "Top 10 films by nominations at the 77th British Academy Film Awards",
+      "cutoff": 10,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1370563043 | table 2 | name: Film | value: Nominations",
+      "tags": [
+        "movies",
+        "awards",
+        "nominations",
+        "bafta"
+      ],
+      "answers": [
+        {
+          "answer": "Oppenheimer",
+          "display": "13 nominations"
+        },
+        {
+          "answer": "Poor Things",
+          "display": "11 nominations"
+        },
+        {
+          "answer": "Killers of the Flower Moon",
+          "display": "9 nominations"
+        },
+        {
+          "answer": "The Zone of Interest",
+          "display": "9 nominations"
+        },
+        {
+          "answer": "Anatomy of a Fall",
+          "display": "7 nominations"
+        },
+        {
+          "answer": "The Holdovers",
+          "display": "7 nominations"
+        },
+        {
+          "answer": "Maestro",
+          "display": "7 nominations"
+        },
+        {
+          "answer": "All of Us Strangers",
+          "display": "6 nominations"
+        },
+        {
+          "answer": "Barbie",
+          "display": "5 nominations"
+        },
+        {
+          "answer": "Saltburn",
+          "display": "5 nominations"
+        },
+        {
+          "answer": "Napoleon",
+          "display": "4 nominations"
+        },
+        {
+          "answer": "How to Have Sex",
+          "display": "3 nominations"
+        },
+        {
+          "answer": "Past Lives",
+          "display": "3 nominations"
+        }
+      ]
+    },
+    {
+      "category": "movies/awards/bafta",
+      "difficulty": 2,
+      "question": "Top 10 films by nominations at the 76th British Academy Film Awards",
+      "cutoff": 10,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1358122668 | table 2 | name: Film | value: Nominations",
+      "tags": [
+        "movies",
+        "awards",
+        "nominations",
+        "bafta"
+      ],
+      "answers": [
+        {
+          "answer": "All Quiet on the Western Front",
+          "display": "14 nominations"
+        },
+        {
+          "answer": "The Banshees of Inisherin",
+          "display": "10 nominations"
+        },
+        {
+          "answer": "Everything Everywhere All at Once",
+          "display": "10 nominations"
+        },
+        {
+          "answer": "Elvis",
+          "display": "9 nominations"
+        },
+        {
+          "answer": "Tár",
+          "display": "5 nominations"
+        },
+        {
+          "answer": "Aftersun",
+          "display": "4 nominations"
+        },
+        {
+          "answer": "The Batman",
+          "display": "4 nominations"
+        },
+        {
+          "answer": "Good Luck to You, Leo Grande",
+          "display": "4 nominations",
+          "aliases": [
+            "Leo Grande"
+          ]
+        },
+        {
+          "answer": "Top Gun: Maverick",
+          "display": "4 nominations",
+          "aliases": [
+            "Top Gun"
+          ]
+        },
+        {
+          "answer": "The Whale",
+          "display": "4 nominations"
+        },
+        {
+          "answer": "Babylon",
+          "display": "3 nominations"
+        },
+        {
+          "answer": "Empire of Light",
+          "display": "3 nominations"
+        },
+        {
+          "answer": "Guillermo del Toro's Pinocchio",
+          "display": "3 nominations",
+          "aliases": [
+            "Pinocchio"
+          ]
+        },
+        {
+          "answer": "Living",
+          "display": "3 nominations"
+        },
+        {
+          "answer": "Triangle of Sadness",
+          "display": "3 nominations"
+        }
+      ]
+    },
+    {
+      "category": "movies/awards/bafta",
+      "difficulty": 2,
+      "question": "Top 8 films by nominations at the 74th British Academy Film Awards",
+      "cutoff": 8,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1374788449 | table 2 | name: Film | value: Nominations",
+      "tags": [
+        "movies",
+        "awards",
+        "nominations",
+        "bafta"
+      ],
+      "answers": [
+        {
+          "answer": "Nomadland",
+          "display": "7 nominations"
+        },
+        {
+          "answer": "Rocks",
+          "display": "7 nominations"
+        },
+        {
+          "answer": "The Father",
+          "display": "6 nominations"
+        },
+        {
+          "answer": "Mank",
+          "display": "6 nominations"
+        },
+        {
+          "answer": "Minari",
+          "display": "6 nominations"
+        },
+        {
+          "answer": "Promising Young Woman",
+          "display": "6 nominations"
+        },
+        {
+          "answer": "The Dig",
+          "display": "5 nominations"
+        },
+        {
+          "answer": "The Mauritanian",
+          "display": "5 nominations"
+        },
+        {
+          "answer": "Another Round",
+          "display": "4 nominations"
+        },
+        {
+          "answer": "Calm with Horses",
+          "display": "4 nominations"
+        },
+        {
+          "answer": "Judas and the Black Messiah",
+          "display": "4 nominations"
+        },
+        {
+          "answer": "News of the World",
+          "display": "4 nominations"
+        },
+        {
+          "answer": "Sound of Metal",
+          "display": "4 nominations"
+        }
+      ]
+    },
+    {
+      "category": "movies/awards/bafta",
+      "difficulty": 2,
+      "question": "Top 8 films by nominations at the 73rd British Academy Film Awards",
+      "cutoff": 8,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1356080021 | table 2 | name: Film | value: Nominations",
+      "tags": [
+        "movies",
+        "awards",
+        "nominations",
+        "bafta"
+      ],
+      "answers": [
+        {
+          "answer": "Joker",
+          "display": "11 nominations"
+        },
+        {
+          "answer": "The Irishman",
+          "display": "10 nominations"
+        },
+        {
+          "answer": "Once Upon a Time in Hollywood",
+          "display": "10 nominations"
+        },
+        {
+          "answer": "1917",
+          "display": "9 nominations"
+        },
+        {
+          "answer": "Jojo Rabbit",
+          "display": "6 nominations"
+        },
+        {
+          "answer": "Little Women",
+          "display": "5 nominations"
+        },
+        {
+          "answer": "Marriage Story",
+          "display": "5 nominations"
+        },
+        {
+          "answer": "The Two Popes",
+          "display": "5 nominations"
+        },
+        {
+          "answer": "For Sama",
+          "display": "4 nominations"
+        },
+        {
+          "answer": "Parasite",
+          "display": "4 nominations"
+        },
+        {
+          "answer": "Rocketman",
+          "display": "4 nominations"
+        }
+      ]
+    },
+    {
+      "category": "movies/awards/bafta",
+      "difficulty": 2,
+      "question": "Top 9 films by nominations at the 72nd British Academy Film Awards",
+      "cutoff": 9,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1380381593 | table 2 | name: Film | value: Nominations",
+      "tags": [
+        "movies",
+        "awards",
+        "nominations",
+        "bafta"
+      ],
+      "answers": [
+        {
+          "answer": "The Favourite",
+          "display": "12 nominations"
+        },
+        {
+          "answer": "Bohemian Rhapsody",
+          "display": "7 nominations"
+        },
+        {
+          "answer": "First Man",
+          "display": "7 nominations"
+        },
+        {
+          "answer": "Roma",
+          "display": "7 nominations"
+        },
+        {
+          "answer": "A Star Is Born",
+          "display": "7 nominations"
+        },
+        {
+          "answer": "Vice",
+          "display": "6 nominations"
+        },
+        {
+          "answer": "BlacKkKlansman",
+          "display": "5 nominations"
+        },
+        {
+          "answer": "Cold War",
+          "display": "4 nominations"
+        },
+        {
+          "answer": "Green Book",
+          "display": "4 nominations"
+        },
+        {
+          "answer": "Can You Ever Forgive Me?",
+          "display": "3 nominations"
+        },
+        {
+          "answer": "Mary Poppins Returns",
+          "display": "3 nominations"
+        },
+        {
+          "answer": "Mary, Queen of Scots",
+          "display": "3 nominations",
+          "aliases": [
+            "Mary Queen of Scots"
+          ]
+        },
+        {
+          "answer": "Stan & Ollie",
+          "display": "3 nominations"
+        }
+      ]
+    },
+    {
+      "category": "movies/awards/bafta",
+      "difficulty": 2,
+      "question": "Top 8 films by nominations at the 71st British Academy Film Awards",
+      "cutoff": 8,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1380378714 | table 2 | name: Film | value: Nominations",
+      "tags": [
+        "movies",
+        "awards",
+        "nominations",
+        "bafta"
+      ],
+      "answers": [
+        {
+          "answer": "The Shape of Water",
+          "display": "12 nominations"
+        },
+        {
+          "answer": "Darkest Hour",
+          "display": "9 nominations"
+        },
+        {
+          "answer": "Three Billboards Outside Ebbing, Missouri",
+          "display": "9 nominations",
+          "aliases": [
+            "Three Billboards"
+          ]
+        },
+        {
+          "answer": "Blade Runner 2049",
+          "display": "8 nominations"
+        },
+        {
+          "answer": "Dunkirk",
+          "display": "8 nominations"
+        },
+        {
+          "answer": "I, Tonya",
+          "display": "5 nominations"
+        },
+        {
+          "answer": "Call Me by Your Name",
+          "display": "4 nominations"
+        },
+        {
+          "answer": "Phantom Thread",
+          "display": "4 nominations"
+        },
+        {
+          "answer": "Film Stars Don't Die in Liverpool",
+          "display": "3 nominations"
+        },
+        {
+          "answer": "Lady Bird",
+          "display": "3 nominations"
+        },
+        {
+          "answer": "Paddington 2",
+          "display": "3 nominations",
+          "aliases": [
+            "Paddington"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "movies/awards/bafta",
+      "difficulty": 2,
+      "question": "Top 10 films by nominations at the 70th British Academy Film Awards",
+      "cutoff": 10,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1380376424 | table 2 | name: Film | value: Nominations",
+      "tags": [
+        "movies",
+        "awards",
+        "nominations",
+        "bafta"
+      ],
+      "answers": [
+        {
+          "answer": "La La Land",
+          "display": "11 nominations"
+        },
+        {
+          "answer": "Arrival",
+          "display": "9 nominations"
+        },
+        {
+          "answer": "Nocturnal Animals",
+          "display": "9 nominations"
+        },
+        {
+          "answer": "Manchester by the Sea",
+          "display": "6 nominations"
+        },
+        {
+          "answer": "Fantastic Beasts and Where to Find Them",
+          "display": "5 nominations",
+          "aliases": [
+            "Fantastic Beasts"
+          ]
+        },
+        {
+          "answer": "Hacksaw Ridge",
+          "display": "5 nominations"
+        },
+        {
+          "answer": "I, Daniel Blake",
+          "display": "5 nominations"
+        },
+        {
+          "answer": "Lion",
+          "display": "5 nominations"
+        },
+        {
+          "answer": "Florence Foster Jenkins",
+          "display": "4 nominations"
+        },
+        {
+          "answer": "Moonlight",
+          "display": "4 nominations"
+        },
+        {
+          "answer": "Doctor Strange",
+          "display": "3 nominations"
+        },
+        {
+          "answer": "Hell or High Water",
+          "display": "3 nominations"
+        },
+        {
+          "answer": "Jackie",
+          "display": "3 nominations"
+        },
+        {
+          "answer": "Notes on Blindness",
+          "display": "3 nominations"
+        }
+      ]
+    },
+    {
+      "category": "movies/awards/bafta",
+      "difficulty": 2,
+      "question": "Top 10 films by nominations at the 69th British Academy Film Awards",
+      "cutoff": 10,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1380351164 | table 2 | name: Film | value: Nominations",
+      "tags": [
+        "movies",
+        "awards",
+        "nominations",
+        "bafta"
+      ],
+      "answers": [
+        {
+          "answer": "Bridge of Spies",
+          "display": "9 nominations"
+        },
+        {
+          "answer": "Carol",
+          "display": "9 nominations"
+        },
+        {
+          "answer": "The Revenant",
+          "display": "8 nominations"
+        },
+        {
+          "answer": "Mad Max: Fury Road",
+          "display": "7 nominations",
+          "aliases": [
+            "Mad Max"
+          ]
+        },
+        {
+          "answer": "Brooklyn",
+          "display": "6 nominations"
+        },
+        {
+          "answer": "The Martian",
+          "display": "6 nominations"
+        },
+        {
+          "answer": "The Big Short",
+          "display": "5 nominations"
+        },
+        {
+          "answer": "The Danish Girl",
+          "display": "5 nominations"
+        },
+        {
+          "answer": "Ex Machina",
+          "display": "5 nominations"
+        },
+        {
+          "answer": "Star Wars: The Force Awakens",
+          "display": "4 nominations",
+          "aliases": [
+            "Star Wars"
+          ]
+        },
+        {
+          "answer": "The Hateful Eight",
+          "display": "3 nominations"
+        },
+        {
+          "answer": "Sicario",
+          "display": "3 nominations"
+        },
+        {
+          "answer": "Spotlight",
+          "display": "3 nominations"
+        },
+        {
+          "answer": "Steve Jobs",
+          "display": "3 nominations"
+        }
+      ]
+    },
+    {
+      "category": "movies/awards/bafta",
+      "difficulty": 2,
+      "question": "Top 9 films by nominations at the 67th British Academy Film Awards",
+      "cutoff": 9,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1380345869 | table 2 | name: Film | value: Nominations",
+      "tags": [
+        "movies",
+        "awards",
+        "nominations",
+        "bafta"
+      ],
+      "answers": [
+        {
+          "answer": "Gravity",
+          "display": "11 nominations"
+        },
+        {
+          "answer": "12 Years a Slave",
+          "display": "10 nominations"
+        },
+        {
+          "answer": "American Hustle",
+          "display": "10 nominations"
+        },
+        {
+          "answer": "Captain Phillips",
+          "display": "9 nominations"
+        },
+        {
+          "answer": "Behind the Candelabra",
+          "display": "5 nominations"
+        },
+        {
+          "answer": "Saving Mr. Banks",
+          "display": "5 nominations"
+        },
+        {
+          "answer": "Philomena",
+          "display": "4 nominations"
+        },
+        {
+          "answer": "Rush",
+          "display": "4 nominations"
+        },
+        {
+          "answer": "The Wolf of Wall Street",
+          "display": "4 nominations"
+        },
+        {
+          "answer": "Blue Jasmine",
+          "display": "3 nominations"
+        },
+        {
+          "answer": "The Great Gatsby",
+          "display": "3 nominations"
+        },
+        {
+          "answer": "Inside Llewyn Davis",
+          "display": "3 nominations"
+        },
+        {
+          "answer": "Nebraska",
+          "display": "3 nominations"
+        }
+      ]
+    },
+    {
+      "category": "movies/awards/bafta",
+      "difficulty": 2,
+      "question": "Top 8 films by nominations at the 66th British Academy Film Awards",
+      "cutoff": 8,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1337313806 | table 2 | name: Film | value: Nominations",
+      "tags": [
+        "movies",
+        "awards",
+        "nominations",
+        "bafta"
+      ],
+      "answers": [
+        {
+          "answer": "Lincoln",
+          "display": "10 nominations"
+        },
+        {
+          "answer": "Les Misérables",
+          "display": "9 nominations",
+          "aliases": [
+            "Les Mis"
+          ]
+        },
+        {
+          "answer": "Life of Pi",
+          "display": "9 nominations"
+        },
+        {
+          "answer": "Skyfall",
+          "display": "8 nominations"
+        },
+        {
+          "answer": "Argo",
+          "display": "7 nominations"
+        },
+        {
+          "answer": "Anna Karenina",
+          "display": "6 nominations"
+        },
+        {
+          "answer": "Django Unchained",
+          "display": "5 nominations"
+        },
+        {
+          "answer": "Zero Dark Thirty",
+          "display": "5 nominations"
+        },
+        {
+          "answer": "Amour",
+          "display": "4 nominations"
+        },
+        {
+          "answer": "The Master",
+          "display": "4 nominations"
+        },
+        {
+          "answer": "The Hobbit: An Unexpected Journey",
+          "display": "3 nominations",
+          "aliases": [
+            "The Hobbit"
+          ]
+        },
+        {
+          "answer": "Silver Linings Playbook",
+          "display": "3 nominations"
+        }
+      ]
+    },
+    {
+      "category": "movies/awards/bafta",
+      "difficulty": 2,
+      "question": "Top 9 films by nominations at the 65th British Academy Film Awards",
+      "cutoff": 9,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1380338123 | table 2 | name: Film | value: Nominations",
+      "tags": [
+        "movies",
+        "awards",
+        "nominations",
+        "bafta"
+      ],
+      "answers": [
+        {
+          "answer": "The Artist",
+          "display": "12 nominations"
+        },
+        {
+          "answer": "Tinker Tailor Soldier Spy",
+          "display": "11 nominations"
+        },
+        {
+          "answer": "Hugo",
+          "display": "9 nominations"
+        },
+        {
+          "answer": "My Week with Marilyn",
+          "display": "6 nominations"
+        },
+        {
+          "answer": "The Help",
+          "display": "5 nominations"
+        },
+        {
+          "answer": "War Horse",
+          "display": "5 nominations"
+        },
+        {
+          "answer": "Drive",
+          "display": "4 nominations"
+        },
+        {
+          "answer": "Harry Potter and the Deathly Hallows – Part 2",
+          "display": "4 nominations"
+        },
+        {
+          "answer": "The Iron Lady",
+          "display": "4 nominations"
+        },
+        {
+          "answer": "The Descendants",
+          "display": "3 nominations"
+        },
+        {
+          "answer": "Moneyball",
+          "display": "3 nominations"
+        },
+        {
+          "answer": "Senna",
+          "display": "3 nominations"
+        },
+        {
+          "answer": "We Need to Talk About Kevin",
+          "display": "3 nominations"
+        }
+      ]
+    },
+    {
+      "category": "movies/awards/bafta",
+      "difficulty": 2,
+      "question": "Top 9 films by nominations at the 64th British Academy Film Awards",
+      "cutoff": 9,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1361380369 | table 2 | name: Film | value: Nominations",
+      "tags": [
+        "movies",
+        "awards",
+        "nominations",
+        "bafta"
+      ],
+      "answers": [
+        {
+          "answer": "The King's Speech",
+          "display": "14 nominations"
+        },
+        {
+          "answer": "Black Swan",
+          "display": "12 nominations"
+        },
+        {
+          "answer": "Inception",
+          "display": "9 nominations"
+        },
+        {
+          "answer": "127 Hours",
+          "display": "8 nominations"
+        },
+        {
+          "answer": "True Grit",
+          "display": "8 nominations"
+        },
+        {
+          "answer": "The Social Network",
+          "display": "6 nominations"
+        },
+        {
+          "answer": "Alice in Wonderland",
+          "display": "5 nominations"
+        },
+        {
+          "answer": "The Kids Are All Right",
+          "display": "4 nominations"
+        },
+        {
+          "answer": "Made in Dagenham",
+          "display": "4 nominations"
+        },
+        {
+          "answer": "The Fighter",
+          "display": "3 nominations"
+        },
+        {
+          "answer": "The Girl with the Dragon Tattoo",
+          "display": "3 nominations"
+        },
+        {
+          "answer": "Toy Story 3",
+          "display": "3 nominations"
+        }
+      ]
+    },
+    {
+      "category": "movies/awards/bafta",
+      "difficulty": 2,
+      "question": "Top 6 films by nominations at the 63rd British Academy Film Awards",
+      "cutoff": 6,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1361282449 | table 2 | name: Film | value: Nominations",
+      "tags": [
+        "movies",
+        "awards",
+        "nominations",
+        "bafta"
+      ],
+      "answers": [
+        {
+          "answer": "Avatar",
+          "display": "8 nominations"
+        },
+        {
+          "answer": "An Education",
+          "display": "8 nominations"
+        },
+        {
+          "answer": "The Hurt Locker",
+          "display": "8 nominations"
+        },
+        {
+          "answer": "District 9",
+          "display": "7 nominations"
+        },
+        {
+          "answer": "Inglourious Basterds",
+          "display": "6 nominations"
+        },
+        {
+          "answer": "Up in the Air",
+          "display": "6 nominations"
+        },
+        {
+          "answer": "Coco Before Chanel",
+          "display": "4 nominations"
+        },
+        {
+          "answer": "Nowhere Boy",
+          "display": "4 nominations"
+        },
+        {
+          "answer": "Precious",
+          "display": "4 nominations"
+        },
+        {
+          "answer": "Up",
+          "display": "4 nominations"
+        }
+      ]
+    },
+    {
+      "category": "movies/awards/bafta",
+      "difficulty": 2,
+      "question": "Top 9 films by nominations at the 62nd British Academy Film Awards",
+      "cutoff": 9,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1334844455 | table 2 | name: Film | value: Nominations",
+      "tags": [
+        "movies",
+        "awards",
+        "nominations",
+        "bafta"
+      ],
+      "answers": [
+        {
+          "answer": "The Curious Case of Benjamin Button",
+          "display": "11 nominations",
+          "aliases": [
+            "Benjamin Button"
+          ]
+        },
+        {
+          "answer": "Slumdog Millionaire",
+          "display": "11 nominations"
+        },
+        {
+          "answer": "The Dark Knight",
+          "display": "9 nominations"
+        },
+        {
+          "answer": "Changeling",
+          "display": "8 nominations"
+        },
+        {
+          "answer": "Frost/Nixon",
+          "display": "6 nominations"
+        },
+        {
+          "answer": "The Reader",
+          "display": "5 nominations"
+        },
+        {
+          "answer": "In Bruges",
+          "display": "4 nominations"
+        },
+        {
+          "answer": "Milk",
+          "display": "4 nominations"
+        },
+        {
+          "answer": "Revolutionary Road",
+          "display": "4 nominations"
+        },
+        {
+          "answer": "Burn After Reading",
+          "display": "3 nominations"
+        },
+        {
+          "answer": "Doubt",
+          "display": "3 nominations"
+        },
+        {
+          "answer": "I've Loved You So Long",
+          "display": "3 nominations"
+        },
+        {
+          "answer": "Mamma Mia!",
+          "display": "3 nominations"
+        },
+        {
+          "answer": "WALL-E",
+          "display": "3 nominations"
+        }
+      ]
+    },
+    {
+      "category": "movies/awards/bafta",
+      "difficulty": 2,
+      "question": "Top 8 films by nominations at the 61st British Academy Film Awards",
+      "cutoff": 8,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1290658125 | table 2 | name: Film | value: Nominations",
+      "tags": [
+        "movies",
+        "awards",
+        "nominations",
+        "bafta"
+      ],
+      "answers": [
+        {
+          "answer": "Atonement",
+          "display": "14 nominations"
+        },
+        {
+          "answer": "No Country for Old Men",
+          "display": "9 nominations"
+        },
+        {
+          "answer": "There Will Be Blood",
+          "display": "9 nominations"
+        },
+        {
+          "answer": "La Vie en Rose",
+          "display": "7 nominations"
+        },
+        {
+          "answer": "The Bourne Ultimatum",
+          "display": "6 nominations"
+        },
+        {
+          "answer": "American Gangster",
+          "display": "5 nominations"
+        },
+        {
+          "answer": "The Lives of Others",
+          "display": "5 nominations"
+        },
+        {
+          "answer": "Michael Clayton",
+          "display": "5 nominations"
+        },
+        {
+          "answer": "Elizabeth: The Golden Age",
+          "display": "4 nominations"
+        },
+        {
+          "answer": "Control",
+          "display": "3 nominations"
+        },
+        {
+          "answer": "The Kite Runner",
+          "display": "3 nominations"
+        }
+      ]
+    },
+    {
+      "category": "movies/awards/bafta",
+      "difficulty": 2,
+      "question": "Top 10 films by nominations at the 60th British Academy Film Awards",
+      "cutoff": 10,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1358624976 | table 2 | name: Film | value: Nominations",
+      "tags": [
+        "movies",
+        "awards",
+        "nominations",
+        "bafta"
+      ],
+      "answers": [
+        {
+          "answer": "The Queen",
+          "display": "10 nominations"
+        },
+        {
+          "answer": "Casino Royale",
+          "display": "9 nominations"
+        },
+        {
+          "answer": "Pan's Labyrinth",
+          "display": "8 nominations"
+        },
+        {
+          "answer": "Babel",
+          "display": "7 nominations"
+        },
+        {
+          "answer": "The Departed",
+          "display": "6 nominations"
+        },
+        {
+          "answer": "Little Miss Sunshine",
+          "display": "6 nominations"
+        },
+        {
+          "answer": "United 93",
+          "display": "6 nominations"
+        },
+        {
+          "answer": "The Devil Wears Prada",
+          "display": "5 nominations"
+        },
+        {
+          "answer": "The Last King of Scotland",
+          "display": "5 nominations"
+        },
+        {
+          "answer": "Pirates of the Caribbean: Dead Man's Chest",
+          "display": "5 nominations",
+          "aliases": [
+            "Dead Man's Chest"
+          ]
+        },
+        {
+          "answer": "Children of Men",
+          "display": "3 nominations"
+        },
+        {
+          "answer": "Marie Antoinette",
+          "display": "3 nominations"
+        },
+        {
+          "answer": "Notes on a Scandal",
+          "display": "3 nominations"
+        }
+      ]
+    },
+    {
+      "category": "movies/awards/bafta",
+      "difficulty": 2,
+      "question": "Top 10 films by nominations at the 59th British Academy Film Awards",
+      "cutoff": 10,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1376533366 | table 2 | name: Film | value: Nominations",
+      "tags": [
+        "movies",
+        "awards",
+        "nominations",
+        "bafta"
+      ],
+      "answers": [
+        {
+          "answer": "The Constant Gardener",
+          "display": "10 nominations"
+        },
+        {
+          "answer": "Brokeback Mountain",
+          "display": "9 nominations"
+        },
+        {
+          "answer": "Crash",
+          "display": "9 nominations"
+        },
+        {
+          "answer": "Good Night, and Good Luck",
+          "display": "6 nominations"
+        },
+        {
+          "answer": "Memoirs of a Geisha",
+          "display": "6 nominations"
+        },
+        {
+          "answer": "Pride & Prejudice",
+          "display": "6 nominations"
+        },
+        {
+          "answer": "Capote",
+          "display": "5 nominations"
+        },
+        {
+          "answer": "Charlie and the Chocolate Factory",
+          "display": "4 nominations"
+        },
+        {
+          "answer": "Mrs Henderson Presents",
+          "display": "4 nominations"
+        },
+        {
+          "answer": "Walk the Line",
+          "display": "4 nominations"
+        },
+        {
+          "answer": "Batman Begins",
+          "display": "3 nominations"
+        },
+        {
+          "answer": "The Chronicles of Narnia: The Lion, the Witch and the Wardrobe",
+          "display": "3 nominations",
+          "aliases": [
+            "The Chronicles of Narnia"
+          ]
+        },
+        {
+          "answer": "Harry Potter and the Goblet of Fire",
+          "display": "3 nominations",
+          "aliases": [
+            "Goblet of Fire"
+          ]
+        },
+        {
+          "answer": "King Kong",
+          "display": "3 nominations"
+        }
+      ]
+    },
+    {
+      "category": "movies/awards/bafta",
+      "difficulty": 2,
+      "question": "Top 6 films by nominations at the 57th British Academy Film Awards",
+      "cutoff": 6,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1311397026 | table 2 | name: Film | value: Nominations",
+      "tags": [
+        "movies",
+        "awards",
+        "nominations",
+        "bafta"
+      ],
+      "answers": [
+        {
+          "answer": "Cold Mountain",
+          "display": "13 nominations"
+        },
+        {
+          "answer": "The Lord of the Rings: The Return of the King",
+          "display": "12 nominations",
+          "aliases": [
+            "The Lord of the Rings",
+            "Return of the King"
+          ]
+        },
+        {
+          "answer": "Girl with a Pearl Earring",
+          "display": "10 nominations"
+        },
+        {
+          "answer": "Lost in Translation",
+          "display": "8 nominations"
+        },
+        {
+          "answer": "Master and Commander: The Far Side of the World",
+          "display": "8 nominations",
+          "aliases": [
+            "Master and Commander"
+          ]
+        },
+        {
+          "answer": "Big Fish",
+          "display": "7 nominations"
+        },
+        {
+          "answer": "21 Grams",
+          "display": "5 nominations"
+        },
+        {
+          "answer": "Kill Bill: Volume 1",
+          "display": "5 nominations"
+        },
+        {
+          "answer": "Pirates of the Caribbean: The Curse of the Black Pearl",
+          "display": "5 nominations",
+          "aliases": [
+            "Pirates of the Caribbean"
+          ]
+        },
+        {
+          "answer": "Mystic River",
+          "display": "4 nominations"
+        }
+      ]
+    },
+    {
+      "category": "movies/awards/bafta",
+      "difficulty": 2,
+      "question": "Top 8 films by nominations at the 56th British Academy Film Awards",
+      "cutoff": 8,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1369594834 | table 2 | name: Film | value: Nominations",
+      "tags": [
+        "movies",
+        "awards",
+        "nominations",
+        "bafta"
+      ],
+      "answers": [
+        {
+          "answer": "Chicago",
+          "display": "12 nominations"
+        },
+        {
+          "answer": "Gangs of New York",
+          "display": "12 nominations"
+        },
+        {
+          "answer": "The Hours",
+          "display": "11 nominations"
+        },
+        {
+          "answer": "The Lord of the Rings: The Two Towers",
+          "display": "9 nominations",
+          "aliases": [
+            "The Two Towers"
+          ]
+        },
+        {
+          "answer": "The Pianist",
+          "display": "7 nominations"
+        },
+        {
+          "answer": "Adaptation",
+          "display": "4 nominations"
+        },
+        {
+          "answer": "Catch Me If You Can",
+          "display": "4 nominations"
+        },
+        {
+          "answer": "Frida",
+          "display": "4 nominations"
+        },
+        {
+          "answer": "Harry Potter and the Chamber of Secrets",
+          "display": "3 nominations"
+        },
+        {
+          "answer": "Road to Perdition",
+          "display": "3 nominations"
+        },
+        {
+          "answer": "The Warrior",
+          "display": "3 nominations"
+        }
+      ]
+    },
+    {
+      "category": "movies/awards/bafta",
+      "difficulty": 2,
+      "question": "Top 7 films by nominations at the 55th British Academy Film Awards",
+      "cutoff": 7,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1379915597 | table 2 | name: Film | value: Nominations",
+      "tags": [
+        "movies",
+        "awards",
+        "nominations",
+        "bafta"
+      ],
+      "answers": [
+        {
+          "answer": "The Lord of the Rings: The Fellowship of the Ring",
+          "display": "12 nominations",
+          "aliases": [
+            "Fellowship of the Ring"
+          ]
+        },
+        {
+          "answer": "Moulin Rouge!",
+          "display": "12 nominations",
+          "aliases": [
+            "Moulin Rouge"
+          ]
+        },
+        {
+          "answer": "Amélie",
+          "display": "9 nominations"
+        },
+        {
+          "answer": "Gosford Park",
+          "display": "9 nominations"
+        },
+        {
+          "answer": "Harry Potter and the Philosopher's Stone",
+          "display": "7 nominations"
+        },
+        {
+          "answer": "Iris",
+          "display": "6 nominations"
+        },
+        {
+          "answer": "Shrek",
+          "display": "6 nominations"
+        },
+        {
+          "answer": "A Beautiful Mind",
+          "display": "5 nominations"
+        },
+        {
+          "answer": "Bridget Jones's Diary",
+          "display": "4 nominations"
+        },
+        {
+          "answer": "Black Hawk Down",
+          "display": "3 nominations"
+        }
+      ]
+    },
+    {
+      "category": "movies/awards/bafta",
+      "difficulty": 2,
+      "question": "Top 6 films by nominations at the 54th British Academy Film Awards",
+      "cutoff": 6,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1311397016 | table 2 | name: Film | value: Nominations",
+      "tags": [
+        "movies",
+        "awards",
+        "nominations",
+        "bafta"
+      ],
+      "answers": [
+        {
+          "answer": "Crouching Tiger, Hidden Dragon",
+          "display": "14 nominations",
+          "aliases": [
+            "Crouching Tiger"
+          ]
+        },
+        {
+          "answer": "Gladiator",
+          "display": "14 nominations"
+        },
+        {
+          "answer": "Billy Elliot",
+          "display": "13 nominations"
+        },
+        {
+          "answer": "Chocolat",
+          "display": "8 nominations"
+        },
+        {
+          "answer": "Almost Famous",
+          "display": "6 nominations"
+        },
+        {
+          "answer": "Erin Brockovich",
+          "display": "6 nominations"
+        },
+        {
+          "answer": "O Brother, Where Art Thou?",
+          "display": "4 nominations"
+        },
+        {
+          "answer": "Quills",
+          "display": "4 nominations"
+        },
+        {
+          "answer": "Traffic",
+          "display": "4 nominations"
+        }
+      ]
+    },
+    {
+      "category": "movies/awards/bafta",
+      "difficulty": 2,
+      "question": "Top 6 films by nominations at the 48th British Academy Film Awards",
+      "cutoff": 6,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1362114710 | table 2 | name: Film | value: Nominations",
+      "tags": [
+        "movies",
+        "awards",
+        "nominations",
+        "bafta"
+      ],
+      "answers": [
+        {
+          "answer": "Four Weddings and a Funeral",
+          "display": "11 nominations"
+        },
+        {
+          "answer": "Pulp Fiction",
+          "display": "9 nominations"
+        },
+        {
+          "answer": "Forrest Gump",
+          "display": "8 nominations"
+        },
+        {
+          "answer": "The Adventures of Priscilla, Queen of the Desert",
+          "display": "7 nominations",
+          "aliases": [
+            "Priscilla, Queen of the Desert"
+          ]
+        },
+        {
+          "answer": "Interview with the Vampire",
+          "display": "4 nominations"
+        },
+        {
+          "answer": "Three Colours: Red",
+          "display": "4 nominations",
+          "aliases": [
+            "Three Colours"
+          ]
+        },
+        {
+          "answer": "Backbeat",
+          "display": "3 nominations"
+        },
+        {
+          "answer": "The Mask",
+          "display": "3 nominations"
+        },
+        {
+          "answer": "Quiz Show",
+          "display": "3 nominations"
+        },
+        {
+          "answer": "Speed",
+          "display": "3 nominations"
+        }
+      ]
+    },
+    {
+      "category": "movies/awards/bafta",
+      "difficulty": 2,
+      "question": "Top 7 films by nominations at the 44th British Academy Film Awards",
+      "cutoff": 7,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1369025020 | table 2 | name: Film | value: Nominations",
+      "tags": [
+        "movies",
+        "awards",
+        "nominations",
+        "bafta"
+      ],
+      "answers": [
+        {
+          "answer": "Cinema Paradiso",
+          "display": "11 nominations"
+        },
+        {
+          "answer": "Dick Tracy",
+          "display": "7 nominations"
+        },
+        {
+          "answer": "Goodfellas",
+          "display": "7 nominations"
+        },
+        {
+          "answer": "Crimes and Misdemeanors",
+          "display": "6 nominations"
+        },
+        {
+          "answer": "Driving Miss Daisy",
+          "display": "4 nominations"
+        },
+        {
+          "answer": "Ghost",
+          "display": "4 nominations"
+        },
+        {
+          "answer": "Pretty Woman",
+          "display": "4 nominations"
+        },
+        {
+          "answer": "The Fabulous Baker Boys",
+          "display": "3 nominations"
+        },
+        {
+          "answer": "The Hunt for Red October",
+          "display": "3 nominations"
+        },
+        {
+          "answer": "Postcards from the Edge",
+          "display": "3 nominations"
+        }
+      ]
+    },
+    {
+      "category": "movies/awards/golden-globes",
+      "difficulty": 2,
+      "question": "Top 6 films by nominations at the 70th Golden Globe Awards",
+      "cutoff": 6,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1379899132 | table 2 | name: Film | value: Nominations",
+      "tags": [
+        "movies",
+        "awards",
+        "nominations",
+        "golden-globes"
+      ],
+      "answers": [
+        {
+          "answer": "Lincoln",
+          "display": "7 nominations"
+        },
+        {
+          "answer": "Argo",
+          "display": "5 nominations"
+        },
+        {
+          "answer": "Django Unchained",
+          "display": "5 nominations"
+        },
+        {
+          "answer": "Les Misérables",
+          "display": "4 nominations",
+          "aliases": [
+            "Les Mis"
+          ]
+        },
+        {
+          "answer": "Silver Linings Playbook",
+          "display": "4 nominations"
+        },
+        {
+          "answer": "Zero Dark Thirty",
+          "display": "4 nominations"
+        },
+        {
+          "answer": "Life of Pi",
+          "display": "3 nominations"
+        },
+        {
+          "answer": "Salmon Fishing in the Yemen",
+          "display": "3 nominations"
+        },
+        {
+          "answer": "The Master",
+          "display": "3 nominations"
+        }
+      ]
+    },
+    {
+      "category": "movies/awards/golden-globes",
+      "difficulty": 2,
+      "question": "Top 5 films by nominations at the 71st Golden Globe Awards",
+      "cutoff": 5,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1380010955 | table 2 | name: Film | value: Nominations",
+      "tags": [
+        "movies",
+        "awards",
+        "nominations",
+        "golden-globes"
+      ],
+      "answers": [
+        {
+          "answer": "12 Years a Slave",
+          "display": "7 nominations"
+        },
+        {
+          "answer": "American Hustle",
+          "display": "7 nominations"
+        },
+        {
+          "answer": "Nebraska",
+          "display": "5 nominations"
+        },
+        {
+          "answer": "Captain Phillips",
+          "display": "4 nominations"
+        },
+        {
+          "answer": "Gravity",
+          "display": "4 nominations"
+        },
+        {
+          "answer": "Her",
+          "display": "3 nominations"
+        },
+        {
+          "answer": "Inside Llewyn Davis",
+          "display": "3 nominations"
+        },
+        {
+          "answer": "Mandela: Long Walk to Freedom",
+          "display": "3 nominations"
+        },
+        {
+          "answer": "Philomena",
+          "display": "3 nominations"
+        }
+      ]
+    },
+    {
+      "category": "movies/awards/golden-globes",
+      "difficulty": 2,
+      "question": "Top 7 films by nominations at the 72nd Golden Globe Awards",
+      "cutoff": 7,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1380012981 | table 2 | name: Film | value: Nominations",
+      "tags": [
+        "movies",
+        "awards",
+        "nominations",
+        "golden-globes"
+      ],
+      "answers": [
+        {
+          "answer": "Birdman",
+          "display": "7 nominations"
+        },
+        {
+          "answer": "Boyhood",
+          "display": "5 nominations"
+        },
+        {
+          "answer": "The Imitation Game",
+          "display": "5 nominations"
+        },
+        {
+          "answer": "Gone Girl",
+          "display": "4 nominations"
+        },
+        {
+          "answer": "Selma",
+          "display": "4 nominations"
+        },
+        {
+          "answer": "The Grand Budapest Hotel",
+          "display": "4 nominations"
+        },
+        {
+          "answer": "The Theory of Everything",
+          "display": "4 nominations"
+        },
+        {
+          "answer": "Big Eyes",
+          "display": "3 nominations"
+        },
+        {
+          "answer": "Foxcatcher",
+          "display": "3 nominations"
+        },
+        {
+          "answer": "Into the Woods",
+          "display": "3 nominations"
+        }
+      ]
+    },
+    {
+      "category": "movies/awards/golden-globes",
+      "difficulty": 2,
+      "question": "Top 5 films by nominations at the 74th Golden Globe Awards",
+      "cutoff": 5,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1380244506 | table 2 | name: Film | value: Nominations",
+      "tags": [
+        "movies",
+        "awards",
+        "nominations",
+        "golden-globes"
+      ],
+      "answers": [
+        {
+          "answer": "La La Land",
+          "display": "7 nominations"
+        },
+        {
+          "answer": "Moonlight",
+          "display": "6 nominations"
+        },
+        {
+          "answer": "Manchester by the Sea",
+          "display": "5 nominations"
+        },
+        {
+          "answer": "Florence Foster Jenkins",
+          "display": "4 nominations"
+        },
+        {
+          "answer": "Lion",
+          "display": "4 nominations"
+        },
+        {
+          "answer": "Hacksaw Ridge",
+          "display": "3 nominations"
+        },
+        {
+          "answer": "Hell or High Water",
+          "display": "3 nominations"
+        },
+        {
+          "answer": "Nocturnal Animals",
+          "display": "3 nominations"
+        }
+      ]
+    },
+    {
+      "category": "movies/awards/golden-globes",
+      "difficulty": 2,
+      "question": "Top 6 films by nominations at the 76th Golden Globe Awards",
+      "cutoff": 6,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1380014688 | table 2 | name: Film | value: Nominations",
+      "tags": [
+        "movies",
+        "awards",
+        "nominations",
+        "golden-globes"
+      ],
+      "answers": [
+        {
+          "answer": "Vice",
+          "display": "6 nominations"
+        },
+        {
+          "answer": "The Favourite",
+          "display": "5 nominations"
+        },
+        {
+          "answer": "Green Book",
+          "display": "5 nominations"
+        },
+        {
+          "answer": "A Star Is Born",
+          "display": "5 nominations"
+        },
+        {
+          "answer": "BlacKkKlansman",
+          "display": "4 nominations"
+        },
+        {
+          "answer": "Mary Poppins Returns",
+          "display": "4 nominations"
+        },
+        {
+          "answer": "Black Panther",
+          "display": "3 nominations"
+        },
+        {
+          "answer": "If Beale Street Could Talk",
+          "display": "3 nominations"
+        },
+        {
+          "answer": "Roma",
+          "display": "3 nominations"
+        }
+      ]
+    },
+    {
+      "category": "movies/awards/golden-globes",
+      "difficulty": 2,
+      "question": "Top 5 films by nominations at the 77th Golden Globe Awards",
+      "cutoff": 5,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1380016569 | table 2 | name: Film | value: Nominations",
+      "tags": [
+        "movies",
+        "awards",
+        "nominations",
+        "golden-globes"
+      ],
+      "answers": [
+        {
+          "answer": "Marriage Story",
+          "display": "6 nominations"
+        },
+        {
+          "answer": "The Irishman",
+          "display": "5 nominations"
+        },
+        {
+          "answer": "Once Upon a Time in Hollywood",
+          "display": "5 nominations"
+        },
+        {
+          "answer": "Joker",
+          "display": "4 nominations"
+        },
+        {
+          "answer": "The Two Popes",
+          "display": "4 nominations"
+        },
+        {
+          "answer": "1917",
+          "display": "3 nominations"
+        },
+        {
+          "answer": "Knives Out",
+          "display": "3 nominations"
+        },
+        {
+          "answer": "Parasite",
+          "display": "3 nominations"
+        },
+        {
+          "answer": "Rocketman",
+          "display": "3 nominations"
+        }
+      ]
+    },
+    {
+      "category": "movies/awards/golden-globes",
+      "difficulty": 2,
+      "question": "Top 6 films by nominations at the 79th Golden Globe Awards",
+      "cutoff": 6,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1380244490 | table 2 | name: Film | value: Nominations",
+      "tags": [
+        "movies",
+        "awards",
+        "nominations",
+        "golden-globes"
+      ],
+      "answers": [
+        {
+          "answer": "Belfast",
+          "display": "7 nominations"
+        },
+        {
+          "answer": "The Power of the Dog",
+          "display": "7 nominations"
+        },
+        {
+          "answer": "Don't Look Up",
+          "display": "4 nominations"
+        },
+        {
+          "answer": "King Richard",
+          "display": "4 nominations"
+        },
+        {
+          "answer": "Licorice Pizza",
+          "display": "4 nominations"
+        },
+        {
+          "answer": "West Side Story",
+          "display": "4 nominations"
+        },
+        {
+          "answer": "Being the Ricardos",
+          "display": "3 nominations"
+        },
+        {
+          "answer": "Dune",
+          "display": "3 nominations"
+        },
+        {
+          "answer": "Encanto",
+          "display": "3 nominations"
+        }
+      ]
+    },
+    {
+      "category": "movies/awards/golden-globes",
+      "difficulty": 2,
+      "question": "Top 8 films by nominations at the 81st Golden Globe Awards",
+      "cutoff": 8,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1380244464 | table 2 | name: Film | value: Nominations",
+      "tags": [
+        "movies",
+        "awards",
+        "nominations",
+        "golden-globes"
+      ],
+      "answers": [
+        {
+          "answer": "Barbie",
+          "display": "9 nominations"
+        },
+        {
+          "answer": "Oppenheimer",
+          "display": "8 nominations"
+        },
+        {
+          "answer": "Killers of the Flower Moon",
+          "display": "7 nominations"
+        },
+        {
+          "answer": "Poor Things",
+          "display": "7 nominations"
+        },
+        {
+          "answer": "Past Lives",
+          "display": "5 nominations"
+        },
+        {
+          "answer": "Anatomy of a Fall",
+          "display": "4 nominations"
+        },
+        {
+          "answer": "Maestro",
+          "display": "4 nominations"
+        },
+        {
+          "answer": "May December",
+          "display": "4 nominations"
+        },
+        {
+          "answer": "The Holdovers",
+          "display": "3 nominations"
+        },
+        {
+          "answer": "Spider-Man: Across the Spider-Verse",
+          "display": "3 nominations",
+          "aliases": [
+            "Across the Spider-Verse"
+          ]
+        },
+        {
+          "answer": "The Super Mario Bros. Movie",
+          "display": "3 nominations"
+        },
+        {
+          "answer": "The Zone of Interest",
+          "display": "3 nominations"
+        }
+      ]
+    },
+    {
+      "category": "movies/awards/golden-globes",
+      "difficulty": 2,
+      "question": "Top 5 films by nominations at the 82nd Golden Globe Awards",
+      "cutoff": 5,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1373661762 | table 2 | name: Film | value: Nominations",
+      "tags": [
+        "movies",
+        "awards",
+        "nominations",
+        "golden-globes"
+      ],
+      "answers": [
+        {
+          "answer": "Emilia Pérez",
+          "display": "10 nominations",
+          "aliases": [
+            "Emilia Perez"
+          ]
+        },
+        {
+          "answer": "The Brutalist",
+          "display": "7 nominations"
+        },
+        {
+          "answer": "Conclave",
+          "display": "6 nominations"
+        },
+        {
+          "answer": "Anora",
+          "display": "5 nominations"
+        },
+        {
+          "answer": "The Substance",
+          "display": "5 nominations"
+        },
+        {
+          "answer": "Challengers",
+          "display": "4 nominations"
+        },
+        {
+          "answer": "A Real Pain",
+          "display": "4 nominations"
+        },
+        {
+          "answer": "Wicked",
+          "display": "4 nominations"
+        },
+        {
+          "answer": "The Wild Robot",
+          "display": "4 nominations"
+        }
+      ]
+    },
+    {
+      "category": "movies/awards/golden-globes",
+      "difficulty": 2,
+      "question": "Top 7 films by nominations at the 83rd Golden Globe Awards",
+      "cutoff": 7,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1380317172 | table 2 | name: Film | value: Nominations",
+      "tags": [
+        "movies",
+        "awards",
+        "nominations",
+        "golden-globes"
+      ],
+      "answers": [
+        {
+          "answer": "One Battle After Another",
+          "display": "9 nominations"
+        },
+        {
+          "answer": "Sentimental Value",
+          "display": "8 nominations"
+        },
+        {
+          "answer": "Sinners",
+          "display": "7 nominations"
+        },
+        {
+          "answer": "Hamnet",
+          "display": "6 nominations"
+        },
+        {
+          "answer": "Frankenstein",
+          "display": "5 nominations"
+        },
+        {
+          "answer": "Wicked: For Good",
+          "display": "5 nominations"
+        },
+        {
+          "answer": "It Was Just an Accident",
+          "display": "4 nominations"
+        },
+        {
+          "answer": "Bugonia",
+          "display": "3 nominations"
+        },
+        {
+          "answer": "KPop Demon Hunters",
+          "display": "3 nominations"
+        },
+        {
+          "answer": "Marty Supreme",
+          "display": "3 nominations"
+        },
+        {
+          "answer": "No Other Choice",
+          "display": "3 nominations"
+        },
+        {
+          "answer": "The Secret Agent",
+          "display": "3 nominations"
+        }
+      ]
+    }
+  ]
+}

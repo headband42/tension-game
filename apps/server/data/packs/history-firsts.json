@@ -1,0 +1,100 @@
+{
+  "categories": [
+    {
+      "path": "history/firsts",
+      "name": "Firsts"
+    },
+    {
+      "path": "history/firsts/space",
+      "name": "Space"
+    }
+  ],
+  "questions": [
+    {
+      "category": "history/firsts/space",
+      "question": "First 10 countries to put a satellite in orbit (by date of each country's first satellite, any launcher, earliest first)",
+      "cutoff": 10,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1374181274 | table 2 | name: Country | value: Date | where: Country!~European countries | order: asc | note: the multinational 10-country ESRO entry (17 May 1968) is excluded because it is not a country",
+      "tags": [
+        "history",
+        "firsts",
+        "space",
+        "satellites"
+      ],
+      "answers": [
+        {
+          "answer": "Soviet Union",
+          "display": "4 October 1957",
+          "aliases": [
+            "USSR"
+          ]
+        },
+        {
+          "answer": "United States",
+          "display": "1 February 1958",
+          "aliases": [
+            "USA",
+            "US"
+          ]
+        },
+        {
+          "answer": "United Kingdom",
+          "display": "26 April 1962",
+          "aliases": [
+            "UK",
+            "Britain"
+          ]
+        },
+        {
+          "answer": "Canada",
+          "display": "29 September 1962"
+        },
+        {
+          "answer": "Italy",
+          "display": "15 December 1964"
+        },
+        {
+          "answer": "France",
+          "display": "26 November 1965"
+        },
+        {
+          "answer": "Australia",
+          "display": "29 November 1967"
+        },
+        {
+          "answer": "West Germany",
+          "display": "8 November 1969"
+        },
+        {
+          "answer": "Japan",
+          "display": "11 February 1970"
+        },
+        {
+          "answer": "China",
+          "display": "24 April 1970"
+        },
+        {
+          "answer": "Netherlands",
+          "display": "30 August 1974",
+          "aliases": [
+            "Holland"
+          ]
+        },
+        {
+          "answer": "Spain",
+          "display": "15 November 1974"
+        },
+        {
+          "answer": "India",
+          "display": "19 April 1975"
+        },
+        {
+          "answer": "Indonesia",
+          "display": "8 July 1976"
+        }
+      ]
+    }
+  ]
+}

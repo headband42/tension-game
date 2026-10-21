@@ -1,0 +1,3875 @@
+{
+  "categories": [
+    {
+      "path": "movies/awards",
+      "name": "Film Awards"
+    },
+    {
+      "path": "movies/awards/oscars",
+      "name": "Academy Awards"
+    }
+  ],
+  "questions": [
+    {
+      "category": "movies/awards/oscars",
+      "question": "Top 9 films by nominations at the 12th Academy Awards (1939 films)",
+      "cutoff": 9,
+      "difficulty": 3,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1357587468 | table 2 | name: Film | value: Nominations",
+      "tags": [
+        "movies",
+        "awards",
+        "oscars",
+        "1939"
+      ],
+      "answers": [
+        {
+          "answer": "Gone with the Wind",
+          "display": "13 nominations"
+        },
+        {
+          "answer": "Mr. Smith Goes to Washington",
+          "display": "11 nominations"
+        },
+        {
+          "answer": "Wuthering Heights",
+          "display": "8 nominations"
+        },
+        {
+          "answer": "Goodbye, Mr. Chips",
+          "display": "7 nominations"
+        },
+        {
+          "answer": "Stagecoach",
+          "display": "7 nominations"
+        },
+        {
+          "answer": "Love Affair",
+          "display": "6 nominations"
+        },
+        {
+          "answer": "The Wizard of Oz",
+          "display": "6 nominations"
+        },
+        {
+          "answer": "The Private Lives of Elizabeth and Essex",
+          "display": "5 nominations"
+        },
+        {
+          "answer": "The Rains Came",
+          "display": "5 nominations"
+        },
+        {
+          "answer": "Ninotchka",
+          "display": "4 nominations"
+        },
+        {
+          "answer": "Of Mice and Men",
+          "display": "4 nominations"
+        },
+        {
+          "answer": "Dark Victory",
+          "display": "3 nominations"
+        },
+        {
+          "answer": "Man of Conquest",
+          "display": "3 nominations"
+        }
+      ]
+    },
+    {
+      "category": "movies/awards/oscars",
+      "question": "Top 5 films by nominations at the 15th Academy Awards (1942 films)",
+      "cutoff": 5,
+      "difficulty": 3,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1357588331 | table 2 | name: Film | value: Nominations",
+      "tags": [
+        "movies",
+        "awards",
+        "oscars",
+        "1942"
+      ],
+      "answers": [
+        {
+          "answer": "Mrs. Miniver",
+          "display": "12 nominations"
+        },
+        {
+          "answer": "The Pride of the Yankees",
+          "display": "11 nominations"
+        },
+        {
+          "answer": "Yankee Doodle Dandy",
+          "display": "8 nominations"
+        },
+        {
+          "answer": "Random Harvest",
+          "display": "7 nominations"
+        },
+        {
+          "answer": "The Talk of the Town",
+          "display": "7 nominations"
+        },
+        {
+          "answer": "Arabian Nights",
+          "display": "4 nominations"
+        },
+        {
+          "answer": "Jungle Book",
+          "display": "4 nominations"
+        },
+        {
+          "answer": "The Magnificent Ambersons",
+          "display": "4 nominations"
+        },
+        {
+          "answer": "This Above All",
+          "display": "4 nominations"
+        },
+        {
+          "answer": "Wake Island",
+          "display": "4 nominations"
+        }
+      ]
+    },
+    {
+      "category": "movies/awards/oscars",
+      "question": "Top 7 films by nominations at the 16th Academy Awards (1943 films)",
+      "cutoff": 7,
+      "difficulty": 3,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1365081299 | table 2 | name: Film | value: Nominations",
+      "tags": [
+        "movies",
+        "awards",
+        "oscars",
+        "1943"
+      ],
+      "answers": [
+        {
+          "answer": "The Song of Bernadette",
+          "display": "12 nominations"
+        },
+        {
+          "answer": "For Whom the Bell Tolls",
+          "display": "9 nominations"
+        },
+        {
+          "answer": "Casablanca",
+          "display": "8 nominations"
+        },
+        {
+          "answer": "Madame Curie",
+          "display": "7 nominations"
+        },
+        {
+          "answer": "The More the Merrier",
+          "display": "6 nominations"
+        },
+        {
+          "answer": "The North Star",
+          "display": "6 nominations"
+        },
+        {
+          "answer": "The Human Comedy",
+          "display": "5 nominations"
+        },
+        {
+          "answer": "Air Force",
+          "display": "4 nominations"
+        },
+        {
+          "answer": "Phantom of the Opera",
+          "display": "4 nominations"
+        },
+        {
+          "answer": "So Proudly We Hail!",
+          "display": "4 nominations"
+        },
+        {
+          "answer": "Watch on the Rhine",
+          "display": "4 nominations"
+        }
+      ]
+    },
+    {
+      "category": "movies/awards/oscars",
+      "question": "Top 7 films by nominations at the 17th Academy Awards (1944 films)",
+      "cutoff": 7,
+      "difficulty": 3,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1357588335 | table 2 | name: Film | value: Nominations",
+      "tags": [
+        "movies",
+        "awards",
+        "oscars",
+        "1944"
+      ],
+      "answers": [
+        {
+          "answer": "Going My Way",
+          "display": "10 nominations"
+        },
+        {
+          "answer": "Wilson",
+          "display": "10 nominations"
+        },
+        {
+          "answer": "Since You Went Away",
+          "display": "9 nominations"
+        },
+        {
+          "answer": "Double Indemnity",
+          "display": "7 nominations"
+        },
+        {
+          "answer": "Gaslight",
+          "display": "7 nominations"
+        },
+        {
+          "answer": "Cover Girl",
+          "display": "5 nominations"
+        },
+        {
+          "answer": "Laura",
+          "display": "5 nominations"
+        },
+        {
+          "answer": "Kismet",
+          "display": "4 nominations"
+        },
+        {
+          "answer": "Meet Me in St. Louis",
+          "display": "4 nominations"
+        },
+        {
+          "answer": "None but the Lonely Heart",
+          "display": "4 nominations"
+        }
+      ]
+    },
+    {
+      "category": "movies/awards/oscars",
+      "question": "Top 6 films by nominations at the 24th Academy Awards (1951 films)",
+      "cutoff": 6,
+      "difficulty": 3,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1356564358 | table 2 | name: Film | value: Nominations",
+      "tags": [
+        "movies",
+        "awards",
+        "oscars",
+        "1951"
+      ],
+      "answers": [
+        {
+          "answer": "A Streetcar Named Desire",
+          "display": "12 nominations"
+        },
+        {
+          "answer": "A Place in the Sun",
+          "display": "9 nominations"
+        },
+        {
+          "answer": "An American in Paris",
+          "display": "8 nominations"
+        },
+        {
+          "answer": "Quo Vadis",
+          "display": "8 nominations"
+        },
+        {
+          "answer": "David and Bathsheba",
+          "display": "5 nominations"
+        },
+        {
+          "answer": "Death of a Salesman",
+          "display": "5 nominations"
+        },
+        {
+          "answer": "The African Queen",
+          "display": "4 nominations"
+        },
+        {
+          "answer": "Detective Story",
+          "display": "4 nominations"
+        },
+        {
+          "answer": "The Great Caruso",
+          "display": "3 nominations"
+        }
+      ]
+    },
+    {
+      "category": "movies/awards/oscars",
+      "question": "Top 8 films by nominations at the 25th Academy Awards (1952 films)",
+      "cutoff": 8,
+      "difficulty": 3,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1368413011 | table 2 | name: Film | value: Nominations",
+      "tags": [
+        "movies",
+        "awards",
+        "oscars",
+        "1952"
+      ],
+      "answers": [
+        {
+          "answer": "High Noon",
+          "display": "7 nominations"
+        },
+        {
+          "answer": "Moulin Rouge",
+          "display": "7 nominations"
+        },
+        {
+          "answer": "The Quiet Man",
+          "display": "7 nominations"
+        },
+        {
+          "answer": "The Bad and the Beautiful",
+          "display": "6 nominations"
+        },
+        {
+          "answer": "Hans Christian Andersen",
+          "display": "6 nominations"
+        },
+        {
+          "answer": "The Greatest Show on Earth",
+          "display": "5 nominations"
+        },
+        {
+          "answer": "Viva Zapata!",
+          "display": "5 nominations"
+        },
+        {
+          "answer": "With a Song in My Heart",
+          "display": "5 nominations"
+        },
+        {
+          "answer": "My Cousin Rachel",
+          "display": "4 nominations"
+        },
+        {
+          "answer": "Sudden Fear",
+          "display": "4 nominations"
+        },
+        {
+          "answer": "Come Back, Little Sheba",
+          "display": "3 nominations"
+        },
+        {
+          "answer": "Ivanhoe",
+          "display": "3 nominations"
+        }
+      ]
+    },
+    {
+      "category": "movies/awards/oscars",
+      "question": "Top 6 films by nominations at the 26th Academy Awards (1953 films)",
+      "cutoff": 6,
+      "difficulty": 3,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1364361507 | table 4 | name: Film | value: Nominations",
+      "tags": [
+        "movies",
+        "awards",
+        "oscars",
+        "1953"
+      ],
+      "answers": [
+        {
+          "answer": "From Here to Eternity",
+          "display": "13 nominations"
+        },
+        {
+          "answer": "Roman Holiday",
+          "display": "10 nominations"
+        },
+        {
+          "answer": "Lili",
+          "display": "6 nominations"
+        },
+        {
+          "answer": "Shane",
+          "display": "6 nominations"
+        },
+        {
+          "answer": "Julius Caesar",
+          "display": "5 nominations"
+        },
+        {
+          "answer": "The Robe",
+          "display": "5 nominations"
+        },
+        {
+          "answer": "The Band Wagon",
+          "display": "3 nominations"
+        },
+        {
+          "answer": "Calamity Jane",
+          "display": "3 nominations"
+        },
+        {
+          "answer": "The Moon Is Blue",
+          "display": "3 nominations"
+        },
+        {
+          "answer": "Stalag 17",
+          "display": "3 nominations"
+        }
+      ]
+    },
+    {
+      "category": "movies/awards/oscars",
+      "question": "Top 9 films by nominations at the 27th Academy Awards (1954 films)",
+      "cutoff": 9,
+      "difficulty": 3,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1379096985 | table 2 | name: Film | value: Nominations",
+      "tags": [
+        "movies",
+        "awards",
+        "oscars",
+        "1954"
+      ],
+      "answers": [
+        {
+          "answer": "On the Waterfront",
+          "display": "12 nominations"
+        },
+        {
+          "answer": "The Caine Mutiny",
+          "display": "7 nominations"
+        },
+        {
+          "answer": "The Country Girl",
+          "display": "7 nominations"
+        },
+        {
+          "answer": "The High and the Mighty",
+          "display": "6 nominations"
+        },
+        {
+          "answer": "Sabrina",
+          "display": "6 nominations"
+        },
+        {
+          "answer": "A Star Is Born",
+          "display": "6 nominations"
+        },
+        {
+          "answer": "Seven Brides for Seven Brothers",
+          "display": "5 nominations"
+        },
+        {
+          "answer": "Executive Suite",
+          "display": "4 nominations"
+        },
+        {
+          "answer": "Rear Window",
+          "display": "4 nominations"
+        },
+        {
+          "answer": "20,000 Leagues Under the Sea",
+          "display": "3 nominations"
+        },
+        {
+          "answer": "Brigadoon",
+          "display": "3 nominations"
+        },
+        {
+          "answer": "The Glenn Miller Story",
+          "display": "3 nominations"
+        },
+        {
+          "answer": "There's No Business Like Show Business",
+          "display": "3 nominations"
+        },
+        {
+          "answer": "Three Coins in the Fountain",
+          "display": "3 nominations"
+        }
+      ]
+    },
+    {
+      "category": "movies/awards/oscars",
+      "question": "Top 9 films by nominations at the 29th Academy Awards (1956 films)",
+      "cutoff": 9,
+      "difficulty": 3,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1375870025 | table 2 | name: Film | value: Nominations",
+      "tags": [
+        "movies",
+        "awards",
+        "oscars",
+        "1956"
+      ],
+      "answers": [
+        {
+          "answer": "Giant",
+          "display": "10 nominations"
+        },
+        {
+          "answer": "The King and I",
+          "display": "9 nominations"
+        },
+        {
+          "answer": "Around the World in 80 Days",
+          "display": "8 nominations"
+        },
+        {
+          "answer": "The Ten Commandments",
+          "display": "7 nominations"
+        },
+        {
+          "answer": "Friendly Persuasion",
+          "display": "6 nominations"
+        },
+        {
+          "answer": "Baby Doll",
+          "display": "4 nominations"
+        },
+        {
+          "answer": "The Bad Seed",
+          "display": "4 nominations"
+        },
+        {
+          "answer": "The Eddy Duchin Story",
+          "display": "4 nominations"
+        },
+        {
+          "answer": "Lust for Life",
+          "display": "4 nominations"
+        },
+        {
+          "answer": "The Brave One",
+          "display": "3 nominations"
+        },
+        {
+          "answer": "Somebody Up There Likes Me",
+          "display": "3 nominations"
+        },
+        {
+          "answer": "War and Peace",
+          "display": "3 nominations"
+        },
+        {
+          "answer": "Written on the Wind",
+          "display": "3 nominations"
+        }
+      ]
+    },
+    {
+      "category": "movies/awards/oscars",
+      "question": "Top 8 films by nominations at the 30th Academy Awards (1957 films)",
+      "cutoff": 8,
+      "difficulty": 3,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1365065246 | table 2 | name: Film | value: Nominations",
+      "tags": [
+        "movies",
+        "awards",
+        "oscars",
+        "1957"
+      ],
+      "answers": [
+        {
+          "answer": "Sayonara",
+          "display": "10 nominations"
+        },
+        {
+          "answer": "Peyton Place",
+          "display": "9 nominations"
+        },
+        {
+          "answer": "The Bridge on the River Kwai",
+          "display": "8 nominations"
+        },
+        {
+          "answer": "Witness for the Prosecution",
+          "display": "6 nominations"
+        },
+        {
+          "answer": "An Affair to Remember",
+          "display": "4 nominations"
+        },
+        {
+          "answer": "Funny Face",
+          "display": "4 nominations"
+        },
+        {
+          "answer": "Pal Joey",
+          "display": "4 nominations"
+        },
+        {
+          "answer": "Raintree County",
+          "display": "4 nominations"
+        },
+        {
+          "answer": "12 Angry Men",
+          "display": "3 nominations"
+        },
+        {
+          "answer": "Les Girls",
+          "display": "3 nominations"
+        },
+        {
+          "answer": "Wild is the Wind",
+          "display": "3 nominations"
+        }
+      ]
+    },
+    {
+      "category": "movies/awards/oscars",
+      "question": "Top 6 films by nominations at the 32nd Academy Awards (1959 films)",
+      "cutoff": 6,
+      "difficulty": 3,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1338807716 | table 2 | name: Film | value: Nominations",
+      "tags": [
+        "movies",
+        "awards",
+        "oscars",
+        "1959"
+      ],
+      "answers": [
+        {
+          "answer": "Ben-Hur",
+          "display": "12 nominations"
+        },
+        {
+          "answer": "The Diary of Anne Frank",
+          "display": "8 nominations"
+        },
+        {
+          "answer": "The Nun's Story",
+          "display": "8 nominations"
+        },
+        {
+          "answer": "Anatomy of a Murder",
+          "display": "7 nominations"
+        },
+        {
+          "answer": "Room at the Top",
+          "display": "6 nominations"
+        },
+        {
+          "answer": "Some Like It Hot",
+          "display": "6 nominations"
+        },
+        {
+          "answer": "Pillow Talk",
+          "display": "5 nominations"
+        },
+        {
+          "answer": "The Five Pennies",
+          "display": "4 nominations"
+        },
+        {
+          "answer": "Porgy and Bess",
+          "display": "4 nominations"
+        }
+      ]
+    },
+    {
+      "category": "movies/awards/oscars",
+      "question": "Top 10 films by nominations at the 34th Academy Awards (1961 films)",
+      "cutoff": 10,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1373038321 | table 2 | name: Film | value: Nominations",
+      "tags": [
+        "movies",
+        "awards",
+        "oscars",
+        "1961"
+      ],
+      "answers": [
+        {
+          "answer": "Judgment at Nuremberg",
+          "display": "11 nominations"
+        },
+        {
+          "answer": "West Side Story",
+          "display": "11 nominations"
+        },
+        {
+          "answer": "The Hustler",
+          "display": "9 nominations"
+        },
+        {
+          "answer": "The Guns of Navarone",
+          "display": "7 nominations"
+        },
+        {
+          "answer": "Breakfast at Tiffany's",
+          "display": "5 nominations"
+        },
+        {
+          "answer": "The Children's Hour",
+          "display": "5 nominations"
+        },
+        {
+          "answer": "Fanny",
+          "display": "5 nominations"
+        },
+        {
+          "answer": "Flower Drum Song",
+          "display": "5 nominations"
+        },
+        {
+          "answer": "La Dolce Vita",
+          "display": "4 nominations"
+        },
+        {
+          "answer": "Summer and Smoke",
+          "display": "4 nominations"
+        },
+        {
+          "answer": "The Absent-Minded Professor",
+          "display": "3 nominations"
+        },
+        {
+          "answer": "El Cid",
+          "display": "3 nominations"
+        },
+        {
+          "answer": "Pocketful of Miracles",
+          "display": "3 nominations"
+        }
+      ]
+    },
+    {
+      "category": "movies/awards/oscars",
+      "question": "Top 10 films by nominations at the 35th Academy Awards (1962 films)",
+      "cutoff": 10,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1378269569 | table 2 | name: Film | value: Nominations",
+      "tags": [
+        "movies",
+        "awards",
+        "oscars",
+        "1962"
+      ],
+      "answers": [
+        {
+          "answer": "Lawrence of Arabia",
+          "display": "10 nominations"
+        },
+        {
+          "answer": "To Kill a Mockingbird",
+          "display": "8 nominations"
+        },
+        {
+          "answer": "Mutiny on the Bounty",
+          "display": "7 nominations"
+        },
+        {
+          "answer": "The Music Man",
+          "display": "6 nominations"
+        },
+        {
+          "answer": "Days of Wine and Roses",
+          "display": "5 nominations"
+        },
+        {
+          "answer": "The Longest Day",
+          "display": "5 nominations"
+        },
+        {
+          "answer": "The Miracle Worker",
+          "display": "5 nominations"
+        },
+        {
+          "answer": "What Ever Happened to Baby Jane?",
+          "display": "5 nominations"
+        },
+        {
+          "answer": "Birdman of Alcatraz",
+          "display": "4 nominations"
+        },
+        {
+          "answer": "The Wonderful World of the Brothers Grimm",
+          "display": "4 nominations"
+        },
+        {
+          "answer": "Divorce Italian Style",
+          "display": "3 nominations"
+        },
+        {
+          "answer": "Gypsy",
+          "display": "3 nominations"
+        },
+        {
+          "answer": "Sweet Bird of Youth",
+          "display": "3 nominations"
+        },
+        {
+          "answer": "That Touch of Mink",
+          "display": "3 nominations"
+        }
+      ]
+    },
+    {
+      "category": "movies/awards/oscars",
+      "question": "Top 9 films by nominations at the 36th Academy Awards (1963 films)",
+      "cutoff": 9,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1373876473 | table 2 | name: Film | value: Nominations",
+      "tags": [
+        "movies",
+        "awards",
+        "oscars",
+        "1963"
+      ],
+      "answers": [
+        {
+          "answer": "Tom Jones",
+          "display": "10 nominations"
+        },
+        {
+          "answer": "Cleopatra",
+          "display": "9 nominations"
+        },
+        {
+          "answer": "How the West Was Won",
+          "display": "8 nominations"
+        },
+        {
+          "answer": "Hud",
+          "display": "7 nominations"
+        },
+        {
+          "answer": "The Cardinal",
+          "display": "6 nominations"
+        },
+        {
+          "answer": "It's a Mad, Mad, Mad, Mad World",
+          "display": "6 nominations",
+          "aliases": [
+            "Mad Mad Mad Mad World"
+          ]
+        },
+        {
+          "answer": "8½",
+          "display": "5 nominations",
+          "aliases": [
+            "8 1/2",
+            "Eight and a Half"
+          ]
+        },
+        {
+          "answer": "Lilies of the Field",
+          "display": "5 nominations"
+        },
+        {
+          "answer": "Love with the Proper Stranger",
+          "display": "5 nominations"
+        },
+        {
+          "answer": "America America",
+          "display": "4 nominations"
+        },
+        {
+          "answer": "Captain Newman, M.D.",
+          "display": "3 nominations"
+        },
+        {
+          "answer": "Irma la Douce",
+          "display": "3 nominations"
+        }
+      ]
+    },
+    {
+      "category": "movies/awards/oscars",
+      "question": "Top 9 films by nominations at the 43rd Academy Awards (1970 films)",
+      "cutoff": 9,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1377683382 | table 2 | name: Film | value: Nominations",
+      "tags": [
+        "movies",
+        "awards",
+        "oscars",
+        "1970"
+      ],
+      "answers": [
+        {
+          "answer": "Airport",
+          "display": "10 nominations"
+        },
+        {
+          "answer": "Patton",
+          "display": "10 nominations"
+        },
+        {
+          "answer": "Love Story",
+          "display": "7 nominations"
+        },
+        {
+          "answer": "M*A*S*H",
+          "display": "5 nominations"
+        },
+        {
+          "answer": "Tora! Tora! Tora!",
+          "display": "5 nominations"
+        },
+        {
+          "answer": "Five Easy Pieces",
+          "display": "4 nominations"
+        },
+        {
+          "answer": "Ryan's Daughter",
+          "display": "4 nominations"
+        },
+        {
+          "answer": "Scrooge",
+          "display": "4 nominations"
+        },
+        {
+          "answer": "Women in Love",
+          "display": "4 nominations"
+        },
+        {
+          "answer": "Darling Lili",
+          "display": "3 nominations"
+        },
+        {
+          "answer": "I Never Sang for My Father",
+          "display": "3 nominations"
+        },
+        {
+          "answer": "Lovers and Other Strangers",
+          "display": "3 nominations"
+        },
+        {
+          "answer": "Woodstock",
+          "display": "3 nominations"
+        }
+      ]
+    },
+    {
+      "category": "movies/awards/oscars",
+      "question": "Top 6 films by nominations at the 44th Academy Awards (1971 films)",
+      "cutoff": 6,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1376389580 | table 2 | name: Film | value: Nominations",
+      "tags": [
+        "movies",
+        "awards",
+        "oscars",
+        "1971"
+      ],
+      "answers": [
+        {
+          "answer": "Fiddler on the Roof",
+          "display": "8 nominations"
+        },
+        {
+          "answer": "The French Connection",
+          "display": "8 nominations"
+        },
+        {
+          "answer": "The Last Picture Show",
+          "display": "8 nominations"
+        },
+        {
+          "answer": "Nicholas and Alexandra",
+          "display": "6 nominations"
+        },
+        {
+          "answer": "Bedknobs and Broomsticks",
+          "display": "5 nominations"
+        },
+        {
+          "answer": "Mary, Queen of Scots",
+          "display": "5 nominations"
+        },
+        {
+          "answer": "A Clockwork Orange",
+          "display": "4 nominations"
+        },
+        {
+          "answer": "Kotch",
+          "display": "4 nominations"
+        },
+        {
+          "answer": "Summer of '42",
+          "display": "4 nominations"
+        },
+        {
+          "answer": "Sunday Bloody Sunday",
+          "display": "4 nominations"
+        }
+      ]
+    },
+    {
+      "category": "movies/awards/oscars",
+      "question": "Top 8 films by nominations at the 45th Academy Awards (1972 films)",
+      "cutoff": 8,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1364587864 | table 2 | name: Film | value: Nominations",
+      "tags": [
+        "movies",
+        "awards",
+        "oscars",
+        "1972"
+      ],
+      "answers": [
+        {
+          "answer": "Cabaret",
+          "display": "10 nominations"
+        },
+        {
+          "answer": "The Godfather",
+          "display": "10 nominations"
+        },
+        {
+          "answer": "The Poseidon Adventure",
+          "display": "8 nominations"
+        },
+        {
+          "answer": "Lady Sings the Blues",
+          "display": "5 nominations"
+        },
+        {
+          "answer": "The Emigrants",
+          "display": "4 nominations"
+        },
+        {
+          "answer": "Sleuth",
+          "display": "4 nominations"
+        },
+        {
+          "answer": "Sounder",
+          "display": "4 nominations"
+        },
+        {
+          "answer": "Travels with My Aunt",
+          "display": "4 nominations"
+        },
+        {
+          "answer": "Butterflies Are Free",
+          "display": "3 nominations"
+        },
+        {
+          "answer": "Deliverance",
+          "display": "3 nominations"
+        },
+        {
+          "answer": "Young Winston",
+          "display": "3 nominations"
+        }
+      ]
+    },
+    {
+      "category": "movies/awards/oscars",
+      "question": "Top 7 films by nominations at the 46th Academy Awards (1973 films)",
+      "cutoff": 7,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1377060897 | table 2 | name: Film | value: Nominations",
+      "tags": [
+        "movies",
+        "awards",
+        "oscars",
+        "1973"
+      ],
+      "answers": [
+        {
+          "answer": "The Exorcist",
+          "display": "10 nominations"
+        },
+        {
+          "answer": "The Sting",
+          "display": "10 nominations"
+        },
+        {
+          "answer": "The Way We Were",
+          "display": "6 nominations"
+        },
+        {
+          "answer": "American Graffiti",
+          "display": "5 nominations"
+        },
+        {
+          "answer": "Cries and Whispers",
+          "display": "5 nominations"
+        },
+        {
+          "answer": "A Touch of Class",
+          "display": "5 nominations"
+        },
+        {
+          "answer": "Paper Moon",
+          "display": "4 nominations"
+        },
+        {
+          "answer": "Cinderella Liberty",
+          "display": "3 nominations"
+        },
+        {
+          "answer": "The Last Detail",
+          "display": "3 nominations"
+        },
+        {
+          "answer": "The Paper Chase",
+          "display": "3 nominations"
+        },
+        {
+          "answer": "Save the Tiger",
+          "display": "3 nominations"
+        },
+        {
+          "answer": "Tom Sawyer",
+          "display": "3 nominations"
+        }
+      ]
+    },
+    {
+      "category": "movies/awards/oscars",
+      "question": "Top 6 films by nominations at the 47th Academy Awards (1974 films)",
+      "cutoff": 6,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1369116569 | table 2 | name: Film | value: Nominations",
+      "tags": [
+        "movies",
+        "awards",
+        "oscars",
+        "1974"
+      ],
+      "answers": [
+        {
+          "answer": "Chinatown",
+          "display": "11 nominations"
+        },
+        {
+          "answer": "The Godfather Part II",
+          "display": "11 nominations"
+        },
+        {
+          "answer": "The Towering Inferno",
+          "display": "8 nominations"
+        },
+        {
+          "answer": "Lenny",
+          "display": "6 nominations"
+        },
+        {
+          "answer": "Murder on the Orient Express",
+          "display": "6 nominations"
+        },
+        {
+          "answer": "Earthquake",
+          "display": "4 nominations"
+        },
+        {
+          "answer": "Alice Doesn't Live Here Anymore",
+          "display": "3 nominations"
+        },
+        {
+          "answer": "Blazing Saddles",
+          "display": "3 nominations"
+        },
+        {
+          "answer": "The Conversation",
+          "display": "3 nominations"
+        },
+        {
+          "answer": "Day for Night",
+          "display": "3 nominations"
+        }
+      ]
+    },
+    {
+      "category": "movies/awards/oscars",
+      "question": "Top 5 films by nominations at the 48th Academy Awards (1975 films)",
+      "cutoff": 5,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1376013942 | table 2 | name: Film | value: Nominations",
+      "tags": [
+        "movies",
+        "awards",
+        "oscars",
+        "1975"
+      ],
+      "answers": [
+        {
+          "answer": "One Flew Over the Cuckoo's Nest",
+          "display": "9 nominations"
+        },
+        {
+          "answer": "Barry Lyndon",
+          "display": "7 nominations"
+        },
+        {
+          "answer": "Dog Day Afternoon",
+          "display": "6 nominations"
+        },
+        {
+          "answer": "Funny Lady",
+          "display": "5 nominations"
+        },
+        {
+          "answer": "Nashville",
+          "display": "5 nominations"
+        },
+        {
+          "answer": "Jaws",
+          "display": "4 nominations"
+        },
+        {
+          "answer": "The Man Who Would Be King",
+          "display": "4 nominations"
+        },
+        {
+          "answer": "Shampoo",
+          "display": "4 nominations"
+        },
+        {
+          "answer": "The Sunshine Boys",
+          "display": "4 nominations"
+        }
+      ]
+    },
+    {
+      "category": "movies/awards/oscars",
+      "question": "Top 8 films by nominations at the 51st Academy Awards (1978 films)",
+      "cutoff": 8,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1347230036 | table 2 | name: Film | value: Nominations",
+      "tags": [
+        "movies",
+        "awards",
+        "oscars",
+        "1978"
+      ],
+      "answers": [
+        {
+          "answer": "The Deer Hunter",
+          "display": "9 nominations"
+        },
+        {
+          "answer": "Heaven Can Wait",
+          "display": "9 nominations"
+        },
+        {
+          "answer": "Coming Home",
+          "display": "8 nominations"
+        },
+        {
+          "answer": "Midnight Express",
+          "display": "6 nominations"
+        },
+        {
+          "answer": "Interiors",
+          "display": "5 nominations"
+        },
+        {
+          "answer": "Days of Heaven",
+          "display": "4 nominations"
+        },
+        {
+          "answer": "Same Time, Next Year",
+          "display": "4 nominations"
+        },
+        {
+          "answer": "The Wiz",
+          "display": "4 nominations"
+        },
+        {
+          "answer": "The Boys from Brazil",
+          "display": "3 nominations"
+        },
+        {
+          "answer": "The Buddy Holly Story",
+          "display": "3 nominations"
+        },
+        {
+          "answer": "California Suite",
+          "display": "3 nominations"
+        },
+        {
+          "answer": "Superman",
+          "display": "3 nominations"
+        },
+        {
+          "answer": "An Unmarried Woman",
+          "display": "3 nominations"
+        }
+      ]
+    },
+    {
+      "category": "movies/awards/oscars",
+      "question": "Top 7 films by nominations at the 52nd Academy Awards (1979 films)",
+      "cutoff": 7,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1379192576 | table 2 | name: Film | value: Nominations",
+      "tags": [
+        "movies",
+        "awards",
+        "oscars",
+        "1979"
+      ],
+      "answers": [
+        {
+          "answer": "All That Jazz",
+          "display": "9 nominations"
+        },
+        {
+          "answer": "Kramer vs. Kramer",
+          "display": "9 nominations"
+        },
+        {
+          "answer": "Apocalypse Now",
+          "display": "8 nominations"
+        },
+        {
+          "answer": "Breaking Away",
+          "display": "5 nominations"
+        },
+        {
+          "answer": "The China Syndrome",
+          "display": "4 nominations"
+        },
+        {
+          "answer": "Norma Rae",
+          "display": "4 nominations"
+        },
+        {
+          "answer": "The Rose",
+          "display": "4 nominations"
+        },
+        {
+          "answer": "1941",
+          "display": "3 nominations"
+        },
+        {
+          "answer": "La Cage aux Folles",
+          "display": "3 nominations"
+        },
+        {
+          "answer": "Star Trek: The Motion Picture",
+          "display": "3 nominations",
+          "aliases": [
+            "Star Trek"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "movies/awards/oscars",
+      "question": "Top 6 films by nominations at the 53rd Academy Awards (1980 films)",
+      "cutoff": 6,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1361860525 | table 2 | name: Film | value: Nominations",
+      "tags": [
+        "movies",
+        "awards",
+        "oscars",
+        "1980"
+      ],
+      "answers": [
+        {
+          "answer": "The Elephant Man",
+          "display": "8 nominations"
+        },
+        {
+          "answer": "Raging Bull",
+          "display": "8 nominations"
+        },
+        {
+          "answer": "Coal Miner's Daughter",
+          "display": "7 nominations"
+        },
+        {
+          "answer": "Fame",
+          "display": "6 nominations"
+        },
+        {
+          "answer": "Ordinary People",
+          "display": "6 nominations"
+        },
+        {
+          "answer": "Tess",
+          "display": "6 nominations"
+        },
+        {
+          "answer": "The Empire Strikes Back",
+          "display": "3 nominations"
+        },
+        {
+          "answer": "Melvin and Howard",
+          "display": "3 nominations"
+        },
+        {
+          "answer": "Private Benjamin",
+          "display": "3 nominations"
+        },
+        {
+          "answer": "The Stunt Man",
+          "display": "3 nominations"
+        }
+      ]
+    },
+    {
+      "category": "movies/awards/oscars",
+      "question": "Top 8 films by nominations at the 54th Academy Awards (1981 films)",
+      "cutoff": 8,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1369399228 | table 2 | name: Film | value: Nominations",
+      "tags": [
+        "movies",
+        "awards",
+        "oscars",
+        "1981"
+      ],
+      "answers": [
+        {
+          "answer": "Reds",
+          "display": "12 nominations"
+        },
+        {
+          "answer": "On Golden Pond",
+          "display": "10 nominations"
+        },
+        {
+          "answer": "Raiders of the Lost Ark",
+          "display": "8 nominations",
+          "aliases": [
+            "Raiders"
+          ]
+        },
+        {
+          "answer": "Ragtime",
+          "display": "8 nominations"
+        },
+        {
+          "answer": "Chariots of Fire",
+          "display": "7 nominations"
+        },
+        {
+          "answer": "Atlantic City",
+          "display": "5 nominations"
+        },
+        {
+          "answer": "The French Lieutenant's Woman",
+          "display": "5 nominations"
+        },
+        {
+          "answer": "Arthur",
+          "display": "4 nominations"
+        },
+        {
+          "answer": "Absence of Malice",
+          "display": "3 nominations"
+        },
+        {
+          "answer": "Only When I Laugh",
+          "display": "3 nominations"
+        },
+        {
+          "answer": "Pennies from Heaven",
+          "display": "3 nominations"
+        }
+      ]
+    },
+    {
+      "category": "movies/awards/oscars",
+      "question": "Top 6 films by nominations at the 55th Academy Awards (1982 films)",
+      "cutoff": 6,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1379932710 | table 2 | name: Film | value: Nominations",
+      "tags": [
+        "movies",
+        "awards",
+        "oscars",
+        "1982"
+      ],
+      "answers": [
+        {
+          "answer": "Gandhi",
+          "display": "11 nominations"
+        },
+        {
+          "answer": "Tootsie",
+          "display": "10 nominations"
+        },
+        {
+          "answer": "E.T. the Extra-Terrestrial",
+          "display": "9 nominations"
+        },
+        {
+          "answer": "Victor/Victoria",
+          "display": "7 nominations"
+        },
+        {
+          "answer": "Das Boot",
+          "display": "6 nominations"
+        },
+        {
+          "answer": "An Officer and a Gentleman",
+          "display": "6 nominations"
+        },
+        {
+          "answer": "Sophie's Choice",
+          "display": "5 nominations"
+        },
+        {
+          "answer": "The Verdict",
+          "display": "5 nominations"
+        },
+        {
+          "answer": "Missing",
+          "display": "4 nominations"
+        }
+      ]
+    },
+    {
+      "category": "movies/awards/oscars",
+      "question": "Top 10 films by nominations at the 56th Academy Awards (1983 films)",
+      "cutoff": 10,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1348399002 | table 2 | name: Film | value: Nominations",
+      "tags": [
+        "movies",
+        "awards",
+        "oscars",
+        "1983"
+      ],
+      "answers": [
+        {
+          "answer": "Terms of Endearment",
+          "display": "11 nominations"
+        },
+        {
+          "answer": "The Right Stuff",
+          "display": "8 nominations"
+        },
+        {
+          "answer": "Fanny and Alexander",
+          "display": "6 nominations"
+        },
+        {
+          "answer": "The Dresser",
+          "display": "5 nominations"
+        },
+        {
+          "answer": "Silkwood",
+          "display": "5 nominations"
+        },
+        {
+          "answer": "Tender Mercies",
+          "display": "5 nominations"
+        },
+        {
+          "answer": "Yentl",
+          "display": "5 nominations"
+        },
+        {
+          "answer": "Cross Creek",
+          "display": "4 nominations"
+        },
+        {
+          "answer": "Flashdance",
+          "display": "4 nominations"
+        },
+        {
+          "answer": "Return of the Jedi",
+          "display": "4 nominations"
+        },
+        {
+          "answer": "The Big Chill",
+          "display": "3 nominations"
+        },
+        {
+          "answer": "Educating Rita",
+          "display": "3 nominations"
+        },
+        {
+          "answer": "WarGames",
+          "display": "3 nominations"
+        }
+      ]
+    },
+    {
+      "category": "movies/awards/oscars",
+      "question": "Top 5 films by nominations at the 57th Academy Awards (1984 films)",
+      "cutoff": 5,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1366483994 | table 2 | name: Film | value: Nominations",
+      "tags": [
+        "movies",
+        "awards",
+        "oscars",
+        "1984"
+      ],
+      "answers": [
+        {
+          "answer": "Amadeus",
+          "display": "11 nominations"
+        },
+        {
+          "answer": "A Passage to India",
+          "display": "11 nominations"
+        },
+        {
+          "answer": "The Killing Fields",
+          "display": "7 nominations"
+        },
+        {
+          "answer": "Places in the Heart",
+          "display": "7 nominations"
+        },
+        {
+          "answer": "2010: The Year We Make Contact",
+          "display": "5 nominations",
+          "aliases": [
+            "2010"
+          ]
+        },
+        {
+          "answer": "The Natural",
+          "display": "4 nominations"
+        },
+        {
+          "answer": "The River",
+          "display": "4 nominations"
+        },
+        {
+          "answer": "Greystoke: The Legend of Tarzan, Lord of the Apes",
+          "display": "3 nominations",
+          "aliases": [
+            "Greystoke"
+          ]
+        },
+        {
+          "answer": "A Soldier's Story",
+          "display": "3 nominations"
+        }
+      ]
+    },
+    {
+      "category": "movies/awards/oscars",
+      "question": "Top 7 films by nominations at the 58th Academy Awards (1985 films)",
+      "cutoff": 7,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1358571171 | table 2 | name: Film | value: Nominations",
+      "tags": [
+        "movies",
+        "awards",
+        "oscars",
+        "1985"
+      ],
+      "answers": [
+        {
+          "answer": "The Color Purple",
+          "display": "11 nominations"
+        },
+        {
+          "answer": "Out of Africa",
+          "display": "11 nominations"
+        },
+        {
+          "answer": "Prizzi's Honor",
+          "display": "8 nominations"
+        },
+        {
+          "answer": "Witness",
+          "display": "8 nominations"
+        },
+        {
+          "answer": "Back to the Future",
+          "display": "4 nominations"
+        },
+        {
+          "answer": "Kiss of the Spider Woman",
+          "display": "4 nominations"
+        },
+        {
+          "answer": "Ran",
+          "display": "4 nominations"
+        },
+        {
+          "answer": "Agnes of God",
+          "display": "3 nominations"
+        },
+        {
+          "answer": "A Chorus Line",
+          "display": "3 nominations"
+        },
+        {
+          "answer": "Runaway Train",
+          "display": "3 nominations"
+        }
+      ]
+    },
+    {
+      "category": "movies/awards/oscars",
+      "question": "Top 6 films by nominations at the 59th Academy Awards (1986 films)",
+      "cutoff": 6,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1373743265 | table 2 | name: Film | value: Nominations",
+      "tags": [
+        "movies",
+        "awards",
+        "oscars",
+        "1986"
+      ],
+      "answers": [
+        {
+          "answer": "Platoon",
+          "display": "8 nominations"
+        },
+        {
+          "answer": "A Room with a View",
+          "display": "8 nominations"
+        },
+        {
+          "answer": "Aliens",
+          "display": "7 nominations"
+        },
+        {
+          "answer": "Hannah and Her Sisters",
+          "display": "7 nominations"
+        },
+        {
+          "answer": "The Mission",
+          "display": "7 nominations"
+        },
+        {
+          "answer": "Children of a Lesser God",
+          "display": "5 nominations"
+        },
+        {
+          "answer": "The Color of Money",
+          "display": "4 nominations"
+        },
+        {
+          "answer": "Star Trek IV: The Voyage Home",
+          "display": "4 nominations",
+          "aliases": [
+            "Star Trek IV"
+          ]
+        },
+        {
+          "answer": "Top Gun",
+          "display": "4 nominations"
+        }
+      ]
+    },
+    {
+      "category": "movies/awards/oscars",
+      "question": "Top 5 films by nominations at the 60th Academy Awards (1987 films)",
+      "cutoff": 5,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1379953952 | table 2 | name: Film | value: Nominations",
+      "tags": [
+        "movies",
+        "awards",
+        "oscars",
+        "1987"
+      ],
+      "answers": [
+        {
+          "answer": "The Last Emperor",
+          "display": "9 nominations"
+        },
+        {
+          "answer": "Broadcast News",
+          "display": "7 nominations"
+        },
+        {
+          "answer": "Empire of the Sun",
+          "display": "6 nominations"
+        },
+        {
+          "answer": "Fatal Attraction",
+          "display": "6 nominations"
+        },
+        {
+          "answer": "Moonstruck",
+          "display": "6 nominations"
+        },
+        {
+          "answer": "Hope and Glory",
+          "display": "5 nominations"
+        },
+        {
+          "answer": "The Untouchables",
+          "display": "4 nominations"
+        },
+        {
+          "answer": "Cry Freedom",
+          "display": "3 nominations"
+        }
+      ]
+    },
+    {
+      "category": "movies/awards/oscars",
+      "question": "Top 6 films by nominations at the 61st Academy Awards (1988 films)",
+      "cutoff": 6,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1379221634 | table 2 | name: Film | value: Nominations",
+      "tags": [
+        "movies",
+        "awards",
+        "oscars",
+        "1988"
+      ],
+      "answers": [
+        {
+          "answer": "Rain Man",
+          "display": "8 nominations"
+        },
+        {
+          "answer": "Dangerous Liaisons",
+          "display": "7 nominations"
+        },
+        {
+          "answer": "Mississippi Burning",
+          "display": "7 nominations"
+        },
+        {
+          "answer": "Who Framed Roger Rabbit",
+          "display": "6 nominations"
+        },
+        {
+          "answer": "Working Girl",
+          "display": "6 nominations"
+        },
+        {
+          "answer": "Gorillas in the Mist",
+          "display": "5 nominations"
+        },
+        {
+          "answer": "The Accidental Tourist",
+          "display": "4 nominations"
+        },
+        {
+          "answer": "Die Hard",
+          "display": "4 nominations"
+        },
+        {
+          "answer": "A Fish Called Wanda",
+          "display": "3 nominations"
+        },
+        {
+          "answer": "Tucker: The Man and His Dream",
+          "display": "3 nominations",
+          "aliases": [
+            "Tucker"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "movies/awards/oscars",
+      "question": "Top 8 films by nominations at the 63rd Academy Awards (1990 films)",
+      "cutoff": 8,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1351436333 | table 2 | name: Film | value: Nominations",
+      "tags": [
+        "movies",
+        "awards",
+        "oscars",
+        "1990"
+      ],
+      "answers": [
+        {
+          "answer": "Dances With Wolves",
+          "display": "12 nominations"
+        },
+        {
+          "answer": "Dick Tracy",
+          "display": "7 nominations"
+        },
+        {
+          "answer": "The Godfather Part III",
+          "display": "7 nominations"
+        },
+        {
+          "answer": "Goodfellas",
+          "display": "6 nominations"
+        },
+        {
+          "answer": "Cyrano de Bergerac",
+          "display": "5 nominations"
+        },
+        {
+          "answer": "Ghost",
+          "display": "5 nominations"
+        },
+        {
+          "answer": "Avalon",
+          "display": "4 nominations"
+        },
+        {
+          "answer": "The Grifters",
+          "display": "4 nominations"
+        },
+        {
+          "answer": "Awakenings",
+          "display": "3 nominations"
+        },
+        {
+          "answer": "The Hunt for Red October",
+          "display": "3 nominations"
+        },
+        {
+          "answer": "Reversal of Fortune",
+          "display": "3 nominations"
+        }
+      ]
+    },
+    {
+      "category": "movies/awards/oscars",
+      "question": "Top 7 films by nominations at the 64th Academy Awards (1991 films)",
+      "cutoff": 7,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1354372086 | table 2 | name: Film | value: Nominations",
+      "tags": [
+        "movies",
+        "awards",
+        "oscars",
+        "1991"
+      ],
+      "answers": [
+        {
+          "answer": "Bugsy",
+          "display": "10 nominations"
+        },
+        {
+          "answer": "JFK",
+          "display": "8 nominations"
+        },
+        {
+          "answer": "The Prince of Tides",
+          "display": "7 nominations"
+        },
+        {
+          "answer": "The Silence of the Lambs",
+          "display": "7 nominations"
+        },
+        {
+          "answer": "Beauty and the Beast",
+          "display": "6 nominations"
+        },
+        {
+          "answer": "Terminator 2: Judgment Day",
+          "display": "6 nominations",
+          "aliases": [
+            "Terminator 2"
+          ]
+        },
+        {
+          "answer": "Thelma & Louise",
+          "display": "6 nominations"
+        },
+        {
+          "answer": "The Fisher King",
+          "display": "5 nominations"
+        },
+        {
+          "answer": "Hook",
+          "display": "5 nominations"
+        },
+        {
+          "answer": "Backdraft",
+          "display": "3 nominations"
+        },
+        {
+          "answer": "Barton Fink",
+          "display": "3 nominations"
+        }
+      ]
+    },
+    {
+      "category": "movies/awards/oscars",
+      "question": "Top 7 films by nominations at the 65th Academy Awards (1992 films)",
+      "cutoff": 7,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1379953532 | table 2 | name: Film | value: Nominations",
+      "tags": [
+        "movies",
+        "awards",
+        "oscars",
+        "1992"
+      ],
+      "answers": [
+        {
+          "answer": "Howards End",
+          "display": "9 nominations"
+        },
+        {
+          "answer": "Unforgiven",
+          "display": "9 nominations"
+        },
+        {
+          "answer": "The Crying Game",
+          "display": "6 nominations"
+        },
+        {
+          "answer": "Aladdin",
+          "display": "5 nominations"
+        },
+        {
+          "answer": "Bram Stoker's Dracula",
+          "display": "4 nominations"
+        },
+        {
+          "answer": "A Few Good Men",
+          "display": "4 nominations"
+        },
+        {
+          "answer": "Scent of a Woman",
+          "display": "4 nominations"
+        },
+        {
+          "answer": "Chaplin",
+          "display": "3 nominations"
+        },
+        {
+          "answer": "Enchanted April",
+          "display": "3 nominations"
+        },
+        {
+          "answer": "A River Runs Through It",
+          "display": "3 nominations"
+        },
+        {
+          "answer": "The Player",
+          "display": "3 nominations"
+        }
+      ]
+    },
+    {
+      "category": "movies/awards/oscars",
+      "question": "Top 7 films by nominations at the 66th Academy Awards (1993 films)",
+      "cutoff": 7,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1361010350 | table 2 | name: Film | value: Nominations",
+      "tags": [
+        "movies",
+        "awards",
+        "oscars",
+        "1993"
+      ],
+      "answers": [
+        {
+          "answer": "Schindler's List",
+          "display": "12 nominations"
+        },
+        {
+          "answer": "The Piano",
+          "display": "8 nominations"
+        },
+        {
+          "answer": "The Remains of the Day",
+          "display": "8 nominations"
+        },
+        {
+          "answer": "The Fugitive",
+          "display": "7 nominations"
+        },
+        {
+          "answer": "In the Name of the Father",
+          "display": "7 nominations"
+        },
+        {
+          "answer": "The Age of Innocence",
+          "display": "5 nominations"
+        },
+        {
+          "answer": "Philadelphia",
+          "display": "5 nominations"
+        },
+        {
+          "answer": "Cliffhanger",
+          "display": "3 nominations"
+        },
+        {
+          "answer": "In the Line of Fire",
+          "display": "3 nominations"
+        },
+        {
+          "answer": "Jurassic Park",
+          "display": "3 nominations"
+        }
+      ]
+    },
+    {
+      "category": "movies/awards/oscars",
+      "question": "Top 7 films by nominations at the 67th Academy Awards (1994 films)",
+      "cutoff": 7,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1376539530 | table 2 | name: Film | value: Nominations",
+      "tags": [
+        "movies",
+        "awards",
+        "oscars",
+        "1994"
+      ],
+      "answers": [
+        {
+          "answer": "Forrest Gump",
+          "display": "13 nominations"
+        },
+        {
+          "answer": "Bullets Over Broadway",
+          "display": "7 nominations"
+        },
+        {
+          "answer": "Pulp Fiction",
+          "display": "7 nominations"
+        },
+        {
+          "answer": "The Shawshank Redemption",
+          "display": "7 nominations"
+        },
+        {
+          "answer": "The Lion King",
+          "display": "4 nominations"
+        },
+        {
+          "answer": "The Madness of King George",
+          "display": "4 nominations"
+        },
+        {
+          "answer": "Quiz Show",
+          "display": "4 nominations"
+        },
+        {
+          "answer": "Legends of the Fall",
+          "display": "3 nominations"
+        },
+        {
+          "answer": "Little Women",
+          "display": "3 nominations"
+        },
+        {
+          "answer": "Speed",
+          "display": "3 nominations"
+        },
+        {
+          "answer": "Three Colours: Red",
+          "display": "3 nominations",
+          "aliases": [
+            "Three Colours"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "movies/awards/oscars",
+      "question": "Top 8 films by nominations at the 68th Academy Awards (1995 films)",
+      "cutoff": 8,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1378510591 | table 2 | name: Film | value: Nominations",
+      "tags": [
+        "movies",
+        "awards",
+        "oscars",
+        "1995"
+      ],
+      "answers": [
+        {
+          "answer": "Braveheart",
+          "display": "10 nominations"
+        },
+        {
+          "answer": "Apollo 13",
+          "display": "9 nominations"
+        },
+        {
+          "answer": "Babe",
+          "display": "7 nominations"
+        },
+        {
+          "answer": "Sense and Sensibility",
+          "display": "7 nominations"
+        },
+        {
+          "answer": "Il Postino",
+          "display": "5 nominations",
+          "aliases": [
+            "The Postman"
+          ]
+        },
+        {
+          "answer": "Dead Man Walking",
+          "display": "4 nominations"
+        },
+        {
+          "answer": "Leaving Las Vegas",
+          "display": "4 nominations"
+        },
+        {
+          "answer": "Nixon",
+          "display": "4 nominations"
+        },
+        {
+          "answer": "Batman Forever",
+          "display": "3 nominations"
+        },
+        {
+          "answer": "Crimson Tide",
+          "display": "3 nominations"
+        },
+        {
+          "answer": "Toy Story",
+          "display": "3 nominations"
+        }
+      ]
+    },
+    {
+      "category": "movies/awards/oscars",
+      "question": "Top 6 films by nominations at the 71st Academy Awards (1998 films)",
+      "cutoff": 6,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1368365050 | table 2 | name: Film | value: Nominations",
+      "tags": [
+        "movies",
+        "awards",
+        "oscars",
+        "1998"
+      ],
+      "answers": [
+        {
+          "answer": "Shakespeare in Love",
+          "display": "13 nominations"
+        },
+        {
+          "answer": "Saving Private Ryan",
+          "display": "11 nominations"
+        },
+        {
+          "answer": "Elizabeth",
+          "display": "7 nominations"
+        },
+        {
+          "answer": "Life Is Beautiful",
+          "display": "7 nominations"
+        },
+        {
+          "answer": "The Thin Red Line",
+          "display": "7 nominations"
+        },
+        {
+          "answer": "Armageddon",
+          "display": "4 nominations"
+        },
+        {
+          "answer": "Gods and Monsters",
+          "display": "3 nominations"
+        },
+        {
+          "answer": "Pleasantville",
+          "display": "3 nominations"
+        },
+        {
+          "answer": "The Truman Show",
+          "display": "3 nominations"
+        }
+      ]
+    },
+    {
+      "category": "movies/awards/oscars",
+      "question": "Top 8 films by nominations at the 72nd Academy Awards (1999 films)",
+      "cutoff": 8,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1370031215 | table 2 | name: Film | value: Nominations",
+      "tags": [
+        "movies",
+        "awards",
+        "oscars",
+        "1999"
+      ],
+      "answers": [
+        {
+          "answer": "American Beauty",
+          "display": "8 nominations"
+        },
+        {
+          "answer": "The Cider House Rules",
+          "display": "7 nominations"
+        },
+        {
+          "answer": "The Insider",
+          "display": "7 nominations"
+        },
+        {
+          "answer": "The Sixth Sense",
+          "display": "6 nominations"
+        },
+        {
+          "answer": "The Talented Mr. Ripley",
+          "display": "5 nominations"
+        },
+        {
+          "answer": "The Green Mile",
+          "display": "4 nominations"
+        },
+        {
+          "answer": "The Matrix",
+          "display": "4 nominations"
+        },
+        {
+          "answer": "Topsy-Turvy",
+          "display": "4 nominations"
+        },
+        {
+          "answer": "Being John Malkovich",
+          "display": "3 nominations"
+        },
+        {
+          "answer": "Magnolia",
+          "display": "3 nominations"
+        },
+        {
+          "answer": "Sleepy Hollow",
+          "display": "3 nominations"
+        },
+        {
+          "answer": "Star Wars: Episode I – The Phantom Menace",
+          "display": "3 nominations",
+          "aliases": [
+            "The Phantom Menace"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "movies/awards/oscars",
+      "question": "Top 6 films by nominations at the 73rd Academy Awards (2000 films)",
+      "cutoff": 6,
+      "difficulty": 1,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1370125086 | table 2 | name: Film | value: Nominations",
+      "tags": [
+        "movies",
+        "awards",
+        "oscars",
+        "2000"
+      ],
+      "answers": [
+        {
+          "answer": "Gladiator",
+          "display": "12 nominations"
+        },
+        {
+          "answer": "Crouching Tiger, Hidden Dragon",
+          "display": "10 nominations",
+          "aliases": [
+            "Crouching Tiger"
+          ]
+        },
+        {
+          "answer": "Chocolat",
+          "display": "5 nominations"
+        },
+        {
+          "answer": "Erin Brockovich",
+          "display": "5 nominations"
+        },
+        {
+          "answer": "Traffic",
+          "display": "5 nominations"
+        },
+        {
+          "answer": "Almost Famous",
+          "display": "4 nominations"
+        },
+        {
+          "answer": "Billy Elliot",
+          "display": "3 nominations"
+        },
+        {
+          "answer": "How the Grinch Stole Christmas",
+          "display": "3 nominations"
+        },
+        {
+          "answer": "The Patriot",
+          "display": "3 nominations"
+        },
+        {
+          "answer": "Quills",
+          "display": "3 nominations"
+        },
+        {
+          "answer": "Wonder Boys",
+          "display": "3 nominations"
+        }
+      ]
+    },
+    {
+      "category": "movies/awards/oscars",
+      "question": "Top 6 films by nominations at the 74th Academy Awards (2001 films)",
+      "cutoff": 6,
+      "difficulty": 1,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1369073501 | table 2 | name: Film | value: Nominations",
+      "tags": [
+        "movies",
+        "awards",
+        "oscars",
+        "2001"
+      ],
+      "answers": [
+        {
+          "answer": "The Lord of the Rings: The Fellowship of the Ring",
+          "display": "13 nominations",
+          "aliases": [
+            "Fellowship of the Ring"
+          ]
+        },
+        {
+          "answer": "A Beautiful Mind",
+          "display": "8 nominations"
+        },
+        {
+          "answer": "Moulin Rouge!",
+          "display": "8 nominations",
+          "aliases": [
+            "Moulin Rouge"
+          ]
+        },
+        {
+          "answer": "Gosford Park",
+          "display": "7 nominations"
+        },
+        {
+          "answer": "Amélie",
+          "display": "5 nominations"
+        },
+        {
+          "answer": "In the Bedroom",
+          "display": "5 nominations"
+        },
+        {
+          "answer": "Black Hawk Down",
+          "display": "4 nominations"
+        },
+        {
+          "answer": "Monsters, Inc.",
+          "display": "4 nominations"
+        },
+        {
+          "answer": "Pearl Harbor",
+          "display": "4 nominations"
+        }
+      ]
+    },
+    {
+      "category": "movies/awards/oscars",
+      "question": "Top 10 films by nominations at the 76th Academy Awards (2003 films)",
+      "cutoff": 10,
+      "difficulty": 1,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1373724435 | table 2 | name: Film | value: Nominations",
+      "tags": [
+        "movies",
+        "awards",
+        "oscars",
+        "2003"
+      ],
+      "answers": [
+        {
+          "answer": "The Lord of the Rings: The Return of the King",
+          "display": "11 nominations",
+          "aliases": [
+            "Return of the King"
+          ]
+        },
+        {
+          "answer": "Master and Commander: The Far Side of the World",
+          "display": "10 nominations",
+          "aliases": [
+            "Master and Commander"
+          ]
+        },
+        {
+          "answer": "Cold Mountain",
+          "display": "7 nominations"
+        },
+        {
+          "answer": "Seabiscuit",
+          "display": "7 nominations"
+        },
+        {
+          "answer": "Mystic River",
+          "display": "6 nominations"
+        },
+        {
+          "answer": "Pirates of the Caribbean: The Curse of the Black Pearl",
+          "display": "5 nominations",
+          "aliases": [
+            "Pirates of the Caribbean"
+          ]
+        },
+        {
+          "answer": "City of God",
+          "display": "4 nominations"
+        },
+        {
+          "answer": "Finding Nemo",
+          "display": "4 nominations"
+        },
+        {
+          "answer": "The Last Samurai",
+          "display": "4 nominations"
+        },
+        {
+          "answer": "Lost in Translation",
+          "display": "4 nominations"
+        },
+        {
+          "answer": "In America",
+          "display": "3 nominations"
+        },
+        {
+          "answer": "Girl with a Pearl Earring",
+          "display": "3 nominations"
+        },
+        {
+          "answer": "House of Sand and Fog",
+          "display": "3 nominations"
+        }
+      ]
+    },
+    {
+      "category": "movies/awards/oscars",
+      "question": "Top 10 films by nominations at the 78th Academy Awards (2005 films)",
+      "cutoff": 10,
+      "difficulty": 1,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1368364632 | table 2 | name: Film | value: Nominations",
+      "tags": [
+        "movies",
+        "awards",
+        "oscars",
+        "2005"
+      ],
+      "answers": [
+        {
+          "answer": "Brokeback Mountain",
+          "display": "8 nominations"
+        },
+        {
+          "answer": "Crash",
+          "display": "6 nominations"
+        },
+        {
+          "answer": "Good Night, and Good Luck",
+          "display": "6 nominations"
+        },
+        {
+          "answer": "Memoirs of a Geisha",
+          "display": "6 nominations"
+        },
+        {
+          "answer": "Capote",
+          "display": "5 nominations"
+        },
+        {
+          "answer": "Munich",
+          "display": "5 nominations"
+        },
+        {
+          "answer": "Walk the Line",
+          "display": "5 nominations"
+        },
+        {
+          "answer": "The Constant Gardener",
+          "display": "4 nominations"
+        },
+        {
+          "answer": "King Kong",
+          "display": "4 nominations"
+        },
+        {
+          "answer": "Pride & Prejudice",
+          "display": "4 nominations"
+        },
+        {
+          "answer": "Cinderella Man",
+          "display": "3 nominations"
+        },
+        {
+          "answer": "The Chronicles of Narnia: The Lion, the Witch and the Wardrobe",
+          "display": "3 nominations",
+          "aliases": [
+            "Narnia"
+          ]
+        },
+        {
+          "answer": "War of the Worlds",
+          "display": "3 nominations"
+        }
+      ]
+    },
+    {
+      "category": "movies/awards/oscars",
+      "question": "Top 7 films by nominations at the 80th Academy Awards (2007 films)",
+      "cutoff": 7,
+      "difficulty": 1,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1373350947 | table 2 | name: Film | value: Nominations",
+      "tags": [
+        "movies",
+        "awards",
+        "oscars",
+        "2007"
+      ],
+      "answers": [
+        {
+          "answer": "No Country for Old Men",
+          "display": "8 nominations"
+        },
+        {
+          "answer": "There Will Be Blood",
+          "display": "8 nominations"
+        },
+        {
+          "answer": "Atonement",
+          "display": "7 nominations"
+        },
+        {
+          "answer": "Michael Clayton",
+          "display": "7 nominations"
+        },
+        {
+          "answer": "Ratatouille",
+          "display": "5 nominations"
+        },
+        {
+          "answer": "The Diving Bell and the Butterfly",
+          "display": "4 nominations"
+        },
+        {
+          "answer": "Juno",
+          "display": "4 nominations"
+        },
+        {
+          "answer": "The Bourne Ultimatum",
+          "display": "3 nominations"
+        },
+        {
+          "answer": "Enchanted",
+          "display": "3 nominations"
+        },
+        {
+          "answer": "La Vie en Rose",
+          "display": "3 nominations"
+        },
+        {
+          "answer": "Sweeney Todd: The Demon Barber of Fleet Street",
+          "display": "3 nominations",
+          "aliases": [
+            "Sweeney Todd"
+          ]
+        },
+        {
+          "answer": "Transformers",
+          "display": "3 nominations"
+        }
+      ]
+    },
+    {
+      "category": "movies/awards/oscars",
+      "question": "Top 5 films by nominations at the 81st Academy Awards (2008 films)",
+      "cutoff": 5,
+      "difficulty": 1,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1372747539 | table 2 | name: Film | value: Nominations",
+      "tags": [
+        "movies",
+        "awards",
+        "oscars",
+        "2008"
+      ],
+      "answers": [
+        {
+          "answer": "The Curious Case of Benjamin Button",
+          "display": "13 nominations"
+        },
+        {
+          "answer": "Slumdog Millionaire",
+          "display": "10 nominations"
+        },
+        {
+          "answer": "The Dark Knight",
+          "display": "8 nominations"
+        },
+        {
+          "answer": "Milk",
+          "display": "8 nominations"
+        },
+        {
+          "answer": "WALL•E",
+          "display": "6 nominations"
+        },
+        {
+          "answer": "Doubt",
+          "display": "5 nominations"
+        },
+        {
+          "answer": "Frost/Nixon",
+          "display": "5 nominations"
+        },
+        {
+          "answer": "The Reader",
+          "display": "5 nominations"
+        }
+      ]
+    },
+    {
+      "category": "movies/awards/oscars",
+      "question": "Top 9 films by nominations at the 82nd Academy Awards (2009 films)",
+      "cutoff": 9,
+      "difficulty": 1,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1368364329 | table 2 | name: Film | value: Nominations",
+      "tags": [
+        "movies",
+        "awards",
+        "oscars",
+        "2009"
+      ],
+      "answers": [
+        {
+          "answer": "Avatar",
+          "display": "9 nominations"
+        },
+        {
+          "answer": "The Hurt Locker",
+          "display": "9 nominations"
+        },
+        {
+          "answer": "Inglourious Basterds",
+          "display": "8 nominations"
+        },
+        {
+          "answer": "Precious",
+          "display": "6 nominations",
+          "aliases": [
+            "Precious: Based on the Novel 'Push' by Sapphire"
+          ]
+        },
+        {
+          "answer": "Up in the Air",
+          "display": "6 nominations",
+          "aliases": [
+            "In the Air"
+          ]
+        },
+        {
+          "answer": "Up",
+          "display": "5 nominations",
+          "aliases": [
+            "Pixar Up"
+          ]
+        },
+        {
+          "answer": "District 9",
+          "display": "4 nominations"
+        },
+        {
+          "answer": "Nine",
+          "display": "4 nominations"
+        },
+        {
+          "answer": "Star Trek",
+          "display": "4 nominations"
+        },
+        {
+          "answer": "An Education",
+          "display": "3 nominations"
+        },
+        {
+          "answer": "Crazy Heart",
+          "display": "3 nominations"
+        },
+        {
+          "answer": "The Princess and the Frog",
+          "display": "3 nominations"
+        },
+        {
+          "answer": "The Young Victoria",
+          "display": "3 nominations"
+        }
+      ]
+    },
+    {
+      "category": "movies/awards/oscars",
+      "question": "Top 8 films by nominations at the 83rd Academy Awards (2010 films)",
+      "cutoff": 8,
+      "difficulty": 1,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1374540663 | table 2 | name: Film | value: Nominations",
+      "tags": [
+        "movies",
+        "awards",
+        "oscars",
+        "2010"
+      ],
+      "answers": [
+        {
+          "answer": "The King's Speech",
+          "display": "12 nominations"
+        },
+        {
+          "answer": "True Grit",
+          "display": "10 nominations"
+        },
+        {
+          "answer": "Inception",
+          "display": "8 nominations"
+        },
+        {
+          "answer": "The Social Network",
+          "display": "8 nominations"
+        },
+        {
+          "answer": "The Fighter",
+          "display": "7 nominations"
+        },
+        {
+          "answer": "127 Hours",
+          "display": "6 nominations"
+        },
+        {
+          "answer": "Black Swan",
+          "display": "5 nominations"
+        },
+        {
+          "answer": "Toy Story 3",
+          "display": "5 nominations"
+        },
+        {
+          "answer": "The Kids Are All Right",
+          "display": "4 nominations"
+        },
+        {
+          "answer": "Winter's Bone",
+          "display": "4 nominations"
+        },
+        {
+          "answer": "Alice in Wonderland",
+          "display": "3 nominations"
+        }
+      ]
+    },
+    {
+      "category": "movies/awards/oscars",
+      "question": "Top 8 films by nominations at the 84th Academy Awards (2011 films)",
+      "cutoff": 8,
+      "difficulty": 1,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1368364493 | table 2 | name: Film | value: Nominations",
+      "tags": [
+        "movies",
+        "awards",
+        "oscars",
+        "2011"
+      ],
+      "answers": [
+        {
+          "answer": "Hugo",
+          "display": "11 nominations"
+        },
+        {
+          "answer": "The Artist",
+          "display": "10 nominations"
+        },
+        {
+          "answer": "Moneyball",
+          "display": "6 nominations"
+        },
+        {
+          "answer": "War Horse",
+          "display": "6 nominations"
+        },
+        {
+          "answer": "The Descendants",
+          "display": "5 nominations"
+        },
+        {
+          "answer": "The Girl with the Dragon Tattoo",
+          "display": "5 nominations"
+        },
+        {
+          "answer": "The Help",
+          "display": "4 nominations"
+        },
+        {
+          "answer": "Midnight in Paris",
+          "display": "4 nominations"
+        },
+        {
+          "answer": "Albert Nobbs",
+          "display": "3 nominations"
+        },
+        {
+          "answer": "Harry Potter and the Deathly Hallows – Part 2",
+          "display": "3 nominations",
+          "aliases": [
+            "Deathly Hallows Part 2"
+          ]
+        },
+        {
+          "answer": "Tinker Tailor Soldier Spy",
+          "display": "3 nominations"
+        },
+        {
+          "answer": "Transformers: Dark of the Moon",
+          "display": "3 nominations",
+          "aliases": [
+            "Transformers 3"
+          ]
+        },
+        {
+          "answer": "The Tree of Life",
+          "display": "3 nominations"
+        }
+      ]
+    },
+    {
+      "category": "movies/awards/oscars",
+      "question": "Top 9 films by nominations at the 85th Academy Awards (2012 films)",
+      "cutoff": 9,
+      "difficulty": 1,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1374054756 | table 2 | name: Film | value: Nominations",
+      "tags": [
+        "movies",
+        "awards",
+        "oscars",
+        "2012"
+      ],
+      "answers": [
+        {
+          "answer": "Lincoln",
+          "display": "12 nominations"
+        },
+        {
+          "answer": "Life of Pi",
+          "display": "11 nominations"
+        },
+        {
+          "answer": "Les Misérables",
+          "display": "8 nominations",
+          "aliases": [
+            "Les Mis"
+          ]
+        },
+        {
+          "answer": "Silver Linings Playbook",
+          "display": "8 nominations"
+        },
+        {
+          "answer": "Argo",
+          "display": "7 nominations"
+        },
+        {
+          "answer": "Amour",
+          "display": "5 nominations"
+        },
+        {
+          "answer": "Django Unchained",
+          "display": "5 nominations"
+        },
+        {
+          "answer": "Skyfall",
+          "display": "5 nominations"
+        },
+        {
+          "answer": "Zero Dark Thirty",
+          "display": "5 nominations"
+        },
+        {
+          "answer": "Anna Karenina",
+          "display": "4 nominations"
+        },
+        {
+          "answer": "Beasts of the Southern Wild",
+          "display": "4 nominations"
+        },
+        {
+          "answer": "The Hobbit: An Unexpected Journey",
+          "display": "3 nominations",
+          "aliases": [
+            "The Hobbit"
+          ]
+        },
+        {
+          "answer": "The Master",
+          "display": "3 nominations"
+        }
+      ]
+    },
+    {
+      "category": "movies/awards/oscars",
+      "question": "Top 8 films by nominations at the 86th Academy Awards (2013 films)",
+      "cutoff": 8,
+      "difficulty": 1,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1372747512 | table 2 | name: Film | value: Nominations",
+      "tags": [
+        "movies",
+        "awards",
+        "oscars",
+        "2013"
+      ],
+      "answers": [
+        {
+          "answer": "American Hustle",
+          "display": "10 nominations"
+        },
+        {
+          "answer": "Gravity",
+          "display": "10 nominations"
+        },
+        {
+          "answer": "12 Years a Slave",
+          "display": "9 nominations"
+        },
+        {
+          "answer": "Captain Phillips",
+          "display": "6 nominations"
+        },
+        {
+          "answer": "Dallas Buyers Club",
+          "display": "6 nominations"
+        },
+        {
+          "answer": "Nebraska",
+          "display": "6 nominations"
+        },
+        {
+          "answer": "Her",
+          "display": "5 nominations"
+        },
+        {
+          "answer": "The Wolf of Wall Street",
+          "display": "5 nominations"
+        },
+        {
+          "answer": "Philomena",
+          "display": "4 nominations"
+        },
+        {
+          "answer": "Blue Jasmine",
+          "display": "3 nominations"
+        },
+        {
+          "answer": "The Hobbit: The Desolation of Smaug",
+          "display": "3 nominations",
+          "aliases": [
+            "Desolation of Smaug"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "movies/awards/oscars",
+      "question": "Top 9 films by nominations at the 87th Academy Awards (2014 films)",
+      "cutoff": 9,
+      "difficulty": 1,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1372747494 | table 2 | name: Film | value: Nominations",
+      "tags": [
+        "movies",
+        "awards",
+        "oscars",
+        "2014"
+      ],
+      "answers": [
+        {
+          "answer": "Birdman",
+          "display": "9 nominations",
+          "aliases": [
+            "Birdman or (The Unexpected Virtue of Ignorance)"
+          ]
+        },
+        {
+          "answer": "The Grand Budapest Hotel",
+          "display": "9 nominations"
+        },
+        {
+          "answer": "The Imitation Game",
+          "display": "8 nominations"
+        },
+        {
+          "answer": "American Sniper",
+          "display": "6 nominations"
+        },
+        {
+          "answer": "Boyhood",
+          "display": "6 nominations"
+        },
+        {
+          "answer": "Foxcatcher",
+          "display": "5 nominations"
+        },
+        {
+          "answer": "Interstellar",
+          "display": "5 nominations"
+        },
+        {
+          "answer": "The Theory of Everything",
+          "display": "5 nominations"
+        },
+        {
+          "answer": "Whiplash",
+          "display": "5 nominations"
+        },
+        {
+          "answer": "Mr. Turner",
+          "display": "4 nominations"
+        },
+        {
+          "answer": "Into the Woods",
+          "display": "3 nominations"
+        },
+        {
+          "answer": "Unbroken",
+          "display": "3 nominations"
+        }
+      ]
+    },
+    {
+      "category": "movies/awards/oscars",
+      "question": "Top 10 films by nominations at the 88th Academy Awards (2015 films)",
+      "cutoff": 10,
+      "difficulty": 1,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1367515577 | table 2 | name: Film | value: Nominations",
+      "tags": [
+        "movies",
+        "awards",
+        "oscars",
+        "2015"
+      ],
+      "answers": [
+        {
+          "answer": "The Revenant",
+          "display": "12 nominations"
+        },
+        {
+          "answer": "Mad Max: Fury Road",
+          "display": "10 nominations",
+          "aliases": [
+            "Mad Max"
+          ]
+        },
+        {
+          "answer": "The Martian",
+          "display": "7 nominations"
+        },
+        {
+          "answer": "Bridge of Spies",
+          "display": "6 nominations"
+        },
+        {
+          "answer": "Carol",
+          "display": "6 nominations"
+        },
+        {
+          "answer": "Spotlight",
+          "display": "6 nominations"
+        },
+        {
+          "answer": "Star Wars: The Force Awakens",
+          "display": "5 nominations",
+          "aliases": [
+            "The Force Awakens"
+          ]
+        },
+        {
+          "answer": "The Big Short",
+          "display": "5 nominations"
+        },
+        {
+          "answer": "Room",
+          "display": "4 nominations"
+        },
+        {
+          "answer": "The Danish Girl",
+          "display": "4 nominations"
+        },
+        {
+          "answer": "Brooklyn",
+          "display": "3 nominations"
+        },
+        {
+          "answer": "Sicario",
+          "display": "3 nominations"
+        },
+        {
+          "answer": "The Hateful Eight",
+          "display": "3 nominations"
+        }
+      ]
+    },
+    {
+      "category": "movies/awards/oscars",
+      "question": "Top 6 films by nominations at the 89th Academy Awards (2016 films)",
+      "cutoff": 6,
+      "difficulty": 1,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1368363565 | table 2 | name: Film | value: Nominations",
+      "tags": [
+        "movies",
+        "awards",
+        "oscars",
+        "2016"
+      ],
+      "answers": [
+        {
+          "answer": "La La Land",
+          "display": "14 nominations"
+        },
+        {
+          "answer": "Arrival",
+          "display": "8 nominations"
+        },
+        {
+          "answer": "Moonlight",
+          "display": "8 nominations"
+        },
+        {
+          "answer": "Hacksaw Ridge",
+          "display": "6 nominations"
+        },
+        {
+          "answer": "Lion",
+          "display": "6 nominations"
+        },
+        {
+          "answer": "Manchester by the Sea",
+          "display": "6 nominations"
+        },
+        {
+          "answer": "Fences",
+          "display": "4 nominations"
+        },
+        {
+          "answer": "Hell or High Water",
+          "display": "4 nominations"
+        },
+        {
+          "answer": "Hidden Figures",
+          "display": "3 nominations"
+        },
+        {
+          "answer": "Jackie",
+          "display": "3 nominations"
+        }
+      ]
+    },
+    {
+      "category": "movies/awards/oscars",
+      "question": "Top 7 films by nominations at the 90th Academy Awards (2017 films)",
+      "cutoff": 7,
+      "difficulty": 1,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1375623923 | table 2 | name: Film | value: Nominations",
+      "tags": [
+        "movies",
+        "awards",
+        "oscars",
+        "2017"
+      ],
+      "answers": [
+        {
+          "answer": "The Shape of Water",
+          "display": "13 nominations"
+        },
+        {
+          "answer": "Dunkirk",
+          "display": "8 nominations"
+        },
+        {
+          "answer": "Three Billboards Outside Ebbing, Missouri",
+          "display": "7 nominations",
+          "aliases": [
+            "Three Billboards"
+          ]
+        },
+        {
+          "answer": "Darkest Hour",
+          "display": "6 nominations"
+        },
+        {
+          "answer": "Phantom Thread",
+          "display": "6 nominations"
+        },
+        {
+          "answer": "Blade Runner 2049",
+          "display": "5 nominations"
+        },
+        {
+          "answer": "Lady Bird",
+          "display": "5 nominations"
+        },
+        {
+          "answer": "Call Me by Your Name",
+          "display": "4 nominations"
+        },
+        {
+          "answer": "Get Out",
+          "display": "4 nominations"
+        },
+        {
+          "answer": "Mudbound",
+          "display": "4 nominations"
+        },
+        {
+          "answer": "Star Wars: The Last Jedi",
+          "display": "4 nominations",
+          "aliases": [
+            "The Last Jedi"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "movies/awards/oscars",
+      "question": "Top 10 films by nominations at the 91st Academy Awards (2018 films)",
+      "cutoff": 10,
+      "difficulty": 1,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1369571922 | table 2 | name: Film | value: Nominations",
+      "tags": [
+        "movies",
+        "awards",
+        "oscars",
+        "2018"
+      ],
+      "answers": [
+        {
+          "answer": "The Favourite",
+          "display": "10 nominations"
+        },
+        {
+          "answer": "Roma",
+          "display": "10 nominations"
+        },
+        {
+          "answer": "A Star Is Born",
+          "display": "8 nominations"
+        },
+        {
+          "answer": "Vice",
+          "display": "8 nominations"
+        },
+        {
+          "answer": "Black Panther",
+          "display": "7 nominations"
+        },
+        {
+          "answer": "BlacKkKlansman",
+          "display": "6 nominations"
+        },
+        {
+          "answer": "Bohemian Rhapsody",
+          "display": "5 nominations"
+        },
+        {
+          "answer": "Green Book",
+          "display": "5 nominations"
+        },
+        {
+          "answer": "First Man",
+          "display": "4 nominations"
+        },
+        {
+          "answer": "Mary Poppins Returns",
+          "display": "4 nominations"
+        },
+        {
+          "answer": "The Ballad of Buster Scruggs",
+          "display": "3 nominations"
+        },
+        {
+          "answer": "Can You Ever Forgive Me?",
+          "display": "3 nominations"
+        },
+        {
+          "answer": "Cold War",
+          "display": "3 nominations"
+        },
+        {
+          "answer": "If Beale Street Could Talk",
+          "display": "3 nominations"
+        }
+      ]
+    },
+    {
+      "category": "movies/awards/oscars",
+      "question": "Top 9 films by nominations at the 92nd Academy Awards (2019 films)",
+      "cutoff": 9,
+      "difficulty": 1,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1370031848 | table 2 | name: Film | value: Nominations",
+      "tags": [
+        "movies",
+        "awards",
+        "oscars",
+        "2019"
+      ],
+      "answers": [
+        {
+          "answer": "Joker",
+          "display": "11 nominations"
+        },
+        {
+          "answer": "The Irishman",
+          "display": "10 nominations"
+        },
+        {
+          "answer": "1917",
+          "display": "10 nominations"
+        },
+        {
+          "answer": "Once Upon a Time in Hollywood",
+          "display": "10 nominations"
+        },
+        {
+          "answer": "Jojo Rabbit",
+          "display": "6 nominations"
+        },
+        {
+          "answer": "Little Women",
+          "display": "6 nominations"
+        },
+        {
+          "answer": "Marriage Story",
+          "display": "6 nominations"
+        },
+        {
+          "answer": "Parasite",
+          "display": "6 nominations"
+        },
+        {
+          "answer": "Ford v Ferrari",
+          "display": "4 nominations"
+        },
+        {
+          "answer": "Bombshell",
+          "display": "3 nominations"
+        },
+        {
+          "answer": "Star Wars: The Rise of Skywalker",
+          "display": "3 nominations",
+          "aliases": [
+            "The Rise of Skywalker"
+          ]
+        },
+        {
+          "answer": "The Two Popes",
+          "display": "3 nominations"
+        }
+      ]
+    },
+    {
+      "category": "movies/awards/oscars",
+      "question": "Top 9 films by nominations at the 93rd Academy Awards (2020 films)",
+      "cutoff": 9,
+      "difficulty": 1,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1374195140 | table 2 | name: Film | value: Nominations",
+      "tags": [
+        "movies",
+        "awards",
+        "oscars",
+        "2020"
+      ],
+      "answers": [
+        {
+          "answer": "Mank",
+          "display": "10 nominations"
+        },
+        {
+          "answer": "The Father",
+          "display": "6 nominations"
+        },
+        {
+          "answer": "Judas and the Black Messiah",
+          "display": "6 nominations"
+        },
+        {
+          "answer": "Minari",
+          "display": "6 nominations"
+        },
+        {
+          "answer": "Nomadland",
+          "display": "6 nominations"
+        },
+        {
+          "answer": "Sound of Metal",
+          "display": "6 nominations"
+        },
+        {
+          "answer": "The Trial of the Chicago 7",
+          "display": "6 nominations",
+          "aliases": [
+            "Chicago 7"
+          ]
+        },
+        {
+          "answer": "Ma Rainey's Black Bottom",
+          "display": "5 nominations"
+        },
+        {
+          "answer": "Promising Young Woman",
+          "display": "5 nominations"
+        },
+        {
+          "answer": "News of the World",
+          "display": "4 nominations"
+        },
+        {
+          "answer": "One Night in Miami",
+          "display": "3 nominations"
+        },
+        {
+          "answer": "Soul",
+          "display": "3 nominations"
+        }
+      ]
+    },
+    {
+      "category": "movies/awards/oscars",
+      "question": "Top 5 films by nominations at the 94th Academy Awards (2021 films)",
+      "cutoff": 5,
+      "difficulty": 1,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1375898115 | table 2 | name: Film | value: Nominations",
+      "tags": [
+        "movies",
+        "awards",
+        "oscars",
+        "2021"
+      ],
+      "answers": [
+        {
+          "answer": "The Power of the Dog",
+          "display": "12 nominations"
+        },
+        {
+          "answer": "Dune",
+          "display": "10 nominations"
+        },
+        {
+          "answer": "Belfast",
+          "display": "7 nominations"
+        },
+        {
+          "answer": "West Side Story",
+          "display": "7 nominations"
+        },
+        {
+          "answer": "King Richard",
+          "display": "6 nominations"
+        },
+        {
+          "answer": "Don't Look Up",
+          "display": "4 nominations"
+        },
+        {
+          "answer": "Drive My Car",
+          "display": "4 nominations"
+        },
+        {
+          "answer": "Nightmare Alley",
+          "display": "4 nominations"
+        }
+      ]
+    },
+    {
+      "category": "movies/awards/oscars",
+      "question": "Top 9 films by nominations at the 95th Academy Awards (2022 films)",
+      "cutoff": 9,
+      "difficulty": 1,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1370549721 | table 2 | name: Film | value: Nominations",
+      "tags": [
+        "movies",
+        "awards",
+        "oscars",
+        "2022"
+      ],
+      "answers": [
+        {
+          "answer": "Everything Everywhere All at Once",
+          "display": "11 nominations"
+        },
+        {
+          "answer": "All Quiet on the Western Front",
+          "display": "9 nominations"
+        },
+        {
+          "answer": "The Banshees of Inisherin",
+          "display": "9 nominations"
+        },
+        {
+          "answer": "Elvis",
+          "display": "8 nominations"
+        },
+        {
+          "answer": "The Fabelmans",
+          "display": "7 nominations"
+        },
+        {
+          "answer": "Tár",
+          "display": "6 nominations"
+        },
+        {
+          "answer": "Top Gun: Maverick",
+          "display": "6 nominations",
+          "aliases": [
+            "Maverick"
+          ]
+        },
+        {
+          "answer": "Black Panther: Wakanda Forever",
+          "display": "5 nominations",
+          "aliases": [
+            "Black Panther 2"
+          ]
+        },
+        {
+          "answer": "Avatar: The Way of Water",
+          "display": "4 nominations",
+          "aliases": [
+            "Avatar 2"
+          ]
+        },
+        {
+          "answer": "Babylon",
+          "display": "3 nominations"
+        },
+        {
+          "answer": "The Batman",
+          "display": "3 nominations"
+        },
+        {
+          "answer": "Triangle of Sadness",
+          "display": "3 nominations"
+        },
+        {
+          "answer": "The Whale",
+          "display": "3 nominations"
+        }
+      ]
+    },
+    {
+      "category": "movies/awards/oscars",
+      "question": "Top 5 films by nominations at the 96th Academy Awards (2023 films)",
+      "cutoff": 5,
+      "difficulty": 1,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1370729225 | table 2 | name: Film | value: Nominations",
+      "tags": [
+        "movies",
+        "awards",
+        "oscars",
+        "2023"
+      ],
+      "answers": [
+        {
+          "answer": "Oppenheimer",
+          "display": "13 nominations"
+        },
+        {
+          "answer": "Poor Things",
+          "display": "11 nominations"
+        },
+        {
+          "answer": "Killers of the Flower Moon",
+          "display": "10 nominations"
+        },
+        {
+          "answer": "Barbie",
+          "display": "8 nominations"
+        },
+        {
+          "answer": "Maestro",
+          "display": "7 nominations"
+        },
+        {
+          "answer": "American Fiction",
+          "display": "5 nominations"
+        },
+        {
+          "answer": "Anatomy of a Fall",
+          "display": "5 nominations"
+        },
+        {
+          "answer": "The Holdovers",
+          "display": "5 nominations"
+        },
+        {
+          "answer": "The Zone of Interest",
+          "display": "5 nominations"
+        }
+      ]
+    },
+    {
+      "category": "movies/awards/oscars",
+      "question": "Top 9 films by nominations at the 97th Academy Awards (2024 films)",
+      "cutoff": 9,
+      "difficulty": 1,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1370937205 | table 2 | name: Film | value: Nominations",
+      "tags": [
+        "movies",
+        "awards",
+        "oscars",
+        "2024"
+      ],
+      "answers": [
+        {
+          "answer": "Emilia Pérez",
+          "display": "13 nominations",
+          "aliases": [
+            "Emilia Perez"
+          ]
+        },
+        {
+          "answer": "The Brutalist",
+          "display": "10 nominations"
+        },
+        {
+          "answer": "Wicked",
+          "display": "10 nominations"
+        },
+        {
+          "answer": "A Complete Unknown",
+          "display": "8 nominations"
+        },
+        {
+          "answer": "Conclave",
+          "display": "8 nominations"
+        },
+        {
+          "answer": "Anora",
+          "display": "6 nominations"
+        },
+        {
+          "answer": "Dune: Part Two",
+          "display": "5 nominations",
+          "aliases": [
+            "Dune 2"
+          ]
+        },
+        {
+          "answer": "The Substance",
+          "display": "5 nominations"
+        },
+        {
+          "answer": "Nosferatu",
+          "display": "4 nominations"
+        },
+        {
+          "answer": "I'm Still Here",
+          "display": "3 nominations"
+        },
+        {
+          "answer": "Sing Sing",
+          "display": "3 nominations"
+        },
+        {
+          "answer": "The Wild Robot",
+          "display": "3 nominations"
+        }
+      ]
+    },
+    {
+      "category": "movies/awards/oscars",
+      "question": "Top 6 films by nominations at the 98th Academy Awards (2025 films)",
+      "cutoff": 6,
+      "difficulty": 1,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1380252541 | table 2 | name: Film | value: Nominations",
+      "tags": [
+        "movies",
+        "awards",
+        "oscars",
+        "2025"
+      ],
+      "answers": [
+        {
+          "answer": "Sinners",
+          "display": "16 nominations"
+        },
+        {
+          "answer": "One Battle After Another",
+          "display": "13 nominations"
+        },
+        {
+          "answer": "Frankenstein",
+          "display": "9 nominations"
+        },
+        {
+          "answer": "Marty Supreme",
+          "display": "9 nominations"
+        },
+        {
+          "answer": "Sentimental Value",
+          "display": "9 nominations"
+        },
+        {
+          "answer": "Hamnet",
+          "display": "8 nominations"
+        },
+        {
+          "answer": "Bugonia",
+          "display": "4 nominations"
+        },
+        {
+          "answer": "F1",
+          "display": "4 nominations"
+        },
+        {
+          "answer": "The Secret Agent",
+          "display": "4 nominations"
+        },
+        {
+          "answer": "Train Dreams",
+          "display": "4 nominations"
+        }
+      ]
+    }
+  ]
+}

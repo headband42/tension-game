@@ -1,0 +1,280 @@
+{
+  "categories": [
+    {
+      "path": "geography/subdivisions",
+      "name": "Country Subdivisions"
+    }
+  ],
+  "questions": [
+    {
+      "category": "geography/subdivisions",
+      "difficulty": 1,
+      "question": "Top 10 most populous Spanish provinces (2025; INE population figures)",
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1329686430 | table 1 | name: Province | value: Population (2025)",
+      "tags": [
+        "geography",
+        "subdivisions",
+        "spain",
+        "population"
+      ],
+      "answers": [
+        {
+          "answer": "Madrid",
+          "display": "7,113,886 people"
+        },
+        {
+          "answer": "Barcelona",
+          "display": "5,959,941 people"
+        },
+        {
+          "answer": "Valencia",
+          "display": "2,763,996 people"
+        },
+        {
+          "answer": "Alicante",
+          "display": "2,033,566 people",
+          "aliases": [
+            "Alacant"
+          ]
+        },
+        {
+          "answer": "Seville",
+          "display": "1,977,664 people",
+          "aliases": [
+            "Sevilla"
+          ]
+        },
+        {
+          "answer": "Málaga",
+          "display": "1,791,183 people",
+          "aliases": [
+            "Malaga"
+          ]
+        },
+        {
+          "answer": "Murcia",
+          "display": "1,586,989 people"
+        },
+        {
+          "answer": "Cádiz",
+          "display": "1,261,420 people",
+          "aliases": [
+            "Cadiz"
+          ]
+        },
+        {
+          "answer": "Balearic Islands",
+          "display": "1,249,844 people",
+          "aliases": [
+            "Baleares",
+            "Balearics"
+          ]
+        },
+        {
+          "answer": "Las Palmas",
+          "display": "1,171,547 people",
+          "aliases": [
+            "Gran Canaria"
+          ]
+        },
+        {
+          "answer": "Biscay",
+          "display": "1,167,233 people",
+          "aliases": [
+            "Vizcaya",
+            "Bizkaia"
+          ]
+        },
+        {
+          "answer": "A Coruña",
+          "display": "1,135,623 people",
+          "aliases": [
+            "La Coruña",
+            "Coruña"
+          ]
+        },
+        {
+          "answer": "Santa Cruz de Tenerife",
+          "display": "1,087,319 people",
+          "aliases": [
+            "Tenerife"
+          ]
+        },
+        {
+          "answer": "Asturias",
+          "display": "1,015,128 people"
+        }
+      ]
+    },
+    {
+      "category": "geography/subdivisions",
+      "difficulty": 2,
+      "question": "Top 10 most populous Italian provinces (2026, per tuttitalia.it; metropolitan cities included)",
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1373155163 | table 1 | name: Province | value: Population (2026) | where: Type~. | where: Province!=Italy",
+      "tags": [
+        "geography",
+        "subdivisions",
+        "italy",
+        "population"
+      ],
+      "answers": [
+        {
+          "answer": "Rome",
+          "display": "4,224,901 people",
+          "aliases": [
+            "Roma"
+          ]
+        },
+        {
+          "answer": "Milan",
+          "display": "3,253,111 people",
+          "aliases": [
+            "Milano"
+          ]
+        },
+        {
+          "answer": "Naples",
+          "display": "2,954,847 people",
+          "aliases": [
+            "Napoli"
+          ]
+        },
+        {
+          "answer": "Turin",
+          "display": "2,204,779 people",
+          "aliases": [
+            "Torino"
+          ]
+        },
+        {
+          "answer": "Brescia",
+          "display": "1,271,759 people"
+        },
+        {
+          "answer": "Bari",
+          "display": "1,218,073 people"
+        },
+        {
+          "answer": "Palermo",
+          "display": "1,195,307 people"
+        },
+        {
+          "answer": "Bergamo",
+          "display": "1,119,233 people"
+        },
+        {
+          "answer": "Catania",
+          "display": "1,067,550 people"
+        },
+        {
+          "answer": "Salerno",
+          "display": "1,053,302 people"
+        },
+        {
+          "answer": "Bologna",
+          "display": "1,024,290 people"
+        },
+        {
+          "answer": "Florence",
+          "display": "988,494 people",
+          "aliases": [
+            "Firenze"
+          ]
+        },
+        {
+          "answer": "Padua",
+          "display": "934,540 people",
+          "aliases": [
+            "Padova"
+          ]
+        },
+        {
+          "answer": "Verona",
+          "display": "930,842 people"
+        }
+      ]
+    },
+    {
+      "category": "geography/subdivisions",
+      "difficulty": 2,
+      "question": "Top 10 most populous Turkish provinces (2023; TurkStat address-based population registration)",
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1309504700 | table 1 | name: Province | value: Population | where: Year=2023",
+      "tags": [
+        "geography",
+        "subdivisions",
+        "turkey",
+        "population"
+      ],
+      "answers": [
+        {
+          "answer": "Istanbul",
+          "display": "15,655,924 people",
+          "aliases": [
+            "Constantinople"
+          ]
+        },
+        {
+          "answer": "Ankara",
+          "display": "5,803,482 people"
+        },
+        {
+          "answer": "Izmir",
+          "display": "4,479,525 people"
+        },
+        {
+          "answer": "Bursa",
+          "display": "3,214,571 people"
+        },
+        {
+          "answer": "Antalya",
+          "display": "2,696,249 people"
+        },
+        {
+          "answer": "Konya",
+          "display": "2,320,241 people"
+        },
+        {
+          "answer": "Adana",
+          "display": "2,270,298 people"
+        },
+        {
+          "answer": "Şanlıurfa",
+          "display": "2,213,964 people",
+          "aliases": [
+            "Urfa"
+          ]
+        },
+        {
+          "answer": "Gaziantep",
+          "display": "2,164,134 people",
+          "aliases": [
+            "Antep"
+          ]
+        },
+        {
+          "answer": "Kocaeli",
+          "display": "2,102,907 people"
+        },
+        {
+          "answer": "Mersin",
+          "display": "1,938,389 people"
+        },
+        {
+          "answer": "Diyarbakır",
+          "display": "1,818,133 people"
+        },
+        {
+          "answer": "Hatay",
+          "display": "1,544,640 people"
+        },
+        {
+          "answer": "Manisa",
+          "display": "1,475,716 people"
+        }
+      ]
+    }
+  ]
+}

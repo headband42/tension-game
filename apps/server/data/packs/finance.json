@@ -1,0 +1,953 @@
+{
+  "categories": [
+    {
+      "path": "economy/finance/stock-exchanges",
+      "name": "Stock Exchanges"
+    },
+    {
+      "path": "economy/finance/stock-markets",
+      "name": "Stock Markets"
+    },
+    {
+      "path": "economy/finance/currencies",
+      "name": "Currencies"
+    },
+    {
+      "path": "economy/finance/banks",
+      "name": "Banks"
+    },
+    {
+      "path": "economy/finance/reserves",
+      "name": "Reserves"
+    },
+    {
+      "path": "economy/finance/asset-managers",
+      "name": "Asset Managers"
+    }
+  ],
+  "questions": [
+    {
+      "category": "economy/finance/stock-exchanges",
+      "question": "Top 10 stock exchanges by market capitalization (September 2026)",
+      "cutoff": 10,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1377018635 | table 1 | name: Stock exchange | value: Market cap",
+      "tags": [
+        "finance",
+        "stock-exchanges",
+        "market-cap"
+      ],
+      "answers": [
+        {
+          "answer": "Nasdaq",
+          "display": "$36.0T"
+        },
+        {
+          "answer": "New York Stock Exchange",
+          "display": "$31.0T",
+          "aliases": [
+            "NYSE"
+          ]
+        },
+        {
+          "answer": "Shanghai Stock Exchange",
+          "display": "$10.21T",
+          "aliases": [
+            "SSE"
+          ]
+        },
+        {
+          "answer": "Euronext",
+          "display": "$8.136T"
+        },
+        {
+          "answer": "Japan Exchange Group",
+          "display": "$7.95T",
+          "aliases": [
+            "Tokyo Stock Exchange",
+            "JPX"
+          ]
+        },
+        {
+          "answer": "Shenzhen Stock Exchange",
+          "display": "$7.3T",
+          "aliases": [
+            "SZSE"
+          ]
+        },
+        {
+          "answer": "Hong Kong Stock Exchange",
+          "display": "$6.2T",
+          "aliases": [
+            "HKEX"
+          ]
+        },
+        {
+          "answer": "Bombay Stock Exchange",
+          "display": "$5.14T",
+          "aliases": [
+            "BSE"
+          ]
+        },
+        {
+          "answer": "National Stock Exchange",
+          "display": "$5.12T",
+          "aliases": [
+            "NSE",
+            "National Stock Exchange of India"
+          ]
+        },
+        {
+          "answer": "Taiwan Stock Exchange",
+          "display": "$4.97T",
+          "aliases": [
+            "TWSE"
+          ]
+        },
+        {
+          "answer": "Toronto Stock Exchange",
+          "display": "$4.53T",
+          "aliases": [
+            "TSX"
+          ]
+        },
+        {
+          "answer": "Korea Exchange",
+          "display": "$4.014T",
+          "aliases": [
+            "KRX"
+          ]
+        },
+        {
+          "answer": "London Stock Exchange",
+          "display": "$3.94T",
+          "aliases": [
+            "LSE"
+          ]
+        },
+        {
+          "answer": "Deutsche Börse",
+          "display": "$3.06T",
+          "aliases": [
+            "Frankfurt Stock Exchange"
+          ]
+        },
+        {
+          "answer": "Saudi Exchange",
+          "display": "$2.63T",
+          "aliases": [
+            "Tadawul"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "economy/finance/stock-markets",
+      "question": "Top 10 countries by total stock market capitalization (2026 data)",
+      "cutoff": 10,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1378892072 | table 1 | name: Country | value: millions | header rows: 2",
+      "tags": [
+        "finance",
+        "stock-markets",
+        "countries"
+      ],
+      "answers": [
+        {
+          "answer": "United States",
+          "display": "$83.07T",
+          "aliases": [
+            "USA",
+            "US",
+            "America"
+          ]
+        },
+        {
+          "answer": "China",
+          "display": "$21.17T"
+        },
+        {
+          "answer": "Japan",
+          "display": "$8.75T"
+        },
+        {
+          "answer": "Taiwan",
+          "display": "$5.5T"
+        },
+        {
+          "answer": "India",
+          "display": "$4.79T"
+        },
+        {
+          "answer": "United Kingdom",
+          "display": "$4.76T",
+          "aliases": [
+            "UK",
+            "Britain"
+          ]
+        },
+        {
+          "answer": "South Korea",
+          "display": "$4.57T",
+          "aliases": [
+            "Korea"
+          ]
+        },
+        {
+          "answer": "Canada",
+          "display": "$4.33T"
+        },
+        {
+          "answer": "France",
+          "display": "$2.93T"
+        },
+        {
+          "answer": "Germany",
+          "display": "$2.92T"
+        },
+        {
+          "answer": "Switzerland",
+          "display": "$2.84T"
+        },
+        {
+          "answer": "Saudi Arabia",
+          "display": "$2.48T",
+          "aliases": [
+            "KSA"
+          ]
+        },
+        {
+          "answer": "Australia",
+          "display": "$2.14T"
+        },
+        {
+          "answer": "Netherlands",
+          "display": "$2.01T",
+          "aliases": [
+            "Holland"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "economy/finance/currencies",
+      "question": "Top 10 most traded currencies by share of daily global FX turnover (BIS survey, April 2025)",
+      "cutoff": 10,
+      "difficulty": 3,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1376667604 | table 2 | name: Currency | value: April 2025 | header rows: 2 | where: Currency!~^(Total|Other)",
+      "tags": [
+        "finance",
+        "currencies",
+        "forex"
+      ],
+      "answers": [
+        {
+          "answer": "United States dollar",
+          "display": "89.2%",
+          "aliases": [
+            "USD",
+            "US dollar"
+          ]
+        },
+        {
+          "answer": "Euro",
+          "display": "28.9%",
+          "aliases": [
+            "EUR"
+          ]
+        },
+        {
+          "answer": "Japanese yen",
+          "display": "16.8%",
+          "aliases": [
+            "JPY",
+            "yen"
+          ]
+        },
+        {
+          "answer": "Pound sterling",
+          "display": "10.2%",
+          "aliases": [
+            "GBP",
+            "sterling",
+            "Pound",
+            "British pound"
+          ]
+        },
+        {
+          "answer": "Renminbi",
+          "display": "8.5%",
+          "aliases": [
+            "yuan",
+            "Chinese yuan",
+            "RMB",
+            "CNY"
+          ]
+        },
+        {
+          "answer": "Swiss franc",
+          "display": "6.4%",
+          "aliases": [
+            "CHF",
+            "Franc"
+          ]
+        },
+        {
+          "answer": "Australian dollar",
+          "display": "6.1%",
+          "aliases": [
+            "AUD"
+          ]
+        },
+        {
+          "answer": "Canadian dollar",
+          "display": "5.8%",
+          "aliases": [
+            "CAD"
+          ]
+        },
+        {
+          "answer": "Hong Kong dollar",
+          "display": "3.8%",
+          "aliases": [
+            "HKD"
+          ]
+        },
+        {
+          "answer": "Singapore dollar",
+          "display": "2.4%",
+          "aliases": [
+            "SGD"
+          ]
+        },
+        {
+          "answer": "Indian rupee",
+          "display": "1.9%",
+          "aliases": [
+            "INR"
+          ]
+        },
+        {
+          "answer": "South Korean won",
+          "display": "1.8%",
+          "aliases": [
+            "KRW"
+          ]
+        },
+        {
+          "answer": "Swedish krona",
+          "display": "1.6%",
+          "aliases": [
+            "SEK"
+          ]
+        },
+        {
+          "answer": "Mexican peso",
+          "display": "1.6%",
+          "aliases": [
+            "MXN"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "economy/finance/banks",
+      "question": "Top 10 largest banks by total assets (April 2026)",
+      "cutoff": 10,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1379100206 | table 1 | name: Bank name | value: Total assets",
+      "tags": [
+        "finance",
+        "banks",
+        "total-assets"
+      ],
+      "answers": [
+        {
+          "answer": "Industrial and Commercial Bank of China",
+          "display": "$7,645.80B",
+          "aliases": [
+            "ICBC"
+          ]
+        },
+        {
+          "answer": "Agricultural Bank of China",
+          "display": "$6,974.82B",
+          "aliases": [
+            "ABC"
+          ]
+        },
+        {
+          "answer": "China Construction Bank",
+          "display": "$6,524.05B",
+          "aliases": [
+            "CCB"
+          ]
+        },
+        {
+          "answer": "Bank of China",
+          "display": "$5,484.11B"
+        },
+        {
+          "answer": "JPMorgan Chase",
+          "display": "$4,424.90B",
+          "aliases": [
+            "JPMorgan",
+            "JP Morgan",
+            "JPM"
+          ]
+        },
+        {
+          "answer": "HSBC",
+          "display": "$3,438.16B",
+          "aliases": [
+            "HSBC Holdings"
+          ]
+        },
+        {
+          "answer": "Bank of America",
+          "display": "$3,411.74B",
+          "aliases": [
+            "BofA",
+            "BoA"
+          ]
+        },
+        {
+          "answer": "BNP Paribas",
+          "display": "$3,279.30B",
+          "aliases": [
+            "BNP"
+          ]
+        },
+        {
+          "answer": "Crédit Agricole",
+          "display": "$3,148.91B",
+          "aliases": [
+            "Credit Agricole"
+          ]
+        },
+        {
+          "answer": "Postal Savings Bank of China",
+          "display": "$2,671.00B"
+        },
+        {
+          "answer": "Mitsubishi UFJ Financial Group",
+          "display": "$2,666.71B",
+          "aliases": [
+            "MUFG"
+          ]
+        },
+        {
+          "answer": "Citigroup",
+          "display": "$2,622.20B",
+          "aliases": [
+            "Citi"
+          ]
+        },
+        {
+          "answer": "Banco Santander",
+          "display": "$2,251.97B",
+          "aliases": [
+            "Santander"
+          ]
+        },
+        {
+          "answer": "Bank of Communications",
+          "display": "$2,222.98B",
+          "aliases": [
+            "BoCom"
+          ]
+        },
+        {
+          "answer": "Wells Fargo",
+          "display": "$2,148.63B"
+        }
+      ]
+    },
+    {
+      "category": "economy/finance/banks",
+      "question": "Top 10 countries by number of banks in the world's top 100 by total assets (April 2026)",
+      "cutoff": 10,
+      "difficulty": 3,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1379100206 | table 2 | name: Country | value: Number",
+      "tags": [
+        "finance",
+        "banks",
+        "countries"
+      ],
+      "answers": [
+        {
+          "answer": "China",
+          "display": "21 banks"
+        },
+        {
+          "answer": "United States",
+          "display": "12 banks",
+          "aliases": [
+            "USA",
+            "US"
+          ]
+        },
+        {
+          "answer": "Japan",
+          "display": "8 banks"
+        },
+        {
+          "answer": "Canada",
+          "display": "6 banks"
+        },
+        {
+          "answer": "France",
+          "display": "6 banks"
+        },
+        {
+          "answer": "United Kingdom",
+          "display": "6 banks",
+          "aliases": [
+            "UK",
+            "Britain"
+          ]
+        },
+        {
+          "answer": "South Korea",
+          "display": "5 banks",
+          "aliases": [
+            "Korea"
+          ]
+        },
+        {
+          "answer": "Australia",
+          "display": "4 banks"
+        },
+        {
+          "answer": "Germany",
+          "display": "4 banks"
+        },
+        {
+          "answer": "Brazil",
+          "display": "4 banks"
+        },
+        {
+          "answer": "Netherlands",
+          "display": "3 banks",
+          "aliases": [
+            "Holland"
+          ]
+        },
+        {
+          "answer": "Singapore",
+          "display": "3 banks"
+        },
+        {
+          "answer": "Spain",
+          "display": "3 banks"
+        }
+      ]
+    },
+    {
+      "category": "economy/finance/reserves",
+      "question": "Top 10 countries by foreign-exchange reserves including gold (2026)",
+      "cutoff": 10,
+      "difficulty": 3,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1379576540 | table 1 | name: Country | value: 3 | header rows: 3",
+      "tags": [
+        "finance",
+        "reserves",
+        "forex"
+      ],
+      "answers": [
+        {
+          "answer": "China",
+          "display": "$3,854,885m"
+        },
+        {
+          "answer": "Japan",
+          "display": "$1,287,470m"
+        },
+        {
+          "answer": "Switzerland",
+          "display": "$939,140m"
+        },
+        {
+          "answer": "India",
+          "display": "$785,710m"
+        },
+        {
+          "answer": "Russia",
+          "display": "$761,200m",
+          "aliases": [
+            "Russian Federation"
+          ]
+        },
+        {
+          "answer": "Taiwan",
+          "display": "$597,150m"
+        },
+        {
+          "answer": "Saudi Arabia",
+          "display": "$487,370m",
+          "aliases": [
+            "KSA"
+          ]
+        },
+        {
+          "answer": "Hong Kong",
+          "display": "$445,900m",
+          "aliases": [
+            "HK"
+          ]
+        },
+        {
+          "answer": "South Korea",
+          "display": "$427,400m",
+          "aliases": [
+            "Korea"
+          ]
+        },
+        {
+          "answer": "Singapore",
+          "display": "$426,830m"
+        },
+        {
+          "answer": "Brazil",
+          "display": "$366,913m"
+        },
+        {
+          "answer": "Germany",
+          "display": "$345,338m"
+        },
+        {
+          "answer": "Thailand",
+          "display": "$300,180m"
+        },
+        {
+          "answer": "Italy",
+          "display": "$279,631m"
+        },
+        {
+          "answer": "France",
+          "display": "$272,693m"
+        }
+      ]
+    },
+    {
+      "category": "economy/finance/reserves",
+      "question": "Top 10 European countries by foreign-exchange reserves including gold (excluding Russia and Turkey)",
+      "cutoff": 10,
+      "difficulty": 3,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1379576540 | table 1 | name: Country | value: 3 | header rows: 3 | where: Continent=Europe",
+      "tags": [
+        "finance",
+        "reserves",
+        "europe"
+      ],
+      "answers": [
+        {
+          "answer": "Switzerland",
+          "display": "$939,140m"
+        },
+        {
+          "answer": "Germany",
+          "display": "$345,338m"
+        },
+        {
+          "answer": "Italy",
+          "display": "$279,631m"
+        },
+        {
+          "answer": "France",
+          "display": "$272,693m"
+        },
+        {
+          "answer": "Poland",
+          "display": "$223,200m"
+        },
+        {
+          "answer": "United Kingdom",
+          "display": "$189,228m",
+          "aliases": [
+            "UK",
+            "Britain"
+          ]
+        },
+        {
+          "answer": "Czech Republic",
+          "display": "$149,416m",
+          "aliases": [
+            "Czechia"
+          ]
+        },
+        {
+          "answer": "Netherlands",
+          "display": "$125,451m",
+          "aliases": [
+            "Holland"
+          ]
+        },
+        {
+          "answer": "Spain",
+          "display": "$100,983m"
+        },
+        {
+          "answer": "Romania",
+          "display": "$95,127m"
+        },
+        {
+          "answer": "Denmark",
+          "display": "$93,196m"
+        },
+        {
+          "answer": "Belgium",
+          "display": "$82,000m"
+        },
+        {
+          "answer": "Norway",
+          "display": "$80,110m"
+        },
+        {
+          "answer": "Sweden",
+          "display": "$62,438m"
+        },
+        {
+          "answer": "Portugal",
+          "display": "$53,710m"
+        }
+      ]
+    },
+    {
+      "category": "economy/finance/asset-managers",
+      "question": "Top 10 largest asset managers by assets under management (2025)",
+      "cutoff": 10,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1379683002 | table 1 | name: Firm | value: AUM",
+      "tags": [
+        "finance",
+        "asset-managers",
+        "aum"
+      ],
+      "answers": [
+        {
+          "answer": "BlackRock",
+          "display": "$11.5T"
+        },
+        {
+          "answer": "Vanguard Group",
+          "display": "$10.1T",
+          "aliases": [
+            "Vanguard"
+          ]
+        },
+        {
+          "answer": "Fidelity Investments",
+          "display": "$5.5T",
+          "aliases": [
+            "Fidelity"
+          ]
+        },
+        {
+          "answer": "State Street Global Advisors",
+          "display": "$4.7T",
+          "aliases": [
+            "State Street",
+            "SSGA"
+          ]
+        },
+        {
+          "answer": "JPMorgan Chase",
+          "display": "$4T",
+          "aliases": [
+            "JPMorgan",
+            "JP Morgan"
+          ]
+        },
+        {
+          "answer": "Goldman Sachs",
+          "display": "$3.1T",
+          "aliases": [
+            "Goldman"
+          ]
+        },
+        {
+          "answer": "Capital Group",
+          "display": "$2.8T"
+        },
+        {
+          "answer": "UBS",
+          "display": "$2.8T"
+        },
+        {
+          "answer": "Allianz",
+          "display": "$2.5T"
+        },
+        {
+          "answer": "Amundi",
+          "display": "$2.3T"
+        },
+        {
+          "answer": "BNY",
+          "display": "$2.0T",
+          "aliases": [
+            "BNY Mellon",
+            "Bank of New York Mellon"
+          ]
+        },
+        {
+          "answer": "Invesco",
+          "display": "$1.8T"
+        },
+        {
+          "answer": "Franklin Templeton",
+          "display": "$1.6T",
+          "aliases": [
+            "Franklin"
+          ]
+        },
+        {
+          "answer": "Northern Trust",
+          "display": "$1.6T"
+        },
+        {
+          "answer": "T. Rowe Price",
+          "display": "$1.6T",
+          "aliases": [
+            "T Rowe Price"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "economy/finance/currencies",
+      "question": "Top 10 currencies by number of countries and territories that use them (September 2026)",
+      "cutoff": 10,
+      "difficulty": 3,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1377548628 | table 2 | name: Currency | value: 6 | header rows: 2",
+      "tags": [
+        "finance",
+        "currencies",
+        "countries"
+      ],
+      "answers": [
+        {
+          "answer": "Euro",
+          "display": "44 countries",
+          "aliases": [
+            "EUR"
+          ]
+        },
+        {
+          "answer": "United States dollar",
+          "display": "19 countries",
+          "aliases": [
+            "USD",
+            "US dollar"
+          ]
+        },
+        {
+          "answer": "Pound sterling",
+          "display": "11 countries",
+          "aliases": [
+            "GBP",
+            "sterling",
+            "Pound",
+            "British pound"
+          ]
+        },
+        {
+          "answer": "Australian dollar",
+          "display": "11 countries",
+          "aliases": [
+            "AUD"
+          ]
+        },
+        {
+          "answer": "Eastern Caribbean dollar",
+          "display": "8 countries",
+          "aliases": [
+            "XCD",
+            "EC$"
+          ]
+        },
+        {
+          "answer": "West African CFA franc",
+          "display": "8 countries",
+          "aliases": [
+            "XOF"
+          ]
+        },
+        {
+          "answer": "New Zealand dollar",
+          "display": "6 countries",
+          "aliases": [
+            "NZD"
+          ]
+        },
+        {
+          "answer": "Norwegian krone",
+          "display": "6 countries",
+          "aliases": [
+            "NOK"
+          ]
+        },
+        {
+          "answer": "Central African CFA franc",
+          "display": "6 countries",
+          "aliases": [
+            "XAF"
+          ]
+        },
+        {
+          "answer": "South African rand",
+          "display": "4 countries",
+          "aliases": [
+            "rand",
+            "ZAR"
+          ]
+        },
+        {
+          "answer": "CFP franc",
+          "display": "3 countries",
+          "aliases": [
+            "XPF"
+          ]
+        },
+        {
+          "answer": "Chilean peso",
+          "display": "3 countries",
+          "aliases": [
+            "CLP"
+          ]
+        },
+        {
+          "answer": "Danish krone",
+          "display": "3 countries",
+          "aliases": [
+            "DKK"
+          ]
+        },
+        {
+          "answer": "Indian rupee",
+          "display": "3 countries",
+          "aliases": [
+            "INR"
+          ]
+        },
+        {
+          "answer": "Russian ruble",
+          "display": "3 countries",
+          "aliases": [
+            "RUB",
+            "ruble"
+          ]
+        }
+      ]
+    }
+  ]
+}

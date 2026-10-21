@@ -1,0 +1,2093 @@
+{
+  "categories": [
+    {
+      "path": "sports/golf/pga-tour",
+      "name": "PGA Tour"
+    },
+    {
+      "path": "sports/golf/pga-tour/money-list",
+      "name": "Money List by Season"
+    }
+  ],
+  "questions": [
+    {
+      "category": "sports/golf/pga-tour/money-list",
+      "question": "Top 7 golfers on the 1990 PGA Tour official money list",
+      "cutoff": 7,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1220962434 | table 3 | name: Player | value: Prize money",
+      "tags": [
+        "golf",
+        "pga tour",
+        "money list"
+      ],
+      "answers": [
+        {
+          "answer": "Greg Norman",
+          "display": "$1,165,477",
+          "aliases": [
+            "Norman"
+          ]
+        },
+        {
+          "answer": "Wayne Levi",
+          "display": "$1,024,647",
+          "aliases": [
+            "Levi"
+          ]
+        },
+        {
+          "answer": "Payne Stewart",
+          "display": "$976,281",
+          "aliases": [
+            "Stewart"
+          ]
+        },
+        {
+          "answer": "Paul Azinger",
+          "display": "$944,731",
+          "aliases": [
+            "Azinger"
+          ]
+        },
+        {
+          "answer": "Jodie Mudd",
+          "display": "$911,746",
+          "aliases": [
+            "Mudd"
+          ]
+        },
+        {
+          "answer": "Hale Irwin",
+          "display": "$838,249",
+          "aliases": [
+            "Irwin"
+          ]
+        },
+        {
+          "answer": "Mark Calcavecchia",
+          "display": "$834,281",
+          "aliases": [
+            "Calcavecchia"
+          ]
+        },
+        {
+          "answer": "Tim Simpson",
+          "display": "$809,772",
+          "aliases": [
+            "Simpson"
+          ]
+        },
+        {
+          "answer": "Fred Couples",
+          "display": "$757,999",
+          "aliases": [
+            "Couples"
+          ]
+        },
+        {
+          "answer": "Mark O'Meara",
+          "display": "$707,175",
+          "aliases": [
+            "O'Meara"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/golf/pga-tour/money-list",
+      "question": "Top 7 golfers on the 1992 PGA Tour official money list",
+      "cutoff": 7,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1220962457 | table 3 | name: Player | value: Prize money",
+      "tags": [
+        "golf",
+        "pga tour",
+        "money list"
+      ],
+      "answers": [
+        {
+          "answer": "Fred Couples",
+          "display": "$1,344,188",
+          "aliases": [
+            "Couples"
+          ]
+        },
+        {
+          "answer": "Davis Love III",
+          "display": "$1,191,630",
+          "aliases": [
+            "Davis Love",
+            "Love"
+          ]
+        },
+        {
+          "answer": "John Cook",
+          "display": "$1,165,606",
+          "aliases": [
+            "Cook"
+          ]
+        },
+        {
+          "answer": "Nick Price",
+          "display": "$1,135,773",
+          "aliases": [
+            "Price"
+          ]
+        },
+        {
+          "answer": "Corey Pavin",
+          "display": "$980,934",
+          "aliases": [
+            "Pavin"
+          ]
+        },
+        {
+          "answer": "Tom Kite",
+          "display": "$957,445",
+          "aliases": [
+            "Kite"
+          ]
+        },
+        {
+          "answer": "Paul Azinger",
+          "display": "$929,863",
+          "aliases": [
+            "Azinger"
+          ]
+        },
+        {
+          "answer": "Brad Faxon",
+          "display": "$812,093",
+          "aliases": [
+            "Faxon"
+          ]
+        },
+        {
+          "answer": "Lee Janzen",
+          "display": "$795,279",
+          "aliases": [
+            "Janzen"
+          ]
+        },
+        {
+          "answer": "Dan Forsman",
+          "display": "$763,190",
+          "aliases": [
+            "Forsman"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/golf/pga-tour/money-list",
+      "question": "Top 7 golfers on the 1993 PGA Tour official money list",
+      "cutoff": 7,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1220962471 | table 3 | name: Player | value: Prize money",
+      "tags": [
+        "golf",
+        "pga tour",
+        "money list"
+      ],
+      "answers": [
+        {
+          "answer": "Nick Price",
+          "display": "$1,478,557",
+          "aliases": [
+            "Price"
+          ]
+        },
+        {
+          "answer": "Paul Azinger",
+          "display": "$1,458,456",
+          "aliases": [
+            "Azinger"
+          ]
+        },
+        {
+          "answer": "Greg Norman",
+          "display": "$1,359,653",
+          "aliases": [
+            "Norman"
+          ]
+        },
+        {
+          "answer": "Jim Gallagher Jr.",
+          "display": "$1,078,870",
+          "aliases": [
+            "Jim Gallagher",
+            "Gallagher"
+          ]
+        },
+        {
+          "answer": "David Frost",
+          "display": "$1,030,717",
+          "aliases": [
+            "Frost"
+          ]
+        },
+        {
+          "answer": "Payne Stewart",
+          "display": "$982,875",
+          "aliases": [
+            "Stewart"
+          ]
+        },
+        {
+          "answer": "Lee Janzen",
+          "display": "$932,335",
+          "aliases": [
+            "Janzen"
+          ]
+        },
+        {
+          "answer": "Tom Kite",
+          "display": "$887,811",
+          "aliases": [
+            "Kite"
+          ]
+        },
+        {
+          "answer": "Fulton Allem",
+          "display": "$851,345",
+          "aliases": [
+            "Allem"
+          ]
+        },
+        {
+          "answer": "Fred Couples",
+          "display": "$796,579",
+          "aliases": [
+            "Couples"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/golf/pga-tour/money-list",
+      "question": "Top 7 golfers on the 1997 PGA Tour official money list",
+      "cutoff": 7,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1220962530 | table 3 | name: Player | value: Prize money",
+      "tags": [
+        "golf",
+        "pga tour",
+        "money list"
+      ],
+      "answers": [
+        {
+          "answer": "Tiger Woods",
+          "display": "$2,066,833",
+          "aliases": [
+            "Tiger",
+            "Woods"
+          ]
+        },
+        {
+          "answer": "David Duval",
+          "display": "$1,885,308",
+          "aliases": [
+            "Duval"
+          ]
+        },
+        {
+          "answer": "Davis Love III",
+          "display": "$1,635,953",
+          "aliases": [
+            "Davis Love",
+            "Love"
+          ]
+        },
+        {
+          "answer": "Jim Furyk",
+          "display": "$1,619,480",
+          "aliases": [
+            "Furyk"
+          ]
+        },
+        {
+          "answer": "Justin Leonard",
+          "display": "$1,587,531",
+          "aliases": [
+            "Leonard"
+          ]
+        },
+        {
+          "answer": "Scott Hoch",
+          "display": "$1,393,788",
+          "aliases": [
+            "Hoch"
+          ]
+        },
+        {
+          "answer": "Greg Norman",
+          "display": "$1,345,856",
+          "aliases": [
+            "Norman"
+          ]
+        },
+        {
+          "answer": "Steve Elkington",
+          "display": "$1,320,411",
+          "aliases": [
+            "Elkington"
+          ]
+        },
+        {
+          "answer": "Ernie Els",
+          "display": "$1,243,008",
+          "aliases": [
+            "Els"
+          ]
+        },
+        {
+          "answer": "Brad Faxon",
+          "display": "$1,233,505",
+          "aliases": [
+            "Faxon"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/golf/pga-tour/money-list",
+      "question": "Top 7 golfers on the 1998 PGA Tour official money list",
+      "cutoff": 7,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1220962544 | table 3 | name: Player | value: Prize money",
+      "tags": [
+        "golf",
+        "pga tour",
+        "money list"
+      ],
+      "answers": [
+        {
+          "answer": "David Duval",
+          "display": "$2,591,031",
+          "aliases": [
+            "Duval"
+          ]
+        },
+        {
+          "answer": "Vijay Singh",
+          "display": "$2,238,998",
+          "aliases": [
+            "Singh"
+          ]
+        },
+        {
+          "answer": "Jim Furyk",
+          "display": "$2,054,334",
+          "aliases": [
+            "Furyk"
+          ]
+        },
+        {
+          "answer": "Tiger Woods",
+          "display": "$1,841,117",
+          "aliases": [
+            "Tiger",
+            "Woods"
+          ]
+        },
+        {
+          "answer": "Hal Sutton",
+          "display": "$1,838,740",
+          "aliases": [
+            "Sutton"
+          ]
+        },
+        {
+          "answer": "Phil Mickelson",
+          "display": "$1,837,246",
+          "aliases": [
+            "Lefty",
+            "Mickelson"
+          ]
+        },
+        {
+          "answer": "Mark O'Meara",
+          "display": "$1,786,699",
+          "aliases": [
+            "O'Meara"
+          ]
+        },
+        {
+          "answer": "Justin Leonard",
+          "display": "$1,671,823",
+          "aliases": [
+            "Leonard"
+          ]
+        },
+        {
+          "answer": "Fred Couples",
+          "display": "$1,650,389",
+          "aliases": [
+            "Couples"
+          ]
+        },
+        {
+          "answer": "John Huston",
+          "display": "$1,544,110",
+          "aliases": [
+            "Huston"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/golf/pga-tour/money-list",
+      "question": "Top 7 golfers on the 1999 PGA Tour official money list",
+      "cutoff": 7,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1239743780 | table 3 | name: Player | value: Prize money",
+      "tags": [
+        "golf",
+        "pga tour",
+        "money list"
+      ],
+      "answers": [
+        {
+          "answer": "Tiger Woods",
+          "display": "$6,616,585",
+          "aliases": [
+            "Tiger",
+            "Woods"
+          ]
+        },
+        {
+          "answer": "David Duval",
+          "display": "$3,641,906",
+          "aliases": [
+            "Duval"
+          ]
+        },
+        {
+          "answer": "Davis Love III",
+          "display": "$2,475,328",
+          "aliases": [
+            "Davis Love",
+            "Love"
+          ]
+        },
+        {
+          "answer": "Vijay Singh",
+          "display": "$2,283,233",
+          "aliases": [
+            "Singh"
+          ]
+        },
+        {
+          "answer": "Chris Perry",
+          "display": "$2,145,707",
+          "aliases": [
+            "Perry"
+          ]
+        },
+        {
+          "answer": "Hal Sutton",
+          "display": "$2,127,578",
+          "aliases": [
+            "Sutton"
+          ]
+        },
+        {
+          "answer": "Payne Stewart",
+          "display": "$2,077,950",
+          "aliases": [
+            "Stewart"
+          ]
+        },
+        {
+          "answer": "Justin Leonard",
+          "display": "$2,020,991",
+          "aliases": [
+            "Leonard"
+          ]
+        },
+        {
+          "answer": "Jeff Maggert",
+          "display": "$2,016,469",
+          "aliases": [
+            "Maggert"
+          ]
+        },
+        {
+          "answer": "David Toms",
+          "display": "$1,959,672",
+          "aliases": [
+            "Toms"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/golf/pga-tour/money-list",
+      "question": "Top 7 golfers on the 2000 PGA Tour official money list",
+      "cutoff": 7,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1294100757 | table 3 | name: Player | value: Prize money",
+      "tags": [
+        "golf",
+        "pga tour",
+        "money list"
+      ],
+      "answers": [
+        {
+          "answer": "Tiger Woods",
+          "display": "$9,188,321",
+          "aliases": [
+            "Tiger",
+            "Woods"
+          ]
+        },
+        {
+          "answer": "Phil Mickelson",
+          "display": "$4,746,457",
+          "aliases": [
+            "Lefty",
+            "Mickelson"
+          ]
+        },
+        {
+          "answer": "Ernie Els",
+          "display": "$3,469,405",
+          "aliases": [
+            "Els"
+          ]
+        },
+        {
+          "answer": "Hal Sutton",
+          "display": "$3,061,444",
+          "aliases": [
+            "Sutton"
+          ]
+        },
+        {
+          "answer": "Vijay Singh",
+          "display": "$2,573,835",
+          "aliases": [
+            "Singh"
+          ]
+        },
+        {
+          "answer": "Mike Weir",
+          "display": "$2,547,829",
+          "aliases": [
+            "Weir"
+          ]
+        },
+        {
+          "answer": "David Duval",
+          "display": "$2,462,846",
+          "aliases": [
+            "Duval"
+          ]
+        },
+        {
+          "answer": "Jesper Parnevik",
+          "display": "$2,413,345",
+          "aliases": [
+            "Parnevik"
+          ]
+        },
+        {
+          "answer": "Davis Love III",
+          "display": "$2,337,765",
+          "aliases": [
+            "Davis Love",
+            "Love"
+          ]
+        },
+        {
+          "answer": "Stewart Cink",
+          "display": "$2,169,727",
+          "aliases": [
+            "Cink"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/golf/pga-tour/money-list",
+      "question": "Top 7 golfers on the 2001 PGA Tour official money list",
+      "cutoff": 7,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1337472384 | table 3 | name: Player | value: Prize money",
+      "tags": [
+        "golf",
+        "pga tour",
+        "money list"
+      ],
+      "answers": [
+        {
+          "answer": "Tiger Woods",
+          "display": "$5,687,777",
+          "aliases": [
+            "Tiger",
+            "Woods"
+          ]
+        },
+        {
+          "answer": "Phil Mickelson",
+          "display": "$4,403,883",
+          "aliases": [
+            "Lefty",
+            "Mickelson"
+          ]
+        },
+        {
+          "answer": "David Toms",
+          "display": "$3,791,595",
+          "aliases": [
+            "Toms"
+          ]
+        },
+        {
+          "answer": "Vijay Singh",
+          "display": "$3,440,829",
+          "aliases": [
+            "Singh"
+          ]
+        },
+        {
+          "answer": "Davis Love III",
+          "display": "$3,169,463",
+          "aliases": [
+            "Davis Love",
+            "Love"
+          ]
+        },
+        {
+          "answer": "Sergio García",
+          "display": "$2,898,635",
+          "aliases": [
+            "Sergio",
+            "Garcia"
+          ]
+        },
+        {
+          "answer": "Scott Hoch",
+          "display": "$2,875,319",
+          "aliases": [
+            "Hoch"
+          ]
+        },
+        {
+          "answer": "David Duval",
+          "display": "$2,801,760",
+          "aliases": [
+            "Duval"
+          ]
+        },
+        {
+          "answer": "Bob Estes",
+          "display": "$2,795,477",
+          "aliases": [
+            "Estes"
+          ]
+        },
+        {
+          "answer": "Scott Verplank",
+          "display": "$2,783,401",
+          "aliases": [
+            "Verplank"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/golf/pga-tour/money-list",
+      "question": "Top 7 golfers on the 2002 PGA Tour official money list",
+      "cutoff": 7,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1224663563 | table 3 | name: Player | value: Prize money",
+      "tags": [
+        "golf",
+        "pga tour",
+        "money list"
+      ],
+      "answers": [
+        {
+          "answer": "Tiger Woods",
+          "display": "$6,912,625",
+          "aliases": [
+            "Tiger",
+            "Woods"
+          ]
+        },
+        {
+          "answer": "Phil Mickelson",
+          "display": "$4,311,971",
+          "aliases": [
+            "Lefty",
+            "Mickelson"
+          ]
+        },
+        {
+          "answer": "Vijay Singh",
+          "display": "$3,756,563",
+          "aliases": [
+            "Singh"
+          ]
+        },
+        {
+          "answer": "David Toms",
+          "display": "$3,459,739",
+          "aliases": [
+            "Toms"
+          ]
+        },
+        {
+          "answer": "Ernie Els",
+          "display": "$3,291,895",
+          "aliases": [
+            "Els"
+          ]
+        },
+        {
+          "answer": "Jerry Kelly",
+          "display": "$2,946,889",
+          "aliases": [
+            "Kelly"
+          ]
+        },
+        {
+          "answer": "Rich Beem",
+          "display": "$2,938,365",
+          "aliases": [
+            "Beem"
+          ]
+        },
+        {
+          "answer": "Justin Leonard",
+          "display": "$2,738,235",
+          "aliases": [
+            "Leonard"
+          ]
+        },
+        {
+          "answer": "Charles Howell III",
+          "display": "$2,702,747",
+          "aliases": [
+            "Charles Howell",
+            "Howell"
+          ]
+        },
+        {
+          "answer": "Retief Goosen",
+          "display": "$2,617,004",
+          "aliases": [
+            "Goosen"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/golf/pga-tour/money-list",
+      "question": "Top 7 golfers on the 2003 PGA Tour official money list",
+      "cutoff": 7,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1263736671 | table 3 | name: Player | value: Prize money",
+      "tags": [
+        "golf",
+        "pga tour",
+        "money list"
+      ],
+      "answers": [
+        {
+          "answer": "Vijay Singh",
+          "display": "$7,573,907",
+          "aliases": [
+            "Singh"
+          ]
+        },
+        {
+          "answer": "Tiger Woods",
+          "display": "$6,673,413",
+          "aliases": [
+            "Tiger",
+            "Woods"
+          ]
+        },
+        {
+          "answer": "Davis Love III",
+          "display": "$6,081,896",
+          "aliases": [
+            "Davis Love",
+            "Love"
+          ]
+        },
+        {
+          "answer": "Jim Furyk",
+          "display": "$5,182,865",
+          "aliases": [
+            "Furyk"
+          ]
+        },
+        {
+          "answer": "Mike Weir",
+          "display": "$4,918,910",
+          "aliases": [
+            "Weir"
+          ]
+        },
+        {
+          "answer": "Kenny Perry",
+          "display": "$4,400,122",
+          "aliases": [
+            "Perry"
+          ]
+        },
+        {
+          "answer": "Chad Campbell",
+          "display": "$3,912,064",
+          "aliases": [
+            "Campbell"
+          ]
+        },
+        {
+          "answer": "David Toms",
+          "display": "$3,710,905",
+          "aliases": [
+            "Toms"
+          ]
+        },
+        {
+          "answer": "Ernie Els",
+          "display": "$3,371,237",
+          "aliases": [
+            "Els"
+          ]
+        },
+        {
+          "answer": "Retief Goosen",
+          "display": "$3,166,373",
+          "aliases": [
+            "Goosen"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/golf/pga-tour/money-list",
+      "question": "Top 7 golfers on the 2004 PGA Tour official money list",
+      "cutoff": 7,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1311636106 | table 3 | name: Player | value: Prize money",
+      "tags": [
+        "golf",
+        "pga tour",
+        "money list"
+      ],
+      "answers": [
+        {
+          "answer": "Vijay Singh",
+          "display": "$10,905,166",
+          "aliases": [
+            "Singh"
+          ]
+        },
+        {
+          "answer": "Ernie Els",
+          "display": "$5,787,225",
+          "aliases": [
+            "Els"
+          ]
+        },
+        {
+          "answer": "Phil Mickelson",
+          "display": "$5,784,823",
+          "aliases": [
+            "Lefty",
+            "Mickelson"
+          ]
+        },
+        {
+          "answer": "Tiger Woods",
+          "display": "$5,365,472",
+          "aliases": [
+            "Tiger",
+            "Woods"
+          ]
+        },
+        {
+          "answer": "Stewart Cink",
+          "display": "$4,450,270",
+          "aliases": [
+            "Cink"
+          ]
+        },
+        {
+          "answer": "Retief Goosen",
+          "display": "$3,885,573",
+          "aliases": [
+            "Goosen"
+          ]
+        },
+        {
+          "answer": "Adam Scott",
+          "display": "$3,724,984",
+          "aliases": [
+            "Scott"
+          ]
+        },
+        {
+          "answer": "Stephen Ames",
+          "display": "$3,303,205",
+          "aliases": [
+            "Ames"
+          ]
+        },
+        {
+          "answer": "Sergio García",
+          "display": "$3,239,215",
+          "aliases": [
+            "Sergio",
+            "Garcia"
+          ]
+        },
+        {
+          "answer": "Davis Love III",
+          "display": "$3,075,092",
+          "aliases": [
+            "Davis Love",
+            "Love"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/golf/pga-tour/money-list",
+      "question": "Top 7 golfers on the 2005 PGA Tour official money list",
+      "cutoff": 7,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1266679822 | table 3 | name: Player | value: Prize money",
+      "tags": [
+        "golf",
+        "pga tour",
+        "money list"
+      ],
+      "answers": [
+        {
+          "answer": "Tiger Woods",
+          "display": "$10,628,024",
+          "aliases": [
+            "Tiger",
+            "Woods"
+          ]
+        },
+        {
+          "answer": "Vijay Singh",
+          "display": "$8,017,336",
+          "aliases": [
+            "Singh"
+          ]
+        },
+        {
+          "answer": "Phil Mickelson",
+          "display": "$5,699,605",
+          "aliases": [
+            "Lefty",
+            "Mickelson"
+          ]
+        },
+        {
+          "answer": "Jim Furyk",
+          "display": "$4,255,369",
+          "aliases": [
+            "Furyk"
+          ]
+        },
+        {
+          "answer": "David Toms",
+          "display": "$3,962,013",
+          "aliases": [
+            "Toms"
+          ]
+        },
+        {
+          "answer": "Kenny Perry",
+          "display": "$3,607,155",
+          "aliases": [
+            "Perry"
+          ]
+        },
+        {
+          "answer": "Chris DiMarco",
+          "display": "$3,562,548",
+          "aliases": [
+            "DiMarco"
+          ]
+        },
+        {
+          "answer": "Retief Goosen",
+          "display": "$3,494,106",
+          "aliases": [
+            "Goosen"
+          ]
+        },
+        {
+          "answer": "Bart Bryant",
+          "display": "$3,249,136",
+          "aliases": [
+            "Bryant"
+          ]
+        },
+        {
+          "answer": "Sergio García",
+          "display": "$3,213,375",
+          "aliases": [
+            "Sergio",
+            "Garcia"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/golf/pga-tour/money-list",
+      "question": "Top 7 golfers on the 2006 PGA Tour official money list",
+      "cutoff": 7,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1327521627 | table 3 | name: Player | value: Prize money",
+      "tags": [
+        "golf",
+        "pga tour",
+        "money list"
+      ],
+      "answers": [
+        {
+          "answer": "Tiger Woods",
+          "display": "$9,941,563",
+          "aliases": [
+            "Tiger",
+            "Woods"
+          ]
+        },
+        {
+          "answer": "Jim Furyk",
+          "display": "$7,213,316",
+          "aliases": [
+            "Furyk"
+          ]
+        },
+        {
+          "answer": "Adam Scott",
+          "display": "$4,978,858",
+          "aliases": [
+            "Scott"
+          ]
+        },
+        {
+          "answer": "Vijay Singh",
+          "display": "$4,602,416",
+          "aliases": [
+            "Singh"
+          ]
+        },
+        {
+          "answer": "Geoff Ogilvy",
+          "display": "$4,354,969",
+          "aliases": [
+            "Ogilvy"
+          ]
+        },
+        {
+          "answer": "Phil Mickelson",
+          "display": "$4,256,505",
+          "aliases": [
+            "Lefty",
+            "Mickelson"
+          ]
+        },
+        {
+          "answer": "Trevor Immelman",
+          "display": "$3,844,189",
+          "aliases": [
+            "Immelman"
+          ]
+        },
+        {
+          "answer": "Stuart Appleby",
+          "display": "$3,470,457",
+          "aliases": [
+            "Appleby"
+          ]
+        },
+        {
+          "answer": "Luke Donald",
+          "display": "$3,177,408",
+          "aliases": [
+            "Donald"
+          ]
+        },
+        {
+          "answer": "Brett Wetterich",
+          "display": "$3,023,185",
+          "aliases": [
+            "Wetterich"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/golf/pga-tour/money-list",
+      "question": "Top 7 golfers on the 2007 PGA Tour official money list",
+      "cutoff": 7,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1224549535 | table 4 | name: Player | value: Prize money",
+      "tags": [
+        "golf",
+        "pga tour",
+        "money list"
+      ],
+      "answers": [
+        {
+          "answer": "Tiger Woods",
+          "display": "$10,867,052",
+          "aliases": [
+            "Tiger",
+            "Woods"
+          ]
+        },
+        {
+          "answer": "Phil Mickelson",
+          "display": "$5,819,988",
+          "aliases": [
+            "Lefty",
+            "Mickelson"
+          ]
+        },
+        {
+          "answer": "Vijay Singh",
+          "display": "$4,728,376",
+          "aliases": [
+            "Singh"
+          ]
+        },
+        {
+          "answer": "Steve Stricker",
+          "display": "$4,663,077",
+          "aliases": [
+            "Stricker"
+          ]
+        },
+        {
+          "answer": "K. J. Choi",
+          "display": "$4,587,859",
+          "aliases": [
+            "KJ Choi",
+            "Choi"
+          ]
+        },
+        {
+          "answer": "Rory Sabbatini",
+          "display": "$4,550,040",
+          "aliases": [
+            "Sabbatini"
+          ]
+        },
+        {
+          "answer": "Jim Furyk",
+          "display": "$4,154,046",
+          "aliases": [
+            "Furyk"
+          ]
+        },
+        {
+          "answer": "Zach Johnson",
+          "display": "$3,922,338",
+          "aliases": [
+            "Zach Johnson"
+          ]
+        },
+        {
+          "answer": "Sergio García",
+          "display": "$3,721,185",
+          "aliases": [
+            "Sergio",
+            "Garcia"
+          ]
+        },
+        {
+          "answer": "Aaron Baddeley",
+          "display": "$3,441,119",
+          "aliases": [
+            "Baddeley"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/golf/pga-tour/money-list",
+      "question": "Top 7 golfers on the 2008 PGA Tour official money list",
+      "cutoff": 7,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1216240962 | table 4 | name: Player | value: Prize money",
+      "tags": [
+        "golf",
+        "pga tour",
+        "money list"
+      ],
+      "answers": [
+        {
+          "answer": "Vijay Singh",
+          "display": "$6,601,094",
+          "aliases": [
+            "Singh"
+          ]
+        },
+        {
+          "answer": "Tiger Woods",
+          "display": "$5,775,000",
+          "aliases": [
+            "Tiger",
+            "Woods"
+          ]
+        },
+        {
+          "answer": "Phil Mickelson",
+          "display": "$5,118,875",
+          "aliases": [
+            "Lefty",
+            "Mickelson"
+          ]
+        },
+        {
+          "answer": "Sergio García",
+          "display": "$4,858,224",
+          "aliases": [
+            "Sergio",
+            "Garcia"
+          ]
+        },
+        {
+          "answer": "Kenny Perry",
+          "display": "$4,663,794",
+          "aliases": [
+            "Perry"
+          ]
+        },
+        {
+          "answer": "Anthony Kim",
+          "display": "$4,656,265",
+          "aliases": [
+            "Kim"
+          ]
+        },
+        {
+          "answer": "Camilo Villegas",
+          "display": "$4,422,641",
+          "aliases": [
+            "Villegas"
+          ]
+        },
+        {
+          "answer": "Pádraig Harrington",
+          "display": "$4,313,551",
+          "aliases": [
+            "Harrington"
+          ]
+        },
+        {
+          "answer": "Stewart Cink",
+          "display": "$3,979,301",
+          "aliases": [
+            "Cink"
+          ]
+        },
+        {
+          "answer": "Justin Leonard",
+          "display": "$3,943,542",
+          "aliases": [
+            "Leonard"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/golf/pga-tour/money-list",
+      "question": "Top 7 golfers on the 2010 PGA Tour official money list",
+      "cutoff": 7,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1240087649 | table 4 | name: Player | value: Prize money",
+      "tags": [
+        "golf",
+        "pga tour",
+        "money list"
+      ],
+      "answers": [
+        {
+          "answer": "Matt Kuchar",
+          "display": "$4,910,477",
+          "aliases": [
+            "Kuchar"
+          ]
+        },
+        {
+          "answer": "Jim Furyk",
+          "display": "$4,809,622",
+          "aliases": [
+            "Furyk"
+          ]
+        },
+        {
+          "answer": "Ernie Els",
+          "display": "$4,558,861",
+          "aliases": [
+            "Els"
+          ]
+        },
+        {
+          "answer": "Dustin Johnson",
+          "display": "$4,473,122",
+          "aliases": [
+            "DJ"
+          ]
+        },
+        {
+          "answer": "Steve Stricker",
+          "display": "$4,190,235",
+          "aliases": [
+            "Stricker"
+          ]
+        },
+        {
+          "answer": "Phil Mickelson",
+          "display": "$3,821,733",
+          "aliases": [
+            "Lefty",
+            "Mickelson"
+          ]
+        },
+        {
+          "answer": "Luke Donald",
+          "display": "$3,665,234",
+          "aliases": [
+            "Donald"
+          ]
+        },
+        {
+          "answer": "Paul Casey",
+          "display": "$3,613,194",
+          "aliases": [
+            "Casey"
+          ]
+        },
+        {
+          "answer": "Justin Rose",
+          "display": "$3,603,331",
+          "aliases": [
+            "Rose"
+          ]
+        },
+        {
+          "answer": "Hunter Mahan",
+          "display": "$3,574,550",
+          "aliases": [
+            "Mahan"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/golf/pga-tour/money-list",
+      "question": "Top 7 golfers on the 2013–14 PGA Tour official money list",
+      "cutoff": 7,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1185312229 | table 4 | name: Player | value: Prize money",
+      "tags": [
+        "golf",
+        "pga tour",
+        "money list"
+      ],
+      "answers": [
+        {
+          "answer": "Rory McIlroy",
+          "display": "$8,280,096",
+          "aliases": [
+            "McIlroy"
+          ]
+        },
+        {
+          "answer": "Bubba Watson",
+          "display": "$6,336,978",
+          "aliases": [
+            "Bubba"
+          ]
+        },
+        {
+          "answer": "Jim Furyk",
+          "display": "$5,987,395",
+          "aliases": [
+            "Furyk"
+          ]
+        },
+        {
+          "answer": "Jimmy Walker",
+          "display": "$5,787,016",
+          "aliases": [
+            "Walker"
+          ]
+        },
+        {
+          "answer": "Sergio García",
+          "display": "$4,939,606",
+          "aliases": [
+            "Sergio",
+            "Garcia"
+          ]
+        },
+        {
+          "answer": "Chris Kirk",
+          "display": "$4,854,777",
+          "aliases": [
+            "Kirk"
+          ]
+        },
+        {
+          "answer": "Billy Horschel",
+          "display": "$4,814,787",
+          "aliases": [
+            "Horschel"
+          ]
+        },
+        {
+          "answer": "Rickie Fowler",
+          "display": "$4,806,117",
+          "aliases": [
+            "Fowler"
+          ]
+        },
+        {
+          "answer": "Matt Kuchar",
+          "display": "$4,695,515",
+          "aliases": [
+            "Kuchar"
+          ]
+        },
+        {
+          "answer": "Martin Kaymer",
+          "display": "$4,532,537",
+          "aliases": [
+            "Kaymer"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/golf/pga-tour/money-list",
+      "question": "Top 7 golfers on the 2015–16 PGA Tour official money list",
+      "cutoff": 7,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1266679922 | table 4 | name: Player | value: Prize money",
+      "tags": [
+        "golf",
+        "pga tour",
+        "money list"
+      ],
+      "answers": [
+        {
+          "answer": "Dustin Johnson",
+          "display": "$9,365,185",
+          "aliases": [
+            "DJ"
+          ]
+        },
+        {
+          "answer": "Jason Day",
+          "display": "$8,045,112",
+          "aliases": [
+            "Day"
+          ]
+        },
+        {
+          "answer": "Adam Scott",
+          "display": "$6,473,090",
+          "aliases": [
+            "Scott"
+          ]
+        },
+        {
+          "answer": "Rory McIlroy",
+          "display": "$5,790,585",
+          "aliases": [
+            "McIlroy"
+          ]
+        },
+        {
+          "answer": "Patrick Reed",
+          "display": "$5,679,575",
+          "aliases": [
+            "Reed"
+          ]
+        },
+        {
+          "answer": "Jordan Spieth",
+          "display": "$5,538,470",
+          "aliases": [
+            "Spieth"
+          ]
+        },
+        {
+          "answer": "Russell Knox",
+          "display": "$4,885,906",
+          "aliases": [
+            "Knox"
+          ]
+        },
+        {
+          "answer": "Kevin Chappell",
+          "display": "$4,501,050",
+          "aliases": [
+            "Chappell"
+          ]
+        },
+        {
+          "answer": "Hideki Matsuyama",
+          "display": "$4,193,954",
+          "aliases": [
+            "Matsuyama"
+          ]
+        },
+        {
+          "answer": "Jimmy Walker",
+          "display": "$4,148,546",
+          "aliases": [
+            "Walker"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/golf/pga-tour/money-list",
+      "question": "Top 7 golfers on the 2016–17 PGA Tour official money list",
+      "cutoff": 7,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1185312326 | table 4 | name: Player | value: Prize money",
+      "tags": [
+        "golf",
+        "pga tour",
+        "money list"
+      ],
+      "answers": [
+        {
+          "answer": "Justin Thomas",
+          "display": "$9,921,560",
+          "aliases": [
+            "Thomas"
+          ]
+        },
+        {
+          "answer": "Jordan Spieth",
+          "display": "$9,433,033",
+          "aliases": [
+            "Spieth"
+          ]
+        },
+        {
+          "answer": "Dustin Johnson",
+          "display": "$8,732,193",
+          "aliases": [
+            "DJ"
+          ]
+        },
+        {
+          "answer": "Hideki Matsuyama",
+          "display": "$8,380,570",
+          "aliases": [
+            "Matsuyama"
+          ]
+        },
+        {
+          "answer": "Jon Rahm",
+          "display": "$6,123,248",
+          "aliases": [
+            "Rahm"
+          ]
+        },
+        {
+          "answer": "Rickie Fowler",
+          "display": "$6,083,197",
+          "aliases": [
+            "Fowler"
+          ]
+        },
+        {
+          "answer": "Marc Leishman",
+          "display": "$5,866,390",
+          "aliases": [
+            "Leishman"
+          ]
+        },
+        {
+          "answer": "Brooks Koepka",
+          "display": "$5,612,397",
+          "aliases": [
+            "Koepka"
+          ]
+        },
+        {
+          "answer": "Kevin Kisner",
+          "display": "$4,766,936",
+          "aliases": [
+            "Kisner"
+          ]
+        },
+        {
+          "answer": "Brian Harman",
+          "display": "$4,396,470",
+          "aliases": [
+            "Harman"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/golf/pga-tour/money-list",
+      "question": "Top 7 golfers on the 2017–18 PGA Tour official money list",
+      "cutoff": 7,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1259637608 | table 4 | name: Player | value: Prize money",
+      "tags": [
+        "golf",
+        "pga tour",
+        "money list"
+      ],
+      "answers": [
+        {
+          "answer": "Justin Thomas",
+          "display": "$8,694,821",
+          "aliases": [
+            "Thomas"
+          ]
+        },
+        {
+          "answer": "Dustin Johnson",
+          "display": "$8,457,352",
+          "aliases": [
+            "DJ"
+          ]
+        },
+        {
+          "answer": "Justin Rose",
+          "display": "$8,130,678",
+          "aliases": [
+            "Rose"
+          ]
+        },
+        {
+          "answer": "Bryson DeChambeau",
+          "display": "$8,094,489",
+          "aliases": [
+            "DeChambeau"
+          ]
+        },
+        {
+          "answer": "Brooks Koepka",
+          "display": "$7,094,047",
+          "aliases": [
+            "Koepka"
+          ]
+        },
+        {
+          "answer": "Bubba Watson",
+          "display": "$5,793,748",
+          "aliases": [
+            "Bubba"
+          ]
+        },
+        {
+          "answer": "Tony Finau",
+          "display": "$5,620,138",
+          "aliases": [
+            "Finau"
+          ]
+        },
+        {
+          "answer": "Tiger Woods",
+          "display": "$5,443,841",
+          "aliases": [
+            "Tiger",
+            "Woods"
+          ]
+        },
+        {
+          "answer": "Webb Simpson",
+          "display": "$5,376,417",
+          "aliases": [
+            "Simpson"
+          ]
+        },
+        {
+          "answer": "Jason Day",
+          "display": "$5,087,461",
+          "aliases": [
+            "Day"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/golf/pga-tour/money-list",
+      "question": "Top 7 golfers on the 2019–20 PGA Tour official money list",
+      "cutoff": 7,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1350842371 | table 6 | name: Player | value: Prize money",
+      "tags": [
+        "golf",
+        "pga tour",
+        "money list"
+      ],
+      "answers": [
+        {
+          "answer": "Justin Thomas",
+          "display": "$7,344,040",
+          "aliases": [
+            "Thomas"
+          ]
+        },
+        {
+          "answer": "Jon Rahm",
+          "display": "$5,959,819",
+          "aliases": [
+            "Rahm"
+          ]
+        },
+        {
+          "answer": "Dustin Johnson",
+          "display": "$5,837,267",
+          "aliases": [
+            "DJ"
+          ]
+        },
+        {
+          "answer": "Collin Morikawa",
+          "display": "$5,250,868",
+          "aliases": [
+            "Morikawa"
+          ]
+        },
+        {
+          "answer": "Webb Simpson",
+          "display": "$5,097,742",
+          "aliases": [
+            "Simpson"
+          ]
+        },
+        {
+          "answer": "Bryson DeChambeau",
+          "display": "$4,998,495",
+          "aliases": [
+            "DeChambeau"
+          ]
+        },
+        {
+          "answer": "Daniel Berger",
+          "display": "$4,439,420",
+          "aliases": [
+            "Berger"
+          ]
+        },
+        {
+          "answer": "Rory McIlroy",
+          "display": "$4,408,415",
+          "aliases": [
+            "McIlroy"
+          ]
+        },
+        {
+          "answer": "Im Sung-jae",
+          "display": "$4,337,811",
+          "aliases": [
+            "Im"
+          ]
+        },
+        {
+          "answer": "Patrick Reed",
+          "display": "$4,250,060",
+          "aliases": [
+            "Reed"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/golf/pga-tour/money-list",
+      "question": "Top 7 golfers on the 2020–21 PGA Tour official money list",
+      "cutoff": 7,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1376343457 | table 6 | name: Player | value: Prize money",
+      "tags": [
+        "golf",
+        "pga tour",
+        "money list"
+      ],
+      "answers": [
+        {
+          "answer": "Jon Rahm",
+          "display": "$7,705,933",
+          "aliases": [
+            "Rahm"
+          ]
+        },
+        {
+          "answer": "Patrick Cantlay",
+          "display": "$7,638,805",
+          "aliases": [
+            "Cantlay"
+          ]
+        },
+        {
+          "answer": "Bryson DeChambeau",
+          "display": "$7,426,415",
+          "aliases": [
+            "DeChambeau"
+          ]
+        },
+        {
+          "answer": "Collin Morikawa",
+          "display": "$7,059,908",
+          "aliases": [
+            "Morikawa"
+          ]
+        },
+        {
+          "answer": "Justin Thomas",
+          "display": "$6,537,153",
+          "aliases": [
+            "Thomas"
+          ]
+        },
+        {
+          "answer": "Jordan Spieth",
+          "display": "$6,470,482",
+          "aliases": [
+            "Spieth"
+          ]
+        },
+        {
+          "answer": "Louis Oosthuizen",
+          "display": "$6,306,679",
+          "aliases": [
+            "Oosthuizen"
+          ]
+        },
+        {
+          "answer": "Harris English",
+          "display": "$6,200,481",
+          "aliases": [
+            "English"
+          ]
+        },
+        {
+          "answer": "Cameron Smith",
+          "display": "$5,851,867",
+          "aliases": [
+            "Smith"
+          ]
+        },
+        {
+          "answer": "Abraham Ancer",
+          "display": "$5,816,565",
+          "aliases": [
+            "Ancer"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/golf/pga-tour/money-list",
+      "question": "Top 7 golfers on the 2022–23 PGA Tour official money list",
+      "cutoff": 7,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1367441268 | table 6 | name: Player | value: Prize money",
+      "tags": [
+        "golf",
+        "pga tour",
+        "money list"
+      ],
+      "answers": [
+        {
+          "answer": "Scottie Scheffler",
+          "display": "$21,014,342",
+          "aliases": [
+            "Scheffler"
+          ]
+        },
+        {
+          "answer": "Jon Rahm",
+          "display": "$16,522,608",
+          "aliases": [
+            "Rahm"
+          ]
+        },
+        {
+          "answer": "Viktor Hovland",
+          "display": "$14,112,235",
+          "aliases": [
+            "Hovland"
+          ]
+        },
+        {
+          "answer": "Rory McIlroy",
+          "display": "$13,921,008",
+          "aliases": [
+            "McIlroy"
+          ]
+        },
+        {
+          "answer": "Max Homa",
+          "display": "$10,761,517",
+          "aliases": [
+            "Homa"
+          ]
+        },
+        {
+          "answer": "Wyndham Clark",
+          "display": "$10,757,490",
+          "aliases": [
+            "Clark"
+          ]
+        },
+        {
+          "answer": "Patrick Cantlay",
+          "display": "$10,372,998",
+          "aliases": [
+            "Cantlay"
+          ]
+        },
+        {
+          "answer": "Brian Harman",
+          "display": "$9,175,262",
+          "aliases": [
+            "Harman"
+          ]
+        },
+        {
+          "answer": "Keegan Bradley",
+          "display": "$9,010,040",
+          "aliases": [
+            "Bradley"
+          ]
+        },
+        {
+          "answer": "Xander Schauffele",
+          "display": "$8,459,066",
+          "aliases": [
+            "Schauffele"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/golf/pga-tour/money-list",
+      "question": "Top 7 golfers on the 2024 PGA Tour official money list",
+      "cutoff": 7,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1357424007 | table 6 | name: Player | value: Prize money",
+      "tags": [
+        "golf",
+        "pga tour",
+        "money list"
+      ],
+      "answers": [
+        {
+          "answer": "Scottie Scheffler",
+          "display": "$29,228,357",
+          "aliases": [
+            "Scheffler"
+          ]
+        },
+        {
+          "answer": "Xander Schauffele",
+          "display": "$18,385,320",
+          "aliases": [
+            "Schauffele"
+          ]
+        },
+        {
+          "answer": "Hideki Matsuyama",
+          "display": "$11,257,969",
+          "aliases": [
+            "Matsuyama"
+          ]
+        },
+        {
+          "answer": "Wyndham Clark",
+          "display": "$10,901,416",
+          "aliases": [
+            "Clark"
+          ]
+        },
+        {
+          "answer": "Rory McIlroy",
+          "display": "$10,893,790",
+          "aliases": [
+            "McIlroy"
+          ]
+        },
+        {
+          "answer": "Ludvig Åberg",
+          "display": "$9,833,547",
+          "aliases": [
+            "Aberg"
+          ]
+        },
+        {
+          "answer": "Sahith Theegala",
+          "display": "$8,474,215",
+          "aliases": [
+            "Theegala"
+          ]
+        },
+        {
+          "answer": "Collin Morikawa",
+          "display": "$8,383,572",
+          "aliases": [
+            "Morikawa"
+          ]
+        },
+        {
+          "answer": "Keegan Bradley",
+          "display": "$6,879,455",
+          "aliases": [
+            "Bradley"
+          ]
+        },
+        {
+          "answer": "Im Sung-jae",
+          "display": "$6,286,205",
+          "aliases": [
+            "Im"
+          ]
+        }
+      ]
+    }
+  ]
+}

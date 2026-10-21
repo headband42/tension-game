@@ -1,0 +1,792 @@
+{
+  "questions": [
+    {
+      "category": "travel/tourism/theme-parks",
+      "difficulty": 1,
+      "question": "Top 10 most visited theme parks in the world (2024 attendance)",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1377863670 | table 2 | name: Amusement park | value: 2024",
+      "tags": [
+        "travel",
+        "theme parks",
+        "attendance"
+      ],
+      "answers": [
+        {
+          "answer": "Magic Kingdom",
+          "display": "17,836,000"
+        },
+        {
+          "answer": "Disneyland",
+          "display": "17,337,000",
+          "aliases": [
+            "Disneyland California",
+            "Disneyland Anaheim"
+          ]
+        },
+        {
+          "answer": "Universal Studios Japan",
+          "display": "16,000,000"
+        },
+        {
+          "answer": "Tokyo Disneyland",
+          "display": "15,104,000"
+        },
+        {
+          "answer": "Shanghai Disneyland",
+          "display": "14,700,000"
+        },
+        {
+          "answer": "Chimelong Ocean Kingdom",
+          "display": "12,628,000"
+        },
+        {
+          "answer": "Tokyo DisneySea",
+          "display": "12,441,000"
+        },
+        {
+          "answer": "Epcot",
+          "display": "12,133,000"
+        },
+        {
+          "answer": "Disney's Hollywood Studios",
+          "display": "10,333,000",
+          "aliases": [
+            "Hollywood Studios"
+          ]
+        },
+        {
+          "answer": "Disneyland Park (Paris)",
+          "display": "10,214,000",
+          "aliases": [
+            "Disneyland Paris"
+          ]
+        },
+        {
+          "answer": "Disney California Adventure",
+          "display": "10,050,000"
+        },
+        {
+          "answer": "Universal Studios Beijing",
+          "display": "9,775,000"
+        },
+        {
+          "answer": "Universal Studios Florida",
+          "display": "9,500,000"
+        },
+        {
+          "answer": "Universal Islands of Adventure",
+          "display": "9,450,000",
+          "aliases": [
+            "Islands of Adventure"
+          ]
+        }
+      ],
+      "submitter": "claude"
+    },
+    {
+      "category": "travel/tourism/theme-parks",
+      "difficulty": 2,
+      "question": "Top 7 theme park companies by annual attendance (2024, in thousands)",
+      "cutoff": 7,
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1377863670 | table 1 | name: Amusement park corporations | value: 2024",
+      "tags": [
+        "travel",
+        "theme parks",
+        "companies"
+      ],
+      "answers": [
+        {
+          "answer": "Disney Experiences",
+          "display": "145,196"
+        },
+        {
+          "answer": "Fantawild Group",
+          "display": "87,168",
+          "aliases": [
+            "Fantawild"
+          ]
+        },
+        {
+          "answer": "Merlin Entertainments",
+          "display": "62,800",
+          "aliases": [
+            "Merlin"
+          ]
+        },
+        {
+          "answer": "Universal Destinations & Experiences",
+          "display": "58,975"
+        },
+        {
+          "answer": "Six Flags Entertainment",
+          "display": "50,300",
+          "aliases": [
+            "Six Flags"
+          ]
+        },
+        {
+          "answer": "Overseas Chinese Town (OCT) Group",
+          "display": "41,100",
+          "aliases": [
+            "OCT Group",
+            "OCT"
+          ]
+        },
+        {
+          "answer": "Chimelong Group",
+          "display": "39,370"
+        },
+        {
+          "answer": "United Parks & Resorts",
+          "display": "22,947"
+        },
+        {
+          "answer": "Haichang Ocean Park Holdings",
+          "display": "22,594",
+          "aliases": [
+            "Haichang"
+          ]
+        },
+        {
+          "answer": "Parques Reunidos",
+          "display": "19,400"
+        }
+      ],
+      "submitter": "claude"
+    },
+    {
+      "category": "travel/tourism/museums",
+      "difficulty": 2,
+      "question": "Top 10 most visited museums in the world (latest annual figures, 2024-2025)",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1379019371 | table 1 | name: Name | value: Visitors",
+      "tags": [
+        "travel",
+        "museums",
+        "visitors"
+      ],
+      "answers": [
+        {
+          "answer": "Louvre",
+          "display": "9,000,000 (2025)",
+          "aliases": [
+            "Musee du Louvre",
+            "Musée du Louvre"
+          ]
+        },
+        {
+          "answer": "National Museum of China",
+          "display": "7,031,700 (2025)"
+        },
+        {
+          "answer": "Vatican Museums",
+          "display": "6,933,822 (2025)"
+        },
+        {
+          "answer": "Shenzhen Museum",
+          "display": "6,805,000 (2024)"
+        },
+        {
+          "answer": "National Museum of Korea",
+          "display": "6,507,483 (2025)"
+        },
+        {
+          "answer": "British Museum",
+          "display": "6,440,120 (2025)"
+        },
+        {
+          "answer": "China Science and Technology Museum",
+          "display": "6,421,000 (2024)"
+        },
+        {
+          "answer": "Natural History Museum, London",
+          "display": "6,301,972 (2024)",
+          "aliases": [
+            "Natural History Museum",
+            "Natural History Museum, South Kensington"
+          ]
+        },
+        {
+          "answer": "Metropolitan Museum of Art",
+          "display": "5,984,091 (2025)",
+          "aliases": [
+            "The Met",
+            "Met"
+          ]
+        },
+        {
+          "answer": "Nanjing Museum",
+          "display": "5,680,000 (2024)"
+        },
+        {
+          "answer": "American Museum of Natural History",
+          "display": "5,400,000 (2024)"
+        },
+        {
+          "answer": "State Russian Museum",
+          "display": "5,087,276 (2025)"
+        },
+        {
+          "answer": "Tate Modern",
+          "display": "4,603,025 (2024)"
+        },
+        {
+          "answer": "Hubei Provincial Museum",
+          "display": "4,356,943 (2024)"
+        }
+      ],
+      "submitter": "claude"
+    },
+    {
+      "category": "travel/tourism/national-parks",
+      "difficulty": 1,
+      "question": "Top 10 most visited US national parks (2025 recreation visitors)",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1378075927 | table 1 | name: Name | value: Recreation visitors",
+      "tags": [
+        "travel",
+        "national parks",
+        "visitors"
+      ],
+      "answers": [
+        {
+          "answer": "Great Smoky Mountains",
+          "display": "11,527,939",
+          "aliases": [
+            "Smoky Mountains"
+          ]
+        },
+        {
+          "answer": "Zion",
+          "display": "4,984,525"
+        },
+        {
+          "answer": "Yellowstone",
+          "display": "4,762,988"
+        },
+        {
+          "answer": "Grand Canyon",
+          "display": "4,430,653"
+        },
+        {
+          "answer": "Yosemite",
+          "display": "4,278,413"
+        },
+        {
+          "answer": "Rocky Mountain",
+          "display": "4,171,431"
+        },
+        {
+          "answer": "Acadia",
+          "display": "4,079,318"
+        },
+        {
+          "answer": "Grand Teton",
+          "display": "3,800,648"
+        },
+        {
+          "answer": "Olympic",
+          "display": "3,584,187"
+        },
+        {
+          "answer": "Glacier",
+          "display": "3,136,557"
+        },
+        {
+          "answer": "Cuyahoga Valley",
+          "display": "3,025,325"
+        },
+        {
+          "answer": "Joshua Tree",
+          "display": "2,932,644"
+        },
+        {
+          "answer": "Indiana Dunes",
+          "display": "2,629,497"
+        }
+      ],
+      "submitter": "claude"
+    },
+    {
+      "category": "travel/tourism/countries",
+      "difficulty": 1,
+      "question": "Top 7 most visited countries by international tourist arrivals (2024)",
+      "cutoff": 7,
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1378508291 | table 1 | name: Destination | value: 2024",
+      "tags": [
+        "travel",
+        "countries",
+        "arrivals"
+      ],
+      "answers": [
+        {
+          "answer": "France",
+          "display": "102.0 million"
+        },
+        {
+          "answer": "Spain",
+          "display": "93.8 million"
+        },
+        {
+          "answer": "United States",
+          "display": "72.4 million",
+          "aliases": [
+            "USA"
+          ]
+        },
+        {
+          "answer": "Turkey",
+          "display": "60.6 million",
+          "aliases": [
+            "Türkiye",
+            "Turkiye"
+          ]
+        },
+        {
+          "answer": "Italy",
+          "display": "57.7 million"
+        },
+        {
+          "answer": "Mexico",
+          "display": "45.0 million"
+        },
+        {
+          "answer": "United Kingdom",
+          "display": "41.8 million",
+          "aliases": [
+            "UK",
+            "Britain",
+            "Great Britain"
+          ]
+        },
+        {
+          "answer": "Germany",
+          "display": "37.5 million"
+        },
+        {
+          "answer": "Japan",
+          "display": "36.9 million"
+        },
+        {
+          "answer": "Greece",
+          "display": "36.0 million"
+        }
+      ],
+      "submitter": "claude"
+    },
+    {
+      "category": "travel/tourism/cities",
+      "difficulty": 2,
+      "question": "Top 7 most visited cities by international visitors (2025)",
+      "cutoff": 7,
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1345950838 | table 1 | name: City | value: 2025",
+      "tags": [
+        "travel",
+        "cities",
+        "visitors"
+      ],
+      "answers": [
+        {
+          "answer": "Bangkok",
+          "display": "30.3 million"
+        },
+        {
+          "answer": "Hong Kong",
+          "display": "23.2 million"
+        },
+        {
+          "answer": "London",
+          "display": "22.7 million"
+        },
+        {
+          "answer": "Macau",
+          "display": "20.4 million"
+        },
+        {
+          "answer": "Istanbul",
+          "display": "19.7 million"
+        },
+        {
+          "answer": "Dubai",
+          "display": "19.5 million"
+        },
+        {
+          "answer": "Mecca",
+          "display": "18.7 million"
+        },
+        {
+          "answer": "Antalya",
+          "display": "18.6 million"
+        },
+        {
+          "answer": "Paris",
+          "display": "18.3 million"
+        },
+        {
+          "answer": "Kuala Lumpur",
+          "display": "17.3 million"
+        }
+      ],
+      "submitter": "claude"
+    },
+    {
+      "category": "travel/tourism/countries",
+      "difficulty": 2,
+      "question": "Top 10 countries sending the most visitors to the United States (FY 2025)",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1377977030 | table 1 | name: Country | value: FY 2025 | where: Country!=Total (worldwide)",
+      "tags": [
+        "travel",
+        "countries",
+        "visitors",
+        "united states"
+      ],
+      "answers": [
+        {
+          "answer": "Mexico",
+          "display": "17,980,030"
+        },
+        {
+          "answer": "Canada",
+          "display": "16,018,525"
+        },
+        {
+          "answer": "United Kingdom",
+          "display": "4,058,124",
+          "aliases": [
+            "UK",
+            "Britain"
+          ]
+        },
+        {
+          "answer": "India",
+          "display": "2,060,726"
+        },
+        {
+          "answer": "Japan",
+          "display": "1,967,298"
+        },
+        {
+          "answer": "Brazil",
+          "display": "1,916,565"
+        },
+        {
+          "answer": "Germany",
+          "display": "1,770,112"
+        },
+        {
+          "answer": "South Korea",
+          "display": "1,647,142",
+          "aliases": [
+            "Korea"
+          ]
+        },
+        {
+          "answer": "France",
+          "display": "1,589,676"
+        },
+        {
+          "answer": "China",
+          "display": "1,562,458"
+        },
+        {
+          "answer": "Italy",
+          "display": "1,182,877"
+        },
+        {
+          "answer": "Colombia",
+          "display": "1,119,998"
+        },
+        {
+          "answer": "Australia",
+          "display": "958,574"
+        }
+      ],
+      "submitter": "claude"
+    },
+    {
+      "category": "travel/tourism/countries",
+      "difficulty": 2,
+      "question": "Top 10 countries sending the most visitors to Thailand (2025)",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1374964365 | table 1 | name: Country | value: 2025 | where: Country!=Total",
+      "tags": [
+        "travel",
+        "countries",
+        "visitors",
+        "thailand"
+      ],
+      "answers": [
+        {
+          "answer": "Malaysia",
+          "display": "4,520,856"
+        },
+        {
+          "answer": "China",
+          "display": "4,473,992"
+        },
+        {
+          "answer": "India",
+          "display": "2,487,319"
+        },
+        {
+          "answer": "Russia",
+          "display": "1,898,837"
+        },
+        {
+          "answer": "South Korea",
+          "display": "1,555,227",
+          "aliases": [
+            "Korea"
+          ]
+        },
+        {
+          "answer": "Japan",
+          "display": "1,091,227"
+        },
+        {
+          "answer": "United Kingdom",
+          "display": "1,083,162",
+          "aliases": [
+            "UK",
+            "Britain"
+          ]
+        },
+        {
+          "answer": "United States",
+          "display": "1,081,929",
+          "aliases": [
+            "USA"
+          ]
+        },
+        {
+          "answer": "Taiwan",
+          "display": "987,633"
+        },
+        {
+          "answer": "Singapore",
+          "display": "967,341"
+        },
+        {
+          "answer": "Germany",
+          "display": "965,898"
+        },
+        {
+          "answer": "Laos",
+          "display": "868,368"
+        },
+        {
+          "answer": "France",
+          "display": "816,935"
+        }
+      ],
+      "submitter": "claude"
+    },
+    {
+      "category": "travel/tourism/cities",
+      "difficulty": 2,
+      "question": "Top 10 Spanish towns and cities by tourist arrivals (2024)",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1362839071 | table 3 | name: City | value: Arrivals",
+      "tags": [
+        "travel",
+        "cities",
+        "spain"
+      ],
+      "answers": [
+        {
+          "answer": "Madrid",
+          "display": "10,423,522"
+        },
+        {
+          "answer": "Barcelona",
+          "display": "8,979,957"
+        },
+        {
+          "answer": "Seville",
+          "display": "3,131,100",
+          "aliases": [
+            "Sevilla"
+          ]
+        },
+        {
+          "answer": "Palma de Mallorca",
+          "display": "2,630,376",
+          "aliases": [
+            "Palma"
+          ]
+        },
+        {
+          "answer": "Benidorm",
+          "display": "2,442,054"
+        },
+        {
+          "answer": "Valencia",
+          "display": "2,132,427"
+        },
+        {
+          "answer": "Granada",
+          "display": "1,871,934"
+        },
+        {
+          "answer": "Málaga",
+          "display": "1,834,638",
+          "aliases": [
+            "Malaga"
+          ]
+        },
+        {
+          "answer": "San Bartolomé de Tirajana",
+          "display": "1,821,323"
+        },
+        {
+          "answer": "Calvià",
+          "display": "1,790,062"
+        },
+        {
+          "answer": "Adeje",
+          "display": "1,566,112"
+        },
+        {
+          "answer": "Salou",
+          "display": "1,316,948"
+        },
+        {
+          "answer": "Zaragoza",
+          "display": "1,212,333"
+        }
+      ],
+      "submitter": "claude"
+    },
+    {
+      "category": "travel/tourism/cities",
+      "difficulty": 3,
+      "question": "Top 10 Italian municipalities by tourist overnight stays (2024)",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1375572379 | table 5 | name: Municipality | value: Overnight",
+      "tags": [
+        "travel",
+        "cities",
+        "italy"
+      ],
+      "answers": [
+        {
+          "answer": "Rome",
+          "display": "42,705,319"
+        },
+        {
+          "answer": "Milan",
+          "display": "14,054,184"
+        },
+        {
+          "answer": "Venice",
+          "display": "13,290,973"
+        },
+        {
+          "answer": "Florence",
+          "display": "9,192,960"
+        },
+        {
+          "answer": "Rimini",
+          "display": "6,938,992"
+        },
+        {
+          "answer": "Cavallino-Treporti",
+          "display": "6,761,224"
+        },
+        {
+          "answer": "San Michele al Tagliamento",
+          "display": "5,572,705"
+        },
+        {
+          "answer": "Jesolo",
+          "display": "5,496,611"
+        },
+        {
+          "answer": "Caorle",
+          "display": "4,426,817"
+        },
+        {
+          "answer": "Bologna",
+          "display": "4,146,877"
+        },
+        {
+          "answer": "Lazise",
+          "display": "4,052,124"
+        },
+        {
+          "answer": "Naples",
+          "display": "3,862,329",
+          "aliases": [
+            "Napoli"
+          ]
+        },
+        {
+          "answer": "Lignano Sabbiadoro",
+          "display": "3,618,677"
+        }
+      ],
+      "submitter": "claude"
+    },
+    {
+      "category": "travel/tourism/cities",
+      "difficulty": 2,
+      "question": "Top 10 French cities by tourist arrivals (2022-2023)",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1379016977 | table 3 | name: City | value: Arrivals",
+      "tags": [
+        "travel",
+        "cities",
+        "france"
+      ],
+      "answers": [
+        {
+          "answer": "Paris",
+          "display": "36,900,000"
+        },
+        {
+          "answer": "Nice",
+          "display": "5,900,000"
+        },
+        {
+          "answer": "Marseille",
+          "display": "4,300,000"
+        },
+        {
+          "answer": "Lyon",
+          "display": "3,200,000"
+        },
+        {
+          "answer": "Toulouse",
+          "display": "2,800,000"
+        },
+        {
+          "answer": "Bordeaux",
+          "display": "2,600,000"
+        },
+        {
+          "answer": "Strasbourg",
+          "display": "2,400,000"
+        },
+        {
+          "answer": "Montpellier",
+          "display": "1,800,000"
+        },
+        {
+          "answer": "Nantes",
+          "display": "1,700,000"
+        },
+        {
+          "answer": "Annecy",
+          "display": "1,500,000"
+        },
+        {
+          "answer": "Rennes",
+          "display": "1,300,000"
+        },
+        {
+          "answer": "Reims",
+          "display": "1,200,000"
+        },
+        {
+          "answer": "Avignon",
+          "display": "1,100,000"
+        }
+      ],
+      "submitter": "claude"
+    }
+  ]
+}

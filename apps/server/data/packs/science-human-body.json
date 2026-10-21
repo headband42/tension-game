@@ -1,0 +1,107 @@
+{
+  "categories": [
+    {
+      "path": "science/human-body",
+      "name": "Human Body"
+    }
+  ],
+  "questions": [
+    {
+      "category": "science/human-body",
+      "question": "Top 10 causes of death by share of all deaths (2017 data)",
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1377920550 | table 1 | name: Cause | value: 3",
+      "tags": [
+        "human body",
+        "health",
+        "causes of death"
+      ],
+      "answers": [
+        {
+          "answer": "Heart disease",
+          "display": "31.59% of deaths",
+          "aliases": [
+            "Cardiovascular diseases",
+            "Cardiovascular disease"
+          ]
+        },
+        {
+          "answer": "Cancer",
+          "display": "16.43% of deaths",
+          "aliases": [
+            "Cancers",
+            "Neoplasms"
+          ]
+        },
+        {
+          "answer": "Chronic lung disease",
+          "display": "6.97% of deaths",
+          "aliases": [
+            "Chronic respiratory diseases",
+            "COPD"
+          ]
+        },
+        {
+          "answer": "Respiratory infections",
+          "display": "6.85% of deaths",
+          "aliases": [
+            "Respiratory infections and tuberculosis",
+            "Tuberculosis",
+            "Pneumonia"
+          ]
+        },
+        {
+          "answer": "Neurological disorders",
+          "display": "5.84% of deaths"
+        },
+        {
+          "answer": "Diabetes and kidney diseases",
+          "display": "4.55% of deaths",
+          "aliases": [
+            "Diabetes",
+            "Kidney disease"
+          ]
+        },
+        {
+          "answer": "Digestive diseases",
+          "display": "4.11% of deaths"
+        },
+        {
+          "answer": "Maternal and neonatal disorders",
+          "display": "4.00% of deaths"
+        },
+        {
+          "answer": "Enteric infections",
+          "display": "3.31% of deaths",
+          "aliases": [
+            "Diarrhoea"
+          ]
+        },
+        {
+          "answer": "Unintentional injuries",
+          "display": "3.23% of deaths",
+          "aliases": [
+            "Accidents"
+          ]
+        },
+        {
+          "answer": "Self harm and violence",
+          "display": "2.32% of deaths"
+        },
+        {
+          "answer": "Transport injuries",
+          "display": "2.30% of deaths"
+        },
+        {
+          "answer": "Other non-communicable",
+          "display": "2.22% of deaths"
+        },
+        {
+          "answer": "Sexually transmitted infections",
+          "display": "1.88% of deaths"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,3211 @@
+{
+  "categories": [
+    {
+      "path": "sports/soccer/europe/bundesliga/seasons",
+      "name": "Season Tables"
+    }
+  ],
+  "questions": [
+    {
+      "category": "sports/soccer/europe/bundesliga/seasons",
+      "question": "Top 5 clubs in the final 1963–64 Bundesliga table",
+      "cutoff": 5,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1339292252 | table 2 | name: Team | value: Pos | order: asc | note: final league table, official positions",
+      "tags": [
+        "soccer",
+        "bundesliga",
+        "league-table",
+        "1963–64"
+      ],
+      "answers": [
+        {
+          "answer": "1. FC Köln",
+          "display": "#1 — 45 pts",
+          "aliases": [
+            "Cologne",
+            "FC Köln",
+            "Köln"
+          ]
+        },
+        {
+          "answer": "Meidericher SV",
+          "display": "#2 — 39 pts",
+          "aliases": [
+            "MSV Duisburg",
+            "Duisburg"
+          ]
+        },
+        {
+          "answer": "Eintracht Frankfurt",
+          "display": "#3 — 39 pts",
+          "aliases": [
+            "Frankfurt"
+          ]
+        },
+        {
+          "answer": "Borussia Dortmund",
+          "display": "#4 — 33 pts",
+          "aliases": [
+            "Dortmund",
+            "BVB"
+          ]
+        },
+        {
+          "answer": "VfB Stuttgart",
+          "display": "#5 — 33 pts",
+          "aliases": [
+            "Stuttgart",
+            "VfB"
+          ]
+        },
+        {
+          "answer": "Hamburger SV",
+          "display": "#6 — 32 pts",
+          "aliases": [
+            "Hamburg",
+            "HSV"
+          ]
+        },
+        {
+          "answer": "TSV 1860 Munich",
+          "display": "#7 — 31 pts",
+          "aliases": [
+            "1860 Munich",
+            "1860"
+          ]
+        },
+        {
+          "answer": "Schalke 04",
+          "display": "#8 — 29 pts",
+          "aliases": [
+            "Schalke"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/soccer/europe/bundesliga/seasons",
+      "question": "Top 5 clubs in the final 1964–65 Bundesliga table",
+      "cutoff": 5,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1139751429 | table 2 | name: Team | value: Pos | order: asc | note: final league table, official positions",
+      "tags": [
+        "soccer",
+        "bundesliga",
+        "league-table",
+        "1964–65"
+      ],
+      "answers": [
+        {
+          "answer": "Werder Bremen",
+          "display": "#1 — 41 pts",
+          "aliases": [
+            "Werder",
+            "Bremen"
+          ]
+        },
+        {
+          "answer": "1. FC Köln",
+          "display": "#2 — 38 pts",
+          "aliases": [
+            "Cologne",
+            "FC Köln",
+            "Köln"
+          ]
+        },
+        {
+          "answer": "Borussia Dortmund",
+          "display": "#3 — 36 pts",
+          "aliases": [
+            "Dortmund",
+            "BVB"
+          ]
+        },
+        {
+          "answer": "TSV 1860 Munich",
+          "display": "#4 — 35 pts",
+          "aliases": [
+            "1860 Munich",
+            "1860"
+          ]
+        },
+        {
+          "answer": "Hannover 96",
+          "display": "#5 — 33 pts",
+          "aliases": [
+            "Hannover",
+            "Hanover"
+          ]
+        },
+        {
+          "answer": "1. FC Nürnberg",
+          "display": "#6 — 32 pts",
+          "aliases": [
+            "Nürnberg",
+            "Nuremberg"
+          ]
+        },
+        {
+          "answer": "Meidericher SV",
+          "display": "#7 — 32 pts",
+          "aliases": [
+            "MSV Duisburg",
+            "Duisburg"
+          ]
+        },
+        {
+          "answer": "Eintracht Frankfurt",
+          "display": "#8 — 29 pts",
+          "aliases": [
+            "Frankfurt"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/soccer/europe/bundesliga/seasons",
+      "question": "Top 6 clubs in the final 1965–66 Bundesliga table",
+      "cutoff": 6,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1376664281 | table 2 | name: Team | value: Pos | order: asc | note: final league table, official positions",
+      "tags": [
+        "soccer",
+        "bundesliga",
+        "league-table",
+        "1965–66"
+      ],
+      "answers": [
+        {
+          "answer": "TSV 1860 Munich",
+          "display": "#1 — 50 pts",
+          "aliases": [
+            "1860 Munich",
+            "1860"
+          ]
+        },
+        {
+          "answer": "Borussia Dortmund",
+          "display": "#2 — 47 pts",
+          "aliases": [
+            "Dortmund",
+            "BVB"
+          ]
+        },
+        {
+          "answer": "Bayern Munich",
+          "display": "#3 — 47 pts",
+          "aliases": [
+            "Bayern",
+            "FC Bayern",
+            "Bayern München"
+          ]
+        },
+        {
+          "answer": "Werder Bremen",
+          "display": "#4 — 45 pts",
+          "aliases": [
+            "Werder",
+            "Bremen"
+          ]
+        },
+        {
+          "answer": "1. FC Köln",
+          "display": "#5 — 44 pts",
+          "aliases": [
+            "Cologne",
+            "FC Köln",
+            "Köln"
+          ]
+        },
+        {
+          "answer": "1. FC Nürnberg",
+          "display": "#6 — 39 pts",
+          "aliases": [
+            "Nürnberg",
+            "Nuremberg"
+          ]
+        },
+        {
+          "answer": "Eintracht Frankfurt",
+          "display": "#7 — 38 pts",
+          "aliases": [
+            "Frankfurt"
+          ]
+        },
+        {
+          "answer": "Meidericher SV",
+          "display": "#8 — 36 pts",
+          "aliases": [
+            "MSV Duisburg",
+            "Duisburg"
+          ]
+        },
+        {
+          "answer": "Hamburger SV",
+          "display": "#9 — 34 pts",
+          "aliases": [
+            "Hamburg",
+            "HSV"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/soccer/europe/bundesliga/seasons",
+      "question": "Top 6 clubs in the final 1966–67 Bundesliga table",
+      "cutoff": 6,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1376664610 | table 2 | name: Team | value: Pos | order: asc | note: final league table, official positions",
+      "tags": [
+        "soccer",
+        "bundesliga",
+        "league-table",
+        "1966–67"
+      ],
+      "answers": [
+        {
+          "answer": "Eintracht Braunschweig",
+          "display": "#1 — 43 pts",
+          "aliases": [
+            "Braunschweig"
+          ]
+        },
+        {
+          "answer": "TSV 1860 Munich",
+          "display": "#2 — 41 pts",
+          "aliases": [
+            "1860 Munich",
+            "1860"
+          ]
+        },
+        {
+          "answer": "Borussia Dortmund",
+          "display": "#3 — 39 pts",
+          "aliases": [
+            "Dortmund",
+            "BVB"
+          ]
+        },
+        {
+          "answer": "Eintracht Frankfurt",
+          "display": "#4 — 39 pts",
+          "aliases": [
+            "Frankfurt"
+          ]
+        },
+        {
+          "answer": "1. FC Kaiserslautern",
+          "display": "#5 — 38 pts",
+          "aliases": [
+            "Kaiserslautern"
+          ]
+        },
+        {
+          "answer": "Bayern Munich",
+          "display": "#6 — 37 pts",
+          "aliases": [
+            "Bayern",
+            "FC Bayern",
+            "Bayern München"
+          ]
+        },
+        {
+          "answer": "1. FC Köln",
+          "display": "#7 — 37 pts",
+          "aliases": [
+            "Cologne",
+            "FC Köln",
+            "Köln"
+          ]
+        },
+        {
+          "answer": "Borussia Mönchengladbach",
+          "display": "#8 — 34 pts",
+          "aliases": [
+            "Gladbach",
+            "Mönchengladbach"
+          ]
+        },
+        {
+          "answer": "Hannover 96",
+          "display": "#9 — 34 pts",
+          "aliases": [
+            "Hannover",
+            "Hanover"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/soccer/europe/bundesliga/seasons",
+      "question": "Top 6 clubs in the final 1967–68 Bundesliga table",
+      "cutoff": 6,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1376664978 | table 2 | name: Team | value: Pos | order: asc | note: final league table, official positions",
+      "tags": [
+        "soccer",
+        "bundesliga",
+        "league-table",
+        "1967–68"
+      ],
+      "answers": [
+        {
+          "answer": "1. FC Nürnberg",
+          "display": "#1 — 47 pts",
+          "aliases": [
+            "Nürnberg",
+            "Nuremberg"
+          ]
+        },
+        {
+          "answer": "Werder Bremen",
+          "display": "#2 — 44 pts",
+          "aliases": [
+            "Werder",
+            "Bremen"
+          ]
+        },
+        {
+          "answer": "Borussia Mönchengladbach",
+          "display": "#3 — 42 pts",
+          "aliases": [
+            "Gladbach",
+            "Mönchengladbach"
+          ]
+        },
+        {
+          "answer": "1. FC Köln",
+          "display": "#4 — 38 pts",
+          "aliases": [
+            "Cologne",
+            "FC Köln",
+            "Köln"
+          ]
+        },
+        {
+          "answer": "Bayern Munich",
+          "display": "#5 — 38 pts",
+          "aliases": [
+            "Bayern",
+            "FC Bayern",
+            "Bayern München"
+          ]
+        },
+        {
+          "answer": "Eintracht Frankfurt",
+          "display": "#6 — 38 pts",
+          "aliases": [
+            "Frankfurt"
+          ]
+        },
+        {
+          "answer": "MSV Duisburg",
+          "display": "#7 — 36 pts",
+          "aliases": [
+            "Duisburg"
+          ]
+        },
+        {
+          "answer": "VfB Stuttgart",
+          "display": "#8 — 35 pts",
+          "aliases": [
+            "Stuttgart",
+            "VfB"
+          ]
+        },
+        {
+          "answer": "Eintracht Braunschweig",
+          "display": "#9 — 35 pts",
+          "aliases": [
+            "Braunschweig"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/soccer/europe/bundesliga/seasons",
+      "question": "Top 6 clubs in the final 1968–69 Bundesliga table",
+      "cutoff": 6,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1370861021 | table 2 | name: Team | value: Pos | order: asc | note: final league table, official positions",
+      "tags": [
+        "soccer",
+        "bundesliga",
+        "league-table",
+        "1968–69"
+      ],
+      "answers": [
+        {
+          "answer": "Bayern Munich",
+          "display": "#1 — 46 pts",
+          "aliases": [
+            "Bayern",
+            "FC Bayern",
+            "Bayern München"
+          ]
+        },
+        {
+          "answer": "Alemannia Aachen",
+          "display": "#2 — 38 pts",
+          "aliases": [
+            "Aachen"
+          ]
+        },
+        {
+          "answer": "Borussia Mönchengladbach",
+          "display": "#3 — 37 pts",
+          "aliases": [
+            "Gladbach",
+            "Mönchengladbach"
+          ]
+        },
+        {
+          "answer": "Eintracht Braunschweig",
+          "display": "#4 — 37 pts",
+          "aliases": [
+            "Braunschweig"
+          ]
+        },
+        {
+          "answer": "VfB Stuttgart",
+          "display": "#5 — 36 pts",
+          "aliases": [
+            "Stuttgart",
+            "VfB"
+          ]
+        },
+        {
+          "answer": "Hamburger SV",
+          "display": "#6 — 36 pts",
+          "aliases": [
+            "Hamburg",
+            "HSV"
+          ]
+        },
+        {
+          "answer": "Schalke 04",
+          "display": "#7 — 35 pts",
+          "aliases": [
+            "Schalke"
+          ]
+        },
+        {
+          "answer": "Eintracht Frankfurt",
+          "display": "#8 — 34 pts",
+          "aliases": [
+            "Frankfurt"
+          ]
+        },
+        {
+          "answer": "Werder Bremen",
+          "display": "#9 — 34 pts",
+          "aliases": [
+            "Werder",
+            "Bremen"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/soccer/europe/bundesliga/seasons",
+      "question": "Top 6 clubs in the final 1969–70 Bundesliga table",
+      "cutoff": 6,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1376665514 | table 2 | name: Team | value: Pos | order: asc | note: final league table, official positions",
+      "tags": [
+        "soccer",
+        "bundesliga",
+        "league-table",
+        "1969–70"
+      ],
+      "answers": [
+        {
+          "answer": "Borussia Mönchengladbach",
+          "display": "#1 — 51 pts",
+          "aliases": [
+            "Gladbach",
+            "Mönchengladbach"
+          ]
+        },
+        {
+          "answer": "Bayern Munich",
+          "display": "#2 — 47 pts",
+          "aliases": [
+            "Bayern",
+            "FC Bayern",
+            "Bayern München"
+          ]
+        },
+        {
+          "answer": "Hertha BSC",
+          "display": "#3 — 45 pts",
+          "aliases": [
+            "Hertha",
+            "Hertha Berlin"
+          ]
+        },
+        {
+          "answer": "1. FC Köln",
+          "display": "#4 — 43 pts",
+          "aliases": [
+            "Cologne",
+            "FC Köln",
+            "Köln"
+          ]
+        },
+        {
+          "answer": "Borussia Dortmund",
+          "display": "#5 — 36 pts",
+          "aliases": [
+            "Dortmund",
+            "BVB"
+          ]
+        },
+        {
+          "answer": "Hamburger SV",
+          "display": "#6 — 35 pts",
+          "aliases": [
+            "Hamburg",
+            "HSV"
+          ]
+        },
+        {
+          "answer": "VfB Stuttgart",
+          "display": "#7 — 35 pts",
+          "aliases": [
+            "Stuttgart",
+            "VfB"
+          ]
+        },
+        {
+          "answer": "Eintracht Frankfurt",
+          "display": "#8 — 34 pts",
+          "aliases": [
+            "Frankfurt"
+          ]
+        },
+        {
+          "answer": "Schalke 04",
+          "display": "#9 — 34 pts",
+          "aliases": [
+            "Schalke"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/soccer/europe/bundesliga/seasons",
+      "question": "Top 6 clubs in the final 1970–71 Bundesliga table",
+      "cutoff": 6,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1376665676 | table 2 | name: Team | value: Pos | order: asc | note: final league table, official positions",
+      "tags": [
+        "soccer",
+        "bundesliga",
+        "league-table",
+        "1970–71"
+      ],
+      "answers": [
+        {
+          "answer": "Borussia Mönchengladbach",
+          "display": "#1 — 50 pts",
+          "aliases": [
+            "Gladbach",
+            "Mönchengladbach"
+          ]
+        },
+        {
+          "answer": "Bayern Munich",
+          "display": "#2 — 48 pts",
+          "aliases": [
+            "Bayern",
+            "FC Bayern",
+            "Bayern München"
+          ]
+        },
+        {
+          "answer": "Hertha BSC",
+          "display": "#3 — 41 pts",
+          "aliases": [
+            "Hertha",
+            "Hertha Berlin"
+          ]
+        },
+        {
+          "answer": "Eintracht Braunschweig",
+          "display": "#4 — 39 pts",
+          "aliases": [
+            "Braunschweig"
+          ]
+        },
+        {
+          "answer": "Hamburger SV",
+          "display": "#5 — 37 pts",
+          "aliases": [
+            "Hamburg",
+            "HSV"
+          ]
+        },
+        {
+          "answer": "Schalke 04",
+          "display": "#6 — 36 pts",
+          "aliases": [
+            "Schalke"
+          ]
+        },
+        {
+          "answer": "MSV Duisburg",
+          "display": "#7 — 35 pts",
+          "aliases": [
+            "Duisburg"
+          ]
+        },
+        {
+          "answer": "1. FC Kaiserslautern",
+          "display": "#8 — 34 pts",
+          "aliases": [
+            "Kaiserslautern"
+          ]
+        },
+        {
+          "answer": "Hannover 96",
+          "display": "#9 — 33 pts",
+          "aliases": [
+            "Hannover",
+            "Hanover"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/soccer/europe/bundesliga/seasons",
+      "question": "Top 6 clubs in the final 1971–72 Bundesliga table",
+      "cutoff": 6,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1348626987 | table 2 | name: Team | value: Pos | order: asc | note: final league table, official positions",
+      "tags": [
+        "soccer",
+        "bundesliga",
+        "league-table",
+        "1971–72"
+      ],
+      "answers": [
+        {
+          "answer": "Bayern Munich",
+          "display": "#1 — 55 pts",
+          "aliases": [
+            "Bayern",
+            "FC Bayern",
+            "Bayern München"
+          ]
+        },
+        {
+          "answer": "Schalke 04",
+          "display": "#2 — 52 pts",
+          "aliases": [
+            "Schalke"
+          ]
+        },
+        {
+          "answer": "Borussia Mönchengladbach",
+          "display": "#3 — 43 pts",
+          "aliases": [
+            "Gladbach",
+            "Mönchengladbach"
+          ]
+        },
+        {
+          "answer": "1. FC Köln",
+          "display": "#4 — 43 pts",
+          "aliases": [
+            "Cologne",
+            "FC Köln",
+            "Köln"
+          ]
+        },
+        {
+          "answer": "Eintracht Frankfurt",
+          "display": "#5 — 39 pts",
+          "aliases": [
+            "Frankfurt"
+          ]
+        },
+        {
+          "answer": "Hertha BSC",
+          "display": "#6 — 37 pts",
+          "aliases": [
+            "Hertha",
+            "Hertha Berlin"
+          ]
+        },
+        {
+          "answer": "1. FC Kaiserslautern",
+          "display": "#7 — 35 pts",
+          "aliases": [
+            "Kaiserslautern"
+          ]
+        },
+        {
+          "answer": "VfB Stuttgart",
+          "display": "#8 — 35 pts",
+          "aliases": [
+            "Stuttgart",
+            "VfB"
+          ]
+        },
+        {
+          "answer": "VfL Bochum",
+          "display": "#9 — 34 pts",
+          "aliases": [
+            "Bochum"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/soccer/europe/bundesliga/seasons",
+      "question": "Top 6 clubs in the final 1972–73 Bundesliga table",
+      "cutoff": 6,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1362349709 | table 2 | name: Team | value: Pos | order: asc | note: final league table, official positions",
+      "tags": [
+        "soccer",
+        "bundesliga",
+        "league-table",
+        "1972–73"
+      ],
+      "answers": [
+        {
+          "answer": "Bayern Munich",
+          "display": "#1 — 54 pts",
+          "aliases": [
+            "Bayern",
+            "FC Bayern",
+            "Bayern München"
+          ]
+        },
+        {
+          "answer": "1. FC Köln",
+          "display": "#2 — 43 pts",
+          "aliases": [
+            "Cologne",
+            "FC Köln",
+            "Köln"
+          ]
+        },
+        {
+          "answer": "Fortuna Düsseldorf",
+          "display": "#3 — 42 pts",
+          "aliases": [
+            "Düsseldorf"
+          ]
+        },
+        {
+          "answer": "Wuppertaler SV",
+          "display": "#4 — 40 pts",
+          "aliases": [
+            "Wuppertal"
+          ]
+        },
+        {
+          "answer": "Borussia Mönchengladbach",
+          "display": "#5 — 39 pts",
+          "aliases": [
+            "Gladbach",
+            "Mönchengladbach"
+          ]
+        },
+        {
+          "answer": "VfB Stuttgart",
+          "display": "#6 — 37 pts",
+          "aliases": [
+            "Stuttgart",
+            "VfB"
+          ]
+        },
+        {
+          "answer": "Kickers Offenbach",
+          "display": "#7 — 35 pts",
+          "aliases": [
+            "Offenbach"
+          ]
+        },
+        {
+          "answer": "Eintracht Frankfurt",
+          "display": "#8 — 34 pts",
+          "aliases": [
+            "Frankfurt"
+          ]
+        },
+        {
+          "answer": "1. FC Kaiserslautern",
+          "display": "#9 — 34 pts",
+          "aliases": [
+            "Kaiserslautern"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/soccer/europe/bundesliga/seasons",
+      "question": "Top 6 clubs in the final 1973–74 Bundesliga table",
+      "cutoff": 6,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1376657247 | table 2 | name: Team | value: Pos | order: asc | note: final league table, official positions",
+      "tags": [
+        "soccer",
+        "bundesliga",
+        "league-table",
+        "1973–74"
+      ],
+      "answers": [
+        {
+          "answer": "Bayern Munich",
+          "display": "#1 — 49 pts",
+          "aliases": [
+            "Bayern",
+            "FC Bayern",
+            "Bayern München"
+          ]
+        },
+        {
+          "answer": "Borussia Mönchengladbach",
+          "display": "#2 — 48 pts",
+          "aliases": [
+            "Gladbach",
+            "Mönchengladbach"
+          ]
+        },
+        {
+          "answer": "Fortuna Düsseldorf",
+          "display": "#3 — 41 pts",
+          "aliases": [
+            "Düsseldorf"
+          ]
+        },
+        {
+          "answer": "Eintracht Frankfurt",
+          "display": "#4 — 41 pts",
+          "aliases": [
+            "Frankfurt"
+          ]
+        },
+        {
+          "answer": "1. FC Köln",
+          "display": "#5 — 39 pts",
+          "aliases": [
+            "Cologne",
+            "FC Köln",
+            "Köln"
+          ]
+        },
+        {
+          "answer": "1. FC Kaiserslautern",
+          "display": "#6 — 38 pts",
+          "aliases": [
+            "Kaiserslautern"
+          ]
+        },
+        {
+          "answer": "Schalke 04",
+          "display": "#7 — 37 pts",
+          "aliases": [
+            "Schalke"
+          ]
+        },
+        {
+          "answer": "Hertha BSC",
+          "display": "#8 — 33 pts",
+          "aliases": [
+            "Hertha",
+            "Hertha Berlin"
+          ]
+        },
+        {
+          "answer": "VfB Stuttgart",
+          "display": "#9 — 31 pts",
+          "aliases": [
+            "Stuttgart",
+            "VfB"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/soccer/europe/bundesliga/seasons",
+      "question": "Top 6 clubs in the final 1974–75 Bundesliga table",
+      "cutoff": 6,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1368521503 | table 2 | name: Team | value: Pos | order: asc | note: final league table, official positions",
+      "tags": [
+        "soccer",
+        "bundesliga",
+        "league-table",
+        "1974–75"
+      ],
+      "answers": [
+        {
+          "answer": "Borussia Mönchengladbach",
+          "display": "#1 — 50 pts",
+          "aliases": [
+            "Gladbach",
+            "Mönchengladbach"
+          ]
+        },
+        {
+          "answer": "Hertha BSC",
+          "display": "#2 — 44 pts",
+          "aliases": [
+            "Hertha",
+            "Hertha Berlin"
+          ]
+        },
+        {
+          "answer": "Eintracht Frankfurt",
+          "display": "#3 — 43 pts",
+          "aliases": [
+            "Frankfurt"
+          ]
+        },
+        {
+          "answer": "Hamburger SV",
+          "display": "#4 — 43 pts",
+          "aliases": [
+            "Hamburg",
+            "HSV"
+          ]
+        },
+        {
+          "answer": "1. FC Köln",
+          "display": "#5 — 41 pts",
+          "aliases": [
+            "Cologne",
+            "FC Köln",
+            "Köln"
+          ]
+        },
+        {
+          "answer": "Fortuna Düsseldorf",
+          "display": "#6 — 41 pts",
+          "aliases": [
+            "Düsseldorf"
+          ]
+        },
+        {
+          "answer": "Schalke 04",
+          "display": "#7 — 39 pts",
+          "aliases": [
+            "Schalke"
+          ]
+        },
+        {
+          "answer": "Kickers Offenbach",
+          "display": "#8 — 38 pts",
+          "aliases": [
+            "Offenbach"
+          ]
+        },
+        {
+          "answer": "Eintracht Braunschweig",
+          "display": "#9 — 36 pts",
+          "aliases": [
+            "Braunschweig"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/soccer/europe/bundesliga/seasons",
+      "question": "Top 6 clubs in the final 1975–76 Bundesliga table",
+      "cutoff": 6,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1376657385 | table 2 | name: Team | value: Pos | order: asc | note: final league table, official positions",
+      "tags": [
+        "soccer",
+        "bundesliga",
+        "league-table",
+        "1975–76"
+      ],
+      "answers": [
+        {
+          "answer": "Borussia Mönchengladbach",
+          "display": "#1 — 45 pts",
+          "aliases": [
+            "Gladbach",
+            "Mönchengladbach"
+          ]
+        },
+        {
+          "answer": "Hamburger SV",
+          "display": "#2 — 41 pts",
+          "aliases": [
+            "Hamburg",
+            "HSV"
+          ]
+        },
+        {
+          "answer": "Bayern Munich",
+          "display": "#3 — 40 pts",
+          "aliases": [
+            "Bayern",
+            "FC Bayern",
+            "Bayern München"
+          ]
+        },
+        {
+          "answer": "1. FC Köln",
+          "display": "#4 — 39 pts",
+          "aliases": [
+            "Cologne",
+            "FC Köln",
+            "Köln"
+          ]
+        },
+        {
+          "answer": "Eintracht Braunschweig",
+          "display": "#5 — 39 pts",
+          "aliases": [
+            "Braunschweig"
+          ]
+        },
+        {
+          "answer": "Schalke 04",
+          "display": "#6 — 37 pts",
+          "aliases": [
+            "Schalke"
+          ]
+        },
+        {
+          "answer": "1. FC Kaiserslautern",
+          "display": "#7 — 37 pts",
+          "aliases": [
+            "Kaiserslautern"
+          ]
+        },
+        {
+          "answer": "Rot-Weiss Essen",
+          "display": "#8 — 37 pts",
+          "aliases": [
+            "Essen"
+          ]
+        },
+        {
+          "answer": "Eintracht Frankfurt",
+          "display": "#9 — 36 pts",
+          "aliases": [
+            "Frankfurt"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/soccer/europe/bundesliga/seasons",
+      "question": "Top 6 clubs in the final 1976–77 Bundesliga table",
+      "cutoff": 6,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1377064590 | table 2 | name: Team | value: Pos | order: asc | note: final league table, official positions",
+      "tags": [
+        "soccer",
+        "bundesliga",
+        "league-table",
+        "1976–77"
+      ],
+      "answers": [
+        {
+          "answer": "Borussia Mönchengladbach",
+          "display": "#1 — 44 pts",
+          "aliases": [
+            "Gladbach",
+            "Mönchengladbach"
+          ]
+        },
+        {
+          "answer": "Schalke 04",
+          "display": "#2 — 43 pts",
+          "aliases": [
+            "Schalke"
+          ]
+        },
+        {
+          "answer": "Eintracht Braunschweig",
+          "display": "#3 — 43 pts",
+          "aliases": [
+            "Braunschweig"
+          ]
+        },
+        {
+          "answer": "Eintracht Frankfurt",
+          "display": "#4 — 42 pts",
+          "aliases": [
+            "Frankfurt"
+          ]
+        },
+        {
+          "answer": "1. FC Köln",
+          "display": "#5 — 40 pts",
+          "aliases": [
+            "Cologne",
+            "FC Köln",
+            "Köln"
+          ]
+        },
+        {
+          "answer": "Hamburger SV",
+          "display": "#6 — 38 pts",
+          "aliases": [
+            "Hamburg",
+            "HSV"
+          ]
+        },
+        {
+          "answer": "Bayern Munich",
+          "display": "#7 — 37 pts",
+          "aliases": [
+            "Bayern",
+            "FC Bayern",
+            "Bayern München"
+          ]
+        },
+        {
+          "answer": "Borussia Dortmund",
+          "display": "#8 — 34 pts",
+          "aliases": [
+            "Dortmund",
+            "BVB"
+          ]
+        },
+        {
+          "answer": "MSV Duisburg",
+          "display": "#9 — 34 pts",
+          "aliases": [
+            "Duisburg"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/soccer/europe/bundesliga/seasons",
+      "question": "Top 6 clubs in the final 1977–78 Bundesliga table",
+      "cutoff": 6,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1378573490 | table 2 | name: Team | value: Pos | order: asc | note: final league table, official positions",
+      "tags": [
+        "soccer",
+        "bundesliga",
+        "league-table",
+        "1977–78"
+      ],
+      "answers": [
+        {
+          "answer": "1. FC Köln",
+          "display": "#1 — 48 pts",
+          "aliases": [
+            "Cologne",
+            "FC Köln",
+            "Köln"
+          ]
+        },
+        {
+          "answer": "Borussia Mönchengladbach",
+          "display": "#2 — 48 pts",
+          "aliases": [
+            "Gladbach",
+            "Mönchengladbach"
+          ]
+        },
+        {
+          "answer": "Hertha BSC",
+          "display": "#3 — 40 pts",
+          "aliases": [
+            "Hertha",
+            "Hertha Berlin"
+          ]
+        },
+        {
+          "answer": "VfB Stuttgart",
+          "display": "#4 — 39 pts",
+          "aliases": [
+            "Stuttgart",
+            "VfB"
+          ]
+        },
+        {
+          "answer": "Fortuna Düsseldorf",
+          "display": "#5 — 39 pts",
+          "aliases": [
+            "Düsseldorf"
+          ]
+        },
+        {
+          "answer": "MSV Duisburg",
+          "display": "#6 — 37 pts",
+          "aliases": [
+            "Duisburg"
+          ]
+        },
+        {
+          "answer": "Eintracht Frankfurt",
+          "display": "#7 — 36 pts",
+          "aliases": [
+            "Frankfurt"
+          ]
+        },
+        {
+          "answer": "1. FC Kaiserslautern",
+          "display": "#8 — 36 pts",
+          "aliases": [
+            "Kaiserslautern"
+          ]
+        },
+        {
+          "answer": "Schalke 04",
+          "display": "#9 — 34 pts",
+          "aliases": [
+            "Schalke"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/soccer/europe/bundesliga/seasons",
+      "question": "Top 6 clubs in the final 1978–79 Bundesliga table",
+      "cutoff": 6,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1376150062 | table 2 | name: Team | value: Pos | order: asc | note: final league table, official positions",
+      "tags": [
+        "soccer",
+        "bundesliga",
+        "league-table",
+        "1978–79"
+      ],
+      "answers": [
+        {
+          "answer": "Hamburger SV",
+          "display": "#1 — 49 pts",
+          "aliases": [
+            "Hamburg",
+            "HSV"
+          ]
+        },
+        {
+          "answer": "VfB Stuttgart",
+          "display": "#2 — 48 pts",
+          "aliases": [
+            "Stuttgart",
+            "VfB"
+          ]
+        },
+        {
+          "answer": "1. FC Kaiserslautern",
+          "display": "#3 — 43 pts",
+          "aliases": [
+            "Kaiserslautern"
+          ]
+        },
+        {
+          "answer": "Bayern Munich",
+          "display": "#4 — 40 pts",
+          "aliases": [
+            "Bayern",
+            "FC Bayern",
+            "Bayern München"
+          ]
+        },
+        {
+          "answer": "Eintracht Frankfurt",
+          "display": "#5 — 39 pts",
+          "aliases": [
+            "Frankfurt"
+          ]
+        },
+        {
+          "answer": "1. FC Köln",
+          "display": "#6 — 38 pts",
+          "aliases": [
+            "Cologne",
+            "FC Köln",
+            "Köln"
+          ]
+        },
+        {
+          "answer": "Fortuna Düsseldorf",
+          "display": "#7 — 37 pts",
+          "aliases": [
+            "Düsseldorf"
+          ]
+        },
+        {
+          "answer": "VfL Bochum",
+          "display": "#8 — 33 pts",
+          "aliases": [
+            "Bochum"
+          ]
+        },
+        {
+          "answer": "Eintracht Braunschweig",
+          "display": "#9 — 33 pts",
+          "aliases": [
+            "Braunschweig"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/soccer/europe/bundesliga/seasons",
+      "question": "Top 6 clubs in the final 1979–80 Bundesliga table",
+      "cutoff": 6,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1348627231 | table 2 | name: Team | value: Pos | order: asc | note: final league table, official positions",
+      "tags": [
+        "soccer",
+        "bundesliga",
+        "league-table",
+        "1979–80"
+      ],
+      "answers": [
+        {
+          "answer": "Bayern Munich",
+          "display": "#1 — 50 pts",
+          "aliases": [
+            "Bayern",
+            "FC Bayern",
+            "Bayern München"
+          ]
+        },
+        {
+          "answer": "Hamburger SV",
+          "display": "#2 — 48 pts",
+          "aliases": [
+            "Hamburg",
+            "HSV"
+          ]
+        },
+        {
+          "answer": "VfB Stuttgart",
+          "display": "#3 — 41 pts",
+          "aliases": [
+            "Stuttgart",
+            "VfB"
+          ]
+        },
+        {
+          "answer": "1. FC Kaiserslautern",
+          "display": "#4 — 41 pts",
+          "aliases": [
+            "Kaiserslautern"
+          ]
+        },
+        {
+          "answer": "1. FC Köln",
+          "display": "#5 — 37 pts",
+          "aliases": [
+            "Cologne",
+            "FC Köln",
+            "Köln"
+          ]
+        },
+        {
+          "answer": "Borussia Dortmund",
+          "display": "#6 — 36 pts",
+          "aliases": [
+            "Dortmund",
+            "BVB"
+          ]
+        },
+        {
+          "answer": "Borussia Mönchengladbach",
+          "display": "#7 — 36 pts",
+          "aliases": [
+            "Gladbach",
+            "Mönchengladbach"
+          ]
+        },
+        {
+          "answer": "Schalke 04",
+          "display": "#8 — 33 pts",
+          "aliases": [
+            "Schalke"
+          ]
+        },
+        {
+          "answer": "Eintracht Frankfurt",
+          "display": "#9 — 32 pts",
+          "aliases": [
+            "Frankfurt"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/soccer/europe/bundesliga/seasons",
+      "question": "Top 6 clubs in the final 1980–81 Bundesliga table",
+      "cutoff": 6,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1348627261 | table 2 | name: Team | value: Pos | order: asc | note: final league table, official positions",
+      "tags": [
+        "soccer",
+        "bundesliga",
+        "league-table",
+        "1980–81"
+      ],
+      "answers": [
+        {
+          "answer": "Bayern Munich",
+          "display": "#1 — 53 pts",
+          "aliases": [
+            "Bayern",
+            "FC Bayern",
+            "Bayern München"
+          ]
+        },
+        {
+          "answer": "Hamburger SV",
+          "display": "#2 — 49 pts",
+          "aliases": [
+            "Hamburg",
+            "HSV"
+          ]
+        },
+        {
+          "answer": "VfB Stuttgart",
+          "display": "#3 — 46 pts",
+          "aliases": [
+            "Stuttgart",
+            "VfB"
+          ]
+        },
+        {
+          "answer": "1. FC Kaiserslautern",
+          "display": "#4 — 44 pts",
+          "aliases": [
+            "Kaiserslautern"
+          ]
+        },
+        {
+          "answer": "Eintracht Frankfurt",
+          "display": "#5 — 38 pts",
+          "aliases": [
+            "Frankfurt"
+          ]
+        },
+        {
+          "answer": "Borussia Mönchengladbach",
+          "display": "#6 — 37 pts",
+          "aliases": [
+            "Gladbach",
+            "Mönchengladbach"
+          ]
+        },
+        {
+          "answer": "Borussia Dortmund",
+          "display": "#7 — 35 pts",
+          "aliases": [
+            "Dortmund",
+            "BVB"
+          ]
+        },
+        {
+          "answer": "1. FC Köln",
+          "display": "#8 — 34 pts",
+          "aliases": [
+            "Cologne",
+            "FC Köln",
+            "Köln"
+          ]
+        },
+        {
+          "answer": "VfL Bochum",
+          "display": "#9 — 33 pts",
+          "aliases": [
+            "Bochum"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/soccer/europe/bundesliga/seasons",
+      "question": "Top 6 clubs in the final 1981–82 Bundesliga table",
+      "cutoff": 6,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1376657748 | table 2 | name: Team | value: Pos | order: asc | note: final league table, official positions",
+      "tags": [
+        "soccer",
+        "bundesliga",
+        "league-table",
+        "1981–82"
+      ],
+      "answers": [
+        {
+          "answer": "Hamburger SV",
+          "display": "#1 — 48 pts",
+          "aliases": [
+            "Hamburg",
+            "HSV"
+          ]
+        },
+        {
+          "answer": "1. FC Köln",
+          "display": "#2 — 45 pts",
+          "aliases": [
+            "Cologne",
+            "FC Köln",
+            "Köln"
+          ]
+        },
+        {
+          "answer": "Bayern Munich",
+          "display": "#3 — 43 pts",
+          "aliases": [
+            "Bayern",
+            "FC Bayern",
+            "Bayern München"
+          ]
+        },
+        {
+          "answer": "1. FC Kaiserslautern",
+          "display": "#4 — 42 pts",
+          "aliases": [
+            "Kaiserslautern"
+          ]
+        },
+        {
+          "answer": "Werder Bremen",
+          "display": "#5 — 42 pts",
+          "aliases": [
+            "Werder",
+            "Bremen"
+          ]
+        },
+        {
+          "answer": "Borussia Dortmund",
+          "display": "#6 — 41 pts",
+          "aliases": [
+            "Dortmund",
+            "BVB"
+          ]
+        },
+        {
+          "answer": "Borussia Mönchengladbach",
+          "display": "#7 — 40 pts",
+          "aliases": [
+            "Gladbach",
+            "Mönchengladbach"
+          ]
+        },
+        {
+          "answer": "Eintracht Frankfurt",
+          "display": "#8 — 37 pts",
+          "aliases": [
+            "Frankfurt"
+          ]
+        },
+        {
+          "answer": "VfB Stuttgart",
+          "display": "#9 — 35 pts",
+          "aliases": [
+            "Stuttgart",
+            "VfB"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/soccer/europe/bundesliga/seasons",
+      "question": "Top 6 clubs in the final 1982–83 Bundesliga table",
+      "cutoff": 6,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1348627315 | table 2 | name: Team | value: Pos | order: asc | note: final league table, official positions",
+      "tags": [
+        "soccer",
+        "bundesliga",
+        "league-table",
+        "1982–83"
+      ],
+      "answers": [
+        {
+          "answer": "Hamburger SV",
+          "display": "#1 — 52 pts",
+          "aliases": [
+            "Hamburg",
+            "HSV"
+          ]
+        },
+        {
+          "answer": "Werder Bremen",
+          "display": "#2 — 52 pts",
+          "aliases": [
+            "Werder",
+            "Bremen"
+          ]
+        },
+        {
+          "answer": "VfB Stuttgart",
+          "display": "#3 — 48 pts",
+          "aliases": [
+            "Stuttgart",
+            "VfB"
+          ]
+        },
+        {
+          "answer": "Bayern Munich",
+          "display": "#4 — 44 pts",
+          "aliases": [
+            "Bayern",
+            "FC Bayern",
+            "Bayern München"
+          ]
+        },
+        {
+          "answer": "1. FC Köln",
+          "display": "#5 — 43 pts",
+          "aliases": [
+            "Cologne",
+            "FC Köln",
+            "Köln"
+          ]
+        },
+        {
+          "answer": "1. FC Kaiserslautern",
+          "display": "#6 — 41 pts",
+          "aliases": [
+            "Kaiserslautern"
+          ]
+        },
+        {
+          "answer": "Borussia Dortmund",
+          "display": "#7 — 39 pts",
+          "aliases": [
+            "Dortmund",
+            "BVB"
+          ]
+        },
+        {
+          "answer": "Arminia Bielefeld",
+          "display": "#8 — 31 pts",
+          "aliases": [
+            "Bielefeld"
+          ]
+        },
+        {
+          "answer": "Fortuna Düsseldorf",
+          "display": "#9 — 30 pts",
+          "aliases": [
+            "Düsseldorf"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/soccer/europe/bundesliga/seasons",
+      "question": "Top 6 clubs in the final 1983–84 Bundesliga table",
+      "cutoff": 6,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1348727120 | table 2 | name: Team | value: Pos | order: asc | note: final league table, official positions",
+      "tags": [
+        "soccer",
+        "bundesliga",
+        "league-table",
+        "1983–84"
+      ],
+      "answers": [
+        {
+          "answer": "VfB Stuttgart",
+          "display": "#1 — 48 pts",
+          "aliases": [
+            "Stuttgart",
+            "VfB"
+          ]
+        },
+        {
+          "answer": "Hamburger SV",
+          "display": "#2 — 48 pts",
+          "aliases": [
+            "Hamburg",
+            "HSV"
+          ]
+        },
+        {
+          "answer": "Borussia Mönchengladbach",
+          "display": "#3 — 48 pts",
+          "aliases": [
+            "Gladbach",
+            "Mönchengladbach"
+          ]
+        },
+        {
+          "answer": "Bayern Munich",
+          "display": "#4 — 47 pts",
+          "aliases": [
+            "Bayern",
+            "FC Bayern",
+            "Bayern München"
+          ]
+        },
+        {
+          "answer": "Werder Bremen",
+          "display": "#5 — 45 pts",
+          "aliases": [
+            "Werder",
+            "Bremen"
+          ]
+        },
+        {
+          "answer": "1. FC Köln",
+          "display": "#6 — 38 pts",
+          "aliases": [
+            "Cologne",
+            "FC Köln",
+            "Köln"
+          ]
+        },
+        {
+          "answer": "Bayer Leverkusen",
+          "display": "#7 — 34 pts",
+          "aliases": [
+            "Leverkusen",
+            "Bayer"
+          ]
+        },
+        {
+          "answer": "Arminia Bielefeld",
+          "display": "#8 — 33 pts",
+          "aliases": [
+            "Bielefeld"
+          ]
+        },
+        {
+          "answer": "Eintracht Braunschweig",
+          "display": "#9 — 32 pts",
+          "aliases": [
+            "Braunschweig"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/soccer/europe/bundesliga/seasons",
+      "question": "Top 6 clubs in the final 1984–85 Bundesliga table",
+      "cutoff": 6,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1348727522 | table 2 | name: Team | value: Pos | order: asc | note: final league table, official positions",
+      "tags": [
+        "soccer",
+        "bundesliga",
+        "league-table",
+        "1984–85"
+      ],
+      "answers": [
+        {
+          "answer": "Bayern Munich",
+          "display": "#1 — 50 pts",
+          "aliases": [
+            "Bayern",
+            "FC Bayern",
+            "Bayern München"
+          ]
+        },
+        {
+          "answer": "Werder Bremen",
+          "display": "#2 — 46 pts",
+          "aliases": [
+            "Werder",
+            "Bremen"
+          ]
+        },
+        {
+          "answer": "1. FC Köln",
+          "display": "#3 — 40 pts",
+          "aliases": [
+            "Cologne",
+            "FC Köln",
+            "Köln"
+          ]
+        },
+        {
+          "answer": "Borussia Mönchengladbach",
+          "display": "#4 — 39 pts",
+          "aliases": [
+            "Gladbach",
+            "Mönchengladbach"
+          ]
+        },
+        {
+          "answer": "Hamburger SV",
+          "display": "#5 — 37 pts",
+          "aliases": [
+            "Hamburg",
+            "HSV"
+          ]
+        },
+        {
+          "answer": "Waldhof Mannheim",
+          "display": "#6 — 37 pts",
+          "aliases": [
+            "Mannheim"
+          ]
+        },
+        {
+          "answer": "Bayer 05 Uerdingen",
+          "display": "#7 — 36 pts",
+          "aliases": [
+            "Uerdingen",
+            "KFC Uerdingen"
+          ]
+        },
+        {
+          "answer": "Schalke 04",
+          "display": "#8 — 34 pts",
+          "aliases": [
+            "Schalke"
+          ]
+        },
+        {
+          "answer": "VfL Bochum",
+          "display": "#9 — 34 pts",
+          "aliases": [
+            "Bochum"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/soccer/europe/bundesliga/seasons",
+      "question": "Top 6 clubs in the final 1985–86 Bundesliga table",
+      "cutoff": 6,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1348602246 | table 2 | name: Team | value: Pos | order: asc | note: final league table, official positions",
+      "tags": [
+        "soccer",
+        "bundesliga",
+        "league-table",
+        "1985–86"
+      ],
+      "answers": [
+        {
+          "answer": "Bayern Munich",
+          "display": "#1 — 49 pts",
+          "aliases": [
+            "Bayern",
+            "FC Bayern",
+            "Bayern München"
+          ]
+        },
+        {
+          "answer": "Werder Bremen",
+          "display": "#2 — 49 pts",
+          "aliases": [
+            "Werder",
+            "Bremen"
+          ]
+        },
+        {
+          "answer": "Bayer 05 Uerdingen",
+          "display": "#3 — 45 pts",
+          "aliases": [
+            "Uerdingen",
+            "KFC Uerdingen"
+          ]
+        },
+        {
+          "answer": "Borussia Mönchengladbach",
+          "display": "#4 — 42 pts",
+          "aliases": [
+            "Gladbach",
+            "Mönchengladbach"
+          ]
+        },
+        {
+          "answer": "VfB Stuttgart",
+          "display": "#5 — 41 pts",
+          "aliases": [
+            "Stuttgart",
+            "VfB"
+          ]
+        },
+        {
+          "answer": "Bayer Leverkusen",
+          "display": "#6 — 40 pts",
+          "aliases": [
+            "Leverkusen",
+            "Bayer"
+          ]
+        },
+        {
+          "answer": "Hamburger SV",
+          "display": "#7 — 39 pts",
+          "aliases": [
+            "Hamburg",
+            "HSV"
+          ]
+        },
+        {
+          "answer": "Waldhof Mannheim",
+          "display": "#8 — 33 pts",
+          "aliases": [
+            "Mannheim"
+          ]
+        },
+        {
+          "answer": "VfL Bochum",
+          "display": "#9 — 32 pts",
+          "aliases": [
+            "Bochum"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/soccer/europe/bundesliga/seasons",
+      "question": "Top 6 clubs in the final 1986–87 Bundesliga table",
+      "cutoff": 6,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1348627351 | table 2 | name: Team | value: Pos | order: asc | note: final league table, official positions",
+      "tags": [
+        "soccer",
+        "bundesliga",
+        "league-table",
+        "1986–87"
+      ],
+      "answers": [
+        {
+          "answer": "Bayern Munich",
+          "display": "#1 — 53 pts",
+          "aliases": [
+            "Bayern",
+            "FC Bayern",
+            "Bayern München"
+          ]
+        },
+        {
+          "answer": "Hamburger SV",
+          "display": "#2 — 47 pts",
+          "aliases": [
+            "Hamburg",
+            "HSV"
+          ]
+        },
+        {
+          "answer": "Borussia Mönchengladbach",
+          "display": "#3 — 43 pts",
+          "aliases": [
+            "Gladbach",
+            "Mönchengladbach"
+          ]
+        },
+        {
+          "answer": "Borussia Dortmund",
+          "display": "#4 — 40 pts",
+          "aliases": [
+            "Dortmund",
+            "BVB"
+          ]
+        },
+        {
+          "answer": "Werder Bremen",
+          "display": "#5 — 40 pts",
+          "aliases": [
+            "Werder",
+            "Bremen"
+          ]
+        },
+        {
+          "answer": "Bayer Leverkusen",
+          "display": "#6 — 39 pts",
+          "aliases": [
+            "Leverkusen",
+            "Bayer"
+          ]
+        },
+        {
+          "answer": "1. FC Kaiserslautern",
+          "display": "#7 — 37 pts",
+          "aliases": [
+            "Kaiserslautern"
+          ]
+        },
+        {
+          "answer": "Bayer 05 Uerdingen",
+          "display": "#8 — 35 pts",
+          "aliases": [
+            "Uerdingen",
+            "KFC Uerdingen"
+          ]
+        },
+        {
+          "answer": "1. FC Nürnberg",
+          "display": "#9 — 35 pts",
+          "aliases": [
+            "Nürnberg",
+            "Nuremberg"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/soccer/europe/bundesliga/seasons",
+      "question": "Top 6 clubs in the final 1987–88 Bundesliga table",
+      "cutoff": 6,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1376690514 | table 2 | name: Team | value: Pos | order: asc | note: final league table, official positions",
+      "tags": [
+        "soccer",
+        "bundesliga",
+        "league-table",
+        "1987–88"
+      ],
+      "answers": [
+        {
+          "answer": "Werder Bremen",
+          "display": "#1 — 52 pts",
+          "aliases": [
+            "Werder",
+            "Bremen"
+          ]
+        },
+        {
+          "answer": "Bayern Munich",
+          "display": "#2 — 48 pts",
+          "aliases": [
+            "Bayern",
+            "FC Bayern",
+            "Bayern München"
+          ]
+        },
+        {
+          "answer": "1. FC Köln",
+          "display": "#3 — 48 pts",
+          "aliases": [
+            "Cologne",
+            "FC Köln",
+            "Köln"
+          ]
+        },
+        {
+          "answer": "VfB Stuttgart",
+          "display": "#4 — 40 pts",
+          "aliases": [
+            "Stuttgart",
+            "VfB"
+          ]
+        },
+        {
+          "answer": "1. FC Nürnberg",
+          "display": "#5 — 37 pts",
+          "aliases": [
+            "Nürnberg",
+            "Nuremberg"
+          ]
+        },
+        {
+          "answer": "Hamburger SV",
+          "display": "#6 — 37 pts",
+          "aliases": [
+            "Hamburg",
+            "HSV"
+          ]
+        },
+        {
+          "answer": "Borussia Mönchengladbach",
+          "display": "#7 — 33 pts",
+          "aliases": [
+            "Gladbach",
+            "Mönchengladbach"
+          ]
+        },
+        {
+          "answer": "Bayer Leverkusen",
+          "display": "#8 — 32 pts",
+          "aliases": [
+            "Leverkusen",
+            "Bayer"
+          ]
+        },
+        {
+          "answer": "Eintracht Frankfurt",
+          "display": "#9 — 31 pts",
+          "aliases": [
+            "Frankfurt"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/soccer/europe/bundesliga/seasons",
+      "question": "Top 6 clubs in the final 1988–89 Bundesliga table",
+      "cutoff": 6,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1366126902 | table 2 | name: Team | value: Pos | order: asc | note: final league table, official positions",
+      "tags": [
+        "soccer",
+        "bundesliga",
+        "league-table",
+        "1988–89"
+      ],
+      "answers": [
+        {
+          "answer": "Bayern Munich",
+          "display": "#1 — 50 pts",
+          "aliases": [
+            "Bayern",
+            "FC Bayern",
+            "Bayern München"
+          ]
+        },
+        {
+          "answer": "1. FC Köln",
+          "display": "#2 — 45 pts",
+          "aliases": [
+            "Cologne",
+            "FC Köln",
+            "Köln"
+          ]
+        },
+        {
+          "answer": "Werder Bremen",
+          "display": "#3 — 44 pts",
+          "aliases": [
+            "Werder",
+            "Bremen"
+          ]
+        },
+        {
+          "answer": "Hamburger SV",
+          "display": "#4 — 43 pts",
+          "aliases": [
+            "Hamburg",
+            "HSV"
+          ]
+        },
+        {
+          "answer": "VfB Stuttgart",
+          "display": "#5 — 39 pts",
+          "aliases": [
+            "Stuttgart",
+            "VfB"
+          ]
+        },
+        {
+          "answer": "Borussia Mönchengladbach",
+          "display": "#6 — 38 pts",
+          "aliases": [
+            "Gladbach",
+            "Mönchengladbach"
+          ]
+        },
+        {
+          "answer": "Borussia Dortmund",
+          "display": "#7 — 37 pts",
+          "aliases": [
+            "Dortmund",
+            "BVB"
+          ]
+        },
+        {
+          "answer": "Bayer Leverkusen",
+          "display": "#8 — 34 pts",
+          "aliases": [
+            "Leverkusen",
+            "Bayer"
+          ]
+        },
+        {
+          "answer": "1. FC Kaiserslautern",
+          "display": "#9 — 33 pts",
+          "aliases": [
+            "Kaiserslautern"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/soccer/europe/bundesliga/seasons",
+      "question": "Top 6 clubs in the final 1989–90 Bundesliga table",
+      "cutoff": 6,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1363459514 | table 2 | name: Team | value: Pos | order: asc | note: final league table, official positions",
+      "tags": [
+        "soccer",
+        "bundesliga",
+        "league-table",
+        "1989–90"
+      ],
+      "answers": [
+        {
+          "answer": "Bayern Munich",
+          "display": "#1 — 49 pts",
+          "aliases": [
+            "Bayern",
+            "FC Bayern",
+            "Bayern München"
+          ]
+        },
+        {
+          "answer": "1. FC Köln",
+          "display": "#2 — 43 pts",
+          "aliases": [
+            "Cologne",
+            "FC Köln",
+            "Köln"
+          ]
+        },
+        {
+          "answer": "Eintracht Frankfurt",
+          "display": "#3 — 41 pts",
+          "aliases": [
+            "Frankfurt"
+          ]
+        },
+        {
+          "answer": "Borussia Dortmund",
+          "display": "#4 — 41 pts",
+          "aliases": [
+            "Dortmund",
+            "BVB"
+          ]
+        },
+        {
+          "answer": "Bayer Leverkusen",
+          "display": "#5 — 39 pts",
+          "aliases": [
+            "Leverkusen",
+            "Bayer"
+          ]
+        },
+        {
+          "answer": "VfB Stuttgart",
+          "display": "#6 — 36 pts",
+          "aliases": [
+            "Stuttgart",
+            "VfB"
+          ]
+        },
+        {
+          "answer": "Werder Bremen",
+          "display": "#7 — 34 pts",
+          "aliases": [
+            "Werder",
+            "Bremen"
+          ]
+        },
+        {
+          "answer": "1. FC Nürnberg",
+          "display": "#8 — 33 pts",
+          "aliases": [
+            "Nürnberg",
+            "Nuremberg"
+          ]
+        },
+        {
+          "answer": "Fortuna Düsseldorf",
+          "display": "#9 — 32 pts",
+          "aliases": [
+            "Düsseldorf"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/soccer/europe/bundesliga/seasons",
+      "question": "Top 6 clubs in the final 1990–91 Bundesliga table",
+      "cutoff": 6,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1373542194 | table 2 | name: Team | value: Pos | order: asc | note: final league table, official positions",
+      "tags": [
+        "soccer",
+        "bundesliga",
+        "league-table",
+        "1990–91"
+      ],
+      "answers": [
+        {
+          "answer": "1. FC Kaiserslautern",
+          "display": "#1 — 48 pts",
+          "aliases": [
+            "Kaiserslautern"
+          ]
+        },
+        {
+          "answer": "Bayern Munich",
+          "display": "#2 — 45 pts",
+          "aliases": [
+            "Bayern",
+            "FC Bayern",
+            "Bayern München"
+          ]
+        },
+        {
+          "answer": "Werder Bremen",
+          "display": "#3 — 42 pts",
+          "aliases": [
+            "Werder",
+            "Bremen"
+          ]
+        },
+        {
+          "answer": "Eintracht Frankfurt",
+          "display": "#4 — 40 pts",
+          "aliases": [
+            "Frankfurt"
+          ]
+        },
+        {
+          "answer": "Hamburger SV",
+          "display": "#5 — 40 pts",
+          "aliases": [
+            "Hamburg",
+            "HSV"
+          ]
+        },
+        {
+          "answer": "VfB Stuttgart",
+          "display": "#6 — 38 pts",
+          "aliases": [
+            "Stuttgart",
+            "VfB"
+          ]
+        },
+        {
+          "answer": "1. FC Köln",
+          "display": "#7 — 37 pts",
+          "aliases": [
+            "Cologne",
+            "FC Köln",
+            "Köln"
+          ]
+        },
+        {
+          "answer": "Bayer Leverkusen",
+          "display": "#8 — 35 pts",
+          "aliases": [
+            "Leverkusen",
+            "Bayer"
+          ]
+        },
+        {
+          "answer": "Borussia Mönchengladbach",
+          "display": "#9 — 35 pts",
+          "aliases": [
+            "Gladbach",
+            "Mönchengladbach"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/soccer/europe/bundesliga/seasons",
+      "question": "Top 7 clubs in the final 1991–92 Bundesliga table",
+      "cutoff": 7,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1377238416 | table 2 | name: Team | value: Pos | order: asc | note: final league table, official positions",
+      "tags": [
+        "soccer",
+        "bundesliga",
+        "league-table",
+        "1991–92"
+      ],
+      "answers": [
+        {
+          "answer": "VfB Stuttgart",
+          "display": "#1 — 52 pts",
+          "aliases": [
+            "Stuttgart",
+            "VfB"
+          ]
+        },
+        {
+          "answer": "Borussia Dortmund",
+          "display": "#2 — 52 pts",
+          "aliases": [
+            "Dortmund",
+            "BVB"
+          ]
+        },
+        {
+          "answer": "Eintracht Frankfurt",
+          "display": "#3 — 50 pts",
+          "aliases": [
+            "Frankfurt"
+          ]
+        },
+        {
+          "answer": "1. FC Köln",
+          "display": "#4 — 44 pts",
+          "aliases": [
+            "Cologne",
+            "FC Köln",
+            "Köln"
+          ]
+        },
+        {
+          "answer": "1. FC Kaiserslautern",
+          "display": "#5 — 44 pts",
+          "aliases": [
+            "Kaiserslautern"
+          ]
+        },
+        {
+          "answer": "Bayer Leverkusen",
+          "display": "#6 — 43 pts",
+          "aliases": [
+            "Leverkusen",
+            "Bayer"
+          ]
+        },
+        {
+          "answer": "1. FC Nürnberg",
+          "display": "#7 — 43 pts",
+          "aliases": [
+            "Nürnberg",
+            "Nuremberg"
+          ]
+        },
+        {
+          "answer": "Karlsruher SC",
+          "display": "#8 — 41 pts",
+          "aliases": [
+            "Karlsruhe",
+            "KSC"
+          ]
+        },
+        {
+          "answer": "Werder Bremen",
+          "display": "#9 — 38 pts",
+          "aliases": [
+            "Werder",
+            "Bremen"
+          ]
+        },
+        {
+          "answer": "Bayern Munich",
+          "display": "#10 — 36 pts",
+          "aliases": [
+            "Bayern",
+            "FC Bayern",
+            "Bayern München"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/soccer/europe/bundesliga/seasons",
+      "question": "Top 6 clubs in the final 1992–93 Bundesliga table",
+      "cutoff": 6,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1367017444 | table 2 | name: Team | value: Pos | order: asc | note: final league table, official positions",
+      "tags": [
+        "soccer",
+        "bundesliga",
+        "league-table",
+        "1992–93"
+      ],
+      "answers": [
+        {
+          "answer": "Werder Bremen",
+          "display": "#1 — 48 pts",
+          "aliases": [
+            "Werder",
+            "Bremen"
+          ]
+        },
+        {
+          "answer": "Bayern Munich",
+          "display": "#2 — 47 pts",
+          "aliases": [
+            "Bayern",
+            "FC Bayern",
+            "Bayern München"
+          ]
+        },
+        {
+          "answer": "Eintracht Frankfurt",
+          "display": "#3 — 42 pts",
+          "aliases": [
+            "Frankfurt"
+          ]
+        },
+        {
+          "answer": "Borussia Dortmund",
+          "display": "#4 — 41 pts",
+          "aliases": [
+            "Dortmund",
+            "BVB"
+          ]
+        },
+        {
+          "answer": "Bayer Leverkusen",
+          "display": "#5 — 40 pts",
+          "aliases": [
+            "Leverkusen",
+            "Bayer"
+          ]
+        },
+        {
+          "answer": "Karlsruher SC",
+          "display": "#6 — 39 pts",
+          "aliases": [
+            "Karlsruhe",
+            "KSC"
+          ]
+        },
+        {
+          "answer": "VfB Stuttgart",
+          "display": "#7 — 36 pts",
+          "aliases": [
+            "Stuttgart",
+            "VfB"
+          ]
+        },
+        {
+          "answer": "1. FC Kaiserslautern",
+          "display": "#8 — 35 pts",
+          "aliases": [
+            "Kaiserslautern"
+          ]
+        },
+        {
+          "answer": "Borussia Mönchengladbach",
+          "display": "#9 — 35 pts",
+          "aliases": [
+            "Gladbach",
+            "Mönchengladbach"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/soccer/europe/bundesliga/seasons",
+      "question": "Top 6 clubs in the final 1993–94 Bundesliga table",
+      "cutoff": 6,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1366127004 | table 2 | name: Team | value: Pos | order: asc | note: final league table, official positions",
+      "tags": [
+        "soccer",
+        "bundesliga",
+        "league-table",
+        "1993–94"
+      ],
+      "answers": [
+        {
+          "answer": "Bayern Munich",
+          "display": "#1 — 44 pts",
+          "aliases": [
+            "Bayern",
+            "FC Bayern",
+            "Bayern München"
+          ]
+        },
+        {
+          "answer": "1. FC Kaiserslautern",
+          "display": "#2 — 43 pts",
+          "aliases": [
+            "Kaiserslautern"
+          ]
+        },
+        {
+          "answer": "Bayer Leverkusen",
+          "display": "#3 — 39 pts",
+          "aliases": [
+            "Leverkusen",
+            "Bayer"
+          ]
+        },
+        {
+          "answer": "Borussia Dortmund",
+          "display": "#4 — 39 pts",
+          "aliases": [
+            "Dortmund",
+            "BVB"
+          ]
+        },
+        {
+          "answer": "Eintracht Frankfurt",
+          "display": "#5 — 38 pts",
+          "aliases": [
+            "Frankfurt"
+          ]
+        },
+        {
+          "answer": "Karlsruher SC",
+          "display": "#6 — 38 pts",
+          "aliases": [
+            "Karlsruhe",
+            "KSC"
+          ]
+        },
+        {
+          "answer": "VfB Stuttgart",
+          "display": "#7 — 37 pts",
+          "aliases": [
+            "Stuttgart",
+            "VfB"
+          ]
+        },
+        {
+          "answer": "Werder Bremen",
+          "display": "#8 — 36 pts",
+          "aliases": [
+            "Werder",
+            "Bremen"
+          ]
+        },
+        {
+          "answer": "MSV Duisburg",
+          "display": "#9 — 36 pts",
+          "aliases": [
+            "Duisburg"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/soccer/europe/bundesliga/seasons",
+      "question": "Top 6 clubs in the final 1994–95 Bundesliga table",
+      "cutoff": 6,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1370861131 | table 2 | name: Team | value: Pos | order: asc | note: final league table, official positions",
+      "tags": [
+        "soccer",
+        "bundesliga",
+        "league-table",
+        "1994–95"
+      ],
+      "answers": [
+        {
+          "answer": "Borussia Dortmund",
+          "display": "#1 — 49 pts",
+          "aliases": [
+            "Dortmund",
+            "BVB"
+          ]
+        },
+        {
+          "answer": "Werder Bremen",
+          "display": "#2 — 48 pts",
+          "aliases": [
+            "Werder",
+            "Bremen"
+          ]
+        },
+        {
+          "answer": "SC Freiburg",
+          "display": "#3 — 46 pts",
+          "aliases": [
+            "Freiburg"
+          ]
+        },
+        {
+          "answer": "1. FC Kaiserslautern",
+          "display": "#4 — 46 pts",
+          "aliases": [
+            "Kaiserslautern"
+          ]
+        },
+        {
+          "answer": "Borussia Mönchengladbach",
+          "display": "#5 — 43 pts",
+          "aliases": [
+            "Gladbach",
+            "Mönchengladbach"
+          ]
+        },
+        {
+          "answer": "Bayern Munich",
+          "display": "#6 — 43 pts",
+          "aliases": [
+            "Bayern",
+            "FC Bayern",
+            "Bayern München"
+          ]
+        },
+        {
+          "answer": "Bayer Leverkusen",
+          "display": "#7 — 36 pts",
+          "aliases": [
+            "Leverkusen",
+            "Bayer"
+          ]
+        },
+        {
+          "answer": "Karlsruher SC",
+          "display": "#8 — 36 pts",
+          "aliases": [
+            "Karlsruhe",
+            "KSC"
+          ]
+        },
+        {
+          "answer": "Eintracht Frankfurt",
+          "display": "#9 — 33 pts",
+          "aliases": [
+            "Frankfurt"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/soccer/europe/bundesliga/seasons",
+      "question": "Top 6 clubs in the final 1995–96 Bundesliga table",
+      "cutoff": 6,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1366127089 | table 2 | name: Team | value: Pos | order: asc | note: final league table, official positions",
+      "tags": [
+        "soccer",
+        "bundesliga",
+        "league-table",
+        "1995–96"
+      ],
+      "answers": [
+        {
+          "answer": "Borussia Dortmund",
+          "display": "#1 — 68 pts",
+          "aliases": [
+            "Dortmund",
+            "BVB"
+          ]
+        },
+        {
+          "answer": "Bayern Munich",
+          "display": "#2 — 62 pts",
+          "aliases": [
+            "Bayern",
+            "FC Bayern",
+            "Bayern München"
+          ]
+        },
+        {
+          "answer": "Schalke 04",
+          "display": "#3 — 56 pts",
+          "aliases": [
+            "Schalke"
+          ]
+        },
+        {
+          "answer": "Borussia Mönchengladbach",
+          "display": "#4 — 53 pts",
+          "aliases": [
+            "Gladbach",
+            "Mönchengladbach"
+          ]
+        },
+        {
+          "answer": "Hamburger SV",
+          "display": "#5 — 50 pts",
+          "aliases": [
+            "Hamburg",
+            "HSV"
+          ]
+        },
+        {
+          "answer": "Hansa Rostock",
+          "display": "#6 — 49 pts",
+          "aliases": [
+            "Rostock"
+          ]
+        },
+        {
+          "answer": "Karlsruher SC",
+          "display": "#7 — 48 pts",
+          "aliases": [
+            "Karlsruhe",
+            "KSC"
+          ]
+        },
+        {
+          "answer": "TSV 1860 Munich",
+          "display": "#8 — 45 pts",
+          "aliases": [
+            "1860 Munich",
+            "1860"
+          ]
+        },
+        {
+          "answer": "Werder Bremen",
+          "display": "#9 — 44 pts",
+          "aliases": [
+            "Werder",
+            "Bremen"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/soccer/europe/bundesliga/seasons",
+      "question": "Top 6 clubs in the final 1996–97 Bundesliga table",
+      "cutoff": 6,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1372037905 | table 2 | name: Team | value: Pos | order: asc | note: final league table, official positions",
+      "tags": [
+        "soccer",
+        "bundesliga",
+        "league-table",
+        "1996–97"
+      ],
+      "answers": [
+        {
+          "answer": "Bayern Munich",
+          "display": "#1 — 71 pts",
+          "aliases": [
+            "Bayern",
+            "FC Bayern",
+            "Bayern München"
+          ]
+        },
+        {
+          "answer": "Bayer Leverkusen",
+          "display": "#2 — 69 pts",
+          "aliases": [
+            "Leverkusen",
+            "Bayer"
+          ]
+        },
+        {
+          "answer": "Borussia Dortmund",
+          "display": "#3 — 63 pts",
+          "aliases": [
+            "Dortmund",
+            "BVB"
+          ]
+        },
+        {
+          "answer": "VfB Stuttgart",
+          "display": "#4 — 61 pts",
+          "aliases": [
+            "Stuttgart",
+            "VfB"
+          ]
+        },
+        {
+          "answer": "VfL Bochum",
+          "display": "#5 — 53 pts",
+          "aliases": [
+            "Bochum"
+          ]
+        },
+        {
+          "answer": "Karlsruher SC",
+          "display": "#6 — 49 pts",
+          "aliases": [
+            "Karlsruhe",
+            "KSC"
+          ]
+        },
+        {
+          "answer": "TSV 1860 Munich",
+          "display": "#7 — 49 pts",
+          "aliases": [
+            "1860 Munich",
+            "1860"
+          ]
+        },
+        {
+          "answer": "Werder Bremen",
+          "display": "#8 — 48 pts",
+          "aliases": [
+            "Werder",
+            "Bremen"
+          ]
+        },
+        {
+          "answer": "MSV Duisburg",
+          "display": "#9 — 45 pts",
+          "aliases": [
+            "Duisburg"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/soccer/europe/bundesliga/seasons",
+      "question": "Top 6 clubs in the final 1997–98 Bundesliga table",
+      "cutoff": 6,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1373042108 | table 2 | name: Team | value: Pos | order: asc | note: final league table, official positions",
+      "tags": [
+        "soccer",
+        "bundesliga",
+        "league-table",
+        "1997–98"
+      ],
+      "answers": [
+        {
+          "answer": "1. FC Kaiserslautern",
+          "display": "#1 — 68 pts",
+          "aliases": [
+            "Kaiserslautern"
+          ]
+        },
+        {
+          "answer": "Bayern Munich",
+          "display": "#2 — 66 pts",
+          "aliases": [
+            "Bayern",
+            "FC Bayern",
+            "Bayern München"
+          ]
+        },
+        {
+          "answer": "Bayer Leverkusen",
+          "display": "#3 — 55 pts",
+          "aliases": [
+            "Leverkusen",
+            "Bayer"
+          ]
+        },
+        {
+          "answer": "VfB Stuttgart",
+          "display": "#4 — 52 pts",
+          "aliases": [
+            "Stuttgart",
+            "VfB"
+          ]
+        },
+        {
+          "answer": "Schalke 04",
+          "display": "#5 — 52 pts",
+          "aliases": [
+            "Schalke"
+          ]
+        },
+        {
+          "answer": "Hansa Rostock",
+          "display": "#6 — 51 pts",
+          "aliases": [
+            "Rostock"
+          ]
+        },
+        {
+          "answer": "Werder Bremen",
+          "display": "#7 — 50 pts",
+          "aliases": [
+            "Werder",
+            "Bremen"
+          ]
+        },
+        {
+          "answer": "MSV Duisburg",
+          "display": "#8 — 44 pts",
+          "aliases": [
+            "Duisburg"
+          ]
+        },
+        {
+          "answer": "Hamburger SV",
+          "display": "#9 — 44 pts",
+          "aliases": [
+            "Hamburg",
+            "HSV"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/soccer/europe/bundesliga/seasons",
+      "question": "Top 6 clubs in the final 1998–99 Bundesliga table",
+      "cutoff": 6,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1366127382 | table 2 | name: Team | value: Pos | order: asc | note: final league table, official positions",
+      "tags": [
+        "soccer",
+        "bundesliga",
+        "league-table",
+        "1998–99"
+      ],
+      "answers": [
+        {
+          "answer": "Bayern Munich",
+          "display": "#1 — 78 pts",
+          "aliases": [
+            "Bayern",
+            "FC Bayern",
+            "Bayern München"
+          ]
+        },
+        {
+          "answer": "Bayer Leverkusen",
+          "display": "#2 — 63 pts",
+          "aliases": [
+            "Leverkusen",
+            "Bayer"
+          ]
+        },
+        {
+          "answer": "Hertha BSC",
+          "display": "#3 — 62 pts",
+          "aliases": [
+            "Hertha",
+            "Hertha Berlin"
+          ]
+        },
+        {
+          "answer": "Borussia Dortmund",
+          "display": "#4 — 57 pts",
+          "aliases": [
+            "Dortmund",
+            "BVB"
+          ]
+        },
+        {
+          "answer": "1. FC Kaiserslautern",
+          "display": "#5 — 57 pts",
+          "aliases": [
+            "Kaiserslautern"
+          ]
+        },
+        {
+          "answer": "VfL Wolfsburg",
+          "display": "#6 — 55 pts",
+          "aliases": [
+            "Wolfsburg"
+          ]
+        },
+        {
+          "answer": "Hamburger SV",
+          "display": "#7 — 50 pts",
+          "aliases": [
+            "Hamburg",
+            "HSV"
+          ]
+        },
+        {
+          "answer": "MSV Duisburg",
+          "display": "#8 — 49 pts",
+          "aliases": [
+            "Duisburg"
+          ]
+        },
+        {
+          "answer": "TSV 1860 Munich",
+          "display": "#9 — 41 pts",
+          "aliases": [
+            "1860 Munich",
+            "1860"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/soccer/europe/bundesliga/seasons",
+      "question": "Top 6 clubs in the final 1999–2000 Bundesliga table",
+      "cutoff": 6,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1361545389 | table 2 | name: Team | value: Pos | order: asc | note: final league table, official positions",
+      "tags": [
+        "soccer",
+        "bundesliga",
+        "league-table",
+        "1999–2000"
+      ],
+      "answers": [
+        {
+          "answer": "Bayern Munich",
+          "display": "#1 — 73 pts",
+          "aliases": [
+            "Bayern",
+            "FC Bayern",
+            "Bayern München"
+          ]
+        },
+        {
+          "answer": "Bayer Leverkusen",
+          "display": "#2 — 73 pts",
+          "aliases": [
+            "Leverkusen",
+            "Bayer"
+          ]
+        },
+        {
+          "answer": "Hamburger SV",
+          "display": "#3 — 59 pts",
+          "aliases": [
+            "Hamburg",
+            "HSV"
+          ]
+        },
+        {
+          "answer": "TSV 1860 Munich",
+          "display": "#4 — 53 pts",
+          "aliases": [
+            "1860 Munich",
+            "1860"
+          ]
+        },
+        {
+          "answer": "1. FC Kaiserslautern",
+          "display": "#5 — 50 pts",
+          "aliases": [
+            "Kaiserslautern"
+          ]
+        },
+        {
+          "answer": "Hertha BSC",
+          "display": "#6 — 50 pts",
+          "aliases": [
+            "Hertha",
+            "Hertha Berlin"
+          ]
+        },
+        {
+          "answer": "VfL Wolfsburg",
+          "display": "#7 — 49 pts",
+          "aliases": [
+            "Wolfsburg"
+          ]
+        },
+        {
+          "answer": "VfB Stuttgart",
+          "display": "#8 — 48 pts",
+          "aliases": [
+            "Stuttgart",
+            "VfB"
+          ]
+        },
+        {
+          "answer": "Werder Bremen",
+          "display": "#9 — 47 pts",
+          "aliases": [
+            "Werder",
+            "Bremen"
+          ]
+        }
+      ]
+    }
+  ]
+}

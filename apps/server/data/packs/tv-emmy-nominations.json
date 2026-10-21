@@ -1,0 +1,2207 @@
+{
+  "categories": [
+    {
+      "path": "tv/awards",
+      "name": "TV Awards"
+    },
+    {
+      "path": "tv/awards/emmys",
+      "name": "Primetime Emmys"
+    }
+  ],
+  "questions": [
+    {
+      "category": "tv/awards/emmys",
+      "question": "Top 10 TV programs by nominations at the 29th Primetime Emmy Awards (main ceremony categories)",
+      "cutoff": 10,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1364628218 | table 8 | name: Program | value: Nominations",
+      "tags": [
+        "emmys",
+        "primetime-emmys",
+        "television",
+        "awards"
+      ],
+      "answers": [
+        {
+          "answer": "Roots",
+          "display": "21 nominations"
+        },
+        {
+          "answer": "The Mary Tyler Moore Show",
+          "display": "11 nominations"
+        },
+        {
+          "answer": "M*A*S*H",
+          "display": "9 nominations",
+          "aliases": [
+            "MASH"
+          ]
+        },
+        {
+          "answer": "Eleanor and Franklin: The White House Years",
+          "display": "8 nominations"
+        },
+        {
+          "answer": "Saturday Night Live",
+          "display": "7 nominations",
+          "aliases": [
+            "SNL",
+            "Saturday Night"
+          ]
+        },
+        {
+          "answer": "The Carol Burnett Show",
+          "display": "6 nominations"
+        },
+        {
+          "answer": "Raid on Entebbe",
+          "display": "6 nominations"
+        },
+        {
+          "answer": "Captains and the Kings",
+          "display": "5 nominations"
+        },
+        {
+          "answer": "Family",
+          "display": "5 nominations"
+        },
+        {
+          "answer": "Tail Gunner Joe",
+          "display": "5 nominations"
+        },
+        {
+          "answer": "The Adams Chronicles",
+          "display": "4 nominations"
+        },
+        {
+          "answer": "All in the Family",
+          "display": "4 nominations"
+        },
+        {
+          "answer": "Barney Miller",
+          "display": "4 nominations"
+        },
+        {
+          "answer": "Sybil",
+          "display": "4 nominations"
+        },
+        {
+          "answer": "The Waltons",
+          "display": "4 nominations"
+        }
+      ]
+    },
+    {
+      "category": "tv/awards/emmys",
+      "question": "Top 8 TV programs by nominations at the 33rd Primetime Emmy Awards (main ceremony categories)",
+      "cutoff": 8,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1364628432 | table 7 | name: Program | value: Nominations",
+      "tags": [
+        "emmys",
+        "primetime-emmys",
+        "television",
+        "awards"
+      ],
+      "answers": [
+        {
+          "answer": "Hill Street Blues",
+          "display": "14 nominations"
+        },
+        {
+          "answer": "Lou Grant",
+          "display": "10 nominations"
+        },
+        {
+          "answer": "M*A*S*H",
+          "display": "8 nominations",
+          "aliases": [
+            "MASH"
+          ]
+        },
+        {
+          "answer": "Shōgun",
+          "display": "8 nominations",
+          "aliases": [
+            "Shogun"
+          ]
+        },
+        {
+          "answer": "Taxi",
+          "display": "8 nominations"
+        },
+        {
+          "answer": "Masada",
+          "display": "7 nominations"
+        },
+        {
+          "answer": "Dallas",
+          "display": "5 nominations"
+        },
+        {
+          "answer": "Playing for Time",
+          "display": "5 nominations"
+        },
+        {
+          "answer": "Barney Miller",
+          "display": "4 nominations"
+        },
+        {
+          "answer": "Soap",
+          "display": "4 nominations"
+        },
+        {
+          "answer": "WKRP in Cincinnati",
+          "display": "4 nominations"
+        },
+        {
+          "answer": "The Shadow Box",
+          "display": "3 nominations"
+        },
+        {
+          "answer": "The Women's Room",
+          "display": "3 nominations"
+        }
+      ]
+    },
+    {
+      "category": "tv/awards/emmys",
+      "question": "Top 8 TV programs by nominations at the 34th Primetime Emmy Awards (main ceremony categories)",
+      "cutoff": 8,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1379750747 | table 7 | name: Program | value: Nominations",
+      "tags": [
+        "emmys",
+        "primetime-emmys",
+        "television",
+        "awards"
+      ],
+      "answers": [
+        {
+          "answer": "Hill Street Blues",
+          "display": "16 nominations"
+        },
+        {
+          "answer": "M*A*S*H",
+          "display": "10 nominations",
+          "aliases": [
+            "MASH"
+          ]
+        },
+        {
+          "answer": "Brideshead Revisited",
+          "display": "8 nominations"
+        },
+        {
+          "answer": "Taxi",
+          "display": "8 nominations"
+        },
+        {
+          "answer": "Lou Grant",
+          "display": "6 nominations"
+        },
+        {
+          "answer": "Second City Television",
+          "display": "6 nominations"
+        },
+        {
+          "answer": "Barney Miller",
+          "display": "5 nominations"
+        },
+        {
+          "answer": "A Woman Called Golda",
+          "display": "4 nominations"
+        },
+        {
+          "answer": "Bill",
+          "display": "3 nominations"
+        },
+        {
+          "answer": "The Elephant Man",
+          "display": "3 nominations"
+        },
+        {
+          "answer": "Inside the Third Reich",
+          "display": "3 nominations"
+        },
+        {
+          "answer": "Skokie",
+          "display": "3 nominations"
+        }
+      ]
+    },
+    {
+      "category": "tv/awards/emmys",
+      "question": "Top 5 TV programs by nominations at the 35th Primetime Emmy Awards (main ceremony categories)",
+      "cutoff": 5,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1364628522 | table 8 | name: Program | value: Nominations",
+      "tags": [
+        "emmys",
+        "primetime-emmys",
+        "television",
+        "awards"
+      ],
+      "answers": [
+        {
+          "answer": "Hill Street Blues",
+          "display": "14 nominations"
+        },
+        {
+          "answer": "Cheers",
+          "display": "9 nominations"
+        },
+        {
+          "answer": "The Thorn Birds",
+          "display": "9 nominations"
+        },
+        {
+          "answer": "Second City Television",
+          "display": "7 nominations"
+        },
+        {
+          "answer": "St. Elsewhere",
+          "display": "7 nominations",
+          "aliases": [
+            "St Elsewhere"
+          ]
+        },
+        {
+          "answer": "M*A*S*H",
+          "display": "6 nominations",
+          "aliases": [
+            "MASH"
+          ]
+        },
+        {
+          "answer": "Taxi",
+          "display": "6 nominations"
+        },
+        {
+          "answer": "Buffalo Bill",
+          "display": "5 nominations"
+        }
+      ]
+    },
+    {
+      "category": "tv/awards/emmys",
+      "question": "Top 10 TV programs by nominations at the 37th Primetime Emmy Awards (main ceremony categories)",
+      "cutoff": 10,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1364628669 | table 8 | name: Program | value: Nominations",
+      "tags": [
+        "emmys",
+        "primetime-emmys",
+        "television",
+        "awards"
+      ],
+      "answers": [
+        {
+          "answer": "Cheers",
+          "display": "11 nominations"
+        },
+        {
+          "answer": "Hill Street Blues",
+          "display": "9 nominations"
+        },
+        {
+          "answer": "Cagney & Lacey",
+          "display": "7 nominations",
+          "aliases": [
+            "Cagney and Lacey"
+          ]
+        },
+        {
+          "answer": "St. Elsewhere",
+          "display": "7 nominations",
+          "aliases": [
+            "St Elsewhere"
+          ]
+        },
+        {
+          "answer": "Miami Vice",
+          "display": "6 nominations"
+        },
+        {
+          "answer": "The Burning Bed",
+          "display": "5 nominations"
+        },
+        {
+          "answer": "The Cosby Show",
+          "display": "5 nominations"
+        },
+        {
+          "answer": "Do You Remember Love",
+          "display": "5 nominations"
+        },
+        {
+          "answer": "Late Night with David Letterman",
+          "display": "5 nominations"
+        },
+        {
+          "answer": "Motown Returns to the Apollo",
+          "display": "5 nominations"
+        },
+        {
+          "answer": "Fatal Vision",
+          "display": "4 nominations"
+        },
+        {
+          "answer": "The Jewel in the Crown",
+          "display": "4 nominations"
+        },
+        {
+          "answer": "Kate & Allie",
+          "display": "4 nominations"
+        },
+        {
+          "answer": "Night Court",
+          "display": "4 nominations"
+        },
+        {
+          "answer": "Wallenberg: A Hero's Story",
+          "display": "4 nominations"
+        }
+      ]
+    },
+    {
+      "category": "tv/awards/emmys",
+      "question": "Top 10 TV programs by nominations at the 38th Primetime Emmy Awards (main ceremony categories)",
+      "cutoff": 10,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1364628770 | table 9 | name: Program | value: Nominations",
+      "tags": [
+        "emmys",
+        "primetime-emmys",
+        "television",
+        "awards"
+      ],
+      "answers": [
+        {
+          "answer": "The Cosby Show",
+          "display": "13 nominations"
+        },
+        {
+          "answer": "St. Elsewhere",
+          "display": "9 nominations",
+          "aliases": [
+            "St Elsewhere"
+          ]
+        },
+        {
+          "answer": "The Golden Girls",
+          "display": "9 nominations"
+        },
+        {
+          "answer": "Moonlighting",
+          "display": "9 nominations"
+        },
+        {
+          "answer": "Cheers",
+          "display": "8 nominations"
+        },
+        {
+          "answer": "An Early Frost",
+          "display": "8 nominations"
+        },
+        {
+          "answer": "Cagney & Lacey",
+          "display": "7 nominations",
+          "aliases": [
+            "Cagney and Lacey"
+          ]
+        },
+        {
+          "answer": "Death of a Salesman",
+          "display": "5 nominations"
+        },
+        {
+          "answer": "Hill Street Blues",
+          "display": "5 nominations"
+        },
+        {
+          "answer": "Love Is Never Silent",
+          "display": "5 nominations"
+        },
+        {
+          "answer": "Amos",
+          "display": "4 nominations"
+        },
+        {
+          "answer": "Family Ties",
+          "display": "4 nominations"
+        },
+        {
+          "answer": "Mrs. Delafield Wants to Marry",
+          "display": "3 nominations"
+        },
+        {
+          "answer": "Newhart",
+          "display": "3 nominations"
+        }
+      ]
+    },
+    {
+      "category": "tv/awards/emmys",
+      "question": "Top 10 TV programs by nominations at the 39th Primetime Emmy Awards (main ceremony categories)",
+      "cutoff": 10,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1364628910 | table 9 | name: Program | value: Nominations",
+      "tags": [
+        "emmys",
+        "primetime-emmys",
+        "television",
+        "awards"
+      ],
+      "answers": [
+        {
+          "answer": "L.A. Law",
+          "display": "11 nominations"
+        },
+        {
+          "answer": "The Golden Girls",
+          "display": "10 nominations"
+        },
+        {
+          "answer": "St. Elsewhere",
+          "display": "10 nominations",
+          "aliases": [
+            "St Elsewhere"
+          ]
+        },
+        {
+          "answer": "Cheers",
+          "display": "8 nominations"
+        },
+        {
+          "answer": "Moonlighting",
+          "display": "7 nominations"
+        },
+        {
+          "answer": "Cagney & Lacey",
+          "display": "6 nominations",
+          "aliases": [
+            "Cagney and Lacey"
+          ]
+        },
+        {
+          "answer": "Nutcracker: Money, Madness and Murder",
+          "display": "6 nominations"
+        },
+        {
+          "answer": "Promise",
+          "display": "6 nominations"
+        },
+        {
+          "answer": "Family Ties",
+          "display": "5 nominations"
+        },
+        {
+          "answer": "Newhart",
+          "display": "5 nominations"
+        },
+        {
+          "answer": "The 41st Annual Tony Awards",
+          "display": "4 nominations"
+        },
+        {
+          "answer": "Escape from Sobibor",
+          "display": "4 nominations"
+        },
+        {
+          "answer": "The Tracey Ullman Show",
+          "display": "4 nominations"
+        },
+        {
+          "answer": "The Two Mrs. Grenvilles",
+          "display": "4 nominations"
+        }
+      ]
+    },
+    {
+      "category": "tv/awards/emmys",
+      "question": "Top 7 TV programs by nominations at the 40th Primetime Emmy Awards (main ceremony categories)",
+      "cutoff": 7,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1364628982 | table 8 | name: Program | value: Nominations",
+      "tags": [
+        "emmys",
+        "primetime-emmys",
+        "television",
+        "awards"
+      ],
+      "answers": [
+        {
+          "answer": "L.A. Law",
+          "display": "15 nominations"
+        },
+        {
+          "answer": "Cheers",
+          "display": "9 nominations"
+        },
+        {
+          "answer": "Baby M",
+          "display": "6 nominations"
+        },
+        {
+          "answer": "The Golden Girls",
+          "display": "6 nominations"
+        },
+        {
+          "answer": "St. Elsewhere",
+          "display": "6 nominations",
+          "aliases": [
+            "St Elsewhere"
+          ]
+        },
+        {
+          "answer": "The Attic: The Hiding of Anne Frank",
+          "display": "5 nominations"
+        },
+        {
+          "answer": "Thirtysomething",
+          "display": "5 nominations"
+        },
+        {
+          "answer": "Billionaire Boys Club",
+          "display": "4 nominations"
+        },
+        {
+          "answer": "Foxfire",
+          "display": "4 nominations"
+        },
+        {
+          "answer": "Lincoln",
+          "display": "4 nominations"
+        }
+      ]
+    },
+    {
+      "category": "tv/awards/emmys",
+      "question": "Top 7 TV programs by nominations at the 41st Primetime Emmy Awards (main ceremony categories)",
+      "cutoff": 7,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1364629062 | table 8 | name: Program | value: Nominations",
+      "tags": [
+        "emmys",
+        "primetime-emmys",
+        "television",
+        "awards"
+      ],
+      "answers": [
+        {
+          "answer": "L.A. Law",
+          "display": "15 nominations"
+        },
+        {
+          "answer": "Lonesome Dove",
+          "display": "9 nominations"
+        },
+        {
+          "answer": "The Wonder Years",
+          "display": "9 nominations"
+        },
+        {
+          "answer": "Cheers",
+          "display": "6 nominations"
+        },
+        {
+          "answer": "The Golden Girls",
+          "display": "6 nominations"
+        },
+        {
+          "answer": "Murphy Brown",
+          "display": "6 nominations"
+        },
+        {
+          "answer": "Thirtysomething",
+          "display": "6 nominations"
+        },
+        {
+          "answer": "My Name Is Bill W.",
+          "display": "5 nominations"
+        },
+        {
+          "answer": "Roe vs. Wade",
+          "display": "5 nominations"
+        },
+        {
+          "answer": "War and Remembrance",
+          "display": "5 nominations"
+        },
+        {
+          "answer": "I Know My First Name Is Steven",
+          "display": "4 nominations"
+        },
+        {
+          "answer": "The Tracey Ullman Show",
+          "display": "4 nominations"
+        }
+      ]
+    },
+    {
+      "category": "tv/awards/emmys",
+      "question": "Top 8 TV programs by nominations at the 43rd Primetime Emmy Awards (main ceremony categories)",
+      "cutoff": 8,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1377900033 | table 9 | name: Program | value: Nominations",
+      "tags": [
+        "emmys",
+        "primetime-emmys",
+        "television",
+        "awards"
+      ],
+      "answers": [
+        {
+          "answer": "Cheers",
+          "display": "9 nominations"
+        },
+        {
+          "answer": "L.A. Law",
+          "display": "8 nominations"
+        },
+        {
+          "answer": "Murphy Brown",
+          "display": "7 nominations"
+        },
+        {
+          "answer": "Thirtysomething",
+          "display": "6 nominations"
+        },
+        {
+          "answer": "Decoration Day",
+          "display": "5 nominations"
+        },
+        {
+          "answer": "The Josephine Baker Story",
+          "display": "5 nominations"
+        },
+        {
+          "answer": "Sarah, Plain and Tall",
+          "display": "5 nominations"
+        },
+        {
+          "answer": "Separate but Equal",
+          "display": "5 nominations"
+        },
+        {
+          "answer": "The 63rd Annual Academy Awards",
+          "display": "4 nominations"
+        },
+        {
+          "answer": "China Beach",
+          "display": "4 nominations"
+        },
+        {
+          "answer": "Evening Shade",
+          "display": "4 nominations"
+        },
+        {
+          "answer": "In Living Color",
+          "display": "4 nominations"
+        },
+        {
+          "answer": "Paris Trout",
+          "display": "4 nominations"
+        }
+      ]
+    },
+    {
+      "category": "tv/awards/emmys",
+      "question": "Top 8 TV programs by nominations at the 44th Primetime Emmy Awards (main ceremony categories)",
+      "cutoff": 8,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1364629195 | table 8 | name: Program | value: Nominations",
+      "tags": [
+        "emmys",
+        "primetime-emmys",
+        "television",
+        "awards"
+      ],
+      "answers": [
+        {
+          "answer": "Northern Exposure",
+          "display": "9 nominations"
+        },
+        {
+          "answer": "Murphy Brown",
+          "display": "8 nominations"
+        },
+        {
+          "answer": "Seinfeld",
+          "display": "8 nominations"
+        },
+        {
+          "answer": "Miss Rose White",
+          "display": "7 nominations"
+        },
+        {
+          "answer": "Cheers",
+          "display": "6 nominations"
+        },
+        {
+          "answer": "I'll Fly Away",
+          "display": "6 nominations"
+        },
+        {
+          "answer": "Broadway Bound",
+          "display": "5 nominations"
+        },
+        {
+          "answer": "L.A. Law",
+          "display": "5 nominations"
+        },
+        {
+          "answer": "China Beach",
+          "display": "4 nominations"
+        },
+        {
+          "answer": "Law & Order",
+          "display": "4 nominations"
+        },
+        {
+          "answer": "Quantum Leap",
+          "display": "4 nominations"
+        },
+        {
+          "answer": "Roseanne",
+          "display": "4 nominations"
+        },
+        {
+          "answer": "The Tonight Show Starring Johnny Carson",
+          "display": "4 nominations"
+        }
+      ]
+    },
+    {
+      "category": "tv/awards/emmys",
+      "question": "Top 9 TV programs by nominations at the 45th Primetime Emmy Awards (main ceremony categories)",
+      "cutoff": 9,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1364629232 | table 8 | name: Program | value: Nominations",
+      "tags": [
+        "emmys",
+        "primetime-emmys",
+        "television",
+        "awards"
+      ],
+      "answers": [
+        {
+          "answer": "Northern Exposure",
+          "display": "9 nominations"
+        },
+        {
+          "answer": "Seinfeld",
+          "display": "8 nominations"
+        },
+        {
+          "answer": "Barbarians at the Gate",
+          "display": "6 nominations"
+        },
+        {
+          "answer": "The Larry Sanders Show",
+          "display": "6 nominations"
+        },
+        {
+          "answer": "Cheers",
+          "display": "5 nominations"
+        },
+        {
+          "answer": "Citizen Cohn",
+          "display": "5 nominations"
+        },
+        {
+          "answer": "I'll Fly Away",
+          "display": "5 nominations"
+        },
+        {
+          "answer": "The Positively True Adventures of the Alleged Texas Cheerleader-Murdering Mom",
+          "display": "5 nominations"
+        },
+        {
+          "answer": "Stalin",
+          "display": "5 nominations"
+        },
+        {
+          "answer": "Law & Order",
+          "display": "4 nominations"
+        },
+        {
+          "answer": "Picket Fences",
+          "display": "4 nominations"
+        },
+        {
+          "answer": "Roseanne",
+          "display": "4 nominations"
+        }
+      ]
+    },
+    {
+      "category": "tv/awards/emmys",
+      "question": "Top 7 TV programs by nominations at the 47th Primetime Emmy Awards (main ceremony categories)",
+      "cutoff": 7,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1364629301 | table 7 | name: Program | value: Nominations",
+      "tags": [
+        "emmys",
+        "primetime-emmys",
+        "television",
+        "awards"
+      ],
+      "answers": [
+        {
+          "answer": "ER",
+          "display": "11 nominations",
+          "aliases": [
+            "E.R."
+          ]
+        },
+        {
+          "answer": "NYPD Blue",
+          "display": "7 nominations",
+          "aliases": [
+            "NYPD"
+          ]
+        },
+        {
+          "answer": "The Burning Season",
+          "display": "6 nominations"
+        },
+        {
+          "answer": "Frasier",
+          "display": "6 nominations"
+        },
+        {
+          "answer": "Indictment: The McMartin Trial",
+          "display": "6 nominations"
+        },
+        {
+          "answer": "The Larry Sanders Show",
+          "display": "6 nominations"
+        },
+        {
+          "answer": "Seinfeld",
+          "display": "6 nominations"
+        },
+        {
+          "answer": "Citizen X",
+          "display": "5 nominations"
+        },
+        {
+          "answer": "Friends",
+          "display": "5 nominations"
+        },
+        {
+          "answer": "The Piano Lesson",
+          "display": "5 nominations"
+        },
+        {
+          "answer": "Serving in Silence: The Margarethe Cammermeyer Story",
+          "display": "5 nominations"
+        },
+        {
+          "answer": "Chicago Hope",
+          "display": "4 nominations"
+        }
+      ]
+    },
+    {
+      "category": "tv/awards/emmys",
+      "question": "Top 10 TV programs by nominations at the 51st Primetime Emmy Awards (main ceremony categories)",
+      "cutoff": 10,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1364629432 | table 7 | name: Program | value: Nominations",
+      "tags": [
+        "emmys",
+        "primetime-emmys",
+        "television",
+        "awards"
+      ],
+      "answers": [
+        {
+          "answer": "The Sopranos",
+          "display": "10 nominations"
+        },
+        {
+          "answer": "The Practice",
+          "display": "7 nominations"
+        },
+        {
+          "answer": "Ally McBeal",
+          "display": "6 nominations"
+        },
+        {
+          "answer": "Dash and Lilly",
+          "display": "6 nominations"
+        },
+        {
+          "answer": "Everybody Loves Raymond",
+          "display": "6 nominations",
+          "aliases": [
+            "Raymond"
+          ]
+        },
+        {
+          "answer": "Joan of Arc",
+          "display": "6 nominations"
+        },
+        {
+          "answer": "Law & Order",
+          "display": "6 nominations"
+        },
+        {
+          "answer": "NYPD Blue",
+          "display": "6 nominations",
+          "aliases": [
+            "NYPD"
+          ]
+        },
+        {
+          "answer": "Frasier",
+          "display": "5 nominations"
+        },
+        {
+          "answer": "A Lesson Before Dying",
+          "display": "5 nominations"
+        },
+        {
+          "answer": "The Baby Dance",
+          "display": "4 nominations"
+        },
+        {
+          "answer": "Friends",
+          "display": "4 nominations"
+        },
+        {
+          "answer": "The Rat Pack",
+          "display": "4 nominations"
+        }
+      ]
+    },
+    {
+      "category": "tv/awards/emmys",
+      "question": "Top 7 TV programs by nominations at the 53rd Primetime Emmy Awards (main ceremony categories)",
+      "cutoff": 7,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1374951086 | table 7 | name: Program | value: Nominations",
+      "tags": [
+        "emmys",
+        "primetime-emmys",
+        "television",
+        "awards"
+      ],
+      "answers": [
+        {
+          "answer": "The Sopranos",
+          "display": "14 nominations"
+        },
+        {
+          "answer": "The West Wing",
+          "display": "11 nominations"
+        },
+        {
+          "answer": "Will & Grace",
+          "display": "7 nominations",
+          "aliases": [
+            "Will and Grace"
+          ]
+        },
+        {
+          "answer": "Anne Frank: The Whole Story",
+          "display": "6 nominations"
+        },
+        {
+          "answer": "Conspiracy",
+          "display": "6 nominations"
+        },
+        {
+          "answer": "Life with Judy Garland: Me and My Shadows",
+          "display": "6 nominations"
+        },
+        {
+          "answer": "Malcolm in the Middle",
+          "display": "6 nominations"
+        },
+        {
+          "answer": "Everybody Loves Raymond",
+          "display": "5 nominations",
+          "aliases": [
+            "Raymond"
+          ]
+        },
+        {
+          "answer": "Sex and the City",
+          "display": "5 nominations",
+          "aliases": [
+            "SATC"
+          ]
+        },
+        {
+          "answer": "Wit",
+          "display": "5 nominations"
+        },
+        {
+          "answer": "61*",
+          "display": "4 nominations"
+        },
+        {
+          "answer": "Late Show with David Letterman",
+          "display": "4 nominations"
+        }
+      ]
+    },
+    {
+      "category": "tv/awards/emmys",
+      "question": "Top 7 TV programs by nominations at the 54th Primetime Emmy Awards (main ceremony categories)",
+      "cutoff": 7,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1375558781 | table 8 | name: Program | value: Nominations",
+      "tags": [
+        "emmys",
+        "primetime-emmys",
+        "television",
+        "awards"
+      ],
+      "answers": [
+        {
+          "answer": "The West Wing",
+          "display": "13 nominations"
+        },
+        {
+          "answer": "Everybody Loves Raymond",
+          "display": "8 nominations",
+          "aliases": [
+            "Raymond"
+          ]
+        },
+        {
+          "answer": "Six Feet Under",
+          "display": "8 nominations"
+        },
+        {
+          "answer": "The Gathering Storm",
+          "display": "6 nominations"
+        },
+        {
+          "answer": "Sex and the City",
+          "display": "6 nominations",
+          "aliases": [
+            "SATC"
+          ]
+        },
+        {
+          "answer": "Path to War",
+          "display": "5 nominations"
+        },
+        {
+          "answer": "Will & Grace",
+          "display": "5 nominations",
+          "aliases": [
+            "Will and Grace"
+          ]
+        },
+        {
+          "answer": "24",
+          "display": "4 nominations"
+        },
+        {
+          "answer": "Friends",
+          "display": "4 nominations"
+        },
+        {
+          "answer": "James Dean",
+          "display": "4 nominations"
+        },
+        {
+          "answer": "The Laramie Project",
+          "display": "4 nominations"
+        }
+      ]
+    },
+    {
+      "category": "tv/awards/emmys",
+      "question": "Top 8 TV programs by nominations at the 55th Primetime Emmy Awards (main ceremony categories)",
+      "cutoff": 8,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1364629657 | table 8 | name: Program | value: Nominations",
+      "tags": [
+        "emmys",
+        "primetime-emmys",
+        "television",
+        "awards"
+      ],
+      "answers": [
+        {
+          "answer": "The Sopranos",
+          "display": "10 nominations"
+        },
+        {
+          "answer": "Everybody Loves Raymond",
+          "display": "8 nominations",
+          "aliases": [
+            "Raymond"
+          ]
+        },
+        {
+          "answer": "The West Wing",
+          "display": "8 nominations"
+        },
+        {
+          "answer": "Curb Your Enthusiasm",
+          "display": "7 nominations"
+        },
+        {
+          "answer": "Six Feet Under",
+          "display": "7 nominations"
+        },
+        {
+          "answer": "Door to Door",
+          "display": "6 nominations"
+        },
+        {
+          "answer": "Sex and the City",
+          "display": "6 nominations",
+          "aliases": [
+            "SATC"
+          ]
+        },
+        {
+          "answer": "Will & Grace",
+          "display": "6 nominations",
+          "aliases": [
+            "Will and Grace"
+          ]
+        },
+        {
+          "answer": "My House in Umbria",
+          "display": "5 nominations"
+        },
+        {
+          "answer": "Hysterical Blindness",
+          "display": "4 nominations"
+        },
+        {
+          "answer": "Live from Baghdad",
+          "display": "4 nominations"
+        },
+        {
+          "answer": "Normal",
+          "display": "4 nominations"
+        }
+      ]
+    },
+    {
+      "category": "tv/awards/emmys",
+      "question": "Top 7 TV programs by nominations at the 56th Primetime Emmy Awards (main ceremony categories)",
+      "cutoff": 7,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1376082357 | table 7 | name: Program | value: Nominations",
+      "tags": [
+        "emmys",
+        "primetime-emmys",
+        "television",
+        "awards"
+      ],
+      "answers": [
+        {
+          "answer": "The Sopranos",
+          "display": "12 nominations"
+        },
+        {
+          "answer": "Angels in America",
+          "display": "11 nominations"
+        },
+        {
+          "answer": "Sex and the City",
+          "display": "8 nominations",
+          "aliases": [
+            "SATC"
+          ]
+        },
+        {
+          "answer": "The West Wing",
+          "display": "6 nominations"
+        },
+        {
+          "answer": "Curb Your Enthusiasm",
+          "display": "5 nominations"
+        },
+        {
+          "answer": "Everybody Loves Raymond",
+          "display": "5 nominations",
+          "aliases": [
+            "Raymond"
+          ]
+        },
+        {
+          "answer": "Something the Lord Made",
+          "display": "5 nominations"
+        },
+        {
+          "answer": "Arrested Development",
+          "display": "4 nominations"
+        },
+        {
+          "answer": "Deadwood",
+          "display": "4 nominations"
+        },
+        {
+          "answer": "The Reagans",
+          "display": "4 nominations"
+        }
+      ]
+    },
+    {
+      "category": "tv/awards/emmys",
+      "question": "Top 7 TV programs by nominations at the 62nd Primetime Emmy Awards (main ceremony categories)",
+      "cutoff": 7,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1380324601 | table 7 | name: Program | value: Nominations",
+      "tags": [
+        "emmys",
+        "primetime-emmys",
+        "television",
+        "awards"
+      ],
+      "answers": [
+        {
+          "answer": "Mad Men",
+          "display": "9 nominations"
+        },
+        {
+          "answer": "Glee",
+          "display": "8 nominations"
+        },
+        {
+          "answer": "Modern Family",
+          "display": "8 nominations"
+        },
+        {
+          "answer": "30 Rock",
+          "display": "7 nominations"
+        },
+        {
+          "answer": "Temple Grandin",
+          "display": "7 nominations"
+        },
+        {
+          "answer": "You Don't Know Jack",
+          "display": "7 nominations"
+        },
+        {
+          "answer": "Lost",
+          "display": "6 nominations"
+        },
+        {
+          "answer": "The Good Wife",
+          "display": "5 nominations"
+        },
+        {
+          "answer": "The Pacific",
+          "display": "5 nominations"
+        },
+        {
+          "answer": "The Special Relationship",
+          "display": "5 nominations"
+        },
+        {
+          "answer": "Breaking Bad",
+          "display": "4 nominations"
+        }
+      ]
+    },
+    {
+      "category": "tv/awards/emmys",
+      "question": "Top 8 TV programs by nominations at the 63rd Primetime Emmy Awards (main ceremony categories)",
+      "cutoff": 8,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1380329375 | table 7 | name: Program | value: Nominations",
+      "tags": [
+        "emmys",
+        "primetime-emmys",
+        "television",
+        "awards"
+      ],
+      "answers": [
+        {
+          "answer": "Modern Family",
+          "display": "11 nominations"
+        },
+        {
+          "answer": "Mildred Pierce",
+          "display": "9 nominations"
+        },
+        {
+          "answer": "Mad Men",
+          "display": "7 nominations"
+        },
+        {
+          "answer": "30 Rock",
+          "display": "6 nominations"
+        },
+        {
+          "answer": "The Good Wife",
+          "display": "6 nominations"
+        },
+        {
+          "answer": "Too Big to Fail",
+          "display": "6 nominations"
+        },
+        {
+          "answer": "Boardwalk Empire",
+          "display": "5 nominations"
+        },
+        {
+          "answer": "Downton Abbey",
+          "display": "5 nominations"
+        },
+        {
+          "answer": "Friday Night Lights",
+          "display": "4 nominations"
+        },
+        {
+          "answer": "Game of Thrones",
+          "display": "4 nominations",
+          "aliases": [
+            "GoT"
+          ]
+        },
+        {
+          "answer": "The Kennedys",
+          "display": "4 nominations"
+        },
+        {
+          "answer": "The Killing",
+          "display": "4 nominations"
+        },
+        {
+          "answer": "Saturday Night Live",
+          "display": "4 nominations",
+          "aliases": [
+            "SNL"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "tv/awards/emmys",
+      "question": "Top 9 TV programs by nominations at the 67th Primetime Emmy Awards (main ceremony categories)",
+      "cutoff": 9,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1374958146 | table 7 | name: Program | value: Nominations",
+      "tags": [
+        "emmys",
+        "primetime-emmys",
+        "television",
+        "awards"
+      ],
+      "answers": [
+        {
+          "answer": "American Horror Story: Freak Show",
+          "display": "8 nominations"
+        },
+        {
+          "answer": "Game of Thrones",
+          "display": "7 nominations",
+          "aliases": [
+            "GoT"
+          ]
+        },
+        {
+          "answer": "Olive Kitteridge",
+          "display": "7 nominations"
+        },
+        {
+          "answer": "American Crime",
+          "display": "6 nominations"
+        },
+        {
+          "answer": "Mad Men",
+          "display": "6 nominations"
+        },
+        {
+          "answer": "Veep",
+          "display": "6 nominations"
+        },
+        {
+          "answer": "Bessie",
+          "display": "5 nominations"
+        },
+        {
+          "answer": "Transparent",
+          "display": "5 nominations"
+        },
+        {
+          "answer": "Wolf Hall",
+          "display": "5 nominations"
+        },
+        {
+          "answer": "Better Call Saul",
+          "display": "4 nominations"
+        },
+        {
+          "answer": "The Honorable Woman",
+          "display": "4 nominations"
+        },
+        {
+          "answer": "House of Cards",
+          "display": "4 nominations"
+        },
+        {
+          "answer": "Inside Amy Schumer",
+          "display": "4 nominations"
+        },
+        {
+          "answer": "Louie",
+          "display": "4 nominations"
+        }
+      ]
+    },
+    {
+      "category": "tv/awards/emmys",
+      "question": "Top 8 TV programs by nominations at the 69th Primetime Emmy Awards (main ceremony categories)",
+      "cutoff": 8,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1364630600 | table 7 | name: Program | value: Nominations",
+      "tags": [
+        "emmys",
+        "primetime-emmys",
+        "television",
+        "awards"
+      ],
+      "answers": [
+        {
+          "answer": "Feud: Bette and Joan",
+          "display": "10 nominations",
+          "aliases": [
+            "Feud"
+          ]
+        },
+        {
+          "answer": "Veep",
+          "display": "10 nominations"
+        },
+        {
+          "answer": "Big Little Lies",
+          "display": "8 nominations"
+        },
+        {
+          "answer": "The Night Of",
+          "display": "8 nominations",
+          "aliases": [
+            "Night Of"
+          ]
+        },
+        {
+          "answer": "The Handmaid's Tale",
+          "display": "7 nominations"
+        },
+        {
+          "answer": "Saturday Night Live",
+          "display": "7 nominations",
+          "aliases": [
+            "SNL"
+          ]
+        },
+        {
+          "answer": "Westworld",
+          "display": "7 nominations"
+        },
+        {
+          "answer": "Fargo",
+          "display": "6 nominations"
+        },
+        {
+          "answer": "Atlanta",
+          "display": "5 nominations"
+        },
+        {
+          "answer": "Better Call Saul",
+          "display": "5 nominations"
+        },
+        {
+          "answer": "The Crown",
+          "display": "5 nominations"
+        },
+        {
+          "answer": "Stranger Things",
+          "display": "5 nominations"
+        },
+        {
+          "answer": "This Is Us",
+          "display": "5 nominations"
+        }
+      ]
+    },
+    {
+      "category": "tv/awards/emmys",
+      "question": "Top 9 TV programs by nominations at the 70th Primetime Emmy Awards (main ceremony categories)",
+      "cutoff": 9,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1374975210 | table 8 | name: Show | value: Nominations",
+      "tags": [
+        "emmys",
+        "primetime-emmys",
+        "television",
+        "awards"
+      ],
+      "answers": [
+        {
+          "answer": "The Assassination of Gianni Versace: American Crime Story",
+          "display": "9 nominations"
+        },
+        {
+          "answer": "Atlanta",
+          "display": "8 nominations"
+        },
+        {
+          "answer": "The Handmaid's Tale",
+          "display": "8 nominations"
+        },
+        {
+          "answer": "Game of Thrones",
+          "display": "7 nominations",
+          "aliases": [
+            "GoT"
+          ]
+        },
+        {
+          "answer": "Barry",
+          "display": "6 nominations"
+        },
+        {
+          "answer": "The Crown",
+          "display": "6 nominations"
+        },
+        {
+          "answer": "Godless",
+          "display": "6 nominations"
+        },
+        {
+          "answer": "The Marvelous Mrs. Maisel",
+          "display": "6 nominations",
+          "aliases": [
+            "Maisel"
+          ]
+        },
+        {
+          "answer": "Saturday Night Live",
+          "display": "6 nominations",
+          "aliases": [
+            "SNL"
+          ]
+        },
+        {
+          "answer": "Stranger Things",
+          "display": "5 nominations"
+        },
+        {
+          "answer": "Westworld",
+          "display": "5 nominations"
+        },
+        {
+          "answer": "The Americans",
+          "display": "4 nominations"
+        },
+        {
+          "answer": "Jesus Christ Superstar Live in Concert",
+          "display": "4 nominations"
+        },
+        {
+          "answer": "Patrick Melrose",
+          "display": "4 nominations"
+        }
+      ]
+    },
+    {
+      "category": "tv/awards/emmys",
+      "question": "Top 9 TV programs by nominations at the 71st Primetime Emmy Awards (main ceremony categories)",
+      "cutoff": 9,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1365311995 | table 6 | name: Show | value: Nominations",
+      "tags": [
+        "emmys",
+        "primetime-emmys",
+        "television",
+        "awards"
+      ],
+      "answers": [
+        {
+          "answer": "Game of Thrones",
+          "display": "14 nominations",
+          "aliases": [
+            "GoT"
+          ]
+        },
+        {
+          "answer": "When They See Us",
+          "display": "11 nominations"
+        },
+        {
+          "answer": "Barry",
+          "display": "9 nominations"
+        },
+        {
+          "answer": "Escape at Dannemora",
+          "display": "7 nominations"
+        },
+        {
+          "answer": "Fosse/Verdon",
+          "display": "7 nominations"
+        },
+        {
+          "answer": "The Marvelous Mrs. Maisel",
+          "display": "7 nominations",
+          "aliases": [
+            "Maisel"
+          ]
+        },
+        {
+          "answer": "Chernobyl",
+          "display": "6 nominations"
+        },
+        {
+          "answer": "Fleabag",
+          "display": "6 nominations"
+        },
+        {
+          "answer": "Killing Eve",
+          "display": "6 nominations"
+        },
+        {
+          "answer": "Better Call Saul",
+          "display": "5 nominations"
+        },
+        {
+          "answer": "Ozark",
+          "display": "5 nominations"
+        },
+        {
+          "answer": "This Is Us",
+          "display": "5 nominations"
+        },
+        {
+          "answer": "Veep",
+          "display": "5 nominations"
+        }
+      ]
+    },
+    {
+      "category": "tv/awards/emmys",
+      "question": "Top 9 TV programs by nominations at the 72nd Primetime Emmy Awards (main ceremony categories)",
+      "cutoff": 9,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1352987767 | table 6 | name: Show | value: Nominations",
+      "tags": [
+        "emmys",
+        "primetime-emmys",
+        "television",
+        "awards"
+      ],
+      "answers": [
+        {
+          "answer": "Watchmen",
+          "display": "11 nominations"
+        },
+        {
+          "answer": "Succession",
+          "display": "10 nominations"
+        },
+        {
+          "answer": "Ozark",
+          "display": "9 nominations"
+        },
+        {
+          "answer": "The Marvelous Mrs. Maisel",
+          "display": "8 nominations",
+          "aliases": [
+            "Maisel"
+          ]
+        },
+        {
+          "answer": "Schitt's Creek",
+          "display": "8 nominations"
+        },
+        {
+          "answer": "The Crown",
+          "display": "6 nominations"
+        },
+        {
+          "answer": "Mrs. America",
+          "display": "6 nominations"
+        },
+        {
+          "answer": "The Good Place",
+          "display": "5 nominations"
+        },
+        {
+          "answer": "The Morning Show",
+          "display": "5 nominations"
+        },
+        {
+          "answer": "Better Call Saul",
+          "display": "4 nominations"
+        },
+        {
+          "answer": "Hollywood",
+          "display": "4 nominations"
+        },
+        {
+          "answer": "Killing Eve",
+          "display": "4 nominations"
+        },
+        {
+          "answer": "Unorthodox",
+          "display": "4 nominations"
+        },
+        {
+          "answer": "What We Do in the Shadows",
+          "display": "4 nominations"
+        }
+      ]
+    },
+    {
+      "category": "tv/awards/emmys",
+      "question": "Top 7 TV programs by nominations at the 73rd Primetime Emmy Awards (main ceremony categories)",
+      "cutoff": 7,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1376756793 | table 6 | name: Show | value: Nominations",
+      "tags": [
+        "emmys",
+        "primetime-emmys",
+        "television",
+        "awards"
+      ],
+      "answers": [
+        {
+          "answer": "Ted Lasso",
+          "display": "13 nominations"
+        },
+        {
+          "answer": "The Crown",
+          "display": "11 nominations"
+        },
+        {
+          "answer": "The Handmaid's Tale",
+          "display": "11 nominations"
+        },
+        {
+          "answer": "Hamilton",
+          "display": "9 nominations"
+        },
+        {
+          "answer": "WandaVision",
+          "display": "8 nominations"
+        },
+        {
+          "answer": "Mare of Easttown",
+          "display": "7 nominations"
+        },
+        {
+          "answer": "Saturday Night Live",
+          "display": "7 nominations",
+          "aliases": [
+            "SNL"
+          ]
+        },
+        {
+          "answer": "Hacks",
+          "display": "6 nominations"
+        },
+        {
+          "answer": "I May Destroy You",
+          "display": "6 nominations"
+        },
+        {
+          "answer": "Lovecraft Country",
+          "display": "6 nominations"
+        },
+        {
+          "answer": "The Queen's Gambit",
+          "display": "6 nominations"
+        }
+      ]
+    },
+    {
+      "category": "tv/awards/emmys",
+      "question": "Top 7 TV programs by nominations at the 74th Primetime Emmy Awards (main ceremony categories)",
+      "cutoff": 7,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1374940262 | table 6 | name: Show | value: Nominations",
+      "tags": [
+        "emmys",
+        "primetime-emmys",
+        "television",
+        "awards"
+      ],
+      "answers": [
+        {
+          "answer": "Succession",
+          "display": "12 nominations"
+        },
+        {
+          "answer": "The White Lotus",
+          "display": "11 nominations"
+        },
+        {
+          "answer": "Ted Lasso",
+          "display": "10 nominations"
+        },
+        {
+          "answer": "Dopesick",
+          "display": "9 nominations"
+        },
+        {
+          "answer": "Barry",
+          "display": "7 nominations"
+        },
+        {
+          "answer": "Severance",
+          "display": "7 nominations"
+        },
+        {
+          "answer": "Squid Game",
+          "display": "7 nominations"
+        },
+        {
+          "answer": "Abbott Elementary",
+          "display": "6 nominations"
+        },
+        {
+          "answer": "Only Murders in the Building",
+          "display": "6 nominations",
+          "aliases": [
+            "Only Murders"
+          ]
+        },
+        {
+          "answer": "Ozark",
+          "display": "6 nominations"
+        },
+        {
+          "answer": "Yellowjackets",
+          "display": "6 nominations"
+        }
+      ]
+    },
+    {
+      "category": "tv/awards/emmys",
+      "question": "Top 9 TV programs by nominations at the 75th Primetime Emmy Awards (all categories, including Creative Arts)",
+      "cutoff": 9,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1374958298 | table 6 | name: Program | value: Total | header rows: 2",
+      "tags": [
+        "emmys",
+        "primetime-emmys",
+        "television",
+        "awards"
+      ],
+      "answers": [
+        {
+          "answer": "Succession",
+          "display": "27 nominations"
+        },
+        {
+          "answer": "The Last of Us",
+          "display": "24 nominations"
+        },
+        {
+          "answer": "The White Lotus",
+          "display": "23 nominations"
+        },
+        {
+          "answer": "Ted Lasso",
+          "display": "21 nominations"
+        },
+        {
+          "answer": "The Marvelous Mrs. Maisel",
+          "display": "14 nominations",
+          "aliases": [
+            "Maisel"
+          ]
+        },
+        {
+          "answer": "Beef",
+          "display": "13 nominations"
+        },
+        {
+          "answer": "The Bear",
+          "display": "13 nominations"
+        },
+        {
+          "answer": "Monster: The Jeffrey Dahmer Story",
+          "display": "13 nominations",
+          "aliases": [
+            "Dahmer"
+          ]
+        },
+        {
+          "answer": "Wednesday",
+          "display": "12 nominations"
+        },
+        {
+          "answer": "Barry",
+          "display": "11 nominations"
+        },
+        {
+          "answer": "Only Murders in the Building",
+          "display": "11 nominations",
+          "aliases": [
+            "Only Murders"
+          ]
+        },
+        {
+          "answer": "Daisy Jones & the Six",
+          "display": "9 nominations"
+        },
+        {
+          "answer": "Saturday Night Live",
+          "display": "9 nominations",
+          "aliases": [
+            "SNL"
+          ]
+        },
+        {
+          "answer": "The Mandalorian",
+          "display": "9 nominations"
+        }
+      ]
+    },
+    {
+      "category": "tv/awards/emmys",
+      "question": "Top 10 TV programs by nominations at the 76th Primetime Emmy Awards (all categories, including Creative Arts)",
+      "cutoff": 10,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1375035965 | table 6 | name: Program | value: Total | header rows: 2",
+      "tags": [
+        "emmys",
+        "primetime-emmys",
+        "television",
+        "awards"
+      ],
+      "answers": [
+        {
+          "answer": "Shōgun",
+          "display": "25 nominations",
+          "aliases": [
+            "Shogun"
+          ]
+        },
+        {
+          "answer": "The Bear",
+          "display": "23 nominations"
+        },
+        {
+          "answer": "Only Murders in the Building",
+          "display": "21 nominations",
+          "aliases": [
+            "Only Murders"
+          ]
+        },
+        {
+          "answer": "True Detective: Night Country",
+          "display": "19 nominations"
+        },
+        {
+          "answer": "The Crown",
+          "display": "18 nominations"
+        },
+        {
+          "answer": "Saturday Night Live",
+          "display": "17 nominations",
+          "aliases": [
+            "SNL"
+          ]
+        },
+        {
+          "answer": "The Morning Show",
+          "display": "16 nominations"
+        },
+        {
+          "answer": "Hacks",
+          "display": "16 nominations"
+        },
+        {
+          "answer": "Mr. & Mrs. Smith",
+          "display": "16 nominations"
+        },
+        {
+          "answer": "Fallout",
+          "display": "16 nominations"
+        },
+        {
+          "answer": "Fargo",
+          "display": "15 nominations"
+        },
+        {
+          "answer": "Ripley",
+          "display": "13 nominations"
+        },
+        {
+          "answer": "Baby Reindeer",
+          "display": "11 nominations"
+        },
+        {
+          "answer": "Palm Royale",
+          "display": "11 nominations"
+        }
+      ]
+    },
+    {
+      "category": "tv/awards/emmys",
+      "question": "Top 10 TV programs by nominations at the 77th Primetime Emmy Awards (all categories, including Creative Arts)",
+      "cutoff": 10,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1371680941 | table 6 | name: Program | value: Total | header rows: 2",
+      "tags": [
+        "emmys",
+        "primetime-emmys",
+        "television",
+        "awards"
+      ],
+      "answers": [
+        {
+          "answer": "Severance",
+          "display": "27 nominations"
+        },
+        {
+          "answer": "The Penguin",
+          "display": "24 nominations"
+        },
+        {
+          "answer": "The White Lotus",
+          "display": "23 nominations"
+        },
+        {
+          "answer": "The Studio",
+          "display": "23 nominations"
+        },
+        {
+          "answer": "The Last of Us",
+          "display": "16 nominations"
+        },
+        {
+          "answer": "Hacks",
+          "display": "14 nominations"
+        },
+        {
+          "answer": "Andor",
+          "display": "14 nominations"
+        },
+        {
+          "answer": "Adolescence",
+          "display": "13 nominations"
+        },
+        {
+          "answer": "The Pitt",
+          "display": "13 nominations"
+        },
+        {
+          "answer": "The Bear",
+          "display": "13 nominations"
+        },
+        {
+          "answer": "SNL50: The Anniversary Special",
+          "display": "12 nominations",
+          "aliases": [
+            "SNL50"
+          ]
+        },
+        {
+          "answer": "Monsters: The Lyle and Erik Menendez Story",
+          "display": "11 nominations"
+        },
+        {
+          "answer": "Black Mirror",
+          "display": "10 nominations"
+        },
+        {
+          "answer": "Dying for Sex",
+          "display": "9 nominations"
+        }
+      ]
+    },
+    {
+      "category": "tv/awards/emmys",
+      "question": "Top 5 TV programs by nominations at the 78th Primetime Emmy Awards (all categories, including Creative Arts)",
+      "cutoff": 5,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1379327811 | table 6 | name: Program | value: Total | header rows: 2",
+      "tags": [
+        "emmys",
+        "primetime-emmys",
+        "television",
+        "awards"
+      ],
+      "answers": [
+        {
+          "answer": "The Pitt",
+          "display": "25 nominations"
+        },
+        {
+          "answer": "Hacks",
+          "display": "24 nominations"
+        },
+        {
+          "answer": "Widow's Bay",
+          "display": "19 nominations"
+        },
+        {
+          "answer": "Pluribus",
+          "display": "18 nominations"
+        },
+        {
+          "answer": "Beef",
+          "display": "16 nominations"
+        },
+        {
+          "answer": "DTF St. Louis",
+          "display": "13 nominations"
+        },
+        {
+          "answer": "Saturday Night Live",
+          "display": "11 nominations",
+          "aliases": [
+            "SNL"
+          ]
+        },
+        {
+          "answer": "Spider-Noir",
+          "display": "11 nominations"
+        }
+      ]
+    }
+  ]
+}

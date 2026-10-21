@@ -1,0 +1,576 @@
+{
+  "categories": [
+    {
+      "path": "sports/winter/ski-jumping",
+      "name": "Ski Jumping"
+    },
+    {
+      "path": "sports/winter/ski-jumping/world-cup-men",
+      "name": "Ski Jumping World Cup (men)"
+    },
+    {
+      "path": "sports/winter/cross-country",
+      "name": "Cross-Country Skiing"
+    },
+    {
+      "path": "sports/winter/cross-country/world-cup-men",
+      "name": "Cross-Country World Cup (men)"
+    },
+    {
+      "path": "sports/winter/cross-country/world-cup-women",
+      "name": "Cross-Country World Cup (women)"
+    }
+  ],
+  "questions": [
+    {
+      "category": "sports/winter/ski-jumping/world-cup-men",
+      "question": "Top 7 men in the overall standings of the 2002–03 Ski Jumping World Cup",
+      "cutoff": 7,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1331863493 | table 3 | name: Name | value: Total points",
+      "tags": [
+        "ski-jumping",
+        "world-cup",
+        "men",
+        "2002–03"
+      ],
+      "answers": [
+        {
+          "answer": "Adam Małysz",
+          "display": "1,357 points (#1)",
+          "aliases": [
+            "Adam Malysz",
+            "Małysz",
+            "Malysz"
+          ]
+        },
+        {
+          "answer": "Sven Hannawald",
+          "display": "1,235 points (#2)",
+          "aliases": [
+            "Hannawald"
+          ]
+        },
+        {
+          "answer": "Andreas Widhölzl",
+          "display": "1,028 points (#3)",
+          "aliases": [
+            "Widhölzl",
+            "Widholzl"
+          ]
+        },
+        {
+          "answer": "Janne Ahonen",
+          "display": "1,016 points (#4)",
+          "aliases": [
+            "Ahonen"
+          ]
+        },
+        {
+          "answer": "Florian Liegl",
+          "display": "986 points (#5)",
+          "aliases": [
+            "Liegl"
+          ]
+        },
+        {
+          "answer": "Martin Höllwarth",
+          "display": "925 points (#6)",
+          "aliases": [
+            "Höllwarth",
+            "Hollwarth"
+          ]
+        },
+        {
+          "answer": "Primož Peterka",
+          "display": "805 points (#7)",
+          "aliases": [
+            "Peterka",
+            "Primoz Peterka"
+          ]
+        },
+        {
+          "answer": "Matti Hautamäki",
+          "display": "797 points (#8)",
+          "aliases": [
+            "Hautamäki",
+            "Hautamaki"
+          ]
+        },
+        {
+          "answer": "Roar Ljøkelsøy",
+          "display": "757 points (#9)",
+          "aliases": [
+            "Ljøkelsøy",
+            "Ljokelsoy"
+          ]
+        },
+        {
+          "answer": "Sigurd Pettersen",
+          "display": "747 points (#10)",
+          "aliases": [
+            "Pettersen"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/winter/cross-country/world-cup-men",
+      "question": "Top 10 men in the overall standings of the 1994–95 Cross-Country World Cup",
+      "cutoff": 10,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1348475131 | table 6 | name: Skier | value: Points",
+      "tags": [
+        "cross-country",
+        "world-cup",
+        "men",
+        "1994–95"
+      ],
+      "answers": [
+        {
+          "answer": "Bjørn Dæhlie",
+          "display": "930 points (#1)",
+          "aliases": [
+            "Bjorn Daehlie",
+            "Dæhlie",
+            "Daehlie"
+          ]
+        },
+        {
+          "answer": "Vladimir Smirnov",
+          "display": "866 points (#2)",
+          "aliases": [
+            "Smirnov"
+          ]
+        },
+        {
+          "answer": "Silvio Fauner",
+          "display": "591 points (#3)",
+          "aliases": [
+            "Fauner"
+          ]
+        },
+        {
+          "answer": "Alexey Prokurorov",
+          "display": "572 points (#4)",
+          "aliases": [
+            "Prokurorov"
+          ]
+        },
+        {
+          "answer": "Jari Isometsä",
+          "display": "525 points (#5)",
+          "aliases": [
+            "Isometsa"
+          ]
+        },
+        {
+          "answer": "Thomas Alsgaard",
+          "display": "429 points (#6)",
+          "aliases": [
+            "Alsgaard"
+          ]
+        },
+        {
+          "answer": "Harri Kirvesniemi",
+          "display": "363 points (#7)",
+          "aliases": [
+            "Kirvesniemi"
+          ]
+        },
+        {
+          "answer": "Mika Myllylä",
+          "display": "340 points (#8)",
+          "aliases": [
+            "Myllylä",
+            "Myllyla"
+          ]
+        },
+        {
+          "answer": "Torgny Mogren",
+          "display": "330 points (#9)",
+          "aliases": [
+            "Mogren"
+          ]
+        },
+        {
+          "answer": "Mikhail Botvinov",
+          "display": "269 points (#10)",
+          "aliases": [
+            "Botvinov"
+          ]
+        },
+        {
+          "answer": "Kristen Skjeldal",
+          "display": "268 points (#11)",
+          "aliases": [
+            "Skjeldal"
+          ]
+        },
+        {
+          "answer": "Henrik Forsberg",
+          "display": "256 points (#12)",
+          "aliases": [
+            "Forsberg"
+          ]
+        },
+        {
+          "answer": "Erling Jevne",
+          "display": "236 points (#13)",
+          "aliases": [
+            "Jevne"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/winter/cross-country/world-cup-men",
+      "question": "Top 10 men in the overall standings of the 2007–08 Cross-Country World Cup",
+      "cutoff": 10,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1377731455 | table 5 | name: Athlete | value: Total",
+      "tags": [
+        "cross-country",
+        "world-cup",
+        "men",
+        "2007–08"
+      ],
+      "answers": [
+        {
+          "answer": "Lukáš Bauer",
+          "display": "1,462 points (#1)",
+          "aliases": [
+            "Lukas Bauer",
+            "Bauer"
+          ]
+        },
+        {
+          "answer": "René Sommerfeldt",
+          "display": "829 points (#2)",
+          "aliases": [
+            "Rene Sommerfeldt",
+            "Sommerfeldt"
+          ]
+        },
+        {
+          "answer": "Pietro Piller Cottrer",
+          "display": "783 points (#3)",
+          "aliases": [
+            "Piller Cottrer",
+            "Piller"
+          ]
+        },
+        {
+          "answer": "Tord Asle Gjerdalen",
+          "display": "692 points (#4)",
+          "aliases": [
+            "Gjerdalen"
+          ]
+        },
+        {
+          "answer": "Giorgio Di Centa",
+          "display": "692 points (#5)",
+          "aliases": [
+            "Di Centa"
+          ]
+        },
+        {
+          "answer": "Tor Arne Hetland",
+          "display": "656 points (#6)",
+          "aliases": [
+            "Hetland"
+          ]
+        },
+        {
+          "answer": "Anders Södergren",
+          "display": "549 points (#7)",
+          "aliases": [
+            "Anders Sodergren",
+            "Södergren",
+            "Sodergren"
+          ]
+        },
+        {
+          "answer": "Axel Teichmann",
+          "display": "543 points (#8)",
+          "aliases": [
+            "Teichmann"
+          ]
+        },
+        {
+          "answer": "Jens Arne Svartedal",
+          "display": "527 points (#9)",
+          "aliases": [
+            "Svartedal"
+          ]
+        },
+        {
+          "answer": "Valerio Checchi",
+          "display": "510 points (#10)",
+          "aliases": [
+            "Checchi"
+          ]
+        },
+        {
+          "answer": "Vincent Vittoz",
+          "display": "492 points (#11)",
+          "aliases": [
+            "Vittoz"
+          ]
+        },
+        {
+          "answer": "Petter Northug",
+          "display": "475 points (#12)",
+          "aliases": [
+            "Northug"
+          ]
+        },
+        {
+          "answer": "Eldar Rønning",
+          "display": "463 points (#13)",
+          "aliases": [
+            "Eldar Ronning",
+            "Rønning",
+            "Ronning"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/winter/cross-country/world-cup-women",
+      "question": "Top 10 women in the overall standings of the 2006–07 Cross-Country World Cup",
+      "cutoff": 10,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1377731435 | table 6 | name: Skier | value: Pts",
+      "tags": [
+        "cross-country",
+        "world-cup",
+        "women",
+        "2006–07"
+      ],
+      "answers": [
+        {
+          "answer": "Virpi Kuitunen",
+          "display": "1,510 points (#1)",
+          "aliases": [
+            "Kuitunen"
+          ]
+        },
+        {
+          "answer": "Marit Bjørgen",
+          "display": "941 points (#2)",
+          "aliases": [
+            "Marit Bjorgen",
+            "Bjørgen",
+            "Bjorgen"
+          ]
+        },
+        {
+          "answer": "Kateřina Neumannová",
+          "display": "894 points (#3)",
+          "aliases": [
+            "Katerina Neumannova",
+            "Neumannová",
+            "Neumannova"
+          ]
+        },
+        {
+          "answer": "Petra Majdič",
+          "display": "844 points (#4)",
+          "aliases": [
+            "Petra Majdic",
+            "Majdič",
+            "Majdic"
+          ]
+        },
+        {
+          "answer": "Aino-Kaisa Saarinen",
+          "display": "826 points (#5)",
+          "aliases": [
+            "Saarinen"
+          ]
+        },
+        {
+          "answer": "Riitta-Liisa Roponen",
+          "display": "548 points (#6)",
+          "aliases": [
+            "Roponen"
+          ]
+        },
+        {
+          "answer": "Valentyna Shevchenko",
+          "display": "541 points (#7)",
+          "aliases": [
+            "Shevchenko"
+          ]
+        },
+        {
+          "answer": "Justyna Kowalczyk",
+          "display": "484 points (#8)",
+          "aliases": [
+            "Kowalczyk"
+          ]
+        },
+        {
+          "answer": "Evi Sachenbacher-Stehle",
+          "display": "438 points (#9)",
+          "aliases": [
+            "Sachenbacher-Stehle",
+            "Sachenbacher"
+          ]
+        },
+        {
+          "answer": "Arianna Follis",
+          "display": "419 points (#10)",
+          "aliases": [
+            "Follis"
+          ]
+        },
+        {
+          "answer": "Kristina Šmigun",
+          "display": "405 points (#11)",
+          "aliases": [
+            "Kristina Smigun",
+            "Šmigun",
+            "Smigun"
+          ]
+        },
+        {
+          "answer": "Olga Zavyalova",
+          "display": "398 points (#12)",
+          "aliases": [
+            "Zavyalova"
+          ]
+        },
+        {
+          "answer": "Claudia Künzel-Nystad",
+          "display": "369 points (#13)",
+          "aliases": [
+            "Claudia Kunzel-Nystad",
+            "Künzel-Nystad",
+            "Kunzel-Nystad"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/winter/cross-country/world-cup-women",
+      "question": "Top 10 women in the overall standings of the 2007–08 Cross-Country World Cup",
+      "cutoff": 10,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1377731455 | table 8 | name: Athlete | value: Total",
+      "tags": [
+        "cross-country",
+        "world-cup",
+        "women",
+        "2007–08"
+      ],
+      "answers": [
+        {
+          "answer": "Virpi Kuitunen",
+          "display": "1,552 points (#1)",
+          "aliases": [
+            "Kuitunen"
+          ]
+        },
+        {
+          "answer": "Astrid Uhrenholdt Jacobsen",
+          "display": "1,255 points (#2)",
+          "aliases": [
+            "Astrid Jacobsen",
+            "Jacobsen"
+          ]
+        },
+        {
+          "answer": "Justyna Kowalczyk",
+          "display": "1,096 points (#3)",
+          "aliases": [
+            "Kowalczyk"
+          ]
+        },
+        {
+          "answer": "Charlotte Kalla",
+          "display": "1,046 points (#4)",
+          "aliases": [
+            "Kalla"
+          ]
+        },
+        {
+          "answer": "Petra Majdič",
+          "display": "969 points (#5)",
+          "aliases": [
+            "Petra Majdic",
+            "Majdič",
+            "Majdic"
+          ]
+        },
+        {
+          "answer": "Valentyna Shevchenko",
+          "display": "957 points (#6)",
+          "aliases": [
+            "Shevchenko"
+          ]
+        },
+        {
+          "answer": "Arianna Follis",
+          "display": "934 points (#7)",
+          "aliases": [
+            "Follis"
+          ]
+        },
+        {
+          "answer": "Claudia Künzel-Nystad",
+          "display": "921 points (#8)",
+          "aliases": [
+            "Claudia Kunzel-Nystad",
+            "Künzel-Nystad",
+            "Kunzel-Nystad"
+          ]
+        },
+        {
+          "answer": "Aino-Kaisa Saarinen",
+          "display": "826 points (#9)",
+          "aliases": [
+            "Saarinen"
+          ]
+        },
+        {
+          "answer": "Evi Sachenbacher-Stehle",
+          "display": "736 points (#10)",
+          "aliases": [
+            "Sachenbacher-Stehle",
+            "Sachenbacher"
+          ]
+        },
+        {
+          "answer": "Marit Bjørgen",
+          "display": "690 points (#11)",
+          "aliases": [
+            "Marit Bjorgen",
+            "Bjørgen",
+            "Bjorgen"
+          ]
+        },
+        {
+          "answer": "Olga Rocheva",
+          "display": "639 points (#12)",
+          "aliases": [
+            "Rocheva"
+          ]
+        },
+        {
+          "answer": "Riitta-Liisa Roponen",
+          "display": "637 points (#13)",
+          "aliases": [
+            "Roponen"
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,703 @@
+{
+  "categories": [
+    {
+      "path": "technology",
+      "name": "Technology"
+    },
+    {
+      "path": "technology/companies",
+      "name": "Tech companies"
+    },
+    {
+      "path": "technology/social-media",
+      "name": "Social media"
+    },
+    {
+      "path": "technology/supercomputers",
+      "name": "Supercomputers"
+    }
+  ],
+  "questions": [
+    {
+      "category": "technology/companies",
+      "question": "Top 10 largest tech companies by revenue (2025 figures)",
+      "cutoff": 10,
+      "difficulty": 1,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1368029220 | table 2 | name: Company | value: Revenue",
+      "tags": [
+        "technology",
+        "companies",
+        "revenue"
+      ],
+      "answers": [
+        {
+          "answer": "Amazon",
+          "display": "$637.9 billion"
+        },
+        {
+          "answer": "Apple",
+          "display": "$416.0 billion"
+        },
+        {
+          "answer": "Alphabet",
+          "display": "$350.0 billion",
+          "aliases": [
+            "Google"
+          ]
+        },
+        {
+          "answer": "Microsoft",
+          "display": "$281.7 billion"
+        },
+        {
+          "answer": "Samsung Electronics",
+          "display": "$220.3 billion",
+          "aliases": [
+            "Samsung"
+          ]
+        },
+        {
+          "answer": "Foxconn",
+          "display": "$213.9 billion",
+          "aliases": [
+            "Hon Hai"
+          ]
+        },
+        {
+          "answer": "Meta",
+          "display": "$164.5 billion",
+          "aliases": [
+            "Facebook"
+          ]
+        },
+        {
+          "answer": "JD.com",
+          "display": "$158.8 billion",
+          "aliases": [
+            "Jingdong"
+          ]
+        },
+        {
+          "answer": "Alibaba",
+          "display": "$137.3 billion"
+        },
+        {
+          "answer": "Nvidia",
+          "display": "$130.5 billion"
+        },
+        {
+          "answer": "AT&T",
+          "display": "$122.3 billion"
+        },
+        {
+          "answer": "Huawei",
+          "display": "$118.1 billion"
+        },
+        {
+          "answer": "Deutsche Telekom",
+          "display": "$112.0 billion"
+        },
+        {
+          "answer": "Dell Technologies",
+          "display": "$95.6 billion",
+          "aliases": [
+            "Dell"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "technology/companies",
+      "question": "Top 10 largest tech companies by revenue whose country of origin is not the US (2025 figures)",
+      "cutoff": 10,
+      "difficulty": 3,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1368029220 | table 2 | name: Company | value: Revenue | where: Country (origin)!=US",
+      "tags": [
+        "technology",
+        "companies",
+        "revenue"
+      ],
+      "answers": [
+        {
+          "answer": "Samsung Electronics",
+          "display": "$220.3 billion",
+          "aliases": [
+            "Samsung"
+          ]
+        },
+        {
+          "answer": "Foxconn",
+          "display": "$213.9 billion",
+          "aliases": [
+            "Hon Hai"
+          ]
+        },
+        {
+          "answer": "JD.com",
+          "display": "$158.8 billion",
+          "aliases": [
+            "Jingdong"
+          ]
+        },
+        {
+          "answer": "Alibaba",
+          "display": "$137.3 billion"
+        },
+        {
+          "answer": "Huawei",
+          "display": "$118.1 billion"
+        },
+        {
+          "answer": "Deutsche Telekom",
+          "display": "$112.0 billion"
+        },
+        {
+          "answer": "Tencent",
+          "display": "$91.8 billion"
+        },
+        {
+          "answer": "Sony",
+          "display": "$90.1 billion"
+        },
+        {
+          "answer": "TSMC",
+          "display": "$88.3 billion"
+        },
+        {
+          "answer": "Hitachi",
+          "display": "$80.39 billion"
+        },
+        {
+          "answer": "Lenovo",
+          "display": "$69.0 billion"
+        },
+        {
+          "answer": "Accenture",
+          "display": "$64.9 billion"
+        },
+        {
+          "answer": "LG Electronics",
+          "display": "$57.7 billion",
+          "aliases": [
+            "LG"
+          ]
+        },
+        {
+          "answer": "Panasonic",
+          "display": "$55.3 billion"
+        }
+      ]
+    },
+    {
+      "category": "technology/social-media",
+      "question": "Top 9 social networks by number of users (January 2024 data)",
+      "cutoff": 9,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1379252876 | table 1 | name: Network | value: Number of users",
+      "tags": [
+        "technology",
+        "social-media",
+        "users"
+      ],
+      "answers": [
+        {
+          "answer": "Facebook",
+          "display": "3,049 million users"
+        },
+        {
+          "answer": "YouTube",
+          "display": "2,491 million users"
+        },
+        {
+          "answer": "WhatsApp",
+          "display": "2,000 million users"
+        },
+        {
+          "answer": "Instagram",
+          "display": "2,000 million users"
+        },
+        {
+          "answer": "TikTok",
+          "display": "1,526 million users"
+        },
+        {
+          "answer": "WeChat",
+          "display": "1,336 million users"
+        },
+        {
+          "answer": "Facebook Messenger",
+          "display": "979 million users",
+          "aliases": [
+            "Messenger"
+          ]
+        },
+        {
+          "answer": "Telegram",
+          "display": "800 million users"
+        },
+        {
+          "answer": "Douyin",
+          "display": "752 million users"
+        },
+        {
+          "answer": "Snapchat",
+          "display": "750 million users"
+        },
+        {
+          "answer": "Kuaishou",
+          "display": "685 million users"
+        },
+        {
+          "answer": "X (Twitter)",
+          "display": "619 million users",
+          "aliases": [
+            "Twitter",
+            "X"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "technology/supercomputers",
+      "question": "Top 8 countries by number of supercomputers on the TOP500 list (June 2026)",
+      "cutoff": 8,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1379703900 | table 2 | name: Country or territory | value: Number of systems | where: Country or territory!~European Union",
+      "tags": [
+        "technology",
+        "supercomputers",
+        "countries"
+      ],
+      "answers": [
+        {
+          "answer": "United States",
+          "display": "161 systems",
+          "aliases": [
+            "USA",
+            "US",
+            "America"
+          ]
+        },
+        {
+          "answer": "Japan",
+          "display": "44 systems"
+        },
+        {
+          "answer": "Germany",
+          "display": "41 systems"
+        },
+        {
+          "answer": "China",
+          "display": "31 systems"
+        },
+        {
+          "answer": "France",
+          "display": "21 systems"
+        },
+        {
+          "answer": "South Korea",
+          "display": "19 systems",
+          "aliases": [
+            "Korea"
+          ]
+        },
+        {
+          "answer": "Italy",
+          "display": "18 systems"
+        },
+        {
+          "answer": "Canada",
+          "display": "17 systems"
+        },
+        {
+          "answer": "United Kingdom",
+          "display": "11 systems",
+          "aliases": [
+            "UK",
+            "Britain"
+          ]
+        },
+        {
+          "answer": "Taiwan",
+          "display": "11 systems"
+        },
+        {
+          "answer": "Brazil",
+          "display": "10 systems"
+        },
+        {
+          "answer": "Sweden",
+          "display": "9 systems"
+        }
+      ]
+    },
+    {
+      "category": "technology/social-media",
+      "question": "Top 9 most-followed Instagram accounts, by owner (as of September 2026)",
+      "cutoff": 9,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1379696657 | table 2 | name: Owner | value: Followers | where: Owner!~^Last updated",
+      "tags": [
+        "technology",
+        "social-media",
+        "instagram"
+      ],
+      "answers": [
+        {
+          "answer": "Instagram",
+          "display": "686 million followers"
+        },
+        {
+          "answer": "Cristiano Ronaldo",
+          "display": "679 million followers",
+          "aliases": [
+            "Ronaldo",
+            "CR7"
+          ]
+        },
+        {
+          "answer": "Lionel Messi",
+          "display": "517 million followers",
+          "aliases": [
+            "Messi"
+          ]
+        },
+        {
+          "answer": "Selena Gomez",
+          "display": "403 million followers",
+          "aliases": [
+            "Selena"
+          ]
+        },
+        {
+          "answer": "Dwayne Johnson",
+          "display": "381 million followers",
+          "aliases": [
+            "The Rock"
+          ]
+        },
+        {
+          "answer": "Kylie Jenner",
+          "display": "380 million followers",
+          "aliases": [
+            "Kylie"
+          ]
+        },
+        {
+          "answer": "Ariana Grande",
+          "display": "362 million followers",
+          "aliases": [
+            "Ariana"
+          ]
+        },
+        {
+          "answer": "Kim Kardashian",
+          "display": "343 million followers",
+          "aliases": [
+            "Kim K"
+          ]
+        },
+        {
+          "answer": "Beyoncé",
+          "display": "299 million followers",
+          "aliases": [
+            "Beyonce"
+          ]
+        },
+        {
+          "answer": "Khloe Kardashian",
+          "display": "291 million followers"
+        },
+        {
+          "answer": "Nike",
+          "display": "291 million followers"
+        },
+        {
+          "answer": "Justin Bieber",
+          "display": "286 million followers",
+          "aliases": [
+            "Bieber"
+          ]
+        },
+        {
+          "answer": "Kendall Jenner",
+          "display": "277 million followers"
+        }
+      ]
+    },
+    {
+      "category": "technology/social-media",
+      "question": "Top 10 most-followed TikTok accounts, by owner (as of September 2026)",
+      "cutoff": 10,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1379553921 | table 1 | name: Owner | value: Followers",
+      "tags": [
+        "technology",
+        "social-media",
+        "tiktok"
+      ],
+      "answers": [
+        {
+          "answer": "Khaby Lame",
+          "display": "162.9 million followers",
+          "aliases": [
+            "Khaby"
+          ]
+        },
+        {
+          "answer": "Charli D'Amelio",
+          "display": "160 million followers",
+          "aliases": [
+            "Charli"
+          ]
+        },
+        {
+          "answer": "MrBeast",
+          "display": "140.9 million followers",
+          "aliases": [
+            "Mr Beast"
+          ]
+        },
+        {
+          "answer": "TikTok",
+          "display": "95.8 million followers"
+        },
+        {
+          "answer": "Bella Poarch",
+          "display": "91.7 million followers"
+        },
+        {
+          "answer": "Addison Rae",
+          "display": "87.8 million followers"
+        },
+        {
+          "answer": "Willie Salim",
+          "display": "87.2 million followers"
+        },
+        {
+          "answer": "Zach King",
+          "display": "86.9 million followers"
+        },
+        {
+          "answer": "FIFA World Cup",
+          "display": "85.4 million followers"
+        },
+        {
+          "answer": "Kimberly Loaiza",
+          "display": "83.5 million followers"
+        },
+        {
+          "answer": "BTS",
+          "display": "80.9 million followers"
+        },
+        {
+          "answer": "Dwayne Johnson",
+          "display": "79.7 million followers",
+          "aliases": [
+            "The Rock"
+          ]
+        },
+        {
+          "answer": "Will Smith",
+          "display": "77.9 million followers"
+        },
+        {
+          "answer": "Real Madrid",
+          "display": "77.1 million followers",
+          "aliases": [
+            "Real Madrid CF"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "technology/social-media",
+      "question": "Top 10 most-followed X accounts, by owner (as of August 2026)",
+      "cutoff": 10,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1379596404 | table 1 | name: Owner | value: Followers | where: Owner!~^Last updated",
+      "tags": [
+        "technology",
+        "social-media",
+        "x"
+      ],
+      "answers": [
+        {
+          "answer": "Elon Musk",
+          "display": "241.6 million followers",
+          "aliases": [
+            "Musk"
+          ]
+        },
+        {
+          "answer": "Barack Obama",
+          "display": "118.8 million followers",
+          "aliases": [
+            "Obama"
+          ]
+        },
+        {
+          "answer": "Cristiano Ronaldo",
+          "display": "114.5 million followers",
+          "aliases": [
+            "Ronaldo",
+            "CR7"
+          ]
+        },
+        {
+          "answer": "Donald Trump",
+          "display": "111.8 million followers",
+          "aliases": [
+            "Trump"
+          ]
+        },
+        {
+          "answer": "Narendra Modi",
+          "display": "107.1 million followers",
+          "aliases": [
+            "Modi"
+          ]
+        },
+        {
+          "answer": "Rihanna",
+          "display": "98.6 million followers"
+        },
+        {
+          "answer": "NASA",
+          "display": "92.3 million followers"
+        },
+        {
+          "answer": "Justin Bieber",
+          "display": "91.8 million followers",
+          "aliases": [
+            "Bieber"
+          ]
+        },
+        {
+          "answer": "Katy Perry",
+          "display": "89.9 million followers"
+        },
+        {
+          "answer": "Taylor Swift",
+          "display": "83.8 million followers",
+          "aliases": [
+            "Swift"
+          ]
+        },
+        {
+          "answer": "Lady Gaga",
+          "display": "75.3 million followers"
+        },
+        {
+          "answer": "Virat Kohli",
+          "display": "73.2 million followers",
+          "aliases": [
+            "Kohli"
+          ]
+        },
+        {
+          "answer": "Kim Kardashian",
+          "display": "70.8 million followers",
+          "aliases": [
+            "Kim K"
+          ]
+        },
+        {
+          "answer": "YouTube",
+          "display": "68.8 million followers"
+        }
+      ]
+    },
+    {
+      "category": "technology/social-media",
+      "question": "Top 10 most-subscribed YouTube music channels (as of October 2026)",
+      "cutoff": 10,
+      "difficulty": 3,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1379710556 | table 1 | name: Name | value: Subscribers | where: Category=Music",
+      "tags": [
+        "technology",
+        "social-media",
+        "youtube",
+        "music"
+      ],
+      "answers": [
+        {
+          "answer": "T-Series",
+          "display": "315 million subscribers"
+        },
+        {
+          "answer": "Zee Music Company",
+          "display": "123 million subscribers",
+          "aliases": [
+            "Zee Music"
+          ]
+        },
+        {
+          "answer": "Blackpink",
+          "display": "101 million subscribers"
+        },
+        {
+          "answer": "BANGTANTV",
+          "display": "86.1 million subscribers",
+          "aliases": [
+            "BTS"
+          ]
+        },
+        {
+          "answer": "T-Series Bhakti Sagar",
+          "display": "83.2 million subscribers"
+        },
+        {
+          "answer": "HYBE Labels",
+          "display": "83 million subscribers",
+          "aliases": [
+            "HYBE"
+          ]
+        },
+        {
+          "answer": "Justin Bieber",
+          "display": "79.5 million subscribers",
+          "aliases": [
+            "Bieber"
+          ]
+        },
+        {
+          "answer": "Shemaroo Filmi Gaane",
+          "display": "75.1 million subscribers"
+        },
+        {
+          "answer": "Sony Music India",
+          "display": "73.3 million subscribers"
+        },
+        {
+          "answer": "YRF",
+          "display": "72.9 million subscribers"
+        },
+        {
+          "answer": "El Reino Infantil",
+          "display": "71.6 million subscribers"
+        },
+        {
+          "answer": "Wave Music",
+          "display": "70.9 million subscribers"
+        },
+        {
+          "answer": "Canal KondZilla",
+          "display": "68.2 million subscribers"
+        },
+        {
+          "answer": "Eminem Music",
+          "display": "67.4 million subscribers"
+        }
+      ]
+    }
+  ]
+}

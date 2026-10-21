@@ -1,0 +1,666 @@
+{
+  "categories": [
+    {
+      "path": "music",
+      "name": "Music"
+    },
+    {
+      "path": "music/billboard-year-end",
+      "name": "Billboard Year-End Hot 100"
+    },
+    {
+      "path": "music/billboard-year-end/1950s",
+      "name": "1950s"
+    }
+  ],
+  "questions": [
+    {
+      "category": "music/billboard-year-end/1950s",
+      "question": "Top 10 songs of Billboard's 1952 year-end best-selling singles chart (by retail sales)",
+      "cutoff": 10,
+      "difficulty": 1,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1353659330 | table 1 | name: Title | value: No. | order: asc",
+      "tags": [
+        "music",
+        "billboard",
+        "1950s"
+      ],
+      "answers": [
+        {
+          "answer": "Blue Tango",
+          "display": "#1 — Leroy Anderson"
+        },
+        {
+          "answer": "Wheel of Fortune",
+          "display": "#2 — Kay Starr"
+        },
+        {
+          "answer": "Cry",
+          "display": "#3 — Johnnie Ray & The Four Lads"
+        },
+        {
+          "answer": "You Belong to Me",
+          "display": "#4 — Jo Stafford with Paul Weston"
+        },
+        {
+          "answer": "Auf Wiederseh'n, Sweetheart",
+          "display": "#5 — Vera Lynn with Her Majesty's Forces and Roland Shaw",
+          "aliases": [
+            "Auf Wiedersehen, Sweetheart"
+          ]
+        },
+        {
+          "answer": "Half as Much",
+          "display": "#6 — Rosemary Clooney with Percy Faith"
+        },
+        {
+          "answer": "Wish You Were Here",
+          "display": "#7 — Eddie Fisher with Hugo Winterhalter"
+        },
+        {
+          "answer": "I Went to Your Wedding",
+          "display": "#8 — Patti Page"
+        },
+        {
+          "answer": "Here in My Heart",
+          "display": "#9 — Al Martino"
+        },
+        {
+          "answer": "Delicado",
+          "display": "#10 — Percy Faith with Stan Freeman"
+        },
+        {
+          "answer": "Kiss of Fire",
+          "display": "#11 — Georgia Gibbs with Glenn Osser"
+        },
+        {
+          "answer": "Anytime",
+          "display": "#12 — Eddie Fisher with Hugo Winterhalter"
+        },
+        {
+          "answer": "Tell Me Why",
+          "display": "#13 — The Four Aces featuring Al Alberts"
+        },
+        {
+          "answer": "The Blacksmith Blues",
+          "display": "#14 — Ella Mae Morse with Nelson Riddle",
+          "aliases": [
+            "Blacksmith Blues"
+          ]
+        },
+        {
+          "answer": "Jambalaya (On the Bayou)",
+          "display": "#15 — Jo Stafford with Paul Weston and The Norman Luboff Choir",
+          "aliases": [
+            "Jambalaya"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "music/billboard-year-end/1950s",
+      "question": "Top 10 songs of Billboard's 1953 year-end best-selling singles chart (by retail sales)",
+      "cutoff": 10,
+      "difficulty": 1,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1353659334 | table 1 | name: Title | value: No. | order: asc",
+      "tags": [
+        "music",
+        "billboard",
+        "1950s"
+      ],
+      "answers": [
+        {
+          "answer": "The Song from Moulin Rouge",
+          "display": "#1 — Percy Faith featuring Felicia Sanders",
+          "aliases": [
+            "Moulin Rouge"
+          ]
+        },
+        {
+          "answer": "Vaya con Dios",
+          "display": "#2 — Les Paul and Mary Ford"
+        },
+        {
+          "answer": "(How Much Is) That Doggie in the Window?",
+          "display": "#3 — Patti Page",
+          "aliases": [
+            "That Doggie in the Window",
+            "Doggie in the Window"
+          ]
+        },
+        {
+          "answer": "I'm Walking Behind You",
+          "display": "#4 — Eddie Fisher with Hugo Winterhalter"
+        },
+        {
+          "answer": "You, You, You",
+          "display": "#5 — Ames Brothers with Hugo Winterhalter",
+          "aliases": [
+            "You You You"
+          ]
+        },
+        {
+          "answer": "Till I Waltz Again with You",
+          "display": "#6 — Teresa Brewer with Jack Pleis",
+          "aliases": [
+            "Till I Waltz Again"
+          ]
+        },
+        {
+          "answer": "April in Portugal",
+          "display": "#7 — Les Baxter"
+        },
+        {
+          "answer": "No Other Love",
+          "display": "#8 — Perry Como with Henri René"
+        },
+        {
+          "answer": "Don't Let the Stars Get in Your Eyes",
+          "display": "#9 — Perry Como",
+          "aliases": [
+            "Stars Get in Your Eyes"
+          ]
+        },
+        {
+          "answer": "I Believe",
+          "display": "#10 — Frankie Laine with Paul Weston"
+        },
+        {
+          "answer": "Oh",
+          "display": "#11 — Pee Wee Hunt"
+        },
+        {
+          "answer": "Ebb Tide",
+          "display": "#12 — Frank Chacksfield"
+        },
+        {
+          "answer": "Pretend",
+          "display": "#13 — Nat King Cole with Nelson Riddle"
+        },
+        {
+          "answer": "Ruby",
+          "display": "#14 — Richard Hayman"
+        },
+        {
+          "answer": "St. George and the Dragonet",
+          "display": "#15 — Stan Freberg"
+        }
+      ]
+    },
+    {
+      "category": "music/billboard-year-end/1950s",
+      "question": "Top 10 songs of Billboard's 1954 year-end best-selling singles chart (by retail sales)",
+      "cutoff": 10,
+      "difficulty": 1,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1353659340 | table 1 | name: Title | value: No. | order: asc",
+      "tags": [
+        "music",
+        "billboard",
+        "1950s"
+      ],
+      "answers": [
+        {
+          "answer": "Little Things Mean a Lot",
+          "display": "#1 — Kitty Kallen with Jack Pleis",
+          "aliases": [
+            "Little Things"
+          ]
+        },
+        {
+          "answer": "Wanted",
+          "display": "#2 — Perry Como with Hugo Winterhalter"
+        },
+        {
+          "answer": "Hey There",
+          "display": "#3 — Rosemary Clooney with Buddy Cole"
+        },
+        {
+          "answer": "Sh-Boom",
+          "display": "#4 — The Crew-Cuts with David Carroll"
+        },
+        {
+          "answer": "Make Love to Me",
+          "display": "#5 — Jo Stafford with Paul Weston"
+        },
+        {
+          "answer": "Oh! My Pa-Pa",
+          "display": "#6 — Eddie Fisher with Hugo Winterhalter",
+          "aliases": [
+            "Oh My Pa-Pa"
+          ]
+        },
+        {
+          "answer": "(Oh Baby Mine) I Get So Lonely",
+          "display": "#7 — The Four Knights",
+          "aliases": [
+            "I Get So Lonely"
+          ]
+        },
+        {
+          "answer": "Three Coins in the Fountain",
+          "display": "#8 — The Four Aces featuring Al Alberts and Jack Pleis",
+          "aliases": [
+            "Three Coins"
+          ]
+        },
+        {
+          "answer": "Secret Love",
+          "display": "#9 — Doris Day with Ray Heindorf"
+        },
+        {
+          "answer": "Hernando's Hideaway",
+          "display": "#10 — Archie Bleyer"
+        },
+        {
+          "answer": "Young at Heart",
+          "display": "#11 — Frank Sinatra"
+        },
+        {
+          "answer": "This Old House",
+          "display": "#12 — Rosemary Clooney with Buddy Cole",
+          "aliases": [
+            "This Ole House"
+          ]
+        },
+        {
+          "answer": "I Need You Now",
+          "display": "#13 — Eddie Fisher with Hugo Winterhalter"
+        },
+        {
+          "answer": "Cross Over the Bridge",
+          "display": "#14 — Patti Page"
+        },
+        {
+          "answer": "The Little Shoemaker",
+          "display": "#15 — The Gaylords",
+          "aliases": [
+            "Little Shoemaker"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "music/billboard-year-end/1950s",
+      "question": "Top 10 songs of Billboard's 1955 year-end best-selling singles chart (by retail sales)",
+      "cutoff": 10,
+      "difficulty": 1,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1353659348 | table 1 | name: Title | value: No. | order: asc",
+      "tags": [
+        "music",
+        "billboard",
+        "1950s"
+      ],
+      "answers": [
+        {
+          "answer": "Cherry Pink and Apple Blossom White",
+          "display": "#1 — Perez Prado",
+          "aliases": [
+            "Cherry Pink"
+          ]
+        },
+        {
+          "answer": "Rock Around the Clock",
+          "display": "#2 — Bill Haley & His Comets"
+        },
+        {
+          "answer": "The Yellow Rose of Texas",
+          "display": "#3 — Mitch Miller",
+          "aliases": [
+            "Yellow Rose of Texas"
+          ]
+        },
+        {
+          "answer": "Autumn Leaves",
+          "display": "#4 — Roger Williams"
+        },
+        {
+          "answer": "Unchained Melody",
+          "display": "#5 — Les Baxter"
+        },
+        {
+          "answer": "The Ballad of Davy Crockett",
+          "display": "#6 — Bill Hayes",
+          "aliases": [
+            "Davy Crockett"
+          ]
+        },
+        {
+          "answer": "Love Is a Many-Splendored Thing",
+          "display": "#7 — The Four Aces",
+          "aliases": [
+            "Many-Splendored Thing"
+          ]
+        },
+        {
+          "answer": "Sincerely",
+          "display": "#8 — The McGuire Sisters"
+        },
+        {
+          "answer": "Ain't That a Shame",
+          "display": "#9 — Pat Boone"
+        },
+        {
+          "answer": "The Wallflower (Dance with Me, Henry)",
+          "display": "#10 — Georgia Gibbs",
+          "aliases": [
+            "The Wallflower",
+            "Dance with Me Henry"
+          ]
+        },
+        {
+          "answer": "The Crazy Otto Medley",
+          "display": "#11 — Johnny Maddox",
+          "aliases": [
+            "Crazy Otto Medley"
+          ]
+        },
+        {
+          "answer": "Melody of Love",
+          "display": "#12 — Billy Vaughn"
+        },
+        {
+          "answer": "Sixteen Tons",
+          "display": "#13 — Tennessee Ernie Ford"
+        },
+        {
+          "answer": "Learnin' the Blues",
+          "display": "#14 — Frank Sinatra",
+          "aliases": [
+            "Learning the Blues"
+          ]
+        },
+        {
+          "answer": "Hearts of Stone",
+          "display": "#15 — The Fontane Sisters"
+        }
+      ]
+    },
+    {
+      "category": "music/billboard-year-end/1950s",
+      "question": "Top 10 songs of Billboard's 1956 year-end best-selling singles chart (by retail sales)",
+      "cutoff": 10,
+      "difficulty": 1,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1353659354 | table 1 | name: Title | value: No. | order: asc",
+      "tags": [
+        "music",
+        "billboard",
+        "1950s"
+      ],
+      "answers": [
+        {
+          "answer": "Heartbreak Hotel",
+          "display": "#1 — Elvis Presley"
+        },
+        {
+          "answer": "Don't Be Cruel",
+          "display": "#2 — Elvis Presley"
+        },
+        {
+          "answer": "Lisbon Antigua",
+          "display": "#3 — Nelson Riddle"
+        },
+        {
+          "answer": "My Prayer",
+          "display": "#4 — The Platters"
+        },
+        {
+          "answer": "The Wayward Wind",
+          "display": "#5 — Gogi Grant",
+          "aliases": [
+            "Wayward Wind"
+          ]
+        },
+        {
+          "answer": "Hound Dog",
+          "display": "#6 — Elvis Presley"
+        },
+        {
+          "answer": "The Poor People of Paris",
+          "display": "#7 — Les Baxter",
+          "aliases": [
+            "Poor People of Paris"
+          ]
+        },
+        {
+          "answer": "Que Sera, Sera",
+          "display": "#8 — Doris Day",
+          "aliases": [
+            "Que Sera Sera",
+            "Whatever Will Be, Will Be"
+          ]
+        },
+        {
+          "answer": "Memories Are Made of This",
+          "display": "#9 — Dean Martin"
+        },
+        {
+          "answer": "The Rock and Roll Waltz",
+          "display": "#10 — Kay Starr",
+          "aliases": [
+            "Rock and Roll Waltz"
+          ]
+        },
+        {
+          "answer": "Moonglow and Theme from Picnic",
+          "display": "#11 — Morris Stoloff",
+          "aliases": [
+            "Moonglow"
+          ]
+        },
+        {
+          "answer": "The Great Pretender",
+          "display": "#12 — The Platters",
+          "aliases": [
+            "Great Pretender"
+          ]
+        },
+        {
+          "answer": "I Almost Lost My Mind",
+          "display": "#13 — Pat Boone"
+        },
+        {
+          "answer": "I Want You, I Need You, I Love You",
+          "display": "#14 — Elvis Presley",
+          "aliases": [
+            "I Want You I Need You"
+          ]
+        },
+        {
+          "answer": "Love Me Tender",
+          "display": "#15 — Elvis Presley"
+        }
+      ]
+    },
+    {
+      "category": "music/billboard-year-end/1950s",
+      "question": "Top 10 songs of Billboard's 1958 year-end top 50 pop singles chart",
+      "cutoff": 10,
+      "difficulty": 1,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1353659365 | table 1 | name: Title | value: No. | order: asc",
+      "tags": [
+        "music",
+        "billboard",
+        "1950s"
+      ],
+      "answers": [
+        {
+          "answer": "Volare",
+          "display": "#1 — Domenico Modugno",
+          "aliases": [
+            "Nel blu dipinto di blu"
+          ]
+        },
+        {
+          "answer": "All I Have to Do Is Dream",
+          "display": "#2 — The Everly Brothers",
+          "aliases": [
+            "Claudette"
+          ]
+        },
+        {
+          "answer": "Don't",
+          "display": "#3 — Elvis Presley",
+          "aliases": [
+            "I Beg of You"
+          ]
+        },
+        {
+          "answer": "Witch Doctor",
+          "display": "#4 — Ross Bagdasarian"
+        },
+        {
+          "answer": "Patricia",
+          "display": "#5 — Perez Prado"
+        },
+        {
+          "answer": "Sail Along, Silv'ry Moon",
+          "display": "#6 — Billy Vaughn",
+          "aliases": [
+            "Raunchy"
+          ]
+        },
+        {
+          "answer": "Catch a Falling Star",
+          "display": "#7 — Perry Como",
+          "aliases": [
+            "Magic Moments"
+          ]
+        },
+        {
+          "answer": "Tequila",
+          "display": "#8 — The Champs"
+        },
+        {
+          "answer": "It's All in the Game",
+          "display": "#9 — Tommy Edwards",
+          "aliases": [
+            "All in the Game"
+          ]
+        },
+        {
+          "answer": "Return to Me",
+          "display": "#10 — Dean Martin"
+        },
+        {
+          "answer": "It's Only Make Believe",
+          "display": "#11 — Conway Twitty",
+          "aliases": [
+            "Only Make Believe"
+          ]
+        },
+        {
+          "answer": "The Purple People Eater",
+          "display": "#12 — Sheb Wooley",
+          "aliases": [
+            "Purple People Eater"
+          ]
+        },
+        {
+          "answer": "Bird Dog",
+          "display": "#13 — The Everly Brothers",
+          "aliases": [
+            "Devoted to You"
+          ]
+        },
+        {
+          "answer": "Get a Job",
+          "display": "#14 — The Silhouettes"
+        },
+        {
+          "answer": "Little Star",
+          "display": "#15 — The Elegants"
+        }
+      ]
+    },
+    {
+      "category": "music/billboard-year-end/1950s",
+      "question": "Top 10 songs of Billboard's 1959 year-end Hot 100 chart",
+      "cutoff": 10,
+      "difficulty": 1,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1368373981 | table 1 | name: Title | value: No. | order: asc",
+      "tags": [
+        "music",
+        "billboard",
+        "1950s"
+      ],
+      "answers": [
+        {
+          "answer": "The Battle of New Orleans",
+          "display": "#1 — Johnny Horton",
+          "aliases": [
+            "Battle of New Orleans"
+          ]
+        },
+        {
+          "answer": "Mack the Knife",
+          "display": "#2 — Bobby Darin"
+        },
+        {
+          "answer": "Personality",
+          "display": "#3 — Lloyd Price"
+        },
+        {
+          "answer": "Venus",
+          "display": "#4 — Frankie Avalon"
+        },
+        {
+          "answer": "Lonely Boy",
+          "display": "#5 — Paul Anka"
+        },
+        {
+          "answer": "Dream Lover",
+          "display": "#6 — Bobby Darin"
+        },
+        {
+          "answer": "The Three Bells",
+          "display": "#7 — The Browns",
+          "aliases": [
+            "Three Bells"
+          ]
+        },
+        {
+          "answer": "Come Softly to Me",
+          "display": "#8 — The Fleetwoods"
+        },
+        {
+          "answer": "Kansas City",
+          "display": "#9 — Wilbert Harrison"
+        },
+        {
+          "answer": "Mr. Blue",
+          "display": "#10 — The Fleetwoods"
+        },
+        {
+          "answer": "Sleep Walk",
+          "display": "#11 — Santo & Johnny"
+        },
+        {
+          "answer": "Put Your Head on My Shoulder",
+          "display": "#12 — Paul Anka"
+        },
+        {
+          "answer": "Stagger Lee",
+          "display": "#13 — Lloyd Price"
+        },
+        {
+          "answer": "Donna",
+          "display": "#14 — Ritchie Valens"
+        },
+        {
+          "answer": "Pink Shoe Laces",
+          "display": "#15 — Dodie Stevens",
+          "aliases": [
+            "Pink Shoelaces"
+          ]
+        }
+      ]
+    }
+  ]
+}

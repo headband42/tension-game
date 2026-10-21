@@ -1,0 +1,476 @@
+{
+  "categories": [
+    {
+      "path": "business/wealth/billionaire-countries",
+      "name": "Billionaire Countries"
+    },
+    {
+      "path": "business/wealth/richest-americans",
+      "name": "Richest Americans"
+    },
+    {
+      "path": "business/wealth/richest-britons",
+      "name": "Richest Britons"
+    },
+    {
+      "path": "business/wealth/richest-indians",
+      "name": "Richest Indians"
+    }
+  ],
+  "questions": [
+    {
+      "category": "business/wealth/billionaire-countries",
+      "question": "Top 10 countries by number of billionaires (Forbes, March 2026)",
+      "cutoff": 10,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1379654892 | table 1 | name: Country/Territory | value: Billionaires / 2026 | header rows: 2 | where: Country/Territory!=World",
+      "tags": [
+        "business",
+        "wealth",
+        "billionaires",
+        "countries"
+      ],
+      "answers": [
+        {
+          "answer": "United States",
+          "display": "989 billionaires",
+          "aliases": [
+            "USA",
+            "US",
+            "America"
+          ]
+        },
+        {
+          "answer": "China",
+          "display": "539 billionaires"
+        },
+        {
+          "answer": "India",
+          "display": "229 billionaires"
+        },
+        {
+          "answer": "Germany",
+          "display": "212 billionaires"
+        },
+        {
+          "answer": "Russia",
+          "display": "147 billionaires",
+          "aliases": [
+            "Russian Federation"
+          ]
+        },
+        {
+          "answer": "Italy",
+          "display": "89 billionaires"
+        },
+        {
+          "answer": "Canada",
+          "display": "82 billionaires"
+        },
+        {
+          "answer": "Hong Kong",
+          "display": "71 billionaires"
+        },
+        {
+          "answer": "Brazil",
+          "display": "70 billionaires"
+        },
+        {
+          "answer": "Taiwan",
+          "display": "66 billionaires"
+        },
+        {
+          "answer": "United Kingdom",
+          "display": "56 billionaires",
+          "aliases": [
+            "UK",
+            "Britain",
+            "Great Britain"
+          ]
+        },
+        {
+          "answer": "Singapore",
+          "display": "55 billionaires"
+        },
+        {
+          "answer": "France",
+          "display": "51 billionaires"
+        },
+        {
+          "answer": "Sweden",
+          "display": "50 billionaires"
+        },
+        {
+          "answer": "South Korea",
+          "display": "49 billionaires",
+          "aliases": [
+            "Korea"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "business/wealth/billionaire-countries",
+      "question": "Top 10 countries by increase in the number of billionaires from 2025 to 2026 (Forbes, March 2026)",
+      "cutoff": 10,
+      "difficulty": 3,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1379654892 | table 1 | name: Country/Territory | value: Change | header rows: 2 | where: Country/Territory!=World",
+      "tags": [
+        "business",
+        "wealth",
+        "billionaires",
+        "countries",
+        "change"
+      ],
+      "answers": [
+        {
+          "answer": "China",
+          "display": "+89 billionaires"
+        },
+        {
+          "answer": "United States",
+          "display": "+87 billionaires",
+          "aliases": [
+            "USA",
+            "US",
+            "America"
+          ]
+        },
+        {
+          "answer": "Germany",
+          "display": "+41 billionaires"
+        },
+        {
+          "answer": "India",
+          "display": "+24 billionaires"
+        },
+        {
+          "answer": "Italy",
+          "display": "+15 billionaires"
+        },
+        {
+          "answer": "Saudi Arabia",
+          "display": "+15 billionaires"
+        },
+        {
+          "answer": "Brazil",
+          "display": "+14 billionaires"
+        },
+        {
+          "answer": "South Korea",
+          "display": "+13 billionaires",
+          "aliases": [
+            "Korea"
+          ]
+        },
+        {
+          "answer": "Taiwan",
+          "display": "+12 billionaires"
+        },
+        {
+          "answer": "Russia",
+          "display": "+7 billionaires",
+          "aliases": [
+            "Russian Federation"
+          ]
+        },
+        {
+          "answer": "Canada",
+          "display": "+6 billionaires"
+        },
+        {
+          "answer": "Singapore",
+          "display": "+6 billionaires"
+        },
+        {
+          "answer": "Greece",
+          "display": "+6 billionaires"
+        }
+      ]
+    },
+    {
+      "category": "business/wealth/richest-americans",
+      "question": "Top 10 richest Americans (Forbes 400, as of December 2025)",
+      "cutoff": 10,
+      "difficulty": 1,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1365567934 | table 1 | name: Name | value: Net worth",
+      "tags": [
+        "business",
+        "wealth",
+        "americans",
+        "billionaires"
+      ],
+      "answers": [
+        {
+          "answer": "Elon Musk",
+          "display": "$428 billion",
+          "aliases": [
+            "Musk"
+          ]
+        },
+        {
+          "answer": "Larry Ellison",
+          "display": "$276 billion",
+          "aliases": [
+            "Ellison"
+          ]
+        },
+        {
+          "answer": "Mark Zuckerberg",
+          "display": "$253 billion",
+          "aliases": [
+            "Zuckerberg"
+          ]
+        },
+        {
+          "answer": "Jeff Bezos",
+          "display": "$241 billion",
+          "aliases": [
+            "Bezos"
+          ]
+        },
+        {
+          "answer": "Larry Page",
+          "display": "$179 billion",
+          "aliases": [
+            "Page"
+          ]
+        },
+        {
+          "answer": "Sergey Brin",
+          "display": "$166 billion",
+          "aliases": [
+            "Brin"
+          ]
+        },
+        {
+          "answer": "Steve Ballmer",
+          "display": "$153 billion",
+          "aliases": [
+            "Ballmer"
+          ]
+        },
+        {
+          "answer": "Jensen Huang",
+          "display": "$151 billion",
+          "aliases": [
+            "Huang"
+          ]
+        },
+        {
+          "answer": "Warren Buffett",
+          "display": "$150 billion",
+          "aliases": [
+            "Buffett"
+          ]
+        },
+        {
+          "answer": "Michael Dell",
+          "display": "$129 billion",
+          "aliases": [
+            "Dell"
+          ]
+        },
+        {
+          "answer": "Rob Walton",
+          "display": "$118 billion"
+        },
+        {
+          "answer": "Jim Walton",
+          "display": "$115 billion"
+        },
+        {
+          "answer": "Michael Bloomberg",
+          "display": "$109 billion",
+          "aliases": [
+            "Bloomberg"
+          ]
+        },
+        {
+          "answer": "Bill Gates",
+          "display": "$107 billion",
+          "aliases": [
+            "Gates"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "business/wealth/richest-britons",
+      "question": "Top 10 richest British billionaires (Forbes, 10 March 2026)",
+      "cutoff": 10,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1376220279 | table 1 | name: Name | value: Net worth",
+      "tags": [
+        "business",
+        "wealth",
+        "britain",
+        "billionaires"
+      ],
+      "answers": [
+        {
+          "answer": "Nik Storonsky",
+          "display": "$18.8 billion"
+        },
+        {
+          "answer": "Jim Ratcliffe",
+          "display": "$18.4 billion",
+          "aliases": [
+            "Ratcliffe"
+          ]
+        },
+        {
+          "answer": "James Dyson",
+          "display": "$15 billion",
+          "aliases": [
+            "Dyson"
+          ]
+        },
+        {
+          "answer": "Simon Reuben",
+          "display": "$13.3 billion"
+        },
+        {
+          "answer": "David Reuben",
+          "display": "$13.3 billion"
+        },
+        {
+          "answer": "Alexander Gerko",
+          "display": "$12 billion"
+        },
+        {
+          "answer": "Christopher Hohn",
+          "display": "$11.8 billion"
+        },
+        {
+          "answer": "Anthony Bamford",
+          "display": "$10 billion"
+        },
+        {
+          "answer": "Denise Coates",
+          "display": "$8.1 billion"
+        },
+        {
+          "answer": "Joe Lewis",
+          "display": "$7 billion"
+        },
+        {
+          "answer": "Clive Calder",
+          "display": "$6.9 billion"
+        },
+        {
+          "answer": "Tom Morris",
+          "display": "$6.1 billion"
+        },
+        {
+          "answer": "John Reece",
+          "display": "$6.1 billion"
+        },
+        {
+          "answer": "Andrew Currie",
+          "display": "$6.1 billion"
+        }
+      ]
+    },
+    {
+      "category": "business/wealth/richest-indians",
+      "question": "Top 10 richest Indians (Forbes, April 2024)",
+      "cutoff": 10,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1362693137 | table 1 | name: Name | value: Net worth",
+      "tags": [
+        "business",
+        "wealth",
+        "india",
+        "billionaires"
+      ],
+      "answers": [
+        {
+          "answer": "Mukesh Ambani",
+          "display": "$116 billion",
+          "aliases": [
+            "Ambani"
+          ]
+        },
+        {
+          "answer": "Gautam Adani",
+          "display": "$84 billion",
+          "aliases": [
+            "Adani"
+          ]
+        },
+        {
+          "answer": "Shiv Nadar",
+          "display": "$36.9 billion",
+          "aliases": [
+            "Nadar"
+          ]
+        },
+        {
+          "answer": "Savitri Jindal",
+          "display": "$33.5 billion",
+          "aliases": [
+            "Jindal"
+          ]
+        },
+        {
+          "answer": "Dilip Shanghvi",
+          "display": "$26.7 billion"
+        },
+        {
+          "answer": "Cyrus Poonawalla",
+          "display": "$21.3 billion",
+          "aliases": [
+            "Poonawalla"
+          ]
+        },
+        {
+          "answer": "Kushal Pal Singh",
+          "display": "$20.9 billion"
+        },
+        {
+          "answer": "Kumar Mangalam Birla",
+          "display": "$19.7 billion",
+          "aliases": [
+            "Birla"
+          ]
+        },
+        {
+          "answer": "Radhakishan Damani",
+          "display": "$17.6 billion",
+          "aliases": [
+            "Damani"
+          ]
+        },
+        {
+          "answer": "Lakshmi Mittal",
+          "display": "$16.4 billion"
+        },
+        {
+          "answer": "Ravi Jaipuria",
+          "display": "$16.2 billion"
+        },
+        {
+          "answer": "Uday Kotak",
+          "display": "$13.3 billion"
+        },
+        {
+          "answer": "Azim Premji",
+          "display": "$12 billion",
+          "aliases": [
+            "Premji"
+          ]
+        },
+        {
+          "answer": "Mangal Lodha",
+          "display": "$10.4 billion"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,181 @@
+{
+  "categories": [
+    {
+      "path": "nature/animals/dogs",
+      "name": "Dogs"
+    }
+  ],
+  "questions": [
+    {
+      "category": "nature/animals/dogs",
+      "difficulty": 2,
+      "question": "Top 10 most registered dog breeds worldwide (FCI, 2013 figures)",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1376223830 | table 10 | name: Breed | value: Registrations | note: FCI worldwide registrations 2013, combined from 25 countries",
+      "tags": [
+        "animals",
+        "dogs",
+        "registrations"
+      ],
+      "cutoff": 10,
+      "answers": [
+        {
+          "answer": "Labrador Retriever",
+          "display": "191,988 registrations",
+          "aliases": [
+            "Labrador",
+            "Lab"
+          ]
+        },
+        {
+          "answer": "German Shepherd",
+          "display": "129,186 registrations",
+          "aliases": [
+            "Alsatian"
+          ]
+        },
+        {
+          "answer": "Poodle",
+          "display": "118,653 registrations"
+        },
+        {
+          "answer": "Chihuahua",
+          "display": "107,114 registrations"
+        },
+        {
+          "answer": "Golden Retriever",
+          "display": "92,994 registrations",
+          "aliases": [
+            "Golden"
+          ]
+        },
+        {
+          "answer": "Yorkshire Terrier",
+          "display": "92,438 registrations",
+          "aliases": [
+            "Yorkie",
+            "Yorkshire"
+          ]
+        },
+        {
+          "answer": "Dachshund",
+          "display": "81,516 registrations",
+          "aliases": [
+            "Sausage dog"
+          ]
+        },
+        {
+          "answer": "Beagle",
+          "display": "53,938 registrations"
+        },
+        {
+          "answer": "Boxer",
+          "display": "52,983 registrations"
+        },
+        {
+          "answer": "Miniature Schnauzer",
+          "display": "45,263 registrations",
+          "aliases": [
+            "Schnauzer"
+          ]
+        },
+        {
+          "answer": "Shih Tzu",
+          "display": "44,564 registrations"
+        },
+        {
+          "answer": "English Bulldog",
+          "display": "44,325 registrations",
+          "aliases": [
+            "Bulldog"
+          ]
+        },
+        {
+          "answer": "German Spitz",
+          "display": "40,530 registrations"
+        },
+        {
+          "answer": "English Cocker Spaniel",
+          "display": "40,174 registrations",
+          "aliases": [
+            "Cocker Spaniel"
+          ]
+        },
+        {
+          "answer": "Cavalier King Charles Spaniel",
+          "display": "39,670 registrations",
+          "aliases": [
+            "Cavalier"
+          ]
+        }
+      ],
+      "submitter": "claude"
+    },
+    {
+      "category": "nature/animals/dogs",
+      "difficulty": 1,
+      "question": "Top 7 most popular dog breeds in the US (AKC registrations, 2025)",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1376223830 | table 18 | name: Breed | value: Position | order: asc | note: American Kennel Club 2025 ranking; the table gives positions only",
+      "tags": [
+        "animals",
+        "dogs",
+        "akc"
+      ],
+      "cutoff": 7,
+      "answers": [
+        {
+          "answer": "French Bulldog",
+          "aliases": [
+            "Frenchie"
+          ]
+        },
+        {
+          "answer": "Labrador Retriever",
+          "aliases": [
+            "Labrador",
+            "Lab"
+          ]
+        },
+        {
+          "answer": "Golden Retriever",
+          "aliases": [
+            "Golden"
+          ]
+        },
+        {
+          "answer": "German Shepherd",
+          "aliases": [
+            "Alsatian"
+          ]
+        },
+        {
+          "answer": "Dachshund",
+          "aliases": [
+            "Sausage dog"
+          ]
+        },
+        {
+          "answer": "Poodle"
+        },
+        {
+          "answer": "Beagle"
+        },
+        {
+          "answer": "Rottweiler"
+        },
+        {
+          "answer": "German Shorthaired Pointer",
+          "aliases": [
+            "German Shorthair"
+          ]
+        },
+        {
+          "answer": "English Bulldog",
+          "aliases": [
+            "Bulldog"
+          ]
+        }
+      ],
+      "submitter": "claude"
+    }
+  ]
+}

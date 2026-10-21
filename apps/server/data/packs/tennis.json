@@ -1,0 +1,893 @@
+{
+  "categories": [
+    {
+      "path": "sports/tennis",
+      "name": "Tennis"
+    },
+    {
+      "path": "sports/tennis/grand-slams",
+      "name": "Grand Slams"
+    },
+    {
+      "path": "sports/tennis/rankings",
+      "name": "Tennis rankings"
+    },
+    {
+      "path": "sports/tennis/olympics",
+      "name": "Tennis at the Olympics"
+    },
+    {
+      "path": "sports/tennis/team-events",
+      "name": "Davis Cup"
+    }
+  ],
+  "questions": [
+    {
+      "category": "sports/tennis/rankings",
+      "question": "Top 10 most weeks ranked ATP world No. 1 in singles (all-time, as of 2026)",
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1378956037 | table 2 | name: Player | value: Total",
+      "tags": [
+        "tennis",
+        "atp",
+        "rankings",
+        "weeks"
+      ],
+      "answers": [
+        {
+          "answer": "Novak Djokovic",
+          "display": "428 weeks",
+          "aliases": [
+            "djokovic"
+          ]
+        },
+        {
+          "answer": "Roger Federer",
+          "display": "310 weeks",
+          "aliases": [
+            "federer"
+          ]
+        },
+        {
+          "answer": "Pete Sampras",
+          "display": "286 weeks",
+          "aliases": [
+            "sampras"
+          ]
+        },
+        {
+          "answer": "Ivan Lendl",
+          "display": "270 weeks",
+          "aliases": [
+            "lendl"
+          ]
+        },
+        {
+          "answer": "Jimmy Connors",
+          "display": "268 weeks",
+          "aliases": [
+            "connors"
+          ]
+        },
+        {
+          "answer": "Rafael Nadal",
+          "display": "209 weeks",
+          "aliases": [
+            "nadal"
+          ]
+        },
+        {
+          "answer": "John McEnroe",
+          "display": "170 weeks",
+          "aliases": [
+            "mcenroe"
+          ]
+        },
+        {
+          "answer": "Björn Borg",
+          "display": "109 weeks",
+          "aliases": [
+            "borg"
+          ]
+        },
+        {
+          "answer": "Andre Agassi",
+          "display": "101 weeks",
+          "aliases": [
+            "agassi"
+          ]
+        },
+        {
+          "answer": "Jannik Sinner",
+          "display": "92 weeks",
+          "aliases": [
+            "sinner"
+          ]
+        },
+        {
+          "answer": "Lleyton Hewitt",
+          "display": "80 weeks",
+          "aliases": [
+            "hewitt"
+          ]
+        },
+        {
+          "answer": "Stefan Edberg",
+          "display": "72 weeks",
+          "aliases": [
+            "edberg"
+          ]
+        },
+        {
+          "answer": "Carlos Alcaraz",
+          "display": "66 weeks",
+          "aliases": [
+            "alcaraz"
+          ]
+        },
+        {
+          "answer": "Jim Courier",
+          "display": "58 weeks",
+          "aliases": [
+            "courier"
+          ]
+        },
+        {
+          "answer": "Gustavo Kuerten",
+          "display": "43 weeks",
+          "aliases": [
+            "kuerten",
+            "guga"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/tennis/rankings",
+      "question": "Top 10 most weeks ranked WTA world No. 1 in singles (all-time, as of 2026)",
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1379712115 | table 2 | name: Player | value: Weeks",
+      "tags": [
+        "tennis",
+        "wta",
+        "rankings",
+        "weeks"
+      ],
+      "answers": [
+        {
+          "answer": "Steffi Graf",
+          "display": "377 weeks",
+          "aliases": [
+            "graf"
+          ]
+        },
+        {
+          "answer": "Martina Navratilova",
+          "display": "332 weeks",
+          "aliases": [
+            "navratilova"
+          ]
+        },
+        {
+          "answer": "Serena Williams",
+          "display": "319 weeks",
+          "aliases": [
+            "serena"
+          ]
+        },
+        {
+          "answer": "Chris Evert",
+          "display": "260 weeks",
+          "aliases": [
+            "evert"
+          ]
+        },
+        {
+          "answer": "Martina Hingis",
+          "display": "209 weeks",
+          "aliases": [
+            "hingis"
+          ]
+        },
+        {
+          "answer": "Monica Seles",
+          "display": "178 weeks",
+          "aliases": [
+            "seles"
+          ]
+        },
+        {
+          "answer": "Iga Świątek",
+          "display": "125 weeks",
+          "aliases": [
+            "swiatek"
+          ]
+        },
+        {
+          "answer": "Ashleigh Barty",
+          "display": "121 weeks",
+          "aliases": [
+            "barty"
+          ]
+        },
+        {
+          "answer": "Justine Henin",
+          "display": "117 weeks",
+          "aliases": [
+            "henin"
+          ]
+        },
+        {
+          "answer": "Aryna Sabalenka",
+          "display": "107 weeks",
+          "aliases": [
+            "sabalenka"
+          ]
+        },
+        {
+          "answer": "Lindsay Davenport",
+          "display": "98 weeks",
+          "aliases": [
+            "davenport"
+          ]
+        },
+        {
+          "answer": "Caroline Wozniacki",
+          "display": "71 weeks",
+          "aliases": [
+            "wozniacki"
+          ]
+        },
+        {
+          "answer": "Simona Halep",
+          "display": "64 weeks",
+          "aliases": [
+            "halep"
+          ]
+        },
+        {
+          "answer": "Victoria Azarenka",
+          "display": "51 weeks",
+          "aliases": [
+            "azarenka"
+          ]
+        },
+        {
+          "answer": "Amélie Mauresmo",
+          "display": "39 weeks",
+          "aliases": [
+            "mauresmo"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/tennis/rankings",
+      "question": "Top 10 most weeks ranked ATP world No. 1 in doubles (all-time, as of 2026)",
+      "difficulty": 3,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1378557760 | table 2 | name: Player | value: Weeks",
+      "tags": [
+        "tennis",
+        "atp",
+        "doubles",
+        "rankings",
+        "weeks"
+      ],
+      "answers": [
+        {
+          "answer": "Mike Bryan",
+          "display": "506 weeks"
+        },
+        {
+          "answer": "Bob Bryan",
+          "display": "439 weeks"
+        },
+        {
+          "answer": "John McEnroe",
+          "display": "269 weeks",
+          "aliases": [
+            "mcenroe"
+          ]
+        },
+        {
+          "answer": "Todd Woodbridge",
+          "display": "205 weeks",
+          "aliases": [
+            "woodbridge"
+          ]
+        },
+        {
+          "answer": "Daniel Nestor",
+          "display": "108 weeks",
+          "aliases": [
+            "nestor"
+          ]
+        },
+        {
+          "answer": "Anders Järryd",
+          "display": "107 weeks",
+          "aliases": [
+            "jarryd"
+          ]
+        },
+        {
+          "answer": "Mate Pavić",
+          "display": "97 weeks",
+          "aliases": [
+            "pavic"
+          ]
+        },
+        {
+          "answer": "Frew McMillan",
+          "display": "85 weeks",
+          "aliases": [
+            "mcmillan"
+          ]
+        },
+        {
+          "answer": "Mark Woodforde",
+          "display": "83 weeks",
+          "aliases": [
+            "woodforde"
+          ]
+        },
+        {
+          "answer": "Jonas Björkman",
+          "display": "74 weeks",
+          "aliases": [
+            "bjorkman"
+          ]
+        },
+        {
+          "answer": "Paul Haarhuis",
+          "display": "70 weeks",
+          "aliases": [
+            "haarhuis"
+          ]
+        },
+        {
+          "answer": "Robert Farah",
+          "display": "68 weeks",
+          "aliases": [
+            "farah"
+          ]
+        },
+        {
+          "answer": "Mark Knowles",
+          "display": "65 weeks",
+          "aliases": [
+            "knowles"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/tennis/grand-slams",
+      "question": "Top 8 all-time Grand Slam men's singles titles (as of 2026)",
+      "cutoff": 8,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1375695111 | table 4 | name: Player | value: Titles | where: Player!~^Top 10",
+      "tags": [
+        "tennis",
+        "grand slams",
+        "men",
+        "titles"
+      ],
+      "answers": [
+        {
+          "answer": "Novak Djokovic",
+          "display": "24 titles",
+          "aliases": [
+            "djokovic"
+          ]
+        },
+        {
+          "answer": "Rafael Nadal",
+          "display": "22 titles",
+          "aliases": [
+            "nadal"
+          ]
+        },
+        {
+          "answer": "Roger Federer",
+          "display": "20 titles",
+          "aliases": [
+            "federer"
+          ]
+        },
+        {
+          "answer": "Pete Sampras",
+          "display": "14 titles",
+          "aliases": [
+            "sampras"
+          ]
+        },
+        {
+          "answer": "Roy Emerson",
+          "display": "12 titles",
+          "aliases": [
+            "emerson"
+          ]
+        },
+        {
+          "answer": "Rod Laver",
+          "display": "11 titles",
+          "aliases": [
+            "laver"
+          ]
+        },
+        {
+          "answer": "Björn Borg",
+          "display": "11 titles",
+          "aliases": [
+            "borg"
+          ]
+        },
+        {
+          "answer": "Bill Tilden",
+          "display": "10 titles",
+          "aliases": [
+            "tilden"
+          ]
+        },
+        {
+          "answer": "Fred Perry",
+          "display": "8 titles",
+          "aliases": [
+            "perry"
+          ]
+        },
+        {
+          "answer": "Ken Rosewall",
+          "display": "8 titles",
+          "aliases": [
+            "rosewall"
+          ]
+        },
+        {
+          "answer": "Jimmy Connors",
+          "display": "8 titles",
+          "aliases": [
+            "connors"
+          ]
+        },
+        {
+          "answer": "Ivan Lendl",
+          "display": "8 titles",
+          "aliases": [
+            "lendl"
+          ]
+        },
+        {
+          "answer": "Andre Agassi",
+          "display": "8 titles",
+          "aliases": [
+            "agassi"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/tennis/grand-slams",
+      "question": "Top 7 all-time Grand Slam women's singles titles (as of 2026)",
+      "cutoff": 7,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1377140767 | table 3 | name: Player | value: Titles | where: Player!~^Top 10",
+      "tags": [
+        "tennis",
+        "grand slams",
+        "women",
+        "titles"
+      ],
+      "answers": [
+        {
+          "answer": "Margaret Court",
+          "display": "24 titles",
+          "aliases": [
+            "court"
+          ]
+        },
+        {
+          "answer": "Serena Williams",
+          "display": "23 titles",
+          "aliases": [
+            "serena"
+          ]
+        },
+        {
+          "answer": "Steffi Graf",
+          "display": "22 titles",
+          "aliases": [
+            "graf"
+          ]
+        },
+        {
+          "answer": "Helen Wills Moody",
+          "display": "19 titles",
+          "aliases": [
+            "wills"
+          ]
+        },
+        {
+          "answer": "Chris Evert",
+          "display": "18 titles",
+          "aliases": [
+            "evert"
+          ]
+        },
+        {
+          "answer": "Martina Navratilova",
+          "display": "18 titles",
+          "aliases": [
+            "navratilova"
+          ]
+        },
+        {
+          "answer": "Billie Jean King",
+          "display": "12 titles",
+          "aliases": [
+            "king"
+          ]
+        },
+        {
+          "answer": "Maureen Connolly",
+          "display": "9 titles",
+          "aliases": [
+            "connolly"
+          ]
+        },
+        {
+          "answer": "Monica Seles",
+          "display": "9 titles",
+          "aliases": [
+            "seles"
+          ]
+        },
+        {
+          "answer": "Molla Bjurstedt Mallory",
+          "display": "8 titles",
+          "aliases": [
+            "mallory"
+          ]
+        },
+        {
+          "answer": "Suzanne Lenglen",
+          "display": "8 titles",
+          "aliases": [
+            "lenglen"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/tennis",
+      "question": "Top 7 most ATP Finals singles titles (all-time, through 2025)",
+      "cutoff": 7,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1373577526 | table 6 | name: Player | value: Titles",
+      "tags": [
+        "tennis",
+        "atp finals",
+        "titles"
+      ],
+      "answers": [
+        {
+          "answer": "Novak Djokovic",
+          "display": "7 titles",
+          "aliases": [
+            "djokovic"
+          ]
+        },
+        {
+          "answer": "Roger Federer",
+          "display": "6 titles",
+          "aliases": [
+            "federer"
+          ]
+        },
+        {
+          "answer": "Ivan Lendl",
+          "display": "5 titles",
+          "aliases": [
+            "lendl"
+          ]
+        },
+        {
+          "answer": "Pete Sampras",
+          "display": "5 titles",
+          "aliases": [
+            "sampras"
+          ]
+        },
+        {
+          "answer": "Ilie Năstase",
+          "display": "4 titles",
+          "aliases": [
+            "nastase"
+          ]
+        },
+        {
+          "answer": "John McEnroe",
+          "display": "3 titles",
+          "aliases": [
+            "mcenroe"
+          ]
+        },
+        {
+          "answer": "Boris Becker",
+          "display": "3 titles",
+          "aliases": [
+            "becker"
+          ]
+        },
+        {
+          "answer": "Björn Borg",
+          "display": "2 titles",
+          "aliases": [
+            "borg"
+          ]
+        },
+        {
+          "answer": "Lleyton Hewitt",
+          "display": "2 titles",
+          "aliases": [
+            "hewitt"
+          ]
+        },
+        {
+          "answer": "Alexander Zverev",
+          "display": "2 titles",
+          "aliases": [
+            "zverev"
+          ]
+        },
+        {
+          "answer": "Jannik Sinner",
+          "display": "2 titles",
+          "aliases": [
+            "sinner"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/tennis/olympics",
+      "question": "Top 7 nations by Olympic tennis gold medals (all-time, through 2024)",
+      "cutoff": 7,
+      "difficulty": 3,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1376323385 | table 7 | name: Nation | value: Gold | where: Nation!~^Totals",
+      "tags": [
+        "tennis",
+        "olympics",
+        "gold medals"
+      ],
+      "answers": [
+        {
+          "answer": "United States",
+          "display": "21 golds",
+          "aliases": [
+            "USA",
+            "US"
+          ]
+        },
+        {
+          "answer": "Great Britain",
+          "display": "17 golds",
+          "aliases": [
+            "Britain",
+            "GB"
+          ]
+        },
+        {
+          "answer": "France",
+          "display": "5 golds"
+        },
+        {
+          "answer": "Germany",
+          "display": "3 golds"
+        },
+        {
+          "answer": "Russia",
+          "display": "3 golds"
+        },
+        {
+          "answer": "Switzerland",
+          "display": "3 golds"
+        },
+        {
+          "answer": "South Africa",
+          "display": "3 golds"
+        },
+        {
+          "answer": "Spain",
+          "display": "2 golds"
+        },
+        {
+          "answer": "Czech Republic",
+          "display": "2 golds"
+        },
+        {
+          "answer": "Australia",
+          "display": "2 golds"
+        },
+        {
+          "answer": "Chile",
+          "display": "2 golds"
+        },
+        {
+          "answer": "China",
+          "display": "2 golds"
+        }
+      ]
+    },
+    {
+      "category": "sports/tennis/team-events",
+      "question": "Top 9 nations by Davis Cup titles won, 1981–2018 (the old World Group format; the Finals since 2019 are not counted)",
+      "cutoff": 9,
+      "difficulty": 3,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1376717122 | table 5 | name: Nation | value: Won",
+      "tags": [
+        "tennis",
+        "davis cup",
+        "titles"
+      ],
+      "answers": [
+        {
+          "answer": "Sweden",
+          "display": "6 titles"
+        },
+        {
+          "answer": "United States",
+          "display": "6 titles",
+          "aliases": [
+            "USA",
+            "US"
+          ]
+        },
+        {
+          "answer": "Spain",
+          "display": "5 titles"
+        },
+        {
+          "answer": "Australia",
+          "display": "4 titles"
+        },
+        {
+          "answer": "France",
+          "display": "4 titles"
+        },
+        {
+          "answer": "Germany",
+          "display": "3 titles"
+        },
+        {
+          "answer": "Croatia",
+          "display": "2 titles"
+        },
+        {
+          "answer": "Czech Republic",
+          "display": "2 titles",
+          "aliases": [
+            "Czechia"
+          ]
+        },
+        {
+          "answer": "Russia",
+          "display": "2 titles"
+        },
+        {
+          "answer": "Argentina",
+          "display": "1 title"
+        },
+        {
+          "answer": "Great Britain",
+          "display": "1 title",
+          "aliases": [
+            "Britain",
+            "GB"
+          ]
+        },
+        {
+          "answer": "Serbia",
+          "display": "1 title"
+        },
+        {
+          "answer": "Switzerland",
+          "display": "1 title"
+        }
+      ]
+    },
+    {
+      "category": "sports/tennis",
+      "question": "Top 10 tennis stadiums by capacity (ATP, WTA and Grand Slam venues, as of 2026)",
+      "difficulty": 3,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1379219254 | table 1 | name: Stadium | value: Capacity",
+      "tags": [
+        "tennis",
+        "stadiums",
+        "capacity"
+      ],
+      "answers": [
+        {
+          "answer": "Arthur Ashe Stadium",
+          "display": "23,771",
+          "aliases": [
+            "ashe"
+          ]
+        },
+        {
+          "answer": "Indian Wells Tennis Garden – Stadium 1",
+          "display": "16,102"
+        },
+        {
+          "answer": "Rotterdam Ahoy",
+          "display": "15,800"
+        },
+        {
+          "answer": "Palasport Olimpico",
+          "display": "15,657"
+        },
+        {
+          "answer": "Accor Arena",
+          "display": "15,500"
+        },
+        {
+          "answer": "Perth Arena",
+          "display": "15,500"
+        },
+        {
+          "answer": "Court Philippe Chatrier",
+          "display": "15,225",
+          "aliases": [
+            "Philippe Chatrier",
+            "Roland Garros"
+          ]
+        },
+        {
+          "answer": "National Tennis Stadium",
+          "display": "15,000"
+        },
+        {
+          "answer": "Optics Valley Int. Tennis Center – Central Court",
+          "display": "15,000"
+        },
+        {
+          "answer": "Wimbledon Centre Court",
+          "display": "14,979",
+          "aliases": [
+            "Centre Court"
+          ]
+        },
+        {
+          "answer": "Rod Laver Arena",
+          "display": "14,820"
+        },
+        {
+          "answer": "Louis Armstrong Stadium",
+          "display": "14,000"
+        },
+        {
+          "answer": "Hard Rock Stadium Court",
+          "display": "14,000"
+        },
+        {
+          "answer": "Qizhong Forest Sports City Arena",
+          "display": "13,800"
+        },
+        {
+          "answer": "Sobeys Stadium",
+          "display": "12,500"
+        }
+      ]
+    }
+  ]
+}

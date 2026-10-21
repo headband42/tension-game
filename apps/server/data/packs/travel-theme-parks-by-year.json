@@ -1,0 +1,758 @@
+{
+  "questions": [
+    {
+      "category": "travel/tourism/theme-parks",
+      "difficulty": 1,
+      "question": "Top 10 most visited theme parks in the world (2007 attendance, TEA/AECOM)",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=254860049 | table 2 | name: Amusement park | value: Total attendance",
+      "tags": [
+        "travel",
+        "theme parks",
+        "attendance"
+      ],
+      "submitter": "claude",
+      "answers": [
+        {
+          "answer": "Magic Kingdom",
+          "display": "17,060,000 visitors",
+          "aliases": [
+            "Disney's Magic Kingdom",
+            "Walt Disney World Magic Kingdom"
+          ]
+        },
+        {
+          "answer": "Disneyland",
+          "display": "14,870,000 visitors",
+          "aliases": [
+            "Disneyland California",
+            "Disneyland Anaheim"
+          ]
+        },
+        {
+          "answer": "Tokyo Disneyland",
+          "display": "13,906,000 visitors"
+        },
+        {
+          "answer": "Tokyo DisneySea",
+          "display": "12,413,000 visitors",
+          "aliases": [
+            "DisneySea"
+          ]
+        },
+        {
+          "answer": "Disneyland Park (Paris)",
+          "display": "12,000,000 visitors",
+          "aliases": [
+            "Disneyland Paris"
+          ]
+        },
+        {
+          "answer": "Epcot",
+          "display": "10,930,000 visitors"
+        },
+        {
+          "answer": "Disney's Animal Kingdom",
+          "display": "9,600,000 visitors",
+          "aliases": [
+            "Animal Kingdom"
+          ]
+        },
+        {
+          "answer": "Disney's Hollywood Studios",
+          "display": "9,510,000 visitors",
+          "aliases": [
+            "Hollywood Studios"
+          ]
+        },
+        {
+          "answer": "Universal Studios Japan",
+          "display": "8,713,000 visitors",
+          "aliases": [
+            "USJ"
+          ]
+        },
+        {
+          "answer": "Everland",
+          "display": "7,200,000 visitors"
+        },
+        {
+          "answer": "Universal Studios Florida",
+          "display": "6,200,000 visitors"
+        },
+        {
+          "answer": "SeaWorld Orlando",
+          "display": "5,800,000 visitors",
+          "aliases": [
+            "SeaWorld"
+          ]
+        },
+        {
+          "answer": "Disney California Adventure",
+          "display": "5,680,000 visitors",
+          "aliases": [
+            "Disney's California Adventure"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "travel/tourism/theme-parks",
+      "difficulty": 1,
+      "question": "Top 10 most visited theme parks in the world (2014 attendance, TEA/AECOM)",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=696866967 | table 2 | name: Amusement park | value: 2014",
+      "tags": [
+        "travel",
+        "theme parks",
+        "attendance"
+      ],
+      "submitter": "claude",
+      "answers": [
+        {
+          "answer": "Magic Kingdom",
+          "display": "19,332,000 visitors",
+          "aliases": [
+            "Disney's Magic Kingdom",
+            "Walt Disney World Magic Kingdom"
+          ]
+        },
+        {
+          "answer": "Tokyo Disneyland",
+          "display": "17,300,000 visitors"
+        },
+        {
+          "answer": "Disneyland",
+          "display": "16,769,000 visitors",
+          "aliases": [
+            "Disneyland California",
+            "Disneyland Anaheim"
+          ]
+        },
+        {
+          "answer": "Tokyo DisneySea",
+          "display": "14,100,000 visitors",
+          "aliases": [
+            "DisneySea"
+          ]
+        },
+        {
+          "answer": "Universal Studios Japan",
+          "display": "11,800,000 visitors",
+          "aliases": [
+            "USJ"
+          ]
+        },
+        {
+          "answer": "Epcot",
+          "display": "11,454,000 visitors"
+        },
+        {
+          "answer": "Disney's Animal Kingdom",
+          "display": "10,402,000 visitors",
+          "aliases": [
+            "Animal Kingdom"
+          ]
+        },
+        {
+          "answer": "Disney's Hollywood Studios",
+          "display": "10,312,000 visitors",
+          "aliases": [
+            "Hollywood Studios"
+          ]
+        },
+        {
+          "answer": "Disneyland Park (Paris)",
+          "display": "9,940,000 visitors",
+          "aliases": [
+            "Disneyland Paris"
+          ]
+        },
+        {
+          "answer": "Disney California Adventure",
+          "display": "8,769,000 visitors",
+          "aliases": [
+            "Disney's California Adventure"
+          ]
+        },
+        {
+          "answer": "Universal Studios Florida",
+          "display": "8,263,000 visitors"
+        },
+        {
+          "answer": "Universal Islands of Adventure",
+          "display": "8,141,000 visitors",
+          "aliases": [
+            "Islands of Adventure"
+          ]
+        },
+        {
+          "answer": "Ocean Park Hong Kong",
+          "display": "7,792,000 visitors",
+          "aliases": [
+            "Ocean Park"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "travel/tourism/theme-parks",
+      "difficulty": 1,
+      "question": "Top 10 most visited theme parks in the world (2015 attendance, TEA/AECOM)",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1377863670 | table 2 | name: Amusement park | value: 2015",
+      "tags": [
+        "travel",
+        "theme parks",
+        "attendance"
+      ],
+      "submitter": "claude",
+      "answers": [
+        {
+          "answer": "Magic Kingdom",
+          "display": "20,492,888 visitors",
+          "aliases": [
+            "Disney's Magic Kingdom",
+            "Walt Disney World Magic Kingdom"
+          ]
+        },
+        {
+          "answer": "Disneyland",
+          "display": "18,278,000 visitors",
+          "aliases": [
+            "Disneyland California",
+            "Disneyland Anaheim"
+          ]
+        },
+        {
+          "answer": "Tokyo Disneyland",
+          "display": "16,600,000 visitors"
+        },
+        {
+          "answer": "Universal Studios Japan",
+          "display": "13,900,000 visitors",
+          "aliases": [
+            "USJ"
+          ]
+        },
+        {
+          "answer": "Tokyo DisneySea",
+          "display": "13,600,000 visitors",
+          "aliases": [
+            "DisneySea"
+          ]
+        },
+        {
+          "answer": "Epcot",
+          "display": "11,798,000 visitors"
+        },
+        {
+          "answer": "Disney's Animal Kingdom",
+          "display": "10,922,000 visitors",
+          "aliases": [
+            "Animal Kingdom"
+          ]
+        },
+        {
+          "answer": "Disney's Hollywood Studios",
+          "display": "10,828,000 visitors",
+          "aliases": [
+            "Hollywood Studios"
+          ]
+        },
+        {
+          "answer": "Disneyland Park (Paris)",
+          "display": "10,360,000 visitors",
+          "aliases": [
+            "Disneyland Paris"
+          ]
+        },
+        {
+          "answer": "Universal Studios Florida",
+          "display": "9,585,000 visitors"
+        },
+        {
+          "answer": "Disney California Adventure",
+          "display": "9,383,000 visitors",
+          "aliases": [
+            "Disney's California Adventure"
+          ]
+        },
+        {
+          "answer": "Universal Islands of Adventure",
+          "display": "8,792,000 visitors",
+          "aliases": [
+            "Islands of Adventure"
+          ]
+        },
+        {
+          "answer": "Chimelong Ocean Kingdom",
+          "display": "7,486,000 visitors"
+        }
+      ]
+    },
+    {
+      "category": "travel/tourism/theme-parks",
+      "difficulty": 1,
+      "question": "Top 10 most visited theme parks in the world (2016 attendance, TEA/AECOM)",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1377863670 | table 2 | name: Amusement park | value: 2016",
+      "tags": [
+        "travel",
+        "theme parks",
+        "attendance"
+      ],
+      "submitter": "claude",
+      "answers": [
+        {
+          "answer": "Magic Kingdom",
+          "display": "20,395,000 visitors",
+          "aliases": [
+            "Disney's Magic Kingdom",
+            "Walt Disney World Magic Kingdom"
+          ]
+        },
+        {
+          "answer": "Disneyland",
+          "display": "17,943,000 visitors",
+          "aliases": [
+            "Disneyland California",
+            "Disneyland Anaheim"
+          ]
+        },
+        {
+          "answer": "Tokyo Disneyland",
+          "display": "16,540,000 visitors"
+        },
+        {
+          "answer": "Universal Studios Japan",
+          "display": "14,500,000 visitors",
+          "aliases": [
+            "USJ"
+          ]
+        },
+        {
+          "answer": "Tokyo DisneySea",
+          "display": "13,460,000 visitors",
+          "aliases": [
+            "DisneySea"
+          ]
+        },
+        {
+          "answer": "Epcot",
+          "display": "11,712,000 visitors"
+        },
+        {
+          "answer": "Disney's Animal Kingdom",
+          "display": "10,844,000 visitors",
+          "aliases": [
+            "Animal Kingdom"
+          ]
+        },
+        {
+          "answer": "Disney's Hollywood Studios",
+          "display": "10,776,000 visitors",
+          "aliases": [
+            "Hollywood Studios"
+          ]
+        },
+        {
+          "answer": "Universal Studios Florida",
+          "display": "9,998,000 visitors"
+        },
+        {
+          "answer": "Universal Islands of Adventure",
+          "display": "9,362,000 visitors",
+          "aliases": [
+            "Islands of Adventure"
+          ]
+        },
+        {
+          "answer": "Disney California Adventure",
+          "display": "9,295,000 visitors",
+          "aliases": [
+            "Disney's California Adventure"
+          ]
+        },
+        {
+          "answer": "Chimelong Ocean Kingdom",
+          "display": "8,474,000 visitors"
+        },
+        {
+          "answer": "Disneyland Park (Paris)",
+          "display": "8,400,000 visitors",
+          "aliases": [
+            "Disneyland Paris"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "travel/tourism/theme-parks",
+      "difficulty": 1,
+      "question": "Top 10 most visited theme parks in the world (2017 attendance, TEA/AECOM)",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1377863670 | table 2 | name: Amusement park | value: 2017",
+      "tags": [
+        "travel",
+        "theme parks",
+        "attendance"
+      ],
+      "submitter": "claude",
+      "answers": [
+        {
+          "answer": "Magic Kingdom",
+          "display": "20,450,000 visitors",
+          "aliases": [
+            "Disney's Magic Kingdom",
+            "Walt Disney World Magic Kingdom"
+          ]
+        },
+        {
+          "answer": "Disneyland",
+          "display": "18,300,000 visitors",
+          "aliases": [
+            "Disneyland California",
+            "Disneyland Anaheim"
+          ]
+        },
+        {
+          "answer": "Tokyo Disneyland",
+          "display": "16,600,000 visitors"
+        },
+        {
+          "answer": "Universal Studios Japan",
+          "display": "14,935,000 visitors",
+          "aliases": [
+            "USJ"
+          ]
+        },
+        {
+          "answer": "Tokyo DisneySea",
+          "display": "13,500,000 visitors",
+          "aliases": [
+            "DisneySea"
+          ]
+        },
+        {
+          "answer": "Disney's Animal Kingdom",
+          "display": "12,500,000 visitors",
+          "aliases": [
+            "Animal Kingdom"
+          ]
+        },
+        {
+          "answer": "Epcot",
+          "display": "12,200,000 visitors"
+        },
+        {
+          "answer": "Shanghai Disneyland",
+          "display": "11,000,000 visitors"
+        },
+        {
+          "answer": "Disney's Hollywood Studios",
+          "display": "10,722,000 visitors",
+          "aliases": [
+            "Hollywood Studios"
+          ]
+        },
+        {
+          "answer": "Universal Studios Florida",
+          "display": "10,198,000 visitors"
+        },
+        {
+          "answer": "Chimelong Ocean Kingdom",
+          "display": "9,788,000 visitors"
+        },
+        {
+          "answer": "Disneyland Park (Paris)",
+          "display": "9,660,000 visitors",
+          "aliases": [
+            "Disneyland Paris"
+          ]
+        },
+        {
+          "answer": "Disney California Adventure",
+          "display": "9,574,000 visitors",
+          "aliases": [
+            "Disney's California Adventure"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "travel/tourism/theme-parks",
+      "difficulty": 1,
+      "question": "Top 10 most visited theme parks in the world (2018 attendance, TEA/AECOM)",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1377863670 | table 2 | name: Amusement park | value: 2018",
+      "tags": [
+        "travel",
+        "theme parks",
+        "attendance"
+      ],
+      "submitter": "claude",
+      "answers": [
+        {
+          "answer": "Magic Kingdom",
+          "display": "20,859,000 visitors",
+          "aliases": [
+            "Disney's Magic Kingdom",
+            "Walt Disney World Magic Kingdom"
+          ]
+        },
+        {
+          "answer": "Disneyland",
+          "display": "18,666,000 visitors",
+          "aliases": [
+            "Disneyland California",
+            "Disneyland Anaheim"
+          ]
+        },
+        {
+          "answer": "Tokyo Disneyland",
+          "display": "17,907,000 visitors"
+        },
+        {
+          "answer": "Tokyo DisneySea",
+          "display": "14,651,000 visitors",
+          "aliases": [
+            "DisneySea"
+          ]
+        },
+        {
+          "answer": "Universal Studios Japan",
+          "display": "14,300,000 visitors",
+          "aliases": [
+            "USJ"
+          ]
+        },
+        {
+          "answer": "Disney's Animal Kingdom",
+          "display": "13,750,000 visitors",
+          "aliases": [
+            "Animal Kingdom"
+          ]
+        },
+        {
+          "answer": "Epcot",
+          "display": "12,444,000 visitors"
+        },
+        {
+          "answer": "Shanghai Disneyland",
+          "display": "11,800,000 visitors"
+        },
+        {
+          "answer": "Disney's Hollywood Studios",
+          "display": "11,258,000 visitors",
+          "aliases": [
+            "Hollywood Studios"
+          ]
+        },
+        {
+          "answer": "Chimelong Ocean Kingdom",
+          "display": "10,830,000 visitors"
+        },
+        {
+          "answer": "Universal Studios Florida",
+          "display": "10,708,000 visitors"
+        },
+        {
+          "answer": "Disney California Adventure",
+          "display": "9,861,000 visitors",
+          "aliases": [
+            "Disney's California Adventure"
+          ]
+        },
+        {
+          "answer": "Disneyland Park (Paris)",
+          "display": "9,843,000 visitors",
+          "aliases": [
+            "Disneyland Paris"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "travel/tourism/theme-parks",
+      "difficulty": 1,
+      "question": "Top 10 most visited theme parks in the world (2022 attendance, TEA/AECOM)",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1377863670 | table 2 | name: Amusement park | value: 2022",
+      "tags": [
+        "travel",
+        "theme parks",
+        "attendance"
+      ],
+      "submitter": "claude",
+      "answers": [
+        {
+          "answer": "Magic Kingdom",
+          "display": "17,133,000 visitors",
+          "aliases": [
+            "Disney's Magic Kingdom",
+            "Walt Disney World Magic Kingdom"
+          ]
+        },
+        {
+          "answer": "Disneyland",
+          "display": "16,881,000 visitors",
+          "aliases": [
+            "Disneyland California",
+            "Disneyland Anaheim"
+          ]
+        },
+        {
+          "answer": "Universal Studios Japan",
+          "display": "12,350,000 visitors",
+          "aliases": [
+            "USJ"
+          ]
+        },
+        {
+          "answer": "Tokyo Disneyland",
+          "display": "12,000,000 visitors"
+        },
+        {
+          "answer": "Universal Islands of Adventure",
+          "display": "11,025,000 visitors",
+          "aliases": [
+            "Islands of Adventure"
+          ]
+        },
+        {
+          "answer": "Disney's Hollywood Studios",
+          "display": "10,900,000 visitors",
+          "aliases": [
+            "Hollywood Studios"
+          ]
+        },
+        {
+          "answer": "Universal Studios Florida",
+          "display": "10,750,000 visitors"
+        },
+        {
+          "answer": "Tokyo DisneySea",
+          "display": "10,100,000 visitors",
+          "aliases": [
+            "DisneySea"
+          ]
+        },
+        {
+          "answer": "Epcot",
+          "display": "10,000,000 visitors"
+        },
+        {
+          "answer": "Disneyland Park (Paris)",
+          "display": "9,930,000 visitors",
+          "aliases": [
+            "Disneyland Paris"
+          ]
+        },
+        {
+          "answer": "Disney's Animal Kingdom",
+          "display": "9,027,000 visitors",
+          "aliases": [
+            "Animal Kingdom"
+          ]
+        },
+        {
+          "answer": "Disney California Adventure",
+          "display": "9,000,000 visitors",
+          "aliases": [
+            "Disney's California Adventure"
+          ]
+        },
+        {
+          "answer": "Universal Studios Hollywood",
+          "display": "8,400,000 visitors"
+        }
+      ]
+    },
+    {
+      "category": "travel/tourism/theme-parks",
+      "difficulty": 1,
+      "question": "Top 10 most visited theme parks in the world (2023 attendance, TEA/AECOM)",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1377863670 | table 2 | name: Amusement park | value: 2023",
+      "tags": [
+        "travel",
+        "theme parks",
+        "attendance"
+      ],
+      "submitter": "claude",
+      "answers": [
+        {
+          "answer": "Magic Kingdom",
+          "display": "17,720,000 visitors",
+          "aliases": [
+            "Disney's Magic Kingdom",
+            "Walt Disney World Magic Kingdom"
+          ]
+        },
+        {
+          "answer": "Disneyland",
+          "display": "17,250,000 visitors",
+          "aliases": [
+            "Disneyland California",
+            "Disneyland Anaheim"
+          ]
+        },
+        {
+          "answer": "Universal Studios Japan",
+          "display": "16,000,000 visitors",
+          "aliases": [
+            "USJ"
+          ]
+        },
+        {
+          "answer": "Tokyo Disneyland",
+          "display": "14,724,000 visitors"
+        },
+        {
+          "answer": "Shanghai Disneyland",
+          "display": "14,000,000 visitors"
+        },
+        {
+          "answer": "Chimelong Ocean Kingdom",
+          "display": "12,520,000 visitors"
+        },
+        {
+          "answer": "Tokyo DisneySea",
+          "display": "12,091,000 visitors",
+          "aliases": [
+            "DisneySea"
+          ]
+        },
+        {
+          "answer": "Epcot",
+          "display": "11,980,000 visitors"
+        },
+        {
+          "answer": "Disneyland Park (Paris)",
+          "display": "10,400,000 visitors",
+          "aliases": [
+            "Disneyland Paris"
+          ]
+        },
+        {
+          "answer": "Disney's Hollywood Studios",
+          "display": "10,300,000 visitors",
+          "aliases": [
+            "Hollywood Studios"
+          ]
+        },
+        {
+          "answer": "Disney California Adventure",
+          "display": "10,000,000 visitors",
+          "aliases": [
+            "Disney's California Adventure"
+          ]
+        },
+        {
+          "answer": "Universal Islands of Adventure",
+          "display": "10,000,000 visitors",
+          "aliases": [
+            "Islands of Adventure"
+          ]
+        },
+        {
+          "answer": "Universal Studios Florida",
+          "display": "9,750,000 visitors"
+        }
+      ]
+    }
+  ]
+}

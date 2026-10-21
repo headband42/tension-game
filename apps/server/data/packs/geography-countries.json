@@ -1,0 +1,968 @@
+{
+  "categories": [
+    {
+      "path": "geography/countries",
+      "name": "Countries"
+    },
+    {
+      "path": "geography/countries/population",
+      "name": "Population"
+    },
+    {
+      "path": "geography/countries/area",
+      "name": "Area"
+    },
+    {
+      "path": "geography/countries/density",
+      "name": "Population Density"
+    },
+    {
+      "path": "geography/countries/borders",
+      "name": "Land Borders"
+    },
+    {
+      "path": "geography/countries/life-expectancy",
+      "name": "Life Expectancy"
+    },
+    {
+      "path": "geography/countries/development",
+      "name": "Development Index"
+    },
+    {
+      "path": "geography/countries/age",
+      "name": "Population Age"
+    }
+  ],
+  "questions": [
+    {
+      "category": "geography/countries/population",
+      "difficulty": 1,
+      "question": "Top 10 most populated countries (latest figures)",
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1379351852 | table 1 | name: Location | value: Population | where: Location!=World",
+      "tags": [
+        "geography",
+        "countries",
+        "population"
+      ],
+      "answers": [
+        {
+          "answer": "India",
+          "display": "1,429,404,000",
+          "aliases": [
+            "indian"
+          ]
+        },
+        {
+          "answer": "China",
+          "display": "1,404,890,000",
+          "aliases": [
+            "chinese"
+          ]
+        },
+        {
+          "answer": "United States",
+          "display": "341,784,857",
+          "aliases": [
+            "usa",
+            "us",
+            "america",
+            "american"
+          ]
+        },
+        {
+          "answer": "Indonesia",
+          "display": "288,315,089",
+          "aliases": [
+            "indonesian"
+          ]
+        },
+        {
+          "answer": "Pakistan",
+          "display": "241,499,431",
+          "aliases": [
+            "pakistani"
+          ]
+        },
+        {
+          "answer": "Nigeria",
+          "display": "223,800,000",
+          "aliases": [
+            "nigerian"
+          ]
+        },
+        {
+          "answer": "Brazil",
+          "display": "214,211,951",
+          "aliases": [
+            "brazilian"
+          ]
+        },
+        {
+          "answer": "Bangladesh",
+          "display": "169,828,911",
+          "aliases": [
+            "bangladeshi"
+          ]
+        },
+        {
+          "answer": "Russia",
+          "display": "146,028,325",
+          "aliases": [
+            "russian"
+          ]
+        },
+        {
+          "answer": "Mexico",
+          "display": "131,231,919",
+          "aliases": [
+            "mexican"
+          ]
+        },
+        {
+          "answer": "Japan",
+          "display": "122,650,000",
+          "aliases": [
+            "japanese"
+          ]
+        },
+        {
+          "answer": "Democratic Republic of the Congo",
+          "display": "116,452,162",
+          "aliases": [
+            "drc",
+            "DR Congo"
+          ]
+        },
+        {
+          "answer": "Philippines",
+          "display": "114,849,400",
+          "aliases": [
+            "philippine"
+          ]
+        },
+        {
+          "answer": "Ethiopia",
+          "display": "111,652,998",
+          "aliases": [
+            "ethiopian"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "geography/countries/population",
+      "difficulty": 2,
+      "question": "Top 10 most populated countries whose names end with the letter 'A' (latest figures)",
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1379351852 | table 1 | name: Location | value: Population | where: Location!=World | where: Location~a$",
+      "tags": [
+        "geography",
+        "countries",
+        "population"
+      ],
+      "answers": [
+        {
+          "answer": "India",
+          "display": "1,429,404,000",
+          "aliases": [
+            "indian"
+          ]
+        },
+        {
+          "answer": "China",
+          "display": "1,404,890,000",
+          "aliases": [
+            "chinese"
+          ]
+        },
+        {
+          "answer": "Indonesia",
+          "display": "288,315,089",
+          "aliases": [
+            "indonesian"
+          ]
+        },
+        {
+          "answer": "Nigeria",
+          "display": "223,800,000",
+          "aliases": [
+            "nigerian"
+          ]
+        },
+        {
+          "answer": "Russia",
+          "display": "146,028,325",
+          "aliases": [
+            "russian"
+          ]
+        },
+        {
+          "answer": "Ethiopia",
+          "display": "111,652,998",
+          "aliases": [
+            "ethiopian"
+          ]
+        },
+        {
+          "answer": "Tanzania",
+          "display": "70,038,850",
+          "aliases": [
+            "tanzanian"
+          ]
+        },
+        {
+          "answer": "South Africa",
+          "display": "63,522,380",
+          "aliases": [
+            "south african"
+          ]
+        },
+        {
+          "answer": "Kenya",
+          "display": "54,227,015",
+          "aliases": [
+            "kenyan"
+          ]
+        },
+        {
+          "answer": "Colombia",
+          "display": "53,399,171",
+          "aliases": [
+            "colombian"
+          ]
+        },
+        {
+          "answer": "South Korea",
+          "display": "51,088,284",
+          "aliases": [
+            "korean"
+          ]
+        },
+        {
+          "answer": "Algeria",
+          "display": "47,400,000",
+          "aliases": [
+            "algerian"
+          ]
+        },
+        {
+          "answer": "Argentina",
+          "display": "46,466,688",
+          "aliases": [
+            "argentine"
+          ]
+        },
+        {
+          "answer": "Uganda",
+          "display": "45,905,417",
+          "aliases": [
+            "ugandan"
+          ]
+        },
+        {
+          "answer": "Canada",
+          "display": "41,798,407",
+          "aliases": [
+            "canadian"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "geography/countries/density",
+      "difficulty": 2,
+      "question": "Top 10 most densely populated countries (excluding dependencies)",
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1379256580 | table 1 | name: Location | value: Density / /km2 | header rows: 2 | where: Location!~\\(",
+      "tags": [
+        "geography",
+        "countries",
+        "density"
+      ],
+      "answers": [
+        {
+          "answer": "Monaco",
+          "display": "19,428",
+          "aliases": [
+            "monegasque"
+          ]
+        },
+        {
+          "answer": "Singapore",
+          "display": "8,290",
+          "aliases": [
+            "singaporean"
+          ]
+        },
+        {
+          "answer": "Vatican City",
+          "display": "2,205",
+          "aliases": [
+            "vatican",
+            "holy see"
+          ]
+        },
+        {
+          "answer": "Bahrain",
+          "display": "2,034",
+          "aliases": [
+            "bahraini"
+          ]
+        },
+        {
+          "answer": "Maldives",
+          "display": "1,759",
+          "aliases": [
+            "maldivian"
+          ]
+        },
+        {
+          "answer": "Malta",
+          "display": "1,686",
+          "aliases": [
+            "maltese"
+          ]
+        },
+        {
+          "answer": "Bangladesh",
+          "display": "1,333",
+          "aliases": [
+            "bangladeshi"
+          ]
+        },
+        {
+          "answer": "Palestine",
+          "display": "892",
+          "aliases": [
+            "palestinian"
+          ]
+        },
+        {
+          "answer": "Barbados",
+          "display": "657",
+          "aliases": [
+            "barbadian"
+          ]
+        },
+        {
+          "answer": "Taiwan",
+          "display": "656",
+          "aliases": [
+            "taiwanese"
+          ]
+        },
+        {
+          "answer": "Mauritius",
+          "display": "637",
+          "aliases": [
+            "mauritian"
+          ]
+        },
+        {
+          "answer": "Nauru",
+          "display": "597",
+          "aliases": [
+            "nauruan"
+          ]
+        },
+        {
+          "answer": "Rwanda",
+          "display": "578",
+          "aliases": [
+            "rwandan"
+          ]
+        },
+        {
+          "answer": "Lebanon",
+          "display": "568",
+          "aliases": [
+            "lebanese"
+          ]
+        },
+        {
+          "answer": "San Marino",
+          "display": "560",
+          "aliases": [
+            "sammarinese"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "geography/countries/development",
+      "difficulty": 2,
+      "question": "Top 10 countries by Human Development Index (2023 data, excluding Hong Kong)",
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1377272549 | table 2 | name: Country or territory | value: HDI value | where: Country or territory!~Hong Kong | note: tied HDI values (Norway/Switzerland, Germany/Sweden) listed in table order",
+      "tags": [
+        "geography",
+        "countries",
+        "development"
+      ],
+      "answers": [
+        {
+          "answer": "Iceland",
+          "display": "0.972",
+          "aliases": [
+            "icelandic"
+          ]
+        },
+        {
+          "answer": "Norway",
+          "display": "0.970",
+          "aliases": [
+            "norwegian"
+          ]
+        },
+        {
+          "answer": "Switzerland",
+          "display": "0.970",
+          "aliases": [
+            "swiss"
+          ]
+        },
+        {
+          "answer": "Denmark",
+          "display": "0.962",
+          "aliases": [
+            "danish"
+          ]
+        },
+        {
+          "answer": "Germany",
+          "display": "0.959",
+          "aliases": [
+            "german"
+          ]
+        },
+        {
+          "answer": "Sweden",
+          "display": "0.959",
+          "aliases": [
+            "swedish"
+          ]
+        },
+        {
+          "answer": "Australia",
+          "display": "0.958",
+          "aliases": [
+            "australian"
+          ]
+        },
+        {
+          "answer": "Netherlands",
+          "display": "0.955",
+          "aliases": [
+            "dutch",
+            "Holland"
+          ]
+        },
+        {
+          "answer": "Belgium",
+          "display": "0.951",
+          "aliases": [
+            "belgian"
+          ]
+        },
+        {
+          "answer": "Ireland",
+          "display": "0.949",
+          "aliases": [
+            "irish"
+          ]
+        },
+        {
+          "answer": "Finland",
+          "display": "0.948",
+          "aliases": [
+            "finnish"
+          ]
+        },
+        {
+          "answer": "Singapore",
+          "display": "0.946",
+          "aliases": [
+            "singaporean"
+          ]
+        },
+        {
+          "answer": "United Kingdom",
+          "display": "0.946",
+          "aliases": [
+            "uk",
+            "britain",
+            "british"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "geography/countries/life-expectancy",
+      "difficulty": 2,
+      "question": "Top 10 countries by life expectancy at birth (2023 data, excluding territories)",
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1364926153 | table 2 | name: Locations | value: Life expectancy overall / at birth | header rows: 2 | where: Locations!~(Hong Kong|French Polynesia|Réunion|Guernsey|Macau|Martinique)",
+      "tags": [
+        "geography",
+        "countries",
+        "life-expectancy"
+      ],
+      "answers": [
+        {
+          "answer": "Japan",
+          "display": "84.71 years",
+          "aliases": [
+            "japanese"
+          ]
+        },
+        {
+          "answer": "South Korea",
+          "display": "84.33 years",
+          "aliases": [
+            "korean"
+          ]
+        },
+        {
+          "answer": "Andorra",
+          "display": "84.04 years",
+          "aliases": [
+            "andorran"
+          ]
+        },
+        {
+          "answer": "Switzerland",
+          "display": "83.95 years",
+          "aliases": [
+            "swiss"
+          ]
+        },
+        {
+          "answer": "Australia",
+          "display": "83.92 years",
+          "aliases": [
+            "australian"
+          ]
+        },
+        {
+          "answer": "Singapore",
+          "display": "83.74 years",
+          "aliases": [
+            "singaporean"
+          ]
+        },
+        {
+          "answer": "Italy",
+          "display": "83.72 years",
+          "aliases": [
+            "italian"
+          ]
+        },
+        {
+          "answer": "Spain",
+          "display": "83.67 years",
+          "aliases": [
+            "spanish"
+          ]
+        },
+        {
+          "answer": "France",
+          "display": "83.33 years",
+          "aliases": [
+            "french"
+          ]
+        },
+        {
+          "answer": "Norway",
+          "display": "83.31 years",
+          "aliases": [
+            "norwegian"
+          ]
+        },
+        {
+          "answer": "Malta",
+          "display": "83.30 years",
+          "aliases": [
+            "maltese"
+          ]
+        },
+        {
+          "answer": "Sweden",
+          "display": "83.26 years",
+          "aliases": [
+            "swedish"
+          ]
+        },
+        {
+          "answer": "United Arab Emirates",
+          "display": "82.91 years",
+          "aliases": [
+            "uae"
+          ]
+        },
+        {
+          "answer": "Iceland",
+          "display": "82.69 years",
+          "aliases": [
+            "icelandic"
+          ]
+        },
+        {
+          "answer": "Canada",
+          "display": "82.63 years",
+          "aliases": [
+            "canadian"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "geography/countries/borders",
+      "difficulty": 2,
+      "question": "Top 10 countries by total length of land borders (km)",
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1379576201 | table 1 | name: 1 | value: 2",
+      "tags": [
+        "geography",
+        "countries",
+        "borders"
+      ],
+      "answers": [
+        {
+          "answer": "China",
+          "display": "22,147 km",
+          "aliases": [
+            "chinese",
+            "prc"
+          ]
+        },
+        {
+          "answer": "Russia",
+          "display": "20,017 km",
+          "aliases": [
+            "russian"
+          ]
+        },
+        {
+          "answer": "Brazil",
+          "display": "14,691 km",
+          "aliases": [
+            "brazilian"
+          ]
+        },
+        {
+          "answer": "India",
+          "display": "14,209 km",
+          "aliases": [
+            "indian"
+          ]
+        },
+        {
+          "answer": "United States",
+          "display": "12,034 km",
+          "aliases": [
+            "usa",
+            "us",
+            "america"
+          ]
+        },
+        {
+          "answer": "Kazakhstan",
+          "display": "12,012 km",
+          "aliases": [
+            "kazakh"
+          ]
+        },
+        {
+          "answer": "Democratic Republic of the Congo",
+          "display": "10,730 km",
+          "aliases": [
+            "drc",
+            "DR Congo"
+          ]
+        },
+        {
+          "answer": "Argentina",
+          "display": "9,665 km",
+          "aliases": [
+            "argentine"
+          ]
+        },
+        {
+          "answer": "Canada",
+          "display": "8,894 km",
+          "aliases": [
+            "canadian"
+          ]
+        },
+        {
+          "answer": "Mongolia",
+          "display": "8,220 km",
+          "aliases": [
+            "mongolian"
+          ]
+        },
+        {
+          "answer": "Pakistan",
+          "display": "7,545 km",
+          "aliases": [
+            "pakistani"
+          ]
+        },
+        {
+          "answer": "Mali",
+          "display": "7,243 km",
+          "aliases": [
+            "malian"
+          ]
+        },
+        {
+          "answer": "Sudan",
+          "display": "6,764 km",
+          "aliases": [
+            "sudanese"
+          ]
+        },
+        {
+          "answer": "Bolivia",
+          "display": "6,743 km",
+          "aliases": [
+            "bolivian"
+          ]
+        },
+        {
+          "answer": "Algeria",
+          "display": "6,470 km",
+          "aliases": [
+            "algerian"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "geography/countries/area",
+      "difficulty": 2,
+      "question": "Top 10 largest African countries by total area",
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1370497460 | table 1 | name: Country | value: Africa area | where: Country!=Total",
+      "tags": [
+        "geography",
+        "countries",
+        "africa",
+        "area"
+      ],
+      "answers": [
+        {
+          "answer": "Algeria",
+          "display": "2,381,741 km²",
+          "aliases": [
+            "algerian"
+          ]
+        },
+        {
+          "answer": "Democratic Republic of the Congo",
+          "display": "2,344,858 km²",
+          "aliases": [
+            "drc",
+            "Democratic Republic of Congo",
+            "DR Congo"
+          ]
+        },
+        {
+          "answer": "Sudan",
+          "display": "1,857,392 km²",
+          "aliases": [
+            "sudanese"
+          ]
+        },
+        {
+          "answer": "Libya",
+          "display": "1,760,540 km²",
+          "aliases": [
+            "libyan"
+          ]
+        },
+        {
+          "answer": "Chad",
+          "display": "1,284,846 km²",
+          "aliases": [
+            "chadian"
+          ]
+        },
+        {
+          "answer": "Niger",
+          "display": "1,268,642 km²",
+          "aliases": []
+        },
+        {
+          "answer": "Angola",
+          "display": "1,246,700 km²",
+          "aliases": [
+            "angolan"
+          ]
+        },
+        {
+          "answer": "Mali",
+          "display": "1,240,192 km²",
+          "aliases": [
+            "malian"
+          ]
+        },
+        {
+          "answer": "South Africa",
+          "display": "1,221,037 km²",
+          "aliases": [
+            "rsa"
+          ]
+        },
+        {
+          "answer": "Ethiopia",
+          "display": "1,104,300 km²",
+          "aliases": [
+            "ethiopian"
+          ]
+        },
+        {
+          "answer": "Mauritania",
+          "display": "1,030,700 km²",
+          "aliases": [
+            "mauritanian"
+          ]
+        },
+        {
+          "answer": "Egypt",
+          "display": "1,002,450 km²",
+          "aliases": [
+            "egyptian"
+          ]
+        },
+        {
+          "answer": "Tanzania",
+          "display": "946,088 km²",
+          "aliases": [
+            "tanzanian"
+          ]
+        },
+        {
+          "answer": "Nigeria",
+          "display": "924,768 km²",
+          "aliases": [
+            "nigerian"
+          ]
+        },
+        {
+          "answer": "Namibia",
+          "display": "826,616 km²",
+          "aliases": [
+            "namibian"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "geography/countries/age",
+      "difficulty": 2,
+      "question": "Top 10 countries with highest median age (2024 data)",
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1356174289 | table 1 | name: Country/Territory | value: 2024 median | header rows: 2 | where: Country/Territory!~(Saint Pierre|Saint Barthelemy|Hong Kong|Puerto Rico|Macau) | note: Germany and Spain tie at 46.8, listed in table order",
+      "tags": [
+        "geography",
+        "countries",
+        "age"
+      ],
+      "answers": [
+        {
+          "answer": "Monaco",
+          "display": "56.9 years",
+          "aliases": [
+            "monegasque"
+          ]
+        },
+        {
+          "answer": "Japan",
+          "display": "49.9 years",
+          "aliases": [
+            "japanese"
+          ]
+        },
+        {
+          "answer": "Andorra",
+          "display": "48.8 years",
+          "aliases": [
+            "andorran"
+          ]
+        },
+        {
+          "answer": "Italy",
+          "display": "48.4 years",
+          "aliases": [
+            "italian"
+          ]
+        },
+        {
+          "answer": "Germany",
+          "display": "46.8 years",
+          "aliases": [
+            "german"
+          ]
+        },
+        {
+          "answer": "Spain",
+          "display": "46.8 years",
+          "aliases": [
+            "spanish"
+          ]
+        },
+        {
+          "answer": "Greece",
+          "display": "46.5 years",
+          "aliases": [
+            "greek"
+          ]
+        },
+        {
+          "answer": "Portugal",
+          "display": "46.4 years",
+          "aliases": [
+            "portuguese"
+          ]
+        },
+        {
+          "answer": "Slovenia",
+          "display": "46.3 years",
+          "aliases": [
+            "slovenian"
+          ]
+        },
+        {
+          "answer": "San Marino",
+          "display": "46.1 years",
+          "aliases": [
+            "sammarinese"
+          ]
+        },
+        {
+          "answer": "South Korea",
+          "display": "45.5 years",
+          "aliases": [
+            "korean"
+          ]
+        },
+        {
+          "answer": "Latvia",
+          "display": "45.5 years",
+          "aliases": [
+            "latvian"
+          ]
+        },
+        {
+          "answer": "Romania",
+          "display": "45.5 years",
+          "aliases": [
+            "romanian"
+          ]
+        }
+      ]
+    }
+  ]
+}

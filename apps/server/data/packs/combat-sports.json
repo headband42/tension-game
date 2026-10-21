@@ -1,0 +1,1115 @@
+{
+  "categories": [
+    {
+      "path": "sports/combat/wwe",
+      "name": "WWE"
+    },
+    {
+      "path": "sports/combat/boxing",
+      "name": "Boxing"
+    },
+    {
+      "path": "sports/combat/mma",
+      "name": "MMA"
+    },
+    {
+      "path": "sports/combat/olympics",
+      "name": "Olympic combat sports"
+    }
+  ],
+  "questions": [
+    {
+      "category": "sports/combat/wwe",
+      "question": "Top 10 WWE Championship holders by combined days as champion, counting all the title's names (actual days, as of October 2026)",
+      "cutoff": 10,
+      "difficulty": 1,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1379311016 | table 5 | name: 2 | value: 4",
+      "tags": [
+        "wrestling",
+        "wwe",
+        "championships"
+      ],
+      "answers": [
+        {
+          "answer": "Bruno Sammartino",
+          "display": "4,040 days",
+          "aliases": [
+            "Bruno"
+          ]
+        },
+        {
+          "answer": "Hulk Hogan",
+          "display": "2,185 days",
+          "aliases": [
+            "Hogan"
+          ]
+        },
+        {
+          "answer": "Bob Backlund",
+          "display": "2,121 days"
+        },
+        {
+          "answer": "John Cena",
+          "display": "1,360 days",
+          "aliases": [
+            "Cena"
+          ]
+        },
+        {
+          "answer": "Pedro Morales",
+          "display": "1,027 days",
+          "aliases": [
+            "Morales"
+          ]
+        },
+        {
+          "answer": "Roman Reigns",
+          "display": "853 days",
+          "aliases": [
+            "Reigns",
+            "Roman"
+          ]
+        },
+        {
+          "answer": "Brock Lesnar",
+          "display": "823 days",
+          "aliases": [
+            "Lesnar",
+            "Brock"
+          ]
+        },
+        {
+          "answer": "Randy Orton",
+          "display": "680 days",
+          "aliases": [
+            "Orton"
+          ]
+        },
+        {
+          "answer": "Bret Hart",
+          "display": "654 days",
+          "aliases": [
+            "Hart",
+            "Hitman"
+          ]
+        },
+        {
+          "answer": "Cody Rhodes",
+          "display": "650 days",
+          "aliases": [
+            "Cody"
+          ]
+        },
+        {
+          "answer": "Triple H",
+          "display": "609 days",
+          "aliases": [
+            "HHH",
+            "Hunter"
+          ]
+        },
+        {
+          "answer": "Stone Cold Steve Austin",
+          "display": "529 days",
+          "aliases": [
+            "Stone Cold",
+            "Steve Austin",
+            "Austin"
+          ]
+        },
+        {
+          "answer": "CM Punk",
+          "display": "529 days",
+          "aliases": [
+            "Punk"
+          ]
+        },
+        {
+          "answer": "Randy Savage",
+          "display": "520 days",
+          "aliases": [
+            "Macho Man",
+            "Savage"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/combat/wwe",
+      "question": "Top 8 WWE Championship holders by number of reigns, counting all the title's names (as of October 2026)",
+      "cutoff": 8,
+      "difficulty": 1,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1379311016 | table 5 | name: 2 | value: 3",
+      "tags": [
+        "wrestling",
+        "wwe",
+        "championships"
+      ],
+      "answers": [
+        {
+          "answer": "John Cena",
+          "display": "14 reigns",
+          "aliases": [
+            "Cena"
+          ]
+        },
+        {
+          "answer": "Randy Orton",
+          "display": "10 reigns",
+          "aliases": [
+            "Orton"
+          ]
+        },
+        {
+          "answer": "Triple H",
+          "display": "9 reigns",
+          "aliases": [
+            "HHH",
+            "Hunter"
+          ]
+        },
+        {
+          "answer": "The Rock",
+          "display": "8 reigns",
+          "aliases": [
+            "Rock",
+            "Dwayne Johnson"
+          ]
+        },
+        {
+          "answer": "Brock Lesnar",
+          "display": "7 reigns",
+          "aliases": [
+            "Lesnar"
+          ]
+        },
+        {
+          "answer": "Hulk Hogan",
+          "display": "6 reigns",
+          "aliases": [
+            "Hogan"
+          ]
+        },
+        {
+          "answer": "Stone Cold Steve Austin",
+          "display": "6 reigns",
+          "aliases": [
+            "Stone Cold",
+            "Steve Austin",
+            "Austin"
+          ]
+        },
+        {
+          "answer": "Bret Hart",
+          "display": "5 reigns",
+          "aliases": [
+            "Hart",
+            "Hitman"
+          ]
+        },
+        {
+          "answer": "Roman Reigns",
+          "display": "4 reigns",
+          "aliases": [
+            "Reigns",
+            "Roman"
+          ]
+        },
+        {
+          "answer": "Kurt Angle",
+          "display": "4 reigns",
+          "aliases": [
+            "Angle"
+          ]
+        },
+        {
+          "answer": "The Undertaker",
+          "display": "4 reigns",
+          "aliases": [
+            "Undertaker",
+            "Taker"
+          ]
+        },
+        {
+          "answer": "Daniel Bryan",
+          "display": "4 reigns",
+          "aliases": [
+            "Bryan",
+            "Bryan Danielson"
+          ]
+        },
+        {
+          "answer": "Edge",
+          "display": "4 reigns"
+        }
+      ]
+    },
+    {
+      "category": "sports/combat/wwe",
+      "question": "Top 10 WWE Women's Champions by combined days as champion, counting all the title's names (actual days, as of October 2026)",
+      "cutoff": 10,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1379409907 | table 5 | name: 2 | value: 4",
+      "tags": [
+        "wrestling",
+        "wwe",
+        "women"
+      ],
+      "answers": [
+        {
+          "answer": "Becky Lynch",
+          "display": "535 days",
+          "aliases": [
+            "Becky",
+            "The Man"
+          ]
+        },
+        {
+          "answer": "Bianca Belair",
+          "display": "420 days",
+          "aliases": [
+            "Belair"
+          ]
+        },
+        {
+          "answer": "Alexa Bliss",
+          "display": "398 days",
+          "aliases": [
+            "Bliss"
+          ]
+        },
+        {
+          "answer": "Asuka",
+          "display": "397 days"
+        },
+        {
+          "answer": "Charlotte Flair",
+          "display": "305 days",
+          "aliases": [
+            "Flair",
+            "Charlotte"
+          ]
+        },
+        {
+          "answer": "Tiffany Stratton",
+          "display": "302 days",
+          "aliases": [
+            "Stratton"
+          ]
+        },
+        {
+          "answer": "Iyo Sky",
+          "display": "246 days",
+          "aliases": [
+            "Iyo"
+          ]
+        },
+        {
+          "answer": "Rhea Ripley",
+          "display": "244 days",
+          "aliases": [
+            "Ripley"
+          ]
+        },
+        {
+          "answer": "Ronda Rousey",
+          "display": "232 days",
+          "aliases": [
+            "Rousey",
+            "Rowdy"
+          ]
+        },
+        {
+          "answer": "Nia Jax",
+          "display": "223 days",
+          "aliases": [
+            "Jax"
+          ]
+        },
+        {
+          "answer": "Bayley",
+          "display": "194 days"
+        },
+        {
+          "answer": "Jade Cargill",
+          "display": "169 days",
+          "aliases": [
+            "Cargill"
+          ]
+        },
+        {
+          "answer": "Sasha Banks",
+          "display": "116 days",
+          "aliases": [
+            "Banks",
+            "The Boss",
+            "Mercedes Moné"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/combat/wwe",
+      "question": "Top 9 WWE Intercontinental Champions by number of reigns (as of October 2026)",
+      "cutoff": 9,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1379109986 | table 5 | name: 2 | value: 3",
+      "tags": [
+        "wrestling",
+        "wwe",
+        "intercontinental"
+      ],
+      "answers": [
+        {
+          "answer": "Chris Jericho",
+          "display": "9 reigns",
+          "aliases": [
+            "Y2J"
+          ]
+        },
+        {
+          "answer": "The Miz",
+          "display": "8 reigns",
+          "aliases": [
+            "Miz"
+          ]
+        },
+        {
+          "answer": "Dolph Ziggler",
+          "display": "6 reigns",
+          "aliases": [
+            "Ziggler"
+          ]
+        },
+        {
+          "answer": "Jeff Jarrett",
+          "display": "6 reigns"
+        },
+        {
+          "answer": "Rob Van Dam",
+          "display": "6 reigns",
+          "aliases": [
+            "RVD"
+          ]
+        },
+        {
+          "answer": "Wade Barrett",
+          "display": "5 reigns",
+          "aliases": [
+            "Barrett"
+          ]
+        },
+        {
+          "answer": "Jeff Hardy",
+          "display": "5 reigns",
+          "aliases": [
+            "Hardy"
+          ]
+        },
+        {
+          "answer": "Triple H",
+          "display": "5 reigns",
+          "aliases": [
+            "HHH",
+            "Hunter"
+          ]
+        },
+        {
+          "answer": "Edge",
+          "display": "5 reigns"
+        },
+        {
+          "answer": "Razor Ramon",
+          "display": "4 reigns",
+          "aliases": [
+            "Razor",
+            "Scott Hall"
+          ]
+        },
+        {
+          "answer": "Sami Zayn",
+          "display": "4 reigns",
+          "aliases": [
+            "Zayn"
+          ]
+        },
+        {
+          "answer": "Kofi Kingston",
+          "display": "4 reigns",
+          "aliases": [
+            "Kofi"
+          ]
+        },
+        {
+          "answer": "Christian",
+          "display": "4 reigns"
+        },
+        {
+          "answer": "Chris Benoit",
+          "display": "4 reigns",
+          "aliases": [
+            "Benoit"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/combat/boxing",
+      "question": "Top 9 world heavyweight boxing champions by successful title defences in a single reign, among the 20 longest reigns (as of September 2026)",
+      "cutoff": 9,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1374895974 | table 5 | name: 2 | value: 5",
+      "tags": [
+        "boxing",
+        "heavyweight",
+        "defences"
+      ],
+      "answers": [
+        {
+          "answer": "Joe Louis",
+          "display": "26 defences",
+          "aliases": [
+            "Brown Bomber"
+          ]
+        },
+        {
+          "answer": "Larry Holmes",
+          "display": "19 defences",
+          "aliases": [
+            "Holmes"
+          ]
+        },
+        {
+          "answer": "Wladimir Klitschko",
+          "display": "18 defences",
+          "aliases": [
+            "Wladimir"
+          ]
+        },
+        {
+          "answer": "Deontay Wilder",
+          "display": "10 defences",
+          "aliases": [
+            "Wilder"
+          ]
+        },
+        {
+          "answer": "Muhammad Ali",
+          "display": "9 defences",
+          "aliases": [
+            "Ali"
+          ]
+        },
+        {
+          "answer": "Vitali Klitschko",
+          "display": "9 defences",
+          "aliases": [
+            "Vitali"
+          ]
+        },
+        {
+          "answer": "Joe Frazier",
+          "display": "9 defences",
+          "aliases": [
+            "Frazier"
+          ]
+        },
+        {
+          "answer": "Lennox Lewis",
+          "display": "9 defences",
+          "aliases": [
+            "Lennox"
+          ]
+        },
+        {
+          "answer": "Mike Tyson",
+          "display": "9 defences",
+          "aliases": [
+            "Tyson",
+            "Iron Mike"
+          ]
+        },
+        {
+          "answer": "James J. Jeffries",
+          "display": "7 defences",
+          "aliases": [
+            "Jeffries"
+          ]
+        },
+        {
+          "answer": "Jack Johnson",
+          "display": "6 defences"
+        },
+        {
+          "answer": "Oleksandr Usyk",
+          "display": "6 defences",
+          "aliases": [
+            "Usyk"
+          ]
+        },
+        {
+          "answer": "Rocky Marciano",
+          "display": "6 defences",
+          "aliases": [
+            "Marciano"
+          ]
+        },
+        {
+          "answer": "Anthony Joshua",
+          "display": "6 defences",
+          "aliases": [
+            "AJ"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/combat/boxing",
+      "question": "Top 7 professional boxers by estimated career pay-per-view sales, including closed-circuit (as of October 2026)",
+      "cutoff": 7,
+      "difficulty": 1,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1379673923 | table 8 | name: 1 | value: 2 | where: Sport(s)~oxing",
+      "tags": [
+        "boxing",
+        "pay-per-view"
+      ],
+      "answers": [
+        {
+          "answer": "Muhammad Ali",
+          "display": "162,944,000 PPV sales",
+          "aliases": [
+            "Ali",
+            "Cassius Clay"
+          ]
+        },
+        {
+          "answer": "Joe Frazier",
+          "display": "100,500,000 PPV sales",
+          "aliases": [
+            "Frazier",
+            "Smokin' Joe"
+          ]
+        },
+        {
+          "answer": "George Foreman",
+          "display": "52,000,000 PPV sales",
+          "aliases": [
+            "Foreman"
+          ]
+        },
+        {
+          "answer": "Floyd Mayweather Jr.",
+          "display": "29,090,000 PPV sales",
+          "aliases": [
+            "Money",
+            "Mayweather"
+          ]
+        },
+        {
+          "answer": "Manny Pacquiao",
+          "display": "22,214,000 PPV sales",
+          "aliases": [
+            "Pac-Man",
+            "Pacquiao"
+          ]
+        },
+        {
+          "answer": "Mike Tyson",
+          "display": "20,700,000 PPV sales",
+          "aliases": [
+            "Iron Mike",
+            "Tyson"
+          ]
+        },
+        {
+          "answer": "Conor McGregor",
+          "display": "18,400,000 PPV sales",
+          "aliases": [
+            "McGregor",
+            "Notorious"
+          ]
+        },
+        {
+          "answer": "Oscar De La Hoya",
+          "display": "14,140,000 PPV sales",
+          "aliases": [
+            "De La Hoya",
+            "Golden Boy"
+          ]
+        },
+        {
+          "answer": "Anthony Joshua",
+          "display": "13,441,000 PPV sales",
+          "aliases": [
+            "AJ"
+          ]
+        },
+        {
+          "answer": "Evander Holyfield",
+          "display": "12,720,000 PPV sales",
+          "aliases": [
+            "Holyfield"
+          ]
+        },
+        {
+          "answer": "Canelo Álvarez",
+          "display": "11,070,000 PPV sales",
+          "aliases": [
+            "Canelo"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/combat/olympics",
+      "question": "Top 10 nations by total Olympic boxing medals (all-time, Summer Olympics)",
+      "cutoff": 10,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1365467999 | table 5 | name: 2 | value: 6 | where: Nation!~^Totals",
+      "tags": [
+        "olympics",
+        "boxing",
+        "medals"
+      ],
+      "answers": [
+        {
+          "answer": "United States",
+          "display": "118 medals",
+          "aliases": [
+            "USA"
+          ]
+        },
+        {
+          "answer": "Cuba",
+          "display": "80 medals"
+        },
+        {
+          "answer": "Great Britain",
+          "display": "63 medals",
+          "aliases": [
+            "Britain",
+            "GB"
+          ]
+        },
+        {
+          "answer": "Soviet Union",
+          "display": "51 medals",
+          "aliases": [
+            "USSR"
+          ]
+        },
+        {
+          "answer": "Italy",
+          "display": "48 medals"
+        },
+        {
+          "answer": "Poland",
+          "display": "44 medals"
+        },
+        {
+          "answer": "Russia",
+          "display": "30 medals"
+        },
+        {
+          "answer": "France",
+          "display": "28 medals"
+        },
+        {
+          "answer": "Kazakhstan",
+          "display": "26 medals"
+        },
+        {
+          "answer": "Romania",
+          "display": "25 medals"
+        },
+        {
+          "answer": "Argentina",
+          "display": "24 medals"
+        },
+        {
+          "answer": "Germany",
+          "display": "24 medals"
+        },
+        {
+          "answer": "South Korea",
+          "display": "21 medals"
+        }
+      ]
+    },
+    {
+      "category": "sports/combat/olympics",
+      "question": "Top 9 nations by total Olympic judo medals (all-time, Summer Olympics)",
+      "cutoff": 9,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1373977220 | table 4 | name: 2 | value: 6 | where: Nation!~^Totals",
+      "tags": [
+        "olympics",
+        "judo",
+        "medals"
+      ],
+      "answers": [
+        {
+          "answer": "Japan",
+          "display": "104 medals"
+        },
+        {
+          "answer": "France",
+          "display": "67 medals"
+        },
+        {
+          "answer": "South Korea",
+          "display": "51 medals"
+        },
+        {
+          "answer": "Cuba",
+          "display": "37 medals"
+        },
+        {
+          "answer": "Brazil",
+          "display": "28 medals"
+        },
+        {
+          "answer": "Netherlands",
+          "display": "24 medals",
+          "aliases": [
+            "Holland"
+          ]
+        },
+        {
+          "answer": "China",
+          "display": "23 medals"
+        },
+        {
+          "answer": "Soviet Union",
+          "display": "23 medals",
+          "aliases": [
+            "USSR"
+          ]
+        },
+        {
+          "answer": "Germany",
+          "display": "22 medals"
+        },
+        {
+          "answer": "Great Britain",
+          "display": "20 medals",
+          "aliases": [
+            "Britain",
+            "GB"
+          ]
+        },
+        {
+          "answer": "Italy",
+          "display": "18 medals"
+        },
+        {
+          "answer": "Russia",
+          "display": "16 medals"
+        },
+        {
+          "answer": "Georgia",
+          "display": "15 medals"
+        }
+      ]
+    },
+    {
+      "category": "sports/combat/olympics",
+      "question": "Top 10 nations by total Olympic wrestling medals (1900–2024, Greco-Roman and freestyle combined)",
+      "cutoff": 10,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1379562733 | table 8 | name: 2 | value: 6 | where: Nation!~^Totals",
+      "tags": [
+        "olympics",
+        "wrestling",
+        "medals"
+      ],
+      "answers": [
+        {
+          "answer": "United States",
+          "display": "149 medals",
+          "aliases": [
+            "USA"
+          ]
+        },
+        {
+          "answer": "Soviet Union",
+          "display": "116 medals",
+          "aliases": [
+            "USSR"
+          ]
+        },
+        {
+          "answer": "Japan",
+          "display": "87 medals"
+        },
+        {
+          "answer": "Sweden",
+          "display": "86 medals"
+        },
+        {
+          "answer": "Finland",
+          "display": "83 medals"
+        },
+        {
+          "answer": "Bulgaria",
+          "display": "73 medals"
+        },
+        {
+          "answer": "Turkey",
+          "display": "68 medals",
+          "aliases": [
+            "Türkiye",
+            "Turkiye"
+          ]
+        },
+        {
+          "answer": "Russia",
+          "display": "56 medals"
+        },
+        {
+          "answer": "Hungary",
+          "display": "56 medals"
+        },
+        {
+          "answer": "Iran",
+          "display": "55 medals",
+          "aliases": [
+            "Persia"
+          ]
+        },
+        {
+          "answer": "South Korea",
+          "display": "36 medals"
+        },
+        {
+          "answer": "Romania",
+          "display": "34 medals"
+        },
+        {
+          "answer": "Cuba",
+          "display": "32 medals"
+        }
+      ]
+    },
+    {
+      "category": "sports/combat/mma",
+      "question": "Top 9 UFC pay-per-view events by reported buy rate (as of October 2026)",
+      "cutoff": 9,
+      "difficulty": 3,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1379673923 | table 6 | name: 2 | value: 4",
+      "tags": [
+        "mma",
+        "ufc",
+        "pay-per-view"
+      ],
+      "answers": [
+        {
+          "answer": "UFC 229",
+          "display": "2,400,000 buys",
+          "aliases": [
+            "Khabib vs McGregor",
+            "229"
+          ]
+        },
+        {
+          "answer": "UFC 264",
+          "display": "1,800,000 buys",
+          "aliases": [
+            "Poirier vs McGregor 3",
+            "McGregor vs Poirier 3"
+          ]
+        },
+        {
+          "answer": "UFC 202",
+          "display": "1,650,000 buys",
+          "aliases": [
+            "Diaz vs McGregor 2",
+            "McGregor vs Diaz 2"
+          ]
+        },
+        {
+          "answer": "UFC 257",
+          "display": "1,600,000 buys",
+          "aliases": [
+            "Poirier vs McGregor 2"
+          ]
+        },
+        {
+          "answer": "UFC 100",
+          "display": "1,600,000 buys",
+          "aliases": [
+            "Lesnar vs Mir"
+          ]
+        },
+        {
+          "answer": "UFC 246",
+          "display": "1,353,429 buys",
+          "aliases": [
+            "McGregor vs Cowboy"
+          ]
+        },
+        {
+          "answer": "UFC 196",
+          "display": "1,317,000 buys",
+          "aliases": [
+            "McGregor vs Diaz"
+          ]
+        },
+        {
+          "answer": "UFC 251",
+          "display": "1,300,000 buys",
+          "aliases": [
+            "Usman vs Masvidal"
+          ]
+        },
+        {
+          "answer": "UFC 205",
+          "display": "1,300,000 buys",
+          "aliases": [
+            "Alvarez vs McGregor"
+          ]
+        },
+        {
+          "answer": "UFC 200",
+          "display": "1,200,000 buys",
+          "aliases": [
+            "Tate vs Nunes"
+          ]
+        },
+        {
+          "answer": "UFC 194",
+          "display": "1,200,000 buys",
+          "aliases": [
+            "Aldo vs McGregor"
+          ]
+        },
+        {
+          "answer": "UFC 116",
+          "display": "1,160,000 buys",
+          "aliases": [
+            "Lesnar vs Carwin"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/combat/mma",
+      "question": "Top 10 UFC events by reported attendance (as of October 2026)",
+      "cutoff": 10,
+      "difficulty": 3,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1379752351 | table 2 | name: 2 | value: 6 | where: Attendance~[0-9]",
+      "tags": [
+        "mma",
+        "ufc",
+        "attendance"
+      ],
+      "answers": [
+        {
+          "answer": "UFC 243: Whittaker vs. Adesanya",
+          "display": "57,127 fans",
+          "aliases": [
+            "UFC 243",
+            "Whittaker vs Adesanya",
+            "243"
+          ]
+        },
+        {
+          "answer": "UFC 193: Rousey vs. Holm",
+          "display": "56,214 fans",
+          "aliases": [
+            "UFC 193",
+            "Rousey vs Holm"
+          ]
+        },
+        {
+          "answer": "UFC 129: St-Pierre vs. Shields",
+          "display": "55,724 fans",
+          "aliases": [
+            "UFC 129"
+          ]
+        },
+        {
+          "answer": "UFC 198: Werdum vs. Miocic",
+          "display": "45,207 fans",
+          "aliases": [
+            "UFC 198"
+          ]
+        },
+        {
+          "answer": "UFC on Fox: Gustafsson vs. Johnson",
+          "display": "30,000 fans",
+          "aliases": [
+            "Gustafsson vs Johnson"
+          ]
+        },
+        {
+          "answer": "UFC 124: St-Pierre vs. Koscheck 2",
+          "display": "23,152 fans",
+          "aliases": [
+            "UFC 124"
+          ]
+        },
+        {
+          "answer": "UFC Fight Night: Hunt vs. Oleinik",
+          "display": "22,603 fans",
+          "aliases": [
+            "Hunt vs Oleinik"
+          ]
+        },
+        {
+          "answer": "UFC Fight Night: Moreno vs. Royval 2",
+          "display": "21,546 fans",
+          "aliases": [
+            "Moreno vs Royval 2"
+          ]
+        },
+        {
+          "answer": "UFC 97: Redemption",
+          "display": "21,451 fans",
+          "aliases": [
+            "UFC 97"
+          ]
+        },
+        {
+          "answer": "UFC 83: Serra vs. St-Pierre 2",
+          "display": "21,390 fans",
+          "aliases": [
+            "UFC 83"
+          ]
+        },
+        {
+          "answer": "UFC 188: Velasquez vs. Werdum",
+          "display": "21,036 fans",
+          "aliases": [
+            "UFC 188"
+          ]
+        },
+        {
+          "answer": "UFC 180: Werdum vs. Hunt",
+          "display": "21,000 fans",
+          "aliases": [
+            "UFC 180"
+          ]
+        },
+        {
+          "answer": "UFC 144: Edgar vs. Henderson",
+          "display": "21,000 fans",
+          "aliases": [
+            "UFC 144"
+          ]
+        }
+      ]
+    }
+  ]
+}

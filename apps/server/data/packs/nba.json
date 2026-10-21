@@ -1,0 +1,979 @@
+{
+  "categories": [
+    {
+      "path": "sports/basketball/nba-players",
+      "name": "NBA Players"
+    },
+    {
+      "path": "sports/basketball/nba-teams",
+      "name": "NBA Teams"
+    },
+    {
+      "path": "sports/basketball/nba-awards",
+      "name": "NBA Awards"
+    },
+    {
+      "path": "sports/basketball/wnba",
+      "name": "WNBA"
+    }
+  ],
+  "questions": [
+    {
+      "category": "sports/basketball/nba-players",
+      "difficulty": 1,
+      "question": "Top 10 NBA career regular-season scoring leaders (through the 2025–26 season)",
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1376579544 | table 2 | name: Player | value: Total points",
+      "cutoff": 10,
+      "tags": [
+        "nba",
+        "career",
+        "scoring"
+      ],
+      "answers": [
+        {
+          "answer": "LeBron James",
+          "display": "43,440 points",
+          "aliases": [
+            "LeBron",
+            "King James",
+            "James"
+          ]
+        },
+        {
+          "answer": "Kareem Abdul-Jabbar",
+          "display": "38,387 points",
+          "aliases": [
+            "Kareem"
+          ]
+        },
+        {
+          "answer": "Karl Malone",
+          "display": "36,928 points",
+          "aliases": [
+            "Mailman"
+          ]
+        },
+        {
+          "answer": "Kobe Bryant",
+          "display": "33,643 points",
+          "aliases": [
+            "Kobe"
+          ]
+        },
+        {
+          "answer": "Kevin Durant",
+          "display": "32,597 points",
+          "aliases": [
+            "KD"
+          ]
+        },
+        {
+          "answer": "Michael Jordan",
+          "display": "32,292 points",
+          "aliases": [
+            "MJ"
+          ]
+        },
+        {
+          "answer": "Dirk Nowitzki",
+          "display": "31,560 points",
+          "aliases": [
+            "Dirk"
+          ]
+        },
+        {
+          "answer": "Wilt Chamberlain",
+          "display": "31,419 points",
+          "aliases": [
+            "Wilt"
+          ]
+        },
+        {
+          "answer": "James Harden",
+          "display": "29,339 points",
+          "aliases": [
+            "Harden"
+          ]
+        },
+        {
+          "answer": "Shaquille O'Neal",
+          "display": "28,596 points",
+          "aliases": [
+            "Shaq"
+          ]
+        },
+        {
+          "answer": "Carmelo Anthony",
+          "display": "28,289 points"
+        },
+        {
+          "answer": "Moses Malone",
+          "display": "27,409 points",
+          "aliases": [
+            "Moses"
+          ]
+        },
+        {
+          "answer": "Elvin Hayes",
+          "display": "27,313 points"
+        },
+        {
+          "answer": "Russell Westbrook",
+          "display": "27,176 points",
+          "aliases": [
+            "Westbrook"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/basketball/nba-players",
+      "difficulty": 2,
+      "question": "Top 10 NBA career regular-season rebounding leaders (through the 2025–26 season)",
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1364830254 | table 2 | name: Player | value: Total rebounds",
+      "cutoff": 10,
+      "tags": [
+        "nba",
+        "career",
+        "rebounds"
+      ],
+      "answers": [
+        {
+          "answer": "Wilt Chamberlain",
+          "display": "23,924 rebounds",
+          "aliases": [
+            "Wilt"
+          ]
+        },
+        {
+          "answer": "Bill Russell",
+          "display": "21,620 rebounds",
+          "aliases": [
+            "Russell"
+          ]
+        },
+        {
+          "answer": "Kareem Abdul-Jabbar",
+          "display": "17,440 rebounds",
+          "aliases": [
+            "Kareem"
+          ]
+        },
+        {
+          "answer": "Elvin Hayes",
+          "display": "16,279 rebounds"
+        },
+        {
+          "answer": "Moses Malone",
+          "display": "16,212 rebounds",
+          "aliases": [
+            "Moses"
+          ]
+        },
+        {
+          "answer": "Tim Duncan",
+          "display": "15,091 rebounds",
+          "aliases": [
+            "Duncan"
+          ]
+        },
+        {
+          "answer": "Karl Malone",
+          "display": "14,968 rebounds",
+          "aliases": [
+            "Mailman"
+          ]
+        },
+        {
+          "answer": "Robert Parish",
+          "display": "14,715 rebounds"
+        },
+        {
+          "answer": "Kevin Garnett",
+          "display": "14,662 rebounds",
+          "aliases": [
+            "KG"
+          ]
+        },
+        {
+          "answer": "Dwight Howard",
+          "display": "14,627 rebounds"
+        },
+        {
+          "answer": "Nate Thurmond",
+          "display": "14,464 rebounds"
+        },
+        {
+          "answer": "Walt Bellamy",
+          "display": "14,241 rebounds"
+        },
+        {
+          "answer": "Wes Unseld",
+          "display": "13,769 rebounds"
+        },
+        {
+          "answer": "Hakeem Olajuwon",
+          "display": "13,748 rebounds",
+          "aliases": [
+            "Hakeem"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/basketball/nba-players",
+      "difficulty": 3,
+      "question": "Top 10 NBA career regular-season assists leaders (through the 2025–26 season) whose first name starts with A to M",
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1374052328 | table 2 | name: Player | value: Total assists | where: Player~^[A-M]",
+      "cutoff": 10,
+      "tags": [
+        "nba",
+        "career",
+        "assists",
+        "letter"
+      ],
+      "answers": [
+        {
+          "answer": "John Stockton",
+          "display": "15,806 assists",
+          "aliases": [
+            "Stockton"
+          ]
+        },
+        {
+          "answer": "Chris Paul",
+          "display": "12,552 assists",
+          "aliases": [
+            "CP3"
+          ]
+        },
+        {
+          "answer": "Jason Kidd",
+          "display": "12,091 assists",
+          "aliases": [
+            "Kidd"
+          ]
+        },
+        {
+          "answer": "LeBron James",
+          "display": "12,016 assists",
+          "aliases": [
+            "LeBron",
+            "King James",
+            "James"
+          ]
+        },
+        {
+          "answer": "Mark Jackson",
+          "display": "10,334 assists"
+        },
+        {
+          "answer": "Magic Johnson",
+          "display": "10,141 assists",
+          "aliases": [
+            "Magic"
+          ]
+        },
+        {
+          "answer": "Isiah Thomas",
+          "display": "9,061 assists",
+          "aliases": [
+            "Zeke"
+          ]
+        },
+        {
+          "answer": "Gary Payton",
+          "display": "8,966 assists",
+          "aliases": [
+            "The Glove"
+          ]
+        },
+        {
+          "answer": "James Harden",
+          "display": "8,873 assists",
+          "aliases": [
+            "Harden"
+          ]
+        },
+        {
+          "answer": "Andre Miller",
+          "display": "8,524 assists"
+        },
+        {
+          "answer": "Maurice Cheeks",
+          "display": "7,392 assists"
+        },
+        {
+          "answer": "Lenny Wilkens",
+          "display": "7,211 assists"
+        },
+        {
+          "answer": "Kyle Lowry",
+          "display": "7,110 assists",
+          "aliases": [
+            "Lowry"
+          ]
+        },
+        {
+          "answer": "Bob Cousy",
+          "display": "6,955 assists",
+          "aliases": [
+            "Cousy"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/basketball/wnba",
+      "difficulty": 2,
+      "question": "Top 10 WNBA career regular-season scoring leaders (as of the 2026 WNBA season)",
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1378251750 | table 2 | name: Player | value: Total points",
+      "cutoff": 10,
+      "tags": [
+        "wnba",
+        "career",
+        "scoring"
+      ],
+      "answers": [
+        {
+          "answer": "Diana Taurasi",
+          "display": "10,646 points",
+          "aliases": [
+            "Taurasi"
+          ]
+        },
+        {
+          "answer": "Tina Charles",
+          "display": "8,396 points"
+        },
+        {
+          "answer": "DeWanna Bonner",
+          "display": "8,243 points"
+        },
+        {
+          "answer": "Nneka Ogwumike",
+          "display": "8,047 points"
+        },
+        {
+          "answer": "Tina Thompson",
+          "display": "7,488 points"
+        },
+        {
+          "answer": "Tamika Catchings",
+          "display": "7,380 points",
+          "aliases": [
+            "Catchings"
+          ]
+        },
+        {
+          "answer": "Candice Dupree",
+          "display": "6,895 points"
+        },
+        {
+          "answer": "Breanna Stewart",
+          "display": "6,860 points",
+          "aliases": [
+            "Stewart"
+          ]
+        },
+        {
+          "answer": "Cappie Pondexter",
+          "display": "6,811 points"
+        },
+        {
+          "answer": "Sue Bird",
+          "display": "6,803 points",
+          "aliases": [
+            "Bird"
+          ]
+        },
+        {
+          "answer": "A'ja Wilson",
+          "display": "6,792 points"
+        },
+        {
+          "answer": "Candace Parker",
+          "display": "6,574 points",
+          "aliases": [
+            "Parker"
+          ]
+        },
+        {
+          "answer": "Katie Smith",
+          "display": "6,452 points"
+        },
+        {
+          "answer": "Sylvia Fowles",
+          "display": "6,415 points",
+          "aliases": [
+            "Fowles"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/basketball/wnba",
+      "difficulty": 3,
+      "question": "Top 10 WNBA career regular-season rebounding leaders (as of the 2026 WNBA season)",
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1377089578 | table 2 | name: Player | value: Total rebounds",
+      "cutoff": 10,
+      "tags": [
+        "wnba",
+        "career",
+        "rebounds"
+      ],
+      "answers": [
+        {
+          "answer": "Tina Charles",
+          "display": "4,262 rebounds"
+        },
+        {
+          "answer": "Sylvia Fowles",
+          "display": "4,006 rebounds",
+          "aliases": [
+            "Fowles"
+          ]
+        },
+        {
+          "answer": "Nneka Ogwumike",
+          "display": "3,657 rebounds"
+        },
+        {
+          "answer": "Candace Parker",
+          "display": "3,467 rebounds",
+          "aliases": [
+            "Parker"
+          ]
+        },
+        {
+          "answer": "DeWanna Bonner",
+          "display": "3,456 rebounds"
+        },
+        {
+          "answer": "Rebekkah Brunson",
+          "display": "3,356 rebounds"
+        },
+        {
+          "answer": "Tamika Catchings",
+          "display": "3,315 rebounds",
+          "aliases": [
+            "Catchings"
+          ]
+        },
+        {
+          "answer": "Lisa Leslie",
+          "display": "3,307 rebounds",
+          "aliases": [
+            "Leslie"
+          ]
+        },
+        {
+          "answer": "Candice Dupree",
+          "display": "3,149 rebounds"
+        },
+        {
+          "answer": "Tina Thompson",
+          "display": "3,070 rebounds"
+        },
+        {
+          "answer": "Alyssa Thomas",
+          "display": "3,067 rebounds"
+        },
+        {
+          "answer": "Taj McWilliams-Franklin",
+          "display": "3,013 rebounds"
+        },
+        {
+          "answer": "Jonquel Jones",
+          "display": "2,960 rebounds"
+        },
+        {
+          "answer": "A'ja Wilson",
+          "display": "2,878 rebounds"
+        }
+      ]
+    },
+    {
+      "category": "sports/basketball/nba-awards",
+      "difficulty": 3,
+      "question": "Top 8 NBA players by rebounding titles (through the 2025–26 season)",
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1359455519 | table 3 | name: Player | value: Times leader",
+      "cutoff": 8,
+      "tags": [
+        "nba",
+        "rebounds",
+        "titles"
+      ],
+      "answers": [
+        {
+          "answer": "Wilt Chamberlain",
+          "display": "11 titles",
+          "aliases": [
+            "Wilt"
+          ]
+        },
+        {
+          "answer": "Dennis Rodman",
+          "display": "7 titles",
+          "aliases": [
+            "Rodman"
+          ]
+        },
+        {
+          "answer": "Moses Malone",
+          "display": "6 titles"
+        },
+        {
+          "answer": "Dwight Howard",
+          "display": "5 titles"
+        },
+        {
+          "answer": "Andre Drummond",
+          "display": "4 titles"
+        },
+        {
+          "answer": "Kevin Garnett",
+          "display": "4 titles",
+          "aliases": [
+            "KG"
+          ]
+        },
+        {
+          "answer": "Bill Russell",
+          "display": "4 titles",
+          "aliases": [
+            "Russell"
+          ]
+        },
+        {
+          "answer": "Domantas Sabonis",
+          "display": "3 titles"
+        },
+        {
+          "answer": "Elvin Hayes",
+          "display": "2 titles"
+        },
+        {
+          "answer": "DeAndre Jordan",
+          "display": "2 titles"
+        },
+        {
+          "answer": "Dikembe Mutombo",
+          "display": "2 titles"
+        },
+        {
+          "answer": "Hakeem Olajuwon",
+          "display": "2 titles"
+        },
+        {
+          "answer": "Ben Wallace",
+          "display": "2 titles"
+        }
+      ]
+    },
+    {
+      "category": "sports/basketball/nba-awards",
+      "difficulty": 3,
+      "question": "Top 10 NBA players by assists titles (through the 2025–26 season)",
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1369080620 | table 3 | name: Player | value: Times leader",
+      "cutoff": 10,
+      "tags": [
+        "nba",
+        "assists",
+        "titles"
+      ],
+      "answers": [
+        {
+          "answer": "John Stockton",
+          "display": "9 titles",
+          "aliases": [
+            "Stockton"
+          ]
+        },
+        {
+          "answer": "Bob Cousy",
+          "display": "8 titles",
+          "aliases": [
+            "Cousy"
+          ]
+        },
+        {
+          "answer": "Oscar Robertson",
+          "display": "6 titles",
+          "aliases": [
+            "Big O"
+          ]
+        },
+        {
+          "answer": "Jason Kidd",
+          "display": "5 titles",
+          "aliases": [
+            "Kidd"
+          ]
+        },
+        {
+          "answer": "Chris Paul",
+          "display": "5 titles",
+          "aliases": [
+            "CP3"
+          ]
+        },
+        {
+          "answer": "Steve Nash",
+          "display": "5 titles",
+          "aliases": [
+            "Nash"
+          ]
+        },
+        {
+          "answer": "Magic Johnson",
+          "display": "4 titles",
+          "aliases": [
+            "Magic"
+          ]
+        },
+        {
+          "answer": "Kevin Porter",
+          "display": "4 titles"
+        },
+        {
+          "answer": "Rajon Rondo",
+          "display": "3 titles",
+          "aliases": [
+            "Rondo"
+          ]
+        },
+        {
+          "answer": "Russell Westbrook",
+          "display": "3 titles",
+          "aliases": [
+            "Westbrook"
+          ]
+        },
+        {
+          "answer": "James Harden",
+          "display": "2 titles",
+          "aliases": [
+            "Harden"
+          ]
+        },
+        {
+          "answer": "Andy Phillip",
+          "display": "2 titles"
+        },
+        {
+          "answer": "Guy Rodgers",
+          "display": "2 titles"
+        }
+      ]
+    },
+    {
+      "category": "sports/basketball/nba-teams",
+      "difficulty": 2,
+      "question": "Top 10 NBA arenas by capacity whose names don't include the word 'Arena' (as of 2026)",
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1371108360 | table 1 | name: Arena | value: Capacity | where: Arena!~Arena",
+      "cutoff": 10,
+      "tags": [
+        "nba",
+        "arenas",
+        "capacity"
+      ],
+      "answers": [
+        {
+          "answer": "United Center",
+          "display": "20,917 seats"
+        },
+        {
+          "answer": "Madison Square Garden",
+          "display": "19,812 seats",
+          "aliases": [
+            "MSG",
+            "The Garden"
+          ]
+        },
+        {
+          "answer": "Kaseya Center",
+          "display": "19,600 seats"
+        },
+        {
+          "answer": "Moda Center",
+          "display": "19,411 seats",
+          "aliases": [
+            "Rose Garden"
+          ]
+        },
+        {
+          "answer": "American Airlines Center",
+          "display": "19,200 seats"
+        },
+        {
+          "answer": "Spectrum Center",
+          "display": "19,077 seats"
+        },
+        {
+          "answer": "Kia Center",
+          "display": "18,846 seats",
+          "aliases": [
+            "Amway Center"
+          ]
+        },
+        {
+          "answer": "TD Garden",
+          "display": "18,624 seats"
+        },
+        {
+          "answer": "Frost Bank Center",
+          "display": "18,354 seats",
+          "aliases": [
+            "AT&T Center"
+          ]
+        },
+        {
+          "answer": "Delta Center",
+          "display": "18,306 seats",
+          "aliases": [
+            "Vivint Arena"
+          ]
+        },
+        {
+          "answer": "Paycom Center",
+          "display": "18,203 seats"
+        },
+        {
+          "answer": "Chase Center",
+          "display": "18,064 seats"
+        },
+        {
+          "answer": "Toyota Center",
+          "display": "18,055 seats"
+        },
+        {
+          "answer": "Target Center",
+          "display": "18,024 seats"
+        }
+      ]
+    },
+    {
+      "category": "sports/basketball/nba-teams",
+      "difficulty": 3,
+      "question": "Top 8 NBA franchises by NBA Finals losses (through the 2026 NBA Finals)",
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1379035996 | table 1 | name: Team | value: L",
+      "cutoff": 8,
+      "tags": [
+        "nba",
+        "finals",
+        "franchises"
+      ],
+      "answers": [
+        {
+          "answer": "Los Angeles Lakers",
+          "display": "15 losses",
+          "aliases": [
+            "Minneapolis Lakers"
+          ]
+        },
+        {
+          "answer": "Philadelphia 76ers",
+          "display": "6 losses",
+          "aliases": [
+            "Syracuse Nationals",
+            "76ers"
+          ]
+        },
+        {
+          "answer": "New York Knicks",
+          "display": "6 losses",
+          "aliases": [
+            "Knicks"
+          ]
+        },
+        {
+          "answer": "Boston Celtics",
+          "display": "5 losses",
+          "aliases": [
+            "Celtics"
+          ]
+        },
+        {
+          "answer": "Golden State Warriors",
+          "display": "5 losses",
+          "aliases": [
+            "San Francisco Warriors"
+          ]
+        },
+        {
+          "answer": "Detroit Pistons",
+          "display": "4 losses",
+          "aliases": [
+            "Fort Wayne Pistons"
+          ]
+        },
+        {
+          "answer": "Miami Heat",
+          "display": "4 losses",
+          "aliases": [
+            "Heat"
+          ]
+        },
+        {
+          "answer": "Cleveland Cavaliers",
+          "display": "4 losses",
+          "aliases": [
+            "Cavaliers"
+          ]
+        },
+        {
+          "answer": "Oklahoma City Thunder",
+          "display": "3 losses",
+          "aliases": [
+            "Seattle SuperSonics"
+          ]
+        },
+        {
+          "answer": "Atlanta Hawks",
+          "display": "3 losses",
+          "aliases": [
+            "St. Louis Hawks"
+          ]
+        },
+        {
+          "answer": "Washington Wizards",
+          "display": "3 losses",
+          "aliases": [
+            "Washington Bullets"
+          ]
+        },
+        {
+          "answer": "Phoenix Suns",
+          "display": "3 losses",
+          "aliases": [
+            "Suns"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/basketball/nba-teams",
+      "difficulty": 2,
+      "question": "Top 10 NBA franchises by playoff wins (through the 2026 playoffs)",
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1372443357 | table 2 | name: Franchise | value: W",
+      "cutoff": 10,
+      "tags": [
+        "nba",
+        "playoffs",
+        "franchises"
+      ],
+      "answers": [
+        {
+          "answer": "Los Angeles Lakers",
+          "display": "472 wins",
+          "aliases": [
+            "Lakers"
+          ]
+        },
+        {
+          "answer": "Boston Celtics",
+          "display": "432 wins",
+          "aliases": [
+            "Celtics"
+          ]
+        },
+        {
+          "answer": "Philadelphia 76ers",
+          "display": "255 wins",
+          "aliases": [
+            "76ers",
+            "Sixers"
+          ]
+        },
+        {
+          "answer": "San Antonio Spurs",
+          "display": "235 wins",
+          "aliases": [
+            "Spurs"
+          ]
+        },
+        {
+          "answer": "New York Knicks",
+          "display": "226 wins",
+          "aliases": [
+            "Knicks"
+          ]
+        },
+        {
+          "answer": "Golden State Warriors",
+          "display": "217 wins",
+          "aliases": [
+            "Warriors"
+          ]
+        },
+        {
+          "answer": "Detroit Pistons",
+          "display": "198 wins",
+          "aliases": [
+            "Pistons"
+          ]
+        },
+        {
+          "answer": "Oklahoma City Thunder",
+          "display": "197 wins",
+          "aliases": [
+            "Thunder"
+          ]
+        },
+        {
+          "answer": "Chicago Bulls",
+          "display": "187 wins",
+          "aliases": [
+            "Bulls"
+          ]
+        },
+        {
+          "answer": "Atlanta Hawks",
+          "display": "172 wins",
+          "aliases": [
+            "Hawks"
+          ]
+        },
+        {
+          "answer": "Houston Rockets",
+          "display": "163 wins",
+          "aliases": [
+            "Rockets"
+          ]
+        },
+        {
+          "answer": "Miami Heat",
+          "display": "163 wins",
+          "aliases": [
+            "Heat"
+          ]
+        },
+        {
+          "answer": "Phoenix Suns",
+          "display": "160 wins",
+          "aliases": [
+            "Suns"
+          ]
+        },
+        {
+          "answer": "Milwaukee Bucks",
+          "display": "153 wins",
+          "aliases": [
+            "Bucks"
+          ]
+        }
+      ]
+    }
+  ]
+}

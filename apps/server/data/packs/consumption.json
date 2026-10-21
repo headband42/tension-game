@@ -1,0 +1,338 @@
+{
+  "categories": [
+    {
+      "path": "society/consumption",
+      "name": "Consumption"
+    }
+  ],
+  "questions": [
+    {
+      "category": "society/consumption",
+      "difficulty": 1,
+      "question": "Top 10 countries by number of McDonald's restaurants, excluding territories (as of 31 December 2025)",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1379735574 | table 1 | name: Country/territory | value: No. of operating outlets | where: Country/territory!~territory",
+      "tags": [
+        "food",
+        "restaurants",
+        "brands",
+        "mcdonalds"
+      ],
+      "answers": [
+        {
+          "answer": "United States",
+          "display": "13,697 outlets",
+          "aliases": [
+            "usa",
+            "us",
+            "america"
+          ]
+        },
+        {
+          "answer": "China",
+          "display": "7,740 outlets"
+        },
+        {
+          "answer": "Japan",
+          "display": "3,025 outlets"
+        },
+        {
+          "answer": "France",
+          "display": "1,629 outlets"
+        },
+        {
+          "answer": "Canada",
+          "display": "1,520 outlets"
+        },
+        {
+          "answer": "United Kingdom",
+          "display": "1,505 outlets",
+          "aliases": [
+            "uk",
+            "britain",
+            "great britain"
+          ]
+        },
+        {
+          "answer": "Germany",
+          "display": "1,382 outlets"
+        },
+        {
+          "answer": "Brazil",
+          "display": "1,230 outlets"
+        },
+        {
+          "answer": "Australia",
+          "display": "1,076 outlets"
+        },
+        {
+          "answer": "Philippines",
+          "display": "851 outlets"
+        },
+        {
+          "answer": "Italy",
+          "display": "805 outlets"
+        },
+        {
+          "answer": "India",
+          "display": "757 outlets"
+        },
+        {
+          "answer": "Spain",
+          "display": "659 outlets"
+        },
+        {
+          "answer": "Poland",
+          "display": "618 outlets"
+        },
+        {
+          "answer": "Saudi Arabia",
+          "display": "458 outlets"
+        }
+      ],
+      "submitter": "claude"
+    },
+    {
+      "category": "society/consumption",
+      "difficulty": 2,
+      "question": "Top 10 countries by number of McDonald's restaurants whose names end in A, excluding territories (as of 31 December 2025)",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1379735574 | table 1 | name: Country/territory | value: No. of operating outlets | where: Country/territory!~territory | where: Country/territory~a( \\(details\\))?$",
+      "tags": [
+        "food",
+        "restaurants",
+        "brands",
+        "mcdonalds",
+        "twist"
+      ],
+      "answers": [
+        {
+          "answer": "China",
+          "display": "7,740 outlets"
+        },
+        {
+          "answer": "Canada",
+          "display": "1,520 outlets"
+        },
+        {
+          "answer": "Australia",
+          "display": "1,076 outlets"
+        },
+        {
+          "answer": "India",
+          "display": "757 outlets"
+        },
+        {
+          "answer": "Saudi Arabia",
+          "display": "458 outlets"
+        },
+        {
+          "answer": "South Africa",
+          "display": "407 outlets"
+        },
+        {
+          "answer": "South Korea",
+          "display": "401 outlets"
+        },
+        {
+          "answer": "Malaysia",
+          "display": "372 outlets"
+        },
+        {
+          "answer": "Indonesia",
+          "display": "314 outlets"
+        },
+        {
+          "answer": "Argentina",
+          "display": "231 outlets"
+        },
+        {
+          "answer": "Austria",
+          "display": "212 outlets"
+        },
+        {
+          "answer": "Guatemala",
+          "display": "124 outlets"
+        },
+        {
+          "answer": "Romania",
+          "display": "114 outlets"
+        },
+        {
+          "answer": "Panama",
+          "display": "84 outlets"
+        }
+      ],
+      "submitter": "claude"
+    },
+    {
+      "category": "society/consumption",
+      "difficulty": 1,
+      "question": "Top 10 countries by beer consumption per person (latest figures from 2019 or 2024)",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1359451627 | table 1 | name: Country | value: Consumption per capita",
+      "tags": [
+        "drink",
+        "beer",
+        "alcohol"
+      ],
+      "answers": [
+        {
+          "answer": "Czech Republic",
+          "display": "126.0 litres",
+          "aliases": [
+            "czechia",
+            "czech"
+          ]
+        },
+        {
+          "answer": "Austria",
+          "display": "107.8 litres"
+        },
+        {
+          "answer": "Romania",
+          "display": "100.3 litres"
+        },
+        {
+          "answer": "Germany",
+          "display": "99.0 litres"
+        },
+        {
+          "answer": "Poland",
+          "display": "97.7 litres"
+        },
+        {
+          "answer": "Namibia",
+          "display": "95.5 litres"
+        },
+        {
+          "answer": "Ireland",
+          "display": "92.9 litres"
+        },
+        {
+          "answer": "Spain",
+          "display": "88.8 litres"
+        },
+        {
+          "answer": "Croatia",
+          "display": "85.5 litres"
+        },
+        {
+          "answer": "Latvia",
+          "display": "81.4 litres"
+        },
+        {
+          "answer": "Estonia",
+          "display": "80.5 litres"
+        },
+        {
+          "answer": "Slovenia",
+          "display": "80.0 litres"
+        },
+        {
+          "answer": "Netherlands",
+          "display": "79.3 litres",
+          "aliases": [
+            "Holland"
+          ]
+        },
+        {
+          "answer": "Bulgaria",
+          "display": "78.7 litres"
+        },
+        {
+          "answer": "Panama",
+          "display": "78.3 litres"
+        }
+      ],
+      "submitter": "claude"
+    },
+    {
+      "category": "society/consumption",
+      "difficulty": 1,
+      "question": "Top 10 countries and territories by meat supply per person in 2020 (all meat types, before losses)",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1372162320 | table 1 | name: Country/Dependency | value: 2020",
+      "tags": [
+        "food",
+        "meat"
+      ],
+      "answers": [
+        {
+          "answer": "Hong Kong",
+          "display": "137.08 kg",
+          "aliases": [
+            "hk"
+          ]
+        },
+        {
+          "answer": "United States",
+          "display": "124.11 kg",
+          "aliases": [
+            "usa",
+            "us",
+            "america"
+          ]
+        },
+        {
+          "answer": "Australia",
+          "display": "121.61 kg"
+        },
+        {
+          "answer": "Argentina",
+          "display": "109.39 kg"
+        },
+        {
+          "answer": "Macao",
+          "display": "103.15 kg",
+          "aliases": [
+            "macau"
+          ]
+        },
+        {
+          "answer": "New Zealand",
+          "display": "100.90 kg"
+        },
+        {
+          "answer": "Spain",
+          "display": "100.26 kg"
+        },
+        {
+          "answer": "Israel",
+          "display": "97.02 kg"
+        },
+        {
+          "answer": "Samoa",
+          "display": "96.68 kg"
+        },
+        {
+          "answer": "French Polynesia",
+          "display": "96.09 kg"
+        },
+        {
+          "answer": "Portugal",
+          "display": "94.07 kg"
+        },
+        {
+          "answer": "Saint Vincent and the Grenadines",
+          "display": "91.05 kg",
+          "aliases": [
+            "st vincent"
+          ]
+        },
+        {
+          "answer": "Iceland",
+          "display": "91.02 kg"
+        },
+        {
+          "answer": "Saint Lucia",
+          "display": "90.90 kg",
+          "aliases": [
+            "st lucia"
+          ]
+        },
+        {
+          "answer": "Canada",
+          "display": "90.87 kg"
+        }
+      ],
+      "submitter": "claude"
+    }
+  ]
+}

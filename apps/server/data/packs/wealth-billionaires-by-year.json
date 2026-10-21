@@ -1,0 +1,1615 @@
+{
+  "categories": [
+    {
+      "path": "business/wealth/forbes-by-year",
+      "name": "Forbes List by Year"
+    }
+  ],
+  "questions": [
+    {
+      "category": "business/wealth/forbes-by-year",
+      "question": "Top 7 richest people in the world on Forbes' 2000 billionaires list (net worth in March 2000)",
+      "cutoff": 7,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1377092728 | table 13 | name: Name | value: Net worth",
+      "tags": [
+        "business",
+        "wealth",
+        "billionaires",
+        "forbes"
+      ],
+      "answers": [
+        {
+          "answer": "Bill Gates",
+          "display": "$60.0 billion",
+          "aliases": [
+            "Gates"
+          ]
+        },
+        {
+          "answer": "Larry Ellison",
+          "display": "$47.0 billion",
+          "aliases": [
+            "Ellison"
+          ]
+        },
+        {
+          "answer": "Paul Allen",
+          "display": "$28.0 billion",
+          "aliases": [
+            "Allen"
+          ]
+        },
+        {
+          "answer": "Warren Buffett",
+          "display": "$25.6 billion",
+          "aliases": [
+            "Buffett"
+          ]
+        },
+        {
+          "answer": "Karl and Theo Albrecht",
+          "display": "$20.0 billion",
+          "aliases": [
+            "Karl Albrecht",
+            "Theo Albrecht"
+          ]
+        },
+        {
+          "answer": "Prince Alwaleed bin Talal",
+          "display": "$20.0 billion",
+          "aliases": [
+            "Alwaleed",
+            "Al-Waleed bin Talal"
+          ]
+        },
+        {
+          "answer": "Rob Walton",
+          "display": "$20.0 billion",
+          "aliases": [
+            "Robson Walton",
+            "Walton"
+          ]
+        },
+        {
+          "answer": "Masayoshi Son",
+          "display": "$19.4 billion"
+        },
+        {
+          "answer": "Michael Dell",
+          "display": "$19.1 billion",
+          "aliases": [
+            "Dell"
+          ]
+        },
+        {
+          "answer": "Kenneth Thomson",
+          "display": "$16.1 billion",
+          "aliases": [
+            "Thomson"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "business/wealth/forbes-by-year",
+      "question": "Top 7 richest people in the world on Forbes' 2005 billionaires list (net worth in March 2005)",
+      "cutoff": 7,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1377092728 | table 18 | name: Name | value: Net worth",
+      "tags": [
+        "business",
+        "wealth",
+        "billionaires",
+        "forbes"
+      ],
+      "answers": [
+        {
+          "answer": "Bill Gates",
+          "display": "$46.5 billion",
+          "aliases": [
+            "Gates"
+          ]
+        },
+        {
+          "answer": "Warren Buffett",
+          "display": "$44.0 billion",
+          "aliases": [
+            "Buffett"
+          ]
+        },
+        {
+          "answer": "Lakshmi Mittal",
+          "display": "$25.0 billion",
+          "aliases": [
+            "Mittal"
+          ]
+        },
+        {
+          "answer": "Carlos Slim",
+          "display": "$23.8 billion",
+          "aliases": [
+            "Slim",
+            "Carlos Slim Helú"
+          ]
+        },
+        {
+          "answer": "Prince Alwaleed bin Talal",
+          "display": "$23.7 billion",
+          "aliases": [
+            "Alwaleed",
+            "Al-Waleed bin Talal"
+          ]
+        },
+        {
+          "answer": "Ingvar Kamprad",
+          "display": "$23.0 billion",
+          "aliases": [
+            "Kamprad"
+          ]
+        },
+        {
+          "answer": "Paul Allen",
+          "display": "$21.0 billion",
+          "aliases": [
+            "Allen"
+          ]
+        },
+        {
+          "answer": "Karl Albrecht",
+          "display": "$18.5 billion",
+          "aliases": [
+            "Albrecht"
+          ]
+        },
+        {
+          "answer": "Larry Ellison",
+          "display": "$18.4 billion",
+          "aliases": [
+            "Ellison"
+          ]
+        },
+        {
+          "answer": "Rob Walton",
+          "display": "$18.3 billion",
+          "aliases": [
+            "Robson Walton",
+            "Walton"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "business/wealth/forbes-by-year",
+      "question": "Top 7 richest people in the world on Forbes' 2006 billionaires list (net worth in March 2006)",
+      "cutoff": 7,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1377092728 | table 19 | name: Name | value: Net worth",
+      "tags": [
+        "business",
+        "wealth",
+        "billionaires",
+        "forbes"
+      ],
+      "answers": [
+        {
+          "answer": "Bill Gates",
+          "display": "$52.0 billion",
+          "aliases": [
+            "Gates"
+          ]
+        },
+        {
+          "answer": "Warren Buffett",
+          "display": "$42.0 billion",
+          "aliases": [
+            "Buffett"
+          ]
+        },
+        {
+          "answer": "Carlos Slim",
+          "display": "$30.0 billion",
+          "aliases": [
+            "Slim",
+            "Carlos Slim Helú"
+          ]
+        },
+        {
+          "answer": "Ingvar Kamprad",
+          "display": "$28.0 billion",
+          "aliases": [
+            "Kamprad"
+          ]
+        },
+        {
+          "answer": "Lakshmi Mittal",
+          "display": "$23.5 billion",
+          "aliases": [
+            "Mittal"
+          ]
+        },
+        {
+          "answer": "Paul Allen",
+          "display": "$22.0 billion",
+          "aliases": [
+            "Allen"
+          ]
+        },
+        {
+          "answer": "Bernard Arnault",
+          "display": "$21.5 billion",
+          "aliases": [
+            "Arnault"
+          ]
+        },
+        {
+          "answer": "Prince Alwaleed bin Talal",
+          "display": "$20.0 billion",
+          "aliases": [
+            "Alwaleed",
+            "Al-Waleed bin Talal"
+          ]
+        },
+        {
+          "answer": "Kenneth Thomson",
+          "display": "$19.6 billion",
+          "aliases": [
+            "Thomson"
+          ]
+        },
+        {
+          "answer": "Li Ka-shing",
+          "display": "$18.8 billion"
+        }
+      ]
+    },
+    {
+      "category": "business/wealth/forbes-by-year",
+      "question": "Top 7 richest people in the world on Forbes' 2007 billionaires list (net worth in March 2007)",
+      "cutoff": 7,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1377092728 | table 20 | name: Name | value: Net worth",
+      "tags": [
+        "business",
+        "wealth",
+        "billionaires",
+        "forbes"
+      ],
+      "answers": [
+        {
+          "answer": "Bill Gates",
+          "display": "$56.0 billion",
+          "aliases": [
+            "Gates"
+          ]
+        },
+        {
+          "answer": "Warren Buffett",
+          "display": "$52.0 billion",
+          "aliases": [
+            "Buffett"
+          ]
+        },
+        {
+          "answer": "Carlos Slim",
+          "display": "$49.0 billion",
+          "aliases": [
+            "Slim",
+            "Carlos Slim Helú"
+          ]
+        },
+        {
+          "answer": "Ingvar Kamprad",
+          "display": "$33.0 billion",
+          "aliases": [
+            "Kamprad"
+          ]
+        },
+        {
+          "answer": "Lakshmi Mittal",
+          "display": "$32.0 billion",
+          "aliases": [
+            "Mittal"
+          ]
+        },
+        {
+          "answer": "Sheldon Adelson",
+          "display": "$26.5 billion",
+          "aliases": [
+            "Adelson"
+          ]
+        },
+        {
+          "answer": "Bernard Arnault",
+          "display": "$26.0 billion",
+          "aliases": [
+            "Arnault"
+          ]
+        },
+        {
+          "answer": "Amancio Ortega",
+          "display": "$24.0 billion",
+          "aliases": [
+            "Ortega"
+          ]
+        },
+        {
+          "answer": "Li Ka-shing",
+          "display": "$23.0 billion"
+        },
+        {
+          "answer": "David Thomson",
+          "display": "$22.0 billion",
+          "aliases": [
+            "Thomson"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "business/wealth/forbes-by-year",
+      "question": "Top 7 richest people in the world on Forbes' 2008 billionaires list (net worth in March 2008)",
+      "cutoff": 7,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1377092728 | table 21 | name: Name | value: Net worth",
+      "tags": [
+        "business",
+        "wealth",
+        "billionaires",
+        "forbes"
+      ],
+      "answers": [
+        {
+          "answer": "Warren Buffett",
+          "display": "$62.0 billion",
+          "aliases": [
+            "Buffett"
+          ]
+        },
+        {
+          "answer": "Carlos Slim",
+          "display": "$60.0 billion",
+          "aliases": [
+            "Slim",
+            "Carlos Slim Helú"
+          ]
+        },
+        {
+          "answer": "Bill Gates",
+          "display": "$58.0 billion",
+          "aliases": [
+            "Gates"
+          ]
+        },
+        {
+          "answer": "Lakshmi Mittal",
+          "display": "$45.0 billion",
+          "aliases": [
+            "Mittal"
+          ]
+        },
+        {
+          "answer": "Mukesh Ambani",
+          "display": "$43.0 billion"
+        },
+        {
+          "answer": "Anil Ambani",
+          "display": "$42.0 billion"
+        },
+        {
+          "answer": "Ingvar Kamprad",
+          "display": "$31.0 billion",
+          "aliases": [
+            "Kamprad"
+          ]
+        },
+        {
+          "answer": "Kushal Pal Singh",
+          "display": "$30.0 billion"
+        },
+        {
+          "answer": "Oleg Deripaska",
+          "display": "$28.0 billion",
+          "aliases": [
+            "Deripaska"
+          ]
+        },
+        {
+          "answer": "Karl Albrecht",
+          "display": "$27.0 billion",
+          "aliases": [
+            "Albrecht"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "business/wealth/forbes-by-year",
+      "question": "Top 7 richest people in the world on Forbes' 2009 billionaires list (net worth in March 2009)",
+      "cutoff": 7,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1377092728 | table 22 | name: Name | value: Net worth",
+      "tags": [
+        "business",
+        "wealth",
+        "billionaires",
+        "forbes"
+      ],
+      "answers": [
+        {
+          "answer": "Bill Gates",
+          "display": "$40.0 billion",
+          "aliases": [
+            "Gates"
+          ]
+        },
+        {
+          "answer": "Warren Buffett",
+          "display": "$37.0 billion",
+          "aliases": [
+            "Buffett"
+          ]
+        },
+        {
+          "answer": "Carlos Slim",
+          "display": "$35.0 billion",
+          "aliases": [
+            "Slim",
+            "Carlos Slim Helú"
+          ]
+        },
+        {
+          "answer": "Larry Ellison",
+          "display": "$22.5 billion",
+          "aliases": [
+            "Ellison"
+          ]
+        },
+        {
+          "answer": "Ingvar Kamprad",
+          "display": "$22.0 billion",
+          "aliases": [
+            "Kamprad"
+          ]
+        },
+        {
+          "answer": "Karl Albrecht",
+          "display": "$21.5 billion"
+        },
+        {
+          "answer": "Mukesh Ambani",
+          "display": "$19.5 billion",
+          "aliases": [
+            "Ambani"
+          ]
+        },
+        {
+          "answer": "Lakshmi Mittal",
+          "display": "$19.3 billion",
+          "aliases": [
+            "Mittal"
+          ]
+        },
+        {
+          "answer": "Theo Albrecht",
+          "display": "$18.8 billion"
+        },
+        {
+          "answer": "Amancio Ortega",
+          "display": "$18.3 billion",
+          "aliases": [
+            "Ortega"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "business/wealth/forbes-by-year",
+      "question": "Top 7 richest people in the world on Forbes' 2010 billionaires list (net worth in March 2010)",
+      "cutoff": 7,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1377092728 | table 23 | name: Name | value: Net worth",
+      "tags": [
+        "business",
+        "wealth",
+        "billionaires",
+        "forbes"
+      ],
+      "answers": [
+        {
+          "answer": "Carlos Slim",
+          "display": "$53.5 billion",
+          "aliases": [
+            "Slim",
+            "Carlos Slim Helú"
+          ]
+        },
+        {
+          "answer": "Bill Gates",
+          "display": "$53.0 billion",
+          "aliases": [
+            "Gates"
+          ]
+        },
+        {
+          "answer": "Warren Buffett",
+          "display": "$47.0 billion",
+          "aliases": [
+            "Buffett"
+          ]
+        },
+        {
+          "answer": "Mukesh Ambani",
+          "display": "$29.0 billion",
+          "aliases": [
+            "Ambani"
+          ]
+        },
+        {
+          "answer": "Lakshmi Mittal",
+          "display": "$28.7 billion",
+          "aliases": [
+            "Mittal"
+          ]
+        },
+        {
+          "answer": "Larry Ellison",
+          "display": "$28.0 billion",
+          "aliases": [
+            "Ellison"
+          ]
+        },
+        {
+          "answer": "Bernard Arnault",
+          "display": "$27.5 billion",
+          "aliases": [
+            "Arnault"
+          ]
+        },
+        {
+          "answer": "Eike Batista",
+          "display": "$27.0 billion",
+          "aliases": [
+            "Batista"
+          ]
+        },
+        {
+          "answer": "Amancio Ortega",
+          "display": "$25.0 billion",
+          "aliases": [
+            "Ortega"
+          ]
+        },
+        {
+          "answer": "Karl Albrecht",
+          "display": "$23.5 billion",
+          "aliases": [
+            "Albrecht"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "business/wealth/forbes-by-year",
+      "question": "Top 7 richest people in the world on Forbes' 2011 billionaires list (net worth in March 2011)",
+      "cutoff": 7,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1377092728 | table 24 | name: Name | value: Net worth",
+      "tags": [
+        "business",
+        "wealth",
+        "billionaires",
+        "forbes"
+      ],
+      "answers": [
+        {
+          "answer": "Carlos Slim",
+          "display": "$74.0 billion",
+          "aliases": [
+            "Slim",
+            "Carlos Slim Helú"
+          ]
+        },
+        {
+          "answer": "Bill Gates",
+          "display": "$56.0 billion",
+          "aliases": [
+            "Gates"
+          ]
+        },
+        {
+          "answer": "Warren Buffett",
+          "display": "$50.0 billion",
+          "aliases": [
+            "Buffett"
+          ]
+        },
+        {
+          "answer": "Bernard Arnault",
+          "display": "$41.0 billion",
+          "aliases": [
+            "Arnault"
+          ]
+        },
+        {
+          "answer": "Larry Ellison",
+          "display": "$39.5 billion",
+          "aliases": [
+            "Ellison"
+          ]
+        },
+        {
+          "answer": "Lakshmi Mittal",
+          "display": "$31.1 billion",
+          "aliases": [
+            "Mittal"
+          ]
+        },
+        {
+          "answer": "Amancio Ortega",
+          "display": "$31.0 billion",
+          "aliases": [
+            "Ortega"
+          ]
+        },
+        {
+          "answer": "Eike Batista",
+          "display": "$30.0 billion",
+          "aliases": [
+            "Batista"
+          ]
+        },
+        {
+          "answer": "Mukesh Ambani",
+          "display": "$27.0 billion",
+          "aliases": [
+            "Ambani"
+          ]
+        },
+        {
+          "answer": "Christy Walton",
+          "display": "$26.5 billion",
+          "aliases": [
+            "Walton"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "business/wealth/forbes-by-year",
+      "question": "Top 7 richest people in the world on Forbes' 2012 billionaires list (net worth in March 2012)",
+      "cutoff": 7,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1377092728 | table 25 | name: Name | value: Net worth",
+      "tags": [
+        "business",
+        "wealth",
+        "billionaires",
+        "forbes"
+      ],
+      "answers": [
+        {
+          "answer": "Carlos Slim",
+          "display": "$69.0 billion",
+          "aliases": [
+            "Slim",
+            "Carlos Slim Helú"
+          ]
+        },
+        {
+          "answer": "Bill Gates",
+          "display": "$61.0 billion",
+          "aliases": [
+            "Gates"
+          ]
+        },
+        {
+          "answer": "Warren Buffett",
+          "display": "$44.0 billion",
+          "aliases": [
+            "Buffett"
+          ]
+        },
+        {
+          "answer": "Bernard Arnault",
+          "display": "$41.0 billion",
+          "aliases": [
+            "Arnault"
+          ]
+        },
+        {
+          "answer": "Amancio Ortega",
+          "display": "$37.5 billion",
+          "aliases": [
+            "Ortega"
+          ]
+        },
+        {
+          "answer": "Larry Ellison",
+          "display": "$36.0 billion",
+          "aliases": [
+            "Ellison"
+          ]
+        },
+        {
+          "answer": "Eike Batista",
+          "display": "$30.0 billion",
+          "aliases": [
+            "Batista"
+          ]
+        },
+        {
+          "answer": "Stefan Persson",
+          "display": "$26.0 billion",
+          "aliases": [
+            "Persson"
+          ]
+        },
+        {
+          "answer": "Li Ka-shing",
+          "display": "$25.5 billion"
+        },
+        {
+          "answer": "Karl Albrecht",
+          "display": "$25.4 billion",
+          "aliases": [
+            "Albrecht"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "business/wealth/forbes-by-year",
+      "question": "Top 7 richest people in the world on Forbes' 2013 billionaires list (net worth in March 2013)",
+      "cutoff": 7,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1377092728 | table 26 | name: Name | value: Net worth",
+      "tags": [
+        "business",
+        "wealth",
+        "billionaires",
+        "forbes"
+      ],
+      "answers": [
+        {
+          "answer": "Carlos Slim",
+          "display": "$73.0 billion",
+          "aliases": [
+            "Slim",
+            "Carlos Slim Helú"
+          ]
+        },
+        {
+          "answer": "Bill Gates",
+          "display": "$67.0 billion",
+          "aliases": [
+            "Gates"
+          ]
+        },
+        {
+          "answer": "Amancio Ortega",
+          "display": "$57.0 billion",
+          "aliases": [
+            "Ortega"
+          ]
+        },
+        {
+          "answer": "Warren Buffett",
+          "display": "$53.5 billion",
+          "aliases": [
+            "Buffett"
+          ]
+        },
+        {
+          "answer": "Larry Ellison",
+          "display": "$43.0 billion",
+          "aliases": [
+            "Ellison"
+          ]
+        },
+        {
+          "answer": "Charles Koch",
+          "display": "$34.0 billion"
+        },
+        {
+          "answer": "David Koch",
+          "display": "$34.0 billion"
+        },
+        {
+          "answer": "Li Ka-shing",
+          "display": "$31.0 billion"
+        },
+        {
+          "answer": "Liliane Bettencourt",
+          "display": "$30.0 billion",
+          "aliases": [
+            "Bettencourt"
+          ]
+        },
+        {
+          "answer": "Bernard Arnault",
+          "display": "$29.0 billion",
+          "aliases": [
+            "Arnault"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "business/wealth/forbes-by-year",
+      "question": "Top 7 richest people in the world on Forbes' 2016 billionaires list (net worth in March 2016)",
+      "cutoff": 7,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1377092728 | table 29 | name: Name | value: Net worth",
+      "tags": [
+        "business",
+        "wealth",
+        "billionaires",
+        "forbes"
+      ],
+      "answers": [
+        {
+          "answer": "Bill Gates",
+          "display": "$75.0 billion",
+          "aliases": [
+            "Gates"
+          ]
+        },
+        {
+          "answer": "Amancio Ortega",
+          "display": "$67.0 billion",
+          "aliases": [
+            "Ortega"
+          ]
+        },
+        {
+          "answer": "Warren Buffett",
+          "display": "$60.8 billion",
+          "aliases": [
+            "Buffett"
+          ]
+        },
+        {
+          "answer": "Carlos Slim",
+          "display": "$50.0 billion",
+          "aliases": [
+            "Slim",
+            "Carlos Slim Helú"
+          ]
+        },
+        {
+          "answer": "Jeff Bezos",
+          "display": "$45.2 billion",
+          "aliases": [
+            "Bezos"
+          ]
+        },
+        {
+          "answer": "Mark Zuckerberg",
+          "display": "$44.6 billion",
+          "aliases": [
+            "Zuckerberg"
+          ]
+        },
+        {
+          "answer": "Larry Ellison",
+          "display": "$43.6 billion",
+          "aliases": [
+            "Ellison"
+          ]
+        },
+        {
+          "answer": "Michael Bloomberg",
+          "display": "$40.0 billion",
+          "aliases": [
+            "Bloomberg"
+          ]
+        },
+        {
+          "answer": "Charles Koch",
+          "display": "$39.6 billion"
+        },
+        {
+          "answer": "David Koch",
+          "display": "$39.6 billion"
+        }
+      ]
+    },
+    {
+      "category": "business/wealth/forbes-by-year",
+      "question": "Top 7 richest people in the world on Forbes' 2018 billionaires list (net worth in March 2018)",
+      "cutoff": 7,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1377092728 | table 31 | name: Name | value: Net worth",
+      "tags": [
+        "business",
+        "wealth",
+        "billionaires",
+        "forbes"
+      ],
+      "answers": [
+        {
+          "answer": "Jeff Bezos",
+          "display": "$112 billion",
+          "aliases": [
+            "Bezos"
+          ]
+        },
+        {
+          "answer": "Bill Gates",
+          "display": "$90 billion",
+          "aliases": [
+            "Gates"
+          ]
+        },
+        {
+          "answer": "Warren Buffett",
+          "display": "$84 billion",
+          "aliases": [
+            "Buffett"
+          ]
+        },
+        {
+          "answer": "Bernard Arnault",
+          "display": "$72 billion",
+          "aliases": [
+            "Arnault"
+          ]
+        },
+        {
+          "answer": "Mark Zuckerberg",
+          "display": "$71 billion",
+          "aliases": [
+            "Zuckerberg"
+          ]
+        },
+        {
+          "answer": "Amancio Ortega",
+          "display": "$70 billion",
+          "aliases": [
+            "Ortega"
+          ]
+        },
+        {
+          "answer": "Carlos Slim",
+          "display": "$67.1 billion",
+          "aliases": [
+            "Slim",
+            "Carlos Slim Helú"
+          ]
+        },
+        {
+          "answer": "Charles Koch",
+          "display": "$60 billion"
+        },
+        {
+          "answer": "David Koch",
+          "display": "$60 billion"
+        },
+        {
+          "answer": "Larry Ellison",
+          "display": "$58.5 billion",
+          "aliases": [
+            "Ellison"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "business/wealth/forbes-by-year",
+      "question": "Top 7 richest people in the world on Forbes' 2019 billionaires list (net worth in March 2019)",
+      "cutoff": 7,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1377092728 | table 32 | name: Name | value: Net worth",
+      "tags": [
+        "business",
+        "wealth",
+        "billionaires",
+        "forbes"
+      ],
+      "answers": [
+        {
+          "answer": "Jeff Bezos",
+          "display": "$131 billion",
+          "aliases": [
+            "Bezos"
+          ]
+        },
+        {
+          "answer": "Bill Gates",
+          "display": "$96.5 billion",
+          "aliases": [
+            "Gates"
+          ]
+        },
+        {
+          "answer": "Warren Buffett",
+          "display": "$82.5 billion",
+          "aliases": [
+            "Buffett"
+          ]
+        },
+        {
+          "answer": "Bernard Arnault",
+          "display": "$76 billion",
+          "aliases": [
+            "Arnault"
+          ]
+        },
+        {
+          "answer": "Carlos Slim",
+          "display": "$64 billion",
+          "aliases": [
+            "Slim",
+            "Carlos Slim Helú"
+          ]
+        },
+        {
+          "answer": "Amancio Ortega",
+          "display": "$62.7 billion",
+          "aliases": [
+            "Ortega"
+          ]
+        },
+        {
+          "answer": "Larry Ellison",
+          "display": "$62.5 billion",
+          "aliases": [
+            "Ellison"
+          ]
+        },
+        {
+          "answer": "Mark Zuckerberg",
+          "display": "$62.3 billion",
+          "aliases": [
+            "Zuckerberg"
+          ]
+        },
+        {
+          "answer": "Michael Bloomberg",
+          "display": "$55.5 billion",
+          "aliases": [
+            "Bloomberg"
+          ]
+        },
+        {
+          "answer": "Larry Page",
+          "display": "$50.8 billion",
+          "aliases": [
+            "Page"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "business/wealth/forbes-by-year",
+      "question": "Top 7 richest people in the world on Forbes' 2021 billionaires list (net worth in March 2021)",
+      "cutoff": 7,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1377092728 | table 34 | name: Name | value: Net worth",
+      "tags": [
+        "business",
+        "wealth",
+        "billionaires",
+        "forbes"
+      ],
+      "answers": [
+        {
+          "answer": "Jeff Bezos",
+          "display": "$177 billion",
+          "aliases": [
+            "Bezos"
+          ]
+        },
+        {
+          "answer": "Elon Musk",
+          "display": "$151 billion",
+          "aliases": [
+            "Musk"
+          ]
+        },
+        {
+          "answer": "Bernard Arnault",
+          "display": "$150 billion",
+          "aliases": [
+            "Arnault"
+          ]
+        },
+        {
+          "answer": "Bill Gates",
+          "display": "$124 billion",
+          "aliases": [
+            "Gates"
+          ]
+        },
+        {
+          "answer": "Mark Zuckerberg",
+          "display": "$97 billion",
+          "aliases": [
+            "Zuckerberg"
+          ]
+        },
+        {
+          "answer": "Warren Buffett",
+          "display": "$96 billion",
+          "aliases": [
+            "Buffett"
+          ]
+        },
+        {
+          "answer": "Larry Ellison",
+          "display": "$93 billion",
+          "aliases": [
+            "Ellison"
+          ]
+        },
+        {
+          "answer": "Larry Page",
+          "display": "$91.5 billion",
+          "aliases": [
+            "Page"
+          ]
+        },
+        {
+          "answer": "Sergey Brin",
+          "display": "$89 billion",
+          "aliases": [
+            "Brin"
+          ]
+        },
+        {
+          "answer": "Mukesh Ambani",
+          "display": "$84.5 billion",
+          "aliases": [
+            "Ambani"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "business/wealth/forbes-by-year",
+      "question": "Top 7 richest people in the world on Forbes' 2022 billionaires list (net worth in March 2022)",
+      "cutoff": 7,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1377092728 | table 35 | name: Name | value: Net worth",
+      "tags": [
+        "business",
+        "wealth",
+        "billionaires",
+        "forbes"
+      ],
+      "answers": [
+        {
+          "answer": "Elon Musk",
+          "display": "$219 billion",
+          "aliases": [
+            "Musk"
+          ]
+        },
+        {
+          "answer": "Jeff Bezos",
+          "display": "$177 billion",
+          "aliases": [
+            "Bezos"
+          ]
+        },
+        {
+          "answer": "Bernard Arnault",
+          "display": "$158 billion",
+          "aliases": [
+            "Arnault"
+          ]
+        },
+        {
+          "answer": "Bill Gates",
+          "display": "$129 billion",
+          "aliases": [
+            "Gates"
+          ]
+        },
+        {
+          "answer": "Warren Buffett",
+          "display": "$118 billion",
+          "aliases": [
+            "Buffett"
+          ]
+        },
+        {
+          "answer": "Larry Page",
+          "display": "$111 billion",
+          "aliases": [
+            "Page"
+          ]
+        },
+        {
+          "answer": "Sergey Brin",
+          "display": "$107 billion",
+          "aliases": [
+            "Brin"
+          ]
+        },
+        {
+          "answer": "Larry Ellison",
+          "display": "$106 billion",
+          "aliases": [
+            "Ellison"
+          ]
+        },
+        {
+          "answer": "Steve Ballmer",
+          "display": "$91.4 billion",
+          "aliases": [
+            "Ballmer"
+          ]
+        },
+        {
+          "answer": "Mukesh Ambani",
+          "display": "$90.7 billion",
+          "aliases": [
+            "Ambani"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "business/wealth/forbes-by-year",
+      "question": "Top 7 richest people in the world on Forbes' 2023 billionaires list (net worth in March 2023)",
+      "cutoff": 7,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1377092728 | table 36 | name: Name | value: Net worth",
+      "tags": [
+        "business",
+        "wealth",
+        "billionaires",
+        "forbes"
+      ],
+      "answers": [
+        {
+          "answer": "Bernard Arnault",
+          "display": "$211 billion",
+          "aliases": [
+            "Arnault"
+          ]
+        },
+        {
+          "answer": "Elon Musk",
+          "display": "$180 billion",
+          "aliases": [
+            "Musk"
+          ]
+        },
+        {
+          "answer": "Jeff Bezos",
+          "display": "$114 billion",
+          "aliases": [
+            "Bezos"
+          ]
+        },
+        {
+          "answer": "Larry Ellison",
+          "display": "$107 billion",
+          "aliases": [
+            "Ellison"
+          ]
+        },
+        {
+          "answer": "Warren Buffett",
+          "display": "$106 billion",
+          "aliases": [
+            "Buffett"
+          ]
+        },
+        {
+          "answer": "Bill Gates",
+          "display": "$104 billion",
+          "aliases": [
+            "Gates"
+          ]
+        },
+        {
+          "answer": "Michael Bloomberg",
+          "display": "$94.5 billion",
+          "aliases": [
+            "Bloomberg"
+          ]
+        },
+        {
+          "answer": "Carlos Slim",
+          "display": "$93 billion",
+          "aliases": [
+            "Slim",
+            "Carlos Slim Helú"
+          ]
+        },
+        {
+          "answer": "Mukesh Ambani",
+          "display": "$83.4 billion",
+          "aliases": [
+            "Ambani"
+          ]
+        },
+        {
+          "answer": "Steve Ballmer",
+          "display": "$80.7 billion",
+          "aliases": [
+            "Ballmer"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "business/wealth/forbes-by-year",
+      "question": "Top 7 richest people in the world on Forbes' 2024 billionaires list (net worth in March 2024)",
+      "cutoff": 7,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1377092728 | table 37 | name: Name | value: Net worth",
+      "tags": [
+        "business",
+        "wealth",
+        "billionaires",
+        "forbes"
+      ],
+      "answers": [
+        {
+          "answer": "Bernard Arnault",
+          "display": "$233 billion",
+          "aliases": [
+            "Arnault"
+          ]
+        },
+        {
+          "answer": "Elon Musk",
+          "display": "$195 billion",
+          "aliases": [
+            "Musk"
+          ]
+        },
+        {
+          "answer": "Jeff Bezos",
+          "display": "$194 billion",
+          "aliases": [
+            "Bezos"
+          ]
+        },
+        {
+          "answer": "Mark Zuckerberg",
+          "display": "$177 billion",
+          "aliases": [
+            "Zuckerberg"
+          ]
+        },
+        {
+          "answer": "Larry Ellison",
+          "display": "$141 billion",
+          "aliases": [
+            "Ellison"
+          ]
+        },
+        {
+          "answer": "Warren Buffett",
+          "display": "$133 billion",
+          "aliases": [
+            "Buffett"
+          ]
+        },
+        {
+          "answer": "Bill Gates",
+          "display": "$128 billion",
+          "aliases": [
+            "Gates"
+          ]
+        },
+        {
+          "answer": "Steve Ballmer",
+          "display": "$121 billion",
+          "aliases": [
+            "Ballmer"
+          ]
+        },
+        {
+          "answer": "Mukesh Ambani",
+          "display": "$116 billion",
+          "aliases": [
+            "Ambani"
+          ]
+        },
+        {
+          "answer": "Larry Page",
+          "display": "$114 billion",
+          "aliases": [
+            "Page"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "business/wealth/forbes-by-year",
+      "question": "Top 7 richest people in the world on Forbes' 2025 billionaires list (net worth in March 2025)",
+      "cutoff": 7,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1377092728 | table 38 | name: Name | value: Net worth",
+      "tags": [
+        "business",
+        "wealth",
+        "billionaires",
+        "forbes"
+      ],
+      "answers": [
+        {
+          "answer": "Elon Musk",
+          "display": "$342 billion",
+          "aliases": [
+            "Musk"
+          ]
+        },
+        {
+          "answer": "Mark Zuckerberg",
+          "display": "$216 billion",
+          "aliases": [
+            "Zuckerberg"
+          ]
+        },
+        {
+          "answer": "Jeff Bezos",
+          "display": "$215 billion",
+          "aliases": [
+            "Bezos"
+          ]
+        },
+        {
+          "answer": "Larry Ellison",
+          "display": "$192 billion",
+          "aliases": [
+            "Ellison"
+          ]
+        },
+        {
+          "answer": "Bernard Arnault",
+          "display": "$178 billion",
+          "aliases": [
+            "Arnault"
+          ]
+        },
+        {
+          "answer": "Warren Buffett",
+          "display": "$154 billion",
+          "aliases": [
+            "Buffett"
+          ]
+        },
+        {
+          "answer": "Larry Page",
+          "display": "$144 billion",
+          "aliases": [
+            "Page"
+          ]
+        },
+        {
+          "answer": "Sergey Brin",
+          "display": "$138 billion",
+          "aliases": [
+            "Brin"
+          ]
+        },
+        {
+          "answer": "Amancio Ortega",
+          "display": "$124 billion",
+          "aliases": [
+            "Ortega"
+          ]
+        },
+        {
+          "answer": "Steve Ballmer",
+          "display": "$118 billion",
+          "aliases": [
+            "Ballmer"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "business/wealth/forbes-by-year",
+      "question": "Top 7 richest people in the world on Forbes' 2026 billionaires list (net worth in March 2026)",
+      "cutoff": 7,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1377092728 | table 39 | name: Name | value: Net worth",
+      "tags": [
+        "business",
+        "wealth",
+        "billionaires",
+        "forbes"
+      ],
+      "answers": [
+        {
+          "answer": "Elon Musk",
+          "display": "$839 billion",
+          "aliases": [
+            "Musk"
+          ]
+        },
+        {
+          "answer": "Larry Page",
+          "display": "$257 billion",
+          "aliases": [
+            "Page"
+          ]
+        },
+        {
+          "answer": "Sergey Brin",
+          "display": "$237 billion",
+          "aliases": [
+            "Brin"
+          ]
+        },
+        {
+          "answer": "Jeff Bezos",
+          "display": "$224 billion",
+          "aliases": [
+            "Bezos"
+          ]
+        },
+        {
+          "answer": "Mark Zuckerberg",
+          "display": "$222 billion",
+          "aliases": [
+            "Zuckerberg"
+          ]
+        },
+        {
+          "answer": "Larry Ellison",
+          "display": "$190 billion",
+          "aliases": [
+            "Ellison"
+          ]
+        },
+        {
+          "answer": "Bernard Arnault",
+          "display": "$171 billion",
+          "aliases": [
+            "Arnault"
+          ]
+        },
+        {
+          "answer": "Jensen Huang",
+          "display": "$154 billion",
+          "aliases": [
+            "Huang"
+          ]
+        },
+        {
+          "answer": "Warren Buffett",
+          "display": "$149 billion",
+          "aliases": [
+            "Buffett"
+          ]
+        },
+        {
+          "answer": "Amancio Ortega",
+          "display": "$148 billion",
+          "aliases": [
+            "Ortega"
+          ]
+        }
+      ]
+    }
+  ]
+}

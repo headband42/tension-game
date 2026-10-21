@@ -1,0 +1,738 @@
+{
+  "categories": [
+    {
+      "path": "history/nobel-prizes",
+      "name": "Nobel Prizes"
+    },
+    {
+      "path": "music/awards",
+      "name": "Music Awards"
+    }
+  ],
+  "questions": [
+    {
+      "category": "history/nobel-prizes",
+      "question": "Top 10 countries by number of Nobel Prize laureates, all categories (as of 2026)",
+      "cutoff": 10,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1379700672 | table 1 | name: Country | value: laureates | note: Russia includes USSR laureates",
+      "tags": [
+        "awards",
+        "nobel",
+        "countries"
+      ],
+      "answers": [
+        {
+          "answer": "United States",
+          "display": "427 laureates",
+          "aliases": [
+            "USA"
+          ]
+        },
+        {
+          "answer": "United Kingdom",
+          "display": "144 laureates",
+          "aliases": [
+            "UK",
+            "Britain"
+          ]
+        },
+        {
+          "answer": "Germany",
+          "display": "116 laureates"
+        },
+        {
+          "answer": "France",
+          "display": "79 laureates"
+        },
+        {
+          "answer": "Japan",
+          "display": "34 laureates"
+        },
+        {
+          "answer": "Sweden",
+          "display": "34 laureates"
+        },
+        {
+          "answer": "Russia",
+          "display": "30 laureates",
+          "aliases": [
+            "USSR",
+            "Soviet Union"
+          ]
+        },
+        {
+          "answer": "Canada",
+          "display": "30 laureates"
+        },
+        {
+          "answer": "Switzerland",
+          "display": "27 laureates"
+        },
+        {
+          "answer": "Austria",
+          "display": "25 laureates"
+        },
+        {
+          "answer": "Netherlands",
+          "display": "22 laureates",
+          "aliases": [
+            "Holland"
+          ]
+        },
+        {
+          "answer": "Italy",
+          "display": "21 laureates"
+        },
+        {
+          "answer": "Poland",
+          "display": "19 laureates"
+        },
+        {
+          "answer": "Hungary",
+          "display": "16 laureates"
+        },
+        {
+          "answer": "Australia",
+          "display": "15 laureates"
+        }
+      ]
+    },
+    {
+      "category": "history/nobel-prizes",
+      "question": "Top 10 universities with \"University\" in their name, by number of Nobel laureates affiliated (as of 2026)",
+      "cutoff": 10,
+      "difficulty": 3,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1379232439 | table 1 | name: University | value: laureates | where: University~University",
+      "tags": [
+        "awards",
+        "nobel",
+        "universities",
+        "twist"
+      ],
+      "answers": [
+        {
+          "answer": "Harvard University",
+          "display": "31 laureates",
+          "aliases": [
+            "Harvard"
+          ]
+        },
+        {
+          "answer": "University of California, Berkeley",
+          "display": "23 laureates",
+          "aliases": [
+            "UC Berkeley",
+            "Berkeley"
+          ]
+        },
+        {
+          "answer": "Stanford University",
+          "display": "23 laureates",
+          "aliases": [
+            "Stanford"
+          ]
+        },
+        {
+          "answer": "University of Chicago",
+          "display": "21 laureates",
+          "aliases": [
+            "Chicago"
+          ]
+        },
+        {
+          "answer": "University of Cambridge",
+          "display": "20 laureates",
+          "aliases": [
+            "Cambridge"
+          ]
+        },
+        {
+          "answer": "Rockefeller University",
+          "display": "19 laureates",
+          "aliases": [
+            "Rockefeller"
+          ]
+        },
+        {
+          "answer": "Columbia University",
+          "display": "18 laureates",
+          "aliases": [
+            "Columbia"
+          ]
+        },
+        {
+          "answer": "Princeton University",
+          "display": "18 laureates",
+          "aliases": [
+            "Princeton"
+          ]
+        },
+        {
+          "answer": "University of Oxford",
+          "display": "12 laureates",
+          "aliases": [
+            "Oxford"
+          ]
+        },
+        {
+          "answer": "Yale University",
+          "display": "9 laureates",
+          "aliases": [
+            "Yale"
+          ]
+        },
+        {
+          "answer": "Cornell University",
+          "display": "8 laureates",
+          "aliases": [
+            "Cornell"
+          ]
+        },
+        {
+          "answer": "Heidelberg University",
+          "display": "7 laureates",
+          "aliases": [
+            "Heidelberg"
+          ]
+        },
+        {
+          "answer": "Humboldt University of Berlin",
+          "display": "7 laureates",
+          "aliases": [
+            "Humboldt"
+          ]
+        },
+        {
+          "answer": "University of California, Santa Barbara",
+          "display": "7 laureates",
+          "aliases": [
+            "UC Santa Barbara",
+            "UCSB"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "history/nobel-prizes",
+      "question": "Top 8 countries by number of Nobel Prize in Chemistry laureates (as of 2026)",
+      "cutoff": 8,
+      "difficulty": 3,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1379686611 | table 2 | name: Country | value: laureates",
+      "tags": [
+        "awards",
+        "nobel",
+        "chemistry",
+        "countries"
+      ],
+      "answers": [
+        {
+          "answer": "United States",
+          "display": "82 laureates",
+          "aliases": [
+            "USA"
+          ]
+        },
+        {
+          "answer": "United Kingdom",
+          "display": "36 laureates",
+          "aliases": [
+            "UK",
+            "Britain"
+          ]
+        },
+        {
+          "answer": "Germany",
+          "display": "32 laureates"
+        },
+        {
+          "answer": "France",
+          "display": "13 laureates"
+        },
+        {
+          "answer": "Japan",
+          "display": "11 laureates"
+        },
+        {
+          "answer": "Switzerland",
+          "display": "7 laureates"
+        },
+        {
+          "answer": "Canada",
+          "display": "7 laureates"
+        },
+        {
+          "answer": "Israel",
+          "display": "6 laureates"
+        },
+        {
+          "answer": "Sweden",
+          "display": "5 laureates"
+        },
+        {
+          "answer": "Netherlands",
+          "display": "4 laureates",
+          "aliases": [
+            "Holland"
+          ]
+        },
+        {
+          "answer": "Austria",
+          "display": "4 laureates"
+        }
+      ]
+    },
+    {
+      "category": "history/nobel-prizes",
+      "question": "Top 9 countries by number of Nobel Prize in Literature laureates (as of 2026)",
+      "cutoff": 9,
+      "difficulty": 3,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1379551731 | table 2 | name: Country | value: Number | note: Russia includes USSR laureates",
+      "tags": [
+        "awards",
+        "nobel",
+        "literature",
+        "countries"
+      ],
+      "answers": [
+        {
+          "answer": "France",
+          "display": "16 laureates"
+        },
+        {
+          "answer": "United Kingdom",
+          "display": "13 laureates",
+          "aliases": [
+            "UK",
+            "Britain"
+          ]
+        },
+        {
+          "answer": "United States",
+          "display": "12 laureates",
+          "aliases": [
+            "USA"
+          ]
+        },
+        {
+          "answer": "Germany",
+          "display": "9 laureates"
+        },
+        {
+          "answer": "Sweden",
+          "display": "8 laureates"
+        },
+        {
+          "answer": "Poland",
+          "display": "6 laureates"
+        },
+        {
+          "answer": "Spain",
+          "display": "6 laureates"
+        },
+        {
+          "answer": "Italy",
+          "display": "6 laureates"
+        },
+        {
+          "answer": "Russia",
+          "display": "5 laureates",
+          "aliases": [
+            "USSR",
+            "Soviet Union"
+          ]
+        },
+        {
+          "answer": "Ireland",
+          "display": "4 laureates"
+        },
+        {
+          "answer": "Norway",
+          "display": "4 laureates"
+        },
+        {
+          "answer": "Canada",
+          "display": "3 laureates"
+        },
+        {
+          "answer": "Denmark",
+          "display": "3 laureates"
+        }
+      ]
+    },
+    {
+      "category": "history/nobel-prizes",
+      "question": "Top 10 languages by number of Nobel Prize in Literature laureates who wrote in them (as of 2026)",
+      "cutoff": 10,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1379551731 | table 3 | name: Language | value: Number",
+      "tags": [
+        "awards",
+        "nobel",
+        "literature",
+        "languages"
+      ],
+      "answers": [
+        {
+          "answer": "English",
+          "display": "29 laureates"
+        },
+        {
+          "answer": "French",
+          "display": "16 laureates"
+        },
+        {
+          "answer": "German",
+          "display": "14 laureates"
+        },
+        {
+          "answer": "Spanish",
+          "display": "11 laureates"
+        },
+        {
+          "answer": "Swedish",
+          "display": "7 laureates"
+        },
+        {
+          "answer": "Italian",
+          "display": "6 laureates"
+        },
+        {
+          "answer": "Russian",
+          "display": "6 laureates"
+        },
+        {
+          "answer": "Polish",
+          "display": "5 laureates"
+        },
+        {
+          "answer": "Norwegian",
+          "display": "4 laureates"
+        },
+        {
+          "answer": "Danish",
+          "display": "3 laureates"
+        },
+        {
+          "answer": "Chinese",
+          "display": "2 laureates"
+        },
+        {
+          "answer": "Greek",
+          "display": "2 laureates"
+        },
+        {
+          "answer": "Hungarian",
+          "display": "2 laureates"
+        },
+        {
+          "answer": "Japanese",
+          "display": "2 laureates"
+        }
+      ]
+    },
+    {
+      "category": "music/awards",
+      "question": "Top 8 people by number of Grammy Awards won (as of 2026)",
+      "cutoff": 8,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1379100076 | table 1 | name: Artist | value: Awards",
+      "tags": [
+        "awards",
+        "grammy",
+        "music"
+      ],
+      "answers": [
+        {
+          "answer": "Beyoncé",
+          "display": "35 Grammys",
+          "aliases": [
+            "Beyonce"
+          ]
+        },
+        {
+          "answer": "Georg Solti",
+          "display": "31 Grammys",
+          "aliases": [
+            "Sir Georg Solti",
+            "Solti"
+          ]
+        },
+        {
+          "answer": "Chick Corea",
+          "display": "29 Grammys",
+          "aliases": [
+            "Corea"
+          ]
+        },
+        {
+          "answer": "Quincy Jones",
+          "display": "28 Grammys"
+        },
+        {
+          "answer": "Alison Krauss",
+          "display": "27 Grammys",
+          "aliases": [
+            "Krauss"
+          ]
+        },
+        {
+          "answer": "Kendrick Lamar",
+          "display": "27 Grammys",
+          "aliases": [
+            "Kendrick"
+          ]
+        },
+        {
+          "answer": "John Williams",
+          "display": "27 Grammys"
+        },
+        {
+          "answer": "Pierre Boulez",
+          "display": "26 Grammys",
+          "aliases": [
+            "Boulez"
+          ]
+        },
+        {
+          "answer": "Vladimir Horowitz",
+          "display": "25 Grammys",
+          "aliases": [
+            "Horowitz"
+          ]
+        },
+        {
+          "answer": "Stevie Wonder",
+          "display": "25 Grammys",
+          "aliases": [
+            "Wonder"
+          ]
+        },
+        {
+          "answer": "David Frost",
+          "display": "25 Grammys"
+        },
+        {
+          "answer": "Jay-Z",
+          "display": "25 Grammys",
+          "aliases": [
+            "Jay Z",
+            "Shawn Carter"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "music/awards",
+      "question": "Top 10 artists by number of MTV Video Music Award nominations (all-time, as of 2026)",
+      "cutoff": 10,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1378802562 | table 8 | name: Artist | value: Number of nominations",
+      "tags": [
+        "awards",
+        "mtv",
+        "music",
+        "vma"
+      ],
+      "answers": [
+        {
+          "answer": "Beyoncé",
+          "display": "85 nominations",
+          "aliases": [
+            "Beyonce"
+          ]
+        },
+        {
+          "answer": "Madonna",
+          "display": "84 nominations"
+        },
+        {
+          "answer": "Taylor Swift",
+          "display": "82 nominations",
+          "aliases": [
+            "Swift"
+          ]
+        },
+        {
+          "answer": "Eminem",
+          "display": "69 nominations"
+        },
+        {
+          "answer": "Ariana Grande",
+          "display": "65 nominations",
+          "aliases": [
+            "Ariana"
+          ]
+        },
+        {
+          "answer": "Drake",
+          "display": "55 nominations"
+        },
+        {
+          "answer": "Lady Gaga",
+          "display": "54 nominations",
+          "aliases": [
+            "Gaga"
+          ]
+        },
+        {
+          "answer": "Kendrick Lamar",
+          "display": "42 nominations",
+          "aliases": [
+            "Kendrick"
+          ]
+        },
+        {
+          "answer": "Justin Bieber",
+          "display": "40 nominations",
+          "aliases": [
+            "Bieber"
+          ]
+        },
+        {
+          "answer": "Bruno Mars",
+          "display": "40 nominations",
+          "aliases": [
+            "Bruno"
+          ]
+        },
+        {
+          "answer": "Billie Eilish",
+          "display": "39 nominations",
+          "aliases": [
+            "Billie"
+          ]
+        },
+        {
+          "answer": "Janet Jackson",
+          "display": "38 nominations",
+          "aliases": [
+            "Janet"
+          ]
+        },
+        {
+          "answer": "U2",
+          "display": "38 nominations"
+        },
+        {
+          "answer": "Kanye West",
+          "display": "37 nominations",
+          "aliases": [
+            "Kanye"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "music/awards",
+      "question": "Top 9 artists by number of American Music Awards won (all-time, as of 2026)",
+      "cutoff": 9,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1368554359 | table 2 | name: Artist | value: Number of awards",
+      "tags": [
+        "awards",
+        "ama",
+        "music"
+      ],
+      "answers": [
+        {
+          "answer": "Taylor Swift",
+          "display": "40 awards",
+          "aliases": [
+            "Swift"
+          ]
+        },
+        {
+          "answer": "Michael Jackson",
+          "display": "26 awards",
+          "aliases": [
+            "MJ"
+          ]
+        },
+        {
+          "answer": "Whitney Houston",
+          "display": "22 awards",
+          "aliases": [
+            "Whitney"
+          ]
+        },
+        {
+          "answer": "Kenny Rogers",
+          "display": "19 awards",
+          "aliases": [
+            "Rogers"
+          ]
+        },
+        {
+          "answer": "Justin Bieber",
+          "display": "19 awards",
+          "aliases": [
+            "Bieber"
+          ]
+        },
+        {
+          "answer": "Alabama",
+          "display": "18 awards"
+        },
+        {
+          "answer": "Carrie Underwood",
+          "display": "17 awards",
+          "aliases": [
+            "Underwood"
+          ]
+        },
+        {
+          "answer": "Garth Brooks",
+          "display": "17 awards",
+          "aliases": [
+            "Garth"
+          ]
+        },
+        {
+          "answer": "Bruno Mars",
+          "display": "17 awards",
+          "aliases": [
+            "Bruno"
+          ]
+        },
+        {
+          "answer": "Reba McEntire",
+          "display": "14 awards",
+          "aliases": [
+            "Reba"
+          ]
+        },
+        {
+          "answer": "BTS",
+          "display": "14 awards"
+        },
+        {
+          "answer": "Rihanna",
+          "display": "13 awards"
+        },
+        {
+          "answer": "Janet Jackson",
+          "display": "13 awards",
+          "aliases": [
+            "Janet"
+          ]
+        },
+        {
+          "answer": "Beyoncé",
+          "display": "13 awards",
+          "aliases": [
+            "Beyonce"
+          ]
+        }
+      ]
+    }
+  ]
+}

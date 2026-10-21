@@ -1,0 +1,739 @@
+{
+  "categories": [
+    {
+      "path": "music/uk/singles",
+      "name": "UK singles"
+    },
+    {
+      "path": "music/uk/albums",
+      "name": "UK albums"
+    }
+  ],
+  "questions": [
+    {
+      "category": "music/uk/singles",
+      "difficulty": 2,
+      "question": "Top 8 best-selling UK singles of all time (combined sales, streaming-adjusted, as of 2026)",
+      "cutoff": 8,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1373580547 | table 2 | name: Single | value: Combined sales",
+      "tags": [
+        "music",
+        "uk",
+        "singles"
+      ],
+      "answers": [
+        {
+          "answer": "Shape of You",
+          "display": "6,637,792 (Ed Sheeran)"
+        },
+        {
+          "answer": "Perfect",
+          "display": "6,000,000 (Ed Sheeran)"
+        },
+        {
+          "answer": "Candle in the Wind 1997",
+          "display": "4,951,408 (Elton John)",
+          "aliases": [
+            "Something About the Way You Look Tonight"
+          ]
+        },
+        {
+          "answer": "Last Christmas",
+          "display": "4,564,703 (Wham!)"
+        },
+        {
+          "answer": "Viva la Vida",
+          "display": "4,200,000 (Coldplay)"
+        },
+        {
+          "answer": "Do They Know It's Christmas?",
+          "display": "3,943,060 (Band Aid)"
+        },
+        {
+          "answer": "Yellow",
+          "display": "3,641,555 (Coldplay)"
+        },
+        {
+          "answer": "Something Just Like This",
+          "display": "3,600,000 (The Chainsmokers & Coldplay)"
+        },
+        {
+          "answer": "Someone Like You",
+          "display": "3,000,000 (Adele)"
+        },
+        {
+          "answer": "Shake It Off",
+          "display": "3,000,000 (Taylor Swift)"
+        },
+        {
+          "answer": "A Sky Full of Stars",
+          "display": "3,000,000 (Coldplay)"
+        },
+        {
+          "answer": "Fix You",
+          "display": "3,000,000 (Coldplay)"
+        },
+        {
+          "answer": "The Scientist",
+          "display": "3,000,000 (Coldplay)"
+        }
+      ]
+    },
+    {
+      "category": "music/uk/singles",
+      "difficulty": 3,
+      "question": "Top 7 best-selling UK singles that never reached number one (combined sales, streaming-adjusted, as of 2026)",
+      "cutoff": 7,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1373580547 | table 2 | name: Single | value: Combined sales | where: Chart peak!=1",
+      "tags": [
+        "music",
+        "uk",
+        "singles"
+      ],
+      "answers": [
+        {
+          "answer": "Yellow",
+          "display": "3,641,555 (Coldplay)"
+        },
+        {
+          "answer": "Something Just Like This",
+          "display": "3,600,000 (The Chainsmokers & Coldplay)"
+        },
+        {
+          "answer": "Shake It Off",
+          "display": "3,000,000 (Taylor Swift)"
+        },
+        {
+          "answer": "A Sky Full of Stars",
+          "display": "3,000,000 (Coldplay)"
+        },
+        {
+          "answer": "Fix You",
+          "display": "3,000,000 (Coldplay)"
+        },
+        {
+          "answer": "The Scientist",
+          "display": "3,000,000 (Coldplay)"
+        },
+        {
+          "answer": "Torn",
+          "display": "2,420,000 (Natalie Imbruglia)"
+        },
+        {
+          "answer": "Hymn for the Weekend",
+          "display": "2,400,000 (Coldplay)"
+        },
+        {
+          "answer": "Adventure of a Lifetime",
+          "display": "2,400,000 (Coldplay)"
+        },
+        {
+          "answer": "Photograph",
+          "display": "2,380,000 (Ed Sheeran)"
+        },
+        {
+          "answer": "Blank Space",
+          "display": "2,200,000 (Taylor Swift)"
+        }
+      ]
+    },
+    {
+      "category": "music/uk/albums",
+      "difficulty": 2,
+      "question": "Top 7 best-selling UK albums of all time (as of 2026)",
+      "cutoff": 7,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1372901560 | table 1 | name: Album | value: Sales",
+      "tags": [
+        "music",
+        "uk",
+        "albums"
+      ],
+      "answers": [
+        {
+          "answer": "Greatest Hits",
+          "display": "7.8 million (Queen)",
+          "aliases": [
+            "Queen Greatest Hits",
+            "Queen"
+          ]
+        },
+        {
+          "answer": "Gold: Greatest Hits",
+          "display": "7.1 million (ABBA)",
+          "aliases": [
+            "ABBA Gold",
+            "ABBA"
+          ]
+        },
+        {
+          "answer": "(What's the Story) Morning Glory?",
+          "display": "6.2 million (Oasis)",
+          "aliases": [
+            "Morning Glory",
+            "Oasis"
+          ]
+        },
+        {
+          "answer": "21",
+          "display": "5.7 million (Adele)",
+          "aliases": [
+            "Adele"
+          ]
+        },
+        {
+          "answer": "Sgt. Pepper's Lonely Hearts Club Band",
+          "display": "5.6 million (The Beatles)",
+          "aliases": [
+            "Sgt Pepper"
+          ]
+        },
+        {
+          "answer": "Rumours",
+          "display": "5.1 million+ (Fleetwood Mac)"
+        },
+        {
+          "answer": "The Dark Side of the Moon",
+          "display": "5.0 million (Pink Floyd)"
+        },
+        {
+          "answer": "Thriller",
+          "display": "4.6 million+ (Michael Jackson)",
+          "aliases": [
+            "Michael Jackson"
+          ]
+        },
+        {
+          "answer": "Legend",
+          "display": "4.6 million+ (Bob Marley and the Wailers)",
+          "aliases": [
+            "Bob Marley"
+          ]
+        },
+        {
+          "answer": "Brothers in Arms",
+          "display": "4.6 million (Dire Straits)",
+          "aliases": [
+            "Dire Straits"
+          ]
+        },
+        {
+          "answer": "Back to Black",
+          "display": "4.6 million (Amy Winehouse)",
+          "aliases": [
+            "Amy Winehouse"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "music/uk/albums",
+      "difficulty": 3,
+      "question": "Top 8 UK number-one albums with the most weeks at number one (soundtracks and cast albums excluded, as of 2026)",
+      "cutoff": 8,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1379493884 | table 1 | name: Album | value: Weeks | where: Artist!~Original|Motion|Cast | where: Album!~oundtrack",
+      "tags": [
+        "music",
+        "uk",
+        "albums"
+      ],
+      "answers": [
+        {
+          "answer": "Bridge Over Troubled Water",
+          "display": "33 weeks (Simon & Garfunkel)"
+        },
+        {
+          "answer": "Please Please Me",
+          "display": "30 weeks (The Beatles)"
+        },
+        {
+          "answer": "Sgt. Pepper's Lonely Hearts Club Band",
+          "display": "28 weeks (The Beatles)",
+          "aliases": [
+            "Sgt Pepper"
+          ]
+        },
+        {
+          "answer": "21",
+          "display": "23 weeks (Adele)",
+          "aliases": [
+            "Adele"
+          ]
+        },
+        {
+          "answer": "With The Beatles",
+          "display": "21 weeks (The Beatles)"
+        },
+        {
+          "answer": "A Hard Day's Night",
+          "display": "21 weeks (The Beatles)"
+        },
+        {
+          "answer": "Divide",
+          "display": "20 weeks (Ed Sheeran)"
+        },
+        {
+          "answer": "Abbey Road",
+          "display": "18 weeks (The Beatles)"
+        },
+        {
+          "answer": "The Singles: 1969–1973",
+          "display": "17 weeks (The Carpenters)"
+        },
+        {
+          "answer": "Spice",
+          "display": "15 weeks (Spice Girls)"
+        },
+        {
+          "answer": "...But Seriously",
+          "display": "15 weeks (Phil Collins)"
+        }
+      ]
+    },
+    {
+      "category": "music/uk/singles",
+      "difficulty": 2,
+      "question": "Top 9 artists with the most weeks at number one on the UK singles chart in the 1990s (including featured credits)",
+      "cutoff": 9,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1374826847 | table 3 | name: Artist | value: Weeks",
+      "tags": [
+        "music",
+        "uk",
+        "singles"
+      ],
+      "answers": [
+        {
+          "answer": "Spice Girls",
+          "display": "21 weeks"
+        },
+        {
+          "answer": "Take That",
+          "display": "21 weeks"
+        },
+        {
+          "answer": "Wet Wet Wet",
+          "display": "19 weeks"
+        },
+        {
+          "answer": "Bryan Adams",
+          "display": "16 weeks"
+        },
+        {
+          "answer": "Cher",
+          "display": "13 weeks"
+        },
+        {
+          "answer": "Robson & Jerome",
+          "display": "13 weeks"
+        },
+        {
+          "answer": "Elton John",
+          "display": "12 weeks",
+          "aliases": [
+            "Elton"
+          ]
+        },
+        {
+          "answer": "Michael Jackson",
+          "display": "11 weeks",
+          "aliases": [
+            "MJ"
+          ]
+        },
+        {
+          "answer": "Whitney Houston",
+          "display": "10 weeks",
+          "aliases": [
+            "Whitney"
+          ]
+        },
+        {
+          "answer": "Queen",
+          "display": "9 weeks"
+        },
+        {
+          "answer": "Celine Dion",
+          "display": "9 weeks",
+          "aliases": [
+            "Celine"
+          ]
+        },
+        {
+          "answer": "George Michael",
+          "display": "9 weeks"
+        },
+        {
+          "answer": "Boyzone",
+          "display": "9 weeks"
+        }
+      ]
+    },
+    {
+      "category": "music/uk/singles",
+      "difficulty": 3,
+      "question": "Top 10 artists with the most weeks at number one on the UK singles chart in the 2000s (including featured credits)",
+      "cutoff": 10,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1367729250 | table 4 | name: Artist | value: Weeks",
+      "tags": [
+        "music",
+        "uk",
+        "singles"
+      ],
+      "answers": [
+        {
+          "answer": "Jay-Z",
+          "display": "15 weeks",
+          "aliases": [
+            "Jay Z"
+          ]
+        },
+        {
+          "answer": "Westlife",
+          "display": "14 weeks"
+        },
+        {
+          "answer": "Rihanna",
+          "display": "13 weeks"
+        },
+        {
+          "answer": "Leona Lewis",
+          "display": "13 weeks"
+        },
+        {
+          "answer": "Peter Kay",
+          "display": "12 weeks"
+        },
+        {
+          "answer": "Will Young",
+          "display": "12 weeks",
+          "aliases": [
+            "Will"
+          ]
+        },
+        {
+          "answer": "Sugababes",
+          "display": "11 weeks"
+        },
+        {
+          "answer": "The Black Eyed Peas",
+          "display": "11 weeks"
+        },
+        {
+          "answer": "Dizzee Rascal",
+          "display": "11 weeks",
+          "aliases": [
+            "Dizzee"
+          ]
+        },
+        {
+          "answer": "Gareth Gates",
+          "display": "11 weeks"
+        },
+        {
+          "answer": "Robbie Williams",
+          "display": "10 weeks",
+          "aliases": [
+            "Robbie"
+          ]
+        },
+        {
+          "answer": "Madonna",
+          "display": "10 weeks"
+        },
+        {
+          "answer": "Atomic Kitten",
+          "display": "9 weeks"
+        },
+        {
+          "answer": "Gnarls Barkley",
+          "display": "9 weeks"
+        }
+      ]
+    },
+    {
+      "category": "music/uk/singles",
+      "difficulty": 3,
+      "question": "Top 7 artists with the most UK number-one singles in the 2010s (including featured credits)",
+      "cutoff": 7,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1356457366 | table 3 | name: Artist | value: Number ones",
+      "tags": [
+        "music",
+        "uk",
+        "singles"
+      ],
+      "answers": [
+        {
+          "answer": "Calvin Harris",
+          "display": "8 number ones"
+        },
+        {
+          "answer": "Ed Sheeran",
+          "display": "8 number ones",
+          "aliases": [
+            "Sheeran"
+          ]
+        },
+        {
+          "answer": "Justin Bieber",
+          "display": "7 number ones",
+          "aliases": [
+            "Bieber"
+          ]
+        },
+        {
+          "answer": "Jess Glynne",
+          "display": "7 number ones"
+        },
+        {
+          "answer": "Sam Smith",
+          "display": "7 number ones"
+        },
+        {
+          "answer": "Tinie Tempah",
+          "display": "7 number ones"
+        },
+        {
+          "answer": "Rihanna",
+          "display": "6 number ones"
+        },
+        {
+          "answer": "Bruno Mars",
+          "display": "5 number ones"
+        },
+        {
+          "answer": "One Direction",
+          "display": "5 number ones"
+        },
+        {
+          "answer": "Drake",
+          "display": "5 number ones"
+        },
+        {
+          "answer": "Ariana Grande",
+          "display": "5 number ones"
+        },
+        {
+          "answer": "will.i.am",
+          "display": "5 number ones"
+        }
+      ]
+    },
+    {
+      "category": "music/uk/singles",
+      "difficulty": 3,
+      "question": "Top 8 artists with the most weeks at number one on the UK singles chart in the 2010s (including featured credits)",
+      "cutoff": 8,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1356457366 | table 5 | name: Artist | value: Weeks",
+      "tags": [
+        "music",
+        "uk",
+        "singles"
+      ],
+      "answers": [
+        {
+          "answer": "Justin Bieber",
+          "display": "38 weeks",
+          "aliases": [
+            "Bieber"
+          ]
+        },
+        {
+          "answer": "Ed Sheeran",
+          "display": "38 weeks",
+          "aliases": [
+            "Sheeran"
+          ]
+        },
+        {
+          "answer": "Drake",
+          "display": "30 weeks"
+        },
+        {
+          "answer": "Calvin Harris",
+          "display": "25 weeks"
+        },
+        {
+          "answer": "Clean Bandit",
+          "display": "15 weeks"
+        },
+        {
+          "answer": "Wizkid",
+          "display": "15 weeks"
+        },
+        {
+          "answer": "Kyla",
+          "display": "15 weeks"
+        },
+        {
+          "answer": "Sam Smith",
+          "display": "15 weeks"
+        },
+        {
+          "answer": "Pharrell Williams",
+          "display": "14 weeks",
+          "aliases": [
+            "Pharrell"
+          ]
+        },
+        {
+          "answer": "Bruno Mars",
+          "display": "13 weeks"
+        },
+        {
+          "answer": "Ariana Grande",
+          "display": "13 weeks"
+        }
+      ]
+    },
+    {
+      "category": "music/uk/albums",
+      "difficulty": 3,
+      "question": "Top 7 artists with the most weeks at number one on the UK Albums Chart in the 2010s",
+      "cutoff": 7,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1379375256 | table 5 | name: Artist | value: Weeks",
+      "tags": [
+        "music",
+        "uk",
+        "albums"
+      ],
+      "answers": [
+        {
+          "answer": "Ed Sheeran",
+          "display": "41 weeks",
+          "aliases": [
+            "Sheeran"
+          ]
+        },
+        {
+          "answer": "Adele",
+          "display": "36 weeks"
+        },
+        {
+          "answer": "Eminem",
+          "display": "13 weeks"
+        },
+        {
+          "answer": "Emeli Sandé",
+          "display": "10 weeks",
+          "aliases": [
+            "Emeli"
+          ]
+        },
+        {
+          "answer": "Sam Smith",
+          "display": "10 weeks"
+        },
+        {
+          "answer": "Lady Gaga",
+          "display": "9 weeks",
+          "aliases": [
+            "Gaga"
+          ]
+        },
+        {
+          "answer": "Take That",
+          "display": "9 weeks"
+        },
+        {
+          "answer": "Robbie Williams",
+          "display": "7 weeks",
+          "aliases": [
+            "Robbie"
+          ]
+        },
+        {
+          "answer": "Michael Bublé",
+          "display": "6 weeks",
+          "aliases": [
+            "Buble"
+          ]
+        },
+        {
+          "answer": "Lewis Capaldi",
+          "display": "6 weeks"
+        },
+        {
+          "answer": "Paolo Nutini",
+          "display": "6 weeks"
+        },
+        {
+          "answer": "Rihanna",
+          "display": "6 weeks"
+        }
+      ]
+    },
+    {
+      "category": "music/uk/albums",
+      "difficulty": 3,
+      "question": "Top 7 artists with the most weeks at number one on the UK Albums Chart in the 2020s (as of October 2026)",
+      "cutoff": 7,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1379375152 | table 5 | name: Artist | value: Weeks",
+      "tags": [
+        "music",
+        "uk",
+        "albums"
+      ],
+      "answers": [
+        {
+          "answer": "Taylor Swift",
+          "display": "33 weeks"
+        },
+        {
+          "answer": "Ed Sheeran",
+          "display": "10 weeks",
+          "aliases": [
+            "Sheeran"
+          ]
+        },
+        {
+          "answer": "Harry Styles",
+          "display": "8 weeks"
+        },
+        {
+          "answer": "Olivia Dean",
+          "display": "8 weeks"
+        },
+        {
+          "answer": "Olivia Rodrigo",
+          "display": "8 weeks"
+        },
+        {
+          "answer": "Lewis Capaldi",
+          "display": "7 weeks"
+        },
+        {
+          "answer": "Sabrina Carpenter",
+          "display": "7 weeks"
+        },
+        {
+          "answer": "Michael Bublé",
+          "display": "6 weeks",
+          "aliases": [
+            "Buble"
+          ]
+        },
+        {
+          "answer": "Drake",
+          "display": "6 weeks"
+        },
+        {
+          "answer": "Adele",
+          "display": "5 weeks"
+        },
+        {
+          "answer": "Dua Lipa",
+          "display": "5 weeks"
+        }
+      ]
+    }
+  ]
+}

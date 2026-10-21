@@ -80,8 +80,10 @@ export interface PlayerView {
 export interface QuestionView {
   text: string;
   category: string;
-  /** Ranks at or above this score; anything below is tension. */
+  /** Ranks at or above this score their rank. */
   cutoff: number;
+  /** How many tension answers lurk just below the cutoff; announced before anyone answers. */
+  tensionCount: number;
 }
 
 export interface RevealAnswer {

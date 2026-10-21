@@ -23,6 +23,6 @@ if (!existsSync(resolve(root, '.env'))) {
 
 run('Generate the Prisma client', ['x', 'prisma', 'generate', '--no-hints']);
 run('Apply database migrations', ['x', 'prisma', 'migrate', 'deploy']);
-run('Import the bundled questions', ['src/content/import-cli.ts', 'data/questions.json']);
+run('Import the bundled questions', ['src/content/import-cli.ts', 'data']);
 
 console.log('\nAll set. Start the game with `bun run dev` from the repository root.');

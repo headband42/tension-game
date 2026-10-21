@@ -1,0 +1,1005 @@
+{
+  "categories": [
+    {
+      "path": "sports/american-football/nfl/career-leaders",
+      "name": "Career leaders"
+    },
+    {
+      "path": "sports/american-football/nfl/coaches",
+      "name": "Coaches"
+    },
+    {
+      "path": "sports/american-football/nfl/stadiums",
+      "name": "Stadiums"
+    },
+    {
+      "path": "sports/american-football/nfl/super-bowl",
+      "name": "Super Bowl"
+    }
+  ],
+  "questions": [
+    {
+      "category": "sports/american-football/nfl/career-leaders",
+      "question": "Top 10 NFL players by career receiving yards (regular season, as of 5 October 2026)",
+      "cutoff": 10,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1378668686 | table 2 | name: Player | value: Yards",
+      "tags": [
+        "career",
+        "receiving yards"
+      ],
+      "answers": [
+        {
+          "answer": "Jerry Rice",
+          "display": "22,895 yards",
+          "aliases": [
+            "Rice"
+          ]
+        },
+        {
+          "answer": "Larry Fitzgerald",
+          "display": "17,492 yards",
+          "aliases": [
+            "Fitzgerald"
+          ]
+        },
+        {
+          "answer": "Terrell Owens",
+          "display": "15,934 yards",
+          "aliases": [
+            "Owens",
+            "T.O."
+          ]
+        },
+        {
+          "answer": "Randy Moss",
+          "display": "15,292 yards",
+          "aliases": [
+            "Moss"
+          ]
+        },
+        {
+          "answer": "Isaac Bruce",
+          "display": "15,208 yards"
+        },
+        {
+          "answer": "Tony Gonzalez",
+          "display": "15,127 yards",
+          "aliases": [
+            "Gonzalez"
+          ]
+        },
+        {
+          "answer": "Tim Brown",
+          "display": "14,934 yards"
+        },
+        {
+          "answer": "Steve Smith Sr.",
+          "display": "14,731 yards",
+          "aliases": [
+            "Steve Smith"
+          ]
+        },
+        {
+          "answer": "Marvin Harrison",
+          "display": "14,580 yards"
+        },
+        {
+          "answer": "Reggie Wayne",
+          "display": "14,345 yards"
+        },
+        {
+          "answer": "Andre Johnson",
+          "display": "14,185 yards"
+        },
+        {
+          "answer": "James Lofton",
+          "display": "14,004 yards"
+        },
+        {
+          "answer": "Cris Carter",
+          "display": "13,899 yards"
+        },
+        {
+          "answer": "Anquan Boldin",
+          "display": "13,779 yards"
+        },
+        {
+          "answer": "Henry Ellard",
+          "display": "13,777 yards"
+        }
+      ]
+    },
+    {
+      "category": "sports/american-football/nfl/career-leaders",
+      "question": "Top 10 NFL players by career receptions (regular season, as of 5 October 2026)",
+      "cutoff": 10,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1378668275 | table 2 | name: Player | value: Receptions",
+      "tags": [
+        "career",
+        "receptions"
+      ],
+      "answers": [
+        {
+          "answer": "Jerry Rice",
+          "display": "1,549 receptions",
+          "aliases": [
+            "Rice"
+          ]
+        },
+        {
+          "answer": "Larry Fitzgerald",
+          "display": "1,432 receptions"
+        },
+        {
+          "answer": "Tony Gonzalez",
+          "display": "1,325 receptions",
+          "aliases": [
+            "Gonzalez"
+          ]
+        },
+        {
+          "answer": "Jason Witten",
+          "display": "1,228 receptions"
+        },
+        {
+          "answer": "Marvin Harrison",
+          "display": "1,102 receptions"
+        },
+        {
+          "answer": "Cris Carter",
+          "display": "1,101 receptions"
+        },
+        {
+          "answer": "Travis Kelce",
+          "display": "1,096 receptions"
+        },
+        {
+          "answer": "Tim Brown",
+          "display": "1,094 receptions"
+        },
+        {
+          "answer": "Terrell Owens",
+          "display": "1,078 receptions",
+          "aliases": [
+            "Owens"
+          ]
+        },
+        {
+          "answer": "Anquan Boldin",
+          "display": "1,076 receptions"
+        },
+        {
+          "answer": "Reggie Wayne",
+          "display": "1,070 receptions"
+        },
+        {
+          "answer": "Keenan Allen",
+          "display": "1,068 receptions"
+        },
+        {
+          "answer": "Andre Johnson",
+          "display": "1,062 receptions"
+        }
+      ]
+    },
+    {
+      "category": "sports/american-football/nfl/career-leaders",
+      "question": "Top 10 NFL players by career receiving touchdowns (regular season, as of 10 October 2026)",
+      "cutoff": 10,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1379439293 | table 2 | name: Player | value: Touch",
+      "tags": [
+        "career",
+        "receiving touchdowns"
+      ],
+      "answers": [
+        {
+          "answer": "Jerry Rice",
+          "display": "197 touchdowns",
+          "aliases": [
+            "Rice"
+          ]
+        },
+        {
+          "answer": "Randy Moss",
+          "display": "156 touchdowns",
+          "aliases": [
+            "Moss"
+          ]
+        },
+        {
+          "answer": "Terrell Owens",
+          "display": "153 touchdowns",
+          "aliases": [
+            "Owens"
+          ]
+        },
+        {
+          "answer": "Cris Carter",
+          "display": "130 touchdowns"
+        },
+        {
+          "answer": "Marvin Harrison",
+          "display": "128 touchdowns"
+        },
+        {
+          "answer": "Larry Fitzgerald",
+          "display": "121 touchdowns"
+        },
+        {
+          "answer": "Davante Adams",
+          "display": "119 touchdowns"
+        },
+        {
+          "answer": "Antonio Gates",
+          "display": "116 touchdowns"
+        },
+        {
+          "answer": "Tony Gonzalez",
+          "display": "111 touchdowns"
+        },
+        {
+          "answer": "Mike Evans",
+          "display": "110 touchdowns"
+        },
+        {
+          "answer": "Tim Brown",
+          "display": "100 touchdowns"
+        },
+        {
+          "answer": "Steve Largent",
+          "display": "100 touchdowns"
+        },
+        {
+          "answer": "Don Hutson",
+          "display": "99 touchdowns"
+        },
+        {
+          "answer": "Rob Gronkowski",
+          "display": "92 touchdowns",
+          "aliases": [
+            "Gronk"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/american-football/nfl/career-leaders",
+      "question": "Top 10 NFL players by career passing touchdowns (regular season, as of 12 October 2026)",
+      "cutoff": 10,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1379848388 | table 2 | name: Player | value: TDs",
+      "tags": [
+        "career",
+        "passing touchdowns"
+      ],
+      "answers": [
+        {
+          "answer": "Tom Brady",
+          "display": "649 touchdowns",
+          "aliases": [
+            "Brady"
+          ]
+        },
+        {
+          "answer": "Drew Brees",
+          "display": "571 touchdowns",
+          "aliases": [
+            "Brees"
+          ]
+        },
+        {
+          "answer": "Peyton Manning",
+          "display": "539 touchdowns",
+          "aliases": [
+            "Peyton"
+          ]
+        },
+        {
+          "answer": "Aaron Rodgers",
+          "display": "537 touchdowns",
+          "aliases": [
+            "Rodgers"
+          ]
+        },
+        {
+          "answer": "Brett Favre",
+          "display": "508 touchdowns",
+          "aliases": [
+            "Favre"
+          ]
+        },
+        {
+          "answer": "Matthew Stafford",
+          "display": "429 touchdowns"
+        },
+        {
+          "answer": "Philip Rivers",
+          "display": "425 touchdowns",
+          "aliases": [
+            "Rivers"
+          ]
+        },
+        {
+          "answer": "Dan Marino",
+          "display": "420 touchdowns",
+          "aliases": [
+            "Marino"
+          ]
+        },
+        {
+          "answer": "Ben Roethlisberger",
+          "display": "418 touchdowns",
+          "aliases": [
+            "Roethlisberger",
+            "Big Ben"
+          ]
+        },
+        {
+          "answer": "Matt Ryan",
+          "display": "381 touchdowns"
+        },
+        {
+          "answer": "Eli Manning",
+          "display": "366 touchdowns",
+          "aliases": [
+            "Eli"
+          ]
+        },
+        {
+          "answer": "Russell Wilson",
+          "display": "353 touchdowns"
+        },
+        {
+          "answer": "Fran Tarkenton",
+          "display": "342 touchdowns"
+        },
+        {
+          "answer": "Kirk Cousins",
+          "display": "310 touchdowns"
+        }
+      ]
+    },
+    {
+      "category": "sports/american-football/nfl/career-leaders",
+      "question": "Top 8 NFL players by career rushing touchdowns (regular season, as of 6 October 2026)",
+      "cutoff": 8,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1378911027 | table 2 | name: Player | value: Touchdowns",
+      "tags": [
+        "career",
+        "rushing touchdowns"
+      ],
+      "answers": [
+        {
+          "answer": "Emmitt Smith",
+          "display": "164 touchdowns",
+          "aliases": [
+            "Emmitt"
+          ]
+        },
+        {
+          "answer": "LaDainian Tomlinson",
+          "display": "145 touchdowns",
+          "aliases": [
+            "Tomlinson",
+            "LT"
+          ]
+        },
+        {
+          "answer": "Derrick Henry",
+          "display": "129 touchdowns"
+        },
+        {
+          "answer": "Marcus Allen",
+          "display": "123 touchdowns"
+        },
+        {
+          "answer": "Adrian Peterson",
+          "display": "120 touchdowns"
+        },
+        {
+          "answer": "Walter Payton",
+          "display": "110 touchdowns",
+          "aliases": [
+            "Payton",
+            "Sweetness"
+          ]
+        },
+        {
+          "answer": "Jim Brown",
+          "display": "106 touchdowns"
+        },
+        {
+          "answer": "John Riggins",
+          "display": "104 touchdowns"
+        },
+        {
+          "answer": "Shaun Alexander",
+          "display": "100 touchdowns"
+        },
+        {
+          "answer": "Marshall Faulk",
+          "display": "100 touchdowns"
+        },
+        {
+          "answer": "Barry Sanders",
+          "display": "99 touchdowns",
+          "aliases": [
+            "Sanders"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/american-football/nfl/career-leaders",
+      "question": "Top 10 NFL players by postseason receiving yards (playoff career, as of 5 October 2026)",
+      "cutoff": 10,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1378668686 | table 3 | name: Player | value: Yards",
+      "tags": [
+        "playoffs",
+        "receiving yards"
+      ],
+      "answers": [
+        {
+          "answer": "Jerry Rice",
+          "display": "2,245 yards",
+          "aliases": [
+            "Rice"
+          ]
+        },
+        {
+          "answer": "Travis Kelce",
+          "display": "2,078 yards"
+        },
+        {
+          "answer": "Julian Edelman",
+          "display": "1,442 yards"
+        },
+        {
+          "answer": "Rob Gronkowski",
+          "display": "1,389 yards",
+          "aliases": [
+            "Gronk"
+          ]
+        },
+        {
+          "answer": "Michael Irvin",
+          "display": "1,315 yards",
+          "aliases": [
+            "Irvin"
+          ]
+        },
+        {
+          "answer": "Cliff Branch",
+          "display": "1,289 yards"
+        },
+        {
+          "answer": "Reggie Wayne",
+          "display": "1,254 yards"
+        },
+        {
+          "answer": "Andre Reed",
+          "display": "1,229 yards"
+        },
+        {
+          "answer": "Tyreek Hill",
+          "display": "1,212 yards"
+        },
+        {
+          "answer": "Hines Ward",
+          "display": "1,181 yards"
+        },
+        {
+          "answer": "Fred Biletnikoff",
+          "display": "1,167 yards"
+        },
+        {
+          "answer": "Drew Pearson",
+          "display": "1,131 yards"
+        },
+        {
+          "answer": "Paul Warfield",
+          "display": "1,121 yards"
+        },
+        {
+          "answer": "Davante Adams",
+          "display": "1,095 yards"
+        },
+        {
+          "answer": "Art Monk",
+          "display": "1,062 yards"
+        }
+      ]
+    },
+    {
+      "category": "sports/american-football/nfl/career-leaders",
+      "question": "Top 10 NFL players by postseason passing touchdowns (playoff career, as of 12 October 2026)",
+      "cutoff": 10,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1379848388 | table 4 | name: Player | value: TDs",
+      "tags": [
+        "playoffs",
+        "passing touchdowns"
+      ],
+      "answers": [
+        {
+          "answer": "Tom Brady",
+          "display": "88 touchdowns",
+          "aliases": [
+            "Brady"
+          ]
+        },
+        {
+          "answer": "Patrick Mahomes",
+          "display": "46 touchdowns",
+          "aliases": [
+            "Mahomes"
+          ]
+        },
+        {
+          "answer": "Joe Montana",
+          "display": "45 touchdowns",
+          "aliases": [
+            "Montana"
+          ]
+        },
+        {
+          "answer": "Aaron Rodgers",
+          "display": "45 touchdowns",
+          "aliases": [
+            "Rodgers"
+          ]
+        },
+        {
+          "answer": "Brett Favre",
+          "display": "44 touchdowns",
+          "aliases": [
+            "Favre"
+          ]
+        },
+        {
+          "answer": "Peyton Manning",
+          "display": "40 touchdowns"
+        },
+        {
+          "answer": "Drew Brees",
+          "display": "37 touchdowns"
+        },
+        {
+          "answer": "Ben Roethlisberger",
+          "display": "36 touchdowns"
+        },
+        {
+          "answer": "Dan Marino",
+          "display": "32 touchdowns"
+        },
+        {
+          "answer": "Kurt Warner",
+          "display": "31 touchdowns"
+        },
+        {
+          "answer": "Terry Bradshaw",
+          "display": "30 touchdowns"
+        },
+        {
+          "answer": "Josh Allen",
+          "display": "29 touchdowns"
+        },
+        {
+          "answer": "John Elway",
+          "display": "27 touchdowns",
+          "aliases": [
+            "Elway"
+          ]
+        },
+        {
+          "answer": "Russell Wilson",
+          "display": "27 touchdowns"
+        }
+      ]
+    },
+    {
+      "category": "sports/american-football/nfl/coaches",
+      "question": "Top 10 NFL head coaches by career regular-season wins (as of 12 October 2026)",
+      "cutoff": 10,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1379902039 | table 2 | name: Coach | value: Career wins",
+      "tags": [
+        "coaches",
+        "wins"
+      ],
+      "answers": [
+        {
+          "answer": "Don Shula",
+          "display": "328 wins",
+          "aliases": [
+            "Shula"
+          ]
+        },
+        {
+          "answer": "George Halas",
+          "display": "318 wins",
+          "aliases": [
+            "Halas"
+          ]
+        },
+        {
+          "answer": "Bill Belichick",
+          "display": "302 wins",
+          "aliases": [
+            "Belichick"
+          ]
+        },
+        {
+          "answer": "Andy Reid",
+          "display": "283 wins",
+          "aliases": [
+            "Reid"
+          ]
+        },
+        {
+          "answer": "Tom Landry",
+          "display": "250 wins",
+          "aliases": [
+            "Landry"
+          ]
+        },
+        {
+          "answer": "Curly Lambeau",
+          "display": "226 wins",
+          "aliases": [
+            "Lambeau"
+          ]
+        },
+        {
+          "answer": "Paul Brown",
+          "display": "213 wins"
+        },
+        {
+          "answer": "Marty Schottenheimer",
+          "display": "200 wins"
+        },
+        {
+          "answer": "Chuck Noll",
+          "display": "193 wins",
+          "aliases": [
+            "Noll"
+          ]
+        },
+        {
+          "answer": "Mike Tomlin",
+          "display": "193 wins",
+          "aliases": [
+            "Tomlin"
+          ]
+        },
+        {
+          "answer": "Dan Reeves",
+          "display": "190 wins"
+        },
+        {
+          "answer": "Sean Payton",
+          "display": "187 wins"
+        },
+        {
+          "answer": "Chuck Knox",
+          "display": "186 wins"
+        },
+        {
+          "answer": "John Harbaugh",
+          "display": "183 wins"
+        }
+      ]
+    },
+    {
+      "category": "sports/american-football/nfl/coaches",
+      "question": "Top 10 NFL head coaches by postseason wins (as of 12 October 2026)",
+      "cutoff": 10,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1379902039 | table 4 | name: Coach | value: Wins",
+      "tags": [
+        "coaches",
+        "playoffs"
+      ],
+      "answers": [
+        {
+          "answer": "Bill Belichick",
+          "display": "31 postseason wins",
+          "aliases": [
+            "Belichick"
+          ]
+        },
+        {
+          "answer": "Andy Reid",
+          "display": "28 postseason wins",
+          "aliases": [
+            "Reid"
+          ]
+        },
+        {
+          "answer": "Tom Landry",
+          "display": "20 postseason wins",
+          "aliases": [
+            "Landry"
+          ]
+        },
+        {
+          "answer": "Don Shula",
+          "display": "19 postseason wins",
+          "aliases": [
+            "Shula"
+          ]
+        },
+        {
+          "answer": "Joe Gibbs",
+          "display": "17 postseason wins",
+          "aliases": [
+            "Gibbs"
+          ]
+        },
+        {
+          "answer": "Chuck Noll",
+          "display": "16 postseason wins",
+          "aliases": [
+            "Noll"
+          ]
+        },
+        {
+          "answer": "Mike Holmgren",
+          "display": "13 postseason wins"
+        },
+        {
+          "answer": "John Harbaugh",
+          "display": "13 postseason wins"
+        },
+        {
+          "answer": "Tom Coughlin",
+          "display": "12 postseason wins"
+        },
+        {
+          "answer": "Bill Cowher",
+          "display": "12 postseason wins"
+        },
+        {
+          "answer": "Pete Carroll",
+          "display": "11 postseason wins",
+          "aliases": [
+            "Carroll"
+          ]
+        },
+        {
+          "answer": "Marv Levy",
+          "display": "11 postseason wins",
+          "aliases": [
+            "Levy"
+          ]
+        },
+        {
+          "answer": "Mike McCarthy",
+          "display": "11 postseason wins",
+          "aliases": [
+            "McCarthy"
+          ]
+        },
+        {
+          "answer": "Bill Parcells",
+          "display": "11 postseason wins",
+          "aliases": [
+            "Parcells"
+          ]
+        },
+        {
+          "answer": "Dan Reeves",
+          "display": "11 postseason wins",
+          "aliases": [
+            "Reeves"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/american-football/nfl/super-bowl",
+      "question": "Top 8 quarterbacks by Super Bowl starts (Super Bowls I to LX, as of 31 August 2026)",
+      "cutoff": 8,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1372452274 | table 3 | name: Player | value: Starts",
+      "tags": [
+        "super bowl",
+        "quarterbacks"
+      ],
+      "answers": [
+        {
+          "answer": "Tom Brady",
+          "display": "10 starts",
+          "aliases": [
+            "Brady"
+          ]
+        },
+        {
+          "answer": "Patrick Mahomes",
+          "display": "5 starts",
+          "aliases": [
+            "Mahomes"
+          ]
+        },
+        {
+          "answer": "John Elway",
+          "display": "5 starts",
+          "aliases": [
+            "Elway"
+          ]
+        },
+        {
+          "answer": "Terry Bradshaw",
+          "display": "4 starts",
+          "aliases": [
+            "Bradshaw"
+          ]
+        },
+        {
+          "answer": "Joe Montana",
+          "display": "4 starts",
+          "aliases": [
+            "Montana"
+          ]
+        },
+        {
+          "answer": "Roger Staubach",
+          "display": "4 starts"
+        },
+        {
+          "answer": "Peyton Manning",
+          "display": "4 starts",
+          "aliases": [
+            "Peyton"
+          ]
+        },
+        {
+          "answer": "Jim Kelly",
+          "display": "4 starts",
+          "aliases": [
+            "Kelly"
+          ]
+        },
+        {
+          "answer": "Troy Aikman",
+          "display": "3 starts",
+          "aliases": [
+            "Aikman"
+          ]
+        },
+        {
+          "answer": "Bob Griese",
+          "display": "3 starts",
+          "aliases": [
+            "Griese"
+          ]
+        },
+        {
+          "answer": "Ben Roethlisberger",
+          "display": "3 starts"
+        },
+        {
+          "answer": "Kurt Warner",
+          "display": "3 starts",
+          "aliases": [
+            "Warner"
+          ]
+        },
+        {
+          "answer": "Fran Tarkenton",
+          "display": "3 starts",
+          "aliases": [
+            "Tarkenton"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/american-football/nfl/stadiums",
+      "question": "Top 10 largest open-air NFL stadiums by capacity (as of 7 October 2026)",
+      "cutoff": 10,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1379044883 | table 1 | name: Name | value: Capacity | where: Roof=Open-air",
+      "tags": [
+        "stadiums",
+        "capacity"
+      ],
+      "answers": [
+        {
+          "answer": "MetLife Stadium",
+          "display": "82,500 seats"
+        },
+        {
+          "answer": "Lambeau Field",
+          "display": "81,441 seats",
+          "aliases": [
+            "Lambeau"
+          ]
+        },
+        {
+          "answer": "Empower Field at Mile High",
+          "display": "76,125 seats",
+          "aliases": [
+            "Mile High Stadium",
+            "Mile High",
+            "Empower Field"
+          ]
+        },
+        {
+          "answer": "Bank of America Stadium",
+          "display": "75,037 seats"
+        },
+        {
+          "answer": "Arrowhead Stadium",
+          "display": "73,426 seats"
+        },
+        {
+          "answer": "M&T Bank Stadium",
+          "display": "71,008 seats"
+        },
+        {
+          "answer": "Lincoln Financial Field",
+          "display": "69,596 seats",
+          "aliases": [
+            "The Linc"
+          ]
+        },
+        {
+          "answer": "Nissan Stadium",
+          "display": "69,143 seats",
+          "aliases": [
+            "LP Field"
+          ]
+        },
+        {
+          "answer": "EverBank Stadium",
+          "display": "69,132 seats",
+          "aliases": [
+            "TIAA Bank Field"
+          ]
+        },
+        {
+          "answer": "Lumen Field",
+          "display": "69,000 seats",
+          "aliases": [
+            "CenturyLink Field"
+          ]
+        },
+        {
+          "answer": "Acrisure Stadium",
+          "display": "68,984 seats",
+          "aliases": [
+            "Heinz Field"
+          ]
+        },
+        {
+          "answer": "Levi's Stadium",
+          "display": "68,500 seats"
+        },
+        {
+          "answer": "Huntington Bank Field",
+          "display": "67,895 seats",
+          "aliases": [
+            "Cleveland Browns Stadium"
+          ]
+        }
+      ]
+    }
+  ]
+}

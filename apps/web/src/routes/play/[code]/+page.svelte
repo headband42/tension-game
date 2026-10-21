@@ -122,6 +122,9 @@
       <div class="card text-center">
         <p class="mb-1 text-xs tracking-wide text-red-400 uppercase">{view.question.category}</p>
         <h1 class="text-xl font-bold text-balance">{view.question.text}</h1>
+        <p class="mt-2 text-sm text-gray-400">
+          {view.question.tensionCount} tension answers lurking below the top {view.question.cutoff}
+        </p>
       </div>
 
       {#if locked}

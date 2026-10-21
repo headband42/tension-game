@@ -1,0 +1,742 @@
+{
+  "categories": [
+    {
+      "path": "geography/canada",
+      "name": "Canada"
+    },
+    {
+      "path": "geography/canada/cities",
+      "name": "Cities"
+    },
+    {
+      "path": "geography/canada/mountains",
+      "name": "Mountains"
+    },
+    {
+      "path": "geography/canada/lakes",
+      "name": "Lakes"
+    },
+    {
+      "path": "geography/canada/islands",
+      "name": "Islands"
+    }
+  ],
+  "questions": [
+    {
+      "category": "geography/canada/cities",
+      "difficulty": 2,
+      "question": "Top 10 largest census metropolitan areas (CMAs) in Canada by population (2021 census)",
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1371537808 | table 1 | name: Geographic name | value: Population / (2021) | header rows: 2 | where: Type=CMA",
+      "tags": [
+        "geography",
+        "canada",
+        "cities",
+        "population"
+      ],
+      "answers": [
+        {
+          "answer": "Toronto",
+          "display": "6,202,225 people"
+        },
+        {
+          "answer": "Montreal",
+          "display": "4,291,732 people"
+        },
+        {
+          "answer": "Vancouver",
+          "display": "2,642,825 people"
+        },
+        {
+          "answer": "Ottawa–Gatineau",
+          "display": "1,488,307 people",
+          "aliases": [
+            "Ottawa",
+            "Gatineau"
+          ]
+        },
+        {
+          "answer": "Calgary",
+          "display": "1,481,806 people"
+        },
+        {
+          "answer": "Edmonton",
+          "display": "1,418,118 people"
+        },
+        {
+          "answer": "Quebec City",
+          "display": "839,311 people",
+          "aliases": [
+            "Quebec",
+            "Québec"
+          ]
+        },
+        {
+          "answer": "Winnipeg",
+          "display": "834,678 people"
+        },
+        {
+          "answer": "Hamilton",
+          "display": "785,184 people"
+        },
+        {
+          "answer": "Kitchener–Cambridge–Waterloo",
+          "display": "575,847 people",
+          "aliases": [
+            "Kitchener",
+            "Waterloo"
+          ]
+        },
+        {
+          "answer": "London",
+          "display": "543,551 people"
+        },
+        {
+          "answer": "Halifax",
+          "display": "465,703 people"
+        },
+        {
+          "answer": "St. Catharines–Niagara",
+          "display": "433,604 people",
+          "aliases": [
+            "Niagara"
+          ]
+        },
+        {
+          "answer": "Windsor",
+          "display": "422,630 people"
+        }
+      ]
+    },
+    {
+      "category": "geography/canada/cities",
+      "difficulty": 3,
+      "question": "Top 10 most densely populated census metropolitan areas (CMAs) in Canada (people per km² of land, 2021 census)",
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1371537808 | table 1 | name: Geographic name | value: Pop. density | header rows: 2 | where: Type=CMA",
+      "tags": [
+        "geography",
+        "canada",
+        "cities",
+        "density"
+      ],
+      "answers": [
+        {
+          "answer": "Toronto",
+          "display": "1,050.7 per km²"
+        },
+        {
+          "answer": "Red Deer",
+          "display": "966.5 per km²"
+        },
+        {
+          "answer": "Montreal",
+          "display": "919.0 per km²"
+        },
+        {
+          "answer": "Vancouver",
+          "display": "918.0 per km²"
+        },
+        {
+          "answer": "Hamilton",
+          "display": "571.8 per km²"
+        },
+        {
+          "answer": "Victoria",
+          "display": "571.3 per km²"
+        },
+        {
+          "answer": "Kitchener–Cambridge–Waterloo",
+          "display": "527.2 per km²",
+          "aliases": [
+            "Kitchener",
+            "Waterloo"
+          ]
+        },
+        {
+          "answer": "Oshawa",
+          "display": "459.8 per km²"
+        },
+        {
+          "answer": "Abbotsford–Mission",
+          "display": "322.6 per km²",
+          "aliases": [
+            "Abbotsford"
+          ]
+        },
+        {
+          "answer": "St. Catharines–Niagara",
+          "display": "310.4 per km²",
+          "aliases": [
+            "Niagara"
+          ]
+        },
+        {
+          "answer": "Calgary",
+          "display": "290.6 per km²"
+        },
+        {
+          "answer": "Guelph",
+          "display": "278.3 per km²"
+        },
+        {
+          "answer": "Quebec City",
+          "display": "239.8 per km²",
+          "aliases": [
+            "Quebec",
+            "Québec"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "geography/canada/cities",
+      "difficulty": 2,
+      "question": "Top 10 most populous cities in Quebec (2021 census)",
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1368836779 | table 11 | name: Name | value: Population (2021) | where: Name!~^Total",
+      "tags": [
+        "geography",
+        "canada",
+        "cities",
+        "population"
+      ],
+      "answers": [
+        {
+          "answer": "Montreal",
+          "display": "1,762,949 people",
+          "aliases": [
+            "Montréal"
+          ]
+        },
+        {
+          "answer": "Quebec City",
+          "display": "549,459 people",
+          "aliases": [
+            "Quebec",
+            "Québec"
+          ]
+        },
+        {
+          "answer": "Laval",
+          "display": "438,366 people"
+        },
+        {
+          "answer": "Gatineau",
+          "display": "291,041 people"
+        },
+        {
+          "answer": "Longueuil",
+          "display": "254,483 people"
+        },
+        {
+          "answer": "Sherbrooke",
+          "display": "172,950 people"
+        },
+        {
+          "answer": "Lévis",
+          "display": "149,683 people",
+          "aliases": [
+            "Levis"
+          ]
+        },
+        {
+          "answer": "Saguenay",
+          "display": "144,723 people"
+        },
+        {
+          "answer": "Trois-Rivières",
+          "display": "139,163 people",
+          "aliases": [
+            "Trois Rivieres"
+          ]
+        },
+        {
+          "answer": "Terrebonne",
+          "display": "119,944 people"
+        },
+        {
+          "answer": "Saint-Jean-sur-Richelieu",
+          "display": "97,873 people"
+        },
+        {
+          "answer": "Brossard",
+          "display": "91,525 people"
+        },
+        {
+          "answer": "Repentigny",
+          "display": "86,100 people"
+        },
+        {
+          "answer": "Saint-Jérôme",
+          "display": "80,213 people"
+        }
+      ]
+    },
+    {
+      "category": "geography/canada/cities",
+      "difficulty": 2,
+      "question": "Top 10 most populous cities in British Columbia (2021 census)",
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1368836779 | table 3 | name: Name | value: Population (2021) | where: Name!~^Total",
+      "tags": [
+        "geography",
+        "canada",
+        "cities",
+        "population"
+      ],
+      "answers": [
+        {
+          "answer": "Vancouver",
+          "display": "662,248 people"
+        },
+        {
+          "answer": "Surrey",
+          "display": "568,322 people"
+        },
+        {
+          "answer": "Burnaby",
+          "display": "249,125 people"
+        },
+        {
+          "answer": "Richmond",
+          "display": "209,937 people"
+        },
+        {
+          "answer": "Abbotsford",
+          "display": "153,524 people"
+        },
+        {
+          "answer": "Coquitlam",
+          "display": "148,625 people"
+        },
+        {
+          "answer": "Kelowna",
+          "display": "144,576 people"
+        },
+        {
+          "answer": "Delta",
+          "display": "108,455 people"
+        },
+        {
+          "answer": "Nanaimo",
+          "display": "99,863 people"
+        },
+        {
+          "answer": "Kamloops",
+          "display": "97,902 people"
+        },
+        {
+          "answer": "Chilliwack",
+          "display": "93,203 people"
+        },
+        {
+          "answer": "Victoria",
+          "display": "91,867 people"
+        },
+        {
+          "answer": "Maple Ridge",
+          "display": "90,990 people"
+        }
+      ]
+    },
+    {
+      "category": "geography/canada/mountains",
+      "difficulty": 3,
+      "question": "Top 10 highest mountain summits in Canada (with at least 500 m of topographic prominence)",
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1347459792 | table 1 | name: Mountain peak | value: Elevation",
+      "tags": [
+        "geography",
+        "canada",
+        "mountains",
+        "highest"
+      ],
+      "answers": [
+        {
+          "answer": "Mount Logan",
+          "display": "5,956 m",
+          "aliases": [
+            "Logan"
+          ]
+        },
+        {
+          "answer": "Mount Saint Elias",
+          "display": "5,489 m",
+          "aliases": [
+            "Saint Elias"
+          ]
+        },
+        {
+          "answer": "Mount Lucania",
+          "display": "5,260 m",
+          "aliases": [
+            "Lucania"
+          ]
+        },
+        {
+          "answer": "King Peak",
+          "display": "5,173 m"
+        },
+        {
+          "answer": "Mount Steele",
+          "display": "5,020 m",
+          "aliases": [
+            "Steele"
+          ]
+        },
+        {
+          "answer": "Mount Wood",
+          "display": "4,860 m",
+          "aliases": [
+            "Wood"
+          ]
+        },
+        {
+          "answer": "Mount Vancouver",
+          "display": "4,812 m"
+        },
+        {
+          "answer": "Mount Slaggard",
+          "display": "4,742 m"
+        },
+        {
+          "answer": "Mount Fairweather",
+          "display": "4,671 m",
+          "aliases": [
+            "Fairweather"
+          ]
+        },
+        {
+          "answer": "Mount Hubbard",
+          "display": "4,557 m",
+          "aliases": [
+            "Hubbard"
+          ]
+        },
+        {
+          "answer": "Mount Walsh",
+          "display": "4,506 m",
+          "aliases": [
+            "Walsh"
+          ]
+        },
+        {
+          "answer": "Mount Alverstone",
+          "display": "4,420 m",
+          "aliases": [
+            "Alverstone",
+            "Boundary Point 180"
+          ]
+        },
+        {
+          "answer": "McArthur Peak",
+          "display": "4,380 m",
+          "aliases": [
+            "McArthur"
+          ]
+        },
+        {
+          "answer": "Mount Augusta",
+          "display": "4,289 m",
+          "aliases": [
+            "Augusta"
+          ]
+        },
+        {
+          "answer": "Mount Strickland",
+          "display": "4,260 m",
+          "aliases": [
+            "Strickland"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "geography/canada/islands",
+      "difficulty": 2,
+      "question": "Top 10 largest islands in Canada by area (2026 figures)",
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1378440269 | table 2 | name: Island | value: (km2) | header rows: 2 | where: Nation(s)~Canada",
+      "tags": [
+        "geography",
+        "canada",
+        "islands",
+        "area"
+      ],
+      "answers": [
+        {
+          "answer": "Baffin Island",
+          "display": "507,205 km²",
+          "aliases": [
+            "Baffin"
+          ]
+        },
+        {
+          "answer": "Victoria Island",
+          "display": "219,191 km²",
+          "aliases": [
+            "Victoria"
+          ]
+        },
+        {
+          "answer": "Ellesmere Island",
+          "display": "197,790 km²",
+          "aliases": [
+            "Ellesmere"
+          ]
+        },
+        {
+          "answer": "Newfoundland",
+          "display": "108,878 km²",
+          "aliases": [
+            "Newfoundland Island"
+          ]
+        },
+        {
+          "answer": "Banks Island",
+          "display": "70,191 km²",
+          "aliases": [
+            "Banks"
+          ]
+        },
+        {
+          "answer": "Devon Island",
+          "display": "55,535 km²",
+          "aliases": [
+            "Devon"
+          ]
+        },
+        {
+          "answer": "Southampton Island",
+          "display": "43,069 km²",
+          "aliases": [
+            "Southampton"
+          ]
+        },
+        {
+          "answer": "Melville Island",
+          "display": "42,330 km²",
+          "aliases": [
+            "Melville"
+          ]
+        },
+        {
+          "answer": "Axel Heiberg Island",
+          "display": "42,277 km²",
+          "aliases": [
+            "Axel Heiberg"
+          ]
+        },
+        {
+          "answer": "Prince of Wales Island",
+          "display": "33,308 km²",
+          "aliases": [
+            "Prince of Wales"
+          ]
+        },
+        {
+          "answer": "Vancouver Island",
+          "display": "31,815 km²"
+        },
+        {
+          "answer": "Somerset Island",
+          "display": "24,755 km²",
+          "aliases": [
+            "Somerset"
+          ]
+        },
+        {
+          "answer": "Bathurst Island",
+          "display": "16,051 km²",
+          "aliases": [
+            "Bathurst"
+          ]
+        },
+        {
+          "answer": "Prince Patrick Island",
+          "display": "15,792 km²",
+          "aliases": [
+            "Prince Patrick"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "geography/canada/lakes",
+      "difficulty": 3,
+      "question": "Top 10 largest lakes in Ontario by area within Canada (km²)",
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1376225562 | table 8 | name: 2 | value: 3",
+      "tags": [
+        "geography",
+        "canada",
+        "lakes",
+        "ontario",
+        "area"
+      ],
+      "answers": [
+        {
+          "answer": "Lake Huron",
+          "display": "36,000 km²",
+          "aliases": [
+            "Huron"
+          ]
+        },
+        {
+          "answer": "Lake Superior",
+          "display": "28,700 km²",
+          "aliases": [
+            "Superior"
+          ]
+        },
+        {
+          "answer": "Lake Erie",
+          "display": "12,800 km²",
+          "aliases": [
+            "Erie"
+          ]
+        },
+        {
+          "answer": "Lake Ontario",
+          "display": "10,000 km²"
+        },
+        {
+          "answer": "Lake Nipigon",
+          "display": "4,848 km²",
+          "aliases": [
+            "Nipigon"
+          ]
+        },
+        {
+          "answer": "Lake of the Woods",
+          "display": "3,150 km²",
+          "aliases": [
+            "Lake of Woods"
+          ]
+        },
+        {
+          "answer": "Lac Seul",
+          "display": "1,657 km²"
+        },
+        {
+          "answer": "Lake St. Clair",
+          "display": "1,114 km²",
+          "aliases": [
+            "St. Clair"
+          ]
+        },
+        {
+          "answer": "Rainy Lake",
+          "display": "932 km²"
+        },
+        {
+          "answer": "Lake Abitibi",
+          "display": "931 km²",
+          "aliases": [
+            "Abitibi"
+          ]
+        },
+        {
+          "answer": "Lake Nipissing",
+          "display": "832 km²",
+          "aliases": [
+            "Nipissing"
+          ]
+        },
+        {
+          "answer": "Lake Simcoe",
+          "display": "744 km²",
+          "aliases": [
+            "Simcoe"
+          ]
+        },
+        {
+          "answer": "Big Trout Lake",
+          "display": "661 km²"
+        },
+        {
+          "answer": "Sandy Lake",
+          "display": "527 km²"
+        }
+      ]
+    },
+    {
+      "category": "geography/canada/lakes",
+      "difficulty": 3,
+      "question": "Top 10 largest lakes in Manitoba by area (km², lakes of 400 km² or more)",
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1376225562 | table 4 | name: 2 | value: 3",
+      "tags": [
+        "geography",
+        "canada",
+        "lakes",
+        "manitoba",
+        "area"
+      ],
+      "answers": [
+        {
+          "answer": "Lake Winnipeg",
+          "display": "24,387 km²",
+          "aliases": [
+            "Winnipeg"
+          ]
+        },
+        {
+          "answer": "Lake Winnipegosis",
+          "display": "5,734 km²",
+          "aliases": [
+            "Winnipegosis"
+          ]
+        },
+        {
+          "answer": "Lake Manitoba",
+          "display": "4,624 km²"
+        },
+        {
+          "answer": "Southern Indian Lake",
+          "display": "2,247 km²"
+        },
+        {
+          "answer": "Cedar Lake",
+          "display": "1,353 km²"
+        },
+        {
+          "answer": "Island Lake",
+          "display": "1,223 km²"
+        },
+        {
+          "answer": "Gods Lake",
+          "display": "1,151 km²",
+          "aliases": [
+            "God's Lake"
+          ]
+        },
+        {
+          "answer": "Cross Lake",
+          "display": "755 km²"
+        },
+        {
+          "answer": "Playgreen Lake",
+          "display": "657 km²"
+        },
+        {
+          "answer": "Dauphin Lake",
+          "display": "519 km²"
+        },
+        {
+          "answer": "Granville Lake",
+          "display": "490 km²"
+        },
+        {
+          "answer": "Sipiwesk Lake",
+          "display": "454 km²"
+        },
+        {
+          "answer": "Oxford Lake",
+          "display": "401 km²"
+        }
+      ]
+    }
+  ]
+}

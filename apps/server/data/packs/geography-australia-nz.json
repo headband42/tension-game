@@ -1,0 +1,362 @@
+{
+  "categories": [
+    {
+      "path": "geography/australia-nz",
+      "name": "Australia and New Zealand"
+    },
+    {
+      "path": "geography/australia-nz/cities",
+      "name": "Cities"
+    },
+    {
+      "path": "geography/australia-nz/islands",
+      "name": "Islands"
+    },
+    {
+      "path": "geography/australia-nz/lakes",
+      "name": "Lakes"
+    }
+  ],
+  "questions": [
+    {
+      "category": "geography/australia-nz/cities",
+      "question": "Top 10 most populous Australian cities (Significant Urban Areas, June 2025 estimates)",
+      "difficulty": 1,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1378917870 | table 2 | name: Significant Urban Area | value: June 2025 | header rows: 2",
+      "tags": [
+        "geography",
+        "australia",
+        "cities",
+        "population"
+      ],
+      "answers": [
+        {
+          "answer": "Melbourne",
+          "display": "5,328,274 people"
+        },
+        {
+          "answer": "Sydney",
+          "display": "5,219,674 people"
+        },
+        {
+          "answer": "Brisbane",
+          "display": "2,745,086 people"
+        },
+        {
+          "answer": "Perth",
+          "display": "2,430,757 people"
+        },
+        {
+          "answer": "Adelaide",
+          "display": "1,470,938 people"
+        },
+        {
+          "answer": "Gold Coast",
+          "display": "761,634 people",
+          "aliases": [
+            "Gold Coast–Tweed Heads"
+          ]
+        },
+        {
+          "answer": "Newcastle",
+          "display": "541,634 people",
+          "aliases": [
+            "Newcastle–Maitland"
+          ]
+        },
+        {
+          "answer": "Canberra",
+          "display": "521,049 people",
+          "aliases": [
+            "Canberra–Queanbeyan"
+          ]
+        },
+        {
+          "answer": "Sunshine Coast",
+          "display": "424,741 people"
+        },
+        {
+          "answer": "Central Coast",
+          "display": "354,189 people"
+        },
+        {
+          "answer": "Wollongong",
+          "display": "322,343 people"
+        },
+        {
+          "answer": "Geelong",
+          "display": "314,381 people"
+        },
+        {
+          "answer": "Hobart",
+          "display": "233,736 people"
+        }
+      ]
+    },
+    {
+      "category": "geography/australia-nz/cities",
+      "question": "Top 10 largest urban areas in New Zealand by population (2023 Census)",
+      "difficulty": 1,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1367245736 | table 1 | name: Name | value: 2023 census | header rows: 2",
+      "tags": [
+        "geography",
+        "new-zealand",
+        "cities",
+        "population"
+      ],
+      "answers": [
+        {
+          "answer": "Auckland",
+          "display": "1,402,275 people"
+        },
+        {
+          "answer": "Christchurch",
+          "display": "380,079 people"
+        },
+        {
+          "answer": "Wellington",
+          "display": "201,708 people"
+        },
+        {
+          "answer": "Hamilton",
+          "display": "174,741 people"
+        },
+        {
+          "answer": "Tauranga",
+          "display": "152,790 people"
+        },
+        {
+          "answer": "Lower Hutt",
+          "display": "106,530 people"
+        },
+        {
+          "answer": "Dunedin",
+          "display": "100,908 people"
+        },
+        {
+          "answer": "Palmerston North",
+          "display": "78,021 people"
+        },
+        {
+          "answer": "Napier",
+          "display": "64,695 people"
+        },
+        {
+          "answer": "Hibiscus Coast",
+          "display": "63,351 people"
+        },
+        {
+          "answer": "Porirua",
+          "display": "58,080 people"
+        },
+        {
+          "answer": "New Plymouth",
+          "display": "58,047 people"
+        },
+        {
+          "answer": "Rotorua",
+          "display": "55,326 people"
+        }
+      ]
+    },
+    {
+      "category": "geography/australia-nz/islands",
+      "question": "Top 10 largest islands of New Zealand by area",
+      "difficulty": 1,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1370140068 | table 1 | name: Name of island | value: Area (km2)",
+      "tags": [
+        "geography",
+        "new-zealand",
+        "islands",
+        "area"
+      ],
+      "answers": [
+        {
+          "answer": "South Island",
+          "display": "150,437 km2",
+          "aliases": [
+            "Te Waipounamu"
+          ]
+        },
+        {
+          "answer": "North Island",
+          "display": "113,729 km2",
+          "aliases": [
+            "Te Ika-a-Māui"
+          ]
+        },
+        {
+          "answer": "Stewart Island",
+          "display": "1,683 km2",
+          "aliases": [
+            "Rakiura"
+          ]
+        },
+        {
+          "answer": "Chatham Island",
+          "display": "900 km2"
+        },
+        {
+          "answer": "Auckland Island",
+          "display": "510 km2"
+        },
+        {
+          "answer": "Great Barrier Island",
+          "display": "285 km2",
+          "aliases": [
+            "Aotea Island"
+          ]
+        },
+        {
+          "answer": "Resolution Island",
+          "display": "209 km2"
+        },
+        {
+          "answer": "D'Urville Island",
+          "display": "150 km2",
+          "aliases": [
+            "Rangitoto ki te Tonga"
+          ]
+        },
+        {
+          "answer": "Campbell Island",
+          "display": "113 km2",
+          "aliases": [
+            "Motu Ihupuku"
+          ]
+        },
+        {
+          "answer": "Adams Island",
+          "display": "100 km2"
+        },
+        {
+          "answer": "Waiheke Island",
+          "display": "92 km2",
+          "aliases": [
+            "Waiheke"
+          ]
+        },
+        {
+          "answer": "Secretary Island",
+          "display": "81.4 km2"
+        },
+        {
+          "answer": "Arapaoa Island",
+          "display": "75 km2",
+          "aliases": [
+            "Arapaoa"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "geography/australia-nz/lakes",
+      "question": "Top 10 largest lakes in New Zealand by surface area (lagoons excluded)",
+      "difficulty": 1,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1378035575 | table 1 | name: Name | value: Surface area | where: Name!~Lagoon | where: Notes!~lagoon",
+      "tags": [
+        "geography",
+        "new-zealand",
+        "lakes",
+        "area"
+      ],
+      "answers": [
+        {
+          "answer": "Lake Taupō",
+          "display": "616 km2",
+          "aliases": [
+            "Taupo"
+          ]
+        },
+        {
+          "answer": "Lake Te Anau",
+          "display": "344 km2",
+          "aliases": [
+            "Te Anau"
+          ]
+        },
+        {
+          "answer": "Lake Wakatipu",
+          "display": "291 km2",
+          "aliases": [
+            "Wakatipu"
+          ]
+        },
+        {
+          "answer": "Lake Wānaka",
+          "display": "192 km2",
+          "aliases": [
+            "Wanaka"
+          ]
+        },
+        {
+          "answer": "Lake Pukaki",
+          "display": "179 km2",
+          "aliases": [
+            "Pukaki"
+          ]
+        },
+        {
+          "answer": "Lake Manapouri",
+          "display": "142 km2",
+          "aliases": [
+            "Manapouri"
+          ]
+        },
+        {
+          "answer": "Lake Hāwea",
+          "display": "141 km2",
+          "aliases": [
+            "Hawea"
+          ]
+        },
+        {
+          "answer": "Lake Tekapo",
+          "display": "83 km2",
+          "aliases": [
+            "Tekapo"
+          ]
+        },
+        {
+          "answer": "Lake Rotorua",
+          "display": "79 km2",
+          "aliases": [
+            "Rotorua"
+          ]
+        },
+        {
+          "answer": "Lake Wairarapa",
+          "display": "78 km2",
+          "aliases": [
+            "Wairarapa"
+          ]
+        },
+        {
+          "answer": "Lake Benmore",
+          "display": "75 km2",
+          "aliases": [
+            "Benmore"
+          ]
+        },
+        {
+          "answer": "Lake Hauroko",
+          "display": "63 km2",
+          "aliases": [
+            "Hauroko"
+          ]
+        },
+        {
+          "answer": "Lake Ōhau",
+          "display": "63 km2",
+          "aliases": [
+            "Ohau"
+          ]
+        }
+      ]
+    }
+  ]
+}

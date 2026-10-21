@@ -1,0 +1,382 @@
+{
+  "questions": [
+    {
+      "category": "food/production",
+      "difficulty": 2,
+      "question": "Top 10 countries by apple production (2022, FAO)",
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1353339807 | table 1 | name: Country/region | value: 2022 | where: Country/region!~World",
+      "tags": [
+        "food",
+        "production",
+        "apple"
+      ],
+      "answers": [
+        {
+          "answer": "China",
+          "display": "47,571,800 tonnes"
+        },
+        {
+          "answer": "Turkey",
+          "display": "4,817,500 tonnes"
+        },
+        {
+          "answer": "United States",
+          "display": "4,429,330 tonnes",
+          "aliases": [
+            "USA",
+            "US"
+          ]
+        },
+        {
+          "answer": "Poland",
+          "display": "4,264,700 tonnes"
+        },
+        {
+          "answer": "India",
+          "display": "2,589,000 tonnes"
+        },
+        {
+          "answer": "Russia",
+          "display": "2,379,900 tonnes"
+        },
+        {
+          "answer": "Italy",
+          "display": "2,256,240 tonnes"
+        },
+        {
+          "answer": "Iran",
+          "display": "1,989,734 tonnes"
+        },
+        {
+          "answer": "France",
+          "display": "1,785,660 tonnes"
+        },
+        {
+          "answer": "Chile",
+          "display": "1,479,683 tonnes"
+        },
+        {
+          "answer": "Uzbekistan",
+          "display": "1,313,233 tonnes"
+        },
+        {
+          "answer": "South Africa",
+          "display": "1,231,867 tonnes"
+        },
+        {
+          "answer": "Ukraine",
+          "display": "1,129,120 tonnes"
+        },
+        {
+          "answer": "Germany",
+          "display": "1,070,980 tonnes"
+        },
+        {
+          "answer": "Brazil",
+          "display": "1,047,217 tonnes"
+        }
+      ]
+    },
+    {
+      "category": "food/production",
+      "difficulty": 2,
+      "question": "Top 10 countries by soybean production (2022, FAO)",
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1353463365 | table 1 | name: Country | value: 2022 | where: Country!~World",
+      "tags": [
+        "food",
+        "production",
+        "soybean"
+      ],
+      "answers": [
+        {
+          "answer": "Brazil",
+          "display": "120,701,031 tonnes"
+        },
+        {
+          "answer": "United States",
+          "display": "116,377,000 tonnes",
+          "aliases": [
+            "USA",
+            "US"
+          ]
+        },
+        {
+          "answer": "Argentina",
+          "display": "43,861,066 tonnes"
+        },
+        {
+          "answer": "China",
+          "display": "20,280,000 tonnes"
+        },
+        {
+          "answer": "India",
+          "display": "12,986,720 tonnes"
+        },
+        {
+          "answer": "Canada",
+          "display": "6,543,158 tonnes"
+        },
+        {
+          "answer": "Russia",
+          "display": "6,003,153 tonnes"
+        },
+        {
+          "answer": "Paraguay",
+          "display": "4,532,103 tonnes"
+        },
+        {
+          "answer": "Bolivia",
+          "display": "3,457,144 tonnes"
+        },
+        {
+          "answer": "Ukraine",
+          "display": "3,443,800 tonnes"
+        },
+        {
+          "answer": "South Africa",
+          "display": "1,148,300 tonnes"
+        },
+        {
+          "answer": "Nigeria",
+          "display": "1,060,000 tonnes"
+        },
+        {
+          "answer": "Italy",
+          "display": "943,400 tonnes"
+        },
+        {
+          "answer": "Uruguay",
+          "display": "647,830 tonnes"
+        },
+        {
+          "answer": "Zambia",
+          "display": "475,353 tonnes"
+        }
+      ]
+    },
+    {
+      "category": "food/production",
+      "difficulty": 2,
+      "question": "Top 10 countries by coconut production (2022, FAO)",
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1353350068 | table 1 | name: Country/region | value: 2022 | where: Country/region!~World",
+      "tags": [
+        "food",
+        "production",
+        "coconut"
+      ],
+      "answers": [
+        {
+          "answer": "Indonesia",
+          "display": "17,190,328 tonnes"
+        },
+        {
+          "answer": "Philippines",
+          "display": "14,931,158 tonnes"
+        },
+        {
+          "answer": "India",
+          "display": "13,317,000 tonnes"
+        },
+        {
+          "answer": "Brazil",
+          "display": "2,744,418 tonnes"
+        },
+        {
+          "answer": "Sri Lanka",
+          "display": "2,204,150 tonnes"
+        },
+        {
+          "answer": "Vietnam",
+          "display": "1,930,182 tonnes"
+        },
+        {
+          "answer": "Papua New Guinea",
+          "display": "1,258,149 tonnes"
+        },
+        {
+          "answer": "Myanmar",
+          "display": "1,217,442 tonnes"
+        },
+        {
+          "answer": "Mexico",
+          "display": "1,119,847 tonnes"
+        },
+        {
+          "answer": "Thailand",
+          "display": "679,232 tonnes"
+        },
+        {
+          "answer": "Malaysia",
+          "display": "604,428 tonnes"
+        },
+        {
+          "answer": "Ghana",
+          "display": "504,363 tonnes"
+        },
+        {
+          "answer": "Tanzania",
+          "display": "479,711 tonnes"
+        },
+        {
+          "answer": "Dominican Republic",
+          "display": "471,804 tonnes"
+        },
+        {
+          "answer": "Bangladesh",
+          "display": "411,969 tonnes"
+        }
+      ]
+    },
+    {
+      "category": "food/production",
+      "difficulty": 2,
+      "question": "Top 10 countries by pineapple production (2022, FAO)",
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1353451279 | table 1 | name: Country | value: 2022 | where: Country!~World",
+      "tags": [
+        "food",
+        "production",
+        "pineapple"
+      ],
+      "answers": [
+        {
+          "answer": "Indonesia",
+          "display": "3,203,775 tonnes"
+        },
+        {
+          "answer": "Philippines",
+          "display": "2,914,425 tonnes"
+        },
+        {
+          "answer": "Costa Rica",
+          "display": "2,909,750 tonnes"
+        },
+        {
+          "answer": "Brazil",
+          "display": "2,337,302 tonnes"
+        },
+        {
+          "answer": "China",
+          "display": "1,960,000 tonnes"
+        },
+        {
+          "answer": "India",
+          "display": "1,851,000 tonnes"
+        },
+        {
+          "answer": "Thailand",
+          "display": "1,714,213 tonnes"
+        },
+        {
+          "answer": "Nigeria",
+          "display": "1,607,200 tonnes"
+        },
+        {
+          "answer": "Mexico",
+          "display": "1,247,593 tonnes"
+        },
+        {
+          "answer": "Colombia",
+          "display": "919,709 tonnes"
+        },
+        {
+          "answer": "Angola",
+          "display": "710,530 tonnes"
+        },
+        {
+          "answer": "Vietnam",
+          "display": "705,460 tonnes"
+        },
+        {
+          "answer": "Ghana",
+          "display": "678,079 tonnes"
+        },
+        {
+          "answer": "Peru",
+          "display": "587,217 tonnes"
+        },
+        {
+          "answer": "Dominican Republic",
+          "display": "496,873 tonnes"
+        }
+      ]
+    },
+    {
+      "category": "food/production",
+      "difficulty": 2,
+      "question": "Top 10 countries by banana and plantain production (2022, FAO)",
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1380549513 | table 1 | name: 1 | value: Total | where: 1!~World",
+      "tags": [
+        "food",
+        "production",
+        "banana"
+      ],
+      "answers": [
+        {
+          "answer": "India",
+          "display": "34.5 million tonnes"
+        },
+        {
+          "answer": "China",
+          "display": "11.8 million tonnes"
+        },
+        {
+          "answer": "Uganda",
+          "display": "10.4 million tonnes"
+        },
+        {
+          "answer": "Indonesia",
+          "display": "9.2 million tonnes"
+        },
+        {
+          "answer": "Philippines",
+          "display": "9.0 million tonnes"
+        },
+        {
+          "answer": "Nigeria",
+          "display": "8.0 million tonnes"
+        },
+        {
+          "answer": "Ecuador",
+          "display": "6.9 million tonnes"
+        },
+        {
+          "answer": "Brazil",
+          "display": "6.9 million tonnes"
+        },
+        {
+          "answer": "Democratic Republic of the Congo",
+          "display": "5.7 million tonnes"
+        },
+        {
+          "answer": "Cameroon",
+          "display": "5.5 million tonnes"
+        },
+        {
+          "answer": "Colombia",
+          "display": "5.0 million tonnes"
+        },
+        {
+          "answer": "Guatemala",
+          "display": "5.0 million tonnes"
+        },
+        {
+          "answer": "Ghana",
+          "display": "4.9 million tonnes"
+        },
+        {
+          "answer": "Angola",
+          "display": "4.6 million tonnes"
+        },
+        {
+          "answer": "Tanzania",
+          "display": "4.1 million tonnes"
+        }
+      ]
+    }
+  ]
+}

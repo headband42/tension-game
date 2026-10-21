@@ -1,0 +1,1217 @@
+{
+  "categories": [
+    {
+      "path": "games/video-games/awards",
+      "name": "Video Game Awards"
+    }
+  ],
+  "questions": [
+    {
+      "category": "games/video-games/awards",
+      "question": "Top 8 games by nominations at The Game Awards 2017",
+      "cutoff": 8,
+      "difficulty": 3,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1376443740 | table 4 | name: Game | value: Nominations",
+      "tags": [
+        "games",
+        "awards",
+        "the-game-awards",
+        "2017"
+      ],
+      "answers": [
+        {
+          "answer": "Destiny 2",
+          "display": "6 nominations"
+        },
+        {
+          "answer": "Horizon Zero Dawn",
+          "display": "6 nominations",
+          "aliases": [
+            "HZD"
+          ]
+        },
+        {
+          "answer": "The Legend of Zelda: Breath of the Wild",
+          "display": "6 nominations",
+          "aliases": [
+            "Breath of the Wild",
+            "Zelda Breath of the Wild",
+            "BotW"
+          ]
+        },
+        {
+          "answer": "Super Mario Odyssey",
+          "display": "6 nominations",
+          "aliases": [
+            "Mario Odyssey"
+          ]
+        },
+        {
+          "answer": "Cuphead",
+          "display": "5 nominations"
+        },
+        {
+          "answer": "Hellblade: Senua's Sacrifice",
+          "display": "5 nominations",
+          "aliases": [
+            "Hellblade"
+          ]
+        },
+        {
+          "answer": "Persona 5",
+          "display": "4 nominations"
+        },
+        {
+          "answer": "Wolfenstein II: The New Colossus",
+          "display": "4 nominations",
+          "aliases": [
+            "Wolfenstein II",
+            "New Colossus"
+          ]
+        },
+        {
+          "answer": "Nier: Automata",
+          "display": "3 nominations",
+          "aliases": [
+            "Nier"
+          ]
+        },
+        {
+          "answer": "PlayerUnknown's Battlegrounds",
+          "display": "3 nominations",
+          "aliases": [
+            "PUBG"
+          ]
+        },
+        {
+          "answer": "Resident Evil 7: Biohazard",
+          "display": "3 nominations",
+          "aliases": [
+            "Resident Evil 7",
+            "RE7"
+          ]
+        },
+        {
+          "answer": "Uncharted: The Lost Legacy",
+          "display": "3 nominations",
+          "aliases": [
+            "Lost Legacy"
+          ]
+        },
+        {
+          "answer": "What Remains of Edith Finch",
+          "display": "3 nominations",
+          "aliases": [
+            "Edith Finch"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "games/video-games/awards",
+      "question": "Top 7 games by nominations at The Game Awards 2020",
+      "cutoff": 7,
+      "difficulty": 3,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1376554877 | table 3 | name: Game | value: Nominations",
+      "tags": [
+        "games",
+        "awards",
+        "the-game-awards",
+        "2020"
+      ],
+      "answers": [
+        {
+          "answer": "The Last of Us Part II",
+          "display": "11 nominations",
+          "aliases": [
+            "TLOU2",
+            "The Last of Us 2",
+            "Last of Us Part II"
+          ]
+        },
+        {
+          "answer": "Hades",
+          "display": "9 nominations"
+        },
+        {
+          "answer": "Ghost of Tsushima",
+          "display": "8 nominations"
+        },
+        {
+          "answer": "Final Fantasy VII Remake",
+          "display": "6 nominations",
+          "aliases": [
+            "FF7 Remake",
+            "FFVII Remake"
+          ]
+        },
+        {
+          "answer": "Doom Eternal",
+          "display": "5 nominations",
+          "aliases": [
+            "Doom"
+          ]
+        },
+        {
+          "answer": "Fall Guys",
+          "display": "4 nominations"
+        },
+        {
+          "answer": "Half-Life: Alyx",
+          "display": "4 nominations",
+          "aliases": [
+            "Half Life Alyx",
+            "Alyx"
+          ]
+        },
+        {
+          "answer": "Animal Crossing: New Horizons",
+          "display": "3 nominations",
+          "aliases": [
+            "Animal Crossing",
+            "ACNH"
+          ]
+        },
+        {
+          "answer": "Fortnite",
+          "display": "3 nominations"
+        },
+        {
+          "answer": "Ori and the Will of the Wisps",
+          "display": "3 nominations",
+          "aliases": [
+            "Ori"
+          ]
+        },
+        {
+          "answer": "Spider-Man: Miles Morales",
+          "display": "3 nominations",
+          "aliases": [
+            "Miles Morales"
+          ]
+        },
+        {
+          "answer": "Valorant",
+          "display": "3 nominations"
+        }
+      ]
+    },
+    {
+      "category": "games/video-games/awards",
+      "question": "Top 7 games by nominations at The Game Awards 2023",
+      "cutoff": 7,
+      "difficulty": 3,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1376444152 | table 3 | name: Game | value: Nominations",
+      "tags": [
+        "games",
+        "awards",
+        "the-game-awards",
+        "2023"
+      ],
+      "answers": [
+        {
+          "answer": "Baldur's Gate 3",
+          "display": "9 nominations",
+          "aliases": [
+            "BG3"
+          ]
+        },
+        {
+          "answer": "Alan Wake 2",
+          "display": "8 nominations"
+        },
+        {
+          "answer": "Marvel's Spider-Man 2",
+          "display": "8 nominations",
+          "aliases": [
+            "Spider-Man 2",
+            "Spider Man 2"
+          ]
+        },
+        {
+          "answer": "The Legend of Zelda: Tears of the Kingdom",
+          "display": "6 nominations",
+          "aliases": [
+            "Tears of the Kingdom",
+            "Zelda Tears of the Kingdom",
+            "TOTK"
+          ]
+        },
+        {
+          "answer": "Cyberpunk 2077",
+          "display": "5 nominations",
+          "aliases": [
+            "Cyberpunk"
+          ]
+        },
+        {
+          "answer": "Hi-Fi Rush",
+          "display": "5 nominations"
+        },
+        {
+          "answer": "Super Mario Bros. Wonder",
+          "display": "5 nominations",
+          "aliases": [
+            "Mario Wonder",
+            "Super Mario Wonder"
+          ]
+        },
+        {
+          "answer": "Final Fantasy XVI",
+          "display": "4 nominations",
+          "aliases": [
+            "FF16",
+            "FFXVI"
+          ]
+        },
+        {
+          "answer": "Resident Evil 4",
+          "display": "3 nominations",
+          "aliases": [
+            "RE4"
+          ]
+        },
+        {
+          "answer": "Street Fighter 6",
+          "display": "3 nominations",
+          "aliases": [
+            "SF6"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "games/video-games/awards",
+      "question": "Top 7 games by nominations at The Game Awards 2024",
+      "cutoff": 7,
+      "difficulty": 4,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1376444101 | table 3 | name: Game | value: Nominations",
+      "tags": [
+        "games",
+        "awards",
+        "the-game-awards",
+        "2024"
+      ],
+      "answers": [
+        {
+          "answer": "Astro Bot",
+          "display": "7 nominations"
+        },
+        {
+          "answer": "Final Fantasy VII Rebirth",
+          "display": "7 nominations",
+          "aliases": [
+            "FF7 Rebirth",
+            "FFVII Rebirth"
+          ]
+        },
+        {
+          "answer": "Metaphor: ReFantazio",
+          "display": "6 nominations",
+          "aliases": [
+            "Metaphor"
+          ]
+        },
+        {
+          "answer": "Balatro",
+          "display": "5 nominations"
+        },
+        {
+          "answer": "Black Myth: Wukong",
+          "display": "5 nominations",
+          "aliases": [
+            "Black Myth Wukong"
+          ]
+        },
+        {
+          "answer": "Elden Ring: Shadow of the Erdtree",
+          "display": "5 nominations",
+          "aliases": [
+            "Elden Ring Shadow of the Erdtree",
+            "Shadow of the Erdtree"
+          ]
+        },
+        {
+          "answer": "Silent Hill 2",
+          "display": "5 nominations"
+        },
+        {
+          "answer": "Call of Duty: Black Ops 6",
+          "display": "4 nominations",
+          "aliases": [
+            "Black Ops 6",
+            "BO6"
+          ]
+        },
+        {
+          "answer": "Helldivers II",
+          "display": "4 nominations",
+          "aliases": [
+            "Helldivers 2"
+          ]
+        },
+        {
+          "answer": "Senua's Saga: Hellblade II",
+          "display": "4 nominations",
+          "aliases": [
+            "Hellblade II",
+            "Hellblade 2"
+          ]
+        },
+        {
+          "answer": "Neva",
+          "display": "3 nominations"
+        },
+        {
+          "answer": "Star Wars Outlaws",
+          "display": "3 nominations",
+          "aliases": [
+            "Outlaws"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "games/video-games/awards",
+      "question": "Top 7 games by nominations at the 17th British Academy Games Awards",
+      "cutoff": 7,
+      "difficulty": 4,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1356807457 | table 2 | name: Game | value: Nominations",
+      "tags": [
+        "games",
+        "awards",
+        "bafta",
+        "2021"
+      ],
+      "answers": [
+        {
+          "answer": "The Last of Us Part II",
+          "display": "14 nominations",
+          "aliases": [
+            "TLOU2",
+            "The Last of Us 2",
+            "Last of Us Part II"
+          ]
+        },
+        {
+          "answer": "Ghost of Tsushima",
+          "display": "11 nominations"
+        },
+        {
+          "answer": "Hades",
+          "display": "9 nominations"
+        },
+        {
+          "answer": "Spider-Man: Miles Morales",
+          "display": "7 nominations",
+          "aliases": [
+            "Miles Morales"
+          ]
+        },
+        {
+          "answer": "Animal Crossing: New Horizons",
+          "display": "6 nominations",
+          "aliases": [
+            "Animal Crossing",
+            "ACNH"
+          ]
+        },
+        {
+          "answer": "Dreams",
+          "display": "6 nominations"
+        },
+        {
+          "answer": "Fall Guys",
+          "display": "5 nominations"
+        },
+        {
+          "answer": "Cyberpunk 2077",
+          "display": "4 nominations",
+          "aliases": [
+            "Cyberpunk"
+          ]
+        },
+        {
+          "answer": "Half-Life: Alyx",
+          "display": "4 nominations",
+          "aliases": [
+            "Half Life Alyx",
+            "Alyx"
+          ]
+        },
+        {
+          "answer": "Sackboy: A Big Adventure",
+          "display": "4 nominations",
+          "aliases": [
+            "Sackboy"
+          ]
+        },
+        {
+          "answer": "Astro's Playroom",
+          "display": "3 nominations",
+          "aliases": [
+            "Astro Playroom"
+          ]
+        },
+        {
+          "answer": "Spiritfarer",
+          "display": "3 nominations"
+        }
+      ]
+    },
+    {
+      "category": "games/video-games/awards",
+      "question": "Top 7 games by nominations at the 18th British Academy Games Awards",
+      "cutoff": 7,
+      "difficulty": 4,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1272827643 | table 2 | name: Game | value: Nominations",
+      "tags": [
+        "games",
+        "awards",
+        "bafta",
+        "2022"
+      ],
+      "answers": [
+        {
+          "answer": "It Takes Two",
+          "display": "9 nominations"
+        },
+        {
+          "answer": "Returnal",
+          "display": "9 nominations"
+        },
+        {
+          "answer": "Deathloop",
+          "display": "8 nominations"
+        },
+        {
+          "answer": "Ratchet & Clank: Rift Apart",
+          "display": "8 nominations",
+          "aliases": [
+            "Rift Apart",
+            "Ratchet and Clank Rift Apart"
+          ]
+        },
+        {
+          "answer": "Psychonauts 2",
+          "display": "7 nominations"
+        },
+        {
+          "answer": "Forza Horizon 5",
+          "display": "6 nominations",
+          "aliases": [
+            "Forza Horizon",
+            "FH5"
+          ]
+        },
+        {
+          "answer": "Marvel's Guardians of the Galaxy",
+          "display": "5 nominations",
+          "aliases": [
+            "Guardians of the Galaxy"
+          ]
+        },
+        {
+          "answer": "Call of Duty: Vanguard",
+          "display": "4 nominations",
+          "aliases": [
+            "Vanguard"
+          ]
+        },
+        {
+          "answer": "Life Is Strange: True Colors",
+          "display": "4 nominations",
+          "aliases": [
+            "Life Is Strange True Colors"
+          ]
+        },
+        {
+          "answer": "Unpacking",
+          "display": "4 nominations"
+        }
+      ]
+    },
+    {
+      "category": "games/video-games/awards",
+      "question": "Top 8 games by nominations at the 19th British Academy Games Awards",
+      "cutoff": 8,
+      "difficulty": 4,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1351889255 | table 2 | name: Game | value: Nominations",
+      "tags": [
+        "games",
+        "awards",
+        "bafta",
+        "2023"
+      ],
+      "answers": [
+        {
+          "answer": "God of War Ragnarök",
+          "display": "15 nominations",
+          "aliases": [
+            "Ragnarok",
+            "GoW Ragnarok"
+          ]
+        },
+        {
+          "answer": "Stray",
+          "display": "9 nominations"
+        },
+        {
+          "answer": "Elden Ring",
+          "display": "8 nominations"
+        },
+        {
+          "answer": "Horizon Forbidden West",
+          "display": "6 nominations",
+          "aliases": [
+            "Forbidden West",
+            "HFW"
+          ]
+        },
+        {
+          "answer": "Immortality",
+          "display": "6 nominations"
+        },
+        {
+          "answer": "A Plague Tale: Requiem",
+          "display": "5 nominations",
+          "aliases": [
+            "Plague Tale Requiem",
+            "Plague Tale"
+          ]
+        },
+        {
+          "answer": "Tunic",
+          "display": "5 nominations"
+        },
+        {
+          "answer": "Vampire Survivors",
+          "display": "5 nominations"
+        },
+        {
+          "answer": "Citizen Sleeper",
+          "display": "4 nominations"
+        },
+        {
+          "answer": "Call of Duty: Modern Warfare II",
+          "display": "3 nominations",
+          "aliases": [
+            "Modern Warfare II",
+            "MW2"
+          ]
+        },
+        {
+          "answer": "Cult of the Lamb",
+          "display": "3 nominations"
+        }
+      ]
+    },
+    {
+      "category": "games/video-games/awards",
+      "question": "Top 7 games by nominations at the 20th British Academy Games Awards",
+      "cutoff": 7,
+      "difficulty": 4,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1352225872 | table 3 | name: Game | value: Nominations",
+      "tags": [
+        "games",
+        "awards",
+        "bafta",
+        "2024"
+      ],
+      "answers": [
+        {
+          "answer": "Baldur's Gate 3",
+          "display": "11 nominations",
+          "aliases": [
+            "BG3"
+          ]
+        },
+        {
+          "answer": "Marvel's Spider-Man 2",
+          "display": "10 nominations",
+          "aliases": [
+            "Spider-Man 2",
+            "Spider Man 2"
+          ]
+        },
+        {
+          "answer": "Alan Wake 2",
+          "display": "8 nominations"
+        },
+        {
+          "answer": "The Legend of Zelda: Tears of the Kingdom",
+          "display": "7 nominations",
+          "aliases": [
+            "Tears of the Kingdom",
+            "Zelda Tears of the Kingdom",
+            "TOTK"
+          ]
+        },
+        {
+          "answer": "Star Wars Jedi: Survivor",
+          "display": "6 nominations",
+          "aliases": [
+            "Jedi Survivor"
+          ]
+        },
+        {
+          "answer": "Dave the Diver",
+          "display": "5 nominations"
+        },
+        {
+          "answer": "Hi-Fi Rush",
+          "display": "5 nominations"
+        },
+        {
+          "answer": "Cocoon",
+          "display": "4 nominations"
+        },
+        {
+          "answer": "Dredge",
+          "display": "4 nominations"
+        },
+        {
+          "answer": "Final Fantasy XVI",
+          "display": "4 nominations",
+          "aliases": [
+            "FF16",
+            "FFXVI"
+          ]
+        },
+        {
+          "answer": "Super Mario Bros. Wonder",
+          "display": "4 nominations",
+          "aliases": [
+            "Mario Wonder",
+            "Super Mario Wonder"
+          ]
+        },
+        {
+          "answer": "Viewfinder",
+          "display": "4 nominations"
+        }
+      ]
+    },
+    {
+      "category": "games/video-games/awards",
+      "question": "Top 9 games by nominations at the 18th D.I.C.E. Awards",
+      "cutoff": 9,
+      "difficulty": 4,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1357592392 | table 4 | name: Game | value: Nominations",
+      "tags": [
+        "games",
+        "awards",
+        "dice",
+        "2018"
+      ],
+      "answers": [
+        {
+          "answer": "Middle-earth: Shadow of Mordor",
+          "display": "9 nominations",
+          "aliases": [
+            "Shadow of Mordor"
+          ]
+        },
+        {
+          "answer": "Far Cry 4",
+          "display": "7 nominations"
+        },
+        {
+          "answer": "Destiny",
+          "display": "6 nominations"
+        },
+        {
+          "answer": "Hearthstone: Heroes of Warcraft",
+          "display": "6 nominations",
+          "aliases": [
+            "Hearthstone"
+          ]
+        },
+        {
+          "answer": "Call of Duty: Advanced Warfare",
+          "display": "5 nominations",
+          "aliases": [
+            "Advanced Warfare"
+          ]
+        },
+        {
+          "answer": "Monument Valley",
+          "display": "5 nominations"
+        },
+        {
+          "answer": "Infamous Second Son",
+          "display": "4 nominations",
+          "aliases": [
+            "Second Son"
+          ]
+        },
+        {
+          "answer": "The Vanishing of Ethan Carter",
+          "display": "4 nominations",
+          "aliases": [
+            "Ethan Carter"
+          ]
+        },
+        {
+          "answer": "Valiant Hearts: The Great War",
+          "display": "4 nominations",
+          "aliases": [
+            "Valiant Hearts"
+          ]
+        },
+        {
+          "answer": "Assassin's Creed Unity",
+          "display": "3 nominations",
+          "aliases": [
+            "AC Unity"
+          ]
+        },
+        {
+          "answer": "Sunset Overdrive",
+          "display": "3 nominations"
+        },
+        {
+          "answer": "Titanfall",
+          "display": "3 nominations"
+        }
+      ]
+    },
+    {
+      "category": "games/video-games/awards",
+      "question": "Top 8 games by nominations at the 21st D.I.C.E. Awards",
+      "cutoff": 8,
+      "difficulty": 4,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1361782123 | table 5 | name: Game | value: Nominations",
+      "tags": [
+        "games",
+        "awards",
+        "dice",
+        "2019"
+      ],
+      "answers": [
+        {
+          "answer": "Horizon Zero Dawn",
+          "display": "10 nominations",
+          "aliases": [
+            "HZD"
+          ]
+        },
+        {
+          "answer": "The Legend of Zelda: Breath of the Wild",
+          "display": "6 nominations",
+          "aliases": [
+            "Breath of the Wild",
+            "Zelda Breath of the Wild",
+            "BotW"
+          ]
+        },
+        {
+          "answer": "Cuphead",
+          "display": "5 nominations"
+        },
+        {
+          "answer": "Hellblade: Senua's Sacrifice",
+          "display": "5 nominations",
+          "aliases": [
+            "Hellblade"
+          ]
+        },
+        {
+          "answer": "Uncharted: The Lost Legacy",
+          "display": "5 nominations",
+          "aliases": [
+            "Lost Legacy"
+          ]
+        },
+        {
+          "answer": "Gorogoa",
+          "display": "4 nominations"
+        },
+        {
+          "answer": "PlayerUnknown's Battlegrounds",
+          "display": "4 nominations",
+          "aliases": [
+            "PUBG"
+          ]
+        },
+        {
+          "answer": "Super Mario Odyssey",
+          "display": "4 nominations",
+          "aliases": [
+            "Mario Odyssey"
+          ]
+        },
+        {
+          "answer": "Assassin's Creed Origins",
+          "display": "3 nominations",
+          "aliases": [
+            "AC Origins"
+          ]
+        },
+        {
+          "answer": "Call of Duty: WWII",
+          "display": "3 nominations",
+          "aliases": [
+            "WWII"
+          ]
+        },
+        {
+          "answer": "Destiny 2",
+          "display": "3 nominations"
+        },
+        {
+          "answer": "Lone Echo",
+          "display": "3 nominations"
+        },
+        {
+          "answer": "Wolfenstein II: The New Colossus",
+          "display": "3 nominations",
+          "aliases": [
+            "Wolfenstein II",
+            "New Colossus"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "games/video-games/awards",
+      "question": "Top 7 games by nominations at the 24th D.I.C.E. Awards",
+      "cutoff": 7,
+      "difficulty": 4,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1361782207 | table 5 | name: Game | value: Nominations",
+      "tags": [
+        "games",
+        "awards",
+        "dice",
+        "2021"
+      ],
+      "answers": [
+        {
+          "answer": "The Last of Us Part II",
+          "display": "11 nominations",
+          "aliases": [
+            "TLOU2",
+            "The Last of Us 2",
+            "Last of Us Part II"
+          ]
+        },
+        {
+          "answer": "Ghost of Tsushima",
+          "display": "10 nominations"
+        },
+        {
+          "answer": "Hades",
+          "display": "8 nominations"
+        },
+        {
+          "answer": "Half-Life: Alyx",
+          "display": "5 nominations",
+          "aliases": [
+            "Half Life Alyx",
+            "Alyx"
+          ]
+        },
+        {
+          "answer": "Marvel's Spider-Man: Miles Morales",
+          "display": "5 nominations",
+          "aliases": [
+            "Miles Morales",
+            "Spider-Man Miles Morales"
+          ]
+        },
+        {
+          "answer": "Ori and the Will of the Wisps",
+          "display": "5 nominations",
+          "aliases": [
+            "Ori"
+          ]
+        },
+        {
+          "answer": "Kentucky Route Zero: TV Edition",
+          "display": "4 nominations",
+          "aliases": [
+            "Kentucky Route Zero"
+          ]
+        },
+        {
+          "answer": "Animal Crossing: New Horizons",
+          "display": "3 nominations",
+          "aliases": [
+            "Animal Crossing",
+            "ACNH"
+          ]
+        },
+        {
+          "answer": "Dreams",
+          "display": "3 nominations"
+        },
+        {
+          "answer": "Final Fantasy VII Remake",
+          "display": "3 nominations",
+          "aliases": [
+            "FF7 Remake"
+          ]
+        },
+        {
+          "answer": "Mario Kart Live: Home Circuit",
+          "display": "3 nominations",
+          "aliases": [
+            "Mario Kart Live"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "games/video-games/awards",
+      "question": "Top 7 games by nominations at the 25th D.I.C.E. Awards",
+      "cutoff": 7,
+      "difficulty": 4,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1377661564 | table 5 | name: Game | value: Nominations",
+      "tags": [
+        "games",
+        "awards",
+        "dice",
+        "2022"
+      ],
+      "answers": [
+        {
+          "answer": "Ratchet & Clank: Rift Apart",
+          "display": "9 nominations",
+          "aliases": [
+            "Rift Apart",
+            "Ratchet and Clank Rift Apart"
+          ]
+        },
+        {
+          "answer": "Deathloop",
+          "display": "8 nominations"
+        },
+        {
+          "answer": "Inscryption",
+          "display": "6 nominations"
+        },
+        {
+          "answer": "It Takes Two",
+          "display": "6 nominations"
+        },
+        {
+          "answer": "Returnal",
+          "display": "5 nominations"
+        },
+        {
+          "answer": "Kena: Bridge of Spirits",
+          "display": "4 nominations",
+          "aliases": [
+            "Kena"
+          ]
+        },
+        {
+          "answer": "Resident Evil Village",
+          "display": "4 nominations",
+          "aliases": [
+            "RE Village"
+          ]
+        },
+        {
+          "answer": "Call of Duty: Vanguard",
+          "display": "3 nominations",
+          "aliases": [
+            "Vanguard"
+          ]
+        },
+        {
+          "answer": "Forza Horizon 5",
+          "display": "3 nominations",
+          "aliases": [
+            "Forza Horizon",
+            "FH5"
+          ]
+        },
+        {
+          "answer": "Halo Infinite",
+          "display": "3 nominations"
+        },
+        {
+          "answer": "Loop Hero",
+          "display": "3 nominations"
+        },
+        {
+          "answer": "Psychonauts 2",
+          "display": "3 nominations"
+        }
+      ]
+    },
+    {
+      "category": "games/video-games/awards",
+      "question": "Top 8 games by nominations at the 26th D.I.C.E. Awards",
+      "cutoff": 8,
+      "difficulty": 4,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1361782294 | table 5 | name: Game | value: Nominations",
+      "tags": [
+        "games",
+        "awards",
+        "dice",
+        "2023"
+      ],
+      "answers": [
+        {
+          "answer": "God of War Ragnarök",
+          "display": "12 nominations",
+          "aliases": [
+            "Ragnarok",
+            "GoW Ragnarok"
+          ]
+        },
+        {
+          "answer": "Horizon Forbidden West",
+          "display": "8 nominations",
+          "aliases": [
+            "Forbidden West",
+            "HFW"
+          ]
+        },
+        {
+          "answer": "Elden Ring",
+          "display": "7 nominations"
+        },
+        {
+          "answer": "Call of Duty: Modern Warfare II",
+          "display": "4 nominations",
+          "aliases": [
+            "Modern Warfare II",
+            "MW2"
+          ]
+        },
+        {
+          "answer": "Immortality",
+          "display": "4 nominations"
+        },
+        {
+          "answer": "Moss: Book II",
+          "display": "4 nominations",
+          "aliases": [
+            "Moss Book 2"
+          ]
+        },
+        {
+          "answer": "Tunic",
+          "display": "4 nominations"
+        },
+        {
+          "answer": "Vampire Survivors",
+          "display": "4 nominations"
+        },
+        {
+          "answer": "A Plague Tale: Requiem",
+          "display": "3 nominations",
+          "aliases": [
+            "Plague Tale Requiem"
+          ]
+        },
+        {
+          "answer": "Marvel Snap",
+          "display": "3 nominations",
+          "aliases": [
+            "Snap"
+          ]
+        },
+        {
+          "answer": "Stray",
+          "display": "3 nominations"
+        }
+      ]
+    },
+    {
+      "category": "games/video-games/awards",
+      "question": "Top 7 games by nominations at the 27th D.I.C.E. Awards",
+      "cutoff": 7,
+      "difficulty": 4,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1376884531 | table 5 | name: Game | value: Nominations",
+      "tags": [
+        "games",
+        "awards",
+        "dice",
+        "2024"
+      ],
+      "answers": [
+        {
+          "answer": "Marvel's Spider-Man 2",
+          "display": "9 nominations",
+          "aliases": [
+            "Spider-Man 2",
+            "Spider Man 2"
+          ]
+        },
+        {
+          "answer": "Alan Wake 2",
+          "display": "8 nominations"
+        },
+        {
+          "answer": "Baldur's Gate 3",
+          "display": "7 nominations",
+          "aliases": [
+            "BG3"
+          ]
+        },
+        {
+          "answer": "Cocoon",
+          "display": "6 nominations"
+        },
+        {
+          "answer": "The Legend of Zelda: Tears of the Kingdom",
+          "display": "5 nominations",
+          "aliases": [
+            "Tears of the Kingdom",
+            "Zelda Tears of the Kingdom",
+            "TOTK"
+          ]
+        },
+        {
+          "answer": "Star Wars Jedi: Survivor",
+          "display": "4 nominations",
+          "aliases": [
+            "Jedi Survivor"
+          ]
+        },
+        {
+          "answer": "Super Mario Bros. Wonder",
+          "display": "4 nominations",
+          "aliases": [
+            "Mario Wonder",
+            "Super Mario Wonder"
+          ]
+        },
+        {
+          "answer": "Dave the Diver",
+          "display": "3 nominations"
+        },
+        {
+          "answer": "Diablo IV",
+          "display": "3 nominations"
+        },
+        {
+          "answer": "Hi-Fi Rush",
+          "display": "3 nominations"
+        },
+        {
+          "answer": "Thirsty Suitors",
+          "display": "3 nominations"
+        }
+      ]
+    }
+  ]
+}

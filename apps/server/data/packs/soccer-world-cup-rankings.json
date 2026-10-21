@@ -1,0 +1,1561 @@
+{
+  "categories": [
+    {
+      "path": "sports/soccer/international/world-cup",
+      "name": "World Cup"
+    }
+  ],
+  "questions": [
+    {
+      "category": "sports/soccer/international/world-cup",
+      "question": "Top 8 teams in the final ranking of the 1930 FIFA World Cup",
+      "cutoff": 8,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1379114380 | table 7 | name: Team | value: Pos | order: asc",
+      "tags": [
+        "soccer",
+        "world-cup",
+        "1930"
+      ],
+      "answers": [
+        {
+          "answer": "Uruguay",
+          "display": "#1 — Champions"
+        },
+        {
+          "answer": "Argentina",
+          "display": "#2 — Runners-up"
+        },
+        {
+          "answer": "United States",
+          "display": "#3 — Third place",
+          "aliases": [
+            "USA",
+            "US"
+          ]
+        },
+        {
+          "answer": "Yugoslavia",
+          "display": "#4 — Fourth place"
+        },
+        {
+          "answer": "Chile",
+          "display": "#5 — Eliminated in group stage"
+        },
+        {
+          "answer": "Brazil",
+          "display": "#6 — Eliminated in group stage"
+        },
+        {
+          "answer": "France",
+          "display": "#7 — Eliminated in group stage"
+        },
+        {
+          "answer": "Romania",
+          "display": "#8 — Eliminated in group stage"
+        },
+        {
+          "answer": "Paraguay",
+          "display": "#9 — Eliminated in group stage"
+        },
+        {
+          "answer": "Peru",
+          "display": "#10 — Eliminated in group stage"
+        },
+        {
+          "answer": "Belgium",
+          "display": "#11 — Eliminated in group stage"
+        }
+      ]
+    },
+    {
+      "category": "sports/soccer/international/world-cup",
+      "question": "Top 8 teams in the final ranking of the 1934 FIFA World Cup",
+      "cutoff": 8,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1379198313 | table 3 | name: Team | value: Pos | order: asc",
+      "tags": [
+        "soccer",
+        "world-cup",
+        "1934"
+      ],
+      "answers": [
+        {
+          "answer": "Italy",
+          "display": "#1 — Champions"
+        },
+        {
+          "answer": "Czechoslovakia",
+          "display": "#2 — Runners-up"
+        },
+        {
+          "answer": "Germany",
+          "display": "#3 — Third place"
+        },
+        {
+          "answer": "Austria",
+          "display": "#4 — Fourth place"
+        },
+        {
+          "answer": "Spain",
+          "display": "#5 — Eliminated in quarter-finals"
+        },
+        {
+          "answer": "Hungary",
+          "display": "#6 — Eliminated in quarter-finals"
+        },
+        {
+          "answer": "Switzerland",
+          "display": "#7 — Eliminated in quarter-finals"
+        },
+        {
+          "answer": "Sweden",
+          "display": "#8 — Eliminated in quarter-finals"
+        },
+        {
+          "answer": "Argentina",
+          "display": "#9 — Eliminated in round of 16"
+        },
+        {
+          "answer": "France",
+          "display": "#9 — Eliminated in round of 16"
+        },
+        {
+          "answer": "Netherlands",
+          "display": "#9 — Eliminated in round of 16",
+          "aliases": [
+            "Holland"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/soccer/international/world-cup",
+      "question": "Top 8 teams in the final ranking of the 1938 FIFA World Cup",
+      "cutoff": 8,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1379223069 | table 3 | name: Team | value: Pos | order: asc",
+      "tags": [
+        "soccer",
+        "world-cup",
+        "1938"
+      ],
+      "answers": [
+        {
+          "answer": "Italy",
+          "display": "#1 — Champions"
+        },
+        {
+          "answer": "Hungary",
+          "display": "#2 — Runners-up"
+        },
+        {
+          "answer": "Brazil",
+          "display": "#3 — Third place"
+        },
+        {
+          "answer": "Sweden",
+          "display": "#4 — Fourth place"
+        },
+        {
+          "answer": "Czechoslovakia",
+          "display": "#5 — Eliminated in quarter-finals"
+        },
+        {
+          "answer": "France",
+          "display": "#6 — Eliminated in quarter-finals"
+        },
+        {
+          "answer": "Switzerland",
+          "display": "#7 — Eliminated in quarter-finals"
+        },
+        {
+          "answer": "Cuba",
+          "display": "#8 — Eliminated in quarter-finals"
+        },
+        {
+          "answer": "Romania",
+          "display": "#9 — Eliminated in round of 16"
+        },
+        {
+          "answer": "Germany",
+          "display": "#10 — Eliminated in round of 16"
+        },
+        {
+          "answer": "Poland",
+          "display": "#11 — Eliminated in round of 16"
+        }
+      ]
+    },
+    {
+      "category": "sports/soccer/international/world-cup",
+      "question": "Top 8 teams in the final ranking of the 1950 FIFA World Cup",
+      "cutoff": 8,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1379218809 | table 9 | name: Team | value: Pos | order: asc",
+      "tags": [
+        "soccer",
+        "world-cup",
+        "1950"
+      ],
+      "answers": [
+        {
+          "answer": "Uruguay",
+          "display": "#1 — Champions"
+        },
+        {
+          "answer": "Brazil",
+          "display": "#2 — Runners-up"
+        },
+        {
+          "answer": "Sweden",
+          "display": "#3 — Third place"
+        },
+        {
+          "answer": "Spain",
+          "display": "#4 — Fourth place"
+        },
+        {
+          "answer": "Yugoslavia",
+          "display": "#5 — Eliminated in group stage"
+        },
+        {
+          "answer": "Switzerland",
+          "display": "#6 — Eliminated in group stage"
+        },
+        {
+          "answer": "Italy",
+          "display": "#7 — Eliminated in group stage"
+        },
+        {
+          "answer": "England",
+          "display": "#8 — Eliminated in group stage"
+        },
+        {
+          "answer": "Chile",
+          "display": "#9 — Eliminated in group stage"
+        },
+        {
+          "answer": "United States",
+          "display": "#10 — Eliminated in group stage",
+          "aliases": [
+            "USA",
+            "US"
+          ]
+        },
+        {
+          "answer": "Paraguay",
+          "display": "#11 — Eliminated in group stage"
+        }
+      ]
+    },
+    {
+      "category": "sports/soccer/international/world-cup",
+      "question": "Top 10 teams in the final ranking of the 1954 FIFA World Cup",
+      "cutoff": 10,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1379225691 | table 7 | name: Team | value: Pos | order: asc",
+      "tags": [
+        "soccer",
+        "world-cup",
+        "1954"
+      ],
+      "answers": [
+        {
+          "answer": "West Germany",
+          "display": "#1 — Champions",
+          "aliases": [
+            "FRG",
+            "Germany"
+          ]
+        },
+        {
+          "answer": "Hungary",
+          "display": "#2 — Runners-up"
+        },
+        {
+          "answer": "Austria",
+          "display": "#3 — Third place"
+        },
+        {
+          "answer": "Uruguay",
+          "display": "#4 — Fourth place"
+        },
+        {
+          "answer": "Brazil",
+          "display": "#5 — Eliminated in quarter-finals"
+        },
+        {
+          "answer": "England",
+          "display": "#6 — Eliminated in quarter-finals"
+        },
+        {
+          "answer": "Yugoslavia",
+          "display": "#7 — Eliminated in quarter-finals"
+        },
+        {
+          "answer": "Switzerland",
+          "display": "#8 — Eliminated in quarter-finals"
+        },
+        {
+          "answer": "Turkey",
+          "display": "#9 — Eliminated in group stage"
+        },
+        {
+          "answer": "Italy",
+          "display": "#10 — Eliminated in group stage"
+        },
+        {
+          "answer": "France",
+          "display": "#11 — Eliminated in group stage"
+        },
+        {
+          "answer": "Belgium",
+          "display": "#12 — Eliminated in group stage"
+        },
+        {
+          "answer": "Mexico",
+          "display": "#13 — Eliminated in group stage"
+        }
+      ]
+    },
+    {
+      "category": "sports/soccer/international/world-cup",
+      "question": "Top 10 teams in the final ranking of the 1958 FIFA World Cup",
+      "cutoff": 10,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1378823627 | table 8 | name: Team | value: Pos | order: asc",
+      "tags": [
+        "soccer",
+        "world-cup",
+        "1958"
+      ],
+      "answers": [
+        {
+          "answer": "Brazil",
+          "display": "#1 — Champions"
+        },
+        {
+          "answer": "Sweden",
+          "display": "#2 — Runners-up"
+        },
+        {
+          "answer": "France",
+          "display": "#3 — Third place"
+        },
+        {
+          "answer": "West Germany",
+          "display": "#4 — Fourth place",
+          "aliases": [
+            "FRG",
+            "Germany"
+          ]
+        },
+        {
+          "answer": "Yugoslavia",
+          "display": "#5 — Eliminated in quarter-finals"
+        },
+        {
+          "answer": "Wales",
+          "display": "#6 — Eliminated in quarter-finals"
+        },
+        {
+          "answer": "Soviet Union",
+          "display": "#7 — Eliminated in quarter-finals",
+          "aliases": [
+            "USSR"
+          ]
+        },
+        {
+          "answer": "Northern Ireland",
+          "display": "#8 — Eliminated in quarter-finals"
+        },
+        {
+          "answer": "Czechoslovakia",
+          "display": "#9 — Eliminated in group stage"
+        },
+        {
+          "answer": "Hungary",
+          "display": "#10 — Eliminated in group stage"
+        },
+        {
+          "answer": "England",
+          "display": "#11 — Eliminated in group stage"
+        },
+        {
+          "answer": "Paraguay",
+          "display": "#12 — Eliminated in group stage"
+        },
+        {
+          "answer": "Argentina",
+          "display": "#13 — Eliminated in group stage"
+        }
+      ]
+    },
+    {
+      "category": "sports/soccer/international/world-cup",
+      "question": "Top 10 teams in the final ranking of the 1962 FIFA World Cup",
+      "cutoff": 10,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1376456305 | table 10 | name: Team | value: Pos | order: asc",
+      "tags": [
+        "soccer",
+        "world-cup",
+        "1962"
+      ],
+      "answers": [
+        {
+          "answer": "Brazil",
+          "display": "#1 — Champions"
+        },
+        {
+          "answer": "Czechoslovakia",
+          "display": "#2 — Runners-up"
+        },
+        {
+          "answer": "Chile",
+          "display": "#3 — Third place"
+        },
+        {
+          "answer": "Yugoslavia",
+          "display": "#4 — Fourth place"
+        },
+        {
+          "answer": "Hungary",
+          "display": "#5 — Eliminated in quarter-finals"
+        },
+        {
+          "answer": "Soviet Union",
+          "display": "#6 — Eliminated in quarter-finals",
+          "aliases": [
+            "USSR"
+          ]
+        },
+        {
+          "answer": "West Germany",
+          "display": "#7 — Eliminated in quarter-finals",
+          "aliases": [
+            "FRG",
+            "Germany"
+          ]
+        },
+        {
+          "answer": "England",
+          "display": "#8 — Eliminated in quarter-finals"
+        },
+        {
+          "answer": "Italy",
+          "display": "#9 — Eliminated in group stage"
+        },
+        {
+          "answer": "Argentina",
+          "display": "#10 — Eliminated in group stage"
+        },
+        {
+          "answer": "Mexico",
+          "display": "#11 — Eliminated in group stage"
+        },
+        {
+          "answer": "Uruguay",
+          "display": "#12 — Eliminated in group stage"
+        },
+        {
+          "answer": "Spain",
+          "display": "#13 — Eliminated in group stage"
+        }
+      ]
+    },
+    {
+      "category": "sports/soccer/international/world-cup",
+      "question": "Top 10 teams in the final ranking of the 1966 FIFA World Cup",
+      "cutoff": 10,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1377511913 | table 8 | name: Team | value: Pos | order: asc",
+      "tags": [
+        "soccer",
+        "world-cup",
+        "1966"
+      ],
+      "answers": [
+        {
+          "answer": "England",
+          "display": "#1 — Champions"
+        },
+        {
+          "answer": "West Germany",
+          "display": "#2 — Runners-up",
+          "aliases": [
+            "FRG",
+            "Germany"
+          ]
+        },
+        {
+          "answer": "Portugal",
+          "display": "#3 — Third place"
+        },
+        {
+          "answer": "Soviet Union",
+          "display": "#4 — Fourth place",
+          "aliases": [
+            "USSR"
+          ]
+        },
+        {
+          "answer": "Argentina",
+          "display": "#5 — Eliminated in quarter-finals"
+        },
+        {
+          "answer": "Hungary",
+          "display": "#6 — Eliminated in quarter-finals"
+        },
+        {
+          "answer": "Uruguay",
+          "display": "#7 — Eliminated in quarter-finals"
+        },
+        {
+          "answer": "North Korea",
+          "display": "#8 — Eliminated in quarter-finals"
+        },
+        {
+          "answer": "Italy",
+          "display": "#9 — Eliminated in group stage"
+        },
+        {
+          "answer": "Spain",
+          "display": "#10 — Eliminated in group stage"
+        },
+        {
+          "answer": "Brazil",
+          "display": "#11 — Eliminated in group stage"
+        },
+        {
+          "answer": "Mexico",
+          "display": "#12 — Eliminated in group stage"
+        },
+        {
+          "answer": "Chile",
+          "display": "#13 — Eliminated in group stage"
+        },
+        {
+          "answer": "France",
+          "display": "#13 — Eliminated in group stage"
+        }
+      ]
+    },
+    {
+      "category": "sports/soccer/international/world-cup",
+      "question": "Top 8 teams in the final ranking of the 1970 FIFA World Cup",
+      "cutoff": 8,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1377513245 | table 8 | name: Team | value: Pos | order: asc",
+      "tags": [
+        "soccer",
+        "world-cup",
+        "1970"
+      ],
+      "answers": [
+        {
+          "answer": "Brazil",
+          "display": "#1 — Champions"
+        },
+        {
+          "answer": "Italy",
+          "display": "#2 — Runners-up"
+        },
+        {
+          "answer": "West Germany",
+          "display": "#3 — Third place",
+          "aliases": [
+            "FRG",
+            "Germany"
+          ]
+        },
+        {
+          "answer": "Uruguay",
+          "display": "#4 — Fourth place"
+        },
+        {
+          "answer": "Soviet Union",
+          "display": "#5 — Eliminated in quarter-finals",
+          "aliases": [
+            "USSR"
+          ]
+        },
+        {
+          "answer": "Mexico",
+          "display": "#6 — Eliminated in quarter-finals"
+        },
+        {
+          "answer": "Peru",
+          "display": "#7 — Eliminated in quarter-finals"
+        },
+        {
+          "answer": "England",
+          "display": "#8 — Eliminated in quarter-finals"
+        },
+        {
+          "answer": "Sweden",
+          "display": "#9 — Eliminated in group stage"
+        },
+        {
+          "answer": "Belgium",
+          "display": "#10 — Eliminated in group stage"
+        },
+        {
+          "answer": "Romania",
+          "display": "#10 — Eliminated in group stage"
+        }
+      ]
+    },
+    {
+      "category": "sports/soccer/international/world-cup",
+      "question": "Top 10 teams in the final ranking of the 1974 FIFA World Cup",
+      "cutoff": 10,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1377511930 | table 10 | name: Team | value: Pos | order: asc",
+      "tags": [
+        "soccer",
+        "world-cup",
+        "1974"
+      ],
+      "answers": [
+        {
+          "answer": "West Germany",
+          "display": "#1 — Champions",
+          "aliases": [
+            "FRG"
+          ]
+        },
+        {
+          "answer": "Netherlands",
+          "display": "#2 — Runners-up",
+          "aliases": [
+            "Holland"
+          ]
+        },
+        {
+          "answer": "Poland",
+          "display": "#3 — Third place"
+        },
+        {
+          "answer": "Brazil",
+          "display": "#4 — Fourth place"
+        },
+        {
+          "answer": "Sweden",
+          "display": "#5 — Eliminated in second group stage"
+        },
+        {
+          "answer": "East Germany",
+          "display": "#6 — Eliminated in second group stage"
+        },
+        {
+          "answer": "Yugoslavia",
+          "display": "#7 — Eliminated in second group stage"
+        },
+        {
+          "answer": "Argentina",
+          "display": "#8 — Eliminated in second group stage"
+        },
+        {
+          "answer": "Scotland",
+          "display": "#9 — Eliminated in first group stage"
+        },
+        {
+          "answer": "Italy",
+          "display": "#10 — Eliminated in first group stage"
+        },
+        {
+          "answer": "Chile",
+          "display": "#11 — Eliminated in first group stage"
+        },
+        {
+          "answer": "Bulgaria",
+          "display": "#12 — Eliminated in first group stage"
+        },
+        {
+          "answer": "Uruguay",
+          "display": "#13 — Eliminated in first group stage"
+        }
+      ]
+    },
+    {
+      "category": "sports/soccer/international/world-cup",
+      "question": "Top 10 teams in the final ranking of the 1978 FIFA World Cup",
+      "cutoff": 10,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1377511943 | table 11 | name: Team | value: Pos | order: asc",
+      "tags": [
+        "soccer",
+        "world-cup",
+        "1978"
+      ],
+      "answers": [
+        {
+          "answer": "Argentina",
+          "display": "#1 — Champions"
+        },
+        {
+          "answer": "Netherlands",
+          "display": "#2 — Runners-up",
+          "aliases": [
+            "Holland"
+          ]
+        },
+        {
+          "answer": "Brazil",
+          "display": "#3 — Third place"
+        },
+        {
+          "answer": "Italy",
+          "display": "#4 — Fourth place"
+        },
+        {
+          "answer": "Poland",
+          "display": "#5 — Eliminated in second group stage"
+        },
+        {
+          "answer": "West Germany",
+          "display": "#6 — Eliminated in second group stage",
+          "aliases": [
+            "FRG",
+            "Germany"
+          ]
+        },
+        {
+          "answer": "Austria",
+          "display": "#7 — Eliminated in second group stage"
+        },
+        {
+          "answer": "Peru",
+          "display": "#8 — Eliminated in second group stage"
+        },
+        {
+          "answer": "Tunisia",
+          "display": "#9 — Eliminated in first group stage"
+        },
+        {
+          "answer": "Spain",
+          "display": "#10 — Eliminated in first group stage"
+        },
+        {
+          "answer": "Scotland",
+          "display": "#11 — Eliminated in first group stage"
+        },
+        {
+          "answer": "France",
+          "display": "#12 — Eliminated in first group stage"
+        },
+        {
+          "answer": "Sweden",
+          "display": "#13 — Eliminated in first group stage"
+        }
+      ]
+    },
+    {
+      "category": "sports/soccer/international/world-cup",
+      "question": "Top 10 teams in the final ranking of the 1982 FIFA World Cup",
+      "cutoff": 10,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1377511941 | table 17 | name: Team | value: Pos | order: asc",
+      "tags": [
+        "soccer",
+        "world-cup",
+        "1982"
+      ],
+      "answers": [
+        {
+          "answer": "Italy",
+          "display": "#1 — Champions"
+        },
+        {
+          "answer": "West Germany",
+          "display": "#2 — Runners-up",
+          "aliases": [
+            "FRG",
+            "Germany"
+          ]
+        },
+        {
+          "answer": "Poland",
+          "display": "#3 — Third place"
+        },
+        {
+          "answer": "France",
+          "display": "#4 — Fourth place"
+        },
+        {
+          "answer": "Brazil",
+          "display": "#5 — Eliminated in second group stage"
+        },
+        {
+          "answer": "England",
+          "display": "#6 — Eliminated in second group stage"
+        },
+        {
+          "answer": "Soviet Union",
+          "display": "#7 — Eliminated in second group stage",
+          "aliases": [
+            "USSR"
+          ]
+        },
+        {
+          "answer": "Austria",
+          "display": "#8 — Eliminated in second group stage"
+        },
+        {
+          "answer": "Northern Ireland",
+          "display": "#9 — Eliminated in second group stage"
+        },
+        {
+          "answer": "Belgium",
+          "display": "#10 — Eliminated in second group stage"
+        },
+        {
+          "answer": "Argentina",
+          "display": "#11 — Eliminated in second group stage"
+        },
+        {
+          "answer": "Spain",
+          "display": "#12 — Eliminated in second group stage"
+        },
+        {
+          "answer": "Algeria",
+          "display": "#13 — Eliminated in first group stage"
+        }
+      ]
+    },
+    {
+      "category": "sports/soccer/international/world-cup",
+      "question": "Top 10 teams in the final ranking of the 1986 FIFA World Cup",
+      "cutoff": 10,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1378182728 | table 15 | name: Team | value: Pos | order: asc",
+      "tags": [
+        "soccer",
+        "world-cup",
+        "1986"
+      ],
+      "answers": [
+        {
+          "answer": "Argentina",
+          "display": "#1 — Champions"
+        },
+        {
+          "answer": "West Germany",
+          "display": "#2 — Runners-up",
+          "aliases": [
+            "FRG",
+            "Germany"
+          ]
+        },
+        {
+          "answer": "France",
+          "display": "#3 — Third place"
+        },
+        {
+          "answer": "Belgium",
+          "display": "#4 — Fourth place"
+        },
+        {
+          "answer": "Brazil",
+          "display": "#5 — Eliminated in quarter-finals"
+        },
+        {
+          "answer": "Mexico",
+          "display": "#6 — Eliminated in quarter-finals"
+        },
+        {
+          "answer": "Spain",
+          "display": "#7 — Eliminated in quarter-finals"
+        },
+        {
+          "answer": "England",
+          "display": "#8 — Eliminated in quarter-finals"
+        },
+        {
+          "answer": "Denmark",
+          "display": "#9 — Eliminated in round of 16"
+        },
+        {
+          "answer": "Soviet Union",
+          "display": "#10 — Eliminated in round of 16",
+          "aliases": [
+            "USSR"
+          ]
+        },
+        {
+          "answer": "Morocco",
+          "display": "#11 — Eliminated in round of 16"
+        },
+        {
+          "answer": "Italy",
+          "display": "#12 — Eliminated in round of 16"
+        },
+        {
+          "answer": "Paraguay",
+          "display": "#13 — Eliminated in round of 16"
+        }
+      ]
+    },
+    {
+      "category": "sports/soccer/international/world-cup",
+      "question": "Top 10 teams in the final ranking of the 1990 FIFA World Cup",
+      "cutoff": 10,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1378216581 | table 16 | name: Team | value: Pos | order: asc",
+      "tags": [
+        "soccer",
+        "world-cup",
+        "1990"
+      ],
+      "answers": [
+        {
+          "answer": "West Germany",
+          "display": "#1 — Champions",
+          "aliases": [
+            "FRG",
+            "Germany"
+          ]
+        },
+        {
+          "answer": "Argentina",
+          "display": "#2 — Runners-up"
+        },
+        {
+          "answer": "Italy",
+          "display": "#3 — Third place"
+        },
+        {
+          "answer": "England",
+          "display": "#4 — Fourth place"
+        },
+        {
+          "answer": "Yugoslavia",
+          "display": "#5 — Eliminated in quarterfinals"
+        },
+        {
+          "answer": "Czechoslovakia",
+          "display": "#6 — Eliminated in quarterfinals"
+        },
+        {
+          "answer": "Cameroon",
+          "display": "#7 — Eliminated in quarterfinals"
+        },
+        {
+          "answer": "Republic of Ireland",
+          "display": "#8 — Eliminated in quarterfinals",
+          "aliases": [
+            "Ireland"
+          ]
+        },
+        {
+          "answer": "Brazil",
+          "display": "#9 — Eliminated in round of 16"
+        },
+        {
+          "answer": "Spain",
+          "display": "#10 — Eliminated in round of 16"
+        },
+        {
+          "answer": "Belgium",
+          "display": "#11 — Eliminated in round of 16"
+        },
+        {
+          "answer": "Romania",
+          "display": "#12 — Eliminated in round of 16"
+        },
+        {
+          "answer": "Costa Rica",
+          "display": "#13 — Eliminated in round of 16"
+        }
+      ]
+    },
+    {
+      "category": "sports/soccer/international/world-cup",
+      "question": "Top 10 teams in the final ranking of the 1994 FIFA World Cup",
+      "cutoff": 10,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1377877674 | table 14 | name: Team | value: Pos | order: asc",
+      "tags": [
+        "soccer",
+        "world-cup",
+        "1994"
+      ],
+      "answers": [
+        {
+          "answer": "Brazil",
+          "display": "#1 — Champion"
+        },
+        {
+          "answer": "Italy",
+          "display": "#2 — Runner-up"
+        },
+        {
+          "answer": "Sweden",
+          "display": "#3 — Third place"
+        },
+        {
+          "answer": "Bulgaria",
+          "display": "#4 — Fourth place"
+        },
+        {
+          "answer": "Germany",
+          "display": "#5 — Eliminated in quarter-finals"
+        },
+        {
+          "answer": "Romania",
+          "display": "#6 — Eliminated in quarter-finals"
+        },
+        {
+          "answer": "Netherlands",
+          "display": "#7 — Eliminated in quarter-finals",
+          "aliases": [
+            "Holland"
+          ]
+        },
+        {
+          "answer": "Spain",
+          "display": "#8 — Eliminated in quarter-finals"
+        },
+        {
+          "answer": "Nigeria",
+          "display": "#9 — Eliminated in round of 16"
+        },
+        {
+          "answer": "Argentina",
+          "display": "#10 — Eliminated in round of 16"
+        },
+        {
+          "answer": "Belgium",
+          "display": "#11 — Eliminated in round of 16"
+        },
+        {
+          "answer": "Saudi Arabia",
+          "display": "#12 — Eliminated in round of 16"
+        },
+        {
+          "answer": "Mexico",
+          "display": "#13 — Eliminated in round of 16"
+        }
+      ]
+    },
+    {
+      "category": "sports/soccer/international/world-cup",
+      "question": "Top 10 teams in the final ranking of the 1998 FIFA World Cup",
+      "cutoff": 10,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1379416403 | table 26 | name: Team | value: Pos | order: asc",
+      "tags": [
+        "soccer",
+        "world-cup",
+        "1998"
+      ],
+      "answers": [
+        {
+          "answer": "France",
+          "display": "#1 — Champions"
+        },
+        {
+          "answer": "Brazil",
+          "display": "#2 — Runners-up"
+        },
+        {
+          "answer": "Croatia",
+          "display": "#3 — Third place"
+        },
+        {
+          "answer": "Netherlands",
+          "display": "#4 — Fourth place",
+          "aliases": [
+            "Holland"
+          ]
+        },
+        {
+          "answer": "Italy",
+          "display": "#5 — Eliminated in quarter-finals"
+        },
+        {
+          "answer": "Argentina",
+          "display": "#6 — Eliminated in quarter-finals"
+        },
+        {
+          "answer": "Germany",
+          "display": "#7 — Eliminated in quarter-finals"
+        },
+        {
+          "answer": "Denmark",
+          "display": "#8 — Eliminated in quarter-finals"
+        },
+        {
+          "answer": "England",
+          "display": "#9 — Eliminated in round of 16"
+        },
+        {
+          "answer": "FR Yugoslavia",
+          "display": "#10 — Eliminated in round of 16",
+          "aliases": [
+            "Yugoslavia"
+          ]
+        },
+        {
+          "answer": "Romania",
+          "display": "#11 — Eliminated in round of 16"
+        },
+        {
+          "answer": "Nigeria",
+          "display": "#12 — Eliminated in round of 16"
+        },
+        {
+          "answer": "Mexico",
+          "display": "#13 — Eliminated in round of 16"
+        }
+      ]
+    },
+    {
+      "category": "sports/soccer/international/world-cup",
+      "question": "Top 10 teams in the final ranking of the 2002 FIFA World Cup",
+      "cutoff": 10,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1379609715 | table 24 | name: Team | value: Pos | order: asc",
+      "tags": [
+        "soccer",
+        "world-cup",
+        "2002"
+      ],
+      "answers": [
+        {
+          "answer": "Brazil",
+          "display": "#1 — Champions"
+        },
+        {
+          "answer": "Germany",
+          "display": "#2 — Runners-up"
+        },
+        {
+          "answer": "Turkey",
+          "display": "#3 — Third place"
+        },
+        {
+          "answer": "South Korea",
+          "display": "#4 — Fourth place",
+          "aliases": [
+            "Korea Republic",
+            "Korea"
+          ]
+        },
+        {
+          "answer": "Spain",
+          "display": "#5 — Eliminated in quarter-finals"
+        },
+        {
+          "answer": "England",
+          "display": "#6 — Eliminated in quarter-finals"
+        },
+        {
+          "answer": "Senegal",
+          "display": "#7 — Eliminated in quarter-finals"
+        },
+        {
+          "answer": "United States",
+          "display": "#8 — Eliminated in quarter-finals",
+          "aliases": [
+            "USA",
+            "US"
+          ]
+        },
+        {
+          "answer": "Japan",
+          "display": "#9 — Eliminated in round of 16"
+        },
+        {
+          "answer": "Denmark",
+          "display": "#10 — Eliminated in round of 16"
+        },
+        {
+          "answer": "Mexico",
+          "display": "#11 — Eliminated in round of 16"
+        },
+        {
+          "answer": "Republic of Ireland",
+          "display": "#12 — Eliminated in round of 16",
+          "aliases": [
+            "Ireland"
+          ]
+        },
+        {
+          "answer": "Sweden",
+          "display": "#13 — Eliminated in round of 16"
+        }
+      ]
+    },
+    {
+      "category": "sports/soccer/international/world-cup",
+      "question": "Top 10 teams in the final ranking of the 2006 FIFA World Cup",
+      "cutoff": 10,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1378469485 | table 24 | name: Team | value: Pos | order: asc",
+      "tags": [
+        "soccer",
+        "world-cup",
+        "2006"
+      ],
+      "answers": [
+        {
+          "answer": "Italy",
+          "display": "#1 — Champions"
+        },
+        {
+          "answer": "France",
+          "display": "#2 — Runners-up"
+        },
+        {
+          "answer": "Germany",
+          "display": "#3 — Third place"
+        },
+        {
+          "answer": "Portugal",
+          "display": "#4 — Fourth place"
+        },
+        {
+          "answer": "Brazil",
+          "display": "#5 — Eliminated in quarter-finals"
+        },
+        {
+          "answer": "Argentina",
+          "display": "#6 — Eliminated in quarter-finals"
+        },
+        {
+          "answer": "England",
+          "display": "#7 — Eliminated in quarter-finals"
+        },
+        {
+          "answer": "Ukraine",
+          "display": "#8 — Eliminated in quarter-finals"
+        },
+        {
+          "answer": "Spain",
+          "display": "#9 — Eliminated in round of 16"
+        },
+        {
+          "answer": "Switzerland",
+          "display": "#10 — Eliminated in round of 16"
+        },
+        {
+          "answer": "Netherlands",
+          "display": "#11 — Eliminated in round of 16",
+          "aliases": [
+            "Holland"
+          ]
+        },
+        {
+          "answer": "Ecuador",
+          "display": "#12 — Eliminated in round of 16"
+        },
+        {
+          "answer": "Ghana",
+          "display": "#13 — Eliminated in round of 16"
+        }
+      ]
+    },
+    {
+      "category": "sports/soccer/international/world-cup",
+      "question": "Top 10 teams in the final ranking of the 2010 FIFA World Cup",
+      "cutoff": 10,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1377514614 | table 14 | name: Team | value: Pos | order: asc",
+      "tags": [
+        "soccer",
+        "world-cup",
+        "2010"
+      ],
+      "answers": [
+        {
+          "answer": "Spain",
+          "display": "#1 — Champions"
+        },
+        {
+          "answer": "Netherlands",
+          "display": "#2 — Runners-up",
+          "aliases": [
+            "Holland"
+          ]
+        },
+        {
+          "answer": "Germany",
+          "display": "#3 — Third place"
+        },
+        {
+          "answer": "Uruguay",
+          "display": "#4 — Fourth place"
+        },
+        {
+          "answer": "Argentina",
+          "display": "#5 — Eliminated in quarter-finals"
+        },
+        {
+          "answer": "Brazil",
+          "display": "#6 — Eliminated in quarter-finals"
+        },
+        {
+          "answer": "Ghana",
+          "display": "#7 — Eliminated in quarter-finals"
+        },
+        {
+          "answer": "Paraguay",
+          "display": "#8 — Eliminated in quarter-finals"
+        },
+        {
+          "answer": "Japan",
+          "display": "#9 — Eliminated in round of 16"
+        },
+        {
+          "answer": "Chile",
+          "display": "#10 — Eliminated in round of 16"
+        },
+        {
+          "answer": "Portugal",
+          "display": "#11 — Eliminated in round of 16"
+        },
+        {
+          "answer": "United States",
+          "display": "#12 — Eliminated in round of 16",
+          "aliases": [
+            "USA",
+            "US"
+          ]
+        },
+        {
+          "answer": "England",
+          "display": "#13 — Eliminated in round of 16"
+        }
+      ]
+    },
+    {
+      "category": "sports/soccer/international/world-cup",
+      "question": "Top 10 teams in the final ranking of the 2014 FIFA World Cup",
+      "cutoff": 10,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1379710385 | table 20 | name: Team | value: Pos | order: asc",
+      "tags": [
+        "soccer",
+        "world-cup",
+        "2014"
+      ],
+      "answers": [
+        {
+          "answer": "Germany",
+          "display": "#1 — Champions"
+        },
+        {
+          "answer": "Argentina",
+          "display": "#2 — Runners-up"
+        },
+        {
+          "answer": "Netherlands",
+          "display": "#3 — Third place",
+          "aliases": [
+            "Holland"
+          ]
+        },
+        {
+          "answer": "Brazil",
+          "display": "#4 — Fourth place"
+        },
+        {
+          "answer": "Colombia",
+          "display": "#5 — Eliminated in quarter-finals"
+        },
+        {
+          "answer": "Belgium",
+          "display": "#6 — Eliminated in quarter-finals"
+        },
+        {
+          "answer": "France",
+          "display": "#7 — Eliminated in quarter-finals"
+        },
+        {
+          "answer": "Costa Rica",
+          "display": "#8 — Eliminated in quarter-finals"
+        },
+        {
+          "answer": "Chile",
+          "display": "#9 — Eliminated in round of 16"
+        },
+        {
+          "answer": "Mexico",
+          "display": "#10 — Eliminated in round of 16"
+        },
+        {
+          "answer": "Switzerland",
+          "display": "#11 — Eliminated in round of 16"
+        },
+        {
+          "answer": "Uruguay",
+          "display": "#12 — Eliminated in round of 16"
+        },
+        {
+          "answer": "Greece",
+          "display": "#13 — Eliminated in round of 16"
+        }
+      ]
+    },
+    {
+      "category": "sports/soccer/international/world-cup",
+      "question": "Top 10 teams in the final ranking of the 2018 FIFA World Cup",
+      "cutoff": 10,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1379259821 | table 17 | name: Team | value: Pos | order: asc",
+      "tags": [
+        "soccer",
+        "world-cup",
+        "2018"
+      ],
+      "answers": [
+        {
+          "answer": "France",
+          "display": "#1 — Champions"
+        },
+        {
+          "answer": "Croatia",
+          "display": "#2 — Runners-up"
+        },
+        {
+          "answer": "Belgium",
+          "display": "#3 — Third place"
+        },
+        {
+          "answer": "England",
+          "display": "#4 — Fourth place"
+        },
+        {
+          "answer": "Uruguay",
+          "display": "#5 — Eliminated in quarter-finals"
+        },
+        {
+          "answer": "Brazil",
+          "display": "#6 — Eliminated in quarter-finals"
+        },
+        {
+          "answer": "Sweden",
+          "display": "#7 — Eliminated in quarter-finals"
+        },
+        {
+          "answer": "Russia",
+          "display": "#8 — Eliminated in quarter-finals"
+        },
+        {
+          "answer": "Colombia",
+          "display": "#9 — Eliminated in round of 16"
+        },
+        {
+          "answer": "Spain",
+          "display": "#10 — Eliminated in round of 16"
+        },
+        {
+          "answer": "Denmark",
+          "display": "#11 — Eliminated in round of 16"
+        },
+        {
+          "answer": "Mexico",
+          "display": "#12 — Eliminated in round of 16"
+        },
+        {
+          "answer": "Portugal",
+          "display": "#13 — Eliminated in round of 16"
+        }
+      ]
+    },
+    {
+      "category": "sports/soccer/international/world-cup",
+      "question": "Top 10 teams in the final ranking of the 2022 FIFA World Cup",
+      "cutoff": 10,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1378205329 | table 24 | name: Team | value: Pos | order: asc",
+      "tags": [
+        "soccer",
+        "world-cup",
+        "2022"
+      ],
+      "answers": [
+        {
+          "answer": "Argentina",
+          "display": "#1 — Champions"
+        },
+        {
+          "answer": "France",
+          "display": "#2 — Runners-up"
+        },
+        {
+          "answer": "Croatia",
+          "display": "#3 — Third place"
+        },
+        {
+          "answer": "Morocco",
+          "display": "#4 — Fourth place"
+        },
+        {
+          "answer": "Netherlands",
+          "display": "#5 — Eliminated in quarter-finals",
+          "aliases": [
+            "Holland"
+          ]
+        },
+        {
+          "answer": "England",
+          "display": "#6 — Eliminated in quarter-finals"
+        },
+        {
+          "answer": "Brazil",
+          "display": "#7 — Eliminated in quarter-finals"
+        },
+        {
+          "answer": "Portugal",
+          "display": "#8 — Eliminated in quarter-finals"
+        },
+        {
+          "answer": "Japan",
+          "display": "#9 — Eliminated in round of 16"
+        },
+        {
+          "answer": "Senegal",
+          "display": "#10 — Eliminated in round of 16"
+        },
+        {
+          "answer": "Australia",
+          "display": "#11 — Eliminated in round of 16"
+        },
+        {
+          "answer": "Switzerland",
+          "display": "#12 — Eliminated in round of 16"
+        },
+        {
+          "answer": "Spain",
+          "display": "#13 — Eliminated in round of 16"
+        }
+      ]
+    }
+  ]
+}

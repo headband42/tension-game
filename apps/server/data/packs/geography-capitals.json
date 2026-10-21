@@ -1,0 +1,471 @@
+{
+  "categories": [
+    {
+      "path": "geography/capitals",
+      "name": "Capitals"
+    }
+  ],
+  "questions": [
+    {
+      "category": "geography/capitals",
+      "difficulty": 1,
+      "question": "Top 10 most populous national capitals (official city or capital-district boundaries, not metro areas)",
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1376501565 | table 1 | name: Capital | value: Population | note: the article's lead says these figures cover only the official capital area; years vary by country",
+      "tags": [
+        "geography",
+        "capitals",
+        "population"
+      ],
+      "answers": [
+        {
+          "answer": "Beijing",
+          "display": "21,858,000",
+          "aliases": [
+            "Peking"
+          ]
+        },
+        {
+          "answer": "Tokyo",
+          "display": "14,094,034"
+        },
+        {
+          "answer": "Moscow",
+          "display": "13,274,285"
+        },
+        {
+          "answer": "Kinshasa",
+          "display": "12,691,000"
+        },
+        {
+          "answer": "Jakarta",
+          "display": "10,562,088"
+        },
+        {
+          "answer": "Lima",
+          "display": "10,151,000"
+        },
+        {
+          "answer": "Cairo",
+          "display": "10,107,125"
+        },
+        {
+          "answer": "Seoul",
+          "display": "9,508,451"
+        },
+        {
+          "answer": "Mexico City",
+          "display": "9,209,944",
+          "aliases": [
+            "CDMX"
+          ]
+        },
+        {
+          "answer": "London",
+          "display": "9,002,488"
+        },
+        {
+          "answer": "Dhaka",
+          "display": "8,906,039"
+        },
+        {
+          "answer": "Tehran",
+          "display": "8,693,706"
+        },
+        {
+          "answer": "Bangkok",
+          "display": "8,305,218"
+        },
+        {
+          "answer": "Hanoi",
+          "display": "8,053,663"
+        }
+      ]
+    },
+    {
+      "category": "geography/capitals",
+      "difficulty": 2,
+      "question": "Top 10 most populous national capitals whose names end with the letter 'A' (official city or capital-district boundaries, )",
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1376501565 | table 1 | name: Capital | value: Population | where: Capital~a$ | note: the article's lead says these figures cover only the official capital area; years vary by country",
+      "tags": [
+        "geography",
+        "capitals",
+        "population"
+      ],
+      "answers": [
+        {
+          "answer": "Kinshasa",
+          "display": "12,691,000"
+        },
+        {
+          "answer": "Jakarta",
+          "display": "10,562,088"
+        },
+        {
+          "answer": "Lima",
+          "display": "10,151,000"
+        },
+        {
+          "answer": "Dhaka",
+          "display": "8,906,039"
+        },
+        {
+          "answer": "Ankara",
+          "display": "5,747,325"
+        },
+        {
+          "answer": "Addis Ababa",
+          "display": "3,040,740"
+        },
+        {
+          "answer": "Brasília",
+          "display": "2,982,818",
+          "aliases": [
+            "Brasilia"
+          ]
+        },
+        {
+          "answer": "Pretoria",
+          "display": "2,921,488",
+          "aliases": [
+            "Tshwane"
+          ]
+        },
+        {
+          "answer": "Lusaka",
+          "display": "2,731,696"
+        },
+        {
+          "answer": "Sanaa",
+          "display": "2,575,347",
+          "aliases": [
+            "Sana'a"
+          ]
+        },
+        {
+          "answer": "Luanda",
+          "display": "2,571,861"
+        },
+        {
+          "answer": "Accra",
+          "display": "2,388,000"
+        },
+        {
+          "answer": "Havana",
+          "display": "2,132,183"
+        },
+        {
+          "answer": "Vienna",
+          "display": "1,962,779"
+        }
+      ]
+    },
+    {
+      "category": "geography/capitals",
+      "difficulty": 2,
+      "question": "Top 10 highest national capitals by elevation above sea level (metres; UN member and observer states; for Bolivia, the capital (seat of government) La Paz and the constitutional capital Sucre are both listed)",
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1378836165 | table 1 | name: Capital | value: Elevation (m) | note: Bolivia is listed twice, as La Paz (government seat) and Sucre (de jure capital); UN member and observer states only",
+      "tags": [
+        "geography",
+        "capitals",
+        "elevation"
+      ],
+      "answers": [
+        {
+          "answer": "La Paz",
+          "display": "3,640 m (seat of government)"
+        },
+        {
+          "answer": "Quito",
+          "display": "2,850 m"
+        },
+        {
+          "answer": "Sucre",
+          "display": "2,790 m (constitutional capital)"
+        },
+        {
+          "answer": "Bogotá",
+          "display": "2,625 m",
+          "aliases": [
+            "Bogota"
+          ]
+        },
+        {
+          "answer": "Addis Ababa",
+          "display": "2,355 m"
+        },
+        {
+          "answer": "Thimphu",
+          "display": "2,334 m"
+        },
+        {
+          "answer": "Asmara",
+          "display": "2,325 m"
+        },
+        {
+          "answer": "Sanaa",
+          "display": "2,250 m",
+          "aliases": [
+            "Sana'a"
+          ]
+        },
+        {
+          "answer": "Mexico City",
+          "display": "2,240 m",
+          "aliases": [
+            "CDMX"
+          ]
+        },
+        {
+          "answer": "Nairobi",
+          "display": "1,795 m"
+        },
+        {
+          "answer": "Kabul",
+          "display": "1,790 m"
+        },
+        {
+          "answer": "Windhoek",
+          "display": "1,721 m"
+        },
+        {
+          "answer": "Maseru",
+          "display": "1,673 m"
+        },
+        {
+          "answer": "Kigali",
+          "display": "1,567 m"
+        }
+      ]
+    },
+    {
+      "category": "geography/capitals",
+      "difficulty": 2,
+      "question": "Top 10 northernmost national capitals by latitude (sovereign countries only; capitals of territories and constituent countries excluded)",
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1375514514 | table 1 | name: City | value: Latitude | where: Notes!~[Tt]erritor | where: Notes!~Constituent | where: Notes!~Autonomous | where: Notes!~Crown | where: Notes!~unincorporated",
+      "tags": [
+        "geography",
+        "capitals",
+        "latitude"
+      ],
+      "answers": [
+        {
+          "answer": "Reykjavík",
+          "display": "64.15°N",
+          "aliases": [
+            "Reykjavik"
+          ]
+        },
+        {
+          "answer": "Helsinki",
+          "display": "60.17°N"
+        },
+        {
+          "answer": "Oslo",
+          "display": "59.91°N"
+        },
+        {
+          "answer": "Tallinn",
+          "display": "59.44°N"
+        },
+        {
+          "answer": "Stockholm",
+          "display": "59.33°N"
+        },
+        {
+          "answer": "Riga",
+          "display": "56.95°N"
+        },
+        {
+          "answer": "Moscow",
+          "display": "55.76°N"
+        },
+        {
+          "answer": "Copenhagen",
+          "display": "55.67°N"
+        },
+        {
+          "answer": "Vilnius",
+          "display": "54.68°N"
+        },
+        {
+          "answer": "Minsk",
+          "display": "53.90°N"
+        },
+        {
+          "answer": "Dublin",
+          "display": "53.33°N"
+        },
+        {
+          "answer": "Berlin",
+          "display": "52.52°N"
+        },
+        {
+          "answer": "Amsterdam",
+          "display": "52.37°N"
+        },
+        {
+          "answer": "Warsaw",
+          "display": "52.23°N"
+        }
+      ]
+    },
+    {
+      "category": "geography/capitals",
+      "difficulty": 2,
+      "question": "Top 10 southernmost national capitals by latitude (sovereign countries only; capitals of territories excluded; countries with several seats of government are listed once per seat: South Africa and Eswatini)",
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1375514514 | table 1 | name: City | value: Latitude | where: Notes!~[Tt]erritor | order: asc",
+      "tags": [
+        "geography",
+        "capitals",
+        "latitude"
+      ],
+      "answers": [
+        {
+          "answer": "Wellington",
+          "display": "−41.28°"
+        },
+        {
+          "answer": "Canberra",
+          "display": "−35.30°"
+        },
+        {
+          "answer": "Montevideo",
+          "display": "−34.88°"
+        },
+        {
+          "answer": "Buenos Aires",
+          "display": "−34.60°"
+        },
+        {
+          "answer": "Cape Town",
+          "display": "−33.92° (legislative capital)"
+        },
+        {
+          "answer": "Santiago",
+          "display": "−33.45° (official capital)"
+        },
+        {
+          "answer": "Maseru",
+          "display": "−29.30°"
+        },
+        {
+          "answer": "Bloemfontein",
+          "display": "−29.12° (judicial capital)"
+        },
+        {
+          "answer": "Lobamba",
+          "display": "−26.42° (royal and legislative capital)"
+        },
+        {
+          "answer": "Mbabane",
+          "display": "−26.32° (administrative capital)"
+        },
+        {
+          "answer": "Maputo",
+          "display": "−25.97°"
+        },
+        {
+          "answer": "Pretoria",
+          "display": "−25.73° (executive capital)",
+          "aliases": [
+            "Tshwane"
+          ]
+        },
+        {
+          "answer": "Asunción",
+          "display": "−25.27°",
+          "aliases": [
+            "Asuncion"
+          ]
+        },
+        {
+          "answer": "Gaborone",
+          "display": "−24.65°"
+        }
+      ]
+    },
+    {
+      "category": "geography/capitals",
+      "difficulty": 1,
+      "question": "Top 10 most populous US state capitals by city population (2020 census; Honolulu's figure is urban Honolulu, a census-designated place)",
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1376013797 | table 2 | name: Capital | value: / City | header rows: 2",
+      "tags": [
+        "geography",
+        "capitals",
+        "usa",
+        "population"
+      ],
+      "answers": [
+        {
+          "answer": "Phoenix",
+          "display": "1,608,139"
+        },
+        {
+          "answer": "Austin",
+          "display": "961,855"
+        },
+        {
+          "answer": "Columbus",
+          "display": "905,748"
+        },
+        {
+          "answer": "Indianapolis",
+          "display": "887,642"
+        },
+        {
+          "answer": "Denver",
+          "display": "715,522"
+        },
+        {
+          "answer": "Nashville",
+          "display": "689,447"
+        },
+        {
+          "answer": "Oklahoma City",
+          "display": "681,054",
+          "aliases": [
+            "OKC"
+          ]
+        },
+        {
+          "answer": "Boston",
+          "display": "675,647"
+        },
+        {
+          "answer": "Sacramento",
+          "display": "524,943"
+        },
+        {
+          "answer": "Atlanta",
+          "display": "498,715"
+        },
+        {
+          "answer": "Raleigh",
+          "display": "467,665"
+        },
+        {
+          "answer": "Honolulu",
+          "display": "350,964"
+        },
+        {
+          "answer": "Saint Paul",
+          "display": "311,527",
+          "aliases": [
+            "St. Paul",
+            "St Paul"
+          ]
+        },
+        {
+          "answer": "Lincoln",
+          "display": "291,082"
+        }
+      ]
+    }
+  ]
+}

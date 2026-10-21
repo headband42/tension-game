@@ -1,0 +1,2368 @@
+{
+  "categories": [
+    {
+      "path": "history/economy",
+      "name": "Economic History"
+    },
+    {
+      "path": "history/population",
+      "name": "Population History"
+    }
+  ],
+  "questions": [
+    {
+      "category": "history/economy",
+      "question": "Top 10 economies by nominal GDP in 1980 (IMF estimates, US$; Germany is West Germany; the Soviet Union is not included)",
+      "cutoff": 10,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1379678644 | table 2 | name: Country | value: 1980 | where: Country!=World | where: Country!=European Union | where: Country!=Euro area",
+      "tags": [
+        "history",
+        "economy",
+        "gdp",
+        "countries"
+      ],
+      "answers": [
+        {
+          "answer": "United States",
+          "display": "$2,857,325 million",
+          "aliases": [
+            "USA",
+            "US",
+            "America"
+          ]
+        },
+        {
+          "answer": "Japan",
+          "display": "$1,155,182 million"
+        },
+        {
+          "answer": "Germany",
+          "display": "$856,833 million",
+          "aliases": [
+            "West Germany"
+          ]
+        },
+        {
+          "answer": "France",
+          "display": "$695,475 million"
+        },
+        {
+          "answer": "United Kingdom",
+          "display": "$604,664 million",
+          "aliases": [
+            "UK",
+            "Britain"
+          ]
+        },
+        {
+          "answer": "Italy",
+          "display": "$479,967 million"
+        },
+        {
+          "answer": "China",
+          "display": "$303,550 million"
+        },
+        {
+          "answer": "Canada",
+          "display": "$276,064 million"
+        },
+        {
+          "answer": "Mexico",
+          "display": "$242,153 million"
+        },
+        {
+          "answer": "Argentina",
+          "display": "$233,696 million"
+        },
+        {
+          "answer": "Spain",
+          "display": "$231,048 million"
+        },
+        {
+          "answer": "Netherlands",
+          "display": "$194,031 million",
+          "aliases": [
+            "Holland"
+          ]
+        },
+        {
+          "answer": "India",
+          "display": "$186,170 million"
+        }
+      ]
+    },
+    {
+      "category": "history/economy",
+      "question": "Top 10 economies by nominal GDP in 1985 (IMF estimates, US$; Germany is West Germany; the Soviet Union is not included)",
+      "cutoff": 10,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1379678644 | table 2 | name: Country | value: 1985 | where: Country!=World | where: Country!=European Union | where: Country!=Euro area",
+      "tags": [
+        "history",
+        "economy",
+        "gdp",
+        "countries"
+      ],
+      "answers": [
+        {
+          "answer": "United States",
+          "display": "$4,339,000 million",
+          "aliases": [
+            "USA",
+            "US",
+            "America"
+          ]
+        },
+        {
+          "answer": "Japan",
+          "display": "$1,459,625 million"
+        },
+        {
+          "answer": "Germany",
+          "display": "$663,459 million",
+          "aliases": [
+            "West Germany"
+          ]
+        },
+        {
+          "answer": "France",
+          "display": "$551,596 million"
+        },
+        {
+          "answer": "United Kingdom",
+          "display": "$538,269 million",
+          "aliases": [
+            "UK",
+            "Britain"
+          ]
+        },
+        {
+          "answer": "Italy",
+          "display": "$455,457 million"
+        },
+        {
+          "answer": "Canada",
+          "display": "$366,184 million"
+        },
+        {
+          "answer": "China",
+          "display": "$310,709 million"
+        },
+        {
+          "answer": "India",
+          "display": "$233,520 million"
+        },
+        {
+          "answer": "Mexico",
+          "display": "$230,272 million"
+        },
+        {
+          "answer": "Brazil",
+          "display": "$226,938 million"
+        },
+        {
+          "answer": "Iran",
+          "display": "$220,341 million"
+        },
+        {
+          "answer": "Spain",
+          "display": "$181,847 million"
+        }
+      ]
+    },
+    {
+      "category": "history/economy",
+      "question": "Top 10 economies by nominal GDP in 1990 (IMF estimates, US$; Germany is West Germany; the Soviet Union is not included)",
+      "cutoff": 10,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1379678644 | table 3 | name: Country | value: 1990 | where: Country!=World | where: Country!=European Union | where: Country!=Euro area",
+      "tags": [
+        "history",
+        "economy",
+        "gdp",
+        "countries"
+      ],
+      "answers": [
+        {
+          "answer": "United States",
+          "display": "$5,963,125 million",
+          "aliases": [
+            "USA",
+            "US",
+            "America"
+          ]
+        },
+        {
+          "answer": "Japan",
+          "display": "$3,258,697 million"
+        },
+        {
+          "answer": "Germany",
+          "display": "$1,604,497 million",
+          "aliases": [
+            "West Germany"
+          ]
+        },
+        {
+          "answer": "France",
+          "display": "$1,260,874 million"
+        },
+        {
+          "answer": "United Kingdom",
+          "display": "$1,200,911 million",
+          "aliases": [
+            "UK",
+            "Britain"
+          ]
+        },
+        {
+          "answer": "Italy",
+          "display": "$1,164,328 million"
+        },
+        {
+          "answer": "Iran",
+          "display": "$709,094 million"
+        },
+        {
+          "answer": "Canada",
+          "display": "$596,089 million"
+        },
+        {
+          "answer": "Spain",
+          "display": "$536,322 million"
+        },
+        {
+          "answer": "Brazil",
+          "display": "$455,335 million"
+        },
+        {
+          "answer": "China",
+          "display": "$397,359 million"
+        },
+        {
+          "answer": "Australia",
+          "display": "$324,567 million"
+        },
+        {
+          "answer": "Netherlands",
+          "display": "$321,859 million",
+          "aliases": [
+            "Holland"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "history/economy",
+      "question": "Top 10 economies by nominal GDP in 1995 (IMF estimates, US$)",
+      "cutoff": 10,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1379678644 | table 3 | name: Country | value: 1995 | where: Country!=World | where: Country!=European Union | where: Country!=Euro area",
+      "tags": [
+        "history",
+        "economy",
+        "gdp",
+        "countries"
+      ],
+      "answers": [
+        {
+          "answer": "United States",
+          "display": "$7,639,750 million",
+          "aliases": [
+            "USA",
+            "US",
+            "America"
+          ]
+        },
+        {
+          "answer": "Japan",
+          "display": "$5,639,651 million"
+        },
+        {
+          "answer": "Germany",
+          "display": "$2,595,269 million"
+        },
+        {
+          "answer": "France",
+          "display": "$1,596,250 million"
+        },
+        {
+          "answer": "United Kingdom",
+          "display": "$1,349,359 million",
+          "aliases": [
+            "UK",
+            "Britain"
+          ]
+        },
+        {
+          "answer": "Italy",
+          "display": "$1,177,987 million"
+        },
+        {
+          "answer": "Brazil",
+          "display": "$770,860 million"
+        },
+        {
+          "answer": "China",
+          "display": "$737,894 million"
+        },
+        {
+          "answer": "Spain",
+          "display": "$614,713 million"
+        },
+        {
+          "answer": "Canada",
+          "display": "$605,941 million"
+        },
+        {
+          "answer": "South Korea",
+          "display": "$586,301 million",
+          "aliases": [
+            "Korea"
+          ]
+        },
+        {
+          "answer": "Netherlands",
+          "display": "$453,377 million",
+          "aliases": [
+            "Holland"
+          ]
+        },
+        {
+          "answer": "Mexico",
+          "display": "$380,182 million"
+        }
+      ]
+    },
+    {
+      "category": "history/economy",
+      "question": "Top 10 economies by nominal GDP in 2000 (IMF estimates, US$)",
+      "cutoff": 10,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1379678644 | table 4 | name: Country | value: 2000 | where: Country!=World | where: Country!=European Union | where: Country!=Euro area",
+      "tags": [
+        "history",
+        "economy",
+        "gdp",
+        "countries"
+      ],
+      "answers": [
+        {
+          "answer": "United States",
+          "display": "$10,250,950 million",
+          "aliases": [
+            "USA",
+            "US",
+            "America"
+          ]
+        },
+        {
+          "answer": "Japan",
+          "display": "$5,042,382 million"
+        },
+        {
+          "answer": "Germany",
+          "display": "$1,967,850 million"
+        },
+        {
+          "answer": "United Kingdom",
+          "display": "$1,674,765 million",
+          "aliases": [
+            "UK",
+            "Britain"
+          ]
+        },
+        {
+          "answer": "France",
+          "display": "$1,361,560 million"
+        },
+        {
+          "answer": "China",
+          "display": "$1,220,346 million"
+        },
+        {
+          "answer": "Italy",
+          "display": "$1,150,169 million"
+        },
+        {
+          "answer": "Canada",
+          "display": "$744,631 million"
+        },
+        {
+          "answer": "Mexico",
+          "display": "$742,061 million"
+        },
+        {
+          "answer": "Brazil",
+          "display": "$655,454 million"
+        },
+        {
+          "answer": "Spain",
+          "display": "$598,367 million"
+        },
+        {
+          "answer": "South Korea",
+          "display": "$597,802 million",
+          "aliases": [
+            "Korea"
+          ]
+        },
+        {
+          "answer": "India",
+          "display": "$468,396 million"
+        }
+      ]
+    },
+    {
+      "category": "history/economy",
+      "question": "Top 10 economies by nominal GDP in 2005 (IMF estimates, US$)",
+      "cutoff": 10,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1379678644 | table 4 | name: Country | value: 2005 | where: Country!=World | where: Country!=European Union | where: Country!=Euro area",
+      "tags": [
+        "history",
+        "economy",
+        "gdp",
+        "countries"
+      ],
+      "answers": [
+        {
+          "answer": "United States",
+          "display": "$13,039,200 million",
+          "aliases": [
+            "USA",
+            "US",
+            "America"
+          ]
+        },
+        {
+          "answer": "Japan",
+          "display": "$4,875,649 million"
+        },
+        {
+          "answer": "Germany",
+          "display": "$2,894,992 million"
+        },
+        {
+          "answer": "United Kingdom",
+          "display": "$2,554,229 million",
+          "aliases": [
+            "UK",
+            "Britain"
+          ]
+        },
+        {
+          "answer": "China",
+          "display": "$2,326,577 million"
+        },
+        {
+          "answer": "France",
+          "display": "$2,193,358 million"
+        },
+        {
+          "answer": "Italy",
+          "display": "$1,866,013 million"
+        },
+        {
+          "answer": "Canada",
+          "display": "$1,173,505 million"
+        },
+        {
+          "answer": "Spain",
+          "display": "$1,155,306 million"
+        },
+        {
+          "answer": "South Korea",
+          "display": "$971,540 million",
+          "aliases": [
+            "Korea"
+          ]
+        },
+        {
+          "answer": "Mexico",
+          "display": "$917,572 million"
+        },
+        {
+          "answer": "Brazil",
+          "display": "$891,633 million"
+        },
+        {
+          "answer": "India",
+          "display": "$820,385 million"
+        }
+      ]
+    },
+    {
+      "category": "history/economy",
+      "question": "Top 10 economies by nominal GDP in 2010 (IMF estimates, US$)",
+      "cutoff": 10,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1379678644 | table 5 | name: Country | value: 2010 | where: Country!=World | where: Country!=European Union | where: Country!=Euro area",
+      "tags": [
+        "history",
+        "economy",
+        "gdp",
+        "countries"
+      ],
+      "answers": [
+        {
+          "answer": "United States",
+          "display": "$15,048,975 million",
+          "aliases": [
+            "USA",
+            "US",
+            "America"
+          ]
+        },
+        {
+          "answer": "China",
+          "display": "$6,138,878 million"
+        },
+        {
+          "answer": "Japan",
+          "display": "$5,811,577 million"
+        },
+        {
+          "answer": "Germany",
+          "display": "$3,469,925 million"
+        },
+        {
+          "answer": "France",
+          "display": "$2,648,391 million"
+        },
+        {
+          "answer": "United Kingdom",
+          "display": "$2,499,193 million",
+          "aliases": [
+            "UK",
+            "Britain"
+          ]
+        },
+        {
+          "answer": "Brazil",
+          "display": "$2,208,704 million"
+        },
+        {
+          "answer": "Italy",
+          "display": "$2,146,687 million"
+        },
+        {
+          "answer": "India",
+          "display": "$1,675,615 million"
+        },
+        {
+          "answer": "Russia",
+          "display": "$1,633,111 million"
+        },
+        {
+          "answer": "Canada",
+          "display": "$1,617,345 million"
+        },
+        {
+          "answer": "Spain",
+          "display": "$1,429,155 million"
+        },
+        {
+          "answer": "Australia",
+          "display": "$1,258,450 million"
+        }
+      ]
+    },
+    {
+      "category": "history/economy",
+      "question": "Top 10 economies by nominal GDP in 2015 (IMF estimates, US$)",
+      "cutoff": 10,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1379678644 | table 5 | name: Country | value: 2015 | where: Country!=World | where: Country!=European Union | where: Country!=Euro area",
+      "tags": [
+        "history",
+        "economy",
+        "gdp",
+        "countries"
+      ],
+      "answers": [
+        {
+          "answer": "United States",
+          "display": "$18,295,000 million",
+          "aliases": [
+            "USA",
+            "US",
+            "America"
+          ]
+        },
+        {
+          "answer": "China",
+          "display": "$11,305,640 million"
+        },
+        {
+          "answer": "Japan",
+          "display": "$4,534,438 million"
+        },
+        {
+          "answer": "Germany",
+          "display": "$3,425,446 million"
+        },
+        {
+          "answer": "United Kingdom",
+          "display": "$2,946,231 million",
+          "aliases": [
+            "UK",
+            "Britain"
+          ]
+        },
+        {
+          "answer": "France",
+          "display": "$2,442,731 million"
+        },
+        {
+          "answer": "India",
+          "display": "$2,081,604 million"
+        },
+        {
+          "answer": "Italy",
+          "display": "$1,845,615 million"
+        },
+        {
+          "answer": "Brazil",
+          "display": "$1,800,046 million"
+        },
+        {
+          "answer": "Canada",
+          "display": "$1,556,508 million"
+        },
+        {
+          "answer": "South Korea",
+          "display": "$1,539,212 million",
+          "aliases": [
+            "Korea"
+          ]
+        },
+        {
+          "answer": "Russia",
+          "display": "$1,356,703 million"
+        },
+        {
+          "answer": "Australia",
+          "display": "$1,238,863 million"
+        }
+      ]
+    },
+    {
+      "category": "history/economy",
+      "question": "Top 10 economies by nominal GDP in 2020 (IMF estimates, US$)",
+      "cutoff": 10,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1379678644 | table 6 | name: Country | value: 2020 | where: Country!=World | where: Country!=European Union | where: Country!=Euro area",
+      "tags": [
+        "history",
+        "economy",
+        "gdp",
+        "countries"
+      ],
+      "answers": [
+        {
+          "answer": "United States",
+          "display": "$21,375,275 million",
+          "aliases": [
+            "USA",
+            "US",
+            "America"
+          ]
+        },
+        {
+          "answer": "China",
+          "display": "$15,110,191 million"
+        },
+        {
+          "answer": "Japan",
+          "display": "$5,189,197 million"
+        },
+        {
+          "answer": "Germany",
+          "display": "$3,938,244 million"
+        },
+        {
+          "answer": "United Kingdom",
+          "display": "$2,725,948 million",
+          "aliases": [
+            "UK",
+            "Britain"
+          ]
+        },
+        {
+          "answer": "France",
+          "display": "$2,645,806 million"
+        },
+        {
+          "answer": "India",
+          "display": "$2,611,953 million"
+        },
+        {
+          "answer": "Italy",
+          "display": "$1,905,956 million"
+        },
+        {
+          "answer": "South Korea",
+          "display": "$1,744,455 million",
+          "aliases": [
+            "Korea"
+          ]
+        },
+        {
+          "answer": "Canada",
+          "display": "$1,655,685 million"
+        },
+        {
+          "answer": "Russia",
+          "display": "$1,488,118 million"
+        },
+        {
+          "answer": "Brazil",
+          "display": "$1,476,092 million"
+        },
+        {
+          "answer": "Australia",
+          "display": "$1,366,669 million"
+        }
+      ]
+    },
+    {
+      "category": "history/economy",
+      "question": "Top 10 countries and territories by nominal GDP in 2025 (IMF projection, US$)",
+      "cutoff": 10,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1379678644 | table 6 | name: Country | value: 2025 | where: Country!=World | where: Country!=European Union | where: Country!=Euro area",
+      "tags": [
+        "history",
+        "economy",
+        "gdp",
+        "countries"
+      ],
+      "answers": [
+        {
+          "answer": "United States",
+          "display": "$30,767,075 million",
+          "aliases": [
+            "USA",
+            "US",
+            "America"
+          ]
+        },
+        {
+          "answer": "China",
+          "display": "$19,626,247 million"
+        },
+        {
+          "answer": "Germany",
+          "display": "$5,048,059 million"
+        },
+        {
+          "answer": "Japan",
+          "display": "$4,435,163 million"
+        },
+        {
+          "answer": "United Kingdom",
+          "display": "$4,003,022 million",
+          "aliases": [
+            "UK",
+            "Britain"
+          ]
+        },
+        {
+          "answer": "India",
+          "display": "$3,916,312 million"
+        },
+        {
+          "answer": "France",
+          "display": "$3,368,925 million"
+        },
+        {
+          "answer": "Russia",
+          "display": "$2,587,938 million"
+        },
+        {
+          "answer": "Italy",
+          "display": "$2,550,111 million"
+        },
+        {
+          "answer": "Canada",
+          "display": "$2,319,900 million"
+        },
+        {
+          "answer": "Brazil",
+          "display": "$2,279,918 million"
+        },
+        {
+          "answer": "Spain",
+          "display": "$1,903,826 million"
+        },
+        {
+          "answer": "South Korea",
+          "display": "$1,872,375 million"
+        }
+      ]
+    },
+    {
+      "category": "history/economy",
+      "question": "Top 10 countries and territories by nominal GDP in 2030 (IMF projection, US$)",
+      "cutoff": 10,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1379678644 | table 7 | name: Country | value: 2030 | where: Country!=World | where: Country!=European Union | where: Country!=Euro area",
+      "tags": [
+        "history",
+        "economy",
+        "gdp",
+        "countries"
+      ],
+      "answers": [
+        {
+          "answer": "United States",
+          "display": "$37,677,878 million",
+          "aliases": [
+            "USA",
+            "US",
+            "America"
+          ]
+        },
+        {
+          "answer": "China",
+          "display": "$26,046,793 million"
+        },
+        {
+          "answer": "Germany",
+          "display": "$6,178,303 million"
+        },
+        {
+          "answer": "India",
+          "display": "$6,173,385 million"
+        },
+        {
+          "answer": "United Kingdom",
+          "display": "$5,148,434 million",
+          "aliases": [
+            "UK",
+            "Britain"
+          ]
+        },
+        {
+          "answer": "Japan",
+          "display": "$5,002,181 million"
+        },
+        {
+          "answer": "France",
+          "display": "$4,004,118 million"
+        },
+        {
+          "answer": "Brazil",
+          "display": "$3,203,508 million"
+        },
+        {
+          "answer": "Italy",
+          "display": "$3,045,633 million"
+        },
+        {
+          "answer": "Canada",
+          "display": "$3,008,107 million"
+        },
+        {
+          "answer": "Russia",
+          "display": "$2,591,506 million"
+        },
+        {
+          "answer": "Mexico",
+          "display": "$2,548,630 million"
+        },
+        {
+          "answer": "Australia",
+          "display": "$2,483,975 million"
+        }
+      ]
+    },
+    {
+      "category": "history/economy",
+      "question": "Top 10 countries and territories by nominal GDP per capita in 1980 (IMF estimates, US$)",
+      "cutoff": 10,
+      "difficulty": 3,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1362981741 | table 1 | name: Country | value: 1980 | where: Country!=World | where: Country!=European Union | where: Country!=Euro area",
+      "tags": [
+        "history",
+        "economy",
+        "gdp",
+        "per capita",
+        "countries"
+      ],
+      "answers": [
+        {
+          "answer": "United Arab Emirates",
+          "display": "$41,312",
+          "aliases": [
+            "UAE"
+          ]
+        },
+        {
+          "answer": "Qatar",
+          "display": "$27,242"
+        },
+        {
+          "answer": "Switzerland",
+          "display": "$19,720"
+        },
+        {
+          "answer": "Saudi Arabia",
+          "display": "$19,543"
+        },
+        {
+          "answer": "Luxembourg",
+          "display": "$17,667"
+        },
+        {
+          "answer": "Sweden",
+          "display": "$16,849"
+        },
+        {
+          "answer": "Norway",
+          "display": "$15,682"
+        },
+        {
+          "answer": "Iceland",
+          "display": "$15,545"
+        },
+        {
+          "answer": "Denmark",
+          "display": "$13,825"
+        },
+        {
+          "answer": "Netherlands",
+          "display": "$13,770",
+          "aliases": [
+            "Holland"
+          ]
+        },
+        {
+          "answer": "Libya",
+          "display": "$12,889"
+        },
+        {
+          "answer": "France",
+          "display": "$12,624"
+        },
+        {
+          "answer": "United States",
+          "display": "$12,553",
+          "aliases": [
+            "USA",
+            "US",
+            "America"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "history/economy",
+      "question": "Top 10 countries and territories by nominal GDP per capita in 1985 (IMF estimates, US$)",
+      "cutoff": 10,
+      "difficulty": 3,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1362981741 | table 1 | name: Country | value: 1985 | where: Country!=World | where: Country!=European Union | where: Country!=Euro area",
+      "tags": [
+        "history",
+        "economy",
+        "gdp",
+        "per capita",
+        "countries"
+      ],
+      "answers": [
+        {
+          "answer": "United Arab Emirates",
+          "display": "$27,913",
+          "aliases": [
+            "UAE"
+          ]
+        },
+        {
+          "answer": "Brunei",
+          "display": "$21,771"
+        },
+        {
+          "answer": "United States",
+          "display": "$18,199",
+          "aliases": [
+            "USA",
+            "US",
+            "America"
+          ]
+        },
+        {
+          "answer": "Switzerland",
+          "display": "$17,459"
+        },
+        {
+          "answer": "Bahamas",
+          "display": "$16,801"
+        },
+        {
+          "answer": "Norway",
+          "display": "$15,679"
+        },
+        {
+          "answer": "Qatar",
+          "display": "$15,496"
+        },
+        {
+          "answer": "Canada",
+          "display": "$14,186"
+        },
+        {
+          "answer": "Sweden",
+          "display": "$13,512"
+        },
+        {
+          "answer": "Iceland",
+          "display": "$12,867"
+        },
+        {
+          "answer": "Luxembourg",
+          "display": "$12,394"
+        },
+        {
+          "answer": "Denmark",
+          "display": "$12,219"
+        },
+        {
+          "answer": "Japan",
+          "display": "$12,083"
+        }
+      ]
+    },
+    {
+      "category": "history/economy",
+      "question": "Top 10 countries and territories by nominal GDP per capita in 1990 (IMF estimates, US$)",
+      "cutoff": 10,
+      "difficulty": 3,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1362981741 | table 2 | name: Country | value: 1990 | where: Country!=World | where: Country!=European Union | where: Country!=Euro area",
+      "tags": [
+        "history",
+        "economy",
+        "gdp",
+        "per capita",
+        "countries"
+      ],
+      "answers": [
+        {
+          "answer": "Switzerland",
+          "display": "$40,437"
+        },
+        {
+          "answer": "Luxembourg",
+          "display": "$33,067"
+        },
+        {
+          "answer": "Sweden",
+          "display": "$30,184"
+        },
+        {
+          "answer": "Finland",
+          "display": "$28,491"
+        },
+        {
+          "answer": "Norway",
+          "display": "$28,082"
+        },
+        {
+          "answer": "United Arab Emirates",
+          "display": "$27,485",
+          "aliases": [
+            "UAE"
+          ]
+        },
+        {
+          "answer": "Denmark",
+          "display": "$26,915"
+        },
+        {
+          "answer": "Iceland",
+          "display": "$26,434"
+        },
+        {
+          "answer": "Japan",
+          "display": "$26,399"
+        },
+        {
+          "answer": "United States",
+          "display": "$23,848",
+          "aliases": [
+            "USA",
+            "US",
+            "America"
+          ]
+        },
+        {
+          "answer": "France",
+          "display": "$21,736"
+        },
+        {
+          "answer": "Austria",
+          "display": "$21,708"
+        },
+        {
+          "answer": "Netherlands",
+          "display": "$21,612",
+          "aliases": [
+            "Holland"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "history/economy",
+      "question": "Top 10 countries and territories by nominal GDP per capita in 1995 (IMF estimates, US$)",
+      "cutoff": 10,
+      "difficulty": 3,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1362981741 | table 2 | name: Country | value: 1995 | where: Country!=World | where: Country!=European Union | where: Country!=Euro area",
+      "tags": [
+        "history",
+        "economy",
+        "gdp",
+        "per capita",
+        "countries"
+      ],
+      "answers": [
+        {
+          "answer": "Switzerland",
+          "display": "$51,041"
+        },
+        {
+          "answer": "Luxembourg",
+          "display": "$50,705"
+        },
+        {
+          "answer": "Japan",
+          "display": "$44,960"
+        },
+        {
+          "answer": "Denmark",
+          "display": "$35,441"
+        },
+        {
+          "answer": "Norway",
+          "display": "$34,573"
+        },
+        {
+          "answer": "Germany",
+          "display": "$31,919"
+        },
+        {
+          "answer": "Sweden",
+          "display": "$30,218"
+        },
+        {
+          "answer": "Austria",
+          "display": "$30,184"
+        },
+        {
+          "answer": "Netherlands",
+          "display": "$29,394",
+          "aliases": [
+            "Holland"
+          ]
+        },
+        {
+          "answer": "United States",
+          "display": "$28,671",
+          "aliases": [
+            "USA",
+            "US",
+            "America"
+          ]
+        },
+        {
+          "answer": "Belgium",
+          "display": "$28,459"
+        },
+        {
+          "answer": "Iceland",
+          "display": "$27,615"
+        },
+        {
+          "answer": "France",
+          "display": "$26,927"
+        }
+      ]
+    },
+    {
+      "category": "history/economy",
+      "question": "Top 10 countries and territories by nominal GDP per capita in 2000 (IMF estimates, US$)",
+      "cutoff": 10,
+      "difficulty": 3,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1362981741 | table 3 | name: Country | value: 2000 | where: Country!=World | where: Country!=European Union | where: Country!=Euro area",
+      "tags": [
+        "history",
+        "economy",
+        "gdp",
+        "per capita",
+        "countries"
+      ],
+      "answers": [
+        {
+          "answer": "Liechtenstein",
+          "display": "$82,744"
+        },
+        {
+          "answer": "Luxembourg",
+          "display": "$48,984"
+        },
+        {
+          "answer": "Japan",
+          "display": "$39,757"
+        },
+        {
+          "answer": "Switzerland",
+          "display": "$39,417"
+        },
+        {
+          "answer": "Norway",
+          "display": "$37,909"
+        },
+        {
+          "answer": "United States",
+          "display": "$36,313",
+          "aliases": [
+            "USA",
+            "US",
+            "America"
+          ]
+        },
+        {
+          "answer": "Iceland",
+          "display": "$32,755"
+        },
+        {
+          "answer": "United Arab Emirates",
+          "display": "$32,496",
+          "aliases": [
+            "UAE"
+          ]
+        },
+        {
+          "answer": "Denmark",
+          "display": "$30,777"
+        },
+        {
+          "answer": "Qatar",
+          "display": "$30,461"
+        },
+        {
+          "answer": "Sweden",
+          "display": "$29,597"
+        },
+        {
+          "answer": "United Kingdom",
+          "display": "$28,441",
+          "aliases": [
+            "UK",
+            "Britain"
+          ]
+        },
+        {
+          "answer": "Bahamas",
+          "display": "$26,601"
+        }
+      ]
+    },
+    {
+      "category": "history/economy",
+      "question": "Top 10 countries and territories by nominal GDP per capita in 2005 (IMF estimates, US$)",
+      "cutoff": 10,
+      "difficulty": 3,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1362981741 | table 3 | name: Country | value: 2005 | where: Country!=World | where: Country!=European Union | where: Country!=Euro area",
+      "tags": [
+        "history",
+        "economy",
+        "gdp",
+        "per capita",
+        "countries"
+      ],
+      "answers": [
+        {
+          "answer": "Liechtenstein",
+          "display": "$114,293"
+        },
+        {
+          "answer": "Luxembourg",
+          "display": "$81,728"
+        },
+        {
+          "answer": "Norway",
+          "display": "$67,235"
+        },
+        {
+          "answer": "San Marino",
+          "display": "$61,151"
+        },
+        {
+          "answer": "Iceland",
+          "display": "$58,405"
+        },
+        {
+          "answer": "Switzerland",
+          "display": "$57,239"
+        },
+        {
+          "answer": "Qatar",
+          "display": "$54,358"
+        },
+        {
+          "answer": "Ireland",
+          "display": "$50,475"
+        },
+        {
+          "answer": "Denmark",
+          "display": "$48,998"
+        },
+        {
+          "answer": "United States",
+          "display": "$44,034",
+          "aliases": [
+            "USA",
+            "US",
+            "America"
+          ]
+        },
+        {
+          "answer": "Sweden",
+          "display": "$43,291"
+        },
+        {
+          "answer": "United Kingdom",
+          "display": "$42,279",
+          "aliases": [
+            "UK",
+            "Britain"
+          ]
+        },
+        {
+          "answer": "Netherlands",
+          "display": "$42,226",
+          "aliases": [
+            "Holland"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "history/economy",
+      "question": "Top 10 countries and territories by nominal GDP per capita in 2010 (IMF estimates, US$)",
+      "cutoff": 10,
+      "difficulty": 3,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1362981741 | table 4 | name: Country | value: 2010 | where: Country!=World | where: Country!=European Union | where: Country!=Euro area",
+      "tags": [
+        "history",
+        "economy",
+        "gdp",
+        "per capita",
+        "countries"
+      ],
+      "answers": [
+        {
+          "answer": "Liechtenstein",
+          "display": "$153,152"
+        },
+        {
+          "answer": "Luxembourg",
+          "display": "$112,049"
+        },
+        {
+          "answer": "Norway",
+          "display": "$89,674"
+        },
+        {
+          "answer": "Switzerland",
+          "display": "$78,279"
+        },
+        {
+          "answer": "Qatar",
+          "display": "$69,796"
+        },
+        {
+          "answer": "San Marino",
+          "display": "$60,426"
+        },
+        {
+          "answer": "Denmark",
+          "display": "$58,240"
+        },
+        {
+          "answer": "Australia",
+          "display": "$56,757"
+        },
+        {
+          "answer": "Sweden",
+          "display": "$52,334"
+        },
+        {
+          "answer": "Netherlands",
+          "display": "$51,473",
+          "aliases": [
+            "Holland"
+          ]
+        },
+        {
+          "answer": "Macau",
+          "display": "$51,139",
+          "aliases": [
+            "Macao"
+          ]
+        },
+        {
+          "answer": "Andorra",
+          "display": "$49,030"
+        },
+        {
+          "answer": "United States",
+          "display": "$48,586",
+          "aliases": [
+            "USA",
+            "US",
+            "America"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "history/economy",
+      "question": "Top 10 countries and territories by nominal GDP per capita in 2015 (IMF estimates, US$)",
+      "cutoff": 10,
+      "difficulty": 3,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1362981741 | table 4 | name: Country | value: 2015 | where: Country!=World | where: Country!=European Union | where: Country!=Euro area",
+      "tags": [
+        "history",
+        "economy",
+        "gdp",
+        "per capita",
+        "countries"
+      ],
+      "answers": [
+        {
+          "answer": "Liechtenstein",
+          "display": "$163,585"
+        },
+        {
+          "answer": "Luxembourg",
+          "display": "$106,710"
+        },
+        {
+          "answer": "Switzerland",
+          "display": "$85,683"
+        },
+        {
+          "answer": "Norway",
+          "display": "$76,971"
+        },
+        {
+          "answer": "Macau",
+          "display": "$69,481",
+          "aliases": [
+            "Macao"
+          ]
+        },
+        {
+          "answer": "Qatar",
+          "display": "$66,347"
+        },
+        {
+          "answer": "Ireland",
+          "display": "$64,094"
+        },
+        {
+          "answer": "United States",
+          "display": "$57,007",
+          "aliases": [
+            "USA",
+            "US",
+            "America"
+          ]
+        },
+        {
+          "answer": "Singapore",
+          "display": "$55,646"
+        },
+        {
+          "answer": "Iceland",
+          "display": "$54,796"
+        },
+        {
+          "answer": "Denmark",
+          "display": "$53,317"
+        },
+        {
+          "answer": "Australia",
+          "display": "$51,652"
+        },
+        {
+          "answer": "Sweden",
+          "display": "$50,919"
+        }
+      ]
+    },
+    {
+      "category": "history/economy",
+      "question": "Top 10 countries and territories by nominal GDP per capita in 2020 (IMF estimates, US$)",
+      "cutoff": 10,
+      "difficulty": 3,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1362981741 | table 5 | name: Country | value: 2020 | where: Country!=World | where: Country!=European Union | where: Country!=Euro area",
+      "tags": [
+        "history",
+        "economy",
+        "gdp",
+        "per capita",
+        "countries"
+      ],
+      "answers": [
+        {
+          "answer": "Liechtenstein",
+          "display": "$163,998"
+        },
+        {
+          "answer": "Luxembourg",
+          "display": "$117,570"
+        },
+        {
+          "answer": "Switzerland",
+          "display": "$87,797"
+        },
+        {
+          "answer": "Ireland",
+          "display": "$86,217"
+        },
+        {
+          "answer": "Norway",
+          "display": "$70,990"
+        },
+        {
+          "answer": "United States",
+          "display": "$64,518",
+          "aliases": [
+            "USA",
+            "US",
+            "America"
+          ]
+        },
+        {
+          "answer": "Iceland",
+          "display": "$62,237"
+        },
+        {
+          "answer": "Singapore",
+          "display": "$61,773"
+        },
+        {
+          "answer": "Denmark",
+          "display": "$61,076"
+        },
+        {
+          "answer": "Netherlands",
+          "display": "$53,529",
+          "aliases": [
+            "Holland"
+          ]
+        },
+        {
+          "answer": "Australia",
+          "display": "$53,322"
+        },
+        {
+          "answer": "Sweden",
+          "display": "$52,438"
+        },
+        {
+          "answer": "Qatar",
+          "display": "$50,962"
+        }
+      ]
+    },
+    {
+      "category": "history/economy",
+      "question": "Top 10 countries and territories by nominal GDP per capita in 2025 (IMF estimates, US$)",
+      "cutoff": 10,
+      "difficulty": 3,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1362981741 | table 5 | name: Country | value: 2025 | where: Country!=World | where: Country!=European Union | where: Country!=Euro area",
+      "tags": [
+        "history",
+        "economy",
+        "gdp",
+        "per capita",
+        "countries"
+      ],
+      "answers": [
+        {
+          "answer": "Liechtenstein",
+          "display": "$217,928"
+        },
+        {
+          "answer": "Luxembourg",
+          "display": "$148,247"
+        },
+        {
+          "answer": "Ireland",
+          "display": "$130,652"
+        },
+        {
+          "answer": "Switzerland",
+          "display": "$115,620"
+        },
+        {
+          "answer": "Singapore",
+          "display": "$99,365"
+        },
+        {
+          "answer": "Iceland",
+          "display": "$99,071"
+        },
+        {
+          "answer": "Norway",
+          "display": "$94,468"
+        },
+        {
+          "answer": "United States",
+          "display": "$89,991",
+          "aliases": [
+            "USA",
+            "US",
+            "America"
+          ]
+        },
+        {
+          "answer": "Denmark",
+          "display": "$77,046"
+        },
+        {
+          "answer": "Macau",
+          "display": "$74,465",
+          "aliases": [
+            "Macao"
+          ]
+        },
+        {
+          "answer": "Netherlands",
+          "display": "$73,833",
+          "aliases": [
+            "Holland"
+          ]
+        },
+        {
+          "answer": "Qatar",
+          "display": "$69,680"
+        },
+        {
+          "answer": "Australia",
+          "display": "$66,352"
+        }
+      ]
+    },
+    {
+      "category": "history/economy",
+      "question": "Top 10 countries and territories by GDP (PPP) in 1990 (IMF estimates, international dollars)",
+      "cutoff": 10,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1371120028 | table 2 | name: Country | value: 1990 | where: Country!=World | where: Country!=European Union | where: Country!=Euro area",
+      "tags": [
+        "history",
+        "economy",
+        "gdp",
+        "ppp",
+        "countries"
+      ],
+      "answers": [
+        {
+          "answer": "United States",
+          "display": "5,963,125 million international dollars",
+          "aliases": [
+            "USA",
+            "US",
+            "America"
+          ]
+        },
+        {
+          "answer": "Japan",
+          "display": "2,449,012 million international dollars"
+        },
+        {
+          "answer": "Germany",
+          "display": "1,744,915 million international dollars"
+        },
+        {
+          "answer": "Italy",
+          "display": "1,236,916 million international dollars"
+        },
+        {
+          "answer": "France",
+          "display": "1,143,631 million international dollars"
+        },
+        {
+          "answer": "United Kingdom",
+          "display": "1,058,756 million international dollars",
+          "aliases": [
+            "UK",
+            "Britain"
+          ]
+        },
+        {
+          "answer": "China",
+          "display": "995,375 million international dollars"
+        },
+        {
+          "answer": "India",
+          "display": "932,971 million international dollars"
+        },
+        {
+          "answer": "Brazil",
+          "display": "922,224 million international dollars"
+        },
+        {
+          "answer": "Mexico",
+          "display": "793,392 million international dollars"
+        },
+        {
+          "answer": "Spain",
+          "display": "633,398 million international dollars"
+        },
+        {
+          "answer": "Canada",
+          "display": "567,292 million international dollars"
+        },
+        {
+          "answer": "Indonesia",
+          "display": "458,588 million international dollars"
+        }
+      ]
+    },
+    {
+      "category": "history/economy",
+      "question": "Top 10 countries and territories by GDP (PPP) in 1995 (IMF estimates, international dollars)",
+      "cutoff": 10,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1371120028 | table 2 | name: Country | value: 1995 | where: Country!=World | where: Country!=European Union | where: Country!=Euro area",
+      "tags": [
+        "history",
+        "economy",
+        "gdp",
+        "ppp",
+        "countries"
+      ],
+      "answers": [
+        {
+          "answer": "United States",
+          "display": "7,639,750 million international dollars",
+          "aliases": [
+            "USA",
+            "US",
+            "America"
+          ]
+        },
+        {
+          "answer": "Japan",
+          "display": "2,968,593 million international dollars"
+        },
+        {
+          "answer": "Germany",
+          "display": "2,175,964 million international dollars"
+        },
+        {
+          "answer": "China",
+          "display": "2,024,185 million international dollars"
+        },
+        {
+          "answer": "Italy",
+          "display": "1,488,032 million international dollars"
+        },
+        {
+          "answer": "France",
+          "display": "1,385,256 million international dollars"
+        },
+        {
+          "answer": "India",
+          "display": "1,349,179 million international dollars"
+        },
+        {
+          "answer": "Russia",
+          "display": "1,322,881 million international dollars"
+        },
+        {
+          "answer": "United Kingdom",
+          "display": "1,279,745 million international dollars",
+          "aliases": [
+            "UK",
+            "Britain"
+          ]
+        },
+        {
+          "answer": "Brazil",
+          "display": "1,205,024 million international dollars"
+        },
+        {
+          "answer": "Mexico",
+          "display": "974,397 million international dollars"
+        },
+        {
+          "answer": "Spain",
+          "display": "777,324 million international dollars"
+        },
+        {
+          "answer": "Indonesia",
+          "display": "754,611 million international dollars"
+        }
+      ]
+    },
+    {
+      "category": "history/economy",
+      "question": "Top 10 countries and territories by GDP (PPP) in 2015 (IMF estimates, international dollars)",
+      "cutoff": 10,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1371120028 | table 4 | name: Country | value: 2015 | where: Country!=World | where: Country!=European Union | where: Country!=Euro area",
+      "tags": [
+        "history",
+        "economy",
+        "gdp",
+        "ppp",
+        "countries"
+      ],
+      "answers": [
+        {
+          "answer": "United States",
+          "display": "18,295,000 million international dollars",
+          "aliases": [
+            "USA",
+            "US",
+            "America"
+          ]
+        },
+        {
+          "answer": "China",
+          "display": "17,835,078 million international dollars"
+        },
+        {
+          "answer": "India",
+          "display": "6,922,249 million international dollars"
+        },
+        {
+          "answer": "Japan",
+          "display": "5,112,912 million international dollars"
+        },
+        {
+          "answer": "Germany",
+          "display": "4,144,409 million international dollars"
+        },
+        {
+          "answer": "Russia",
+          "display": "3,631,416 million international dollars"
+        },
+        {
+          "answer": "Brazil",
+          "display": "2,959,374 million international dollars"
+        },
+        {
+          "answer": "United Kingdom",
+          "display": "2,831,242 million international dollars",
+          "aliases": [
+            "UK",
+            "Britain"
+          ]
+        },
+        {
+          "answer": "France",
+          "display": "2,810,992 million international dollars"
+        },
+        {
+          "answer": "Indonesia",
+          "display": "2,519,629 million international dollars"
+        },
+        {
+          "answer": "Italy",
+          "display": "2,392,348 million international dollars"
+        },
+        {
+          "answer": "Mexico",
+          "display": "2,373,175 million international dollars"
+        },
+        {
+          "answer": "South Korea",
+          "display": "2,021,368 million international dollars"
+        }
+      ]
+    },
+    {
+      "category": "history/economy",
+      "question": "Top 10 countries and territories by GDP (PPP) in 2025 (IMF projection, international dollars)",
+      "cutoff": 10,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1371120028 | table 5 | name: Country | value: 2025 | where: Country!=World | where: Country!=European Union | where: Country!=Euro area",
+      "tags": [
+        "history",
+        "economy",
+        "gdp",
+        "ppp",
+        "countries"
+      ],
+      "answers": [
+        {
+          "answer": "China",
+          "display": "41,241,951 million international dollars"
+        },
+        {
+          "answer": "United States",
+          "display": "30,767,075 million international dollars",
+          "aliases": [
+            "USA",
+            "US",
+            "America"
+          ]
+        },
+        {
+          "answer": "India",
+          "display": "17,257,883 million international dollars"
+        },
+        {
+          "answer": "Russia",
+          "display": "7,236,601 million international dollars"
+        },
+        {
+          "answer": "Japan",
+          "display": "7,009,525 million international dollars"
+        },
+        {
+          "answer": "Germany",
+          "display": "6,181,073 million international dollars"
+        },
+        {
+          "answer": "Indonesia",
+          "display": "5,047,517 million international dollars"
+        },
+        {
+          "answer": "Brazil",
+          "display": "4,988,607 million international dollars"
+        },
+        {
+          "answer": "France",
+          "display": "4,563,230 million international dollars"
+        },
+        {
+          "answer": "United Kingdom",
+          "display": "4,553,105 million international dollars",
+          "aliases": [
+            "UK",
+            "Britain"
+          ]
+        },
+        {
+          "answer": "Turkey",
+          "display": "3,785,705 million international dollars"
+        },
+        {
+          "answer": "Italy",
+          "display": "3,744,569 million international dollars"
+        },
+        {
+          "answer": "Mexico",
+          "display": "3,425,088 million international dollars"
+        }
+      ]
+    },
+    {
+      "category": "history/population",
+      "question": "Top 10 most populous countries in 1950 (US Census Bureau estimates within today's borders)",
+      "cutoff": 10,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1376095736 | table 2 | name: Country | value: 1950 | where: Country!=World",
+      "tags": [
+        "history",
+        "population",
+        "countries"
+      ],
+      "answers": [
+        {
+          "answer": "China",
+          "display": "562,580,000"
+        },
+        {
+          "answer": "India",
+          "display": "369,881,000"
+        },
+        {
+          "answer": "United States",
+          "display": "151,869,000",
+          "aliases": [
+            "USA",
+            "US",
+            "America"
+          ]
+        },
+        {
+          "answer": "Russia",
+          "display": "101,937,000"
+        },
+        {
+          "answer": "Japan",
+          "display": "83,806,000"
+        },
+        {
+          "answer": "Indonesia",
+          "display": "82,979,000"
+        },
+        {
+          "answer": "Germany",
+          "display": "68,375,000"
+        },
+        {
+          "answer": "Brazil",
+          "display": "53,444,000"
+        },
+        {
+          "answer": "United Kingdom",
+          "display": "50,128,000",
+          "aliases": [
+            "UK",
+            "Britain"
+          ]
+        },
+        {
+          "answer": "Italy",
+          "display": "47,106,000"
+        },
+        {
+          "answer": "Bangladesh",
+          "display": "45,646,000"
+        },
+        {
+          "answer": "France",
+          "display": "42,540,000"
+        },
+        {
+          "answer": "Pakistan",
+          "display": "40,383,000"
+        }
+      ]
+    },
+    {
+      "category": "history/population",
+      "question": "Top 10 most populous countries in 1960 (US Census Bureau estimates within today's borders)",
+      "cutoff": 10,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1376095736 | table 2 | name: Country | value: 1960 | where: Country!=World",
+      "tags": [
+        "history",
+        "population",
+        "countries"
+      ],
+      "answers": [
+        {
+          "answer": "China",
+          "display": "651,340,000"
+        },
+        {
+          "answer": "India",
+          "display": "445,394,000"
+        },
+        {
+          "answer": "United States",
+          "display": "179,980,000",
+          "aliases": [
+            "USA",
+            "US",
+            "America"
+          ]
+        },
+        {
+          "answer": "Russia",
+          "display": "119,632,000"
+        },
+        {
+          "answer": "Indonesia",
+          "display": "100,146,000"
+        },
+        {
+          "answer": "Japan",
+          "display": "94,092,000"
+        },
+        {
+          "answer": "Germany",
+          "display": "72,481,000"
+        },
+        {
+          "answer": "Brazil",
+          "display": "71,412,000"
+        },
+        {
+          "answer": "Bangladesh",
+          "display": "54,593,000"
+        },
+        {
+          "answer": "United Kingdom",
+          "display": "52,373,000",
+          "aliases": [
+            "UK",
+            "Britain"
+          ]
+        },
+        {
+          "answer": "Pakistan",
+          "display": "51,719,000"
+        },
+        {
+          "answer": "Italy",
+          "display": "50,198,000"
+        },
+        {
+          "answer": "France",
+          "display": "46,612,000"
+        }
+      ]
+    },
+    {
+      "category": "history/population",
+      "question": "Top 10 most populous countries in 1970 (US Census Bureau estimates within today's borders)",
+      "cutoff": 10,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1376095736 | table 2 | name: Country | value: 1970 | where: Country!=World",
+      "tags": [
+        "history",
+        "population",
+        "countries"
+      ],
+      "answers": [
+        {
+          "answer": "China",
+          "display": "822,116,000"
+        },
+        {
+          "answer": "India",
+          "display": "553,889,000"
+        },
+        {
+          "answer": "United States",
+          "display": "203,985,000",
+          "aliases": [
+            "USA",
+            "US",
+            "America"
+          ]
+        },
+        {
+          "answer": "Russia",
+          "display": "130,246,000"
+        },
+        {
+          "answer": "Indonesia",
+          "display": "122,292,000"
+        },
+        {
+          "answer": "Japan",
+          "display": "104,345,000"
+        },
+        {
+          "answer": "Brazil",
+          "display": "94,931,000"
+        },
+        {
+          "answer": "Germany",
+          "display": "77,784,000"
+        },
+        {
+          "answer": "Pakistan",
+          "display": "67,492,000"
+        },
+        {
+          "answer": "Bangladesh",
+          "display": "67,332,000"
+        },
+        {
+          "answer": "United Kingdom",
+          "display": "55,633,000",
+          "aliases": [
+            "UK",
+            "Britain"
+          ]
+        },
+        {
+          "answer": "Nigeria",
+          "display": "55,591,000"
+        },
+        {
+          "answer": "Italy",
+          "display": "53,662,000"
+        }
+      ]
+    },
+    {
+      "category": "history/population",
+      "question": "Top 10 most populous countries in 1990 (US Census Bureau estimates within today's borders)",
+      "cutoff": 10,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1376095736 | table 3 | name: Country | value: 1990 | where: Country!=World",
+      "tags": [
+        "history",
+        "population",
+        "countries"
+      ],
+      "answers": [
+        {
+          "answer": "China",
+          "display": "1,153,164,000"
+        },
+        {
+          "answer": "India",
+          "display": "838,159,000"
+        },
+        {
+          "answer": "United States",
+          "display": "249,623,000",
+          "aliases": [
+            "USA",
+            "US",
+            "America"
+          ]
+        },
+        {
+          "answer": "Indonesia",
+          "display": "181,600,000"
+        },
+        {
+          "answer": "Brazil",
+          "display": "149,410,000"
+        },
+        {
+          "answer": "Russia",
+          "display": "147,973,000"
+        },
+        {
+          "answer": "Japan",
+          "display": "123,538,000"
+        },
+        {
+          "answer": "Pakistan",
+          "display": "118,817,000"
+        },
+        {
+          "answer": "Bangladesh",
+          "display": "112,213,000"
+        },
+        {
+          "answer": "Nigeria",
+          "display": "96,685,000"
+        },
+        {
+          "answer": "Mexico",
+          "display": "84,635,000"
+        },
+        {
+          "answer": "Germany",
+          "display": "79,381,000"
+        },
+        {
+          "answer": "Vietnam",
+          "display": "67,259,000"
+        }
+      ]
+    },
+    {
+      "category": "history/population",
+      "question": "Top 10 most populous countries in 2020 (US Census Bureau estimates within today's borders)",
+      "cutoff": 10,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1376095736 | table 4 | name: Country | value: 2020 | where: Country!=World",
+      "tags": [
+        "history",
+        "population",
+        "countries"
+      ],
+      "answers": [
+        {
+          "answer": "China",
+          "display": "1,397,026,000"
+        },
+        {
+          "answer": "India",
+          "display": "1,326,094,000"
+        },
+        {
+          "answer": "United States",
+          "display": "334,504,000",
+          "aliases": [
+            "USA",
+            "US",
+            "America"
+          ]
+        },
+        {
+          "answer": "Indonesia",
+          "display": "279,080,000"
+        },
+        {
+          "answer": "Pakistan",
+          "display": "233,431,000"
+        },
+        {
+          "answer": "Brazil",
+          "display": "216,016,000"
+        },
+        {
+          "answer": "Nigeria",
+          "display": "204,950,000"
+        },
+        {
+          "answer": "Bangladesh",
+          "display": "169,778,000"
+        },
+        {
+          "answer": "Russia",
+          "display": "145,723,000"
+        },
+        {
+          "answer": "Mexico",
+          "display": "128,650,000"
+        },
+        {
+          "answer": "Japan",
+          "display": "126,138,000"
+        },
+        {
+          "answer": "Ethiopia",
+          "display": "114,641,000"
+        },
+        {
+          "answer": "Philippines",
+          "display": "109,181,000"
+        }
+      ]
+    }
+  ]
+}

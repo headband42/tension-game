@@ -1,0 +1,1061 @@
+{
+  "categories": [
+    {
+      "path": "technology/by-year",
+      "name": "Tech Rankings by Year"
+    }
+  ],
+  "questions": [
+    {
+      "category": "technology/by-year",
+      "question": "Top 10 most-visited websites at the start of 2018 (by Alexa global ranking, April 2017 data)",
+      "cutoff": 10,
+      "difficulty": 1,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=816901768 | table 1 | name: Site | value: Alexa | order: asc",
+      "tags": [
+        "technology",
+        "internet",
+        "websites",
+        "by-year"
+      ],
+      "answers": [
+        {
+          "answer": "Google",
+          "display": "Alexa rank 1"
+        },
+        {
+          "answer": "YouTube",
+          "display": "Alexa rank 2"
+        },
+        {
+          "answer": "Facebook",
+          "display": "Alexa rank 3"
+        },
+        {
+          "answer": "Baidu",
+          "display": "Alexa rank 4"
+        },
+        {
+          "answer": "Wikipedia",
+          "display": "Alexa rank 5"
+        },
+        {
+          "answer": "Yahoo",
+          "display": "Alexa rank 6"
+        },
+        {
+          "answer": "Google India",
+          "display": "Alexa rank 7"
+        },
+        {
+          "answer": "Reddit",
+          "display": "Alexa rank 8"
+        },
+        {
+          "answer": "Tencent QQ",
+          "display": "Alexa rank 9",
+          "aliases": [
+            "QQ"
+          ]
+        },
+        {
+          "answer": "Taobao",
+          "display": "Alexa rank 10"
+        },
+        {
+          "answer": "Amazon",
+          "display": "Alexa rank 11",
+          "aliases": [
+            "Amazon.com"
+          ]
+        },
+        {
+          "answer": "Tmall",
+          "display": "Alexa rank 12"
+        },
+        {
+          "answer": "Twitter",
+          "display": "Alexa rank 13"
+        },
+        {
+          "answer": "Google Japan",
+          "display": "Alexa rank 14"
+        },
+        {
+          "answer": "Sohu",
+          "display": "Alexa rank 15"
+        }
+      ]
+    },
+    {
+      "category": "technology/by-year",
+      "question": "Top 10 most-visited websites at the start of 2021 (by Alexa global ranking, November 2020 data)",
+      "cutoff": 10,
+      "difficulty": 1,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=996676752 | table 1 | name: Site | value: Alexa | order: asc",
+      "tags": [
+        "technology",
+        "internet",
+        "websites",
+        "by-year"
+      ],
+      "answers": [
+        {
+          "answer": "Google",
+          "display": "Alexa rank 1",
+          "aliases": [
+            "Google Search"
+          ]
+        },
+        {
+          "answer": "YouTube",
+          "display": "Alexa rank 2"
+        },
+        {
+          "answer": "Tmall",
+          "display": "Alexa rank 3"
+        },
+        {
+          "answer": "Baidu",
+          "display": "Alexa rank 4"
+        },
+        {
+          "answer": "Tencent QQ",
+          "display": "Alexa rank 5",
+          "aliases": [
+            "QQ"
+          ]
+        },
+        {
+          "answer": "Facebook",
+          "display": "Alexa rank 6"
+        },
+        {
+          "answer": "Sohu",
+          "display": "Alexa rank 7"
+        },
+        {
+          "answer": "Taobao",
+          "display": "Alexa rank 8"
+        },
+        {
+          "answer": "Haosou",
+          "display": "Alexa rank 9",
+          "aliases": [
+            "360 Search",
+            "So.com"
+          ]
+        },
+        {
+          "answer": "JD.com",
+          "display": "Alexa rank 10",
+          "aliases": [
+            "Jingdong Mall",
+            "Jingdong"
+          ]
+        },
+        {
+          "answer": "Amazon",
+          "display": "Alexa rank 11"
+        },
+        {
+          "answer": "Yahoo",
+          "display": "Alexa rank 12"
+        },
+        {
+          "answer": "Wikipedia",
+          "display": "Alexa rank 13"
+        },
+        {
+          "answer": "Zoom",
+          "display": "Alexa rank 14",
+          "aliases": [
+            "Zoom Video Communications"
+          ]
+        },
+        {
+          "answer": "Sina Weibo",
+          "display": "Alexa rank 15"
+        }
+      ]
+    },
+    {
+      "category": "technology/by-year",
+      "question": "Top 10 most-visited websites at the start of 2017 (by Alexa top 100 ranking, December 2016 data)",
+      "cutoff": 10,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=757166496 | table 1 | name: Site | value: Alexa | order: asc",
+      "tags": [
+        "technology",
+        "websites",
+        "2017"
+      ],
+      "answers": [
+        {
+          "answer": "Google",
+          "display": "rank 1"
+        },
+        {
+          "answer": "YouTube",
+          "display": "rank 2"
+        },
+        {
+          "answer": "Facebook",
+          "display": "rank 3"
+        },
+        {
+          "answer": "Baidu",
+          "display": "rank 4"
+        },
+        {
+          "answer": "Wikipedia",
+          "display": "rank 5"
+        },
+        {
+          "answer": "Yahoo!",
+          "display": "rank 6",
+          "aliases": [
+            "Yahoo"
+          ]
+        },
+        {
+          "answer": "Google India",
+          "display": "rank 7"
+        },
+        {
+          "answer": "Amazon",
+          "display": "rank 8",
+          "aliases": [
+            "Amazon.com"
+          ]
+        },
+        {
+          "answer": "Tencent QQ",
+          "display": "rank 9",
+          "aliases": [
+            "QQ"
+          ]
+        },
+        {
+          "answer": "Google Japan",
+          "display": "rank 10"
+        },
+        {
+          "answer": "Windows Live",
+          "display": "rank 11",
+          "aliases": [
+            "Live.com"
+          ]
+        },
+        {
+          "answer": "Taobao",
+          "display": "rank 12"
+        },
+        {
+          "answer": "VK",
+          "display": "rank 13"
+        },
+        {
+          "answer": "Twitter",
+          "display": "rank 14"
+        },
+        {
+          "answer": "Instagram",
+          "display": "rank 15"
+        }
+      ]
+    },
+    {
+      "category": "technology/by-year",
+      "question": "Top 10 most-visited websites at the start of 2019 (by Alexa top 50 global ranking, May 2018 data)",
+      "cutoff": 10,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=859447503 | table 1 | name: Site | value: Alexa | order: asc",
+      "tags": [
+        "technology",
+        "websites",
+        "2019"
+      ],
+      "answers": [
+        {
+          "answer": "Google",
+          "display": "rank 1"
+        },
+        {
+          "answer": "YouTube",
+          "display": "rank 2"
+        },
+        {
+          "answer": "Facebook",
+          "display": "rank 3"
+        },
+        {
+          "answer": "Baidu",
+          "display": "rank 4"
+        },
+        {
+          "answer": "Wikipedia",
+          "display": "rank 5"
+        },
+        {
+          "answer": "Reddit",
+          "display": "rank 6"
+        },
+        {
+          "answer": "Yahoo!",
+          "display": "rank 7",
+          "aliases": [
+            "Yahoo"
+          ]
+        },
+        {
+          "answer": "Tencent QQ",
+          "display": "rank 8",
+          "aliases": [
+            "QQ"
+          ]
+        },
+        {
+          "answer": "Taobao",
+          "display": "rank 9"
+        },
+        {
+          "answer": "Google India",
+          "display": "rank 10"
+        },
+        {
+          "answer": "Amazon",
+          "display": "rank 11",
+          "aliases": [
+            "Amazon.com"
+          ]
+        },
+        {
+          "answer": "Tmall",
+          "display": "rank 12",
+          "aliases": [
+            "Tmall.com"
+          ]
+        },
+        {
+          "answer": "Twitter",
+          "display": "rank 13"
+        },
+        {
+          "answer": "Sohu",
+          "display": "rank 14"
+        },
+        {
+          "answer": "Instagram",
+          "display": "rank 15"
+        }
+      ]
+    },
+    {
+      "category": "technology/by-year",
+      "question": "Top 10 most-visited websites at the start of 2016 (by Alexa traffic rank, August 2015 data)",
+      "cutoff": 10,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=696177869 | table 1 | name: Site | value: Alexa | order: asc",
+      "tags": [
+        "technology",
+        "websites",
+        "2016"
+      ],
+      "answers": [
+        {
+          "answer": "Google",
+          "display": "rank 1"
+        },
+        {
+          "answer": "Facebook",
+          "display": "rank 2"
+        },
+        {
+          "answer": "YouTube",
+          "display": "rank 3"
+        },
+        {
+          "answer": "Baidu",
+          "display": "rank 4"
+        },
+        {
+          "answer": "Yahoo!",
+          "display": "rank 5"
+        },
+        {
+          "answer": "Amazon",
+          "display": "rank 6",
+          "aliases": [
+            "Amazon.com"
+          ]
+        },
+        {
+          "answer": "Wikipedia",
+          "display": "rank 7"
+        },
+        {
+          "answer": "Tencent QQ",
+          "display": "rank 8",
+          "aliases": [
+            "QQ"
+          ]
+        },
+        {
+          "answer": "Twitter",
+          "display": "rank 9"
+        },
+        {
+          "answer": "Google India",
+          "display": "rank 10"
+        },
+        {
+          "answer": "Taobao",
+          "display": "rank 11"
+        },
+        {
+          "answer": "Windows Live",
+          "display": "rank 12",
+          "aliases": [
+            "Live.com"
+          ]
+        },
+        {
+          "answer": "Sina Corp",
+          "display": "rank 13",
+          "aliases": [
+            "Sina"
+          ]
+        },
+        {
+          "answer": "LinkedIn",
+          "display": "rank 14"
+        },
+        {
+          "answer": "Yahoo! Japan",
+          "display": "rank 15",
+          "aliases": [
+            "Yahoo Japan",
+            "Yahoo JP"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "technology/by-year",
+      "question": "Top 10 most-visited websites at the start of 2015 (by Alexa traffic rank, December 2014 data)",
+      "cutoff": 10,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=638445052 | table 1 | name: Site | value: Alexa | order: asc",
+      "tags": [
+        "technology",
+        "websites",
+        "2015"
+      ],
+      "answers": [
+        {
+          "answer": "Google",
+          "display": "rank 1"
+        },
+        {
+          "answer": "Facebook",
+          "display": "rank 2"
+        },
+        {
+          "answer": "YouTube",
+          "display": "rank 3"
+        },
+        {
+          "answer": "Yahoo!",
+          "display": "rank 4",
+          "aliases": [
+            "Yahoo"
+          ]
+        },
+        {
+          "answer": "Baidu",
+          "display": "rank 5"
+        },
+        {
+          "answer": "Amazon",
+          "display": "rank 6",
+          "aliases": [
+            "Amazon.com"
+          ]
+        },
+        {
+          "answer": "Wikipedia",
+          "display": "rank 7"
+        },
+        {
+          "answer": "Taobao",
+          "display": "rank 8"
+        },
+        {
+          "answer": "Twitter",
+          "display": "rank 9"
+        },
+        {
+          "answer": "Tencent QQ",
+          "display": "rank 10",
+          "aliases": [
+            "QQ"
+          ]
+        },
+        {
+          "answer": "Google India",
+          "display": "rank 11"
+        },
+        {
+          "answer": "Windows Live",
+          "display": "rank 12",
+          "aliases": [
+            "Live.com"
+          ]
+        },
+        {
+          "answer": "LinkedIn",
+          "display": "rank 13"
+        },
+        {
+          "answer": "Sina Corp",
+          "display": "rank 14",
+          "aliases": [
+            "Sina"
+          ]
+        },
+        {
+          "answer": "Tmall",
+          "display": "rank 15",
+          "aliases": [
+            "Tmall.com"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "technology/by-year",
+      "question": "Top 10 most-visited websites at the start of 2013 (by Alexa traffic rank, November 2012 data)",
+      "cutoff": 10,
+      "difficulty": 1,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=526889889 | table 1 | name: Site | value: Alexa | order: asc",
+      "tags": [
+        "technology",
+        "internet",
+        "websites",
+        "by-year"
+      ],
+      "answers": [
+        {
+          "answer": "Google",
+          "display": "Alexa rank 1"
+        },
+        {
+          "answer": "Facebook",
+          "display": "Alexa rank 2"
+        },
+        {
+          "answer": "YouTube",
+          "display": "Alexa rank 3"
+        },
+        {
+          "answer": "Yahoo",
+          "display": "Alexa rank 4"
+        },
+        {
+          "answer": "Baidu",
+          "display": "Alexa rank 5"
+        },
+        {
+          "answer": "Wikipedia",
+          "display": "Alexa rank 6"
+        },
+        {
+          "answer": "Windows Live",
+          "display": "Alexa rank 7"
+        },
+        {
+          "answer": "Tencent QQ",
+          "display": "Alexa rank 8",
+          "aliases": [
+            "QQ"
+          ]
+        },
+        {
+          "answer": "Twitter",
+          "display": "Alexa rank 9"
+        },
+        {
+          "answer": "Amazon",
+          "display": "Alexa rank 10",
+          "aliases": [
+            "Amazon.com"
+          ]
+        },
+        {
+          "answer": "Taobao",
+          "display": "Alexa rank 11"
+        },
+        {
+          "answer": "LinkedIn",
+          "display": "Alexa rank 12"
+        },
+        {
+          "answer": "Blogspot",
+          "display": "Alexa rank 13"
+        },
+        {
+          "answer": "Google India",
+          "display": "Alexa rank 14"
+        },
+        {
+          "answer": "Yahoo Japan",
+          "display": "Alexa rank 15",
+          "aliases": [
+            "Yahoo! Japan"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "technology/by-year",
+      "question": "Top 10 most-visited websites at the start of 2024 (by Semrush ranking, December 2023 data)",
+      "cutoff": 10,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1192859557 | table 1 | name: Site | value: Semrush | order: asc",
+      "tags": [
+        "technology",
+        "websites",
+        "2024"
+      ],
+      "answers": [
+        {
+          "answer": "Google",
+          "display": "rank 1",
+          "aliases": [
+            "Google Search"
+          ]
+        },
+        {
+          "answer": "YouTube",
+          "display": "rank 2"
+        },
+        {
+          "answer": "Facebook",
+          "display": "rank 3"
+        },
+        {
+          "answer": "Pornhub",
+          "display": "rank 4"
+        },
+        {
+          "answer": "XVideos",
+          "display": "rank 5"
+        },
+        {
+          "answer": "X",
+          "display": "rank 6",
+          "aliases": [
+            "Twitter"
+          ]
+        },
+        {
+          "answer": "Wikipedia",
+          "display": "rank 7"
+        },
+        {
+          "answer": "Instagram",
+          "display": "rank 8"
+        },
+        {
+          "answer": "Reddit",
+          "display": "rank 9"
+        },
+        {
+          "answer": "Amazon",
+          "display": "rank 10",
+          "aliases": [
+            "Amazon.com"
+          ]
+        },
+        {
+          "answer": "DuckDuckGo",
+          "display": "rank 11"
+        },
+        {
+          "answer": "Yahoo!",
+          "display": "rank 12",
+          "aliases": [
+            "Yahoo"
+          ]
+        },
+        {
+          "answer": "XNXX",
+          "display": "rank 13"
+        },
+        {
+          "answer": "TikTok",
+          "display": "rank 14"
+        },
+        {
+          "answer": "Bing",
+          "display": "rank 15",
+          "aliases": [
+            "Microsoft Bing"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "technology/by-year",
+      "question": "Top 10 most-visited websites at the start of 2023 (by Similarweb ranking, December 2022 data)",
+      "cutoff": 10,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1129308760 | table 1 | name: Site | value: Similarweb | order: asc",
+      "tags": [
+        "technology",
+        "websites",
+        "2023"
+      ],
+      "answers": [
+        {
+          "answer": "Google",
+          "display": "rank 1",
+          "aliases": [
+            "Google Search"
+          ]
+        },
+        {
+          "answer": "YouTube",
+          "display": "rank 2"
+        },
+        {
+          "answer": "Facebook",
+          "display": "rank 3"
+        },
+        {
+          "answer": "Twitter",
+          "display": "rank 4",
+          "aliases": [
+            "X"
+          ]
+        },
+        {
+          "answer": "Instagram",
+          "display": "rank 5"
+        },
+        {
+          "answer": "Baidu",
+          "display": "rank 6"
+        },
+        {
+          "answer": "Wikipedia",
+          "display": "rank 7"
+        },
+        {
+          "answer": "Yandex",
+          "display": "rank 8"
+        },
+        {
+          "answer": "Yahoo!",
+          "display": "rank 9",
+          "aliases": [
+            "Yahoo"
+          ]
+        },
+        {
+          "answer": "WhatsApp",
+          "display": "rank 10"
+        },
+        {
+          "answer": "xVideos",
+          "display": "rank 11"
+        },
+        {
+          "answer": "Amazon",
+          "display": "rank 12",
+          "aliases": [
+            "Amazon.com"
+          ]
+        },
+        {
+          "answer": "Pornhub",
+          "display": "rank 13"
+        },
+        {
+          "answer": "XNXX",
+          "display": "rank 14"
+        }
+      ]
+    },
+    {
+      "category": "technology/by-year",
+      "question": "Top 10 most-visited websites at the start of 2022 (by Similarweb ranking, November 2021 data)",
+      "cutoff": 10,
+      "difficulty": 1,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1062618941 | table 1 | name: Site | value: Similarweb | order: asc",
+      "tags": [
+        "technology",
+        "internet",
+        "websites",
+        "by-year"
+      ],
+      "answers": [
+        {
+          "answer": "Google",
+          "display": "Similarweb rank 1",
+          "aliases": [
+            "Google Search"
+          ]
+        },
+        {
+          "answer": "YouTube",
+          "display": "Similarweb rank 2"
+        },
+        {
+          "answer": "Facebook",
+          "display": "Similarweb rank 3"
+        },
+        {
+          "answer": "Twitter",
+          "display": "Similarweb rank 4"
+        },
+        {
+          "answer": "Instagram",
+          "display": "Similarweb rank 5"
+        },
+        {
+          "answer": "Baidu",
+          "display": "Similarweb rank 6"
+        },
+        {
+          "answer": "Wikipedia",
+          "display": "Similarweb rank 7"
+        },
+        {
+          "answer": "Yandex",
+          "display": "Similarweb rank 8"
+        },
+        {
+          "answer": "Yahoo",
+          "display": "Similarweb rank 9"
+        },
+        {
+          "answer": "xVideos",
+          "display": "Similarweb rank 10"
+        },
+        {
+          "answer": "WhatsApp",
+          "display": "Similarweb rank 11"
+        },
+        {
+          "answer": "Amazon",
+          "display": "Similarweb rank 12"
+        },
+        {
+          "answer": "Xnxx",
+          "display": "Similarweb rank 13",
+          "aliases": [
+            "XNXX"
+          ]
+        },
+        {
+          "answer": "Netflix",
+          "display": "Similarweb rank 14"
+        },
+        {
+          "answer": "Live.com",
+          "display": "Similarweb rank 15",
+          "aliases": [
+            "Live"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "technology/by-year",
+      "question": "Top 10 most-visited websites at the start of 2025 (by Similarweb ranking, November 2024 data)",
+      "cutoff": 10,
+      "difficulty": 1,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1266259035 | table 1 | name: Website | value: Similarweb | header rows: 2 | order: asc",
+      "tags": [
+        "technology",
+        "internet",
+        "websites",
+        "by-year"
+      ],
+      "answers": [
+        {
+          "answer": "Google",
+          "display": "Similarweb rank 1",
+          "aliases": [
+            "Google Search"
+          ]
+        },
+        {
+          "answer": "YouTube",
+          "display": "Similarweb rank 2"
+        },
+        {
+          "answer": "Facebook",
+          "display": "Similarweb rank 3"
+        },
+        {
+          "answer": "Instagram",
+          "display": "Similarweb rank 4"
+        },
+        {
+          "answer": "WhatsApp",
+          "display": "Similarweb rank 5"
+        },
+        {
+          "answer": "X",
+          "display": "Similarweb rank 6",
+          "aliases": [
+            "Twitter"
+          ]
+        },
+        {
+          "answer": "Wikipedia",
+          "display": "Similarweb rank 7"
+        },
+        {
+          "answer": "ChatGPT",
+          "display": "Similarweb rank 8"
+        },
+        {
+          "answer": "Reddit",
+          "display": "Similarweb rank 9"
+        },
+        {
+          "answer": "Yahoo",
+          "display": "Similarweb rank 10"
+        },
+        {
+          "answer": "Yahoo Japan",
+          "display": "Similarweb rank 11",
+          "aliases": [
+            "Yahoo JP"
+          ]
+        },
+        {
+          "answer": "Amazon",
+          "display": "Similarweb rank 12"
+        },
+        {
+          "answer": "Yandex",
+          "display": "Similarweb rank 13"
+        },
+        {
+          "answer": "Baidu",
+          "display": "Similarweb rank 14"
+        },
+        {
+          "answer": "TikTok",
+          "display": "Similarweb rank 15"
+        }
+      ]
+    },
+    {
+      "category": "technology/by-year",
+      "question": "Top 10 most-visited websites at the start of 2026 (by Similarweb ranking, November 2025 data)",
+      "cutoff": 10,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1330503010 | table 1 | name: Website | value: Similarweb | order: asc",
+      "tags": [
+        "technology",
+        "websites",
+        "2026"
+      ],
+      "answers": [
+        {
+          "answer": "Google",
+          "display": "rank 1",
+          "aliases": [
+            "Google Search"
+          ]
+        },
+        {
+          "answer": "YouTube",
+          "display": "rank 2"
+        },
+        {
+          "answer": "Facebook",
+          "display": "rank 3"
+        },
+        {
+          "answer": "Instagram",
+          "display": "rank 4"
+        },
+        {
+          "answer": "ChatGPT",
+          "display": "rank 5"
+        },
+        {
+          "answer": "X",
+          "display": "rank 6",
+          "aliases": [
+            "Twitter"
+          ]
+        },
+        {
+          "answer": "Reddit",
+          "display": "rank 7"
+        },
+        {
+          "answer": "WhatsApp",
+          "display": "rank 8"
+        },
+        {
+          "answer": "Wikipedia",
+          "display": "rank 9"
+        },
+        {
+          "answer": "Microsoft Bing",
+          "display": "rank 10",
+          "aliases": [
+            "Bing"
+          ]
+        },
+        {
+          "answer": "TikTok",
+          "display": "rank 11"
+        },
+        {
+          "answer": "Yahoo Japan",
+          "display": "rank 12",
+          "aliases": [
+            "Yahoo JP"
+          ]
+        },
+        {
+          "answer": "Amazon",
+          "display": "rank 13",
+          "aliases": [
+            "Amazon.com"
+          ]
+        },
+        {
+          "answer": "Yahoo!",
+          "display": "rank 14"
+        },
+        {
+          "answer": "Yandex",
+          "display": "rank 15"
+        }
+      ]
+    }
+  ]
+}

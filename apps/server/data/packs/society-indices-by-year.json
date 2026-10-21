@@ -1,0 +1,1031 @@
+{
+  "categories": [
+    {
+      "path": "society/rankings/corruption",
+      "name": "Corruption Perceptions Index"
+    },
+    {
+      "path": "society/rankings/democracy",
+      "name": "Democracy Index"
+    },
+    {
+      "path": "society/rankings/press-freedom",
+      "name": "Press Freedom Index"
+    },
+    {
+      "path": "society/rankings/peace",
+      "name": "Global Peace Index"
+    }
+  ],
+  "questions": [
+    {
+      "category": "society/rankings/corruption",
+      "difficulty": 3,
+      "question": "Top 10 countries in the 2000 Corruption Perceptions Index (least corrupt first)",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1191140084 | table 4 | name: Nation or Territory | value: 2000 / Score | header rows: 2",
+      "tags": [
+        "society",
+        "indices",
+        "corruption",
+        "rankings"
+      ],
+      "cutoff": 10,
+      "submitter": "claude",
+      "answers": [
+        {
+          "answer": "Finland",
+          "display": "10 CPI score"
+        },
+        {
+          "answer": "Denmark",
+          "display": "9.8 CPI score"
+        },
+        {
+          "answer": "New Zealand",
+          "display": "9.4 CPI score",
+          "aliases": [
+            "NZ"
+          ]
+        },
+        {
+          "answer": "Sweden",
+          "display": "9.4 CPI score"
+        },
+        {
+          "answer": "Canada",
+          "display": "9.2 CPI score"
+        },
+        {
+          "answer": "Singapore",
+          "display": "9.1 CPI score"
+        },
+        {
+          "answer": "Iceland",
+          "display": "9.1 CPI score"
+        },
+        {
+          "answer": "Norway",
+          "display": "9.1 CPI score"
+        },
+        {
+          "answer": "Netherlands",
+          "display": "8.9 CPI score",
+          "aliases": [
+            "Holland"
+          ]
+        },
+        {
+          "answer": "United Kingdom",
+          "display": "8.7 CPI score",
+          "aliases": [
+            "UK",
+            "Britain",
+            "Great Britain"
+          ]
+        },
+        {
+          "answer": "Switzerland",
+          "display": "8.6 CPI score"
+        },
+        {
+          "answer": "Luxembourg",
+          "display": "8.6 CPI score"
+        },
+        {
+          "answer": "Australia",
+          "display": "8.3 CPI score"
+        }
+      ]
+    },
+    {
+      "category": "society/rankings/corruption",
+      "difficulty": 3,
+      "question": "Top 10 countries in the 2003 Corruption Perceptions Index (least corrupt first)",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1191140084 | table 4 | name: Nation or Territory | value: 2003 / Score | header rows: 2",
+      "tags": [
+        "society",
+        "indices",
+        "corruption",
+        "rankings"
+      ],
+      "cutoff": 10,
+      "submitter": "claude",
+      "answers": [
+        {
+          "answer": "Finland",
+          "display": "9.7 CPI score"
+        },
+        {
+          "answer": "Iceland",
+          "display": "9.6 CPI score"
+        },
+        {
+          "answer": "New Zealand",
+          "display": "9.5 CPI score",
+          "aliases": [
+            "NZ"
+          ]
+        },
+        {
+          "answer": "Denmark",
+          "display": "9.5 CPI score"
+        },
+        {
+          "answer": "Singapore",
+          "display": "9.4 CPI score"
+        },
+        {
+          "answer": "Sweden",
+          "display": "9.3 CPI score"
+        },
+        {
+          "answer": "Netherlands",
+          "display": "8.9 CPI score",
+          "aliases": [
+            "Holland"
+          ]
+        },
+        {
+          "answer": "Switzerland",
+          "display": "8.8 CPI score"
+        },
+        {
+          "answer": "Australia",
+          "display": "8.8 CPI score"
+        },
+        {
+          "answer": "Norway",
+          "display": "8.8 CPI score"
+        },
+        {
+          "answer": "Canada",
+          "display": "8.7 CPI score"
+        },
+        {
+          "answer": "Luxembourg",
+          "display": "8.7 CPI score"
+        },
+        {
+          "answer": "United Kingdom",
+          "display": "8.7 CPI score",
+          "aliases": [
+            "UK",
+            "Britain",
+            "Great Britain"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "society/rankings/corruption",
+      "difficulty": 3,
+      "question": "Top 10 countries and territories in the 2009 Corruption Perceptions Index (least corrupt first)",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1191140084 | table 4 | name: Nation or Territory | value: 2009 / Score | header rows: 2",
+      "tags": [
+        "society",
+        "indices",
+        "corruption",
+        "rankings"
+      ],
+      "cutoff": 10,
+      "submitter": "claude",
+      "answers": [
+        {
+          "answer": "New Zealand",
+          "display": "9.4 CPI score",
+          "aliases": [
+            "NZ"
+          ]
+        },
+        {
+          "answer": "Denmark",
+          "display": "9.3 CPI score"
+        },
+        {
+          "answer": "Singapore",
+          "display": "9.2 CPI score"
+        },
+        {
+          "answer": "Sweden",
+          "display": "9.2 CPI score"
+        },
+        {
+          "answer": "Switzerland",
+          "display": "9 CPI score"
+        },
+        {
+          "answer": "Finland",
+          "display": "8.9 CPI score"
+        },
+        {
+          "answer": "Netherlands",
+          "display": "8.9 CPI score",
+          "aliases": [
+            "Holland"
+          ]
+        },
+        {
+          "answer": "Canada",
+          "display": "8.7 CPI score"
+        },
+        {
+          "answer": "Iceland",
+          "display": "8.7 CPI score"
+        },
+        {
+          "answer": "Australia",
+          "display": "8.7 CPI score"
+        },
+        {
+          "answer": "Norway",
+          "display": "8.6 CPI score"
+        },
+        {
+          "answer": "Luxembourg",
+          "display": "8.2 CPI score"
+        },
+        {
+          "answer": "Hong Kong",
+          "display": "8.2 CPI score"
+        }
+      ]
+    },
+    {
+      "category": "society/rankings/corruption",
+      "difficulty": 2,
+      "question": "Top 10 countries in the 2018 Corruption Perceptions Index (least corrupt first)",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1191140084 | table 3 | name: Nation or Territory | value: 2018 / Score | header rows: 2",
+      "tags": [
+        "society",
+        "indices",
+        "corruption",
+        "rankings"
+      ],
+      "cutoff": 10,
+      "submitter": "claude",
+      "answers": [
+        {
+          "answer": "Denmark",
+          "display": "88 CPI score"
+        },
+        {
+          "answer": "New Zealand",
+          "display": "87 CPI score",
+          "aliases": [
+            "NZ"
+          ]
+        },
+        {
+          "answer": "Finland",
+          "display": "85 CPI score"
+        },
+        {
+          "answer": "Sweden",
+          "display": "85 CPI score"
+        },
+        {
+          "answer": "Singapore",
+          "display": "85 CPI score"
+        },
+        {
+          "answer": "Switzerland",
+          "display": "85 CPI score"
+        },
+        {
+          "answer": "Norway",
+          "display": "84 CPI score"
+        },
+        {
+          "answer": "Netherlands",
+          "display": "82 CPI score",
+          "aliases": [
+            "Holland"
+          ]
+        },
+        {
+          "answer": "Luxembourg",
+          "display": "81 CPI score"
+        },
+        {
+          "answer": "Canada",
+          "display": "81 CPI score"
+        },
+        {
+          "answer": "Germany",
+          "display": "80 CPI score"
+        },
+        {
+          "answer": "United Kingdom",
+          "display": "80 CPI score",
+          "aliases": [
+            "UK",
+            "Britain",
+            "Great Britain"
+          ]
+        },
+        {
+          "answer": "Australia",
+          "display": "77 CPI score"
+        }
+      ]
+    },
+    {
+      "category": "society/rankings/corruption",
+      "difficulty": 2,
+      "question": "Top 10 countries and territories in the 2021 Corruption Perceptions Index (least corrupt first)",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1191140084 | table 2 | name: Nation or Territory | value: 2021 / Score | header rows: 2",
+      "tags": [
+        "society",
+        "indices",
+        "corruption",
+        "rankings"
+      ],
+      "cutoff": 10,
+      "submitter": "claude",
+      "answers": [
+        {
+          "answer": "Denmark",
+          "display": "88 CPI score"
+        },
+        {
+          "answer": "New Zealand",
+          "display": "88 CPI score",
+          "aliases": [
+            "NZ"
+          ]
+        },
+        {
+          "answer": "Finland",
+          "display": "88 CPI score"
+        },
+        {
+          "answer": "Norway",
+          "display": "85 CPI score"
+        },
+        {
+          "answer": "Singapore",
+          "display": "85 CPI score"
+        },
+        {
+          "answer": "Sweden",
+          "display": "85 CPI score"
+        },
+        {
+          "answer": "Switzerland",
+          "display": "84 CPI score"
+        },
+        {
+          "answer": "Netherlands",
+          "display": "82 CPI score",
+          "aliases": [
+            "Holland"
+          ]
+        },
+        {
+          "answer": "Luxembourg",
+          "display": "81 CPI score"
+        },
+        {
+          "answer": "Germany",
+          "display": "80 CPI score"
+        },
+        {
+          "answer": "United Kingdom",
+          "display": "78 CPI score",
+          "aliases": [
+            "UK",
+            "Britain",
+            "Great Britain"
+          ]
+        },
+        {
+          "answer": "Hong Kong",
+          "display": "76 CPI score"
+        },
+        {
+          "answer": "Canada",
+          "display": "75 CPI score"
+        }
+      ]
+    },
+    {
+      "category": "society/rankings/corruption",
+      "difficulty": 2,
+      "question": "Top 9 countries in the 2024 Corruption Perceptions Index (least corrupt first)",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1278169572 | table 2 | name: Nation or Territory | value: Score",
+      "tags": [
+        "society",
+        "indices",
+        "corruption",
+        "rankings"
+      ],
+      "cutoff": 9,
+      "submitter": "claude",
+      "answers": [
+        {
+          "answer": "Denmark",
+          "display": "90 CPI score"
+        },
+        {
+          "answer": "Finland",
+          "display": "88 CPI score"
+        },
+        {
+          "answer": "Singapore",
+          "display": "84 CPI score"
+        },
+        {
+          "answer": "New Zealand",
+          "display": "83 CPI score",
+          "aliases": [
+            "NZ"
+          ]
+        },
+        {
+          "answer": "Luxembourg",
+          "display": "81 CPI score"
+        },
+        {
+          "answer": "Norway",
+          "display": "81 CPI score"
+        },
+        {
+          "answer": "Switzerland",
+          "display": "81 CPI score"
+        },
+        {
+          "answer": "Sweden",
+          "display": "80 CPI score"
+        },
+        {
+          "answer": "Netherlands",
+          "display": "78 CPI score",
+          "aliases": [
+            "Holland"
+          ]
+        },
+        {
+          "answer": "Australia",
+          "display": "77 CPI score"
+        },
+        {
+          "answer": "Iceland",
+          "display": "77 CPI score"
+        },
+        {
+          "answer": "Ireland",
+          "display": "77 CPI score",
+          "aliases": [
+            "Republic of Ireland"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "society/rankings/democracy",
+      "difficulty": 3,
+      "question": "Top 10 countries in the 2019 Democracy Index",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1380363548 | table 4 | name: Country | value: 2019",
+      "tags": [
+        "society",
+        "indices",
+        "democracy",
+        "rankings"
+      ],
+      "cutoff": 10,
+      "submitter": "claude",
+      "answers": [
+        {
+          "answer": "Norway",
+          "display": "9.87 democracy score"
+        },
+        {
+          "answer": "Iceland",
+          "display": "9.58 democracy score"
+        },
+        {
+          "answer": "Sweden",
+          "display": "9.39 democracy score"
+        },
+        {
+          "answer": "New Zealand",
+          "display": "9.26 democracy score",
+          "aliases": [
+            "NZ"
+          ]
+        },
+        {
+          "answer": "Finland",
+          "display": "9.25 democracy score"
+        },
+        {
+          "answer": "Ireland",
+          "display": "9.24 democracy score",
+          "aliases": [
+            "Republic of Ireland"
+          ]
+        },
+        {
+          "answer": "Canada",
+          "display": "9.22 democracy score"
+        },
+        {
+          "answer": "Denmark",
+          "display": "9.22 democracy score"
+        },
+        {
+          "answer": "Australia",
+          "display": "9.09 democracy score"
+        },
+        {
+          "answer": "Switzerland",
+          "display": "9.03 democracy score"
+        },
+        {
+          "answer": "Netherlands",
+          "display": "9.01 democracy score",
+          "aliases": [
+            "Holland"
+          ]
+        },
+        {
+          "answer": "Luxembourg",
+          "display": "8.81 democracy score"
+        },
+        {
+          "answer": "Germany",
+          "display": "8.68 democracy score"
+        }
+      ]
+    },
+    {
+      "category": "society/rankings/democracy",
+      "difficulty": 2,
+      "question": "Top 10 countries in the 2022 Democracy Index",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1380363548 | table 4 | name: Country | value: 2022",
+      "tags": [
+        "society",
+        "indices",
+        "democracy",
+        "rankings"
+      ],
+      "cutoff": 10,
+      "submitter": "claude",
+      "answers": [
+        {
+          "answer": "Norway",
+          "display": "9.81 democracy score"
+        },
+        {
+          "answer": "New Zealand",
+          "display": "9.61 democracy score",
+          "aliases": [
+            "NZ"
+          ]
+        },
+        {
+          "answer": "Iceland",
+          "display": "9.52 democracy score"
+        },
+        {
+          "answer": "Sweden",
+          "display": "9.39 democracy score"
+        },
+        {
+          "answer": "Finland",
+          "display": "9.29 democracy score"
+        },
+        {
+          "answer": "Denmark",
+          "display": "9.28 democracy score"
+        },
+        {
+          "answer": "Switzerland",
+          "display": "9.14 democracy score"
+        },
+        {
+          "answer": "Ireland",
+          "display": "9.13 democracy score",
+          "aliases": [
+            "Republic of Ireland"
+          ]
+        },
+        {
+          "answer": "Netherlands",
+          "display": "9.00 democracy score",
+          "aliases": [
+            "Holland"
+          ]
+        },
+        {
+          "answer": "Taiwan",
+          "display": "8.99 democracy score"
+        },
+        {
+          "answer": "Uruguay",
+          "display": "8.91 democracy score"
+        },
+        {
+          "answer": "Canada",
+          "display": "8.88 democracy score"
+        },
+        {
+          "answer": "Luxembourg",
+          "display": "8.81 democracy score"
+        }
+      ]
+    },
+    {
+      "category": "society/rankings/democracy",
+      "difficulty": 2,
+      "question": "Top 10 countries in the 2025 Democracy Index",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1380363548 | table 4 | name: Country | value: 2025",
+      "tags": [
+        "society",
+        "indices",
+        "democracy",
+        "rankings"
+      ],
+      "cutoff": 10,
+      "submitter": "claude",
+      "answers": [
+        {
+          "answer": "Norway",
+          "display": "9.81 democracy score"
+        },
+        {
+          "answer": "New Zealand",
+          "display": "9.62 democracy score",
+          "aliases": [
+            "NZ"
+          ]
+        },
+        {
+          "answer": "Denmark",
+          "display": "9.42 democracy score"
+        },
+        {
+          "answer": "Iceland",
+          "display": "9.38 democracy score"
+        },
+        {
+          "answer": "Finland",
+          "display": "9.37 democracy score"
+        },
+        {
+          "answer": "Sweden",
+          "display": "9.35 democracy score"
+        },
+        {
+          "answer": "Ireland",
+          "display": "9.33 democracy score",
+          "aliases": [
+            "Republic of Ireland"
+          ]
+        },
+        {
+          "answer": "Switzerland",
+          "display": "9.32 democracy score"
+        },
+        {
+          "answer": "Canada",
+          "display": "9.08 democracy score"
+        },
+        {
+          "answer": "Luxembourg",
+          "display": "9.08 democracy score"
+        },
+        {
+          "answer": "Netherlands",
+          "display": "8.93 democracy score",
+          "aliases": [
+            "Holland"
+          ]
+        },
+        {
+          "answer": "Uruguay",
+          "display": "8.92 democracy score"
+        },
+        {
+          "answer": "Australia",
+          "display": "8.85 democracy score"
+        },
+        {
+          "answer": "Japan",
+          "display": "8.85 democracy score"
+        }
+      ]
+    },
+    {
+      "category": "society/rankings/press-freedom",
+      "difficulty": 3,
+      "question": "Top 10 countries in the 2020 World Press Freedom Index (most free first)",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1376682264 | table 1 | name: Country | value: 2020",
+      "tags": [
+        "society",
+        "indices",
+        "press freedom",
+        "rankings"
+      ],
+      "cutoff": 10,
+      "submitter": "claude",
+      "answers": [
+        {
+          "answer": "Norway",
+          "display": "92.16 press freedom score"
+        },
+        {
+          "answer": "Finland",
+          "display": "92.07 press freedom score"
+        },
+        {
+          "answer": "Denmark",
+          "display": "91.87 press freedom score"
+        },
+        {
+          "answer": "Sweden",
+          "display": "90.75 press freedom score"
+        },
+        {
+          "answer": "Netherlands",
+          "display": "90.04 press freedom score",
+          "aliases": [
+            "Holland"
+          ]
+        },
+        {
+          "answer": "Jamaica",
+          "display": "89.49 press freedom score"
+        },
+        {
+          "answer": "Costa Rica",
+          "display": "89.47 press freedom score"
+        },
+        {
+          "answer": "Switzerland",
+          "display": "89.38 press freedom score"
+        },
+        {
+          "answer": "New Zealand",
+          "display": "89.31 press freedom score",
+          "aliases": [
+            "NZ"
+          ]
+        },
+        {
+          "answer": "Portugal",
+          "display": "88.17 press freedom score"
+        },
+        {
+          "answer": "Germany",
+          "display": "87.84 press freedom score"
+        },
+        {
+          "answer": "Belgium",
+          "display": "87.43 press freedom score"
+        },
+        {
+          "answer": "Ireland",
+          "display": "87.40 press freedom score",
+          "aliases": [
+            "Republic of Ireland"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "society/rankings/press-freedom",
+      "difficulty": 2,
+      "question": "Top 10 countries in the 2023 World Press Freedom Index (most free first)",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1376682264 | table 1 | name: Country | value: 2023",
+      "tags": [
+        "society",
+        "indices",
+        "press freedom",
+        "rankings"
+      ],
+      "cutoff": 10,
+      "submitter": "claude",
+      "answers": [
+        {
+          "answer": "Norway",
+          "display": "95.18 press freedom score"
+        },
+        {
+          "answer": "Ireland",
+          "display": "89.91 press freedom score",
+          "aliases": [
+            "Republic of Ireland"
+          ]
+        },
+        {
+          "answer": "Denmark",
+          "display": "89.48 press freedom score"
+        },
+        {
+          "answer": "Sweden",
+          "display": "88.15 press freedom score"
+        },
+        {
+          "answer": "Finland",
+          "display": "87.94 press freedom score"
+        },
+        {
+          "answer": "Netherlands",
+          "display": "87.00 press freedom score",
+          "aliases": [
+            "Holland"
+          ]
+        },
+        {
+          "answer": "Lithuania",
+          "display": "86.79 press freedom score"
+        },
+        {
+          "answer": "Estonia",
+          "display": "85.31 press freedom score"
+        },
+        {
+          "answer": "Portugal",
+          "display": "84.60 press freedom score"
+        },
+        {
+          "answer": "Timor-Leste",
+          "display": "84.49 press freedom score",
+          "aliases": [
+            "East Timor"
+          ]
+        },
+        {
+          "answer": "Liechtenstein",
+          "display": "84.47 press freedom score"
+        },
+        {
+          "answer": "Switzerland",
+          "display": "84.40 press freedom score"
+        },
+        {
+          "answer": "New Zealand",
+          "display": "84.23 press freedom score",
+          "aliases": [
+            "NZ"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "society/rankings/press-freedom",
+      "difficulty": 2,
+      "question": "Top 10 countries in the 2026 World Press Freedom Index (most free first)",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1376682264 | table 1 | name: Country | value: 2026",
+      "tags": [
+        "society",
+        "indices",
+        "press freedom",
+        "rankings"
+      ],
+      "cutoff": 10,
+      "submitter": "claude",
+      "answers": [
+        {
+          "answer": "Norway",
+          "display": "92.72 press freedom score"
+        },
+        {
+          "answer": "Netherlands",
+          "display": "88.92 press freedom score",
+          "aliases": [
+            "Holland"
+          ]
+        },
+        {
+          "answer": "Estonia",
+          "display": "88.54 press freedom score"
+        },
+        {
+          "answer": "Denmark",
+          "display": "88.47 press freedom score"
+        },
+        {
+          "answer": "Sweden",
+          "display": "87.61 press freedom score"
+        },
+        {
+          "answer": "Finland",
+          "display": "86.22 press freedom score"
+        },
+        {
+          "answer": "Ireland",
+          "display": "85.93 press freedom score",
+          "aliases": [
+            "Republic of Ireland"
+          ]
+        },
+        {
+          "answer": "Switzerland",
+          "display": "84.83 press freedom score"
+        },
+        {
+          "answer": "Luxembourg",
+          "display": "84.14 press freedom score"
+        },
+        {
+          "answer": "Portugal",
+          "display": "83.71 press freedom score"
+        },
+        {
+          "answer": "Czech Republic",
+          "display": "83.01 press freedom score",
+          "aliases": [
+            "Czechia"
+          ]
+        },
+        {
+          "answer": "Iceland",
+          "display": "82.77 press freedom score"
+        },
+        {
+          "answer": "Liechtenstein",
+          "display": "82.62 press freedom score"
+        }
+      ]
+    },
+    {
+      "category": "society/rankings/peace",
+      "difficulty": 2,
+      "question": "Top 10 most peaceful countries in the 2026 Global Peace Index",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1379398666 | table 2 | name: Country | value: Score | order: asc",
+      "tags": [
+        "society",
+        "indices",
+        "peace",
+        "rankings"
+      ],
+      "cutoff": 10,
+      "submitter": "claude",
+      "answers": [
+        {
+          "answer": "Iceland",
+          "display": "1.161 GPI score"
+        },
+        {
+          "answer": "New Zealand",
+          "display": "1.343 GPI score",
+          "aliases": [
+            "NZ"
+          ]
+        },
+        {
+          "answer": "Switzerland",
+          "display": "1.363 GPI score"
+        },
+        {
+          "answer": "Slovenia",
+          "display": "1.369 GPI score"
+        },
+        {
+          "answer": "Ireland",
+          "display": "1.371 GPI score",
+          "aliases": [
+            "Republic of Ireland"
+          ]
+        },
+        {
+          "answer": "Austria",
+          "display": "1.421 GPI score"
+        },
+        {
+          "answer": "Portugal",
+          "display": "1.427 GPI score"
+        },
+        {
+          "answer": "Singapore",
+          "display": "1.435 GPI score"
+        },
+        {
+          "answer": "Finland",
+          "display": "1.478 GPI score"
+        },
+        {
+          "answer": "Japan",
+          "display": "1.489 GPI score"
+        },
+        {
+          "answer": "Denmark",
+          "display": "1.504 GPI score"
+        },
+        {
+          "answer": "Malaysia",
+          "display": "1.513 GPI score"
+        },
+        {
+          "answer": "Czech Republic",
+          "display": "1.517 GPI score",
+          "aliases": [
+            "Czechia"
+          ]
+        }
+      ]
+    }
+  ]
+}

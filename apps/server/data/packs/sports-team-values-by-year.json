@@ -1,0 +1,3070 @@
+{
+  "categories": [
+    {
+      "path": "sports/business",
+      "name": "Sports Business"
+    },
+    {
+      "path": "sports/business/team-values",
+      "name": "Most Valuable Teams"
+    },
+    {
+      "path": "sports/business/revenue",
+      "name": "Football Money League"
+    }
+  ],
+  "questions": [
+    {
+      "category": "sports/business/team-values",
+      "difficulty": 2,
+      "question": "Top 7 most valuable sports teams in the world (Forbes, 2011)",
+      "cutoff": 7,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1378896863 | table 16 | name: Team | value: Value",
+      "tags": [
+        "sports",
+        "business",
+        "forbes",
+        "valuation"
+      ],
+      "answers": [
+        {
+          "answer": "Manchester United",
+          "display": "$1.86 billion",
+          "aliases": [
+            "Man United",
+            "Man Utd"
+          ]
+        },
+        {
+          "answer": "Dallas Cowboys",
+          "display": "$1.81 billion",
+          "aliases": [
+            "Cowboys"
+          ]
+        },
+        {
+          "answer": "New York Yankees",
+          "display": "$1.7 billion",
+          "aliases": [
+            "Yankees"
+          ]
+        },
+        {
+          "answer": "Washington Redskins",
+          "display": "$1.55 billion",
+          "aliases": [
+            "Redskins",
+            "Washington Commanders"
+          ]
+        },
+        {
+          "answer": "Real Madrid",
+          "display": "$1.45 billion"
+        },
+        {
+          "answer": "New England Patriots",
+          "display": "$1.37 billion",
+          "aliases": [
+            "Patriots"
+          ]
+        },
+        {
+          "answer": "Arsenal",
+          "display": "$1.19 billion"
+        },
+        {
+          "answer": "New York Giants",
+          "display": "$1.18 billion",
+          "aliases": [
+            "Giants"
+          ]
+        },
+        {
+          "answer": "Houston Texans",
+          "display": "$1.17 billion",
+          "aliases": [
+            "Texans"
+          ]
+        },
+        {
+          "answer": "New York Jets",
+          "display": "$1.14 billion",
+          "aliases": [
+            "Jets"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/business/team-values",
+      "difficulty": 2,
+      "question": "Top 7 most valuable sports teams in the world (Forbes, 2012)",
+      "cutoff": 7,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1378896863 | table 15 | name: Team | value: Value",
+      "tags": [
+        "sports",
+        "business",
+        "forbes",
+        "valuation"
+      ],
+      "answers": [
+        {
+          "answer": "Manchester United",
+          "display": "$2.23 billion",
+          "aliases": [
+            "Man United",
+            "Man Utd"
+          ]
+        },
+        {
+          "answer": "Real Madrid",
+          "display": "$1.88 billion"
+        },
+        {
+          "answer": "New York Yankees",
+          "display": "$1.85 billion",
+          "aliases": [
+            "Yankees"
+          ]
+        },
+        {
+          "answer": "Dallas Cowboys",
+          "display": "$1.85 billion",
+          "aliases": [
+            "Cowboys"
+          ]
+        },
+        {
+          "answer": "Washington Redskins",
+          "display": "$1.56 billion",
+          "aliases": [
+            "Redskins",
+            "Washington Commanders"
+          ]
+        },
+        {
+          "answer": "Los Angeles Dodgers",
+          "display": "$1.4 billion",
+          "aliases": [
+            "Dodgers"
+          ]
+        },
+        {
+          "answer": "New England Patriots",
+          "display": "$1.4 billion",
+          "aliases": [
+            "Patriots"
+          ]
+        },
+        {
+          "answer": "FC Barcelona",
+          "display": "$1.31 billion",
+          "aliases": [
+            "Barcelona",
+            "Barca"
+          ]
+        },
+        {
+          "answer": "New York Giants",
+          "display": "$1.3 billion",
+          "aliases": [
+            "Giants"
+          ]
+        },
+        {
+          "answer": "Arsenal",
+          "display": "$1.29 billion"
+        }
+      ]
+    },
+    {
+      "category": "sports/business/team-values",
+      "difficulty": 2,
+      "question": "Top 7 most valuable sports teams in the world (Forbes, 2013)",
+      "cutoff": 7,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1378896863 | table 14 | name: Team | value: Value",
+      "tags": [
+        "sports",
+        "business",
+        "forbes",
+        "valuation"
+      ],
+      "answers": [
+        {
+          "answer": "Real Madrid",
+          "display": "$3.3 billion"
+        },
+        {
+          "answer": "Manchester United",
+          "display": "$3.165 billion",
+          "aliases": [
+            "Man United",
+            "Man Utd"
+          ]
+        },
+        {
+          "answer": "FC Barcelona",
+          "display": "$2.6 billion",
+          "aliases": [
+            "Barcelona",
+            "Barca"
+          ]
+        },
+        {
+          "answer": "New York Yankees",
+          "display": "$2.3 billion",
+          "aliases": [
+            "Yankees"
+          ]
+        },
+        {
+          "answer": "Dallas Cowboys",
+          "display": "$2.1 billion",
+          "aliases": [
+            "Cowboys"
+          ]
+        },
+        {
+          "answer": "New England Patriots",
+          "display": "$1.635 billion",
+          "aliases": [
+            "Patriots"
+          ]
+        },
+        {
+          "answer": "Los Angeles Dodgers",
+          "display": "$1.615 billion",
+          "aliases": [
+            "Dodgers"
+          ]
+        },
+        {
+          "answer": "Washington Redskins",
+          "display": "$1.6 billion",
+          "aliases": [
+            "Redskins",
+            "Washington Commanders"
+          ]
+        },
+        {
+          "answer": "New York Giants",
+          "display": "$1.468 billion",
+          "aliases": [
+            "Giants"
+          ]
+        },
+        {
+          "answer": "Arsenal",
+          "display": "$1.326 billion"
+        }
+      ]
+    },
+    {
+      "category": "sports/business/team-values",
+      "difficulty": 2,
+      "question": "Top 7 most valuable sports teams in the world (Forbes, 2014)",
+      "cutoff": 7,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1378896863 | table 13 | name: Team | value: Value",
+      "tags": [
+        "sports",
+        "business",
+        "forbes",
+        "valuation"
+      ],
+      "answers": [
+        {
+          "answer": "Real Madrid",
+          "display": "$3.44 billion"
+        },
+        {
+          "answer": "FC Barcelona",
+          "display": "$3.2 billion",
+          "aliases": [
+            "Barcelona",
+            "Barca"
+          ]
+        },
+        {
+          "answer": "Manchester United",
+          "display": "$2.81 billion",
+          "aliases": [
+            "Man United",
+            "Man Utd"
+          ]
+        },
+        {
+          "answer": "New York Yankees",
+          "display": "$2.5 billion",
+          "aliases": [
+            "Yankees"
+          ]
+        },
+        {
+          "answer": "Dallas Cowboys",
+          "display": "$2.3 billion",
+          "aliases": [
+            "Cowboys"
+          ]
+        },
+        {
+          "answer": "Los Angeles Dodgers",
+          "display": "$2 billion",
+          "aliases": [
+            "Dodgers"
+          ]
+        },
+        {
+          "answer": "Bayern Munich",
+          "display": "$1.85 billion",
+          "aliases": [
+            "Bayern"
+          ]
+        },
+        {
+          "answer": "New England Patriots",
+          "display": "$1.8 billion",
+          "aliases": [
+            "Patriots"
+          ]
+        },
+        {
+          "answer": "Washington Redskins",
+          "display": "$1.7 billion",
+          "aliases": [
+            "Redskins",
+            "Washington Commanders"
+          ]
+        },
+        {
+          "answer": "New York Giants",
+          "display": "$1.55 billion",
+          "aliases": [
+            "Giants"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/business/team-values",
+      "difficulty": 2,
+      "question": "Top 7 most valuable sports teams in the world (Forbes, 2015)",
+      "cutoff": 7,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1378896863 | table 12 | name: Team | value: Value",
+      "tags": [
+        "sports",
+        "business",
+        "forbes",
+        "valuation"
+      ],
+      "answers": [
+        {
+          "answer": "Real Madrid",
+          "display": "$3.26 billion"
+        },
+        {
+          "answer": "Dallas Cowboys",
+          "display": "$3.2 billion",
+          "aliases": [
+            "Cowboys"
+          ]
+        },
+        {
+          "answer": "New York Yankees",
+          "display": "$3.2 billion",
+          "aliases": [
+            "Yankees"
+          ]
+        },
+        {
+          "answer": "FC Barcelona",
+          "display": "$3.16 billion",
+          "aliases": [
+            "Barcelona",
+            "Barca"
+          ]
+        },
+        {
+          "answer": "Manchester United",
+          "display": "$3.1 billion",
+          "aliases": [
+            "Man United",
+            "Man Utd"
+          ]
+        },
+        {
+          "answer": "Los Angeles Lakers",
+          "display": "$2.6 billion",
+          "aliases": [
+            "Lakers"
+          ]
+        },
+        {
+          "answer": "New England Patriots",
+          "display": "$2.6 billion",
+          "aliases": [
+            "Patriots"
+          ]
+        },
+        {
+          "answer": "New York Knicks",
+          "display": "$2.5 billion",
+          "aliases": [
+            "Knicks"
+          ]
+        },
+        {
+          "answer": "Los Angeles Dodgers",
+          "display": "$2.4 billion",
+          "aliases": [
+            "Dodgers"
+          ]
+        },
+        {
+          "answer": "Washington Redskins",
+          "display": "$2.4 billion",
+          "aliases": [
+            "Redskins",
+            "Washington Commanders"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/business/team-values",
+      "difficulty": 2,
+      "question": "Top 8 most valuable sports teams in the world (Forbes, 2016)",
+      "cutoff": 8,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1378896863 | table 11 | name: Team | value: Value",
+      "tags": [
+        "sports",
+        "business",
+        "forbes",
+        "valuation"
+      ],
+      "answers": [
+        {
+          "answer": "Dallas Cowboys",
+          "display": "$4 billion",
+          "aliases": [
+            "Cowboys"
+          ]
+        },
+        {
+          "answer": "Real Madrid",
+          "display": "$3.65 billion"
+        },
+        {
+          "answer": "FC Barcelona",
+          "display": "$3.55 billion",
+          "aliases": [
+            "Barcelona",
+            "Barca"
+          ]
+        },
+        {
+          "answer": "New York Yankees",
+          "display": "$3.4 billion",
+          "aliases": [
+            "Yankees"
+          ]
+        },
+        {
+          "answer": "Manchester United",
+          "display": "$3.32 billion",
+          "aliases": [
+            "Man United",
+            "Man Utd"
+          ]
+        },
+        {
+          "answer": "New England Patriots",
+          "display": "$3.2 billion",
+          "aliases": [
+            "Patriots"
+          ]
+        },
+        {
+          "answer": "New York Knicks",
+          "display": "$3 billion",
+          "aliases": [
+            "Knicks"
+          ]
+        },
+        {
+          "answer": "Washington Redskins",
+          "display": "$2.85 billion",
+          "aliases": [
+            "Redskins",
+            "Washington Commanders"
+          ]
+        },
+        {
+          "answer": "New York Giants",
+          "display": "$2.8 billion",
+          "aliases": [
+            "Giants"
+          ]
+        },
+        {
+          "answer": "Los Angeles Lakers",
+          "display": "$2.7 billion",
+          "aliases": [
+            "Lakers"
+          ]
+        },
+        {
+          "answer": "San Francisco 49ers",
+          "display": "$2.7 billion",
+          "aliases": [
+            "49ers",
+            "Niners"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/business/team-values",
+      "difficulty": 2,
+      "question": "Top 10 most valuable sports teams in the world (Forbes, 2017)",
+      "cutoff": 10,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1378896863 | table 10 | name: Team | value: Value",
+      "tags": [
+        "sports",
+        "business",
+        "forbes",
+        "valuation"
+      ],
+      "answers": [
+        {
+          "answer": "Dallas Cowboys",
+          "display": "$4.2 billion",
+          "aliases": [
+            "Cowboys"
+          ]
+        },
+        {
+          "answer": "New York Yankees",
+          "display": "$3.7 billion",
+          "aliases": [
+            "Yankees"
+          ]
+        },
+        {
+          "answer": "Manchester United",
+          "display": "$3.69 billion",
+          "aliases": [
+            "Man United",
+            "Man Utd"
+          ]
+        },
+        {
+          "answer": "FC Barcelona",
+          "display": "$3.64 billion",
+          "aliases": [
+            "Barcelona",
+            "Barca"
+          ]
+        },
+        {
+          "answer": "Real Madrid",
+          "display": "$3.58 billion"
+        },
+        {
+          "answer": "New England Patriots",
+          "display": "$3.4 billion",
+          "aliases": [
+            "Patriots"
+          ]
+        },
+        {
+          "answer": "New York Knicks",
+          "display": "$3.3 billion",
+          "aliases": [
+            "Knicks"
+          ]
+        },
+        {
+          "answer": "New York Giants",
+          "display": "$3.1 billion",
+          "aliases": [
+            "Giants"
+          ]
+        },
+        {
+          "answer": "Los Angeles Lakers",
+          "display": "$3 billion",
+          "aliases": [
+            "Lakers"
+          ]
+        },
+        {
+          "answer": "San Francisco 49ers",
+          "display": "$3 billion",
+          "aliases": [
+            "49ers",
+            "Niners"
+          ]
+        },
+        {
+          "answer": "Washington Redskins",
+          "display": "$2.95 billion",
+          "aliases": [
+            "Redskins",
+            "Washington Commanders"
+          ]
+        },
+        {
+          "answer": "Los Angeles Rams",
+          "display": "$2.9 billion",
+          "aliases": [
+            "Rams"
+          ]
+        },
+        {
+          "answer": "Los Angeles Dodgers",
+          "display": "$2.75 billion",
+          "aliases": [
+            "Dodgers"
+          ]
+        },
+        {
+          "answer": "New York Jets",
+          "display": "$2.75 billion",
+          "aliases": [
+            "Jets"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/business/team-values",
+      "difficulty": 2,
+      "question": "Top 9 most valuable sports teams in the world (Forbes, 2018)",
+      "cutoff": 9,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1378896863 | table 9 | name: Team | value: Value",
+      "tags": [
+        "sports",
+        "business",
+        "forbes",
+        "valuation"
+      ],
+      "answers": [
+        {
+          "answer": "Dallas Cowboys",
+          "display": "$4.8 billion",
+          "aliases": [
+            "Cowboys"
+          ]
+        },
+        {
+          "answer": "Manchester United",
+          "display": "$4.123 billion",
+          "aliases": [
+            "Man United",
+            "Man Utd"
+          ]
+        },
+        {
+          "answer": "Real Madrid",
+          "display": "$4.088 billion"
+        },
+        {
+          "answer": "FC Barcelona",
+          "display": "$4.064 billion",
+          "aliases": [
+            "Barcelona",
+            "Barca"
+          ]
+        },
+        {
+          "answer": "New York Yankees",
+          "display": "$4 billion",
+          "aliases": [
+            "Yankees"
+          ]
+        },
+        {
+          "answer": "New England Patriots",
+          "display": "$3.7 billion",
+          "aliases": [
+            "Patriots"
+          ]
+        },
+        {
+          "answer": "New York Knicks",
+          "display": "$3.6 billion",
+          "aliases": [
+            "Knicks"
+          ]
+        },
+        {
+          "answer": "Los Angeles Lakers",
+          "display": "$3.3 billion",
+          "aliases": [
+            "Lakers"
+          ]
+        },
+        {
+          "answer": "New York Giants",
+          "display": "$3.3 billion",
+          "aliases": [
+            "Giants"
+          ]
+        },
+        {
+          "answer": "Golden State Warriors",
+          "display": "$3.1 billion",
+          "aliases": [
+            "Warriors"
+          ]
+        },
+        {
+          "answer": "Washington Redskins",
+          "display": "$3.1 billion",
+          "aliases": [
+            "Redskins",
+            "Washington Commanders"
+          ]
+        },
+        {
+          "answer": "Bayern Munich",
+          "display": "$3.063 billion",
+          "aliases": [
+            "Bayern"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/business/team-values",
+      "difficulty": 2,
+      "question": "Top 9 most valuable sports teams in the world (Forbes, 2019)",
+      "cutoff": 9,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1378896863 | table 8 | name: Team | value: Value",
+      "tags": [
+        "sports",
+        "business",
+        "forbes",
+        "valuation"
+      ],
+      "answers": [
+        {
+          "answer": "Dallas Cowboys",
+          "display": "$5 billion",
+          "aliases": [
+            "Cowboys"
+          ]
+        },
+        {
+          "answer": "New York Yankees",
+          "display": "$4.6 billion",
+          "aliases": [
+            "Yankees"
+          ]
+        },
+        {
+          "answer": "Real Madrid",
+          "display": "$4.24 billion"
+        },
+        {
+          "answer": "FC Barcelona",
+          "display": "$4.02 billion",
+          "aliases": [
+            "Barcelona",
+            "Barca"
+          ]
+        },
+        {
+          "answer": "New York Knicks",
+          "display": "$4 billion",
+          "aliases": [
+            "Knicks"
+          ]
+        },
+        {
+          "answer": "Manchester United",
+          "display": "$3.81 billion",
+          "aliases": [
+            "Man United",
+            "Man Utd"
+          ]
+        },
+        {
+          "answer": "New England Patriots",
+          "display": "$3.8 billion",
+          "aliases": [
+            "Patriots"
+          ]
+        },
+        {
+          "answer": "Los Angeles Lakers",
+          "display": "$3.7 billion",
+          "aliases": [
+            "Lakers"
+          ]
+        },
+        {
+          "answer": "Golden State Warriors",
+          "display": "$3.5 billion",
+          "aliases": [
+            "Warriors"
+          ]
+        },
+        {
+          "answer": "New York Giants",
+          "display": "$3.3 billion",
+          "aliases": [
+            "Giants"
+          ]
+        },
+        {
+          "answer": "Los Angeles Dodgers",
+          "display": "$3.3 billion",
+          "aliases": [
+            "Dodgers"
+          ]
+        },
+        {
+          "answer": "Boston Red Sox",
+          "display": "$3.2 billion",
+          "aliases": [
+            "Red Sox"
+          ]
+        },
+        {
+          "answer": "Los Angeles Rams",
+          "display": "$3.2 billion",
+          "aliases": [
+            "Rams"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/business/team-values",
+      "difficulty": 2,
+      "question": "Top 10 most valuable sports teams in the world (Forbes, 2020)",
+      "cutoff": 10,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1378896863 | table 7 | name: Team | value: Value",
+      "tags": [
+        "sports",
+        "business",
+        "forbes",
+        "valuation"
+      ],
+      "answers": [
+        {
+          "answer": "Dallas Cowboys",
+          "display": "$5.5 billion",
+          "aliases": [
+            "Cowboys"
+          ]
+        },
+        {
+          "answer": "New York Yankees",
+          "display": "$5 billion",
+          "aliases": [
+            "Yankees"
+          ]
+        },
+        {
+          "answer": "New York Knicks",
+          "display": "$4.6 billion",
+          "aliases": [
+            "Knicks"
+          ]
+        },
+        {
+          "answer": "Los Angeles Lakers",
+          "display": "$4.4 billion",
+          "aliases": [
+            "Lakers"
+          ]
+        },
+        {
+          "answer": "Golden State Warriors",
+          "display": "$4.3 billion",
+          "aliases": [
+            "Warriors"
+          ]
+        },
+        {
+          "answer": "Real Madrid",
+          "display": "$4.24 billion"
+        },
+        {
+          "answer": "New England Patriots",
+          "display": "$4.1 billion",
+          "aliases": [
+            "Patriots"
+          ]
+        },
+        {
+          "answer": "FC Barcelona",
+          "display": "$4.02 billion",
+          "aliases": [
+            "Barcelona",
+            "Barca"
+          ]
+        },
+        {
+          "answer": "New York Giants",
+          "display": "$3.9 billion",
+          "aliases": [
+            "Giants"
+          ]
+        },
+        {
+          "answer": "Manchester United",
+          "display": "$3.81 billion",
+          "aliases": [
+            "Man United",
+            "Man Utd"
+          ]
+        },
+        {
+          "answer": "Los Angeles Rams",
+          "display": "$3.8 billion",
+          "aliases": [
+            "Rams"
+          ]
+        },
+        {
+          "answer": "San Francisco 49ers",
+          "display": "$3.5 billion",
+          "aliases": [
+            "49ers",
+            "Niners"
+          ]
+        },
+        {
+          "answer": "Chicago Bears",
+          "display": "$3.45 billion",
+          "aliases": [
+            "Bears"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/business/team-values",
+      "difficulty": 2,
+      "question": "Top 10 most valuable sports teams in the world (Forbes, 2021)",
+      "cutoff": 10,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1378896863 | table 6 | name: Team | value: Value",
+      "tags": [
+        "sports",
+        "business",
+        "forbes",
+        "valuation"
+      ],
+      "answers": [
+        {
+          "answer": "Dallas Cowboys",
+          "display": "$5.7 billion",
+          "aliases": [
+            "Cowboys"
+          ]
+        },
+        {
+          "answer": "New York Yankees",
+          "display": "$5.25 billion",
+          "aliases": [
+            "Yankees"
+          ]
+        },
+        {
+          "answer": "New York Knicks",
+          "display": "$5 billion",
+          "aliases": [
+            "Knicks"
+          ]
+        },
+        {
+          "answer": "FC Barcelona",
+          "display": "$4.76 billion",
+          "aliases": [
+            "Barcelona",
+            "Barca"
+          ]
+        },
+        {
+          "answer": "Real Madrid",
+          "display": "$4.75 billion"
+        },
+        {
+          "answer": "Golden State Warriors",
+          "display": "$4.7 billion",
+          "aliases": [
+            "Warriors"
+          ]
+        },
+        {
+          "answer": "Los Angeles Lakers",
+          "display": "$4.6 billion",
+          "aliases": [
+            "Lakers"
+          ]
+        },
+        {
+          "answer": "New England Patriots",
+          "display": "$4.4 billion",
+          "aliases": [
+            "Patriots"
+          ]
+        },
+        {
+          "answer": "New York Giants",
+          "display": "$4.3 billion",
+          "aliases": [
+            "Giants"
+          ]
+        },
+        {
+          "answer": "Bayern Munich",
+          "display": "$4.21 billion",
+          "aliases": [
+            "Bayern"
+          ]
+        },
+        {
+          "answer": "Manchester United",
+          "display": "$4.2 billion",
+          "aliases": [
+            "Man United",
+            "Man Utd"
+          ]
+        },
+        {
+          "answer": "Liverpool",
+          "display": "$4.1 billion"
+        },
+        {
+          "answer": "Los Angeles Rams",
+          "display": "$4 billion",
+          "aliases": [
+            "Rams"
+          ]
+        },
+        {
+          "answer": "Manchester City",
+          "display": "$4 billion",
+          "aliases": [
+            "Man City"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/business/team-values",
+      "difficulty": 2,
+      "question": "Top 10 most valuable sports teams in the world (Forbes, 2022)",
+      "cutoff": 10,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1378896863 | table 5 | name: Team | value: Value",
+      "tags": [
+        "sports",
+        "business",
+        "forbes",
+        "valuation"
+      ],
+      "answers": [
+        {
+          "answer": "Dallas Cowboys",
+          "display": "$8.12 billion",
+          "aliases": [
+            "Cowboys"
+          ]
+        },
+        {
+          "answer": "New England Patriots",
+          "display": "$6.4 billion",
+          "aliases": [
+            "Patriots"
+          ]
+        },
+        {
+          "answer": "Los Angeles Rams",
+          "display": "$6.2 billion",
+          "aliases": [
+            "Rams"
+          ]
+        },
+        {
+          "answer": "Washington Commanders",
+          "display": "$6.05 billion",
+          "aliases": [
+            "Commanders"
+          ]
+        },
+        {
+          "answer": "New York Yankees",
+          "display": "$6 billion",
+          "aliases": [
+            "Yankees"
+          ]
+        },
+        {
+          "answer": "New York Giants",
+          "display": "$6 billion",
+          "aliases": [
+            "Giants"
+          ]
+        },
+        {
+          "answer": "New York Knicks",
+          "display": "$5.8 billion",
+          "aliases": [
+            "Knicks"
+          ]
+        },
+        {
+          "answer": "Chicago Bears",
+          "display": "$5.8 billion",
+          "aliases": [
+            "Bears"
+          ]
+        },
+        {
+          "answer": "Golden State Warriors",
+          "display": "$5.6 billion",
+          "aliases": [
+            "Warriors"
+          ]
+        },
+        {
+          "answer": "Los Angeles Lakers",
+          "display": "$5.5 billion",
+          "aliases": [
+            "Lakers"
+          ]
+        },
+        {
+          "answer": "New York Jets",
+          "display": "$5.4 billion",
+          "aliases": [
+            "Jets"
+          ]
+        },
+        {
+          "answer": "San Francisco 49ers",
+          "display": "$5.2 billion",
+          "aliases": [
+            "49ers",
+            "Niners"
+          ]
+        },
+        {
+          "answer": "Real Madrid",
+          "display": "$5.1 billion",
+          "aliases": [
+            "Real Madrid CF"
+          ]
+        },
+        {
+          "answer": "Las Vegas Raiders",
+          "display": "$5.1 billion",
+          "aliases": [
+            "Raiders"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/business/team-values",
+      "difficulty": 2,
+      "question": "Top 10 most valuable sports teams in the world (Forbes, 2023)",
+      "cutoff": 10,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1378896863 | table 4 | name: Team | value: Value",
+      "tags": [
+        "sports",
+        "business",
+        "forbes",
+        "valuation"
+      ],
+      "answers": [
+        {
+          "answer": "Dallas Cowboys",
+          "display": "$9 billion",
+          "aliases": [
+            "Cowboys"
+          ]
+        },
+        {
+          "answer": "New York Yankees",
+          "display": "$7.1 billion",
+          "aliases": [
+            "Yankees"
+          ]
+        },
+        {
+          "answer": "Golden State Warriors",
+          "display": "$7 billion",
+          "aliases": [
+            "Warriors"
+          ]
+        },
+        {
+          "answer": "New England Patriots",
+          "display": "$7 billion",
+          "aliases": [
+            "Patriots"
+          ]
+        },
+        {
+          "answer": "Los Angeles Rams",
+          "display": "$6.9 billion",
+          "aliases": [
+            "Rams"
+          ]
+        },
+        {
+          "answer": "New York Giants",
+          "display": "$6.8 billion",
+          "aliases": [
+            "Giants"
+          ]
+        },
+        {
+          "answer": "Chicago Bears",
+          "display": "$6.3 billion",
+          "aliases": [
+            "Bears"
+          ]
+        },
+        {
+          "answer": "Las Vegas Raiders",
+          "display": "$6.2 billion",
+          "aliases": [
+            "Raiders"
+          ]
+        },
+        {
+          "answer": "New York Knicks",
+          "display": "$6.1 billion",
+          "aliases": [
+            "Knicks"
+          ]
+        },
+        {
+          "answer": "New York Jets",
+          "display": "$6.1 billion",
+          "aliases": [
+            "Jets"
+          ]
+        },
+        {
+          "answer": "Real Madrid",
+          "display": "$6.07 billion"
+        },
+        {
+          "answer": "Washington Commanders",
+          "display": "$6.05 billion",
+          "aliases": [
+            "Commanders"
+          ]
+        },
+        {
+          "answer": "Manchester United",
+          "display": "$6 billion",
+          "aliases": [
+            "Man United",
+            "Man Utd"
+          ]
+        },
+        {
+          "answer": "San Francisco 49ers",
+          "display": "$6 billion",
+          "aliases": [
+            "49ers",
+            "Niners"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/business/team-values",
+      "difficulty": 2,
+      "question": "Top 10 most valuable sports teams in the world (Forbes, 2024)",
+      "cutoff": 10,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1378896863 | table 3 | name: Team | value: Value",
+      "tags": [
+        "sports",
+        "business",
+        "forbes",
+        "valuation"
+      ],
+      "answers": [
+        {
+          "answer": "Dallas Cowboys",
+          "display": "$10.1 billion",
+          "aliases": [
+            "Cowboys"
+          ]
+        },
+        {
+          "answer": "New England Patriots",
+          "display": "$9 billion",
+          "aliases": [
+            "Patriots"
+          ]
+        },
+        {
+          "answer": "Golden State Warriors",
+          "display": "$8.8 billion",
+          "aliases": [
+            "Warriors"
+          ]
+        },
+        {
+          "answer": "Los Angeles Rams",
+          "display": "$7.6 billion",
+          "aliases": [
+            "Rams"
+          ]
+        },
+        {
+          "answer": "New York Yankees",
+          "display": "$7.55 billion",
+          "aliases": [
+            "Yankees"
+          ]
+        },
+        {
+          "answer": "New York Knicks",
+          "display": "$7.5 billion",
+          "aliases": [
+            "Knicks"
+          ]
+        },
+        {
+          "answer": "New York Giants",
+          "display": "$7.3 billion",
+          "aliases": [
+            "Giants"
+          ]
+        },
+        {
+          "answer": "Los Angeles Lakers",
+          "display": "$7.1 billion",
+          "aliases": [
+            "Lakers"
+          ]
+        },
+        {
+          "answer": "New York Jets",
+          "display": "$6.9 billion",
+          "aliases": [
+            "Jets"
+          ]
+        },
+        {
+          "answer": "San Francisco 49ers",
+          "display": "$6.8 billion",
+          "aliases": [
+            "49ers",
+            "Niners"
+          ]
+        },
+        {
+          "answer": "Las Vegas Raiders",
+          "display": "$6.7 billion",
+          "aliases": [
+            "Raiders"
+          ]
+        },
+        {
+          "answer": "Philadelphia Eagles",
+          "display": "$6.6 billion",
+          "aliases": [
+            "Eagles"
+          ]
+        },
+        {
+          "answer": "Real Madrid",
+          "display": "$6.6 billion"
+        }
+      ]
+    },
+    {
+      "category": "sports/business/team-values",
+      "difficulty": 2,
+      "question": "Top 9 most valuable sports teams in the world (Forbes, 2025)",
+      "cutoff": 9,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1378896863 | table 1 | name: Team | value: Value",
+      "tags": [
+        "sports",
+        "business",
+        "forbes",
+        "valuation"
+      ],
+      "answers": [
+        {
+          "answer": "Dallas Cowboys",
+          "display": "$13 billion",
+          "aliases": [
+            "Cowboys"
+          ]
+        },
+        {
+          "answer": "Golden State Warriors",
+          "display": "$11 billion",
+          "aliases": [
+            "Warriors"
+          ]
+        },
+        {
+          "answer": "Los Angeles Rams",
+          "display": "$10.5 billion",
+          "aliases": [
+            "Rams"
+          ]
+        },
+        {
+          "answer": "New York Giants",
+          "display": "$10.1 billion",
+          "aliases": [
+            "Giants"
+          ]
+        },
+        {
+          "answer": "Los Angeles Lakers",
+          "display": "$10 billion",
+          "aliases": [
+            "Lakers"
+          ]
+        },
+        {
+          "answer": "New York Knicks",
+          "display": "$9.75 billion",
+          "aliases": [
+            "Knicks"
+          ]
+        },
+        {
+          "answer": "New England Patriots",
+          "display": "$9 billion",
+          "aliases": [
+            "Patriots"
+          ]
+        },
+        {
+          "answer": "San Francisco 49ers",
+          "display": "$8.6 billion",
+          "aliases": [
+            "49ers",
+            "Niners"
+          ]
+        },
+        {
+          "answer": "Philadelphia Eagles",
+          "display": "$8.3 billion",
+          "aliases": [
+            "Eagles"
+          ]
+        },
+        {
+          "answer": "Chicago Bears",
+          "display": "$8.2 billion",
+          "aliases": [
+            "Bears"
+          ]
+        },
+        {
+          "answer": "New York Yankees",
+          "display": "$8.2 billion",
+          "aliases": [
+            "Yankees"
+          ]
+        },
+        {
+          "answer": "New York Jets",
+          "display": "$8.1 billion",
+          "aliases": [
+            "Jets"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/business/revenue",
+      "difficulty": 3,
+      "question": "Top 10 highest-revenue football clubs (Deloitte Football Money League, 2024–25)",
+      "cutoff": 10,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1356138527 | table 3 | name: Club | value: Total | header rows: 2",
+      "tags": [
+        "sports",
+        "football",
+        "revenue",
+        "deloitte"
+      ],
+      "answers": [
+        {
+          "answer": "Real Madrid",
+          "display": "€1,161 million"
+        },
+        {
+          "answer": "FC Barcelona",
+          "display": "€974.8 million",
+          "aliases": [
+            "Barcelona",
+            "Barca"
+          ]
+        },
+        {
+          "answer": "Bayern Munich",
+          "display": "€860.6 million",
+          "aliases": [
+            "Bayern"
+          ]
+        },
+        {
+          "answer": "Paris Saint-Germain",
+          "display": "€837 million",
+          "aliases": [
+            "PSG",
+            "Paris SG"
+          ]
+        },
+        {
+          "answer": "Liverpool",
+          "display": "€836.1 million"
+        },
+        {
+          "answer": "Manchester City",
+          "display": "€829.3 million",
+          "aliases": [
+            "Man City"
+          ]
+        },
+        {
+          "answer": "Arsenal",
+          "display": "€821.7 million"
+        },
+        {
+          "answer": "Manchester United",
+          "display": "€793.1 million",
+          "aliases": [
+            "Man United",
+            "Man Utd"
+          ]
+        },
+        {
+          "answer": "Tottenham Hotspur",
+          "display": "€672.6 million",
+          "aliases": [
+            "Tottenham",
+            "Spurs"
+          ]
+        },
+        {
+          "answer": "Chelsea",
+          "display": "€584.1 million"
+        },
+        {
+          "answer": "Internazionale",
+          "display": "€537.5 million",
+          "aliases": [
+            "Inter",
+            "Inter Milan"
+          ]
+        },
+        {
+          "answer": "Borussia Dortmund",
+          "display": "€531.3 million",
+          "aliases": [
+            "Dortmund",
+            "BVB"
+          ]
+        },
+        {
+          "answer": "Atlético Madrid",
+          "display": "€454.5 million",
+          "aliases": [
+            "Atletico Madrid",
+            "Atletico"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/business/revenue",
+      "difficulty": 3,
+      "question": "Top 10 highest-revenue football clubs (Deloitte Football Money League, 2023–24)",
+      "cutoff": 10,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1356138527 | table 5 | name: Club | value: Total | header rows: 2",
+      "tags": [
+        "sports",
+        "football",
+        "revenue",
+        "deloitte"
+      ],
+      "answers": [
+        {
+          "answer": "Real Madrid",
+          "display": "€1,045.5 million"
+        },
+        {
+          "answer": "Manchester City",
+          "display": "€837.8 million",
+          "aliases": [
+            "Man City"
+          ]
+        },
+        {
+          "answer": "Paris Saint-Germain",
+          "display": "€805.9 million",
+          "aliases": [
+            "PSG",
+            "Paris SG"
+          ]
+        },
+        {
+          "answer": "Manchester United",
+          "display": "€770.6 million",
+          "aliases": [
+            "Man United",
+            "Man Utd"
+          ]
+        },
+        {
+          "answer": "Bayern Munich",
+          "display": "€765.4 million",
+          "aliases": [
+            "Bayern"
+          ]
+        },
+        {
+          "answer": "FC Barcelona",
+          "display": "€760.3 million",
+          "aliases": [
+            "Barcelona",
+            "Barca"
+          ]
+        },
+        {
+          "answer": "Arsenal",
+          "display": "€716.5 million"
+        },
+        {
+          "answer": "Liverpool",
+          "display": "€714.7 million"
+        },
+        {
+          "answer": "Tottenham Hotspur",
+          "display": "€615 million",
+          "aliases": [
+            "Tottenham",
+            "Spurs"
+          ]
+        },
+        {
+          "answer": "Chelsea",
+          "display": "€545.5 million"
+        },
+        {
+          "answer": "Borussia Dortmund",
+          "display": "€513.7 million",
+          "aliases": [
+            "Dortmund",
+            "BVB"
+          ]
+        },
+        {
+          "answer": "Atlético Madrid",
+          "display": "€409.5 million",
+          "aliases": [
+            "Atletico Madrid",
+            "Atletico"
+          ]
+        },
+        {
+          "answer": "AC Milan",
+          "display": "€397.6 million",
+          "aliases": [
+            "Milan"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/business/revenue",
+      "difficulty": 3,
+      "question": "Top 10 highest-revenue football clubs (Deloitte Football Money League, 2022–23)",
+      "cutoff": 10,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1356138527 | table 7 | name: Club | value: Revenue",
+      "tags": [
+        "sports",
+        "football",
+        "revenue",
+        "deloitte"
+      ],
+      "answers": [
+        {
+          "answer": "Real Madrid",
+          "display": "€831.4 million"
+        },
+        {
+          "answer": "Manchester City",
+          "display": "€825.9 million",
+          "aliases": [
+            "Man City"
+          ]
+        },
+        {
+          "answer": "Paris Saint-Germain",
+          "display": "€801.8 million",
+          "aliases": [
+            "PSG",
+            "Paris SG"
+          ]
+        },
+        {
+          "answer": "FC Barcelona",
+          "display": "€800.1 million",
+          "aliases": [
+            "Barcelona",
+            "Barca"
+          ]
+        },
+        {
+          "answer": "Manchester United",
+          "display": "€745.8 million",
+          "aliases": [
+            "Man United",
+            "Man Utd"
+          ]
+        },
+        {
+          "answer": "Bayern Munich",
+          "display": "€744 million",
+          "aliases": [
+            "Bayern"
+          ]
+        },
+        {
+          "answer": "Liverpool",
+          "display": "€682.9 million"
+        },
+        {
+          "answer": "Tottenham Hotspur",
+          "display": "€631.5 million",
+          "aliases": [
+            "Tottenham",
+            "Spurs"
+          ]
+        },
+        {
+          "answer": "Chelsea",
+          "display": "€589.4 million"
+        },
+        {
+          "answer": "Arsenal",
+          "display": "€532.6 million"
+        },
+        {
+          "answer": "Juventus",
+          "display": "€432.4 million"
+        },
+        {
+          "answer": "Borussia Dortmund",
+          "display": "€420 million",
+          "aliases": [
+            "Dortmund",
+            "BVB"
+          ]
+        },
+        {
+          "answer": "AC Milan",
+          "display": "€385.3 million",
+          "aliases": [
+            "Milan"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/business/revenue",
+      "difficulty": 3,
+      "question": "Top 10 highest-revenue football clubs (Deloitte Football Money League, 2021–22)",
+      "cutoff": 10,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1356138527 | table 9 | name: Club | value: Revenue",
+      "tags": [
+        "sports",
+        "football",
+        "revenue",
+        "deloitte"
+      ],
+      "answers": [
+        {
+          "answer": "Manchester City",
+          "display": "€731 million",
+          "aliases": [
+            "Man City"
+          ]
+        },
+        {
+          "answer": "Real Madrid",
+          "display": "€713.8 million"
+        },
+        {
+          "answer": "Liverpool",
+          "display": "€701.7 million"
+        },
+        {
+          "answer": "Manchester United",
+          "display": "€688.6 million",
+          "aliases": [
+            "Man United",
+            "Man Utd"
+          ]
+        },
+        {
+          "answer": "Paris Saint-Germain",
+          "display": "€654.2 million",
+          "aliases": [
+            "PSG",
+            "Paris SG"
+          ]
+        },
+        {
+          "answer": "Bayern Munich",
+          "display": "€653.6 million",
+          "aliases": [
+            "Bayern"
+          ]
+        },
+        {
+          "answer": "FC Barcelona",
+          "display": "€638.2 million",
+          "aliases": [
+            "Barcelona",
+            "Barca"
+          ]
+        },
+        {
+          "answer": "Chelsea",
+          "display": "€568.3 million"
+        },
+        {
+          "answer": "Tottenham Hotspur",
+          "display": "€523 million",
+          "aliases": [
+            "Tottenham",
+            "Spurs"
+          ]
+        },
+        {
+          "answer": "Arsenal",
+          "display": "€433.5 million"
+        },
+        {
+          "answer": "Juventus",
+          "display": "€400.6 million"
+        },
+        {
+          "answer": "Atlético Madrid",
+          "display": "€393.8 million",
+          "aliases": [
+            "Atletico Madrid",
+            "Atletico"
+          ]
+        },
+        {
+          "answer": "Borussia Dortmund",
+          "display": "€356.9 million",
+          "aliases": [
+            "Dortmund",
+            "BVB"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/business/revenue",
+      "difficulty": 3,
+      "question": "Top 10 highest-revenue football clubs (Deloitte Football Money League, 2020–21)",
+      "cutoff": 10,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1356138527 | table 11 | name: Club | value: Revenue",
+      "tags": [
+        "sports",
+        "football",
+        "revenue",
+        "deloitte"
+      ],
+      "answers": [
+        {
+          "answer": "Manchester City",
+          "display": "€644.9 million",
+          "aliases": [
+            "Man City"
+          ]
+        },
+        {
+          "answer": "Real Madrid",
+          "display": "€640.7 million"
+        },
+        {
+          "answer": "Bayern Munich",
+          "display": "€611.4 million",
+          "aliases": [
+            "Bayern"
+          ]
+        },
+        {
+          "answer": "FC Barcelona",
+          "display": "€582.1 million",
+          "aliases": [
+            "Barcelona",
+            "Barca"
+          ]
+        },
+        {
+          "answer": "Manchester United",
+          "display": "€558 million",
+          "aliases": [
+            "Man United",
+            "Man Utd"
+          ]
+        },
+        {
+          "answer": "Paris Saint-Germain",
+          "display": "€556.2 million",
+          "aliases": [
+            "PSG",
+            "Paris SG"
+          ]
+        },
+        {
+          "answer": "Liverpool",
+          "display": "€550.4 million"
+        },
+        {
+          "answer": "Chelsea",
+          "display": "€493.1 million"
+        },
+        {
+          "answer": "Juventus",
+          "display": "€433.5 million"
+        },
+        {
+          "answer": "Tottenham Hotspur",
+          "display": "€406.2 million",
+          "aliases": [
+            "Tottenham",
+            "Spurs"
+          ]
+        },
+        {
+          "answer": "Arsenal",
+          "display": "€366.5 million"
+        },
+        {
+          "answer": "Borussia Dortmund",
+          "display": "€337.6 million",
+          "aliases": [
+            "Dortmund",
+            "BVB"
+          ]
+        },
+        {
+          "answer": "Atlético Madrid",
+          "display": "€332.8 million",
+          "aliases": [
+            "Atletico Madrid",
+            "Atletico"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/business/revenue",
+      "difficulty": 3,
+      "question": "Top 10 highest-revenue football clubs (Deloitte Football Money League, 2019–20)",
+      "cutoff": 10,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1356138527 | table 13 | name: Club | value: Revenue",
+      "tags": [
+        "sports",
+        "football",
+        "revenue",
+        "deloitte"
+      ],
+      "answers": [
+        {
+          "answer": "FC Barcelona",
+          "display": "€713.4 million",
+          "aliases": [
+            "Barcelona",
+            "Barca"
+          ]
+        },
+        {
+          "answer": "Real Madrid",
+          "display": "€691.8 million"
+        },
+        {
+          "answer": "Bayern Munich",
+          "display": "€634.1 million",
+          "aliases": [
+            "Bayern"
+          ]
+        },
+        {
+          "answer": "Manchester United",
+          "display": "€580.4 million",
+          "aliases": [
+            "Man United",
+            "Man Utd"
+          ]
+        },
+        {
+          "answer": "Liverpool",
+          "display": "€558.6 million"
+        },
+        {
+          "answer": "Manchester City",
+          "display": "€549.2 million",
+          "aliases": [
+            "Man City"
+          ]
+        },
+        {
+          "answer": "Paris Saint-Germain",
+          "display": "€540.6 million",
+          "aliases": [
+            "PSG",
+            "Paris SG"
+          ]
+        },
+        {
+          "answer": "Chelsea",
+          "display": "€469.7 million"
+        },
+        {
+          "answer": "Tottenham Hotspur",
+          "display": "€445.7 million",
+          "aliases": [
+            "Tottenham",
+            "Spurs"
+          ]
+        },
+        {
+          "answer": "Juventus",
+          "display": "€398.9 million"
+        },
+        {
+          "answer": "Arsenal",
+          "display": "€388 million"
+        },
+        {
+          "answer": "Borussia Dortmund",
+          "display": "€365.7 million",
+          "aliases": [
+            "Dortmund",
+            "BVB"
+          ]
+        },
+        {
+          "answer": "Atlético Madrid",
+          "display": "€331.8 million",
+          "aliases": [
+            "Atletico Madrid",
+            "Atletico"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/business/revenue",
+      "difficulty": 3,
+      "question": "Top 10 highest-revenue football clubs (Deloitte Football Money League, 2018–19)",
+      "cutoff": 10,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1356138527 | table 15 | name: Club | value: Revenue",
+      "tags": [
+        "sports",
+        "football",
+        "revenue",
+        "deloitte"
+      ],
+      "answers": [
+        {
+          "answer": "FC Barcelona",
+          "display": "€840.8 million",
+          "aliases": [
+            "Barcelona",
+            "Barca"
+          ]
+        },
+        {
+          "answer": "Real Madrid",
+          "display": "€757.3 million"
+        },
+        {
+          "answer": "Manchester United",
+          "display": "€711.5 million",
+          "aliases": [
+            "Man United",
+            "Man Utd"
+          ]
+        },
+        {
+          "answer": "Bayern Munich",
+          "display": "€660.1 million",
+          "aliases": [
+            "Bayern"
+          ]
+        },
+        {
+          "answer": "Paris Saint-Germain",
+          "display": "€635.9 million",
+          "aliases": [
+            "PSG",
+            "Paris SG"
+          ]
+        },
+        {
+          "answer": "Manchester City",
+          "display": "€610.6 million",
+          "aliases": [
+            "Man City"
+          ]
+        },
+        {
+          "answer": "Liverpool",
+          "display": "€604.7 million"
+        },
+        {
+          "answer": "Tottenham Hotspur",
+          "display": "€521.1 million",
+          "aliases": [
+            "Tottenham",
+            "Spurs"
+          ]
+        },
+        {
+          "answer": "Chelsea",
+          "display": "€513.1 million"
+        },
+        {
+          "answer": "Juventus",
+          "display": "€459.7 million"
+        },
+        {
+          "answer": "Arsenal",
+          "display": "€445.2 million"
+        },
+        {
+          "answer": "Borussia Dortmund",
+          "display": "€371.7 million",
+          "aliases": [
+            "Dortmund",
+            "BVB"
+          ]
+        },
+        {
+          "answer": "Atlético Madrid",
+          "display": "€367.6 million",
+          "aliases": [
+            "Atletico Madrid",
+            "Atletico"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/business/revenue",
+      "difficulty": 3,
+      "question": "Top 10 highest-revenue football clubs (Deloitte Football Money League, 2017–18)",
+      "cutoff": 10,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1356138527 | table 17 | name: Club | value: Revenue",
+      "tags": [
+        "sports",
+        "football",
+        "revenue",
+        "deloitte"
+      ],
+      "answers": [
+        {
+          "answer": "Real Madrid",
+          "display": "€750.9 million"
+        },
+        {
+          "answer": "FC Barcelona",
+          "display": "€690.4 million",
+          "aliases": [
+            "Barcelona",
+            "Barca"
+          ]
+        },
+        {
+          "answer": "Manchester United",
+          "display": "€665.8 million",
+          "aliases": [
+            "Man United",
+            "Man Utd"
+          ]
+        },
+        {
+          "answer": "Bayern Munich",
+          "display": "€629.2 million",
+          "aliases": [
+            "Bayern"
+          ]
+        },
+        {
+          "answer": "Manchester City",
+          "display": "€568.4 million",
+          "aliases": [
+            "Man City"
+          ]
+        },
+        {
+          "answer": "Paris Saint-Germain",
+          "display": "€541.7 million",
+          "aliases": [
+            "PSG",
+            "Paris SG"
+          ]
+        },
+        {
+          "answer": "Liverpool",
+          "display": "€513.7 million"
+        },
+        {
+          "answer": "Chelsea",
+          "display": "€505.7 million"
+        },
+        {
+          "answer": "Arsenal",
+          "display": "€439.2 million"
+        },
+        {
+          "answer": "Tottenham Hotspur",
+          "display": "€428.3 million",
+          "aliases": [
+            "Tottenham",
+            "Spurs"
+          ]
+        },
+        {
+          "answer": "Juventus",
+          "display": "€394.5 million"
+        },
+        {
+          "answer": "Borussia Dortmund",
+          "display": "€317.2 million",
+          "aliases": [
+            "Dortmund",
+            "BVB"
+          ]
+        },
+        {
+          "answer": "Atlético Madrid",
+          "display": "€304.4 million",
+          "aliases": [
+            "Atletico Madrid",
+            "Atletico"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/business/revenue",
+      "difficulty": 3,
+      "question": "Top 10 highest-revenue football clubs (Deloitte Football Money League, 2016–17)",
+      "cutoff": 10,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1356138527 | table 19 | name: Club | value: Revenue",
+      "tags": [
+        "sports",
+        "football",
+        "revenue",
+        "deloitte"
+      ],
+      "answers": [
+        {
+          "answer": "Manchester United",
+          "display": "€676.3 million",
+          "aliases": [
+            "Man United",
+            "Man Utd"
+          ]
+        },
+        {
+          "answer": "Real Madrid",
+          "display": "€674.6 million"
+        },
+        {
+          "answer": "FC Barcelona",
+          "display": "€648.3 million",
+          "aliases": [
+            "Barcelona",
+            "Barca"
+          ]
+        },
+        {
+          "answer": "Bayern Munich",
+          "display": "€587.8 million",
+          "aliases": [
+            "Bayern"
+          ]
+        },
+        {
+          "answer": "Manchester City",
+          "display": "€527.7 million",
+          "aliases": [
+            "Man City"
+          ]
+        },
+        {
+          "answer": "Arsenal",
+          "display": "€487.6 million"
+        },
+        {
+          "answer": "Paris Saint-Germain",
+          "display": "€486.2 million",
+          "aliases": [
+            "PSG",
+            "Paris SG"
+          ]
+        },
+        {
+          "answer": "Chelsea",
+          "display": "€428 million"
+        },
+        {
+          "answer": "Liverpool",
+          "display": "€424.2 million"
+        },
+        {
+          "answer": "Juventus",
+          "display": "€405.7 million"
+        },
+        {
+          "answer": "Tottenham Hotspur",
+          "display": "€359.5 million",
+          "aliases": [
+            "Tottenham",
+            "Spurs"
+          ]
+        },
+        {
+          "answer": "Borussia Dortmund",
+          "display": "€332.6 million",
+          "aliases": [
+            "Dortmund",
+            "BVB"
+          ]
+        },
+        {
+          "answer": "Atlético Madrid",
+          "display": "€272.5 million",
+          "aliases": [
+            "Atletico Madrid",
+            "Atletico"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/business/revenue",
+      "difficulty": 3,
+      "question": "Top 10 highest-revenue football clubs (Deloitte Football Money League, 2015–16)",
+      "cutoff": 10,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1356138527 | table 21 | name: Club | value: Revenue",
+      "tags": [
+        "sports",
+        "football",
+        "revenue",
+        "deloitte"
+      ],
+      "answers": [
+        {
+          "answer": "Manchester United",
+          "display": "€689 million",
+          "aliases": [
+            "Man United",
+            "Man Utd"
+          ]
+        },
+        {
+          "answer": "FC Barcelona",
+          "display": "€620.2 million",
+          "aliases": [
+            "Barcelona",
+            "Barca"
+          ]
+        },
+        {
+          "answer": "Real Madrid",
+          "display": "€620.1 million"
+        },
+        {
+          "answer": "Bayern Munich",
+          "display": "€592 million",
+          "aliases": [
+            "Bayern"
+          ]
+        },
+        {
+          "answer": "Manchester City",
+          "display": "€524.9 million",
+          "aliases": [
+            "Man City"
+          ]
+        },
+        {
+          "answer": "Paris Saint-Germain",
+          "display": "€520.9 million",
+          "aliases": [
+            "PSG",
+            "Paris SG"
+          ]
+        },
+        {
+          "answer": "Arsenal",
+          "display": "€468.5 million"
+        },
+        {
+          "answer": "Chelsea",
+          "display": "€447.4 million"
+        },
+        {
+          "answer": "Liverpool",
+          "display": "€403.8 million"
+        },
+        {
+          "answer": "Juventus",
+          "display": "€338.9 million"
+        },
+        {
+          "answer": "Borussia Dortmund",
+          "display": "€283.9 million",
+          "aliases": [
+            "Dortmund",
+            "BVB"
+          ]
+        },
+        {
+          "answer": "Tottenham Hotspur",
+          "display": "€279.7 million",
+          "aliases": [
+            "Tottenham",
+            "Spurs"
+          ]
+        },
+        {
+          "answer": "Atlético Madrid",
+          "display": "€228.6 million",
+          "aliases": [
+            "Atletico Madrid",
+            "Atletico"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/business/revenue",
+      "difficulty": 3,
+      "question": "Top 10 highest-revenue football clubs (Deloitte Football Money League, 2014–15)",
+      "cutoff": 10,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1356138527 | table 23 | name: Club | value: Revenue",
+      "tags": [
+        "sports",
+        "football",
+        "revenue",
+        "deloitte"
+      ],
+      "answers": [
+        {
+          "answer": "Real Madrid",
+          "display": "€577 million"
+        },
+        {
+          "answer": "FC Barcelona",
+          "display": "€560.8 million",
+          "aliases": [
+            "Barcelona",
+            "Barca"
+          ]
+        },
+        {
+          "answer": "Manchester United",
+          "display": "€519.5 million",
+          "aliases": [
+            "Man United",
+            "Man Utd"
+          ]
+        },
+        {
+          "answer": "Paris Saint-Germain",
+          "display": "€480.8 million",
+          "aliases": [
+            "PSG",
+            "Paris SG"
+          ]
+        },
+        {
+          "answer": "Bayern Munich",
+          "display": "€474 million",
+          "aliases": [
+            "Bayern"
+          ]
+        },
+        {
+          "answer": "Manchester City",
+          "display": "€463.5 million",
+          "aliases": [
+            "Man City"
+          ]
+        },
+        {
+          "answer": "Arsenal",
+          "display": "€435.5 million"
+        },
+        {
+          "answer": "Chelsea",
+          "display": "€420 million"
+        },
+        {
+          "answer": "Liverpool",
+          "display": "€391.8 million"
+        },
+        {
+          "answer": "Juventus",
+          "display": "€323.9 million"
+        },
+        {
+          "answer": "Borussia Dortmund",
+          "display": "€280.6 million",
+          "aliases": [
+            "Dortmund",
+            "BVB"
+          ]
+        },
+        {
+          "answer": "Tottenham Hotspur",
+          "display": "€257.5 million",
+          "aliases": [
+            "Tottenham",
+            "Spurs"
+          ]
+        },
+        {
+          "answer": "Schalke 04",
+          "display": "€219.7 million",
+          "aliases": [
+            "Schalke"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/business/revenue",
+      "difficulty": 3,
+      "question": "Top 10 highest-revenue football clubs (Deloitte Football Money League, 2013–14)",
+      "cutoff": 10,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1356138527 | table 25 | name: Club | value: Revenue",
+      "tags": [
+        "sports",
+        "football",
+        "revenue",
+        "deloitte"
+      ],
+      "answers": [
+        {
+          "answer": "Real Madrid",
+          "display": "€549.5 million"
+        },
+        {
+          "answer": "Manchester United",
+          "display": "€518 million",
+          "aliases": [
+            "Man United",
+            "Man Utd"
+          ]
+        },
+        {
+          "answer": "Bayern Munich",
+          "display": "€487.5 million",
+          "aliases": [
+            "Bayern"
+          ]
+        },
+        {
+          "answer": "FC Barcelona",
+          "display": "€484.8 million",
+          "aliases": [
+            "Barcelona",
+            "Barca"
+          ]
+        },
+        {
+          "answer": "Paris Saint-Germain",
+          "display": "€471.3 million",
+          "aliases": [
+            "PSG",
+            "Paris SG"
+          ]
+        },
+        {
+          "answer": "Manchester City",
+          "display": "€416.5 million",
+          "aliases": [
+            "Man City"
+          ]
+        },
+        {
+          "answer": "Chelsea",
+          "display": "€387.9 million"
+        },
+        {
+          "answer": "Arsenal",
+          "display": "€359.3 million"
+        },
+        {
+          "answer": "Liverpool",
+          "display": "€305.9 million"
+        },
+        {
+          "answer": "Juventus",
+          "display": "€279 million"
+        },
+        {
+          "answer": "Borussia Dortmund",
+          "display": "€261.5 million",
+          "aliases": [
+            "Dortmund",
+            "BVB"
+          ]
+        },
+        {
+          "answer": "AC Milan",
+          "display": "€249.7 million",
+          "aliases": [
+            "Milan"
+          ]
+        },
+        {
+          "answer": "Tottenham Hotspur",
+          "display": "€215.5 million",
+          "aliases": [
+            "Tottenham",
+            "Spurs"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/business/revenue",
+      "difficulty": 3,
+      "question": "Top 10 highest-revenue football clubs (Deloitte Football Money League, 2012–13)",
+      "cutoff": 10,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1356138527 | table 27 | name: Club | value: Revenue",
+      "tags": [
+        "sports",
+        "football",
+        "revenue",
+        "deloitte"
+      ],
+      "answers": [
+        {
+          "answer": "Real Madrid",
+          "display": "€518.9 million"
+        },
+        {
+          "answer": "FC Barcelona",
+          "display": "€482.6 million",
+          "aliases": [
+            "Barcelona",
+            "Barca"
+          ]
+        },
+        {
+          "answer": "Bayern Munich",
+          "display": "€431.2 million",
+          "aliases": [
+            "Bayern"
+          ]
+        },
+        {
+          "answer": "Manchester United",
+          "display": "€423.8 million",
+          "aliases": [
+            "Man United",
+            "Man Utd"
+          ]
+        },
+        {
+          "answer": "Paris Saint-Germain",
+          "display": "€398.8 million",
+          "aliases": [
+            "PSG",
+            "Paris SG"
+          ]
+        },
+        {
+          "answer": "Manchester City",
+          "display": "€316.2 million",
+          "aliases": [
+            "Man City"
+          ]
+        },
+        {
+          "answer": "Chelsea",
+          "display": "€303.4 million"
+        },
+        {
+          "answer": "Arsenal",
+          "display": "€284.3 million"
+        },
+        {
+          "answer": "Juventus",
+          "display": "€272.4 million"
+        },
+        {
+          "answer": "AC Milan",
+          "display": "€263.5 million",
+          "aliases": [
+            "Milan"
+          ]
+        },
+        {
+          "answer": "Borussia Dortmund",
+          "display": "€256.2 million",
+          "aliases": [
+            "Dortmund",
+            "BVB"
+          ]
+        },
+        {
+          "answer": "Liverpool",
+          "display": "€240.6 million"
+        },
+        {
+          "answer": "Schalke 04",
+          "display": "€198.2 million",
+          "aliases": [
+            "Schalke"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/business/revenue",
+      "difficulty": 3,
+      "question": "Top 10 highest-revenue football clubs (Deloitte Football Money League, 2011–12)",
+      "cutoff": 10,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1356138527 | table 29 | name: Club | value: Revenue",
+      "tags": [
+        "sports",
+        "football",
+        "revenue",
+        "deloitte"
+      ],
+      "answers": [
+        {
+          "answer": "Real Madrid",
+          "display": "€512.6 million"
+        },
+        {
+          "answer": "FC Barcelona",
+          "display": "€483 million",
+          "aliases": [
+            "Barcelona",
+            "Barca"
+          ]
+        },
+        {
+          "answer": "Manchester United",
+          "display": "€395.9 million",
+          "aliases": [
+            "Man United",
+            "Man Utd"
+          ]
+        },
+        {
+          "answer": "Bayern Munich",
+          "display": "€368.4 million",
+          "aliases": [
+            "Bayern"
+          ]
+        },
+        {
+          "answer": "Chelsea",
+          "display": "€322.6 million"
+        },
+        {
+          "answer": "Arsenal",
+          "display": "€290.3 million"
+        },
+        {
+          "answer": "Manchester City",
+          "display": "€285.6 million",
+          "aliases": [
+            "Man City"
+          ]
+        },
+        {
+          "answer": "AC Milan",
+          "display": "€256.9 million",
+          "aliases": [
+            "Milan"
+          ]
+        },
+        {
+          "answer": "Liverpool",
+          "display": "€233.2 million"
+        },
+        {
+          "answer": "Paris Saint-Germain",
+          "display": "€220.5 million",
+          "aliases": [
+            "PSG",
+            "Paris SG"
+          ]
+        },
+        {
+          "answer": "Internazionale",
+          "display": "€200.6 million",
+          "aliases": [
+            "Inter",
+            "Inter Milan"
+          ]
+        },
+        {
+          "answer": "Borussia Dortmund",
+          "display": "€196.7 million",
+          "aliases": [
+            "Dortmund",
+            "BVB"
+          ]
+        },
+        {
+          "answer": "Juventus",
+          "display": "€195.4 million"
+        }
+      ]
+    },
+    {
+      "category": "sports/business/revenue",
+      "difficulty": 3,
+      "question": "Top 10 highest-revenue football clubs (Deloitte Football Money League, 2010–11)",
+      "cutoff": 10,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1356138527 | table 31 | name: Club | value: Revenue",
+      "tags": [
+        "sports",
+        "football",
+        "revenue",
+        "deloitte"
+      ],
+      "answers": [
+        {
+          "answer": "Real Madrid",
+          "display": "€479.5 million"
+        },
+        {
+          "answer": "FC Barcelona",
+          "display": "€450.7 million",
+          "aliases": [
+            "Barcelona",
+            "Barca"
+          ]
+        },
+        {
+          "answer": "Manchester United",
+          "display": "€367 million",
+          "aliases": [
+            "Man United",
+            "Man Utd"
+          ]
+        },
+        {
+          "answer": "Bayern Munich",
+          "display": "€321.4 million",
+          "aliases": [
+            "Bayern"
+          ]
+        },
+        {
+          "answer": "Chelsea",
+          "display": "€253.1 million"
+        },
+        {
+          "answer": "Arsenal",
+          "display": "€251.1 million"
+        },
+        {
+          "answer": "AC Milan",
+          "display": "€234.8 million",
+          "aliases": [
+            "Milan"
+          ]
+        },
+        {
+          "answer": "Internazionale",
+          "display": "€211.4 million",
+          "aliases": [
+            "Inter",
+            "Inter Milan"
+          ]
+        },
+        {
+          "answer": "Liverpool",
+          "display": "€203.3 million"
+        },
+        {
+          "answer": "Schalke 04",
+          "display": "€202.4 million",
+          "aliases": [
+            "Schalke"
+          ]
+        },
+        {
+          "answer": "Tottenham Hotspur",
+          "display": "€181 million",
+          "aliases": [
+            "Tottenham",
+            "Spurs"
+          ]
+        },
+        {
+          "answer": "Manchester City",
+          "display": "€169.6 million",
+          "aliases": [
+            "Man City"
+          ]
+        },
+        {
+          "answer": "Juventus",
+          "display": "€153.9 million"
+        }
+      ]
+    },
+    {
+      "category": "sports/business/revenue",
+      "difficulty": 3,
+      "question": "Top 10 highest-revenue football clubs (Deloitte Football Money League, 2009–10)",
+      "cutoff": 10,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1356138527 | table 33 | name: Club | value: Revenue",
+      "tags": [
+        "sports",
+        "football",
+        "revenue",
+        "deloitte"
+      ],
+      "answers": [
+        {
+          "answer": "Real Madrid",
+          "display": "€438.6 million"
+        },
+        {
+          "answer": "FC Barcelona",
+          "display": "€398.1 million",
+          "aliases": [
+            "Barcelona",
+            "Barca"
+          ]
+        },
+        {
+          "answer": "Manchester United",
+          "display": "€349.8 million",
+          "aliases": [
+            "Man United",
+            "Man Utd"
+          ]
+        },
+        {
+          "answer": "Bayern Munich",
+          "display": "€323 million",
+          "aliases": [
+            "Bayern"
+          ]
+        },
+        {
+          "answer": "Arsenal",
+          "display": "€274.1 million"
+        },
+        {
+          "answer": "Chelsea",
+          "display": "€255.9 million"
+        },
+        {
+          "answer": "AC Milan",
+          "display": "€244 million",
+          "aliases": [
+            "Milan"
+          ]
+        },
+        {
+          "answer": "Liverpool",
+          "display": "€225.3 million"
+        },
+        {
+          "answer": "Internazionale",
+          "display": "€224.8 million",
+          "aliases": [
+            "Inter",
+            "Inter Milan"
+          ]
+        },
+        {
+          "answer": "Juventus",
+          "display": "€205 million"
+        },
+        {
+          "answer": "Manchester City",
+          "display": "€152.8 million",
+          "aliases": [
+            "Man City"
+          ]
+        },
+        {
+          "answer": "Tottenham Hotspur",
+          "display": "€146.3 million",
+          "aliases": [
+            "Tottenham",
+            "Spurs"
+          ]
+        },
+        {
+          "answer": "Hamburger SV",
+          "display": "€146.2 million",
+          "aliases": [
+            "Hamburg",
+            "HSV"
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,925 @@
+{
+  "categories": [
+    {
+      "path": "sports/soccer/international",
+      "name": "International football"
+    },
+    {
+      "path": "sports/soccer/international/caps-goals",
+      "name": "Caps and goals"
+    },
+    {
+      "path": "sports/soccer/international/world-cup",
+      "name": "World Cup"
+    },
+    {
+      "path": "sports/soccer/international/womens",
+      "name": "Women's internationals"
+    },
+    {
+      "path": "sports/soccer/international/euro-copa",
+      "name": "Euro and Copa América"
+    }
+  ],
+  "questions": [
+    {
+      "category": "sports/soccer/international/caps-goals",
+      "difficulty": 2,
+      "question": "Top 10 most-capped men's footballers (international caps, as of 2026)",
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1379090713 | table 2 | name: Player | value: Caps",
+      "tags": [
+        "soccer",
+        "international",
+        "caps",
+        "men"
+      ],
+      "cutoff": 10,
+      "answers": [
+        {
+          "answer": "Cristiano Ronaldo",
+          "display": "234 caps",
+          "aliases": [
+            "ronaldo",
+            "cr7"
+          ]
+        },
+        {
+          "answer": "Lionel Messi",
+          "display": "208 caps",
+          "aliases": [
+            "messi"
+          ]
+        },
+        {
+          "answer": "Luka Modrić",
+          "display": "206 caps",
+          "aliases": [
+            "modric"
+          ]
+        },
+        {
+          "answer": "Bader Al-Mutawa",
+          "display": "202 caps"
+        },
+        {
+          "answer": "Soh Chin Ann",
+          "display": "195 caps"
+        },
+        {
+          "answer": "Hassan Al-Haydos",
+          "display": "193 caps"
+        },
+        {
+          "answer": "Ahmed Kano",
+          "display": "193 caps"
+        },
+        {
+          "answer": "Ahmed Hassan",
+          "display": "184 caps"
+        },
+        {
+          "answer": "Andrés Guardado",
+          "display": "182 caps",
+          "aliases": [
+            "guardado"
+          ]
+        },
+        {
+          "answer": "Sergio Ramos",
+          "display": "180 caps",
+          "aliases": [
+            "ramos"
+          ]
+        },
+        {
+          "answer": "Claudio Suárez",
+          "display": "179 caps"
+        },
+        {
+          "answer": "Mohamed Al-Deayea",
+          "display": "178 caps"
+        },
+        {
+          "answer": "Hossam Hassan",
+          "display": "177 caps"
+        },
+        {
+          "answer": "Gianluigi Buffon",
+          "display": "176 caps",
+          "aliases": [
+            "buffon"
+          ]
+        },
+        {
+          "answer": "Maynor Figueroa",
+          "display": "175 caps"
+        }
+      ]
+    },
+    {
+      "category": "sports/soccer/international/womens",
+      "difficulty": 2,
+      "question": "Top 10 most-capped women's footballers (international caps, as of 2026)",
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1379694540 | table 2 | name: Player | value: Caps",
+      "tags": [
+        "soccer",
+        "international",
+        "caps",
+        "women"
+      ],
+      "cutoff": 10,
+      "answers": [
+        {
+          "answer": "Kristine Lilly",
+          "display": "354 caps",
+          "aliases": [
+            "lilly"
+          ]
+        },
+        {
+          "answer": "Christine Sinclair",
+          "display": "331 caps",
+          "aliases": [
+            "sinclair"
+          ]
+        },
+        {
+          "answer": "Carli Lloyd",
+          "display": "316 caps",
+          "aliases": [
+            "lloyd"
+          ]
+        },
+        {
+          "answer": "Christie Rampone",
+          "display": "311 caps",
+          "aliases": [
+            "christie pearce",
+            "rampone"
+          ]
+        },
+        {
+          "answer": "Mia Hamm",
+          "display": "276 caps",
+          "aliases": [
+            "hamm"
+          ]
+        },
+        {
+          "answer": "Julie Foudy",
+          "display": "274 caps",
+          "aliases": [
+            "foudy"
+          ]
+        },
+        {
+          "answer": "Abby Wambach",
+          "display": "255 caps",
+          "aliases": [
+            "wambach"
+          ]
+        },
+        {
+          "answer": "Sherida Spitse",
+          "display": "248 caps",
+          "aliases": [
+            "spitse"
+          ]
+        },
+        {
+          "answer": "Joy Fawcett",
+          "display": "241 caps",
+          "aliases": [
+            "fawcett"
+          ]
+        },
+        {
+          "answer": "Caroline Seger",
+          "display": "240 caps",
+          "aliases": [
+            "seger"
+          ]
+        },
+        {
+          "answer": "Heather O'Reilly",
+          "display": "231 caps"
+        },
+        {
+          "answer": "Sophie Schmidt",
+          "display": "226 caps"
+        },
+        {
+          "answer": "Alex Morgan",
+          "display": "224 caps",
+          "aliases": [
+            "morgan"
+          ]
+        },
+        {
+          "answer": "Becky Sauerbrunn",
+          "display": "219 caps"
+        }
+      ]
+    },
+    {
+      "category": "sports/soccer/international/caps-goals",
+      "difficulty": 2,
+      "question": "Top 10 men's footballers with the most international goals (as of 2026)",
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1379596288 | table 1 | name: Player | value: Goals",
+      "tags": [
+        "soccer",
+        "international",
+        "goals",
+        "men"
+      ],
+      "cutoff": 10,
+      "answers": [
+        {
+          "answer": "Cristiano Ronaldo",
+          "display": "146 goals",
+          "aliases": [
+            "ronaldo",
+            "cr7"
+          ]
+        },
+        {
+          "answer": "Lionel Messi",
+          "display": "126 goals",
+          "aliases": [
+            "messi"
+          ]
+        },
+        {
+          "answer": "Ali Daei",
+          "display": "108 goals",
+          "aliases": [
+            "daei"
+          ]
+        },
+        {
+          "answer": "Sunil Chhetri",
+          "display": "95 goals",
+          "aliases": [
+            "chhetri"
+          ]
+        },
+        {
+          "answer": "Romelu Lukaku",
+          "display": "94 goals",
+          "aliases": [
+            "lukaku"
+          ]
+        },
+        {
+          "answer": "Robert Lewandowski",
+          "display": "92 goals",
+          "aliases": [
+            "lewandowski"
+          ]
+        },
+        {
+          "answer": "Harry Kane",
+          "display": "91 goals",
+          "aliases": [
+            "kane"
+          ]
+        },
+        {
+          "answer": "Mokhtar Dahari",
+          "display": "89 goals"
+        },
+        {
+          "answer": "Ali Mabkhout",
+          "display": "85 goals",
+          "aliases": [
+            "mabkhout"
+          ]
+        },
+        {
+          "answer": "Ferenc Puskás",
+          "display": "84 goals",
+          "aliases": [
+            "puskas"
+          ]
+        },
+        {
+          "answer": "Neymar",
+          "display": "80 goals"
+        },
+        {
+          "answer": "Godfrey Chitalu",
+          "display": "79 goals"
+        },
+        {
+          "answer": "Hussein Saeed",
+          "display": "78 goals"
+        },
+        {
+          "answer": "Kunishige Kamamoto",
+          "display": "75 goals"
+        },
+        {
+          "answer": "Bashar Abdullah",
+          "display": "75 goals"
+        }
+      ]
+    },
+    {
+      "category": "sports/soccer/international/womens",
+      "difficulty": 2,
+      "question": "Top 10 women's footballers with the most international goals (as of July 2026)",
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1366619462 | table 2 | name: Player | value: Goals",
+      "tags": [
+        "soccer",
+        "international",
+        "goals",
+        "women"
+      ],
+      "cutoff": 10,
+      "answers": [
+        {
+          "answer": "Christine Sinclair",
+          "display": "190 goals",
+          "aliases": [
+            "sinclair"
+          ]
+        },
+        {
+          "answer": "Abby Wambach",
+          "display": "184 goals",
+          "aliases": [
+            "wambach"
+          ]
+        },
+        {
+          "answer": "Mia Hamm",
+          "display": "158 goals",
+          "aliases": [
+            "hamm"
+          ]
+        },
+        {
+          "answer": "Maysa Jbarah",
+          "display": "134 goals",
+          "aliases": [
+            "jbarah"
+          ]
+        },
+        {
+          "answer": "Carli Lloyd",
+          "display": "134 goals",
+          "aliases": [
+            "lloyd"
+          ]
+        },
+        {
+          "answer": "Kristine Lilly",
+          "display": "130 goals",
+          "aliases": [
+            "lilly"
+          ]
+        },
+        {
+          "answer": "Birgit Prinz",
+          "display": "128 goals",
+          "aliases": [
+            "prinz"
+          ]
+        },
+        {
+          "answer": "Alex Morgan",
+          "display": "123 goals",
+          "aliases": [
+            "morgan"
+          ]
+        },
+        {
+          "answer": "Marta",
+          "display": "121 goals",
+          "aliases": [
+            "marta vieira"
+          ]
+        },
+        {
+          "answer": "Julie Fleeting",
+          "display": "116 goals",
+          "aliases": [
+            "fleeting"
+          ]
+        },
+        {
+          "answer": "Patrizia Panico",
+          "display": "110 goals"
+        },
+        {
+          "answer": "Elisabetta Vignotto",
+          "display": "107 goals"
+        },
+        {
+          "answer": "Michelle Akers",
+          "display": "107 goals",
+          "aliases": [
+            "akers"
+          ]
+        },
+        {
+          "answer": "Carolina Morace",
+          "display": "105 goals"
+        }
+      ]
+    },
+    {
+      "category": "sports/soccer/international/world-cup",
+      "difficulty": 3,
+      "question": "Top 7 national teams by FIFA World Cup top-four finishes (titles, runners-up, third and fourth places, through 2026)",
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1379136112 | table 3 | name: Team | value: Top 4 total",
+      "tags": [
+        "soccer",
+        "international",
+        "world cup",
+        "semi-finals"
+      ],
+      "cutoff": 7,
+      "answers": [
+        {
+          "answer": "Germany",
+          "display": "13 top-four finishes",
+          "aliases": [
+            "west germany"
+          ]
+        },
+        {
+          "answer": "Brazil",
+          "display": "11 top-four finishes"
+        },
+        {
+          "answer": "Italy",
+          "display": "8 top-four finishes"
+        },
+        {
+          "answer": "France",
+          "display": "8 top-four finishes"
+        },
+        {
+          "answer": "Argentina",
+          "display": "7 top-four finishes"
+        },
+        {
+          "answer": "Uruguay",
+          "display": "5 top-four finishes"
+        },
+        {
+          "answer": "Netherlands",
+          "display": "5 top-four finishes",
+          "aliases": [
+            "holland"
+          ]
+        },
+        {
+          "answer": "England",
+          "display": "4 top-four finishes"
+        },
+        {
+          "answer": "Sweden",
+          "display": "4 top-four finishes"
+        },
+        {
+          "answer": "Spain",
+          "display": "3 top-four finishes"
+        },
+        {
+          "answer": "Croatia",
+          "display": "3 top-four finishes"
+        }
+      ]
+    },
+    {
+      "category": "sports/soccer/international/womens",
+      "difficulty": 3,
+      "question": "Top 7 players by goals at the FIFA Women's World Cup (through the 2023 tournament)",
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1373068730 | table 6 | name: Player | value: Goals scored",
+      "tags": [
+        "soccer",
+        "international",
+        "women",
+        "world cup",
+        "goals"
+      ],
+      "cutoff": 7,
+      "answers": [
+        {
+          "answer": "Marta",
+          "display": "17 goals",
+          "aliases": [
+            "marta vieira"
+          ]
+        },
+        {
+          "answer": "Birgit Prinz",
+          "display": "14 goals",
+          "aliases": [
+            "prinz"
+          ]
+        },
+        {
+          "answer": "Abby Wambach",
+          "display": "14 goals",
+          "aliases": [
+            "wambach"
+          ]
+        },
+        {
+          "answer": "Michelle Akers",
+          "display": "12 goals",
+          "aliases": [
+            "akers"
+          ]
+        },
+        {
+          "answer": "Cristiane",
+          "display": "11 goals"
+        },
+        {
+          "answer": "Sun Wen",
+          "display": "11 goals"
+        },
+        {
+          "answer": "Bettina Wiegmann",
+          "display": "11 goals",
+          "aliases": [
+            "wiegmann"
+          ]
+        },
+        {
+          "answer": "Christine Sinclair",
+          "display": "10 goals",
+          "aliases": [
+            "sinclair"
+          ]
+        },
+        {
+          "answer": "Ann Kristin Aarønes",
+          "display": "10 goals",
+          "aliases": [
+            "aarones"
+          ]
+        },
+        {
+          "answer": "Carli Lloyd",
+          "display": "10 goals",
+          "aliases": [
+            "lloyd"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/soccer/international/euro-copa",
+      "difficulty": 2,
+      "question": "Top 10 teams by UEFA European Championship appearances (through Euro 2024)",
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1379066582 | table 1 | name: Team | value: Appearances",
+      "tags": [
+        "soccer",
+        "international",
+        "euro",
+        "appearances"
+      ],
+      "cutoff": 10,
+      "answers": [
+        {
+          "answer": "Germany",
+          "display": "14 appearances (incl. West Germany)",
+          "aliases": [
+            "west germany"
+          ]
+        },
+        {
+          "answer": "Spain",
+          "display": "12 appearances"
+        },
+        {
+          "answer": "Russia",
+          "display": "12 appearances (incl. Soviet Union)",
+          "aliases": [
+            "soviet union",
+            "ussr"
+          ]
+        },
+        {
+          "answer": "Italy",
+          "display": "11 appearances"
+        },
+        {
+          "answer": "France",
+          "display": "11 appearances"
+        },
+        {
+          "answer": "Netherlands",
+          "display": "11 appearances",
+          "aliases": [
+            "holland"
+          ]
+        },
+        {
+          "answer": "Czech Republic",
+          "display": "11 appearances (incl. Czechoslovakia)",
+          "aliases": [
+            "czechoslovakia"
+          ]
+        },
+        {
+          "answer": "England",
+          "display": "11 appearances"
+        },
+        {
+          "answer": "Denmark",
+          "display": "10 appearances"
+        },
+        {
+          "answer": "Portugal",
+          "display": "9 appearances"
+        },
+        {
+          "answer": "Belgium",
+          "display": "7 appearances"
+        },
+        {
+          "answer": "Sweden",
+          "display": "7 appearances"
+        },
+        {
+          "answer": "Croatia",
+          "display": "7 appearances"
+        }
+      ]
+    },
+    {
+      "category": "sports/soccer/international/euro-copa",
+      "difficulty": 2,
+      "question": "Top 10 teams by Copa América goals scored (all editions, through 2024)",
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1378783428 | table 3 | name: Team | value: GF",
+      "tags": [
+        "soccer",
+        "international",
+        "copa america",
+        "goals"
+      ],
+      "cutoff": 10,
+      "answers": [
+        {
+          "answer": "Argentina",
+          "display": "483 goals"
+        },
+        {
+          "answer": "Brazil",
+          "display": "435 goals"
+        },
+        {
+          "answer": "Uruguay",
+          "display": "421 goals"
+        },
+        {
+          "answer": "Chile",
+          "display": "291 goals"
+        },
+        {
+          "answer": "Paraguay",
+          "display": "267 goals"
+        },
+        {
+          "answer": "Peru",
+          "display": "230 goals"
+        },
+        {
+          "answer": "Colombia",
+          "display": "154 goals"
+        },
+        {
+          "answer": "Ecuador",
+          "display": "139 goals"
+        },
+        {
+          "answer": "Bolivia",
+          "display": "109 goals"
+        },
+        {
+          "answer": "Mexico",
+          "display": "67 goals"
+        },
+        {
+          "answer": "Venezuela",
+          "display": "59 goals"
+        },
+        {
+          "answer": "United States",
+          "display": "21 goals",
+          "aliases": [
+            "usa"
+          ]
+        },
+        {
+          "answer": "Costa Rica",
+          "display": "19 goals"
+        }
+      ]
+    },
+    {
+      "category": "sports/soccer/international/womens",
+      "difficulty": 3,
+      "question": "Top 8 teams by FIFA Women's World Cup top-four finishes (through the 2023 tournament)",
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1373068730 | table 4 | name: Team | value: Top 4 total",
+      "tags": [
+        "soccer",
+        "international",
+        "women",
+        "world cup",
+        "semi-finals"
+      ],
+      "cutoff": 8,
+      "answers": [
+        {
+          "answer": "United States",
+          "display": "8 top-four finishes",
+          "aliases": [
+            "usa"
+          ]
+        },
+        {
+          "answer": "Germany",
+          "display": "5 top-four finishes"
+        },
+        {
+          "answer": "Sweden",
+          "display": "5 top-four finishes"
+        },
+        {
+          "answer": "Norway",
+          "display": "4 top-four finishes"
+        },
+        {
+          "answer": "England",
+          "display": "3 top-four finishes"
+        },
+        {
+          "answer": "Japan",
+          "display": "2 top-four finishes"
+        },
+        {
+          "answer": "Brazil",
+          "display": "2 top-four finishes"
+        },
+        {
+          "answer": "China",
+          "display": "2 top-four finishes",
+          "aliases": [
+            "china pr"
+          ]
+        },
+        {
+          "answer": "Spain",
+          "display": "1 top-four finish"
+        },
+        {
+          "answer": "Netherlands",
+          "display": "1 top-four finish",
+          "aliases": [
+            "holland"
+          ]
+        },
+        {
+          "answer": "Canada",
+          "display": "1 top-four finish"
+        },
+        {
+          "answer": "France",
+          "display": "1 top-four finish"
+        },
+        {
+          "answer": "Australia",
+          "display": "1 top-four finish"
+        }
+      ]
+    },
+    {
+      "category": "sports/soccer/international/caps-goals",
+      "difficulty": 3,
+      "question": "Top 10 most-capped European men's footballers (international caps, as of 2026)",
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1379090713 | table 2 | name: Player | value: Caps | where: Confederation=UEFA",
+      "tags": [
+        "soccer",
+        "international",
+        "caps",
+        "europe"
+      ],
+      "cutoff": 10,
+      "answers": [
+        {
+          "answer": "Cristiano Ronaldo",
+          "display": "234 caps",
+          "aliases": [
+            "ronaldo",
+            "cr7"
+          ]
+        },
+        {
+          "answer": "Luka Modrić",
+          "display": "206 caps",
+          "aliases": [
+            "modric"
+          ]
+        },
+        {
+          "answer": "Sergio Ramos",
+          "display": "180 caps",
+          "aliases": [
+            "ramos"
+          ]
+        },
+        {
+          "answer": "Gianluigi Buffon",
+          "display": "176 caps",
+          "aliases": [
+            "buffon"
+          ]
+        },
+        {
+          "answer": "Robert Lewandowski",
+          "display": "170 caps",
+          "aliases": [
+            "lewandowski"
+          ]
+        },
+        {
+          "answer": "Iker Casillas",
+          "display": "167 caps",
+          "aliases": [
+            "casillas"
+          ]
+        },
+        {
+          "answer": "Vitālijs Astafjevs",
+          "display": "166 caps",
+          "aliases": [
+            "astafjevs"
+          ]
+        },
+        {
+          "answer": "Ivan Perišić",
+          "display": "162 caps",
+          "aliases": [
+            "perisic"
+          ]
+        },
+        {
+          "answer": "Konstantin Vassiljev",
+          "display": "159 caps",
+          "aliases": [
+            "vassiljev"
+          ]
+        },
+        {
+          "answer": "Jan Vertonghen",
+          "display": "157 caps",
+          "aliases": [
+            "vertonghen"
+          ]
+        },
+        {
+          "answer": "Martin Reim",
+          "display": "156 caps"
+        },
+        {
+          "answer": "Edin Džeko",
+          "display": "152 caps",
+          "aliases": [
+            "dzeko"
+          ]
+        },
+        {
+          "answer": "Granit Xhaka",
+          "display": "152 caps",
+          "aliases": [
+            "xhaka"
+          ]
+        },
+        {
+          "answer": "Christian Eriksen",
+          "display": "151 caps",
+          "aliases": [
+            "eriksen"
+          ]
+        }
+      ]
+    }
+  ]
+}

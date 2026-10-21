@@ -1,0 +1,4643 @@
+{
+  "categories": [
+    {
+      "path": "sports/soccer/mexico/liga-mx",
+      "name": "Liga MX Seasons"
+    }
+  ],
+  "questions": [
+    {
+      "category": "sports/soccer/mexico/liga-mx",
+      "question": "Top 6 clubs in the Invierno 1996 Liga MX regular-phase table",
+      "cutoff": 6,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1359743894 | table 6 | name: Team | value: Pos | order: asc",
+      "tags": [
+        "football",
+        "liga-mx",
+        "seasons"
+      ],
+      "answers": [
+        {
+          "answer": "Atlante",
+          "display": "#1 — 38 pts",
+          "aliases": [
+            "Potros"
+          ]
+        },
+        {
+          "answer": "Santos Laguna",
+          "display": "#2 — 34 pts",
+          "aliases": [
+            "Santos"
+          ]
+        },
+        {
+          "answer": "Guadalajara",
+          "display": "#3 — 31 pts",
+          "aliases": [
+            "Chivas",
+            "C.D. Guadalajara"
+          ]
+        },
+        {
+          "answer": "Puebla",
+          "display": "#4 — 31 pts"
+        },
+        {
+          "answer": "Toluca",
+          "display": "#5 — 30 pts",
+          "aliases": [
+            "Diablos Rojos"
+          ]
+        },
+        {
+          "answer": "Necaxa",
+          "display": "#6 — 29 pts",
+          "aliases": [
+            "Rayos"
+          ]
+        },
+        {
+          "answer": "Atlas",
+          "display": "#7 — 26 pts"
+        },
+        {
+          "answer": "Toros Neza",
+          "display": "#8 — 24 pts",
+          "aliases": [
+            "Toros"
+          ]
+        },
+        {
+          "answer": "León",
+          "display": "#9 — 23 pts",
+          "aliases": [
+            "Leon"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/soccer/mexico/liga-mx",
+      "question": "Top 6 clubs in the Verano 1997 Liga MX regular-phase table",
+      "cutoff": 6,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1359743894 | table 14 | name: Team | value: Pos | order: asc",
+      "tags": [
+        "football",
+        "liga-mx",
+        "seasons"
+      ],
+      "answers": [
+        {
+          "answer": "Club América",
+          "display": "#1 — 37 pts",
+          "aliases": [
+            "América",
+            "America"
+          ]
+        },
+        {
+          "answer": "Guadalajara",
+          "display": "#2 — 34 pts",
+          "aliases": [
+            "Chivas",
+            "C.D. Guadalajara"
+          ]
+        },
+        {
+          "answer": "Toros Neza",
+          "display": "#3 — 30 pts",
+          "aliases": [
+            "Toros"
+          ]
+        },
+        {
+          "answer": "Necaxa",
+          "display": "#4 — 28 pts",
+          "aliases": [
+            "Rayos"
+          ]
+        },
+        {
+          "answer": "Atlante",
+          "display": "#5 — 28 pts",
+          "aliases": [
+            "Potros"
+          ]
+        },
+        {
+          "answer": "UNAM",
+          "display": "#6 — 27 pts",
+          "aliases": [
+            "Pumas",
+            "Pumas UNAM"
+          ]
+        },
+        {
+          "answer": "Santos Laguna",
+          "display": "#7 — 26 pts",
+          "aliases": [
+            "Santos"
+          ]
+        },
+        {
+          "answer": "Morelia",
+          "display": "#8 — 25 pts",
+          "aliases": [
+            "Monarcas",
+            "Atlético Morelia"
+          ]
+        },
+        {
+          "answer": "Cruz Azul",
+          "display": "#9 — 25 pts",
+          "aliases": [
+            "Cementeros"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/soccer/mexico/liga-mx",
+      "question": "Top 6 clubs in the Invierno 1997 Liga MX regular-phase table",
+      "cutoff": 6,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1375513284 | table 5 | name: Club | value: 1 | order: asc",
+      "tags": [
+        "football",
+        "liga-mx",
+        "seasons"
+      ],
+      "answers": [
+        {
+          "answer": "León",
+          "display": "#1 — 32 pts",
+          "aliases": [
+            "Leon"
+          ]
+        },
+        {
+          "answer": "Cruz Azul",
+          "display": "#2 — 31 pts",
+          "aliases": [
+            "Cementeros"
+          ]
+        },
+        {
+          "answer": "Atlante",
+          "display": "#3 — 30 pts",
+          "aliases": [
+            "Potros"
+          ]
+        },
+        {
+          "answer": "Club América",
+          "display": "#4 — 29 pts",
+          "aliases": [
+            "América",
+            "America"
+          ]
+        },
+        {
+          "answer": "Guadalajara",
+          "display": "#5 — 29 pts",
+          "aliases": [
+            "Chivas",
+            "C.D. Guadalajara"
+          ]
+        },
+        {
+          "answer": "Morelia",
+          "display": "#6 — 28 pts",
+          "aliases": [
+            "Monarcas",
+            "Atlético Morelia"
+          ]
+        },
+        {
+          "answer": "Atlas",
+          "display": "#7 — 23 pts"
+        },
+        {
+          "answer": "Toros Neza",
+          "display": "#8 — 23 pts",
+          "aliases": [
+            "Toros"
+          ]
+        },
+        {
+          "answer": "Monterrey",
+          "display": "#9 — 22 pts",
+          "aliases": [
+            "Rayados"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/soccer/mexico/liga-mx",
+      "question": "Top 6 clubs in the Verano 1998 Liga MX regular-phase table",
+      "cutoff": 6,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1375144052 | table 5 | name: Club | value: 1 | order: asc",
+      "tags": [
+        "football",
+        "liga-mx",
+        "seasons"
+      ],
+      "answers": [
+        {
+          "answer": "Toluca",
+          "display": "#1 — 33 pts",
+          "aliases": [
+            "Diablos Rojos"
+          ]
+        },
+        {
+          "answer": "Necaxa",
+          "display": "#2 — 32 pts",
+          "aliases": [
+            "Rayos"
+          ]
+        },
+        {
+          "answer": "Cruz Azul",
+          "display": "#3 — 30 pts",
+          "aliases": [
+            "Cementeros"
+          ]
+        },
+        {
+          "answer": "Atlas",
+          "display": "#4 — 30 pts"
+        },
+        {
+          "answer": "Estudiantes Tecos",
+          "display": "#5 — 30 pts",
+          "aliases": [
+            "Tecos",
+            "UAG"
+          ]
+        },
+        {
+          "answer": "Club América",
+          "display": "#6 — 26 pts",
+          "aliases": [
+            "América",
+            "America"
+          ]
+        },
+        {
+          "answer": "Santos Laguna",
+          "display": "#7 — 26 pts",
+          "aliases": [
+            "Santos"
+          ]
+        },
+        {
+          "answer": "Toros Neza",
+          "display": "#8 — 24 pts",
+          "aliases": [
+            "Toros"
+          ]
+        },
+        {
+          "answer": "Atlante",
+          "display": "#9 — 23 pts",
+          "aliases": [
+            "Potros"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/soccer/mexico/liga-mx",
+      "question": "Top 6 clubs in the Invierno 1998 Liga MX regular-phase table",
+      "cutoff": 6,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1359744064 | table 5 | name: Team | value: Pos | order: asc",
+      "tags": [
+        "football",
+        "liga-mx",
+        "seasons"
+      ],
+      "answers": [
+        {
+          "answer": "Cruz Azul",
+          "display": "#1 — 40 pts",
+          "aliases": [
+            "Cementeros"
+          ]
+        },
+        {
+          "answer": "Toluca",
+          "display": "#2 — 36 pts",
+          "aliases": [
+            "Diablos Rojos"
+          ]
+        },
+        {
+          "answer": "Guadalajara",
+          "display": "#3 — 34 pts",
+          "aliases": [
+            "Chivas",
+            "C.D. Guadalajara"
+          ]
+        },
+        {
+          "answer": "Necaxa",
+          "display": "#4 — 32 pts",
+          "aliases": [
+            "Rayos"
+          ]
+        },
+        {
+          "answer": "Estudiantes Tecos",
+          "display": "#5 — 31 pts",
+          "aliases": [
+            "Tecos",
+            "UAG"
+          ]
+        },
+        {
+          "answer": "Morelia",
+          "display": "#6 — 27 pts",
+          "aliases": [
+            "Monarcas",
+            "Atlético Morelia"
+          ]
+        },
+        {
+          "answer": "Atlas",
+          "display": "#7 — 26 pts"
+        },
+        {
+          "answer": "UNAM",
+          "display": "#8 — 26 pts",
+          "aliases": [
+            "Pumas",
+            "Pumas UNAM"
+          ]
+        },
+        {
+          "answer": "Tigres UANL",
+          "display": "#9 — 22 pts",
+          "aliases": [
+            "Tigres",
+            "UANL"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/soccer/mexico/liga-mx",
+      "question": "Top 6 clubs in the Verano 1999 Liga MX regular-phase table",
+      "cutoff": 6,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1359744181 | table 5 | name: Team | value: Pos | order: asc",
+      "tags": [
+        "football",
+        "liga-mx",
+        "seasons"
+      ],
+      "answers": [
+        {
+          "answer": "Toluca",
+          "display": "#1 — 39 pts",
+          "aliases": [
+            "Diablos Rojos"
+          ]
+        },
+        {
+          "answer": "Atlas",
+          "display": "#2 — 34 pts"
+        },
+        {
+          "answer": "Cruz Azul",
+          "display": "#3 — 31 pts",
+          "aliases": [
+            "Cementeros"
+          ]
+        },
+        {
+          "answer": "Club América",
+          "display": "#4 — 31 pts",
+          "aliases": [
+            "América",
+            "America"
+          ]
+        },
+        {
+          "answer": "Santos Laguna",
+          "display": "#5 — 29 pts",
+          "aliases": [
+            "Santos"
+          ]
+        },
+        {
+          "answer": "Guadalajara",
+          "display": "#6 — 26 pts",
+          "aliases": [
+            "Chivas",
+            "C.D. Guadalajara"
+          ]
+        },
+        {
+          "answer": "Morelia",
+          "display": "#7 — 25 pts",
+          "aliases": [
+            "Monarcas",
+            "Atlético Morelia"
+          ]
+        },
+        {
+          "answer": "Celaya",
+          "display": "#8 — 24 pts"
+        },
+        {
+          "answer": "Pachuca",
+          "display": "#9 — 24 pts",
+          "aliases": [
+            "Tuzos"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/soccer/mexico/liga-mx",
+      "question": "Top 6 clubs in the Invierno 1999 Liga MX regular-phase table",
+      "cutoff": 6,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1359744177 | table 5 | name: Team | value: Pos | order: asc",
+      "tags": [
+        "football",
+        "liga-mx",
+        "seasons"
+      ],
+      "answers": [
+        {
+          "answer": "Atlas",
+          "display": "#1 — 38 pts"
+        },
+        {
+          "answer": "Toluca",
+          "display": "#2 — 32 pts",
+          "aliases": [
+            "Diablos Rojos"
+          ]
+        },
+        {
+          "answer": "Necaxa",
+          "display": "#3 — 30 pts",
+          "aliases": [
+            "Rayos"
+          ]
+        },
+        {
+          "answer": "Club América",
+          "display": "#4 — 28 pts",
+          "aliases": [
+            "América",
+            "America"
+          ]
+        },
+        {
+          "answer": "Guadalajara",
+          "display": "#5 — 28 pts",
+          "aliases": [
+            "Chivas",
+            "C.D. Guadalajara"
+          ]
+        },
+        {
+          "answer": "Cruz Azul",
+          "display": "#6 — 27 pts",
+          "aliases": [
+            "Cementeros"
+          ]
+        },
+        {
+          "answer": "Pachuca",
+          "display": "#7 — 26 pts",
+          "aliases": [
+            "Tuzos"
+          ]
+        },
+        {
+          "answer": "Estudiantes Tecos",
+          "display": "#8 — 23 pts",
+          "aliases": [
+            "Tecos",
+            "UAG"
+          ]
+        },
+        {
+          "answer": "Tigres UANL",
+          "display": "#9 — 22 pts",
+          "aliases": [
+            "Tigres",
+            "UANL"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/soccer/mexico/liga-mx",
+      "question": "Top 6 clubs in the Verano 2000 Liga MX regular-phase table",
+      "cutoff": 6,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1359744296 | table 5 | name: Team | value: Pos | order: asc",
+      "tags": [
+        "football",
+        "liga-mx",
+        "seasons"
+      ],
+      "answers": [
+        {
+          "answer": "Toluca",
+          "display": "#1 — 40 pts",
+          "aliases": [
+            "Diablos Rojos"
+          ]
+        },
+        {
+          "answer": "Santos Laguna",
+          "display": "#2 — 31 pts",
+          "aliases": [
+            "Santos"
+          ]
+        },
+        {
+          "answer": "UNAM",
+          "display": "#3 — 28 pts",
+          "aliases": [
+            "Pumas",
+            "Pumas UNAM"
+          ]
+        },
+        {
+          "answer": "Guadalajara",
+          "display": "#4 — 27 pts",
+          "aliases": [
+            "Chivas",
+            "C.D. Guadalajara"
+          ]
+        },
+        {
+          "answer": "Atlas",
+          "display": "#5 — 26 pts"
+        },
+        {
+          "answer": "Necaxa",
+          "display": "#6 — 25 pts",
+          "aliases": [
+            "Rayos"
+          ]
+        },
+        {
+          "answer": "Morelia",
+          "display": "#7 — 24 pts",
+          "aliases": [
+            "Monarcas",
+            "Atlético Morelia"
+          ]
+        },
+        {
+          "answer": "Puebla",
+          "display": "#8 — 24 pts"
+        },
+        {
+          "answer": "Club América",
+          "display": "#9 — 23 pts",
+          "aliases": [
+            "América",
+            "America"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/soccer/mexico/liga-mx",
+      "question": "Top 6 clubs in the Invierno 2000 Liga MX regular-phase table",
+      "cutoff": 6,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1359744293 | table 5 | name: Team | value: Pos | order: asc",
+      "tags": [
+        "football",
+        "liga-mx",
+        "seasons"
+      ],
+      "answers": [
+        {
+          "answer": "Cruz Azul",
+          "display": "#1 — 33 pts",
+          "aliases": [
+            "Cementeros"
+          ]
+        },
+        {
+          "answer": "Toluca",
+          "display": "#2 — 30 pts",
+          "aliases": [
+            "Diablos Rojos"
+          ]
+        },
+        {
+          "answer": "Necaxa",
+          "display": "#3 — 28 pts",
+          "aliases": [
+            "Rayos"
+          ]
+        },
+        {
+          "answer": "Pachuca",
+          "display": "#4 — 28 pts",
+          "aliases": [
+            "Tuzos"
+          ]
+        },
+        {
+          "answer": "Morelia",
+          "display": "#5 — 27 pts",
+          "aliases": [
+            "Monarcas",
+            "Atlético Morelia"
+          ]
+        },
+        {
+          "answer": "Santos Laguna",
+          "display": "#6 — 26 pts",
+          "aliases": [
+            "Santos"
+          ]
+        },
+        {
+          "answer": "Club América",
+          "display": "#7 — 26 pts",
+          "aliases": [
+            "América",
+            "America"
+          ]
+        },
+        {
+          "answer": "Atlas",
+          "display": "#8 — 25 pts"
+        },
+        {
+          "answer": "Irapuato",
+          "display": "#9 — 25 pts"
+        }
+      ]
+    },
+    {
+      "category": "sports/soccer/mexico/liga-mx",
+      "question": "Top 6 clubs in the Verano 2001 Liga MX regular-phase table",
+      "cutoff": 6,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1359744458 | table 5 | name: Team | value: Pos | order: asc",
+      "tags": [
+        "football",
+        "liga-mx",
+        "seasons"
+      ],
+      "answers": [
+        {
+          "answer": "Club América",
+          "display": "#1 — 28 pts",
+          "aliases": [
+            "América",
+            "America"
+          ]
+        },
+        {
+          "answer": "Santos Laguna",
+          "display": "#2 — 28 pts",
+          "aliases": [
+            "Santos"
+          ]
+        },
+        {
+          "answer": "Monterrey",
+          "display": "#3 — 28 pts",
+          "aliases": [
+            "Rayados"
+          ]
+        },
+        {
+          "answer": "Tigres UANL",
+          "display": "#4 — 27 pts",
+          "aliases": [
+            "Tigres",
+            "UANL"
+          ]
+        },
+        {
+          "answer": "Puebla",
+          "display": "#5 — 27 pts"
+        },
+        {
+          "answer": "Pachuca",
+          "display": "#6 — 25 pts",
+          "aliases": [
+            "Tuzos"
+          ]
+        },
+        {
+          "answer": "Estudiantes Tecos",
+          "display": "#7 — 25 pts",
+          "aliases": [
+            "Tecos",
+            "UAG",
+            "U.A.G."
+          ]
+        },
+        {
+          "answer": "Atlante",
+          "display": "#8 — 23 pts",
+          "aliases": [
+            "Potros"
+          ]
+        },
+        {
+          "answer": "León",
+          "display": "#9 — 23 pts",
+          "aliases": [
+            "Leon"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/soccer/mexico/liga-mx",
+      "question": "Top 6 clubs in the Invierno 2001 Liga MX regular-phase table",
+      "cutoff": 6,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1359744456 | table 5 | name: Team | value: Pos | order: asc",
+      "tags": [
+        "football",
+        "liga-mx",
+        "seasons"
+      ],
+      "answers": [
+        {
+          "answer": "Tigres UANL",
+          "display": "#1 — 36 pts",
+          "aliases": [
+            "Tigres",
+            "UANL"
+          ]
+        },
+        {
+          "answer": "Toluca",
+          "display": "#2 — 32 pts",
+          "aliases": [
+            "Diablos Rojos"
+          ]
+        },
+        {
+          "answer": "Pachuca",
+          "display": "#3 — 32 pts",
+          "aliases": [
+            "Tuzos"
+          ]
+        },
+        {
+          "answer": "Cruz Azul",
+          "display": "#4 — 30 pts",
+          "aliases": [
+            "Cementeros"
+          ]
+        },
+        {
+          "answer": "Necaxa",
+          "display": "#5 — 27 pts",
+          "aliases": [
+            "Rayos"
+          ]
+        },
+        {
+          "answer": "Atlante",
+          "display": "#6 — 26 pts",
+          "aliases": [
+            "Potros"
+          ]
+        },
+        {
+          "answer": "Guadalajara",
+          "display": "#7 — 26 pts",
+          "aliases": [
+            "Chivas",
+            "C.D. Guadalajara"
+          ]
+        },
+        {
+          "answer": "Santos Laguna",
+          "display": "#8 — 24 pts",
+          "aliases": [
+            "Santos"
+          ]
+        },
+        {
+          "answer": "Club América",
+          "display": "#9 — 24 pts",
+          "aliases": [
+            "América",
+            "America"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/soccer/mexico/liga-mx",
+      "question": "Top 6 clubs in the Verano 2002 Liga MX regular-phase table",
+      "cutoff": 6,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1360329466 | table 5 | name: Team | value: Pos | order: asc",
+      "tags": [
+        "football",
+        "liga-mx",
+        "seasons"
+      ],
+      "answers": [
+        {
+          "answer": "La Piedad",
+          "display": "#1 — 37 pts"
+        },
+        {
+          "answer": "Toluca",
+          "display": "#2 — 35 pts",
+          "aliases": [
+            "Diablos Rojos"
+          ]
+        },
+        {
+          "answer": "UNAM",
+          "display": "#3 — 32 pts",
+          "aliases": [
+            "Pumas",
+            "Pumas UNAM"
+          ]
+        },
+        {
+          "answer": "Santos Laguna",
+          "display": "#4 — 31 pts",
+          "aliases": [
+            "Santos"
+          ]
+        },
+        {
+          "answer": "Atlas",
+          "display": "#5 — 30 pts"
+        },
+        {
+          "answer": "Morelia",
+          "display": "#6 — 29 pts",
+          "aliases": [
+            "Monarcas",
+            "Atlético Morelia"
+          ]
+        },
+        {
+          "answer": "Necaxa",
+          "display": "#7 — 27 pts",
+          "aliases": [
+            "Rayos"
+          ]
+        },
+        {
+          "answer": "Club América",
+          "display": "#8 — 27 pts",
+          "aliases": [
+            "América",
+            "America"
+          ]
+        },
+        {
+          "answer": "Cruz Azul",
+          "display": "#9 — 27 pts",
+          "aliases": [
+            "Cementeros"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/soccer/mexico/liga-mx",
+      "question": "Top 7 clubs in the Apertura 2002 Liga MX regular-phase table",
+      "cutoff": 7,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1373388787 | table 7 | name: Team | value: Pos | order: asc",
+      "tags": [
+        "football",
+        "liga-mx",
+        "seasons"
+      ],
+      "answers": [
+        {
+          "answer": "Club América",
+          "display": "#1 — 43 pts",
+          "aliases": [
+            "América",
+            "America"
+          ]
+        },
+        {
+          "answer": "Toluca",
+          "display": "#2 — 41 pts",
+          "aliases": [
+            "Diablos Rojos"
+          ]
+        },
+        {
+          "answer": "UNAM",
+          "display": "#3 — 33 pts",
+          "aliases": [
+            "Pumas",
+            "Pumas UNAM"
+          ]
+        },
+        {
+          "answer": "Morelia",
+          "display": "#4 — 32 pts",
+          "aliases": [
+            "Monarcas",
+            "Atlético Morelia"
+          ]
+        },
+        {
+          "answer": "Estudiantes Tecos",
+          "display": "#5 — 29 pts",
+          "aliases": [
+            "Tecos",
+            "UAG"
+          ]
+        },
+        {
+          "answer": "Cruz Azul",
+          "display": "#6 — 28 pts",
+          "aliases": [
+            "Cementeros"
+          ]
+        },
+        {
+          "answer": "Guadalajara",
+          "display": "#7 — 27 pts",
+          "aliases": [
+            "Chivas",
+            "C.D. Guadalajara"
+          ]
+        },
+        {
+          "answer": "Santos Laguna",
+          "display": "#8 — 26 pts",
+          "aliases": [
+            "Santos"
+          ]
+        },
+        {
+          "answer": "Necaxa",
+          "display": "#9 — 26 pts",
+          "aliases": [
+            "Rayos"
+          ]
+        },
+        {
+          "answer": "Atlante",
+          "display": "#10 — 25 pts",
+          "aliases": [
+            "Potros"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/soccer/mexico/liga-mx",
+      "question": "Top 7 clubs in the Clausura 2003 Liga MX regular-phase table",
+      "cutoff": 7,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1359744733 | table 5 | name: Team | value: Pos | order: asc",
+      "tags": [
+        "football",
+        "liga-mx",
+        "seasons"
+      ],
+      "answers": [
+        {
+          "answer": "Morelia",
+          "display": "#1 — 35 pts",
+          "aliases": [
+            "Monarcas",
+            "Atlético Morelia"
+          ]
+        },
+        {
+          "answer": "Atlante",
+          "display": "#2 — 34 pts",
+          "aliases": [
+            "Potros"
+          ]
+        },
+        {
+          "answer": "Monterrey",
+          "display": "#3 — 34 pts",
+          "aliases": [
+            "Rayados"
+          ]
+        },
+        {
+          "answer": "Tigres UANL",
+          "display": "#4 — 34 pts",
+          "aliases": [
+            "Tigres",
+            "UANL"
+          ]
+        },
+        {
+          "answer": "Toluca",
+          "display": "#5 — 33 pts",
+          "aliases": [
+            "Diablos Rojos"
+          ]
+        },
+        {
+          "answer": "Atlas",
+          "display": "#6 — 32 pts"
+        },
+        {
+          "answer": "Veracruz",
+          "display": "#7 — 32 pts",
+          "aliases": [
+            "Tiburones Rojos"
+          ]
+        },
+        {
+          "answer": "Guadalajara",
+          "display": "#8 — 31 pts",
+          "aliases": [
+            "Chivas",
+            "C.D. Guadalajara"
+          ]
+        },
+        {
+          "answer": "Santos Laguna",
+          "display": "#9 — 30 pts",
+          "aliases": [
+            "Santos"
+          ]
+        },
+        {
+          "answer": "Club América",
+          "display": "#10 — 29 pts",
+          "aliases": [
+            "América",
+            "America"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/soccer/mexico/liga-mx",
+      "question": "Top 7 clubs in the Apertura 2003 Liga MX regular-phase table",
+      "cutoff": 7,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1359744724 | table 5 | name: Team | value: Pos | order: asc",
+      "tags": [
+        "football",
+        "liga-mx",
+        "seasons"
+      ],
+      "answers": [
+        {
+          "answer": "Tigres UANL",
+          "display": "#1 — 38 pts",
+          "aliases": [
+            "Tigres",
+            "UANL"
+          ]
+        },
+        {
+          "answer": "UNAM",
+          "display": "#2 — 38 pts",
+          "aliases": [
+            "Pumas",
+            "Pumas UNAM"
+          ]
+        },
+        {
+          "answer": "Pachuca",
+          "display": "#3 — 36 pts",
+          "aliases": [
+            "Tuzos"
+          ]
+        },
+        {
+          "answer": "Santos Laguna",
+          "display": "#4 — 31 pts",
+          "aliases": [
+            "Santos"
+          ]
+        },
+        {
+          "answer": "Atlante",
+          "display": "#5 — 31 pts",
+          "aliases": [
+            "Potros"
+          ]
+        },
+        {
+          "answer": "Estudiantes Tecos",
+          "display": "#6 — 31 pts",
+          "aliases": [
+            "Tecos",
+            "UAG"
+          ]
+        },
+        {
+          "answer": "Necaxa",
+          "display": "#7 — 30 pts",
+          "aliases": [
+            "Rayos"
+          ]
+        },
+        {
+          "answer": "Guadalajara",
+          "display": "#8 — 29 pts",
+          "aliases": [
+            "Chivas",
+            "C.D. Guadalajara"
+          ]
+        },
+        {
+          "answer": "Club América",
+          "display": "#9 — 28 pts",
+          "aliases": [
+            "América",
+            "America"
+          ]
+        },
+        {
+          "answer": "Toluca",
+          "display": "#10 — 27 pts",
+          "aliases": [
+            "Diablos Rojos"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/soccer/mexico/liga-mx",
+      "question": "Top 7 clubs in the Clausura 2004 Liga MX regular-phase table",
+      "cutoff": 7,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1359744879 | table 5 | name: Team | value: Pos | order: asc",
+      "tags": [
+        "football",
+        "liga-mx",
+        "seasons"
+      ],
+      "answers": [
+        {
+          "answer": "Chiapas",
+          "display": "#1 — 42 pts",
+          "aliases": [
+            "Jaguares"
+          ]
+        },
+        {
+          "answer": "UNAM",
+          "display": "#2 — 41 pts",
+          "aliases": [
+            "Pumas",
+            "Pumas UNAM"
+          ]
+        },
+        {
+          "answer": "Guadalajara",
+          "display": "#3 — 34 pts",
+          "aliases": [
+            "Chivas",
+            "C.D. Guadalajara"
+          ]
+        },
+        {
+          "answer": "Club América",
+          "display": "#4 — 32 pts",
+          "aliases": [
+            "América",
+            "America"
+          ]
+        },
+        {
+          "answer": "Toluca",
+          "display": "#5 — 30 pts",
+          "aliases": [
+            "Diablos Rojos"
+          ]
+        },
+        {
+          "answer": "Atlante",
+          "display": "#6 — 27 pts",
+          "aliases": [
+            "Potros"
+          ]
+        },
+        {
+          "answer": "Atlas",
+          "display": "#7 — 27 pts"
+        },
+        {
+          "answer": "Pachuca",
+          "display": "#8 — 26 pts",
+          "aliases": [
+            "Tuzos"
+          ]
+        },
+        {
+          "answer": "Irapuato",
+          "display": "#9 — 26 pts"
+        },
+        {
+          "answer": "Querétaro",
+          "display": "#10 — 24 pts",
+          "aliases": [
+            "Queretaro",
+            "Gallos Blancos"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/soccer/mexico/liga-mx",
+      "question": "Top 6 clubs in the Apertura 2004 Liga MX regular-phase table",
+      "cutoff": 6,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1359744871 | table 4 | name: Team | value: Pos | order: asc",
+      "tags": [
+        "football",
+        "liga-mx",
+        "seasons"
+      ],
+      "answers": [
+        {
+          "answer": "Veracruz",
+          "display": "#1 — 35 pts",
+          "aliases": [
+            "Tiburones Rojos"
+          ]
+        },
+        {
+          "answer": "Toluca",
+          "display": "#2 — 32 pts",
+          "aliases": [
+            "Diablos Rojos"
+          ]
+        },
+        {
+          "answer": "Pachuca",
+          "display": "#3 — 32 pts",
+          "aliases": [
+            "Tuzos"
+          ]
+        },
+        {
+          "answer": "Atlas",
+          "display": "#4 — 31 pts"
+        },
+        {
+          "answer": "Guadalajara",
+          "display": "#5 — 29 pts",
+          "aliases": [
+            "Chivas",
+            "C.D. Guadalajara"
+          ]
+        },
+        {
+          "answer": "Monterrey",
+          "display": "#6 — 27 pts",
+          "aliases": [
+            "Rayados"
+          ]
+        },
+        {
+          "answer": "Atlante",
+          "display": "#7 — 24 pts",
+          "aliases": [
+            "Potros"
+          ]
+        },
+        {
+          "answer": "Tigres UANL",
+          "display": "#8 — 23 pts",
+          "aliases": [
+            "Tigres",
+            "UANL"
+          ]
+        },
+        {
+          "answer": "UNAM",
+          "display": "#9 — 23 pts",
+          "aliases": [
+            "Pumas",
+            "Pumas UNAM"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/soccer/mexico/liga-mx",
+      "question": "Top 6 clubs in the Clausura 2005 Liga MX regular-phase table",
+      "cutoff": 6,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1365315790 | table 4 | name: Team | value: Pos | order: asc",
+      "tags": [
+        "football",
+        "liga-mx",
+        "seasons"
+      ],
+      "answers": [
+        {
+          "answer": "Morelia",
+          "display": "#1 — 35 pts",
+          "aliases": [
+            "Monarcas",
+            "Atlético Morelia"
+          ]
+        },
+        {
+          "answer": "Cruz Azul",
+          "display": "#2 — 31 pts",
+          "aliases": [
+            "Cementeros"
+          ]
+        },
+        {
+          "answer": "Club América",
+          "display": "#3 — 30 pts",
+          "aliases": [
+            "América",
+            "America"
+          ]
+        },
+        {
+          "answer": "Estudiantes Tecos",
+          "display": "#4 — 29 pts",
+          "aliases": [
+            "Tecos",
+            "UAG"
+          ]
+        },
+        {
+          "answer": "Necaxa",
+          "display": "#5 — 28 pts",
+          "aliases": [
+            "Rayos"
+          ]
+        },
+        {
+          "answer": "Santos Laguna",
+          "display": "#6 — 28 pts",
+          "aliases": [
+            "Santos"
+          ]
+        },
+        {
+          "answer": "Monterrey",
+          "display": "#7 — 27 pts",
+          "aliases": [
+            "Rayados"
+          ]
+        },
+        {
+          "answer": "Sinaloa",
+          "display": "#8 — 26 pts",
+          "aliases": [
+            "Dorados",
+            "Dorados de Sinaloa"
+          ]
+        },
+        {
+          "answer": "Tigres UANL",
+          "display": "#9 — 24 pts",
+          "aliases": [
+            "Tigres",
+            "UANL"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/soccer/mexico/liga-mx",
+      "question": "Top 6 clubs in the Apertura 2005 Liga MX regular-phase table",
+      "cutoff": 6,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1359745011 | table 4 | name: Team | value: Pos | order: asc",
+      "tags": [
+        "football",
+        "liga-mx",
+        "seasons"
+      ],
+      "answers": [
+        {
+          "answer": "Club América",
+          "display": "#1 — 38 pts",
+          "aliases": [
+            "América",
+            "America"
+          ]
+        },
+        {
+          "answer": "Monterrey",
+          "display": "#2 — 35 pts",
+          "aliases": [
+            "Rayados"
+          ]
+        },
+        {
+          "answer": "Necaxa",
+          "display": "#3 — 31 pts",
+          "aliases": [
+            "Rayos"
+          ]
+        },
+        {
+          "answer": "Cruz Azul",
+          "display": "#4 — 30 pts",
+          "aliases": [
+            "Cementeros"
+          ]
+        },
+        {
+          "answer": "Toluca",
+          "display": "#5 — 30 pts",
+          "aliases": [
+            "Diablos Rojos"
+          ]
+        },
+        {
+          "answer": "Pachuca",
+          "display": "#6 — 28 pts",
+          "aliases": [
+            "Tuzos"
+          ]
+        },
+        {
+          "answer": "Estudiantes Tecos",
+          "display": "#7 — 24 pts",
+          "aliases": [
+            "Tecos",
+            "UAG"
+          ]
+        },
+        {
+          "answer": "Tigres UANL",
+          "display": "#8 — 22 pts",
+          "aliases": [
+            "Tigres",
+            "UANL"
+          ]
+        },
+        {
+          "answer": "Atlas",
+          "display": "#9 — 21 pts"
+        }
+      ]
+    },
+    {
+      "category": "sports/soccer/mexico/liga-mx",
+      "question": "Top 6 clubs in the Clausura 2006 Liga MX regular-phase table",
+      "cutoff": 6,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1359745140 | table 4 | name: Team | value: Pos | order: asc",
+      "tags": [
+        "football",
+        "liga-mx",
+        "seasons"
+      ],
+      "answers": [
+        {
+          "answer": "Pachuca",
+          "display": "#1 — 31 pts",
+          "aliases": [
+            "Tuzos"
+          ]
+        },
+        {
+          "answer": "Chiapas",
+          "display": "#2 — 30 pts",
+          "aliases": [
+            "Jaguares"
+          ]
+        },
+        {
+          "answer": "Cruz Azul",
+          "display": "#3 — 30 pts",
+          "aliases": [
+            "Cementeros"
+          ]
+        },
+        {
+          "answer": "Atlante",
+          "display": "#4 — 27 pts",
+          "aliases": [
+            "Potros"
+          ]
+        },
+        {
+          "answer": "Atlético San Luis",
+          "display": "#5 — 25 pts",
+          "aliases": [
+            "San Luis"
+          ]
+        },
+        {
+          "answer": "Toluca",
+          "display": "#6 — 24 pts",
+          "aliases": [
+            "Diablos Rojos"
+          ]
+        },
+        {
+          "answer": "Guadalajara",
+          "display": "#7 — 23 pts",
+          "aliases": [
+            "Chivas",
+            "C.D. Guadalajara"
+          ]
+        },
+        {
+          "answer": "Sinaloa",
+          "display": "#8 — 22 pts",
+          "aliases": [
+            "Dorados",
+            "Dorados de Sinaloa"
+          ]
+        },
+        {
+          "answer": "Morelia",
+          "display": "#9 — 22 pts",
+          "aliases": [
+            "Monarcas",
+            "Atlético Morelia"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/soccer/mexico/liga-mx",
+      "question": "Top 6 clubs in the Apertura 2006 Liga MX regular-phase table",
+      "cutoff": 6,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1359745147 | table 4 | name: Team | value: Pos | order: asc",
+      "tags": [
+        "football",
+        "liga-mx",
+        "seasons"
+      ],
+      "answers": [
+        {
+          "answer": "Cruz Azul",
+          "display": "#1 — 30 pts",
+          "aliases": [
+            "Cementeros"
+          ]
+        },
+        {
+          "answer": "UNAM",
+          "display": "#2 — 29 pts",
+          "aliases": [
+            "Pumas",
+            "Pumas UNAM"
+          ]
+        },
+        {
+          "answer": "Club América",
+          "display": "#3 — 29 pts",
+          "aliases": [
+            "América",
+            "America"
+          ]
+        },
+        {
+          "answer": "Toluca",
+          "display": "#4 — 27 pts",
+          "aliases": [
+            "Diablos Rojos"
+          ]
+        },
+        {
+          "answer": "Monterrey",
+          "display": "#5 — 27 pts",
+          "aliases": [
+            "Rayados"
+          ]
+        },
+        {
+          "answer": "Atlas",
+          "display": "#6 — 27 pts"
+        },
+        {
+          "answer": "Pachuca",
+          "display": "#7 — 26 pts",
+          "aliases": [
+            "Tuzos"
+          ]
+        },
+        {
+          "answer": "Guadalajara",
+          "display": "#8 — 26 pts",
+          "aliases": [
+            "Chivas",
+            "C.D. Guadalajara"
+          ]
+        },
+        {
+          "answer": "Veracruz",
+          "display": "#9 — 26 pts",
+          "aliases": [
+            "Tiburones Rojos"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/soccer/mexico/liga-mx",
+      "question": "Top 6 clubs in the Clausura 2007 Liga MX regular-phase table",
+      "cutoff": 6,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1359745292 | table 4 | name: Team | value: Pos | order: asc",
+      "tags": [
+        "football",
+        "liga-mx",
+        "seasons"
+      ],
+      "answers": [
+        {
+          "answer": "Pachuca",
+          "display": "#1 — 39 pts",
+          "aliases": [
+            "Tuzos"
+          ]
+        },
+        {
+          "answer": "Guadalajara",
+          "display": "#2 — 31 pts",
+          "aliases": [
+            "Chivas",
+            "C.D. Guadalajara"
+          ]
+        },
+        {
+          "answer": "Club América",
+          "display": "#3 — 30 pts",
+          "aliases": [
+            "América",
+            "America"
+          ]
+        },
+        {
+          "answer": "Cruz Azul",
+          "display": "#4 — 28 pts",
+          "aliases": [
+            "Cementeros"
+          ]
+        },
+        {
+          "answer": "Estudiantes Tecos",
+          "display": "#5 — 25 pts",
+          "aliases": [
+            "Tecos",
+            "UAG"
+          ]
+        },
+        {
+          "answer": "Atlas",
+          "display": "#6 — 25 pts"
+        },
+        {
+          "answer": "Atlético San Luis",
+          "display": "#7 — 24 pts",
+          "aliases": [
+            "San Luis"
+          ]
+        },
+        {
+          "answer": "Tigres UANL",
+          "display": "#8 — 23 pts",
+          "aliases": [
+            "Tigres",
+            "UANL"
+          ]
+        },
+        {
+          "answer": "Santos Laguna",
+          "display": "#9 — 22 pts",
+          "aliases": [
+            "Santos"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/soccer/mexico/liga-mx",
+      "question": "Top 6 clubs in the Apertura 2007 Liga MX regular-phase table",
+      "cutoff": 6,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1359745289 | table 4 | name: Team | value: Pos | order: asc",
+      "tags": [
+        "football",
+        "liga-mx",
+        "seasons"
+      ],
+      "answers": [
+        {
+          "answer": "Santos Laguna",
+          "display": "#1 — 38 pts",
+          "aliases": [
+            "Santos"
+          ]
+        },
+        {
+          "answer": "Toluca",
+          "display": "#2 — 34 pts",
+          "aliases": [
+            "Diablos Rojos"
+          ]
+        },
+        {
+          "answer": "Atlante",
+          "display": "#3 — 33 pts",
+          "aliases": [
+            "Potros"
+          ]
+        },
+        {
+          "answer": "Guadalajara",
+          "display": "#4 — 31 pts",
+          "aliases": [
+            "Chivas",
+            "C.D. Guadalajara"
+          ]
+        },
+        {
+          "answer": "Atlético San Luis",
+          "display": "#5 — 29 pts",
+          "aliases": [
+            "San Luis"
+          ]
+        },
+        {
+          "answer": "Club América",
+          "display": "#6 — 26 pts",
+          "aliases": [
+            "América",
+            "America"
+          ]
+        },
+        {
+          "answer": "Cruz Azul",
+          "display": "#7 — 25 pts",
+          "aliases": [
+            "Cementeros"
+          ]
+        },
+        {
+          "answer": "UNAM",
+          "display": "#8 — 24 pts",
+          "aliases": [
+            "Pumas",
+            "Pumas UNAM"
+          ]
+        },
+        {
+          "answer": "Pachuca",
+          "display": "#9 — 24 pts",
+          "aliases": [
+            "Tuzos"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/soccer/mexico/liga-mx",
+      "question": "Top 6 clubs in the Clausura 2008 Liga MX regular-phase table",
+      "cutoff": 6,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1359745439 | table 4 | name: Team | value: Pos | order: asc",
+      "tags": [
+        "football",
+        "liga-mx",
+        "seasons"
+      ],
+      "answers": [
+        {
+          "answer": "Guadalajara",
+          "display": "#1 — 33 pts",
+          "aliases": [
+            "Chivas",
+            "C.D. Guadalajara"
+          ]
+        },
+        {
+          "answer": "Santos Laguna",
+          "display": "#2 — 31 pts",
+          "aliases": [
+            "Santos"
+          ]
+        },
+        {
+          "answer": "Cruz Azul",
+          "display": "#3 — 31 pts",
+          "aliases": [
+            "Cementeros"
+          ]
+        },
+        {
+          "answer": "Atlético San Luis",
+          "display": "#4 — 30 pts",
+          "aliases": [
+            "San Luis"
+          ]
+        },
+        {
+          "answer": "Toluca",
+          "display": "#5 — 27 pts",
+          "aliases": [
+            "Diablos Rojos"
+          ]
+        },
+        {
+          "answer": "Chiapas",
+          "display": "#6 — 26 pts",
+          "aliases": [
+            "Jaguares"
+          ]
+        },
+        {
+          "answer": "Necaxa",
+          "display": "#7 — 24 pts",
+          "aliases": [
+            "Rayos"
+          ]
+        },
+        {
+          "answer": "Monterrey",
+          "display": "#8 — 24 pts",
+          "aliases": [
+            "Rayados"
+          ]
+        },
+        {
+          "answer": "Atlas",
+          "display": "#9 — 23 pts"
+        }
+      ]
+    },
+    {
+      "category": "sports/soccer/mexico/liga-mx",
+      "question": "Top 6 clubs in the Apertura 2008 Liga MX regular-phase table",
+      "cutoff": 6,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1359745436 | table 3 | name: Team | value: Pos | order: asc",
+      "tags": [
+        "football",
+        "liga-mx",
+        "seasons"
+      ],
+      "answers": [
+        {
+          "answer": "Atlético San Luis",
+          "display": "#1 — 29 pts",
+          "aliases": [
+            "San Luis"
+          ]
+        },
+        {
+          "answer": "Toluca",
+          "display": "#2 — 27 pts",
+          "aliases": [
+            "Diablos Rojos"
+          ]
+        },
+        {
+          "answer": "Atlante",
+          "display": "#3 — 27 pts",
+          "aliases": [
+            "Potros"
+          ]
+        },
+        {
+          "answer": "UNAM",
+          "display": "#4 — 26 pts",
+          "aliases": [
+            "Pumas",
+            "Pumas UNAM"
+          ]
+        },
+        {
+          "answer": "Cruz Azul",
+          "display": "#5 — 26 pts",
+          "aliases": [
+            "Cementeros"
+          ]
+        },
+        {
+          "answer": "Tigres UANL",
+          "display": "#6 — 26 pts",
+          "aliases": [
+            "Tigres",
+            "UANL"
+          ]
+        },
+        {
+          "answer": "Estudiantes Tecos",
+          "display": "#7 — 25 pts",
+          "aliases": [
+            "Tecos",
+            "UAG"
+          ]
+        },
+        {
+          "answer": "Guadalajara",
+          "display": "#8 — 25 pts",
+          "aliases": [
+            "Chivas",
+            "C.D. Guadalajara"
+          ]
+        },
+        {
+          "answer": "Morelia",
+          "display": "#9 — 24 pts",
+          "aliases": [
+            "Monarcas",
+            "Atlético Morelia"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/soccer/mexico/liga-mx",
+      "question": "Top 6 clubs in the Clausura 2009 Liga MX regular-phase table",
+      "cutoff": 6,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1359745576 | table 4 | name: Team | value: Pos | order: asc",
+      "tags": [
+        "football",
+        "liga-mx",
+        "seasons"
+      ],
+      "answers": [
+        {
+          "answer": "Pachuca",
+          "display": "#1 — 36 pts",
+          "aliases": [
+            "Tuzos"
+          ]
+        },
+        {
+          "answer": "Toluca",
+          "display": "#2 — 36 pts",
+          "aliases": [
+            "Diablos Rojos"
+          ]
+        },
+        {
+          "answer": "UNAM",
+          "display": "#3 — 28 pts",
+          "aliases": [
+            "Pumas",
+            "Pumas UNAM"
+          ]
+        },
+        {
+          "answer": "Monterrey",
+          "display": "#4 — 26 pts",
+          "aliases": [
+            "Rayados"
+          ]
+        },
+        {
+          "answer": "Puebla",
+          "display": "#5 — 26 pts"
+        },
+        {
+          "answer": "Estudiantes Tecos",
+          "display": "#6 — 25 pts",
+          "aliases": [
+            "Tecos",
+            "UAG"
+          ]
+        },
+        {
+          "answer": "Ciudad Juárez",
+          "display": "#7 — 23 pts",
+          "aliases": [
+            "Indios"
+          ]
+        },
+        {
+          "answer": "Club América",
+          "display": "#8 — 23 pts",
+          "aliases": [
+            "América",
+            "America"
+          ]
+        },
+        {
+          "answer": "Santos Laguna",
+          "display": "#9 — 22 pts",
+          "aliases": [
+            "Santos"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/soccer/mexico/liga-mx",
+      "question": "Top 6 clubs in the Apertura 2009 Liga MX regular-phase table",
+      "cutoff": 6,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1369836779 | table 3 | name: Team | value: Pos | order: asc",
+      "tags": [
+        "football",
+        "liga-mx",
+        "seasons"
+      ],
+      "answers": [
+        {
+          "answer": "Toluca",
+          "display": "#1 — 35 pts",
+          "aliases": [
+            "Diablos Rojos"
+          ]
+        },
+        {
+          "answer": "Cruz Azul",
+          "display": "#2 — 33 pts",
+          "aliases": [
+            "Cementeros"
+          ]
+        },
+        {
+          "answer": "Morelia",
+          "display": "#3 — 33 pts",
+          "aliases": [
+            "Monarcas",
+            "Atlético Morelia"
+          ]
+        },
+        {
+          "answer": "Club América",
+          "display": "#4 — 30 pts",
+          "aliases": [
+            "América",
+            "America"
+          ]
+        },
+        {
+          "answer": "Monterrey",
+          "display": "#5 — 30 pts",
+          "aliases": [
+            "Rayados"
+          ]
+        },
+        {
+          "answer": "Santos Laguna",
+          "display": "#6 — 27 pts",
+          "aliases": [
+            "Santos"
+          ]
+        },
+        {
+          "answer": "Puebla",
+          "display": "#7 — 26 pts"
+        },
+        {
+          "answer": "Pachuca",
+          "display": "#8 — 24 pts",
+          "aliases": [
+            "Tuzos"
+          ]
+        },
+        {
+          "answer": "Atlante",
+          "display": "#9 — 23 pts",
+          "aliases": [
+            "Potros"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/soccer/mexico/liga-mx",
+      "question": "Top 6 clubs in the Bicentenario 2010 Liga MX regular-phase table",
+      "cutoff": 6,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1369836779 | table 10 | name: Team | value: Pos | order: asc",
+      "tags": [
+        "football",
+        "liga-mx",
+        "seasons"
+      ],
+      "answers": [
+        {
+          "answer": "Monterrey",
+          "display": "#1 — 36 pts",
+          "aliases": [
+            "Rayados"
+          ]
+        },
+        {
+          "answer": "Guadalajara",
+          "display": "#2 — 32 pts",
+          "aliases": [
+            "Chivas",
+            "C.D. Guadalajara"
+          ]
+        },
+        {
+          "answer": "Toluca",
+          "display": "#3 — 30 pts",
+          "aliases": [
+            "Diablos Rojos"
+          ]
+        },
+        {
+          "answer": "UNAM",
+          "display": "#4 — 28 pts",
+          "aliases": [
+            "Pumas",
+            "Pumas UNAM"
+          ]
+        },
+        {
+          "answer": "Santos Laguna",
+          "display": "#5 — 28 pts",
+          "aliases": [
+            "Santos"
+          ]
+        },
+        {
+          "answer": "Club América",
+          "display": "#6 — 25 pts",
+          "aliases": [
+            "América",
+            "America"
+          ]
+        },
+        {
+          "answer": "Morelia",
+          "display": "#7 — 25 pts",
+          "aliases": [
+            "Monarcas",
+            "Atlético Morelia"
+          ]
+        },
+        {
+          "answer": "Pachuca",
+          "display": "#8 — 25 pts",
+          "aliases": [
+            "Tuzos"
+          ]
+        },
+        {
+          "answer": "Cruz Azul",
+          "display": "#9 — 25 pts",
+          "aliases": [
+            "Cementeros"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/soccer/mexico/liga-mx",
+      "question": "Top 6 clubs in the Apertura 2010 Liga MX regular-phase table",
+      "cutoff": 6,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1377838093 | table 3 | name: Team | value: Pos | order: asc",
+      "tags": [
+        "football",
+        "liga-mx",
+        "seasons"
+      ],
+      "answers": [
+        {
+          "answer": "Cruz Azul",
+          "display": "#1 — 39 pts",
+          "aliases": [
+            "Cementeros"
+          ]
+        },
+        {
+          "answer": "Monterrey",
+          "display": "#2 — 32 pts",
+          "aliases": [
+            "Rayados"
+          ]
+        },
+        {
+          "answer": "Santos Laguna",
+          "display": "#3 — 30 pts",
+          "aliases": [
+            "Santos"
+          ]
+        },
+        {
+          "answer": "Club América",
+          "display": "#4 — 27 pts",
+          "aliases": [
+            "América",
+            "America"
+          ]
+        },
+        {
+          "answer": "Atlético San Luis",
+          "display": "#5 — 26 pts",
+          "aliases": [
+            "San Luis"
+          ]
+        },
+        {
+          "answer": "Chiapas",
+          "display": "#6 — 25 pts",
+          "aliases": [
+            "Jaguares"
+          ]
+        },
+        {
+          "answer": "Pachuca",
+          "display": "#7 — 25 pts",
+          "aliases": [
+            "Tuzos"
+          ]
+        },
+        {
+          "answer": "UNAM",
+          "display": "#8 — 25 pts",
+          "aliases": [
+            "Pumas",
+            "Pumas UNAM"
+          ]
+        },
+        {
+          "answer": "Tigres UANL",
+          "display": "#9 — 24 pts",
+          "aliases": [
+            "Tigres",
+            "UANL"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/soccer/mexico/liga-mx",
+      "question": "Top 6 clubs in the Clausura 2011 Liga MX regular-phase table",
+      "cutoff": 6,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1377838093 | table 10 | name: Team | value: Pos | order: asc",
+      "tags": [
+        "football",
+        "liga-mx",
+        "seasons"
+      ],
+      "answers": [
+        {
+          "answer": "Tigres UANL",
+          "display": "#1 — 35 pts",
+          "aliases": [
+            "Tigres",
+            "UANL"
+          ]
+        },
+        {
+          "answer": "UNAM",
+          "display": "#2 — 35 pts",
+          "aliases": [
+            "Pumas",
+            "Pumas UNAM"
+          ]
+        },
+        {
+          "answer": "Morelia",
+          "display": "#3 — 31 pts",
+          "aliases": [
+            "Monarcas",
+            "Atlético Morelia"
+          ]
+        },
+        {
+          "answer": "Atlante",
+          "display": "#4 — 27 pts",
+          "aliases": [
+            "Potros"
+          ]
+        },
+        {
+          "answer": "Cruz Azul",
+          "display": "#5 — 26 pts",
+          "aliases": [
+            "Cementeros"
+          ]
+        },
+        {
+          "answer": "Club América",
+          "display": "#6 — 26 pts",
+          "aliases": [
+            "América",
+            "America"
+          ]
+        },
+        {
+          "answer": "Monterrey",
+          "display": "#7 — 26 pts",
+          "aliases": [
+            "Rayados"
+          ]
+        },
+        {
+          "answer": "Guadalajara",
+          "display": "#8 — 25 pts",
+          "aliases": [
+            "Chivas",
+            "C.D. Guadalajara"
+          ]
+        },
+        {
+          "answer": "Santos Laguna",
+          "display": "#9 — 23 pts",
+          "aliases": [
+            "Santos"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/soccer/mexico/liga-mx",
+      "question": "Top 6 clubs in the Apertura 2011 Liga MX regular-phase table",
+      "cutoff": 6,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1359746011 | table 4 | name: Team | value: Pos | order: asc",
+      "tags": [
+        "football",
+        "liga-mx",
+        "seasons"
+      ],
+      "answers": [
+        {
+          "answer": "Guadalajara",
+          "display": "#1 — 30 pts",
+          "aliases": [
+            "Chivas",
+            "C.D. Guadalajara"
+          ]
+        },
+        {
+          "answer": "Cruz Azul",
+          "display": "#2 — 29 pts",
+          "aliases": [
+            "Cementeros"
+          ]
+        },
+        {
+          "answer": "Tigres UANL",
+          "display": "#3 — 28 pts",
+          "aliases": [
+            "Tigres",
+            "UANL"
+          ]
+        },
+        {
+          "answer": "Santos Laguna",
+          "display": "#4 — 27 pts",
+          "aliases": [
+            "Santos"
+          ]
+        },
+        {
+          "answer": "Chiapas",
+          "display": "#5 — 26 pts",
+          "aliases": [
+            "Jaguares"
+          ]
+        },
+        {
+          "answer": "Pachuca",
+          "display": "#6 — 26 pts",
+          "aliases": [
+            "Tuzos"
+          ]
+        },
+        {
+          "answer": "Morelia",
+          "display": "#7 — 26 pts",
+          "aliases": [
+            "Monarcas",
+            "Atlético Morelia"
+          ]
+        },
+        {
+          "answer": "Querétaro",
+          "display": "#8 — 26 pts",
+          "aliases": [
+            "Queretaro",
+            "Gallos Blancos"
+          ]
+        },
+        {
+          "answer": "UNAM",
+          "display": "#9 — 25 pts",
+          "aliases": [
+            "Pumas",
+            "Pumas UNAM"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/soccer/mexico/liga-mx",
+      "question": "Top 6 clubs in the Clausura 2012 Liga MX regular-phase table",
+      "cutoff": 6,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1359746011 | table 9 | name: Team | value: Pos | order: asc",
+      "tags": [
+        "football",
+        "liga-mx",
+        "seasons"
+      ],
+      "answers": [
+        {
+          "answer": "Santos Laguna",
+          "display": "#1 — 36 pts",
+          "aliases": [
+            "Santos"
+          ]
+        },
+        {
+          "answer": "Monterrey",
+          "display": "#2 — 32 pts",
+          "aliases": [
+            "Rayados"
+          ]
+        },
+        {
+          "answer": "Club América",
+          "display": "#3 — 32 pts",
+          "aliases": [
+            "América",
+            "America"
+          ]
+        },
+        {
+          "answer": "Morelia",
+          "display": "#4 — 31 pts",
+          "aliases": [
+            "Monarcas",
+            "Atlético Morelia"
+          ]
+        },
+        {
+          "answer": "Tigres UANL",
+          "display": "#5 — 31 pts",
+          "aliases": [
+            "Tigres",
+            "UANL"
+          ]
+        },
+        {
+          "answer": "Pachuca",
+          "display": "#6 — 28 pts",
+          "aliases": [
+            "Tuzos"
+          ]
+        },
+        {
+          "answer": "Tijuana",
+          "display": "#7 — 28 pts",
+          "aliases": [
+            "Xolos"
+          ]
+        },
+        {
+          "answer": "Chiapas",
+          "display": "#8 — 27 pts",
+          "aliases": [
+            "Jaguares"
+          ]
+        },
+        {
+          "answer": "Cruz Azul",
+          "display": "#9 — 25 pts",
+          "aliases": [
+            "Cementeros"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/soccer/mexico/liga-mx",
+      "question": "Top 6 clubs in the Apertura 2012 Liga MX regular-phase table",
+      "cutoff": 6,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1359746151 | table 4 | name: Team | value: Pos | order: asc",
+      "tags": [
+        "football",
+        "liga-mx",
+        "seasons"
+      ],
+      "answers": [
+        {
+          "answer": "Toluca",
+          "display": "#1 — 34 pts",
+          "aliases": [
+            "Diablos Rojos"
+          ]
+        },
+        {
+          "answer": "Tijuana",
+          "display": "#2 — 34 pts",
+          "aliases": [
+            "Xolos"
+          ]
+        },
+        {
+          "answer": "León",
+          "display": "#3 — 33 pts",
+          "aliases": [
+            "Leon"
+          ]
+        },
+        {
+          "answer": "Club América",
+          "display": "#4 — 31 pts",
+          "aliases": [
+            "América",
+            "America"
+          ]
+        },
+        {
+          "answer": "Morelia",
+          "display": "#5 — 27 pts",
+          "aliases": [
+            "Monarcas",
+            "Atlético Morelia"
+          ]
+        },
+        {
+          "answer": "Cruz Azul",
+          "display": "#6 — 26 pts",
+          "aliases": [
+            "Cementeros"
+          ]
+        },
+        {
+          "answer": "Monterrey",
+          "display": "#7 — 23 pts",
+          "aliases": [
+            "Rayados"
+          ]
+        },
+        {
+          "answer": "Guadalajara",
+          "display": "#8 — 23 pts",
+          "aliases": [
+            "Chivas",
+            "C.D. Guadalajara"
+          ]
+        },
+        {
+          "answer": "Santos Laguna",
+          "display": "#9 — 23 pts",
+          "aliases": [
+            "Santos"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/soccer/mexico/liga-mx",
+      "question": "Top 6 clubs in the Clausura 2013 Liga MX regular-phase table",
+      "cutoff": 6,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1359746151 | table 11 | name: Team | value: Pos | order: asc",
+      "tags": [
+        "football",
+        "liga-mx",
+        "seasons"
+      ],
+      "answers": [
+        {
+          "answer": "Tigres UANL",
+          "display": "#1 — 35 pts",
+          "aliases": [
+            "Tigres",
+            "UANL"
+          ]
+        },
+        {
+          "answer": "Club América",
+          "display": "#2 — 32 pts",
+          "aliases": [
+            "América",
+            "America"
+          ]
+        },
+        {
+          "answer": "Atlas",
+          "display": "#3 — 32 pts"
+        },
+        {
+          "answer": "Morelia",
+          "display": "#4 — 30 pts",
+          "aliases": [
+            "Monarcas",
+            "Atlético Morelia"
+          ]
+        },
+        {
+          "answer": "Cruz Azul",
+          "display": "#5 — 29 pts",
+          "aliases": [
+            "Cementeros"
+          ]
+        },
+        {
+          "answer": "Santos Laguna",
+          "display": "#6 — 29 pts",
+          "aliases": [
+            "Santos"
+          ]
+        },
+        {
+          "answer": "UNAM",
+          "display": "#7 — 29 pts",
+          "aliases": [
+            "Pumas",
+            "Pumas UNAM"
+          ]
+        },
+        {
+          "answer": "Querétaro",
+          "display": "#8 — 24 pts",
+          "aliases": [
+            "Queretaro",
+            "Gallos Blancos"
+          ]
+        },
+        {
+          "answer": "Monterrey",
+          "display": "#9 — 23 pts",
+          "aliases": [
+            "Rayados"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/soccer/mexico/liga-mx",
+      "question": "Top 6 clubs in the Apertura 2013 Liga MX regular-phase table",
+      "cutoff": 6,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1369167278 | table 4 | name: Team | value: Pos | order: asc",
+      "tags": [
+        "football",
+        "liga-mx",
+        "seasons"
+      ],
+      "answers": [
+        {
+          "answer": "Club América",
+          "display": "#1 — 37 pts",
+          "aliases": [
+            "América",
+            "America"
+          ]
+        },
+        {
+          "answer": "Santos Laguna",
+          "display": "#2 — 33 pts",
+          "aliases": [
+            "Santos"
+          ]
+        },
+        {
+          "answer": "León",
+          "display": "#3 — 30 pts",
+          "aliases": [
+            "Leon"
+          ]
+        },
+        {
+          "answer": "Cruz Azul",
+          "display": "#4 — 29 pts",
+          "aliases": [
+            "Cementeros"
+          ]
+        },
+        {
+          "answer": "Toluca",
+          "display": "#5 — 27 pts",
+          "aliases": [
+            "Diablos Rojos"
+          ]
+        },
+        {
+          "answer": "Morelia",
+          "display": "#6 — 27 pts",
+          "aliases": [
+            "Monarcas",
+            "Atlético Morelia"
+          ]
+        },
+        {
+          "answer": "Querétaro",
+          "display": "#7 — 26 pts",
+          "aliases": [
+            "Queretaro",
+            "Gallos Blancos"
+          ]
+        },
+        {
+          "answer": "Tigres UANL",
+          "display": "#8 — 25 pts",
+          "aliases": [
+            "Tigres",
+            "UANL"
+          ]
+        },
+        {
+          "answer": "Chiapas",
+          "display": "#9 — 25 pts",
+          "aliases": [
+            "Jaguares"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/soccer/mexico/liga-mx",
+      "question": "Top 6 clubs in the Clausura 2014 Liga MX regular-phase table",
+      "cutoff": 6,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1369167278 | table 11 | name: Team | value: Pos | order: asc",
+      "tags": [
+        "football",
+        "liga-mx",
+        "seasons"
+      ],
+      "answers": [
+        {
+          "answer": "Cruz Azul",
+          "display": "#1 — 36 pts",
+          "aliases": [
+            "Cementeros"
+          ]
+        },
+        {
+          "answer": "Toluca",
+          "display": "#2 — 32 pts",
+          "aliases": [
+            "Diablos Rojos"
+          ]
+        },
+        {
+          "answer": "UNAM",
+          "display": "#3 — 25 pts",
+          "aliases": [
+            "Pumas",
+            "Pumas UNAM"
+          ]
+        },
+        {
+          "answer": "Santos Laguna",
+          "display": "#4 — 25 pts",
+          "aliases": [
+            "Santos"
+          ]
+        },
+        {
+          "answer": "Club América",
+          "display": "#5 — 25 pts",
+          "aliases": [
+            "América",
+            "America"
+          ]
+        },
+        {
+          "answer": "Pachuca",
+          "display": "#6 — 24 pts",
+          "aliases": [
+            "Tuzos"
+          ]
+        },
+        {
+          "answer": "Tijuana",
+          "display": "#7 — 24 pts",
+          "aliases": [
+            "Xolos"
+          ]
+        },
+        {
+          "answer": "León",
+          "display": "#8 — 23 pts",
+          "aliases": [
+            "Leon"
+          ]
+        },
+        {
+          "answer": "Chiapas",
+          "display": "#9 — 23 pts",
+          "aliases": [
+            "Jaguares"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/soccer/mexico/liga-mx",
+      "question": "Top 6 clubs in the Apertura 2014 Liga MX regular-phase table",
+      "cutoff": 6,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1359746467 | table 7 | name: Team | value: Pos | order: asc",
+      "tags": [
+        "football",
+        "liga-mx",
+        "seasons"
+      ],
+      "answers": [
+        {
+          "answer": "Club América",
+          "display": "#1 — 31 pts",
+          "aliases": [
+            "América",
+            "America"
+          ]
+        },
+        {
+          "answer": "Tigres UANL",
+          "display": "#2 — 31 pts",
+          "aliases": [
+            "Tigres",
+            "UANL"
+          ]
+        },
+        {
+          "answer": "Atlas",
+          "display": "#3 — 31 pts"
+        },
+        {
+          "answer": "Toluca",
+          "display": "#4 — 29 pts",
+          "aliases": [
+            "Diablos Rojos"
+          ]
+        },
+        {
+          "answer": "Chiapas",
+          "display": "#5 — 28 pts",
+          "aliases": [
+            "Jaguares"
+          ]
+        },
+        {
+          "answer": "Monterrey",
+          "display": "#6 — 27 pts",
+          "aliases": [
+            "Rayados"
+          ]
+        },
+        {
+          "answer": "Pachuca",
+          "display": "#7 — 25 pts",
+          "aliases": [
+            "Tuzos"
+          ]
+        },
+        {
+          "answer": "UNAM",
+          "display": "#8 — 24 pts",
+          "aliases": [
+            "Pumas",
+            "Pumas UNAM"
+          ]
+        },
+        {
+          "answer": "Santos Laguna",
+          "display": "#9 — 23 pts",
+          "aliases": [
+            "Santos"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/soccer/mexico/liga-mx",
+      "question": "Top 6 clubs in the Clausura 2015 Liga MX regular-phase table",
+      "cutoff": 6,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1359746467 | table 13 | name: Team | value: Pos | order: asc",
+      "tags": [
+        "football",
+        "liga-mx",
+        "seasons"
+      ],
+      "answers": [
+        {
+          "answer": "Tigres UANL",
+          "display": "#1 — 29 pts",
+          "aliases": [
+            "Tigres",
+            "UANL"
+          ]
+        },
+        {
+          "answer": "Club América",
+          "display": "#2 — 29 pts",
+          "aliases": [
+            "América",
+            "America"
+          ]
+        },
+        {
+          "answer": "Veracruz",
+          "display": "#3 — 28 pts",
+          "aliases": [
+            "Tiburones Rojos"
+          ]
+        },
+        {
+          "answer": "Atlas",
+          "display": "#4 — 28 pts"
+        },
+        {
+          "answer": "Guadalajara",
+          "display": "#5 — 26 pts",
+          "aliases": [
+            "Chivas",
+            "C.D. Guadalajara"
+          ]
+        },
+        {
+          "answer": "Querétaro",
+          "display": "#6 — 26 pts",
+          "aliases": [
+            "Queretaro",
+            "Gallos Blancos"
+          ]
+        },
+        {
+          "answer": "Pachuca",
+          "display": "#7 — 25 pts",
+          "aliases": [
+            "Tuzos"
+          ]
+        },
+        {
+          "answer": "Santos Laguna",
+          "display": "#8 — 25 pts",
+          "aliases": [
+            "Santos"
+          ]
+        },
+        {
+          "answer": "Cruz Azul",
+          "display": "#9 — 25 pts",
+          "aliases": [
+            "Cementeros"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/soccer/mexico/liga-mx",
+      "question": "Top 6 clubs in the Apertura 2015 Liga MX regular-phase table",
+      "cutoff": 6,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1375388214 | table 5 | name: Team | value: Pos | order: asc",
+      "tags": [
+        "football",
+        "liga-mx",
+        "seasons"
+      ],
+      "answers": [
+        {
+          "answer": "UNAM",
+          "display": "#1 — 35 pts",
+          "aliases": [
+            "Pumas",
+            "Pumas UNAM"
+          ]
+        },
+        {
+          "answer": "Toluca",
+          "display": "#2 — 32 pts",
+          "aliases": [
+            "Diablos Rojos"
+          ]
+        },
+        {
+          "answer": "León",
+          "display": "#3 — 30 pts",
+          "aliases": [
+            "Leon"
+          ]
+        },
+        {
+          "answer": "Chiapas",
+          "display": "#4 — 29 pts",
+          "aliases": [
+            "Jaguares"
+          ]
+        },
+        {
+          "answer": "Tigres UANL",
+          "display": "#5 — 28 pts",
+          "aliases": [
+            "Tigres",
+            "UANL"
+          ]
+        },
+        {
+          "answer": "Club América",
+          "display": "#6 — 28 pts",
+          "aliases": [
+            "América",
+            "America"
+          ]
+        },
+        {
+          "answer": "Puebla",
+          "display": "#7 — 27 pts"
+        },
+        {
+          "answer": "Veracruz",
+          "display": "#8 — 27 pts",
+          "aliases": [
+            "Tiburones Rojos"
+          ]
+        },
+        {
+          "answer": "Monterrey",
+          "display": "#9 — 23 pts",
+          "aliases": [
+            "Rayados"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/soccer/mexico/liga-mx",
+      "question": "Top 6 clubs in the Clausura 2016 Liga MX regular-phase table",
+      "cutoff": 6,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1375388214 | table 15 | name: Team | value: Pos | order: asc",
+      "tags": [
+        "football",
+        "liga-mx",
+        "seasons"
+      ],
+      "answers": [
+        {
+          "answer": "Monterrey",
+          "display": "#1 — 37 pts",
+          "aliases": [
+            "Rayados"
+          ]
+        },
+        {
+          "answer": "Pachuca",
+          "display": "#2 — 30 pts",
+          "aliases": [
+            "Tuzos"
+          ]
+        },
+        {
+          "answer": "León",
+          "display": "#3 — 30 pts",
+          "aliases": [
+            "Leon"
+          ]
+        },
+        {
+          "answer": "Club América",
+          "display": "#4 — 29 pts",
+          "aliases": [
+            "América",
+            "America"
+          ]
+        },
+        {
+          "answer": "Guadalajara",
+          "display": "#5 — 28 pts",
+          "aliases": [
+            "Chivas",
+            "C.D. Guadalajara"
+          ]
+        },
+        {
+          "answer": "Morelia",
+          "display": "#6 — 28 pts",
+          "aliases": [
+            "Monarcas",
+            "Atlético Morelia"
+          ]
+        },
+        {
+          "answer": "Santos Laguna",
+          "display": "#7 — 27 pts",
+          "aliases": [
+            "Santos"
+          ]
+        },
+        {
+          "answer": "Tigres UANL",
+          "display": "#8 — 24 pts",
+          "aliases": [
+            "Tigres",
+            "UANL"
+          ]
+        },
+        {
+          "answer": "Cruz Azul",
+          "display": "#9 — 22 pts",
+          "aliases": [
+            "Cementeros"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/soccer/mexico/liga-mx",
+      "question": "Top 6 clubs in the Apertura 2016 Liga MX regular-phase table",
+      "cutoff": 6,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1313475356 | table 5 | name: Team | value: Pos | order: asc",
+      "tags": [
+        "football",
+        "liga-mx",
+        "seasons"
+      ],
+      "answers": [
+        {
+          "answer": "Tijuana",
+          "display": "#1 — 33 pts",
+          "aliases": [
+            "Xolos"
+          ]
+        },
+        {
+          "answer": "Pachuca",
+          "display": "#2 — 31 pts",
+          "aliases": [
+            "Tuzos"
+          ]
+        },
+        {
+          "answer": "Tigres UANL",
+          "display": "#3 — 30 pts",
+          "aliases": [
+            "Tigres",
+            "UANL"
+          ]
+        },
+        {
+          "answer": "Guadalajara",
+          "display": "#4 — 28 pts",
+          "aliases": [
+            "C.D. Guadalajara",
+            "Chivas"
+          ]
+        },
+        {
+          "answer": "Club América",
+          "display": "#5 — 28 pts",
+          "aliases": [
+            "America",
+            "América"
+          ]
+        },
+        {
+          "answer": "UNAM",
+          "display": "#6 — 27 pts",
+          "aliases": [
+            "Pumas",
+            "Pumas UNAM"
+          ]
+        },
+        {
+          "answer": "Necaxa",
+          "display": "#7 — 26 pts",
+          "aliases": [
+            "Rayos"
+          ]
+        },
+        {
+          "answer": "León",
+          "display": "#8 — 26 pts",
+          "aliases": [
+            "Leon"
+          ]
+        },
+        {
+          "answer": "Monterrey",
+          "display": "#9 — 25 pts",
+          "aliases": [
+            "Rayados"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/soccer/mexico/liga-mx",
+      "question": "Top 6 clubs in the Clausura 2017 Liga MX regular-phase table",
+      "cutoff": 6,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1359746902 | table 19 | name: Team | value: Pos | order: asc",
+      "tags": [
+        "football",
+        "liga-mx",
+        "seasons"
+      ],
+      "answers": [
+        {
+          "answer": "Tijuana",
+          "display": "#1 — 31 pts",
+          "aliases": [
+            "Xolos"
+          ]
+        },
+        {
+          "answer": "Monterrey",
+          "display": "#2 — 27 pts",
+          "aliases": [
+            "Rayados"
+          ]
+        },
+        {
+          "answer": "Guadalajara",
+          "display": "#3 — 27 pts",
+          "aliases": [
+            "Chivas",
+            "C.D. Guadalajara"
+          ]
+        },
+        {
+          "answer": "Toluca",
+          "display": "#4 — 27 pts",
+          "aliases": [
+            "Diablos Rojos"
+          ]
+        },
+        {
+          "answer": "Santos Laguna",
+          "display": "#5 — 26 pts",
+          "aliases": [
+            "Santos"
+          ]
+        },
+        {
+          "answer": "Atlas",
+          "display": "#6 — 26 pts"
+        },
+        {
+          "answer": "Tigres UANL",
+          "display": "#7 — 25 pts",
+          "aliases": [
+            "Tigres",
+            "UANL"
+          ]
+        },
+        {
+          "answer": "Morelia",
+          "display": "#8 — 24 pts",
+          "aliases": [
+            "Monarcas",
+            "Atlético Morelia"
+          ]
+        },
+        {
+          "answer": "Club América",
+          "display": "#9 — 24 pts",
+          "aliases": [
+            "América",
+            "America"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/soccer/mexico/liga-mx",
+      "question": "Top 6 clubs in the Apertura 2017 Liga MX regular-phase table",
+      "cutoff": 6,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1367444494 | table 4 | name: Team | value: Pos | order: asc",
+      "tags": [
+        "football",
+        "liga-mx",
+        "seasons"
+      ],
+      "answers": [
+        {
+          "answer": "Monterrey",
+          "display": "#1 — 37 pts",
+          "aliases": [
+            "Rayados"
+          ]
+        },
+        {
+          "answer": "Tigres UANL",
+          "display": "#2 — 32 pts",
+          "aliases": [
+            "Tigres",
+            "UANL"
+          ]
+        },
+        {
+          "answer": "Club América",
+          "display": "#3 — 30 pts",
+          "aliases": [
+            "América",
+            "America"
+          ]
+        },
+        {
+          "answer": "Morelia",
+          "display": "#4 — 29 pts",
+          "aliases": [
+            "Monarcas",
+            "Atlético Morelia"
+          ]
+        },
+        {
+          "answer": "Toluca",
+          "display": "#5 — 29 pts",
+          "aliases": [
+            "Diablos Rojos"
+          ]
+        },
+        {
+          "answer": "Cruz Azul",
+          "display": "#6 — 27 pts",
+          "aliases": [
+            "Cementeros"
+          ]
+        },
+        {
+          "answer": "León",
+          "display": "#7 — 26 pts",
+          "aliases": [
+            "Leon"
+          ]
+        },
+        {
+          "answer": "Atlas",
+          "display": "#8 — 25 pts"
+        },
+        {
+          "answer": "Necaxa",
+          "display": "#9 — 24 pts",
+          "aliases": [
+            "Rayos"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/soccer/mexico/liga-mx",
+      "question": "Top 6 clubs in the Clausura 2018 Liga MX regular-phase table",
+      "cutoff": 6,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1367444494 | table 18 | name: Team | value: Pos | order: asc",
+      "tags": [
+        "football",
+        "liga-mx",
+        "seasons"
+      ],
+      "answers": [
+        {
+          "answer": "Toluca",
+          "display": "#1 — 36 pts",
+          "aliases": [
+            "Diablos Rojos"
+          ]
+        },
+        {
+          "answer": "Club América",
+          "display": "#2 — 29 pts",
+          "aliases": [
+            "América",
+            "America"
+          ]
+        },
+        {
+          "answer": "Monterrey",
+          "display": "#3 — 29 pts",
+          "aliases": [
+            "Rayados"
+          ]
+        },
+        {
+          "answer": "Santos Laguna",
+          "display": "#4 — 29 pts",
+          "aliases": [
+            "Santos"
+          ]
+        },
+        {
+          "answer": "Tigres UANL",
+          "display": "#5 — 28 pts",
+          "aliases": [
+            "Tigres",
+            "UANL"
+          ]
+        },
+        {
+          "answer": "Tijuana",
+          "display": "#6 — 25 pts",
+          "aliases": [
+            "Xolos"
+          ]
+        },
+        {
+          "answer": "UNAM",
+          "display": "#7 — 24 pts",
+          "aliases": [
+            "Pumas",
+            "Pumas UNAM"
+          ]
+        },
+        {
+          "answer": "Morelia",
+          "display": "#8 — 24 pts",
+          "aliases": [
+            "Monarcas",
+            "Atlético Morelia"
+          ]
+        },
+        {
+          "answer": "Pachuca",
+          "display": "#9 — 23 pts",
+          "aliases": [
+            "Tuzos"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/soccer/mexico/liga-mx",
+      "question": "Top 6 clubs in the Apertura 2018 Liga MX regular-phase table",
+      "cutoff": 6,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1367444507 | table 4 | name: Teamvte | value: Pos | order: asc",
+      "tags": [
+        "football",
+        "liga-mx",
+        "seasons"
+      ],
+      "answers": [
+        {
+          "answer": "Cruz Azul",
+          "display": "#1 — 36 pts",
+          "aliases": [
+            "Cementeros"
+          ]
+        },
+        {
+          "answer": "Club América",
+          "display": "#2 — 33 pts",
+          "aliases": [
+            "América",
+            "America"
+          ]
+        },
+        {
+          "answer": "UNAM",
+          "display": "#3 — 30 pts",
+          "aliases": [
+            "Pumas",
+            "Pumas UNAM"
+          ]
+        },
+        {
+          "answer": "Santos Laguna",
+          "display": "#4 — 30 pts",
+          "aliases": [
+            "Santos"
+          ]
+        },
+        {
+          "answer": "Monterrey",
+          "display": "#5 — 30 pts",
+          "aliases": [
+            "Rayados"
+          ]
+        },
+        {
+          "answer": "Tigres UANL",
+          "display": "#6 — 29 pts",
+          "aliases": [
+            "Tigres",
+            "UANL"
+          ]
+        },
+        {
+          "answer": "Toluca",
+          "display": "#7 — 26 pts",
+          "aliases": [
+            "Diablos Rojos"
+          ]
+        },
+        {
+          "answer": "Querétaro",
+          "display": "#8 — 26 pts",
+          "aliases": [
+            "Queretaro",
+            "Gallos Blancos"
+          ]
+        },
+        {
+          "answer": "Morelia",
+          "display": "#9 — 25 pts",
+          "aliases": [
+            "Monarcas",
+            "Atlético Morelia"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/soccer/mexico/liga-mx",
+      "question": "Top 6 clubs in the Clausura 2019 Liga MX regular-phase table",
+      "cutoff": 6,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1367444507 | table 15 | name: Teamvte | value: Pos | order: asc",
+      "tags": [
+        "football",
+        "liga-mx",
+        "seasons"
+      ],
+      "answers": [
+        {
+          "answer": "León",
+          "display": "#1 — 41 pts",
+          "aliases": [
+            "Leon"
+          ]
+        },
+        {
+          "answer": "Tigres UANL",
+          "display": "#2 — 37 pts",
+          "aliases": [
+            "Tigres",
+            "UANL"
+          ]
+        },
+        {
+          "answer": "Monterrey",
+          "display": "#3 — 30 pts",
+          "aliases": [
+            "Rayados"
+          ]
+        },
+        {
+          "answer": "Cruz Azul",
+          "display": "#4 — 30 pts",
+          "aliases": [
+            "Cementeros"
+          ]
+        },
+        {
+          "answer": "Club América",
+          "display": "#5 — 29 pts",
+          "aliases": [
+            "América",
+            "America"
+          ]
+        },
+        {
+          "answer": "Necaxa",
+          "display": "#6 — 29 pts",
+          "aliases": [
+            "Rayos"
+          ]
+        },
+        {
+          "answer": "Pachuca",
+          "display": "#7 — 28 pts",
+          "aliases": [
+            "Tuzos"
+          ]
+        },
+        {
+          "answer": "Tijuana",
+          "display": "#8 — 28 pts",
+          "aliases": [
+            "Xolos"
+          ]
+        },
+        {
+          "answer": "Toluca",
+          "display": "#9 — 25 pts",
+          "aliases": [
+            "Diablos Rojos"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/soccer/mexico/liga-mx",
+      "question": "Top 6 clubs in the Apertura 2019 Liga MX regular-phase table",
+      "cutoff": 6,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1375314968 | table 4 | name: Team | value: Pos | order: asc",
+      "tags": [
+        "football",
+        "liga-mx",
+        "seasons"
+      ],
+      "answers": [
+        {
+          "answer": "Santos Laguna",
+          "display": "#1 — 37 pts",
+          "aliases": [
+            "Santos"
+          ]
+        },
+        {
+          "answer": "León",
+          "display": "#2 — 33 pts",
+          "aliases": [
+            "Leon"
+          ]
+        },
+        {
+          "answer": "Tigres UANL",
+          "display": "#3 — 32 pts",
+          "aliases": [
+            "Tigres",
+            "UANL"
+          ]
+        },
+        {
+          "answer": "Querétaro",
+          "display": "#4 — 31 pts",
+          "aliases": [
+            "Queretaro",
+            "Gallos Blancos"
+          ]
+        },
+        {
+          "answer": "Necaxa",
+          "display": "#5 — 31 pts",
+          "aliases": [
+            "Rayos"
+          ]
+        },
+        {
+          "answer": "Club América",
+          "display": "#6 — 31 pts",
+          "aliases": [
+            "América",
+            "America"
+          ]
+        },
+        {
+          "answer": "Morelia",
+          "display": "#7 — 27 pts",
+          "aliases": [
+            "Monarcas",
+            "Atlético Morelia"
+          ]
+        },
+        {
+          "answer": "Monterrey",
+          "display": "#8 — 27 pts",
+          "aliases": [
+            "Rayados"
+          ]
+        },
+        {
+          "answer": "Pachuca",
+          "display": "#9 — 25 pts",
+          "aliases": [
+            "Tuzos"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/soccer/mexico/liga-mx",
+      "question": "Top 6 clubs in the Apertura 2020 Liga MX regular-phase table",
+      "cutoff": 6,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1375783360 | table 4 | name: Teamvte | value: Pos | order: asc",
+      "tags": [
+        "football",
+        "liga-mx",
+        "seasons"
+      ],
+      "answers": [
+        {
+          "answer": "León",
+          "display": "#1 — 40 pts",
+          "aliases": [
+            "Leon"
+          ]
+        },
+        {
+          "answer": "UNAM",
+          "display": "#2 — 32 pts",
+          "aliases": [
+            "Pumas",
+            "Pumas UNAM"
+          ]
+        },
+        {
+          "answer": "Club América",
+          "display": "#3 — 32 pts",
+          "aliases": [
+            "América",
+            "America"
+          ]
+        },
+        {
+          "answer": "Cruz Azul",
+          "display": "#4 — 29 pts",
+          "aliases": [
+            "Cementeros"
+          ]
+        },
+        {
+          "answer": "Monterrey",
+          "display": "#5 — 29 pts",
+          "aliases": [
+            "Rayados"
+          ]
+        },
+        {
+          "answer": "Tigres UANL",
+          "display": "#6 — 28 pts",
+          "aliases": [
+            "Tigres",
+            "UANL"
+          ]
+        },
+        {
+          "answer": "Guadalajara",
+          "display": "#7 — 26 pts",
+          "aliases": [
+            "Chivas",
+            "C.D. Guadalajara"
+          ]
+        },
+        {
+          "answer": "Santos Laguna",
+          "display": "#8 — 25 pts",
+          "aliases": [
+            "Santos"
+          ]
+        },
+        {
+          "answer": "Pachuca",
+          "display": "#9 — 25 pts",
+          "aliases": [
+            "Tuzos"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/soccer/mexico/liga-mx",
+      "question": "Top 6 clubs in the Clausura 2021 Liga MX regular-phase table",
+      "cutoff": 6,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1375783360 | table 14 | name: Teamvte | value: Pos | order: asc",
+      "tags": [
+        "football",
+        "liga-mx",
+        "seasons"
+      ],
+      "answers": [
+        {
+          "answer": "Cruz Azul",
+          "display": "#1 — 41 pts",
+          "aliases": [
+            "Cementeros"
+          ]
+        },
+        {
+          "answer": "Club América",
+          "display": "#2 — 38 pts",
+          "aliases": [
+            "América",
+            "America"
+          ]
+        },
+        {
+          "answer": "Puebla",
+          "display": "#3 — 28 pts"
+        },
+        {
+          "answer": "Monterrey",
+          "display": "#4 — 28 pts",
+          "aliases": [
+            "Rayados"
+          ]
+        },
+        {
+          "answer": "Santos Laguna",
+          "display": "#5 — 26 pts",
+          "aliases": [
+            "Santos"
+          ]
+        },
+        {
+          "answer": "León",
+          "display": "#6 — 26 pts",
+          "aliases": [
+            "Leon"
+          ]
+        },
+        {
+          "answer": "Atlas",
+          "display": "#7 — 25 pts"
+        },
+        {
+          "answer": "Pachuca",
+          "display": "#8 — 23 pts",
+          "aliases": [
+            "Tuzos"
+          ]
+        },
+        {
+          "answer": "Guadalajara",
+          "display": "#9 — 23 pts",
+          "aliases": [
+            "Chivas",
+            "C.D. Guadalajara"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/soccer/mexico/liga-mx",
+      "question": "Top 6 clubs in the Apertura 2021 Liga MX regular-phase table",
+      "cutoff": 6,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1361216645 | table 5 | name: Teamvte | value: Pos | order: asc",
+      "tags": [
+        "football",
+        "liga-mx",
+        "seasons"
+      ],
+      "answers": [
+        {
+          "answer": "Club América",
+          "display": "#1 — 35 pts",
+          "aliases": [
+            "América",
+            "America"
+          ]
+        },
+        {
+          "answer": "Atlas",
+          "display": "#2 — 29 pts"
+        },
+        {
+          "answer": "León",
+          "display": "#3 — 29 pts",
+          "aliases": [
+            "Leon"
+          ]
+        },
+        {
+          "answer": "Tigres UANL",
+          "display": "#4 — 28 pts",
+          "aliases": [
+            "Tigres",
+            "UANL"
+          ]
+        },
+        {
+          "answer": "Santos Laguna",
+          "display": "#5 — 24 pts",
+          "aliases": [
+            "Santos"
+          ]
+        },
+        {
+          "answer": "Toluca",
+          "display": "#6 — 24 pts",
+          "aliases": [
+            "Diablos Rojos"
+          ]
+        },
+        {
+          "answer": "Puebla",
+          "display": "#7 — 24 pts"
+        },
+        {
+          "answer": "Cruz Azul",
+          "display": "#8 — 23 pts",
+          "aliases": [
+            "Cementeros"
+          ]
+        },
+        {
+          "answer": "Monterrey",
+          "display": "#9 — 22 pts",
+          "aliases": [
+            "Rayados"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/soccer/mexico/liga-mx",
+      "question": "Top 6 clubs in the Clausura 2022 Liga MX regular-phase table",
+      "cutoff": 6,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1361216645 | table 18 | name: Teamvte | value: Pos | order: asc",
+      "tags": [
+        "football",
+        "liga-mx",
+        "seasons"
+      ],
+      "answers": [
+        {
+          "answer": "Pachuca",
+          "display": "#1 — 38 pts",
+          "aliases": [
+            "Tuzos"
+          ]
+        },
+        {
+          "answer": "Tigres UANL",
+          "display": "#2 — 33 pts",
+          "aliases": [
+            "Tigres",
+            "UANL"
+          ]
+        },
+        {
+          "answer": "Atlas",
+          "display": "#3 — 27 pts"
+        },
+        {
+          "answer": "Club América",
+          "display": "#4 — 26 pts",
+          "aliases": [
+            "América",
+            "America"
+          ]
+        },
+        {
+          "answer": "Puebla",
+          "display": "#5 — 26 pts"
+        },
+        {
+          "answer": "Guadalajara",
+          "display": "#6 — 26 pts",
+          "aliases": [
+            "Chivas",
+            "C.D. Guadalajara"
+          ]
+        },
+        {
+          "answer": "Monterrey",
+          "display": "#7 — 26 pts",
+          "aliases": [
+            "Rayados"
+          ]
+        },
+        {
+          "answer": "Cruz Azul",
+          "display": "#8 — 25 pts",
+          "aliases": [
+            "Cementeros"
+          ]
+        },
+        {
+          "answer": "Necaxa",
+          "display": "#9 — 23 pts",
+          "aliases": [
+            "Rayos"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/soccer/mexico/liga-mx",
+      "question": "Top 6 clubs in the Apertura 2022 Liga MX regular-phase table",
+      "cutoff": 6,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1370978190 | table 4 | name: Teamvte | value: Pos | order: asc",
+      "tags": [
+        "football",
+        "liga-mx",
+        "seasons"
+      ],
+      "answers": [
+        {
+          "answer": "Club América",
+          "display": "#1 — 38 pts",
+          "aliases": [
+            "América",
+            "America"
+          ]
+        },
+        {
+          "answer": "Monterrey",
+          "display": "#2 — 35 pts",
+          "aliases": [
+            "Rayados"
+          ]
+        },
+        {
+          "answer": "Santos Laguna",
+          "display": "#3 — 33 pts",
+          "aliases": [
+            "Santos"
+          ]
+        },
+        {
+          "answer": "Pachuca",
+          "display": "#4 — 32 pts",
+          "aliases": [
+            "Tuzos"
+          ]
+        },
+        {
+          "answer": "Tigres UANL",
+          "display": "#5 — 30 pts",
+          "aliases": [
+            "Tigres",
+            "UANL"
+          ]
+        },
+        {
+          "answer": "Toluca",
+          "display": "#6 — 27 pts",
+          "aliases": [
+            "Diablos Rojos"
+          ]
+        },
+        {
+          "answer": "Cruz Azul",
+          "display": "#7 — 24 pts",
+          "aliases": [
+            "Cementeros"
+          ]
+        },
+        {
+          "answer": "Puebla",
+          "display": "#8 — 22 pts"
+        },
+        {
+          "answer": "Guadalajara",
+          "display": "#9 — 22 pts",
+          "aliases": [
+            "Chivas",
+            "C.D. Guadalajara"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/soccer/mexico/liga-mx",
+      "question": "Top 6 clubs in the Clausura 2023 Liga MX regular-phase table",
+      "cutoff": 6,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1370978190 | table 17 | name: Teamvte | value: Pos | order: asc",
+      "tags": [
+        "football",
+        "liga-mx",
+        "seasons"
+      ],
+      "answers": [
+        {
+          "answer": "Monterrey",
+          "display": "#1 — 40 pts",
+          "aliases": [
+            "Rayados"
+          ]
+        },
+        {
+          "answer": "Club América",
+          "display": "#2 — 34 pts",
+          "aliases": [
+            "América",
+            "America"
+          ]
+        },
+        {
+          "answer": "Guadalajara",
+          "display": "#3 — 34 pts",
+          "aliases": [
+            "Chivas",
+            "C.D. Guadalajara"
+          ]
+        },
+        {
+          "answer": "Toluca",
+          "display": "#4 — 32 pts",
+          "aliases": [
+            "Diablos Rojos"
+          ]
+        },
+        {
+          "answer": "Pachuca",
+          "display": "#5 — 31 pts",
+          "aliases": [
+            "Tuzos"
+          ]
+        },
+        {
+          "answer": "León",
+          "display": "#6 — 30 pts",
+          "aliases": [
+            "Leon"
+          ]
+        },
+        {
+          "answer": "Tigres UANL",
+          "display": "#7 — 25 pts",
+          "aliases": [
+            "Tigres",
+            "UANL"
+          ]
+        },
+        {
+          "answer": "Cruz Azul",
+          "display": "#8 — 24 pts",
+          "aliases": [
+            "Cementeros"
+          ]
+        },
+        {
+          "answer": "Atlas",
+          "display": "#9 — 21 pts"
+        }
+      ]
+    },
+    {
+      "category": "sports/soccer/mexico/liga-mx",
+      "question": "Top 6 clubs in the Apertura 2023 Liga MX regular-phase table",
+      "cutoff": 6,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1371259542 | table 5 | name: Teamvte | value: Pos | order: asc",
+      "tags": [
+        "football",
+        "liga-mx",
+        "seasons"
+      ],
+      "answers": [
+        {
+          "answer": "Club América",
+          "display": "#1 — 40 pts",
+          "aliases": [
+            "América",
+            "America"
+          ]
+        },
+        {
+          "answer": "Monterrey",
+          "display": "#2 — 33 pts",
+          "aliases": [
+            "Rayados"
+          ]
+        },
+        {
+          "answer": "Tigres UANL",
+          "display": "#3 — 30 pts",
+          "aliases": [
+            "Tigres",
+            "UANL"
+          ]
+        },
+        {
+          "answer": "UNAM",
+          "display": "#4 — 28 pts",
+          "aliases": [
+            "Pumas",
+            "Pumas UNAM"
+          ]
+        },
+        {
+          "answer": "Guadalajara",
+          "display": "#5 — 27 pts",
+          "aliases": [
+            "Chivas",
+            "C.D. Guadalajara"
+          ]
+        },
+        {
+          "answer": "Puebla",
+          "display": "#6 — 25 pts"
+        },
+        {
+          "answer": "Atlético San Luis",
+          "display": "#7 — 23 pts",
+          "aliases": [
+            "San Luis"
+          ]
+        },
+        {
+          "answer": "León",
+          "display": "#8 — 23 pts",
+          "aliases": [
+            "Leon"
+          ]
+        },
+        {
+          "answer": "Santos Laguna",
+          "display": "#9 — 23 pts",
+          "aliases": [
+            "Santos"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/soccer/mexico/liga-mx",
+      "question": "Top 6 clubs in the Clausura 2024 Liga MX regular-phase table",
+      "cutoff": 6,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1371259542 | table 18 | name: Teamvte | value: Pos | order: asc",
+      "tags": [
+        "football",
+        "liga-mx",
+        "seasons"
+      ],
+      "answers": [
+        {
+          "answer": "Club América",
+          "display": "#1 — 35 pts",
+          "aliases": [
+            "América",
+            "America"
+          ]
+        },
+        {
+          "answer": "Cruz Azul",
+          "display": "#2 — 33 pts",
+          "aliases": [
+            "Cementeros"
+          ]
+        },
+        {
+          "answer": "Toluca",
+          "display": "#3 — 32 pts",
+          "aliases": [
+            "Diablos Rojos"
+          ]
+        },
+        {
+          "answer": "Monterrey",
+          "display": "#4 — 32 pts",
+          "aliases": [
+            "Rayados"
+          ]
+        },
+        {
+          "answer": "Tigres UANL",
+          "display": "#5 — 31 pts",
+          "aliases": [
+            "Tigres",
+            "UANL"
+          ]
+        },
+        {
+          "answer": "Guadalajara",
+          "display": "#6 — 31 pts",
+          "aliases": [
+            "Chivas",
+            "C.D. Guadalajara"
+          ]
+        },
+        {
+          "answer": "Pachuca",
+          "display": "#7 — 29 pts",
+          "aliases": [
+            "Tuzos"
+          ]
+        },
+        {
+          "answer": "UNAM",
+          "display": "#8 — 27 pts",
+          "aliases": [
+            "Pumas",
+            "Pumas UNAM"
+          ]
+        },
+        {
+          "answer": "Necaxa",
+          "display": "#9 — 27 pts",
+          "aliases": [
+            "Rayos"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/soccer/mexico/liga-mx",
+      "question": "Top 6 clubs in the Apertura 2024 Liga MX regular-phase table",
+      "cutoff": 6,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1378089592 | table 5 | name: Teamvte | value: Pos | order: asc",
+      "tags": [
+        "football",
+        "liga-mx",
+        "seasons"
+      ],
+      "answers": [
+        {
+          "answer": "Cruz Azul",
+          "display": "#1 — 42 pts",
+          "aliases": [
+            "Cementeros"
+          ]
+        },
+        {
+          "answer": "Toluca",
+          "display": "#2 — 35 pts",
+          "aliases": [
+            "Diablos Rojos"
+          ]
+        },
+        {
+          "answer": "Tigres UANL",
+          "display": "#3 — 34 pts",
+          "aliases": [
+            "Tigres",
+            "UANL"
+          ]
+        },
+        {
+          "answer": "UNAM",
+          "display": "#4 — 31 pts",
+          "aliases": [
+            "Pumas",
+            "Pumas UNAM"
+          ]
+        },
+        {
+          "answer": "Monterrey",
+          "display": "#5 — 31 pts",
+          "aliases": [
+            "Rayados"
+          ]
+        },
+        {
+          "answer": "Atlético San Luis",
+          "display": "#6 — 30 pts",
+          "aliases": [
+            "San Luis"
+          ]
+        },
+        {
+          "answer": "Tijuana",
+          "display": "#7 — 29 pts",
+          "aliases": [
+            "Xolos"
+          ]
+        },
+        {
+          "answer": "Club América",
+          "display": "#8 — 27 pts",
+          "aliases": [
+            "América",
+            "America"
+          ]
+        },
+        {
+          "answer": "Guadalajara",
+          "display": "#9 — 25 pts",
+          "aliases": [
+            "Chivas",
+            "C.D. Guadalajara"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/soccer/mexico/liga-mx",
+      "question": "Top 6 clubs in the Clausura 2025 Liga MX regular-phase table",
+      "cutoff": 6,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1378089592 | table 18 | name: Teamvte | value: Pos | order: asc",
+      "tags": [
+        "football",
+        "liga-mx",
+        "seasons"
+      ],
+      "answers": [
+        {
+          "answer": "Toluca",
+          "display": "#1 — 37 pts",
+          "aliases": [
+            "Diablos Rojos"
+          ]
+        },
+        {
+          "answer": "Club América",
+          "display": "#2 — 34 pts",
+          "aliases": [
+            "América",
+            "America"
+          ]
+        },
+        {
+          "answer": "Cruz Azul",
+          "display": "#3 — 33 pts",
+          "aliases": [
+            "Cementeros"
+          ]
+        },
+        {
+          "answer": "Tigres UANL",
+          "display": "#4 — 33 pts",
+          "aliases": [
+            "Tigres",
+            "UANL"
+          ]
+        },
+        {
+          "answer": "Necaxa",
+          "display": "#5 — 31 pts",
+          "aliases": [
+            "Rayos"
+          ]
+        },
+        {
+          "answer": "León",
+          "display": "#6 — 30 pts",
+          "aliases": [
+            "Leon"
+          ]
+        },
+        {
+          "answer": "Monterrey",
+          "display": "#7 — 28 pts",
+          "aliases": [
+            "Rayados"
+          ]
+        },
+        {
+          "answer": "Pachuca",
+          "display": "#8 — 28 pts",
+          "aliases": [
+            "Tuzos"
+          ]
+        },
+        {
+          "answer": "Juárez",
+          "display": "#9 — 24 pts",
+          "aliases": [
+            "FC Juárez",
+            "Bravos"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/soccer/mexico/liga-mx",
+      "question": "Top 6 clubs in the Apertura 2025 Liga MX regular-phase table",
+      "cutoff": 6,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1378733146 | table 5 | name: Teamvte | value: Pos | order: asc",
+      "tags": [
+        "football",
+        "liga-mx",
+        "seasons"
+      ],
+      "answers": [
+        {
+          "answer": "Toluca",
+          "display": "#1 — 37 pts",
+          "aliases": [
+            "Diablos Rojos"
+          ]
+        },
+        {
+          "answer": "Tigres UANL",
+          "display": "#2 — 36 pts",
+          "aliases": [
+            "Tigres",
+            "UANL"
+          ]
+        },
+        {
+          "answer": "Cruz Azul",
+          "display": "#3 — 35 pts",
+          "aliases": [
+            "Cementeros"
+          ]
+        },
+        {
+          "answer": "Club América",
+          "display": "#4 — 34 pts",
+          "aliases": [
+            "América",
+            "America"
+          ]
+        },
+        {
+          "answer": "Monterrey",
+          "display": "#5 — 31 pts",
+          "aliases": [
+            "Rayados"
+          ]
+        },
+        {
+          "answer": "Guadalajara",
+          "display": "#6 — 29 pts",
+          "aliases": [
+            "Chivas",
+            "C.D. Guadalajara"
+          ]
+        },
+        {
+          "answer": "Tijuana",
+          "display": "#7 — 24 pts",
+          "aliases": [
+            "Xolos"
+          ]
+        },
+        {
+          "answer": "Juárez",
+          "display": "#8 — 23 pts",
+          "aliases": [
+            "FC Juárez",
+            "Bravos"
+          ]
+        },
+        {
+          "answer": "Pachuca",
+          "display": "#9 — 22 pts",
+          "aliases": [
+            "Tuzos"
+          ]
+        }
+      ]
+    }
+  ]
+}

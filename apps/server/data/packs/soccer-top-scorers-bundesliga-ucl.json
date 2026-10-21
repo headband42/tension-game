@@ -1,0 +1,530 @@
+{
+  "categories": [
+    {
+      "path": "sports/soccer/europe/bundesliga/seasons/top-scorers",
+      "name": "Bundesliga Top Scorers"
+    },
+    {
+      "path": "sports/soccer/europe/champions-league/top-scorers",
+      "name": "Champions League Top Scorers"
+    }
+  ],
+  "questions": [
+    {
+      "category": "sports/soccer/europe/bundesliga/seasons/top-scorers",
+      "question": "Top 5 goalscorers in the 2005–06 Bundesliga season (league goals only, not cup games)",
+      "cutoff": 5,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1376855265 | table 5 | name: Player | value: Goals",
+      "tags": [
+        "football",
+        "bundesliga",
+        "seasons",
+        "top-scorers"
+      ],
+      "answers": [
+        {
+          "answer": "Miroslav Klose",
+          "display": "25 goals — Werder Bremen",
+          "aliases": [
+            "Klose"
+          ]
+        },
+        {
+          "answer": "Dimitar Berbatov",
+          "display": "21 goals — Bayer Leverkusen",
+          "aliases": [
+            "Berbatov"
+          ]
+        },
+        {
+          "answer": "Halil Altıntop",
+          "display": "20 goals — 1. FC Kaiserslautern",
+          "aliases": [
+            "Altıntop"
+          ]
+        },
+        {
+          "answer": "Roy Makaay",
+          "display": "17 goals — Bayern Munich",
+          "aliases": [
+            "Makaay"
+          ]
+        },
+        {
+          "answer": "Róbert Vittek",
+          "display": "16 goals — 1. FC Nürnberg",
+          "aliases": [
+            "Vittek"
+          ]
+        },
+        {
+          "answer": "Ivan Klasnić",
+          "display": "15 goals — Werder Bremen",
+          "aliases": [
+            "Klasnić"
+          ]
+        },
+        {
+          "answer": "Michael Ballack",
+          "display": "14 goals — Bayern Munich",
+          "aliases": [
+            "Ballack"
+          ]
+        },
+        {
+          "answer": "Ebi Smolarek",
+          "display": "13 goals — Borussia Dortmund",
+          "aliases": [
+            "Smolarek"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/soccer/europe/bundesliga/seasons/top-scorers",
+      "question": "Top 5 goalscorers in the 2007–08 Bundesliga season (league goals only, not cup games)",
+      "cutoff": 5,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1377525373 | table 6 | name: Player | value: Goals",
+      "tags": [
+        "football",
+        "bundesliga",
+        "seasons",
+        "top-scorers"
+      ],
+      "answers": [
+        {
+          "answer": "Luca Toni",
+          "display": "24 goals — Bayern Munich",
+          "aliases": [
+            "Toni"
+          ]
+        },
+        {
+          "answer": "Mario Gómez",
+          "display": "19 goals — VfB Stuttgart",
+          "aliases": [
+            "Gómez"
+          ]
+        },
+        {
+          "answer": "Kevin Kurányi",
+          "display": "15 goals — Schalke 04",
+          "aliases": [
+            "Kurányi"
+          ]
+        },
+        {
+          "answer": "Ivica Olić",
+          "display": "14 goals — Hamburger SV",
+          "aliases": [
+            "Olić"
+          ]
+        },
+        {
+          "answer": "Markus Rosenberg",
+          "display": "14 goals — Werder Bremen",
+          "aliases": [
+            "Rosenberg"
+          ]
+        },
+        {
+          "answer": "Diego",
+          "display": "13 goals — Werder Bremen"
+        },
+        {
+          "answer": "Marko Pantelić",
+          "display": "13 goals — Hertha BSC",
+          "aliases": [
+            "Pantelić"
+          ]
+        },
+        {
+          "answer": "Mladen Petrić",
+          "display": "13 goals — Borussia Dortmund",
+          "aliases": [
+            "Petrić"
+          ]
+        },
+        {
+          "answer": "Stanislav Šesták",
+          "display": "13 goals — VfL Bochum",
+          "aliases": [
+            "Šesták"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/soccer/europe/bundesliga/seasons/top-scorers",
+      "question": "Top 6 goalscorers in the 2013–14 Bundesliga season (league goals only, not cup games)",
+      "cutoff": 6,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1372726620 | table 6 | name: Player | value: Goals",
+      "tags": [
+        "football",
+        "bundesliga",
+        "seasons",
+        "top-scorers"
+      ],
+      "answers": [
+        {
+          "answer": "Robert Lewandowski",
+          "display": "20 goals — Borussia Dortmund",
+          "aliases": [
+            "Lewandowski"
+          ]
+        },
+        {
+          "answer": "Mario Mandžukić",
+          "display": "18 goals — Bayern Munich",
+          "aliases": [
+            "Mandžukić"
+          ]
+        },
+        {
+          "answer": "Josip Drmić",
+          "display": "17 goals — 1. FC Nürnberg",
+          "aliases": [
+            "Drmić"
+          ]
+        },
+        {
+          "answer": "Roberto Firmino",
+          "display": "16 goals — 1899 Hoffenheim",
+          "aliases": [
+            "Firmino"
+          ]
+        },
+        {
+          "answer": "Adrián Ramos",
+          "display": "16 goals — Hertha BSC",
+          "aliases": [
+            "Ramos"
+          ]
+        },
+        {
+          "answer": "Marco Reus",
+          "display": "16 goals — Borussia Dortmund",
+          "aliases": [
+            "Reus"
+          ]
+        },
+        {
+          "answer": "Stefan Kießling",
+          "display": "15 goals — Bayer Leverkusen",
+          "aliases": [
+            "Kießling"
+          ]
+        },
+        {
+          "answer": "Shinji Okazaki",
+          "display": "15 goals — Mainz 05",
+          "aliases": [
+            "Okazaki"
+          ]
+        },
+        {
+          "answer": "Raffael",
+          "display": "15 goals — Borussia Mönchengladbach"
+        }
+      ]
+    },
+    {
+      "category": "sports/soccer/europe/bundesliga/seasons/top-scorers",
+      "question": "Top 5 goalscorers in the 2016–17 Bundesliga season (league goals only, not cup games)",
+      "cutoff": 5,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1375099138 | table 6 | name: Player | value: Goals",
+      "tags": [
+        "football",
+        "bundesliga",
+        "seasons",
+        "top-scorers"
+      ],
+      "answers": [
+        {
+          "answer": "Pierre-Emerick Aubameyang",
+          "display": "31 goals — Borussia Dortmund",
+          "aliases": [
+            "Aubameyang"
+          ]
+        },
+        {
+          "answer": "Robert Lewandowski",
+          "display": "30 goals — Bayern Munich",
+          "aliases": [
+            "Lewandowski"
+          ]
+        },
+        {
+          "answer": "Anthony Modeste",
+          "display": "25 goals — 1. FC Köln",
+          "aliases": [
+            "Modeste"
+          ]
+        },
+        {
+          "answer": "Timo Werner",
+          "display": "21 goals — RB Leipzig",
+          "aliases": [
+            "Werner"
+          ]
+        },
+        {
+          "answer": "Mario Gómez",
+          "display": "16 goals — VfL Wolfsburg",
+          "aliases": [
+            "Gómez"
+          ]
+        },
+        {
+          "answer": "Andrej Kramarić",
+          "display": "15 goals — 1899 Hoffenheim",
+          "aliases": [
+            "Kramarić"
+          ]
+        },
+        {
+          "answer": "Max Kruse",
+          "display": "15 goals — Werder Bremen",
+          "aliases": [
+            "Kruse"
+          ]
+        },
+        {
+          "answer": "Arjen Robben",
+          "display": "13 goals — Bayern Munich",
+          "aliases": [
+            "Robben"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/soccer/europe/bundesliga/seasons/top-scorers",
+      "question": "Top 5 goalscorers in the 2019–20 Bundesliga season (league goals only, not cup games)",
+      "cutoff": 5,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1375235882 | table 9 | name: Player | value: Goals",
+      "tags": [
+        "football",
+        "bundesliga",
+        "seasons",
+        "top-scorers"
+      ],
+      "answers": [
+        {
+          "answer": "Robert Lewandowski",
+          "display": "34 goals — Bayern Munich",
+          "aliases": [
+            "Lewandowski"
+          ]
+        },
+        {
+          "answer": "Timo Werner",
+          "display": "28 goals — RB Leipzig",
+          "aliases": [
+            "Werner"
+          ]
+        },
+        {
+          "answer": "Jadon Sancho",
+          "display": "17 goals — Borussia Dortmund",
+          "aliases": [
+            "Sancho"
+          ]
+        },
+        {
+          "answer": "Wout Weghorst",
+          "display": "16 goals — VfL Wolfsburg",
+          "aliases": [
+            "Weghorst"
+          ]
+        },
+        {
+          "answer": "Rouwen Hennings",
+          "display": "15 goals — Fortuna Düsseldorf",
+          "aliases": [
+            "Hennings"
+          ]
+        },
+        {
+          "answer": "Jhon Córdoba",
+          "display": "13 goals — 1. FC Köln",
+          "aliases": [
+            "Córdoba"
+          ]
+        },
+        {
+          "answer": "Erling Haaland",
+          "display": "13 goals — Borussia Dortmund",
+          "aliases": [
+            "Haaland"
+          ]
+        },
+        {
+          "answer": "Florian Niederlechner",
+          "display": "13 goals — FC Augsburg",
+          "aliases": [
+            "Niederlechner"
+          ]
+        },
+        {
+          "answer": "Robin Quaison",
+          "display": "13 goals — Mainz 05",
+          "aliases": [
+            "Quaison"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/soccer/europe/bundesliga/seasons/top-scorers",
+      "question": "Top 5 goalscorers in the 2021–22 Bundesliga season (league goals only, not cup games)",
+      "cutoff": 5,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1376214669 | table 8 | name: Player | value: Goals",
+      "tags": [
+        "football",
+        "bundesliga",
+        "seasons",
+        "top-scorers"
+      ],
+      "answers": [
+        {
+          "answer": "Robert Lewandowski",
+          "display": "35 goals — Bayern Munich",
+          "aliases": [
+            "Lewandowski"
+          ]
+        },
+        {
+          "answer": "Patrik Schick",
+          "display": "24 goals — Bayer Leverkusen",
+          "aliases": [
+            "Schick"
+          ]
+        },
+        {
+          "answer": "Erling Haaland",
+          "display": "22 goals — Borussia Dortmund",
+          "aliases": [
+            "Haaland"
+          ]
+        },
+        {
+          "answer": "Anthony Modeste",
+          "display": "20 goals — 1. FC Köln",
+          "aliases": [
+            "Modeste"
+          ]
+        },
+        {
+          "answer": "Christopher Nkunku",
+          "display": "20 goals — RB Leipzig",
+          "aliases": [
+            "Nkunku"
+          ]
+        },
+        {
+          "answer": "Taiwo Awoniyi",
+          "display": "15 goals — Union Berlin",
+          "aliases": [
+            "Awoniyi"
+          ]
+        },
+        {
+          "answer": "Serge Gnabry",
+          "display": "14 goals — Bayern Munich",
+          "aliases": [
+            "Gnabry"
+          ]
+        },
+        {
+          "answer": "Moussa Diaby",
+          "display": "13 goals — Bayer Leverkusen",
+          "aliases": [
+            "Diaby"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/soccer/europe/champions-league/top-scorers",
+      "question": "Top 5 goalscorers in the 2024–25 UEFA Champions League season (excluding qualifying rounds and play-off round)",
+      "cutoff": 5,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1373690724 | table 24 | name: Player | value: Goals",
+      "tags": [
+        "football",
+        "champions-league",
+        "seasons",
+        "top-scorers"
+      ],
+      "answers": [
+        {
+          "answer": "Serhou Guirassy",
+          "display": "13 goals — Borussia Dortmund",
+          "aliases": [
+            "Guirassy"
+          ]
+        },
+        {
+          "answer": "Raphinha",
+          "display": "13 goals — Barcelona"
+        },
+        {
+          "answer": "Robert Lewandowski",
+          "display": "11 goals — Barcelona",
+          "aliases": [
+            "Lewandowski"
+          ]
+        },
+        {
+          "answer": "Harry Kane",
+          "display": "11 goals — Bayern Munich",
+          "aliases": [
+            "Kane"
+          ]
+        },
+        {
+          "answer": "Lautaro Martínez",
+          "display": "9 goals — Inter Milan",
+          "aliases": [
+            "Martínez"
+          ]
+        },
+        {
+          "answer": "Erling Haaland",
+          "display": "8 goals — Manchester City",
+          "aliases": [
+            "Haaland"
+          ]
+        },
+        {
+          "answer": "Vinícius Júnior",
+          "display": "8 goals — Real Madrid",
+          "aliases": [
+            "Júnior"
+          ]
+        },
+        {
+          "answer": "Ousmane Dembélé",
+          "display": "8 goals — Paris Saint-Germain",
+          "aliases": [
+            "Dembélé"
+          ]
+        }
+      ]
+    }
+  ]
+}

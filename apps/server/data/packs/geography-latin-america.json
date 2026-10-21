@@ -1,0 +1,743 @@
+{
+  "categories": [
+    {
+      "path": "geography/latin-america",
+      "name": "Latin America"
+    },
+    {
+      "path": "geography/latin-america/brazil",
+      "name": "Brazil"
+    },
+    {
+      "path": "geography/latin-america/mexico",
+      "name": "Mexico"
+    },
+    {
+      "path": "geography/latin-america/argentina",
+      "name": "Argentina"
+    },
+    {
+      "path": "geography/latin-america/caribbean",
+      "name": "Caribbean"
+    }
+  ],
+  "questions": [
+    {
+      "category": "geography/latin-america",
+      "question": "Top 10 most populous Latin American countries (2023 population; Haiti, Guyana and Suriname excluded)",
+      "cutoff": 10,
+      "difficulty": 1,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1377978894 | table 1 | name: Country/Territory | value: Population | where: Country/Territory!~^Total$",
+      "tags": [
+        "geography",
+        "latin-america",
+        "population"
+      ],
+      "answers": [
+        {
+          "answer": "Brazil",
+          "display": "218,689,757"
+        },
+        {
+          "answer": "Mexico",
+          "display": "129,875,529"
+        },
+        {
+          "answer": "Colombia",
+          "display": "49,336,454"
+        },
+        {
+          "answer": "Argentina",
+          "display": "46,621,847"
+        },
+        {
+          "answer": "Peru",
+          "display": "32,440,172"
+        },
+        {
+          "answer": "Venezuela",
+          "display": "30,518,260"
+        },
+        {
+          "answer": "Chile",
+          "display": "18,549,457"
+        },
+        {
+          "answer": "Guatemala",
+          "display": "17,980,803"
+        },
+        {
+          "answer": "Ecuador",
+          "display": "17,483,326"
+        },
+        {
+          "answer": "Bolivia",
+          "display": "12,186,079"
+        },
+        {
+          "answer": "Cuba",
+          "display": "10,985,974"
+        },
+        {
+          "answer": "Dominican Republic",
+          "display": "10,790,744",
+          "aliases": [
+            "DR"
+          ]
+        },
+        {
+          "answer": "Honduras",
+          "display": "9,571,352"
+        },
+        {
+          "answer": "Paraguay",
+          "display": "7,439,863"
+        },
+        {
+          "answer": "El Salvador",
+          "display": "6,602,370"
+        }
+      ]
+    },
+    {
+      "category": "geography/latin-america",
+      "question": "Top 10 largest Latin American countries by area (Haiti, Guyana and Suriname excluded)",
+      "cutoff": 10,
+      "difficulty": 1,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1377978894 | table 1 | name: Country/Territory | value: Area | where: Country/Territory!~^Total$",
+      "tags": [
+        "geography",
+        "latin-america",
+        "area"
+      ],
+      "answers": [
+        {
+          "answer": "Brazil",
+          "display": "8,514,877 km²"
+        },
+        {
+          "answer": "Argentina",
+          "display": "2,780,400 km²"
+        },
+        {
+          "answer": "Mexico",
+          "display": "1,964,375 km²"
+        },
+        {
+          "answer": "Peru",
+          "display": "1,285,216 km²"
+        },
+        {
+          "answer": "Colombia",
+          "display": "1,141,748 km²"
+        },
+        {
+          "answer": "Bolivia",
+          "display": "1,098,581 km²"
+        },
+        {
+          "answer": "Venezuela",
+          "display": "912,050 km²"
+        },
+        {
+          "answer": "Chile",
+          "display": "756,102 km²"
+        },
+        {
+          "answer": "Paraguay",
+          "display": "406,752 km²"
+        },
+        {
+          "answer": "Ecuador",
+          "display": "256,369 km²"
+        },
+        {
+          "answer": "Uruguay",
+          "display": "176,215 km²"
+        },
+        {
+          "answer": "Nicaragua",
+          "display": "130,373 km²"
+        },
+        {
+          "answer": "Honduras",
+          "display": "112,492 km²"
+        },
+        {
+          "answer": "Cuba",
+          "display": "109,884 km²"
+        },
+        {
+          "answer": "Guatemala",
+          "display": "108,889 km²"
+        }
+      ]
+    },
+    {
+      "category": "geography/latin-america/mexico",
+      "question": "Top 10 most populous Mexican states (2020 census, Mexico City excluded)",
+      "cutoff": 10,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1379267564 | table 2 | name: / State | value: Population (2020) | header rows: 2 | where: / State!~(Ciudad de México|^Total$)",
+      "tags": [
+        "geography",
+        "latin-america",
+        "mexico",
+        "population"
+      ],
+      "answers": [
+        {
+          "answer": "State of Mexico",
+          "display": "16,992,418 people",
+          "aliases": [
+            "México",
+            "Mexico State",
+            "Estado de México",
+            "Edomex"
+          ]
+        },
+        {
+          "answer": "Jalisco",
+          "display": "8,348,151 people"
+        },
+        {
+          "answer": "Veracruz",
+          "display": "8,062,579 people"
+        },
+        {
+          "answer": "Puebla",
+          "display": "6,583,278 people"
+        },
+        {
+          "answer": "Guanajuato",
+          "display": "6,166,934 people"
+        },
+        {
+          "answer": "Nuevo León",
+          "display": "5,784,442 people"
+        },
+        {
+          "answer": "Chiapas",
+          "display": "5,543,828 people"
+        },
+        {
+          "answer": "Michoacán",
+          "display": "4,748,846 people"
+        },
+        {
+          "answer": "Oaxaca",
+          "display": "4,132,148 people"
+        },
+        {
+          "answer": "Baja California",
+          "display": "3,769,020 people"
+        },
+        {
+          "answer": "Chihuahua",
+          "display": "3,741,869 people"
+        },
+        {
+          "answer": "Guerrero",
+          "display": "3,540,685 people"
+        },
+        {
+          "answer": "Tamaulipas",
+          "display": "3,527,735 people"
+        },
+        {
+          "answer": "Coahuila",
+          "display": "3,146,771 people",
+          "aliases": [
+            "Coahuila de Zaragoza"
+          ]
+        },
+        {
+          "answer": "Hidalgo",
+          "display": "3,082,841 people"
+        }
+      ]
+    },
+    {
+      "category": "geography/latin-america/mexico",
+      "question": "Top 10 Mexican states by nominal GDP (2024, Mexico City excluded)",
+      "cutoff": 10,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1378458826 | table 1 | name: State | value: Nominal GDP (USD) | header rows: 2 | where: State!~(Mexico City|^Mexico$)",
+      "tags": [
+        "geography",
+        "latin-america",
+        "mexico",
+        "economy"
+      ],
+      "answers": [
+        {
+          "answer": "State of Mexico",
+          "display": "US$168,909 million",
+          "aliases": [
+            "Mexico State",
+            "Estado de México",
+            "Edomex"
+          ]
+        },
+        {
+          "answer": "Nuevo León",
+          "display": "US$148,847 million"
+        },
+        {
+          "answer": "Jalisco",
+          "display": "US$136,900 million"
+        },
+        {
+          "answer": "Guanajuato",
+          "display": "US$83,567 million"
+        },
+        {
+          "answer": "Veracruz",
+          "display": "US$80,125 million"
+        },
+        {
+          "answer": "Baja California",
+          "display": "US$72,454 million"
+        },
+        {
+          "answer": "Chihuahua",
+          "display": "US$71,364 million"
+        },
+        {
+          "answer": "Coahuila",
+          "display": "US$67,401 million",
+          "aliases": [
+            "Coahuila de Zaragoza"
+          ]
+        },
+        {
+          "answer": "Puebla",
+          "display": "US$65,345 million"
+        },
+        {
+          "answer": "Sonora",
+          "display": "US$61,732 million"
+        },
+        {
+          "answer": "Tamaulipas",
+          "display": "US$55,273 million"
+        },
+        {
+          "answer": "Michoacán",
+          "display": "US$50,431 million"
+        },
+        {
+          "answer": "Querétaro",
+          "display": "US$44,819 million"
+        },
+        {
+          "answer": "San Luis Potosí",
+          "display": "US$43,071 million"
+        },
+        {
+          "answer": "Tabasco",
+          "display": "US$40,827 million"
+        }
+      ]
+    },
+    {
+      "category": "geography/latin-america/mexico",
+      "question": "Top 10 highest mountain peaks in Mexico by elevation (at least 500 m prominence)",
+      "cutoff": 10,
+      "difficulty": 3,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1363427477 | table 1 | name: Mountain peak | value: Elevation | note: the article's 40 highest summits with at least 500 m of topographic prominence",
+      "tags": [
+        "geography",
+        "latin-america",
+        "mexico",
+        "mountains"
+      ],
+      "answers": [
+        {
+          "answer": "Pico de Orizaba",
+          "display": "5,636 m",
+          "aliases": [
+            "Citlaltépetl",
+            "Orizaba"
+          ]
+        },
+        {
+          "answer": "Popocatépetl",
+          "display": "5,413 m",
+          "aliases": [
+            "Popo"
+          ]
+        },
+        {
+          "answer": "Iztaccíhuatl",
+          "display": "5,213 m",
+          "aliases": [
+            "Izta"
+          ]
+        },
+        {
+          "answer": "Nevado de Toluca",
+          "display": "4,690 m",
+          "aliases": [
+            "Xinantécatl"
+          ]
+        },
+        {
+          "answer": "Sierra Negra",
+          "display": "4,590 m",
+          "aliases": [
+            "Tliltépetl"
+          ]
+        },
+        {
+          "answer": "La Malinche",
+          "display": "4,438 m",
+          "aliases": [
+            "Malinche",
+            "Matlalcuéyetl"
+          ]
+        },
+        {
+          "answer": "Cofre de Perote",
+          "display": "4,282 m",
+          "aliases": [
+            "Naucampatépetl"
+          ]
+        },
+        {
+          "answer": "Nevado de Colima",
+          "display": "4,260 m",
+          "aliases": [
+            "Tzapotépetl"
+          ]
+        },
+        {
+          "answer": "Cerro Tláloc",
+          "display": "4,158 m",
+          "aliases": [
+            "Tlaloc"
+          ]
+        },
+        {
+          "answer": "Tacaná",
+          "display": "4,067 m",
+          "aliases": [
+            "Volcán Tacaná"
+          ]
+        },
+        {
+          "answer": "Cerro Ajusco",
+          "display": "3,937 m"
+        },
+        {
+          "answer": "Jocotitlán",
+          "display": "3,910 m"
+        },
+        {
+          "answer": "Tancítaro",
+          "display": "3,840 m",
+          "aliases": [
+            "Volcán Tancítaro"
+          ]
+        },
+        {
+          "answer": "Volcán de Colima",
+          "display": "3,830 m"
+        },
+        {
+          "answer": "Cerro El Potosí",
+          "display": "3,720 m",
+          "aliases": [
+            "El Potosí"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "geography/latin-america/caribbean",
+      "question": "Top 10 largest Caribbean islands by area (islands of 1,000 km² or more; North and South Andros count separately)",
+      "cutoff": 10,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1345799819 | table 1 | name: Island Name | value: Area (km2)",
+      "tags": [
+        "geography",
+        "latin-america",
+        "caribbean",
+        "islands"
+      ],
+      "answers": [
+        {
+          "answer": "Cuba",
+          "display": "105,806 km²"
+        },
+        {
+          "answer": "Hispaniola",
+          "display": "76,479 km²"
+        },
+        {
+          "answer": "Jamaica",
+          "display": "10,990 km²"
+        },
+        {
+          "answer": "Puerto Rico",
+          "display": "8,868 km²"
+        },
+        {
+          "answer": "Trinidad",
+          "display": "4,827 km²"
+        },
+        {
+          "answer": "North Andros",
+          "display": "3,439 km²",
+          "aliases": [
+            "North Andros Island"
+          ]
+        },
+        {
+          "answer": "Isla de la Juventud",
+          "display": "2,237 km²",
+          "aliases": [
+            "Isle of Youth"
+          ]
+        },
+        {
+          "answer": "Great Inagua",
+          "display": "1,543 km²",
+          "aliases": [
+            "Great Inagua Island"
+          ]
+        },
+        {
+          "answer": "South Andros",
+          "display": "1,447 km²",
+          "aliases": [
+            "South Andros Island"
+          ]
+        },
+        {
+          "answer": "Grand Bahama",
+          "display": "1,373 km²",
+          "aliases": [
+            "Grand Bahama Island"
+          ]
+        },
+        {
+          "answer": "Great Abaco",
+          "display": "1,144 km²",
+          "aliases": [
+            "Great Abaco Island"
+          ]
+        },
+        {
+          "answer": "Martinique",
+          "display": "1,128 km²"
+        },
+        {
+          "answer": "Isla Margarita",
+          "display": "1,020 km²"
+        }
+      ]
+    },
+    {
+      "category": "geography/latin-america/brazil",
+      "question": "Top 7 largest Brazilian states by area (Federal District excluded)",
+      "cutoff": 7,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1377701199 | table 1 | name: Flag and name | value: Area / km2 | header rows: 2 | where: Flag and name!~(^Brazil$|Distrito Federal)",
+      "tags": [
+        "geography",
+        "latin-america",
+        "brazil",
+        "area"
+      ],
+      "answers": [
+        {
+          "answer": "Amazonas",
+          "display": "1,559,159 km²"
+        },
+        {
+          "answer": "Pará",
+          "display": "1,247,955 km²"
+        },
+        {
+          "answer": "Mato Grosso",
+          "display": "903,366 km²",
+          "aliases": [
+            "MT"
+          ]
+        },
+        {
+          "answer": "Minas Gerais",
+          "display": "586,522 km²",
+          "aliases": [
+            "MG"
+          ]
+        },
+        {
+          "answer": "Bahia",
+          "display": "564,733 km²"
+        },
+        {
+          "answer": "Mato Grosso do Sul",
+          "display": "357,146 km²",
+          "aliases": [
+            "MS"
+          ]
+        },
+        {
+          "answer": "Goiás",
+          "display": "340,112 km²"
+        },
+        {
+          "answer": "Maranhão",
+          "display": "331,937 km²"
+        },
+        {
+          "answer": "Rio Grande do Sul",
+          "display": "281,730 km²",
+          "aliases": [
+            "RS"
+          ]
+        },
+        {
+          "answer": "Tocantins",
+          "display": "277,721 km²"
+        }
+      ]
+    },
+    {
+      "category": "geography/latin-america/brazil",
+      "question": "Top 7 most populous Brazilian states (2026, Federal District excluded)",
+      "cutoff": 7,
+      "difficulty": 1,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1377701199 | table 1 | name: Flag and name | value: Population | header rows: 2 | where: Flag and name!~(^Brazil$|Distrito Federal)",
+      "tags": [
+        "geography",
+        "latin-america",
+        "brazil",
+        "population"
+      ],
+      "answers": [
+        {
+          "answer": "São Paulo",
+          "display": "46,179,008 people",
+          "aliases": [
+            "SP"
+          ]
+        },
+        {
+          "answer": "Minas Gerais",
+          "display": "21,460,311 people",
+          "aliases": [
+            "MG"
+          ]
+        },
+        {
+          "answer": "Rio de Janeiro",
+          "display": "17,225,410 people",
+          "aliases": [
+            "Rio"
+          ]
+        },
+        {
+          "answer": "Bahia",
+          "display": "14,889,472 people"
+        },
+        {
+          "answer": "Paraná",
+          "display": "11,952,524 people"
+        },
+        {
+          "answer": "Rio Grande do Sul",
+          "display": "11,233,317 people",
+          "aliases": [
+            "RS"
+          ]
+        },
+        {
+          "answer": "Pernambuco",
+          "display": "9,583,176 people"
+        },
+        {
+          "answer": "Ceará",
+          "display": "9,302,211 people"
+        },
+        {
+          "answer": "Pará",
+          "display": "8,756,324 people"
+        },
+        {
+          "answer": "Santa Catarina",
+          "display": "8,312,691 people"
+        }
+      ]
+    },
+    {
+      "category": "geography/latin-america/argentina",
+      "question": "Top 7 most populous Argentine provinces (2022 census, Autonomous City of Buenos Aires excluded)",
+      "cutoff": 7,
+      "difficulty": 1,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1379324342 | table 1 | name: Province | value: Population (2022) | where: Province!~Autonomous City",
+      "tags": [
+        "geography",
+        "latin-america",
+        "argentina",
+        "population"
+      ],
+      "answers": [
+        {
+          "answer": "Buenos Aires Province",
+          "display": "17,523,996 people",
+          "aliases": [
+            "Buenos Aires"
+          ]
+        },
+        {
+          "answer": "Córdoba",
+          "display": "3,840,905 people"
+        },
+        {
+          "answer": "Santa Fe",
+          "display": "3,544,908 people"
+        },
+        {
+          "answer": "Mendoza",
+          "display": "2,043,540 people"
+        },
+        {
+          "answer": "Tucumán",
+          "display": "1,731,820 people"
+        },
+        {
+          "answer": "Salta",
+          "display": "1,441,351 people"
+        },
+        {
+          "answer": "Entre Ríos",
+          "display": "1,425,578 people"
+        },
+        {
+          "answer": "Misiones",
+          "display": "1,278,873 people"
+        },
+        {
+          "answer": "Corrientes",
+          "display": "1,212,696 people"
+        },
+        {
+          "answer": "Chaco",
+          "display": "1,129,606 people"
+        }
+      ]
+    }
+  ]
+}

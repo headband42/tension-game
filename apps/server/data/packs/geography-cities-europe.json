@@ -1,0 +1,827 @@
+{
+  "categories": [
+    {
+      "path": "geography/cities/europe",
+      "name": "European cities"
+    }
+  ],
+  "questions": [
+    {
+      "category": "geography/cities/europe",
+      "difficulty": 1,
+      "question": "Top 10 largest cities in Germany by population (city proper, 2021 estimate)",
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1360613508 | table 1 | name: City | value: 2021 estimate",
+      "tags": [
+        "geography",
+        "cities",
+        "europe",
+        "germany",
+        "population"
+      ],
+      "answers": [
+        {
+          "answer": "Berlin",
+          "display": "3,677,472"
+        },
+        {
+          "answer": "Hamburg",
+          "display": "1,906,411"
+        },
+        {
+          "answer": "Munich",
+          "display": "1,487,708",
+          "aliases": [
+            "München"
+          ]
+        },
+        {
+          "answer": "Cologne",
+          "display": "1,073,096",
+          "aliases": [
+            "Köln"
+          ]
+        },
+        {
+          "answer": "Frankfurt am Main",
+          "display": "759,224",
+          "aliases": [
+            "Frankfurt"
+          ]
+        },
+        {
+          "answer": "Stuttgart",
+          "display": "626,275"
+        },
+        {
+          "answer": "Düsseldorf",
+          "display": "619,477"
+        },
+        {
+          "answer": "Leipzig",
+          "display": "601,866"
+        },
+        {
+          "answer": "Dortmund",
+          "display": "586,852"
+        },
+        {
+          "answer": "Essen",
+          "display": "579,432"
+        },
+        {
+          "answer": "Bremen",
+          "display": "563,290"
+        },
+        {
+          "answer": "Dresden",
+          "display": "555,351"
+        },
+        {
+          "answer": "Hanover",
+          "display": "535,932",
+          "aliases": [
+            "Hannover"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "geography/cities/europe",
+      "difficulty": 2,
+      "question": "Top 10 largest communes in France by population (city proper, 2023)",
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1375623554 | table 1 | name: Commune | value: Population, 2023",
+      "tags": [
+        "geography",
+        "cities",
+        "europe",
+        "france",
+        "population"
+      ],
+      "answers": [
+        {
+          "answer": "Paris",
+          "display": "2,103,778"
+        },
+        {
+          "answer": "Marseille",
+          "display": "886,040",
+          "aliases": [
+            "Marseilles"
+          ]
+        },
+        {
+          "answer": "Lyon",
+          "display": "519,127",
+          "aliases": [
+            "Lyons"
+          ]
+        },
+        {
+          "answer": "Toulouse",
+          "display": "514,819"
+        },
+        {
+          "answer": "Nice",
+          "display": "357,737"
+        },
+        {
+          "answer": "Nantes",
+          "display": "327,734"
+        },
+        {
+          "answer": "Montpellier",
+          "display": "310,240"
+        },
+        {
+          "answer": "Strasbourg",
+          "display": "293,771"
+        },
+        {
+          "answer": "Bordeaux",
+          "display": "267,991"
+        },
+        {
+          "answer": "Lille",
+          "display": "238,246"
+        },
+        {
+          "answer": "Rennes",
+          "display": "230,890"
+        },
+        {
+          "answer": "Toulon",
+          "display": "179,116"
+        },
+        {
+          "answer": "Reims",
+          "display": "177,674"
+        }
+      ]
+    },
+    {
+      "category": "geography/cities/europe",
+      "difficulty": 1,
+      "question": "Top 10 largest cities in Italy by population (city proper, 1 January 2026)",
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1377297561 | table 1 | name: City | value: 2026 | header rows: 2",
+      "tags": [
+        "geography",
+        "cities",
+        "europe",
+        "italy",
+        "population"
+      ],
+      "answers": [
+        {
+          "answer": "Rome",
+          "display": "2,745,062",
+          "aliases": [
+            "Roma"
+          ]
+        },
+        {
+          "answer": "Milan",
+          "display": "1,362,863",
+          "aliases": [
+            "Milano"
+          ]
+        },
+        {
+          "answer": "Naples",
+          "display": "905,050",
+          "aliases": [
+            "Napoli"
+          ]
+        },
+        {
+          "answer": "Turin",
+          "display": "855,654",
+          "aliases": [
+            "Torino"
+          ]
+        },
+        {
+          "answer": "Palermo",
+          "display": "626,273"
+        },
+        {
+          "answer": "Genoa",
+          "display": "566,247",
+          "aliases": [
+            "Genova"
+          ]
+        },
+        {
+          "answer": "Bologna",
+          "display": "391,473"
+        },
+        {
+          "answer": "Florence",
+          "display": "361,625",
+          "aliases": [
+            "Firenze"
+          ]
+        },
+        {
+          "answer": "Bari",
+          "display": "316,248"
+        },
+        {
+          "answer": "Catania",
+          "display": "296,984"
+        },
+        {
+          "answer": "Verona",
+          "display": "255,139"
+        },
+        {
+          "answer": "Venice",
+          "display": "249,385",
+          "aliases": [
+            "Venezia"
+          ]
+        },
+        {
+          "answer": "Messina",
+          "display": "216,458"
+        }
+      ]
+    },
+    {
+      "category": "geography/cities/europe",
+      "difficulty": 2,
+      "question": "Top 10 largest cities in Spain by population (city proper, 1 January 2019)",
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1373681562 | table 3 | name: Municipality | value: Population (1 January 2019)",
+      "tags": [
+        "geography",
+        "cities",
+        "europe",
+        "spain",
+        "population"
+      ],
+      "answers": [
+        {
+          "answer": "Madrid",
+          "display": "3,266,126"
+        },
+        {
+          "answer": "Barcelona",
+          "display": "1,636,762"
+        },
+        {
+          "answer": "Valencia",
+          "display": "794,288"
+        },
+        {
+          "answer": "Seville",
+          "display": "688,592",
+          "aliases": [
+            "Sevilla"
+          ]
+        },
+        {
+          "answer": "Zaragoza",
+          "display": "674,997",
+          "aliases": [
+            "Saragossa"
+          ]
+        },
+        {
+          "answer": "Málaga",
+          "display": "574,654"
+        },
+        {
+          "answer": "Murcia",
+          "display": "453,258"
+        },
+        {
+          "answer": "Palma",
+          "display": "416,065",
+          "aliases": [
+            "Palma de Mallorca"
+          ]
+        },
+        {
+          "answer": "Las Palmas de Gran Canaria",
+          "display": "379,925",
+          "aliases": [
+            "Las Palmas"
+          ]
+        },
+        {
+          "answer": "Bilbao",
+          "display": "346,843"
+        },
+        {
+          "answer": "Alicante",
+          "display": "334,887",
+          "aliases": [
+            "Alacant"
+          ]
+        },
+        {
+          "answer": "Córdoba",
+          "display": "325,701"
+        },
+        {
+          "answer": "Valladolid",
+          "display": "298,412"
+        }
+      ]
+    },
+    {
+      "category": "geography/cities/europe",
+      "difficulty": 2,
+      "question": "Top 10 largest cities in Poland by population (city proper, 30 June 2024)",
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1379733489 | table 1 | name: Name | value: 30 Jun 2024",
+      "tags": [
+        "geography",
+        "cities",
+        "europe",
+        "poland",
+        "population"
+      ],
+      "answers": [
+        {
+          "answer": "Warsaw",
+          "display": "1,862,402",
+          "aliases": [
+            "Warszawa"
+          ]
+        },
+        {
+          "answer": "Kraków",
+          "display": "807,644",
+          "aliases": [
+            "Cracow"
+          ]
+        },
+        {
+          "answer": "Wrocław",
+          "display": "673,531"
+        },
+        {
+          "answer": "Łódź",
+          "display": "648,711",
+          "aliases": [
+            "Lodz"
+          ]
+        },
+        {
+          "answer": "Poznań",
+          "display": "536,818"
+        },
+        {
+          "answer": "Gdańsk",
+          "display": "487,834"
+        },
+        {
+          "answer": "Szczecin",
+          "display": "387,700"
+        },
+        {
+          "answer": "Lublin",
+          "display": "328,868"
+        },
+        {
+          "answer": "Bydgoszcz",
+          "display": "324,984"
+        },
+        {
+          "answer": "Białystok",
+          "display": "290,907"
+        },
+        {
+          "answer": "Katowice",
+          "display": "286,960"
+        },
+        {
+          "answer": "Gdynia",
+          "display": "243,918"
+        },
+        {
+          "answer": "Częstochowa",
+          "display": "214,342"
+        }
+      ]
+    },
+    {
+      "category": "geography/cities/europe",
+      "difficulty": 1,
+      "question": "Top 10 largest cities in Russia by population (city proper, 2021 census)",
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1369170561 | table 1 | name: City or town | value: 2021 census",
+      "tags": [
+        "geography",
+        "cities",
+        "europe",
+        "russia",
+        "population"
+      ],
+      "answers": [
+        {
+          "answer": "Moscow",
+          "display": "13,010,112",
+          "aliases": [
+            "Moskva"
+          ]
+        },
+        {
+          "answer": "Saint Petersburg",
+          "display": "5,601,911",
+          "aliases": [
+            "St Petersburg",
+            "Petersburg"
+          ]
+        },
+        {
+          "answer": "Novosibirsk",
+          "display": "1,633,595"
+        },
+        {
+          "answer": "Yekaterinburg",
+          "display": "1,544,376",
+          "aliases": [
+            "Ekaterinburg"
+          ]
+        },
+        {
+          "answer": "Kazan",
+          "display": "1,308,660"
+        },
+        {
+          "answer": "Nizhny Novgorod",
+          "display": "1,228,199",
+          "aliases": [
+            "Nizhniy Novgorod"
+          ]
+        },
+        {
+          "answer": "Chelyabinsk",
+          "display": "1,189,525"
+        },
+        {
+          "answer": "Krasnoyarsk",
+          "display": "1,187,771"
+        },
+        {
+          "answer": "Samara",
+          "display": "1,173,299"
+        },
+        {
+          "answer": "Ufa",
+          "display": "1,144,809"
+        },
+        {
+          "answer": "Rostov-on-Don",
+          "display": "1,142,162",
+          "aliases": [
+            "Rostov"
+          ]
+        },
+        {
+          "answer": "Omsk",
+          "display": "1,125,695"
+        },
+        {
+          "answer": "Krasnodar",
+          "display": "1,099,344"
+        }
+      ]
+    },
+    {
+      "category": "geography/cities/europe",
+      "difficulty": 2,
+      "question": "Top 10 largest cities in Ukraine by population (city proper, 2022 estimates, before the full-scale invasion)",
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1367531929 | table 1 | name: Name | value: 2022 esti",
+      "tags": [
+        "geography",
+        "cities",
+        "europe",
+        "ukraine",
+        "population"
+      ],
+      "answers": [
+        {
+          "answer": "Kyiv",
+          "display": "2,952,301",
+          "aliases": [
+            "Kiev"
+          ]
+        },
+        {
+          "answer": "Kharkiv",
+          "display": "1,421,125",
+          "aliases": [
+            "Kharkov"
+          ]
+        },
+        {
+          "answer": "Odesa",
+          "display": "1,010,537",
+          "aliases": [
+            "Odessa"
+          ]
+        },
+        {
+          "answer": "Dnipro",
+          "display": "968,502",
+          "aliases": [
+            "Dnipropetrovsk"
+          ]
+        },
+        {
+          "answer": "Donetsk",
+          "display": "901,645"
+        },
+        {
+          "answer": "Lviv",
+          "display": "717,273",
+          "aliases": [
+            "Lvov"
+          ]
+        },
+        {
+          "answer": "Zaporizhzhia",
+          "display": "710,052",
+          "aliases": [
+            "Zaporozhye"
+          ]
+        },
+        {
+          "answer": "Kryvyi Rih",
+          "display": "603,904",
+          "aliases": [
+            "Krivoy Rog"
+          ]
+        },
+        {
+          "answer": "Mykolaiv",
+          "display": "470,011",
+          "aliases": [
+            "Nikolaev"
+          ]
+        },
+        {
+          "answer": "Mariupol",
+          "display": "425,681"
+        },
+        {
+          "answer": "Luhansk",
+          "display": "397,677",
+          "aliases": [
+            "Lugansk"
+          ]
+        },
+        {
+          "answer": "Sevastopol",
+          "display": "393,304",
+          "aliases": [
+            "Sebastopol"
+          ]
+        },
+        {
+          "answer": "Vinnytsia",
+          "display": "369,739",
+          "aliases": [
+            "Vinnitsa"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "geography/cities/europe",
+      "difficulty": 3,
+      "question": "Top 10 largest urban areas in Sweden by population (built-up urban areas, 2023)",
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1353935174 | table 1 | name: Urban area | value: Population (2023)",
+      "tags": [
+        "geography",
+        "cities",
+        "europe",
+        "sweden",
+        "population"
+      ],
+      "answers": [
+        {
+          "answer": "Stockholm",
+          "display": "1,652,895"
+        },
+        {
+          "answer": "Gothenburg",
+          "display": "674,529",
+          "aliases": [
+            "Göteborg"
+          ]
+        },
+        {
+          "answer": "Malmö",
+          "display": "339,316"
+        },
+        {
+          "answer": "Uppsala",
+          "display": "174,982"
+        },
+        {
+          "answer": "Upplands Väsby",
+          "display": "156,517"
+        },
+        {
+          "answer": "Västerås",
+          "display": "131,643"
+        },
+        {
+          "answer": "Örebro",
+          "display": "128,658"
+        },
+        {
+          "answer": "Linköping",
+          "display": "116,851"
+        },
+        {
+          "answer": "Helsingborg",
+          "display": "116,029"
+        },
+        {
+          "answer": "Jönköping",
+          "display": "103,032"
+        },
+        {
+          "answer": "Lund",
+          "display": "98,308"
+        },
+        {
+          "answer": "Norrköping",
+          "display": "98,229"
+        },
+        {
+          "answer": "Umeå",
+          "display": "94,243"
+        }
+      ]
+    },
+    {
+      "category": "geography/cities/europe",
+      "difficulty": 3,
+      "question": "Top 10 most populous municipalities in Portugal (whole municipalities, 2023 population)",
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1374938098 | table 2 | name: Name of municipality | value: Pop. total",
+      "tags": [
+        "geography",
+        "cities",
+        "europe",
+        "portugal",
+        "population"
+      ],
+      "answers": [
+        {
+          "answer": "Lisbon",
+          "display": "567,131",
+          "aliases": [
+            "Lisboa"
+          ]
+        },
+        {
+          "answer": "Sintra",
+          "display": "395,528"
+        },
+        {
+          "answer": "Vila Nova de Gaia",
+          "display": "311,223",
+          "aliases": [
+            "Gaia"
+          ]
+        },
+        {
+          "answer": "Porto",
+          "display": "248,769",
+          "aliases": [
+            "Oporto"
+          ]
+        },
+        {
+          "answer": "Cascais",
+          "display": "219,636"
+        },
+        {
+          "answer": "Loures",
+          "display": "207,065"
+        },
+        {
+          "answer": "Braga",
+          "display": "201,583"
+        },
+        {
+          "answer": "Almada",
+          "display": "181,232"
+        },
+        {
+          "answer": "Matosinhos",
+          "display": "179,558"
+        },
+        {
+          "answer": "Amadora",
+          "display": "178,253"
+        },
+        {
+          "answer": "Oeiras",
+          "display": "175,677"
+        },
+        {
+          "answer": "Seixal",
+          "display": "173,163"
+        },
+        {
+          "answer": "Gondomar",
+          "display": "168,582"
+        }
+      ]
+    },
+    {
+      "category": "geography/cities/europe",
+      "difficulty": 2,
+      "question": "Top 10 largest cities in Greece by population (2021 census)",
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1359650339 | table 1 | name: City | value: Census 2021",
+      "tags": [
+        "geography",
+        "cities",
+        "europe",
+        "greece",
+        "population"
+      ],
+      "answers": [
+        {
+          "answer": "Athens",
+          "display": "643,452",
+          "aliases": [
+            "Athina"
+          ]
+        },
+        {
+          "answer": "Thessaloniki",
+          "display": "309,617",
+          "aliases": [
+            "Salonica",
+            "Thessalonica"
+          ]
+        },
+        {
+          "answer": "Patras",
+          "display": "170,755"
+        },
+        {
+          "answer": "Piraeus",
+          "display": "168,151",
+          "aliases": [
+            "Pireas"
+          ]
+        },
+        {
+          "answer": "Heraklion",
+          "display": "149,501",
+          "aliases": [
+            "Iraklion"
+          ]
+        },
+        {
+          "answer": "Larissa",
+          "display": "146,595"
+        },
+        {
+          "answer": "Peristeri",
+          "display": "133,630"
+        },
+        {
+          "answer": "Acharnes",
+          "display": "100,857"
+        },
+        {
+          "answer": "Kallithea",
+          "display": "97,616"
+        },
+        {
+          "answer": "Kalamaria",
+          "display": "92,248"
+        },
+        {
+          "answer": "Glyfada",
+          "display": "89,597"
+        },
+        {
+          "answer": "Nikaia",
+          "display": "88,077"
+        },
+        {
+          "answer": "Volos",
+          "display": "85,803"
+        }
+      ]
+    }
+  ]
+}

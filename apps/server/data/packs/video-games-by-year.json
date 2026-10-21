@@ -1,0 +1,648 @@
+{
+  "categories": [
+    {
+      "path": "games/video-games/by-year",
+      "name": "Best Sellers by Year"
+    }
+  ],
+  "questions": [
+    {
+      "category": "games/video-games/by-year",
+      "question": "Top 7 best-selling video games in Japan in 1995 (Famitsu sales)",
+      "cutoff": 7,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1370173387 | table 9 | name: Title | value: Sales",
+      "tags": [
+        "video games",
+        "sales",
+        "1995"
+      ],
+      "answers": [
+        {
+          "answer": "Dragon Quest VI",
+          "display": "2,482,640 copies",
+          "aliases": [
+            "Realms of Reverie"
+          ]
+        },
+        {
+          "answer": "Chrono Trigger",
+          "display": "2,000,000+ copies"
+        },
+        {
+          "answer": "Virtua Fighter 2",
+          "display": "1,500,000+ copies"
+        },
+        {
+          "answer": "Derby Stallion III",
+          "display": "1,086,141 copies"
+        },
+        {
+          "answer": "Super Mario World 2: Yoshi's Island",
+          "display": "1,000,000+ copies",
+          "aliases": [
+            "Yoshi's Island"
+          ]
+        },
+        {
+          "answer": "Donkey Kong Country 2",
+          "display": "987,295 copies",
+          "aliases": [
+            "DKC2"
+          ]
+        },
+        {
+          "answer": "Tekken",
+          "display": "942,000 copies"
+        },
+        {
+          "answer": "Romancing SaGa 3",
+          "display": "786,000 copies"
+        },
+        {
+          "answer": "Arc the Lad",
+          "display": "697,000 copies"
+        },
+        {
+          "answer": "Mobile Suit Gundam",
+          "display": "668,242 copies"
+        }
+      ]
+    },
+    {
+      "category": "games/video-games/by-year",
+      "question": "Top 7 best-selling video games in Japan in 1996 (Famitsu sales)",
+      "cutoff": 7,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1364218502 | table 10 | name: Title | value: Sales",
+      "tags": [
+        "video games",
+        "sales",
+        "1996"
+      ],
+      "answers": [
+        {
+          "answer": "Pokémon Red / Green / Blue",
+          "display": "1,663,861 copies",
+          "aliases": [
+            "Pokemon",
+            "Pocket Monsters"
+          ]
+        },
+        {
+          "answer": "Tekken 2",
+          "display": "1,200,000+ copies"
+        },
+        {
+          "answer": "Dragon Quest III",
+          "display": "1,071,000 copies",
+          "aliases": [
+            "Dragon Quest 3"
+          ]
+        },
+        {
+          "answer": "Resident Evil",
+          "display": "1,016,000 copies",
+          "aliases": [
+            "Biohazard"
+          ]
+        },
+        {
+          "answer": "Super Mario RPG",
+          "display": "995,898 copies"
+        },
+        {
+          "answer": "Derby Stallion '96",
+          "display": "960,000 copies"
+        },
+        {
+          "answer": "Super Mario 64",
+          "display": "903,000 copies"
+        },
+        {
+          "answer": "Arc the Lad II",
+          "display": "818,000 copies"
+        },
+        {
+          "answer": "Tobal No. 1",
+          "display": "752,000 copies"
+        },
+        {
+          "answer": "Rage Racer",
+          "display": "701,000 copies"
+        }
+      ]
+    },
+    {
+      "category": "games/video-games/by-year",
+      "question": "Top 7 best-selling video games in Japan in 1999 (Famitsu sales)",
+      "cutoff": 7,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1379527432 | table 10 | name: Title | value: Sales",
+      "tags": [
+        "video games",
+        "sales",
+        "1999"
+      ],
+      "answers": [
+        {
+          "answer": "Pokémon Gold / Silver",
+          "display": "4,444,000 copies",
+          "aliases": [
+            "Pokemon Gold"
+          ]
+        },
+        {
+          "answer": "Final Fantasy VIII",
+          "display": "3,538,000 copies",
+          "aliases": [
+            "FF8"
+          ]
+        },
+        {
+          "answer": "Dance Dance Revolution",
+          "display": "1,904,441 copies",
+          "aliases": [
+            "DDR"
+          ]
+        },
+        {
+          "answer": "Nintendo All Star! Dai Rantō Smash Brothers",
+          "display": "1,520,000+ copies",
+          "aliases": [
+            "Super Smash Bros.",
+            "Smash Bros"
+          ]
+        },
+        {
+          "answer": "Resident Evil 3: Nemesis",
+          "display": "1,465,000 copies",
+          "aliases": [
+            "Biohazard 3"
+          ]
+        },
+        {
+          "answer": "Gran Turismo 2",
+          "display": "1,410,000 copies",
+          "aliases": [
+            "GT2"
+          ]
+        },
+        {
+          "answer": "Yu-Gi-Oh! Duel Monsters II",
+          "display": "1,208,000 copies"
+        },
+        {
+          "answer": "Pocket Monsters: Red / Green / Blue / Pikachu (Pokémon)",
+          "display": "998,666 copies",
+          "aliases": [
+            "Pokémon Red / Green / Blue / Pikachu"
+          ]
+        },
+        {
+          "answer": "Derby Stallion '99",
+          "display": "890,000 copies"
+        },
+        {
+          "answer": "Everybody's Golf 2",
+          "display": "843,000 copies"
+        }
+      ]
+    },
+    {
+      "category": "games/video-games/by-year",
+      "question": "Top 7 best-selling video games in Japan in 2000 (Famitsu sales)",
+      "cutoff": 7,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1379440135 | table 9 | name: Title | value: Sales",
+      "tags": [
+        "video games",
+        "sales",
+        "2000"
+      ],
+      "answers": [
+        {
+          "answer": "Dragon Quest VII",
+          "display": "3,900,000+ copies",
+          "aliases": [
+            "Dragon Quest 7"
+          ]
+        },
+        {
+          "answer": "Pocket Monsters: Gold / Silver / Crystal (Pokémon)",
+          "display": "3,448,900 copies",
+          "aliases": [
+            "Pokemon Crystal"
+          ]
+        },
+        {
+          "answer": "Final Fantasy IX",
+          "display": "2,707,000 copies",
+          "aliases": [
+            "FF9"
+          ]
+        },
+        {
+          "answer": "Yu-Gi-Oh! Duel Monsters 4",
+          "display": "1,669,308 copies"
+        },
+        {
+          "answer": "Kirby 64: The Crystal Shards",
+          "display": "933,000 copies",
+          "aliases": [
+            "Kirby 64"
+          ]
+        },
+        {
+          "answer": "Mario Tennis",
+          "display": "874,350 copies"
+        },
+        {
+          "answer": "Yu-Gi-Oh! Duel Monsters III",
+          "display": "781,000 copies"
+        },
+        {
+          "answer": "Mario Party 3",
+          "display": "767,000 copies"
+        },
+        {
+          "answer": "Super Robot Wars Alpha",
+          "display": "714,789 copies"
+        },
+        {
+          "answer": "Ridge Racer V",
+          "display": "689,000 copies"
+        }
+      ]
+    },
+    {
+      "category": "games/video-games/by-year",
+      "question": "Top 7 best-selling video games in the United States in 2001 (NPD)",
+      "cutoff": 7,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1379279714 | table 9 | name: Title | value: Sales",
+      "tags": [
+        "video games",
+        "sales",
+        "2001"
+      ],
+      "answers": [
+        {
+          "answer": "Pokémon Gold / Silver / Crystal",
+          "display": "3,127,659 copies",
+          "aliases": [
+            "Pokemon Gold"
+          ]
+        },
+        {
+          "answer": "Madden NFL 2002",
+          "display": "2,220,112 copies",
+          "aliases": [
+            "Madden 2002"
+          ]
+        },
+        {
+          "answer": "Grand Theft Auto III",
+          "display": "1,965,832 copies",
+          "aliases": [
+            "GTA III",
+            "GTA 3"
+          ]
+        },
+        {
+          "answer": "Metal Gear Solid 2: Sons of Liberty",
+          "display": "1,800,000+ copies",
+          "aliases": [
+            "MGS2"
+          ]
+        },
+        {
+          "answer": "Tony Hawk's Pro Skater 3",
+          "display": "1,693,037 copies",
+          "aliases": [
+            "THPS3"
+          ]
+        },
+        {
+          "answer": "Harry Potter and the Sorcerer's Stone",
+          "display": "1,628,744 copies",
+          "aliases": [
+            "Harry Potter"
+          ]
+        },
+        {
+          "answer": "The Sims",
+          "display": "1,482,182 copies",
+          "aliases": [
+            "Sims"
+          ]
+        },
+        {
+          "answer": "The Legend of Zelda: Oracle of Seasons / Oracle of Ages",
+          "display": "1,248,191 copies",
+          "aliases": [
+            "Zelda Oracle"
+          ]
+        },
+        {
+          "answer": "Super Mario Advance",
+          "display": "1,172,323+ copies"
+        },
+        {
+          "answer": "Gran Turismo 3: A-Spec",
+          "display": "1,172,322 copies",
+          "aliases": [
+            "GT3"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "games/video-games/by-year",
+      "question": "Top 7 best-selling video games in the United States in 2004 (NPD)",
+      "cutoff": 7,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1379835777 | table 4 | name: Title | value: Sales",
+      "tags": [
+        "video games",
+        "sales",
+        "2004"
+      ],
+      "answers": [
+        {
+          "answer": "Grand Theft Auto: San Andreas",
+          "display": "5,144,214 copies",
+          "aliases": [
+            "GTA San Andreas",
+            "San Andreas"
+          ]
+        },
+        {
+          "answer": "Halo 2",
+          "display": "4,288,397 copies"
+        },
+        {
+          "answer": "Madden NFL 2005",
+          "display": "4,274,243 copies",
+          "aliases": [
+            "Madden 2005"
+          ]
+        },
+        {
+          "answer": "ESPN NFL 2K5",
+          "display": "2,632,393 copies",
+          "aliases": [
+            "NFL 2K5"
+          ]
+        },
+        {
+          "answer": "Need for Speed: Underground 2",
+          "display": "2,453,829 copies",
+          "aliases": [
+            "NFS Underground 2"
+          ]
+        },
+        {
+          "answer": "Pokémon FireRed / LeafGreen",
+          "display": "2,367,431 copies"
+        },
+        {
+          "answer": "NBA Live 2005",
+          "display": "1,723,190 copies"
+        },
+        {
+          "answer": "Spider-Man 2",
+          "display": "1,569,251 copies"
+        },
+        {
+          "answer": "ESPN NBA 2K5",
+          "display": "1,280,314 copies",
+          "aliases": [
+            "NBA 2K5"
+          ]
+        },
+        {
+          "answer": "Star Wars: Battlefront",
+          "display": "1,224,927 copies",
+          "aliases": [
+            "Star Wars Battlefront"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "games/video-games/by-year",
+      "question": "Top 7 best-selling video games in Japan in 2006 (Media Create sales)",
+      "cutoff": 7,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1379620049 | table 4 | name: Title | value: Sales",
+      "tags": [
+        "video games",
+        "sales",
+        "2006"
+      ],
+      "answers": [
+        {
+          "answer": "Pokémon Diamond / Pearl",
+          "display": "4,355,495 copies",
+          "aliases": [
+            "Pokemon Diamond"
+          ]
+        },
+        {
+          "answer": "New Super Mario Bros.",
+          "display": "3,840,296 copies",
+          "aliases": [
+            "NSMB"
+          ]
+        },
+        {
+          "answer": "Brain Age 2",
+          "display": "3,748,638 copies",
+          "aliases": [
+            "More Brain Training"
+          ]
+        },
+        {
+          "answer": "Animal Crossing: Wild World",
+          "display": "2,485,264 copies",
+          "aliases": [
+            "Animal Crossing WW"
+          ]
+        },
+        {
+          "answer": "Final Fantasy XII",
+          "display": "2,400,000+ copies",
+          "aliases": [
+            "FF12"
+          ]
+        },
+        {
+          "answer": "Brain Training",
+          "display": "1,991,116 copies"
+        },
+        {
+          "answer": "English Training",
+          "display": "1,662,573 copies"
+        },
+        {
+          "answer": "Pro Evolution Soccer 6",
+          "display": "1,292,472 copies",
+          "aliases": [
+            "Winning Eleven 10"
+          ]
+        },
+        {
+          "answer": "Mario Kart DS",
+          "display": "1,115,082 copies"
+        },
+        {
+          "answer": "Tetris DS",
+          "display": "985,246 copies"
+        }
+      ]
+    },
+    {
+      "category": "games/video-games/by-year",
+      "question": "Top 7 best-selling video games in the United States in 2007 (NPD)",
+      "cutoff": 7,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1379612090 | table 5 | name: Title | value: Units sold",
+      "tags": [
+        "video games",
+        "sales",
+        "2007"
+      ],
+      "answers": [
+        {
+          "answer": "Halo 3",
+          "display": "4.82 million copies"
+        },
+        {
+          "answer": "Wii Play",
+          "display": "4.12 million copies"
+        },
+        {
+          "answer": "Call of Duty 4: Modern Warfare",
+          "display": "3.04 million copies",
+          "aliases": [
+            "COD4"
+          ]
+        },
+        {
+          "answer": "Guitar Hero III: Legends of Rock",
+          "display": "2.72 million copies",
+          "aliases": [
+            "Guitar Hero 3"
+          ]
+        },
+        {
+          "answer": "Super Mario Galaxy",
+          "display": "2.52 million copies",
+          "aliases": [
+            "SMG"
+          ]
+        },
+        {
+          "answer": "Pokémon Diamond",
+          "display": "2.48 million copies"
+        },
+        {
+          "answer": "Madden NFL 08",
+          "display": "1.90 million copies",
+          "aliases": [
+            "Madden 08"
+          ]
+        },
+        {
+          "answer": "Guitar Hero II",
+          "display": "1.89 million copies",
+          "aliases": [
+            "Guitar Hero 2"
+          ]
+        },
+        {
+          "answer": "Assassin's Creed",
+          "display": "1.87 million copies"
+        },
+        {
+          "answer": "Mario Party 8",
+          "display": "1.82 million copies"
+        }
+      ]
+    },
+    {
+      "category": "games/video-games/by-year",
+      "question": "Top 7 best-selling video games worldwide in 2009 (sales figures)",
+      "cutoff": 7,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1379564520 | table 2 | name: Title | value: Sales",
+      "tags": [
+        "video games",
+        "sales",
+        "2009"
+      ],
+      "answers": [
+        {
+          "answer": "Wii Sports",
+          "display": "20.18 million copies"
+        },
+        {
+          "answer": "Wii Sports Resort",
+          "display": "13.58 million copies"
+        },
+        {
+          "answer": "Call of Duty: Modern Warfare 2",
+          "display": "11.86 million copies",
+          "aliases": [
+            "Modern Warfare 2",
+            "MW2"
+          ]
+        },
+        {
+          "answer": "New Super Mario Bros. Wii",
+          "display": "10.55 million copies",
+          "aliases": [
+            "NSMB Wii"
+          ]
+        },
+        {
+          "answer": "Wii Fit Plus",
+          "display": "10.16 million copies"
+        },
+        {
+          "answer": "Wii Fit",
+          "display": "8.59 million copies"
+        },
+        {
+          "answer": "Mario Kart Wii",
+          "display": "7.55 million copies"
+        },
+        {
+          "answer": "Assassin's Creed II",
+          "display": "6 million copies"
+        },
+        {
+          "answer": "Wii Play",
+          "display": "5.8 million copies"
+        },
+        {
+          "answer": "Resident Evil 5",
+          "display": "5.2 million copies",
+          "aliases": [
+            "RE5"
+          ]
+        }
+      ]
+    }
+  ]
+}

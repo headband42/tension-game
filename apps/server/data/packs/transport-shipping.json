@@ -1,0 +1,734 @@
+{
+  "categories": [
+    {
+      "path": "transport/shipping",
+      "name": "Shipping"
+    },
+    {
+      "path": "transport/shipping/ports",
+      "name": "Ports"
+    },
+    {
+      "path": "transport/shipping/companies",
+      "name": "Shipping companies"
+    },
+    {
+      "path": "transport/shipping/fleets",
+      "name": "Merchant fleets"
+    },
+    {
+      "path": "transport/shipping/ships",
+      "name": "Ships"
+    },
+    {
+      "path": "transport/shipping/cruise",
+      "name": "Cruise"
+    }
+  ],
+  "questions": [
+    {
+      "category": "transport/shipping/ports",
+      "question": "Top 10 container ports in the world by TEU handled (2024)",
+      "cutoff": 10,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1378718571 | table 2 | name: Port | value: 2024",
+      "tags": [
+        "shipping",
+        "ports",
+        "containers",
+        "worldwide"
+      ],
+      "answers": [
+        {
+          "answer": "Shanghai",
+          "display": "51.5 million TEU"
+        },
+        {
+          "answer": "Singapore",
+          "display": "41.1 million TEU"
+        },
+        {
+          "answer": "Ningbo-Zhoushan",
+          "display": "39.3 million TEU",
+          "aliases": [
+            "ningbo",
+            "zhoushan"
+          ]
+        },
+        {
+          "answer": "Shenzhen",
+          "display": "33.4 million TEU"
+        },
+        {
+          "answer": "Qingdao",
+          "display": "30.9 million TEU"
+        },
+        {
+          "answer": "Guangzhou",
+          "display": "26.1 million TEU"
+        },
+        {
+          "answer": "Busan",
+          "display": "24.4 million TEU",
+          "aliases": [
+            "pusan"
+          ]
+        },
+        {
+          "answer": "Tianjin",
+          "display": "23.3 million TEU"
+        },
+        {
+          "answer": "Jebel Ali",
+          "display": "15.5 million TEU",
+          "aliases": [
+            "dubai"
+          ]
+        },
+        {
+          "answer": "Port Klang",
+          "display": "14.6 million TEU",
+          "aliases": [
+            "klang"
+          ]
+        },
+        {
+          "answer": "Rotterdam",
+          "display": "13.8 million TEU"
+        },
+        {
+          "answer": "Hong Kong",
+          "display": "13.7 million TEU",
+          "aliases": [
+            "hk"
+          ]
+        },
+        {
+          "answer": "Antwerp",
+          "display": "13.5 million TEU",
+          "aliases": [
+            "antwerpen"
+          ]
+        },
+        {
+          "answer": "Xiamen",
+          "display": "12.3 million TEU"
+        },
+        {
+          "answer": "Tanjung Pelepas",
+          "display": "12.3 million TEU"
+        }
+      ]
+    },
+    {
+      "category": "transport/shipping/ports",
+      "question": "Top 10 European ports by cargo tonnage (2025)",
+      "cutoff": 10,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1373592869 | table 1 | name: Port | value: Tons",
+      "tags": [
+        "shipping",
+        "ports",
+        "europe",
+        "cargo"
+      ],
+      "answers": [
+        {
+          "answer": "Rotterdam",
+          "display": "428.4 million tons"
+        },
+        {
+          "answer": "Antwerp-Bruges",
+          "display": "266.5 million tons",
+          "aliases": [
+            "antwerp",
+            "bruges"
+          ]
+        },
+        {
+          "answer": "Novorossiysk",
+          "display": "168.0 million tons"
+        },
+        {
+          "answer": "Ust-Luga",
+          "display": "130.5 million tons"
+        },
+        {
+          "answer": "Hamburg",
+          "display": "114.6 million tons"
+        },
+        {
+          "answer": "Algeciras",
+          "display": "100.7 million tons"
+        },
+        {
+          "answer": "Le Havre-Rouen-Paris",
+          "display": "84.7 million tons",
+          "aliases": [
+            "le havre",
+            "rouen"
+          ]
+        },
+        {
+          "answer": "Valencia",
+          "display": "80.7 million tons"
+        },
+        {
+          "answer": "Gdańsk",
+          "display": "80.4 million tons",
+          "aliases": [
+            "gdansk"
+          ]
+        },
+        {
+          "answer": "Marseille",
+          "display": "74.0 million tons"
+        },
+        {
+          "answer": "Barcelona",
+          "display": "69.5 million tons"
+        },
+        {
+          "answer": "Bergen",
+          "display": "69.2 million tons"
+        },
+        {
+          "answer": "Constanța",
+          "display": "67.6 million tons",
+          "aliases": [
+            "constanta"
+          ]
+        },
+        {
+          "answer": "North Sea Port",
+          "display": "67.0 million tons"
+        },
+        {
+          "answer": "Bremen",
+          "display": "65.3 million tons",
+          "aliases": [
+            "bremerhaven"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "transport/shipping/ports",
+      "question": "Top 10 US ports by total trade (2023, short tons)",
+      "cutoff": 10,
+      "difficulty": 3,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1351772241 | table 1 | name: Port name | value: Total trade",
+      "tags": [
+        "shipping",
+        "ports",
+        "usa",
+        "cargo"
+      ],
+      "answers": [
+        {
+          "answer": "Port of Houston",
+          "display": "275.9 million short tons",
+          "aliases": [
+            "houston"
+          ]
+        },
+        {
+          "answer": "Port of South Louisiana",
+          "display": "225.1 million short tons",
+          "aliases": [
+            "south louisiana"
+          ]
+        },
+        {
+          "answer": "Port of Corpus Christi",
+          "display": "150.8 million short tons",
+          "aliases": [
+            "corpus christi"
+          ]
+        },
+        {
+          "answer": "Port of New York and New Jersey",
+          "display": "123.7 million short tons",
+          "aliases": [
+            "ny/nj",
+            "port newark",
+            "new york"
+          ]
+        },
+        {
+          "answer": "Port of New Orleans",
+          "display": "81.1 million short tons",
+          "aliases": [
+            "new orleans"
+          ]
+        },
+        {
+          "answer": "Port of Long Beach",
+          "display": "79.2 million short tons",
+          "aliases": [
+            "long beach"
+          ]
+        },
+        {
+          "answer": "Port of Greater Baton Rouge",
+          "display": "71.7 million short tons",
+          "aliases": [
+            "baton rouge"
+          ]
+        },
+        {
+          "answer": "Port of Beaumont",
+          "display": "70.6 million short tons",
+          "aliases": [
+            "beaumont"
+          ]
+        },
+        {
+          "answer": "Port of Los Angeles",
+          "display": "59.5 million short tons",
+          "aliases": [
+            "los angeles",
+            "la"
+          ]
+        },
+        {
+          "answer": "Port of Hampton Roads",
+          "display": "58.0 million short tons",
+          "aliases": [
+            "hampton roads",
+            "norfolk"
+          ]
+        },
+        {
+          "answer": "Port of Mobile",
+          "display": "53.2 million short tons",
+          "aliases": [
+            "mobile"
+          ]
+        },
+        {
+          "answer": "Plaquemines Port",
+          "display": "46.8 million short tons",
+          "aliases": [
+            "plaquemines"
+          ]
+        },
+        {
+          "answer": "Port of Savannah",
+          "display": "43.5 million short tons",
+          "aliases": [
+            "savannah"
+          ]
+        },
+        {
+          "answer": "Port of Lake Charles",
+          "display": "43.1 million short tons",
+          "aliases": [
+            "lake charles"
+          ]
+        },
+        {
+          "answer": "Port Arthur",
+          "display": "41.2 million short tons"
+        }
+      ]
+    },
+    {
+      "category": "transport/shipping/companies",
+      "question": "Top 10 largest container shipping companies by TEU capacity (as of April 2026)",
+      "cutoff": 10,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1354275764 | table 1 | name: Company name | value: Total TEU",
+      "tags": [
+        "shipping",
+        "companies",
+        "containers"
+      ],
+      "answers": [
+        {
+          "answer": "Mediterranean Shipping Company",
+          "display": "7,318,632 TEU",
+          "aliases": [
+            "msc"
+          ]
+        },
+        {
+          "answer": "Maersk",
+          "display": "4,647,588 TEU"
+        },
+        {
+          "answer": "CMA CGM",
+          "display": "4,273,202 TEU"
+        },
+        {
+          "answer": "COSCO Shipping Lines",
+          "display": "3,593,746 TEU",
+          "aliases": [
+            "cosco"
+          ]
+        },
+        {
+          "answer": "Hapag-Lloyd",
+          "display": "2,400,946 TEU",
+          "aliases": [
+            "hapag"
+          ]
+        },
+        {
+          "answer": "Ocean Network Express",
+          "display": "2,134,872 TEU",
+          "aliases": [
+            "one"
+          ]
+        },
+        {
+          "answer": "Evergreen Marine",
+          "display": "1,973,231 TEU",
+          "aliases": [
+            "evergreen"
+          ]
+        },
+        {
+          "answer": "HMM",
+          "display": "1,029,773 TEU",
+          "aliases": [
+            "hyundai merchant marine"
+          ]
+        },
+        {
+          "answer": "Yang Ming",
+          "display": "741,908 TEU",
+          "aliases": [
+            "yang ming marine"
+          ]
+        },
+        {
+          "answer": "ZIM",
+          "display": "698,205 TEU",
+          "aliases": [
+            "zim integrated shipping",
+            "zim integrated shipping services"
+          ]
+        },
+        {
+          "answer": "Wan Hai Lines",
+          "display": "591,132 TEU",
+          "aliases": [
+            "wan hai"
+          ]
+        },
+        {
+          "answer": "Pacific International Lines",
+          "display": "442,216 TEU",
+          "aliases": [
+            "pil"
+          ]
+        },
+        {
+          "answer": "X-Press Feeders",
+          "display": "192,780 TEU",
+          "aliases": [
+            "x-press"
+          ]
+        },
+        {
+          "answer": "SITC",
+          "display": "187,472 TEU",
+          "aliases": [
+            "shandong international transportation corporation"
+          ]
+        },
+        {
+          "answer": "Unifeeder",
+          "display": "165,289 TEU"
+        }
+      ]
+    },
+    {
+      "category": "transport/shipping/fleets",
+      "question": "Top 10 countries and territories by merchant fleet gross tonnage (data as of 2025)",
+      "cutoff": 10,
+      "difficulty": 3,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1342936229 | table 1 | name: Country | value: Gross | where: N°~[0-9]",
+      "tags": [
+        "shipping",
+        "fleets",
+        "flags of convenience"
+      ],
+      "answers": [
+        {
+          "answer": "Liberia",
+          "display": "272.1 million gross tons"
+        },
+        {
+          "answer": "Panama",
+          "display": "242.5 million gross tons"
+        },
+        {
+          "answer": "Marshall Islands",
+          "display": "188.2 million gross tons"
+        },
+        {
+          "answer": "Hong Kong",
+          "display": "131.9 million gross tons",
+          "aliases": [
+            "hk"
+          ]
+        },
+        {
+          "answer": "Singapore",
+          "display": "104.7 million gross tons"
+        },
+        {
+          "answer": "China",
+          "display": "90.4 million gross tons"
+        },
+        {
+          "answer": "Malta",
+          "display": "86.9 million gross tons"
+        },
+        {
+          "answer": "Bahamas",
+          "display": "62.0 million gross tons"
+        },
+        {
+          "answer": "Greece",
+          "display": "32.9 million gross tons"
+        },
+        {
+          "answer": "Japan",
+          "display": "32.2 million gross tons"
+        },
+        {
+          "answer": "Portugal",
+          "display": "26.2 million gross tons"
+        },
+        {
+          "answer": "Indonesia",
+          "display": "24.5 million gross tons"
+        },
+        {
+          "answer": "Cyprus",
+          "display": "23.4 million gross tons"
+        },
+        {
+          "answer": "Denmark",
+          "display": "22.9 million gross tons"
+        }
+      ]
+    },
+    {
+      "category": "transport/shipping/ships",
+      "question": "Top 7 longest cruise ships in service by length overall (as of 2026)",
+      "cutoff": 7,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1375837595 | table 1 | name: Ship name | value: Length",
+      "tags": [
+        "shipping",
+        "cruise",
+        "ships"
+      ],
+      "answers": [
+        {
+          "answer": "Legend of the Seas",
+          "display": "364.84 m",
+          "aliases": [
+            "legend"
+          ]
+        },
+        {
+          "answer": "Star of the Seas",
+          "display": "364.83 m",
+          "aliases": [
+            "star"
+          ]
+        },
+        {
+          "answer": "Icon of the Seas",
+          "display": "364.75 m",
+          "aliases": [
+            "icon"
+          ]
+        },
+        {
+          "answer": "Harmony of the Seas",
+          "display": "362.12 m",
+          "aliases": [
+            "harmony"
+          ]
+        },
+        {
+          "answer": "Wonder of the Seas",
+          "display": "362.04 m",
+          "aliases": [
+            "wonder"
+          ]
+        },
+        {
+          "answer": "Utopia of the Seas",
+          "display": "361.12 m",
+          "aliases": [
+            "utopia"
+          ]
+        },
+        {
+          "answer": "Symphony of the Seas",
+          "display": "361.01 m",
+          "aliases": [
+            "symphony"
+          ]
+        },
+        {
+          "answer": "Oasis of the Seas",
+          "display": "360 m",
+          "aliases": [
+            "oasis"
+          ]
+        },
+        {
+          "answer": "Allure of the Seas",
+          "display": "360 m",
+          "aliases": [
+            "allure"
+          ]
+        },
+        {
+          "answer": "Ovation of the Seas",
+          "display": "348 m",
+          "aliases": [
+            "ovation"
+          ]
+        },
+        {
+          "answer": "Spectrum of the Seas",
+          "display": "347.11 m",
+          "aliases": [
+            "spectrum"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "transport/shipping/cruise",
+      "question": "Top 10 cruise lines by passengers carried (as of 2025)",
+      "cutoff": 10,
+      "difficulty": 3,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1367216515 | table 1 | name: Cruise line | value: (thousands) | header rows: 2 | where: Cruise line!~^(Carnival Corporation|Royal Caribbean Group|Mediterranean Shipping Company|Norwegian Cruise Line Holdings|Total)$ | where: Passengers / %!~^2\\.5$ | note: the 50/50 TUI JV row (2.5% share) is excluded so TUI Cruises is listed once; group-total rows are excluded",
+      "tags": [
+        "shipping",
+        "cruise",
+        "passengers"
+      ],
+      "answers": [
+        {
+          "answer": "Royal Caribbean",
+          "display": "7,150.1 thousand passengers",
+          "aliases": [
+            "royal caribbean international",
+            "rci"
+          ]
+        },
+        {
+          "answer": "Carnival Cruise Line",
+          "display": "6,762.0 thousand passengers",
+          "aliases": [
+            "carnival"
+          ]
+        },
+        {
+          "answer": "MSC Cruises",
+          "display": "3,375.3 thousand passengers",
+          "aliases": [
+            "msc"
+          ]
+        },
+        {
+          "answer": "Norwegian Cruise Line",
+          "display": "2,861.5 thousand passengers",
+          "aliases": [
+            "ncl",
+            "norwegian"
+          ]
+        },
+        {
+          "answer": "Princess Cruises",
+          "display": "1,942.9 thousand passengers",
+          "aliases": [
+            "princess"
+          ]
+        },
+        {
+          "answer": "Celebrity Cruises",
+          "display": "1,761.4 thousand passengers",
+          "aliases": [
+            "celebrity"
+          ]
+        },
+        {
+          "answer": "P&O Cruises",
+          "display": "1,464.9 thousand passengers",
+          "aliases": [
+            "p and o",
+            "p&o"
+          ]
+        },
+        {
+          "answer": "Costa Cruises",
+          "display": "1,412.6 thousand passengers",
+          "aliases": [
+            "costa"
+          ]
+        },
+        {
+          "answer": "AIDA Cruises",
+          "display": "1,085.8 thousand passengers",
+          "aliases": [
+            "aida"
+          ]
+        },
+        {
+          "answer": "Disney Cruise Line",
+          "display": "1,039.10 thousand passengers",
+          "aliases": [
+            "disney"
+          ]
+        },
+        {
+          "answer": "Holland America Line",
+          "display": "809.8 thousand passengers",
+          "aliases": [
+            "holland america"
+          ]
+        },
+        {
+          "answer": "TUI Cruises",
+          "display": "574.3 thousand passengers",
+          "aliases": [
+            "tui"
+          ]
+        },
+        {
+          "answer": "Cunard Line",
+          "display": "434.6 thousand passengers",
+          "aliases": [
+            "cunard"
+          ]
+        },
+        {
+          "answer": "Virgin Voyages",
+          "display": "295.0 thousand passengers",
+          "aliases": [
+            "virgin"
+          ]
+        }
+      ]
+    }
+  ]
+}

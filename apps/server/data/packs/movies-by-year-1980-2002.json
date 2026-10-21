@@ -1,0 +1,1513 @@
+{
+  "categories": [
+    {
+      "path": "movies/box-office",
+      "name": "Box Office"
+    }
+  ],
+  "questions": [
+    {
+      "category": "movies/box-office",
+      "cutoff": 7,
+      "difficulty": 2,
+      "question": "Top 7 highest-grossing films of 1980 (US domestic box office, as of October 2026)",
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1379686413 | table 1 | name: Title | value: Box-office gross",
+      "tags": [
+        "movies",
+        "box-office",
+        "1980s"
+      ],
+      "answers": [
+        {
+          "answer": "The Empire Strikes Back",
+          "display": "$209,398,025",
+          "aliases": [
+            "Empire Strikes Back",
+            "Star Wars Episode V"
+          ]
+        },
+        {
+          "answer": "9 to 5",
+          "display": "$103,290,500",
+          "aliases": [
+            "Nine to Five"
+          ]
+        },
+        {
+          "answer": "Stir Crazy",
+          "display": "$101,300,000"
+        },
+        {
+          "answer": "Airplane!",
+          "display": "$83,453,539",
+          "aliases": [
+            "Airplane"
+          ]
+        },
+        {
+          "answer": "Any Which Way You Can",
+          "display": "$70,687,344",
+          "aliases": [
+            "Any Which Way"
+          ]
+        },
+        {
+          "answer": "Private Benjamin",
+          "display": "$69,847,348"
+        },
+        {
+          "answer": "Coal Miner's Daughter",
+          "display": "$67,182,787"
+        },
+        {
+          "answer": "Smokey and the Bandit II",
+          "display": "$66,132,626",
+          "aliases": [
+            "Smokey and the Bandit 2"
+          ]
+        },
+        {
+          "answer": "The Blue Lagoon",
+          "display": "$58,853,106",
+          "aliases": [
+            "Blue Lagoon"
+          ]
+        },
+        {
+          "answer": "The Blues Brothers",
+          "display": "$57,229,890",
+          "aliases": [
+            "Blues Brothers"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "movies/box-office",
+      "cutoff": 7,
+      "difficulty": 2,
+      "question": "Top 7 highest-grossing films of 1981 (US domestic box office, as of October 2026)",
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1378524093 | table 1 | name: Title | value: Box-office gross",
+      "tags": [
+        "movies",
+        "box-office",
+        "1980s"
+      ],
+      "answers": [
+        {
+          "answer": "Raiders of the Lost Ark",
+          "display": "$212,222,025",
+          "aliases": [
+            "Raiders"
+          ]
+        },
+        {
+          "answer": "On Golden Pond",
+          "display": "$119,285,432"
+        },
+        {
+          "answer": "Superman II",
+          "display": "$108,185,706",
+          "aliases": [
+            "Superman 2"
+          ]
+        },
+        {
+          "answer": "Arthur",
+          "display": "$95,461,682"
+        },
+        {
+          "answer": "Stripes",
+          "display": "$85,297,000"
+        },
+        {
+          "answer": "The Cannonball Run",
+          "display": "$72,179,579",
+          "aliases": [
+            "Cannonball Run"
+          ]
+        },
+        {
+          "answer": "Chariots of Fire",
+          "display": "$58,972,904"
+        },
+        {
+          "answer": "For Your Eyes Only",
+          "display": "$54,812,802"
+        },
+        {
+          "answer": "The Four Seasons",
+          "display": "$50,427,646",
+          "aliases": [
+            "Four Seasons"
+          ]
+        },
+        {
+          "answer": "Time Bandits",
+          "display": "$42,365,581"
+        }
+      ]
+    },
+    {
+      "category": "movies/box-office",
+      "cutoff": 7,
+      "difficulty": 2,
+      "question": "Top 7 highest-grossing films of 1983 (US domestic box office, as of October 2026)",
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1378356904 | table 1 | name: Title | value: Box-office gross",
+      "tags": [
+        "movies",
+        "box-office",
+        "1980s"
+      ],
+      "answers": [
+        {
+          "answer": "Return of the Jedi",
+          "display": "$252,583,617",
+          "aliases": [
+            "Jedi"
+          ]
+        },
+        {
+          "answer": "Terms of Endearment",
+          "display": "$108,423,489"
+        },
+        {
+          "answer": "Flashdance",
+          "display": "$92,921,203"
+        },
+        {
+          "answer": "Trading Places",
+          "display": "$90,404,800"
+        },
+        {
+          "answer": "WarGames",
+          "display": "$79,567,667"
+        },
+        {
+          "answer": "Octopussy",
+          "display": "$67,893,619"
+        },
+        {
+          "answer": "Sudden Impact",
+          "display": "$67,642,693"
+        },
+        {
+          "answer": "Staying Alive",
+          "display": "$64,892,670"
+        },
+        {
+          "answer": "Mr. Mom",
+          "display": "$64,783,827"
+        },
+        {
+          "answer": "Risky Business",
+          "display": "$63,541,777"
+        }
+      ]
+    },
+    {
+      "category": "movies/box-office",
+      "cutoff": 7,
+      "difficulty": 2,
+      "question": "Top 7 highest-grossing films of 1984 (US domestic box office, as of October 2026)",
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1379746089 | table 1 | name: Title | value: Box-office gross",
+      "tags": [
+        "movies",
+        "box-office",
+        "1980s"
+      ],
+      "answers": [
+        {
+          "answer": "Beverly Hills Cop",
+          "display": "$234,760,478"
+        },
+        {
+          "answer": "Ghostbusters",
+          "display": "$229,242,989"
+        },
+        {
+          "answer": "Indiana Jones and the Temple of Doom",
+          "display": "$179,870,271",
+          "aliases": [
+            "Temple of Doom"
+          ]
+        },
+        {
+          "answer": "Gremlins",
+          "display": "$153,083,102"
+        },
+        {
+          "answer": "The Karate Kid",
+          "display": "$90,815,558",
+          "aliases": [
+            "Karate Kid"
+          ]
+        },
+        {
+          "answer": "Police Academy",
+          "display": "$81,198,894"
+        },
+        {
+          "answer": "Footloose",
+          "display": "$80,035,402"
+        },
+        {
+          "answer": "Romancing the Stone",
+          "display": "$76,572,238"
+        },
+        {
+          "answer": "Star Trek III: The Search for Spock",
+          "display": "$76,471,076",
+          "aliases": [
+            "The Search for Spock",
+            "Star Trek III"
+          ]
+        },
+        {
+          "answer": "Splash",
+          "display": "$69,821,334"
+        }
+      ]
+    },
+    {
+      "category": "movies/box-office",
+      "cutoff": 7,
+      "difficulty": 2,
+      "question": "Top 7 highest-grossing films of 1985 (US domestic box office, as of October 2026)",
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1378357740 | table 1 | name: Title | value: Box-office gross",
+      "tags": [
+        "movies",
+        "box-office",
+        "1980s"
+      ],
+      "answers": [
+        {
+          "answer": "Back to the Future",
+          "display": "$210,609,762",
+          "aliases": [
+            "BTTF"
+          ]
+        },
+        {
+          "answer": "Rambo: First Blood Part II",
+          "display": "$150,415,432",
+          "aliases": [
+            "Rambo II",
+            "First Blood Part II"
+          ]
+        },
+        {
+          "answer": "Rocky IV",
+          "display": "$127,873,716",
+          "aliases": [
+            "Rocky 4"
+          ]
+        },
+        {
+          "answer": "The Color Purple",
+          "display": "$94,175,854",
+          "aliases": [
+            "Color Purple"
+          ]
+        },
+        {
+          "answer": "Out of Africa",
+          "display": "$87,071,205"
+        },
+        {
+          "answer": "Cocoon",
+          "display": "$76,113,124"
+        },
+        {
+          "answer": "The Jewel of the Nile",
+          "display": "$75,973,200",
+          "aliases": [
+            "Jewel of the Nile"
+          ]
+        },
+        {
+          "answer": "Witness",
+          "display": "$68,706,993"
+        },
+        {
+          "answer": "The Goonies",
+          "display": "$61,389,680",
+          "aliases": [
+            "Goonies"
+          ]
+        },
+        {
+          "answer": "Spies Like Us",
+          "display": "$60,088,980"
+        }
+      ]
+    },
+    {
+      "category": "movies/box-office",
+      "cutoff": 7,
+      "difficulty": 2,
+      "question": "Top 7 highest-grossing films of 1986 (US domestic box office, as of October 2026)",
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1378555111 | table 1 | name: Title | value: Box-office gross",
+      "tags": [
+        "movies",
+        "box-office",
+        "1980s"
+      ],
+      "answers": [
+        {
+          "answer": "Top Gun",
+          "display": "$180,470,489"
+        },
+        {
+          "answer": "Crocodile Dundee",
+          "display": "$174,803,506"
+        },
+        {
+          "answer": "Platoon",
+          "display": "$137,900,000"
+        },
+        {
+          "answer": "The Karate Kid Part II",
+          "display": "$115,103,979",
+          "aliases": [
+            "Karate Kid Part II",
+            "Karate Kid 2"
+          ]
+        },
+        {
+          "answer": "Star Trek IV: The Voyage Home",
+          "display": "$109,713,132",
+          "aliases": [
+            "The Voyage Home",
+            "Star Trek IV"
+          ]
+        },
+        {
+          "answer": "Back to School",
+          "display": "$91,258,000"
+        },
+        {
+          "answer": "Aliens",
+          "display": "$86,160,248"
+        },
+        {
+          "answer": "The Golden Child",
+          "display": "$79,817,937",
+          "aliases": [
+            "Golden Child"
+          ]
+        },
+        {
+          "answer": "Ruthless People",
+          "display": "$71,624,879"
+        },
+        {
+          "answer": "Ferris Bueller's Day Off",
+          "display": "$70,136,169",
+          "aliases": [
+            "Ferris Bueller"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "movies/box-office",
+      "cutoff": 7,
+      "difficulty": 2,
+      "question": "Top 7 highest-grossing films of 1987 (US domestic box office, as of October 2026)",
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1379895332 | table 1 | name: Title | value: Box-office gross",
+      "tags": [
+        "movies",
+        "box-office",
+        "1980s"
+      ],
+      "answers": [
+        {
+          "answer": "Three Men and a Baby",
+          "display": "$167,780,960"
+        },
+        {
+          "answer": "Fatal Attraction",
+          "display": "$156,645,693"
+        },
+        {
+          "answer": "Beverly Hills Cop II",
+          "display": "$153,665,036",
+          "aliases": [
+            "Beverly Hills Cop 2"
+          ]
+        },
+        {
+          "answer": "Good Morning, Vietnam",
+          "display": "$123,922,370"
+        },
+        {
+          "answer": "Moonstruck",
+          "display": "$80,640,528"
+        },
+        {
+          "answer": "The Untouchables",
+          "display": "$76,270,454",
+          "aliases": [
+            "Untouchables"
+          ]
+        },
+        {
+          "answer": "The Secret of My Success",
+          "display": "$66,995,000",
+          "aliases": [
+            "Secret of My Success"
+          ]
+        },
+        {
+          "answer": "Stakeout",
+          "display": "$65,673,233"
+        },
+        {
+          "answer": "Lethal Weapon",
+          "display": "$65,207,127"
+        },
+        {
+          "answer": "The Witches of Eastwick",
+          "display": "$63,766,510",
+          "aliases": [
+            "Witches of Eastwick"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "movies/box-office",
+      "cutoff": 7,
+      "difficulty": 2,
+      "question": "Top 7 highest-grossing films of 1988 (worldwide box office, as of October 2026)",
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1379522419 | table 1 | name: Title | value: Worldwide gross",
+      "tags": [
+        "movies",
+        "box-office",
+        "1980s"
+      ],
+      "answers": [
+        {
+          "answer": "Rain Man",
+          "display": "$354,825,435"
+        },
+        {
+          "answer": "Who Framed Roger Rabbit",
+          "display": "$329,803,958",
+          "aliases": [
+            "Roger Rabbit"
+          ]
+        },
+        {
+          "answer": "Coming to America",
+          "display": "$288,752,301"
+        },
+        {
+          "answer": "Crocodile Dundee II",
+          "display": "$239,606,210",
+          "aliases": [
+            "Crocodile Dundee 2"
+          ]
+        },
+        {
+          "answer": "Twins",
+          "display": "$216,614,388"
+        },
+        {
+          "answer": "Rambo III",
+          "display": "$189,015,611",
+          "aliases": [
+            "Rambo 3"
+          ]
+        },
+        {
+          "answer": "A Fish Called Wanda",
+          "display": "$188,597,000",
+          "aliases": [
+            "Fish Called Wanda"
+          ]
+        },
+        {
+          "answer": "Cocktail",
+          "display": "$171,504,781"
+        },
+        {
+          "answer": "Big",
+          "display": "$151,668,774"
+        },
+        {
+          "answer": "Die Hard",
+          "display": "$141,500,000"
+        }
+      ]
+    },
+    {
+      "category": "movies/box-office",
+      "cutoff": 7,
+      "difficulty": 2,
+      "question": "Top 7 highest-grossing films of 1989 (worldwide box office, as of October 2026)",
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1379557427 | table 1 | name: Title | value: Worldwide gross",
+      "tags": [
+        "movies",
+        "box-office",
+        "1980s"
+      ],
+      "answers": [
+        {
+          "answer": "Indiana Jones and the Last Crusade",
+          "display": "$474,171,806",
+          "aliases": [
+            "Last Crusade"
+          ]
+        },
+        {
+          "answer": "Batman",
+          "display": "$411,569,241"
+        },
+        {
+          "answer": "Back to the Future Part II",
+          "display": "$332,950,002",
+          "aliases": [
+            "BTTF 2",
+            "BTTF II"
+          ]
+        },
+        {
+          "answer": "Look Who's Talking",
+          "display": "$297,999,813"
+        },
+        {
+          "answer": "Dead Poets Society",
+          "display": "$235,860,116"
+        },
+        {
+          "answer": "Lethal Weapon 2",
+          "display": "$227,853,986"
+        },
+        {
+          "answer": "Honey, I Shrunk the Kids",
+          "display": "$222,724,172",
+          "aliases": [
+            "Honey I Shrunk the Kids"
+          ]
+        },
+        {
+          "answer": "Ghostbusters II",
+          "display": "$215,394,738",
+          "aliases": [
+            "Ghostbusters 2"
+          ]
+        },
+        {
+          "answer": "The Little Mermaid",
+          "display": "$184,155,863"
+        },
+        {
+          "answer": "Born on the Fourth of July",
+          "display": "$162,001,698"
+        }
+      ]
+    },
+    {
+      "category": "movies/box-office",
+      "cutoff": 7,
+      "difficulty": 2,
+      "question": "Top 7 highest-grossing films of 1990 (worldwide box office, as of October 2026)",
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1378362964 | table 1 | name: Title | value: Worldwide gross",
+      "tags": [
+        "movies",
+        "box-office",
+        "1990s"
+      ],
+      "answers": [
+        {
+          "answer": "Ghost",
+          "display": "$505,702,588"
+        },
+        {
+          "answer": "Home Alone",
+          "display": "$476,684,675"
+        },
+        {
+          "answer": "Pretty Woman",
+          "display": "$463,406,268"
+        },
+        {
+          "answer": "Dances With Wolves",
+          "display": "$424,208,848"
+        },
+        {
+          "answer": "Total Recall",
+          "display": "$261,317,921"
+        },
+        {
+          "answer": "Back to the Future Part III",
+          "display": "$244,527,583",
+          "aliases": [
+            "BTTF 3",
+            "BTTF III"
+          ]
+        },
+        {
+          "answer": "Die Hard 2",
+          "display": "$240,031,094",
+          "aliases": [
+            "Die Hard II"
+          ]
+        },
+        {
+          "answer": "Presumed Innocent",
+          "display": "$221,303,188"
+        },
+        {
+          "answer": "Teenage Mutant Ninja Turtles",
+          "display": "$202,084,756",
+          "aliases": [
+            "TMNT"
+          ]
+        },
+        {
+          "answer": "Kindergarten Cop",
+          "display": "$201,957,688"
+        }
+      ]
+    },
+    {
+      "category": "movies/box-office",
+      "cutoff": 7,
+      "difficulty": 2,
+      "question": "Top 7 highest-grossing films of 1991 (worldwide box office, as of October 2026)",
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1379548210 | table 1 | name: Title | value: Worldwide gross",
+      "tags": [
+        "movies",
+        "box-office",
+        "1990s"
+      ],
+      "answers": [
+        {
+          "answer": "Terminator 2: Judgment Day",
+          "display": "$520,881,154",
+          "aliases": [
+            "T2",
+            "Terminator 2"
+          ]
+        },
+        {
+          "answer": "Robin Hood: Prince of Thieves",
+          "display": "$390,493,908",
+          "aliases": [
+            "Prince of Thieves"
+          ]
+        },
+        {
+          "answer": "Beauty and the Beast",
+          "display": "$346,317,207"
+        },
+        {
+          "answer": "Hook",
+          "display": "$300,854,984"
+        },
+        {
+          "answer": "The Silence of the Lambs",
+          "display": "$272,742,922",
+          "aliases": [
+            "Silence of the Lambs"
+          ]
+        },
+        {
+          "answer": "JFK",
+          "display": "$205,405,498"
+        },
+        {
+          "answer": "The Naked Gun 2½: The Smell of Fear",
+          "display": "$192,230,411",
+          "aliases": [
+            "Naked Gun 2½"
+          ]
+        },
+        {
+          "answer": "The Addams Family",
+          "display": "$191,502,426",
+          "aliases": [
+            "Addams Family"
+          ]
+        },
+        {
+          "answer": "Cape Fear",
+          "display": "$182,291,969"
+        },
+        {
+          "answer": "Hot Shots!",
+          "display": "$181,096,164",
+          "aliases": [
+            "Hot Shots"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "movies/box-office",
+      "cutoff": 7,
+      "difficulty": 2,
+      "question": "Top 7 highest-grossing films of 1992 (worldwide box office, as of October 2026)",
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1378452229 | table 1 | name: Title | value: Worldwide gross",
+      "tags": [
+        "movies",
+        "box-office",
+        "1990s"
+      ],
+      "answers": [
+        {
+          "answer": "Aladdin",
+          "display": "$504,050,219"
+        },
+        {
+          "answer": "The Bodyguard",
+          "display": "$411,006,740",
+          "aliases": [
+            "Bodyguard"
+          ]
+        },
+        {
+          "answer": "Home Alone 2: Lost in New York",
+          "display": "$358,994,850",
+          "aliases": [
+            "Home Alone 2"
+          ]
+        },
+        {
+          "answer": "Basic Instinct",
+          "display": "$352,927,224"
+        },
+        {
+          "answer": "Lethal Weapon 3",
+          "display": "$321,731,527",
+          "aliases": [
+            "Lethal Weapon III"
+          ]
+        },
+        {
+          "answer": "Batman Returns",
+          "display": "$266,822,354"
+        },
+        {
+          "answer": "A Few Good Men",
+          "display": "$243,240,178"
+        },
+        {
+          "answer": "Sister Act",
+          "display": "$231,605,150"
+        },
+        {
+          "answer": "Bram Stoker's Dracula",
+          "display": "$215,862,692",
+          "aliases": [
+            "Dracula"
+          ]
+        },
+        {
+          "answer": "Wayne's World",
+          "display": "$183,097,323"
+        }
+      ]
+    },
+    {
+      "category": "movies/box-office",
+      "cutoff": 7,
+      "difficulty": 2,
+      "question": "Top 7 highest-grossing films of 1993 (worldwide box office, as of October 2026)",
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1379522934 | table 1 | name: Title | value: Worldwide gross",
+      "tags": [
+        "movies",
+        "box-office",
+        "1990s"
+      ],
+      "answers": [
+        {
+          "answer": "Jurassic Park",
+          "display": "$912,667,947"
+        },
+        {
+          "answer": "Mrs. Doubtfire",
+          "display": "$441,286,195",
+          "aliases": [
+            "Mrs Doubtfire"
+          ]
+        },
+        {
+          "answer": "The Fugitive",
+          "display": "$368,875,760",
+          "aliases": [
+            "Fugitive"
+          ]
+        },
+        {
+          "answer": "Schindler's List",
+          "display": "$321,306,305"
+        },
+        {
+          "answer": "The Firm",
+          "display": "$270,248,367"
+        },
+        {
+          "answer": "Indecent Proposal",
+          "display": "$266,614,059"
+        },
+        {
+          "answer": "Cliffhanger",
+          "display": "$255,000,211"
+        },
+        {
+          "answer": "Sleepless in Seattle",
+          "display": "$227,799,884"
+        },
+        {
+          "answer": "Philadelphia",
+          "display": "$206,678,440"
+        },
+        {
+          "answer": "The Pelican Brief",
+          "display": "$195,268,056",
+          "aliases": [
+            "Pelican Brief"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "movies/box-office",
+      "cutoff": 7,
+      "difficulty": 2,
+      "question": "Top 7 highest-grossing films of 1994 (worldwide box office, as of October 2026)",
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1379705415 | table 1 | name: Title | value: Worldwide gross",
+      "tags": [
+        "movies",
+        "box-office",
+        "1990s"
+      ],
+      "answers": [
+        {
+          "answer": "The Lion King",
+          "display": "$763,455,561",
+          "aliases": [
+            "Lion King"
+          ]
+        },
+        {
+          "answer": "Forrest Gump",
+          "display": "$677,945,399"
+        },
+        {
+          "answer": "True Lies",
+          "display": "$378,882,411"
+        },
+        {
+          "answer": "The Mask",
+          "display": "$351,583,407"
+        },
+        {
+          "answer": "Speed",
+          "display": "$350,448,145"
+        },
+        {
+          "answer": "The Flintstones",
+          "display": "$341,631,208",
+          "aliases": [
+            "Flintstones"
+          ]
+        },
+        {
+          "answer": "Dumb and Dumber",
+          "display": "$247,275,374"
+        },
+        {
+          "answer": "Four Weddings and a Funeral",
+          "display": "$245,700,832",
+          "aliases": [
+            "Four Weddings"
+          ]
+        },
+        {
+          "answer": "Interview with the Vampire",
+          "display": "$223,664,608"
+        },
+        {
+          "answer": "Clear and Present Danger",
+          "display": "$215,887,717"
+        }
+      ]
+    },
+    {
+      "category": "movies/box-office",
+      "cutoff": 7,
+      "difficulty": 2,
+      "question": "Top 7 highest-grossing films of 1995 (worldwide box office, as of October 2026)",
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1379568155 | table 1 | name: Title | value: Worldwide gross",
+      "tags": [
+        "movies",
+        "box-office",
+        "1990s"
+      ],
+      "answers": [
+        {
+          "answer": "Die Hard with a Vengeance",
+          "display": "$366,101,666",
+          "aliases": [
+            "Die Hard 3",
+            "Die Hard III"
+          ]
+        },
+        {
+          "answer": "Toy Story",
+          "display": "$361,958,736"
+        },
+        {
+          "answer": "Apollo 13",
+          "display": "$355,237,933"
+        },
+        {
+          "answer": "GoldenEye",
+          "display": "$352,194,034"
+        },
+        {
+          "answer": "Pocahontas",
+          "display": "$346,079,773"
+        },
+        {
+          "answer": "Batman Forever",
+          "display": "$336,529,144"
+        },
+        {
+          "answer": "Seven",
+          "display": "$327,311,859",
+          "aliases": [
+            "Se7en"
+          ]
+        },
+        {
+          "answer": "Casper",
+          "display": "$287,928,194"
+        },
+        {
+          "answer": "Waterworld",
+          "display": "$264,218,220",
+          "aliases": [
+            "Water World"
+          ]
+        },
+        {
+          "answer": "Jumanji",
+          "display": "$262,797,249"
+        }
+      ]
+    },
+    {
+      "category": "movies/box-office",
+      "cutoff": 7,
+      "difficulty": 2,
+      "question": "Top 7 highest-grossing films of 1996 (worldwide box office, as of October 2026)",
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1378461757 | table 1 | name: Title | value: Worldwide gross",
+      "tags": [
+        "movies",
+        "box-office",
+        "1990s"
+      ],
+      "answers": [
+        {
+          "answer": "Independence Day",
+          "display": "$817,400,891",
+          "aliases": [
+            "ID4"
+          ]
+        },
+        {
+          "answer": "Twister",
+          "display": "$499,230,797"
+        },
+        {
+          "answer": "Mission: Impossible",
+          "display": "$457,696,359",
+          "aliases": [
+            "Mission Impossible"
+          ]
+        },
+        {
+          "answer": "The Rock",
+          "display": "$335,062,621"
+        },
+        {
+          "answer": "The Hunchback of Notre Dame",
+          "display": "$325,338,851",
+          "aliases": [
+            "Hunchback of Notre Dame"
+          ]
+        },
+        {
+          "answer": "101 Dalmatians",
+          "display": "$320,689,294"
+        },
+        {
+          "answer": "Ransom",
+          "display": "$309,492,681"
+        },
+        {
+          "answer": "The Nutty Professor",
+          "display": "$273,961,019",
+          "aliases": [
+            "Nutty Professor"
+          ]
+        },
+        {
+          "answer": "Jerry Maguire",
+          "display": "$273,552,592"
+        },
+        {
+          "answer": "Space Jam",
+          "display": "$250,180,384"
+        }
+      ]
+    },
+    {
+      "category": "movies/box-office",
+      "cutoff": 7,
+      "difficulty": 2,
+      "question": "Top 7 highest-grossing films of 1997 (worldwide box office, as of October 2026)",
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1379516561 | table 1 | name: Title | value: Worldwide gross",
+      "tags": [
+        "movies",
+        "box-office",
+        "1990s"
+      ],
+      "answers": [
+        {
+          "answer": "Titanic",
+          "display": "$1,843,201,268"
+        },
+        {
+          "answer": "The Lost World: Jurassic Park",
+          "display": "$618,638,999",
+          "aliases": [
+            "Lost World"
+          ]
+        },
+        {
+          "answer": "Men in Black",
+          "display": "$589,390,539",
+          "aliases": [
+            "MIB"
+          ]
+        },
+        {
+          "answer": "Tomorrow Never Dies",
+          "display": "$333,011,068"
+        },
+        {
+          "answer": "Air Force One",
+          "display": "$315,156,409"
+        },
+        {
+          "answer": "As Good as It Gets",
+          "display": "$314,178,011"
+        },
+        {
+          "answer": "Liar Liar",
+          "display": "$302,710,615"
+        },
+        {
+          "answer": "My Best Friend's Wedding",
+          "display": "$299,288,605"
+        },
+        {
+          "answer": "The Fifth Element",
+          "display": "$263,920,180",
+          "aliases": [
+            "Fifth Element"
+          ]
+        },
+        {
+          "answer": "The Full Monty",
+          "display": "$257,938,649",
+          "aliases": [
+            "Full Monty"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "movies/box-office",
+      "cutoff": 7,
+      "difficulty": 2,
+      "question": "Top 7 highest-grossing films of 1998 (worldwide box office, as of October 2026)",
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1378464054 | table 1 | name: Title | value: Worldwide gross",
+      "tags": [
+        "movies",
+        "box-office",
+        "1990s"
+      ],
+      "answers": [
+        {
+          "answer": "Armageddon",
+          "display": "$553,709,788"
+        },
+        {
+          "answer": "Saving Private Ryan",
+          "display": "$482,352,390",
+          "aliases": [
+            "Private Ryan"
+          ]
+        },
+        {
+          "answer": "Godzilla",
+          "display": "$379,014,294"
+        },
+        {
+          "answer": "There's Something About Mary",
+          "display": "$369,884,651",
+          "aliases": [
+            "Something About Mary"
+          ]
+        },
+        {
+          "answer": "A Bug's Life",
+          "display": "$363,398,565",
+          "aliases": [
+            "Bug's Life"
+          ]
+        },
+        {
+          "answer": "Deep Impact",
+          "display": "$349,464,664"
+        },
+        {
+          "answer": "Mulan",
+          "display": "$304,320,254"
+        },
+        {
+          "answer": "Dr. Dolittle",
+          "display": "$294,456,605",
+          "aliases": [
+            "Doctor Dolittle"
+          ]
+        },
+        {
+          "answer": "Shakespeare in Love",
+          "display": "$289,317,794"
+        },
+        {
+          "answer": "Lethal Weapon 4",
+          "display": "$285,444,603",
+          "aliases": [
+            "Lethal Weapon IV"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "movies/box-office",
+      "cutoff": 7,
+      "difficulty": 2,
+      "question": "Top 7 highest-grossing films of 1999 (worldwide box office, as of September 2026)",
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1376004183 | table 1 | name: Title | value: Worldwide gross",
+      "tags": [
+        "movies",
+        "box-office",
+        "1990s"
+      ],
+      "answers": [
+        {
+          "answer": "Star Wars: Episode I – The Phantom Menace",
+          "display": "$924,305,084",
+          "aliases": [
+            "The Phantom Menace",
+            "Phantom Menace",
+            "Episode I"
+          ]
+        },
+        {
+          "answer": "The Sixth Sense",
+          "display": "$672,806,292",
+          "aliases": [
+            "Sixth Sense"
+          ]
+        },
+        {
+          "answer": "Toy Story 2",
+          "display": "$511,358,276",
+          "aliases": [
+            "Toy Story II"
+          ]
+        },
+        {
+          "answer": "The Matrix",
+          "display": "$465,974,198",
+          "aliases": [
+            "Matrix"
+          ]
+        },
+        {
+          "answer": "Tarzan",
+          "display": "$448,191,819"
+        },
+        {
+          "answer": "The Mummy",
+          "display": "$418,138,535",
+          "aliases": [
+            "Mummy"
+          ]
+        },
+        {
+          "answer": "Notting Hill",
+          "display": "$363,889,678"
+        },
+        {
+          "answer": "The World Is Not Enough",
+          "display": "$361,832,400",
+          "aliases": [
+            "World Is Not Enough"
+          ]
+        },
+        {
+          "answer": "American Beauty",
+          "display": "$356,296,601"
+        },
+        {
+          "answer": "Austin Powers: The Spy Who Shagged Me",
+          "display": "$312,383,487",
+          "aliases": [
+            "The Spy Who Shagged Me"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "movies/box-office",
+      "cutoff": 7,
+      "difficulty": 2,
+      "question": "Top 7 highest-grossing films of 2000 (worldwide box office, as of October 2026)",
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1379711007 | table 1 | name: Title | value: Worldwide gross",
+      "tags": [
+        "movies",
+        "box-office",
+        "2000s"
+      ],
+      "answers": [
+        {
+          "answer": "Mission: Impossible 2",
+          "display": "$546,388,108",
+          "aliases": [
+            "Mission Impossible 2",
+            "MI2"
+          ]
+        },
+        {
+          "answer": "Gladiator",
+          "display": "$465,516,248"
+        },
+        {
+          "answer": "Cast Away",
+          "display": "$429,632,142"
+        },
+        {
+          "answer": "What Women Want",
+          "display": "$374,111,707"
+        },
+        {
+          "answer": "Dinosaur",
+          "display": "$349,822,765"
+        },
+        {
+          "answer": "How the Grinch Stole Christmas",
+          "display": "$346,524,444",
+          "aliases": [
+            "The Grinch"
+          ]
+        },
+        {
+          "answer": "Meet the Parents",
+          "display": "$330,444,045"
+        },
+        {
+          "answer": "The Perfect Storm",
+          "display": "$328,711,434",
+          "aliases": [
+            "Perfect Storm"
+          ]
+        },
+        {
+          "answer": "X-Men",
+          "display": "$296,339,528"
+        },
+        {
+          "answer": "What Lies Beneath",
+          "display": "$291,420,351"
+        }
+      ]
+    },
+    {
+      "category": "movies/box-office",
+      "cutoff": 7,
+      "difficulty": 2,
+      "question": "Top 7 highest-grossing films of 2001 (worldwide box office, as of October 2026)",
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1379522878 | table 1 | name: Title | value: Worldwide gross",
+      "tags": [
+        "movies",
+        "box-office",
+        "2000s"
+      ],
+      "answers": [
+        {
+          "answer": "Harry Potter and the Philosopher's Stone",
+          "display": "$974,755,371",
+          "aliases": [
+            "Philosopher's Stone",
+            "Sorcerer's Stone",
+            "Harry Potter and the Sorcerer's Stone"
+          ]
+        },
+        {
+          "answer": "The Lord of the Rings: The Fellowship of the Ring",
+          "display": "$883,726,270",
+          "aliases": [
+            "Fellowship of the Ring"
+          ]
+        },
+        {
+          "answer": "Monsters, Inc.",
+          "display": "$528,773,250",
+          "aliases": [
+            "Monsters Inc"
+          ]
+        },
+        {
+          "answer": "Shrek",
+          "display": "$484,944,448"
+        },
+        {
+          "answer": "Ocean's Eleven",
+          "display": "$450,717,150"
+        },
+        {
+          "answer": "Pearl Harbor",
+          "display": "$449,220,945"
+        },
+        {
+          "answer": "The Mummy Returns",
+          "display": "$433,013,274",
+          "aliases": [
+            "Mummy Returns"
+          ]
+        },
+        {
+          "answer": "Jurassic Park III",
+          "display": "$368,780,809",
+          "aliases": [
+            "Jurassic Park 3"
+          ]
+        },
+        {
+          "answer": "Planet of the Apes",
+          "display": "$362,211,740"
+        },
+        {
+          "answer": "Hannibal",
+          "display": "$351,692,268"
+        }
+      ]
+    },
+    {
+      "category": "movies/box-office",
+      "cutoff": 7,
+      "difficulty": 2,
+      "question": "Top 7 highest-grossing films of 2002 (worldwide box office, as of October 2026)",
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1378165539 | table 1 | name: Title | value: Worldwide gross",
+      "tags": [
+        "movies",
+        "box-office",
+        "2000s"
+      ],
+      "answers": [
+        {
+          "answer": "The Lord of the Rings: The Two Towers",
+          "display": "$936,689,735",
+          "aliases": [
+            "The Two Towers",
+            "Two Towers"
+          ]
+        },
+        {
+          "answer": "Harry Potter and the Chamber of Secrets",
+          "display": "$878,979,634",
+          "aliases": [
+            "Chamber of Secrets"
+          ]
+        },
+        {
+          "answer": "Spider-Man",
+          "display": "$821,708,551"
+        },
+        {
+          "answer": "Star Wars: Episode II – Attack of the Clones",
+          "display": "$653,741,940",
+          "aliases": [
+            "Attack of the Clones",
+            "Episode II"
+          ]
+        },
+        {
+          "answer": "Men in Black II",
+          "display": "$441,818,803",
+          "aliases": [
+            "MIB II",
+            "MIB 2"
+          ]
+        },
+        {
+          "answer": "Die Another Day",
+          "display": "$431,971,116"
+        },
+        {
+          "answer": "Signs",
+          "display": "$408,247,917"
+        },
+        {
+          "answer": "Ice Age",
+          "display": "$383,257,136"
+        },
+        {
+          "answer": "My Big Fat Greek Wedding",
+          "display": "$368,744,044",
+          "aliases": [
+            "Big Fat Greek Wedding"
+          ]
+        },
+        {
+          "answer": "Minority Report",
+          "display": "$358,372,926"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1364 @@
+{
+  "categories": [
+    {
+      "path": "sports/basketball/nba-players",
+      "name": "NBA Players"
+    },
+    {
+      "path": "sports/basketball/nba-awards",
+      "name": "NBA Awards"
+    },
+    {
+      "path": "sports/basketball/nba-teams",
+      "name": "NBA Teams"
+    }
+  ],
+  "questions": [
+    {
+      "category": "sports/basketball/nba-players",
+      "question": "Top 10 NBA career regular-season steals leaders (through the 2025–26 season)",
+      "cutoff": 10,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1378458123 | table 2 | name: Player | value: Total steals",
+      "tags": [
+        "nba",
+        "career",
+        "steals"
+      ],
+      "answers": [
+        {
+          "answer": "John Stockton",
+          "display": "3,265 steals",
+          "aliases": [
+            "Stockton"
+          ]
+        },
+        {
+          "answer": "Chris Paul",
+          "display": "2,728 steals",
+          "aliases": [
+            "CP3"
+          ]
+        },
+        {
+          "answer": "Jason Kidd",
+          "display": "2,684 steals",
+          "aliases": [
+            "Kidd"
+          ]
+        },
+        {
+          "answer": "Michael Jordan",
+          "display": "2,514 steals",
+          "aliases": [
+            "Jordan",
+            "MJ"
+          ]
+        },
+        {
+          "answer": "Gary Payton",
+          "display": "2,445 steals",
+          "aliases": [
+            "Payton",
+            "The Glove"
+          ]
+        },
+        {
+          "answer": "LeBron James",
+          "display": "2,417 steals",
+          "aliases": [
+            "LeBron"
+          ]
+        },
+        {
+          "answer": "Maurice Cheeks",
+          "display": "2,310 steals",
+          "aliases": [
+            "Cheeks"
+          ]
+        },
+        {
+          "answer": "Scottie Pippen",
+          "display": "2,307 steals",
+          "aliases": [
+            "Pippen"
+          ]
+        },
+        {
+          "answer": "Clyde Drexler",
+          "display": "2,207 steals",
+          "aliases": [
+            "Drexler"
+          ]
+        },
+        {
+          "answer": "Hakeem Olajuwon",
+          "display": "2,162 steals",
+          "aliases": [
+            "Olajuwon",
+            "Hakeem"
+          ]
+        },
+        {
+          "answer": "Alvin Robertson",
+          "display": "2,112 steals"
+        },
+        {
+          "answer": "Karl Malone",
+          "display": "2,085 steals",
+          "aliases": [
+            "Malone",
+            "The Mailman"
+          ]
+        },
+        {
+          "answer": "Mookie Blaylock",
+          "display": "2,075 steals",
+          "aliases": [
+            "Mookie"
+          ]
+        },
+        {
+          "answer": "Russell Westbrook",
+          "display": "2,038 steals",
+          "aliases": [
+            "Westbrook",
+            "Russ"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/basketball/nba-players",
+      "question": "Top 10 NBA career regular-season blocks leaders (through the 2025–26 season)",
+      "cutoff": 10,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1373762821 | table 2 | name: Player | value: Total blocks",
+      "tags": [
+        "nba",
+        "career",
+        "blocks"
+      ],
+      "answers": [
+        {
+          "answer": "Hakeem Olajuwon",
+          "display": "3,830 blocks",
+          "aliases": [
+            "Olajuwon",
+            "Hakeem"
+          ]
+        },
+        {
+          "answer": "Dikembe Mutombo",
+          "display": "3,289 blocks",
+          "aliases": [
+            "Mutombo"
+          ]
+        },
+        {
+          "answer": "Kareem Abdul-Jabbar",
+          "display": "3,189 blocks",
+          "aliases": [
+            "Kareem"
+          ]
+        },
+        {
+          "answer": "Mark Eaton",
+          "display": "3,064 blocks",
+          "aliases": [
+            "Eaton"
+          ]
+        },
+        {
+          "answer": "Tim Duncan",
+          "display": "3,020 blocks",
+          "aliases": [
+            "Duncan"
+          ]
+        },
+        {
+          "answer": "David Robinson",
+          "display": "2,954 blocks",
+          "aliases": [
+            "The Admiral"
+          ]
+        },
+        {
+          "answer": "Patrick Ewing",
+          "display": "2,894 blocks",
+          "aliases": [
+            "Ewing"
+          ]
+        },
+        {
+          "answer": "Shaquille O'Neal",
+          "display": "2,732 blocks",
+          "aliases": [
+            "Shaq"
+          ]
+        },
+        {
+          "answer": "Tree Rollins",
+          "display": "2,542 blocks",
+          "aliases": [
+            "Rollins"
+          ]
+        },
+        {
+          "answer": "Robert Parish",
+          "display": "2,361 blocks",
+          "aliases": [
+            "Parish"
+          ]
+        },
+        {
+          "answer": "Alonzo Mourning",
+          "display": "2,356 blocks",
+          "aliases": [
+            "Zo",
+            "Mourning"
+          ]
+        },
+        {
+          "answer": "Marcus Camby",
+          "display": "2,331 blocks",
+          "aliases": [
+            "Camby"
+          ]
+        },
+        {
+          "answer": "Dwight Howard",
+          "display": "2,228 blocks",
+          "aliases": [
+            "Howard"
+          ]
+        },
+        {
+          "answer": "Brook Lopez",
+          "display": "2,147 blocks",
+          "aliases": [
+            "Lopez"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/basketball/nba-players",
+      "question": "Top 10 NBA career regular-season three-point field goals made (through the 2025–26 season)",
+      "cutoff": 10,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1377679920 | table 2 | name: Name | value: Total 3-point field goals made",
+      "tags": [
+        "nba",
+        "career",
+        "three-pointers"
+      ],
+      "answers": [
+        {
+          "answer": "Stephen Curry",
+          "display": "4,248 three-pointers",
+          "aliases": [
+            "Steph Curry",
+            "Curry"
+          ]
+        },
+        {
+          "answer": "James Harden",
+          "display": "3,390 three-pointers",
+          "aliases": [
+            "Harden"
+          ]
+        },
+        {
+          "answer": "Ray Allen",
+          "display": "2,973 three-pointers",
+          "aliases": [
+            "Allen"
+          ]
+        },
+        {
+          "answer": "Klay Thompson",
+          "display": "2,899 three-pointers",
+          "aliases": [
+            "Klay"
+          ]
+        },
+        {
+          "answer": "Damian Lillard",
+          "display": "2,804 three-pointers",
+          "aliases": [
+            "Dame",
+            "Lillard"
+          ]
+        },
+        {
+          "answer": "LeBron James",
+          "display": "2,636 three-pointers",
+          "aliases": [
+            "LeBron"
+          ]
+        },
+        {
+          "answer": "Reggie Miller",
+          "display": "2,560 three-pointers",
+          "aliases": [
+            "Miller"
+          ]
+        },
+        {
+          "answer": "Kyle Korver",
+          "display": "2,450 three-pointers",
+          "aliases": [
+            "Korver"
+          ]
+        },
+        {
+          "answer": "Paul George",
+          "display": "2,449 three-pointers",
+          "aliases": [
+            "PG13"
+          ]
+        },
+        {
+          "answer": "Kevin Durant",
+          "display": "2,377 three-pointers",
+          "aliases": [
+            "KD",
+            "Durant"
+          ]
+        },
+        {
+          "answer": "Vince Carter",
+          "display": "2,290 three-pointers",
+          "aliases": [
+            "Vinsanity",
+            "Carter"
+          ]
+        },
+        {
+          "answer": "Jason Terry",
+          "display": "2,282 three-pointers",
+          "aliases": [
+            "Terry"
+          ]
+        },
+        {
+          "answer": "Jamal Crawford",
+          "display": "2,221 three-pointers",
+          "aliases": [
+            "Crawford"
+          ]
+        },
+        {
+          "answer": "Kyle Lowry",
+          "display": "2,209 three-pointers",
+          "aliases": [
+            "Lowry"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/basketball/nba-players",
+      "question": "Top 10 NBA career regular-season games played leaders (through the 2025–26 season)",
+      "cutoff": 10,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1374089100 | table 2 | name: Player | value: Games played",
+      "tags": [
+        "nba",
+        "career",
+        "games"
+      ],
+      "answers": [
+        {
+          "answer": "LeBron James",
+          "display": "1,622 games",
+          "aliases": [
+            "LeBron"
+          ]
+        },
+        {
+          "answer": "Robert Parish",
+          "display": "1,611 games",
+          "aliases": [
+            "Parish"
+          ]
+        },
+        {
+          "answer": "Kareem Abdul-Jabbar",
+          "display": "1,560 games",
+          "aliases": [
+            "Kareem"
+          ]
+        },
+        {
+          "answer": "Vince Carter",
+          "display": "1,541 games",
+          "aliases": [
+            "Carter"
+          ]
+        },
+        {
+          "answer": "Dirk Nowitzki",
+          "display": "1,522 games",
+          "aliases": [
+            "Dirk",
+            "Nowitzki"
+          ]
+        },
+        {
+          "answer": "John Stockton",
+          "display": "1,504 games",
+          "aliases": [
+            "Stockton"
+          ]
+        },
+        {
+          "answer": "Karl Malone",
+          "display": "1,476 games",
+          "aliases": [
+            "Malone",
+            "The Mailman"
+          ]
+        },
+        {
+          "answer": "Kevin Garnett",
+          "display": "1,462 games",
+          "aliases": [
+            "KG",
+            "Garnett"
+          ]
+        },
+        {
+          "answer": "Kevin Willis",
+          "display": "1,424 games",
+          "aliases": [
+            "Willis"
+          ]
+        },
+        {
+          "answer": "Jason Terry",
+          "display": "1,410 games",
+          "aliases": [
+            "Terry"
+          ]
+        },
+        {
+          "answer": "Tim Duncan",
+          "display": "1,392 games",
+          "aliases": [
+            "Duncan"
+          ]
+        },
+        {
+          "answer": "Jason Kidd",
+          "display": "1,391 games",
+          "aliases": [
+            "Kidd"
+          ]
+        },
+        {
+          "answer": "Reggie Miller",
+          "display": "1,389 games",
+          "aliases": [
+            "Miller"
+          ]
+        },
+        {
+          "answer": "Clifford Robinson",
+          "display": "1,380 games",
+          "aliases": [
+            "Cliff Robinson"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/basketball/nba-players",
+      "question": "Top 10 NBA career regular-season minutes played leaders (through the 2025–26 season)",
+      "cutoff": 10,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1379368694 | table 2 | name: Player | value: Total minutes",
+      "tags": [
+        "nba",
+        "career",
+        "minutes"
+      ],
+      "answers": [
+        {
+          "answer": "LeBron James",
+          "display": "61,029 minutes",
+          "aliases": [
+            "LeBron"
+          ]
+        },
+        {
+          "answer": "Kareem Abdul-Jabbar",
+          "display": "57,446 minutes",
+          "aliases": [
+            "Kareem"
+          ]
+        },
+        {
+          "answer": "Karl Malone",
+          "display": "54,852 minutes",
+          "aliases": [
+            "Malone",
+            "The Mailman"
+          ]
+        },
+        {
+          "answer": "Dirk Nowitzki",
+          "display": "51,368 minutes",
+          "aliases": [
+            "Dirk"
+          ]
+        },
+        {
+          "answer": "Kevin Garnett",
+          "display": "50,418 minutes",
+          "aliases": [
+            "KG"
+          ]
+        },
+        {
+          "answer": "Jason Kidd",
+          "display": "50,111 minutes",
+          "aliases": [
+            "Kidd"
+          ]
+        },
+        {
+          "answer": "Elvin Hayes",
+          "display": "50,000 minutes",
+          "aliases": [
+            "Hayes",
+            "The Big E"
+          ]
+        },
+        {
+          "answer": "Kobe Bryant",
+          "display": "48,637 minutes",
+          "aliases": [
+            "Kobe",
+            "Bryant"
+          ]
+        },
+        {
+          "answer": "Wilt Chamberlain",
+          "display": "47,859 minutes",
+          "aliases": [
+            "Wilt",
+            "Chamberlain"
+          ]
+        },
+        {
+          "answer": "John Stockton",
+          "display": "47,764 minutes",
+          "aliases": [
+            "Stockton"
+          ]
+        },
+        {
+          "answer": "Reggie Miller",
+          "display": "47,619 minutes",
+          "aliases": [
+            "Miller"
+          ]
+        },
+        {
+          "answer": "Tim Duncan",
+          "display": "47,368 minutes",
+          "aliases": [
+            "Duncan"
+          ]
+        },
+        {
+          "answer": "Gary Payton",
+          "display": "47,117 minutes",
+          "aliases": [
+            "Payton"
+          ]
+        },
+        {
+          "answer": "John Havlicek",
+          "display": "46,471 minutes",
+          "aliases": [
+            "Havlicek"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/basketball/nba-players",
+      "question": "Top 10 NBA career regular-season triple-doubles leaders (through the 2025–26 season)",
+      "cutoff": 10,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1373893868 | table 2 | name: Name | value: Total triple",
+      "tags": [
+        "nba",
+        "career",
+        "triple-doubles"
+      ],
+      "answers": [
+        {
+          "answer": "Russell Westbrook",
+          "display": "209 triple-doubles",
+          "aliases": [
+            "Westbrook",
+            "Russ"
+          ]
+        },
+        {
+          "answer": "Nikola Jokić",
+          "display": "198 triple-doubles",
+          "aliases": [
+            "Jokic"
+          ]
+        },
+        {
+          "answer": "Oscar Robertson",
+          "display": "181 triple-doubles",
+          "aliases": [
+            "Oscar",
+            "Big O"
+          ]
+        },
+        {
+          "answer": "Magic Johnson",
+          "display": "138 triple-doubles",
+          "aliases": [
+            "Magic"
+          ]
+        },
+        {
+          "answer": "LeBron James",
+          "display": "125 triple-doubles",
+          "aliases": [
+            "LeBron"
+          ]
+        },
+        {
+          "answer": "Jason Kidd",
+          "display": "107 triple-doubles",
+          "aliases": [
+            "Kidd"
+          ]
+        },
+        {
+          "answer": "Luka Dončić",
+          "display": "90 triple-doubles",
+          "aliases": [
+            "Doncic",
+            "Luka"
+          ]
+        },
+        {
+          "answer": "James Harden",
+          "display": "82 triple-doubles",
+          "aliases": [
+            "Harden"
+          ]
+        },
+        {
+          "answer": "Wilt Chamberlain",
+          "display": "78 triple-doubles",
+          "aliases": [
+            "Wilt",
+            "Chamberlain"
+          ]
+        },
+        {
+          "answer": "Domantas Sabonis",
+          "display": "68 triple-doubles",
+          "aliases": [
+            "Sabonis"
+          ]
+        },
+        {
+          "answer": "Larry Bird",
+          "display": "59 triple-doubles",
+          "aliases": [
+            "Bird"
+          ]
+        },
+        {
+          "answer": "Giannis Antetokounmpo",
+          "display": "56 triple-doubles",
+          "aliases": [
+            "Giannis"
+          ]
+        },
+        {
+          "answer": "Fat Lever",
+          "display": "43 triple-doubles",
+          "aliases": [
+            "Lever"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/basketball/nba-players",
+      "question": "Top 10 NBA career playoff scoring leaders (as of June 2026)",
+      "cutoff": 10,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1359497529 | table 2 | name: Player | value: Total points",
+      "tags": [
+        "nba",
+        "career",
+        "playoffs",
+        "scoring"
+      ],
+      "answers": [
+        {
+          "answer": "LeBron James",
+          "display": "8,521 points",
+          "aliases": [
+            "LeBron"
+          ]
+        },
+        {
+          "answer": "Michael Jordan",
+          "display": "5,987 points",
+          "aliases": [
+            "Jordan",
+            "MJ"
+          ]
+        },
+        {
+          "answer": "Kareem Abdul-Jabbar",
+          "display": "5,762 points",
+          "aliases": [
+            "Kareem"
+          ]
+        },
+        {
+          "answer": "Kobe Bryant",
+          "display": "5,640 points",
+          "aliases": [
+            "Kobe"
+          ]
+        },
+        {
+          "answer": "Shaquille O'Neal",
+          "display": "5,250 points",
+          "aliases": [
+            "Shaq"
+          ]
+        },
+        {
+          "answer": "Tim Duncan",
+          "display": "5,172 points",
+          "aliases": [
+            "Duncan"
+          ]
+        },
+        {
+          "answer": "Kevin Durant",
+          "display": "5,008 points",
+          "aliases": [
+            "KD",
+            "Durant"
+          ]
+        },
+        {
+          "answer": "Karl Malone",
+          "display": "4,761 points",
+          "aliases": [
+            "Malone",
+            "The Mailman"
+          ]
+        },
+        {
+          "answer": "Jerry West",
+          "display": "4,457 points",
+          "aliases": [
+            "West"
+          ]
+        },
+        {
+          "answer": "James Harden",
+          "display": "4,240 points",
+          "aliases": [
+            "Harden"
+          ]
+        },
+        {
+          "answer": "Stephen Curry",
+          "display": "4,147 points",
+          "aliases": [
+            "Steph Curry",
+            "Curry"
+          ]
+        },
+        {
+          "answer": "Tony Parker",
+          "display": "4,045 points",
+          "aliases": [
+            "Parker"
+          ]
+        },
+        {
+          "answer": "Dwyane Wade",
+          "display": "3,954 points",
+          "aliases": [
+            "Wade",
+            "D-Wade"
+          ]
+        },
+        {
+          "answer": "Larry Bird",
+          "display": "3,897 points",
+          "aliases": [
+            "Bird"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/basketball/nba-players",
+      "question": "Top 10 NBA career playoff games played leaders (through the 2025–26 season)",
+      "cutoff": 10,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1373957087 | table 2 | name: Player | value: Games played",
+      "tags": [
+        "nba",
+        "career",
+        "playoffs",
+        "games"
+      ],
+      "answers": [
+        {
+          "answer": "LeBron James",
+          "display": "302 games",
+          "aliases": [
+            "LeBron"
+          ]
+        },
+        {
+          "answer": "Derek Fisher",
+          "display": "259 games",
+          "aliases": [
+            "Fisher"
+          ]
+        },
+        {
+          "answer": "Tim Duncan",
+          "display": "251 games",
+          "aliases": [
+            "Duncan"
+          ]
+        },
+        {
+          "answer": "Robert Horry",
+          "display": "244 games",
+          "aliases": [
+            "Horry",
+            "Big Shot Bob"
+          ]
+        },
+        {
+          "answer": "Kareem Abdul-Jabbar",
+          "display": "237 games",
+          "aliases": [
+            "Kareem"
+          ]
+        },
+        {
+          "answer": "Tony Parker",
+          "display": "226 games",
+          "aliases": [
+            "Parker"
+          ]
+        },
+        {
+          "answer": "Kobe Bryant",
+          "display": "220 games",
+          "aliases": [
+            "Kobe"
+          ]
+        },
+        {
+          "answer": "Manu Ginóbili",
+          "display": "218 games",
+          "aliases": [
+            "Ginobili",
+            "Manu"
+          ]
+        },
+        {
+          "answer": "Shaquille O'Neal",
+          "display": "216 games",
+          "aliases": [
+            "Shaq"
+          ]
+        },
+        {
+          "answer": "Scottie Pippen",
+          "display": "208 games",
+          "aliases": [
+            "Pippen"
+          ]
+        },
+        {
+          "answer": "Al Horford",
+          "display": "197 games",
+          "aliases": [
+            "Horford"
+          ]
+        },
+        {
+          "answer": "Danny Ainge",
+          "display": "193 games",
+          "aliases": [
+            "Ainge"
+          ]
+        },
+        {
+          "answer": "Karl Malone",
+          "display": "193 games",
+          "aliases": [
+            "Malone",
+            "The Mailman"
+          ]
+        },
+        {
+          "answer": "James Harden",
+          "display": "191 games",
+          "aliases": [
+            "Harden"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/basketball/nba-players",
+      "question": "Top 10 NBA career playoff rebounding leaders (as of June 2026)",
+      "cutoff": 10,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1359497669 | table 2 | name: Player | value: Total rebounds",
+      "tags": [
+        "nba",
+        "career",
+        "playoffs",
+        "rebounds"
+      ],
+      "answers": [
+        {
+          "answer": "Bill Russell",
+          "display": "4,104 rebounds"
+        },
+        {
+          "answer": "Wilt Chamberlain",
+          "display": "3,913 rebounds",
+          "aliases": [
+            "Wilt",
+            "Chamberlain"
+          ]
+        },
+        {
+          "answer": "Tim Duncan",
+          "display": "2,859 rebounds",
+          "aliases": [
+            "Duncan"
+          ]
+        },
+        {
+          "answer": "LeBron James",
+          "display": "2,695 rebounds",
+          "aliases": [
+            "LeBron"
+          ]
+        },
+        {
+          "answer": "Shaquille O'Neal",
+          "display": "2,508 rebounds",
+          "aliases": [
+            "Shaq"
+          ]
+        },
+        {
+          "answer": "Kareem Abdul-Jabbar",
+          "display": "2,481 rebounds",
+          "aliases": [
+            "Kareem"
+          ]
+        },
+        {
+          "answer": "Karl Malone",
+          "display": "2,062 rebounds",
+          "aliases": [
+            "Malone",
+            "The Mailman"
+          ]
+        },
+        {
+          "answer": "Wes Unseld",
+          "display": "1,777 rebounds",
+          "aliases": [
+            "Unseld"
+          ]
+        },
+        {
+          "answer": "Robert Parish",
+          "display": "1,765 rebounds",
+          "aliases": [
+            "Parish"
+          ]
+        },
+        {
+          "answer": "Elgin Baylor",
+          "display": "1,724 rebounds",
+          "aliases": [
+            "Baylor"
+          ]
+        },
+        {
+          "answer": "Larry Bird",
+          "display": "1,683 rebounds",
+          "aliases": [
+            "Bird"
+          ]
+        },
+        {
+          "answer": "Dennis Rodman",
+          "display": "1,676 rebounds",
+          "aliases": [
+            "Rodman"
+          ]
+        },
+        {
+          "answer": "Hakeem Olajuwon",
+          "display": "1,621 rebounds",
+          "aliases": [
+            "Olajuwon",
+            "Hakeem"
+          ]
+        },
+        {
+          "answer": "Scottie Pippen",
+          "display": "1,583 rebounds",
+          "aliases": [
+            "Pippen"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/basketball/nba-players",
+      "question": "Top 10 NBA career regular-season free throws made leaders (through the 2025–26 season)",
+      "cutoff": 10,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1374052712 | table 2 | name: Player | value: Total free throws made",
+      "tags": [
+        "nba",
+        "career",
+        "free-throws"
+      ],
+      "answers": [
+        {
+          "answer": "Karl Malone",
+          "display": "9,787 free throws",
+          "aliases": [
+            "Karl",
+            "The Mailman"
+          ]
+        },
+        {
+          "answer": "LeBron James",
+          "display": "8,882 free throws",
+          "aliases": [
+            "LeBron"
+          ]
+        },
+        {
+          "answer": "James Harden",
+          "display": "8,627 free throws",
+          "aliases": [
+            "Harden"
+          ]
+        },
+        {
+          "answer": "Moses Malone",
+          "display": "8,531 free throws",
+          "aliases": [
+            "Moses"
+          ]
+        },
+        {
+          "answer": "Kobe Bryant",
+          "display": "8,378 free throws",
+          "aliases": [
+            "Kobe"
+          ]
+        },
+        {
+          "answer": "Kevin Durant",
+          "display": "7,704 free throws",
+          "aliases": [
+            "KD"
+          ]
+        },
+        {
+          "answer": "Oscar Robertson",
+          "display": "7,694 free throws",
+          "aliases": [
+            "Oscar",
+            "Big O"
+          ]
+        },
+        {
+          "answer": "Michael Jordan",
+          "display": "7,327 free throws",
+          "aliases": [
+            "Jordan",
+            "MJ"
+          ]
+        },
+        {
+          "answer": "Dirk Nowitzki",
+          "display": "7,240 free throws",
+          "aliases": [
+            "Dirk"
+          ]
+        },
+        {
+          "answer": "Jerry West",
+          "display": "7,160 free throws",
+          "aliases": [
+            "West"
+          ]
+        },
+        {
+          "answer": "DeMar DeRozan",
+          "display": "6,923 free throws",
+          "aliases": [
+            "DeRozan"
+          ]
+        },
+        {
+          "answer": "Paul Pierce",
+          "display": "6,918 free throws",
+          "aliases": [
+            "Pierce",
+            "The Truth"
+          ]
+        },
+        {
+          "answer": "Adrian Dantley",
+          "display": "6,832 free throws",
+          "aliases": [
+            "Dantley"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/basketball/nba-awards",
+      "question": "Top 5 NBA players by regular-season MVP awards (through the 2025–26 season)",
+      "cutoff": 5,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1376809534 | table 3 | name: Player | value: Awards",
+      "tags": [
+        "nba",
+        "awards",
+        "mvp"
+      ],
+      "answers": [
+        {
+          "answer": "Kareem Abdul-Jabbar",
+          "display": "6 MVP awards",
+          "aliases": [
+            "Kareem"
+          ]
+        },
+        {
+          "answer": "Michael Jordan",
+          "display": "5 MVP awards",
+          "aliases": [
+            "Jordan",
+            "MJ"
+          ]
+        },
+        {
+          "answer": "Bill Russell",
+          "display": "5 MVP awards",
+          "aliases": [
+            "Russell"
+          ]
+        },
+        {
+          "answer": "Wilt Chamberlain",
+          "display": "4 MVP awards",
+          "aliases": [
+            "Wilt",
+            "Chamberlain"
+          ]
+        },
+        {
+          "answer": "LeBron James",
+          "display": "4 MVP awards",
+          "aliases": [
+            "LeBron"
+          ]
+        },
+        {
+          "answer": "Larry Bird",
+          "display": "3 MVP awards",
+          "aliases": [
+            "Bird"
+          ]
+        },
+        {
+          "answer": "Magic Johnson",
+          "display": "3 MVP awards",
+          "aliases": [
+            "Magic"
+          ]
+        },
+        {
+          "answer": "Nikola Jokić",
+          "display": "3 MVP awards",
+          "aliases": [
+            "Jokic"
+          ]
+        },
+        {
+          "answer": "Moses Malone",
+          "display": "3 MVP awards",
+          "aliases": [
+            "Moses"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/basketball/nba-teams",
+      "question": "Top 10 NBA head coaches by regular-season wins (through the 2025–26 season)",
+      "cutoff": 10,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1359526333 | table 2 | name: Coach | value: W / Regular | header rows: 2",
+      "tags": [
+        "nba",
+        "coaches",
+        "wins"
+      ],
+      "answers": [
+        {
+          "answer": "Gregg Popovich",
+          "display": "1,390 wins",
+          "aliases": [
+            "Pop",
+            "Popovich"
+          ]
+        },
+        {
+          "answer": "Don Nelson",
+          "display": "1,335 wins",
+          "aliases": [
+            "Nellie"
+          ]
+        },
+        {
+          "answer": "Lenny Wilkens",
+          "display": "1,332 wins",
+          "aliases": [
+            "Wilkens"
+          ]
+        },
+        {
+          "answer": "Jerry Sloan",
+          "display": "1,221 wins",
+          "aliases": [
+            "Sloan"
+          ]
+        },
+        {
+          "answer": "Pat Riley",
+          "display": "1,210 wins",
+          "aliases": [
+            "Riley"
+          ]
+        },
+        {
+          "answer": "Doc Rivers",
+          "display": "1,194 wins",
+          "aliases": [
+            "Rivers",
+            "Doc"
+          ]
+        },
+        {
+          "answer": "George Karl",
+          "display": "1,175 wins",
+          "aliases": [
+            "Karl"
+          ]
+        },
+        {
+          "answer": "Phil Jackson",
+          "display": "1,155 wins",
+          "aliases": [
+            "Jackson",
+            "Zen Master"
+          ]
+        },
+        {
+          "answer": "Larry Brown",
+          "display": "1,098 wins",
+          "aliases": [
+            "Brown"
+          ]
+        },
+        {
+          "answer": "Rick Adelman",
+          "display": "1,042 wins",
+          "aliases": [
+            "Adelman"
+          ]
+        },
+        {
+          "answer": "Rick Carlisle",
+          "display": "1,012 wins",
+          "aliases": [
+            "Carlisle"
+          ]
+        },
+        {
+          "answer": "Bill Fitch",
+          "display": "944 wins",
+          "aliases": [
+            "Fitch"
+          ]
+        },
+        {
+          "answer": "Red Auerbach",
+          "display": "938 wins",
+          "aliases": [
+            "Auerbach"
+          ]
+        },
+        {
+          "answer": "Dick Motta",
+          "display": "935 wins",
+          "aliases": [
+            "Motta"
+          ]
+        }
+      ]
+    }
+  ]
+}

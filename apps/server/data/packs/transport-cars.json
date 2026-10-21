@@ -1,0 +1,526 @@
+{
+  "categories": [
+    {
+      "path": "transport/cars",
+      "name": "Cars"
+    },
+    {
+      "path": "transport/cars/manufacturers",
+      "name": "Car manufacturers"
+    },
+    {
+      "path": "transport/cars/production",
+      "name": "Car production"
+    },
+    {
+      "path": "transport/cars/models",
+      "name": "Car models"
+    },
+    {
+      "path": "transport/cars/ownership",
+      "name": "Car ownership"
+    },
+    {
+      "path": "transport/cars/electric",
+      "name": "Electric cars"
+    }
+  ],
+  "questions": [
+    {
+      "category": "transport/cars/manufacturers",
+      "question": "Top 10 car manufacturer groups by vehicles sold (2025)",
+      "cutoff": 10,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1371855777 | table 1 | name: Group | value: Sold vehicles (2025)",
+      "tags": [
+        "cars",
+        "manufacturers",
+        "sales"
+      ],
+      "answers": [
+        {
+          "answer": "Toyota",
+          "display": "11,322,575 vehicles"
+        },
+        {
+          "answer": "Volkswagen Group",
+          "display": "8,983,978 vehicles",
+          "aliases": [
+            "volkswagen",
+            "vw"
+          ]
+        },
+        {
+          "answer": "Hyundai Motor Group",
+          "display": "7,272,453 vehicles",
+          "aliases": [
+            "hyundai"
+          ]
+        },
+        {
+          "answer": "General Motors",
+          "display": "6,183,928 vehicles",
+          "aliases": [
+            "gm"
+          ]
+        },
+        {
+          "answer": "Stellantis",
+          "display": "5,600,000 vehicles"
+        },
+        {
+          "answer": "BYD Auto",
+          "display": "4,602,436 vehicles",
+          "aliases": [
+            "byd"
+          ]
+        },
+        {
+          "answer": "SAIC Motor",
+          "display": "4,507,500 vehicles",
+          "aliases": [
+            "saic"
+          ]
+        },
+        {
+          "answer": "Ford",
+          "display": "4,400,000 vehicles"
+        },
+        {
+          "answer": "Geely",
+          "display": "4,116,321 vehicles"
+        },
+        {
+          "answer": "Honda",
+          "display": "3,521,905 vehicles"
+        },
+        {
+          "answer": "FAW Group",
+          "display": "3,302,000 vehicles",
+          "aliases": [
+            "faw"
+          ]
+        },
+        {
+          "answer": "Suzuki",
+          "display": "3,295,013 vehicles"
+        },
+        {
+          "answer": "Nissan",
+          "display": "3,202,137 vehicles"
+        },
+        {
+          "answer": "Changan",
+          "display": "2,913,177 vehicles"
+        },
+        {
+          "answer": "Chery",
+          "display": "2,806,393 vehicles"
+        }
+      ]
+    },
+    {
+      "category": "transport/cars/production",
+      "question": "Top 10 countries by motor vehicle production (2025)",
+      "cutoff": 10,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1377629323 | table 1 | name: Country | value: 2025 | where: Country!=World",
+      "tags": [
+        "cars",
+        "production",
+        "countries"
+      ],
+      "answers": [
+        {
+          "answer": "China",
+          "display": "34,530,738 vehicles"
+        },
+        {
+          "answer": "United States",
+          "display": "10,243,844 vehicles",
+          "aliases": [
+            "usa",
+            "us",
+            "america"
+          ]
+        },
+        {
+          "answer": "Japan",
+          "display": "8,410,232 vehicles"
+        },
+        {
+          "answer": "India",
+          "display": "6,490,810 vehicles"
+        },
+        {
+          "answer": "Germany",
+          "display": "4,148,836 vehicles"
+        },
+        {
+          "answer": "South Korea",
+          "display": "4,102,200 vehicles",
+          "aliases": [
+            "korea"
+          ]
+        },
+        {
+          "answer": "Mexico",
+          "display": "4,092,448 vehicles"
+        },
+        {
+          "answer": "Brazil",
+          "display": "2,644,054 vehicles"
+        },
+        {
+          "answer": "Spain",
+          "display": "2,274,026 vehicles"
+        },
+        {
+          "answer": "France",
+          "display": "1,463,991 vehicles"
+        },
+        {
+          "answer": "Thailand",
+          "display": "1,455,569 vehicles"
+        },
+        {
+          "answer": "Czech Republic",
+          "display": "1,452,776 vehicles",
+          "aliases": [
+            "czechia"
+          ]
+        },
+        {
+          "answer": "Turkey",
+          "display": "1,419,464 vehicles"
+        },
+        {
+          "answer": "Canada",
+          "display": "1,237,075 vehicles"
+        },
+        {
+          "answer": "Indonesia",
+          "display": "1,147,600 vehicles"
+        }
+      ]
+    },
+    {
+      "category": "transport/cars/production",
+      "question": "Top 10 countries by record single-year motor vehicle production (current countries only)",
+      "cutoff": 10,
+      "difficulty": 3,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1377629323 | table 1 | name: Country | value: Peak | where: Country!=World | where: Country!~Soviet|Yugoslavia|East Germany|Czechoslovakia",
+      "tags": [
+        "cars",
+        "production",
+        "history"
+      ],
+      "answers": [
+        {
+          "answer": "China",
+          "display": "34,778,000 (2025)"
+        },
+        {
+          "answer": "Japan",
+          "display": "13,486,796 (1990)"
+        },
+        {
+          "answer": "United States",
+          "display": "13,024,978 (1999)",
+          "aliases": [
+            "usa",
+            "us",
+            "america"
+          ]
+        },
+        {
+          "answer": "India",
+          "display": "6,490,810 (2025)"
+        },
+        {
+          "answer": "Germany",
+          "display": "6,213,460 (2007)"
+        },
+        {
+          "answer": "Mexico",
+          "display": "4,664,779 (2013)"
+        },
+        {
+          "answer": "South Korea",
+          "display": "4,657,094 (2011)",
+          "aliases": [
+            "korea"
+          ]
+        },
+        {
+          "answer": "France",
+          "display": "3,919,776 (1989)"
+        },
+        {
+          "answer": "Brazil",
+          "display": "3,712,380 (2013)"
+        },
+        {
+          "answer": "Spain",
+          "display": "3,032,874 (2000)"
+        },
+        {
+          "answer": "Canada",
+          "display": "2,961,636 (2000)"
+        },
+        {
+          "answer": "Thailand",
+          "display": "2,457,057 (2013)"
+        },
+        {
+          "answer": "United Kingdom",
+          "display": "2,332,376 (1963)",
+          "aliases": [
+            "uk",
+            "britain",
+            "great britain"
+          ]
+        },
+        {
+          "answer": "Russia",
+          "display": "2,233,103 (2012)"
+        }
+      ]
+    },
+    {
+      "category": "transport/cars/models",
+      "question": "Top 7 best-selling car nameplates of all time",
+      "cutoff": 7,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1374022109 | table 1 | name: Nameplate | value: Units sold",
+      "tags": [
+        "cars",
+        "models",
+        "sales"
+      ],
+      "answers": [
+        {
+          "answer": "Toyota Corolla",
+          "display": "50,000,000 units",
+          "aliases": [
+            "corolla"
+          ]
+        },
+        {
+          "answer": "Ford F-Series",
+          "display": "43,000,000 units",
+          "aliases": [
+            "f-series",
+            "f-150",
+            "f150"
+          ]
+        },
+        {
+          "answer": "Volkswagen Golf",
+          "display": "37,000,000 units",
+          "aliases": [
+            "golf"
+          ]
+        },
+        {
+          "answer": "Volkswagen Passat",
+          "display": "34,000,000 units",
+          "aliases": [
+            "passat"
+          ]
+        },
+        {
+          "answer": "Honda Civic",
+          "display": "28,000,000 units",
+          "aliases": [
+            "civic"
+          ]
+        },
+        {
+          "answer": "Toyota Camry",
+          "display": "22,000,000 units",
+          "aliases": [
+            "camry"
+          ]
+        },
+        {
+          "answer": "Ford Fiesta",
+          "display": "22,000,000 units",
+          "aliases": [
+            "fiesta"
+          ]
+        },
+        {
+          "answer": "Volkswagen Beetle",
+          "display": "21,500,000 units",
+          "aliases": [
+            "beetle"
+          ]
+        },
+        {
+          "answer": "Toyota Hilux",
+          "display": "21,000,000 units",
+          "aliases": [
+            "hilux"
+          ]
+        },
+        {
+          "answer": "Honda Accord",
+          "display": "19,500,000 units",
+          "aliases": [
+            "accord"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "transport/cars/ownership",
+      "question": "Top 10 US states by vehicles per person",
+      "cutoff": 10,
+      "difficulty": 3,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1365737329 | table 1 | name: State | value: Vehicles / person | where: State!=United States",
+      "tags": [
+        "cars",
+        "ownership",
+        "states"
+      ],
+      "answers": [
+        {
+          "answer": "Montana",
+          "display": "1.934 vehicles per person"
+        },
+        {
+          "answer": "South Dakota",
+          "display": "1.599 vehicles per person"
+        },
+        {
+          "answer": "Wyoming",
+          "display": "1.503 vehicles per person"
+        },
+        {
+          "answer": "Iowa",
+          "display": "1.201 vehicles per person"
+        },
+        {
+          "answer": "North Dakota",
+          "display": "1.189 vehicles per person"
+        },
+        {
+          "answer": "Arkansas",
+          "display": "1.174 vehicles per person"
+        },
+        {
+          "answer": "Alabama",
+          "display": "1.082 vehicles per person"
+        },
+        {
+          "answer": "Idaho",
+          "display": "1.038 vehicles per person"
+        },
+        {
+          "answer": "Washington",
+          "display": "1.029 vehicles per person"
+        },
+        {
+          "answer": "New Hampshire",
+          "display": "1.022 vehicles per person"
+        },
+        {
+          "answer": "Maine",
+          "display": "1.006 vehicles per person"
+        },
+        {
+          "answer": "Nebraska",
+          "display": "0.984 vehicles per person"
+        },
+        {
+          "answer": "Wisconsin",
+          "display": "0.981 vehicles per person"
+        },
+        {
+          "answer": "South Carolina",
+          "display": "0.980 vehicles per person"
+        }
+      ]
+    },
+    {
+      "category": "transport/cars/electric",
+      "question": "Top 10 countries by share of new passenger car sales that were plug-in electric (2025)",
+      "cutoff": 10,
+      "difficulty": 3,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1379667303 | table 2 | name: Country | value: 2025 | where: Country!~^(Notes|Europe|Global average)",
+      "tags": [
+        "cars",
+        "electric",
+        "market share"
+      ],
+      "answers": [
+        {
+          "answer": "Norway",
+          "display": "97.4%"
+        },
+        {
+          "answer": "Nepal",
+          "display": "73.0%"
+        },
+        {
+          "answer": "Denmark",
+          "display": "71.1%"
+        },
+        {
+          "answer": "Sweden",
+          "display": "63.2%"
+        },
+        {
+          "answer": "Iceland",
+          "display": "61.4%"
+        },
+        {
+          "answer": "Ethiopia",
+          "display": "60.0%"
+        },
+        {
+          "answer": "Finland",
+          "display": "56.8%"
+        },
+        {
+          "answer": "Netherlands",
+          "display": "56.5%",
+          "aliases": [
+            "holland"
+          ]
+        },
+        {
+          "answer": "China",
+          "display": "54.0%"
+        },
+        {
+          "answer": "Albania",
+          "display": "46.4%"
+        },
+        {
+          "answer": "Singapore",
+          "display": "45.0%"
+        },
+        {
+          "answer": "Belgium",
+          "display": "43.8%"
+        },
+        {
+          "answer": "Portugal",
+          "display": "38.4%"
+        },
+        {
+          "answer": "Vietnam",
+          "display": "36.8%"
+        }
+      ]
+    }
+  ]
+}

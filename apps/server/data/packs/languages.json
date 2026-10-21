@@ -1,0 +1,616 @@
+{
+  "categories": [
+    {
+      "path": "society/language/languages",
+      "name": "Languages"
+    },
+    {
+      "path": "society/language/english",
+      "name": "English"
+    }
+  ],
+  "questions": [
+    {
+      "category": "society/language/languages",
+      "difficulty": 2,
+      "question": "Top 10 most spoken languages by total speakers (native + second language, Ethnologue 2026)",
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1378632972 | table 1 | name: Language | value: Total (L1+L2) | header rows: 2",
+      "tags": [
+        "languages",
+        "total speakers",
+        "world"
+      ],
+      "answers": [
+        {
+          "answer": "English",
+          "display": "1,493 million",
+          "aliases": [
+            "english language"
+          ]
+        },
+        {
+          "answer": "Mandarin Chinese",
+          "display": "1,183 million",
+          "aliases": [
+            "mandarin",
+            "standard chinese",
+            "chinese"
+          ]
+        },
+        {
+          "answer": "Hindi",
+          "display": "611 million"
+        },
+        {
+          "answer": "Spanish",
+          "display": "561 million",
+          "aliases": [
+            "castilian"
+          ]
+        },
+        {
+          "answer": "Modern Standard Arabic",
+          "display": "335 million",
+          "aliases": [
+            "arabic",
+            "msa"
+          ]
+        },
+        {
+          "answer": "French",
+          "display": "334 million"
+        },
+        {
+          "answer": "Bengali",
+          "display": "274 million"
+        },
+        {
+          "answer": "Portuguese",
+          "display": "269 million"
+        },
+        {
+          "answer": "Indonesian",
+          "display": "255 million"
+        },
+        {
+          "answer": "Urdu",
+          "display": "246 million"
+        },
+        {
+          "answer": "Russian",
+          "display": "210 million"
+        },
+        {
+          "answer": "German",
+          "display": "133 million",
+          "aliases": [
+            "standard german",
+            "high german"
+          ]
+        },
+        {
+          "answer": "Japanese",
+          "display": "126 million"
+        },
+        {
+          "answer": "Nigerian Pidgin",
+          "display": "121 million",
+          "aliases": [
+            "pidgin",
+            "nigerian pidgin english"
+          ]
+        },
+        {
+          "answer": "Egyptian Arabic",
+          "display": "118 million"
+        }
+      ]
+    },
+    {
+      "category": "society/language/languages",
+      "difficulty": 2,
+      "question": "Top 10 Germanic languages by native speakers",
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1378835784 | table 1 | name: Language | value: Native speakers | where: Language!~Total|Other",
+      "tags": [
+        "germanic languages",
+        "native speakers",
+        "language families"
+      ],
+      "answers": [
+        {
+          "answer": "English",
+          "display": "at least 360 million"
+        },
+        {
+          "answer": "German",
+          "display": "100 million",
+          "aliases": [
+            "standard german",
+            "high german"
+          ]
+        },
+        {
+          "answer": "Dutch",
+          "display": "24 million"
+        },
+        {
+          "answer": "Swedish",
+          "display": "11.1 million"
+        },
+        {
+          "answer": "Afrikaans",
+          "display": "8.1 million"
+        },
+        {
+          "answer": "Danish",
+          "display": "5.5 million"
+        },
+        {
+          "answer": "Norwegian",
+          "display": "5.3 million"
+        },
+        {
+          "answer": "Low German",
+          "display": "3.8 million",
+          "aliases": [
+            "plattdeutsch",
+            "low saxon"
+          ]
+        },
+        {
+          "answer": "Yiddish",
+          "display": "1.5 million"
+        },
+        {
+          "answer": "Scots",
+          "display": "1.5 million"
+        },
+        {
+          "answer": "Frisian",
+          "display": "0.5 million",
+          "aliases": [
+            "frisian languages"
+          ]
+        },
+        {
+          "answer": "Luxembourgish",
+          "display": "0.4 million",
+          "aliases": [
+            "luxemburgish",
+            "letzeburgesh"
+          ]
+        },
+        {
+          "answer": "Icelandic",
+          "display": "0.3 million"
+        },
+        {
+          "answer": "Faroese",
+          "display": "0.07 million",
+          "aliases": [
+            "faroe"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "society/language/english",
+      "difficulty": 3,
+      "question": "Top 10 most common nouns in English (by frequency rank)",
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1366502508 | table 2 | name: Nouns | value: Rank | order: asc",
+      "tags": [
+        "english",
+        "nouns",
+        "parts of speech",
+        "frequency"
+      ],
+      "answers": [
+        {
+          "answer": "time",
+          "display": "rank 1"
+        },
+        {
+          "answer": "person",
+          "display": "rank 2"
+        },
+        {
+          "answer": "year",
+          "display": "rank 3"
+        },
+        {
+          "answer": "way",
+          "display": "rank 4"
+        },
+        {
+          "answer": "day",
+          "display": "rank 5"
+        },
+        {
+          "answer": "thing",
+          "display": "rank 6"
+        },
+        {
+          "answer": "man",
+          "display": "rank 7"
+        },
+        {
+          "answer": "world",
+          "display": "rank 8"
+        },
+        {
+          "answer": "life",
+          "display": "rank 9"
+        },
+        {
+          "answer": "hand",
+          "display": "rank 10"
+        },
+        {
+          "answer": "part",
+          "display": "rank 11"
+        },
+        {
+          "answer": "child",
+          "display": "rank 12"
+        },
+        {
+          "answer": "eye",
+          "display": "rank 13"
+        },
+        {
+          "answer": "woman",
+          "display": "rank 14"
+        },
+        {
+          "answer": "place",
+          "display": "rank 15"
+        }
+      ]
+    },
+    {
+      "category": "society/language/english",
+      "difficulty": 3,
+      "question": "Top 10 most common four-letter words in English (by frequency rank in the Oxford English Corpus)",
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1366502508 | table 1 | name: Word | value: OEC rank | where: Word~^....$ | order: asc",
+      "tags": [
+        "english",
+        "words",
+        "frequency"
+      ],
+      "answers": [
+        {
+          "answer": "that",
+          "display": "rank 8"
+        },
+        {
+          "answer": "have",
+          "display": "rank 9"
+        },
+        {
+          "answer": "with",
+          "display": "rank 15"
+        },
+        {
+          "answer": "this",
+          "display": "rank 21"
+        },
+        {
+          "answer": "from",
+          "display": "rank 25"
+        },
+        {
+          "answer": "they",
+          "display": "rank 26"
+        },
+        {
+          "answer": "will",
+          "display": "rank 33"
+        },
+        {
+          "answer": "what",
+          "display": "rank 40"
+        },
+        {
+          "answer": "when",
+          "display": "rank 51"
+        },
+        {
+          "answer": "make",
+          "display": "rank 52"
+        },
+        {
+          "answer": "like",
+          "display": "rank 54"
+        },
+        {
+          "answer": "time",
+          "display": "rank 55"
+        },
+        {
+          "answer": "just",
+          "display": "rank 57"
+        },
+        {
+          "answer": "know",
+          "display": "rank 59"
+        },
+        {
+          "answer": "take",
+          "display": "rank 60"
+        }
+      ]
+    },
+    {
+      "category": "society/language/languages",
+      "difficulty": 3,
+      "question": "Top 9 language families by number of languages (Ethnologue 27)",
+      "cutoff": 9,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1377796943 | table 1 | name: Family | value: No. of languages",
+      "tags": [
+        "language families",
+        "languages",
+        "world"
+      ],
+      "answers": [
+        {
+          "answer": "Niger–Congo",
+          "display": "1,552 languages",
+          "aliases": [
+            "niger-congo"
+          ]
+        },
+        {
+          "answer": "Austronesian",
+          "display": "1,256 languages"
+        },
+        {
+          "answer": "Trans–New Guinea",
+          "display": "481 languages",
+          "aliases": [
+            "trans-new guinea"
+          ]
+        },
+        {
+          "answer": "Sino-Tibetan",
+          "display": "458 languages"
+        },
+        {
+          "answer": "Indo-European",
+          "display": "454 languages"
+        },
+        {
+          "answer": "Australian languages",
+          "display": "384 languages",
+          "aliases": [
+            "australian"
+          ]
+        },
+        {
+          "answer": "Afroasiatic",
+          "display": "382 languages",
+          "aliases": [
+            "afro-asiatic"
+          ]
+        },
+        {
+          "answer": "Nilo-Saharan",
+          "display": "210 languages"
+        },
+        {
+          "answer": "Otomanguean",
+          "display": "179 languages"
+        },
+        {
+          "answer": "Austroasiatic",
+          "display": "167 languages"
+        },
+        {
+          "answer": "Kra–Dai",
+          "display": "91 languages",
+          "aliases": [
+            "kra-dai",
+            "tai-kadai"
+          ]
+        },
+        {
+          "answer": "Dravidian",
+          "display": "85 languages"
+        }
+      ]
+    },
+    {
+      "category": "society/language/languages",
+      "difficulty": 3,
+      "question": "Top 10 languages spoken in Pakistan by share of population (2023 census)",
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1378760854 | table 2 | name: Language | value: 2023 census | where: Language!~Others",
+      "tags": [
+        "pakistan",
+        "languages",
+        "census"
+      ],
+      "answers": [
+        {
+          "answer": "Punjabi",
+          "display": "36.98%",
+          "aliases": [
+            "panjabi"
+          ]
+        },
+        {
+          "answer": "Pashto",
+          "display": "18.15%",
+          "aliases": [
+            "pashtu"
+          ]
+        },
+        {
+          "answer": "Sindhi",
+          "display": "14.31%"
+        },
+        {
+          "answer": "Saraiki",
+          "display": "12.00%"
+        },
+        {
+          "answer": "Urdu",
+          "display": "9.25%"
+        },
+        {
+          "answer": "Balochi",
+          "display": "3.38%",
+          "aliases": [
+            "baluchi"
+          ]
+        },
+        {
+          "answer": "Hindko",
+          "display": "2.32%"
+        },
+        {
+          "answer": "Brahui",
+          "display": "1.16%"
+        },
+        {
+          "answer": "Mewati",
+          "display": "0.46%"
+        },
+        {
+          "answer": "Kohistani",
+          "display": "0.43%"
+        },
+        {
+          "answer": "Kashmiri",
+          "display": "0.11%"
+        },
+        {
+          "answer": "Shina",
+          "display": "0.05%"
+        },
+        {
+          "answer": "Balti",
+          "display": "0.02%"
+        },
+        {
+          "answer": "Kalasha",
+          "display": "0.003%"
+        }
+      ]
+    },
+    {
+      "category": "society/language/english",
+      "question": "Top 7 most common non-vowel letters in English text (by frequency; vowels A, E, I, O and U excluded)",
+      "cutoff": 7,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1376235075 | table 1 | name: Letter | value: 2 | header rows: 2 | where: Letter!~^[AEIOU]$",
+      "tags": [
+        "english",
+        "letters",
+        "frequency"
+      ],
+      "answers": [
+        {
+          "answer": "T",
+          "display": "9.1%"
+        },
+        {
+          "answer": "N",
+          "display": "6.7%"
+        },
+        {
+          "answer": "S",
+          "display": "6.3%"
+        },
+        {
+          "answer": "H",
+          "display": "6.1%"
+        },
+        {
+          "answer": "R",
+          "display": "6.0%"
+        },
+        {
+          "answer": "D",
+          "display": "4.3%"
+        },
+        {
+          "answer": "L",
+          "display": "4.0%"
+        },
+        {
+          "answer": "C",
+          "display": "2.8%"
+        },
+        {
+          "answer": "M",
+          "display": "2.4%"
+        },
+        {
+          "answer": "W",
+          "display": "2.4%"
+        }
+      ]
+    },
+    {
+      "category": "society/language/english",
+      "question": "Top 7 letters that most English words begin with (by share of word-initial letters in English text)",
+      "cutoff": 7,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1376235075 | table 2 | name: Letter | value: 2 | header rows: 2",
+      "tags": [
+        "english",
+        "letters",
+        "first letter"
+      ],
+      "answers": [
+        {
+          "answer": "T",
+          "display": "16%"
+        },
+        {
+          "answer": "A",
+          "display": "11.7%"
+        },
+        {
+          "answer": "O",
+          "display": "7.6%"
+        },
+        {
+          "answer": "I",
+          "display": "7.3%"
+        },
+        {
+          "answer": "S",
+          "display": "6.7%"
+        },
+        {
+          "answer": "W",
+          "display": "5.5%"
+        },
+        {
+          "answer": "C",
+          "display": "5.2%"
+        },
+        {
+          "answer": "B",
+          "display": "4.4%"
+        },
+        {
+          "answer": "P",
+          "display": "4.3%"
+        },
+        {
+          "answer": "H",
+          "display": "4.2%"
+        }
+      ]
+    }
+  ]
+}

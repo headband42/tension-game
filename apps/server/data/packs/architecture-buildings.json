@@ -1,0 +1,669 @@
+{
+  "categories": [
+    {
+      "path": "architecture/buildings",
+      "name": "Architecture & Buildings"
+    },
+    {
+      "path": "architecture/buildings/skyscrapers",
+      "name": "Skyscrapers"
+    },
+    {
+      "path": "architecture/buildings/stadiums",
+      "name": "Stadiums & Arenas"
+    },
+    {
+      "path": "architecture/buildings/towers",
+      "name": "Towers"
+    }
+  ],
+  "questions": [
+    {
+      "category": "architecture/buildings/skyscrapers",
+      "question": "Top 10 tallest buildings in the world by architectural height (as of September 2026)",
+      "difficulty": 1,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1376498189 | table 2 | name: Name | value: Height / m | header rows: 2",
+      "tags": [
+        "architecture",
+        "buildings",
+        "skyscrapers",
+        "height"
+      ],
+      "answers": [
+        {
+          "answer": "Burj Khalifa",
+          "display": "828 m",
+          "aliases": [
+            "burj khalifah"
+          ]
+        },
+        {
+          "answer": "Merdeka Maybank Tower",
+          "display": "678.9 m",
+          "aliases": [
+            "merdeka tower",
+            "maybank tower",
+            "Merdeka 118"
+          ]
+        },
+        {
+          "answer": "Shanghai Tower",
+          "display": "632 m"
+        },
+        {
+          "answer": "Mecca Royal Clock Tower",
+          "display": "601 m",
+          "aliases": [
+            "abraj al-bait"
+          ]
+        },
+        {
+          "answer": "Ping An Finance Centre",
+          "display": "599.1 m",
+          "aliases": [
+            "ping an finance center"
+          ]
+        },
+        {
+          "answer": "Lotte World Tower",
+          "display": "554.5 m"
+        },
+        {
+          "answer": "One World Trade Center",
+          "display": "541.3 m",
+          "aliases": [
+            "1 world trade center",
+            "wtc"
+          ]
+        },
+        {
+          "answer": "Guangzhou CTF Finance Centre",
+          "display": "530 m",
+          "aliases": [
+            "guangzhou ctf finance center"
+          ]
+        },
+        {
+          "answer": "Tianjin CTF Finance Centre",
+          "display": "530 m",
+          "aliases": [
+            "tianjin ctf finance center"
+          ]
+        },
+        {
+          "answer": "CITIC Tower",
+          "display": "527.7 m",
+          "aliases": [
+            "china zun"
+          ]
+        },
+        {
+          "answer": "Taipei 101",
+          "display": "508 m"
+        },
+        {
+          "answer": "Shanghai World Financial Center",
+          "display": "492 m",
+          "aliases": [
+            "swfc"
+          ]
+        },
+        {
+          "answer": "International Commerce Centre",
+          "display": "484 m",
+          "aliases": [
+            "icc"
+          ]
+        },
+        {
+          "answer": "Wuhan Greenland Center",
+          "display": "475.6 m"
+        },
+        {
+          "answer": "Central Park Tower",
+          "display": "472.4 m"
+        }
+      ]
+    },
+    {
+      "category": "architecture/buildings/skyscrapers",
+      "question": "Top 10 tallest buildings in New York City by height (as of October 2026)",
+      "difficulty": 1,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1378964299 | table 1 | name: Name | value: Height ft",
+      "tags": [
+        "architecture",
+        "buildings",
+        "skyscrapers",
+        "new york",
+        "height"
+      ],
+      "answers": [
+        {
+          "answer": "One World Trade Center",
+          "display": "1,776 ft",
+          "aliases": [
+            "1 world trade center",
+            "freedom tower"
+          ]
+        },
+        {
+          "answer": "Central Park Tower",
+          "display": "1,550 ft",
+          "aliases": [
+            "Nordstrom Tower"
+          ]
+        },
+        {
+          "answer": "111 West 57th Street",
+          "display": "1,428 ft",
+          "aliases": [
+            "Steinway Tower"
+          ]
+        },
+        {
+          "answer": "One Vanderbilt",
+          "display": "1,401 ft"
+        },
+        {
+          "answer": "432 Park Avenue",
+          "display": "1,397 ft"
+        },
+        {
+          "answer": "270 Park Avenue",
+          "display": "1,388 ft"
+        },
+        {
+          "answer": "30 Hudson Yards",
+          "display": "1,270 ft"
+        },
+        {
+          "answer": "Empire State Building",
+          "display": "1,250 ft",
+          "aliases": [
+            "empire state"
+          ]
+        },
+        {
+          "answer": "Bank of America Tower",
+          "display": "1,200 ft",
+          "aliases": [
+            "One Bryant Park"
+          ]
+        },
+        {
+          "answer": "3 World Trade Center",
+          "display": "1,079 ft",
+          "aliases": [
+            "3 wtc"
+          ]
+        },
+        {
+          "answer": "53W53",
+          "display": "1,050 ft"
+        },
+        {
+          "answer": "Chrysler Building",
+          "display": "1,046 ft"
+        },
+        {
+          "answer": "The New York Times Building",
+          "display": "1,046 ft",
+          "aliases": [
+            "Times Tower"
+          ]
+        },
+        {
+          "answer": "Brooklyn Tower",
+          "display": "1,035 ft"
+        },
+        {
+          "answer": "The Spiral",
+          "display": "1,031 ft"
+        }
+      ]
+    },
+    {
+      "category": "architecture/buildings/towers",
+      "question": "Top 10 tallest structures whose listed main use includes observation (by pinnacle height, as of September 2026)",
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1377564805 | table 1 | name: Name | value: Pinnacle height | where: Main use~Observation",
+      "tags": [
+        "architecture",
+        "towers",
+        "observation",
+        "height"
+      ],
+      "answers": [
+        {
+          "answer": "Tokyo Skytree",
+          "display": "634.0 m",
+          "aliases": [
+            "skytree"
+          ]
+        },
+        {
+          "answer": "Shanghai Tower",
+          "display": "632.0 m"
+        },
+        {
+          "answer": "Canton Tower",
+          "display": "604 m",
+          "aliases": [
+            "Guangzhou TV Tower"
+          ]
+        },
+        {
+          "answer": "CN Tower",
+          "display": "553 m"
+        },
+        {
+          "answer": "Ostankino Tower",
+          "display": "540.1 m"
+        },
+        {
+          "answer": "Willis Tower",
+          "display": "527 m",
+          "aliases": [
+            "sears tower"
+          ]
+        },
+        {
+          "answer": "Taipei 101",
+          "display": "509.2 m"
+        },
+        {
+          "answer": "Landmark 81",
+          "display": "470 m"
+        },
+        {
+          "answer": "Oriental Pearl Tower",
+          "display": "467.9 m"
+        },
+        {
+          "answer": "875 North Michigan Avenue",
+          "display": "457.2 m",
+          "aliases": [
+            "john hancock center"
+          ]
+        },
+        {
+          "answer": "Petronas Tower 1",
+          "display": "451.9 m"
+        },
+        {
+          "answer": "Petronas Tower 2",
+          "display": "451.9 m"
+        },
+        {
+          "answer": "Empire State Building",
+          "display": "448.7 m"
+        },
+        {
+          "answer": "Milad Tower",
+          "display": "435 m"
+        },
+        {
+          "answer": "One Vanderbilt",
+          "display": "427 m"
+        }
+      ]
+    },
+    {
+      "category": "architecture/buildings",
+      "question": "Top 9 tallest church buildings in the world by height (as of September 2026)",
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1376361099 | table 3 | name: Name of Church | value: Height metres",
+      "tags": [
+        "architecture",
+        "buildings",
+        "churches",
+        "height"
+      ],
+      "answers": [
+        {
+          "answer": "Basilica of the Sagrada Familia",
+          "display": "172.5 m",
+          "aliases": [
+            "sagrada familia"
+          ]
+        },
+        {
+          "answer": "Ulm Minster",
+          "display": "161.5 m"
+        },
+        {
+          "answer": "Basilica of Our Lady of Peace",
+          "display": "158.0 m",
+          "aliases": [
+            "Yamoussoukro Basilica"
+          ]
+        },
+        {
+          "answer": "Cologne Cathedral",
+          "display": "157.2 m",
+          "aliases": [
+            "Kölner Dom"
+          ]
+        },
+        {
+          "answer": "Rouen Cathedral",
+          "display": "151.0 m"
+        },
+        {
+          "answer": "Strasbourg Cathedral",
+          "display": "142.0 m"
+        },
+        {
+          "answer": "St. Peter's Basilica",
+          "display": "136.6 m"
+        },
+        {
+          "answer": "St. Stephen's Cathedral",
+          "display": "136.4 m",
+          "aliases": [
+            "steffl"
+          ]
+        },
+        {
+          "answer": "New Linz Cathedral",
+          "display": "134.8 m"
+        },
+        {
+          "answer": "St. Michael's Church",
+          "display": "132.0 m",
+          "aliases": [
+            "Michel"
+          ]
+        },
+        {
+          "answer": "St. Peter's Church",
+          "display": "132.0 m"
+        },
+        {
+          "answer": "St. Martin's Church",
+          "display": "130.6 m"
+        },
+        {
+          "answer": "People's Salvation Cathedral",
+          "display": "127.0 m"
+        },
+        {
+          "answer": "Basilica of San Gaudenzio",
+          "display": "126.0 m"
+        }
+      ],
+      "cutoff": 9
+    },
+    {
+      "category": "architecture/buildings",
+      "question": "Top 7 countries with the most churches at least 95 m tall (as of September 2026)",
+      "difficulty": 3,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1376361099 | table 2 | name: Country | value: Churches ≥ 95 m ≥ 312 ft | where: Country!~Earth",
+      "tags": [
+        "architecture",
+        "buildings",
+        "churches",
+        "countries"
+      ],
+      "answers": [
+        {
+          "answer": "Germany",
+          "display": "38 churches"
+        },
+        {
+          "answer": "France",
+          "display": "13 churches"
+        },
+        {
+          "answer": "Poland",
+          "display": "11 churches"
+        },
+        {
+          "answer": "Italy and Vatican City",
+          "display": "10 churches",
+          "aliases": [
+            "italy",
+            "vatican city"
+          ]
+        },
+        {
+          "answer": "Russia",
+          "display": "8 churches"
+        },
+        {
+          "answer": "Belgium",
+          "display": "7 churches"
+        },
+        {
+          "answer": "Netherlands",
+          "display": "6 churches",
+          "aliases": [
+            "Holland"
+          ]
+        },
+        {
+          "answer": "Austria",
+          "display": "5 churches"
+        },
+        {
+          "answer": "Sweden",
+          "display": "5 churches"
+        },
+        {
+          "answer": "United Kingdom",
+          "display": "4 churches",
+          "aliases": [
+            "uk",
+            "britain"
+          ]
+        }
+      ],
+      "cutoff": 7
+    },
+    {
+      "category": "architecture/buildings/stadiums",
+      "question": "Top 8 largest stadiums in the world by capacity (as of October 2026)",
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1379509912 | table 1 | name: Stadium | value: Capacity",
+      "tags": [
+        "architecture",
+        "stadiums",
+        "capacity"
+      ],
+      "answers": [
+        {
+          "answer": "Narendra Modi Stadium",
+          "display": "132,000 capacity",
+          "aliases": [
+            "motera stadium",
+            "Sardar Patel Stadium"
+          ]
+        },
+        {
+          "answer": "Rungrado 1st of May Stadium",
+          "display": "113,281 capacity",
+          "aliases": [
+            "rungrado stadium",
+            "May Day Stadium",
+            "1st of May Stadium"
+          ]
+        },
+        {
+          "answer": "Michigan Stadium",
+          "display": "107,601 capacity",
+          "aliases": [
+            "the big house"
+          ]
+        },
+        {
+          "answer": "Beaver Stadium",
+          "display": "106,572 capacity",
+          "aliases": [
+            "Happy Valley"
+          ]
+        },
+        {
+          "answer": "Ohio Stadium",
+          "display": "102,780 capacity",
+          "aliases": [
+            "the horseshoe"
+          ]
+        },
+        {
+          "answer": "Kyle Field",
+          "display": "102,733 capacity"
+        },
+        {
+          "answer": "Tiger Stadium",
+          "display": "102,321 capacity",
+          "aliases": [
+            "Death Valley"
+          ]
+        },
+        {
+          "answer": "Neyland Stadium",
+          "display": "101,915 capacity"
+        },
+        {
+          "answer": "Darrell K Royal–Texas Memorial Stadium",
+          "display": "100,119 capacity",
+          "aliases": [
+            "texas memorial stadium",
+            "DKR"
+          ]
+        },
+        {
+          "answer": "Bryant–Denny Stadium",
+          "display": "100,077 capacity"
+        },
+        {
+          "answer": "Melbourne Cricket Ground",
+          "display": "100,024 capacity",
+          "aliases": [
+            "mcg"
+          ]
+        }
+      ],
+      "cutoff": 8
+    },
+    {
+      "category": "architecture/buildings/stadiums",
+      "question": "Top 10 largest football stadiums in Europe by seating capacity (as of September 2026)",
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1377329873 | table 2 | name: Stadium | value: Seating capacity | where: Region=Europe",
+      "tags": [
+        "architecture",
+        "stadiums",
+        "football",
+        "europe"
+      ],
+      "answers": [
+        {
+          "answer": "Camp Nou",
+          "display": "99,354 seats",
+          "aliases": [
+            "nou camp"
+          ]
+        },
+        {
+          "answer": "Wembley Stadium",
+          "display": "90,000 seats",
+          "aliases": [
+            "wembley"
+          ]
+        },
+        {
+          "answer": "Santiago Bernabéu",
+          "display": "83,186 seats",
+          "aliases": [
+            "estadio santiago bernabeu",
+            "bernabeu"
+          ]
+        },
+        {
+          "answer": "Croke Park",
+          "display": "82,300 seats"
+        },
+        {
+          "answer": "Signal Iduna Park",
+          "display": "81,365 seats",
+          "aliases": [
+            "westfalenstadion"
+          ]
+        },
+        {
+          "answer": "Stade de France",
+          "display": "81,338 seats"
+        },
+        {
+          "answer": "Luzhniki Stadium",
+          "display": "81,000 seats",
+          "aliases": [
+            "grand sports arena",
+            "Lenin Stadium"
+          ]
+        },
+        {
+          "answer": "Stadio Giuseppe Meazza",
+          "display": "80,018 seats",
+          "aliases": [
+            "san siro",
+            "giuseppe meazza stadium"
+          ]
+        },
+        {
+          "answer": "Atatürk Olimpiyat Stadyumu",
+          "display": "76,092 seats",
+          "aliases": [
+            "ataturk olympic stadium",
+            "Ataturk Stadium"
+          ]
+        },
+        {
+          "answer": "Old Trafford",
+          "display": "76,000 seats",
+          "aliases": [
+            "theatre of dreams"
+          ]
+        },
+        {
+          "answer": "Allianz Arena",
+          "display": "75,024 seats"
+        },
+        {
+          "answer": "Principality Stadium",
+          "display": "74,500 seats",
+          "aliases": [
+            "Millennium Stadium"
+          ]
+        },
+        {
+          "answer": "Olympiastadion",
+          "display": "74,475 seats",
+          "aliases": [
+            "berlin olympiastadion",
+            "Olympic Stadium Berlin"
+          ]
+        },
+        {
+          "answer": "Stadio Olimpico",
+          "display": "72,698 seats"
+        },
+        {
+          "answer": "La Cartuja",
+          "display": "71,374 seats",
+          "aliases": [
+            "estadio la cartuja"
+          ]
+        }
+      ]
+    }
+  ]
+}

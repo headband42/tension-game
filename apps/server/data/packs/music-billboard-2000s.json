@@ -1,0 +1,733 @@
+{
+  "categories": [
+    {
+      "path": "music",
+      "name": "Music"
+    },
+    {
+      "path": "music/billboard-year-end",
+      "name": "Billboard Year-End Hot 100"
+    },
+    {
+      "path": "music/billboard-year-end/2000s",
+      "name": "2000s"
+    }
+  ],
+  "questions": [
+    {
+      "category": "music/billboard-year-end/2000s",
+      "question": "Top 10 songs of Billboard's 2000 year-end Hot 100",
+      "cutoff": 10,
+      "difficulty": 1,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1376902619 | table 1 | name: Title | value: No. | order: asc",
+      "tags": [
+        "music",
+        "billboard",
+        "2000s"
+      ],
+      "answers": [
+        {
+          "answer": "Breathe",
+          "display": "#1 — Faith Hill"
+        },
+        {
+          "answer": "Smooth",
+          "display": "#2 — Santana"
+        },
+        {
+          "answer": "Maria Maria",
+          "display": "#3 — Santana"
+        },
+        {
+          "answer": "I Wanna Know",
+          "display": "#4 — Joe"
+        },
+        {
+          "answer": "Everything You Want",
+          "display": "#5 — Vertical Horizon"
+        },
+        {
+          "answer": "Say My Name",
+          "display": "#6 — Destiny's Child"
+        },
+        {
+          "answer": "I Knew I Loved You",
+          "display": "#7 — Savage Garden"
+        },
+        {
+          "answer": "Amazed",
+          "display": "#8 — Lonestar"
+        },
+        {
+          "answer": "Bent",
+          "display": "#9 — Matchbox Twenty"
+        },
+        {
+          "answer": "He Wasn't Man Enough",
+          "display": "#10 — Toni Braxton",
+          "aliases": [
+            "Man Enough"
+          ]
+        },
+        {
+          "answer": "Higher",
+          "display": "#11 — Creed"
+        },
+        {
+          "answer": "Try Again",
+          "display": "#12 — Aaliyah"
+        },
+        {
+          "answer": "Jumpin', Jumpin'",
+          "display": "#13 — Destiny's Child"
+        }
+      ]
+    },
+    {
+      "category": "music/billboard-year-end/2000s",
+      "question": "Top 10 songs of Billboard's 2001 year-end Hot 100",
+      "cutoff": 10,
+      "difficulty": 1,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1375920703 | table 1 | name: Title | value: No. | order: asc",
+      "tags": [
+        "music",
+        "billboard",
+        "2000s"
+      ],
+      "answers": [
+        {
+          "answer": "Hanging by a Moment",
+          "display": "#1 — Lifehouse"
+        },
+        {
+          "answer": "Fallin'",
+          "display": "#2 — Alicia Keys"
+        },
+        {
+          "answer": "All for You",
+          "display": "#3 — Janet"
+        },
+        {
+          "answer": "Drops of Jupiter (Tell Me)",
+          "display": "#4 — Train",
+          "aliases": [
+            "Drops of Jupiter"
+          ]
+        },
+        {
+          "answer": "I'm Real (Murder Remix)",
+          "display": "#5 — Jennifer Lopez",
+          "aliases": [
+            "I'm Real"
+          ]
+        },
+        {
+          "answer": "If You're Gone",
+          "display": "#6 — Matchbox Twenty"
+        },
+        {
+          "answer": "Let Me Blow Ya Mind",
+          "display": "#7 — Eve"
+        },
+        {
+          "answer": "Thank You",
+          "display": "#8 — Dido"
+        },
+        {
+          "answer": "Again",
+          "display": "#9 — Lenny Kravitz"
+        },
+        {
+          "answer": "Independent Women Part I",
+          "display": "#10 — Destiny's Child",
+          "aliases": [
+            "Independent Women"
+          ]
+        },
+        {
+          "answer": "Hit 'Em Up Style (Oops!)",
+          "display": "#11 — Blu Cantrell",
+          "aliases": [
+            "Hit 'Em Up Style"
+          ]
+        },
+        {
+          "answer": "It Wasn't Me",
+          "display": "#12 — Shaggy"
+        },
+        {
+          "answer": "Stutter",
+          "display": "#13 — Joe"
+        }
+      ]
+    },
+    {
+      "category": "music/billboard-year-end/2000s",
+      "question": "Top 10 songs of Billboard's 2002 year-end Hot 100",
+      "cutoff": 10,
+      "difficulty": 1,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1355502229 | table 1 | name: Title | value: No. | order: asc",
+      "tags": [
+        "music",
+        "billboard",
+        "2000s"
+      ],
+      "answers": [
+        {
+          "answer": "How You Remind Me",
+          "display": "#1 — Nickelback",
+          "aliases": [
+            "How U Remind Me"
+          ]
+        },
+        {
+          "answer": "Foolish",
+          "display": "#2 — Ashanti"
+        },
+        {
+          "answer": "Hot in Herre",
+          "display": "#3 — Nelly"
+        },
+        {
+          "answer": "Dilemma",
+          "display": "#4 — Nelly"
+        },
+        {
+          "answer": "Wherever You Will Go",
+          "display": "#5 — The Calling"
+        },
+        {
+          "answer": "A Thousand Miles",
+          "display": "#6 — Vanessa Carlton"
+        },
+        {
+          "answer": "In the End",
+          "display": "#7 — Linkin Park"
+        },
+        {
+          "answer": "What's Luv?",
+          "display": "#8 — Fat Joe"
+        },
+        {
+          "answer": "U Got It Bad",
+          "display": "#9 — Usher",
+          "aliases": [
+            "You Got It Bad"
+          ]
+        },
+        {
+          "answer": "Blurry",
+          "display": "#10 — Puddle of Mudd"
+        },
+        {
+          "answer": "Complicated",
+          "display": "#11 — Avril Lavigne"
+        },
+        {
+          "answer": "Always on Time",
+          "display": "#12 — Ja Rule"
+        },
+        {
+          "answer": "Ain't It Funny (Murder Remix)",
+          "display": "#13 — Jennifer Lopez",
+          "aliases": [
+            "Ain't It Funny"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "music/billboard-year-end/2000s",
+      "question": "Top 10 songs of Billboard's 2003 year-end Hot 100",
+      "cutoff": 10,
+      "difficulty": 1,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1379521233 | table 1 | name: Title | value: No. | order: asc",
+      "tags": [
+        "music",
+        "billboard",
+        "2000s"
+      ],
+      "answers": [
+        {
+          "answer": "In da Club",
+          "display": "#1 — 50 Cent"
+        },
+        {
+          "answer": "Ignition (Remix)",
+          "display": "#2 — R. Kelly",
+          "aliases": [
+            "Ignition"
+          ]
+        },
+        {
+          "answer": "Get Busy",
+          "display": "#3 — Sean Paul"
+        },
+        {
+          "answer": "Crazy in Love",
+          "display": "#4 — Beyoncé"
+        },
+        {
+          "answer": "When I'm Gone",
+          "display": "#5 — 3 Doors Down"
+        },
+        {
+          "answer": "Unwell",
+          "display": "#6 — Matchbox Twenty"
+        },
+        {
+          "answer": "Right Thurr",
+          "display": "#7 — Chingy"
+        },
+        {
+          "answer": "Miss You",
+          "display": "#8 — Aaliyah"
+        },
+        {
+          "answer": "Picture",
+          "display": "#9 — Kid Rock"
+        },
+        {
+          "answer": "Bring Me to Life",
+          "display": "#10 — Evanescence"
+        },
+        {
+          "answer": "Get Low",
+          "display": "#11 — Lil Jon"
+        },
+        {
+          "answer": "Baby Boy",
+          "display": "#12 — Beyoncé"
+        },
+        {
+          "answer": "Shake Ya Tailfeather",
+          "display": "#13 — Nelly"
+        }
+      ]
+    },
+    {
+      "category": "music/billboard-year-end/2000s",
+      "question": "Top 10 songs of Billboard's 2004 year-end Hot 100",
+      "cutoff": 10,
+      "difficulty": 1,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1373018698 | table 1 | name: Title | value: No. | order: asc",
+      "tags": [
+        "music",
+        "billboard",
+        "2000s"
+      ],
+      "answers": [
+        {
+          "answer": "Yeah!",
+          "display": "#1 — Usher",
+          "aliases": [
+            "Yeah"
+          ]
+        },
+        {
+          "answer": "Burn",
+          "display": "#2 — Usher"
+        },
+        {
+          "answer": "If I Ain't Got You",
+          "display": "#3 — Alicia Keys"
+        },
+        {
+          "answer": "This Love",
+          "display": "#4 — Maroon 5"
+        },
+        {
+          "answer": "The Way You Move",
+          "display": "#5 — OutKast"
+        },
+        {
+          "answer": "The Reason",
+          "display": "#6 — Hoobastank"
+        },
+        {
+          "answer": "I Don't Wanna Know",
+          "display": "#7 — Mario Winans"
+        },
+        {
+          "answer": "Hey Ya!",
+          "display": "#8 — OutKast",
+          "aliases": [
+            "Hey Ya"
+          ]
+        },
+        {
+          "answer": "Goodies",
+          "display": "#9 — Ciara"
+        },
+        {
+          "answer": "Lean Back",
+          "display": "#10 — Terror Squad"
+        },
+        {
+          "answer": "Tipsy",
+          "display": "#11 — J-Kwon"
+        },
+        {
+          "answer": "Confessions Part II",
+          "display": "#12 — Usher"
+        },
+        {
+          "answer": "Slow Motion",
+          "display": "#13 — Juvenile"
+        }
+      ]
+    },
+    {
+      "category": "music/billboard-year-end/2000s",
+      "question": "Top 10 songs of Billboard's 2005 year-end Hot 100",
+      "cutoff": 10,
+      "difficulty": 1,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1361266699 | table 1 | name: Title | value: No. | order: asc",
+      "tags": [
+        "music",
+        "billboard",
+        "2000s"
+      ],
+      "answers": [
+        {
+          "answer": "We Belong Together",
+          "display": "#1 — Mariah Carey"
+        },
+        {
+          "answer": "Hollaback Girl",
+          "display": "#2 — Gwen Stefani"
+        },
+        {
+          "answer": "Let Me Love You",
+          "display": "#3 — Mario"
+        },
+        {
+          "answer": "Since U Been Gone",
+          "display": "#4 — Kelly Clarkson",
+          "aliases": [
+            "Since You Been Gone"
+          ]
+        },
+        {
+          "answer": "1, 2 Step",
+          "display": "#5 — Ciara"
+        },
+        {
+          "answer": "Gold Digger",
+          "display": "#6 — Kanye West"
+        },
+        {
+          "answer": "Boulevard of Broken Dreams",
+          "display": "#7 — Green Day"
+        },
+        {
+          "answer": "Candy Shop",
+          "display": "#8 — 50 Cent"
+        },
+        {
+          "answer": "Don't Cha",
+          "display": "#9 — The Pussycat Dolls"
+        },
+        {
+          "answer": "Behind These Hazel Eyes",
+          "display": "#10 — Kelly Clarkson"
+        },
+        {
+          "answer": "Disco Inferno",
+          "display": "#11 — 50 Cent"
+        },
+        {
+          "answer": "You and Me",
+          "display": "#12 — Lifehouse"
+        },
+        {
+          "answer": "Don't Phunk with My Heart",
+          "display": "#13 — The Black Eyed Peas"
+        }
+      ]
+    },
+    {
+      "category": "music/billboard-year-end/2000s",
+      "question": "Top 10 songs of Billboard's 2006 year-end Hot 100",
+      "cutoff": 10,
+      "difficulty": 1,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1366293282 | table 1 | name: Title | value: No. | order: asc",
+      "tags": [
+        "music",
+        "billboard",
+        "2000s"
+      ],
+      "answers": [
+        {
+          "answer": "Bad Day",
+          "display": "#1 — Daniel Powter"
+        },
+        {
+          "answer": "Temperature",
+          "display": "#2 — Sean Paul"
+        },
+        {
+          "answer": "Promiscuous",
+          "display": "#3 — Nelly Furtado"
+        },
+        {
+          "answer": "You're Beautiful",
+          "display": "#4 — James Blunt"
+        },
+        {
+          "answer": "Hips Don't Lie",
+          "display": "#5 — Shakira"
+        },
+        {
+          "answer": "Unwritten",
+          "display": "#6 — Natasha Bedingfield"
+        },
+        {
+          "answer": "Crazy",
+          "display": "#7 — Gnarls Barkley"
+        },
+        {
+          "answer": "Ridin'",
+          "display": "#8 — Chamillionaire"
+        },
+        {
+          "answer": "SexyBack",
+          "display": "#9 — Justin Timberlake"
+        },
+        {
+          "answer": "Check on It",
+          "display": "#10 — Beyoncé"
+        },
+        {
+          "answer": "Be Without You",
+          "display": "#11 — Mary J. Blige"
+        },
+        {
+          "answer": "Grillz",
+          "display": "#12 — Nelly"
+        },
+        {
+          "answer": "Over My Head (Cable Car)",
+          "display": "#13 — The Fray",
+          "aliases": [
+            "Over My Head"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "music/billboard-year-end/2000s",
+      "question": "Top 10 songs of Billboard's 2007 year-end Hot 100",
+      "cutoff": 10,
+      "difficulty": 1,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1374943146 | table 1 | name: Title | value: № | order: asc",
+      "tags": [
+        "music",
+        "billboard",
+        "2000s"
+      ],
+      "answers": [
+        {
+          "answer": "Irreplaceable",
+          "display": "#1 — Beyoncé"
+        },
+        {
+          "answer": "Umbrella",
+          "display": "#2 — Rihanna"
+        },
+        {
+          "answer": "The Sweet Escape",
+          "display": "#3 — Gwen Stefani"
+        },
+        {
+          "answer": "Big Girls Don't Cry",
+          "display": "#4 — Fergie"
+        },
+        {
+          "answer": "Buy U a Drank (Shawty Snappin')",
+          "display": "#5 — T-Pain",
+          "aliases": [
+            "Buy U a Drank"
+          ]
+        },
+        {
+          "answer": "Before He Cheats",
+          "display": "#6 — Carrie Underwood"
+        },
+        {
+          "answer": "Hey There Delilah",
+          "display": "#7 — Plain White T's"
+        },
+        {
+          "answer": "I Wanna Love You",
+          "display": "#8 — Akon"
+        },
+        {
+          "answer": "Say It Right",
+          "display": "#9 — Nelly Furtado"
+        },
+        {
+          "answer": "Glamorous",
+          "display": "#10 — Fergie"
+        },
+        {
+          "answer": "Don't Matter",
+          "display": "#11 — Akon"
+        },
+        {
+          "answer": "Girlfriend",
+          "display": "#12 — Avril Lavigne"
+        },
+        {
+          "answer": "Makes Me Wonder",
+          "display": "#13 — Maroon 5"
+        }
+      ]
+    },
+    {
+      "category": "music/billboard-year-end/2000s",
+      "question": "Top 10 songs of Billboard's 2008 year-end Hot 100",
+      "cutoff": 10,
+      "difficulty": 1,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1361636036 | table 1 | name: Title | value: No. | order: asc",
+      "tags": [
+        "music",
+        "billboard",
+        "2000s"
+      ],
+      "answers": [
+        {
+          "answer": "Low",
+          "display": "#1 — Flo Rida"
+        },
+        {
+          "answer": "Bleeding Love",
+          "display": "#2 — Leona Lewis"
+        },
+        {
+          "answer": "No One",
+          "display": "#3 — Alicia Keys"
+        },
+        {
+          "answer": "Lollipop",
+          "display": "#4 — Lil Wayne"
+        },
+        {
+          "answer": "Apologize",
+          "display": "#5 — OneRepublic"
+        },
+        {
+          "answer": "No Air",
+          "display": "#6 — Jordin Sparks"
+        },
+        {
+          "answer": "Love Song",
+          "display": "#7 — Sara Bareilles"
+        },
+        {
+          "answer": "Love in This Club",
+          "display": "#8 — Usher"
+        },
+        {
+          "answer": "With You",
+          "display": "#9 — Chris Brown"
+        },
+        {
+          "answer": "Forever",
+          "display": "#10 — Chris Brown"
+        },
+        {
+          "answer": "Sexy Can I",
+          "display": "#11 — Ray J"
+        },
+        {
+          "answer": "Take a Bow",
+          "display": "#12 — Rihanna"
+        },
+        {
+          "answer": "Viva la Vida",
+          "display": "#13 — Coldplay"
+        }
+      ]
+    },
+    {
+      "category": "music/billboard-year-end/2000s",
+      "question": "Top 10 songs of Billboard's 2009 year-end Hot 100",
+      "cutoff": 10,
+      "difficulty": 1,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1378922157 | table 1 | name: Title | value: No. | order: asc",
+      "tags": [
+        "music",
+        "billboard",
+        "2000s"
+      ],
+      "answers": [
+        {
+          "answer": "Boom Boom Pow",
+          "display": "#1 — The Black Eyed Peas"
+        },
+        {
+          "answer": "Poker Face",
+          "display": "#2 — Lady Gaga"
+        },
+        {
+          "answer": "Just Dance",
+          "display": "#3 — Lady Gaga"
+        },
+        {
+          "answer": "I Gotta Feeling",
+          "display": "#4 — The Black Eyed Peas"
+        },
+        {
+          "answer": "Love Story",
+          "display": "#5 — Taylor Swift"
+        },
+        {
+          "answer": "Right Round",
+          "display": "#6 — Flo Rida"
+        },
+        {
+          "answer": "I'm Yours",
+          "display": "#7 — Jason Mraz"
+        },
+        {
+          "answer": "Single Ladies (Put a Ring on It)",
+          "display": "#8 — Beyoncé",
+          "aliases": [
+            "Single Ladies"
+          ]
+        },
+        {
+          "answer": "Heartless",
+          "display": "#9 — Kanye West"
+        },
+        {
+          "answer": "Gives You Hell",
+          "display": "#10 — The All-American Rejects"
+        },
+        {
+          "answer": "You Belong with Me",
+          "display": "#11 — Taylor Swift"
+        },
+        {
+          "answer": "Dead and Gone",
+          "display": "#12 — T.I."
+        },
+        {
+          "answer": "You Found Me",
+          "display": "#13 — The Fray"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,651 @@
+{
+  "categories": [
+    {
+      "path": "music",
+      "name": "Music"
+    },
+    {
+      "path": "music/billboard-year-end",
+      "name": "Billboard Year-End Hot 100"
+    },
+    {
+      "path": "music/billboard-year-end/2010s",
+      "name": "2010s"
+    }
+  ],
+  "questions": [
+    {
+      "category": "music/billboard-year-end/2010s",
+      "question": "Top 10 songs of Billboard's 2010 year-end Hot 100",
+      "cutoff": 10,
+      "difficulty": 1,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1365072228 | table 1 | name: Title | value: No. | order: asc",
+      "tags": [
+        "music",
+        "billboard",
+        "2010s"
+      ],
+      "answers": [
+        {
+          "answer": "Tik Tok",
+          "display": "#1 — Kesha"
+        },
+        {
+          "answer": "Need You Now",
+          "display": "#2 — Lady Antebellum"
+        },
+        {
+          "answer": "Hey, Soul Sister",
+          "display": "#3 — Train",
+          "aliases": [
+            "Soul Sister"
+          ]
+        },
+        {
+          "answer": "California Gurls",
+          "display": "#4 — Katy Perry featuring Snoop Dogg",
+          "aliases": [
+            "California Girls"
+          ]
+        },
+        {
+          "answer": "OMG",
+          "display": "#5 — Usher featuring will.i.am"
+        },
+        {
+          "answer": "Airplanes",
+          "display": "#6 — B.o.B featuring Hayley Williams"
+        },
+        {
+          "answer": "Love the Way You Lie",
+          "display": "#7 — Eminem featuring Rihanna"
+        },
+        {
+          "answer": "Bad Romance",
+          "display": "#8 — Lady Gaga"
+        },
+        {
+          "answer": "Dynamite",
+          "display": "#9 — Taio Cruz"
+        },
+        {
+          "answer": "Break Your Heart",
+          "display": "#10 — Taio Cruz featuring Ludacris"
+        },
+        {
+          "answer": "Nothin' on You",
+          "display": "#11 — B.o.B featuring Bruno Mars",
+          "aliases": [
+            "Nothing on You"
+          ]
+        },
+        {
+          "answer": "I Like It",
+          "display": "#12 — Enrique Iglesias featuring Pitbull"
+        },
+        {
+          "answer": "Bedrock",
+          "display": "#13 — Young Money featuring Lloyd"
+        }
+      ]
+    },
+    {
+      "category": "music/billboard-year-end/2010s",
+      "question": "Top 10 songs of Billboard's 2011 year-end Hot 100",
+      "cutoff": 10,
+      "difficulty": 1,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1376169008 | table 1 | name: Title | value: No. | order: asc",
+      "tags": [
+        "music",
+        "billboard",
+        "2010s"
+      ],
+      "answers": [
+        {
+          "answer": "Rolling in the Deep",
+          "display": "#1 — Adele"
+        },
+        {
+          "answer": "Party Rock Anthem",
+          "display": "#2 — LMFAO featuring Lauren Bennett and GoonRock",
+          "aliases": [
+            "Party Rock"
+          ]
+        },
+        {
+          "answer": "Firework",
+          "display": "#3 — Katy Perry"
+        },
+        {
+          "answer": "E.T.",
+          "display": "#4 — Katy Perry featuring Kanye West"
+        },
+        {
+          "answer": "Give Me Everything",
+          "display": "#5 — Pitbull featuring Ne-Yo, Afrojack and Nayer"
+        },
+        {
+          "answer": "Grenade",
+          "display": "#6 — Bruno Mars"
+        },
+        {
+          "answer": "Forget You",
+          "display": "#7 — CeeLo Green",
+          "aliases": [
+            "Fuck You"
+          ]
+        },
+        {
+          "answer": "Super Bass",
+          "display": "#8 — Nicki Minaj"
+        },
+        {
+          "answer": "Moves Like Jagger",
+          "display": "#9 — Maroon 5 featuring Christina Aguilera"
+        },
+        {
+          "answer": "Just Can't Get Enough",
+          "display": "#10 — The Black Eyed Peas"
+        },
+        {
+          "answer": "On the Floor",
+          "display": "#11 — Jennifer Lopez featuring Pitbull"
+        },
+        {
+          "answer": "S&M",
+          "display": "#12 — Rihanna",
+          "aliases": [
+            "S and M"
+          ]
+        },
+        {
+          "answer": "Pumped Up Kicks",
+          "display": "#13 — Foster the People"
+        }
+      ]
+    },
+    {
+      "category": "music/billboard-year-end/2010s",
+      "question": "Top 10 songs of Billboard's 2012 year-end Hot 100",
+      "cutoff": 10,
+      "difficulty": 1,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1378464173 | table 1 | name: Title | value: No. | order: asc",
+      "tags": [
+        "music",
+        "billboard",
+        "2010s"
+      ],
+      "answers": [
+        {
+          "answer": "Somebody That I Used to Know",
+          "display": "#1 — Gotye featuring Kimbra"
+        },
+        {
+          "answer": "Call Me Maybe",
+          "display": "#2 — Carly Rae Jepsen"
+        },
+        {
+          "answer": "We Are Young",
+          "display": "#3 — Fun featuring Janelle Monáe"
+        },
+        {
+          "answer": "Payphone",
+          "display": "#4 — Maroon 5 featuring Wiz Khalifa"
+        },
+        {
+          "answer": "Lights",
+          "display": "#5 — Ellie Goulding"
+        },
+        {
+          "answer": "Glad You Came",
+          "display": "#6 — The Wanted"
+        },
+        {
+          "answer": "Stronger",
+          "display": "#7 — Kelly Clarkson",
+          "aliases": [
+            "What Doesn't Kill You"
+          ]
+        },
+        {
+          "answer": "We Found Love",
+          "display": "#8 — Rihanna featuring Calvin Harris"
+        },
+        {
+          "answer": "Starships",
+          "display": "#9 — Nicki Minaj"
+        },
+        {
+          "answer": "What Makes You Beautiful",
+          "display": "#10 — One Direction"
+        },
+        {
+          "answer": "Wild Ones",
+          "display": "#11 — Flo Rida featuring Sia"
+        },
+        {
+          "answer": "Set Fire to the Rain",
+          "display": "#12 — Adele"
+        },
+        {
+          "answer": "Sexy and I Know It",
+          "display": "#13 — LMFAO"
+        }
+      ]
+    },
+    {
+      "category": "music/billboard-year-end/2010s",
+      "question": "Top 10 songs of Billboard's 2013 year-end Hot 100",
+      "cutoff": 10,
+      "difficulty": 1,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1367286565 | table 1 | name: Title | value: No. | order: asc",
+      "tags": [
+        "music",
+        "billboard",
+        "2010s"
+      ],
+      "answers": [
+        {
+          "answer": "Thrift Shop",
+          "display": "#1 — Macklemore & Ryan Lewis featuring Wanz"
+        },
+        {
+          "answer": "Blurred Lines",
+          "display": "#2 — Robin Thicke featuring T.I. and Pharrell Williams"
+        },
+        {
+          "answer": "Radioactive",
+          "display": "#3 — Imagine Dragons"
+        },
+        {
+          "answer": "Harlem Shake",
+          "display": "#4 — Baauer"
+        },
+        {
+          "answer": "Can't Hold Us",
+          "display": "#5 — Macklemore & Ryan Lewis featuring Ray Dalton"
+        },
+        {
+          "answer": "Mirrors",
+          "display": "#6 — Justin Timberlake"
+        },
+        {
+          "answer": "Just Give Me a Reason",
+          "display": "#7 — Pink featuring Nate Ruess",
+          "aliases": [
+            "Give Me a Reason"
+          ]
+        },
+        {
+          "answer": "When I Was Your Man",
+          "display": "#8 — Bruno Mars",
+          "aliases": [
+            "Your Man"
+          ]
+        },
+        {
+          "answer": "Cruise",
+          "display": "#9 — Florida Georgia Line featuring Nelly"
+        },
+        {
+          "answer": "Roar",
+          "display": "#10 — Katy Perry"
+        },
+        {
+          "answer": "Locked Out of Heaven",
+          "display": "#11 — Bruno Mars"
+        },
+        {
+          "answer": "Ho Hey",
+          "display": "#12 — The Lumineers"
+        },
+        {
+          "answer": "Stay",
+          "display": "#13 — Rihanna featuring Mikky Ekko"
+        }
+      ]
+    },
+    {
+      "category": "music/billboard-year-end/2010s",
+      "question": "Top 10 songs of Billboard's 2014 year-end Hot 100",
+      "cutoff": 10,
+      "difficulty": 1,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1367728658 | table 1 | name: Title | value: No. | order: asc",
+      "tags": [
+        "music",
+        "billboard",
+        "2010s"
+      ],
+      "answers": [
+        {
+          "answer": "Happy",
+          "display": "#1 — Pharrell Williams"
+        },
+        {
+          "answer": "Dark Horse",
+          "display": "#2 — Katy Perry featuring Juicy J"
+        },
+        {
+          "answer": "All of Me",
+          "display": "#3 — John Legend"
+        },
+        {
+          "answer": "Fancy",
+          "display": "#4 — Iggy Azalea featuring Charli XCX"
+        },
+        {
+          "answer": "Counting Stars",
+          "display": "#5 — OneRepublic"
+        },
+        {
+          "answer": "Talk Dirty",
+          "display": "#6 — Jason Derulo featuring 2 Chainz"
+        },
+        {
+          "answer": "Rude",
+          "display": "#7 — Magic!"
+        },
+        {
+          "answer": "All About That Bass",
+          "display": "#8 — Meghan Trainor"
+        },
+        {
+          "answer": "Problem",
+          "display": "#9 — Ariana Grande featuring Iggy Azalea"
+        },
+        {
+          "answer": "Stay with Me",
+          "display": "#10 — Sam Smith"
+        },
+        {
+          "answer": "Timber",
+          "display": "#11 — Pitbull featuring Kesha"
+        },
+        {
+          "answer": "Pompeii",
+          "display": "#12 — Bastille"
+        },
+        {
+          "answer": "Shake It Off",
+          "display": "#13 — Taylor Swift"
+        }
+      ]
+    },
+    {
+      "category": "music/billboard-year-end/2010s",
+      "question": "Top 10 songs of Billboard's 2015 year-end Hot 100",
+      "cutoff": 10,
+      "difficulty": 1,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1376505945 | table 1 | name: Title | value: No. | order: asc",
+      "tags": [
+        "music",
+        "billboard",
+        "2010s"
+      ],
+      "answers": [
+        {
+          "answer": "Uptown Funk",
+          "display": "#1 — Mark Ronson featuring Bruno Mars"
+        },
+        {
+          "answer": "Thinking Out Loud",
+          "display": "#2 — Ed Sheeran"
+        },
+        {
+          "answer": "See You Again",
+          "display": "#3 — Wiz Khalifa featuring Charlie Puth"
+        },
+        {
+          "answer": "Trap Queen",
+          "display": "#4 — Fetty Wap"
+        },
+        {
+          "answer": "Sugar",
+          "display": "#5 — Maroon 5"
+        },
+        {
+          "answer": "Shut Up and Dance",
+          "display": "#6 — Walk the Moon"
+        },
+        {
+          "answer": "Blank Space",
+          "display": "#7 — Taylor Swift"
+        },
+        {
+          "answer": "Watch Me",
+          "display": "#8 — Silentó"
+        },
+        {
+          "answer": "Earned It",
+          "display": "#9 — The Weeknd"
+        },
+        {
+          "answer": "The Hills",
+          "display": "#10 — The Weeknd"
+        },
+        {
+          "answer": "Cheerleader",
+          "display": "#11 — OMI"
+        },
+        {
+          "answer": "Can't Feel My Face",
+          "display": "#12 — The Weeknd"
+        },
+        {
+          "answer": "Love Me Like You Do",
+          "display": "#13 — Ellie Goulding"
+        }
+      ]
+    },
+    {
+      "category": "music/billboard-year-end/2010s",
+      "question": "Top 10 songs of Billboard's 2016 year-end Hot 100",
+      "cutoff": 10,
+      "difficulty": 1,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1368092300 | table 1 | name: Title | value: No. | order: asc",
+      "tags": [
+        "music",
+        "billboard",
+        "2010s"
+      ],
+      "answers": [
+        {
+          "answer": "Love Yourself",
+          "display": "#1 — Justin Bieber"
+        },
+        {
+          "answer": "Sorry",
+          "display": "#2 — Justin Bieber"
+        },
+        {
+          "answer": "One Dance",
+          "display": "#3 — Drake featuring Wizkid and Kyla"
+        },
+        {
+          "answer": "Work",
+          "display": "#4 — Rihanna featuring Drake"
+        },
+        {
+          "answer": "Stressed Out",
+          "display": "#5 — Twenty One Pilots"
+        },
+        {
+          "answer": "Panda",
+          "display": "#6 — Desiigner"
+        },
+        {
+          "answer": "Hello",
+          "display": "#7 — Adele"
+        },
+        {
+          "answer": "Don't Let Me Down",
+          "display": "#8 — The Chainsmokers featuring Daya"
+        },
+        {
+          "answer": "Can't Stop the Feeling",
+          "display": "#9 — Justin Timberlake"
+        },
+        {
+          "answer": "Closer",
+          "display": "#10 — The Chainsmokers featuring Halsey"
+        },
+        {
+          "answer": "Cheap Thrills",
+          "display": "#11 — Sia featuring Sean Paul"
+        },
+        {
+          "answer": "7 Years",
+          "display": "#12 — Lukas Graham"
+        },
+        {
+          "answer": "Needed Me",
+          "display": "#13 — Rihanna"
+        }
+      ]
+    },
+    {
+      "category": "music/billboard-year-end/2010s",
+      "question": "Top 10 songs of Billboard's 2017 year-end Hot 100",
+      "cutoff": 10,
+      "difficulty": 1,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1368270345 | table 1 | name: Title | value: No. | order: asc",
+      "tags": [
+        "music",
+        "billboard",
+        "2010s"
+      ],
+      "answers": [
+        {
+          "answer": "Shape of You",
+          "display": "#1 — Ed Sheeran"
+        },
+        {
+          "answer": "Despacito",
+          "display": "#2 — Luis Fonsi and Daddy Yankee featuring Justin Bieber",
+          "aliases": [
+            "Despacito Remix"
+          ]
+        },
+        {
+          "answer": "That's What I Like",
+          "display": "#3 — Bruno Mars"
+        },
+        {
+          "answer": "Humble",
+          "display": "#4 — Kendrick Lamar"
+        },
+        {
+          "answer": "Something Just Like This",
+          "display": "#5 — The Chainsmokers and Coldplay"
+        },
+        {
+          "answer": "Bad and Boujee",
+          "display": "#6 — Migos featuring Lil Uzi Vert"
+        },
+        {
+          "answer": "Closer",
+          "display": "#7 — The Chainsmokers featuring Halsey"
+        },
+        {
+          "answer": "Body Like a Back Road",
+          "display": "#8 — Sam Hunt"
+        },
+        {
+          "answer": "Believer",
+          "display": "#9 — Imagine Dragons"
+        },
+        {
+          "answer": "Congratulations",
+          "display": "#10 — Post Malone featuring Quavo"
+        },
+        {
+          "answer": "Say You Won't Let Go",
+          "display": "#11 — James Arthur"
+        },
+        {
+          "answer": "I'm the One",
+          "display": "#12 — DJ Khaled featuring Justin Bieber, Quavo, Chance the Rapper and Lil Wayne"
+        },
+        {
+          "answer": "XO Tour Llif3",
+          "display": "#13 — Lil Uzi Vert"
+        }
+      ]
+    },
+    {
+      "category": "music/billboard-year-end/2010s",
+      "question": "Top 10 songs of Billboard's 2018 year-end Hot 100",
+      "cutoff": 10,
+      "difficulty": 1,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1368734503 | table 1 | name: Title | value: No. | order: asc",
+      "tags": [
+        "music",
+        "billboard",
+        "2010s"
+      ],
+      "answers": [
+        {
+          "answer": "God's Plan",
+          "display": "#1 — Drake"
+        },
+        {
+          "answer": "Perfect",
+          "display": "#2 — Ed Sheeran"
+        },
+        {
+          "answer": "Meant to Be",
+          "display": "#3 — Bebe Rexha featuring Florida Georgia Line"
+        },
+        {
+          "answer": "Havana",
+          "display": "#4 — Camila Cabello featuring Young Thug"
+        },
+        {
+          "answer": "Rockstar",
+          "display": "#5 — Post Malone featuring 21 Savage"
+        },
+        {
+          "answer": "Psycho",
+          "display": "#6 — Post Malone featuring Ty Dolla Sign"
+        },
+        {
+          "answer": "I Like It",
+          "display": "#7 — Cardi B, Bad Bunny and J Balvin"
+        },
+        {
+          "answer": "The Middle",
+          "display": "#8 — Zedd, Maren Morris and Grey"
+        },
+        {
+          "answer": "In My Feelings",
+          "display": "#9 — Drake"
+        },
+        {
+          "answer": "Girls Like You",
+          "display": "#10 — Maroon 5 featuring Cardi B"
+        },
+        {
+          "answer": "Nice for What",
+          "display": "#11 — Drake"
+        },
+        {
+          "answer": "Lucid Dreams",
+          "display": "#12 — Juice Wrld"
+        },
+        {
+          "answer": "Better Now",
+          "display": "#13 — Post Malone"
+        }
+      ]
+    }
+  ]
+}

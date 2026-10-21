@@ -1,0 +1,1004 @@
+{
+  "categories": [
+    {
+      "path": "society/education",
+      "name": "Education"
+    },
+    {
+      "path": "society/education/universities",
+      "name": "Universities"
+    },
+    {
+      "path": "society/education/school-performance",
+      "name": "School Performance"
+    }
+  ],
+  "questions": [
+    {
+      "category": "society/education/school-performance",
+      "difficulty": 3,
+      "question": "Top 10 countries and economies by PISA 2025 mathematics score",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1378067005 | table 2 | name: Country | value: Score",
+      "tags": [
+        "education",
+        "pisa",
+        "mathematics"
+      ],
+      "answers": [
+        {
+          "answer": "China (B-S-J-Z)",
+          "display": "612 points",
+          "aliases": [
+            "China",
+            "B-S-J-Z",
+            "Beijing Shanghai Jiangsu Zhejiang"
+          ]
+        },
+        {
+          "answer": "Singapore",
+          "display": "563 points"
+        },
+        {
+          "answer": "Macao",
+          "display": "549 points",
+          "aliases": [
+            "Macau"
+          ]
+        },
+        {
+          "answer": "Taiwan",
+          "display": "546 points"
+        },
+        {
+          "answer": "Japan",
+          "display": "525 points"
+        },
+        {
+          "answer": "Hong Kong",
+          "display": "522 points"
+        },
+        {
+          "answer": "South Korea",
+          "display": "522 points",
+          "aliases": [
+            "Korea"
+          ]
+        },
+        {
+          "answer": "Estonia",
+          "display": "508 points"
+        },
+        {
+          "answer": "Switzerland",
+          "display": "499 points"
+        },
+        {
+          "answer": "United Kingdom",
+          "display": "488 points",
+          "aliases": [
+            "UK",
+            "Britain"
+          ]
+        },
+        {
+          "answer": "Canada",
+          "display": "485 points"
+        },
+        {
+          "answer": "Poland",
+          "display": "484 points"
+        },
+        {
+          "answer": "Netherlands",
+          "display": "483 points",
+          "aliases": [
+            "Holland"
+          ]
+        }
+      ],
+      "submitter": "claude"
+    },
+    {
+      "category": "society/education/school-performance",
+      "difficulty": 3,
+      "question": "Top 8 countries and economies by PISA 2025 science score",
+      "cutoff": 8,
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1378067005 | table 1 | name: Country | value: Score | note: China appears as B-S-J-Z (China) in the source",
+      "tags": [
+        "education",
+        "pisa",
+        "science"
+      ],
+      "answers": [
+        {
+          "answer": "China (B-S-J-Z)",
+          "display": "597 points",
+          "aliases": [
+            "China",
+            "B-S-J-Z",
+            "Beijing Shanghai Jiangsu Zhejiang"
+          ]
+        },
+        {
+          "answer": "Singapore",
+          "display": "560 points"
+        },
+        {
+          "answer": "Macao",
+          "display": "541 points",
+          "aliases": [
+            "Macau"
+          ]
+        },
+        {
+          "answer": "Taiwan",
+          "display": "540 points"
+        },
+        {
+          "answer": "Japan",
+          "display": "538 points"
+        },
+        {
+          "answer": "Estonia",
+          "display": "527 points"
+        },
+        {
+          "answer": "South Korea",
+          "display": "526 points",
+          "aliases": [
+            "Korea"
+          ]
+        },
+        {
+          "answer": "United Kingdom",
+          "display": "511 points",
+          "aliases": [
+            "UK",
+            "Britain"
+          ]
+        },
+        {
+          "answer": "Canada",
+          "display": "510 points"
+        },
+        {
+          "answer": "Australia",
+          "display": "509 points"
+        },
+        {
+          "answer": "New Zealand",
+          "display": "509 points"
+        },
+        {
+          "answer": "Finland",
+          "display": "504 points"
+        },
+        {
+          "answer": "United States",
+          "display": "502 points",
+          "aliases": [
+            "USA",
+            "US"
+          ]
+        }
+      ],
+      "submitter": "claude"
+    },
+    {
+      "category": "society/education/universities",
+      "difficulty": 2,
+      "question": "Top 10 largest UK universities by total students (2024/25)",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1379359960 | table 1 | name: University | value: Total students",
+      "tags": [
+        "education",
+        "universities",
+        "enrolment"
+      ],
+      "answers": [
+        {
+          "answer": "University of London",
+          "display": "205,400 students"
+        },
+        {
+          "answer": "Open University",
+          "display": "124,580 students",
+          "aliases": [
+            "OU"
+          ]
+        },
+        {
+          "answer": "University College London",
+          "display": "46,830 students",
+          "aliases": [
+            "UCL"
+          ]
+        },
+        {
+          "answer": "University of Manchester",
+          "display": "46,305 students"
+        },
+        {
+          "answer": "King's College London",
+          "display": "40,870 students",
+          "aliases": [
+            "KCL",
+            "King's College"
+          ]
+        },
+        {
+          "answer": "University of Birmingham",
+          "display": "40,025 students",
+          "aliases": [
+            "Birmingham"
+          ]
+        },
+        {
+          "answer": "Manchester Metropolitan University",
+          "display": "39,395 students",
+          "aliases": [
+            "MMU"
+          ]
+        },
+        {
+          "answer": "University of Edinburgh",
+          "display": "39,015 students",
+          "aliases": [
+            "Edinburgh"
+          ]
+        },
+        {
+          "answer": "University of Glasgow",
+          "display": "38,710 students",
+          "aliases": [
+            "Glasgow"
+          ]
+        },
+        {
+          "answer": "Canterbury Christ Church University",
+          "display": "38,385 students",
+          "aliases": [
+            "Christ Church"
+          ]
+        },
+        {
+          "answer": "University of Nottingham",
+          "display": "36,460 students"
+        },
+        {
+          "answer": "University of the West of England",
+          "display": "36,380 students",
+          "aliases": [
+            "UWE"
+          ]
+        },
+        {
+          "answer": "Nottingham Trent University",
+          "display": "35,435 students"
+        },
+        {
+          "answer": "University of Leeds",
+          "display": "34,580 students",
+          "aliases": [
+            "Leeds"
+          ]
+        },
+        {
+          "answer": "Anglia Ruskin University",
+          "display": "34,370 students"
+        }
+      ],
+      "submitter": "claude"
+    },
+    {
+      "category": "society/education/universities",
+      "difficulty": 3,
+      "question": "Top 10 oldest UK universities by year established",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1379359960 | table 1 | name: University | value: Established | order: asc",
+      "tags": [
+        "education",
+        "universities",
+        "history"
+      ],
+      "answers": [
+        {
+          "answer": "University of Oxford",
+          "display": "1096",
+          "aliases": [
+            "Oxford"
+          ]
+        },
+        {
+          "answer": "University of Cambridge",
+          "display": "1209",
+          "aliases": [
+            "Cambridge"
+          ]
+        },
+        {
+          "answer": "University of St Andrews",
+          "display": "1413",
+          "aliases": [
+            "St Andrews"
+          ]
+        },
+        {
+          "answer": "University of Glasgow",
+          "display": "1451",
+          "aliases": [
+            "Glasgow"
+          ]
+        },
+        {
+          "answer": "University of Aberdeen",
+          "display": "1495",
+          "aliases": [
+            "Aberdeen"
+          ]
+        },
+        {
+          "answer": "University of Edinburgh",
+          "display": "1583",
+          "aliases": [
+            "Edinburgh"
+          ]
+        },
+        {
+          "answer": "Robert Gordon University",
+          "display": "1750",
+          "aliases": [
+            "RGU"
+          ]
+        },
+        {
+          "answer": "Queen Mary University of London",
+          "display": "1785",
+          "aliases": [
+            "QMUL",
+            "Queen Mary"
+          ]
+        },
+        {
+          "answer": "Royal Veterinary College",
+          "display": "1791",
+          "aliases": [
+            "RVC"
+          ]
+        },
+        {
+          "answer": "University of Strathclyde",
+          "display": "1796",
+          "aliases": [
+            "Strathclyde"
+          ]
+        },
+        {
+          "answer": "Brunel University of London",
+          "display": "1798",
+          "aliases": [
+            "Brunel"
+          ]
+        },
+        {
+          "answer": "University of Nottingham",
+          "display": "1798",
+          "aliases": [
+            "Nottingham"
+          ]
+        },
+        {
+          "answer": "Queen's University Belfast",
+          "display": "1810",
+          "aliases": [
+            "Queen's Belfast"
+          ]
+        },
+        {
+          "answer": "Heriot-Watt University",
+          "display": "1821",
+          "aliases": [
+            "Heriot-Watt"
+          ]
+        },
+        {
+          "answer": "University of Wales Trinity Saint David",
+          "display": "1822"
+        }
+      ],
+      "submitter": "claude"
+    },
+    {
+      "category": "society/education/universities",
+      "difficulty": 2,
+      "question": "Top 10 universities in the world by QS World University Rankings 2027",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1379351092 | table 1 | name: Institution | value: 2027 | order: asc",
+      "tags": [
+        "education",
+        "universities",
+        "rankings"
+      ],
+      "answers": [
+        {
+          "answer": "Massachusetts Institute of Technology",
+          "display": "#1",
+          "aliases": [
+            "MIT"
+          ]
+        },
+        {
+          "answer": "Imperial College London",
+          "display": "#2 (tied)",
+          "aliases": [
+            "Imperial"
+          ]
+        },
+        {
+          "answer": "Stanford University",
+          "display": "#2 (tied)",
+          "aliases": [
+            "Stanford"
+          ]
+        },
+        {
+          "answer": "University of Oxford",
+          "display": "#4",
+          "aliases": [
+            "Oxford"
+          ]
+        },
+        {
+          "answer": "Harvard University",
+          "display": "#5",
+          "aliases": [
+            "Harvard"
+          ]
+        },
+        {
+          "answer": "University of Cambridge",
+          "display": "#6",
+          "aliases": [
+            "Cambridge"
+          ]
+        },
+        {
+          "answer": "California Institute of Technology",
+          "display": "#7",
+          "aliases": [
+            "Caltech"
+          ]
+        },
+        {
+          "answer": "ETH Zurich",
+          "display": "#8 (tied)",
+          "aliases": [
+            "ETH"
+          ]
+        },
+        {
+          "answer": "University College London",
+          "display": "#8 (tied)",
+          "aliases": [
+            "UCL"
+          ]
+        },
+        {
+          "answer": "National University of Singapore",
+          "display": "#10",
+          "aliases": [
+            "NUS"
+          ]
+        },
+        {
+          "answer": "University of Hong Kong",
+          "display": "#11",
+          "aliases": [
+            "HKU"
+          ]
+        },
+        {
+          "answer": "Nanyang Technological University",
+          "display": "#12",
+          "aliases": [
+            "NTU"
+          ]
+        },
+        {
+          "answer": "Peking University",
+          "display": "#13",
+          "aliases": [
+            "Peking"
+          ]
+        },
+        {
+          "answer": "Tsinghua University",
+          "display": "#14",
+          "aliases": [
+            "Tsinghua"
+          ]
+        },
+        {
+          "answer": "University of Pennsylvania",
+          "display": "#15",
+          "aliases": [
+            "Penn",
+            "UPenn"
+          ]
+        }
+      ],
+      "submitter": "claude"
+    },
+    {
+      "category": "society/education/universities",
+      "difficulty": 2,
+      "question": "Top 10 largest Canadian universities by full-time students",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1378345494 | table 1 | name: Name | value: Total full-time | header rows: 3",
+      "tags": [
+        "education",
+        "universities",
+        "enrolment",
+        "canada"
+      ],
+      "answers": [
+        {
+          "answer": "University of Toronto",
+          "display": "89,400 students",
+          "aliases": [
+            "U of T",
+            "UofT"
+          ]
+        },
+        {
+          "answer": "University of British Columbia",
+          "display": "52,370 students",
+          "aliases": [
+            "UBC"
+          ]
+        },
+        {
+          "answer": "York University",
+          "display": "45,600 students",
+          "aliases": [
+            "York"
+          ]
+        },
+        {
+          "answer": "University of Western Ontario",
+          "display": "42,100 students",
+          "aliases": [
+            "Western"
+          ]
+        },
+        {
+          "answer": "University of Ottawa",
+          "display": "41,400 students",
+          "aliases": [
+            "Ottawa"
+          ]
+        },
+        {
+          "answer": "University of Alberta",
+          "display": "40,130 students",
+          "aliases": [
+            "Alberta"
+          ]
+        },
+        {
+          "answer": "University of Waterloo",
+          "display": "39,500 students",
+          "aliases": [
+            "Waterloo"
+          ]
+        },
+        {
+          "answer": "Université de Montréal",
+          "display": "35,200 students",
+          "aliases": [
+            "UdeM",
+            "Montreal"
+          ]
+        },
+        {
+          "answer": "McMaster University",
+          "display": "35,100 students",
+          "aliases": [
+            "McMaster"
+          ]
+        },
+        {
+          "answer": "University of Calgary",
+          "display": "34,040 students",
+          "aliases": [
+            "Calgary"
+          ]
+        },
+        {
+          "answer": "Toronto Metropolitan University",
+          "display": "33,300 students",
+          "aliases": [
+            "TMU",
+            "Ryerson"
+          ]
+        },
+        {
+          "answer": "McGill University",
+          "display": "32,050 students",
+          "aliases": [
+            "McGill"
+          ]
+        },
+        {
+          "answer": "Université Laval",
+          "display": "31,350 students",
+          "aliases": [
+            "Laval"
+          ]
+        },
+        {
+          "answer": "Queen's University at Kingston",
+          "display": "29,200 students",
+          "aliases": [
+            "Queen's",
+            "Queens"
+          ]
+        },
+        {
+          "answer": "Concordia University",
+          "display": "27,840 students",
+          "aliases": [
+            "Concordia"
+          ]
+        }
+      ],
+      "submitter": "claude"
+    },
+    {
+      "category": "society/education/universities",
+      "difficulty": 3,
+      "question": "Top 10 US private universities by endowment (FY2025)",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1377705943 | table 1 | name: Institution | value: FY2025",
+      "tags": [
+        "education",
+        "universities",
+        "endowment"
+      ],
+      "answers": [
+        {
+          "answer": "Harvard University",
+          "display": "$55.67B",
+          "aliases": [
+            "Harvard"
+          ]
+        },
+        {
+          "answer": "Yale University",
+          "display": "$44.15B",
+          "aliases": [
+            "Yale"
+          ]
+        },
+        {
+          "answer": "Stanford University",
+          "display": "$40.79B",
+          "aliases": [
+            "Stanford"
+          ]
+        },
+        {
+          "answer": "Princeton University",
+          "display": "$36.42B",
+          "aliases": [
+            "Princeton"
+          ]
+        },
+        {
+          "answer": "Massachusetts Institute of Technology",
+          "display": "$27.37B",
+          "aliases": [
+            "MIT"
+          ]
+        },
+        {
+          "answer": "University of Pennsylvania",
+          "display": "$24.81B",
+          "aliases": [
+            "Penn",
+            "UPenn"
+          ]
+        },
+        {
+          "answer": "University of Notre Dame",
+          "display": "$20.09B",
+          "aliases": [
+            "Notre Dame"
+          ]
+        },
+        {
+          "answer": "Columbia University",
+          "display": "$15.92B",
+          "aliases": [
+            "Columbia"
+          ]
+        },
+        {
+          "answer": "Northwestern University",
+          "display": "$15.17B",
+          "aliases": [
+            "Northwestern"
+          ]
+        },
+        {
+          "answer": "Johns Hopkins University",
+          "display": "$13.73B",
+          "aliases": [
+            "Johns Hopkins",
+            "JHU"
+          ]
+        },
+        {
+          "answer": "Washington University in St. Louis",
+          "display": "$13.30B",
+          "aliases": [
+            "WashU"
+          ]
+        },
+        {
+          "answer": "Duke University",
+          "display": "$12.32B",
+          "aliases": [
+            "Duke"
+          ]
+        },
+        {
+          "answer": "Emory University",
+          "display": "$12.00B",
+          "aliases": [
+            "Emory"
+          ]
+        },
+        {
+          "answer": "Cornell University",
+          "display": "$11.75B",
+          "aliases": [
+            "Cornell"
+          ]
+        },
+        {
+          "answer": "Vanderbilt University",
+          "display": "$10.86B",
+          "aliases": [
+            "Vanderbilt"
+          ]
+        }
+      ],
+      "submitter": "claude"
+    },
+    {
+      "category": "society/education/universities",
+      "difficulty": 3,
+      "question": "Top 10 US public universities and university systems by endowment (FY2025)",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1377705943 | table 2 | name: Institution | value: FY2025",
+      "tags": [
+        "education",
+        "universities",
+        "endowment"
+      ],
+      "answers": [
+        {
+          "answer": "University of Texas System",
+          "display": "$27.17B",
+          "aliases": [
+            "UT System"
+          ]
+        },
+        {
+          "answer": "Texas A&M University System",
+          "display": "$22.23B",
+          "aliases": [
+            "Texas A&M"
+          ]
+        },
+        {
+          "answer": "University of Michigan",
+          "display": "$21.20B",
+          "aliases": [
+            "UMich"
+          ]
+        },
+        {
+          "answer": "University of California System",
+          "display": "$20.15B",
+          "aliases": [
+            "University of California"
+          ]
+        },
+        {
+          "answer": "University of Virginia",
+          "display": "$11.23B",
+          "aliases": [
+            "UVA"
+          ]
+        },
+        {
+          "answer": "Ohio State University",
+          "display": "$8.62B",
+          "aliases": [
+            "OSU",
+            "Ohio State"
+          ]
+        },
+        {
+          "answer": "University of Texas at Austin",
+          "display": "$6.49B",
+          "aliases": [
+            "UT Austin"
+          ]
+        },
+        {
+          "answer": "University of Minnesota",
+          "display": "$6.45B",
+          "aliases": [
+            "Minnesota"
+          ]
+        },
+        {
+          "answer": "University of North Carolina at Chapel Hill",
+          "display": "$6.22B",
+          "aliases": [
+            "UNC",
+            "UNC Chapel Hill"
+          ]
+        },
+        {
+          "answer": "University of Pittsburgh",
+          "display": "$6.15B",
+          "aliases": [
+            "Pitt"
+          ]
+        },
+        {
+          "answer": "Pennsylvania State University",
+          "display": "$5.06B",
+          "aliases": [
+            "Penn State"
+          ]
+        },
+        {
+          "answer": "University of Wisconsin Foundation",
+          "display": "$4.92B",
+          "aliases": [
+            "UW Foundation"
+          ]
+        },
+        {
+          "answer": "UCLA Foundation",
+          "display": "$4.77B",
+          "aliases": [
+            "UCLA"
+          ]
+        },
+        {
+          "answer": "Michigan State University",
+          "display": "$4.61B",
+          "aliases": [
+            "MSU"
+          ]
+        },
+        {
+          "answer": "Purdue University",
+          "display": "$4.44B",
+          "aliases": [
+            "Purdue"
+          ]
+        }
+      ],
+      "submitter": "claude"
+    },
+    {
+      "category": "society/education/universities",
+      "difficulty": 2,
+      "question": "Top 8 largest German universities by number of students",
+      "cutoff": 8,
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1376942804 | table 1 | name: University | value: Number of students",
+      "tags": [
+        "education",
+        "universities",
+        "enrolment",
+        "germany"
+      ],
+      "answers": [
+        {
+          "answer": "University of Hagen",
+          "display": "72,000 students"
+        },
+        {
+          "answer": "LMU Munich",
+          "display": "53,000 students",
+          "aliases": [
+            "LMU",
+            "Ludwig Maximilian University"
+          ]
+        },
+        {
+          "answer": "TU Munich",
+          "display": "52,000 students",
+          "aliases": [
+            "TUM",
+            "Technical University of Munich"
+          ]
+        },
+        {
+          "answer": "RWTH Aachen University",
+          "display": "47,000 students",
+          "aliases": [
+            "RWTH",
+            "Aachen"
+          ]
+        },
+        {
+          "answer": "Goethe University Frankfurt",
+          "display": "46,000 students",
+          "aliases": [
+            "Frankfurt"
+          ]
+        },
+        {
+          "answer": "University of Cologne",
+          "display": "43,500 students",
+          "aliases": [
+            "Cologne"
+          ]
+        },
+        {
+          "answer": "Ruhr University Bochum",
+          "display": "43,000 students",
+          "aliases": [
+            "Bochum"
+          ]
+        },
+        {
+          "answer": "University of Münster",
+          "display": "43,000 students",
+          "aliases": [
+            "Munster"
+          ]
+        },
+        {
+          "answer": "University of Duisburg-Essen",
+          "display": "42,000 students",
+          "aliases": [
+            "Duisburg-Essen",
+            "Essen"
+          ]
+        },
+        {
+          "answer": "University of Hamburg",
+          "display": "42,000 students",
+          "aliases": [
+            "Hamburg"
+          ]
+        },
+        {
+          "answer": "University of Erlangen-Nürnberg",
+          "display": "39,000 students",
+          "aliases": [
+            "Erlangen"
+          ]
+        },
+        {
+          "answer": "University of Bonn",
+          "display": "38,000 students",
+          "aliases": [
+            "Bonn"
+          ]
+        },
+        {
+          "answer": "Humboldt University of Berlin",
+          "display": "36,000 students",
+          "aliases": [
+            "Humboldt"
+          ]
+        }
+      ],
+      "submitter": "claude"
+    }
+  ]
+}

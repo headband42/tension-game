@@ -1,0 +1,169 @@
+{
+  "questions": [
+    {
+      "category": "nature/plants/crops",
+      "difficulty": 2,
+      "question": "Top 10 countries by wine production (2021)",
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1375760576 | table 1 | name: Country | value: Production | where: Country!=World",
+      "tags": [
+        "nature",
+        "plants",
+        "crops",
+        "wine"
+      ],
+      "answers": [
+        {
+          "answer": "Italy",
+          "display": "5,088,500 tonnes"
+        },
+        {
+          "answer": "France",
+          "display": "3,713,200 tonnes"
+        },
+        {
+          "answer": "Spain",
+          "display": "3,700,588 tonnes"
+        },
+        {
+          "answer": "United States",
+          "display": "2,057,021 tonnes",
+          "aliases": [
+            "USA",
+            "US",
+            "America"
+          ]
+        },
+        {
+          "answer": "China",
+          "display": "1,814,400 tonnes"
+        },
+        {
+          "answer": "Australia",
+          "display": "1,482,000 tonnes"
+        },
+        {
+          "answer": "Chile",
+          "display": "1,343,729 tonnes"
+        },
+        {
+          "answer": "Argentina",
+          "display": "1,248,155 tonnes"
+        },
+        {
+          "answer": "South Africa",
+          "display": "1,133,300 tonnes"
+        },
+        {
+          "answer": "Portugal",
+          "display": "718,547 tonnes"
+        },
+        {
+          "answer": "Romania",
+          "display": "530,000 tonnes"
+        },
+        {
+          "answer": "Germany",
+          "display": "452,693 tonnes"
+        },
+        {
+          "answer": "Russia",
+          "display": "450,000 tonnes"
+        },
+        {
+          "answer": "Brazil",
+          "display": "348,449 tonnes"
+        },
+        {
+          "answer": "Hungary",
+          "display": "310,000 tonnes"
+        }
+      ]
+    },
+    {
+      "category": "nature/plants/forests",
+      "difficulty": 2,
+      "question": "Top 10 countries by forest area (2022)",
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1379384436 | table 2 | name: Location | value: Forest / km2 | header rows: 2 | where: Location!=World | note: year 2022 from the article text (\"Data are for the year 2022\"); the country table has no year heading",
+      "tags": [
+        "nature",
+        "plants",
+        "forests",
+        "area"
+      ],
+      "answers": [
+        {
+          "answer": "Russia",
+          "display": "8,153,116 km²"
+        },
+        {
+          "answer": "Brazil",
+          "display": "4,941,960 km²"
+        },
+        {
+          "answer": "Canada",
+          "display": "3,468,541 km²"
+        },
+        {
+          "answer": "United States",
+          "display": "3,097,950 km²",
+          "aliases": [
+            "USA",
+            "US",
+            "America"
+          ]
+        },
+        {
+          "answer": "China",
+          "display": "2,237,373 km²"
+        },
+        {
+          "answer": "Australia",
+          "display": "1,340,051 km²"
+        },
+        {
+          "answer": "Democratic Republic of the Congo",
+          "display": "1,239,525 km²",
+          "aliases": [
+            "DR Congo",
+            "DRC",
+            "Congo"
+          ]
+        },
+        {
+          "answer": "Indonesia",
+          "display": "909,221 km²"
+        },
+        {
+          "answer": "India",
+          "display": "726,928 km²"
+        },
+        {
+          "answer": "Peru",
+          "display": "719,847 km²"
+        },
+        {
+          "answer": "Angola",
+          "display": "654,973 km²"
+        },
+        {
+          "answer": "Mexico",
+          "display": "654,365 km²"
+        },
+        {
+          "answer": "Colombia",
+          "display": "587,433 km²"
+        },
+        {
+          "answer": "Bolivia",
+          "display": "504,164 km²"
+        },
+        {
+          "answer": "Venezuela",
+          "display": "461,268 km²"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,855 @@
+{
+  "categories": [
+    {
+      "path": "movies/awards",
+      "name": "Film Awards"
+    },
+    {
+      "path": "movies/awards/cesar",
+      "name": "César Awards"
+    },
+    {
+      "path": "movies/awards/goya",
+      "name": "Goya Awards"
+    },
+    {
+      "path": "movies/awards/filmfare",
+      "name": "Filmfare Awards"
+    },
+    {
+      "path": "movies/awards/david-di-donatello",
+      "name": "David di Donatello"
+    }
+  ],
+  "questions": [
+    {
+      "category": "movies/awards/cesar",
+      "question": "Top 10 films by nominations at the 47th César Awards (2022)",
+      "cutoff": 10,
+      "difficulty": 3,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1360507114 | table 2 | name: Films | value: Nominations",
+      "tags": [
+        "movies",
+        "awards",
+        "cesar",
+        "2022"
+      ],
+      "answers": [
+        {
+          "answer": "Lost Illusions",
+          "display": "15 nominations",
+          "aliases": [
+            "Illusions perdues"
+          ]
+        },
+        {
+          "answer": "Annette",
+          "display": "11 nominations"
+        },
+        {
+          "answer": "Aline",
+          "display": "10 nominations"
+        },
+        {
+          "answer": "BAC Nord",
+          "display": "7 nominations"
+        },
+        {
+          "answer": "The Divide",
+          "display": "6 nominations"
+        },
+        {
+          "answer": "Black Box",
+          "display": "5 nominations"
+        },
+        {
+          "answer": "Paris, 13th District",
+          "display": "5 nominations"
+        },
+        {
+          "answer": "Happening",
+          "display": "4 nominations"
+        },
+        {
+          "answer": "Onoda: 10,000 Nights in the Jungle",
+          "display": "4 nominations"
+        },
+        {
+          "answer": "Titane",
+          "display": "4 nominations"
+        },
+        {
+          "answer": "Eiffel",
+          "display": "3 nominations"
+        },
+        {
+          "answer": "Magnetic Beats",
+          "display": "3 nominations"
+        },
+        {
+          "answer": "The Velvet Queen",
+          "display": "3 nominations"
+        }
+      ]
+    },
+    {
+      "category": "movies/awards/cesar",
+      "question": "Top 6 films by nominations at the 50th César Awards (2025)",
+      "cutoff": 6,
+      "difficulty": 3,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1353119452 | table 2 | name: Films | value: Nominations",
+      "tags": [
+        "movies",
+        "awards",
+        "cesar",
+        "2025"
+      ],
+      "answers": [
+        {
+          "answer": "The Count of Monte Cristo",
+          "display": "14 nominations"
+        },
+        {
+          "answer": "Beating Hearts",
+          "display": "13 nominations",
+          "aliases": [
+            "Les Cœurs battants"
+          ]
+        },
+        {
+          "answer": "Emilia Pérez",
+          "display": "12 nominations"
+        },
+        {
+          "answer": "Misericordia",
+          "display": "8 nominations"
+        },
+        {
+          "answer": "Souleymane's Story",
+          "display": "8 nominations"
+        },
+        {
+          "answer": "The Marching Band",
+          "display": "7 nominations",
+          "aliases": [
+            "Fanfare"
+          ]
+        },
+        {
+          "answer": "Holy Cow",
+          "display": "4 nominations"
+        },
+        {
+          "answer": "Monsieur Aznavour",
+          "display": "4 nominations"
+        },
+        {
+          "answer": "The Most Precious of Cargoes",
+          "display": "3 nominations"
+        }
+      ]
+    },
+    {
+      "category": "movies/awards/goya",
+      "question": "Top 10 films by nominations at the 38th Goya Awards (2024)",
+      "cutoff": 10,
+      "difficulty": 3,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1379671445 | table 2 | name: Film | value: Nominations",
+      "tags": [
+        "movies",
+        "awards",
+        "goya",
+        "2024"
+      ],
+      "answers": [
+        {
+          "answer": "20,000 Species of Bees",
+          "display": "15 nominations",
+          "aliases": [
+            "20.000 especies de abejas"
+          ]
+        },
+        {
+          "answer": "Society of the Snow",
+          "display": "13 nominations",
+          "aliases": [
+            "La sociedad de la nieve"
+          ]
+        },
+        {
+          "answer": "Close Your Eyes",
+          "display": "11 nominations",
+          "aliases": [
+            "Cerrar los ojos"
+          ]
+        },
+        {
+          "answer": "Jokes & Cigarettes",
+          "display": "11 nominations",
+          "aliases": [
+            "Bromas y tintes"
+          ]
+        },
+        {
+          "answer": "Un amor",
+          "display": "7 nominations"
+        },
+        {
+          "answer": "The Teacher Who Promised the Sea",
+          "display": "5 nominations",
+          "aliases": [
+            "La maestra que prometió el mar"
+          ]
+        },
+        {
+          "answer": "Love & Revolution",
+          "display": "5 nominations"
+        },
+        {
+          "answer": "Creatura",
+          "display": "4 nominations"
+        },
+        {
+          "answer": "Robot Dreams",
+          "display": "4 nominations",
+          "aliases": [
+            "Sueños de robot"
+          ]
+        },
+        {
+          "answer": "Chinas, a Second Generation Story",
+          "display": "4 nominations"
+        },
+        {
+          "answer": "Upon Entry",
+          "display": "3 nominations"
+        },
+        {
+          "answer": "The Movie Teller",
+          "display": "3 nominations"
+        },
+        {
+          "answer": "Valley of Shadows",
+          "display": "3 nominations"
+        }
+      ]
+    },
+    {
+      "category": "movies/awards/goya",
+      "question": "Top 8 films by nominations at the 37th Goya Awards (2023)",
+      "cutoff": 8,
+      "difficulty": 3,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1361265626 | table 2 | name: Film | value: Nominations",
+      "tags": [
+        "movies",
+        "awards",
+        "goya",
+        "2023"
+      ],
+      "answers": [
+        {
+          "answer": "The Beasts",
+          "display": "17 nominations",
+          "aliases": [
+            "As bestas"
+          ]
+        },
+        {
+          "answer": "Prison 77",
+          "display": "16 nominations",
+          "aliases": [
+            "Modelo 77"
+          ]
+        },
+        {
+          "answer": "Alcarràs",
+          "display": "11 nominations"
+        },
+        {
+          "answer": "Lullaby",
+          "display": "11 nominations",
+          "aliases": [
+            "Cinco lobitos"
+          ]
+        },
+        {
+          "answer": "God's Crooked Lines",
+          "display": "6 nominations",
+          "aliases": [
+            "Las líneas torcidas"
+          ]
+        },
+        {
+          "answer": "Piggy",
+          "display": "6 nominations",
+          "aliases": [
+            "Cerdita"
+          ]
+        },
+        {
+          "answer": "On the Fringe",
+          "display": "5 nominations"
+        },
+        {
+          "answer": "Irati",
+          "display": "5 nominations"
+        },
+        {
+          "answer": "Manticore",
+          "display": "4 nominations",
+          "aliases": [
+            "Manticora"
+          ]
+        },
+        {
+          "answer": "One Year, One Night",
+          "display": "3 nominations",
+          "aliases": [
+            "Un año, una noche"
+          ]
+        },
+        {
+          "answer": "Motherhood",
+          "display": "3 nominations"
+        },
+        {
+          "answer": "Piety",
+          "display": "3 nominations",
+          "aliases": [
+            "Piedad"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "movies/awards/david-di-donatello",
+      "question": "Top 7 films by nominations at the 64th David di Donatello (2019)",
+      "cutoff": 7,
+      "difficulty": 3,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1315563718 | table 2 | name: Film | value: Nominations",
+      "tags": [
+        "movies",
+        "awards",
+        "david-di-donatello",
+        "2019"
+      ],
+      "answers": [
+        {
+          "answer": "Dogman",
+          "display": "16 nominations"
+        },
+        {
+          "answer": "Call Me by Your Name",
+          "display": "13 nominations",
+          "aliases": [
+            "Chiamami col tuo nome"
+          ]
+        },
+        {
+          "answer": "Capri-Revolution",
+          "display": "13 nominations"
+        },
+        {
+          "answer": "Loro",
+          "display": "12 nominations"
+        },
+        {
+          "answer": "On My Skin",
+          "display": "10 nominations",
+          "aliases": [
+            "Sulla mia pelle"
+          ]
+        },
+        {
+          "answer": "Happy as Lazzaro",
+          "display": "9 nominations",
+          "aliases": [
+            "Lazzaro felice"
+          ]
+        },
+        {
+          "answer": "Euphoria",
+          "display": "8 nominations",
+          "aliases": [
+            "Euforia"
+          ]
+        },
+        {
+          "answer": "Boys Cry",
+          "display": "4 nominations"
+        },
+        {
+          "answer": "Fabrizio De André: Principe libero",
+          "display": "3 nominations",
+          "aliases": [
+            "Principe libero"
+          ]
+        },
+        {
+          "answer": "There's No Place Like Home",
+          "display": "3 nominations"
+        },
+        {
+          "answer": "The Vice of Hope",
+          "display": "3 nominations",
+          "aliases": [
+            "Il vizio della speranza"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "movies/awards/david-di-donatello",
+      "question": "Top 5 films by nominations at the 67th David di Donatello (2022)",
+      "cutoff": 5,
+      "difficulty": 3,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1345157385 | table 2 | name: Film | value: Nominations",
+      "tags": [
+        "movies",
+        "awards",
+        "david-di-donatello",
+        "2022"
+      ],
+      "answers": [
+        {
+          "answer": "Freaks Out",
+          "display": "16 nominations"
+        },
+        {
+          "answer": "The Hand of God",
+          "display": "16 nominations",
+          "aliases": [
+            "È stata la mano di Dio"
+          ]
+        },
+        {
+          "answer": "The King of Laughter",
+          "display": "14 nominations"
+        },
+        {
+          "answer": "Diabolik",
+          "display": "11 nominations"
+        },
+        {
+          "answer": "The Inner Cage",
+          "display": "11 nominations"
+        },
+        {
+          "answer": "A Chiara",
+          "display": "6 nominations"
+        },
+        {
+          "answer": "Ennio",
+          "display": "6 nominations"
+        },
+        {
+          "answer": "I fratelli De Filippo",
+          "display": "6 nominations",
+          "aliases": [
+            "The De Filippo Brothers"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "movies/awards/david-di-donatello",
+      "question": "Top 5 films by nominations at the 69th David di Donatello (2024)",
+      "cutoff": 5,
+      "difficulty": 3,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1370563483 | table 2 | name: Film | value: Nominations",
+      "tags": [
+        "movies",
+        "awards",
+        "david-di-donatello",
+        "2024"
+      ],
+      "answers": [
+        {
+          "answer": "There's Still Tomorrow",
+          "display": "19 nominations",
+          "aliases": [
+            "C'è ancora domani"
+          ]
+        },
+        {
+          "answer": "Io capitano",
+          "display": "15 nominations"
+        },
+        {
+          "answer": "La chimera",
+          "display": "13 nominations",
+          "aliases": [
+            "The Chimera"
+          ]
+        },
+        {
+          "answer": "Kidnapped",
+          "display": "11 nominations",
+          "aliases": [
+            "Rapito"
+          ]
+        },
+        {
+          "answer": "Comandante",
+          "display": "10 nominations"
+        },
+        {
+          "answer": "A Brighter Tomorrow",
+          "display": "7 nominations"
+        },
+        {
+          "answer": "Adagio",
+          "display": "5 nominations"
+        },
+        {
+          "answer": "Palazzina Laf",
+          "display": "5 nominations"
+        }
+      ]
+    },
+    {
+      "category": "movies/awards/filmfare",
+      "question": "Top 9 films by nominations at the 64th Filmfare Awards (2019)",
+      "cutoff": 9,
+      "difficulty": 3,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1338008562 | table 5 | name: Film | value: Nominations",
+      "tags": [
+        "movies",
+        "awards",
+        "filmfare",
+        "2019"
+      ],
+      "answers": [
+        {
+          "answer": "Padmaavat",
+          "display": "18 nominations"
+        },
+        {
+          "answer": "Raazi",
+          "display": "15 nominations"
+        },
+        {
+          "answer": "Andhadhun",
+          "display": "11 nominations"
+        },
+        {
+          "answer": "Badhaai Ho",
+          "display": "10 nominations"
+        },
+        {
+          "answer": "Stree",
+          "display": "10 nominations"
+        },
+        {
+          "answer": "Tumbbad",
+          "display": "8 nominations"
+        },
+        {
+          "answer": "Manto",
+          "display": "7 nominations"
+        },
+        {
+          "answer": "Sanju",
+          "display": "7 nominations"
+        },
+        {
+          "answer": "Zero",
+          "display": "7 nominations"
+        },
+        {
+          "answer": "Mulk",
+          "display": "6 nominations"
+        },
+        {
+          "answer": "October",
+          "display": "6 nominations"
+        },
+        {
+          "answer": "Pataakha",
+          "display": "6 nominations"
+        }
+      ]
+    },
+    {
+      "category": "movies/awards/filmfare",
+      "question": "Top 9 films by nominations at the 52nd Filmfare Awards (2007)",
+      "cutoff": 9,
+      "difficulty": 3,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1378828767 | table 5 | name: Film | value: Nominations",
+      "tags": [
+        "movies",
+        "awards",
+        "filmfare",
+        "2007"
+      ],
+      "answers": [
+        {
+          "answer": "Rang De Basanti",
+          "display": "21 nominations"
+        },
+        {
+          "answer": "Kabhi Alvida Naa Kehna",
+          "display": "18 nominations"
+        },
+        {
+          "answer": "Omkara",
+          "display": "17 nominations"
+        },
+        {
+          "answer": "Lage Raho Munnabhai",
+          "display": "12 nominations"
+        },
+        {
+          "answer": "Gangster: A Love Story",
+          "display": "10 nominations"
+        },
+        {
+          "answer": "Don: The Chase Begins Again",
+          "display": "9 nominations"
+        },
+        {
+          "answer": "Krrish",
+          "display": "8 nominations"
+        },
+        {
+          "answer": "Dhoom 2",
+          "display": "8 nominations"
+        },
+        {
+          "answer": "Being Cyrus",
+          "display": "7 nominations"
+        },
+        {
+          "answer": "Fanaa",
+          "display": "4 nominations"
+        },
+        {
+          "answer": "Golmaal: Fun Unlimited",
+          "display": "3 nominations",
+          "aliases": [
+            "Golmaal"
+          ]
+        },
+        {
+          "answer": "Aksar",
+          "display": "3 nominations"
+        }
+      ]
+    },
+    {
+      "category": "movies/awards/filmfare",
+      "question": "Top 10 films by nominations at the 68th Filmfare Awards (2023)",
+      "cutoff": 10,
+      "difficulty": 3,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1378916922 | table 6 | name: Film | value: Nominations",
+      "tags": [
+        "movies",
+        "awards",
+        "filmfare",
+        "2023"
+      ],
+      "answers": [
+        {
+          "answer": "Gangubai Kathiawadi",
+          "display": "16 nominations",
+          "aliases": [
+            "Gangubai"
+          ]
+        },
+        {
+          "answer": "Badhaai Do",
+          "display": "14 nominations"
+        },
+        {
+          "answer": "Brahmastra",
+          "display": "14 nominations",
+          "aliases": [
+            "Brahmāstra: Part One – Shiva",
+            "Brahmāstra"
+          ]
+        },
+        {
+          "answer": "Bhediya",
+          "display": "12 nominations"
+        },
+        {
+          "answer": "Bhool Bhulaiyaa 2",
+          "display": "10 nominations"
+        },
+        {
+          "answer": "Laal Singh Chaddha",
+          "display": "9 nominations"
+        },
+        {
+          "answer": "Vikram Vedha",
+          "display": "8 nominations"
+        },
+        {
+          "answer": "The Kashmir Files",
+          "display": "7 nominations"
+        },
+        {
+          "answer": "Uunchai",
+          "display": "7 nominations"
+        },
+        {
+          "answer": "An Action Hero",
+          "display": "7 nominations"
+        },
+        {
+          "answer": "Vadh",
+          "display": "6 nominations"
+        },
+        {
+          "answer": "Jugjugg Jeeyo",
+          "display": "6 nominations"
+        },
+        {
+          "answer": "Doctor G",
+          "display": "6 nominations"
+        }
+      ]
+    },
+    {
+      "category": "movies/awards/filmfare",
+      "question": "Top 9 films by nominations at the 69th Filmfare Awards (2024)",
+      "cutoff": 9,
+      "difficulty": 3,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1378916986 | table 5 | name: Film | value: Nominations",
+      "tags": [
+        "movies",
+        "awards",
+        "filmfare",
+        "2024"
+      ],
+      "answers": [
+        {
+          "answer": "Rocky Aur Rani Kii Prem Kahaani",
+          "display": "20 nominations",
+          "aliases": [
+            "Rocky Aur Rani"
+          ]
+        },
+        {
+          "answer": "Animal",
+          "display": "19 nominations"
+        },
+        {
+          "answer": "Pathaan",
+          "display": "16 nominations"
+        },
+        {
+          "answer": "Jawan",
+          "display": "15 nominations"
+        },
+        {
+          "answer": "12th Fail",
+          "display": "12 nominations"
+        },
+        {
+          "answer": "Dunki",
+          "display": "9 nominations"
+        },
+        {
+          "answer": "OMG 2",
+          "display": "9 nominations"
+        },
+        {
+          "answer": "Sam Bahadur",
+          "display": "9 nominations"
+        },
+        {
+          "answer": "Three of Us",
+          "display": "8 nominations"
+        },
+        {
+          "answer": "Bheed",
+          "display": "4 nominations"
+        },
+        {
+          "answer": "Faraaz",
+          "display": "4 nominations"
+        },
+        {
+          "answer": "Zara Hatke Zara Bachke",
+          "display": "4 nominations"
+        }
+      ]
+    },
+    {
+      "category": "movies/awards/filmfare",
+      "question": "Top 9 films by nominations at the 67th Filmfare Awards (2022)",
+      "cutoff": 9,
+      "difficulty": 3,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1373181677 | table 6 | name: Film | value: Nominations",
+      "tags": [
+        "movies",
+        "awards",
+        "filmfare",
+        "2022"
+      ],
+      "answers": [
+        {
+          "answer": "Shershaah",
+          "display": "19 nominations"
+        },
+        {
+          "answer": "83",
+          "display": "14 nominations"
+        },
+        {
+          "answer": "Sardar Udham",
+          "display": "14 nominations"
+        },
+        {
+          "answer": "Rashmi Rocket",
+          "display": "11 nominations"
+        },
+        {
+          "answer": "Sandeep Aur Pinky Faraar",
+          "display": "10 nominations"
+        },
+        {
+          "answer": "Sherni",
+          "display": "9 nominations"
+        },
+        {
+          "answer": "Haseen Dilruba",
+          "display": "8 nominations"
+        },
+        {
+          "answer": "Ramprasad Ki Tehrvi",
+          "display": "7 nominations"
+        },
+        {
+          "answer": "Mimi",
+          "display": "6 nominations"
+        },
+        {
+          "answer": "Atrangi Re",
+          "display": "5 nominations"
+        },
+        {
+          "answer": "Chandigarh Kare Aashiqui",
+          "display": "4 nominations"
+        },
+        {
+          "answer": "Saina",
+          "display": "4 nominations"
+        }
+      ]
+    }
+  ]
+}

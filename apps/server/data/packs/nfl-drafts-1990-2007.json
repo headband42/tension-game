@@ -1,0 +1,625 @@
+{
+  "categories": [
+    {
+      "path": "sports/american-football/nfl",
+      "name": "NFL"
+    },
+    {
+      "path": "sports/american-football/nfl/draft",
+      "name": "NFL Draft"
+    }
+  ],
+  "questions": [
+    {
+      "category": "sports/american-football/nfl/draft",
+      "question": "First 10 picks of the 1998 NFL draft",
+      "cutoff": 10,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1375077409 | table 2 | name: Player | value: Pick | order: asc",
+      "tags": [
+        "nfl",
+        "draft"
+      ],
+      "answers": [
+        {
+          "answer": "Peyton Manning",
+          "display": "#1 — Indianapolis Colts (QB, Tennessee)",
+          "aliases": [
+            "Manning",
+            "Peyton"
+          ]
+        },
+        {
+          "answer": "Ryan Leaf",
+          "display": "#2 — San Diego Chargers (QB, Washington State)",
+          "aliases": [
+            "Leaf"
+          ]
+        },
+        {
+          "answer": "Andre Wadsworth",
+          "display": "#3 — Arizona Cardinals (DE, Florida State)",
+          "aliases": [
+            "Wadsworth"
+          ]
+        },
+        {
+          "answer": "Charles Woodson",
+          "display": "#4 — Oakland Raiders (CB, Michigan)",
+          "aliases": [
+            "Woodson"
+          ]
+        },
+        {
+          "answer": "Curtis Enis",
+          "display": "#5 — Chicago Bears (RB, Penn State)",
+          "aliases": [
+            "Enis"
+          ]
+        },
+        {
+          "answer": "Grant Wistrom",
+          "display": "#6 — St. Louis Rams (DE, Nebraska)",
+          "aliases": [
+            "Wistrom"
+          ]
+        },
+        {
+          "answer": "Kyle Turley",
+          "display": "#7 — New Orleans Saints (T, San Diego State)",
+          "aliases": [
+            "Turley"
+          ]
+        },
+        {
+          "answer": "Greg Ellis",
+          "display": "#8 — Dallas Cowboys (DE, North Carolina)",
+          "aliases": [
+            "Ellis"
+          ]
+        },
+        {
+          "answer": "Fred Taylor",
+          "display": "#9 — Jacksonville Jaguars (RB, Florida)",
+          "aliases": [
+            "Taylor"
+          ]
+        },
+        {
+          "answer": "Duane Starks",
+          "display": "#10 — Baltimore Ravens (CB, Miami (FL))",
+          "aliases": [
+            "Starks"
+          ]
+        },
+        {
+          "answer": "Tra Thomas",
+          "display": "#11 — Philadelphia Eagles (T, Florida State)",
+          "aliases": [
+            "Thomas"
+          ]
+        },
+        {
+          "answer": "Keith Brooking",
+          "display": "#12 — Atlanta Falcons (LB, Georgia Tech)",
+          "aliases": [
+            "Brooking"
+          ]
+        },
+        {
+          "answer": "Takeo Spikes",
+          "display": "#13 — Cincinnati Bengals (LB, Auburn)",
+          "aliases": [
+            "Spikes"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/american-football/nfl/draft",
+      "question": "First 10 picks of the 1999 NFL draft",
+      "cutoff": 10,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1376564943 | table 2 | name: Player | value: Pick | order: asc",
+      "tags": [
+        "nfl",
+        "draft"
+      ],
+      "answers": [
+        {
+          "answer": "Tim Couch",
+          "display": "#1 — Cleveland Browns (QB, Kentucky)",
+          "aliases": [
+            "Couch"
+          ]
+        },
+        {
+          "answer": "Donovan McNabb",
+          "display": "#2 — Philadelphia Eagles (QB, Syracuse)",
+          "aliases": [
+            "McNabb"
+          ]
+        },
+        {
+          "answer": "Akili Smith",
+          "display": "#3 — Cincinnati Bengals (QB, Oregon)",
+          "aliases": [
+            "Smith"
+          ]
+        },
+        {
+          "answer": "Edgerrin James",
+          "display": "#4 — Indianapolis Colts (RB, Miami (FL))",
+          "aliases": [
+            "James"
+          ]
+        },
+        {
+          "answer": "Ricky Williams",
+          "display": "#5 — New Orleans Saints (RB, Texas)",
+          "aliases": [
+            "Williams"
+          ]
+        },
+        {
+          "answer": "Torry Holt",
+          "display": "#6 — St. Louis Rams (WR, North Carolina State)",
+          "aliases": [
+            "Holt"
+          ]
+        },
+        {
+          "answer": "Champ Bailey",
+          "display": "#7 — Washington Redskins (CB, Georgia)",
+          "aliases": [
+            "Bailey"
+          ]
+        },
+        {
+          "answer": "David Boston",
+          "display": "#8 — Arizona Cardinals (WR, Ohio State)",
+          "aliases": [
+            "Boston"
+          ]
+        },
+        {
+          "answer": "Chris Claiborne",
+          "display": "#9 — Detroit Lions (LB, USC)",
+          "aliases": [
+            "Claiborne"
+          ]
+        },
+        {
+          "answer": "Chris McAlister",
+          "display": "#10 — Baltimore Ravens (CB, Arizona)",
+          "aliases": [
+            "McAlister"
+          ]
+        },
+        {
+          "answer": "Daunte Culpepper",
+          "display": "#11 — Minnesota Vikings (QB, UCF)",
+          "aliases": [
+            "Culpepper"
+          ]
+        },
+        {
+          "answer": "Cade McNown",
+          "display": "#12 — Chicago Bears (QB, UCLA)",
+          "aliases": [
+            "McNown"
+          ]
+        },
+        {
+          "answer": "Troy Edwards",
+          "display": "#13 — Pittsburgh Steelers (WR, Louisiana Tech)",
+          "aliases": [
+            "Edwards"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/american-football/nfl/draft",
+      "question": "First 10 picks of the 2004 NFL draft",
+      "cutoff": 10,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1372182628 | table 2 | name: Player | value: Pick | order: asc",
+      "tags": [
+        "nfl",
+        "draft"
+      ],
+      "answers": [
+        {
+          "answer": "Eli Manning",
+          "display": "#1 — San Diego Chargers (QB, Ole Miss)",
+          "aliases": [
+            "Manning",
+            "Eli"
+          ]
+        },
+        {
+          "answer": "Robert Gallery",
+          "display": "#2 — Oakland Raiders (T, Iowa)",
+          "aliases": [
+            "Gallery"
+          ]
+        },
+        {
+          "answer": "Larry Fitzgerald",
+          "display": "#3 — Arizona Cardinals (WR, Pittsburgh)",
+          "aliases": [
+            "Fitzgerald"
+          ]
+        },
+        {
+          "answer": "Philip Rivers",
+          "display": "#4 — New York Giants (QB, NC State)",
+          "aliases": [
+            "Rivers"
+          ]
+        },
+        {
+          "answer": "Sean Taylor",
+          "display": "#5 — Washington Redskins (S, Miami (FL))",
+          "aliases": [
+            "Taylor"
+          ]
+        },
+        {
+          "answer": "Kellen Winslow II",
+          "display": "#6 — Cleveland Browns (TE, Miami (FL))",
+          "aliases": [
+            "Winslow"
+          ]
+        },
+        {
+          "answer": "Roy Williams",
+          "display": "#7 — Detroit Lions (WR, Texas)"
+        },
+        {
+          "answer": "DeAngelo Hall",
+          "display": "#8 — Atlanta Falcons (CB, Virginia Tech)",
+          "aliases": [
+            "Hall"
+          ]
+        },
+        {
+          "answer": "Reggie Williams",
+          "display": "#9 — Jacksonville Jaguars (WR, Washington)"
+        },
+        {
+          "answer": "Dunta Robinson",
+          "display": "#10 — Houston Texans (CB, South Carolina)",
+          "aliases": [
+            "Robinson"
+          ]
+        },
+        {
+          "answer": "Ben Roethlisberger",
+          "display": "#11 — Pittsburgh Steelers (QB, Miami (OH))",
+          "aliases": [
+            "Roethlisberger",
+            "Big Ben"
+          ]
+        },
+        {
+          "answer": "Jonathan Vilma",
+          "display": "#12 — New York Jets (LB, Miami (FL))",
+          "aliases": [
+            "Vilma"
+          ]
+        },
+        {
+          "answer": "Lee Evans",
+          "display": "#13 — Buffalo Bills (WR, Wisconsin)",
+          "aliases": [
+            "Evans"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/american-football/nfl/draft",
+      "question": "First 10 picks of the 2005 NFL draft",
+      "cutoff": 10,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1376961283 | table 2 | name: Player | value: Pick | order: asc",
+      "tags": [
+        "nfl",
+        "draft"
+      ],
+      "answers": [
+        {
+          "answer": "Alex Smith",
+          "display": "#1 — San Francisco 49ers (QB, Utah)",
+          "aliases": [
+            "Smith"
+          ]
+        },
+        {
+          "answer": "Ronnie Brown",
+          "display": "#2 — Miami Dolphins (RB, Auburn)"
+        },
+        {
+          "answer": "Braylon Edwards",
+          "display": "#3 — Cleveland Browns (WR, Michigan)",
+          "aliases": [
+            "Edwards"
+          ]
+        },
+        {
+          "answer": "Cedric Benson",
+          "display": "#4 — Chicago Bears (RB, Texas)",
+          "aliases": [
+            "Benson"
+          ]
+        },
+        {
+          "answer": "Cadillac Williams",
+          "display": "#5 — Tampa Bay Buccaneers (RB, Auburn)"
+        },
+        {
+          "answer": "Adam Jones",
+          "display": "#6 — Tennessee Titans (CB, West Virginia)",
+          "aliases": [
+            "Jones"
+          ]
+        },
+        {
+          "answer": "Troy Williamson",
+          "display": "#7 — Minnesota Vikings (WR, South Carolina)",
+          "aliases": [
+            "Williamson"
+          ]
+        },
+        {
+          "answer": "Antrel Rolle",
+          "display": "#8 — Arizona Cardinals (S, Miami (FL))",
+          "aliases": [
+            "Rolle"
+          ]
+        },
+        {
+          "answer": "Carlos Rogers",
+          "display": "#9 — Washington Redskins (CB, Auburn)",
+          "aliases": [
+            "Rogers"
+          ]
+        },
+        {
+          "answer": "Mike Williams",
+          "display": "#10 — Detroit Lions (WR, USC)"
+        },
+        {
+          "answer": "DeMarcus Ware",
+          "display": "#11 — Dallas Cowboys (LB, Troy)",
+          "aliases": [
+            "Ware"
+          ]
+        },
+        {
+          "answer": "Shawne Merriman",
+          "display": "#12 — San Diego Chargers (LB, Maryland)",
+          "aliases": [
+            "Merriman"
+          ]
+        },
+        {
+          "answer": "Jammal Brown",
+          "display": "#13 — New Orleans Saints (T, Oklahoma)"
+        }
+      ]
+    },
+    {
+      "category": "sports/american-football/nfl/draft",
+      "question": "First 10 picks of the 2006 NFL draft",
+      "cutoff": 10,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1376692994 | table 2 | name: Player | value: Pick | order: asc",
+      "tags": [
+        "nfl",
+        "draft"
+      ],
+      "answers": [
+        {
+          "answer": "Mario Williams",
+          "display": "#1 — Houston Texans (DE, NC State)",
+          "aliases": [
+            "Williams"
+          ]
+        },
+        {
+          "answer": "Reggie Bush",
+          "display": "#2 — New Orleans Saints (RB, USC)",
+          "aliases": [
+            "Bush"
+          ]
+        },
+        {
+          "answer": "Vince Young",
+          "display": "#3 — Tennessee Titans (QB, Texas)",
+          "aliases": [
+            "Young"
+          ]
+        },
+        {
+          "answer": "D'Brickashaw Ferguson",
+          "display": "#4 — New York Jets (T, Virginia)",
+          "aliases": [
+            "Ferguson"
+          ]
+        },
+        {
+          "answer": "A. J. Hawk",
+          "display": "#5 — Green Bay Packers (LB, Ohio State)",
+          "aliases": [
+            "Hawk",
+            "AJ Hawk"
+          ]
+        },
+        {
+          "answer": "Vernon Davis",
+          "display": "#6 — San Francisco 49ers (TE, Maryland)",
+          "aliases": [
+            "Davis"
+          ]
+        },
+        {
+          "answer": "Michael Huff",
+          "display": "#7 — Oakland Raiders (S, Texas)",
+          "aliases": [
+            "Huff"
+          ]
+        },
+        {
+          "answer": "Donte Whitner",
+          "display": "#8 — Buffalo Bills (S, Ohio State)",
+          "aliases": [
+            "Whitner"
+          ]
+        },
+        {
+          "answer": "Ernie Sims",
+          "display": "#9 — Detroit Lions (LB, Florida State)",
+          "aliases": [
+            "Sims"
+          ]
+        },
+        {
+          "answer": "Matt Leinart",
+          "display": "#10 — Arizona Cardinals (QB, USC)",
+          "aliases": [
+            "Leinart"
+          ]
+        },
+        {
+          "answer": "Jay Cutler",
+          "display": "#11 — Denver Broncos (QB, Vanderbilt)",
+          "aliases": [
+            "Cutler"
+          ]
+        },
+        {
+          "answer": "Haloti Ngata",
+          "display": "#12 — Baltimore Ravens (DT, Oregon)",
+          "aliases": [
+            "Ngata"
+          ]
+        },
+        {
+          "answer": "Kamerion Wimbley",
+          "display": "#13 — Cleveland Browns (DE, Florida State)",
+          "aliases": [
+            "Wimbley"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/american-football/nfl/draft",
+      "question": "First 10 picks of the 2007 NFL draft",
+      "cutoff": 10,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1375242462 | table 2 | name: Player | value: Pick | order: asc",
+      "tags": [
+        "nfl",
+        "draft"
+      ],
+      "answers": [
+        {
+          "answer": "JaMarcus Russell",
+          "display": "#1 — Oakland Raiders (QB, LSU)",
+          "aliases": [
+            "Russell"
+          ]
+        },
+        {
+          "answer": "Calvin Johnson",
+          "display": "#2 — Detroit Lions (WR, Georgia Tech)",
+          "aliases": [
+            "Johnson",
+            "Megatron"
+          ]
+        },
+        {
+          "answer": "Joe Thomas",
+          "display": "#3 — Cleveland Browns (T, Wisconsin)",
+          "aliases": [
+            "Thomas"
+          ]
+        },
+        {
+          "answer": "Gaines Adams",
+          "display": "#4 — Tampa Bay Buccaneers (DE, Clemson)",
+          "aliases": [
+            "Adams"
+          ]
+        },
+        {
+          "answer": "Levi Brown",
+          "display": "#5 — Arizona Cardinals (T, Penn State)",
+          "aliases": [
+            "Brown"
+          ]
+        },
+        {
+          "answer": "LaRon Landry",
+          "display": "#6 — Washington Redskins (S, LSU)",
+          "aliases": [
+            "Landry"
+          ]
+        },
+        {
+          "answer": "Adrian Peterson",
+          "display": "#7 — Minnesota Vikings (RB, Oklahoma)",
+          "aliases": [
+            "Peterson"
+          ]
+        },
+        {
+          "answer": "Jamaal Anderson",
+          "display": "#8 — Atlanta Falcons (DE, Arkansas)",
+          "aliases": [
+            "Anderson"
+          ]
+        },
+        {
+          "answer": "Ted Ginn Jr.",
+          "display": "#9 — Miami Dolphins (WR, Ohio State)",
+          "aliases": [
+            "Ginn"
+          ]
+        },
+        {
+          "answer": "Amobi Okoye",
+          "display": "#10 — Houston Texans (DT, Louisville)",
+          "aliases": [
+            "Okoye"
+          ]
+        },
+        {
+          "answer": "Patrick Willis",
+          "display": "#11 — San Francisco 49ers (LB, Ole Miss)",
+          "aliases": [
+            "Willis"
+          ]
+        },
+        {
+          "answer": "Marshawn Lynch",
+          "display": "#12 — Buffalo Bills (RB, California)",
+          "aliases": [
+            "Lynch"
+          ]
+        },
+        {
+          "answer": "Adam Carriker",
+          "display": "#13 — St. Louis Rams (DE, Nebraska)",
+          "aliases": [
+            "Carriker"
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,615 @@
+{
+  "categories": [
+    {
+      "path": "sports/american-football/nfl",
+      "name": "NFL"
+    }
+  ],
+  "questions": [
+    {
+      "category": "sports/american-football/nfl",
+      "question": "Top 7 NFL teams by Super Bowl wins (as of 2026)",
+      "cutoff": 7,
+      "difficulty": 1,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1377491145 | table 5 | name: Franchise | value: Wins",
+      "tags": [
+        "super bowl",
+        "wins"
+      ],
+      "answers": [
+        {
+          "answer": "New England Patriots",
+          "display": "6 wins",
+          "aliases": [
+            "Patriots",
+            "Boston Patriots"
+          ]
+        },
+        {
+          "answer": "Pittsburgh Steelers",
+          "display": "6 wins",
+          "aliases": [
+            "Steelers"
+          ]
+        },
+        {
+          "answer": "San Francisco 49ers",
+          "display": "5 wins",
+          "aliases": [
+            "49ers"
+          ]
+        },
+        {
+          "answer": "Dallas Cowboys",
+          "display": "5 wins",
+          "aliases": [
+            "Cowboys"
+          ]
+        },
+        {
+          "answer": "Kansas City Chiefs",
+          "display": "4 wins",
+          "aliases": [
+            "Chiefs"
+          ]
+        },
+        {
+          "answer": "Green Bay Packers",
+          "display": "4 wins",
+          "aliases": [
+            "Packers"
+          ]
+        },
+        {
+          "answer": "New York Giants",
+          "display": "4 wins",
+          "aliases": [
+            "Giants"
+          ]
+        },
+        {
+          "answer": "Denver Broncos",
+          "display": "3 wins",
+          "aliases": [
+            "Broncos"
+          ]
+        },
+        {
+          "answer": "Las Vegas Raiders",
+          "display": "3 wins",
+          "aliases": [
+            "Raiders",
+            "Oakland Raiders",
+            "Los Angeles Raiders"
+          ]
+        },
+        {
+          "answer": "Washington Commanders",
+          "display": "3 wins",
+          "aliases": [
+            "Commanders",
+            "Washington",
+            "Redskins",
+            "Football Team"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/american-football/nfl",
+      "question": "Top 8 stadiums that have hosted the most Super Bowls (as of 2026)",
+      "cutoff": 8,
+      "difficulty": 3,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1379570440 | table 3 | name: Stadium | value: No. hosted",
+      "tags": [
+        "super bowl",
+        "stadiums",
+        "hosting"
+      ],
+      "answers": [
+        {
+          "answer": "Caesars Superdome",
+          "display": "8 Super Bowls",
+          "aliases": [
+            "Superdome",
+            "Louisiana Superdome",
+            "Mercedes-Benz Superdome"
+          ]
+        },
+        {
+          "answer": "Hard Rock Stadium",
+          "display": "6 Super Bowls",
+          "aliases": [
+            "Hard Rock",
+            "Joe Robbie Stadium",
+            "Pro Player Stadium",
+            "Dolphin Stadium"
+          ]
+        },
+        {
+          "answer": "Orange Bowl",
+          "display": "5 Super Bowls",
+          "aliases": [
+            "Miami Orange Bowl"
+          ]
+        },
+        {
+          "answer": "Rose Bowl",
+          "display": "5 Super Bowls"
+        },
+        {
+          "answer": "Tulane Stadium",
+          "display": "3 Super Bowls"
+        },
+        {
+          "answer": "Qualcomm Stadium",
+          "display": "3 Super Bowls",
+          "aliases": [
+            "San Diego Stadium",
+            "Jack Murphy Stadium"
+          ]
+        },
+        {
+          "answer": "Raymond James Stadium",
+          "display": "3 Super Bowls",
+          "aliases": [
+            "Raymond James"
+          ]
+        },
+        {
+          "answer": "State Farm Stadium",
+          "display": "3 Super Bowls",
+          "aliases": [
+            "University of Phoenix Stadium",
+            "Cardinals Stadium"
+          ]
+        },
+        {
+          "answer": "Los Angeles Memorial Coliseum",
+          "display": "2 Super Bowls",
+          "aliases": [
+            "Memorial Coliseum"
+          ]
+        },
+        {
+          "answer": "Tampa Stadium",
+          "display": "2 Super Bowls"
+        },
+        {
+          "answer": "Georgia Dome",
+          "display": "2 Super Bowls"
+        },
+        {
+          "answer": "NRG Stadium",
+          "display": "2 Super Bowls",
+          "aliases": [
+            "Reliant Stadium"
+          ]
+        },
+        {
+          "answer": "Levi's Stadium",
+          "display": "2 Super Bowls"
+        }
+      ]
+    },
+    {
+      "category": "sports/american-football/nfl",
+      "question": "Top 10 NFL players by career passing yards (regular season, through the 2025 season)",
+      "cutoff": 10,
+      "difficulty": 1,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1340641112 | table 2 | name: Player | value: Yds",
+      "tags": [
+        "career",
+        "passing yards"
+      ],
+      "answers": [
+        {
+          "answer": "Tom Brady",
+          "display": "89,214 yards",
+          "aliases": [
+            "Brady"
+          ]
+        },
+        {
+          "answer": "Drew Brees",
+          "display": "80,358 yards",
+          "aliases": [
+            "Brees"
+          ]
+        },
+        {
+          "answer": "Peyton Manning",
+          "display": "71,940 yards",
+          "aliases": [
+            "Peyton"
+          ]
+        },
+        {
+          "answer": "Brett Favre",
+          "display": "71,838 yards",
+          "aliases": [
+            "Favre"
+          ]
+        },
+        {
+          "answer": "Aaron Rodgers",
+          "display": "66,274 yards",
+          "aliases": [
+            "Rodgers"
+          ]
+        },
+        {
+          "answer": "Matthew Stafford",
+          "display": "64,516 yards",
+          "aliases": [
+            "Stafford"
+          ]
+        },
+        {
+          "answer": "Ben Roethlisberger",
+          "display": "64,088 yards",
+          "aliases": [
+            "Big Ben",
+            "Roethlisberger"
+          ]
+        },
+        {
+          "answer": "Philip Rivers",
+          "display": "63,984 yards",
+          "aliases": [
+            "Rivers"
+          ]
+        },
+        {
+          "answer": "Matt Ryan",
+          "display": "62,792 yards",
+          "aliases": [
+            "Ryan"
+          ]
+        },
+        {
+          "answer": "Dan Marino",
+          "display": "61,361 yards",
+          "aliases": [
+            "Marino"
+          ]
+        },
+        {
+          "answer": "Eli Manning",
+          "display": "57,023 yards",
+          "aliases": [
+            "Eli"
+          ]
+        },
+        {
+          "answer": "John Elway",
+          "display": "51,475 yards",
+          "aliases": [
+            "Elway"
+          ]
+        },
+        {
+          "answer": "Warren Moon",
+          "display": "49,325 yards",
+          "aliases": [
+            "Moon"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/american-football/nfl",
+      "question": "Top 10 NFL players by career rushing yards (regular season, through the 2025 season)",
+      "cutoff": 10,
+      "difficulty": 1,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1337627338 | table 2 | name: Player | value: Yards",
+      "tags": [
+        "career",
+        "rushing yards"
+      ],
+      "answers": [
+        {
+          "answer": "Emmitt Smith",
+          "display": "18,355 yards",
+          "aliases": [
+            "Smith"
+          ]
+        },
+        {
+          "answer": "Walter Payton",
+          "display": "16,726 yards",
+          "aliases": [
+            "Payton"
+          ]
+        },
+        {
+          "answer": "Frank Gore",
+          "display": "16,000 yards",
+          "aliases": [
+            "Gore"
+          ]
+        },
+        {
+          "answer": "Barry Sanders",
+          "display": "15,269 yards",
+          "aliases": [
+            "Sanders"
+          ]
+        },
+        {
+          "answer": "Adrian Peterson",
+          "display": "14,918 yards",
+          "aliases": [
+            "Peterson"
+          ]
+        },
+        {
+          "answer": "Curtis Martin",
+          "display": "14,101 yards",
+          "aliases": [
+            "Martin"
+          ]
+        },
+        {
+          "answer": "LaDainian Tomlinson",
+          "display": "13,684 yards",
+          "aliases": [
+            "Tomlinson",
+            "LT"
+          ]
+        },
+        {
+          "answer": "Jerome Bettis",
+          "display": "13,662 yards",
+          "aliases": [
+            "Bettis",
+            "The Bus"
+          ]
+        },
+        {
+          "answer": "Eric Dickerson",
+          "display": "13,259 yards",
+          "aliases": [
+            "Dickerson"
+          ]
+        },
+        {
+          "answer": "Derrick Henry",
+          "display": "13,018 yards",
+          "aliases": [
+            "Henry"
+          ]
+        },
+        {
+          "answer": "Tony Dorsett",
+          "display": "12,739 yards",
+          "aliases": [
+            "Dorsett"
+          ]
+        },
+        {
+          "answer": "Jim Brown",
+          "display": "12,312 yards",
+          "aliases": [
+            "Brown"
+          ]
+        },
+        {
+          "answer": "Marshall Faulk",
+          "display": "12,279 yards",
+          "aliases": [
+            "Faulk"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/american-football/nfl",
+      "question": "Top 10 NFL players by career sacks (official, through the 2025 season)",
+      "cutoff": 10,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1337841450 | table 2 | name: Player | value: Sacks",
+      "tags": [
+        "career",
+        "sacks",
+        "defence"
+      ],
+      "answers": [
+        {
+          "answer": "Bruce Smith",
+          "display": "200 sacks",
+          "aliases": [
+            "Smith"
+          ]
+        },
+        {
+          "answer": "Reggie White",
+          "display": "198 sacks",
+          "aliases": [
+            "White"
+          ]
+        },
+        {
+          "answer": "Kevin Greene",
+          "display": "160 sacks",
+          "aliases": [
+            "Greene"
+          ]
+        },
+        {
+          "answer": "Julius Peppers",
+          "display": "159.5 sacks",
+          "aliases": [
+            "Peppers"
+          ]
+        },
+        {
+          "answer": "Chris Doleman",
+          "display": "150.5 sacks",
+          "aliases": [
+            "Doleman"
+          ]
+        },
+        {
+          "answer": "Michael Strahan",
+          "display": "141.5 sacks",
+          "aliases": [
+            "Strahan"
+          ]
+        },
+        {
+          "answer": "Jason Taylor",
+          "display": "139.5 sacks",
+          "aliases": [
+            "Taylor"
+          ]
+        },
+        {
+          "answer": "Terrell Suggs",
+          "display": "139 sacks",
+          "aliases": [
+            "Suggs"
+          ]
+        },
+        {
+          "answer": "Von Miller",
+          "display": "138.5 sacks",
+          "aliases": [
+            "Miller"
+          ]
+        },
+        {
+          "answer": "DeMarcus Ware",
+          "display": "138.5 sacks",
+          "aliases": [
+            "Ware"
+          ]
+        },
+        {
+          "answer": "Richard Dent",
+          "display": "137.5 sacks",
+          "aliases": [
+            "Dent"
+          ]
+        },
+        {
+          "answer": "John Randle",
+          "display": "137.5 sacks",
+          "aliases": [
+            "Randle"
+          ]
+        },
+        {
+          "answer": "Jared Allen",
+          "display": "136 sacks",
+          "aliases": [
+            "Allen"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/american-football/nfl",
+      "question": "Top 8 players by number of seasons leading their league in passing yards (NFL, AFL and AAFC, through 2025)",
+      "cutoff": 8,
+      "difficulty": 3,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1378457546 | table 7 | name: Player | value: Count",
+      "tags": [
+        "titles",
+        "passing yards"
+      ],
+      "answers": [
+        {
+          "answer": "Drew Brees",
+          "display": "7 seasons",
+          "aliases": [
+            "Brees"
+          ]
+        },
+        {
+          "answer": "Otto Graham",
+          "display": "5 seasons",
+          "aliases": [
+            "Graham"
+          ]
+        },
+        {
+          "answer": "Sonny Jurgensen",
+          "display": "5 seasons",
+          "aliases": [
+            "Jurgensen"
+          ]
+        },
+        {
+          "answer": "Dan Marino",
+          "display": "5 seasons",
+          "aliases": [
+            "Marino"
+          ]
+        },
+        {
+          "answer": "Sammy Baugh",
+          "display": "4 seasons",
+          "aliases": [
+            "Baugh"
+          ]
+        },
+        {
+          "answer": "Tom Brady",
+          "display": "4 seasons",
+          "aliases": [
+            "Brady"
+          ]
+        },
+        {
+          "answer": "Dan Fouts",
+          "display": "4 seasons",
+          "aliases": [
+            "Fouts"
+          ]
+        },
+        {
+          "answer": "Johnny Unitas",
+          "display": "4 seasons",
+          "aliases": [
+            "Unitas"
+          ]
+        },
+        {
+          "answer": "John Brodie",
+          "display": "3 seasons",
+          "aliases": [
+            "Brodie"
+          ]
+        },
+        {
+          "answer": "John Hadl",
+          "display": "3 seasons",
+          "aliases": [
+            "Hadl"
+          ]
+        },
+        {
+          "answer": "Arnie Herber",
+          "display": "3 seasons",
+          "aliases": [
+            "Herber"
+          ]
+        },
+        {
+          "answer": "Peyton Manning",
+          "display": "3 seasons",
+          "aliases": [
+            "Manning"
+          ]
+        }
+      ]
+    }
+  ]
+}

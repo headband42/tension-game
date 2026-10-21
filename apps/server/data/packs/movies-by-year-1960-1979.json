@@ -1,0 +1,1064 @@
+{
+  "categories": [
+    {
+      "path": "movies/box-office",
+      "name": "Box Office"
+    }
+  ],
+  "questions": [
+    {
+      "category": "movies/box-office",
+      "cutoff": 7,
+      "difficulty": 2,
+      "question": "Top 7 highest-grossing films of 1960 (US domestic rentals, as of October 2026)",
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1379260232 | table 1 | name: Title | value: Domestic rentals",
+      "tags": [
+        "movies",
+        "box-office",
+        "1960s"
+      ],
+      "answers": [
+        {
+          "answer": "Spartacus",
+          "display": "$14,000,000"
+        },
+        {
+          "answer": "Psycho",
+          "display": "$9,100,000"
+        },
+        {
+          "answer": "Exodus",
+          "display": "$8,500,000"
+        },
+        {
+          "answer": "Swiss Family Robinson",
+          "display": "$8,100,000"
+        },
+        {
+          "answer": "The Alamo",
+          "display": "$7,900,000",
+          "aliases": [
+            "Alamo"
+          ]
+        },
+        {
+          "answer": "The World of Suzie Wong",
+          "display": "$7,500,000",
+          "aliases": [
+            "Suzie Wong"
+          ]
+        },
+        {
+          "answer": "Butterfield 8",
+          "display": "$6,800,000",
+          "aliases": [
+            "BUtterfield 8"
+          ]
+        },
+        {
+          "answer": "The Apartment",
+          "display": "$6,700,000"
+        },
+        {
+          "answer": "Ocean's 11",
+          "display": "$5,500,000",
+          "aliases": [
+            "Ocean's Eleven"
+          ]
+        },
+        {
+          "answer": "From the Terrace",
+          "display": "$5,200,000"
+        }
+      ]
+    },
+    {
+      "category": "movies/box-office",
+      "cutoff": 7,
+      "difficulty": 2,
+      "question": "Top 7 highest-grossing films of 1964 (US domestic rentals, as of October 2026)",
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1379667998 | table 1 | name: Title | value: Domestic rentals",
+      "tags": [
+        "movies",
+        "box-office",
+        "1960s"
+      ],
+      "answers": [
+        {
+          "answer": "Mary Poppins",
+          "display": "$31,000,000"
+        },
+        {
+          "answer": "My Fair Lady",
+          "display": "$30,000,000"
+        },
+        {
+          "answer": "Goldfinger",
+          "display": "$22,500,000"
+        },
+        {
+          "answer": "The Carpetbaggers",
+          "display": "$15,500,000",
+          "aliases": [
+            "Carpetbaggers"
+          ]
+        },
+        {
+          "answer": "From Russia With Love",
+          "display": "$9,200,000"
+        },
+        {
+          "answer": "A Shot in the Dark",
+          "display": "$6,748,000",
+          "aliases": [
+            "Shot in the Dark"
+          ]
+        },
+        {
+          "answer": "What a Way to Go!",
+          "display": "$6,100,000",
+          "aliases": [
+            "What a Way to Go"
+          ]
+        },
+        {
+          "answer": "The Unsinkable Molly Brown",
+          "display": "$6,040,000",
+          "aliases": [
+            "Unsinkable Molly Brown",
+            "Molly Brown"
+          ]
+        },
+        {
+          "answer": "The Pink Panther",
+          "display": "$5,935,000",
+          "aliases": [
+            "Pink Panther"
+          ]
+        },
+        {
+          "answer": "A Hard Day's Night",
+          "display": "$5,800,000",
+          "aliases": [
+            "Hard Day's Night"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "movies/box-office",
+      "cutoff": 7,
+      "difficulty": 2,
+      "question": "Top 7 highest-grossing films of 1965 (US domestic rentals, as of October 2026)",
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1376437782 | table 1 | name: Title | value: Domestic rentals",
+      "tags": [
+        "movies",
+        "box-office",
+        "1960s"
+      ],
+      "answers": [
+        {
+          "answer": "The Sound of Music",
+          "display": "$72,000,000",
+          "aliases": [
+            "Sound of Music"
+          ]
+        },
+        {
+          "answer": "Doctor Zhivago",
+          "display": "$43,000,000",
+          "aliases": [
+            "Dr. Zhivago"
+          ]
+        },
+        {
+          "answer": "Thunderball",
+          "display": "$27,000,000"
+        },
+        {
+          "answer": "Those Magnificent Men in their Flying Machines",
+          "display": "$14,000,000",
+          "aliases": [
+            "Those Magnificent Men"
+          ]
+        },
+        {
+          "answer": "The Great Race",
+          "display": "$11,400,000",
+          "aliases": [
+            "Great Race"
+          ]
+        },
+        {
+          "answer": "That Darn Cat!",
+          "display": "$9,500,000",
+          "aliases": [
+            "That Darn Cat"
+          ]
+        },
+        {
+          "answer": "Cat Ballou",
+          "display": "$9,300,000"
+        },
+        {
+          "answer": "What's New Pussycat?",
+          "display": "$8,469,000"
+        },
+        {
+          "answer": "Shenandoah",
+          "display": "$7,771,000"
+        },
+        {
+          "answer": "Von Ryan's Express",
+          "display": "$7,700,000"
+        }
+      ]
+    },
+    {
+      "category": "movies/box-office",
+      "cutoff": 7,
+      "difficulty": 2,
+      "question": "Top 7 highest-grossing films of 1967 (North American domestic rentals, as of October 2026)",
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1379668144 | table 1 | name: Title | value: Domestic rentals",
+      "tags": [
+        "movies",
+        "box-office",
+        "1960s"
+      ],
+      "answers": [
+        {
+          "answer": "The Graduate",
+          "display": "$43,100,000",
+          "aliases": [
+            "Graduate"
+          ]
+        },
+        {
+          "answer": "Guess Who's Coming to Dinner",
+          "display": "$25,500,000",
+          "aliases": [
+            "Guess Who"
+          ]
+        },
+        {
+          "answer": "Bonnie and Clyde",
+          "display": "$22,000,000",
+          "aliases": [
+            "Bonnie & Clyde"
+          ]
+        },
+        {
+          "answer": "The Dirty Dozen",
+          "display": "$20,100,000",
+          "aliases": [
+            "Dirty Dozen"
+          ]
+        },
+        {
+          "answer": "Valley of the Dolls",
+          "display": "$20,000,000"
+        },
+        {
+          "answer": "To Sir, with Love",
+          "display": "$19,100,000",
+          "aliases": [
+            "To Sir with Love"
+          ]
+        },
+        {
+          "answer": "You Only Live Twice",
+          "display": "$18,000,000"
+        },
+        {
+          "answer": "Thoroughly Modern Millie",
+          "display": "$14,700,000"
+        },
+        {
+          "answer": "The Jungle Book",
+          "display": "$13,000,000",
+          "aliases": [
+            "Jungle Book"
+          ]
+        },
+        {
+          "answer": "Camelot",
+          "display": "$12,300,000"
+        }
+      ]
+    },
+    {
+      "category": "movies/box-office",
+      "cutoff": 7,
+      "difficulty": 2,
+      "question": "Top 7 highest-grossing films of 1968 (US domestic rentals, as of October 2026)",
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1375180798 | table 2 | name: Title | value: Domestic rentals",
+      "tags": [
+        "movies",
+        "box-office",
+        "1960s"
+      ],
+      "answers": [
+        {
+          "answer": "Funny Girl",
+          "display": "$24,900,000"
+        },
+        {
+          "answer": "2001: A Space Odyssey",
+          "display": "$21,500,000",
+          "aliases": [
+            "2001",
+            "A Space Odyssey"
+          ]
+        },
+        {
+          "answer": "The Odd Couple",
+          "display": "$20,000,000",
+          "aliases": [
+            "Odd Couple"
+          ]
+        },
+        {
+          "answer": "Bullitt",
+          "display": "$19,000,000"
+        },
+        {
+          "answer": "Oliver!",
+          "display": "$16,800,000",
+          "aliases": [
+            "Oliver"
+          ]
+        },
+        {
+          "answer": "Planet of the Apes",
+          "display": "$15,000,000"
+        },
+        {
+          "answer": "Rosemary's Baby",
+          "display": "$15,000,000"
+        },
+        {
+          "answer": "Romeo and Juliet",
+          "display": "$14,500,000",
+          "aliases": [
+            "Romeo & Juliet"
+          ]
+        },
+        {
+          "answer": "Yours, Mine and Ours",
+          "display": "$11,500,000",
+          "aliases": [
+            "Yours Mine and Ours"
+          ]
+        },
+        {
+          "answer": "The Lion in Winter",
+          "display": "$10,006,000",
+          "aliases": [
+            "Lion in Winter"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "movies/box-office",
+      "cutoff": 7,
+      "difficulty": 2,
+      "question": "Top 7 highest-grossing films of 1969 (US domestic rentals, as of October 2026)",
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1379707772 | table 1 | name: Title | value: Domestic rentals",
+      "tags": [
+        "movies",
+        "box-office",
+        "1960s"
+      ],
+      "answers": [
+        {
+          "answer": "Butch Cassidy and the Sundance Kid",
+          "display": "$29,200,000",
+          "aliases": [
+            "Butch Cassidy"
+          ]
+        },
+        {
+          "answer": "The Love Bug",
+          "display": "$21,000,000",
+          "aliases": [
+            "Love Bug"
+          ]
+        },
+        {
+          "answer": "Midnight Cowboy",
+          "display": "$20,500,000"
+        },
+        {
+          "answer": "Easy Rider",
+          "display": "$16,900,000"
+        },
+        {
+          "answer": "Hello, Dolly!",
+          "display": "$15,000,000",
+          "aliases": [
+            "Hello Dolly"
+          ]
+        },
+        {
+          "answer": "Bob & Carol & Ted & Alice",
+          "display": "$14,600,000",
+          "aliases": [
+            "Bob and Carol and Ted and Alice"
+          ]
+        },
+        {
+          "answer": "Paint Your Wagon",
+          "display": "$14,500,000"
+        },
+        {
+          "answer": "True Grit",
+          "display": "$14,300,000"
+        },
+        {
+          "answer": "A Boy Named Charlie Brown",
+          "display": "$12,000,000",
+          "aliases": [
+            "Boy Named Charlie Brown"
+          ]
+        },
+        {
+          "answer": "Cactus Flower",
+          "display": "$11,900,000"
+        }
+      ]
+    },
+    {
+      "category": "movies/box-office",
+      "cutoff": 7,
+      "difficulty": 2,
+      "question": "Top 7 highest-grossing films of 1970 (US domestic rentals, as of October 2026)",
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1379573340 | table 2 | name: Title | value: Domestic rentals",
+      "tags": [
+        "movies",
+        "box-office",
+        "1970s"
+      ],
+      "answers": [
+        {
+          "answer": "Love Story",
+          "display": "$50,000,000"
+        },
+        {
+          "answer": "Airport",
+          "display": "$44,500,000"
+        },
+        {
+          "answer": "M*A*S*H",
+          "display": "$30,000,000",
+          "aliases": [
+            "MASH"
+          ]
+        },
+        {
+          "answer": "Patton",
+          "display": "$27,000,000"
+        },
+        {
+          "answer": "Woodstock",
+          "display": "$16,400,000"
+        },
+        {
+          "answer": "Little Big Man",
+          "display": "$15,000,000"
+        },
+        {
+          "answer": "Tora! Tora! Tora!",
+          "display": "$13,700,000",
+          "aliases": [
+            "Tora Tora Tora"
+          ]
+        },
+        {
+          "answer": "Ryan's Daughter",
+          "display": "$13,400,000"
+        },
+        {
+          "answer": "Catch-22",
+          "display": "$12,300,000",
+          "aliases": [
+            "Catch 22"
+          ]
+        },
+        {
+          "answer": "The Owl and the Pussycat",
+          "display": "$11,500,000",
+          "aliases": [
+            "Owl and the Pussycat"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "movies/box-office",
+      "cutoff": 7,
+      "difficulty": 2,
+      "question": "Top 7 highest-grossing films of 1971 (US domestic rentals, as of October 2026)",
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1378809777 | table 1 | name: Title | value: Domestic rentals",
+      "tags": [
+        "movies",
+        "box-office",
+        "1970s"
+      ],
+      "answers": [
+        {
+          "answer": "Fiddler on the Roof",
+          "display": "$40,500,000",
+          "aliases": [
+            "Fiddler"
+          ]
+        },
+        {
+          "answer": "Billy Jack",
+          "display": "$32,500,000"
+        },
+        {
+          "answer": "The French Connection",
+          "display": "$26,300,000",
+          "aliases": [
+            "French Connection"
+          ]
+        },
+        {
+          "answer": "Summer of '42",
+          "display": "$20,500,000",
+          "aliases": [
+            "Summer of 42"
+          ]
+        },
+        {
+          "answer": "Diamonds Are Forever",
+          "display": "$19,727,000"
+        },
+        {
+          "answer": "Dirty Harry",
+          "display": "$18,000,000"
+        },
+        {
+          "answer": "A Clockwork Orange",
+          "display": "$17,000,000",
+          "aliases": [
+            "Clockwork Orange"
+          ]
+        },
+        {
+          "answer": "Carnal Knowledge",
+          "display": "$14,075,000"
+        },
+        {
+          "answer": "The Last Picture Show",
+          "display": "$13,110,000",
+          "aliases": [
+            "Last Picture Show"
+          ]
+        },
+        {
+          "answer": "Bedknobs and Broomsticks",
+          "display": "$11,426,000",
+          "aliases": [
+            "Bedknobs & Broomsticks"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "movies/box-office",
+      "cutoff": 7,
+      "difficulty": 2,
+      "question": "Top 7 highest-grossing films of 1972 (US domestic rentals, as of October 2026)",
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1376467611 | table 1 | name: Title | value: Domestic rentals",
+      "tags": [
+        "movies",
+        "box-office",
+        "1970s"
+      ],
+      "answers": [
+        {
+          "answer": "The Godfather",
+          "display": "$86,300,000",
+          "aliases": [
+            "Godfather"
+          ]
+        },
+        {
+          "answer": "The Poseidon Adventure",
+          "display": "$42,000,000",
+          "aliases": [
+            "Poseidon Adventure"
+          ]
+        },
+        {
+          "answer": "What's Up, Doc?",
+          "display": "$28,000,000",
+          "aliases": [
+            "Whats Up, Doc"
+          ]
+        },
+        {
+          "answer": "Deliverance",
+          "display": "$22,500,000"
+        },
+        {
+          "answer": "Jeremiah Johnson",
+          "display": "$21,900,000"
+        },
+        {
+          "answer": "Cabaret",
+          "display": "$20,250,000"
+        },
+        {
+          "answer": "Deep Throat",
+          "display": "$20,000,000"
+        },
+        {
+          "answer": "The Getaway",
+          "display": "$18,000,000",
+          "aliases": [
+            "Getaway"
+          ]
+        },
+        {
+          "answer": "Brother of the Wind",
+          "display": "$12,000,000"
+        },
+        {
+          "answer": "Lady Sings the Blues",
+          "display": "$9,666,000"
+        }
+      ]
+    },
+    {
+      "category": "movies/box-office",
+      "cutoff": 7,
+      "difficulty": 2,
+      "question": "Top 7 highest-grossing films of 1973 (North American domestic rentals, as of October 2026)",
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1379767200 | table 1 | name: Title | value: Domestic rentals",
+      "tags": [
+        "movies",
+        "box-office",
+        "1970s"
+      ],
+      "answers": [
+        {
+          "answer": "The Exorcist",
+          "display": "$88,500,000",
+          "aliases": [
+            "Exorcist"
+          ]
+        },
+        {
+          "answer": "The Sting",
+          "display": "$79,000,000",
+          "aliases": [
+            "Sting"
+          ]
+        },
+        {
+          "answer": "American Graffiti",
+          "display": "$55,900,000"
+        },
+        {
+          "answer": "Papillon",
+          "display": "$22,500,000"
+        },
+        {
+          "answer": "The Way We Were",
+          "display": "$22,457,000",
+          "aliases": [
+            "Way We Were"
+          ]
+        },
+        {
+          "answer": "Magnum Force",
+          "display": "$20,100,000"
+        },
+        {
+          "answer": "Last Tango in Paris",
+          "display": "$16,711,000",
+          "aliases": [
+            "Last Tango"
+          ]
+        },
+        {
+          "answer": "Paper Moon",
+          "display": "$16,559,000"
+        },
+        {
+          "answer": "Live and Let Die",
+          "display": "$15,925,000",
+          "aliases": [
+            "Live & Let Die"
+          ]
+        },
+        {
+          "answer": "Serpico",
+          "display": "$15,400,000"
+        }
+      ]
+    },
+    {
+      "category": "movies/box-office",
+      "cutoff": 7,
+      "difficulty": 2,
+      "question": "Top 7 highest-grossing films of 1974 (US domestic rentals, as of October 2026)",
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1378335617 | table 1 | name: Title | value: Domestic rentals",
+      "tags": [
+        "movies",
+        "box-office",
+        "1970s"
+      ],
+      "answers": [
+        {
+          "answer": "The Towering Inferno",
+          "display": "$50,000,000",
+          "aliases": [
+            "Towering Inferno"
+          ]
+        },
+        {
+          "answer": "Blazing Saddles",
+          "display": "$45,200,000"
+        },
+        {
+          "answer": "Young Frankenstein",
+          "display": "$38,800,000"
+        },
+        {
+          "answer": "Earthquake",
+          "display": "$36,300,000"
+        },
+        {
+          "answer": "The Trial of Billy Jack",
+          "display": "$31,100,000",
+          "aliases": [
+            "Trial of Billy Jack"
+          ]
+        },
+        {
+          "answer": "The Godfather Part II",
+          "display": "$30,700,000",
+          "aliases": [
+            "Godfather Part II",
+            "Godfather II"
+          ]
+        },
+        {
+          "answer": "Airport 1975",
+          "display": "$25,800,000"
+        },
+        {
+          "answer": "The Longest Yard",
+          "display": "$23,000,000",
+          "aliases": [
+            "Longest Yard"
+          ]
+        },
+        {
+          "answer": "Death Wish",
+          "display": "$22,000,000"
+        },
+        {
+          "answer": "The Life and Times of Grizzly Adams",
+          "display": "$21,895,000",
+          "aliases": [
+            "Grizzly Adams"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "movies/box-office",
+      "cutoff": 7,
+      "difficulty": 2,
+      "question": "Top 7 highest-grossing films of 1975 (North American domestic rentals, as of October 2026)",
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1378805973 | table 1 | name: Title | value: Domestic rentals",
+      "tags": [
+        "movies",
+        "box-office",
+        "1970s"
+      ],
+      "answers": [
+        {
+          "answer": "Jaws",
+          "display": "$133,400,000"
+        },
+        {
+          "answer": "One Flew Over the Cuckoo's Nest",
+          "display": "$59,200,000",
+          "aliases": [
+            "Cuckoo's Nest"
+          ]
+        },
+        {
+          "answer": "The Rocky Horror Picture Show",
+          "display": "$50,420,000",
+          "aliases": [
+            "Rocky Horror",
+            "Rocky Horror Picture Show"
+          ]
+        },
+        {
+          "answer": "Shampoo",
+          "display": "$23,822,000"
+        },
+        {
+          "answer": "Dog Day Afternoon",
+          "display": "$22,500,000"
+        },
+        {
+          "answer": "The Return of the Pink Panther",
+          "display": "$20,017,000",
+          "aliases": [
+            "Return of the Pink Panther"
+          ]
+        },
+        {
+          "answer": "Three Days of the Condor",
+          "display": "$20,014,000"
+        },
+        {
+          "answer": "Funny Lady",
+          "display": "$19,313,000"
+        },
+        {
+          "answer": "The Other Side of the Mountain",
+          "display": "$18,012,000",
+          "aliases": [
+            "Other Side of the Mountain"
+          ]
+        },
+        {
+          "answer": "Tommy",
+          "display": "$17,793,000"
+        }
+      ]
+    },
+    {
+      "category": "movies/box-office",
+      "cutoff": 7,
+      "difficulty": 2,
+      "question": "Top 7 highest-grossing films of 1976 (US domestic rentals, as of October 2026)",
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1379260780 | table 2 | name: Title | value: Domestic rentals",
+      "tags": [
+        "movies",
+        "box-office",
+        "1970s"
+      ],
+      "answers": [
+        {
+          "answer": "Rocky",
+          "display": "$55,900,000"
+        },
+        {
+          "answer": "A Star Is Born",
+          "display": "$37,100,000",
+          "aliases": [
+            "Star Is Born"
+          ]
+        },
+        {
+          "answer": "King Kong",
+          "display": "$36,900,000"
+        },
+        {
+          "answer": "Silver Streak",
+          "display": "$30,018,000"
+        },
+        {
+          "answer": "All the President's Men",
+          "display": "$30,000,000",
+          "aliases": [
+            "President's Men"
+          ]
+        },
+        {
+          "answer": "The Omen",
+          "display": "$28,500,000",
+          "aliases": [
+            "Omen"
+          ]
+        },
+        {
+          "answer": "The Bad News Bears",
+          "display": "$24,800,000",
+          "aliases": [
+            "Bad News Bears"
+          ]
+        },
+        {
+          "answer": "The Enforcer",
+          "display": "$24,000,000",
+          "aliases": [
+            "Enforcer"
+          ]
+        },
+        {
+          "answer": "In Search of Noah's Ark",
+          "display": "$23,800,000"
+        },
+        {
+          "answer": "Midway",
+          "display": "$21,610,435"
+        }
+      ]
+    },
+    {
+      "category": "movies/box-office",
+      "cutoff": 7,
+      "difficulty": 2,
+      "question": "Top 7 highest-grossing films of 1977 (US box office, as of October 2026)",
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1373677284 | table 1 | name: Title | value: Box-office gross",
+      "tags": [
+        "movies",
+        "box-office",
+        "1970s"
+      ],
+      "answers": [
+        {
+          "answer": "Star Wars",
+          "display": "$221,280,994",
+          "aliases": [
+            "A New Hope"
+          ]
+        },
+        {
+          "answer": "Smokey and the Bandit",
+          "display": "$126,737,428"
+        },
+        {
+          "answer": "Close Encounters of the Third Kind",
+          "display": "$116,395,460",
+          "aliases": [
+            "Close Encounters"
+          ]
+        },
+        {
+          "answer": "Saturday Night Fever",
+          "display": "$94,213,184"
+        },
+        {
+          "answer": "The Goodbye Girl",
+          "display": "$83,700,000",
+          "aliases": [
+            "Goodbye Girl"
+          ]
+        },
+        {
+          "answer": "A Bridge Too Far",
+          "display": "$50,750,000",
+          "aliases": [
+            "Bridge Too Far"
+          ]
+        },
+        {
+          "answer": "The Deep",
+          "display": "$47,346,365"
+        },
+        {
+          "answer": "The Spy Who Loved Me",
+          "display": "$46,838,673",
+          "aliases": [
+            "Spy Who Loved Me"
+          ]
+        },
+        {
+          "answer": "Oh, God!",
+          "display": "$41,687,243",
+          "aliases": [
+            "Oh God"
+          ]
+        },
+        {
+          "answer": "Annie Hall",
+          "display": "$38,251,425"
+        }
+      ]
+    },
+    {
+      "category": "movies/box-office",
+      "cutoff": 7,
+      "difficulty": 2,
+      "question": "Top 7 highest-grossing films of 1978 (US box office, as of October 2026)",
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1378805696 | table 2 | name: Title | value: Box-office gross",
+      "tags": [
+        "movies",
+        "box-office",
+        "1970s"
+      ],
+      "answers": [
+        {
+          "answer": "Grease",
+          "display": "$159,978,870"
+        },
+        {
+          "answer": "Superman",
+          "display": "$134,218,018"
+        },
+        {
+          "answer": "National Lampoon's Animal House",
+          "display": "$120,091,123",
+          "aliases": [
+            "Animal House"
+          ]
+        },
+        {
+          "answer": "Every Which Way but Loose",
+          "display": "$85,196,485",
+          "aliases": [
+            "Every Which Way"
+          ]
+        },
+        {
+          "answer": "Heaven Can Wait",
+          "display": "$81,640,278"
+        },
+        {
+          "answer": "Hooper",
+          "display": "$78,000,000"
+        },
+        {
+          "answer": "Jaws 2",
+          "display": "$77,737,272",
+          "aliases": [
+            "Jaws II"
+          ]
+        },
+        {
+          "answer": "Revenge of the Pink Panther",
+          "display": "$49,579,269"
+        },
+        {
+          "answer": "The Deer Hunter",
+          "display": "$48,979,328",
+          "aliases": [
+            "Deer Hunter"
+          ]
+        },
+        {
+          "answer": "Halloween",
+          "display": "$47,000,000"
+        }
+      ]
+    }
+  ]
+}

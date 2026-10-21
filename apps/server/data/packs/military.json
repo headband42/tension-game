@@ -1,0 +1,430 @@
+{
+  "categories": [
+    {
+      "path": "society/military",
+      "name": "Military"
+    },
+    {
+      "path": "society/military/personnel",
+      "name": "Personnel"
+    },
+    {
+      "path": "society/military/spending",
+      "name": "Spending"
+    },
+    {
+      "path": "society/military/aircraft",
+      "name": "Aircraft"
+    }
+  ],
+  "questions": [
+    {
+      "category": "society/military/personnel",
+      "question": "Top 9 countries by active military personnel (IISS Military Balance 2026)",
+      "cutoff": 9,
+      "difficulty": 1,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1378859872 | table 1 | name: Country | value: Active military",
+      "tags": [
+        "military",
+        "personnel"
+      ],
+      "answers": [
+        {
+          "answer": "China",
+          "display": "2,035,000 personnel",
+          "aliases": [
+            "PRC",
+            "People's Republic of China"
+          ]
+        },
+        {
+          "answer": "India",
+          "display": "1,500,700 personnel"
+        },
+        {
+          "answer": "United States",
+          "display": "1,340,150 personnel",
+          "aliases": [
+            "USA",
+            "US",
+            "America"
+          ]
+        },
+        {
+          "answer": "North Korea",
+          "display": "1,280,000 personnel",
+          "aliases": [
+            "DPRK"
+          ]
+        },
+        {
+          "answer": "Russia",
+          "display": "1,264,000 personnel",
+          "aliases": [
+            "Russian Federation"
+          ]
+        },
+        {
+          "answer": "Ukraine",
+          "display": "677,000 personnel"
+        },
+        {
+          "answer": "Pakistan",
+          "display": "660,000 personnel"
+        },
+        {
+          "answer": "Iran",
+          "display": "610,000 personnel"
+        },
+        {
+          "answer": "Ethiopia",
+          "display": "503,000 personnel"
+        },
+        {
+          "answer": "South Korea",
+          "display": "450,000 personnel",
+          "aliases": [
+            "Republic of Korea",
+            "ROK"
+          ]
+        },
+        {
+          "answer": "Vietnam",
+          "display": "450,000 personnel"
+        },
+        {
+          "answer": "Egypt",
+          "display": "438,500 personnel"
+        }
+      ]
+    },
+    {
+      "category": "society/military/personnel",
+      "question": "Top 10 countries by reserve military personnel (IISS Military Balance 2026)",
+      "cutoff": 10,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1378859872 | table 1 | name: Country | value: Reserve military",
+      "tags": [
+        "military",
+        "personnel"
+      ],
+      "answers": [
+        {
+          "answer": "Vietnam",
+          "display": "5,000,000 reserve personnel"
+        },
+        {
+          "answer": "South Korea",
+          "display": "3,100,000 reserve personnel",
+          "aliases": [
+            "Republic of Korea",
+            "ROK"
+          ]
+        },
+        {
+          "answer": "Taiwan",
+          "display": "1,657,000 reserve personnel",
+          "aliases": [
+            "ROC"
+          ]
+        },
+        {
+          "answer": "Russia",
+          "display": "1,500,000 reserve personnel",
+          "aliases": [
+            "Russian Federation"
+          ]
+        },
+        {
+          "answer": "India",
+          "display": "1,155,000 reserve personnel"
+        },
+        {
+          "answer": "United States",
+          "display": "804,800 reserve personnel",
+          "aliases": [
+            "USA",
+            "US",
+            "America"
+          ]
+        },
+        {
+          "answer": "North Korea",
+          "display": "600,000 reserve personnel",
+          "aliases": [
+            "DPRK"
+          ]
+        },
+        {
+          "answer": "Pakistan",
+          "display": "550,000 reserve personnel"
+        },
+        {
+          "answer": "China",
+          "display": "510,000 reserve personnel",
+          "aliases": [
+            "PRC",
+            "People's Republic of China"
+          ]
+        },
+        {
+          "answer": "Egypt",
+          "display": "479,000 reserve personnel"
+        },
+        {
+          "answer": "Israel",
+          "display": "465,000 reserve personnel"
+        },
+        {
+          "answer": "Indonesia",
+          "display": "400,000 reserve personnel"
+        },
+        {
+          "answer": "Turkey",
+          "display": "378,700 reserve personnel"
+        }
+      ]
+    },
+    {
+      "category": "society/military/spending",
+      "question": "Top 10 countries by military spending in 2025 (SIPRI)",
+      "cutoff": 10,
+      "difficulty": 1,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1369304021 | table 1 | name: Country | value: US$ bn",
+      "tags": [
+        "military",
+        "spending"
+      ],
+      "answers": [
+        {
+          "answer": "United States",
+          "display": "US$954.0 billion",
+          "aliases": [
+            "USA",
+            "US",
+            "America"
+          ]
+        },
+        {
+          "answer": "China",
+          "display": "US$336.0 billion",
+          "aliases": [
+            "PRC",
+            "People's Republic of China"
+          ]
+        },
+        {
+          "answer": "Russia",
+          "display": "US$190.0 billion",
+          "aliases": [
+            "Russian Federation"
+          ]
+        },
+        {
+          "answer": "Germany",
+          "display": "US$114.0 billion"
+        },
+        {
+          "answer": "India",
+          "display": "US$92.1 billion"
+        },
+        {
+          "answer": "United Kingdom",
+          "display": "US$89.0 billion",
+          "aliases": [
+            "UK",
+            "Britain"
+          ]
+        },
+        {
+          "answer": "Ukraine",
+          "display": "US$84.1 billion"
+        },
+        {
+          "answer": "Saudi Arabia",
+          "display": "US$83.2 billion",
+          "aliases": [
+            "KSA"
+          ]
+        },
+        {
+          "answer": "France",
+          "display": "US$68.0 billion"
+        },
+        {
+          "answer": "Japan",
+          "display": "US$62.2 billion"
+        },
+        {
+          "answer": "Israel",
+          "display": "US$48.3 billion"
+        },
+        {
+          "answer": "Italy",
+          "display": "US$48.1 billion"
+        },
+        {
+          "answer": "South Korea",
+          "display": "US$47.8 billion",
+          "aliases": [
+            "Republic of Korea",
+            "ROK"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "society/military/spending",
+      "question": "Top 10 European countries by military spending in 2025 (SIPRI; Russia included, Turkey not)",
+      "cutoff": 10,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1363246621 | table 4 | name: Country | value: US $m",
+      "tags": [
+        "military",
+        "spending",
+        "europe"
+      ],
+      "answers": [
+        {
+          "answer": "Russia",
+          "display": "US$190,416.6 million",
+          "aliases": [
+            "Russian Federation"
+          ]
+        },
+        {
+          "answer": "Germany",
+          "display": "US$113,585.9 million"
+        },
+        {
+          "answer": "United Kingdom",
+          "display": "US$88,977.5 million",
+          "aliases": [
+            "UK",
+            "Britain"
+          ]
+        },
+        {
+          "answer": "Ukraine",
+          "display": "US$84,109.0 million"
+        },
+        {
+          "answer": "France",
+          "display": "US$68,007.6 million"
+        },
+        {
+          "answer": "Italy",
+          "display": "US$48,281.3 million"
+        },
+        {
+          "answer": "Poland",
+          "display": "US$46,760.1 million"
+        },
+        {
+          "answer": "Spain",
+          "display": "US$40,211.8 million"
+        },
+        {
+          "answer": "Netherlands",
+          "display": "US$28,944.3 million",
+          "aliases": [
+            "Holland"
+          ]
+        },
+        {
+          "answer": "Norway",
+          "display": "US$17,033.6 million"
+        },
+        {
+          "answer": "Sweden",
+          "display": "US$16,473.5 million"
+        },
+        {
+          "answer": "Denmark",
+          "display": "US$14,948.8 million"
+        },
+        {
+          "answer": "Belgium",
+          "display": "US$14,532.0 million"
+        }
+      ]
+    },
+    {
+      "category": "society/military/aircraft",
+      "question": "Top 7 countries by total combat aircraft (fighters, bombers and attack; latest figures)",
+      "cutoff": 7,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1378774038 | table 2 | name: Country | value: Total",
+      "tags": [
+        "military",
+        "aircraft"
+      ],
+      "answers": [
+        {
+          "answer": "United States",
+          "display": "5,714 combat aircraft",
+          "aliases": [
+            "USA",
+            "US",
+            "America"
+          ]
+        },
+        {
+          "answer": "Russia",
+          "display": "1,591 combat aircraft",
+          "aliases": [
+            "Russian Federation"
+          ]
+        },
+        {
+          "answer": "China",
+          "display": "1,358 combat aircraft",
+          "aliases": [
+            "PRC",
+            "People's Republic of China"
+          ]
+        },
+        {
+          "answer": "India",
+          "display": "873 combat aircraft"
+        },
+        {
+          "answer": "North Korea",
+          "display": "678 combat aircraft",
+          "aliases": [
+            "DPRK"
+          ]
+        },
+        {
+          "answer": "Pakistan",
+          "display": "583 combat aircraft"
+        },
+        {
+          "answer": "Egypt",
+          "display": "496 combat aircraft"
+        },
+        {
+          "answer": "South Korea",
+          "display": "488 combat aircraft",
+          "aliases": [
+            "Republic of Korea",
+            "ROK"
+          ]
+        },
+        {
+          "answer": "Israel",
+          "display": "426 combat aircraft"
+        },
+        {
+          "answer": "Japan",
+          "display": "380 combat aircraft"
+        }
+      ]
+    }
+  ]
+}

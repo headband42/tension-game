@@ -1,0 +1,1378 @@
+{
+  "categories": [
+    {
+      "path": "sports/soccer/usa/mls",
+      "name": "MLS Seasons"
+    }
+  ],
+  "questions": [
+    {
+      "category": "sports/soccer/usa/mls",
+      "question": "Top 6 clubs in the 2011 MLS overall regular-season table (Supporters' Shield standings)",
+      "cutoff": 6,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1376785719 | table 7 | name: Team | value: Pos | order: asc",
+      "tags": [
+        "football",
+        "mls",
+        "seasons"
+      ],
+      "answers": [
+        {
+          "answer": "LA Galaxy",
+          "display": "#1 — 67 pts",
+          "aliases": [
+            "Galaxy",
+            "Los Angeles Galaxy"
+          ]
+        },
+        {
+          "answer": "Seattle Sounders FC",
+          "display": "#2 — 63 pts",
+          "aliases": [
+            "Seattle Sounders",
+            "Sounders"
+          ]
+        },
+        {
+          "answer": "Real Salt Lake",
+          "display": "#3 — 53 pts",
+          "aliases": [
+            "RSL"
+          ]
+        },
+        {
+          "answer": "FC Dallas",
+          "display": "#4 — 52 pts",
+          "aliases": [
+            "Dallas"
+          ]
+        },
+        {
+          "answer": "Sporting Kansas City",
+          "display": "#5 — 51 pts",
+          "aliases": [
+            "Sporting KC",
+            "SKC"
+          ]
+        },
+        {
+          "answer": "Houston Dynamo",
+          "display": "#6 — 49 pts",
+          "aliases": [
+            "Dynamo"
+          ]
+        },
+        {
+          "answer": "Colorado Rapids",
+          "display": "#7 — 49 pts",
+          "aliases": [
+            "Rapids"
+          ]
+        },
+        {
+          "answer": "Philadelphia Union",
+          "display": "#8 — 48 pts",
+          "aliases": [
+            "Union"
+          ]
+        },
+        {
+          "answer": "Columbus Crew",
+          "display": "#9 — 47 pts",
+          "aliases": [
+            "Crew"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/soccer/usa/mls",
+      "question": "Top 6 clubs in the 2012 MLS overall regular-season table (Supporters' Shield standings)",
+      "cutoff": 6,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1376785746 | table 8 | name: Team | value: Pos | order: asc",
+      "tags": [
+        "football",
+        "mls",
+        "seasons"
+      ],
+      "answers": [
+        {
+          "answer": "San Jose Earthquakes",
+          "display": "#1 — 66 pts",
+          "aliases": [
+            "Earthquakes"
+          ]
+        },
+        {
+          "answer": "Sporting Kansas City",
+          "display": "#2 — 63 pts",
+          "aliases": [
+            "Sporting KC",
+            "SKC"
+          ]
+        },
+        {
+          "answer": "D.C. United",
+          "display": "#3 — 58 pts",
+          "aliases": [
+            "DC United"
+          ]
+        },
+        {
+          "answer": "New York Red Bulls",
+          "display": "#4 — 57 pts",
+          "aliases": [
+            "Red Bulls",
+            "NY Red Bulls"
+          ]
+        },
+        {
+          "answer": "Real Salt Lake",
+          "display": "#5 — 57 pts",
+          "aliases": [
+            "RSL"
+          ]
+        },
+        {
+          "answer": "Chicago Fire",
+          "display": "#6 — 57 pts",
+          "aliases": [
+            "Fire"
+          ]
+        },
+        {
+          "answer": "Seattle Sounders FC",
+          "display": "#7 — 56 pts",
+          "aliases": [
+            "Seattle Sounders",
+            "Sounders"
+          ]
+        },
+        {
+          "answer": "LA Galaxy",
+          "display": "#8 — 54 pts",
+          "aliases": [
+            "Galaxy",
+            "Los Angeles Galaxy"
+          ]
+        },
+        {
+          "answer": "Houston Dynamo",
+          "display": "#9 — 53 pts",
+          "aliases": [
+            "Dynamo"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/soccer/usa/mls",
+      "question": "Top 6 clubs in the 2013 MLS overall regular-season table (Supporters' Shield standings)",
+      "cutoff": 6,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1376789948 | table 11 | name: Team | value: Pos | order: asc",
+      "tags": [
+        "football",
+        "mls",
+        "seasons"
+      ],
+      "answers": [
+        {
+          "answer": "New York Red Bulls",
+          "display": "#1 — 59 pts",
+          "aliases": [
+            "Red Bulls",
+            "NY Red Bulls"
+          ]
+        },
+        {
+          "answer": "Sporting Kansas City",
+          "display": "#2 — 58 pts",
+          "aliases": [
+            "Sporting KC",
+            "SKC"
+          ]
+        },
+        {
+          "answer": "Portland Timbers",
+          "display": "#3 — 57 pts",
+          "aliases": [
+            "Timbers"
+          ]
+        },
+        {
+          "answer": "Real Salt Lake",
+          "display": "#4 — 56 pts",
+          "aliases": [
+            "RSL"
+          ]
+        },
+        {
+          "answer": "LA Galaxy",
+          "display": "#5 — 53 pts",
+          "aliases": [
+            "Galaxy",
+            "Los Angeles Galaxy"
+          ]
+        },
+        {
+          "answer": "Seattle Sounders FC",
+          "display": "#6 — 52 pts",
+          "aliases": [
+            "Seattle Sounders",
+            "Sounders"
+          ]
+        },
+        {
+          "answer": "New England Revolution",
+          "display": "#7 — 51 pts",
+          "aliases": [
+            "Revolution",
+            "Revs"
+          ]
+        },
+        {
+          "answer": "Colorado Rapids",
+          "display": "#8 — 51 pts",
+          "aliases": [
+            "Rapids"
+          ]
+        },
+        {
+          "answer": "Houston Dynamo",
+          "display": "#9 — 51 pts",
+          "aliases": [
+            "Dynamo"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/soccer/usa/mls",
+      "question": "Top 6 clubs in the 2014 MLS overall regular-season table (Supporters' Shield standings)",
+      "cutoff": 6,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1376789967 | table 10 | name: Team | value: Pos | order: asc",
+      "tags": [
+        "football",
+        "mls",
+        "seasons"
+      ],
+      "answers": [
+        {
+          "answer": "Seattle Sounders FC",
+          "display": "#1 — 64 pts",
+          "aliases": [
+            "Seattle Sounders",
+            "Sounders"
+          ]
+        },
+        {
+          "answer": "LA Galaxy",
+          "display": "#2 — 61 pts",
+          "aliases": [
+            "Galaxy",
+            "Los Angeles Galaxy"
+          ]
+        },
+        {
+          "answer": "D.C. United",
+          "display": "#3 — 59 pts",
+          "aliases": [
+            "DC United"
+          ]
+        },
+        {
+          "answer": "Real Salt Lake",
+          "display": "#4 — 56 pts",
+          "aliases": [
+            "RSL"
+          ]
+        },
+        {
+          "answer": "New England Revolution",
+          "display": "#5 — 55 pts",
+          "aliases": [
+            "Revolution",
+            "Revs"
+          ]
+        },
+        {
+          "answer": "FC Dallas",
+          "display": "#6 — 54 pts",
+          "aliases": [
+            "Dallas"
+          ]
+        },
+        {
+          "answer": "Columbus Crew",
+          "display": "#7 — 52 pts",
+          "aliases": [
+            "Crew"
+          ]
+        },
+        {
+          "answer": "New York Red Bulls",
+          "display": "#8 — 50 pts",
+          "aliases": [
+            "Red Bulls",
+            "NY Red Bulls"
+          ]
+        },
+        {
+          "answer": "Vancouver Whitecaps FC",
+          "display": "#9 — 50 pts",
+          "aliases": [
+            "Whitecaps"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/soccer/usa/mls",
+      "question": "Top 7 clubs in the 2015 MLS overall regular-season table (Supporters' Shield standings)",
+      "cutoff": 7,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1376799546 | table 6 | name: Team | value: Pos | order: asc",
+      "tags": [
+        "football",
+        "mls",
+        "seasons"
+      ],
+      "answers": [
+        {
+          "answer": "New York Red Bulls",
+          "display": "#1 — 60 pts",
+          "aliases": [
+            "Red Bulls",
+            "NY Red Bulls"
+          ]
+        },
+        {
+          "answer": "FC Dallas",
+          "display": "#2 — 60 pts",
+          "aliases": [
+            "Dallas"
+          ]
+        },
+        {
+          "answer": "Vancouver Whitecaps FC",
+          "display": "#3 — 53 pts",
+          "aliases": [
+            "Whitecaps"
+          ]
+        },
+        {
+          "answer": "Columbus Crew",
+          "display": "#4 — 53 pts",
+          "aliases": [
+            "Columbus Crew SC",
+            "Crew"
+          ]
+        },
+        {
+          "answer": "Portland Timbers",
+          "display": "#5 — 53 pts",
+          "aliases": [
+            "Timbers"
+          ]
+        },
+        {
+          "answer": "Seattle Sounders FC",
+          "display": "#6 — 51 pts",
+          "aliases": [
+            "Seattle Sounders",
+            "Sounders"
+          ]
+        },
+        {
+          "answer": "Montreal Impact",
+          "display": "#7 — 51 pts",
+          "aliases": [
+            "CF Montréal",
+            "Montreal",
+            "CF Montreal"
+          ]
+        },
+        {
+          "answer": "D.C. United",
+          "display": "#8 — 51 pts",
+          "aliases": [
+            "DC United"
+          ]
+        },
+        {
+          "answer": "LA Galaxy",
+          "display": "#9 — 51 pts",
+          "aliases": [
+            "Galaxy",
+            "Los Angeles Galaxy"
+          ]
+        },
+        {
+          "answer": "Sporting Kansas City",
+          "display": "#10 — 51 pts",
+          "aliases": [
+            "Sporting KC",
+            "SKC"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/soccer/usa/mls",
+      "question": "Top 7 clubs in the 2016 MLS overall regular-season table (Supporters' Shield standings)",
+      "cutoff": 7,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1376786747 | table 7 | name: Team | value: Pos | order: asc",
+      "tags": [
+        "football",
+        "mls",
+        "seasons"
+      ],
+      "answers": [
+        {
+          "answer": "FC Dallas",
+          "display": "#1 — 60 pts",
+          "aliases": [
+            "Dallas"
+          ]
+        },
+        {
+          "answer": "Colorado Rapids",
+          "display": "#2 — 58 pts",
+          "aliases": [
+            "Rapids"
+          ]
+        },
+        {
+          "answer": "New York Red Bulls",
+          "display": "#3 — 57 pts",
+          "aliases": [
+            "Red Bulls",
+            "NY Red Bulls"
+          ]
+        },
+        {
+          "answer": "New York City FC",
+          "display": "#4 — 54 pts",
+          "aliases": [
+            "NYCFC"
+          ]
+        },
+        {
+          "answer": "Toronto FC",
+          "display": "#5 — 53 pts",
+          "aliases": [
+            "TFC"
+          ]
+        },
+        {
+          "answer": "LA Galaxy",
+          "display": "#6 — 52 pts",
+          "aliases": [
+            "Galaxy",
+            "Los Angeles Galaxy"
+          ]
+        },
+        {
+          "answer": "Seattle Sounders FC",
+          "display": "#7 — 48 pts",
+          "aliases": [
+            "Seattle Sounders",
+            "Sounders"
+          ]
+        },
+        {
+          "answer": "Sporting Kansas City",
+          "display": "#8 — 47 pts",
+          "aliases": [
+            "Sporting KC",
+            "SKC"
+          ]
+        },
+        {
+          "answer": "Real Salt Lake",
+          "display": "#9 — 46 pts",
+          "aliases": [
+            "RSL"
+          ]
+        },
+        {
+          "answer": "D.C. United",
+          "display": "#10 — 46 pts",
+          "aliases": [
+            "DC United"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/soccer/usa/mls",
+      "question": "Top 7 clubs in the 2017 MLS overall regular-season table (Supporters' Shield standings)",
+      "cutoff": 7,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1376777320 | table 7 | name: Team | value: Pos | order: asc",
+      "tags": [
+        "football",
+        "mls",
+        "seasons"
+      ],
+      "answers": [
+        {
+          "answer": "Toronto FC",
+          "display": "#1 — 69 pts",
+          "aliases": [
+            "TFC"
+          ]
+        },
+        {
+          "answer": "New York City FC",
+          "display": "#2 — 57 pts",
+          "aliases": [
+            "NYCFC"
+          ]
+        },
+        {
+          "answer": "Chicago Fire",
+          "display": "#3 — 55 pts",
+          "aliases": [
+            "Fire"
+          ]
+        },
+        {
+          "answer": "Atlanta United FC",
+          "display": "#4 — 55 pts",
+          "aliases": [
+            "Atlanta United"
+          ]
+        },
+        {
+          "answer": "Columbus Crew",
+          "display": "#5 — 54 pts",
+          "aliases": [
+            "Crew"
+          ]
+        },
+        {
+          "answer": "Portland Timbers",
+          "display": "#6 — 53 pts",
+          "aliases": [
+            "Timbers"
+          ]
+        },
+        {
+          "answer": "Seattle Sounders FC",
+          "display": "#7 — 53 pts",
+          "aliases": [
+            "Seattle Sounders",
+            "Sounders"
+          ]
+        },
+        {
+          "answer": "Vancouver Whitecaps FC",
+          "display": "#8 — 52 pts",
+          "aliases": [
+            "Whitecaps"
+          ]
+        },
+        {
+          "answer": "New York Red Bulls",
+          "display": "#9 — 50 pts",
+          "aliases": [
+            "Red Bulls",
+            "NY Red Bulls"
+          ]
+        },
+        {
+          "answer": "Houston Dynamo",
+          "display": "#10 — 50 pts",
+          "aliases": [
+            "Dynamo"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/soccer/usa/mls",
+      "question": "Top 7 clubs in the 2018 MLS overall regular-season table (Supporters' Shield standings)",
+      "cutoff": 7,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1376786707 | table 7 | name: Team | value: Pos | order: asc",
+      "tags": [
+        "football",
+        "mls",
+        "seasons"
+      ],
+      "answers": [
+        {
+          "answer": "New York Red Bulls",
+          "display": "#1 — 71 pts",
+          "aliases": [
+            "Red Bulls",
+            "NY Red Bulls"
+          ]
+        },
+        {
+          "answer": "Atlanta United FC",
+          "display": "#2 — 69 pts",
+          "aliases": [
+            "Atlanta United"
+          ]
+        },
+        {
+          "answer": "Sporting Kansas City",
+          "display": "#3 — 62 pts",
+          "aliases": [
+            "Sporting KC",
+            "SKC"
+          ]
+        },
+        {
+          "answer": "Seattle Sounders FC",
+          "display": "#4 — 59 pts",
+          "aliases": [
+            "Seattle Sounders",
+            "Sounders"
+          ]
+        },
+        {
+          "answer": "Los Angeles FC",
+          "display": "#5 — 57 pts",
+          "aliases": [
+            "LAFC"
+          ]
+        },
+        {
+          "answer": "FC Dallas",
+          "display": "#6 — 57 pts",
+          "aliases": [
+            "Dallas"
+          ]
+        },
+        {
+          "answer": "New York City FC",
+          "display": "#7 — 56 pts",
+          "aliases": [
+            "NYCFC"
+          ]
+        },
+        {
+          "answer": "Portland Timbers",
+          "display": "#8 — 54 pts",
+          "aliases": [
+            "Timbers"
+          ]
+        },
+        {
+          "answer": "D.C. United",
+          "display": "#9 — 51 pts",
+          "aliases": [
+            "DC United"
+          ]
+        },
+        {
+          "answer": "Columbus Crew",
+          "display": "#10 — 51 pts",
+          "aliases": [
+            "Crew"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/soccer/usa/mls",
+      "question": "Top 8 clubs in the 2019 MLS overall regular-season table (Supporters' Shield standings)",
+      "cutoff": 8,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1377072727 | table 7 | name: Team | value: Pos | order: asc",
+      "tags": [
+        "football",
+        "mls",
+        "seasons"
+      ],
+      "answers": [
+        {
+          "answer": "Los Angeles FC",
+          "display": "#1 — 72 pts",
+          "aliases": [
+            "LAFC"
+          ]
+        },
+        {
+          "answer": "New York City FC",
+          "display": "#2 — 64 pts",
+          "aliases": [
+            "NYCFC"
+          ]
+        },
+        {
+          "answer": "Atlanta United FC",
+          "display": "#3 — 58 pts",
+          "aliases": [
+            "Atlanta United"
+          ]
+        },
+        {
+          "answer": "Seattle Sounders FC",
+          "display": "#4 — 56 pts",
+          "aliases": [
+            "Seattle Sounders",
+            "Sounders"
+          ]
+        },
+        {
+          "answer": "Philadelphia Union",
+          "display": "#5 — 55 pts",
+          "aliases": [
+            "Union"
+          ]
+        },
+        {
+          "answer": "Real Salt Lake",
+          "display": "#6 — 53 pts",
+          "aliases": [
+            "RSL"
+          ]
+        },
+        {
+          "answer": "Minnesota United FC",
+          "display": "#7 — 53 pts",
+          "aliases": [
+            "Minnesota United"
+          ]
+        },
+        {
+          "answer": "LA Galaxy",
+          "display": "#8 — 51 pts",
+          "aliases": [
+            "Galaxy",
+            "Los Angeles Galaxy"
+          ]
+        },
+        {
+          "answer": "Toronto FC",
+          "display": "#9 — 50 pts",
+          "aliases": [
+            "TFC"
+          ]
+        },
+        {
+          "answer": "D.C. United",
+          "display": "#10 — 50 pts",
+          "aliases": [
+            "DC United"
+          ]
+        },
+        {
+          "answer": "Portland Timbers",
+          "display": "#11 — 49 pts",
+          "aliases": [
+            "Timbers"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/soccer/usa/mls",
+      "question": "Top 8 clubs in the 2020 MLS overall regular-season table (Supporters' Shield standings, ranked by points per game)",
+      "cutoff": 8,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1376786616 | table 7 | name: Team | value: Pos | order: asc",
+      "tags": [
+        "football",
+        "mls",
+        "seasons"
+      ],
+      "answers": [
+        {
+          "answer": "Philadelphia Union",
+          "display": "#1 — 2.04 PPG (47 pts)",
+          "aliases": [
+            "Union"
+          ]
+        },
+        {
+          "answer": "Toronto FC",
+          "display": "#2 — 1.91 PPG (44 pts)",
+          "aliases": [
+            "TFC"
+          ]
+        },
+        {
+          "answer": "Sporting Kansas City",
+          "display": "#3 — 1.86 PPG (39 pts)",
+          "aliases": [
+            "Sporting KC",
+            "SKC"
+          ]
+        },
+        {
+          "answer": "Columbus Crew",
+          "display": "#4 — 1.78 PPG (41 pts)",
+          "aliases": [
+            "Columbus Crew SC",
+            "Crew"
+          ]
+        },
+        {
+          "answer": "Orlando City SC",
+          "display": "#5 — 1.78 PPG (41 pts)",
+          "aliases": [
+            "Orlando City"
+          ]
+        },
+        {
+          "answer": "Seattle Sounders FC",
+          "display": "#6 — 1.77 PPG (39 pts)",
+          "aliases": [
+            "Seattle Sounders",
+            "Sounders"
+          ]
+        },
+        {
+          "answer": "New York City FC",
+          "display": "#7 — 1.70 PPG (39 pts)",
+          "aliases": [
+            "NYCFC"
+          ]
+        },
+        {
+          "answer": "Portland Timbers",
+          "display": "#8 — 1.70 PPG (39 pts)",
+          "aliases": [
+            "Timbers"
+          ]
+        },
+        {
+          "answer": "Minnesota United FC",
+          "display": "#9 — 1.62 PPG (34 pts)",
+          "aliases": [
+            "Minnesota United"
+          ]
+        },
+        {
+          "answer": "Colorado Rapids",
+          "display": "#10 — 1.56 PPG (28 pts)",
+          "aliases": [
+            "Rapids"
+          ]
+        },
+        {
+          "answer": "FC Dallas",
+          "display": "#11 — 1.55 PPG (34 pts)",
+          "aliases": [
+            "Dallas"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/soccer/usa/mls",
+      "question": "Top 8 clubs in the 2021 MLS overall regular-season table (Supporters' Shield standings)",
+      "cutoff": 8,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1376786582 | table 6 | name: Team | value: Pos | order: asc",
+      "tags": [
+        "football",
+        "mls",
+        "seasons"
+      ],
+      "answers": [
+        {
+          "answer": "New England Revolution",
+          "display": "#1 — 73 pts",
+          "aliases": [
+            "Revolution",
+            "Revs"
+          ]
+        },
+        {
+          "answer": "Colorado Rapids",
+          "display": "#2 — 61 pts",
+          "aliases": [
+            "Rapids"
+          ]
+        },
+        {
+          "answer": "Seattle Sounders FC",
+          "display": "#3 — 60 pts",
+          "aliases": [
+            "Seattle Sounders",
+            "Sounders"
+          ]
+        },
+        {
+          "answer": "Sporting Kansas City",
+          "display": "#4 — 58 pts",
+          "aliases": [
+            "Sporting KC",
+            "SKC"
+          ]
+        },
+        {
+          "answer": "Portland Timbers",
+          "display": "#5 — 55 pts",
+          "aliases": [
+            "Timbers"
+          ]
+        },
+        {
+          "answer": "Philadelphia Union",
+          "display": "#6 — 54 pts",
+          "aliases": [
+            "Union"
+          ]
+        },
+        {
+          "answer": "Nashville SC",
+          "display": "#7 — 54 pts"
+        },
+        {
+          "answer": "New York City FC",
+          "display": "#8 — 51 pts",
+          "aliases": [
+            "NYCFC"
+          ]
+        },
+        {
+          "answer": "Atlanta United FC",
+          "display": "#9 — 51 pts",
+          "aliases": [
+            "Atlanta United"
+          ]
+        },
+        {
+          "answer": "Orlando City SC",
+          "display": "#10 — 51 pts",
+          "aliases": [
+            "Orlando City"
+          ]
+        },
+        {
+          "answer": "Minnesota United FC",
+          "display": "#11 — 49 pts",
+          "aliases": [
+            "Minnesota United"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/soccer/usa/mls",
+      "question": "Top 10 clubs in the 2022 MLS overall regular-season table (Supporters' Shield standings)",
+      "cutoff": 10,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1376786563 | table 6 | name: Team | value: Pos | order: asc",
+      "tags": [
+        "football",
+        "mls",
+        "seasons"
+      ],
+      "answers": [
+        {
+          "answer": "Los Angeles FC",
+          "display": "#1 — 67 pts",
+          "aliases": [
+            "LAFC"
+          ]
+        },
+        {
+          "answer": "Philadelphia Union",
+          "display": "#2 — 67 pts",
+          "aliases": [
+            "Union"
+          ]
+        },
+        {
+          "answer": "CF Montréal",
+          "display": "#3 — 65 pts",
+          "aliases": [
+            "Montreal Impact",
+            "Montreal",
+            "CF Montreal"
+          ]
+        },
+        {
+          "answer": "Austin FC",
+          "display": "#4 — 56 pts"
+        },
+        {
+          "answer": "New York City FC",
+          "display": "#5 — 55 pts",
+          "aliases": [
+            "NYCFC"
+          ]
+        },
+        {
+          "answer": "New York Red Bulls",
+          "display": "#6 — 53 pts",
+          "aliases": [
+            "Red Bulls",
+            "NY Red Bulls"
+          ]
+        },
+        {
+          "answer": "FC Dallas",
+          "display": "#7 — 53 pts",
+          "aliases": [
+            "Dallas"
+          ]
+        },
+        {
+          "answer": "LA Galaxy",
+          "display": "#8 — 50 pts",
+          "aliases": [
+            "Galaxy",
+            "Los Angeles Galaxy"
+          ]
+        },
+        {
+          "answer": "Nashville SC",
+          "display": "#9 — 50 pts"
+        },
+        {
+          "answer": "FC Cincinnati",
+          "display": "#10 — 49 pts"
+        },
+        {
+          "answer": "Minnesota United FC",
+          "display": "#11 — 48 pts",
+          "aliases": [
+            "Minnesota United"
+          ]
+        },
+        {
+          "answer": "Inter Miami CF",
+          "display": "#12 — 48 pts",
+          "aliases": [
+            "Inter Miami"
+          ]
+        },
+        {
+          "answer": "Orlando City SC",
+          "display": "#13 — 48 pts",
+          "aliases": [
+            "Orlando City"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/soccer/usa/mls",
+      "question": "Top 10 clubs in the 2023 MLS overall regular-season table (Supporters' Shield standings)",
+      "cutoff": 10,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1376786526 | table 6 | name: Team | value: Pos | order: asc",
+      "tags": [
+        "football",
+        "mls",
+        "seasons"
+      ],
+      "answers": [
+        {
+          "answer": "FC Cincinnati",
+          "display": "#1 — 69 pts"
+        },
+        {
+          "answer": "Orlando City SC",
+          "display": "#2 — 63 pts",
+          "aliases": [
+            "Orlando City"
+          ]
+        },
+        {
+          "answer": "Columbus Crew",
+          "display": "#3 — 57 pts",
+          "aliases": [
+            "Crew"
+          ]
+        },
+        {
+          "answer": "St. Louis City SC",
+          "display": "#4 — 56 pts",
+          "aliases": [
+            "St. Louis City"
+          ]
+        },
+        {
+          "answer": "Philadelphia Union",
+          "display": "#5 — 55 pts",
+          "aliases": [
+            "Union"
+          ]
+        },
+        {
+          "answer": "New England Revolution",
+          "display": "#6 — 55 pts",
+          "aliases": [
+            "Revolution",
+            "Revs"
+          ]
+        },
+        {
+          "answer": "Seattle Sounders FC",
+          "display": "#7 — 53 pts",
+          "aliases": [
+            "Seattle Sounders",
+            "Sounders"
+          ]
+        },
+        {
+          "answer": "Los Angeles FC",
+          "display": "#8 — 52 pts",
+          "aliases": [
+            "LAFC"
+          ]
+        },
+        {
+          "answer": "Houston Dynamo",
+          "display": "#9 — 51 pts",
+          "aliases": [
+            "Houston Dynamo FC",
+            "Dynamo"
+          ]
+        },
+        {
+          "answer": "Atlanta United FC",
+          "display": "#10 — 51 pts",
+          "aliases": [
+            "Atlanta United"
+          ]
+        },
+        {
+          "answer": "Real Salt Lake",
+          "display": "#11 — 50 pts",
+          "aliases": [
+            "RSL"
+          ]
+        },
+        {
+          "answer": "Nashville SC",
+          "display": "#12 — 49 pts"
+        },
+        {
+          "answer": "Vancouver Whitecaps FC",
+          "display": "#13 — 48 pts",
+          "aliases": [
+            "Whitecaps"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/soccer/usa/mls",
+      "question": "Top 10 clubs in the 2024 MLS overall regular-season table (Supporters' Shield standings)",
+      "cutoff": 10,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1377799093 | table 6 | name: Team | value: Pos | order: asc",
+      "tags": [
+        "football",
+        "mls",
+        "seasons"
+      ],
+      "answers": [
+        {
+          "answer": "Inter Miami CF",
+          "display": "#1 — 74 pts",
+          "aliases": [
+            "Inter Miami"
+          ]
+        },
+        {
+          "answer": "Columbus Crew",
+          "display": "#2 — 66 pts",
+          "aliases": [
+            "Crew"
+          ]
+        },
+        {
+          "answer": "Los Angeles FC",
+          "display": "#3 — 64 pts",
+          "aliases": [
+            "LAFC"
+          ]
+        },
+        {
+          "answer": "LA Galaxy",
+          "display": "#4 — 64 pts",
+          "aliases": [
+            "Galaxy",
+            "Los Angeles Galaxy"
+          ]
+        },
+        {
+          "answer": "FC Cincinnati",
+          "display": "#5 — 59 pts"
+        },
+        {
+          "answer": "Real Salt Lake",
+          "display": "#6 — 59 pts",
+          "aliases": [
+            "RSL"
+          ]
+        },
+        {
+          "answer": "Seattle Sounders FC",
+          "display": "#7 — 57 pts",
+          "aliases": [
+            "Seattle Sounders",
+            "Sounders"
+          ]
+        },
+        {
+          "answer": "Houston Dynamo",
+          "display": "#8 — 54 pts",
+          "aliases": [
+            "Houston Dynamo FC",
+            "Dynamo"
+          ]
+        },
+        {
+          "answer": "Orlando City SC",
+          "display": "#9 — 52 pts",
+          "aliases": [
+            "Orlando City"
+          ]
+        },
+        {
+          "answer": "Minnesota United FC",
+          "display": "#10 — 52 pts",
+          "aliases": [
+            "Minnesota United"
+          ]
+        },
+        {
+          "answer": "Charlotte FC",
+          "display": "#11 — 51 pts"
+        },
+        {
+          "answer": "Colorado Rapids",
+          "display": "#12 — 50 pts",
+          "aliases": [
+            "Rapids"
+          ]
+        },
+        {
+          "answer": "New York City FC",
+          "display": "#13 — 50 pts",
+          "aliases": [
+            "NYCFC"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/soccer/usa/mls",
+      "question": "Top 10 clubs in the 2025 MLS overall regular-season table (Supporters' Shield standings)",
+      "cutoff": 10,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1376727655 | table 6 | name: Team | value: Pos | order: asc",
+      "tags": [
+        "football",
+        "mls",
+        "seasons"
+      ],
+      "answers": [
+        {
+          "answer": "Philadelphia Union",
+          "display": "#1 — 66 pts",
+          "aliases": [
+            "Union"
+          ]
+        },
+        {
+          "answer": "FC Cincinnati",
+          "display": "#2 — 65 pts"
+        },
+        {
+          "answer": "Inter Miami CF",
+          "display": "#3 — 65 pts",
+          "aliases": [
+            "Inter Miami"
+          ]
+        },
+        {
+          "answer": "San Diego FC",
+          "display": "#4 — 63 pts"
+        },
+        {
+          "answer": "Vancouver Whitecaps FC",
+          "display": "#5 — 63 pts",
+          "aliases": [
+            "Whitecaps"
+          ]
+        },
+        {
+          "answer": "Los Angeles FC",
+          "display": "#6 — 60 pts",
+          "aliases": [
+            "LAFC"
+          ]
+        },
+        {
+          "answer": "Charlotte FC",
+          "display": "#7 — 59 pts"
+        },
+        {
+          "answer": "Minnesota United FC",
+          "display": "#8 — 58 pts",
+          "aliases": [
+            "Minnesota United"
+          ]
+        },
+        {
+          "answer": "New York City FC",
+          "display": "#9 — 56 pts",
+          "aliases": [
+            "NYCFC"
+          ]
+        },
+        {
+          "answer": "Seattle Sounders FC",
+          "display": "#10 — 55 pts",
+          "aliases": [
+            "Seattle Sounders",
+            "Sounders"
+          ]
+        },
+        {
+          "answer": "Nashville SC",
+          "display": "#11 — 54 pts"
+        },
+        {
+          "answer": "Columbus Crew",
+          "display": "#12 — 54 pts",
+          "aliases": [
+            "Crew"
+          ]
+        },
+        {
+          "answer": "Chicago Fire",
+          "display": "#13 — 53 pts",
+          "aliases": [
+            "Chicago Fire FC",
+            "Fire"
+          ]
+        }
+      ]
+    }
+  ]
+}

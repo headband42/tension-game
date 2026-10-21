@@ -1,0 +1,1317 @@
+{
+  "categories": [
+    {
+      "path": "sports/soccer/international/womens-world-cup",
+      "name": "Women's World Cup"
+    },
+    {
+      "path": "sports/soccer/international/afcon",
+      "name": "Africa Cup of Nations"
+    },
+    {
+      "path": "sports/soccer/international/asian-cup",
+      "name": "AFC Asian Cup"
+    }
+  ],
+  "questions": [
+    {
+      "category": "sports/soccer/international/womens-world-cup",
+      "question": "Top 10 teams in the final ranking of the 2023 FIFA Women's World Cup",
+      "cutoff": 10,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1378315194 | table 25 | name: Team | value: Pos | order: asc",
+      "tags": [
+        "soccer",
+        "womens-world-cup",
+        "2023"
+      ],
+      "answers": [
+        {
+          "answer": "Spain",
+          "display": "#1"
+        },
+        {
+          "answer": "England",
+          "display": "#2"
+        },
+        {
+          "answer": "Sweden",
+          "display": "#3"
+        },
+        {
+          "answer": "Australia",
+          "display": "#4"
+        },
+        {
+          "answer": "Japan",
+          "display": "#5"
+        },
+        {
+          "answer": "France",
+          "display": "#6"
+        },
+        {
+          "answer": "Netherlands",
+          "display": "#7",
+          "aliases": [
+            "Holland"
+          ]
+        },
+        {
+          "answer": "Colombia",
+          "display": "#8"
+        },
+        {
+          "answer": "United States",
+          "display": "#9",
+          "aliases": [
+            "USA"
+          ]
+        },
+        {
+          "answer": "Nigeria",
+          "display": "#10"
+        },
+        {
+          "answer": "Denmark",
+          "display": "#11"
+        },
+        {
+          "answer": "Morocco",
+          "display": "#12"
+        },
+        {
+          "answer": "Jamaica",
+          "display": "#13"
+        }
+      ]
+    },
+    {
+      "category": "sports/soccer/international/womens-world-cup",
+      "question": "Top 8 teams in the final ranking of the 2015 FIFA Women's World Cup",
+      "cutoff": 8,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1372575071 | table 19 | name: Team | value: Pos | order: asc",
+      "tags": [
+        "soccer",
+        "womens-world-cup",
+        "2015"
+      ],
+      "answers": [
+        {
+          "answer": "United States",
+          "display": "#1",
+          "aliases": [
+            "USA"
+          ]
+        },
+        {
+          "answer": "Japan",
+          "display": "#2"
+        },
+        {
+          "answer": "England",
+          "display": "#3"
+        },
+        {
+          "answer": "Germany",
+          "display": "#4"
+        },
+        {
+          "answer": "France",
+          "display": "#5"
+        },
+        {
+          "answer": "Canada",
+          "display": "#6"
+        },
+        {
+          "answer": "Australia",
+          "display": "#7"
+        },
+        {
+          "answer": "China",
+          "display": "#8"
+        },
+        {
+          "answer": "Brazil",
+          "display": "#9"
+        },
+        {
+          "answer": "Norway",
+          "display": "#10"
+        },
+        {
+          "answer": "Cameroon",
+          "display": "#11"
+        }
+      ]
+    },
+    {
+      "category": "sports/soccer/international/womens-world-cup",
+      "question": "Top 5 teams in the final ranking of the 2011 FIFA Women's World Cup",
+      "cutoff": 5,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1370487040 | table 14 | name: Team | value: Pos | order: asc",
+      "tags": [
+        "soccer",
+        "womens-world-cup",
+        "2011"
+      ],
+      "answers": [
+        {
+          "answer": "Japan",
+          "display": "#1"
+        },
+        {
+          "answer": "United States",
+          "display": "#2",
+          "aliases": [
+            "USA"
+          ]
+        },
+        {
+          "answer": "Sweden",
+          "display": "#3"
+        },
+        {
+          "answer": "France",
+          "display": "#4"
+        },
+        {
+          "answer": "Brazil",
+          "display": "#5"
+        },
+        {
+          "answer": "Germany",
+          "display": "#6"
+        },
+        {
+          "answer": "England",
+          "display": "#7"
+        },
+        {
+          "answer": "Australia",
+          "display": "#8"
+        }
+      ]
+    },
+    {
+      "category": "sports/soccer/international/womens-world-cup",
+      "question": "Top 5 teams in the final ranking of the 2007 FIFA Women's World Cup",
+      "cutoff": 5,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1360703233 | table 13 | name: Team | value: Pos | order: asc",
+      "tags": [
+        "soccer",
+        "womens-world-cup",
+        "2007"
+      ],
+      "answers": [
+        {
+          "answer": "Germany",
+          "display": "#1"
+        },
+        {
+          "answer": "Brazil",
+          "display": "#2"
+        },
+        {
+          "answer": "United States",
+          "display": "#3",
+          "aliases": [
+            "USA"
+          ]
+        },
+        {
+          "answer": "Norway",
+          "display": "#4"
+        },
+        {
+          "answer": "China",
+          "display": "#5"
+        },
+        {
+          "answer": "Australia",
+          "display": "#6"
+        },
+        {
+          "answer": "England",
+          "display": "#7"
+        },
+        {
+          "answer": "North Korea",
+          "display": "#8"
+        }
+      ]
+    },
+    {
+      "category": "sports/soccer/international/womens-world-cup",
+      "question": "Top 5 teams in the final ranking of the 2003 FIFA Women's World Cup",
+      "cutoff": 5,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1379789675 | table 14 | name: Team | value: Pos | order: asc",
+      "tags": [
+        "soccer",
+        "womens-world-cup",
+        "2003"
+      ],
+      "answers": [
+        {
+          "answer": "Germany",
+          "display": "#1"
+        },
+        {
+          "answer": "Sweden",
+          "display": "#2"
+        },
+        {
+          "answer": "United States",
+          "display": "#3",
+          "aliases": [
+            "USA"
+          ]
+        },
+        {
+          "answer": "Canada",
+          "display": "#4"
+        },
+        {
+          "answer": "Brazil",
+          "display": "#5"
+        },
+        {
+          "answer": "China",
+          "display": "#6"
+        },
+        {
+          "answer": "Norway",
+          "display": "#7"
+        },
+        {
+          "answer": "Russia",
+          "display": "#8"
+        }
+      ]
+    },
+    {
+      "category": "sports/soccer/international/womens-world-cup",
+      "question": "Top 5 teams in the final ranking of the 1999 FIFA Women's World Cup",
+      "cutoff": 5,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1365674673 | table 12 | name: Team | value: Pos | order: asc",
+      "tags": [
+        "soccer",
+        "womens-world-cup",
+        "1999"
+      ],
+      "answers": [
+        {
+          "answer": "United States",
+          "display": "#1",
+          "aliases": [
+            "USA"
+          ]
+        },
+        {
+          "answer": "China",
+          "display": "#2"
+        },
+        {
+          "answer": "Brazil",
+          "display": "#3"
+        },
+        {
+          "answer": "Norway",
+          "display": "#4"
+        },
+        {
+          "answer": "Russia",
+          "display": "#5"
+        },
+        {
+          "answer": "Sweden",
+          "display": "#6"
+        },
+        {
+          "answer": "Nigeria",
+          "display": "#7"
+        },
+        {
+          "answer": "Germany",
+          "display": "#8"
+        }
+      ]
+    },
+    {
+      "category": "sports/soccer/international/afcon",
+      "question": "Top 5 teams in the final ranking of the 1998 Africa Cup of Nations",
+      "cutoff": 5,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1377823919 | table 9 | name: Team | value: Pos | order: asc",
+      "tags": [
+        "soccer",
+        "afcon",
+        "1998"
+      ],
+      "answers": [
+        {
+          "answer": "Egypt",
+          "display": "#1"
+        },
+        {
+          "answer": "South Africa",
+          "display": "#2"
+        },
+        {
+          "answer": "DR Congo",
+          "display": "#3",
+          "aliases": [
+            "Democratic Republic of the Congo",
+            "Congo DR",
+            "DRC"
+          ]
+        },
+        {
+          "answer": "Burkina Faso",
+          "display": "#4"
+        },
+        {
+          "answer": "Ivory Coast",
+          "display": "#5",
+          "aliases": [
+            "Côte d'Ivoire",
+            "Cote d'Ivoire"
+          ]
+        },
+        {
+          "answer": "Morocco",
+          "display": "#6"
+        },
+        {
+          "answer": "Tunisia",
+          "display": "#7"
+        },
+        {
+          "answer": "Cameroon",
+          "display": "#8"
+        }
+      ]
+    },
+    {
+      "category": "sports/soccer/international/afcon",
+      "question": "Top 5 teams in the final ranking of the 2000 Africa Cup of Nations",
+      "cutoff": 5,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1374568531 | table 9 | name: Team | value: Pos | order: asc",
+      "tags": [
+        "soccer",
+        "afcon",
+        "2000"
+      ],
+      "answers": [
+        {
+          "answer": "Cameroon",
+          "display": "#1"
+        },
+        {
+          "answer": "Nigeria",
+          "display": "#2"
+        },
+        {
+          "answer": "South Africa",
+          "display": "#3"
+        },
+        {
+          "answer": "Tunisia",
+          "display": "#4"
+        },
+        {
+          "answer": "Algeria",
+          "display": "#5"
+        },
+        {
+          "answer": "Ghana",
+          "display": "#6"
+        },
+        {
+          "answer": "Egypt",
+          "display": "#7"
+        },
+        {
+          "answer": "Senegal",
+          "display": "#8"
+        }
+      ]
+    },
+    {
+      "category": "sports/soccer/international/afcon",
+      "question": "Top 5 teams in the final ranking of the 2004 Africa Cup of Nations",
+      "cutoff": 5,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1378526143 | table 11 | name: Team | value: Pos | order: asc",
+      "tags": [
+        "soccer",
+        "afcon",
+        "2004"
+      ],
+      "answers": [
+        {
+          "answer": "Tunisia",
+          "display": "#1"
+        },
+        {
+          "answer": "Morocco",
+          "display": "#2"
+        },
+        {
+          "answer": "Nigeria",
+          "display": "#3"
+        },
+        {
+          "answer": "Mali",
+          "display": "#4"
+        },
+        {
+          "answer": "Senegal",
+          "display": "#5"
+        },
+        {
+          "answer": "Cameroon",
+          "display": "#6"
+        },
+        {
+          "answer": "Guinea",
+          "display": "#7"
+        },
+        {
+          "answer": "Algeria",
+          "display": "#8"
+        }
+      ]
+    },
+    {
+      "category": "sports/soccer/international/afcon",
+      "question": "Top 5 teams in the final ranking of the 2006 Africa Cup of Nations",
+      "cutoff": 5,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1345046014 | table 9 | name: Team | value: Pos | order: asc",
+      "tags": [
+        "soccer",
+        "afcon",
+        "2006"
+      ],
+      "answers": [
+        {
+          "answer": "Egypt",
+          "display": "#1"
+        },
+        {
+          "answer": "Ivory Coast",
+          "display": "#2",
+          "aliases": [
+            "Côte d'Ivoire",
+            "Cote d'Ivoire"
+          ]
+        },
+        {
+          "answer": "Nigeria",
+          "display": "#3"
+        },
+        {
+          "answer": "Senegal",
+          "display": "#4"
+        },
+        {
+          "answer": "Cameroon",
+          "display": "#5"
+        },
+        {
+          "answer": "Guinea",
+          "display": "#6"
+        },
+        {
+          "answer": "Tunisia",
+          "display": "#7"
+        },
+        {
+          "answer": "DR Congo",
+          "display": "#8",
+          "aliases": [
+            "Democratic Republic of the Congo",
+            "Congo DR",
+            "DRC"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/soccer/international/afcon",
+      "question": "Top 5 teams in the final ranking of the 2008 Africa Cup of Nations",
+      "cutoff": 5,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1372239104 | table 11 | name: Team | value: Pos | order: asc",
+      "tags": [
+        "soccer",
+        "afcon",
+        "2008"
+      ],
+      "answers": [
+        {
+          "answer": "Egypt",
+          "display": "#1"
+        },
+        {
+          "answer": "Cameroon",
+          "display": "#2"
+        },
+        {
+          "answer": "Ghana",
+          "display": "#3"
+        },
+        {
+          "answer": "Ivory Coast",
+          "display": "#4",
+          "aliases": [
+            "Côte d'Ivoire",
+            "Cote d'Ivoire"
+          ]
+        },
+        {
+          "answer": "Tunisia",
+          "display": "#5"
+        },
+        {
+          "answer": "Angola",
+          "display": "#6"
+        },
+        {
+          "answer": "Nigeria",
+          "display": "#7"
+        },
+        {
+          "answer": "Guinea",
+          "display": "#8"
+        }
+      ]
+    },
+    {
+      "category": "sports/soccer/international/afcon",
+      "question": "Top 5 teams in the final ranking of the 2010 Africa Cup of Nations",
+      "cutoff": 5,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1366848666 | table 10 | name: Team | value: Pos | order: asc",
+      "tags": [
+        "soccer",
+        "afcon",
+        "2010"
+      ],
+      "answers": [
+        {
+          "answer": "Egypt",
+          "display": "#1"
+        },
+        {
+          "answer": "Ghana",
+          "display": "#2"
+        },
+        {
+          "answer": "Nigeria",
+          "display": "#3"
+        },
+        {
+          "answer": "Algeria",
+          "display": "#4"
+        },
+        {
+          "answer": "Angola",
+          "display": "#5"
+        },
+        {
+          "answer": "Zambia",
+          "display": "#6"
+        },
+        {
+          "answer": "Ivory Coast",
+          "display": "#7",
+          "aliases": [
+            "Côte d'Ivoire",
+            "Cote d'Ivoire"
+          ]
+        },
+        {
+          "answer": "Cameroon",
+          "display": "#8"
+        }
+      ]
+    },
+    {
+      "category": "sports/soccer/international/afcon",
+      "question": "Top 5 teams in the final ranking of the 2012 Africa Cup of Nations",
+      "cutoff": 5,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1377902074 | table 12 | name: Team | value: Pos | order: asc",
+      "tags": [
+        "soccer",
+        "afcon",
+        "2012"
+      ],
+      "answers": [
+        {
+          "answer": "Zambia",
+          "display": "#1"
+        },
+        {
+          "answer": "Ivory Coast",
+          "display": "#2",
+          "aliases": [
+            "Côte d'Ivoire",
+            "Cote d'Ivoire"
+          ]
+        },
+        {
+          "answer": "Mali",
+          "display": "#3"
+        },
+        {
+          "answer": "Ghana",
+          "display": "#4"
+        },
+        {
+          "answer": "Gabon",
+          "display": "#5"
+        },
+        {
+          "answer": "Tunisia",
+          "display": "#6"
+        },
+        {
+          "answer": "Equatorial Guinea",
+          "display": "#7"
+        },
+        {
+          "answer": "Sudan",
+          "display": "#8"
+        }
+      ]
+    },
+    {
+      "category": "sports/soccer/international/afcon",
+      "question": "Top 5 teams in the final ranking of the 2013 Africa Cup of Nations",
+      "cutoff": 5,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1377937670 | table 13 | name: Team | value: Pos | order: asc",
+      "tags": [
+        "soccer",
+        "afcon",
+        "2013"
+      ],
+      "answers": [
+        {
+          "answer": "Nigeria",
+          "display": "#1"
+        },
+        {
+          "answer": "Burkina Faso",
+          "display": "#2"
+        },
+        {
+          "answer": "Mali",
+          "display": "#3"
+        },
+        {
+          "answer": "Ghana",
+          "display": "#4"
+        },
+        {
+          "answer": "South Africa",
+          "display": "#5"
+        },
+        {
+          "answer": "Ivory Coast",
+          "display": "#6",
+          "aliases": [
+            "Côte d'Ivoire",
+            "Cote d'Ivoire"
+          ]
+        },
+        {
+          "answer": "Togo",
+          "display": "#7"
+        },
+        {
+          "answer": "Cape Verde",
+          "display": "#8"
+        }
+      ]
+    },
+    {
+      "category": "sports/soccer/international/afcon",
+      "question": "Top 5 teams in the final ranking of the 2017 Africa Cup of Nations",
+      "cutoff": 5,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1373645490 | table 14 | name: Team | value: Pos | order: asc",
+      "tags": [
+        "soccer",
+        "afcon",
+        "2017"
+      ],
+      "answers": [
+        {
+          "answer": "Cameroon",
+          "display": "#1"
+        },
+        {
+          "answer": "Egypt",
+          "display": "#2"
+        },
+        {
+          "answer": "Burkina Faso",
+          "display": "#3"
+        },
+        {
+          "answer": "Ghana",
+          "display": "#4"
+        },
+        {
+          "answer": "Senegal",
+          "display": "#5"
+        },
+        {
+          "answer": "DR Congo",
+          "display": "#6",
+          "aliases": [
+            "Democratic Republic of the Congo",
+            "Congo DR",
+            "DRC"
+          ]
+        },
+        {
+          "answer": "Morocco",
+          "display": "#7"
+        },
+        {
+          "answer": "Tunisia",
+          "display": "#8"
+        }
+      ]
+    },
+    {
+      "category": "sports/soccer/international/afcon",
+      "question": "Top 8 teams in the final ranking of the 2019 Africa Cup of Nations",
+      "cutoff": 8,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1364121950 | table 18 | name: Team | value: Pos | order: asc",
+      "tags": [
+        "soccer",
+        "afcon",
+        "2019"
+      ],
+      "answers": [
+        {
+          "answer": "Algeria",
+          "display": "#1"
+        },
+        {
+          "answer": "Senegal",
+          "display": "#2"
+        },
+        {
+          "answer": "Nigeria",
+          "display": "#3"
+        },
+        {
+          "answer": "Tunisia",
+          "display": "#4"
+        },
+        {
+          "answer": "Ivory Coast",
+          "display": "#5",
+          "aliases": [
+            "Côte d'Ivoire",
+            "Cote d'Ivoire"
+          ]
+        },
+        {
+          "answer": "Madagascar",
+          "display": "#6"
+        },
+        {
+          "answer": "South Africa",
+          "display": "#7"
+        },
+        {
+          "answer": "Benin",
+          "display": "#8"
+        },
+        {
+          "answer": "Morocco",
+          "display": "#9"
+        },
+        {
+          "answer": "Egypt",
+          "display": "#10"
+        },
+        {
+          "answer": "Mali",
+          "display": "#11"
+        }
+      ]
+    },
+    {
+      "category": "sports/soccer/international/afcon",
+      "question": "Top 8 teams in the final ranking of the 2021 Africa Cup of Nations",
+      "cutoff": 8,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1377828945 | table 15 | name: Team | value: Pos | order: asc",
+      "tags": [
+        "soccer",
+        "afcon",
+        "2021"
+      ],
+      "answers": [
+        {
+          "answer": "Senegal",
+          "display": "#1"
+        },
+        {
+          "answer": "Egypt",
+          "display": "#2"
+        },
+        {
+          "answer": "Cameroon",
+          "display": "#3"
+        },
+        {
+          "answer": "Burkina Faso",
+          "display": "#4"
+        },
+        {
+          "answer": "Morocco",
+          "display": "#5"
+        },
+        {
+          "answer": "Gambia",
+          "display": "#6"
+        },
+        {
+          "answer": "Equatorial Guinea",
+          "display": "#7"
+        },
+        {
+          "answer": "Tunisia",
+          "display": "#8"
+        },
+        {
+          "answer": "Nigeria",
+          "display": "#9"
+        },
+        {
+          "answer": "Ivory Coast",
+          "display": "#10",
+          "aliases": [
+            "Côte d'Ivoire",
+            "Cote d'Ivoire"
+          ]
+        },
+        {
+          "answer": "Mali",
+          "display": "#11"
+        }
+      ]
+    },
+    {
+      "category": "sports/soccer/international/afcon",
+      "question": "Top 8 teams in the final ranking of the 2023 Africa Cup of Nations",
+      "cutoff": 8,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1377839171 | table 13 | name: Team | value: Pos | order: asc",
+      "tags": [
+        "soccer",
+        "afcon",
+        "2023"
+      ],
+      "answers": [
+        {
+          "answer": "Ivory Coast",
+          "display": "#1",
+          "aliases": [
+            "Côte d'Ivoire",
+            "Cote d'Ivoire"
+          ]
+        },
+        {
+          "answer": "Nigeria",
+          "display": "#2"
+        },
+        {
+          "answer": "South Africa",
+          "display": "#3"
+        },
+        {
+          "answer": "DR Congo",
+          "display": "#4",
+          "aliases": [
+            "Democratic Republic of the Congo",
+            "Congo DR",
+            "DRC"
+          ]
+        },
+        {
+          "answer": "Cape Verde",
+          "display": "#5"
+        },
+        {
+          "answer": "Angola",
+          "display": "#6"
+        },
+        {
+          "answer": "Mali",
+          "display": "#7"
+        },
+        {
+          "answer": "Guinea",
+          "display": "#8"
+        },
+        {
+          "answer": "Senegal",
+          "display": "#9"
+        },
+        {
+          "answer": "Equatorial Guinea",
+          "display": "#10"
+        },
+        {
+          "answer": "Morocco",
+          "display": "#11"
+        }
+      ]
+    },
+    {
+      "category": "sports/soccer/international/afcon",
+      "question": "Top 8 teams in the final ranking of the 2025 Africa Cup of Nations",
+      "cutoff": 8,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1380431280 | table 14 | name: Team | value: Pos | order: asc",
+      "tags": [
+        "soccer",
+        "afcon",
+        "2025"
+      ],
+      "answers": [
+        {
+          "answer": "Morocco",
+          "display": "#1"
+        },
+        {
+          "answer": "Senegal",
+          "display": "#2"
+        },
+        {
+          "answer": "Nigeria",
+          "display": "#3"
+        },
+        {
+          "answer": "Egypt",
+          "display": "#4"
+        },
+        {
+          "answer": "Algeria",
+          "display": "#5"
+        },
+        {
+          "answer": "Ivory Coast",
+          "display": "#6",
+          "aliases": [
+            "Côte d'Ivoire",
+            "Cote d'Ivoire"
+          ]
+        },
+        {
+          "answer": "Cameroon",
+          "display": "#7"
+        },
+        {
+          "answer": "Mali",
+          "display": "#8"
+        },
+        {
+          "answer": "DR Congo",
+          "display": "#9",
+          "aliases": [
+            "Democratic Republic of the Congo",
+            "Congo DR",
+            "DRC"
+          ]
+        },
+        {
+          "answer": "South Africa",
+          "display": "#10"
+        },
+        {
+          "answer": "Burkina Faso",
+          "display": "#11"
+        }
+      ]
+    },
+    {
+      "category": "sports/soccer/international/asian-cup",
+      "question": "Top 5 teams in the final ranking of the 2007 AFC Asian Cup",
+      "cutoff": 5,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1373708598 | table 9 | name: Team | value: Pos | order: asc",
+      "tags": [
+        "soccer",
+        "asian-cup",
+        "2007"
+      ],
+      "answers": [
+        {
+          "answer": "Iraq",
+          "display": "#1"
+        },
+        {
+          "answer": "Saudi Arabia",
+          "display": "#2",
+          "aliases": [
+            "Saudi"
+          ]
+        },
+        {
+          "answer": "South Korea",
+          "display": "#3",
+          "aliases": [
+            "Korea",
+            "Korea Republic"
+          ]
+        },
+        {
+          "answer": "Japan",
+          "display": "#4"
+        },
+        {
+          "answer": "Iran",
+          "display": "#5",
+          "aliases": [
+            "IR Iran"
+          ]
+        },
+        {
+          "answer": "Uzbekistan",
+          "display": "#6"
+        },
+        {
+          "answer": "Australia",
+          "display": "#7"
+        },
+        {
+          "answer": "Vietnam",
+          "display": "#8"
+        }
+      ]
+    },
+    {
+      "category": "sports/soccer/international/asian-cup",
+      "question": "Top 5 teams in the final ranking of the 2011 AFC Asian Cup",
+      "cutoff": 5,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1380552038 | table 10 | name: Team | value: Pos | order: asc",
+      "tags": [
+        "soccer",
+        "asian-cup",
+        "2011"
+      ],
+      "answers": [
+        {
+          "answer": "Japan",
+          "display": "#1"
+        },
+        {
+          "answer": "Australia",
+          "display": "#2"
+        },
+        {
+          "answer": "South Korea",
+          "display": "#3",
+          "aliases": [
+            "Korea",
+            "Korea Republic"
+          ]
+        },
+        {
+          "answer": "Uzbekistan",
+          "display": "#4"
+        },
+        {
+          "answer": "Qatar",
+          "display": "#5"
+        },
+        {
+          "answer": "Jordan",
+          "display": "#6"
+        },
+        {
+          "answer": "Iran",
+          "display": "#7",
+          "aliases": [
+            "IR Iran"
+          ]
+        },
+        {
+          "answer": "Iraq",
+          "display": "#8"
+        }
+      ]
+    },
+    {
+      "category": "sports/soccer/international/asian-cup",
+      "question": "Top 5 teams in the final ranking of the 2015 AFC Asian Cup",
+      "cutoff": 5,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1379836577 | table 15 | name: Team | value: Pos | order: asc",
+      "tags": [
+        "soccer",
+        "asian-cup",
+        "2015"
+      ],
+      "answers": [
+        {
+          "answer": "Australia",
+          "display": "#1"
+        },
+        {
+          "answer": "South Korea",
+          "display": "#2",
+          "aliases": [
+            "Korea",
+            "Korea Republic"
+          ]
+        },
+        {
+          "answer": "United Arab Emirates",
+          "display": "#3",
+          "aliases": [
+            "UAE"
+          ]
+        },
+        {
+          "answer": "Iraq",
+          "display": "#4"
+        },
+        {
+          "answer": "Iran",
+          "display": "#5",
+          "aliases": [
+            "IR Iran"
+          ]
+        },
+        {
+          "answer": "Japan",
+          "display": "#6"
+        },
+        {
+          "answer": "China",
+          "display": "#7"
+        },
+        {
+          "answer": "Uzbekistan",
+          "display": "#8"
+        }
+      ]
+    },
+    {
+      "category": "sports/soccer/international/asian-cup",
+      "question": "Top 8 teams in the final ranking of the 2023 AFC Asian Cup",
+      "cutoff": 8,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1379280571 | table 20 | name: Team | value: Pos | order: asc",
+      "tags": [
+        "soccer",
+        "asian-cup",
+        "2023"
+      ],
+      "answers": [
+        {
+          "answer": "Qatar",
+          "display": "#1"
+        },
+        {
+          "answer": "Jordan",
+          "display": "#2"
+        },
+        {
+          "answer": "Iran",
+          "display": "#3",
+          "aliases": [
+            "IR Iran"
+          ]
+        },
+        {
+          "answer": "South Korea",
+          "display": "#4",
+          "aliases": [
+            "Korea",
+            "Korea Republic"
+          ]
+        },
+        {
+          "answer": "Uzbekistan",
+          "display": "#5"
+        },
+        {
+          "answer": "Australia",
+          "display": "#6"
+        },
+        {
+          "answer": "Japan",
+          "display": "#7"
+        },
+        {
+          "answer": "Tajikistan",
+          "display": "#8"
+        },
+        {
+          "answer": "Saudi Arabia",
+          "display": "#9",
+          "aliases": [
+            "Saudi"
+          ]
+        },
+        {
+          "answer": "United Arab Emirates",
+          "display": "#10",
+          "aliases": [
+            "UAE"
+          ]
+        },
+        {
+          "answer": "Syria",
+          "display": "#11"
+        }
+      ]
+    }
+  ]
+}

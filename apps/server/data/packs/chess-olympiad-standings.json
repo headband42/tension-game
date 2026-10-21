@@ -1,0 +1,3347 @@
+{
+  "categories": [
+    {
+      "path": "sports/chess/olympiad",
+      "name": "Chess Olympiad"
+    }
+  ],
+  "questions": [
+    {
+      "category": "sports/chess/olympiad",
+      "question": "Top 10 teams in the final standings of the 12th Chess Olympiad (1956, open section)",
+      "cutoff": 10,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1364077078 | table 5+6+7 | name: Country | value: # | order: asc",
+      "tags": [
+        "chess",
+        "olympiad",
+        "1956"
+      ],
+      "answers": [
+        {
+          "answer": "Soviet Union",
+          "display": "#1 — 31 points",
+          "aliases": [
+            "USSR"
+          ]
+        },
+        {
+          "answer": "Yugoslavia",
+          "display": "#2 — 26½ points"
+        },
+        {
+          "answer": "Hungary",
+          "display": "#3 — 26½ points"
+        },
+        {
+          "answer": "Argentina",
+          "display": "#4 — 23 points"
+        },
+        {
+          "answer": "West Germany",
+          "display": "#5 — 22 points"
+        },
+        {
+          "answer": "Bulgaria",
+          "display": "#6 — 22 points"
+        },
+        {
+          "answer": "Czechoslovakia",
+          "display": "#7 — 20½ points"
+        },
+        {
+          "answer": "England",
+          "display": "#8 — 20 points"
+        },
+        {
+          "answer": "Switzerland",
+          "display": "#9 — 19 points"
+        },
+        {
+          "answer": "Denmark",
+          "display": "#10 — 19 points"
+        },
+        {
+          "answer": "Romania",
+          "display": "#11 — 19 points"
+        },
+        {
+          "answer": "Israel",
+          "display": "#12 — 15½ points"
+        },
+        {
+          "answer": "Austria",
+          "display": "#13 — 28 points"
+        }
+      ]
+    },
+    {
+      "category": "sports/chess/olympiad",
+      "question": "Top 10 teams in the final standings of the 16th Chess Olympiad (1964, open section)",
+      "cutoff": 10,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1364337280 | table 8 | name: Country | value: # | order: asc",
+      "tags": [
+        "chess",
+        "olympiad",
+        "1964"
+      ],
+      "answers": [
+        {
+          "answer": "Soviet Union",
+          "display": "#1 — 36½ points",
+          "aliases": [
+            "USSR"
+          ]
+        },
+        {
+          "answer": "Yugoslavia",
+          "display": "#2 — 32 points"
+        },
+        {
+          "answer": "West Germany",
+          "display": "#3 — 30½ points"
+        },
+        {
+          "answer": "Hungary",
+          "display": "#4 — 30 points"
+        },
+        {
+          "answer": "Czechoslovakia",
+          "display": "#5 — 28½ points"
+        },
+        {
+          "answer": "United States",
+          "display": "#6 — 27½ points",
+          "aliases": [
+            "USA",
+            "US"
+          ]
+        },
+        {
+          "answer": "Bulgaria",
+          "display": "#7 — 27 points"
+        },
+        {
+          "answer": "Romania",
+          "display": "#8 — 27 points"
+        },
+        {
+          "answer": "Argentina",
+          "display": "#9 — 26 points"
+        },
+        {
+          "answer": "Poland",
+          "display": "#10 — 24 points"
+        },
+        {
+          "answer": "Netherlands",
+          "display": "#11 — 21 points"
+        },
+        {
+          "answer": "Canada",
+          "display": "#12 — 19 points"
+        },
+        {
+          "answer": "Spain",
+          "display": "#13 — 17½ points"
+        }
+      ]
+    },
+    {
+      "category": "sports/chess/olympiad",
+      "question": "Top 10 teams in the final standings of the 17th Chess Olympiad (1966, open section)",
+      "cutoff": 10,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1347298685 | table 8 | name: Country | value: # | order: asc",
+      "tags": [
+        "chess",
+        "olympiad",
+        "1966"
+      ],
+      "answers": [
+        {
+          "answer": "Soviet Union",
+          "display": "#1 — 39½ points",
+          "aliases": [
+            "USSR"
+          ]
+        },
+        {
+          "answer": "United States",
+          "display": "#2 — 34½ points",
+          "aliases": [
+            "USA",
+            "US"
+          ]
+        },
+        {
+          "answer": "Hungary",
+          "display": "#3 — 33½ points"
+        },
+        {
+          "answer": "Yugoslavia",
+          "display": "#4 — 33½ points"
+        },
+        {
+          "answer": "Argentina",
+          "display": "#5 — 30 points"
+        },
+        {
+          "answer": "Czechoslovakia",
+          "display": "#6 — 29½ points"
+        },
+        {
+          "answer": "Bulgaria",
+          "display": "#7 — 28½ points"
+        },
+        {
+          "answer": "Romania",
+          "display": "#8 — 26½ points"
+        },
+        {
+          "answer": "East Germany",
+          "display": "#9 — 25½ points"
+        },
+        {
+          "answer": "Denmark",
+          "display": "#10 — 20 points"
+        },
+        {
+          "answer": "Iceland",
+          "display": "#11 — 19 points"
+        },
+        {
+          "answer": "Spain",
+          "display": "#12 — 18 points"
+        },
+        {
+          "answer": "Norway",
+          "display": "#13 — 14 points"
+        }
+      ]
+    },
+    {
+      "category": "sports/chess/olympiad",
+      "question": "Top 10 teams in the final standings of the 18th Chess Olympiad (1968, open section)",
+      "cutoff": 10,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1303571781 | table 8+9+10+11 | name: Country | value: # | order: asc",
+      "tags": [
+        "chess",
+        "olympiad",
+        "1968"
+      ],
+      "answers": [
+        {
+          "answer": "Soviet Union",
+          "display": "#1 — 39½ points",
+          "aliases": [
+            "USSR"
+          ]
+        },
+        {
+          "answer": "Yugoslavia",
+          "display": "#2 — 31 points"
+        },
+        {
+          "answer": "Bulgaria",
+          "display": "#3 — 30 points"
+        },
+        {
+          "answer": "United States",
+          "display": "#4 — 29½ points",
+          "aliases": [
+            "USA",
+            "US"
+          ]
+        },
+        {
+          "answer": "West Germany",
+          "display": "#5 — 29 points"
+        },
+        {
+          "answer": "Hungary",
+          "display": "#6 — 27½ points"
+        },
+        {
+          "answer": "Argentina",
+          "display": "#7 — 26 points"
+        },
+        {
+          "answer": "Romania",
+          "display": "#8 — 26 points"
+        },
+        {
+          "answer": "Czechoslovakia",
+          "display": "#9 — 24½ points"
+        },
+        {
+          "answer": "East Germany",
+          "display": "#10 — 24½ points"
+        },
+        {
+          "answer": "Poland",
+          "display": "#11 — 23 points"
+        },
+        {
+          "answer": "Denmark",
+          "display": "#12 — 21 points"
+        },
+        {
+          "answer": "Canada",
+          "display": "#13 — 19 points"
+        }
+      ]
+    },
+    {
+      "category": "sports/chess/olympiad",
+      "question": "Top 10 teams in the final standings of the 19th Chess Olympiad (1970, open section)",
+      "cutoff": 10,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1351299992 | table 7+8 | name: Country | value: # | order: asc",
+      "tags": [
+        "chess",
+        "olympiad",
+        "1970"
+      ],
+      "answers": [
+        {
+          "answer": "Soviet Union",
+          "display": "#1 — 27½ points",
+          "aliases": [
+            "USSR"
+          ]
+        },
+        {
+          "answer": "Hungary",
+          "display": "#2 — 26½ points"
+        },
+        {
+          "answer": "Yugoslavia",
+          "display": "#3 — 26 points"
+        },
+        {
+          "answer": "United States",
+          "display": "#4 — 24½ points",
+          "aliases": [
+            "USA",
+            "US"
+          ]
+        },
+        {
+          "answer": "Czechoslovakia",
+          "display": "#5 — 23½ points"
+        },
+        {
+          "answer": "West Germany",
+          "display": "#6 — 22 points"
+        },
+        {
+          "answer": "Bulgaria",
+          "display": "#7 — 21½ points"
+        },
+        {
+          "answer": "Argentina",
+          "display": "#8 — 21½ points"
+        },
+        {
+          "answer": "East Germany",
+          "display": "#9 — 19 points"
+        },
+        {
+          "answer": "Romania",
+          "display": "#10 — 18½ points"
+        },
+        {
+          "answer": "Canada",
+          "display": "#11 — 17½ points"
+        },
+        {
+          "answer": "Spain",
+          "display": "#12 — 16 points"
+        },
+        {
+          "answer": "Israel",
+          "display": "#13 — 27 points"
+        }
+      ]
+    },
+    {
+      "category": "sports/chess/olympiad",
+      "question": "Top 10 teams in the final standings of the 20th Chess Olympiad (1972, open section)",
+      "cutoff": 10,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1341816258 | table 9 | name: Country | value: # | order: asc",
+      "tags": [
+        "chess",
+        "olympiad",
+        "1972"
+      ],
+      "answers": [
+        {
+          "answer": "Soviet Union",
+          "display": "#1 — 42 points",
+          "aliases": [
+            "USSR"
+          ]
+        },
+        {
+          "answer": "Hungary",
+          "display": "#2 — 40½ points"
+        },
+        {
+          "answer": "Yugoslavia",
+          "display": "#3 — 38 points"
+        },
+        {
+          "answer": "Czechoslovakia",
+          "display": "#4 — 35½ points"
+        },
+        {
+          "answer": "West Germany",
+          "display": "#5 — 35 points"
+        },
+        {
+          "answer": "Bulgaria",
+          "display": "#6 — 32 points"
+        },
+        {
+          "answer": "Romania",
+          "display": "#7 — 31½ points"
+        },
+        {
+          "answer": "Netherlands",
+          "display": "#8 — 29 points"
+        },
+        {
+          "answer": "United States",
+          "display": "#9 — 29 points",
+          "aliases": [
+            "USA",
+            "US"
+          ]
+        },
+        {
+          "answer": "East Germany",
+          "display": "#10 — 27½ points"
+        },
+        {
+          "answer": "Spain",
+          "display": "#11 — 26 points"
+        },
+        {
+          "answer": "Poland",
+          "display": "#12 — 24½ points"
+        },
+        {
+          "answer": "Denmark",
+          "display": "#13 — 23 points"
+        }
+      ]
+    },
+    {
+      "category": "sports/chess/olympiad",
+      "question": "Top 10 teams in the final standings of the 21st Chess Olympiad (1974, open section)",
+      "cutoff": 10,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1358631950 | table 9+10+11+12 | name: Country | value: # | order: asc",
+      "tags": [
+        "chess",
+        "olympiad",
+        "1974"
+      ],
+      "answers": [
+        {
+          "answer": "Soviet Union",
+          "display": "#1 — 46 points",
+          "aliases": [
+            "USSR"
+          ]
+        },
+        {
+          "answer": "Yugoslavia",
+          "display": "#2 — 37½ points"
+        },
+        {
+          "answer": "United States",
+          "display": "#3 — 36½ points",
+          "aliases": [
+            "USA",
+            "US"
+          ]
+        },
+        {
+          "answer": "Bulgaria",
+          "display": "#4 — 36½ points"
+        },
+        {
+          "answer": "Netherlands",
+          "display": "#5 — 35½ points"
+        },
+        {
+          "answer": "Hungary",
+          "display": "#6 — 35 points"
+        },
+        {
+          "answer": "West Germany",
+          "display": "#7 — 32 points"
+        },
+        {
+          "answer": "Romania",
+          "display": "#8 — 29½ points"
+        },
+        {
+          "answer": "Czechoslovakia",
+          "display": "#9 — 29½ points"
+        },
+        {
+          "answer": "England",
+          "display": "#10 — 26 points"
+        },
+        {
+          "answer": "Philippines",
+          "display": "#11 — 25½ points"
+        },
+        {
+          "answer": "Spain",
+          "display": "#12 — 25½ points"
+        },
+        {
+          "answer": "Sweden",
+          "display": "#13 — 25 points"
+        }
+      ]
+    },
+    {
+      "category": "sports/chess/olympiad",
+      "question": "Top 10 teams in the final standings of the 22nd Chess Olympiad (1976, open section)",
+      "cutoff": 10,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1323699018 | table 1 | name: Country | value: # | order: asc",
+      "tags": [
+        "chess",
+        "olympiad",
+        "1976"
+      ],
+      "answers": [
+        {
+          "answer": "United States",
+          "display": "#1 — 37 points",
+          "aliases": [
+            "USA",
+            "US"
+          ]
+        },
+        {
+          "answer": "Netherlands",
+          "display": "#2 — 36½ points"
+        },
+        {
+          "answer": "England",
+          "display": "#3 — 35½ points"
+        },
+        {
+          "answer": "Argentina",
+          "display": "#4 — 33 points"
+        },
+        {
+          "answer": "West Germany",
+          "display": "#5 — 31 points"
+        },
+        {
+          "answer": "Israel",
+          "display": "#6 — 29½ points"
+        },
+        {
+          "answer": "Switzerland",
+          "display": "#7 — 29 points"
+        },
+        {
+          "answer": "Canada",
+          "display": "#8 — 28½ points"
+        },
+        {
+          "answer": "Spain",
+          "display": "#9 — 28½ points"
+        },
+        {
+          "answer": "Colombia",
+          "display": "#10 — 28 points"
+        },
+        {
+          "answer": "Norway",
+          "display": "#11 — 27½ points"
+        },
+        {
+          "answer": "Sweden",
+          "display": "#12 — 27½ points"
+        },
+        {
+          "answer": "Italy",
+          "display": "#13 — 27½ points"
+        }
+      ]
+    },
+    {
+      "category": "sports/chess/olympiad",
+      "question": "Top 10 teams in the final standings of the 23rd Chess Olympiad (1978, open section)",
+      "cutoff": 10,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1355580064 | table 1 | name: Country | value: # | order: asc",
+      "tags": [
+        "chess",
+        "olympiad",
+        "1978"
+      ],
+      "answers": [
+        {
+          "answer": "Hungary",
+          "display": "#1 — 37 points"
+        },
+        {
+          "answer": "Soviet Union",
+          "display": "#2 — 36 points",
+          "aliases": [
+            "USSR"
+          ]
+        },
+        {
+          "answer": "United States",
+          "display": "#3 — 35 points",
+          "aliases": [
+            "USA",
+            "US"
+          ]
+        },
+        {
+          "answer": "West Germany",
+          "display": "#4 — 33 points"
+        },
+        {
+          "answer": "Israel",
+          "display": "#5 — 32½ points"
+        },
+        {
+          "answer": "Romania",
+          "display": "#6 — 32½ points"
+        },
+        {
+          "answer": "Denmark",
+          "display": "#7 — 32 points"
+        },
+        {
+          "answer": "Poland",
+          "display": "#8 — 32 points"
+        },
+        {
+          "answer": "Spain",
+          "display": "#9 — 32 points"
+        },
+        {
+          "answer": "Switzerland",
+          "display": "#10 — 32 points"
+        },
+        {
+          "answer": "Canada",
+          "display": "#11 — 32 points"
+        },
+        {
+          "answer": "England",
+          "display": "#12 — 31½ points"
+        },
+        {
+          "answer": "Bulgaria",
+          "display": "#13 — 31½ points"
+        }
+      ]
+    },
+    {
+      "category": "sports/chess/olympiad",
+      "question": "Top 10 teams in the final standings of the 24th Chess Olympiad (1980, open section)",
+      "cutoff": 10,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1377674015 | table 1 | name: Country | value: # | order: asc",
+      "tags": [
+        "chess",
+        "olympiad",
+        "1980"
+      ],
+      "answers": [
+        {
+          "answer": "Soviet Union",
+          "display": "#1 — 39 points",
+          "aliases": [
+            "USSR"
+          ]
+        },
+        {
+          "answer": "Hungary",
+          "display": "#2 — 39 points"
+        },
+        {
+          "answer": "Yugoslavia",
+          "display": "#3 — 35 points"
+        },
+        {
+          "answer": "United States",
+          "display": "#4 — 34 points",
+          "aliases": [
+            "USA",
+            "US"
+          ]
+        },
+        {
+          "answer": "Czechoslovakia",
+          "display": "#5 — 33 points"
+        },
+        {
+          "answer": "England",
+          "display": "#6 — 32½ points"
+        },
+        {
+          "answer": "Poland",
+          "display": "#7 — 32½ points"
+        },
+        {
+          "answer": "Israel",
+          "display": "#8 — 32 points"
+        },
+        {
+          "answer": "Canada",
+          "display": "#9 — 32 points"
+        },
+        {
+          "answer": "Netherlands",
+          "display": "#10 — 31½ points"
+        },
+        {
+          "answer": "Romania",
+          "display": "#11 — 31½ points"
+        },
+        {
+          "answer": "Sweden",
+          "display": "#12 — 31½ points"
+        },
+        {
+          "answer": "Cuba",
+          "display": "#13 — 31½ points"
+        }
+      ]
+    },
+    {
+      "category": "sports/chess/olympiad",
+      "question": "Top 10 teams in the final standings of the 25th Chess Olympiad (1982, open section)",
+      "cutoff": 10,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1332380793 | table 1 | name: Country | value: # | order: asc",
+      "tags": [
+        "chess",
+        "olympiad",
+        "1982"
+      ],
+      "answers": [
+        {
+          "answer": "Soviet Union",
+          "display": "#1 — 42½ points",
+          "aliases": [
+            "USSR"
+          ]
+        },
+        {
+          "answer": "Czechoslovakia",
+          "display": "#2 — 36 points"
+        },
+        {
+          "answer": "United States",
+          "display": "#3 — 35½ points",
+          "aliases": [
+            "USA",
+            "US"
+          ]
+        },
+        {
+          "answer": "Yugoslavia",
+          "display": "#4 — 35 points"
+        },
+        {
+          "answer": "Hungary",
+          "display": "#5 — 33½ points"
+        },
+        {
+          "answer": "Bulgaria",
+          "display": "#6 — 33½ points"
+        },
+        {
+          "answer": "Poland",
+          "display": "#7 — 33 points"
+        },
+        {
+          "answer": "Denmark",
+          "display": "#8 — 32½ points"
+        },
+        {
+          "answer": "Cuba",
+          "display": "#9 — 32½ points"
+        },
+        {
+          "answer": "England",
+          "display": "#10 — 32 points"
+        },
+        {
+          "answer": "Argentina",
+          "display": "#11 — 32 points"
+        },
+        {
+          "answer": "Romania",
+          "display": "#12 — 32 points"
+        },
+        {
+          "answer": "Israel",
+          "display": "#13 — 32 points"
+        }
+      ]
+    },
+    {
+      "category": "sports/chess/olympiad",
+      "question": "Top 10 teams in the final standings of the 26th Chess Olympiad (1984, open section)",
+      "cutoff": 10,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1360621963 | table 1+2 | name: Country | value: # | order: asc",
+      "tags": [
+        "chess",
+        "olympiad",
+        "1984"
+      ],
+      "answers": [
+        {
+          "answer": "Soviet Union",
+          "display": "#1 — 41 points",
+          "aliases": [
+            "USSR"
+          ]
+        },
+        {
+          "answer": "England",
+          "display": "#2 — 37 points"
+        },
+        {
+          "answer": "United States",
+          "display": "#3 — 35 points",
+          "aliases": [
+            "USA",
+            "US"
+          ]
+        },
+        {
+          "answer": "Hungary",
+          "display": "#4 — 34½ points"
+        },
+        {
+          "answer": "Romania",
+          "display": "#5 — 33 points"
+        },
+        {
+          "answer": "West Germany",
+          "display": "#6 — 32½ points"
+        },
+        {
+          "answer": "France",
+          "display": "#7 — 32½ points"
+        },
+        {
+          "answer": "Yugoslavia",
+          "display": "#8 — 32 points"
+        },
+        {
+          "answer": "Bulgaria",
+          "display": "#9 — 32 points"
+        },
+        {
+          "answer": "Netherlands",
+          "display": "#10 — 32 points"
+        },
+        {
+          "answer": "Cuba",
+          "display": "#11 — 32 points"
+        },
+        {
+          "answer": "China",
+          "display": "#12 — 32 points"
+        },
+        {
+          "answer": "Israel",
+          "display": "#13 — 32 points"
+        }
+      ]
+    },
+    {
+      "category": "sports/chess/olympiad",
+      "question": "Top 10 teams in the final standings of the 28th Chess Olympiad (1988, open section)",
+      "cutoff": 10,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1252861769 | table 1+2 | name: Country | value: # | order: asc",
+      "tags": [
+        "chess",
+        "olympiad",
+        "1988"
+      ],
+      "answers": [
+        {
+          "answer": "Soviet Union",
+          "display": "#1 — 40½ points",
+          "aliases": [
+            "USSR"
+          ]
+        },
+        {
+          "answer": "England",
+          "display": "#2 — 34½ points"
+        },
+        {
+          "answer": "Netherlands",
+          "display": "#3 — 34½ points"
+        },
+        {
+          "answer": "United States",
+          "display": "#4 — 34 points",
+          "aliases": [
+            "USA",
+            "US"
+          ]
+        },
+        {
+          "answer": "Hungary",
+          "display": "#5 — 34 points"
+        },
+        {
+          "answer": "Yugoslavia",
+          "display": "#6 — 33½ points"
+        },
+        {
+          "answer": "Philippines",
+          "display": "#7 — 33 points"
+        },
+        {
+          "answer": "China",
+          "display": "#8 — 33 points"
+        },
+        {
+          "answer": "Cuba",
+          "display": "#9 — 33 points"
+        },
+        {
+          "answer": "Argentina",
+          "display": "#10 — 33 points"
+        },
+        {
+          "answer": "Israel",
+          "display": "#11 — 33 points"
+        },
+        {
+          "answer": "Sweden",
+          "display": "#12 — 32½ points"
+        },
+        {
+          "answer": "Czechoslovakia",
+          "display": "#13 — 32½ points"
+        }
+      ]
+    },
+    {
+      "category": "sports/chess/olympiad",
+      "question": "Top 10 teams in the final standings of the 29th Chess Olympiad (1990, open section)",
+      "cutoff": 10,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1356802155 | table 1+2 | name: Country | value: # | order: asc",
+      "tags": [
+        "chess",
+        "olympiad",
+        "1990"
+      ],
+      "answers": [
+        {
+          "answer": "Soviet Union",
+          "display": "#1 — 39 points",
+          "aliases": [
+            "USSR"
+          ]
+        },
+        {
+          "answer": "United States",
+          "display": "#2 — 35½ points",
+          "aliases": [
+            "USA",
+            "US"
+          ]
+        },
+        {
+          "answer": "England",
+          "display": "#3 — 35½ points"
+        },
+        {
+          "answer": "Czechoslovakia",
+          "display": "#4 — 34½ points"
+        },
+        {
+          "answer": "Yugoslavia",
+          "display": "#5 — 33 points"
+        },
+        {
+          "answer": "China",
+          "display": "#6 — 33 points"
+        },
+        {
+          "answer": "Cuba",
+          "display": "#7 — 33 points"
+        },
+        {
+          "answer": "Iceland",
+          "display": "#8 — 32½ points"
+        },
+        {
+          "answer": "West Germany",
+          "display": "#9 — 32½ points"
+        },
+        {
+          "answer": "India",
+          "display": "#10 — 32½ points"
+        },
+        {
+          "answer": "Sweden",
+          "display": "#11 — 32½ points"
+        },
+        {
+          "answer": "Netherlands",
+          "display": "#12 — 32½ points"
+        },
+        {
+          "answer": "Yugoslavia \"B\"",
+          "display": "#13 — 32½ points"
+        }
+      ]
+    },
+    {
+      "category": "sports/chess/olympiad",
+      "question": "Top 10 teams in the final standings of the 31st Chess Olympiad (1994, open section)",
+      "cutoff": 10,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1328544429 | table 1+2 | name: Country | value: # | order: asc",
+      "tags": [
+        "chess",
+        "olympiad",
+        "1994"
+      ],
+      "answers": [
+        {
+          "answer": "Russia",
+          "display": "#1 — 37½ points"
+        },
+        {
+          "answer": "Bosnia and Herzegovina",
+          "display": "#2 — 35 points"
+        },
+        {
+          "answer": "Russia \"B\"",
+          "display": "#3 — 34½ points"
+        },
+        {
+          "answer": "England",
+          "display": "#4 — 34½ points"
+        },
+        {
+          "answer": "Bulgaria",
+          "display": "#5 — 34 points"
+        },
+        {
+          "answer": "Netherlands",
+          "display": "#6 — 34 points"
+        },
+        {
+          "answer": "United States",
+          "display": "#7 — 34 points",
+          "aliases": [
+            "USA",
+            "US"
+          ]
+        },
+        {
+          "answer": "Hungary",
+          "display": "#8 — 33½ points"
+        },
+        {
+          "answer": "Ukraine",
+          "display": "#9 — 33½ points"
+        },
+        {
+          "answer": "Georgia",
+          "display": "#10 — 33½ points"
+        },
+        {
+          "answer": "China",
+          "display": "#11 — 33½ points"
+        },
+        {
+          "answer": "Belarus",
+          "display": "#12 — 33½ points"
+        },
+        {
+          "answer": "Armenia",
+          "display": "#13 — 33 points"
+        }
+      ]
+    },
+    {
+      "category": "sports/chess/olympiad",
+      "question": "Top 10 teams in the final standings of the 32nd Chess Olympiad (1996, open section)",
+      "cutoff": 10,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1364703389 | table 1+2 | name: Country | value: # | order: asc",
+      "tags": [
+        "chess",
+        "olympiad",
+        "1996"
+      ],
+      "answers": [
+        {
+          "answer": "Russia",
+          "display": "#1 — 38½ points"
+        },
+        {
+          "answer": "Ukraine",
+          "display": "#2 — 35 points"
+        },
+        {
+          "answer": "United States",
+          "display": "#3 — 34 points",
+          "aliases": [
+            "USA",
+            "US"
+          ]
+        },
+        {
+          "answer": "England",
+          "display": "#4 — 34 points"
+        },
+        {
+          "answer": "Armenia",
+          "display": "#5 — 33½ points"
+        },
+        {
+          "answer": "Spain",
+          "display": "#6 — 33½ points"
+        },
+        {
+          "answer": "Bosnia and Herzegovina",
+          "display": "#7 — 33½ points"
+        },
+        {
+          "answer": "Georgia",
+          "display": "#8 — 33 points"
+        },
+        {
+          "answer": "Bulgaria",
+          "display": "#9 — 33 points"
+        },
+        {
+          "answer": "Germany",
+          "display": "#10 — 33 points"
+        },
+        {
+          "answer": "Sweden",
+          "display": "#11 — 33 points"
+        },
+        {
+          "answer": "Iceland",
+          "display": "#12 — 33 points"
+        },
+        {
+          "answer": "China",
+          "display": "#13 — 32½ points"
+        }
+      ]
+    },
+    {
+      "category": "sports/chess/olympiad",
+      "question": "Top 10 teams in the final standings of the 33rd Chess Olympiad (1998, open section)",
+      "cutoff": 10,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1315703507 | table 1+2 | name: Country | value: # | order: asc",
+      "tags": [
+        "chess",
+        "olympiad",
+        "1998"
+      ],
+      "answers": [
+        {
+          "answer": "Russia",
+          "display": "#1 — 35½ points"
+        },
+        {
+          "answer": "United States",
+          "display": "#2 — 34½ points",
+          "aliases": [
+            "USA",
+            "US"
+          ]
+        },
+        {
+          "answer": "Ukraine",
+          "display": "#3 — 32½ points"
+        },
+        {
+          "answer": "Israel",
+          "display": "#4 — 32½ points"
+        },
+        {
+          "answer": "China",
+          "display": "#5 — 31½ points"
+        },
+        {
+          "answer": "Germany",
+          "display": "#6 — 31½ points"
+        },
+        {
+          "answer": "Georgia",
+          "display": "#7 — 31½ points"
+        },
+        {
+          "answer": "Russia \"B\"",
+          "display": "#8 — 31 points"
+        },
+        {
+          "answer": "Hungary",
+          "display": "#9 — 31 points"
+        },
+        {
+          "answer": "Romania",
+          "display": "#10 — 30½ points"
+        },
+        {
+          "answer": "England",
+          "display": "#11 — 30½ points"
+        },
+        {
+          "answer": "Netherlands",
+          "display": "#12 — 30½ points"
+        },
+        {
+          "answer": "Belarus",
+          "display": "#13 — 30½ points"
+        }
+      ]
+    },
+    {
+      "category": "sports/chess/olympiad",
+      "question": "Top 10 teams in the final standings of the 34th Chess Olympiad (2000, open section)",
+      "cutoff": 10,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1306206209 | table 1+2 | name: Country | value: # | order: asc",
+      "tags": [
+        "chess",
+        "olympiad",
+        "2000"
+      ],
+      "answers": [
+        {
+          "answer": "Russia",
+          "display": "#1 — 38 points"
+        },
+        {
+          "answer": "Germany",
+          "display": "#2 — 37 points"
+        },
+        {
+          "answer": "Ukraine",
+          "display": "#3 — 35½ points"
+        },
+        {
+          "answer": "Hungary",
+          "display": "#4 — 35½ points"
+        },
+        {
+          "answer": "Israel",
+          "display": "#5 — 34½ points"
+        },
+        {
+          "answer": "Georgia",
+          "display": "#6 — 34 points"
+        },
+        {
+          "answer": "England",
+          "display": "#7 — 33 points"
+        },
+        {
+          "answer": "India",
+          "display": "#8 — 33 points"
+        },
+        {
+          "answer": "China",
+          "display": "#9 — 33 points"
+        },
+        {
+          "answer": "Switzerland",
+          "display": "#10 — 33 points"
+        },
+        {
+          "answer": "Uzbekistan",
+          "display": "#11 — 33 points"
+        },
+        {
+          "answer": "Slovenia",
+          "display": "#12 — 33 points"
+        },
+        {
+          "answer": "North Macedonia",
+          "display": "#13 — 33 points"
+        }
+      ]
+    },
+    {
+      "category": "sports/chess/olympiad",
+      "question": "Top 10 teams in the final standings of the 35th Chess Olympiad (2002, open section)",
+      "cutoff": 10,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1255784371 | table 1+2 | name: Country | value: # | order: asc",
+      "tags": [
+        "chess",
+        "olympiad",
+        "2002"
+      ],
+      "answers": [
+        {
+          "answer": "Russia",
+          "display": "#1 — 38½ points"
+        },
+        {
+          "answer": "Hungary",
+          "display": "#2 — 37½ points"
+        },
+        {
+          "answer": "Armenia",
+          "display": "#3 — 35 points"
+        },
+        {
+          "answer": "Georgia",
+          "display": "#4 — 34 points"
+        },
+        {
+          "answer": "China",
+          "display": "#5 — 33½ points"
+        },
+        {
+          "answer": "Netherlands",
+          "display": "#6 — 33½ points"
+        },
+        {
+          "answer": "England",
+          "display": "#7 — 33½ points"
+        },
+        {
+          "answer": "Slovakia",
+          "display": "#8 — 33 points"
+        },
+        {
+          "answer": "Israel",
+          "display": "#9 — 33 points"
+        },
+        {
+          "answer": "FR Yugoslavia",
+          "display": "#10 — 33 points"
+        },
+        {
+          "answer": "North Macedonia",
+          "display": "#11 — 33 points"
+        },
+        {
+          "answer": "Switzerland",
+          "display": "#12 — 33 points"
+        },
+        {
+          "answer": "Poland",
+          "display": "#13 — 32½ points"
+        }
+      ]
+    },
+    {
+      "category": "sports/chess/olympiad",
+      "question": "Top 10 teams in the final standings of the 36th Chess Olympiad (2004, open section)",
+      "cutoff": 10,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1379655779 | table 1+2 | name: Country | value: # | order: asc",
+      "tags": [
+        "chess",
+        "olympiad",
+        "2004"
+      ],
+      "answers": [
+        {
+          "answer": "Ukraine",
+          "display": "#1 — 39½ points"
+        },
+        {
+          "answer": "Russia",
+          "display": "#2 — 36½ points"
+        },
+        {
+          "answer": "Armenia",
+          "display": "#3 — 36½ points"
+        },
+        {
+          "answer": "United States",
+          "display": "#4 — 35 points",
+          "aliases": [
+            "USA",
+            "US"
+          ]
+        },
+        {
+          "answer": "Israel",
+          "display": "#5 — 34½ points"
+        },
+        {
+          "answer": "India",
+          "display": "#6 — 34 points"
+        },
+        {
+          "answer": "Cuba",
+          "display": "#7 — 33½ points"
+        },
+        {
+          "answer": "Netherlands",
+          "display": "#8 — 33 points"
+        },
+        {
+          "answer": "Bulgaria",
+          "display": "#9 — 32½ points"
+        },
+        {
+          "answer": "Spain",
+          "display": "#10 — 32½ points"
+        },
+        {
+          "answer": "Greece",
+          "display": "#11 — 32½ points"
+        },
+        {
+          "answer": "Poland",
+          "display": "#12 — 32 points"
+        },
+        {
+          "answer": "Switzerland",
+          "display": "#13 — 32 points"
+        }
+      ]
+    },
+    {
+      "category": "sports/chess/olympiad",
+      "question": "Top 10 teams in the final standings of the 37th Chess Olympiad (2006, open section)",
+      "cutoff": 10,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1360518048 | table 1+2 | name: Country | value: # | order: asc",
+      "tags": [
+        "chess",
+        "olympiad",
+        "2006"
+      ],
+      "answers": [
+        {
+          "answer": "Armenia",
+          "display": "#1 — 36 points"
+        },
+        {
+          "answer": "China",
+          "display": "#2 — 34 points"
+        },
+        {
+          "answer": "United States",
+          "display": "#3 — 33 points",
+          "aliases": [
+            "USA",
+            "US"
+          ]
+        },
+        {
+          "answer": "Israel",
+          "display": "#4 — 33 points"
+        },
+        {
+          "answer": "Hungary",
+          "display": "#5 — 32½ points"
+        },
+        {
+          "answer": "Russia",
+          "display": "#6 — 32 points"
+        },
+        {
+          "answer": "France",
+          "display": "#7 — 32 points"
+        },
+        {
+          "answer": "Ukraine",
+          "display": "#8 — 32 points"
+        },
+        {
+          "answer": "Bulgaria",
+          "display": "#9 — 32 points"
+        },
+        {
+          "answer": "Spain",
+          "display": "#10 — 32 points"
+        },
+        {
+          "answer": "Czech Republic",
+          "display": "#11 — 31 points"
+        },
+        {
+          "answer": "Netherlands",
+          "display": "#12 — 31 points"
+        },
+        {
+          "answer": "Uzbekistan",
+          "display": "#13 — 31 points"
+        }
+      ]
+    },
+    {
+      "category": "sports/chess/olympiad",
+      "question": "Top 10 teams in the final standings of the 38th Chess Olympiad (2008, open section)",
+      "cutoff": 10,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1326240188 | table 1+2 | name: Country | value: # | order: asc",
+      "tags": [
+        "chess",
+        "olympiad",
+        "2008"
+      ],
+      "answers": [
+        {
+          "answer": "Armenia",
+          "display": "#1 — 19 match points"
+        },
+        {
+          "answer": "Israel",
+          "display": "#2 — 18 match points"
+        },
+        {
+          "answer": "United States",
+          "display": "#3 — 17 match points",
+          "aliases": [
+            "USA",
+            "US"
+          ]
+        },
+        {
+          "answer": "Ukraine",
+          "display": "#4 — 17 match points"
+        },
+        {
+          "answer": "Russia",
+          "display": "#5 — 16 match points"
+        },
+        {
+          "answer": "Azerbaijan",
+          "display": "#6 — 16 match points"
+        },
+        {
+          "answer": "China",
+          "display": "#7 — 16 match points"
+        },
+        {
+          "answer": "Hungary",
+          "display": "#8 — 16 match points"
+        },
+        {
+          "answer": "Vietnam",
+          "display": "#9 — 16 match points"
+        },
+        {
+          "answer": "Spain",
+          "display": "#10 — 16 match points"
+        },
+        {
+          "answer": "Georgia",
+          "display": "#11 — 16 match points"
+        },
+        {
+          "answer": "Netherlands",
+          "display": "#12 — 15 match points"
+        },
+        {
+          "answer": "Germany",
+          "display": "#13 — 15 match points"
+        }
+      ]
+    },
+    {
+      "category": "sports/chess/olympiad",
+      "question": "Top 10 teams in the final standings of the 39th Chess Olympiad (2010, open section)",
+      "cutoff": 10,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1270493538 | table 1+2 | name: Country | value: # | order: asc",
+      "tags": [
+        "chess",
+        "olympiad",
+        "2010"
+      ],
+      "answers": [
+        {
+          "answer": "Ukraine",
+          "display": "#1 — 19 match points"
+        },
+        {
+          "answer": "Russia",
+          "display": "#2 — 18 match points"
+        },
+        {
+          "answer": "Israel",
+          "display": "#3 — 17 match points"
+        },
+        {
+          "answer": "Hungary",
+          "display": "#4 — 17 match points"
+        },
+        {
+          "answer": "China",
+          "display": "#5 — 16 match points"
+        },
+        {
+          "answer": "Russia \"B\"",
+          "display": "#6 — 16 match points"
+        },
+        {
+          "answer": "Armenia",
+          "display": "#7 — 16 match points"
+        },
+        {
+          "answer": "Spain",
+          "display": "#8 — 16 match points"
+        },
+        {
+          "answer": "United States",
+          "display": "#9 — 16 match points",
+          "aliases": [
+            "USA",
+            "US"
+          ]
+        },
+        {
+          "answer": "France",
+          "display": "#10 — 16 match points"
+        },
+        {
+          "answer": "Poland",
+          "display": "#11 — 15 match points"
+        },
+        {
+          "answer": "Azerbaijan",
+          "display": "#12 — 15 match points"
+        },
+        {
+          "answer": "Russia \"C\"",
+          "display": "#13 — 15 match points"
+        }
+      ]
+    },
+    {
+      "category": "sports/chess/olympiad",
+      "question": "Top 10 teams in the final standings of the 24th Chess Olympiad (1980, women's section)",
+      "cutoff": 10,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1377674015 | table 2 | name: Country | value: # | order: asc",
+      "tags": [
+        "chess",
+        "olympiad",
+        "1980"
+      ],
+      "answers": [
+        {
+          "answer": "Soviet Union",
+          "display": "#1 — 32½ points",
+          "aliases": [
+            "USSR"
+          ]
+        },
+        {
+          "answer": "Hungary",
+          "display": "#2 — 32 points"
+        },
+        {
+          "answer": "Poland",
+          "display": "#3 — 26½ points"
+        },
+        {
+          "answer": "Romania",
+          "display": "#4 — 26 points"
+        },
+        {
+          "answer": "West Germany",
+          "display": "#5 — 24 points"
+        },
+        {
+          "answer": "China",
+          "display": "#6 — 24 points"
+        },
+        {
+          "answer": "Israel",
+          "display": "#7 — 23½ points"
+        },
+        {
+          "answer": "Yugoslavia",
+          "display": "#8 — 23½ points"
+        },
+        {
+          "answer": "Bulgaria",
+          "display": "#9 — 23 points"
+        },
+        {
+          "answer": "Brazil",
+          "display": "#10 — 23 points"
+        },
+        {
+          "answer": "Spain",
+          "display": "#11 — 22½ points"
+        },
+        {
+          "answer": "Argentina",
+          "display": "#12 — 22½ points"
+        },
+        {
+          "answer": "United States",
+          "display": "#13 — 22 points",
+          "aliases": [
+            "USA",
+            "US"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/chess/olympiad",
+      "question": "Top 10 teams in the final standings of the 25th Chess Olympiad (1982, women's section)",
+      "cutoff": 10,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1332380793 | table 2 | name: Country | value: # | order: asc",
+      "tags": [
+        "chess",
+        "olympiad",
+        "1982"
+      ],
+      "answers": [
+        {
+          "answer": "Soviet Union",
+          "display": "#1 — 33 points",
+          "aliases": [
+            "USSR"
+          ]
+        },
+        {
+          "answer": "Romania",
+          "display": "#2 — 30 points"
+        },
+        {
+          "answer": "Hungary",
+          "display": "#3 — 26 points"
+        },
+        {
+          "answer": "Poland",
+          "display": "#4 — 25½ points"
+        },
+        {
+          "answer": "China",
+          "display": "#5 — 24½ points"
+        },
+        {
+          "answer": "West Germany",
+          "display": "#6 — 24½ points"
+        },
+        {
+          "answer": "Sweden",
+          "display": "#7 — 24 points"
+        },
+        {
+          "answer": "Netherlands",
+          "display": "#8 — 23½ points"
+        },
+        {
+          "answer": "India",
+          "display": "#9 — 23½ points"
+        },
+        {
+          "answer": "Spain",
+          "display": "#10 — 23 points"
+        },
+        {
+          "answer": "England",
+          "display": "#11 — 23 points"
+        },
+        {
+          "answer": "Yugoslavia",
+          "display": "#12 — 23 points"
+        },
+        {
+          "answer": "France",
+          "display": "#13 — 23 points"
+        }
+      ]
+    },
+    {
+      "category": "sports/chess/olympiad",
+      "question": "Top 10 teams in the final standings of the 26th Chess Olympiad (1984, women's section)",
+      "cutoff": 10,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1360621963 | table 3+4 | name: Country | value: # | order: asc",
+      "tags": [
+        "chess",
+        "olympiad",
+        "1984"
+      ],
+      "answers": [
+        {
+          "answer": "Soviet Union",
+          "display": "#1 — 32 points",
+          "aliases": [
+            "USSR"
+          ]
+        },
+        {
+          "answer": "Bulgaria",
+          "display": "#2 — 27½ points"
+        },
+        {
+          "answer": "Romania",
+          "display": "#3 — 27 points"
+        },
+        {
+          "answer": "West Germany",
+          "display": "#4 — 26 points"
+        },
+        {
+          "answer": "China",
+          "display": "#5 — 26 points"
+        },
+        {
+          "answer": "Hungary",
+          "display": "#6 — 25 points"
+        },
+        {
+          "answer": "Poland",
+          "display": "#7 — 24½ points"
+        },
+        {
+          "answer": "England",
+          "display": "#8 — 24½ points"
+        },
+        {
+          "answer": "Yugoslavia",
+          "display": "#9 — 24 points"
+        },
+        {
+          "answer": "Spain",
+          "display": "#10 — 24 points"
+        },
+        {
+          "answer": "Netherlands",
+          "display": "#11 — 23½ points"
+        },
+        {
+          "answer": "Switzerland",
+          "display": "#12 — 23½ points"
+        },
+        {
+          "answer": "United States",
+          "display": "#13 — 23½ points",
+          "aliases": [
+            "USA",
+            "US"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/chess/olympiad",
+      "question": "Top 10 teams in the final standings of the 28th Chess Olympiad (1988, women's section)",
+      "cutoff": 10,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1252861769 | table 3+4 | name: Country | value: # | order: asc",
+      "tags": [
+        "chess",
+        "olympiad",
+        "1988"
+      ],
+      "answers": [
+        {
+          "answer": "Hungary",
+          "display": "#1 — 33 points"
+        },
+        {
+          "answer": "Soviet Union",
+          "display": "#2 — 32½ points",
+          "aliases": [
+            "USSR"
+          ]
+        },
+        {
+          "answer": "Yugoslavia",
+          "display": "#3 — 28 points"
+        },
+        {
+          "answer": "China",
+          "display": "#4 — 27 points"
+        },
+        {
+          "answer": "Bulgaria",
+          "display": "#5 — 24 points"
+        },
+        {
+          "answer": "Romania",
+          "display": "#6 — 24 points"
+        },
+        {
+          "answer": "Greece",
+          "display": "#7 — 24 points"
+        },
+        {
+          "answer": "Cuba",
+          "display": "#8 — 24 points"
+        },
+        {
+          "answer": "United States",
+          "display": "#9 — 23½ points",
+          "aliases": [
+            "USA",
+            "US"
+          ]
+        },
+        {
+          "answer": "Netherlands",
+          "display": "#10 — 23½ points"
+        },
+        {
+          "answer": "Poland",
+          "display": "#11 — 23 points"
+        },
+        {
+          "answer": "England",
+          "display": "#12 — 23 points"
+        },
+        {
+          "answer": "France",
+          "display": "#13 — 23 points"
+        }
+      ]
+    },
+    {
+      "category": "sports/chess/olympiad",
+      "question": "Top 10 teams in the final standings of the 29th Chess Olympiad (1990, women's section)",
+      "cutoff": 10,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1356802155 | table 3+4 | name: Country | value: # | order: asc",
+      "tags": [
+        "chess",
+        "olympiad",
+        "1990"
+      ],
+      "answers": [
+        {
+          "answer": "Hungary",
+          "display": "#1 — 35 points"
+        },
+        {
+          "answer": "Soviet Union",
+          "display": "#2 — 35 points",
+          "aliases": [
+            "USSR"
+          ]
+        },
+        {
+          "answer": "China",
+          "display": "#3 — 29 points"
+        },
+        {
+          "answer": "Bulgaria",
+          "display": "#4 — 26 points"
+        },
+        {
+          "answer": "Yugoslavia",
+          "display": "#5 — 25 points"
+        },
+        {
+          "answer": "United States",
+          "display": "#6 — 24½ points",
+          "aliases": [
+            "USA",
+            "US"
+          ]
+        },
+        {
+          "answer": "England",
+          "display": "#7 — 24 points"
+        },
+        {
+          "answer": "Greece",
+          "display": "#8 — 24 points"
+        },
+        {
+          "answer": "Romania",
+          "display": "#9 — 24 points"
+        },
+        {
+          "answer": "Yugoslavia \"B\"",
+          "display": "#10 — 23½ points"
+        },
+        {
+          "answer": "East Germany",
+          "display": "#11 — 23½ points"
+        },
+        {
+          "answer": "Netherlands",
+          "display": "#12 — 23½ points"
+        },
+        {
+          "answer": "Mongolia",
+          "display": "#13 — 23½ points"
+        }
+      ]
+    },
+    {
+      "category": "sports/chess/olympiad",
+      "question": "Top 10 teams in the final standings of the 30th Chess Olympiad (1992, women's section)",
+      "cutoff": 10,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1377840394 | table 3+4 | name: Country | value: # | order: asc",
+      "tags": [
+        "chess",
+        "olympiad",
+        "1992"
+      ],
+      "answers": [
+        {
+          "answer": "Georgia",
+          "display": "#1 — 30½ points"
+        },
+        {
+          "answer": "Ukraine",
+          "display": "#2 — 29 points"
+        },
+        {
+          "answer": "China",
+          "display": "#3 — 28½ points"
+        },
+        {
+          "answer": "Hungary",
+          "display": "#4 — 26½ points"
+        },
+        {
+          "answer": "Russia",
+          "display": "#5 — 26 points"
+        },
+        {
+          "answer": "Romania",
+          "display": "#6 — 25 points"
+        },
+        {
+          "answer": "Azerbaijan",
+          "display": "#7 — 25 points"
+        },
+        {
+          "answer": "Kazakhstan",
+          "display": "#8 — 24½ points"
+        },
+        {
+          "answer": "United States",
+          "display": "#9 — 24½ points",
+          "aliases": [
+            "USA",
+            "US"
+          ]
+        },
+        {
+          "answer": "Czechoslovakia",
+          "display": "#10 — 24 points"
+        },
+        {
+          "answer": "Estonia",
+          "display": "#11 — 24 points"
+        },
+        {
+          "answer": "Latvia",
+          "display": "#12 — 24 points"
+        },
+        {
+          "answer": "Poland",
+          "display": "#13 — 23½ points"
+        }
+      ]
+    },
+    {
+      "category": "sports/chess/olympiad",
+      "question": "Top 10 teams in the final standings of the 32nd Chess Olympiad (1996, women's section)",
+      "cutoff": 10,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1364703389 | table 3+4 | name: Country | value: # | order: asc",
+      "tags": [
+        "chess",
+        "olympiad",
+        "1996"
+      ],
+      "answers": [
+        {
+          "answer": "Georgia",
+          "display": "#1 — 30 points"
+        },
+        {
+          "answer": "China",
+          "display": "#2 — 28½ points"
+        },
+        {
+          "answer": "Russia",
+          "display": "#3 — 28½ points"
+        },
+        {
+          "answer": "Ukraine",
+          "display": "#4 — 26½ points"
+        },
+        {
+          "answer": "Hungary",
+          "display": "#5 — 26 points"
+        },
+        {
+          "answer": "Romania",
+          "display": "#6 — 25½ points"
+        },
+        {
+          "answer": "Israel",
+          "display": "#7 — 25 points"
+        },
+        {
+          "answer": "Kazakhstan",
+          "display": "#8 — 24½ points"
+        },
+        {
+          "answer": "Poland",
+          "display": "#9 — 24½ points"
+        },
+        {
+          "answer": "England",
+          "display": "#10 — 24 points"
+        },
+        {
+          "answer": "Indonesia",
+          "display": "#11 — 24 points"
+        },
+        {
+          "answer": "Czech Republic",
+          "display": "#12 — 24 points"
+        },
+        {
+          "answer": "FR Yugoslavia",
+          "display": "#13 — 23½ points"
+        }
+      ]
+    },
+    {
+      "category": "sports/chess/olympiad",
+      "question": "Top 10 teams in the final standings of the 33rd Chess Olympiad (1998, women's section)",
+      "cutoff": 10,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1315703507 | table 3+4 | name: Country | value: # | order: asc",
+      "tags": [
+        "chess",
+        "olympiad",
+        "1998"
+      ],
+      "answers": [
+        {
+          "answer": "China",
+          "display": "#1 — 29 points"
+        },
+        {
+          "answer": "Russia",
+          "display": "#2 — 27 points"
+        },
+        {
+          "answer": "Georgia",
+          "display": "#3 — 27 points"
+        },
+        {
+          "answer": "Netherlands",
+          "display": "#4 — 23½ points"
+        },
+        {
+          "answer": "Bulgaria",
+          "display": "#5 — 23½ points"
+        },
+        {
+          "answer": "Romania",
+          "display": "#6 — 23 points"
+        },
+        {
+          "answer": "FR Yugoslavia",
+          "display": "#7 — 23 points"
+        },
+        {
+          "answer": "Hungary",
+          "display": "#8 — 23 points"
+        },
+        {
+          "answer": "Russia \"C\"",
+          "display": "#9 — 23 points"
+        },
+        {
+          "answer": "United States",
+          "display": "#10 — 23 points",
+          "aliases": [
+            "USA",
+            "US"
+          ]
+        },
+        {
+          "answer": "Poland",
+          "display": "#11 — 22½ points"
+        },
+        {
+          "answer": "Ukraine",
+          "display": "#12 — 22½ points"
+        },
+        {
+          "answer": "Latvia",
+          "display": "#13 — 22½ points"
+        }
+      ]
+    },
+    {
+      "category": "sports/chess/olympiad",
+      "question": "Top 10 teams in the final standings of the 34th Chess Olympiad (2000, women's section)",
+      "cutoff": 10,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1306206209 | table 3+4 | name: Country | value: # | order: asc",
+      "tags": [
+        "chess",
+        "olympiad",
+        "2000"
+      ],
+      "answers": [
+        {
+          "answer": "China",
+          "display": "#1 — 32 points"
+        },
+        {
+          "answer": "Georgia",
+          "display": "#2 — 31 points"
+        },
+        {
+          "answer": "Russia",
+          "display": "#3 — 28½ points"
+        },
+        {
+          "answer": "Ukraine",
+          "display": "#4 — 27 points"
+        },
+        {
+          "answer": "FR Yugoslavia",
+          "display": "#5 — 26 points"
+        },
+        {
+          "answer": "Netherlands",
+          "display": "#6 — 25½ points"
+        },
+        {
+          "answer": "Hungary",
+          "display": "#7 — 25 points"
+        },
+        {
+          "answer": "Germany",
+          "display": "#8 — 25 points"
+        },
+        {
+          "answer": "England",
+          "display": "#9 — 25 points"
+        },
+        {
+          "answer": "Armenia",
+          "display": "#10 — 24½ points"
+        },
+        {
+          "answer": "Romania",
+          "display": "#11 — 24½ points"
+        },
+        {
+          "answer": "Moldova",
+          "display": "#12 — 24 points"
+        },
+        {
+          "answer": "India",
+          "display": "#13 — 24 points"
+        }
+      ]
+    },
+    {
+      "category": "sports/chess/olympiad",
+      "question": "Top 10 teams in the final standings of the 35th Chess Olympiad (2002, women's section)",
+      "cutoff": 10,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1255784371 | table 3+4 | name: Country | value: # | order: asc",
+      "tags": [
+        "chess",
+        "olympiad",
+        "2002"
+      ],
+      "answers": [
+        {
+          "answer": "China",
+          "display": "#1 — 29½ points"
+        },
+        {
+          "answer": "Russia",
+          "display": "#2 — 29 points"
+        },
+        {
+          "answer": "Poland",
+          "display": "#3 — 28 points"
+        },
+        {
+          "answer": "Georgia",
+          "display": "#4 — 27½ points"
+        },
+        {
+          "answer": "Hungary",
+          "display": "#5 — 25½ points"
+        },
+        {
+          "answer": "Ukraine",
+          "display": "#6 — 25½ points"
+        },
+        {
+          "answer": "FR Yugoslavia",
+          "display": "#7 — 25½ points"
+        },
+        {
+          "answer": "Azerbaijan",
+          "display": "#8 — 25½ points"
+        },
+        {
+          "answer": "United States",
+          "display": "#9 — 25 points",
+          "aliases": [
+            "USA",
+            "US"
+          ]
+        },
+        {
+          "answer": "Czech Republic",
+          "display": "#10 — 25 points"
+        },
+        {
+          "answer": "Bulgaria",
+          "display": "#11 — 24½ points"
+        },
+        {
+          "answer": "Vietnam",
+          "display": "#12 — 24½ points"
+        },
+        {
+          "answer": "Israel",
+          "display": "#13 — 24½ points"
+        }
+      ]
+    },
+    {
+      "category": "sports/chess/olympiad",
+      "question": "Top 10 teams in the final standings of the 36th Chess Olympiad (2004, women's section)",
+      "cutoff": 10,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1379655779 | table 4+5 | name: Country | value: # | order: asc",
+      "tags": [
+        "chess",
+        "olympiad",
+        "2004"
+      ],
+      "answers": [
+        {
+          "answer": "China",
+          "display": "#1 — 31 points"
+        },
+        {
+          "answer": "United States",
+          "display": "#2 — 28 points",
+          "aliases": [
+            "USA",
+            "US"
+          ]
+        },
+        {
+          "answer": "Russia",
+          "display": "#3 — 27½ points"
+        },
+        {
+          "answer": "Georgia",
+          "display": "#4 — 27½ points"
+        },
+        {
+          "answer": "France",
+          "display": "#5 — 25½ points"
+        },
+        {
+          "answer": "Hungary",
+          "display": "#6 — 25 points"
+        },
+        {
+          "answer": "Slovakia",
+          "display": "#7 — 25 points"
+        },
+        {
+          "answer": "England",
+          "display": "#8 — 25 points"
+        },
+        {
+          "answer": "India",
+          "display": "#9 — 24½ points"
+        },
+        {
+          "answer": "Poland",
+          "display": "#10 — 24½ points"
+        },
+        {
+          "answer": "Armenia",
+          "display": "#11 — 24½ points"
+        },
+        {
+          "answer": "Netherlands",
+          "display": "#12 — 24½ points"
+        },
+        {
+          "answer": "Lithuania",
+          "display": "#13 — 24 points"
+        }
+      ]
+    },
+    {
+      "category": "sports/chess/olympiad",
+      "question": "Top 10 teams in the final standings of the 38th Chess Olympiad (2008, women's section)",
+      "cutoff": 10,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1326240188 | table 4+5 | name: Country | value: # | order: asc",
+      "tags": [
+        "chess",
+        "olympiad",
+        "2008"
+      ],
+      "answers": [
+        {
+          "answer": "Georgia",
+          "display": "#1 — 18 match points"
+        },
+        {
+          "answer": "Ukraine",
+          "display": "#2 — 18 match points"
+        },
+        {
+          "answer": "United States",
+          "display": "#3 — 17 match points",
+          "aliases": [
+            "USA",
+            "US"
+          ]
+        },
+        {
+          "answer": "Russia",
+          "display": "#4 — 17 match points"
+        },
+        {
+          "answer": "Poland",
+          "display": "#5 — 17 match points"
+        },
+        {
+          "answer": "Armenia",
+          "display": "#6 — 16 match points"
+        },
+        {
+          "answer": "Serbia",
+          "display": "#7 — 16 match points"
+        },
+        {
+          "answer": "China",
+          "display": "#8 — 15 match points"
+        },
+        {
+          "answer": "Israel",
+          "display": "#9 — 15 match points"
+        },
+        {
+          "answer": "Belarus",
+          "display": "#10 — 15 match points"
+        },
+        {
+          "answer": "Romania",
+          "display": "#11 — 15 match points"
+        },
+        {
+          "answer": "Italy",
+          "display": "#12 — 15 match points"
+        },
+        {
+          "answer": "France",
+          "display": "#13 — 14 match points"
+        }
+      ]
+    },
+    {
+      "category": "sports/chess/olympiad",
+      "question": "Top 7 teams in the final standings of the 40th Chess Olympiad (2012, open section)",
+      "cutoff": 7,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1379744209 | table 1 | name: Country | value: # | order: asc",
+      "tags": [
+        "chess",
+        "olympiad",
+        "2012"
+      ],
+      "answers": [
+        {
+          "answer": "Armenia",
+          "display": "#1 — 19 match points"
+        },
+        {
+          "answer": "Russia",
+          "display": "#2 — 19 match points"
+        },
+        {
+          "answer": "Ukraine",
+          "display": "#3 — 18 match points"
+        },
+        {
+          "answer": "China",
+          "display": "#4 — 17 match points"
+        },
+        {
+          "answer": "United States",
+          "display": "#5 — 17 match points",
+          "aliases": [
+            "USA",
+            "US"
+          ]
+        },
+        {
+          "answer": "Netherlands",
+          "display": "#6 — 16 match points"
+        },
+        {
+          "answer": "Vietnam",
+          "display": "#7 — 16 match points"
+        },
+        {
+          "answer": "Romania",
+          "display": "#8 — 16 match points"
+        },
+        {
+          "answer": "Hungary",
+          "display": "#9 — 15 match points"
+        },
+        {
+          "answer": "Azerbaijan",
+          "display": "#10 — 15 match points"
+        }
+      ]
+    },
+    {
+      "category": "sports/chess/olympiad",
+      "question": "Top 7 teams in the final standings of the 40th Chess Olympiad (2012, women's section)",
+      "cutoff": 7,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1379744209 | table 2 | name: Country | value: # | order: asc",
+      "tags": [
+        "chess",
+        "olympiad",
+        "2012"
+      ],
+      "answers": [
+        {
+          "answer": "Russia",
+          "display": "#1 — 19 match points"
+        },
+        {
+          "answer": "China",
+          "display": "#2 — 19 match points"
+        },
+        {
+          "answer": "Ukraine",
+          "display": "#3 — 18 match points"
+        },
+        {
+          "answer": "India",
+          "display": "#4 — 17 match points"
+        },
+        {
+          "answer": "Romania",
+          "display": "#5 — 16 match points"
+        },
+        {
+          "answer": "Armenia",
+          "display": "#6 — 16 match points"
+        },
+        {
+          "answer": "France",
+          "display": "#7 — 15 match points"
+        },
+        {
+          "answer": "Georgia",
+          "display": "#8 — 15 match points"
+        },
+        {
+          "answer": "Iran",
+          "display": "#9 — 15 match points"
+        },
+        {
+          "answer": "United States",
+          "display": "#10 — 15 match points",
+          "aliases": [
+            "USA",
+            "US"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/chess/olympiad",
+      "question": "Top 7 teams in the final standings of the 41st Chess Olympiad (2014, open section)",
+      "cutoff": 7,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1379752757 | table 3 | name: Country | value: # | order: asc",
+      "tags": [
+        "chess",
+        "olympiad",
+        "2014"
+      ],
+      "answers": [
+        {
+          "answer": "China",
+          "display": "#1 — 19 match points"
+        },
+        {
+          "answer": "Hungary",
+          "display": "#2 — 17 match points"
+        },
+        {
+          "answer": "India",
+          "display": "#3 — 17 match points"
+        },
+        {
+          "answer": "Russia",
+          "display": "#4 — 17 match points"
+        },
+        {
+          "answer": "Azerbaijan",
+          "display": "#5 — 17 match points"
+        },
+        {
+          "answer": "Ukraine",
+          "display": "#6 — 16 match points"
+        },
+        {
+          "answer": "Cuba",
+          "display": "#7 — 16 match points"
+        },
+        {
+          "answer": "Armenia",
+          "display": "#8 — 16 match points"
+        },
+        {
+          "answer": "Israel",
+          "display": "#9 — 16 match points"
+        },
+        {
+          "answer": "Spain",
+          "display": "#10 — 16 match points"
+        }
+      ]
+    },
+    {
+      "category": "sports/chess/olympiad",
+      "question": "Top 7 teams in the final standings of the 41st Chess Olympiad (2014, women's section)",
+      "cutoff": 7,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1379752757 | table 4 | name: Country | value: # | order: asc",
+      "tags": [
+        "chess",
+        "olympiad",
+        "2014"
+      ],
+      "answers": [
+        {
+          "answer": "Russia",
+          "display": "#1 — 20 match points"
+        },
+        {
+          "answer": "China",
+          "display": "#2 — 18 match points"
+        },
+        {
+          "answer": "Ukraine",
+          "display": "#3 — 18 match points"
+        },
+        {
+          "answer": "Georgia",
+          "display": "#4 — 17 match points"
+        },
+        {
+          "answer": "Armenia",
+          "display": "#5 — 17 match points"
+        },
+        {
+          "answer": "Kazakhstan",
+          "display": "#6 — 17 match points"
+        },
+        {
+          "answer": "Poland",
+          "display": "#7 — 16 match points"
+        },
+        {
+          "answer": "United States",
+          "display": "#8 — 16 match points",
+          "aliases": [
+            "USA",
+            "US"
+          ]
+        },
+        {
+          "answer": "Germany",
+          "display": "#9 — 16 match points"
+        },
+        {
+          "answer": "India",
+          "display": "#10 — 15 match points"
+        }
+      ]
+    },
+    {
+      "category": "sports/chess/olympiad",
+      "question": "Top 7 teams in the final standings of the 42nd Chess Olympiad (2016, open section)",
+      "cutoff": 7,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1379759149 | table 4 | name: Country | value: # | order: asc",
+      "tags": [
+        "chess",
+        "olympiad",
+        "2016"
+      ],
+      "answers": [
+        {
+          "answer": "United States",
+          "display": "#1 — 20 match points",
+          "aliases": [
+            "USA",
+            "US"
+          ]
+        },
+        {
+          "answer": "Ukraine",
+          "display": "#2 — 20 match points"
+        },
+        {
+          "answer": "Russia",
+          "display": "#3 — 18 match points"
+        },
+        {
+          "answer": "India",
+          "display": "#4 — 16 match points"
+        },
+        {
+          "answer": "Norway",
+          "display": "#5 — 16 match points"
+        },
+        {
+          "answer": "Turkey",
+          "display": "#6 — 16 match points"
+        },
+        {
+          "answer": "Poland",
+          "display": "#7 — 16 match points"
+        },
+        {
+          "answer": "France",
+          "display": "#8 — 16 match points"
+        },
+        {
+          "answer": "England",
+          "display": "#9 — 16 match points"
+        },
+        {
+          "answer": "Peru",
+          "display": "#10 — 16 match points"
+        }
+      ]
+    },
+    {
+      "category": "sports/chess/olympiad",
+      "question": "Top 7 teams in the final standings of the 42nd Chess Olympiad (2016, women's section)",
+      "cutoff": 7,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1379759149 | table 5 | name: Country | value: # | order: asc",
+      "tags": [
+        "chess",
+        "olympiad",
+        "2016"
+      ],
+      "answers": [
+        {
+          "answer": "China",
+          "display": "#1 — 20 match points"
+        },
+        {
+          "answer": "Poland",
+          "display": "#2 — 17 match points"
+        },
+        {
+          "answer": "Ukraine",
+          "display": "#3 — 17 match points"
+        },
+        {
+          "answer": "Russia",
+          "display": "#4 — 16 match points"
+        },
+        {
+          "answer": "India",
+          "display": "#5 — 16 match points"
+        },
+        {
+          "answer": "United States",
+          "display": "#6 — 16 match points",
+          "aliases": [
+            "USA",
+            "US"
+          ]
+        },
+        {
+          "answer": "Vietnam",
+          "display": "#7 — 16 match points"
+        },
+        {
+          "answer": "Azerbaijan",
+          "display": "#8 — 16 match points"
+        },
+        {
+          "answer": "Israel",
+          "display": "#9 — 16 match points"
+        },
+        {
+          "answer": "Georgia",
+          "display": "#10 — 15 match points"
+        }
+      ]
+    },
+    {
+      "category": "sports/chess/olympiad",
+      "question": "Top 7 teams in the final standings of the 43rd Chess Olympiad (2018, open section)",
+      "cutoff": 7,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1379769052 | table 4 | name: Country | value: # | order: asc",
+      "tags": [
+        "chess",
+        "olympiad",
+        "2018"
+      ],
+      "answers": [
+        {
+          "answer": "China",
+          "display": "#1 — 18 match points"
+        },
+        {
+          "answer": "United States",
+          "display": "#2 — 18 match points",
+          "aliases": [
+            "USA",
+            "US"
+          ]
+        },
+        {
+          "answer": "Russia",
+          "display": "#3 — 18 match points"
+        },
+        {
+          "answer": "Poland",
+          "display": "#4 — 17 match points"
+        },
+        {
+          "answer": "England",
+          "display": "#5 — 17 match points"
+        },
+        {
+          "answer": "India",
+          "display": "#6 — 16 match points"
+        },
+        {
+          "answer": "Vietnam",
+          "display": "#7 — 16 match points"
+        },
+        {
+          "answer": "Armenia",
+          "display": "#8 — 16 match points"
+        },
+        {
+          "answer": "France",
+          "display": "#9 — 16 match points"
+        },
+        {
+          "answer": "Ukraine",
+          "display": "#10 — 16 match points"
+        }
+      ]
+    },
+    {
+      "category": "sports/chess/olympiad",
+      "question": "Top 7 teams in the final standings of the 43rd Chess Olympiad (2018, women's section)",
+      "cutoff": 7,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1379769052 | table 5 | name: Country | value: # | order: asc",
+      "tags": [
+        "chess",
+        "olympiad",
+        "2018"
+      ],
+      "answers": [
+        {
+          "answer": "China",
+          "display": "#1 — 18 match points"
+        },
+        {
+          "answer": "Ukraine",
+          "display": "#2 — 18 match points"
+        },
+        {
+          "answer": "Georgia",
+          "display": "#3 — 17 match points"
+        },
+        {
+          "answer": "Russia",
+          "display": "#4 — 16 match points"
+        },
+        {
+          "answer": "Hungary",
+          "display": "#5 — 16 match points"
+        },
+        {
+          "answer": "Armenia",
+          "display": "#6 — 16 match points"
+        },
+        {
+          "answer": "United States",
+          "display": "#7 — 16 match points",
+          "aliases": [
+            "USA",
+            "US"
+          ]
+        },
+        {
+          "answer": "India",
+          "display": "#8 — 16 match points"
+        },
+        {
+          "answer": "Georgia-2",
+          "display": "#9 — 16 match points"
+        },
+        {
+          "answer": "Azerbaijan",
+          "display": "#10 — 16 match points"
+        }
+      ]
+    },
+    {
+      "category": "sports/chess/olympiad",
+      "question": "Top 7 teams in the final standings of the 44th Chess Olympiad (2022, open section)",
+      "cutoff": 7,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1377853864 | table 4 | name: Country | value: # | order: asc",
+      "tags": [
+        "chess",
+        "olympiad",
+        "2022"
+      ],
+      "answers": [
+        {
+          "answer": "Uzbekistan",
+          "display": "#1 — 19 match points"
+        },
+        {
+          "answer": "Armenia",
+          "display": "#2 — 19 match points"
+        },
+        {
+          "answer": "India-2",
+          "display": "#3 — 18 match points"
+        },
+        {
+          "answer": "India",
+          "display": "#4 — 17 match points"
+        },
+        {
+          "answer": "United States",
+          "display": "#5 — 17 match points",
+          "aliases": [
+            "USA",
+            "US"
+          ]
+        },
+        {
+          "answer": "Moldova",
+          "display": "#6 — 17 match points"
+        },
+        {
+          "answer": "Azerbaijan",
+          "display": "#7 — 16 match points"
+        },
+        {
+          "answer": "Hungary",
+          "display": "#8 — 16 match points"
+        },
+        {
+          "answer": "Poland",
+          "display": "#9 — 16 match points"
+        },
+        {
+          "answer": "Lithuania",
+          "display": "#10 — 16 match points"
+        }
+      ]
+    },
+    {
+      "category": "sports/chess/olympiad",
+      "question": "Top 7 teams in the final standings of the 44th Chess Olympiad (2022, women's section)",
+      "cutoff": 7,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1377853864 | table 6 | name: Country | value: # | order: asc",
+      "tags": [
+        "chess",
+        "olympiad",
+        "2022"
+      ],
+      "answers": [
+        {
+          "answer": "Ukraine",
+          "display": "#1 — 18 match points"
+        },
+        {
+          "answer": "Georgia",
+          "display": "#2 — 18 match points"
+        },
+        {
+          "answer": "India",
+          "display": "#3 — 17 match points"
+        },
+        {
+          "answer": "United States",
+          "display": "#4 — 17 match points",
+          "aliases": [
+            "USA",
+            "US"
+          ]
+        },
+        {
+          "answer": "Kazakhstan",
+          "display": "#5 — 17 match points"
+        },
+        {
+          "answer": "Poland",
+          "display": "#6 — 16 match points"
+        },
+        {
+          "answer": "Azerbaijan",
+          "display": "#7 — 16 match points"
+        },
+        {
+          "answer": "India-2",
+          "display": "#8 — 16 match points"
+        },
+        {
+          "answer": "Bulgaria",
+          "display": "#9 — 16 match points"
+        },
+        {
+          "answer": "Germany",
+          "display": "#10 — 16 match points"
+        }
+      ]
+    },
+    {
+      "category": "sports/chess/olympiad",
+      "question": "Top 7 teams in the final standings of the 45th Chess Olympiad (2024, open section)",
+      "cutoff": 7,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1379786163 | table 4 | name: Country | value: # | order: asc",
+      "tags": [
+        "chess",
+        "olympiad",
+        "2024"
+      ],
+      "answers": [
+        {
+          "answer": "India",
+          "display": "#1 — 21 match points"
+        },
+        {
+          "answer": "United States",
+          "display": "#2 — 17 match points",
+          "aliases": [
+            "USA",
+            "US"
+          ]
+        },
+        {
+          "answer": "Uzbekistan",
+          "display": "#3 — 17 match points"
+        },
+        {
+          "answer": "China",
+          "display": "#4 — 17 match points"
+        },
+        {
+          "answer": "Serbia",
+          "display": "#5 — 17 match points"
+        },
+        {
+          "answer": "Armenia",
+          "display": "#6 — 17 match points"
+        },
+        {
+          "answer": "Germany",
+          "display": "#7 — 16 match points"
+        },
+        {
+          "answer": "Azerbaijan",
+          "display": "#8 — 16 match points"
+        },
+        {
+          "answer": "Slovenia",
+          "display": "#9 — 16 match points"
+        },
+        {
+          "answer": "Spain",
+          "display": "#10 — 16 match points"
+        }
+      ]
+    },
+    {
+      "category": "sports/chess/olympiad",
+      "question": "Top 7 teams in the final standings of the 45th Chess Olympiad (2024, women's section)",
+      "cutoff": 7,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1379786163 | table 6 | name: Country | value: # | order: asc",
+      "tags": [
+        "chess",
+        "olympiad",
+        "2024"
+      ],
+      "answers": [
+        {
+          "answer": "India",
+          "display": "#1 — 19 match points"
+        },
+        {
+          "answer": "Kazakhstan",
+          "display": "#2 — 18 match points"
+        },
+        {
+          "answer": "United States",
+          "display": "#3 — 17 match points",
+          "aliases": [
+            "USA",
+            "US"
+          ]
+        },
+        {
+          "answer": "Spain",
+          "display": "#4 — 17 match points"
+        },
+        {
+          "answer": "Armenia",
+          "display": "#5 — 17 match points"
+        },
+        {
+          "answer": "Georgia",
+          "display": "#6 — 17 match points"
+        },
+        {
+          "answer": "China",
+          "display": "#7 — 16 match points"
+        },
+        {
+          "answer": "Ukraine",
+          "display": "#8 — 16 match points"
+        },
+        {
+          "answer": "Poland",
+          "display": "#9 — 16 match points"
+        },
+        {
+          "answer": "Bulgaria",
+          "display": "#10 — 16 match points"
+        }
+      ]
+    },
+    {
+      "category": "sports/chess/olympiad",
+      "question": "Top 7 teams in the final standings of the 46th Chess Olympiad (2026, open section)",
+      "cutoff": 7,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1380534469 | table 4 | name: Country | value: # | order: asc",
+      "tags": [
+        "chess",
+        "olympiad",
+        "2026"
+      ],
+      "answers": [
+        {
+          "answer": "Uzbekistan",
+          "display": "#1 — 20 match points"
+        },
+        {
+          "answer": "India",
+          "display": "#2 — 18 match points"
+        },
+        {
+          "answer": "Germany",
+          "display": "#3 — 18 match points"
+        },
+        {
+          "answer": "United States",
+          "display": "#4 — 17 match points",
+          "aliases": [
+            "USA",
+            "US"
+          ]
+        },
+        {
+          "answer": "Azerbaijan",
+          "display": "#5 — 17 match points"
+        },
+        {
+          "answer": "Armenia",
+          "display": "#6 — 17 match points"
+        },
+        {
+          "answer": "Hungary",
+          "display": "#7 — 17 match points"
+        },
+        {
+          "answer": "China",
+          "display": "#8 — 16 match points"
+        },
+        {
+          "answer": "France",
+          "display": "#9 — 16 match points"
+        },
+        {
+          "answer": "Spain",
+          "display": "#10 — 16 match points"
+        }
+      ]
+    },
+    {
+      "category": "sports/chess/olympiad",
+      "question": "Top 7 teams in the final standings of the 46th Chess Olympiad (2026, women's section)",
+      "cutoff": 7,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1380534469 | table 6 | name: Country | value: # | order: asc",
+      "tags": [
+        "chess",
+        "olympiad",
+        "2026"
+      ],
+      "answers": [
+        {
+          "answer": "China",
+          "display": "#1 — 20 match points"
+        },
+        {
+          "answer": "Kazakhstan",
+          "display": "#2 — 18 match points"
+        },
+        {
+          "answer": "India",
+          "display": "#3 — 17 match points"
+        },
+        {
+          "answer": "United States",
+          "display": "#4 — 17 match points",
+          "aliases": [
+            "USA",
+            "US"
+          ]
+        },
+        {
+          "answer": "Poland",
+          "display": "#5 — 17 match points"
+        },
+        {
+          "answer": "Armenia",
+          "display": "#6 — 17 match points"
+        },
+        {
+          "answer": "Mongolia",
+          "display": "#7 — 17 match points"
+        },
+        {
+          "answer": "Georgia",
+          "display": "#8 — 16 match points"
+        },
+        {
+          "answer": "Vietnam",
+          "display": "#9 — 16 match points"
+        },
+        {
+          "answer": "Slovenia",
+          "display": "#10 — 16 match points"
+        }
+      ]
+    }
+  ]
+}

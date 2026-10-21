@@ -1,0 +1,7779 @@
+{
+  "categories": [
+    {
+      "path": "sports/soccer/eastern-europe",
+      "name": "Eastern European League Seasons"
+    },
+    {
+      "path": "sports/soccer/eastern-europe/ekstraklasa",
+      "name": "Ekstraklasa Seasons"
+    },
+    {
+      "path": "sports/soccer/eastern-europe/liga-i",
+      "name": "Liga I Seasons"
+    }
+  ],
+  "questions": [
+    {
+      "category": "sports/soccer/eastern-europe/ekstraklasa",
+      "question": "Top 5 clubs in the final 1973–74 I liga table",
+      "cutoff": 5,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1372122979 | table 1 | name: Team | value: Pos | order: asc",
+      "tags": [
+        "football",
+        "ekstraklasa",
+        "seasons"
+      ],
+      "answers": [
+        {
+          "answer": "Ruch Chorzów",
+          "display": "#1 — 41 pts",
+          "aliases": [
+            "Ruch"
+          ]
+        },
+        {
+          "answer": "Górnik Zabrze",
+          "display": "#2 — 38 pts",
+          "aliases": [
+            "Górnik",
+            "Gornik"
+          ]
+        },
+        {
+          "answer": "Stal Mielec",
+          "display": "#3 — 37 pts",
+          "aliases": [
+            "Stal"
+          ]
+        },
+        {
+          "answer": "Legia Warsaw",
+          "display": "#4 — 34 pts",
+          "aliases": [
+            "Legia"
+          ]
+        },
+        {
+          "answer": "Wisła Kraków",
+          "display": "#5 — 34 pts",
+          "aliases": [
+            "Wisła",
+            "Wisla Krakow"
+          ]
+        },
+        {
+          "answer": "ŁKS Łódź",
+          "display": "#6 — 29 pts",
+          "aliases": [
+            "ŁKS",
+            "LKS Lodz"
+          ]
+        },
+        {
+          "answer": "ROW Rybnik",
+          "display": "#7 — 29 pts"
+        },
+        {
+          "answer": "Pogoń Szczecin",
+          "display": "#8 — 29 pts",
+          "aliases": [
+            "Pogoń",
+            "Pogon Szczecin"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/soccer/eastern-europe/ekstraklasa",
+      "question": "Top 5 clubs in the final 1974–75 I liga table",
+      "cutoff": 5,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1372653258 | table 1 | name: Team | value: Pos | order: asc",
+      "tags": [
+        "football",
+        "ekstraklasa",
+        "seasons"
+      ],
+      "answers": [
+        {
+          "answer": "Ruch Chorzów",
+          "display": "#1 — 44 pts",
+          "aliases": [
+            "Ruch"
+          ]
+        },
+        {
+          "answer": "Stal Mielec",
+          "display": "#2 — 38 pts",
+          "aliases": [
+            "Stal"
+          ]
+        },
+        {
+          "answer": "Śląsk Wrocław",
+          "display": "#3 — 36 pts",
+          "aliases": [
+            "Śląsk",
+            "Slask Wroclaw"
+          ]
+        },
+        {
+          "answer": "Wisła Kraków",
+          "display": "#4 — 34 pts",
+          "aliases": [
+            "Wisła",
+            "Wisla Krakow"
+          ]
+        },
+        {
+          "answer": "Zagłębie Sosnowiec",
+          "display": "#5 — 31 pts"
+        },
+        {
+          "answer": "Legia Warsaw",
+          "display": "#6 — 29 pts",
+          "aliases": [
+            "Legia"
+          ]
+        },
+        {
+          "answer": "Górnik Zabrze",
+          "display": "#7 — 29 pts",
+          "aliases": [
+            "Górnik",
+            "Gornik"
+          ]
+        },
+        {
+          "answer": "Polonia Bytom",
+          "display": "#8 — 28 pts"
+        }
+      ]
+    },
+    {
+      "category": "sports/soccer/eastern-europe/ekstraklasa",
+      "question": "Top 5 clubs in the final 1975–76 I liga table",
+      "cutoff": 5,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1377032218 | table 1 | name: Team | value: Pos | order: asc",
+      "tags": [
+        "football",
+        "ekstraklasa",
+        "seasons"
+      ],
+      "answers": [
+        {
+          "answer": "Stal Mielec",
+          "display": "#1 — 38 pts",
+          "aliases": [
+            "Stal"
+          ]
+        },
+        {
+          "answer": "GKS Tychy",
+          "display": "#2 — 38 pts"
+        },
+        {
+          "answer": "Wisła Kraków",
+          "display": "#3 — 37 pts",
+          "aliases": [
+            "Wisła",
+            "Wisla Krakow"
+          ]
+        },
+        {
+          "answer": "Ruch Chorzów",
+          "display": "#4 — 37 pts",
+          "aliases": [
+            "Ruch"
+          ]
+        },
+        {
+          "answer": "Widzew Łódź",
+          "display": "#5 — 32 pts",
+          "aliases": [
+            "Widzew"
+          ]
+        },
+        {
+          "answer": "Pogoń Szczecin",
+          "display": "#6 — 31 pts",
+          "aliases": [
+            "Pogoń",
+            "Pogon Szczecin"
+          ]
+        },
+        {
+          "answer": "Śląsk Wrocław",
+          "display": "#7 — 31 pts",
+          "aliases": [
+            "Śląsk",
+            "Slask Wroclaw"
+          ]
+        },
+        {
+          "answer": "Legia Warsaw",
+          "display": "#8 — 29 pts",
+          "aliases": [
+            "Legia"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/soccer/eastern-europe/ekstraklasa",
+      "question": "Top 5 clubs in the final 1976–77 I liga table",
+      "cutoff": 5,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1378849370 | table 1 | name: Team | value: Pos | order: asc",
+      "tags": [
+        "football",
+        "ekstraklasa",
+        "seasons"
+      ],
+      "answers": [
+        {
+          "answer": "Śląsk Wrocław",
+          "display": "#1 — 41 pts",
+          "aliases": [
+            "Śląsk",
+            "Slask Wroclaw"
+          ]
+        },
+        {
+          "answer": "Widzew Łódź",
+          "display": "#2 — 38 pts",
+          "aliases": [
+            "Widzew"
+          ]
+        },
+        {
+          "answer": "Górnik Zabrze",
+          "display": "#3 — 37 pts",
+          "aliases": [
+            "Górnik",
+            "Gornik"
+          ]
+        },
+        {
+          "answer": "Stal Mielec",
+          "display": "#4 — 36 pts",
+          "aliases": [
+            "Stal"
+          ]
+        },
+        {
+          "answer": "Zagłębie Sosnowiec",
+          "display": "#5 — 35 pts"
+        },
+        {
+          "answer": "Pogoń Szczecin",
+          "display": "#6 — 35 pts",
+          "aliases": [
+            "Pogoń",
+            "Pogon Szczecin"
+          ]
+        },
+        {
+          "answer": "ŁKS Łódź",
+          "display": "#7 — 33 pts",
+          "aliases": [
+            "ŁKS",
+            "LKS Lodz"
+          ]
+        },
+        {
+          "answer": "Legia Warsaw",
+          "display": "#8 — 30 pts",
+          "aliases": [
+            "Legia"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/soccer/eastern-europe/ekstraklasa",
+      "question": "Top 5 clubs in the final 1977–78 I liga table",
+      "cutoff": 5,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1374336171 | table 1 | name: Team | value: Pos | order: asc",
+      "tags": [
+        "football",
+        "ekstraklasa",
+        "seasons"
+      ],
+      "answers": [
+        {
+          "answer": "Wisła Kraków",
+          "display": "#1 — 39 pts",
+          "aliases": [
+            "Wisła",
+            "Wisla Krakow"
+          ]
+        },
+        {
+          "answer": "Śląsk Wrocław",
+          "display": "#2 — 38 pts",
+          "aliases": [
+            "Śląsk",
+            "Slask Wroclaw"
+          ]
+        },
+        {
+          "answer": "Lech Poznań",
+          "display": "#3 — 37 pts",
+          "aliases": [
+            "Lech",
+            "Lech Poznan"
+          ]
+        },
+        {
+          "answer": "ŁKS Łódź",
+          "display": "#4 — 31 pts",
+          "aliases": [
+            "ŁKS",
+            "LKS Lodz"
+          ]
+        },
+        {
+          "answer": "Legia Warsaw",
+          "display": "#5 — 31 pts",
+          "aliases": [
+            "Legia"
+          ]
+        },
+        {
+          "answer": "Odra Opole",
+          "display": "#6 — 30 pts"
+        },
+        {
+          "answer": "Arka Gdynia",
+          "display": "#7 — 30 pts"
+        },
+        {
+          "answer": "Stal Mielec",
+          "display": "#8 — 29 pts",
+          "aliases": [
+            "Stal"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/soccer/eastern-europe/ekstraklasa",
+      "question": "Top 5 clubs in the final 1978–79 I liga table",
+      "cutoff": 5,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1372120963 | table 1 | name: Team | value: Pos | order: asc",
+      "tags": [
+        "football",
+        "ekstraklasa",
+        "seasons"
+      ],
+      "answers": [
+        {
+          "answer": "Ruch Chorzów",
+          "display": "#1 — 39 pts",
+          "aliases": [
+            "Ruch"
+          ]
+        },
+        {
+          "answer": "Widzew Łódź",
+          "display": "#2 — 39 pts",
+          "aliases": [
+            "Widzew"
+          ]
+        },
+        {
+          "answer": "Stal Mielec",
+          "display": "#3 — 36 pts",
+          "aliases": [
+            "Stal"
+          ]
+        },
+        {
+          "answer": "Szombierki Bytom",
+          "display": "#4 — 35 pts"
+        },
+        {
+          "answer": "Odra Opole",
+          "display": "#5 — 34 pts"
+        },
+        {
+          "answer": "Legia Warsaw",
+          "display": "#6 — 33 pts",
+          "aliases": [
+            "Legia"
+          ]
+        },
+        {
+          "answer": "Lech Poznań",
+          "display": "#7 — 30 pts",
+          "aliases": [
+            "Lech",
+            "Lech Poznan"
+          ]
+        },
+        {
+          "answer": "GKS Katowice",
+          "display": "#8 — 30 pts"
+        }
+      ]
+    },
+    {
+      "category": "sports/soccer/eastern-europe/ekstraklasa",
+      "question": "Top 5 clubs in the final 1979–80 Ekstraklasa table",
+      "cutoff": 5,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1373041585 | table 1 | name: Team | value: Pos | order: asc",
+      "tags": [
+        "football",
+        "ekstraklasa",
+        "seasons"
+      ],
+      "answers": [
+        {
+          "answer": "Szombierki Bytom",
+          "display": "#1 — 39 pts"
+        },
+        {
+          "answer": "Widzew Łódź",
+          "display": "#2 — 36 pts",
+          "aliases": [
+            "Widzew"
+          ]
+        },
+        {
+          "answer": "Legia Warsaw",
+          "display": "#3 — 36 pts",
+          "aliases": [
+            "Legia"
+          ]
+        },
+        {
+          "answer": "Śląsk Wrocław",
+          "display": "#4 — 36 pts",
+          "aliases": [
+            "Śląsk",
+            "Slask Wroclaw"
+          ]
+        },
+        {
+          "answer": "Wisła Kraków",
+          "display": "#5 — 34 pts",
+          "aliases": [
+            "Wisła",
+            "Wisla Krakow"
+          ]
+        },
+        {
+          "answer": "Górnik Zabrze",
+          "display": "#6 — 32 pts",
+          "aliases": [
+            "Górnik",
+            "Gornik"
+          ]
+        },
+        {
+          "answer": "ŁKS Łódź",
+          "display": "#7 — 32 pts",
+          "aliases": [
+            "ŁKS",
+            "LKS Lodz"
+          ]
+        },
+        {
+          "answer": "Arka Gdynia",
+          "display": "#8 — 31 pts"
+        }
+      ]
+    },
+    {
+      "category": "sports/soccer/eastern-europe/ekstraklasa",
+      "question": "Top 5 clubs in the final 1980–81 Ekstraklasa table",
+      "cutoff": 5,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1372123663 | table 1 | name: Team | value: Pos | order: asc",
+      "tags": [
+        "football",
+        "ekstraklasa",
+        "seasons"
+      ],
+      "answers": [
+        {
+          "answer": "Widzew Łódź",
+          "display": "#1 — 39 pts",
+          "aliases": [
+            "Widzew"
+          ]
+        },
+        {
+          "answer": "Wisła Kraków",
+          "display": "#2 — 37 pts",
+          "aliases": [
+            "Wisła",
+            "Wisla Krakow"
+          ]
+        },
+        {
+          "answer": "Szombierki Bytom",
+          "display": "#3 — 36 pts"
+        },
+        {
+          "answer": "Śląsk Wrocław",
+          "display": "#4 — 36 pts",
+          "aliases": [
+            "Śląsk",
+            "Slask Wroclaw"
+          ]
+        },
+        {
+          "answer": "Legia Warsaw",
+          "display": "#5 — 36 pts",
+          "aliases": [
+            "Legia"
+          ]
+        },
+        {
+          "answer": "Bałtyk Gdynia",
+          "display": "#6 — 36 pts"
+        },
+        {
+          "answer": "Ruch Chorzów",
+          "display": "#7 — 30 pts",
+          "aliases": [
+            "Ruch"
+          ]
+        },
+        {
+          "answer": "Lech Poznań",
+          "display": "#8 — 29 pts",
+          "aliases": [
+            "Lech",
+            "Lech Poznan"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/soccer/eastern-europe/ekstraklasa",
+      "question": "Top 5 clubs in the final 1981–82 Ekstraklasa table",
+      "cutoff": 5,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1376526488 | table 1 | name: Team | value: Pos | order: asc",
+      "tags": [
+        "football",
+        "ekstraklasa",
+        "seasons"
+      ],
+      "answers": [
+        {
+          "answer": "Widzew Łódź",
+          "display": "#1 — 39 pts",
+          "aliases": [
+            "Widzew"
+          ]
+        },
+        {
+          "answer": "Śląsk Wrocław",
+          "display": "#2 — 39 pts",
+          "aliases": [
+            "Śląsk",
+            "Slask Wroclaw"
+          ]
+        },
+        {
+          "answer": "Stal Mielec",
+          "display": "#3 — 35 pts",
+          "aliases": [
+            "Stal"
+          ]
+        },
+        {
+          "answer": "Legia Warsaw",
+          "display": "#4 — 35 pts",
+          "aliases": [
+            "Legia"
+          ]
+        },
+        {
+          "answer": "Górnik Zabrze",
+          "display": "#5 — 33 pts",
+          "aliases": [
+            "Górnik",
+            "Gornik"
+          ]
+        },
+        {
+          "answer": "Pogoń Szczecin",
+          "display": "#6 — 33 pts",
+          "aliases": [
+            "Pogoń",
+            "Pogon Szczecin"
+          ]
+        },
+        {
+          "answer": "Gwardia Warsaw",
+          "display": "#7 — 32 pts"
+        },
+        {
+          "answer": "Wisła Kraków",
+          "display": "#8 — 29 pts",
+          "aliases": [
+            "Wisła",
+            "Wisla Krakow"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/soccer/eastern-europe/ekstraklasa",
+      "question": "Top 5 clubs in the final 1982–83 Ekstraklasa table",
+      "cutoff": 5,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1372123211 | table 1 | name: Team | value: Pos | order: asc",
+      "tags": [
+        "football",
+        "ekstraklasa",
+        "seasons"
+      ],
+      "answers": [
+        {
+          "answer": "Lech Poznań",
+          "display": "#1 — 39 pts",
+          "aliases": [
+            "Lech",
+            "Lech Poznan"
+          ]
+        },
+        {
+          "answer": "Widzew Łódź",
+          "display": "#2 — 38 pts",
+          "aliases": [
+            "Widzew"
+          ]
+        },
+        {
+          "answer": "Ruch Chorzów",
+          "display": "#3 — 35 pts",
+          "aliases": [
+            "Ruch"
+          ]
+        },
+        {
+          "answer": "Pogoń Szczecin",
+          "display": "#4 — 33 pts",
+          "aliases": [
+            "Pogoń",
+            "Pogon Szczecin"
+          ]
+        },
+        {
+          "answer": "Wisła Kraków",
+          "display": "#5 — 32 pts",
+          "aliases": [
+            "Wisła",
+            "Wisla Krakow"
+          ]
+        },
+        {
+          "answer": "Śląsk Wrocław",
+          "display": "#6 — 30 pts",
+          "aliases": [
+            "Śląsk",
+            "Slask Wroclaw"
+          ]
+        },
+        {
+          "answer": "ŁKS Łódź",
+          "display": "#7 — 30 pts",
+          "aliases": [
+            "ŁKS",
+            "LKS Lodz"
+          ]
+        },
+        {
+          "answer": "Legia Warsaw",
+          "display": "#8 — 29 pts",
+          "aliases": [
+            "Legia"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/soccer/eastern-europe/ekstraklasa",
+      "question": "Top 5 clubs in the final 1983–84 Ekstraklasa table",
+      "cutoff": 5,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1372123361 | table 1 | name: Team | value: Pos | order: asc",
+      "tags": [
+        "football",
+        "ekstraklasa",
+        "seasons"
+      ],
+      "answers": [
+        {
+          "answer": "Lech Poznań",
+          "display": "#1 — 42 pts",
+          "aliases": [
+            "Lech",
+            "Lech Poznan"
+          ]
+        },
+        {
+          "answer": "Widzew Łódź",
+          "display": "#2 — 42 pts",
+          "aliases": [
+            "Widzew"
+          ]
+        },
+        {
+          "answer": "Pogoń Szczecin",
+          "display": "#3 — 38 pts",
+          "aliases": [
+            "Pogoń",
+            "Pogon Szczecin"
+          ]
+        },
+        {
+          "answer": "Górnik Zabrze",
+          "display": "#4 — 34 pts",
+          "aliases": [
+            "Górnik",
+            "Gornik"
+          ]
+        },
+        {
+          "answer": "Legia Warsaw",
+          "display": "#5 — 33 pts",
+          "aliases": [
+            "Legia"
+          ]
+        },
+        {
+          "answer": "Górnik Wałbrzych",
+          "display": "#6 — 31 pts"
+        },
+        {
+          "answer": "Ruch Chorzów",
+          "display": "#7 — 30 pts",
+          "aliases": [
+            "Ruch"
+          ]
+        },
+        {
+          "answer": "Śląsk Wrocław",
+          "display": "#8 — 30 pts",
+          "aliases": [
+            "Śląsk",
+            "Slask Wroclaw"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/soccer/eastern-europe/ekstraklasa",
+      "question": "Top 5 clubs in the final 1984–85 Ekstraklasa table",
+      "cutoff": 5,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1376318716 | table 1 | name: Team | value: Pos | order: asc",
+      "tags": [
+        "football",
+        "ekstraklasa",
+        "seasons"
+      ],
+      "answers": [
+        {
+          "answer": "Górnik Zabrze",
+          "display": "#1 — 42 pts",
+          "aliases": [
+            "Górnik",
+            "Gornik"
+          ]
+        },
+        {
+          "answer": "Legia Warsaw",
+          "display": "#2 — 41 pts",
+          "aliases": [
+            "Legia"
+          ]
+        },
+        {
+          "answer": "Widzew Łódź",
+          "display": "#3 — 38 pts",
+          "aliases": [
+            "Widzew"
+          ]
+        },
+        {
+          "answer": "Lech Poznań",
+          "display": "#4 — 38 pts",
+          "aliases": [
+            "Lech",
+            "Lech Poznan"
+          ]
+        },
+        {
+          "answer": "Zagłębie Sosnowiec",
+          "display": "#5 — 31 pts"
+        },
+        {
+          "answer": "ŁKS Łódź",
+          "display": "#6 — 30 pts",
+          "aliases": [
+            "ŁKS",
+            "LKS Lodz"
+          ]
+        },
+        {
+          "answer": "Ruch Chorzów",
+          "display": "#7 — 29 pts",
+          "aliases": [
+            "Ruch"
+          ]
+        },
+        {
+          "answer": "Górnik Wałbrzych",
+          "display": "#8 — 29 pts"
+        }
+      ]
+    },
+    {
+      "category": "sports/soccer/eastern-europe/ekstraklasa",
+      "question": "Top 5 clubs in the final 1985–86 Ekstraklasa table",
+      "cutoff": 5,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1331446793 | table 1 | name: Team | value: Pos | order: asc",
+      "tags": [
+        "football",
+        "ekstraklasa",
+        "seasons"
+      ],
+      "answers": [
+        {
+          "answer": "Górnik Zabrze",
+          "display": "#1 — 46 pts",
+          "aliases": [
+            "Górnik",
+            "Gornik"
+          ]
+        },
+        {
+          "answer": "Legia Warsaw",
+          "display": "#2 — 42 pts",
+          "aliases": [
+            "Legia"
+          ]
+        },
+        {
+          "answer": "Widzew Łódź",
+          "display": "#3 — 41 pts",
+          "aliases": [
+            "Widzew"
+          ]
+        },
+        {
+          "answer": "Lech Poznań",
+          "display": "#4 — 36 pts",
+          "aliases": [
+            "Lech",
+            "Lech Poznan"
+          ]
+        },
+        {
+          "answer": "GKS Katowice",
+          "display": "#5 — 31 pts"
+        },
+        {
+          "answer": "Górnik Wałbrzych",
+          "display": "#6 — 30 pts"
+        },
+        {
+          "answer": "Śląsk Wrocław",
+          "display": "#7 — 29 pts",
+          "aliases": [
+            "Śląsk",
+            "Slask Wroclaw"
+          ]
+        },
+        {
+          "answer": "ŁKS Łódź",
+          "display": "#8 — 28 pts",
+          "aliases": [
+            "ŁKS",
+            "LKS Lodz"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/soccer/eastern-europe/ekstraklasa",
+      "question": "Top 5 clubs in the final 1986–87 Ekstraklasa table",
+      "cutoff": 5,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1374234598 | table 1 | name: Team | value: Pos | order: asc",
+      "tags": [
+        "football",
+        "ekstraklasa",
+        "seasons"
+      ],
+      "answers": [
+        {
+          "answer": "Górnik Zabrze",
+          "display": "#1 — 49 pts",
+          "aliases": [
+            "Górnik",
+            "Gornik"
+          ]
+        },
+        {
+          "answer": "Pogoń Szczecin",
+          "display": "#2 — 44 pts",
+          "aliases": [
+            "Pogoń",
+            "Pogon Szczecin"
+          ]
+        },
+        {
+          "answer": "GKS Katowice",
+          "display": "#3 — 43 pts"
+        },
+        {
+          "answer": "Śląsk Wrocław",
+          "display": "#4 — 40 pts",
+          "aliases": [
+            "Śląsk",
+            "Slask Wroclaw"
+          ]
+        },
+        {
+          "answer": "Legia Warsaw",
+          "display": "#5 — 38 pts",
+          "aliases": [
+            "Legia"
+          ]
+        },
+        {
+          "answer": "Widzew Łódź",
+          "display": "#6 — 36 pts",
+          "aliases": [
+            "Widzew"
+          ]
+        },
+        {
+          "answer": "Lech Poznań",
+          "display": "#7 — 29 pts",
+          "aliases": [
+            "Lech",
+            "Lech Poznan"
+          ]
+        },
+        {
+          "answer": "Zagłębie Lubin",
+          "display": "#8 — 28 pts"
+        }
+      ]
+    },
+    {
+      "category": "sports/soccer/eastern-europe/ekstraklasa",
+      "question": "Top 5 clubs in the final 1987–88 Ekstraklasa table",
+      "cutoff": 5,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1374336266 | table 1 | name: Team | value: Pos | order: asc",
+      "tags": [
+        "football",
+        "ekstraklasa",
+        "seasons"
+      ],
+      "answers": [
+        {
+          "answer": "Górnik Zabrze",
+          "display": "#1 — 51 pts",
+          "aliases": [
+            "Górnik",
+            "Gornik"
+          ]
+        },
+        {
+          "answer": "GKS Katowice",
+          "display": "#2 — 40 pts"
+        },
+        {
+          "answer": "Legia Warsaw",
+          "display": "#3 — 39 pts",
+          "aliases": [
+            "Legia"
+          ]
+        },
+        {
+          "answer": "ŁKS Łódź",
+          "display": "#4 — 39 pts",
+          "aliases": [
+            "ŁKS",
+            "LKS Lodz"
+          ]
+        },
+        {
+          "answer": "Widzew Łódź",
+          "display": "#5 — 31 pts",
+          "aliases": [
+            "Widzew"
+          ]
+        },
+        {
+          "answer": "Śląsk Wrocław",
+          "display": "#6 — 29 pts",
+          "aliases": [
+            "Śląsk",
+            "Slask Wroclaw"
+          ]
+        },
+        {
+          "answer": "Szombierki Bytom",
+          "display": "#7 — 29 pts"
+        },
+        {
+          "answer": "Jagiellonia Białystok",
+          "display": "#8 — 29 pts",
+          "aliases": [
+            "Jagiellonia"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/soccer/eastern-europe/ekstraklasa",
+      "question": "Top 5 clubs in the final 1988–89 Ekstraklasa table",
+      "cutoff": 5,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1330818345 | table 1 | name: Team | value: Pos | order: asc",
+      "tags": [
+        "football",
+        "ekstraklasa",
+        "seasons"
+      ],
+      "answers": [
+        {
+          "answer": "Ruch Chorzów",
+          "display": "#1 — 52 pts",
+          "aliases": [
+            "Ruch"
+          ]
+        },
+        {
+          "answer": "GKS Katowice",
+          "display": "#2 — 47 pts"
+        },
+        {
+          "answer": "Górnik Zabrze",
+          "display": "#3 — 45 pts",
+          "aliases": [
+            "Górnik",
+            "Gornik"
+          ]
+        },
+        {
+          "answer": "Legia Warsaw",
+          "display": "#4 — 43 pts",
+          "aliases": [
+            "Legia"
+          ]
+        },
+        {
+          "answer": "Stal Mielec",
+          "display": "#5 — 33 pts",
+          "aliases": [
+            "Stal"
+          ]
+        },
+        {
+          "answer": "Lech Poznań",
+          "display": "#6 — 33 pts",
+          "aliases": [
+            "Lech",
+            "Lech Poznan"
+          ]
+        },
+        {
+          "answer": "Śląsk Wrocław",
+          "display": "#7 — 29 pts",
+          "aliases": [
+            "Śląsk",
+            "Slask Wroclaw"
+          ]
+        },
+        {
+          "answer": "Widzew Łódź",
+          "display": "#8 — 29 pts",
+          "aliases": [
+            "Widzew"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/soccer/eastern-europe/ekstraklasa",
+      "question": "Top 5 clubs in the final 1989–90 Ekstraklasa table",
+      "cutoff": 5,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1367177890 | table 1 | name: Team | value: Pos | order: asc",
+      "tags": [
+        "football",
+        "ekstraklasa",
+        "seasons"
+      ],
+      "answers": [
+        {
+          "answer": "Lech Poznań",
+          "display": "#1 — 42 pts",
+          "aliases": [
+            "Lech",
+            "Lech Poznan"
+          ]
+        },
+        {
+          "answer": "Zagłębie Lubin",
+          "display": "#2 — 40 pts"
+        },
+        {
+          "answer": "GKS Katowice",
+          "display": "#3 — 40 pts"
+        },
+        {
+          "answer": "Zawisza Bydgoszcz",
+          "display": "#4 — 37 pts"
+        },
+        {
+          "answer": "Olimpia Poznań",
+          "display": "#5 — 36 pts"
+        },
+        {
+          "answer": "Górnik Zabrze",
+          "display": "#6 — 36 pts",
+          "aliases": [
+            "Górnik",
+            "Gornik"
+          ]
+        },
+        {
+          "answer": "Legia Warsaw",
+          "display": "#7 — 35 pts",
+          "aliases": [
+            "Legia"
+          ]
+        },
+        {
+          "answer": "ŁKS Łódź",
+          "display": "#8 — 34 pts",
+          "aliases": [
+            "ŁKS",
+            "LKS Lodz"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/soccer/eastern-europe/ekstraklasa",
+      "question": "Top 5 clubs in the final 1990–91 Ekstraklasa table",
+      "cutoff": 5,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1372121228 | table 1 | name: Team | value: Pos | order: asc",
+      "tags": [
+        "football",
+        "ekstraklasa",
+        "seasons"
+      ],
+      "answers": [
+        {
+          "answer": "Zagłębie Lubin",
+          "display": "#1 — 44 pts"
+        },
+        {
+          "answer": "Górnik Zabrze",
+          "display": "#2 — 40 pts",
+          "aliases": [
+            "Górnik",
+            "Gornik"
+          ]
+        },
+        {
+          "answer": "Wisła Kraków",
+          "display": "#3 — 40 pts",
+          "aliases": [
+            "Wisła",
+            "Wisla Krakow"
+          ]
+        },
+        {
+          "answer": "GKS Katowice",
+          "display": "#4 — 39 pts"
+        },
+        {
+          "answer": "Hutnik Kraków",
+          "display": "#5 — 37 pts"
+        },
+        {
+          "answer": "Lech Poznań",
+          "display": "#6 — 33 pts",
+          "aliases": [
+            "Lech",
+            "Lech Poznan"
+          ]
+        },
+        {
+          "answer": "Śląsk Wrocław",
+          "display": "#7 — 33 pts",
+          "aliases": [
+            "Śląsk",
+            "Slask Wroclaw"
+          ]
+        },
+        {
+          "answer": "Olimpia Poznań",
+          "display": "#8 — 30 pts"
+        }
+      ]
+    },
+    {
+      "category": "sports/soccer/eastern-europe/ekstraklasa",
+      "question": "Top 6 clubs in the final 1991–92 Ekstraklasa table",
+      "cutoff": 6,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1372121297 | table 1 | name: Team | value: Pos | order: asc",
+      "tags": [
+        "football",
+        "ekstraklasa",
+        "seasons"
+      ],
+      "answers": [
+        {
+          "answer": "Lech Poznań",
+          "display": "#1 — 49 pts",
+          "aliases": [
+            "Lech",
+            "Lech Poznan"
+          ]
+        },
+        {
+          "answer": "GKS Katowice",
+          "display": "#2 — 44 pts"
+        },
+        {
+          "answer": "Widzew Łódź",
+          "display": "#3 — 43 pts",
+          "aliases": [
+            "Widzew"
+          ]
+        },
+        {
+          "answer": "Górnik Zabrze",
+          "display": "#4 — 43 pts",
+          "aliases": [
+            "Górnik",
+            "Gornik"
+          ]
+        },
+        {
+          "answer": "Ruch Chorzów",
+          "display": "#5 — 39 pts",
+          "aliases": [
+            "Ruch"
+          ]
+        },
+        {
+          "answer": "Śląsk Wrocław",
+          "display": "#6 — 38 pts",
+          "aliases": [
+            "Śląsk",
+            "Slask Wroclaw"
+          ]
+        },
+        {
+          "answer": "Wisła Kraków",
+          "display": "#7 — 34 pts",
+          "aliases": [
+            "Wisła",
+            "Wisla Krakow"
+          ]
+        },
+        {
+          "answer": "Zawisza Bydgoszcz",
+          "display": "#8 — 34 pts"
+        },
+        {
+          "answer": "Zagłębie Lubin",
+          "display": "#9 — 34 pts"
+        }
+      ]
+    },
+    {
+      "category": "sports/soccer/eastern-europe/ekstraklasa",
+      "question": "Top 6 clubs in the final 1992–93 I liga table",
+      "cutoff": 6,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1371951137 | table 1 | name: Team | value: Pos | order: asc",
+      "tags": [
+        "football",
+        "ekstraklasa",
+        "seasons"
+      ],
+      "answers": [
+        {
+          "answer": "Lech Poznań",
+          "display": "#1 — 47 pts",
+          "aliases": [
+            "Lech",
+            "Lech Poznan"
+          ]
+        },
+        {
+          "answer": "Legia Warsaw",
+          "display": "#2 — 47 pts",
+          "aliases": [
+            "Legia"
+          ]
+        },
+        {
+          "answer": "ŁKS Łódź",
+          "display": "#3 — 47 pts",
+          "aliases": [
+            "ŁKS",
+            "LKS Lodz"
+          ]
+        },
+        {
+          "answer": "Ruch Chorzów",
+          "display": "#4 — 44 pts",
+          "aliases": [
+            "Ruch"
+          ]
+        },
+        {
+          "answer": "Widzew Łódź",
+          "display": "#5 — 43 pts",
+          "aliases": [
+            "Widzew"
+          ]
+        },
+        {
+          "answer": "Stal Mielec",
+          "display": "#6 — 39 pts",
+          "aliases": [
+            "Stal"
+          ]
+        },
+        {
+          "answer": "Pogoń Szczecin",
+          "display": "#7 — 39 pts",
+          "aliases": [
+            "Pogoń",
+            "Pogon Szczecin"
+          ]
+        },
+        {
+          "answer": "GKS Katowice",
+          "display": "#8 — 37 pts"
+        },
+        {
+          "answer": "Górnik Zabrze",
+          "display": "#9 — 35 pts",
+          "aliases": [
+            "Górnik",
+            "Gornik"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/soccer/eastern-europe/ekstraklasa",
+      "question": "Top 6 clubs in the final 1993–94 Ekstraklasa table",
+      "cutoff": 6,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1378450424 | table 1 | name: Team | value: Pos | order: asc",
+      "tags": [
+        "football",
+        "ekstraklasa",
+        "seasons"
+      ],
+      "answers": [
+        {
+          "answer": "Legia Warsaw",
+          "display": "#1 — 48 pts",
+          "aliases": [
+            "Legia"
+          ]
+        },
+        {
+          "answer": "GKS Katowice",
+          "display": "#2 — 47 pts"
+        },
+        {
+          "answer": "Górnik Zabrze",
+          "display": "#3 — 46 pts",
+          "aliases": [
+            "Górnik",
+            "Gornik"
+          ]
+        },
+        {
+          "answer": "ŁKS Łódź",
+          "display": "#4 — 42 pts",
+          "aliases": [
+            "ŁKS",
+            "LKS Lodz"
+          ]
+        },
+        {
+          "answer": "Pogoń Szczecin",
+          "display": "#5 — 41 pts",
+          "aliases": [
+            "Pogoń",
+            "Pogon Szczecin"
+          ]
+        },
+        {
+          "answer": "Widzew Łódź",
+          "display": "#6 — 39 pts",
+          "aliases": [
+            "Widzew"
+          ]
+        },
+        {
+          "answer": "Ruch Chorzów",
+          "display": "#7 — 37 pts",
+          "aliases": [
+            "Ruch"
+          ]
+        },
+        {
+          "answer": "Hutnik Kraków",
+          "display": "#8 — 37 pts"
+        },
+        {
+          "answer": "Lech Poznań",
+          "display": "#9 — 35 pts",
+          "aliases": [
+            "Lech",
+            "Lech Poznan"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/soccer/eastern-europe/ekstraklasa",
+      "question": "Top 6 clubs in the final 1994–95 Ekstraklasa table",
+      "cutoff": 6,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1375198306 | table 1 | name: Team | value: Pos | order: asc",
+      "tags": [
+        "football",
+        "ekstraklasa",
+        "seasons"
+      ],
+      "answers": [
+        {
+          "answer": "Legia Warsaw",
+          "display": "#1 — 51 pts",
+          "aliases": [
+            "Legia"
+          ]
+        },
+        {
+          "answer": "Widzew Łódź",
+          "display": "#2 — 45 pts",
+          "aliases": [
+            "Widzew"
+          ]
+        },
+        {
+          "answer": "GKS Katowice",
+          "display": "#3 — 42 pts"
+        },
+        {
+          "answer": "Zagłębie Lubin",
+          "display": "#4 — 42 pts"
+        },
+        {
+          "answer": "Górnik Zabrze",
+          "display": "#5 — 37 pts",
+          "aliases": [
+            "Górnik",
+            "Gornik"
+          ]
+        },
+        {
+          "answer": "Lech Poznań",
+          "display": "#6 — 34 pts",
+          "aliases": [
+            "Lech",
+            "Lech Poznan"
+          ]
+        },
+        {
+          "answer": "ŁKS Łódź",
+          "display": "#7 — 34 pts",
+          "aliases": [
+            "ŁKS",
+            "LKS Lodz"
+          ]
+        },
+        {
+          "answer": "Pogoń Szczecin",
+          "display": "#8 — 33 pts",
+          "aliases": [
+            "Pogoń",
+            "Pogon Szczecin"
+          ]
+        },
+        {
+          "answer": "Hutnik Kraków",
+          "display": "#9 — 32 pts"
+        }
+      ]
+    },
+    {
+      "category": "sports/soccer/eastern-europe/ekstraklasa",
+      "question": "Top 6 clubs in the final 1995–96 Ekstraklasa table",
+      "cutoff": 6,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1372121927 | table 1 | name: Team | value: Pos | order: asc",
+      "tags": [
+        "football",
+        "ekstraklasa",
+        "seasons"
+      ],
+      "answers": [
+        {
+          "answer": "Widzew Łódź",
+          "display": "#1 — 88 pts",
+          "aliases": [
+            "Widzew"
+          ]
+        },
+        {
+          "answer": "Legia Warsaw",
+          "display": "#2 — 85 pts",
+          "aliases": [
+            "Legia"
+          ]
+        },
+        {
+          "answer": "Hutnik Kraków",
+          "display": "#3 — 52 pts"
+        },
+        {
+          "answer": "ŁKS Łódź",
+          "display": "#4 — 49 pts",
+          "aliases": [
+            "ŁKS",
+            "LKS Lodz"
+          ]
+        },
+        {
+          "answer": "Amica Wronki",
+          "display": "#5 — 48 pts",
+          "aliases": [
+            "Amica"
+          ]
+        },
+        {
+          "answer": "Stomil Olsztyn",
+          "display": "#6 — 46 pts"
+        },
+        {
+          "answer": "Lech Poznań",
+          "display": "#7 — 45 pts",
+          "aliases": [
+            "Lech",
+            "Lech Poznan"
+          ]
+        },
+        {
+          "answer": "Raków Częstochowa",
+          "display": "#8 — 44 pts",
+          "aliases": [
+            "Raków",
+            "Rakow"
+          ]
+        },
+        {
+          "answer": "Sokół Pniewy/Tychy",
+          "display": "#9 — 44 pts"
+        }
+      ]
+    },
+    {
+      "category": "sports/soccer/eastern-europe/ekstraklasa",
+      "question": "Top 6 clubs in the final 1996–97 Ekstraklasa table",
+      "cutoff": 6,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1367178341 | table 1 | name: Team | value: Pos | order: asc",
+      "tags": [
+        "football",
+        "ekstraklasa",
+        "seasons"
+      ],
+      "answers": [
+        {
+          "answer": "Widzew Łódź",
+          "display": "#1 — 81 pts",
+          "aliases": [
+            "Widzew"
+          ]
+        },
+        {
+          "answer": "Legia Warsaw",
+          "display": "#2 — 77 pts",
+          "aliases": [
+            "Legia"
+          ]
+        },
+        {
+          "answer": "Odra Wodzisław",
+          "display": "#3 — 55 pts"
+        },
+        {
+          "answer": "GKS Katowice",
+          "display": "#4 — 53 pts"
+        },
+        {
+          "answer": "Amica Wronki",
+          "display": "#5 — 52 pts",
+          "aliases": [
+            "Amica"
+          ]
+        },
+        {
+          "answer": "ŁKS Łódź",
+          "display": "#6 — 49 pts",
+          "aliases": [
+            "ŁKS",
+            "LKS Lodz"
+          ]
+        },
+        {
+          "answer": "Zagłębie Lubin",
+          "display": "#7 — 49 pts"
+        },
+        {
+          "answer": "Polonia Warsaw",
+          "display": "#8 — 48 pts",
+          "aliases": [
+            "Polonia"
+          ]
+        },
+        {
+          "answer": "Stomil Olsztyn",
+          "display": "#9 — 44 pts"
+        }
+      ]
+    },
+    {
+      "category": "sports/soccer/eastern-europe/ekstraklasa",
+      "question": "Top 6 clubs in the final 1997–98 Ekstraklasa table",
+      "cutoff": 6,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1373520169 | table 1 | name: Team | value: Pos | order: asc",
+      "tags": [
+        "football",
+        "ekstraklasa",
+        "seasons"
+      ],
+      "answers": [
+        {
+          "answer": "ŁKS Łódź",
+          "display": "#1 — 66 pts",
+          "aliases": [
+            "ŁKS",
+            "LKS Lodz"
+          ]
+        },
+        {
+          "answer": "Polonia Warsaw",
+          "display": "#2 — 63 pts",
+          "aliases": [
+            "Polonia"
+          ]
+        },
+        {
+          "answer": "Wisła Kraków",
+          "display": "#3 — 61 pts",
+          "aliases": [
+            "Wisła",
+            "Wisla Krakow"
+          ]
+        },
+        {
+          "answer": "Widzew Łódź",
+          "display": "#4 — 61 pts",
+          "aliases": [
+            "Widzew"
+          ]
+        },
+        {
+          "answer": "Legia Warsaw",
+          "display": "#5 — 59 pts",
+          "aliases": [
+            "Legia"
+          ]
+        },
+        {
+          "answer": "Ruch Chorzów",
+          "display": "#6 — 55 pts",
+          "aliases": [
+            "Ruch"
+          ]
+        },
+        {
+          "answer": "Amica Wronki",
+          "display": "#7 — 50 pts",
+          "aliases": [
+            "Amica"
+          ]
+        },
+        {
+          "answer": "Górnik Zabrze",
+          "display": "#8 — 48 pts",
+          "aliases": [
+            "Górnik",
+            "Gornik"
+          ]
+        },
+        {
+          "answer": "Odra Wodzisław",
+          "display": "#9 — 48 pts"
+        }
+      ]
+    },
+    {
+      "category": "sports/soccer/eastern-europe/ekstraklasa",
+      "question": "Top 5 clubs in the final 1998–99 Ekstraklasa table",
+      "cutoff": 5,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1378668745 | table 1 | name: Team | value: Pos | order: asc",
+      "tags": [
+        "football",
+        "ekstraklasa",
+        "seasons"
+      ],
+      "answers": [
+        {
+          "answer": "Wisła Kraków",
+          "display": "#1 — 73 pts",
+          "aliases": [
+            "Wisła",
+            "Wisla Krakow"
+          ]
+        },
+        {
+          "answer": "Widzew Łódź",
+          "display": "#2 — 56 pts",
+          "aliases": [
+            "Widzew"
+          ]
+        },
+        {
+          "answer": "Legia Warsaw",
+          "display": "#3 — 56 pts",
+          "aliases": [
+            "Legia"
+          ]
+        },
+        {
+          "answer": "Lech Poznań",
+          "display": "#4 — 54 pts",
+          "aliases": [
+            "Lech",
+            "Lech Poznan"
+          ]
+        },
+        {
+          "answer": "Polonia Warsaw",
+          "display": "#5 — 46 pts",
+          "aliases": [
+            "Polonia"
+          ]
+        },
+        {
+          "answer": "Ruch Radzionków",
+          "display": "#6 — 41 pts"
+        },
+        {
+          "answer": "Górnik Zabrze",
+          "display": "#7 — 39 pts",
+          "aliases": [
+            "Górnik",
+            "Gornik"
+          ]
+        },
+        {
+          "answer": "Zagłębie Lubin",
+          "display": "#8 — 38 pts"
+        }
+      ]
+    },
+    {
+      "category": "sports/soccer/eastern-europe/ekstraklasa",
+      "question": "Top 5 clubs in the final 2000–01 Ekstraklasa table",
+      "cutoff": 5,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1377238863 | table 1 | name: Team | value: Pos | order: asc",
+      "tags": [
+        "football",
+        "ekstraklasa",
+        "seasons"
+      ],
+      "answers": [
+        {
+          "answer": "Wisła Kraków",
+          "display": "#1 — 62 pts",
+          "aliases": [
+            "Wisła",
+            "Wisla Krakow"
+          ]
+        },
+        {
+          "answer": "Pogoń Szczecin",
+          "display": "#2 — 53 pts",
+          "aliases": [
+            "Pogoń",
+            "Pogon Szczecin"
+          ]
+        },
+        {
+          "answer": "Legia Warsaw",
+          "display": "#3 — 50 pts",
+          "aliases": [
+            "Legia"
+          ]
+        },
+        {
+          "answer": "Polonia Warsaw",
+          "display": "#4 — 46 pts",
+          "aliases": [
+            "Polonia"
+          ]
+        },
+        {
+          "answer": "Zagłębie Lubin",
+          "display": "#5 — 46 pts"
+        },
+        {
+          "answer": "Ruch Chorzów",
+          "display": "#6 — 44 pts",
+          "aliases": [
+            "Ruch"
+          ]
+        },
+        {
+          "answer": "Amica Wronki",
+          "display": "#7 — 44 pts",
+          "aliases": [
+            "Amica"
+          ]
+        },
+        {
+          "answer": "GKS Katowice",
+          "display": "#8 — 42 pts"
+        }
+      ]
+    },
+    {
+      "category": "sports/soccer/eastern-europe/ekstraklasa",
+      "question": "Top 5 clubs in the final 2002–03 Ekstraklasa table",
+      "cutoff": 5,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1371951277 | table 1 | name: Team | value: Pos | order: asc",
+      "tags": [
+        "football",
+        "ekstraklasa",
+        "seasons"
+      ],
+      "answers": [
+        {
+          "answer": "Wisła Kraków",
+          "display": "#1 — 68 pts",
+          "aliases": [
+            "Wisła",
+            "Wisla Krakow"
+          ]
+        },
+        {
+          "answer": "Dyskobolia Grodzisk",
+          "display": "#2 — 62 pts",
+          "aliases": [
+            "Dyskobolia",
+            "Dyskobolia Grodzisk Wielkopolski"
+          ]
+        },
+        {
+          "answer": "Dospel Katowice",
+          "display": "#3 — 61 pts"
+        },
+        {
+          "answer": "Legia Warsaw",
+          "display": "#4 — 60 pts",
+          "aliases": [
+            "Legia"
+          ]
+        },
+        {
+          "answer": "Odra Wodzisław",
+          "display": "#5 — 56 pts"
+        },
+        {
+          "answer": "Amica Wronki",
+          "display": "#6 — 43 pts",
+          "aliases": [
+            "Amica"
+          ]
+        },
+        {
+          "answer": "Górnik Zabrze",
+          "display": "#7 — 41 pts",
+          "aliases": [
+            "Górnik",
+            "Gornik"
+          ]
+        },
+        {
+          "answer": "Polonia Warsaw",
+          "display": "#8 — 41 pts",
+          "aliases": [
+            "Polonia"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/soccer/eastern-europe/ekstraklasa",
+      "question": "Top 5 clubs in the final 2005–06 Ekstraklasa table",
+      "cutoff": 5,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1367018824 | table 1 | name: Team | value: Pos | order: asc",
+      "tags": [
+        "football",
+        "ekstraklasa",
+        "seasons"
+      ],
+      "answers": [
+        {
+          "answer": "Legia Warsaw",
+          "display": "#1 — 66 pts",
+          "aliases": [
+            "Legia"
+          ]
+        },
+        {
+          "answer": "Wisła Kraków",
+          "display": "#2 — 64 pts",
+          "aliases": [
+            "Wisła",
+            "Wisla Krakow"
+          ]
+        },
+        {
+          "answer": "Zagłębie Lubin",
+          "display": "#3 — 49 pts"
+        },
+        {
+          "answer": "Amica Wronki",
+          "display": "#4 — 49 pts",
+          "aliases": [
+            "Amica"
+          ]
+        },
+        {
+          "answer": "Korona Kielce",
+          "display": "#5 — 47 pts",
+          "aliases": [
+            "Korona"
+          ]
+        },
+        {
+          "answer": "Odra Wodzisław",
+          "display": "#6 — 40 pts"
+        },
+        {
+          "answer": "Dyskobolia Grodzisk",
+          "display": "#7 — 37 pts",
+          "aliases": [
+            "Dyskobolia",
+            "Dyskobolia Grodzisk Wielkopolski"
+          ]
+        },
+        {
+          "answer": "Cracovia",
+          "display": "#8 — 37 pts",
+          "aliases": [
+            "KS Cracovia"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/soccer/eastern-europe/ekstraklasa",
+      "question": "Top 5 clubs in the final 2006–07 Ekstraklasa table",
+      "cutoff": 5,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1370864922 | table 1 | name: Team | value: Pos | order: asc",
+      "tags": [
+        "football",
+        "ekstraklasa",
+        "seasons"
+      ],
+      "answers": [
+        {
+          "answer": "Zagłębie Lubin",
+          "display": "#1 — 62 pts"
+        },
+        {
+          "answer": "GKS Bełchatów",
+          "display": "#2 — 61 pts"
+        },
+        {
+          "answer": "Legia Warsaw",
+          "display": "#3 — 52 pts",
+          "aliases": [
+            "Legia"
+          ]
+        },
+        {
+          "answer": "Cracovia",
+          "display": "#4 — 49 pts",
+          "aliases": [
+            "KS Cracovia"
+          ]
+        },
+        {
+          "answer": "Dyskobolia Grodzisk",
+          "display": "#5 — 48 pts",
+          "aliases": [
+            "Dyskobolia",
+            "Dyskobolia Grodzisk Wielkopolski"
+          ]
+        },
+        {
+          "answer": "Lech Poznań",
+          "display": "#6 — 47 pts",
+          "aliases": [
+            "Lech",
+            "Lech Poznan"
+          ]
+        },
+        {
+          "answer": "Korona Kielce",
+          "display": "#7 — 47 pts",
+          "aliases": [
+            "Korona"
+          ]
+        },
+        {
+          "answer": "Wisła Kraków",
+          "display": "#8 — 46 pts",
+          "aliases": [
+            "Wisła",
+            "Wisla Krakow"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/soccer/eastern-europe/ekstraklasa",
+      "question": "Top 5 clubs in the final 2007–08 Ekstraklasa table",
+      "cutoff": 5,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1368701596 | table 1 | name: Team | value: Pos | order: asc",
+      "tags": [
+        "football",
+        "ekstraklasa",
+        "seasons"
+      ],
+      "answers": [
+        {
+          "answer": "Wisła Kraków",
+          "display": "#1 — 77 pts",
+          "aliases": [
+            "Wisła",
+            "Wisla Krakow"
+          ]
+        },
+        {
+          "answer": "Legia Warsaw",
+          "display": "#2 — 63 pts",
+          "aliases": [
+            "Legia"
+          ]
+        },
+        {
+          "answer": "Dyskobolia Grodzisk",
+          "display": "#3 — 60 pts",
+          "aliases": [
+            "Dyskobolia",
+            "Dyskobolia Grodzisk Wielkopolski"
+          ]
+        },
+        {
+          "answer": "Lech Poznań",
+          "display": "#4 — 57 pts",
+          "aliases": [
+            "Lech",
+            "Lech Poznan"
+          ]
+        },
+        {
+          "answer": "Zagłębie Lubin",
+          "display": "#5 — 52 pts"
+        },
+        {
+          "answer": "Korona Kielce",
+          "display": "#6 — 51 pts",
+          "aliases": [
+            "Korona"
+          ]
+        },
+        {
+          "answer": "Cracovia",
+          "display": "#7 — 39 pts",
+          "aliases": [
+            "KS Cracovia"
+          ]
+        },
+        {
+          "answer": "Górnik Zabrze",
+          "display": "#8 — 39 pts",
+          "aliases": [
+            "Górnik",
+            "Gornik"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/soccer/eastern-europe/ekstraklasa",
+      "question": "Top 5 clubs in the final 2008–09 Ekstraklasa table",
+      "cutoff": 5,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1375395406 | table 3 | name: Team | value: Pos | order: asc",
+      "tags": [
+        "football",
+        "ekstraklasa",
+        "seasons"
+      ],
+      "answers": [
+        {
+          "answer": "Wisła Kraków",
+          "display": "#1 — 64 pts",
+          "aliases": [
+            "Wisła",
+            "Wisla Krakow"
+          ]
+        },
+        {
+          "answer": "Legia Warsaw",
+          "display": "#2 — 61 pts",
+          "aliases": [
+            "Legia"
+          ]
+        },
+        {
+          "answer": "Lech Poznań",
+          "display": "#3 — 59 pts",
+          "aliases": [
+            "Lech",
+            "Lech Poznan"
+          ]
+        },
+        {
+          "answer": "Polonia Warsaw",
+          "display": "#4 — 54 pts",
+          "aliases": [
+            "Polonia"
+          ]
+        },
+        {
+          "answer": "GKS Bełchatów",
+          "display": "#5 — 54 pts"
+        },
+        {
+          "answer": "Śląsk Wrocław",
+          "display": "#6 — 45 pts",
+          "aliases": [
+            "Śląsk",
+            "Slask Wroclaw"
+          ]
+        },
+        {
+          "answer": "Polonia Bytom",
+          "display": "#7 — 35 pts"
+        },
+        {
+          "answer": "Jagiellonia Białystok",
+          "display": "#8 — 34 pts",
+          "aliases": [
+            "Jagiellonia"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/soccer/eastern-europe/ekstraklasa",
+      "question": "Top 5 clubs in the final 2009–10 Ekstraklasa table",
+      "cutoff": 5,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1364233700 | table 2 | name: Team | value: Pos | order: asc",
+      "tags": [
+        "football",
+        "ekstraklasa",
+        "seasons"
+      ],
+      "answers": [
+        {
+          "answer": "Lech Poznań",
+          "display": "#1 — 65 pts",
+          "aliases": [
+            "Lech",
+            "Lech Poznan"
+          ]
+        },
+        {
+          "answer": "Wisła Kraków",
+          "display": "#2 — 62 pts",
+          "aliases": [
+            "Wisła",
+            "Wisla Krakow"
+          ]
+        },
+        {
+          "answer": "Ruch Chorzów",
+          "display": "#3 — 53 pts",
+          "aliases": [
+            "Ruch"
+          ]
+        },
+        {
+          "answer": "Legia Warsaw",
+          "display": "#4 — 52 pts",
+          "aliases": [
+            "Legia"
+          ]
+        },
+        {
+          "answer": "GKS Bełchatów",
+          "display": "#5 — 48 pts"
+        },
+        {
+          "answer": "Korona Kielce",
+          "display": "#6 — 37 pts",
+          "aliases": [
+            "Korona"
+          ]
+        },
+        {
+          "answer": "Polonia Bytom",
+          "display": "#7 — 37 pts"
+        },
+        {
+          "answer": "Lechia Gdańsk",
+          "display": "#8 — 37 pts",
+          "aliases": [
+            "Lechia"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/soccer/eastern-europe/ekstraklasa",
+      "question": "Top 5 clubs in the final 2010–11 Ekstraklasa table",
+      "cutoff": 5,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1366928179 | table 4 | name: Team | value: Pos | order: asc",
+      "tags": [
+        "football",
+        "ekstraklasa",
+        "seasons"
+      ],
+      "answers": [
+        {
+          "answer": "Wisła Kraków",
+          "display": "#1 — 56 pts",
+          "aliases": [
+            "Wisła",
+            "Wisla Krakow"
+          ]
+        },
+        {
+          "answer": "Śląsk Wrocław",
+          "display": "#2 — 49 pts",
+          "aliases": [
+            "Śląsk",
+            "Slask Wroclaw"
+          ]
+        },
+        {
+          "answer": "Legia Warsaw",
+          "display": "#3 — 49 pts",
+          "aliases": [
+            "Legia"
+          ]
+        },
+        {
+          "answer": "Jagiellonia Białystok",
+          "display": "#4 — 48 pts",
+          "aliases": [
+            "Jagiellonia"
+          ]
+        },
+        {
+          "answer": "Lech Poznań",
+          "display": "#5 — 45 pts",
+          "aliases": [
+            "Lech",
+            "Lech Poznan"
+          ]
+        },
+        {
+          "answer": "Górnik Zabrze",
+          "display": "#6 — 45 pts",
+          "aliases": [
+            "Górnik",
+            "Gornik"
+          ]
+        },
+        {
+          "answer": "Polonia Warsaw",
+          "display": "#7 — 44 pts",
+          "aliases": [
+            "Polonia"
+          ]
+        },
+        {
+          "answer": "Lechia Gdańsk",
+          "display": "#8 — 43 pts",
+          "aliases": [
+            "Lechia"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/soccer/eastern-europe/ekstraklasa",
+      "question": "Top 5 clubs in the final 2011–12 Ekstraklasa table",
+      "cutoff": 5,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1364234138 | table 4 | name: Team | value: Pos | order: asc",
+      "tags": [
+        "football",
+        "ekstraklasa",
+        "seasons"
+      ],
+      "answers": [
+        {
+          "answer": "Śląsk Wrocław",
+          "display": "#1 — 56 pts",
+          "aliases": [
+            "Śląsk",
+            "Slask Wroclaw"
+          ]
+        },
+        {
+          "answer": "Ruch Chorzów",
+          "display": "#2 — 55 pts",
+          "aliases": [
+            "Ruch"
+          ]
+        },
+        {
+          "answer": "Legia Warsaw",
+          "display": "#3 — 53 pts",
+          "aliases": [
+            "Legia"
+          ]
+        },
+        {
+          "answer": "Lech Poznań",
+          "display": "#4 — 52 pts",
+          "aliases": [
+            "Lech",
+            "Lech Poznan"
+          ]
+        },
+        {
+          "answer": "Korona Kielce",
+          "display": "#5 — 48 pts",
+          "aliases": [
+            "Korona"
+          ]
+        },
+        {
+          "answer": "Polonia Warsaw",
+          "display": "#6 — 45 pts",
+          "aliases": [
+            "Polonia"
+          ]
+        },
+        {
+          "answer": "Wisła Kraków",
+          "display": "#7 — 43 pts",
+          "aliases": [
+            "Wisła",
+            "Wisla Krakow"
+          ]
+        },
+        {
+          "answer": "Górnik Zabrze",
+          "display": "#8 — 42 pts",
+          "aliases": [
+            "Górnik",
+            "Gornik"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/soccer/eastern-europe/ekstraklasa",
+      "question": "Top 5 clubs in the final 2012–13 Ekstraklasa table",
+      "cutoff": 5,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1366130778 | table 4 | name: Team | value: Pos | order: asc",
+      "tags": [
+        "football",
+        "ekstraklasa",
+        "seasons"
+      ],
+      "answers": [
+        {
+          "answer": "Legia Warsaw",
+          "display": "#1 — 67 pts",
+          "aliases": [
+            "Legia"
+          ]
+        },
+        {
+          "answer": "Lech Poznań",
+          "display": "#2 — 61 pts",
+          "aliases": [
+            "Lech",
+            "Lech Poznan"
+          ]
+        },
+        {
+          "answer": "Śląsk Wrocław",
+          "display": "#3 — 47 pts",
+          "aliases": [
+            "Śląsk",
+            "Slask Wroclaw"
+          ]
+        },
+        {
+          "answer": "Piast Gliwice",
+          "display": "#4 — 46 pts",
+          "aliases": [
+            "Piast"
+          ]
+        },
+        {
+          "answer": "Górnik Zabrze",
+          "display": "#5 — 43 pts",
+          "aliases": [
+            "Górnik",
+            "Gornik"
+          ]
+        },
+        {
+          "answer": "Polonia Warsaw",
+          "display": "#6 — 42 pts",
+          "aliases": [
+            "Polonia"
+          ]
+        },
+        {
+          "answer": "Wisła Kraków",
+          "display": "#7 — 38 pts",
+          "aliases": [
+            "Wisła",
+            "Wisla Krakow"
+          ]
+        },
+        {
+          "answer": "Lechia Gdańsk",
+          "display": "#8 — 38 pts",
+          "aliases": [
+            "Lechia"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/soccer/eastern-europe/ekstraklasa",
+      "question": "Top 5 clubs in the final regular-season 2013–14 Ekstraklasa table",
+      "cutoff": 5,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1366133224 | table 4 | name: Team | value: Pos | order: asc",
+      "tags": [
+        "football",
+        "ekstraklasa",
+        "seasons"
+      ],
+      "answers": [
+        {
+          "answer": "Legia Warsaw",
+          "display": "#1 — 63 pts",
+          "aliases": [
+            "Legia"
+          ]
+        },
+        {
+          "answer": "Lech Poznań",
+          "display": "#2 — 53 pts",
+          "aliases": [
+            "Lech",
+            "Lech Poznan"
+          ]
+        },
+        {
+          "answer": "Ruch Chorzów",
+          "display": "#3 — 50 pts",
+          "aliases": [
+            "Ruch"
+          ]
+        },
+        {
+          "answer": "Pogoń Szczecin",
+          "display": "#4 — 47 pts",
+          "aliases": [
+            "Pogoń",
+            "Pogon Szczecin"
+          ]
+        },
+        {
+          "answer": "Wisła Kraków",
+          "display": "#5 — 45 pts",
+          "aliases": [
+            "Wisła",
+            "Wisla Krakow"
+          ]
+        },
+        {
+          "answer": "Zawisza Bydgoszcz",
+          "display": "#6 — 42 pts"
+        },
+        {
+          "answer": "Górnik Zabrze",
+          "display": "#7 — 42 pts",
+          "aliases": [
+            "Górnik",
+            "Gornik"
+          ]
+        },
+        {
+          "answer": "Lechia Gdańsk",
+          "display": "#8 — 40 pts",
+          "aliases": [
+            "Lechia"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/soccer/eastern-europe/ekstraklasa",
+      "question": "Top 5 clubs in the final regular-season 2014–15 Ekstraklasa table",
+      "cutoff": 5,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1367226816 | table 4 | name: Team | value: Pos | order: asc",
+      "tags": [
+        "football",
+        "ekstraklasa",
+        "seasons"
+      ],
+      "answers": [
+        {
+          "answer": "Legia Warsaw",
+          "display": "#1 — 56 pts",
+          "aliases": [
+            "Legia"
+          ]
+        },
+        {
+          "answer": "Lech Poznań",
+          "display": "#2 — 54 pts",
+          "aliases": [
+            "Lech",
+            "Lech Poznan"
+          ]
+        },
+        {
+          "answer": "Jagiellonia Białystok",
+          "display": "#3 — 49 pts",
+          "aliases": [
+            "Jagiellonia"
+          ]
+        },
+        {
+          "answer": "Śląsk Wrocław",
+          "display": "#4 — 46 pts",
+          "aliases": [
+            "Śląsk",
+            "Slask Wroclaw"
+          ]
+        },
+        {
+          "answer": "Wisła Kraków",
+          "display": "#5 — 43 pts",
+          "aliases": [
+            "Wisła",
+            "Wisla Krakow"
+          ]
+        },
+        {
+          "answer": "Górnik Zabrze",
+          "display": "#6 — 43 pts",
+          "aliases": [
+            "Górnik",
+            "Gornik"
+          ]
+        },
+        {
+          "answer": "Pogoń Szczecin",
+          "display": "#7 — 41 pts",
+          "aliases": [
+            "Pogoń",
+            "Pogon Szczecin"
+          ]
+        },
+        {
+          "answer": "Lechia Gdańsk",
+          "display": "#8 — 41 pts",
+          "aliases": [
+            "Lechia"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/soccer/eastern-europe/ekstraklasa",
+      "question": "Top 5 clubs in the final regular-season 2015–16 Ekstraklasa table",
+      "cutoff": 5,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1373777432 | table 5 | name: Team | value: Pos | order: asc",
+      "tags": [
+        "football",
+        "ekstraklasa",
+        "seasons"
+      ],
+      "answers": [
+        {
+          "answer": "Legia Warsaw",
+          "display": "#1 — 60 pts",
+          "aliases": [
+            "Legia"
+          ]
+        },
+        {
+          "answer": "Piast Gliwice",
+          "display": "#2 — 58 pts",
+          "aliases": [
+            "Piast"
+          ]
+        },
+        {
+          "answer": "Pogoń Szczecin",
+          "display": "#3 — 46 pts",
+          "aliases": [
+            "Pogoń",
+            "Pogon Szczecin"
+          ]
+        },
+        {
+          "answer": "Zagłębie Lubin",
+          "display": "#4 — 45 pts"
+        },
+        {
+          "answer": "Cracovia",
+          "display": "#5 — 45 pts",
+          "aliases": [
+            "KS Cracovia"
+          ]
+        },
+        {
+          "answer": "Lech Poznań",
+          "display": "#6 — 43 pts",
+          "aliases": [
+            "Lech",
+            "Lech Poznan"
+          ]
+        },
+        {
+          "answer": "Lechia Gdańsk",
+          "display": "#7 — 38 pts",
+          "aliases": [
+            "Lechia"
+          ]
+        },
+        {
+          "answer": "Ruch Chorzów",
+          "display": "#8 — 38 pts",
+          "aliases": [
+            "Ruch"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/soccer/eastern-europe/ekstraklasa",
+      "question": "Top 5 clubs in the final regular-season 2016–17 Ekstraklasa table",
+      "cutoff": 5,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1373778970 | table 5 | name: Team | value: Pos | order: asc",
+      "tags": [
+        "football",
+        "ekstraklasa",
+        "seasons"
+      ],
+      "answers": [
+        {
+          "answer": "Jagiellonia Białystok",
+          "display": "#1 — 59 pts",
+          "aliases": [
+            "Jagiellonia"
+          ]
+        },
+        {
+          "answer": "Legia Warsaw",
+          "display": "#2 — 58 pts",
+          "aliases": [
+            "Legia"
+          ]
+        },
+        {
+          "answer": "Lech Poznań",
+          "display": "#3 — 55 pts",
+          "aliases": [
+            "Lech",
+            "Lech Poznan"
+          ]
+        },
+        {
+          "answer": "Lechia Gdańsk",
+          "display": "#4 — 53 pts",
+          "aliases": [
+            "Lechia"
+          ]
+        },
+        {
+          "answer": "Wisła Kraków",
+          "display": "#5 — 44 pts",
+          "aliases": [
+            "Wisła",
+            "Wisla Krakow"
+          ]
+        },
+        {
+          "answer": "Pogoń Szczecin",
+          "display": "#6 — 42 pts",
+          "aliases": [
+            "Pogoń",
+            "Pogon Szczecin"
+          ]
+        },
+        {
+          "answer": "Nieciecza",
+          "display": "#7 — 42 pts"
+        },
+        {
+          "answer": "Korona Kielce",
+          "display": "#8 — 39 pts",
+          "aliases": [
+            "Korona"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/soccer/eastern-europe/ekstraklasa",
+      "question": "Top 5 clubs in the final regular-season 2017–18 Ekstraklasa table",
+      "cutoff": 5,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1373982786 | table 5 | name: Team | value: Pos | order: asc",
+      "tags": [
+        "football",
+        "ekstraklasa",
+        "seasons"
+      ],
+      "answers": [
+        {
+          "answer": "Lech Poznań",
+          "display": "#1 — 55 pts",
+          "aliases": [
+            "Lech",
+            "Lech Poznan"
+          ]
+        },
+        {
+          "answer": "Jagiellonia Białystok",
+          "display": "#2 — 54 pts",
+          "aliases": [
+            "Jagiellonia"
+          ]
+        },
+        {
+          "answer": "Legia Warsaw",
+          "display": "#3 — 54 pts",
+          "aliases": [
+            "Legia"
+          ]
+        },
+        {
+          "answer": "Wisła Płock",
+          "display": "#4 — 49 pts"
+        },
+        {
+          "answer": "Górnik Zabrze",
+          "display": "#5 — 47 pts",
+          "aliases": [
+            "Górnik",
+            "Gornik"
+          ]
+        },
+        {
+          "answer": "Korona Kielce",
+          "display": "#6 — 45 pts",
+          "aliases": [
+            "Korona"
+          ]
+        },
+        {
+          "answer": "Wisła Kraków",
+          "display": "#7 — 44 pts",
+          "aliases": [
+            "Wisła",
+            "Wisla Krakow"
+          ]
+        },
+        {
+          "answer": "Zagłębie Lubin",
+          "display": "#8 — 43 pts"
+        }
+      ]
+    },
+    {
+      "category": "sports/soccer/eastern-europe/ekstraklasa",
+      "question": "Top 5 clubs in the final regular-season 2018–19 Ekstraklasa table",
+      "cutoff": 5,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1374475159 | table 5 | name: Team | value: Pos | order: asc",
+      "tags": [
+        "football",
+        "ekstraklasa",
+        "seasons"
+      ],
+      "answers": [
+        {
+          "answer": "Lechia Gdańsk",
+          "display": "#1 — 60 pts",
+          "aliases": [
+            "Lechia"
+          ]
+        },
+        {
+          "answer": "Legia Warsaw",
+          "display": "#2 — 60 pts",
+          "aliases": [
+            "Legia"
+          ]
+        },
+        {
+          "answer": "Piast Gliwice",
+          "display": "#3 — 53 pts",
+          "aliases": [
+            "Piast"
+          ]
+        },
+        {
+          "answer": "Cracovia",
+          "display": "#4 — 48 pts",
+          "aliases": [
+            "KS Cracovia"
+          ]
+        },
+        {
+          "answer": "Zagłębie Lubin",
+          "display": "#5 — 47 pts"
+        },
+        {
+          "answer": "Jagiellonia Białystok",
+          "display": "#6 — 47 pts",
+          "aliases": [
+            "Jagiellonia"
+          ]
+        },
+        {
+          "answer": "Pogoń Szczecin",
+          "display": "#7 — 43 pts",
+          "aliases": [
+            "Pogoń",
+            "Pogon Szczecin"
+          ]
+        },
+        {
+          "answer": "Lech Poznań",
+          "display": "#8 — 43 pts",
+          "aliases": [
+            "Lech",
+            "Lech Poznan"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/soccer/eastern-europe/ekstraklasa",
+      "question": "Top 5 clubs in the final regular-season 2019–20 Ekstraklasa table",
+      "cutoff": 5,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1375261743 | table 7 | name: Team | value: Pos | order: asc",
+      "tags": [
+        "football",
+        "ekstraklasa",
+        "seasons"
+      ],
+      "answers": [
+        {
+          "answer": "Legia Warsaw",
+          "display": "#1 — 60 pts",
+          "aliases": [
+            "Legia"
+          ]
+        },
+        {
+          "answer": "Piast Gliwice",
+          "display": "#2 — 53 pts",
+          "aliases": [
+            "Piast"
+          ]
+        },
+        {
+          "answer": "Śląsk Wrocław",
+          "display": "#3 — 49 pts",
+          "aliases": [
+            "Śląsk",
+            "Slask Wroclaw"
+          ]
+        },
+        {
+          "answer": "Lech Poznań",
+          "display": "#4 — 49 pts",
+          "aliases": [
+            "Lech",
+            "Lech Poznan"
+          ]
+        },
+        {
+          "answer": "Cracovia",
+          "display": "#5 — 46 pts",
+          "aliases": [
+            "KS Cracovia"
+          ]
+        },
+        {
+          "answer": "Pogoń Szczecin",
+          "display": "#6 — 45 pts",
+          "aliases": [
+            "Pogoń",
+            "Pogon Szczecin"
+          ]
+        },
+        {
+          "answer": "Jagiellonia Białystok",
+          "display": "#7 — 44 pts",
+          "aliases": [
+            "Jagiellonia"
+          ]
+        },
+        {
+          "answer": "Lechia Gdańsk",
+          "display": "#8 — 43 pts",
+          "aliases": [
+            "Lechia"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/soccer/eastern-europe/ekstraklasa",
+      "question": "Top 5 clubs in the final 2020–21 Ekstraklasa table",
+      "cutoff": 5,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1375750683 | table 6 | name: Team | value: Pos | order: asc",
+      "tags": [
+        "football",
+        "ekstraklasa",
+        "seasons"
+      ],
+      "answers": [
+        {
+          "answer": "Legia Warsaw",
+          "display": "#1 — 64 pts",
+          "aliases": [
+            "Legia"
+          ]
+        },
+        {
+          "answer": "Raków Częstochowa",
+          "display": "#2 — 59 pts",
+          "aliases": [
+            "Raków",
+            "Rakow"
+          ]
+        },
+        {
+          "answer": "Pogoń Szczecin",
+          "display": "#3 — 52 pts",
+          "aliases": [
+            "Pogoń",
+            "Pogon Szczecin"
+          ]
+        },
+        {
+          "answer": "Śląsk Wrocław",
+          "display": "#4 — 43 pts",
+          "aliases": [
+            "Śląsk",
+            "Slask Wroclaw"
+          ]
+        },
+        {
+          "answer": "Warta Poznań",
+          "display": "#5 — 43 pts"
+        },
+        {
+          "answer": "Piast Gliwice",
+          "display": "#6 — 42 pts",
+          "aliases": [
+            "Piast"
+          ]
+        },
+        {
+          "answer": "Lechia Gdańsk",
+          "display": "#7 — 42 pts",
+          "aliases": [
+            "Lechia"
+          ]
+        },
+        {
+          "answer": "Zagłębie Lubin",
+          "display": "#8 — 41 pts"
+        }
+      ]
+    },
+    {
+      "category": "sports/soccer/eastern-europe/ekstraklasa",
+      "question": "Top 6 clubs in the final 2021–22 Ekstraklasa table",
+      "cutoff": 6,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1376229768 | table 6 | name: Team | value: Pos | order: asc",
+      "tags": [
+        "football",
+        "ekstraklasa",
+        "seasons"
+      ],
+      "answers": [
+        {
+          "answer": "Lech Poznań",
+          "display": "#1 — 74 pts",
+          "aliases": [
+            "Lech",
+            "Lech Poznan"
+          ]
+        },
+        {
+          "answer": "Raków Częstochowa",
+          "display": "#2 — 69 pts",
+          "aliases": [
+            "Raków",
+            "Rakow"
+          ]
+        },
+        {
+          "answer": "Pogoń Szczecin",
+          "display": "#3 — 65 pts",
+          "aliases": [
+            "Pogoń",
+            "Pogon Szczecin"
+          ]
+        },
+        {
+          "answer": "Lechia Gdańsk",
+          "display": "#4 — 57 pts",
+          "aliases": [
+            "Lechia"
+          ]
+        },
+        {
+          "answer": "Piast Gliwice",
+          "display": "#5 — 54 pts",
+          "aliases": [
+            "Piast"
+          ]
+        },
+        {
+          "answer": "Wisła Płock",
+          "display": "#6 — 48 pts"
+        },
+        {
+          "answer": "Radomiak Radom",
+          "display": "#7 — 48 pts"
+        },
+        {
+          "answer": "Górnik Zabrze",
+          "display": "#8 — 47 pts",
+          "aliases": [
+            "Górnik",
+            "Gornik"
+          ]
+        },
+        {
+          "answer": "Cracovia",
+          "display": "#9 — 46 pts",
+          "aliases": [
+            "KS Cracovia"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/soccer/eastern-europe/ekstraklasa",
+      "question": "Top 6 clubs in the final 2022–23 Ekstraklasa table",
+      "cutoff": 6,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1376813070 | table 6 | name: Team | value: Pos | order: asc",
+      "tags": [
+        "football",
+        "ekstraklasa",
+        "seasons"
+      ],
+      "answers": [
+        {
+          "answer": "Raków Częstochowa",
+          "display": "#1 — 75 pts",
+          "aliases": [
+            "Raków",
+            "Rakow"
+          ]
+        },
+        {
+          "answer": "Legia Warsaw",
+          "display": "#2 — 66 pts",
+          "aliases": [
+            "Legia"
+          ]
+        },
+        {
+          "answer": "Lech Poznań",
+          "display": "#3 — 61 pts",
+          "aliases": [
+            "Lech",
+            "Lech Poznan"
+          ]
+        },
+        {
+          "answer": "Pogoń Szczecin",
+          "display": "#4 — 60 pts",
+          "aliases": [
+            "Pogoń",
+            "Pogon Szczecin"
+          ]
+        },
+        {
+          "answer": "Piast Gliwice",
+          "display": "#5 — 53 pts",
+          "aliases": [
+            "Piast"
+          ]
+        },
+        {
+          "answer": "Górnik Zabrze",
+          "display": "#6 — 48 pts",
+          "aliases": [
+            "Górnik",
+            "Gornik"
+          ]
+        },
+        {
+          "answer": "Cracovia",
+          "display": "#7 — 46 pts",
+          "aliases": [
+            "KS Cracovia"
+          ]
+        },
+        {
+          "answer": "Warta Poznań",
+          "display": "#8 — 45 pts"
+        },
+        {
+          "answer": "Zagłębie Lubin",
+          "display": "#9 — 45 pts"
+        }
+      ]
+    },
+    {
+      "category": "sports/soccer/eastern-europe/ekstraklasa",
+      "question": "Top 6 clubs in the final 2023–24 Ekstraklasa table",
+      "cutoff": 6,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1377460451 | table 6 | name: Team | value: Pos | order: asc",
+      "tags": [
+        "football",
+        "ekstraklasa",
+        "seasons"
+      ],
+      "answers": [
+        {
+          "answer": "Jagiellonia Białystok",
+          "display": "#1 — 63 pts",
+          "aliases": [
+            "Jagiellonia"
+          ]
+        },
+        {
+          "answer": "Śląsk Wrocław",
+          "display": "#2 — 63 pts",
+          "aliases": [
+            "Śląsk",
+            "Slask Wroclaw"
+          ]
+        },
+        {
+          "answer": "Legia Warsaw",
+          "display": "#3 — 59 pts",
+          "aliases": [
+            "Legia"
+          ]
+        },
+        {
+          "answer": "Pogoń Szczecin",
+          "display": "#4 — 55 pts",
+          "aliases": [
+            "Pogoń",
+            "Pogon Szczecin"
+          ]
+        },
+        {
+          "answer": "Lech Poznań",
+          "display": "#5 — 53 pts",
+          "aliases": [
+            "Lech",
+            "Lech Poznan"
+          ]
+        },
+        {
+          "answer": "Górnik Zabrze",
+          "display": "#6 — 53 pts",
+          "aliases": [
+            "Górnik",
+            "Gornik"
+          ]
+        },
+        {
+          "answer": "Raków Częstochowa",
+          "display": "#7 — 52 pts",
+          "aliases": [
+            "Raków",
+            "Rakow"
+          ]
+        },
+        {
+          "answer": "Zagłębie Lubin",
+          "display": "#8 — 47 pts"
+        },
+        {
+          "answer": "Widzew Łódź",
+          "display": "#9 — 46 pts",
+          "aliases": [
+            "Widzew"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/soccer/eastern-europe/ekstraklasa",
+      "question": "Top 6 clubs in the final 2024–25 Ekstraklasa table",
+      "cutoff": 6,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1378044263 | table 6 | name: Team | value: Pos | order: asc",
+      "tags": [
+        "football",
+        "ekstraklasa",
+        "seasons"
+      ],
+      "answers": [
+        {
+          "answer": "Lech Poznań",
+          "display": "#1 — 70 pts",
+          "aliases": [
+            "Lech",
+            "Lech Poznan"
+          ]
+        },
+        {
+          "answer": "Raków Częstochowa",
+          "display": "#2 — 69 pts",
+          "aliases": [
+            "Raków",
+            "Rakow"
+          ]
+        },
+        {
+          "answer": "Jagiellonia Białystok",
+          "display": "#3 — 61 pts",
+          "aliases": [
+            "Jagiellonia"
+          ]
+        },
+        {
+          "answer": "Pogoń Szczecin",
+          "display": "#4 — 58 pts",
+          "aliases": [
+            "Pogoń",
+            "Pogon Szczecin"
+          ]
+        },
+        {
+          "answer": "Legia Warsaw",
+          "display": "#5 — 54 pts",
+          "aliases": [
+            "Legia"
+          ]
+        },
+        {
+          "answer": "Cracovia",
+          "display": "#6 — 51 pts",
+          "aliases": [
+            "KS Cracovia"
+          ]
+        },
+        {
+          "answer": "Motor Lublin",
+          "display": "#7 — 49 pts"
+        },
+        {
+          "answer": "GKS Katowice",
+          "display": "#8 — 49 pts"
+        },
+        {
+          "answer": "Górnik Zabrze",
+          "display": "#9 — 47 pts",
+          "aliases": [
+            "Górnik",
+            "Gornik"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/soccer/eastern-europe/ekstraklasa",
+      "question": "Top 6 clubs in the final 2025–26 Ekstraklasa table",
+      "cutoff": 6,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1380437685 | table 6 | name: Team | value: Pos | order: asc",
+      "tags": [
+        "football",
+        "ekstraklasa",
+        "seasons"
+      ],
+      "answers": [
+        {
+          "answer": "Lech Poznań",
+          "display": "#1 — 60 pts",
+          "aliases": [
+            "Lech",
+            "Lech Poznan"
+          ]
+        },
+        {
+          "answer": "Górnik Zabrze",
+          "display": "#2 — 56 pts",
+          "aliases": [
+            "Górnik",
+            "Gornik"
+          ]
+        },
+        {
+          "answer": "Jagiellonia Białystok",
+          "display": "#3 — 56 pts",
+          "aliases": [
+            "Jagiellonia"
+          ]
+        },
+        {
+          "answer": "Raków Częstochowa",
+          "display": "#4 — 55 pts",
+          "aliases": [
+            "Raków",
+            "Rakow"
+          ]
+        },
+        {
+          "answer": "GKS Katowice",
+          "display": "#5 — 50 pts"
+        },
+        {
+          "answer": "Legia Warsaw",
+          "display": "#6 — 49 pts",
+          "aliases": [
+            "Legia"
+          ]
+        },
+        {
+          "answer": "Zagłębie Lubin",
+          "display": "#7 — 48 pts"
+        },
+        {
+          "answer": "Wisła Płock",
+          "display": "#8 — 46 pts"
+        },
+        {
+          "answer": "Pogoń Szczecin",
+          "display": "#9 — 45 pts",
+          "aliases": [
+            "Pogoń",
+            "Pogon Szczecin"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/soccer/eastern-europe/liga-i",
+      "question": "Top 5 clubs in the final 1968–69 Divizia A table",
+      "cutoff": 5,
+      "difficulty": 3,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1102293876 | table 1 | name: Team | value: Pos | order: asc",
+      "tags": [
+        "football",
+        "divizia-a",
+        "seasons"
+      ],
+      "answers": [
+        {
+          "answer": "UTA Arad",
+          "display": "#1 — 38 pts",
+          "aliases": [
+            "UTA"
+          ]
+        },
+        {
+          "answer": "Dinamo București",
+          "display": "#2 — 35 pts",
+          "aliases": [
+            "Dinamo Bucharest"
+          ]
+        },
+        {
+          "answer": "Rapid București",
+          "display": "#3 — 34 pts",
+          "aliases": [
+            "Rapid",
+            "Rapid Bucharest"
+          ]
+        },
+        {
+          "answer": "Steaua București",
+          "display": "#4 — 33 pts",
+          "aliases": [
+            "Steaua",
+            "FCSB"
+          ]
+        },
+        {
+          "answer": "Dinamo Bacău",
+          "display": "#5 — 33 pts"
+        },
+        {
+          "answer": "Jiul Petroșani",
+          "display": "#6 — 31 pts",
+          "aliases": [
+            "Jiul"
+          ]
+        },
+        {
+          "answer": "Universitatea Craiova",
+          "display": "#7 — 31 pts",
+          "aliases": [
+            "U Craiova",
+            "FC U Craiova",
+            "Craiova"
+          ]
+        },
+        {
+          "answer": "Universitatea Cluj",
+          "display": "#8 — 30 pts",
+          "aliases": [
+            "U Cluj"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/soccer/eastern-europe/liga-i",
+      "question": "Top 5 clubs in the final 1969–70 Divizia A table",
+      "cutoff": 5,
+      "difficulty": 3,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1102293830 | table 1 | name: Team | value: Pos | order: asc",
+      "tags": [
+        "football",
+        "divizia-a",
+        "seasons"
+      ],
+      "answers": [
+        {
+          "answer": "UTA Arad",
+          "display": "#1 — 39 pts",
+          "aliases": [
+            "UTA"
+          ]
+        },
+        {
+          "answer": "Rapid București",
+          "display": "#2 — 37 pts",
+          "aliases": [
+            "Rapid",
+            "Rapid Bucharest"
+          ]
+        },
+        {
+          "answer": "Steaua București",
+          "display": "#3 — 34 pts",
+          "aliases": [
+            "Steaua",
+            "FCSB"
+          ]
+        },
+        {
+          "answer": "Universitatea Craiova",
+          "display": "#4 — 33 pts",
+          "aliases": [
+            "U Craiova",
+            "FC U Craiova",
+            "Craiova"
+          ]
+        },
+        {
+          "answer": "Dinamo București",
+          "display": "#5 — 32 pts",
+          "aliases": [
+            "Dinamo Bucharest"
+          ]
+        },
+        {
+          "answer": "Farul Constanța",
+          "display": "#6 — 32 pts",
+          "aliases": [
+            "Farul"
+          ]
+        },
+        {
+          "answer": "Jiul Petroșani",
+          "display": "#7 — 32 pts",
+          "aliases": [
+            "Jiul"
+          ]
+        },
+        {
+          "answer": "Steagul Roșu Brașov",
+          "display": "#8 — 30 pts",
+          "aliases": [
+            "Steagul Roșu",
+            "Steagul Rosu"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/soccer/eastern-europe/liga-i",
+      "question": "Top 5 clubs in the final 1970–71 Divizia A table",
+      "cutoff": 5,
+      "difficulty": 3,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1132382652 | table 1 | name: Team | value: Pos | order: asc",
+      "tags": [
+        "football",
+        "divizia-a",
+        "seasons"
+      ],
+      "answers": [
+        {
+          "answer": "Dinamo București",
+          "display": "#1 — 36 pts",
+          "aliases": [
+            "Dinamo Bucharest"
+          ]
+        },
+        {
+          "answer": "Rapid București",
+          "display": "#2 — 35 pts",
+          "aliases": [
+            "Rapid",
+            "Rapid Bucharest"
+          ]
+        },
+        {
+          "answer": "Steaua București",
+          "display": "#3 — 33 pts",
+          "aliases": [
+            "Steaua",
+            "FCSB"
+          ]
+        },
+        {
+          "answer": "UTA Arad",
+          "display": "#4 — 33 pts",
+          "aliases": [
+            "UTA"
+          ]
+        },
+        {
+          "answer": "Steagul Roșu Brașov",
+          "display": "#5 — 33 pts",
+          "aliases": [
+            "Steagul Roșu",
+            "Steagul Rosu"
+          ]
+        },
+        {
+          "answer": "Universitatea Craiova",
+          "display": "#6 — 32 pts",
+          "aliases": [
+            "U Craiova",
+            "FC U Craiova",
+            "Craiova"
+          ]
+        },
+        {
+          "answer": "Petrolul Ploiești",
+          "display": "#7 — 31 pts",
+          "aliases": [
+            "Petrolul"
+          ]
+        },
+        {
+          "answer": "Politehnica Iași",
+          "display": "#8 — 30 pts",
+          "aliases": [
+            "Poli Iași",
+            "Politehnica Iasi"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/soccer/eastern-europe/liga-i",
+      "question": "Top 5 clubs in the final 1971–72 Divizia A table",
+      "cutoff": 5,
+      "difficulty": 3,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1279630189 | table 1 | name: Team | value: Pos | order: asc",
+      "tags": [
+        "football",
+        "divizia-a",
+        "seasons"
+      ],
+      "answers": [
+        {
+          "answer": "Argeș Pitești",
+          "display": "#1 — 41 pts",
+          "aliases": [
+            "Argeș",
+            "Arges Pitesti"
+          ]
+        },
+        {
+          "answer": "UTA Arad",
+          "display": "#2 — 37 pts",
+          "aliases": [
+            "UTA"
+          ]
+        },
+        {
+          "answer": "Universitatea Cluj",
+          "display": "#3 — 37 pts",
+          "aliases": [
+            "U Cluj"
+          ]
+        },
+        {
+          "answer": "ASA Târgu Mureș",
+          "display": "#4 — 35 pts",
+          "aliases": [
+            "ASA Târgu Mureş",
+            "ASA"
+          ]
+        },
+        {
+          "answer": "Steagul Roșu Brașov",
+          "display": "#5 — 34 pts",
+          "aliases": [
+            "Steagul Roșu",
+            "Steagul Rosu"
+          ]
+        },
+        {
+          "answer": "SC Bacău",
+          "display": "#6 — 32 pts",
+          "aliases": [
+            "Bacău"
+          ]
+        },
+        {
+          "answer": "Dinamo București",
+          "display": "#7 — 31 pts",
+          "aliases": [
+            "Dinamo Bucharest"
+          ]
+        },
+        {
+          "answer": "Universitatea Craiova",
+          "display": "#8 — 31 pts",
+          "aliases": [
+            "U Craiova",
+            "FC U Craiova",
+            "Craiova"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/soccer/eastern-europe/liga-i",
+      "question": "Top 5 clubs in the final 1972–73 Divizia A table",
+      "cutoff": 5,
+      "difficulty": 3,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1210839634 | table 1 | name: Team | value: Pos | order: asc",
+      "tags": [
+        "football",
+        "divizia-a",
+        "seasons"
+      ],
+      "answers": [
+        {
+          "answer": "Dinamo București",
+          "display": "#1 — 39 pts",
+          "aliases": [
+            "Dinamo Bucharest"
+          ]
+        },
+        {
+          "answer": "Universitatea Craiova",
+          "display": "#2 — 39 pts",
+          "aliases": [
+            "U Craiova",
+            "FC U Craiova",
+            "Craiova"
+          ]
+        },
+        {
+          "answer": "Argeș Pitești",
+          "display": "#3 — 35 pts",
+          "aliases": [
+            "Argeș",
+            "Arges Pitesti"
+          ]
+        },
+        {
+          "answer": "SC Bacău",
+          "display": "#4 — 34 pts",
+          "aliases": [
+            "Bacău"
+          ]
+        },
+        {
+          "answer": "CFR Cluj",
+          "display": "#5 — 33 pts",
+          "aliases": [
+            "CFR"
+          ]
+        },
+        {
+          "answer": "Steaua București",
+          "display": "#6 — 31 pts",
+          "aliases": [
+            "Steaua",
+            "FCSB"
+          ]
+        },
+        {
+          "answer": "Steagul Roșu Brașov",
+          "display": "#7 — 30 pts",
+          "aliases": [
+            "Steagul Roșu",
+            "Steagul Rosu"
+          ]
+        },
+        {
+          "answer": "FC Constanța",
+          "display": "#8 — 28 pts",
+          "aliases": [
+            "FC Constanta"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/soccer/eastern-europe/liga-i",
+      "question": "Top 6 clubs in the final 1973–74 Divizia A table",
+      "cutoff": 6,
+      "difficulty": 3,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1376473549 | table 1 | name: Team | value: Pos | order: asc",
+      "tags": [
+        "football",
+        "divizia-a",
+        "seasons"
+      ],
+      "answers": [
+        {
+          "answer": "Universitatea Craiova",
+          "display": "#1 — 45 pts",
+          "aliases": [
+            "U Craiova",
+            "FC U Craiova",
+            "Craiova"
+          ]
+        },
+        {
+          "answer": "Dinamo București",
+          "display": "#2 — 44 pts",
+          "aliases": [
+            "Dinamo Bucharest"
+          ]
+        },
+        {
+          "answer": "Steagul Roșu Brașov",
+          "display": "#3 — 39 pts",
+          "aliases": [
+            "Steagul Roșu",
+            "Steagul Rosu"
+          ]
+        },
+        {
+          "answer": "FC Constanța",
+          "display": "#4 — 38 pts",
+          "aliases": [
+            "FC Constanta"
+          ]
+        },
+        {
+          "answer": "UTA Arad",
+          "display": "#5 — 36 pts",
+          "aliases": [
+            "UTA"
+          ]
+        },
+        {
+          "answer": "Steaua București",
+          "display": "#6 — 35 pts",
+          "aliases": [
+            "Steaua",
+            "FCSB"
+          ]
+        },
+        {
+          "answer": "Politehnica Timișoara",
+          "display": "#7 — 34 pts",
+          "aliases": [
+            "Poli Timișoara",
+            "Politehnica Timisoara"
+          ]
+        },
+        {
+          "answer": "Argeș Pitești",
+          "display": "#8 — 34 pts",
+          "aliases": [
+            "Argeș",
+            "Arges Pitesti"
+          ]
+        },
+        {
+          "answer": "CSM Reșița",
+          "display": "#9 — 33 pts"
+        }
+      ]
+    },
+    {
+      "category": "sports/soccer/eastern-europe/liga-i",
+      "question": "Top 6 clubs in the final 1974–75 Divizia A table",
+      "cutoff": 6,
+      "difficulty": 3,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1366120188 | table 1 | name: Team | value: Pos | order: asc",
+      "tags": [
+        "football",
+        "divizia-a",
+        "seasons"
+      ],
+      "answers": [
+        {
+          "answer": "Dinamo București",
+          "display": "#1 — 43 pts",
+          "aliases": [
+            "Dinamo Bucharest"
+          ]
+        },
+        {
+          "answer": "ASA Târgu Mureș",
+          "display": "#2 — 40 pts",
+          "aliases": [
+            "ASA Târgu Mureş",
+            "ASA"
+          ]
+        },
+        {
+          "answer": "Universitatea Craiova",
+          "display": "#3 — 39 pts",
+          "aliases": [
+            "U Craiova",
+            "FC U Craiova",
+            "Craiova"
+          ]
+        },
+        {
+          "answer": "Sportul Studențesc București",
+          "display": "#4 — 36 pts",
+          "aliases": [
+            "Sportul Studentesc",
+            "Sportul"
+          ]
+        },
+        {
+          "answer": "Steaua București",
+          "display": "#5 — 35 pts",
+          "aliases": [
+            "Steaua",
+            "FCSB"
+          ]
+        },
+        {
+          "answer": "FCM Reșița",
+          "display": "#6 — 35 pts"
+        },
+        {
+          "answer": "Argeș Pitești",
+          "display": "#7 — 34 pts",
+          "aliases": [
+            "Argeș",
+            "Arges Pitesti"
+          ]
+        },
+        {
+          "answer": "UTA Arad",
+          "display": "#8 — 34 pts",
+          "aliases": [
+            "UTA"
+          ]
+        },
+        {
+          "answer": "Olimpia Satu Mare",
+          "display": "#9 — 33 pts"
+        }
+      ]
+    },
+    {
+      "category": "sports/soccer/eastern-europe/liga-i",
+      "question": "Top 6 clubs in the final 1975–76 Divizia A table",
+      "cutoff": 6,
+      "difficulty": 3,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1366120386 | table 1 | name: Team | value: Pos | order: asc",
+      "tags": [
+        "football",
+        "divizia-a",
+        "seasons"
+      ],
+      "answers": [
+        {
+          "answer": "Steaua București",
+          "display": "#1 — 51 pts",
+          "aliases": [
+            "Steaua",
+            "FCSB"
+          ]
+        },
+        {
+          "answer": "Dinamo București",
+          "display": "#2 — 44 pts",
+          "aliases": [
+            "Dinamo Bucharest"
+          ]
+        },
+        {
+          "answer": "ASA Târgu Mureș",
+          "display": "#3 — 38 pts",
+          "aliases": [
+            "ASA Târgu Mureş",
+            "ASA"
+          ]
+        },
+        {
+          "answer": "Sportul Studențesc București",
+          "display": "#4 — 37 pts",
+          "aliases": [
+            "Sportul Studentesc",
+            "Sportul"
+          ]
+        },
+        {
+          "answer": "Politehnica Timișoara",
+          "display": "#5 — 37 pts",
+          "aliases": [
+            "Poli Timișoara",
+            "Politehnica Timisoara"
+          ]
+        },
+        {
+          "answer": "Universitatea Craiova",
+          "display": "#6 — 36 pts",
+          "aliases": [
+            "U Craiova",
+            "FC U Craiova",
+            "Craiova"
+          ]
+        },
+        {
+          "answer": "SC Bacău",
+          "display": "#7 — 35 pts",
+          "aliases": [
+            "Bacău"
+          ]
+        },
+        {
+          "answer": "FCM Reșița",
+          "display": "#8 — 34 pts"
+        },
+        {
+          "answer": "Bihor Oradea",
+          "display": "#9 — 33 pts",
+          "aliases": [
+            "Bihor"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/soccer/eastern-europe/liga-i",
+      "question": "Top 6 clubs in the final 1976–77 Divizia A table",
+      "cutoff": 6,
+      "difficulty": 3,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1373897368 | table 1 | name: Team | value: Pos | order: asc",
+      "tags": [
+        "football",
+        "divizia-a",
+        "seasons"
+      ],
+      "answers": [
+        {
+          "answer": "Dinamo București",
+          "display": "#1 — 49 pts",
+          "aliases": [
+            "Dinamo Bucharest"
+          ]
+        },
+        {
+          "answer": "Steaua București",
+          "display": "#2 — 45 pts",
+          "aliases": [
+            "Steaua",
+            "FCSB"
+          ]
+        },
+        {
+          "answer": "Universitatea Craiova",
+          "display": "#3 — 41 pts",
+          "aliases": [
+            "U Craiova",
+            "FC U Craiova",
+            "Craiova"
+          ]
+        },
+        {
+          "answer": "ASA Târgu Mureș",
+          "display": "#4 — 37 pts",
+          "aliases": [
+            "ASA Târgu Mureş",
+            "ASA"
+          ]
+        },
+        {
+          "answer": "Jiul Petroșani",
+          "display": "#5 — 37 pts",
+          "aliases": [
+            "Jiul"
+          ]
+        },
+        {
+          "answer": "Politehnica Timișoara",
+          "display": "#6 — 36 pts",
+          "aliases": [
+            "Poli Timișoara",
+            "Politehnica Timisoara"
+          ]
+        },
+        {
+          "answer": "Sportul Studențesc București",
+          "display": "#7 — 35 pts",
+          "aliases": [
+            "Sportul Studentesc",
+            "Sportul"
+          ]
+        },
+        {
+          "answer": "Politehnica Iași",
+          "display": "#8 — 33 pts",
+          "aliases": [
+            "Poli Iași",
+            "Politehnica Iasi"
+          ]
+        },
+        {
+          "answer": "Bihor Oradea",
+          "display": "#9 — 33 pts",
+          "aliases": [
+            "Bihor"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/soccer/eastern-europe/liga-i",
+      "question": "Top 6 clubs in the final 1977–78 Divizia A table",
+      "cutoff": 6,
+      "difficulty": 3,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1304018937 | table 1 | name: Team | value: Pos | order: asc",
+      "tags": [
+        "football",
+        "divizia-a",
+        "seasons"
+      ],
+      "answers": [
+        {
+          "answer": "Steaua București",
+          "display": "#1 — 41 pts",
+          "aliases": [
+            "Steaua",
+            "FCSB"
+          ]
+        },
+        {
+          "answer": "Argeș Pitești",
+          "display": "#2 — 41 pts",
+          "aliases": [
+            "Argeș",
+            "Arges Pitesti"
+          ]
+        },
+        {
+          "answer": "Politehnica Timișoara",
+          "display": "#3 — 38 pts",
+          "aliases": [
+            "Poli Timișoara",
+            "Politehnica Timisoara"
+          ]
+        },
+        {
+          "answer": "Sportul Studențesc București",
+          "display": "#4 — 38 pts",
+          "aliases": [
+            "Sportul Studentesc",
+            "Sportul"
+          ]
+        },
+        {
+          "answer": "Dinamo București",
+          "display": "#5 — 36 pts",
+          "aliases": [
+            "Dinamo Bucharest"
+          ]
+        },
+        {
+          "answer": "Universitatea Craiova",
+          "display": "#6 — 35 pts",
+          "aliases": [
+            "U Craiova",
+            "FC U Craiova",
+            "Craiova"
+          ]
+        },
+        {
+          "answer": "Jiul Petroșani",
+          "display": "#7 — 34 pts",
+          "aliases": [
+            "Jiul"
+          ]
+        },
+        {
+          "answer": "Corvinul Hunedoara",
+          "display": "#8 — 34 pts",
+          "aliases": [
+            "Corvinul"
+          ]
+        },
+        {
+          "answer": "CS Târgoviște",
+          "display": "#9 — 34 pts",
+          "aliases": [
+            "Târgoviște",
+            "Targoviste"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/soccer/eastern-europe/liga-i",
+      "question": "Top 6 clubs in the final 1978–79 Divizia A table",
+      "cutoff": 6,
+      "difficulty": 3,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1304018919 | table 1 | name: Team | value: Pos | order: asc",
+      "tags": [
+        "football",
+        "divizia-a",
+        "seasons"
+      ],
+      "answers": [
+        {
+          "answer": "Argeș Pitești",
+          "display": "#1 — 45 pts",
+          "aliases": [
+            "Argeș",
+            "Arges Pitesti"
+          ]
+        },
+        {
+          "answer": "Dinamo București",
+          "display": "#2 — 41 pts",
+          "aliases": [
+            "Dinamo Bucharest"
+          ]
+        },
+        {
+          "answer": "Steaua București",
+          "display": "#3 — 40 pts",
+          "aliases": [
+            "Steaua",
+            "FCSB"
+          ]
+        },
+        {
+          "answer": "Universitatea Craiova",
+          "display": "#4 — 38 pts",
+          "aliases": [
+            "U Craiova",
+            "FC U Craiova",
+            "Craiova"
+          ]
+        },
+        {
+          "answer": "FC Baia Mare",
+          "display": "#5 — 38 pts"
+        },
+        {
+          "answer": "Sportul Studențesc București",
+          "display": "#6 — 35 pts",
+          "aliases": [
+            "Sportul Studentesc",
+            "Sportul"
+          ]
+        },
+        {
+          "answer": "CS Târgoviște",
+          "display": "#7 — 35 pts",
+          "aliases": [
+            "Târgoviște",
+            "Targoviste"
+          ]
+        },
+        {
+          "answer": "SC Bacău",
+          "display": "#8 — 34 pts",
+          "aliases": [
+            "Bacău"
+          ]
+        },
+        {
+          "answer": "ASA Târgu Mureș",
+          "display": "#9 — 32 pts",
+          "aliases": [
+            "ASA Târgu Mureş",
+            "ASA"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/soccer/eastern-europe/liga-i",
+      "question": "Top 6 clubs in the final 1979–80 Divizia A table",
+      "cutoff": 6,
+      "difficulty": 3,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1367016046 | table 4 | name: Team | value: Pos | order: asc",
+      "tags": [
+        "football",
+        "divizia-a",
+        "seasons"
+      ],
+      "answers": [
+        {
+          "answer": "Universitatea Craiova",
+          "display": "#1 — 44 pts",
+          "aliases": [
+            "U Craiova",
+            "FC U Craiova",
+            "Craiova"
+          ]
+        },
+        {
+          "answer": "Steaua București",
+          "display": "#2 — 44 pts",
+          "aliases": [
+            "Steaua",
+            "FCSB"
+          ]
+        },
+        {
+          "answer": "Argeș Pitești",
+          "display": "#3 — 39 pts",
+          "aliases": [
+            "Argeș",
+            "Arges Pitesti"
+          ]
+        },
+        {
+          "answer": "FC Baia Mare",
+          "display": "#4 — 39 pts"
+        },
+        {
+          "answer": "Dinamo București",
+          "display": "#5 — 37 pts",
+          "aliases": [
+            "Dinamo Bucharest"
+          ]
+        },
+        {
+          "answer": "Sportul Studențesc București",
+          "display": "#6 — 37 pts",
+          "aliases": [
+            "Sportul Studentesc",
+            "Sportul"
+          ]
+        },
+        {
+          "answer": "SC Bacău",
+          "display": "#7 — 35 pts",
+          "aliases": [
+            "Bacău"
+          ]
+        },
+        {
+          "answer": "Politehnica Iași",
+          "display": "#8 — 34 pts",
+          "aliases": [
+            "Poli Iași",
+            "Politehnica Iasi"
+          ]
+        },
+        {
+          "answer": "Chimia Râmnicu Vâlcea",
+          "display": "#9 — 34 pts",
+          "aliases": [
+            "Chimia"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/soccer/eastern-europe/liga-i",
+      "question": "Top 6 clubs in the final 1980–81 Divizia A table",
+      "cutoff": 6,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1366125429 | table 1 | name: Team | value: Pos | order: asc",
+      "tags": [
+        "football",
+        "divizia-a",
+        "seasons"
+      ],
+      "answers": [
+        {
+          "answer": "Universitatea Craiova",
+          "display": "#1 — 46 pts",
+          "aliases": [
+            "U Craiova",
+            "FC U Craiova",
+            "Craiova"
+          ]
+        },
+        {
+          "answer": "Dinamo București",
+          "display": "#2 — 43 pts",
+          "aliases": [
+            "Dinamo Bucharest"
+          ]
+        },
+        {
+          "answer": "Argeș Pitești",
+          "display": "#3 — 42 pts",
+          "aliases": [
+            "Argeș",
+            "Arges Pitesti"
+          ]
+        },
+        {
+          "answer": "Steaua București",
+          "display": "#4 — 38 pts",
+          "aliases": [
+            "Steaua",
+            "FCSB"
+          ]
+        },
+        {
+          "answer": "Sportul Studențesc București",
+          "display": "#5 — 36 pts",
+          "aliases": [
+            "Sportul Studentesc",
+            "Sportul"
+          ]
+        },
+        {
+          "answer": "Corvinul Hunedoara",
+          "display": "#6 — 35 pts",
+          "aliases": [
+            "Corvinul"
+          ]
+        },
+        {
+          "answer": "Olt Scornicești",
+          "display": "#7 — 35 pts",
+          "aliases": [
+            "Olt"
+          ]
+        },
+        {
+          "answer": "FCM Brașov",
+          "display": "#8 — 34 pts",
+          "aliases": [
+            "FCM Brasov"
+          ]
+        },
+        {
+          "answer": "Chimia Râmnicu Vâlcea",
+          "display": "#9 — 34 pts",
+          "aliases": [
+            "Chimia"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/soccer/eastern-europe/liga-i",
+      "question": "Top 6 clubs in the final 1981–82 Divizia A table",
+      "cutoff": 6,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1371950891 | table 1 | name: Team | value: Pos | order: asc",
+      "tags": [
+        "football",
+        "divizia-a",
+        "seasons"
+      ],
+      "answers": [
+        {
+          "answer": "Dinamo București",
+          "display": "#1 — 47 pts",
+          "aliases": [
+            "Dinamo Bucharest"
+          ]
+        },
+        {
+          "answer": "Universitatea Craiova",
+          "display": "#2 — 45 pts",
+          "aliases": [
+            "U Craiova",
+            "FC U Craiova",
+            "Craiova"
+          ]
+        },
+        {
+          "answer": "Corvinul Hunedoara",
+          "display": "#3 — 39 pts",
+          "aliases": [
+            "Corvinul"
+          ]
+        },
+        {
+          "answer": "Olt Scornicești",
+          "display": "#4 — 39 pts",
+          "aliases": [
+            "Olt"
+          ]
+        },
+        {
+          "answer": "Sportul Studențesc București",
+          "display": "#5 — 38 pts",
+          "aliases": [
+            "Sportul Studentesc",
+            "Sportul"
+          ]
+        },
+        {
+          "answer": "Steaua București",
+          "display": "#6 — 37 pts",
+          "aliases": [
+            "Steaua",
+            "FCSB"
+          ]
+        },
+        {
+          "answer": "SC Bacău",
+          "display": "#7 — 33 pts",
+          "aliases": [
+            "Bacău"
+          ]
+        },
+        {
+          "answer": "Chimia Râmnicu Vâlcea",
+          "display": "#8 — 33 pts",
+          "aliases": [
+            "Chimia"
+          ]
+        },
+        {
+          "answer": "CS Târgoviște",
+          "display": "#9 — 33 pts",
+          "aliases": [
+            "Târgoviște",
+            "Targoviste"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/soccer/eastern-europe/liga-i",
+      "question": "Top 6 clubs in the final 1982–83 Divizia A table",
+      "cutoff": 6,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1366125556 | table 1 | name: Team | value: Pos | order: asc",
+      "tags": [
+        "football",
+        "divizia-a",
+        "seasons"
+      ],
+      "answers": [
+        {
+          "answer": "Dinamo București",
+          "display": "#1 — 49 pts",
+          "aliases": [
+            "Dinamo Bucharest"
+          ]
+        },
+        {
+          "answer": "Universitatea Craiova",
+          "display": "#2 — 46 pts",
+          "aliases": [
+            "U Craiova",
+            "FC U Craiova",
+            "Craiova"
+          ]
+        },
+        {
+          "answer": "Sportul Studențesc București",
+          "display": "#3 — 44 pts",
+          "aliases": [
+            "Sportul Studentesc",
+            "Sportul"
+          ]
+        },
+        {
+          "answer": "Argeș Pitești",
+          "display": "#4 — 40 pts",
+          "aliases": [
+            "Argeș",
+            "Arges Pitesti"
+          ]
+        },
+        {
+          "answer": "Steaua București",
+          "display": "#5 — 38 pts",
+          "aliases": [
+            "Steaua",
+            "FCSB"
+          ]
+        },
+        {
+          "answer": "Corvinul Hunedoara",
+          "display": "#6 — 34 pts",
+          "aliases": [
+            "Corvinul"
+          ]
+        },
+        {
+          "answer": "Olt Scornicești",
+          "display": "#7 — 33 pts",
+          "aliases": [
+            "Olt"
+          ]
+        },
+        {
+          "answer": "ASA Târgu Mureș",
+          "display": "#8 — 33 pts",
+          "aliases": [
+            "ASA Târgu Mureş",
+            "ASA"
+          ]
+        },
+        {
+          "answer": "Jiul Petroșani",
+          "display": "#9 — 33 pts",
+          "aliases": [
+            "Jiul"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/soccer/eastern-europe/liga-i",
+      "question": "Top 6 clubs in the final 1983–84 Divizia A table",
+      "cutoff": 6,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1363459058 | table 1 | name: Team | value: Pos | order: asc",
+      "tags": [
+        "football",
+        "divizia-a",
+        "seasons"
+      ],
+      "answers": [
+        {
+          "answer": "Dinamo București",
+          "display": "#1 — 49 pts",
+          "aliases": [
+            "Dinamo Bucharest"
+          ]
+        },
+        {
+          "answer": "Steaua București",
+          "display": "#2 — 47 pts",
+          "aliases": [
+            "Steaua",
+            "FCSB"
+          ]
+        },
+        {
+          "answer": "Universitatea Craiova",
+          "display": "#3 — 43 pts",
+          "aliases": [
+            "U Craiova",
+            "FC U Craiova",
+            "Craiova"
+          ]
+        },
+        {
+          "answer": "Sportul Studențesc București",
+          "display": "#4 — 40 pts",
+          "aliases": [
+            "Sportul Studentesc",
+            "Sportul"
+          ]
+        },
+        {
+          "answer": "Argeș Pitești",
+          "display": "#5 — 38 pts",
+          "aliases": [
+            "Argeș",
+            "Arges Pitesti"
+          ]
+        },
+        {
+          "answer": "SC Bacău",
+          "display": "#6 — 35 pts",
+          "aliases": [
+            "Bacău"
+          ]
+        },
+        {
+          "answer": "Bihor Oradea",
+          "display": "#7 — 34 pts",
+          "aliases": [
+            "Bihor"
+          ]
+        },
+        {
+          "answer": "Politehnica Iași",
+          "display": "#8 — 34 pts",
+          "aliases": [
+            "Poli Iași",
+            "Politehnica Iasi"
+          ]
+        },
+        {
+          "answer": "Chimia Râmnicu Vâlcea",
+          "display": "#9 — 34 pts",
+          "aliases": [
+            "Chimia"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/soccer/eastern-europe/liga-i",
+      "question": "Top 6 clubs in the final 1984–85 Divizia A table",
+      "cutoff": 6,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1379280014 | table 1 | name: Team | value: Pos | order: asc",
+      "tags": [
+        "football",
+        "divizia-a",
+        "seasons"
+      ],
+      "answers": [
+        {
+          "answer": "Steaua București",
+          "display": "#1 — 54 pts",
+          "aliases": [
+            "Steaua",
+            "FCSB"
+          ]
+        },
+        {
+          "answer": "Dinamo București",
+          "display": "#2 — 52 pts",
+          "aliases": [
+            "Dinamo Bucharest"
+          ]
+        },
+        {
+          "answer": "Sportul Studențesc București",
+          "display": "#3 — 48 pts",
+          "aliases": [
+            "Sportul Studentesc",
+            "Sportul"
+          ]
+        },
+        {
+          "answer": "Universitatea Craiova",
+          "display": "#4 — 39 pts",
+          "aliases": [
+            "U Craiova",
+            "FC U Craiova",
+            "Craiova"
+          ]
+        },
+        {
+          "answer": "Gloria Buzău",
+          "display": "#5 — 34 pts",
+          "aliases": [
+            "Gloria Buzau"
+          ]
+        },
+        {
+          "answer": "ASA Târgu Mureș",
+          "display": "#6 — 33 pts",
+          "aliases": [
+            "ASA Târgu Mureş",
+            "ASA"
+          ]
+        },
+        {
+          "answer": "Argeș Pitești",
+          "display": "#7 — 32 pts",
+          "aliases": [
+            "Argeș",
+            "Arges Pitesti"
+          ]
+        },
+        {
+          "answer": "Corvinul Hunedoara",
+          "display": "#8 — 32 pts",
+          "aliases": [
+            "Corvinul"
+          ]
+        },
+        {
+          "answer": "Politehnica Timișoara",
+          "display": "#9 — 32 pts",
+          "aliases": [
+            "Poli Timișoara",
+            "Politehnica Timisoara"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/soccer/eastern-europe/liga-i",
+      "question": "Top 6 clubs in the final 1985–86 Divizia A table",
+      "cutoff": 6,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1371951098 | table 1 | name: Team | value: Pos | order: asc",
+      "tags": [
+        "football",
+        "divizia-a",
+        "seasons"
+      ],
+      "answers": [
+        {
+          "answer": "Steaua București",
+          "display": "#1 — 57 pts",
+          "aliases": [
+            "Steaua",
+            "FCSB"
+          ]
+        },
+        {
+          "answer": "Sportul Studențesc București",
+          "display": "#2 — 48 pts",
+          "aliases": [
+            "Sportul Studentesc",
+            "Sportul"
+          ]
+        },
+        {
+          "answer": "Universitatea Craiova",
+          "display": "#3 — 46 pts",
+          "aliases": [
+            "U Craiova",
+            "FC U Craiova",
+            "Craiova"
+          ]
+        },
+        {
+          "answer": "Dinamo București",
+          "display": "#4 — 46 pts",
+          "aliases": [
+            "Dinamo Bucharest"
+          ]
+        },
+        {
+          "answer": "Corvinul Hunedoara",
+          "display": "#5 — 37 pts",
+          "aliases": [
+            "Corvinul"
+          ]
+        },
+        {
+          "answer": "Argeș Pitești",
+          "display": "#6 — 36 pts",
+          "aliases": [
+            "Argeș",
+            "Arges Pitesti"
+          ]
+        },
+        {
+          "answer": "Universitatea Cluj",
+          "display": "#7 — 33 pts",
+          "aliases": [
+            "U Cluj"
+          ]
+        },
+        {
+          "answer": "Rapid București",
+          "display": "#8 — 33 pts",
+          "aliases": [
+            "Rapid",
+            "Rapid Bucharest"
+          ]
+        },
+        {
+          "answer": "Petrolul Ploiești",
+          "display": "#9 — 31 pts",
+          "aliases": [
+            "Petrolul"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/soccer/eastern-europe/liga-i",
+      "question": "Top 6 clubs in the final 1986–87 Divizia A table",
+      "cutoff": 6,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1367016237 | table 1 | name: Team | value: Pos | order: asc",
+      "tags": [
+        "football",
+        "divizia-a",
+        "seasons"
+      ],
+      "answers": [
+        {
+          "answer": "Steaua București",
+          "display": "#1 — 59 pts",
+          "aliases": [
+            "Steaua",
+            "FCSB"
+          ]
+        },
+        {
+          "answer": "Dinamo București",
+          "display": "#2 — 44 pts",
+          "aliases": [
+            "Dinamo Bucharest"
+          ]
+        },
+        {
+          "answer": "Victoria București",
+          "display": "#3 — 38 pts",
+          "aliases": [
+            "Victoria"
+          ]
+        },
+        {
+          "answer": "Sportul Studențesc București",
+          "display": "#4 — 35 pts",
+          "aliases": [
+            "Sportul Studentesc",
+            "Sportul"
+          ]
+        },
+        {
+          "answer": "Universitatea Craiova",
+          "display": "#5 — 35 pts",
+          "aliases": [
+            "U Craiova",
+            "FC U Craiova",
+            "Craiova"
+          ]
+        },
+        {
+          "answer": "Argeș Pitești",
+          "display": "#6 — 35 pts",
+          "aliases": [
+            "Argeș",
+            "Arges Pitesti"
+          ]
+        },
+        {
+          "answer": "Olt Scornicești",
+          "display": "#7 — 35 pts",
+          "aliases": [
+            "Olt"
+          ]
+        },
+        {
+          "answer": "Petrolul Ploiești",
+          "display": "#8 — 34 pts",
+          "aliases": [
+            "Petrolul"
+          ]
+        },
+        {
+          "answer": "Corvinul Hunedoara",
+          "display": "#9 — 33 pts",
+          "aliases": [
+            "Corvinul"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/soccer/eastern-europe/liga-i",
+      "question": "Top 6 clubs in the final 1987–88 Divizia A table",
+      "cutoff": 6,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1368675752 | table 1 | name: Team | value: Pos | order: asc",
+      "tags": [
+        "football",
+        "divizia-a",
+        "seasons"
+      ],
+      "answers": [
+        {
+          "answer": "Steaua București",
+          "display": "#1 — 64 pts",
+          "aliases": [
+            "Steaua",
+            "FCSB"
+          ]
+        },
+        {
+          "answer": "Dinamo București",
+          "display": "#2 — 63 pts",
+          "aliases": [
+            "Dinamo Bucharest"
+          ]
+        },
+        {
+          "answer": "Victoria București",
+          "display": "#3 — 40 pts",
+          "aliases": [
+            "Victoria"
+          ]
+        },
+        {
+          "answer": "Oțelul Galați",
+          "display": "#4 — 39 pts",
+          "aliases": [
+            "Oțelul",
+            "Otelul Galati"
+          ]
+        },
+        {
+          "answer": "Universitatea Craiova",
+          "display": "#5 — 36 pts",
+          "aliases": [
+            "U Craiova",
+            "FC U Craiova",
+            "Craiova"
+          ]
+        },
+        {
+          "answer": "Flacăra Moreni",
+          "display": "#6 — 33 pts",
+          "aliases": [
+            "Flacăra"
+          ]
+        },
+        {
+          "answer": "Corvinul Hunedoara",
+          "display": "#7 — 30 pts",
+          "aliases": [
+            "Corvinul"
+          ]
+        },
+        {
+          "answer": "FCM Brașov",
+          "display": "#8 — 29 pts",
+          "aliases": [
+            "FCM Brasov"
+          ]
+        },
+        {
+          "answer": "Argeș Pitești",
+          "display": "#9 — 29 pts",
+          "aliases": [
+            "Argeș",
+            "Arges Pitesti"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/soccer/eastern-europe/liga-i",
+      "question": "Top 6 clubs in the final 1988–89 Divizia A table",
+      "cutoff": 6,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1371301325 | table 1 | name: Team | value: Pos | order: asc",
+      "tags": [
+        "football",
+        "divizia-a",
+        "seasons"
+      ],
+      "answers": [
+        {
+          "answer": "Steaua București",
+          "display": "#1 — 65 pts",
+          "aliases": [
+            "Steaua",
+            "FCSB"
+          ]
+        },
+        {
+          "answer": "Dinamo București",
+          "display": "#2 — 62 pts",
+          "aliases": [
+            "Dinamo Bucharest"
+          ]
+        },
+        {
+          "answer": "Victoria București",
+          "display": "#3 — 45 pts",
+          "aliases": [
+            "Victoria"
+          ]
+        },
+        {
+          "answer": "Flacăra Moreni",
+          "display": "#4 — 36 pts",
+          "aliases": [
+            "Flacăra"
+          ]
+        },
+        {
+          "answer": "Universitatea Craiova",
+          "display": "#5 — 36 pts",
+          "aliases": [
+            "U Craiova",
+            "FC U Craiova",
+            "Craiova"
+          ]
+        },
+        {
+          "answer": "Sportul Studențesc București",
+          "display": "#6 — 34 pts",
+          "aliases": [
+            "Sportul Studentesc",
+            "Sportul"
+          ]
+        },
+        {
+          "answer": "Bihor Oradea",
+          "display": "#7 — 32 pts",
+          "aliases": [
+            "Bihor"
+          ]
+        },
+        {
+          "answer": "Olt Scornicești",
+          "display": "#8 — 32 pts",
+          "aliases": [
+            "Olt"
+          ]
+        },
+        {
+          "answer": "Farul Constanța",
+          "display": "#9 — 32 pts",
+          "aliases": [
+            "Farul"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/soccer/eastern-europe/liga-i",
+      "question": "Top 6 clubs in the final 1989–90 Divizia A table",
+      "cutoff": 6,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1371951118 | table 1 | name: Team | value: Pos | order: asc",
+      "tags": [
+        "football",
+        "divizia-a",
+        "seasons"
+      ],
+      "answers": [
+        {
+          "answer": "Dinamo București",
+          "display": "#1 — 57 pts",
+          "aliases": [
+            "Dinamo Bucharest"
+          ]
+        },
+        {
+          "answer": "Steaua București",
+          "display": "#2 — 56 pts",
+          "aliases": [
+            "Steaua",
+            "FCSB"
+          ]
+        },
+        {
+          "answer": "Universitatea Craiova",
+          "display": "#3 — 44 pts",
+          "aliases": [
+            "U Craiova",
+            "FC U Craiova",
+            "Craiova"
+          ]
+        },
+        {
+          "answer": "Petrolul Ploiești",
+          "display": "#4 — 41 pts",
+          "aliases": [
+            "Petrolul"
+          ]
+        },
+        {
+          "answer": "Politehnica Timișoara",
+          "display": "#5 — 41 pts",
+          "aliases": [
+            "Poli Timișoara",
+            "Politehnica Timisoara"
+          ]
+        },
+        {
+          "answer": "Inter Sibiu",
+          "display": "#6 — 36 pts",
+          "aliases": [
+            "Inter"
+          ]
+        },
+        {
+          "answer": "FCM Brașov",
+          "display": "#7 — 35 pts",
+          "aliases": [
+            "FCM Brasov"
+          ]
+        },
+        {
+          "answer": "Corvinul Hunedoara",
+          "display": "#8 — 32 pts",
+          "aliases": [
+            "Corvinul"
+          ]
+        },
+        {
+          "answer": "Farul Constanța",
+          "display": "#9 — 31 pts",
+          "aliases": [
+            "Farul"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/soccer/eastern-europe/liga-i",
+      "question": "Top 6 clubs in the final 1990–91 Divizia A table",
+      "cutoff": 6,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1362193291 | table 1 | name: Team | value: Pos | order: asc",
+      "tags": [
+        "football",
+        "divizia-a",
+        "seasons"
+      ],
+      "answers": [
+        {
+          "answer": "Universitatea Craiova",
+          "display": "#1 — 50 pts",
+          "aliases": [
+            "U Craiova",
+            "FC U Craiova",
+            "Craiova"
+          ]
+        },
+        {
+          "answer": "Steaua București",
+          "display": "#2 — 50 pts",
+          "aliases": [
+            "Steaua",
+            "FCSB"
+          ]
+        },
+        {
+          "answer": "Dinamo București",
+          "display": "#3 — 43 pts",
+          "aliases": [
+            "Dinamo Bucharest"
+          ]
+        },
+        {
+          "answer": "Inter Sibiu",
+          "display": "#4 — 38 pts",
+          "aliases": [
+            "Inter"
+          ]
+        },
+        {
+          "answer": "Gloria Bistrița",
+          "display": "#5 — 37 pts",
+          "aliases": [
+            "Gloria Bistrita"
+          ]
+        },
+        {
+          "answer": "Politehnica Timișoara",
+          "display": "#6 — 35 pts",
+          "aliases": [
+            "Poli Timișoara",
+            "Politehnica Timisoara"
+          ]
+        },
+        {
+          "answer": "Petrolul Ploiești",
+          "display": "#7 — 35 pts",
+          "aliases": [
+            "Petrolul"
+          ]
+        },
+        {
+          "answer": "Argeș Pitești",
+          "display": "#8 — 34 pts",
+          "aliases": [
+            "Argeș",
+            "Arges Pitesti"
+          ]
+        },
+        {
+          "answer": "Brașov",
+          "display": "#9 — 34 pts",
+          "aliases": [
+            "FC Brașov",
+            "FC Brasov"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/soccer/eastern-europe/liga-i",
+      "question": "Top 6 clubs in the final 1991–92 Divizia A table",
+      "cutoff": 6,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1370862909 | table 1 | name: Team | value: Pos | order: asc",
+      "tags": [
+        "football",
+        "divizia-a",
+        "seasons"
+      ],
+      "answers": [
+        {
+          "answer": "Dinamo București",
+          "display": "#1 — 55 pts",
+          "aliases": [
+            "Dinamo Bucharest"
+          ]
+        },
+        {
+          "answer": "Steaua București",
+          "display": "#2 — 48 pts",
+          "aliases": [
+            "Steaua",
+            "FCSB"
+          ]
+        },
+        {
+          "answer": "Electroputere Craiova",
+          "display": "#3 — 39 pts",
+          "aliases": [
+            "Electroputere"
+          ]
+        },
+        {
+          "answer": "Universitatea Craiova",
+          "display": "#4 — 39 pts",
+          "aliases": [
+            "U Craiova",
+            "FC U Craiova",
+            "Craiova"
+          ]
+        },
+        {
+          "answer": "Politehnica Timișoara",
+          "display": "#5 — 39 pts",
+          "aliases": [
+            "Poli Timișoara",
+            "Politehnica Timisoara"
+          ]
+        },
+        {
+          "answer": "Dacia Unirea Brăila",
+          "display": "#6 — 35 pts",
+          "aliases": [
+            "Dacia Unirea"
+          ]
+        },
+        {
+          "answer": "Rapid București",
+          "display": "#7 — 35 pts",
+          "aliases": [
+            "Rapid",
+            "Rapid Bucharest"
+          ]
+        },
+        {
+          "answer": "Oțelul Galați",
+          "display": "#8 — 35 pts",
+          "aliases": [
+            "Oțelul",
+            "Otelul Galati"
+          ]
+        },
+        {
+          "answer": "Brașov",
+          "display": "#9 — 34 pts",
+          "aliases": [
+            "FC Brașov",
+            "FC Brasov"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/soccer/eastern-europe/liga-i",
+      "question": "Top 6 clubs in the final 1992–93 Divizia A table",
+      "cutoff": 6,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1366125702 | table 1 | name: Team | value: Pos | order: asc",
+      "tags": [
+        "football",
+        "divizia-a",
+        "seasons"
+      ],
+      "answers": [
+        {
+          "answer": "Steaua București",
+          "display": "#1 — 57 pts",
+          "aliases": [
+            "Steaua",
+            "FCSB"
+          ]
+        },
+        {
+          "answer": "Dinamo București",
+          "display": "#2 — 53 pts",
+          "aliases": [
+            "Dinamo Bucharest"
+          ]
+        },
+        {
+          "answer": "Universitatea Craiova",
+          "display": "#3 — 42 pts",
+          "aliases": [
+            "U Craiova",
+            "FC U Craiova",
+            "Craiova"
+          ]
+        },
+        {
+          "answer": "Rapid București",
+          "display": "#4 — 39 pts",
+          "aliases": [
+            "Rapid",
+            "Rapid Bucharest"
+          ]
+        },
+        {
+          "answer": "Gloria Bistrița",
+          "display": "#5 — 35 pts",
+          "aliases": [
+            "Gloria Bistrita"
+          ]
+        },
+        {
+          "answer": "Electroputere Craiova",
+          "display": "#6 — 35 pts",
+          "aliases": [
+            "Electroputere"
+          ]
+        },
+        {
+          "answer": "Sportul Studențesc București",
+          "display": "#7 — 34 pts",
+          "aliases": [
+            "Sportul Studentesc",
+            "Sportul"
+          ]
+        },
+        {
+          "answer": "Inter Sibiu",
+          "display": "#8 — 33 pts",
+          "aliases": [
+            "Inter"
+          ]
+        },
+        {
+          "answer": "Farul Constanța",
+          "display": "#9 — 32 pts",
+          "aliases": [
+            "Farul"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/soccer/eastern-europe/liga-i",
+      "question": "Top 6 clubs in the final 1993–94 Divizia A table",
+      "cutoff": 6,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1294403046 | table 1 | name: Team | value: Pos | order: asc",
+      "tags": [
+        "football",
+        "divizia-a",
+        "seasons"
+      ],
+      "answers": [
+        {
+          "answer": "Steaua București",
+          "display": "#1 — 53 pts",
+          "aliases": [
+            "Steaua",
+            "FCSB"
+          ]
+        },
+        {
+          "answer": "Universitatea Craiova",
+          "display": "#2 — 40 pts",
+          "aliases": [
+            "U Craiova",
+            "FC U Craiova",
+            "Craiova"
+          ]
+        },
+        {
+          "answer": "Dinamo București",
+          "display": "#3 — 39 pts",
+          "aliases": [
+            "Dinamo Bucharest"
+          ]
+        },
+        {
+          "answer": "Rapid București",
+          "display": "#4 — 38 pts",
+          "aliases": [
+            "Rapid",
+            "Rapid Bucharest"
+          ]
+        },
+        {
+          "answer": "Petrolul Ploiești",
+          "display": "#5 — 38 pts",
+          "aliases": [
+            "Petrolul"
+          ]
+        },
+        {
+          "answer": "Farul Constanța",
+          "display": "#6 — 37 pts",
+          "aliases": [
+            "Farul"
+          ]
+        },
+        {
+          "answer": "Gloria Bistrița",
+          "display": "#7 — 35 pts",
+          "aliases": [
+            "Gloria Bistrita"
+          ]
+        },
+        {
+          "answer": "Inter Sibiu",
+          "display": "#8 — 34 pts",
+          "aliases": [
+            "Inter"
+          ]
+        },
+        {
+          "answer": "Progresul București",
+          "display": "#9 — 32 pts",
+          "aliases": [
+            "Progresul"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/soccer/eastern-europe/liga-i",
+      "question": "Top 6 clubs in the final 1994–95 Divizia A table",
+      "cutoff": 6,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1296254586 | table 1 | name: Team | value: Pos | order: asc",
+      "tags": [
+        "football",
+        "divizia-a",
+        "seasons"
+      ],
+      "answers": [
+        {
+          "answer": "Steaua București",
+          "display": "#1 — 77 pts",
+          "aliases": [
+            "Steaua",
+            "FCSB"
+          ]
+        },
+        {
+          "answer": "Universitatea Craiova",
+          "display": "#2 — 68 pts",
+          "aliases": [
+            "U Craiova",
+            "FC U Craiova",
+            "Craiova"
+          ]
+        },
+        {
+          "answer": "Dinamo București",
+          "display": "#3 — 65 pts",
+          "aliases": [
+            "Dinamo Bucharest"
+          ]
+        },
+        {
+          "answer": "Rapid București",
+          "display": "#4 — 54 pts",
+          "aliases": [
+            "Rapid",
+            "Rapid Bucharest"
+          ]
+        },
+        {
+          "answer": "Ceahlăul Piatra Neamț",
+          "display": "#5 — 53 pts",
+          "aliases": [
+            "Ceahlăul",
+            "Ceahlaul"
+          ]
+        },
+        {
+          "answer": "Național București",
+          "display": "#6 — 52 pts",
+          "aliases": [
+            "Național",
+            "Naţional",
+            "Naţional București"
+          ]
+        },
+        {
+          "answer": "Gloria Bistrița",
+          "display": "#7 — 52 pts",
+          "aliases": [
+            "Gloria Bistrita"
+          ]
+        },
+        {
+          "answer": "Argeș Pitești",
+          "display": "#8 — 52 pts",
+          "aliases": [
+            "Argeș",
+            "Arges Pitesti"
+          ]
+        },
+        {
+          "answer": "Inter Sibiu",
+          "display": "#9 — 51 pts",
+          "aliases": [
+            "Inter"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/soccer/eastern-europe/liga-i",
+      "question": "Top 6 clubs in the final 1995–96 Divizia A table",
+      "cutoff": 6,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1294403605 | table 1 | name: Team | value: Pos | order: asc",
+      "tags": [
+        "football",
+        "divizia-a",
+        "seasons"
+      ],
+      "answers": [
+        {
+          "answer": "Steaua București",
+          "display": "#1 — 71 pts",
+          "aliases": [
+            "Steaua",
+            "FCSB"
+          ]
+        },
+        {
+          "answer": "Național București",
+          "display": "#2 — 60 pts",
+          "aliases": [
+            "Național",
+            "Naţional",
+            "Naţional București"
+          ]
+        },
+        {
+          "answer": "Rapid București",
+          "display": "#3 — 59 pts",
+          "aliases": [
+            "Rapid",
+            "Rapid Bucharest"
+          ]
+        },
+        {
+          "answer": "Universitatea Craiova",
+          "display": "#4 — 57 pts",
+          "aliases": [
+            "U Craiova",
+            "FC U Craiova",
+            "Craiova"
+          ]
+        },
+        {
+          "answer": "Dinamo București",
+          "display": "#5 — 52 pts",
+          "aliases": [
+            "Dinamo Bucharest"
+          ]
+        },
+        {
+          "answer": "Petrolul Ploiești",
+          "display": "#6 — 51 pts",
+          "aliases": [
+            "Petrolul"
+          ]
+        },
+        {
+          "answer": "Politehnica Timișoara",
+          "display": "#7 — 49 pts",
+          "aliases": [
+            "Poli Timișoara",
+            "Politehnica Timisoara"
+          ]
+        },
+        {
+          "answer": "Farul Constanța",
+          "display": "#8 — 49 pts",
+          "aliases": [
+            "Farul"
+          ]
+        },
+        {
+          "answer": "Universitatea Cluj",
+          "display": "#9 — 48 pts",
+          "aliases": [
+            "U Cluj"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/soccer/eastern-europe/liga-i",
+      "question": "Top 6 clubs in the final 1996–97 Divizia A table",
+      "cutoff": 6,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1366556752 | table 1 | name: Team | value: Pos | order: asc",
+      "tags": [
+        "football",
+        "divizia-a",
+        "seasons"
+      ],
+      "answers": [
+        {
+          "answer": "Steaua București",
+          "display": "#1 — 73 pts",
+          "aliases": [
+            "Steaua",
+            "FCSB"
+          ]
+        },
+        {
+          "answer": "Național București",
+          "display": "#2 — 68 pts",
+          "aliases": [
+            "Național",
+            "Naţional",
+            "Naţional București"
+          ]
+        },
+        {
+          "answer": "Dinamo București",
+          "display": "#3 — 59 pts",
+          "aliases": [
+            "Dinamo Bucharest"
+          ]
+        },
+        {
+          "answer": "Oțelul Galați",
+          "display": "#4 — 58 pts",
+          "aliases": [
+            "Oțelul",
+            "Otelul Galati"
+          ]
+        },
+        {
+          "answer": "SC Bacău",
+          "display": "#5 — 53 pts",
+          "aliases": [
+            "Bacău"
+          ]
+        },
+        {
+          "answer": "Ceahlăul Piatra Neamț",
+          "display": "#6 — 52 pts",
+          "aliases": [
+            "Ceahlăul",
+            "Ceahlaul"
+          ]
+        },
+        {
+          "answer": "Argeș Pitești",
+          "display": "#7 — 50 pts",
+          "aliases": [
+            "Argeș",
+            "Arges Pitesti"
+          ]
+        },
+        {
+          "answer": "Rapid București",
+          "display": "#8 — 48 pts",
+          "aliases": [
+            "Rapid",
+            "Rapid Bucharest"
+          ]
+        },
+        {
+          "answer": "Petrolul Ploiești",
+          "display": "#9 — 46 pts",
+          "aliases": [
+            "Petrolul"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/soccer/eastern-europe/liga-i",
+      "question": "Top 6 clubs in the final 1997–98 Divizia A table",
+      "cutoff": 6,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1294404017 | table 1 | name: Team | value: Pos | order: asc",
+      "tags": [
+        "football",
+        "divizia-a",
+        "seasons"
+      ],
+      "answers": [
+        {
+          "answer": "Steaua București",
+          "display": "#1 — 80 pts",
+          "aliases": [
+            "Steaua",
+            "FCSB"
+          ]
+        },
+        {
+          "answer": "Rapid București",
+          "display": "#2 — 78 pts",
+          "aliases": [
+            "Rapid",
+            "Rapid Bucharest"
+          ]
+        },
+        {
+          "answer": "Argeș Pitești",
+          "display": "#3 — 65 pts",
+          "aliases": [
+            "Argeș",
+            "Arges Pitesti"
+          ]
+        },
+        {
+          "answer": "Oțelul Galați",
+          "display": "#4 — 64 pts",
+          "aliases": [
+            "Oțelul",
+            "Otelul Galati"
+          ]
+        },
+        {
+          "answer": "Național București",
+          "display": "#5 — 60 pts",
+          "aliases": [
+            "Național",
+            "Naţional",
+            "Naţional București"
+          ]
+        },
+        {
+          "answer": "Dinamo București",
+          "display": "#6 — 54 pts",
+          "aliases": [
+            "Dinamo Bucharest"
+          ]
+        },
+        {
+          "answer": "Reșița",
+          "display": "#7 — 51 pts"
+        },
+        {
+          "answer": "Universitatea Craiova",
+          "display": "#8 — 49 pts",
+          "aliases": [
+            "U Craiova",
+            "FC U Craiova",
+            "Craiova"
+          ]
+        },
+        {
+          "answer": "Ceahlăul Piatra Neamț",
+          "display": "#9 — 49 pts",
+          "aliases": [
+            "Ceahlăul",
+            "Ceahlaul"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/soccer/eastern-europe/liga-i",
+      "question": "Top 6 clubs in the final 1998–99 Divizia A table",
+      "cutoff": 6,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1350068565 | table 1 | name: Team | value: Pos | order: asc",
+      "tags": [
+        "football",
+        "divizia-a",
+        "seasons"
+      ],
+      "answers": [
+        {
+          "answer": "Rapid București",
+          "display": "#1 — 89 pts",
+          "aliases": [
+            "Rapid",
+            "Rapid Bucharest"
+          ]
+        },
+        {
+          "answer": "Dinamo București",
+          "display": "#2 — 82 pts",
+          "aliases": [
+            "Dinamo Bucharest"
+          ]
+        },
+        {
+          "answer": "Steaua București",
+          "display": "#3 — 66 pts",
+          "aliases": [
+            "Steaua",
+            "FCSB"
+          ]
+        },
+        {
+          "answer": "Argeș Pitești",
+          "display": "#4 — 64 pts",
+          "aliases": [
+            "Argeș",
+            "Arges Pitesti"
+          ]
+        },
+        {
+          "answer": "SC Bacău",
+          "display": "#5 — 62 pts",
+          "aliases": [
+            "Bacău"
+          ]
+        },
+        {
+          "answer": "Oțelul Galați",
+          "display": "#6 — 55 pts",
+          "aliases": [
+            "Oțelul",
+            "Otelul Galati"
+          ]
+        },
+        {
+          "answer": "Național București",
+          "display": "#7 — 55 pts",
+          "aliases": [
+            "Național",
+            "Naţional",
+            "Naţional București"
+          ]
+        },
+        {
+          "answer": "Petrolul Ploiești",
+          "display": "#8 — 53 pts",
+          "aliases": [
+            "Petrolul"
+          ]
+        },
+        {
+          "answer": "Ceahlăul Piatra Neamț",
+          "display": "#9 — 49 pts",
+          "aliases": [
+            "Ceahlăul",
+            "Ceahlaul"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/soccer/eastern-europe/liga-i",
+      "question": "Top 6 clubs in the final 1999–2000 Divizia A table",
+      "cutoff": 6,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1371951213 | table 1 | name: Team | value: Pos | order: asc",
+      "tags": [
+        "football",
+        "divizia-a",
+        "seasons"
+      ],
+      "answers": [
+        {
+          "answer": "Dinamo București",
+          "display": "#1 — 84 pts",
+          "aliases": [
+            "Dinamo Bucharest"
+          ]
+        },
+        {
+          "answer": "Rapid București",
+          "display": "#2 — 72 pts",
+          "aliases": [
+            "Rapid",
+            "Rapid Bucharest"
+          ]
+        },
+        {
+          "answer": "Steaua București",
+          "display": "#3 — 57 pts",
+          "aliases": [
+            "Steaua",
+            "FCSB"
+          ]
+        },
+        {
+          "answer": "Ceahlăul Piatra Neamț",
+          "display": "#4 — 57 pts",
+          "aliases": [
+            "Ceahlăul",
+            "Ceahlaul"
+          ]
+        },
+        {
+          "answer": "Argeș Pitești",
+          "display": "#5 — 54 pts",
+          "aliases": [
+            "Argeș",
+            "Arges Pitesti"
+          ]
+        },
+        {
+          "answer": "Gloria Bistrița",
+          "display": "#6 — 53 pts",
+          "aliases": [
+            "Gloria Bistrita"
+          ]
+        },
+        {
+          "answer": "SC Bacău",
+          "display": "#7 — 51 pts",
+          "aliases": [
+            "Bacău"
+          ]
+        },
+        {
+          "answer": "Oțelul Galați",
+          "display": "#8 — 49 pts",
+          "aliases": [
+            "Oțelul",
+            "Otelul Galati"
+          ]
+        },
+        {
+          "answer": "Național București",
+          "display": "#9 — 49 pts",
+          "aliases": [
+            "Național",
+            "Naţional",
+            "Naţional București"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/soccer/eastern-europe/liga-i",
+      "question": "Top 5 clubs in the final 2000–01 Divizia A table",
+      "cutoff": 5,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1372127717 | table 3 | name: Team | value: Pos | order: asc",
+      "tags": [
+        "football",
+        "divizia-a",
+        "seasons"
+      ],
+      "answers": [
+        {
+          "answer": "Steaua București",
+          "display": "#1 — 60 pts",
+          "aliases": [
+            "Steaua",
+            "FCSB"
+          ]
+        },
+        {
+          "answer": "Dinamo București",
+          "display": "#2 — 51 pts",
+          "aliases": [
+            "Dinamo Bucharest"
+          ]
+        },
+        {
+          "answer": "Brașov",
+          "display": "#3 — 50 pts",
+          "aliases": [
+            "FC Brașov",
+            "FC Brasov"
+          ]
+        },
+        {
+          "answer": "Rapid București",
+          "display": "#4 — 49 pts",
+          "aliases": [
+            "Rapid",
+            "Rapid Bucharest"
+          ]
+        },
+        {
+          "answer": "Argeș Pitești",
+          "display": "#5 — 46 pts",
+          "aliases": [
+            "Argeș",
+            "Arges Pitesti"
+          ]
+        },
+        {
+          "answer": "Gloria Bistrița",
+          "display": "#6 — 43 pts",
+          "aliases": [
+            "Gloria Bistrita"
+          ]
+        },
+        {
+          "answer": "Național București",
+          "display": "#7 — 43 pts",
+          "aliases": [
+            "Național",
+            "Naţional",
+            "Naţional București"
+          ]
+        },
+        {
+          "answer": "Universitatea Craiova",
+          "display": "#8 — 41 pts",
+          "aliases": [
+            "U Craiova",
+            "FC U Craiova",
+            "Craiova"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/soccer/eastern-europe/liga-i",
+      "question": "Top 5 clubs in the final 2001–02 Divizia A table",
+      "cutoff": 5,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1369889050 | table 3 | name: Team | value: Pos | order: asc",
+      "tags": [
+        "football",
+        "divizia-a",
+        "seasons"
+      ],
+      "answers": [
+        {
+          "answer": "Dinamo București",
+          "display": "#1 — 60 pts",
+          "aliases": [
+            "Dinamo Bucharest"
+          ]
+        },
+        {
+          "answer": "Național București",
+          "display": "#2 — 58 pts",
+          "aliases": [
+            "Național",
+            "Naţional",
+            "Naţional București"
+          ]
+        },
+        {
+          "answer": "Rapid București",
+          "display": "#3 — 50 pts",
+          "aliases": [
+            "Rapid",
+            "Rapid Bucharest"
+          ]
+        },
+        {
+          "answer": "Steaua București",
+          "display": "#4 — 50 pts",
+          "aliases": [
+            "Steaua",
+            "FCSB"
+          ]
+        },
+        {
+          "answer": "Oțelul Galați",
+          "display": "#5 — 49 pts",
+          "aliases": [
+            "Oțelul",
+            "Otelul Galati"
+          ]
+        },
+        {
+          "answer": "SC Bacău",
+          "display": "#6 — 46 pts",
+          "aliases": [
+            "Bacău"
+          ]
+        },
+        {
+          "answer": "Universitatea Craiova",
+          "display": "#7 — 44 pts",
+          "aliases": [
+            "U Craiova",
+            "FC U Craiova",
+            "Craiova"
+          ]
+        },
+        {
+          "answer": "Ceahlăul Piatra Neamț",
+          "display": "#8 — 43 pts",
+          "aliases": [
+            "Ceahlăul",
+            "Ceahlaul"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/soccer/eastern-europe/liga-i",
+      "question": "Top 5 clubs in the final 2002–03 Divizia A table",
+      "cutoff": 5,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1295367170 | table 3 | name: Team | value: Pos | order: asc",
+      "tags": [
+        "football",
+        "divizia-a",
+        "seasons"
+      ],
+      "answers": [
+        {
+          "answer": "Rapid București",
+          "display": "#1 — 63 pts",
+          "aliases": [
+            "Rapid",
+            "Rapid Bucharest"
+          ]
+        },
+        {
+          "answer": "Steaua București",
+          "display": "#2 — 56 pts",
+          "aliases": [
+            "Steaua",
+            "FCSB"
+          ]
+        },
+        {
+          "answer": "Gloria Bistrița",
+          "display": "#3 — 45 pts",
+          "aliases": [
+            "Gloria Bistrita"
+          ]
+        },
+        {
+          "answer": "Brașov",
+          "display": "#4 — 45 pts",
+          "aliases": [
+            "FC Brașov",
+            "FC Brasov"
+          ]
+        },
+        {
+          "answer": "Ceahlăul Piatra Neamț",
+          "display": "#5 — 44 pts",
+          "aliases": [
+            "Ceahlăul",
+            "Ceahlaul"
+          ]
+        },
+        {
+          "answer": "Dinamo București",
+          "display": "#6 — 44 pts",
+          "aliases": [
+            "Dinamo Bucharest"
+          ]
+        },
+        {
+          "answer": "Universitatea Craiova",
+          "display": "#7 — 44 pts",
+          "aliases": [
+            "U Craiova",
+            "FC U Craiova",
+            "Craiova"
+          ]
+        },
+        {
+          "answer": "Național București",
+          "display": "#8 — 43 pts",
+          "aliases": [
+            "Național",
+            "Naţional",
+            "Naţional București"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/soccer/eastern-europe/liga-i",
+      "question": "Top 5 clubs in the final 2003–04 Divizia A table",
+      "cutoff": 5,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1323991259 | table 3 | name: Team | value: Pos | order: asc",
+      "tags": [
+        "football",
+        "divizia-a",
+        "seasons"
+      ],
+      "answers": [
+        {
+          "answer": "Dinamo București",
+          "display": "#1 — 70 pts",
+          "aliases": [
+            "Dinamo Bucharest"
+          ]
+        },
+        {
+          "answer": "Steaua București",
+          "display": "#2 — 64 pts",
+          "aliases": [
+            "Steaua",
+            "FCSB"
+          ]
+        },
+        {
+          "answer": "Rapid București",
+          "display": "#3 — 55 pts",
+          "aliases": [
+            "Rapid",
+            "Rapid Bucharest"
+          ]
+        },
+        {
+          "answer": "Universitatea Craiova",
+          "display": "#4 — 44 pts",
+          "aliases": [
+            "U Craiova",
+            "FC U Craiova",
+            "Craiova"
+          ]
+        },
+        {
+          "answer": "Oțelul Galați",
+          "display": "#5 — 43 pts",
+          "aliases": [
+            "Oțelul",
+            "Otelul Galati"
+          ]
+        },
+        {
+          "answer": "Apulum Alba Iulia",
+          "display": "#6 — 41 pts"
+        },
+        {
+          "answer": "Național București",
+          "display": "#7 — 39 pts",
+          "aliases": [
+            "Național",
+            "Naţional",
+            "Naţional București"
+          ]
+        },
+        {
+          "answer": "Politehnica AEK Timișoara",
+          "display": "#8 — 39 pts"
+        }
+      ]
+    },
+    {
+      "category": "sports/soccer/eastern-europe/liga-i",
+      "question": "Top 5 clubs in the final 2004–05 Divizia A table",
+      "cutoff": 5,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1209261215 | table 3 | name: Team | value: Pos | order: asc",
+      "tags": [
+        "football",
+        "divizia-a",
+        "seasons"
+      ],
+      "answers": [
+        {
+          "answer": "Steaua București",
+          "display": "#1 — 63 pts",
+          "aliases": [
+            "Steaua",
+            "FCSB"
+          ]
+        },
+        {
+          "answer": "Dinamo București",
+          "display": "#2 — 62 pts",
+          "aliases": [
+            "Dinamo Bucharest"
+          ]
+        },
+        {
+          "answer": "Rapid București",
+          "display": "#3 — 57 pts",
+          "aliases": [
+            "Rapid",
+            "Rapid Bucharest"
+          ]
+        },
+        {
+          "answer": "Național București",
+          "display": "#4 — 57 pts",
+          "aliases": [
+            "Național",
+            "Naţional",
+            "Naţional București"
+          ]
+        },
+        {
+          "answer": "Farul Constanța",
+          "display": "#5 — 52 pts",
+          "aliases": [
+            "Farul"
+          ]
+        },
+        {
+          "answer": "Politehnica Timișoara",
+          "display": "#6 — 45 pts",
+          "aliases": [
+            "Poli Timișoara",
+            "Politehnica Timisoara"
+          ]
+        },
+        {
+          "answer": "Sportul Studențesc București",
+          "display": "#7 — 45 pts",
+          "aliases": [
+            "Sportul Studentesc",
+            "Sportul"
+          ]
+        },
+        {
+          "answer": "Oțelul Galați",
+          "display": "#8 — 40 pts",
+          "aliases": [
+            "Oțelul",
+            "Otelul Galati"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/soccer/eastern-europe/liga-i",
+      "question": "Top 5 clubs in the final 2005–06 Divizia A table",
+      "cutoff": 5,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1324788623 | table 3 | name: Team | value: Pos | order: asc",
+      "tags": [
+        "football",
+        "divizia-a",
+        "seasons"
+      ],
+      "answers": [
+        {
+          "answer": "Steaua București",
+          "display": "#1 — 64 pts",
+          "aliases": [
+            "Steaua",
+            "FCSB"
+          ]
+        },
+        {
+          "answer": "Rapid București",
+          "display": "#2 — 59 pts",
+          "aliases": [
+            "Rapid",
+            "Rapid Bucharest"
+          ]
+        },
+        {
+          "answer": "Dinamo București",
+          "display": "#3 — 56 pts",
+          "aliases": [
+            "Dinamo Bucharest"
+          ]
+        },
+        {
+          "answer": "Sportul Studențesc București",
+          "display": "#4 — 55 pts",
+          "aliases": [
+            "Sportul Studentesc",
+            "Sportul"
+          ]
+        },
+        {
+          "answer": "CFR Cluj",
+          "display": "#5 — 50 pts",
+          "aliases": [
+            "CFR"
+          ]
+        },
+        {
+          "answer": "Național București",
+          "display": "#6 — 46 pts",
+          "aliases": [
+            "Național",
+            "Naţional",
+            "Naţional București"
+          ]
+        },
+        {
+          "answer": "Farul Constanța",
+          "display": "#7 — 45 pts",
+          "aliases": [
+            "Farul"
+          ]
+        },
+        {
+          "answer": "Politehnica Timișoara",
+          "display": "#8 — 40 pts",
+          "aliases": [
+            "Poli Timișoara",
+            "Politehnica Timisoara"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/soccer/eastern-europe/liga-i",
+      "question": "Top 6 clubs in the final 2006–07 Liga I table",
+      "cutoff": 6,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1362030391 | table 3 | name: Team | value: Pos | order: asc",
+      "tags": [
+        "football",
+        "liga-i",
+        "seasons"
+      ],
+      "answers": [
+        {
+          "answer": "Dinamo București",
+          "display": "#1 — 77 pts",
+          "aliases": [
+            "Dinamo Bucharest"
+          ]
+        },
+        {
+          "answer": "Steaua București",
+          "display": "#2 — 71 pts",
+          "aliases": [
+            "Steaua",
+            "FCSB"
+          ]
+        },
+        {
+          "answer": "CFR Cluj",
+          "display": "#3 — 69 pts",
+          "aliases": [
+            "CFR"
+          ]
+        },
+        {
+          "answer": "Rapid București",
+          "display": "#4 — 59 pts",
+          "aliases": [
+            "Rapid",
+            "Rapid Bucharest"
+          ]
+        },
+        {
+          "answer": "Oțelul Galați",
+          "display": "#5 — 56 pts",
+          "aliases": [
+            "Oțelul",
+            "Otelul Galati"
+          ]
+        },
+        {
+          "answer": "Gloria Bistrița",
+          "display": "#6 — 54 pts",
+          "aliases": [
+            "Gloria Bistrita"
+          ]
+        },
+        {
+          "answer": "Politehnica Timișoara",
+          "display": "#7 — 53 pts",
+          "aliases": [
+            "Poli Timișoara",
+            "Politehnica Timisoara"
+          ]
+        },
+        {
+          "answer": "Vaslui",
+          "display": "#8 — 50 pts",
+          "aliases": [
+            "FC Vaslui"
+          ]
+        },
+        {
+          "answer": "Universitatea Craiova",
+          "display": "#9 — 48 pts",
+          "aliases": [
+            "U Craiova",
+            "FC U Craiova",
+            "Craiova"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/soccer/eastern-europe/liga-i",
+      "question": "Top 6 clubs in the final 2007–08 Liga I table",
+      "cutoff": 6,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1364233486 | table 3 | name: Team | value: Pos | order: asc",
+      "tags": [
+        "football",
+        "liga-i",
+        "seasons"
+      ],
+      "answers": [
+        {
+          "answer": "CFR Cluj",
+          "display": "#1 — 76 pts",
+          "aliases": [
+            "CFR"
+          ]
+        },
+        {
+          "answer": "Steaua București",
+          "display": "#2 — 75 pts",
+          "aliases": [
+            "Steaua",
+            "FCSB"
+          ]
+        },
+        {
+          "answer": "Rapid București",
+          "display": "#3 — 61 pts",
+          "aliases": [
+            "Rapid",
+            "Rapid Bucharest"
+          ]
+        },
+        {
+          "answer": "Dinamo București",
+          "display": "#4 — 61 pts",
+          "aliases": [
+            "Dinamo Bucharest"
+          ]
+        },
+        {
+          "answer": "Unirea Urziceni",
+          "display": "#5 — 61 pts",
+          "aliases": [
+            "Unirea"
+          ]
+        },
+        {
+          "answer": "Politehnica Timișoara",
+          "display": "#6 — 57 pts",
+          "aliases": [
+            "Poli Timișoara",
+            "Politehnica Timisoara"
+          ]
+        },
+        {
+          "answer": "Vaslui",
+          "display": "#7 — 47 pts",
+          "aliases": [
+            "FC Vaslui"
+          ]
+        },
+        {
+          "answer": "Oțelul Galați",
+          "display": "#8 — 46 pts",
+          "aliases": [
+            "Oțelul",
+            "Otelul Galati"
+          ]
+        },
+        {
+          "answer": "Universitatea Craiova",
+          "display": "#9 — 43 pts",
+          "aliases": [
+            "U Craiova",
+            "FC U Craiova",
+            "Craiova"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/soccer/eastern-europe/liga-i",
+      "question": "Top 6 clubs in the final 2008–09 Liga I table",
+      "cutoff": 6,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1368702159 | table 4 | name: Team | value: Pos | order: asc",
+      "tags": [
+        "football",
+        "liga-i",
+        "seasons"
+      ],
+      "answers": [
+        {
+          "answer": "Unirea Urziceni",
+          "display": "#1 — 70 pts",
+          "aliases": [
+            "Unirea"
+          ]
+        },
+        {
+          "answer": "FC Timișoara",
+          "display": "#2 — 67 pts",
+          "aliases": [
+            "Timișoara",
+            "Timisoara"
+          ]
+        },
+        {
+          "answer": "Dinamo București",
+          "display": "#3 — 65 pts",
+          "aliases": [
+            "Dinamo Bucharest"
+          ]
+        },
+        {
+          "answer": "CFR Cluj",
+          "display": "#4 — 59 pts",
+          "aliases": [
+            "CFR"
+          ]
+        },
+        {
+          "answer": "Vaslui",
+          "display": "#5 — 57 pts",
+          "aliases": [
+            "FC Vaslui"
+          ]
+        },
+        {
+          "answer": "Steaua București",
+          "display": "#6 — 56 pts",
+          "aliases": [
+            "Steaua",
+            "FCSB"
+          ]
+        },
+        {
+          "answer": "Universitatea Craiova",
+          "display": "#7 — 56 pts",
+          "aliases": [
+            "U Craiova",
+            "FC U Craiova",
+            "Craiova"
+          ]
+        },
+        {
+          "answer": "Rapid București",
+          "display": "#8 — 55 pts",
+          "aliases": [
+            "Rapid",
+            "Rapid Bucharest"
+          ]
+        },
+        {
+          "answer": "Brașov",
+          "display": "#9 — 55 pts",
+          "aliases": [
+            "FC Brașov",
+            "FC Brasov"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/soccer/eastern-europe/liga-i",
+      "question": "Top 6 clubs in the final 2009–10 Liga I table",
+      "cutoff": 6,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1370866964 | table 4 | name: Team | value: Pos | order: asc",
+      "tags": [
+        "football",
+        "liga-i",
+        "seasons"
+      ],
+      "answers": [
+        {
+          "answer": "CFR Cluj",
+          "display": "#1 — 69 pts",
+          "aliases": [
+            "CFR"
+          ]
+        },
+        {
+          "answer": "Unirea Urziceni",
+          "display": "#2 — 66 pts",
+          "aliases": [
+            "Unirea"
+          ]
+        },
+        {
+          "answer": "Vaslui",
+          "display": "#3 — 62 pts",
+          "aliases": [
+            "FC Vaslui"
+          ]
+        },
+        {
+          "answer": "Steaua București",
+          "display": "#4 — 62 pts",
+          "aliases": [
+            "Steaua",
+            "FCSB"
+          ]
+        },
+        {
+          "answer": "FC Timișoara",
+          "display": "#5 — 59 pts",
+          "aliases": [
+            "Timișoara",
+            "Timisoara"
+          ]
+        },
+        {
+          "answer": "Dinamo București",
+          "display": "#6 — 53 pts",
+          "aliases": [
+            "Dinamo Bucharest"
+          ]
+        },
+        {
+          "answer": "Rapid București",
+          "display": "#7 — 52 pts",
+          "aliases": [
+            "Rapid",
+            "Rapid Bucharest"
+          ]
+        },
+        {
+          "answer": "Oțelul Galați",
+          "display": "#8 — 50 pts",
+          "aliases": [
+            "Oțelul",
+            "Otelul Galati"
+          ]
+        },
+        {
+          "answer": "Brașov",
+          "display": "#9 — 46 pts",
+          "aliases": [
+            "FC Brașov",
+            "FC Brasov"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/soccer/eastern-europe/liga-i",
+      "question": "Top 6 clubs in the final 2010–11 Liga I table",
+      "cutoff": 6,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1364828903 | table 4 | name: Team | value: Pos | order: asc",
+      "tags": [
+        "football",
+        "liga-i",
+        "seasons"
+      ],
+      "answers": [
+        {
+          "answer": "Oțelul Galați",
+          "display": "#1 — 70 pts",
+          "aliases": [
+            "Oțelul",
+            "Otelul Galati"
+          ]
+        },
+        {
+          "answer": "Politehnica Timișoara",
+          "display": "#2 — 66 pts",
+          "aliases": [
+            "Poli Timișoara",
+            "Politehnica Timisoara"
+          ]
+        },
+        {
+          "answer": "Vaslui",
+          "display": "#3 — 65 pts",
+          "aliases": [
+            "FC Vaslui"
+          ]
+        },
+        {
+          "answer": "Rapid București",
+          "display": "#4 — 59 pts",
+          "aliases": [
+            "Rapid",
+            "Rapid Bucharest"
+          ]
+        },
+        {
+          "answer": "Steaua București",
+          "display": "#5 — 57 pts",
+          "aliases": [
+            "Steaua",
+            "FCSB"
+          ]
+        },
+        {
+          "answer": "Dinamo București",
+          "display": "#6 — 56 pts",
+          "aliases": [
+            "Dinamo Bucharest"
+          ]
+        },
+        {
+          "answer": "Gaz Metan Mediaș",
+          "display": "#7 — 55 pts",
+          "aliases": [
+            "Gaz Metan"
+          ]
+        },
+        {
+          "answer": "Universitatea Cluj",
+          "display": "#8 — 47 pts",
+          "aliases": [
+            "U Cluj"
+          ]
+        },
+        {
+          "answer": "Târgu Mureș",
+          "display": "#9 — 45 pts",
+          "aliases": [
+            "FC Târgu Mureș",
+            "Targu Mures"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/soccer/eastern-europe/liga-i",
+      "question": "Top 6 clubs in the final 2011–12 Liga I table",
+      "cutoff": 6,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1370828575 | table 4 | name: Team | value: Pos | order: asc",
+      "tags": [
+        "football",
+        "liga-i",
+        "seasons"
+      ],
+      "answers": [
+        {
+          "answer": "CFR Cluj",
+          "display": "#1 — 71 pts",
+          "aliases": [
+            "CFR"
+          ]
+        },
+        {
+          "answer": "Vaslui",
+          "display": "#2 — 70 pts",
+          "aliases": [
+            "FC Vaslui"
+          ]
+        },
+        {
+          "answer": "Steaua București",
+          "display": "#3 — 66 pts",
+          "aliases": [
+            "Steaua",
+            "FCSB"
+          ]
+        },
+        {
+          "answer": "Rapid București",
+          "display": "#4 — 64 pts",
+          "aliases": [
+            "Rapid",
+            "Rapid Bucharest"
+          ]
+        },
+        {
+          "answer": "Dinamo București",
+          "display": "#5 — 62 pts",
+          "aliases": [
+            "Dinamo Bucharest"
+          ]
+        },
+        {
+          "answer": "Oțelul Galați",
+          "display": "#6 — 52 pts",
+          "aliases": [
+            "Oțelul",
+            "Otelul Galati"
+          ]
+        },
+        {
+          "answer": "Pandurii Târgu Jiu",
+          "display": "#7 — 47 pts",
+          "aliases": [
+            "Pandurii"
+          ]
+        },
+        {
+          "answer": "Universitatea Cluj",
+          "display": "#8 — 47 pts",
+          "aliases": [
+            "U Cluj"
+          ]
+        },
+        {
+          "answer": "Concordia Chiajna",
+          "display": "#9 — 45 pts",
+          "aliases": [
+            "Concordia"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/soccer/eastern-europe/liga-i",
+      "question": "Top 6 clubs in the final 2012–13 Liga I table",
+      "cutoff": 6,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1371314536 | table 4 | name: Team | value: Pos | order: asc",
+      "tags": [
+        "football",
+        "liga-i",
+        "seasons"
+      ],
+      "answers": [
+        {
+          "answer": "Steaua București",
+          "display": "#1 — 79 pts",
+          "aliases": [
+            "Steaua",
+            "FCSB"
+          ]
+        },
+        {
+          "answer": "Pandurii Târgu Jiu",
+          "display": "#2 — 63 pts",
+          "aliases": [
+            "Pandurii"
+          ]
+        },
+        {
+          "answer": "Petrolul Ploiești",
+          "display": "#3 — 62 pts",
+          "aliases": [
+            "Petrolul"
+          ]
+        },
+        {
+          "answer": "Astra Giurgiu",
+          "display": "#4 — 60 pts",
+          "aliases": [
+            "Astra"
+          ]
+        },
+        {
+          "answer": "Vaslui",
+          "display": "#5 — 58 pts",
+          "aliases": [
+            "FC Vaslui"
+          ]
+        },
+        {
+          "answer": "Dinamo București",
+          "display": "#6 — 56 pts",
+          "aliases": [
+            "Dinamo Bucharest"
+          ]
+        },
+        {
+          "answer": "Brașov",
+          "display": "#7 — 51 pts",
+          "aliases": [
+            "FC Brașov",
+            "FC Brasov"
+          ]
+        },
+        {
+          "answer": "Rapid București",
+          "display": "#8 — 49 pts",
+          "aliases": [
+            "Rapid",
+            "Rapid Bucharest"
+          ]
+        },
+        {
+          "answer": "CFR Cluj",
+          "display": "#9 — 49 pts",
+          "aliases": [
+            "CFR"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/soccer/eastern-europe/liga-i",
+      "question": "Top 6 clubs in the final 2013–14 Liga I table",
+      "cutoff": 6,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1371747576 | table 4 | name: Team | value: Pos | order: asc",
+      "tags": [
+        "football",
+        "liga-i",
+        "seasons"
+      ],
+      "answers": [
+        {
+          "answer": "Steaua București",
+          "display": "#1 — 77 pts",
+          "aliases": [
+            "Steaua",
+            "FCSB"
+          ]
+        },
+        {
+          "answer": "Astra Giurgiu",
+          "display": "#2 — 72 pts",
+          "aliases": [
+            "Astra"
+          ]
+        },
+        {
+          "answer": "Petrolul Ploiești",
+          "display": "#3 — 68 pts",
+          "aliases": [
+            "Petrolul"
+          ]
+        },
+        {
+          "answer": "Dinamo București",
+          "display": "#4 — 59 pts",
+          "aliases": [
+            "Dinamo Bucharest"
+          ]
+        },
+        {
+          "answer": "CFR Cluj",
+          "display": "#5 — 51 pts",
+          "aliases": [
+            "CFR"
+          ]
+        },
+        {
+          "answer": "Vaslui",
+          "display": "#6 — 51 pts",
+          "aliases": [
+            "FC Vaslui"
+          ]
+        },
+        {
+          "answer": "Pandurii Târgu Jiu",
+          "display": "#7 — 50 pts",
+          "aliases": [
+            "Pandurii"
+          ]
+        },
+        {
+          "answer": "Botoșani",
+          "display": "#8 — 43 pts",
+          "aliases": [
+            "FC Botoșani"
+          ]
+        },
+        {
+          "answer": "Ceahlăul Piatra Neamț",
+          "display": "#9 — 41 pts",
+          "aliases": [
+            "Ceahlăul",
+            "Ceahlaul"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/soccer/eastern-europe/liga-i",
+      "question": "Top 6 clubs in the final 2014–15 Liga I table",
+      "cutoff": 6,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1372337156 | table 4 | name: Team | value: Pos | order: asc",
+      "tags": [
+        "football",
+        "liga-i",
+        "seasons"
+      ],
+      "answers": [
+        {
+          "answer": "Steaua București",
+          "display": "#1 — 71 pts",
+          "aliases": [
+            "Steaua",
+            "FCSB"
+          ]
+        },
+        {
+          "answer": "Târgu Mureș",
+          "display": "#2 — 68 pts",
+          "aliases": [
+            "FC Târgu Mureș",
+            "Targu Mures"
+          ]
+        },
+        {
+          "answer": "CFR Cluj",
+          "display": "#3 — 57 pts",
+          "aliases": [
+            "CFR"
+          ]
+        },
+        {
+          "answer": "Astra Giurgiu",
+          "display": "#4 — 57 pts",
+          "aliases": [
+            "Astra"
+          ]
+        },
+        {
+          "answer": "Universitatea Craiova",
+          "display": "#5 — 53 pts",
+          "aliases": [
+            "U Craiova",
+            "FC U Craiova",
+            "Craiova"
+          ]
+        },
+        {
+          "answer": "Petrolul Ploiești",
+          "display": "#6 — 52 pts",
+          "aliases": [
+            "Petrolul"
+          ]
+        },
+        {
+          "answer": "Dinamo București",
+          "display": "#7 — 48 pts",
+          "aliases": [
+            "Dinamo Bucharest"
+          ]
+        },
+        {
+          "answer": "Botoșani",
+          "display": "#8 — 47 pts",
+          "aliases": [
+            "FC Botoșani"
+          ]
+        },
+        {
+          "answer": "Pandurii Târgu Jiu",
+          "display": "#9 — 45 pts",
+          "aliases": [
+            "Pandurii"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/soccer/eastern-europe/liga-i",
+      "question": "Top 5 clubs in the final regular-season 2020–21 Liga I table",
+      "cutoff": 5,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1367395642 | table 4 | name: Team | value: Pos | order: asc",
+      "tags": [
+        "football",
+        "liga-i",
+        "seasons"
+      ],
+      "answers": [
+        {
+          "answer": "Steaua București",
+          "display": "#1 — 65 pts",
+          "aliases": [
+            "Steaua",
+            "FCSB"
+          ]
+        },
+        {
+          "answer": "CFR Cluj",
+          "display": "#2 — 64 pts",
+          "aliases": [
+            "CFR"
+          ]
+        },
+        {
+          "answer": "Universitatea Craiova",
+          "display": "#3 — 58 pts",
+          "aliases": [
+            "U Craiova",
+            "FC U Craiova",
+            "Craiova"
+          ]
+        },
+        {
+          "answer": "Sepsi OSK",
+          "display": "#4 — 45 pts",
+          "aliases": [
+            "Sepsi"
+          ]
+        },
+        {
+          "answer": "Academica Clinceni",
+          "display": "#5 — 44 pts",
+          "aliases": [
+            "Clinceni"
+          ]
+        },
+        {
+          "answer": "Botoșani",
+          "display": "#6 — 42 pts",
+          "aliases": [
+            "FC Botoșani"
+          ]
+        },
+        {
+          "answer": "Argeș Pitești",
+          "display": "#7 — 40 pts",
+          "aliases": [
+            "Argeș",
+            "Arges Pitesti"
+          ]
+        },
+        {
+          "answer": "Chindia Târgoviște",
+          "display": "#8 — 39 pts",
+          "aliases": [
+            "Chindia"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/soccer/eastern-europe/liga-i",
+      "question": "Top 5 clubs in the final regular-season 2021–22 Liga I table",
+      "cutoff": 5,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1367395656 | table 4 | name: Team | value: Pos | order: asc",
+      "tags": [
+        "football",
+        "liga-i",
+        "seasons"
+      ],
+      "answers": [
+        {
+          "answer": "CFR Cluj",
+          "display": "#1 — 76 pts",
+          "aliases": [
+            "CFR"
+          ]
+        },
+        {
+          "answer": "Steaua București",
+          "display": "#2 — 62 pts",
+          "aliases": [
+            "Steaua",
+            "FCSB"
+          ]
+        },
+        {
+          "answer": "Universitatea Craiova",
+          "display": "#3 — 54 pts",
+          "aliases": [
+            "U Craiova",
+            "FC U Craiova",
+            "Craiova"
+          ]
+        },
+        {
+          "answer": "Argeș Pitești",
+          "display": "#4 — 48 pts",
+          "aliases": [
+            "Argeș",
+            "Arges Pitesti"
+          ]
+        },
+        {
+          "answer": "Farul Constanța",
+          "display": "#5 — 48 pts",
+          "aliases": [
+            "Farul"
+          ]
+        },
+        {
+          "answer": "Voluntari",
+          "display": "#6 — 47 pts",
+          "aliases": [
+            "FC Voluntari"
+          ]
+        },
+        {
+          "answer": "Botoșani",
+          "display": "#7 — 46 pts",
+          "aliases": [
+            "FC Botoșani"
+          ]
+        },
+        {
+          "answer": "UTA Arad",
+          "display": "#8 — 40 pts",
+          "aliases": [
+            "UTA"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/soccer/eastern-europe/liga-i",
+      "question": "Top 5 clubs in the final regular-season 2022–23 Liga I table",
+      "cutoff": 5,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1376459881 | table 4 | name: Team | value: Pos | order: asc",
+      "tags": [
+        "football",
+        "liga-i",
+        "seasons"
+      ],
+      "answers": [
+        {
+          "answer": "Farul Constanța",
+          "display": "#1 — 64 pts",
+          "aliases": [
+            "Farul"
+          ]
+        },
+        {
+          "answer": "CFR Cluj",
+          "display": "#2 — 63 pts",
+          "aliases": [
+            "CFR"
+          ]
+        },
+        {
+          "answer": "Steaua București",
+          "display": "#3 — 57 pts",
+          "aliases": [
+            "Steaua",
+            "FCSB"
+          ]
+        },
+        {
+          "answer": "Universitatea Craiova",
+          "display": "#4 — 54 pts",
+          "aliases": [
+            "U Craiova",
+            "FC U Craiova",
+            "Craiova"
+          ]
+        },
+        {
+          "answer": "Rapid București",
+          "display": "#5 — 52 pts",
+          "aliases": [
+            "Rapid",
+            "Rapid Bucharest"
+          ]
+        },
+        {
+          "answer": "Sepsi OSK",
+          "display": "#6 — 42 pts",
+          "aliases": [
+            "Sepsi"
+          ]
+        },
+        {
+          "answer": "FCU 1948 Craiova",
+          "display": "#7 — 40 pts"
+        },
+        {
+          "answer": "Petrolul Ploiești",
+          "display": "#8 — 36 pts",
+          "aliases": [
+            "Petrolul"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/soccer/eastern-europe/liga-i",
+      "question": "Top 5 clubs in the final regular-season 2023–24 Liga I table",
+      "cutoff": 5,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1370053074 | table 5 | name: Team | value: Pos | order: asc",
+      "tags": [
+        "football",
+        "liga-i",
+        "seasons"
+      ],
+      "answers": [
+        {
+          "answer": "Steaua București",
+          "display": "#1 — 64 pts",
+          "aliases": [
+            "Steaua",
+            "FCSB"
+          ]
+        },
+        {
+          "answer": "Rapid București",
+          "display": "#2 — 55 pts",
+          "aliases": [
+            "Rapid",
+            "Rapid Bucharest"
+          ]
+        },
+        {
+          "answer": "CFR Cluj",
+          "display": "#3 — 53 pts",
+          "aliases": [
+            "CFR"
+          ]
+        },
+        {
+          "answer": "Universitatea Craiova",
+          "display": "#4 — 49 pts",
+          "aliases": [
+            "U Craiova",
+            "FC U Craiova",
+            "Craiova"
+          ]
+        },
+        {
+          "answer": "Farul Constanța",
+          "display": "#5 — 43 pts",
+          "aliases": [
+            "Farul"
+          ]
+        },
+        {
+          "answer": "Sepsi OSK",
+          "display": "#6 — 43 pts",
+          "aliases": [
+            "Sepsi"
+          ]
+        },
+        {
+          "answer": "Universitatea Cluj",
+          "display": "#7 — 42 pts",
+          "aliases": [
+            "U Cluj"
+          ]
+        },
+        {
+          "answer": "UTA Arad",
+          "display": "#8 — 40 pts",
+          "aliases": [
+            "UTA"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/soccer/eastern-europe/liga-i",
+      "question": "Top 5 clubs in the final regular-season 2024–25 Liga I table",
+      "cutoff": 5,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1368924813 | table 4 | name: Team | value: Pos | order: asc",
+      "tags": [
+        "football",
+        "liga-i",
+        "seasons"
+      ],
+      "answers": [
+        {
+          "answer": "Steaua București",
+          "display": "#1 — 56 pts",
+          "aliases": [
+            "Steaua",
+            "FCSB"
+          ]
+        },
+        {
+          "answer": "CFR Cluj",
+          "display": "#2 — 54 pts",
+          "aliases": [
+            "CFR"
+          ]
+        },
+        {
+          "answer": "Universitatea Craiova",
+          "display": "#3 — 52 pts",
+          "aliases": [
+            "U Craiova",
+            "FC U Craiova",
+            "Craiova"
+          ]
+        },
+        {
+          "answer": "Universitatea Cluj",
+          "display": "#4 — 52 pts",
+          "aliases": [
+            "U Cluj"
+          ]
+        },
+        {
+          "answer": "Dinamo București",
+          "display": "#5 — 51 pts",
+          "aliases": [
+            "Dinamo Bucharest"
+          ]
+        },
+        {
+          "answer": "Rapid București",
+          "display": "#6 — 46 pts",
+          "aliases": [
+            "Rapid",
+            "Rapid Bucharest"
+          ]
+        },
+        {
+          "answer": "Sepsi OSK",
+          "display": "#7 — 41 pts",
+          "aliases": [
+            "Sepsi"
+          ]
+        },
+        {
+          "answer": "Hermannstadt",
+          "display": "#8 — 41 pts",
+          "aliases": [
+            "FC Hermannstadt"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/soccer/eastern-europe/liga-i",
+      "question": "Top 5 clubs in the final regular-season 2025–26 Liga I table",
+      "cutoff": 5,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1370051351 | table 7 | name: Team | value: Pos | order: asc",
+      "tags": [
+        "football",
+        "liga-i",
+        "seasons"
+      ],
+      "answers": [
+        {
+          "answer": "Universitatea Craiova",
+          "display": "#1 — 60 pts",
+          "aliases": [
+            "U Craiova",
+            "FC U Craiova",
+            "Craiova"
+          ]
+        },
+        {
+          "answer": "Rapid București",
+          "display": "#2 — 56 pts",
+          "aliases": [
+            "Rapid",
+            "Rapid Bucharest"
+          ]
+        },
+        {
+          "answer": "Universitatea Cluj",
+          "display": "#3 — 54 pts",
+          "aliases": [
+            "U Cluj"
+          ]
+        },
+        {
+          "answer": "CFR Cluj",
+          "display": "#4 — 53 pts",
+          "aliases": [
+            "CFR"
+          ]
+        },
+        {
+          "answer": "Dinamo București",
+          "display": "#5 — 52 pts",
+          "aliases": [
+            "Dinamo Bucharest"
+          ]
+        },
+        {
+          "answer": "Argeș Pitești",
+          "display": "#6 — 50 pts",
+          "aliases": [
+            "Argeș",
+            "Arges Pitesti"
+          ]
+        },
+        {
+          "answer": "Steaua București",
+          "display": "#7 — 46 pts",
+          "aliases": [
+            "Steaua",
+            "FCSB"
+          ]
+        },
+        {
+          "answer": "UTA Arad",
+          "display": "#8 — 43 pts",
+          "aliases": [
+            "UTA"
+          ]
+        }
+      ]
+    }
+  ]
+}

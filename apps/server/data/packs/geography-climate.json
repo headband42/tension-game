@@ -1,0 +1,301 @@
+{
+  "categories": [
+    {
+      "path": "geography/climate",
+      "name": "Climate"
+    }
+  ],
+  "questions": [
+    {
+      "category": "geography/climate",
+      "difficulty": 1,
+      "question": "Top 10 driest countries by average annual precipitation (World Bank 2017 data)",
+      "cutoff": 10,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1376184056 | table 1 | name: Country | value: mm/ year | order: asc",
+      "tags": [
+        "geography",
+        "climate",
+        "rain",
+        "deserts"
+      ],
+      "answers": [
+        {
+          "answer": "Egypt",
+          "display": "18 mm"
+        },
+        {
+          "answer": "Saudi Arabia",
+          "display": "59 mm",
+          "aliases": [
+            "Saudi"
+          ]
+        },
+        {
+          "answer": "Qatar",
+          "display": "74 mm"
+        },
+        {
+          "answer": "United Arab Emirates",
+          "display": "78 mm",
+          "aliases": [
+            "UAE"
+          ]
+        },
+        {
+          "answer": "Bahrain",
+          "display": "83 mm"
+        },
+        {
+          "answer": "Algeria",
+          "display": "89 mm"
+        },
+        {
+          "answer": "Mauritania",
+          "display": "92 mm"
+        },
+        {
+          "answer": "Jordan",
+          "display": "111 mm"
+        },
+        {
+          "answer": "Kuwait",
+          "display": "121 mm"
+        },
+        {
+          "answer": "Oman",
+          "display": "125 mm"
+        },
+        {
+          "answer": "Niger",
+          "display": "151 mm"
+        },
+        {
+          "answer": "Turkmenistan",
+          "display": "161 mm"
+        },
+        {
+          "answer": "Yemen",
+          "display": "167 mm"
+        }
+      ]
+    },
+    {
+      "category": "geography/climate",
+      "difficulty": 2,
+      "question": "Top 10 wettest Asian countries by average annual precipitation (World Bank 2017 data)",
+      "cutoff": 10,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1376184056 | table 1 | name: Country | value: mm/ year | where: Continent=Asia",
+      "tags": [
+        "geography",
+        "climate",
+        "rain",
+        "asia"
+      ],
+      "answers": [
+        {
+          "answer": "Malaysia",
+          "display": "2,875 mm"
+        },
+        {
+          "answer": "Brunei",
+          "display": "2,722 mm"
+        },
+        {
+          "answer": "Indonesia",
+          "display": "2,702 mm"
+        },
+        {
+          "answer": "Bangladesh",
+          "display": "2,666 mm"
+        },
+        {
+          "answer": "Singapore",
+          "display": "2,497 mm"
+        },
+        {
+          "answer": "Philippines",
+          "display": "2,348 mm"
+        },
+        {
+          "answer": "Bhutan",
+          "display": "2,200 mm"
+        },
+        {
+          "answer": "Myanmar",
+          "display": "2,091 mm",
+          "aliases": [
+            "Burma"
+          ]
+        },
+        {
+          "answer": "Maldives",
+          "display": "1,972 mm"
+        },
+        {
+          "answer": "Cambodia",
+          "display": "1,904 mm"
+        },
+        {
+          "answer": "Laos",
+          "display": "1,834 mm"
+        },
+        {
+          "answer": "Vietnam",
+          "display": "1,821 mm"
+        },
+        {
+          "answer": "Sri Lanka",
+          "display": "1,712 mm"
+        }
+      ]
+    },
+    {
+      "category": "geography/climate",
+      "difficulty": 1,
+      "question": "Top 10 coldest countries by average annual temperature (territories such as Greenland and Svalbard excluded)",
+      "cutoff": 10,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1378245320 | table 1 | name: Country | value: Temperature | where: Country!~^(Greenland|Svalbard|Saint Pierre|French Southern|Heard|Faroe|Aruba|Tokelau|Curaçao|Puerto Rico|Hong Kong|Macau|Bermuda|Gibraltar|Guam|Isle of Man|Jersey|Guernsey|Åland) | order: asc",
+      "tags": [
+        "geography",
+        "climate",
+        "cold"
+      ],
+      "answers": [
+        {
+          "answer": "Canada",
+          "display": "−4.03 °C (24.75 °F)"
+        },
+        {
+          "answer": "Russia",
+          "display": "−3.79 °C (25.18 °F)",
+          "aliases": [
+            "Russian Federation"
+          ]
+        },
+        {
+          "answer": "Mongolia",
+          "display": "1.07 °C (33.93 °F)"
+        },
+        {
+          "answer": "Iceland",
+          "display": "1.85 °C (35.33 °F)"
+        },
+        {
+          "answer": "Norway",
+          "display": "2.21 °C (35.98 °F)"
+        },
+        {
+          "answer": "Finland",
+          "display": "2.46 °C (36.43 °F)"
+        },
+        {
+          "answer": "Kyrgyzstan",
+          "display": "2.65 °C (36.77 °F)"
+        },
+        {
+          "answer": "Sweden",
+          "display": "3.23 °C (37.81 °F)"
+        },
+        {
+          "answer": "Tajikistan",
+          "display": "3.85 °C (38.93 °F)"
+        },
+        {
+          "answer": "Estonia",
+          "display": "6.34 °C (43.41 °F)"
+        },
+        {
+          "answer": "Switzerland",
+          "display": "6.47 °C (43.65 °F)"
+        },
+        {
+          "answer": "Latvia",
+          "display": "6.87 °C (44.37 °F)"
+        },
+        {
+          "answer": "North Korea",
+          "display": "6.98 °C (44.56 °F)",
+          "aliases": [
+            "DPRK"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "geography/climate",
+      "difficulty": 1,
+      "question": "Top 10 warmest countries by average annual temperature (territories such as Aruba and Curaçao excluded)",
+      "cutoff": 10,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1378245320 | table 1 | name: Country | value: Temperature | where: Country!~^(Greenland|Svalbard|Saint Pierre|French Southern|Heard|Faroe|Aruba|Tokelau|Curaçao|Puerto Rico|Hong Kong|Macau|Bermuda|Gibraltar|Guam|Isle of Man|Jersey|Guernsey|Åland)",
+      "tags": [
+        "geography",
+        "climate",
+        "heat"
+      ],
+      "answers": [
+        {
+          "answer": "Burkina Faso",
+          "display": "30.40 °C (86.72 °F)",
+          "aliases": [
+            "Burkina"
+          ]
+        },
+        {
+          "answer": "Mali",
+          "display": "29.21 °C (84.58 °F)"
+        },
+        {
+          "answer": "Senegal",
+          "display": "28.90 °C (84.02 °F)"
+        },
+        {
+          "answer": "Mauritania",
+          "display": "28.82 °C (83.88 °F)"
+        },
+        {
+          "answer": "Tuvalu",
+          "display": "28.62 °C (83.52 °F)"
+        },
+        {
+          "answer": "Djibouti",
+          "display": "28.49 °C (83.28 °F)"
+        },
+        {
+          "answer": "Gambia",
+          "display": "28.38 °C (83.08 °F)"
+        },
+        {
+          "answer": "United Arab Emirates",
+          "display": "28.17 °C (82.71 °F)",
+          "aliases": [
+            "UAE"
+          ]
+        },
+        {
+          "answer": "Maldives",
+          "display": "28.11 °C (82.60 °F)"
+        },
+        {
+          "answer": "Niger",
+          "display": "28.04 °C (82.47 °F)"
+        },
+        {
+          "answer": "Benin",
+          "display": "28.02 °C (82.44 °F)"
+        },
+        {
+          "answer": "Qatar",
+          "display": "28.02 °C (82.44 °F)"
+        },
+        {
+          "answer": "Marshall Islands",
+          "display": "28.01 °C (82.42 °F)"
+        }
+      ]
+    }
+  ]
+}

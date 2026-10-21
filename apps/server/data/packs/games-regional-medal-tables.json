@@ -1,0 +1,2251 @@
+{
+  "categories": [
+    {
+      "path": "sports/multi-sport/african-games",
+      "name": "African Games"
+    },
+    {
+      "path": "sports/multi-sport/cac-games",
+      "name": "Central American and Caribbean Games"
+    },
+    {
+      "path": "sports/multi-sport/mediterranean-games",
+      "name": "Mediterranean Games"
+    },
+    {
+      "path": "sports/multi-sport/european-games",
+      "name": "European Games"
+    }
+  ],
+  "questions": [
+    {
+      "category": "sports/multi-sport/african-games",
+      "question": "Top 7 nations in the 1973 African Games (Lagos) medal table (ranked by gold medals, then silver, then bronze)",
+      "cutoff": 7,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1358159915 | table 1 | name: Nation | value: Rank | order: asc",
+      "tags": [
+        "african-games",
+        "medals",
+        "nations",
+        "1973"
+      ],
+      "answers": [
+        {
+          "answer": "Egypt",
+          "display": "#1 — 25 gold, 16 silver, 15 bronze"
+        },
+        {
+          "answer": "Nigeria",
+          "display": "#2 — 18 gold, 25 silver, 20 bronze"
+        },
+        {
+          "answer": "Kenya",
+          "display": "#3 — 9 gold, 9 silver, 18 bronze"
+        },
+        {
+          "answer": "Uganda",
+          "display": "#4 — 8 gold, 6 silver, 6 bronze"
+        },
+        {
+          "answer": "Ghana",
+          "display": "#5 — 7 gold, 7 silver, 13 bronze"
+        },
+        {
+          "answer": "Tunisia",
+          "display": "#6 — 4 gold, 6 silver, 3 bronze"
+        },
+        {
+          "answer": "Algeria",
+          "display": "#7 — 4 gold, 5 silver, 13 bronze"
+        },
+        {
+          "answer": "Ethiopia",
+          "display": "#8 — 4 gold, 3 silver, 6 bronze"
+        },
+        {
+          "answer": "Senegal",
+          "display": "#9 — 4 gold, 2 silver, 6 bronze"
+        },
+        {
+          "answer": "Ivory Coast",
+          "aliases": [
+            "Côte d'Ivoire"
+          ],
+          "display": "#10 — 2 gold, 0 silver, 4 bronze"
+        }
+      ]
+    },
+    {
+      "category": "sports/multi-sport/african-games",
+      "question": "Top 7 nations in the 1978 African Games (Algiers) medal table (ranked by gold medals, then silver, then bronze)",
+      "cutoff": 7,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1380532141 | table 1 | name: Nation | value: Rank | order: asc",
+      "tags": [
+        "african-games",
+        "medals",
+        "nations",
+        "1978"
+      ],
+      "answers": [
+        {
+          "answer": "Tunisia",
+          "display": "#1 — 29 gold, 14 silver, 20 bronze"
+        },
+        {
+          "answer": "Nigeria",
+          "display": "#2 — 18 gold, 10 silver, 15 bronze"
+        },
+        {
+          "answer": "Algeria",
+          "display": "#3 — 16 gold, 19 silver, 23 bronze"
+        },
+        {
+          "answer": "Kenya",
+          "display": "#4 — 11 gold, 8 silver, 8 bronze"
+        },
+        {
+          "answer": "Morocco",
+          "display": "#5 — 7 gold, 8 silver, 11 bronze"
+        },
+        {
+          "answer": "Ghana",
+          "display": "#6 — 4 gold, 4 silver, 7 bronze"
+        },
+        {
+          "answer": "Libya",
+          "display": "#7 — 4 gold, 3 silver, 5 bronze"
+        },
+        {
+          "answer": "Senegal",
+          "display": "#8 — 4 gold, 2 silver, 4 bronze"
+        },
+        {
+          "answer": "Uganda",
+          "display": "#9 — 3 gold, 6 silver, 5 bronze"
+        },
+        {
+          "answer": "Ivory Coast",
+          "aliases": [
+            "Côte d'Ivoire"
+          ],
+          "display": "#10 — 2 gold, 3 silver, 4 bronze"
+        }
+      ]
+    },
+    {
+      "category": "sports/multi-sport/african-games",
+      "question": "Top 7 nations in the 1987 African Games (Nairobi) medal table (ranked by gold medals, then silver, then bronze)",
+      "cutoff": 7,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1380218803 | table 1 | name: Nation | value: Rank | order: asc",
+      "tags": [
+        "african-games",
+        "medals",
+        "nations",
+        "1987"
+      ],
+      "answers": [
+        {
+          "answer": "Egypt",
+          "display": "#1 — 31 gold, 22 silver, 20 bronze"
+        },
+        {
+          "answer": "Tunisia",
+          "display": "#2 — 28 gold, 26 silver, 22 bronze"
+        },
+        {
+          "answer": "Nigeria",
+          "display": "#3 — 23 gold, 16 silver, 21 bronze"
+        },
+        {
+          "answer": "Kenya",
+          "display": "#4 — 22 gold, 25 silver, 16 bronze"
+        },
+        {
+          "answer": "Algeria",
+          "display": "#5 — 13 gold, 23 silver, 23 bronze"
+        },
+        {
+          "answer": "Senegal",
+          "display": "#6 — 7 gold, 2 silver, 12 bronze"
+        },
+        {
+          "answer": "Ethiopia",
+          "display": "#7 — 3 gold, 5 silver, 4 bronze"
+        },
+        {
+          "answer": "Ghana",
+          "display": "#8 — 3 gold, 3 silver, 1 bronze"
+        },
+        {
+          "answer": "Uganda",
+          "display": "#9 — 3 gold, 2 silver, 4 bronze"
+        },
+        {
+          "answer": "Zimbabwe",
+          "display": "#10 — 2 gold, 5 silver, 6 bronze"
+        }
+      ]
+    },
+    {
+      "category": "sports/multi-sport/african-games",
+      "question": "Top 10 nations in the 1991 African Games (Cairo) medal table (ranked by gold medals, then silver, then bronze)",
+      "cutoff": 10,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1341850689 | table 1 | name: Nation | value: Rank | order: asc",
+      "tags": [
+        "african-games",
+        "medals",
+        "nations",
+        "1991"
+      ],
+      "answers": [
+        {
+          "answer": "Egypt",
+          "display": "#1 — 90 gold, 53 silver, 52 bronze"
+        },
+        {
+          "answer": "Algeria",
+          "display": "#2 — 49 gold, 36 silver, 34 bronze"
+        },
+        {
+          "answer": "Nigeria",
+          "display": "#3 — 43 gold, 51 silver, 43 bronze"
+        },
+        {
+          "answer": "Kenya",
+          "display": "#4 — 13 gold, 17 silver, 18 bronze"
+        },
+        {
+          "answer": "Zimbabwe",
+          "display": "#5 — 8 gold, 3 silver, 13 bronze"
+        },
+        {
+          "answer": "Tunisia",
+          "display": "#6 — 6 gold, 4 silver, 10 bronze"
+        },
+        {
+          "answer": "Ivory Coast",
+          "aliases": [
+            "Côte d'Ivoire"
+          ],
+          "display": "#7 — 4 gold, 5 silver, 3 bronze"
+        },
+        {
+          "answer": "Ethiopia",
+          "display": "#8 — 4 gold, 3 silver, 5 bronze"
+        },
+        {
+          "answer": "Namibia",
+          "display": "#9 — 4 gold, 2 silver, 6 bronze"
+        },
+        {
+          "answer": "Senegal",
+          "display": "#10 — 3 gold, 4 silver, 11 bronze"
+        },
+        {
+          "answer": "Ghana",
+          "display": "#11 — 2 gold, 4 silver, 6 bronze"
+        },
+        {
+          "answer": "Angola",
+          "display": "#12 — 2 gold, 3 silver, 5 bronze"
+        },
+        {
+          "answer": "Mozambique",
+          "display": "#13 — 2 gold, 0 silver, 0 bronze"
+        },
+        {
+          "answer": "Mauritius",
+          "display": "#14 — 1 gold, 5 silver, 6 bronze"
+        },
+        {
+          "answer": "Cameroon",
+          "display": "#15 — 1 gold, 4 silver, 10 bronze"
+        }
+      ]
+    },
+    {
+      "category": "sports/multi-sport/african-games",
+      "question": "Top 10 nations in the 1995 African Games (Harare) medal table (ranked by gold medals, then silver, then bronze)",
+      "cutoff": 10,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1375475539 | table 1 | name: Nation | value: Rank | order: asc",
+      "tags": [
+        "african-games",
+        "medals",
+        "nations",
+        "1995"
+      ],
+      "answers": [
+        {
+          "answer": "South Africa",
+          "display": "#1 — 64 gold, 51 silver, 39 bronze"
+        },
+        {
+          "answer": "Egypt",
+          "display": "#2 — 61 gold, 43 silver, 50 bronze"
+        },
+        {
+          "answer": "Nigeria",
+          "display": "#3 — 36 gold, 31 silver, 40 bronze"
+        },
+        {
+          "answer": "Algeria",
+          "display": "#4 — 15 gold, 16 silver, 26 bronze"
+        },
+        {
+          "answer": "Kenya",
+          "display": "#5 — 12 gold, 11 silver, 17 bronze"
+        },
+        {
+          "answer": "Tunisia",
+          "display": "#6 — 9 gold, 11 silver, 19 bronze"
+        },
+        {
+          "answer": "Zimbabwe",
+          "display": "#7 — 6 gold, 6 silver, 23 bronze"
+        },
+        {
+          "answer": "Senegal",
+          "display": "#8 — 5 gold, 4 silver, 6 bronze"
+        },
+        {
+          "answer": "Cameroon",
+          "display": "#9 — 3 gold, 13 silver, 10 bronze"
+        },
+        {
+          "answer": "Mauritius",
+          "display": "#10 — 3 gold, 6 silver, 9 bronze"
+        },
+        {
+          "answer": "Madagascar",
+          "display": "#11 — 2 gold, 2 silver, 5 bronze"
+        },
+        {
+          "answer": "Gabon",
+          "display": "#12 — 2 gold, 0 silver, 6 bronze"
+        },
+        {
+          "answer": "Ethiopia",
+          "display": "#13 — 1 gold, 5 silver, 6 bronze"
+        },
+        {
+          "answer": "Ghana",
+          "display": "#14 — 1 gold, 4 silver, 2 bronze"
+        },
+        {
+          "answer": "Mozambique",
+          "display": "#15 — 1 gold, 2 silver, 0 bronze"
+        }
+      ]
+    },
+    {
+      "category": "sports/multi-sport/african-games",
+      "question": "Top 10 nations in the 1999 African Games (Johannesburg) medal table (ranked by gold medals, then silver, then bronze)",
+      "cutoff": 10,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1380218161 | table 1 | name: Nation | value: Rank | order: asc",
+      "tags": [
+        "african-games",
+        "medals",
+        "nations",
+        "1999"
+      ],
+      "answers": [
+        {
+          "answer": "South Africa",
+          "display": "#1 — 71 gold, 64 silver, 49 bronze"
+        },
+        {
+          "answer": "Nigeria",
+          "display": "#2 — 64 gold, 28 silver, 37 bronze"
+        },
+        {
+          "answer": "Egypt",
+          "display": "#3 — 53 gold, 60 silver, 45 bronze"
+        },
+        {
+          "answer": "Tunisia",
+          "display": "#4 — 20 gold, 20 silver, 23 bronze"
+        },
+        {
+          "answer": "Algeria",
+          "display": "#5 — 14 gold, 24 silver, 32 bronze"
+        },
+        {
+          "answer": "Kenya",
+          "display": "#6 — 10 gold, 10 silver, 20 bronze"
+        },
+        {
+          "answer": "Cameroon",
+          "display": "#7 — 6 gold, 13 silver, 22 bronze"
+        },
+        {
+          "answer": "Senegal",
+          "display": "#8 — 6 gold, 10 silver, 9 bronze"
+        },
+        {
+          "answer": "Ethiopia",
+          "display": "#9 — 6 gold, 4 silver, 4 bronze"
+        },
+        {
+          "answer": "Lesotho",
+          "display": "#10 — 6 gold, 1 silver, 3 bronze"
+        },
+        {
+          "answer": "Madagascar",
+          "display": "#11 — 4 gold, 3 silver, 7 bronze"
+        },
+        {
+          "answer": "Angola",
+          "display": "#12 — 4 gold, 1 silver, 1 bronze"
+        },
+        {
+          "answer": "Ghana",
+          "display": "#13 — 2 gold, 2 silver, 11 bronze"
+        },
+        {
+          "answer": "Ivory Coast",
+          "aliases": [
+            "Côte d'Ivoire"
+          ],
+          "display": "#14 — 2 gold, 1 silver, 5 bronze"
+        },
+        {
+          "answer": "Uganda",
+          "display": "#15 — 2 gold, 1 silver, 3 bronze"
+        }
+      ]
+    },
+    {
+      "category": "sports/multi-sport/african-games",
+      "question": "Top 10 nations in the 2003 African Games (Abuja) medal table (ranked by gold medals, then silver, then bronze)",
+      "cutoff": 10,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1373045880 | table 1 | name: Nation | value: Rank | order: asc",
+      "tags": [
+        "african-games",
+        "medals",
+        "nations",
+        "2003"
+      ],
+      "answers": [
+        {
+          "answer": "Nigeria",
+          "display": "#1 — 85 gold, 90 silver, 65 bronze"
+        },
+        {
+          "answer": "Egypt",
+          "display": "#2 — 80 gold, 62 silver, 72 bronze"
+        },
+        {
+          "answer": "South Africa",
+          "display": "#3 — 63 gold, 59 silver, 49 bronze"
+        },
+        {
+          "answer": "Algeria",
+          "display": "#4 — 32 gold, 24 silver, 31 bronze"
+        },
+        {
+          "answer": "Tunisia",
+          "display": "#5 — 30 gold, 29 silver, 30 bronze"
+        },
+        {
+          "answer": "Cameroon",
+          "display": "#6 — 8 gold, 4 silver, 23 bronze"
+        },
+        {
+          "answer": "Senegal",
+          "display": "#7 — 6 gold, 9 silver, 19 bronze"
+        },
+        {
+          "answer": "Ethiopia",
+          "display": "#8 — 5 gold, 8 silver, 7 bronze"
+        },
+        {
+          "answer": "Kenya",
+          "display": "#9 — 5 gold, 5 silver, 4 bronze"
+        },
+        {
+          "answer": "Ghana",
+          "display": "#10 — 4 gold, 5 silver, 16 bronze"
+        },
+        {
+          "answer": "Botswana",
+          "display": "#11 — 4 gold, 1 silver, 6 bronze"
+        },
+        {
+          "answer": "Angola",
+          "display": "#12 — 3 gold, 3 silver, 7 bronze"
+        },
+        {
+          "answer": "Madagascar",
+          "display": "#13 — 3 gold, 0 silver, 3 bronze"
+        },
+        {
+          "answer": "Libya",
+          "display": "#14 — 2 gold, 3 silver, 5 bronze"
+        },
+        {
+          "answer": "Zimbabwe",
+          "display": "#15 — 2 gold, 3 silver, 2 bronze"
+        }
+      ]
+    },
+    {
+      "category": "sports/multi-sport/african-games",
+      "question": "Top 10 nations in the 2011 African Games (Maputo) medal table (ranked by gold medals, then silver, then bronze)",
+      "cutoff": 10,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1370383241 | table 3 | name: Nation | value: Rank | order: asc",
+      "tags": [
+        "african-games",
+        "medals",
+        "nations",
+        "2011"
+      ],
+      "answers": [
+        {
+          "answer": "South Africa",
+          "display": "#1 — 61 gold, 55 silver, 40 bronze"
+        },
+        {
+          "answer": "Egypt",
+          "display": "#2 — 32 gold, 14 silver, 20 bronze"
+        },
+        {
+          "answer": "Nigeria",
+          "display": "#3 — 31 gold, 28 silver, 39 bronze"
+        },
+        {
+          "answer": "Tunisia",
+          "display": "#4 — 29 gold, 26 silver, 13 bronze"
+        },
+        {
+          "answer": "Algeria",
+          "display": "#5 — 22 gold, 29 silver, 33 bronze"
+        },
+        {
+          "answer": "Kenya",
+          "display": "#6 — 14 gold, 14 silver, 22 bronze"
+        },
+        {
+          "answer": "Senegal",
+          "display": "#7 — 8 gold, 8 silver, 17 bronze"
+        },
+        {
+          "answer": "Cameroon",
+          "display": "#8 — 8 gold, 5 silver, 20 bronze"
+        },
+        {
+          "answer": "Ethiopia",
+          "display": "#9 — 6 gold, 10 silver, 12 bronze"
+        },
+        {
+          "answer": "Angola",
+          "display": "#10 — 6 gold, 10 silver, 10 bronze"
+        },
+        {
+          "answer": "Zimbabwe",
+          "display": "#11 — 6 gold, 7 silver, 2 bronze"
+        },
+        {
+          "answer": "Ghana",
+          "display": "#12 — 4 gold, 5 silver, 8 bronze"
+        },
+        {
+          "answer": "Mauritius",
+          "display": "#13 — 4 gold, 2 silver, 7 bronze"
+        },
+        {
+          "answer": "Uganda",
+          "display": "#14 — 4 gold, 1 silver, 3 bronze"
+        },
+        {
+          "answer": "Botswana",
+          "display": "#15 — 2 gold, 5 silver, 9 bronze"
+        }
+      ]
+    },
+    {
+      "category": "sports/multi-sport/african-games",
+      "question": "Top 10 nations in the 2015 African Games (Brazzaville) medal table (ranked by gold medals, then silver, then bronze)",
+      "cutoff": 10,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1372452232 | table 6 | name: NOC | value: Rank | order: asc",
+      "tags": [
+        "african-games",
+        "medals",
+        "nations",
+        "2015"
+      ],
+      "answers": [
+        {
+          "answer": "Egypt",
+          "display": "#1 — 85 gold, 64 silver, 68 bronze"
+        },
+        {
+          "answer": "Nigeria",
+          "display": "#2 — 47 gold, 55 silver, 42 bronze"
+        },
+        {
+          "answer": "South Africa",
+          "display": "#3 — 41 gold, 41 silver, 37 bronze"
+        },
+        {
+          "answer": "Algeria",
+          "display": "#4 — 40 gold, 41 silver, 36 bronze"
+        },
+        {
+          "answer": "Tunisia",
+          "display": "#5 — 23 gold, 26 silver, 41 bronze"
+        },
+        {
+          "answer": "Republic of the Congo",
+          "display": "#6 — 8 gold, 4 silver, 19 bronze"
+        },
+        {
+          "answer": "Senegal",
+          "display": "#7 — 7 gold, 10 silver, 19 bronze"
+        },
+        {
+          "answer": "Kenya",
+          "display": "#8 — 7 gold, 9 silver, 17 bronze"
+        },
+        {
+          "answer": "Cameroon",
+          "display": "#9 — 7 gold, 8 silver, 16 bronze"
+        },
+        {
+          "answer": "Ethiopia",
+          "display": "#10 — 7 gold, 5 silver, 10 bronze"
+        },
+        {
+          "answer": "Ivory Coast",
+          "aliases": [
+            "Côte d'Ivoire"
+          ],
+          "display": "#11 — 7 gold, 4 silver, 15 bronze"
+        },
+        {
+          "answer": "Namibia",
+          "display": "#12 — 5 gold, 4 silver, 6 bronze"
+        },
+        {
+          "answer": "Mauritius",
+          "display": "#13 — 5 gold, 4 silver, 5 bronze"
+        }
+      ]
+    },
+    {
+      "category": "sports/multi-sport/african-games",
+      "question": "Top 10 nations in the 2019 African Games (Rabat) medal table (ranked by gold medals, then silver, then bronze)",
+      "cutoff": 10,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1376307897 | table 4 | name: NOC | value: Rank | order: asc",
+      "tags": [
+        "african-games",
+        "medals",
+        "nations",
+        "2019"
+      ],
+      "answers": [
+        {
+          "answer": "Egypt",
+          "display": "#1 — 102 gold, 98 silver, 73 bronze"
+        },
+        {
+          "answer": "Nigeria",
+          "display": "#2 — 46 gold, 33 silver, 48 bronze"
+        },
+        {
+          "answer": "South Africa",
+          "display": "#3 — 36 gold, 26 silver, 25 bronze"
+        },
+        {
+          "answer": "Algeria",
+          "display": "#4 — 33 gold, 32 silver, 60 bronze"
+        },
+        {
+          "answer": "Morocco",
+          "display": "#5 — 31 gold, 32 silver, 46 bronze"
+        },
+        {
+          "answer": "Tunisia",
+          "display": "#6 — 26 gold, 36 silver, 35 bronze"
+        },
+        {
+          "answer": "Kenya",
+          "display": "#7 — 11 gold, 10 silver, 10 bronze"
+        },
+        {
+          "answer": "Mauritius",
+          "display": "#8 — 6 gold, 6 silver, 12 bronze"
+        },
+        {
+          "answer": "Ethiopia",
+          "display": "#9 — 6 gold, 5 silver, 12 bronze"
+        },
+        {
+          "answer": "Madagascar",
+          "display": "#10 — 6 gold, 4 silver, 2 bronze"
+        },
+        {
+          "answer": "Cameroon",
+          "display": "#11 — 5 gold, 14 silver, 9 bronze"
+        },
+        {
+          "answer": "Ivory Coast",
+          "aliases": [
+            "Côte d'Ivoire"
+          ],
+          "display": "#12 — 5 gold, 5 silver, 8 bronze"
+        },
+        {
+          "answer": "Botswana",
+          "display": "#13 — 5 gold, 3 silver, 6 bronze"
+        },
+        {
+          "answer": "Burkina Faso",
+          "display": "#14 — 4 gold, 2 silver, 2 bronze"
+        },
+        {
+          "answer": "Ghana",
+          "display": "#15 — 2 gold, 2 silver, 9 bronze"
+        }
+      ]
+    },
+    {
+      "category": "sports/multi-sport/african-games",
+      "question": "Top 10 nations in the 2023 African Games (Accra) medal table (ranked by gold medals, then silver, then bronze)",
+      "cutoff": 10,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1378921226 | table 5 | name: NOC | value: Rank | order: asc",
+      "tags": [
+        "african-games",
+        "medals",
+        "nations",
+        "2023"
+      ],
+      "answers": [
+        {
+          "answer": "Egypt",
+          "display": "#1 — 103 gold, 47 silver, 43 bronze"
+        },
+        {
+          "answer": "Nigeria",
+          "display": "#2 — 47 gold, 34 silver, 40 bronze"
+        },
+        {
+          "answer": "South Africa",
+          "display": "#3 — 32 gold, 32 silver, 42 bronze"
+        },
+        {
+          "answer": "Algeria",
+          "display": "#4 — 29 gold, 38 silver, 48 bronze"
+        },
+        {
+          "answer": "Tunisia",
+          "display": "#5 — 22 gold, 27 silver, 38 bronze"
+        },
+        {
+          "answer": "Ghana",
+          "display": "#6 — 19 gold, 29 silver, 21 bronze"
+        },
+        {
+          "answer": "Morocco",
+          "display": "#7 — 9 gold, 12 silver, 14 bronze"
+        },
+        {
+          "answer": "Ethiopia",
+          "display": "#8 — 9 gold, 8 silver, 5 bronze"
+        },
+        {
+          "answer": "Mauritius",
+          "display": "#9 — 9 gold, 5 silver, 11 bronze"
+        },
+        {
+          "answer": "Kenya",
+          "display": "#10 — 8 gold, 8 silver, 21 bronze"
+        },
+        {
+          "answer": "Eritrea",
+          "display": "#11 — 7 gold, 2 silver, 6 bronze"
+        },
+        {
+          "answer": "Senegal",
+          "display": "#12 — 4 gold, 7 silver, 18 bronze"
+        },
+        {
+          "answer": "Uganda",
+          "display": "#13 — 4 gold, 6 silver, 10 bronze"
+        },
+        {
+          "answer": "Zambia",
+          "display": "#14 — 4 gold, 5 silver, 5 bronze"
+        },
+        {
+          "answer": "Madagascar",
+          "display": "#15 — 4 gold, 4 silver, 7 bronze"
+        }
+      ]
+    },
+    {
+      "category": "sports/multi-sport/cac-games",
+      "question": "Top 5 nations in the 1966 Central American and Caribbean Games (San Juan) medal table (ranked by gold medals, then silver, then bronze)",
+      "cutoff": 5,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1321116481 | table 1 | name: Nation | value: Rank | order: asc",
+      "tags": [
+        "cac-games",
+        "medals",
+        "nations",
+        "1966"
+      ],
+      "answers": [
+        {
+          "answer": "Mexico",
+          "display": "#1 — 38 gold, 23 silver, 22 bronze"
+        },
+        {
+          "answer": "Cuba",
+          "display": "#2 — 35 gold, 19 silver, 24 bronze"
+        },
+        {
+          "answer": "Puerto Rico",
+          "display": "#3 — 27 gold, 27 silver, 29 bronze"
+        },
+        {
+          "answer": "Venezuela",
+          "display": "#4 — 10 gold, 23 silver, 21 bronze"
+        },
+        {
+          "answer": "Colombia",
+          "display": "#5 — 10 gold, 12 silver, 12 bronze"
+        },
+        {
+          "answer": "Jamaica",
+          "display": "#6 — 7 gold, 7 silver, 8 bronze"
+        },
+        {
+          "answer": "Trinidad and Tobago",
+          "aliases": [
+            "Trinidad"
+          ],
+          "display": "#7 — 7 gold, 7 silver, 4 bronze"
+        },
+        {
+          "answer": "Panama",
+          "display": "#8 — 1 gold, 4 silver, 4 bronze"
+        }
+      ]
+    },
+    {
+      "category": "sports/multi-sport/cac-games",
+      "question": "Top 7 nations in the 1974 Central American and Caribbean Games (Santo Domingo) medal table (ranked by gold medals, then silver, then bronze)",
+      "cutoff": 7,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1371285644 | table 1 | name: Nation | value: Rank | order: asc",
+      "tags": [
+        "cac-games",
+        "medals",
+        "nations",
+        "1974"
+      ],
+      "answers": [
+        {
+          "answer": "Cuba",
+          "display": "#1 — 101 gold, 55 silver, 35 bronze"
+        },
+        {
+          "answer": "Mexico",
+          "display": "#2 — 26 gold, 30 silver, 26 bronze"
+        },
+        {
+          "answer": "Venezuela",
+          "display": "#3 — 14 gold, 16 silver, 26 bronze"
+        },
+        {
+          "answer": "Puerto Rico",
+          "display": "#4 — 9 gold, 24 silver, 36 bronze"
+        },
+        {
+          "answer": "Colombia",
+          "display": "#5 — 9 gold, 17 silver, 18 bronze"
+        },
+        {
+          "answer": "Costa Rica",
+          "display": "#6 — 3 gold, 3 silver, 2 bronze"
+        },
+        {
+          "answer": "Jamaica",
+          "display": "#7 — 2 gold, 3 silver, 2 bronze"
+        },
+        {
+          "answer": "Netherlands Antilles",
+          "display": "#8 — 2 gold, 0 silver, 5 bronze"
+        },
+        {
+          "answer": "Panama",
+          "display": "#9 — 1 gold, 12 silver, 11 bronze"
+        },
+        {
+          "answer": "Dominican Republic",
+          "display": "#10 — 1 gold, 5 silver, 14 bronze"
+        }
+      ]
+    },
+    {
+      "category": "sports/multi-sport/cac-games",
+      "question": "Top 5 nations in the 1978 Central American and Caribbean Games (Medellín) medal table (ranked by gold medals, then silver, then bronze)",
+      "cutoff": 5,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1312966135 | table 1 | name: Nation | value: Rank | order: asc",
+      "tags": [
+        "cac-games",
+        "medals",
+        "nations",
+        "1978"
+      ],
+      "answers": [
+        {
+          "answer": "Cuba",
+          "display": "#1 — 120 gold, 44 silver, 18 bronze"
+        },
+        {
+          "answer": "Mexico",
+          "display": "#2 — 25 gold, 48 silver, 43 bronze"
+        },
+        {
+          "answer": "Puerto Rico",
+          "display": "#3 — 13 gold, 15 silver, 33 bronze"
+        },
+        {
+          "answer": "Colombia",
+          "display": "#4 — 8 gold, 24 silver, 36 bronze"
+        },
+        {
+          "answer": "Jamaica",
+          "display": "#5 — 6 gold, 6 silver, 5 bronze"
+        },
+        {
+          "answer": "Venezuela",
+          "display": "#6 — 5 gold, 24 silver, 29 bronze"
+        },
+        {
+          "answer": "Dominican Republic",
+          "display": "#7 — 3 gold, 8 silver, 16 bronze"
+        },
+        {
+          "answer": "Costa Rica",
+          "display": "#8 — 2 gold, 4 silver, 3 bronze"
+        }
+      ]
+    },
+    {
+      "category": "sports/multi-sport/cac-games",
+      "question": "Top 7 nations in the 1982 Central American and Caribbean Games (Havana) medal table (ranked by gold medals, then silver, then bronze)",
+      "cutoff": 7,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1371416918 | table 1 | name: Nation | value: Rank | order: asc",
+      "tags": [
+        "cac-games",
+        "medals",
+        "nations",
+        "1982"
+      ],
+      "answers": [
+        {
+          "answer": "Cuba",
+          "display": "#1 — 173 gold, 71 silver, 38 bronze"
+        },
+        {
+          "answer": "Mexico",
+          "display": "#2 — 29 gold, 55 silver, 47 bronze"
+        },
+        {
+          "answer": "Venezuela",
+          "display": "#3 — 19 gold, 39 silver, 54 bronze"
+        },
+        {
+          "answer": "Puerto Rico",
+          "display": "#4 — 7 gold, 43 silver, 54 bronze"
+        },
+        {
+          "answer": "Dominican Republic",
+          "display": "#5 — 4 gold, 8 silver, 22 bronze"
+        },
+        {
+          "answer": "Jamaica",
+          "display": "#6 — 4 gold, 3 silver, 6 bronze"
+        },
+        {
+          "answer": "Costa Rica",
+          "display": "#7 — 3 gold, 1 silver, 4 bronze"
+        },
+        {
+          "answer": "Virgin Islands",
+          "display": "#8 — 2 gold, 5 silver, 4 bronze"
+        },
+        {
+          "answer": "Bahamas",
+          "display": "#9 — 2 gold, 3 silver, 4 bronze"
+        },
+        {
+          "answer": "Guatemala",
+          "display": "#10 — 2 gold, 1 silver, 6 bronze"
+        }
+      ]
+    },
+    {
+      "category": "sports/multi-sport/cac-games",
+      "question": "Top 7 nations in the 1986 Central American and Caribbean Games (Santiago de los Caballeros) medal table (ranked by gold medals, then silver, then bronze)",
+      "cutoff": 7,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1230821615 | table 1 | name: Nation | value: Rank | order: asc",
+      "tags": [
+        "cac-games",
+        "medals",
+        "nations",
+        "1986"
+      ],
+      "answers": [
+        {
+          "answer": "Cuba",
+          "display": "#1 — 174 gold, 81 silver, 44 bronze"
+        },
+        {
+          "answer": "Mexico",
+          "display": "#2 — 40 gold, 49 silver, 44 bronze"
+        },
+        {
+          "answer": "Venezuela",
+          "display": "#3 — 18 gold, 42 silver, 60 bronze"
+        },
+        {
+          "answer": "Puerto Rico",
+          "display": "#4 — 13 gold, 29 silver, 50 bronze"
+        },
+        {
+          "answer": "Costa Rica",
+          "display": "#5 — 11 gold, 0 silver, 3 bronze"
+        },
+        {
+          "answer": "Colombia",
+          "display": "#6 — 10 gold, 22 silver, 37 bronze"
+        },
+        {
+          "answer": "Dominican Republic",
+          "display": "#7 — 9 gold, 34 silver, 27 bronze"
+        },
+        {
+          "answer": "Trinidad and Tobago",
+          "aliases": [
+            "Trinidad"
+          ],
+          "display": "#8 — 3 gold, 6 silver, 7 bronze"
+        },
+        {
+          "answer": "Jamaica",
+          "display": "#9 — 2 gold, 8 silver, 7 bronze"
+        },
+        {
+          "answer": "Guatemala",
+          "display": "#10 — 2 gold, 4 silver, 9 bronze"
+        }
+      ]
+    },
+    {
+      "category": "sports/multi-sport/cac-games",
+      "question": "Top 7 nations in the 1990 Central American and Caribbean Games (Mexico City) medal table (ranked by gold medals, then silver, then bronze)",
+      "cutoff": 7,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1277093024 | table 1 | name: Nation | value: Rank | order: asc",
+      "tags": [
+        "cac-games",
+        "medals",
+        "nations",
+        "1990"
+      ],
+      "answers": [
+        {
+          "answer": "Cuba",
+          "display": "#1 — 180 gold, 90 silver, 52 bronze"
+        },
+        {
+          "answer": "Mexico",
+          "display": "#2 — 114 gold, 101 silver, 84 bronze"
+        },
+        {
+          "answer": "Puerto Rico",
+          "display": "#3 — 21 gold, 47 silver, 41 bronze"
+        },
+        {
+          "answer": "Colombia",
+          "display": "#4 — 18 gold, 29 silver, 39 bronze"
+        },
+        {
+          "answer": "Venezuela",
+          "display": "#5 — 14 gold, 42 silver, 72 bronze"
+        },
+        {
+          "answer": "Dominican Republic",
+          "display": "#6 — 5 gold, 11 silver, 29 bronze"
+        },
+        {
+          "answer": "Jamaica",
+          "display": "#7 — 4 gold, 4 silver, 5 bronze"
+        },
+        {
+          "answer": "Guatemala",
+          "display": "#8 — 2 gold, 5 silver, 25 bronze"
+        },
+        {
+          "answer": "Costa Rica",
+          "display": "#9 — 1 gold, 7 silver, 11 bronze"
+        },
+        {
+          "answer": "Panama",
+          "display": "#10 — 1 gold, 2 silver, 10 bronze"
+        }
+      ]
+    },
+    {
+      "category": "sports/multi-sport/cac-games",
+      "question": "Top 7 nations in the 1993 Central American and Caribbean Games (Ponce) medal table (ranked by gold medals, then silver, then bronze)",
+      "cutoff": 7,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1368339801 | table 1 | name: Nation | value: Place | order: asc",
+      "tags": [
+        "cac-games",
+        "medals",
+        "nations",
+        "1993"
+      ],
+      "answers": [
+        {
+          "answer": "Cuba",
+          "display": "#1 — 227 gold, 76 silver, 61 bronze"
+        },
+        {
+          "answer": "Mexico",
+          "display": "#2 — 66 gold, 106 silver, 68 bronze"
+        },
+        {
+          "answer": "Venezuela",
+          "display": "#3 — 23 gold, 54 silver, 78 bronze"
+        },
+        {
+          "answer": "Puerto Rico",
+          "display": "#4 — 22 gold, 53 silver, 78 bronze"
+        },
+        {
+          "answer": "Colombia",
+          "display": "#5 — 22 gold, 45 silver, 34 bronze"
+        },
+        {
+          "answer": "Dominican Republic",
+          "display": "#6 — 6 gold, 18 silver, 25 bronze"
+        },
+        {
+          "answer": "Costa Rica",
+          "display": "#7 — 5 gold, 7 silver, 15 bronze"
+        },
+        {
+          "answer": "Guatemala",
+          "display": "#8 — 3 gold, 8 silver, 37 bronze"
+        },
+        {
+          "answer": "Trinidad and Tobago",
+          "aliases": [
+            "Trinidad"
+          ],
+          "display": "#9 — 3 gold, 7 silver, 6 bronze"
+        },
+        {
+          "answer": "Suriname",
+          "display": "#10 — 2 gold, 0 silver, 1 bronze"
+        }
+      ]
+    },
+    {
+      "category": "sports/multi-sport/cac-games",
+      "question": "Top 7 nations in the 1998 Central American and Caribbean Games (Maracaibo) medal table (ranked by gold medals, then silver, then bronze)",
+      "cutoff": 7,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1372141771 | table 1 | name: Nation | value: Rank | order: asc",
+      "tags": [
+        "cac-games",
+        "medals",
+        "nations",
+        "1998"
+      ],
+      "answers": [
+        {
+          "answer": "Cuba",
+          "display": "#1 — 191 gold, 74 silver, 69 bronze"
+        },
+        {
+          "answer": "Mexico",
+          "display": "#2 — 61 gold, 87 silver, 71 bronze"
+        },
+        {
+          "answer": "Venezuela",
+          "display": "#3 — 56 gold, 68 silver, 67 bronze"
+        },
+        {
+          "answer": "Colombia",
+          "display": "#4 — 19 gold, 43 silver, 51 bronze"
+        },
+        {
+          "answer": "Puerto Rico",
+          "display": "#5 — 11 gold, 21 silver, 48 bronze"
+        },
+        {
+          "answer": "Dominican Republic",
+          "display": "#6 — 7 gold, 20 silver, 44 bronze"
+        },
+        {
+          "answer": "Suriname",
+          "display": "#7 — 7 gold, 1 silver, 0 bronze"
+        },
+        {
+          "answer": "Jamaica",
+          "display": "#8 — 6 gold, 13 silver, 10 bronze"
+        },
+        {
+          "answer": "El Salvador",
+          "display": "#9 — 4 gold, 11 silver, 22 bronze"
+        },
+        {
+          "answer": "Guatemala",
+          "display": "#10 — 3 gold, 11 silver, 22 bronze"
+        }
+      ]
+    },
+    {
+      "category": "sports/multi-sport/cac-games",
+      "question": "Top 10 nations in the 2002 Central American and Caribbean Games (San Salvador) medal table (ranked by gold medals, then silver, then bronze)",
+      "cutoff": 10,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1368947201 | table 1 | name: Nation | value: Rank | order: asc",
+      "tags": [
+        "cac-games",
+        "medals",
+        "nations",
+        "2002"
+      ],
+      "answers": [
+        {
+          "answer": "Mexico",
+          "display": "#1 — 138 gold, 111 silver, 102 bronze"
+        },
+        {
+          "answer": "Venezuela",
+          "display": "#2 — 103 gold, 94 silver, 80 bronze"
+        },
+        {
+          "answer": "Colombia",
+          "display": "#3 — 62 gold, 60 silver, 57 bronze"
+        },
+        {
+          "answer": "Dominican Republic",
+          "display": "#4 — 35 gold, 38 silver, 59 bronze"
+        },
+        {
+          "answer": "Puerto Rico",
+          "display": "#5 — 30 gold, 47 silver, 57 bronze"
+        },
+        {
+          "answer": "Guatemala",
+          "display": "#6 — 22 gold, 22 silver, 42 bronze"
+        },
+        {
+          "answer": "El Salvador",
+          "display": "#7 — 18 gold, 39 silver, 66 bronze"
+        },
+        {
+          "answer": "Jamaica",
+          "display": "#8 — 6 gold, 10 silver, 8 bronze"
+        },
+        {
+          "answer": "Trinidad and Tobago",
+          "aliases": [
+            "Trinidad"
+          ],
+          "display": "#9 — 5 gold, 1 silver, 11 bronze"
+        },
+        {
+          "answer": "Costa Rica",
+          "display": "#10 — 4 gold, 3 silver, 6 bronze"
+        },
+        {
+          "answer": "Haiti",
+          "display": "#11 — 2 gold, 2 silver, 6 bronze"
+        },
+        {
+          "answer": "Panama",
+          "display": "#12 — 2 gold, 2 silver, 2 bronze"
+        },
+        {
+          "answer": "Virgin Islands",
+          "display": "#13 — 2 gold, 0 silver, 1 bronze"
+        },
+        {
+          "answer": "Barbados",
+          "display": "#14 — 1 gold, 2 silver, 6 bronze"
+        },
+        {
+          "answer": "Suriname",
+          "display": "#15 — 1 gold, 1 silver, 2 bronze"
+        }
+      ]
+    },
+    {
+      "category": "sports/multi-sport/cac-games",
+      "question": "Top 10 nations in the 2006 Central American and Caribbean Games (Cartagena) medal table (ranked by gold medals, then silver, then bronze)",
+      "cutoff": 10,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1372592317 | table 1 | name: Nation | value: Rank | order: asc",
+      "tags": [
+        "cac-games",
+        "medals",
+        "nations",
+        "2006"
+      ],
+      "answers": [
+        {
+          "answer": "Cuba",
+          "display": "#1 — 138 gold, 86 silver, 61 bronze"
+        },
+        {
+          "answer": "Mexico",
+          "display": "#2 — 107 gold, 82 silver, 86 bronze"
+        },
+        {
+          "answer": "Colombia",
+          "display": "#3 — 72 gold, 70 silver, 77 bronze"
+        },
+        {
+          "answer": "Venezuela",
+          "display": "#4 — 49 gold, 90 silver, 124 bronze"
+        },
+        {
+          "answer": "Puerto Rico",
+          "display": "#5 — 24 gold, 19 silver, 53 bronze"
+        },
+        {
+          "answer": "Dominican Republic",
+          "display": "#6 — 22 gold, 31 silver, 44 bronze"
+        },
+        {
+          "answer": "Jamaica",
+          "display": "#7 — 9 gold, 6 silver, 7 bronze"
+        },
+        {
+          "answer": "El Salvador",
+          "display": "#8 — 6 gold, 12 silver, 30 bronze"
+        },
+        {
+          "answer": "Barbados",
+          "display": "#9 — 6 gold, 2 silver, 11 bronze"
+        },
+        {
+          "answer": "Guatemala",
+          "display": "#10 — 5 gold, 13 silver, 30 bronze"
+        },
+        {
+          "answer": "Panama",
+          "display": "#11 — 2 gold, 5 silver, 7 bronze"
+        },
+        {
+          "answer": "Costa Rica",
+          "display": "#12 — 2 gold, 1 silver, 2 bronze"
+        },
+        {
+          "answer": "Netherlands Antilles",
+          "display": "#13 — 2 gold, 1 silver, 1 bronze"
+        },
+        {
+          "answer": "Trinidad and Tobago",
+          "aliases": [
+            "Trinidad"
+          ],
+          "display": "#14 — 1 gold, 9 silver, 11 bronze"
+        }
+      ]
+    },
+    {
+      "category": "sports/multi-sport/cac-games",
+      "question": "Top 10 nations in the 2010 Central American and Caribbean Games (Mayagüez) medal table (ranked by gold medals, then silver, then bronze)",
+      "cutoff": 10,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1366210327 | table 2 | name: Nation | value: Rank | order: asc",
+      "tags": [
+        "cac-games",
+        "medals",
+        "nations",
+        "2010"
+      ],
+      "answers": [
+        {
+          "answer": "Mexico",
+          "display": "#1 — 127 gold, 125 silver, 123 bronze"
+        },
+        {
+          "answer": "Venezuela",
+          "display": "#2 — 116 gold, 106 silver, 99 bronze"
+        },
+        {
+          "answer": "Colombia",
+          "display": "#3 — 104 gold, 84 silver, 74 bronze"
+        },
+        {
+          "answer": "Puerto Rico",
+          "display": "#4 — 48 gold, 43 silver, 75 bronze"
+        },
+        {
+          "answer": "Dominican Republic",
+          "display": "#5 — 31 gold, 38 silver, 68 bronze"
+        },
+        {
+          "answer": "Jamaica",
+          "display": "#6 — 15 gold, 11 silver, 16 bronze"
+        },
+        {
+          "answer": "Guatemala",
+          "display": "#7 — 14 gold, 21 silver, 35 bronze"
+        },
+        {
+          "answer": "Trinidad and Tobago",
+          "aliases": [
+            "Trinidad"
+          ],
+          "display": "#8 — 9 gold, 12 silver, 13 bronze"
+        },
+        {
+          "answer": "El Salvador",
+          "display": "#9 — 8 gold, 21 silver, 32 bronze"
+        },
+        {
+          "answer": "Bahamas",
+          "display": "#10 — 7 gold, 5 silver, 6 bronze"
+        },
+        {
+          "answer": "Barbados",
+          "display": "#11 — 3 gold, 2 silver, 5 bronze"
+        },
+        {
+          "answer": "Panama",
+          "display": "#12 — 2 gold, 3 silver, 12 bronze"
+        },
+        {
+          "answer": "Netherlands Antilles",
+          "display": "#13 — 2 gold, 3 silver, 2 bronze"
+        },
+        {
+          "answer": "Cayman Islands",
+          "display": "#14 — 2 gold, 2 silver, 3 bronze"
+        },
+        {
+          "answer": "Costa Rica",
+          "display": "#15 — 1 gold, 5 silver, 18 bronze"
+        }
+      ]
+    },
+    {
+      "category": "sports/multi-sport/cac-games",
+      "question": "Top 10 nations in the 2014 Central American and Caribbean Games (Veracruz) medal table (ranked by gold medals, then silver, then bronze)",
+      "cutoff": 10,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1371417078 | table 2 | name: Nation | value: Rank | order: asc",
+      "tags": [
+        "cac-games",
+        "medals",
+        "nations",
+        "2014"
+      ],
+      "answers": [
+        {
+          "answer": "Cuba",
+          "display": "#1 — 123 gold, 66 silver, 65 bronze"
+        },
+        {
+          "answer": "Mexico",
+          "display": "#2 — 115 gold, 106 silver, 111 bronze"
+        },
+        {
+          "answer": "Colombia",
+          "display": "#3 — 72 gold, 74 silver, 78 bronze"
+        },
+        {
+          "answer": "Venezuela",
+          "display": "#4 — 53 gold, 81 silver, 108 bronze"
+        },
+        {
+          "answer": "Dominican Republic",
+          "display": "#5 — 21 gold, 33 silver, 25 bronze"
+        },
+        {
+          "answer": "Puerto Rico",
+          "display": "#6 — 15 gold, 24 silver, 45 bronze"
+        },
+        {
+          "answer": "Guatemala",
+          "display": "#7 — 15 gold, 19 silver, 43 bronze"
+        },
+        {
+          "answer": "Bahamas",
+          "display": "#8 — 4 gold, 3 silver, 1 bronze"
+        },
+        {
+          "answer": "El Salvador",
+          "display": "#9 — 2 gold, 9 silver, 12 bronze"
+        },
+        {
+          "answer": "Trinidad and Tobago",
+          "aliases": [
+            "Trinidad"
+          ],
+          "display": "#10 — 2 gold, 1 silver, 8 bronze"
+        },
+        {
+          "answer": "Aruba",
+          "display": "#11 — 2 gold, 1 silver, 1 bronze"
+        },
+        {
+          "answer": "Costa Rica",
+          "display": "#12 — 1 gold, 3 silver, 11 bronze"
+        },
+        {
+          "answer": "Honduras",
+          "display": "#13 — 1 gold, 2 silver, 9 bronze"
+        },
+        {
+          "answer": "Panama",
+          "display": "#14 — 1 gold, 2 silver, 4 bronze"
+        },
+        {
+          "answer": "U.S. Virgin Islands",
+          "display": "#15 — 1 gold, 2 silver, 3 bronze"
+        }
+      ]
+    },
+    {
+      "category": "sports/multi-sport/cac-games",
+      "question": "Top 10 nations in the 2018 Central American and Caribbean Games (Barranquilla) medal table (ranked by gold medals, then silver, then bronze)",
+      "cutoff": 10,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1374156661 | table 2 | name: Nation | value: Rank | order: asc",
+      "tags": [
+        "cac-games",
+        "medals",
+        "nations",
+        "2018"
+      ],
+      "answers": [
+        {
+          "answer": "Mexico",
+          "display": "#1 — 132 gold, 118 silver, 91 bronze"
+        },
+        {
+          "answer": "Cuba",
+          "display": "#2 — 102 gold, 72 silver, 68 bronze"
+        },
+        {
+          "answer": "Colombia",
+          "display": "#3 — 79 gold, 94 silver, 97 bronze"
+        },
+        {
+          "answer": "Venezuela",
+          "display": "#4 — 34 gold, 48 silver, 73 bronze"
+        },
+        {
+          "answer": "Dominican Republic",
+          "display": "#5 — 25 gold, 29 silver, 53 bronze"
+        },
+        {
+          "answer": "Guatemala",
+          "display": "#6 — 21 gold, 22 silver, 41 bronze"
+        },
+        {
+          "answer": "Puerto Rico",
+          "display": "#7 — 20 gold, 29 silver, 38 bronze"
+        },
+        {
+          "answer": "Jamaica",
+          "display": "#8 — 12 gold, 4 silver, 11 bronze"
+        },
+        {
+          "answer": "Trinidad and Tobago",
+          "aliases": [
+            "Trinidad"
+          ],
+          "display": "#9 — 9 gold, 8 silver, 13 bronze"
+        },
+        {
+          "answer": "Bahamas",
+          "display": "#10 — 4 gold, 2 silver, 1 bronze"
+        },
+        {
+          "answer": "Panama",
+          "display": "#11 — 3 gold, 5 silver, 5 bronze"
+        },
+        {
+          "answer": "El Salvador",
+          "display": "#12 — 2 gold, 5 silver, 11 bronze"
+        },
+        {
+          "answer": "Aruba",
+          "display": "#13 — 2 gold, 1 silver, 6 bronze"
+        },
+        {
+          "answer": "Barbados",
+          "display": "#14 — 2 gold, 0 silver, 4 bronze"
+        },
+        {
+          "answer": "Costa Rica",
+          "display": "#15 — 1 gold, 6 silver, 19 bronze"
+        }
+      ]
+    },
+    {
+      "category": "sports/multi-sport/cac-games",
+      "question": "Top 10 nations in the 2026 Central American and Caribbean Games (Santo Domingo) medal table (ranked by gold medals, then silver, then bronze)",
+      "cutoff": 10,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1378863691 | table 12 | name: Nation | value: Rank | order: asc",
+      "tags": [
+        "cac-games",
+        "medals",
+        "nations",
+        "2026"
+      ],
+      "answers": [
+        {
+          "answer": "Mexico",
+          "display": "#1 — 167 gold, 125 silver, 115 bronze"
+        },
+        {
+          "answer": "Colombia",
+          "display": "#2 — 91 gold, 98 silver, 77 bronze"
+        },
+        {
+          "answer": "Cuba",
+          "display": "#3 — 51 gold, 48 silver, 56 bronze"
+        },
+        {
+          "answer": "Venezuela",
+          "display": "#4 — 49 gold, 70 silver, 97 bronze"
+        },
+        {
+          "answer": "Dominican Republic",
+          "display": "#5 — 46 gold, 37 silver, 67 bronze"
+        },
+        {
+          "answer": "Puerto Rico",
+          "display": "#6 — 34 gold, 35 silver, 55 bronze"
+        },
+        {
+          "answer": "Guatemala",
+          "display": "#7 — 18 gold, 32 silver, 44 bronze"
+        },
+        {
+          "answer": "Panama",
+          "display": "#8 — 8 gold, 8 silver, 8 bronze"
+        },
+        {
+          "answer": "Trinidad and Tobago",
+          "aliases": [
+            "Trinidad"
+          ],
+          "display": "#9 — 6 gold, 5 silver, 10 bronze"
+        },
+        {
+          "answer": "El Salvador",
+          "display": "#10 — 6 gold, 4 silver, 14 bronze"
+        },
+        {
+          "answer": "Costa Rica",
+          "display": "#11 — 5 gold, 6 silver, 15 bronze"
+        },
+        {
+          "answer": "Guyana",
+          "display": "#12 — 3 gold, 1 silver, 2 bronze"
+        },
+        {
+          "answer": "Barbados",
+          "display": "#13 — 2 gold, 5 silver, 2 bronze"
+        },
+        {
+          "answer": "Aruba",
+          "display": "#14 — 2 gold, 2 silver, 7 bronze"
+        },
+        {
+          "answer": "Guadeloupe",
+          "display": "#15 — 2 gold, 0 silver, 3 bronze"
+        }
+      ]
+    },
+    {
+      "category": "sports/multi-sport/mediterranean-games",
+      "question": "Top 5 nations in the 1993 Mediterranean Games (Languedoc-Roussillon) medal table (ranked by gold medals, then silver, then bronze)",
+      "cutoff": 5,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1281095657 | table 1 | name: Nation | value: Rank | order: asc",
+      "tags": [
+        "mediterranean-games",
+        "medals",
+        "nations",
+        "1993"
+      ],
+      "answers": [
+        {
+          "answer": "France",
+          "display": "#1 — 83 gold, 53 silver, 56 bronze"
+        },
+        {
+          "answer": "Italy",
+          "display": "#2 — 37 gold, 44 silver, 40 bronze"
+        },
+        {
+          "answer": "Turkey",
+          "display": "#3 — 34 gold, 20 silver, 10 bronze"
+        },
+        {
+          "answer": "Greece",
+          "display": "#4 — 17 gold, 25 silver, 24 bronze"
+        },
+        {
+          "answer": "Spain",
+          "display": "#5 — 13 gold, 40 silver, 33 bronze"
+        },
+        {
+          "answer": "Croatia",
+          "display": "#6 — 9 gold, 6 silver, 19 bronze"
+        },
+        {
+          "answer": "Morocco",
+          "display": "#7 — 7 gold, 7 silver, 13 bronze"
+        },
+        {
+          "answer": "Algeria",
+          "display": "#8 — 5 gold, 6 silver, 11 bronze"
+        }
+      ]
+    },
+    {
+      "category": "sports/multi-sport/mediterranean-games",
+      "question": "Top 5 nations in the 1997 Mediterranean Games (Bari) medal table (ranked by gold medals, then silver, then bronze)",
+      "cutoff": 5,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1264730101 | table 1 | name: Nation | value: Rank | order: asc",
+      "tags": [
+        "mediterranean-games",
+        "medals",
+        "nations",
+        "1997"
+      ],
+      "answers": [
+        {
+          "answer": "Italy",
+          "display": "#1 — 76 gold, 62 silver, 55 bronze"
+        },
+        {
+          "answer": "France",
+          "display": "#2 — 55 gold, 44 silver, 47 bronze"
+        },
+        {
+          "answer": "Turkey",
+          "display": "#3 — 28 gold, 16 silver, 21 bronze"
+        },
+        {
+          "answer": "Greece",
+          "display": "#4 — 19 gold, 22 silver, 21 bronze"
+        },
+        {
+          "answer": "Spain",
+          "display": "#5 — 18 gold, 30 silver, 47 bronze"
+        },
+        {
+          "answer": "Croatia",
+          "display": "#6 — 6 gold, 16 silver, 10 bronze"
+        },
+        {
+          "answer": "Algeria",
+          "display": "#7 — 6 gold, 8 silver, 8 bronze"
+        },
+        {
+          "answer": "Slovenia",
+          "display": "#8 — 5 gold, 8 silver, 10 bronze"
+        }
+      ]
+    },
+    {
+      "category": "sports/multi-sport/mediterranean-games",
+      "question": "Top 5 nations in the 2001 Mediterranean Games (Tunis) medal table (ranked by gold medals, then silver, then bronze)",
+      "cutoff": 5,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1264728105 | table 1 | name: Nation | value: Place | order: asc",
+      "tags": [
+        "mediterranean-games",
+        "medals",
+        "nations",
+        "2001"
+      ],
+      "answers": [
+        {
+          "answer": "France",
+          "display": "#1 — 40 gold, 32 silver, 50 bronze"
+        },
+        {
+          "answer": "Italy",
+          "display": "#2 — 38 gold, 59 silver, 39 bronze"
+        },
+        {
+          "answer": "Turkey",
+          "display": "#3 — 33 gold, 16 silver, 12 bronze"
+        },
+        {
+          "answer": "Spain",
+          "display": "#4 — 31 gold, 26 silver, 41 bronze"
+        },
+        {
+          "answer": "Greece",
+          "display": "#5 — 28 gold, 33 silver, 26 bronze"
+        },
+        {
+          "answer": "Tunisia",
+          "display": "#6 — 19 gold, 12 silver, 25 bronze"
+        },
+        {
+          "answer": "Algeria",
+          "display": "#7 — 10 gold, 10 silver, 12 bronze"
+        },
+        {
+          "answer": "Egypt",
+          "display": "#8 — 7 gold, 13 silver, 17 bronze"
+        }
+      ]
+    },
+    {
+      "category": "sports/multi-sport/mediterranean-games",
+      "question": "Top 5 nations in the 2005 Mediterranean Games (Almería) medal table (ranked by gold medals, then silver, then bronze)",
+      "cutoff": 5,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1369255482 | table 2 | name: NOC | value: Rank | order: asc",
+      "tags": [
+        "mediterranean-games",
+        "medals",
+        "nations",
+        "2005"
+      ],
+      "answers": [
+        {
+          "answer": "Italy",
+          "display": "#1 — 57 gold, 40 silver, 56 bronze"
+        },
+        {
+          "answer": "France",
+          "display": "#2 — 56 gold, 51 silver, 46 bronze"
+        },
+        {
+          "answer": "Spain",
+          "display": "#3 — 45 gold, 59 silver, 48 bronze"
+        },
+        {
+          "answer": "Turkey",
+          "display": "#4 — 20 gold, 24 silver, 29 bronze"
+        },
+        {
+          "answer": "Egypt",
+          "display": "#5 — 15 gold, 10 silver, 18 bronze"
+        },
+        {
+          "answer": "Greece",
+          "display": "#6 — 13 gold, 15 silver, 31 bronze"
+        },
+        {
+          "answer": "Tunisia",
+          "display": "#7 — 13 gold, 7 silver, 15 bronze"
+        },
+        {
+          "answer": "Slovenia",
+          "display": "#8 — 10 gold, 8 silver, 17 bronze"
+        }
+      ]
+    },
+    {
+      "category": "sports/multi-sport/mediterranean-games",
+      "question": "Top 7 nations in the 2013 Mediterranean Games (Mersin) medal table (ranked by gold medals, then silver, then bronze)",
+      "cutoff": 7,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1372654092 | table 6 | name: Nation | value: Rank | order: asc",
+      "tags": [
+        "mediterranean-games",
+        "medals",
+        "nations",
+        "2013"
+      ],
+      "answers": [
+        {
+          "answer": "Italy",
+          "display": "#1 — 70 gold, 52 silver, 64 bronze"
+        },
+        {
+          "answer": "Turkey",
+          "display": "#2 — 47 gold, 43 silver, 36 bronze"
+        },
+        {
+          "answer": "France",
+          "display": "#3 — 25 gold, 26 silver, 45 bronze"
+        },
+        {
+          "answer": "Spain",
+          "display": "#4 — 21 gold, 32 silver, 29 bronze"
+        },
+        {
+          "answer": "Egypt",
+          "display": "#5 — 21 gold, 22 silver, 24 bronze"
+        },
+        {
+          "answer": "Greece",
+          "display": "#6 — 15 gold, 18 silver, 26 bronze"
+        },
+        {
+          "answer": "Slovenia",
+          "display": "#7 — 13 gold, 11 silver, 11 bronze"
+        },
+        {
+          "answer": "Serbia",
+          "display": "#8 — 12 gold, 11 silver, 11 bronze"
+        },
+        {
+          "answer": "Croatia",
+          "display": "#9 — 11 gold, 7 silver, 9 bronze"
+        },
+        {
+          "answer": "Tunisia",
+          "display": "#10 — 9 gold, 17 silver, 22 bronze"
+        }
+      ]
+    },
+    {
+      "category": "sports/multi-sport/mediterranean-games",
+      "question": "Top 10 nations in the 2018 Mediterranean Games (Tarragona) medal table (ranked by gold medals, then silver, then bronze)",
+      "cutoff": 10,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1369510294 | table 6 | name: Nation | value: Rank | order: asc",
+      "tags": [
+        "mediterranean-games",
+        "medals",
+        "nations",
+        "2018"
+      ],
+      "answers": [
+        {
+          "answer": "Italy",
+          "display": "#1 — 56 gold, 56 silver, 44 bronze"
+        },
+        {
+          "answer": "Spain",
+          "display": "#2 — 38 gold, 40 silver, 44 bronze"
+        },
+        {
+          "answer": "Turkey",
+          "display": "#3 — 31 gold, 25 silver, 39 bronze"
+        },
+        {
+          "answer": "France",
+          "display": "#4 — 28 gold, 31 silver, 40 bronze"
+        },
+        {
+          "answer": "Egypt",
+          "display": "#5 — 18 gold, 11 silver, 16 bronze"
+        },
+        {
+          "answer": "Greece",
+          "display": "#6 — 12 gold, 14 silver, 22 bronze"
+        },
+        {
+          "answer": "Serbia",
+          "display": "#7 — 12 gold, 11 silver, 9 bronze"
+        },
+        {
+          "answer": "Morocco",
+          "display": "#8 — 10 gold, 7 silver, 7 bronze"
+        },
+        {
+          "answer": "Croatia",
+          "display": "#9 — 9 gold, 5 silver, 3 bronze"
+        },
+        {
+          "answer": "Tunisia",
+          "display": "#10 — 6 gold, 13 silver, 13 bronze"
+        },
+        {
+          "answer": "Slovenia",
+          "display": "#11 — 4 gold, 9 silver, 23 bronze"
+        },
+        {
+          "answer": "Cyprus",
+          "display": "#12 — 4 gold, 2 silver, 2 bronze"
+        },
+        {
+          "answer": "Portugal",
+          "display": "#13 — 3 gold, 8 silver, 13 bronze"
+        },
+        {
+          "answer": "Kosovo",
+          "display": "#14 — 3 gold, 1 silver, 0 bronze"
+        },
+        {
+          "answer": "Algeria",
+          "display": "#15 — 2 gold, 4 silver, 7 bronze"
+        }
+      ]
+    },
+    {
+      "category": "sports/multi-sport/mediterranean-games",
+      "question": "Top 7 nations in the 2022 Mediterranean Games (Oran) medal table (ranked by gold medals, then silver, then bronze)",
+      "cutoff": 7,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1372426793 | table 7 | name: Nation | value: Rank | order: asc",
+      "tags": [
+        "mediterranean-games",
+        "medals",
+        "nations",
+        "2022"
+      ],
+      "answers": [
+        {
+          "answer": "Italy",
+          "display": "#1 — 48 gold, 50 silver, 61 bronze"
+        },
+        {
+          "answer": "Turkey",
+          "display": "#2 — 45 gold, 26 silver, 37 bronze"
+        },
+        {
+          "answer": "France",
+          "display": "#3 — 21 gold, 24 silver, 36 bronze"
+        },
+        {
+          "answer": "Algeria",
+          "display": "#4 — 20 gold, 17 silver, 16 bronze"
+        },
+        {
+          "answer": "Spain",
+          "display": "#5 — 16 gold, 25 silver, 25 bronze"
+        },
+        {
+          "answer": "Egypt",
+          "display": "#6 — 13 gold, 15 silver, 23 bronze"
+        },
+        {
+          "answer": "Serbia",
+          "display": "#7 — 13 gold, 7 silver, 11 bronze"
+        },
+        {
+          "answer": "Greece",
+          "display": "#8 — 10 gold, 11 silver, 10 bronze"
+        },
+        {
+          "answer": "Portugal",
+          "display": "#9 — 7 gold, 10 silver, 8 bronze"
+        },
+        {
+          "answer": "Tunisia",
+          "display": "#10 — 6 gold, 8 silver, 13 bronze"
+        }
+      ]
+    },
+    {
+      "category": "sports/multi-sport/mediterranean-games",
+      "question": "Top 10 nations in the 2026 Mediterranean Games (Taranto) medal table (ranked by gold medals, then silver, then bronze)",
+      "cutoff": 10,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1375762437 | table 7 | name: Nation | value: Rank | order: asc",
+      "tags": [
+        "mediterranean-games",
+        "medals",
+        "nations",
+        "2026"
+      ],
+      "answers": [
+        {
+          "answer": "Italy",
+          "display": "#1 — 74 gold, 78 silver, 72 bronze"
+        },
+        {
+          "answer": "Turkey",
+          "display": "#2 — 41 gold, 28 silver, 42 bronze"
+        },
+        {
+          "answer": "Greece",
+          "display": "#3 — 26 gold, 26 silver, 19 bronze"
+        },
+        {
+          "answer": "France",
+          "display": "#4 — 25 gold, 21 silver, 42 bronze"
+        },
+        {
+          "answer": "Egypt",
+          "display": "#5 — 23 gold, 16 silver, 19 bronze"
+        },
+        {
+          "answer": "Spain",
+          "display": "#6 — 18 gold, 35 silver, 28 bronze"
+        },
+        {
+          "answer": "Morocco",
+          "display": "#7 — 16 gold, 9 silver, 19 bronze"
+        },
+        {
+          "answer": "Portugal",
+          "display": "#8 — 16 gold, 7 silver, 9 bronze"
+        },
+        {
+          "answer": "Algeria",
+          "display": "#9 — 13 gold, 8 silver, 19 bronze"
+        },
+        {
+          "answer": "Serbia",
+          "display": "#10 — 7 gold, 10 silver, 19 bronze"
+        },
+        {
+          "answer": "Cyprus",
+          "display": "#11 — 7 gold, 6 silver, 5 bronze"
+        },
+        {
+          "answer": "Croatia",
+          "display": "#12 — 6 gold, 18 silver, 15 bronze"
+        },
+        {
+          "answer": "Tunisia",
+          "display": "#13 — 3 gold, 10 silver, 13 bronze"
+        },
+        {
+          "answer": "Slovenia",
+          "display": "#14 — 3 gold, 4 silver, 12 bronze"
+        },
+        {
+          "answer": "Kosovo",
+          "display": "#15 — 2 gold, 3 silver, 4 bronze"
+        }
+      ]
+    },
+    {
+      "category": "sports/multi-sport/european-games",
+      "question": "Top 10 nations in the 2023 European Games (Kraków–Małopolska) medal table (ranked by gold medals, then silver, then bronze)",
+      "cutoff": 10,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1379788410 | table 22 | name: NOC | value: Rank | order: asc",
+      "tags": [
+        "european-games",
+        "medals",
+        "nations",
+        "2023"
+      ],
+      "answers": [
+        {
+          "answer": "Italy",
+          "display": "#1 — 35 gold, 26 silver, 39 bronze"
+        },
+        {
+          "answer": "Spain",
+          "display": "#2 — 21 gold, 17 silver, 19 bronze"
+        },
+        {
+          "answer": "Ukraine",
+          "display": "#3 — 21 gold, 12 silver, 8 bronze"
+        },
+        {
+          "answer": "Germany",
+          "display": "#4 — 20 gold, 16 silver, 27 bronze"
+        },
+        {
+          "answer": "France",
+          "display": "#5 — 17 gold, 19 silver, 26 bronze"
+        },
+        {
+          "answer": "Poland",
+          "display": "#6 — 13 gold, 19 silver, 18 bronze"
+        },
+        {
+          "answer": "Great Britain",
+          "display": "#7 — 12 gold, 10 silver, 27 bronze"
+        },
+        {
+          "answer": "Hungary",
+          "display": "#8 — 10 gold, 10 silver, 18 bronze"
+        },
+        {
+          "answer": "Turkey",
+          "display": "#9 — 9 gold, 9 silver, 20 bronze"
+        },
+        {
+          "answer": "Netherlands",
+          "display": "#10 — 8 gold, 6 silver, 5 bronze"
+        },
+        {
+          "answer": "Czech Republic",
+          "display": "#11 — 7 gold, 10 silver, 11 bronze"
+        },
+        {
+          "answer": "Austria",
+          "display": "#12 — 7 gold, 6 silver, 6 bronze"
+        },
+        {
+          "answer": "Switzerland",
+          "display": "#13 — 7 gold, 5 silver, 12 bronze"
+        },
+        {
+          "answer": "Denmark",
+          "display": "#14 — 7 gold, 5 silver, 5 bronze"
+        },
+        {
+          "answer": "Romania",
+          "display": "#15 — 6 gold, 6 silver, 5 bronze"
+        }
+      ]
+    }
+  ]
+}

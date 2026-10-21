@@ -1,0 +1,176 @@
+{
+  "categories": [
+    {
+      "path": "movies/franchises/disney-animation",
+      "name": "Disney Animated Films"
+    },
+    {
+      "path": "movies/franchises/dreamworks",
+      "name": "DreamWorks Animation"
+    }
+  ],
+  "questions": [
+    {
+      "category": "movies/franchises/disney-animation",
+      "difficulty": 2,
+      "question": "Top 10 highest-grossing Walt Disney Animation Studios films by US and Canada box office (as of October 2026)",
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1379557443 | table 4 | name: Film | value: U.S. and Canada | header rows: 2",
+      "tags": [
+        "movies",
+        "franchises",
+        "box-office",
+        "disney"
+      ],
+      "answers": [
+        {
+          "answer": "Frozen 2",
+          "display": "$477.4 million",
+          "aliases": [
+            "Frozen II"
+          ]
+        },
+        {
+          "answer": "Moana 2",
+          "display": "$460.4 million"
+        },
+        {
+          "answer": "Zootopia 2",
+          "display": "$425.8 million"
+        },
+        {
+          "answer": "The Lion King (1994)",
+          "display": "$422.8 million",
+          "aliases": [
+            "Lion King",
+            "The Lion King"
+          ]
+        },
+        {
+          "answer": "Frozen",
+          "display": "$400.7 million"
+        },
+        {
+          "answer": "Zootopia",
+          "display": "$341.3 million"
+        },
+        {
+          "answer": "Moana",
+          "display": "$248.8 million"
+        },
+        {
+          "answer": "Big Hero 6",
+          "display": "$222.5 million"
+        },
+        {
+          "answer": "Beauty and the Beast",
+          "display": "$219.0 million"
+        },
+        {
+          "answer": "Aladdin",
+          "display": "$217.4 million"
+        },
+        {
+          "answer": "Ralph Breaks the Internet",
+          "display": "$201.1 million"
+        },
+        {
+          "answer": "Tangled",
+          "display": "$200.8 million"
+        },
+        {
+          "answer": "Wreck-It Ralph",
+          "display": "$189.4 million"
+        }
+      ]
+    },
+    {
+      "category": "movies/franchises/dreamworks",
+      "difficulty": 3,
+      "question": "Top 10 DreamWorks Animation films by North American opening weekend box office (as of October 2026)",
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1377884225 | table 7 | name: Film | value: North America / Opening | header rows: 2 | where: Film!~\\(2025\\)$",
+      "tags": [
+        "movies",
+        "franchises",
+        "box-office",
+        "dreamworks"
+      ],
+      "answers": [
+        {
+          "answer": "Shrek the Third",
+          "display": "$121,629,270",
+          "aliases": [
+            "Shrek 3"
+          ]
+        },
+        {
+          "answer": "Shrek 2",
+          "display": "$108,037,878"
+        },
+        {
+          "answer": "Shrek Forever After",
+          "display": "$70,838,207",
+          "aliases": [
+            "Shrek 4"
+          ]
+        },
+        {
+          "answer": "Madagascar: Escape 2 Africa",
+          "display": "$63,106,589",
+          "aliases": [
+            "Escape 2 Africa"
+          ]
+        },
+        {
+          "answer": "Madagascar 3: Europe's Most Wanted",
+          "display": "$60,316,738",
+          "aliases": [
+            "Madagascar 3"
+          ]
+        },
+        {
+          "answer": "Kung Fu Panda",
+          "display": "$60,239,130"
+        },
+        {
+          "answer": "Monsters vs. Aliens",
+          "display": "$59,321,095"
+        },
+        {
+          "answer": "Kung Fu Panda 4",
+          "display": "$57,989,905"
+        },
+        {
+          "answer": "How to Train Your Dragon: The Hidden World",
+          "display": "$55,022,245",
+          "aliases": [
+            "The Hidden World"
+          ]
+        },
+        {
+          "answer": "Home",
+          "display": "$52,107,731"
+        },
+        {
+          "answer": "The Boss Baby",
+          "display": "$50,198,902",
+          "aliases": [
+            "Boss Baby"
+          ]
+        },
+        {
+          "answer": "How to Train Your Dragon 2",
+          "display": "$49,451,322",
+          "aliases": [
+            "HTTYD 2"
+          ]
+        },
+        {
+          "answer": "Kung Fu Panda 2",
+          "display": "$47,656,302"
+        }
+      ]
+    }
+  ]
+}

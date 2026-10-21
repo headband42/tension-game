@@ -1,0 +1,1230 @@
+{
+  "categories": [
+    {
+      "path": "sports/multi-sport",
+      "name": "Multi-Sport Games"
+    },
+    {
+      "path": "sports/multi-sport/asian-games",
+      "name": "Asian Games"
+    },
+    {
+      "path": "sports/multi-sport/pan-american-games",
+      "name": "Pan American Games"
+    }
+  ],
+  "questions": [
+    {
+      "category": "sports/multi-sport/asian-games",
+      "question": "Top 7 nations in the 1974 Asian Games (Tehran) medal table (ranked by gold medals, then silver, then bronze)",
+      "cutoff": 7,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1354952872 | table 5 | name: Nation | value: Rank | where: Nation!~Remaining | order: asc",
+      "tags": [
+        "asian-games",
+        "medals",
+        "nations",
+        "1974"
+      ],
+      "answers": [
+        {
+          "answer": "Japan",
+          "display": "#1 — 75 gold, 49 silver, 51 bronze"
+        },
+        {
+          "answer": "Iran",
+          "display": "#2 — 36 gold, 28 silver, 17 bronze",
+          "aliases": [
+            "IR Iran"
+          ]
+        },
+        {
+          "answer": "China",
+          "display": "#3 — 33 gold, 46 silver, 27 bronze",
+          "aliases": [
+            "PRC"
+          ]
+        },
+        {
+          "answer": "South Korea",
+          "display": "#4 — 16 gold, 26 silver, 15 bronze",
+          "aliases": [
+            "Korea"
+          ]
+        },
+        {
+          "answer": "North Korea",
+          "display": "#5 — 15 gold, 14 silver, 17 bronze",
+          "aliases": [
+            "DPR Korea"
+          ]
+        },
+        {
+          "answer": "Israel",
+          "display": "#6 — 7 gold, 4 silver, 8 bronze"
+        },
+        {
+          "answer": "India",
+          "display": "#7 — 4 gold, 12 silver, 12 bronze"
+        },
+        {
+          "answer": "Thailand",
+          "display": "#8 — 4 gold, 2 silver, 8 bronze"
+        },
+        {
+          "answer": "Indonesia",
+          "display": "#9 — 3 gold, 4 silver, 4 bronze"
+        },
+        {
+          "answer": "Mongolia",
+          "display": "#10 — 2 gold, 5 silver, 8 bronze"
+        }
+      ]
+    },
+    {
+      "category": "sports/multi-sport/asian-games",
+      "question": "Top 7 nations in the 1978 Asian Games (Bangkok) medal table (ranked by gold medals, then silver, then bronze)",
+      "cutoff": 7,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1332357967 | table 2 | name: Nation | value: Rank | where: Nation!~Remaining | order: asc",
+      "tags": [
+        "asian-games",
+        "medals",
+        "nations",
+        "1978"
+      ],
+      "answers": [
+        {
+          "answer": "Japan",
+          "display": "#1 — 70 gold, 59 silver, 49 bronze"
+        },
+        {
+          "answer": "China",
+          "display": "#2 — 51 gold, 54 silver, 46 bronze",
+          "aliases": [
+            "PRC"
+          ]
+        },
+        {
+          "answer": "South Korea",
+          "display": "#3 — 18 gold, 20 silver, 31 bronze",
+          "aliases": [
+            "Korea"
+          ]
+        },
+        {
+          "answer": "North Korea",
+          "display": "#4 — 15 gold, 13 silver, 15 bronze",
+          "aliases": [
+            "DPR Korea"
+          ]
+        },
+        {
+          "answer": "Thailand",
+          "display": "#5 — 11 gold, 12 silver, 19 bronze"
+        },
+        {
+          "answer": "India",
+          "display": "#6 — 11 gold, 11 silver, 6 bronze"
+        },
+        {
+          "answer": "Indonesia",
+          "display": "#7 — 8 gold, 7 silver, 18 bronze"
+        },
+        {
+          "answer": "Pakistan",
+          "display": "#8 — 4 gold, 4 silver, 9 bronze"
+        },
+        {
+          "answer": "Philippines",
+          "display": "#9 — 4 gold, 4 silver, 6 bronze"
+        },
+        {
+          "answer": "Iraq",
+          "display": "#10 — 2 gold, 4 silver, 6 bronze"
+        }
+      ]
+    },
+    {
+      "category": "sports/multi-sport/asian-games",
+      "question": "Top 7 nations in the 1982 Asian Games (New Delhi) medal table (ranked by gold medals, then silver, then bronze)",
+      "cutoff": 7,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1324324669 | table 2 | name: Nation | value: Rank | where: Nation!~Remaining | order: asc",
+      "tags": [
+        "asian-games",
+        "medals",
+        "nations",
+        "1982"
+      ],
+      "answers": [
+        {
+          "answer": "China",
+          "display": "#1 — 61 gold, 51 silver, 41 bronze",
+          "aliases": [
+            "PRC"
+          ]
+        },
+        {
+          "answer": "Japan",
+          "display": "#2 — 57 gold, 52 silver, 44 bronze"
+        },
+        {
+          "answer": "South Korea",
+          "display": "#3 — 28 gold, 28 silver, 37 bronze",
+          "aliases": [
+            "Korea"
+          ]
+        },
+        {
+          "answer": "North Korea",
+          "display": "#4 — 17 gold, 19 silver, 20 bronze",
+          "aliases": [
+            "DPR Korea"
+          ]
+        },
+        {
+          "answer": "India",
+          "display": "#5 — 13 gold, 19 silver, 25 bronze"
+        },
+        {
+          "answer": "Indonesia",
+          "display": "#6 — 4 gold, 4 silver, 7 bronze"
+        },
+        {
+          "answer": "Iran",
+          "display": "#7 — 4 gold, 4 silver, 4 bronze",
+          "aliases": [
+            "IR Iran"
+          ]
+        },
+        {
+          "answer": "Pakistan",
+          "display": "#8 — 3 gold, 3 silver, 5 bronze"
+        },
+        {
+          "answer": "Mongolia",
+          "display": "#9 — 3 gold, 3 silver, 1 bronze"
+        },
+        {
+          "answer": "Philippines",
+          "display": "#10 — 2 gold, 3 silver, 9 bronze"
+        }
+      ]
+    },
+    {
+      "category": "sports/multi-sport/asian-games",
+      "question": "Top 7 nations in the 1986 Asian Games (Seoul) medal table (ranked by gold medals, then silver, then bronze)",
+      "cutoff": 7,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1346961254 | table 5 | name: Nation | value: Rank | where: Nation!~Remaining | order: asc",
+      "tags": [
+        "asian-games",
+        "medals",
+        "nations",
+        "1986"
+      ],
+      "answers": [
+        {
+          "answer": "China",
+          "display": "#1 — 94 gold, 82 silver, 46 bronze",
+          "aliases": [
+            "PRC"
+          ]
+        },
+        {
+          "answer": "South Korea",
+          "display": "#2 — 93 gold, 55 silver, 76 bronze",
+          "aliases": [
+            "Korea"
+          ]
+        },
+        {
+          "answer": "Japan",
+          "display": "#3 — 58 gold, 76 silver, 77 bronze"
+        },
+        {
+          "answer": "Iran",
+          "display": "#4 — 6 gold, 6 silver, 10 bronze",
+          "aliases": [
+            "IR Iran"
+          ]
+        },
+        {
+          "answer": "India",
+          "display": "#5 — 5 gold, 9 silver, 23 bronze"
+        },
+        {
+          "answer": "Philippines",
+          "display": "#6 — 4 gold, 5 silver, 9 bronze"
+        },
+        {
+          "answer": "Thailand",
+          "display": "#7 — 3 gold, 10 silver, 13 bronze"
+        },
+        {
+          "answer": "Pakistan",
+          "display": "#8 — 2 gold, 3 silver, 4 bronze"
+        },
+        {
+          "answer": "Indonesia",
+          "display": "#9 — 1 gold, 5 silver, 14 bronze"
+        },
+        {
+          "answer": "Hong Kong",
+          "display": "#10 — 1 gold, 1 silver, 3 bronze"
+        }
+      ]
+    },
+    {
+      "category": "sports/multi-sport/asian-games",
+      "question": "Top 7 nations in the 1990 Asian Games (Beijing) medal table (ranked by gold medals, then silver, then bronze)",
+      "cutoff": 7,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1378419945 | table 4 | name: NOC | value: Rank | where: NOC!~Remaining | order: asc",
+      "tags": [
+        "asian-games",
+        "medals",
+        "nations",
+        "1990"
+      ],
+      "answers": [
+        {
+          "answer": "China",
+          "display": "#1 — 183 gold, 107 silver, 51 bronze",
+          "aliases": [
+            "PRC"
+          ]
+        },
+        {
+          "answer": "South Korea",
+          "display": "#2 — 54 gold, 54 silver, 73 bronze",
+          "aliases": [
+            "Korea"
+          ]
+        },
+        {
+          "answer": "Japan",
+          "display": "#3 — 38 gold, 60 silver, 76 bronze"
+        },
+        {
+          "answer": "North Korea",
+          "display": "#4 — 12 gold, 31 silver, 39 bronze",
+          "aliases": [
+            "DPR Korea"
+          ]
+        },
+        {
+          "answer": "Iran",
+          "display": "#5 — 4 gold, 6 silver, 8 bronze",
+          "aliases": [
+            "IR Iran"
+          ]
+        },
+        {
+          "answer": "Pakistan",
+          "display": "#6 — 4 gold, 1 silver, 7 bronze"
+        },
+        {
+          "answer": "Indonesia",
+          "display": "#7 — 3 gold, 6 silver, 21 bronze"
+        },
+        {
+          "answer": "Qatar",
+          "display": "#8 — 3 gold, 2 silver, 1 bronze"
+        },
+        {
+          "answer": "Thailand",
+          "display": "#9 — 2 gold, 7 silver, 8 bronze"
+        },
+        {
+          "answer": "Malaysia",
+          "display": "#10 — 2 gold, 2 silver, 4 bronze"
+        }
+      ]
+    },
+    {
+      "category": "sports/multi-sport/asian-games",
+      "question": "Top 7 nations in the 1994 Asian Games (Hiroshima) medal table (ranked by gold medals, then silver, then bronze)",
+      "cutoff": 7,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1379588065 | table 4 | name: Nation | value: Rank | where: Nation!~Remaining | order: asc",
+      "tags": [
+        "asian-games",
+        "medals",
+        "nations",
+        "1994"
+      ],
+      "answers": [
+        {
+          "answer": "China",
+          "display": "#1 — 125 gold, 83 silver, 58 bronze",
+          "aliases": [
+            "PRC"
+          ]
+        },
+        {
+          "answer": "Japan",
+          "display": "#2 — 64 gold, 75 silver, 79 bronze"
+        },
+        {
+          "answer": "South Korea",
+          "display": "#3 — 63 gold, 56 silver, 64 bronze",
+          "aliases": [
+            "Korea"
+          ]
+        },
+        {
+          "answer": "Kazakhstan",
+          "display": "#4 — 27 gold, 25 silver, 27 bronze"
+        },
+        {
+          "answer": "Uzbekistan",
+          "display": "#5 — 11 gold, 12 silver, 19 bronze"
+        },
+        {
+          "answer": "Iran",
+          "display": "#6 — 9 gold, 9 silver, 8 bronze",
+          "aliases": [
+            "IR Iran"
+          ]
+        },
+        {
+          "answer": "Chinese Taipei",
+          "display": "#7 — 7 gold, 13 silver, 24 bronze",
+          "aliases": [
+            "Taiwan"
+          ]
+        },
+        {
+          "answer": "India",
+          "display": "#8 — 4 gold, 3 silver, 16 bronze"
+        },
+        {
+          "answer": "Malaysia",
+          "display": "#9 — 4 gold, 2 silver, 13 bronze"
+        },
+        {
+          "answer": "Qatar",
+          "display": "#10 — 4 gold, 1 silver, 5 bronze"
+        }
+      ]
+    },
+    {
+      "category": "sports/multi-sport/asian-games",
+      "question": "Top 7 nations in the 1998 Asian Games (Bangkok) medal table (ranked by gold medals, then silver, then bronze)",
+      "cutoff": 7,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1360314048 | table 4 | name: Nation | value: Rank | where: Nation!~Remaining | order: asc",
+      "tags": [
+        "asian-games",
+        "medals",
+        "nations",
+        "1998"
+      ],
+      "answers": [
+        {
+          "answer": "China",
+          "display": "#1 — 129 gold, 78 silver, 67 bronze",
+          "aliases": [
+            "PRC"
+          ]
+        },
+        {
+          "answer": "South Korea",
+          "display": "#2 — 65 gold, 46 silver, 53 bronze",
+          "aliases": [
+            "Korea"
+          ]
+        },
+        {
+          "answer": "Japan",
+          "display": "#3 — 52 gold, 61 silver, 68 bronze"
+        },
+        {
+          "answer": "Thailand",
+          "display": "#4 — 24 gold, 26 silver, 40 bronze"
+        },
+        {
+          "answer": "Kazakhstan",
+          "display": "#5 — 24 gold, 24 silver, 30 bronze"
+        },
+        {
+          "answer": "Chinese Taipei",
+          "display": "#6 — 19 gold, 17 silver, 41 bronze",
+          "aliases": [
+            "Taiwan"
+          ]
+        },
+        {
+          "answer": "Iran",
+          "display": "#7 — 10 gold, 11 silver, 13 bronze",
+          "aliases": [
+            "IR Iran"
+          ]
+        },
+        {
+          "answer": "North Korea",
+          "display": "#8 — 7 gold, 14 silver, 12 bronze",
+          "aliases": [
+            "DPR Korea"
+          ]
+        },
+        {
+          "answer": "India",
+          "display": "#9 — 7 gold, 11 silver, 17 bronze"
+        },
+        {
+          "answer": "Uzbekistan",
+          "display": "#10 — 6 gold, 22 silver, 12 bronze"
+        }
+      ]
+    },
+    {
+      "category": "sports/multi-sport/asian-games",
+      "question": "Top 7 nations in the 2002 Asian Games (Busan) medal table (ranked by gold medals, then silver, then bronze)",
+      "cutoff": 7,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1377426485 | table 13 | name: Nation | value: Rank | where: Nation!~Remaining | order: asc",
+      "tags": [
+        "asian-games",
+        "medals",
+        "nations",
+        "2002"
+      ],
+      "answers": [
+        {
+          "answer": "China",
+          "display": "#1 — 150 gold, 84 silver, 74 bronze",
+          "aliases": [
+            "PRC"
+          ]
+        },
+        {
+          "answer": "South Korea",
+          "display": "#2 — 96 gold, 80 silver, 84 bronze",
+          "aliases": [
+            "Korea"
+          ]
+        },
+        {
+          "answer": "Japan",
+          "display": "#3 — 44 gold, 73 silver, 72 bronze"
+        },
+        {
+          "answer": "Kazakhstan",
+          "display": "#4 — 20 gold, 26 silver, 30 bronze"
+        },
+        {
+          "answer": "Uzbekistan",
+          "display": "#5 — 15 gold, 12 silver, 24 bronze"
+        },
+        {
+          "answer": "Thailand",
+          "display": "#6 — 14 gold, 19 silver, 10 bronze"
+        },
+        {
+          "answer": "India",
+          "display": "#7 — 11 gold, 12 silver, 13 bronze"
+        },
+        {
+          "answer": "Chinese Taipei",
+          "display": "#8 — 10 gold, 17 silver, 25 bronze",
+          "aliases": [
+            "Taiwan"
+          ]
+        },
+        {
+          "answer": "North Korea",
+          "display": "#9 — 9 gold, 11 silver, 13 bronze",
+          "aliases": [
+            "DPR Korea"
+          ]
+        },
+        {
+          "answer": "Iran",
+          "display": "#10 — 8 gold, 14 silver, 14 bronze",
+          "aliases": [
+            "IR Iran"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/multi-sport/asian-games",
+      "question": "Top 7 nations in the 2006 Asian Games (Doha) medal table (ranked by gold medals, then silver, then bronze)",
+      "cutoff": 7,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1371978954 | table 7 | name: NOC | value: Rank | where: NOC!~Remaining | order: asc",
+      "tags": [
+        "asian-games",
+        "medals",
+        "nations",
+        "2006"
+      ],
+      "answers": [
+        {
+          "answer": "China",
+          "display": "#1 — 165 gold, 88 silver, 63 bronze",
+          "aliases": [
+            "PRC"
+          ]
+        },
+        {
+          "answer": "South Korea",
+          "display": "#2 — 58 gold, 52 silver, 83 bronze",
+          "aliases": [
+            "Korea"
+          ]
+        },
+        {
+          "answer": "Japan",
+          "display": "#3 — 50 gold, 72 silver, 78 bronze"
+        },
+        {
+          "answer": "Kazakhstan",
+          "display": "#4 — 23 gold, 20 silver, 42 bronze"
+        },
+        {
+          "answer": "Thailand",
+          "display": "#5 — 13 gold, 15 silver, 26 bronze"
+        },
+        {
+          "answer": "Iran",
+          "display": "#6 — 11 gold, 15 silver, 22 bronze",
+          "aliases": [
+            "IR Iran"
+          ]
+        },
+        {
+          "answer": "Uzbekistan",
+          "display": "#7 — 11 gold, 14 silver, 15 bronze"
+        },
+        {
+          "answer": "India",
+          "display": "#8 — 10 gold, 17 silver, 26 bronze"
+        },
+        {
+          "answer": "Qatar",
+          "display": "#9 — 9 gold, 12 silver, 11 bronze"
+        },
+        {
+          "answer": "Chinese Taipei",
+          "display": "#10 — 9 gold, 10 silver, 27 bronze",
+          "aliases": [
+            "Taiwan"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/multi-sport/asian-games",
+      "question": "Top 7 nations in the 2010 Asian Games (Guangzhou) medal table (ranked by gold medals, then silver, then bronze)",
+      "cutoff": 7,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1376411319 | table 6 | name: NOC | value: Rank | where: NOC!~Remaining | order: asc",
+      "tags": [
+        "asian-games",
+        "medals",
+        "nations",
+        "2010"
+      ],
+      "answers": [
+        {
+          "answer": "China",
+          "display": "#1 — 199 gold, 119 silver, 98 bronze",
+          "aliases": [
+            "PRC"
+          ]
+        },
+        {
+          "answer": "South Korea",
+          "display": "#2 — 76 gold, 65 silver, 91 bronze",
+          "aliases": [
+            "Korea"
+          ]
+        },
+        {
+          "answer": "Japan",
+          "display": "#3 — 48 gold, 74 silver, 94 bronze"
+        },
+        {
+          "answer": "Iran",
+          "display": "#4 — 20 gold, 15 silver, 24 bronze",
+          "aliases": [
+            "IR Iran"
+          ]
+        },
+        {
+          "answer": "Kazakhstan",
+          "display": "#5 — 18 gold, 23 silver, 38 bronze"
+        },
+        {
+          "answer": "India",
+          "display": "#6 — 14 gold, 17 silver, 34 bronze"
+        },
+        {
+          "answer": "Chinese Taipei",
+          "display": "#7 — 13 gold, 16 silver, 38 bronze",
+          "aliases": [
+            "Taiwan"
+          ]
+        },
+        {
+          "answer": "Uzbekistan",
+          "display": "#8 — 11 gold, 22 silver, 23 bronze"
+        },
+        {
+          "answer": "Thailand",
+          "display": "#9 — 11 gold, 9 silver, 32 bronze"
+        },
+        {
+          "answer": "Malaysia",
+          "display": "#10 — 9 gold, 18 silver, 14 bronze"
+        }
+      ]
+    },
+    {
+      "category": "sports/multi-sport/asian-games",
+      "question": "Top 7 nations in the 2014 Asian Games (Incheon) medal table (ranked by gold medals, then silver, then bronze)",
+      "cutoff": 7,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1377245288 | table 7 | name: Nation | value: Rank | where: Nation!~Remaining | order: asc",
+      "tags": [
+        "asian-games",
+        "medals",
+        "nations",
+        "2014"
+      ],
+      "answers": [
+        {
+          "answer": "China",
+          "display": "#1 — 151 gold, 109 silver, 85 bronze",
+          "aliases": [
+            "PRC"
+          ]
+        },
+        {
+          "answer": "South Korea",
+          "display": "#2 — 79 gold, 70 silver, 79 bronze",
+          "aliases": [
+            "Korea"
+          ]
+        },
+        {
+          "answer": "Japan",
+          "display": "#3 — 47 gold, 77 silver, 76 bronze"
+        },
+        {
+          "answer": "Kazakhstan",
+          "display": "#4 — 28 gold, 23 silver, 33 bronze"
+        },
+        {
+          "answer": "Iran",
+          "display": "#5 — 21 gold, 18 silver, 18 bronze",
+          "aliases": [
+            "IR Iran"
+          ]
+        },
+        {
+          "answer": "Thailand",
+          "display": "#6 — 12 gold, 7 silver, 28 bronze"
+        },
+        {
+          "answer": "North Korea",
+          "display": "#7 — 11 gold, 11 silver, 14 bronze",
+          "aliases": [
+            "DPR Korea"
+          ]
+        },
+        {
+          "answer": "India",
+          "display": "#8 — 11 gold, 9 silver, 37 bronze"
+        },
+        {
+          "answer": "Chinese Taipei",
+          "display": "#9 — 10 gold, 18 silver, 23 bronze",
+          "aliases": [
+            "Taiwan"
+          ]
+        },
+        {
+          "answer": "Qatar",
+          "display": "#10 — 10 gold, 0 silver, 4 bronze"
+        }
+      ]
+    },
+    {
+      "category": "sports/multi-sport/asian-games",
+      "question": "Top 7 nations in the 2018 Asian Games (Jakarta and Palembang) medal table (ranked by gold medals, then silver, then bronze)",
+      "cutoff": 7,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1375695410 | table 6 | name: NOC | value: Rank | where: NOC!~Remaining | order: asc",
+      "tags": [
+        "asian-games",
+        "medals",
+        "nations",
+        "2018"
+      ],
+      "answers": [
+        {
+          "answer": "China",
+          "display": "#1 — 132 gold, 92 silver, 65 bronze",
+          "aliases": [
+            "PRC"
+          ]
+        },
+        {
+          "answer": "Japan",
+          "display": "#2 — 75 gold, 56 silver, 74 bronze"
+        },
+        {
+          "answer": "South Korea",
+          "display": "#3 — 49 gold, 58 silver, 70 bronze",
+          "aliases": [
+            "Korea"
+          ]
+        },
+        {
+          "answer": "Indonesia",
+          "display": "#4 — 31 gold, 24 silver, 43 bronze"
+        },
+        {
+          "answer": "Uzbekistan",
+          "display": "#5 — 20 gold, 24 silver, 25 bronze"
+        },
+        {
+          "answer": "Iran",
+          "display": "#6 — 20 gold, 20 silver, 22 bronze",
+          "aliases": [
+            "IR Iran"
+          ]
+        },
+        {
+          "answer": "Chinese Taipei",
+          "display": "#7 — 17 gold, 19 silver, 31 bronze",
+          "aliases": [
+            "Taiwan"
+          ]
+        },
+        {
+          "answer": "India",
+          "display": "#8 — 16 gold, 23 silver, 31 bronze"
+        },
+        {
+          "answer": "Kazakhstan",
+          "display": "#9 — 15 gold, 17 silver, 44 bronze"
+        },
+        {
+          "answer": "North Korea",
+          "display": "#10 — 12 gold, 12 silver, 13 bronze",
+          "aliases": [
+            "DPR Korea"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/multi-sport/asian-games",
+      "question": "Top 7 nations in the 2023 Asian Games (Hangzhou) medal table (ranked by gold medals, then silver, then bronze)",
+      "cutoff": 7,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1376368750 | table 2 | name: Nation | value: Rank | where: Nation!~Remaining | order: asc",
+      "tags": [
+        "asian-games",
+        "medals",
+        "nations",
+        "2023"
+      ],
+      "answers": [
+        {
+          "answer": "China",
+          "display": "#1 — 201 gold, 111 silver, 71 bronze",
+          "aliases": [
+            "PRC"
+          ]
+        },
+        {
+          "answer": "Japan",
+          "display": "#2 — 52 gold, 67 silver, 69 bronze"
+        },
+        {
+          "answer": "South Korea",
+          "display": "#3 — 42 gold, 59 silver, 89 bronze",
+          "aliases": [
+            "Korea"
+          ]
+        },
+        {
+          "answer": "India",
+          "display": "#4 — 28 gold, 38 silver, 40 bronze"
+        },
+        {
+          "answer": "Uzbekistan",
+          "display": "#5 — 22 gold, 18 silver, 31 bronze"
+        },
+        {
+          "answer": "Chinese Taipei",
+          "display": "#6 — 19 gold, 20 silver, 28 bronze",
+          "aliases": [
+            "Taiwan"
+          ]
+        },
+        {
+          "answer": "Iran",
+          "display": "#7 — 13 gold, 21 silver, 20 bronze",
+          "aliases": [
+            "IR Iran"
+          ]
+        },
+        {
+          "answer": "Thailand",
+          "display": "#8 — 12 gold, 14 silver, 32 bronze"
+        },
+        {
+          "answer": "Bahrain",
+          "display": "#9 — 12 gold, 3 silver, 5 bronze"
+        },
+        {
+          "answer": "North Korea",
+          "display": "#10 — 11 gold, 18 silver, 10 bronze",
+          "aliases": [
+            "DPR Korea"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/multi-sport/pan-american-games",
+      "question": "Top 7 nations in the 2007 Pan American Games (Rio de Janeiro) medal table (ranked by gold medals, then silver, then bronze)",
+      "cutoff": 7,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1372653268 | table 2 | name: NOC | value: Rank | where: NOC!~Remaining | order: asc",
+      "tags": [
+        "pan-american-games",
+        "medals",
+        "nations",
+        "2007"
+      ],
+      "answers": [
+        {
+          "answer": "United States",
+          "display": "#1 — 97 gold, 88 silver, 52 bronze",
+          "aliases": [
+            "USA",
+            "US",
+            "United States of America",
+            "America"
+          ]
+        },
+        {
+          "answer": "Cuba",
+          "display": "#2 — 59 gold, 35 silver, 41 bronze"
+        },
+        {
+          "answer": "Brazil",
+          "display": "#3 — 52 gold, 40 silver, 65 bronze"
+        },
+        {
+          "answer": "Canada",
+          "display": "#4 — 39 gold, 44 silver, 55 bronze"
+        },
+        {
+          "answer": "Mexico",
+          "display": "#5 — 18 gold, 24 silver, 31 bronze"
+        },
+        {
+          "answer": "Colombia",
+          "display": "#6 — 14 gold, 20 silver, 13 bronze"
+        },
+        {
+          "answer": "Venezuela",
+          "display": "#7 — 12 gold, 23 silver, 35 bronze"
+        },
+        {
+          "answer": "Argentina",
+          "display": "#8 — 11 gold, 16 silver, 33 bronze"
+        },
+        {
+          "answer": "Dominican Republic",
+          "display": "#9 — 6 gold, 6 silver, 17 bronze",
+          "aliases": [
+            "DR"
+          ]
+        },
+        {
+          "answer": "Chile",
+          "display": "#10 — 6 gold, 5 silver, 9 bronze"
+        }
+      ]
+    },
+    {
+      "category": "sports/multi-sport/pan-american-games",
+      "question": "Top 7 nations in the 2011 Pan American Games (Guadalajara) medal table (ranked by gold medals, then silver, then bronze)",
+      "cutoff": 7,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1376055023 | table 4 | name: NOC | value: Rank | where: NOC!~Remaining | order: asc",
+      "tags": [
+        "pan-american-games",
+        "medals",
+        "nations",
+        "2011"
+      ],
+      "answers": [
+        {
+          "answer": "United States",
+          "display": "#1 — 92 gold, 79 silver, 66 bronze",
+          "aliases": [
+            "USA",
+            "US",
+            "United States of America",
+            "America"
+          ]
+        },
+        {
+          "answer": "Cuba",
+          "display": "#2 — 58 gold, 35 silver, 43 bronze"
+        },
+        {
+          "answer": "Brazil",
+          "display": "#3 — 48 gold, 35 silver, 58 bronze"
+        },
+        {
+          "answer": "Mexico",
+          "display": "#4 — 42 gold, 41 silver, 50 bronze"
+        },
+        {
+          "answer": "Canada",
+          "display": "#5 — 30 gold, 40 silver, 49 bronze"
+        },
+        {
+          "answer": "Colombia",
+          "display": "#6 — 24 gold, 25 silver, 35 bronze"
+        },
+        {
+          "answer": "Argentina",
+          "display": "#7 — 21 gold, 19 silver, 34 bronze"
+        },
+        {
+          "answer": "Venezuela",
+          "display": "#8 — 11 gold, 27 silver, 33 bronze"
+        },
+        {
+          "answer": "Dominican Republic",
+          "display": "#9 — 7 gold, 9 silver, 17 bronze",
+          "aliases": [
+            "DR"
+          ]
+        },
+        {
+          "answer": "Ecuador",
+          "display": "#10 — 7 gold, 8 silver, 9 bronze"
+        }
+      ]
+    },
+    {
+      "category": "sports/multi-sport/pan-american-games",
+      "question": "Top 7 nations in the 2015 Pan American Games (Toronto) medal table (ranked by gold medals, then silver, then bronze)",
+      "cutoff": 7,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1376054942 | table 7 | name: NOC | value: Rank | where: NOC!~Remaining | order: asc",
+      "tags": [
+        "pan-american-games",
+        "medals",
+        "nations",
+        "2015"
+      ],
+      "answers": [
+        {
+          "answer": "United States",
+          "display": "#1 — 103 gold, 82 silver, 80 bronze",
+          "aliases": [
+            "USA",
+            "US",
+            "United States of America",
+            "America"
+          ]
+        },
+        {
+          "answer": "Canada",
+          "display": "#2 — 78 gold, 70 silver, 71 bronze"
+        },
+        {
+          "answer": "Brazil",
+          "display": "#3 — 42 gold, 39 silver, 60 bronze"
+        },
+        {
+          "answer": "Cuba",
+          "display": "#4 — 36 gold, 27 silver, 34 bronze"
+        },
+        {
+          "answer": "Colombia",
+          "display": "#5 — 27 gold, 14 silver, 31 bronze"
+        },
+        {
+          "answer": "Mexico",
+          "display": "#6 — 22 gold, 30 silver, 43 bronze"
+        },
+        {
+          "answer": "Argentina",
+          "display": "#7 — 15 gold, 29 silver, 30 bronze"
+        },
+        {
+          "answer": "Venezuela",
+          "display": "#8 — 8 gold, 22 silver, 20 bronze"
+        },
+        {
+          "answer": "Ecuador",
+          "display": "#9 — 7 gold, 9 silver, 16 bronze"
+        },
+        {
+          "answer": "Guatemala",
+          "display": "#10 — 6 gold, 1 silver, 3 bronze"
+        }
+      ]
+    },
+    {
+      "category": "sports/multi-sport/pan-american-games",
+      "question": "Top 7 nations in the 2019 Pan American Games (Lima) medal table (ranked by gold medals, then silver, then bronze)",
+      "cutoff": 7,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1374859361 | table 6 | name: Nation | value: Rank | where: Nation!~Remaining | order: asc",
+      "tags": [
+        "pan-american-games",
+        "medals",
+        "nations",
+        "2019"
+      ],
+      "answers": [
+        {
+          "answer": "United States",
+          "display": "#1 — 122 gold, 87 silver, 84 bronze",
+          "aliases": [
+            "USA",
+            "US",
+            "United States of America",
+            "America"
+          ]
+        },
+        {
+          "answer": "Brazil",
+          "display": "#2 — 54 gold, 45 silver, 70 bronze"
+        },
+        {
+          "answer": "Mexico",
+          "display": "#3 — 37 gold, 39 silver, 62 bronze"
+        },
+        {
+          "answer": "Canada",
+          "display": "#4 — 35 gold, 65 silver, 52 bronze"
+        },
+        {
+          "answer": "Argentina",
+          "display": "#5 — 33 gold, 33 silver, 34 bronze"
+        },
+        {
+          "answer": "Cuba",
+          "display": "#6 — 33 gold, 28 silver, 39 bronze"
+        },
+        {
+          "answer": "Colombia",
+          "display": "#7 — 27 gold, 24 silver, 31 bronze"
+        },
+        {
+          "answer": "Chile",
+          "display": "#8 — 13 gold, 19 silver, 18 bronze"
+        },
+        {
+          "answer": "Dominican Republic",
+          "display": "#9 — 11 gold, 12 silver, 17 bronze",
+          "aliases": [
+            "DR"
+          ]
+        },
+        {
+          "answer": "Peru",
+          "display": "#10 — 11 gold, 7 silver, 23 bronze"
+        }
+      ]
+    },
+    {
+      "category": "sports/multi-sport/pan-american-games",
+      "question": "Top 7 nations in the 2023 Pan American Games (Santiago) medal table (ranked by gold medals, then silver, then bronze)",
+      "cutoff": 7,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1377232484 | table 5 | name: NOC | value: Rank | where: NOC!~Remaining | order: asc",
+      "tags": [
+        "pan-american-games",
+        "medals",
+        "nations",
+        "2023"
+      ],
+      "answers": [
+        {
+          "answer": "United States",
+          "display": "#1 — 124 gold, 75 silver, 87 bronze",
+          "aliases": [
+            "USA",
+            "US",
+            "United States of America",
+            "America"
+          ]
+        },
+        {
+          "answer": "Brazil",
+          "display": "#2 — 66 gold, 73 silver, 66 bronze"
+        },
+        {
+          "answer": "Mexico",
+          "display": "#3 — 52 gold, 38 silver, 52 bronze"
+        },
+        {
+          "answer": "Canada",
+          "display": "#4 — 46 gold, 55 silver, 63 bronze"
+        },
+        {
+          "answer": "Cuba",
+          "display": "#5 — 30 gold, 22 silver, 17 bronze"
+        },
+        {
+          "answer": "Colombia",
+          "display": "#6 — 29 gold, 38 silver, 34 bronze"
+        },
+        {
+          "answer": "Argentina",
+          "display": "#7 — 17 gold, 25 silver, 33 bronze"
+        },
+        {
+          "answer": "Chile",
+          "display": "#8 — 12 gold, 31 silver, 36 bronze"
+        },
+        {
+          "answer": "Peru",
+          "display": "#9 — 10 gold, 6 silver, 16 bronze"
+        },
+        {
+          "answer": "Venezuela",
+          "display": "#10 — 8 gold, 15 silver, 21 bronze"
+        }
+      ]
+    }
+  ]
+}

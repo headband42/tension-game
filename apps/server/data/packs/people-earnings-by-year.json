@@ -1,0 +1,1321 @@
+{
+  "categories": [
+    {
+      "path": "people",
+      "name": "People"
+    },
+    {
+      "path": "people/earnings",
+      "name": "Earnings"
+    },
+    {
+      "path": "people/earnings/athletes",
+      "name": "Highest-Paid Athletes"
+    }
+  ],
+  "questions": [
+    {
+      "category": "people/earnings/athletes",
+      "question": "Top 7 highest-paid athletes in the world (Forbes 2012 list, total earnings)",
+      "cutoff": 7,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1356292608 | table 16 | name: Name | value: Total",
+      "tags": [
+        "people",
+        "earnings",
+        "athletes",
+        "sport",
+        "2012"
+      ],
+      "answers": [
+        {
+          "answer": "Floyd Mayweather Jr.",
+          "display": "$85 million",
+          "aliases": [
+            "Mayweather",
+            "Floyd Mayweather"
+          ]
+        },
+        {
+          "answer": "Manny Pacquiao",
+          "display": "$62 million",
+          "aliases": [
+            "Pacquiao"
+          ]
+        },
+        {
+          "answer": "Tiger Woods",
+          "display": "$59.4 million",
+          "aliases": [
+            "Tiger"
+          ]
+        },
+        {
+          "answer": "LeBron James",
+          "display": "$53 million",
+          "aliases": [
+            "LeBron"
+          ]
+        },
+        {
+          "answer": "Roger Federer",
+          "display": "$52.7 million",
+          "aliases": [
+            "Federer"
+          ]
+        },
+        {
+          "answer": "Kobe Bryant",
+          "display": "$52.3 million",
+          "aliases": [
+            "Kobe"
+          ]
+        },
+        {
+          "answer": "Phil Mickelson",
+          "display": "$47.8 million",
+          "aliases": [
+            "Mickelson",
+            "Lefty"
+          ]
+        },
+        {
+          "answer": "David Beckham",
+          "display": "$46 million",
+          "aliases": [
+            "Beckham"
+          ]
+        },
+        {
+          "answer": "Cristiano Ronaldo",
+          "display": "$42.5 million",
+          "aliases": [
+            "Ronaldo"
+          ]
+        },
+        {
+          "answer": "Peyton Manning",
+          "display": "$42.4 million",
+          "aliases": [
+            "Manning"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "people/earnings/athletes",
+      "question": "Top 7 highest-paid athletes in the world (Forbes 2013 list, total earnings)",
+      "cutoff": 7,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1356292608 | table 15 | name: Name | value: Total",
+      "tags": [
+        "people",
+        "earnings",
+        "athletes",
+        "sport",
+        "2013"
+      ],
+      "answers": [
+        {
+          "answer": "Tiger Woods",
+          "display": "$78.1 million",
+          "aliases": [
+            "Tiger"
+          ]
+        },
+        {
+          "answer": "Roger Federer",
+          "display": "$71.5 million",
+          "aliases": [
+            "Federer"
+          ]
+        },
+        {
+          "answer": "Kobe Bryant",
+          "display": "$61.9 million",
+          "aliases": [
+            "Kobe"
+          ]
+        },
+        {
+          "answer": "LeBron James",
+          "display": "$59.8 million",
+          "aliases": [
+            "LeBron"
+          ]
+        },
+        {
+          "answer": "Drew Brees",
+          "display": "$51 million",
+          "aliases": [
+            "Brees"
+          ]
+        },
+        {
+          "answer": "Aaron Rodgers",
+          "display": "$49 million",
+          "aliases": [
+            "Rodgers"
+          ]
+        },
+        {
+          "answer": "Phil Mickelson",
+          "display": "$48.7 million",
+          "aliases": [
+            "Mickelson",
+            "Lefty"
+          ]
+        },
+        {
+          "answer": "David Beckham",
+          "display": "$47.2 million",
+          "aliases": [
+            "Beckham"
+          ]
+        },
+        {
+          "answer": "Cristiano Ronaldo",
+          "display": "$44 million",
+          "aliases": [
+            "Ronaldo"
+          ]
+        },
+        {
+          "answer": "Lionel Messi",
+          "display": "$41.3 million",
+          "aliases": [
+            "Messi"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "people/earnings/athletes",
+      "question": "Top 7 highest-paid athletes in the world (Forbes 2014 list, total earnings)",
+      "cutoff": 7,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1356292608 | table 14 | name: Name | value: Total",
+      "tags": [
+        "people",
+        "earnings",
+        "athletes",
+        "sport",
+        "2014"
+      ],
+      "answers": [
+        {
+          "answer": "Floyd Mayweather Jr.",
+          "display": "$105 million",
+          "aliases": [
+            "Mayweather",
+            "Floyd Mayweather"
+          ]
+        },
+        {
+          "answer": "Cristiano Ronaldo",
+          "display": "$80 million",
+          "aliases": [
+            "Ronaldo"
+          ]
+        },
+        {
+          "answer": "LeBron James",
+          "display": "$72.3 million",
+          "aliases": [
+            "LeBron"
+          ]
+        },
+        {
+          "answer": "Lionel Messi",
+          "display": "$64.7 million",
+          "aliases": [
+            "Messi"
+          ]
+        },
+        {
+          "answer": "Kobe Bryant",
+          "display": "$61.5 million",
+          "aliases": [
+            "Kobe"
+          ]
+        },
+        {
+          "answer": "Tiger Woods",
+          "display": "$61.2 million",
+          "aliases": [
+            "Tiger"
+          ]
+        },
+        {
+          "answer": "Roger Federer",
+          "display": "$56.2 million",
+          "aliases": [
+            "Federer"
+          ]
+        },
+        {
+          "answer": "Phil Mickelson",
+          "display": "$53.2 million",
+          "aliases": [
+            "Mickelson",
+            "Lefty"
+          ]
+        },
+        {
+          "answer": "Rafael Nadal",
+          "display": "$44.5 million",
+          "aliases": [
+            "Nadal"
+          ]
+        },
+        {
+          "answer": "Matt Ryan",
+          "display": "$43.8 million",
+          "aliases": [
+            "Ryan"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "people/earnings/athletes",
+      "question": "Top 7 highest-paid athletes in the world (Forbes 2015 list, total earnings)",
+      "cutoff": 7,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1356292608 | table 13 | name: Name | value: Total",
+      "tags": [
+        "people",
+        "earnings",
+        "athletes",
+        "sport",
+        "2015"
+      ],
+      "answers": [
+        {
+          "answer": "Floyd Mayweather Jr.",
+          "display": "$300 million",
+          "aliases": [
+            "Mayweather",
+            "Floyd Mayweather"
+          ]
+        },
+        {
+          "answer": "Manny Pacquiao",
+          "display": "$160 million",
+          "aliases": [
+            "Pacquiao"
+          ]
+        },
+        {
+          "answer": "Cristiano Ronaldo",
+          "display": "$79.6 million",
+          "aliases": [
+            "Ronaldo"
+          ]
+        },
+        {
+          "answer": "Lionel Messi",
+          "display": "$73.8 million",
+          "aliases": [
+            "Messi"
+          ]
+        },
+        {
+          "answer": "Roger Federer",
+          "display": "$67 million",
+          "aliases": [
+            "Federer"
+          ]
+        },
+        {
+          "answer": "LeBron James",
+          "display": "$64.8 million",
+          "aliases": [
+            "LeBron"
+          ]
+        },
+        {
+          "answer": "Kevin Durant",
+          "display": "$54.1 million",
+          "aliases": [
+            "Durant"
+          ]
+        },
+        {
+          "answer": "Phil Mickelson",
+          "display": "$50.8 million",
+          "aliases": [
+            "Mickelson",
+            "Lefty"
+          ]
+        },
+        {
+          "answer": "Tiger Woods",
+          "display": "$50.6 million",
+          "aliases": [
+            "Tiger"
+          ]
+        },
+        {
+          "answer": "Kobe Bryant",
+          "display": "$49.5 million",
+          "aliases": [
+            "Kobe"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "people/earnings/athletes",
+      "question": "Top 7 highest-paid athletes in the world (Forbes 2016 list, total earnings)",
+      "cutoff": 7,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1356292608 | table 12 | name: Name | value: Total",
+      "tags": [
+        "people",
+        "earnings",
+        "athletes",
+        "sport",
+        "2016"
+      ],
+      "answers": [
+        {
+          "answer": "Cristiano Ronaldo",
+          "display": "$88 million",
+          "aliases": [
+            "Ronaldo"
+          ]
+        },
+        {
+          "answer": "Lionel Messi",
+          "display": "$81.4 million",
+          "aliases": [
+            "Messi"
+          ]
+        },
+        {
+          "answer": "LeBron James",
+          "display": "$77.2 million",
+          "aliases": [
+            "LeBron"
+          ]
+        },
+        {
+          "answer": "Roger Federer",
+          "display": "$67.8 million",
+          "aliases": [
+            "Federer"
+          ]
+        },
+        {
+          "answer": "Kevin Durant",
+          "display": "$56.2 million",
+          "aliases": [
+            "Durant"
+          ]
+        },
+        {
+          "answer": "Novak Djokovic",
+          "display": "$55.8 million",
+          "aliases": [
+            "Djokovic"
+          ]
+        },
+        {
+          "answer": "Cam Newton",
+          "display": "$53.1 million",
+          "aliases": [
+            "Newton"
+          ]
+        },
+        {
+          "answer": "Phil Mickelson",
+          "display": "$52.9 million",
+          "aliases": [
+            "Mickelson",
+            "Lefty"
+          ]
+        },
+        {
+          "answer": "Jordan Spieth",
+          "display": "$52.8 million",
+          "aliases": [
+            "Spieth"
+          ]
+        },
+        {
+          "answer": "Kobe Bryant",
+          "display": "$50 million",
+          "aliases": [
+            "Kobe"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "people/earnings/athletes",
+      "question": "Top 7 highest-paid athletes in the world (Forbes 2017 list, total earnings)",
+      "cutoff": 7,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1356292608 | table 11 | name: Name | value: Total | note: Andrew Luck and Rory McIlroy both $50 million at #6 and #7 (table order); no tie at the cutoff",
+      "tags": [
+        "people",
+        "earnings",
+        "athletes",
+        "sport",
+        "2017"
+      ],
+      "answers": [
+        {
+          "answer": "Cristiano Ronaldo",
+          "display": "$93 million",
+          "aliases": [
+            "Ronaldo"
+          ]
+        },
+        {
+          "answer": "LeBron James",
+          "display": "$86.2 million",
+          "aliases": [
+            "LeBron"
+          ]
+        },
+        {
+          "answer": "Lionel Messi",
+          "display": "$80 million",
+          "aliases": [
+            "Messi"
+          ]
+        },
+        {
+          "answer": "Roger Federer",
+          "display": "$64 million",
+          "aliases": [
+            "Federer"
+          ]
+        },
+        {
+          "answer": "Kevin Durant",
+          "display": "$60.6 million",
+          "aliases": [
+            "Durant"
+          ]
+        },
+        {
+          "answer": "Andrew Luck",
+          "display": "$50 million",
+          "aliases": [
+            "Luck"
+          ]
+        },
+        {
+          "answer": "Rory McIlroy",
+          "display": "$50 million",
+          "aliases": [
+            "McIlroy"
+          ]
+        },
+        {
+          "answer": "Stephen Curry",
+          "display": "$47.3 million",
+          "aliases": [
+            "Steph Curry",
+            "Curry"
+          ]
+        },
+        {
+          "answer": "James Harden",
+          "display": "$46.6 million",
+          "aliases": [
+            "Harden"
+          ]
+        },
+        {
+          "answer": "Lewis Hamilton",
+          "display": "$46 million",
+          "aliases": [
+            "Hamilton"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "people/earnings/athletes",
+      "question": "Top 7 highest-paid athletes in the world (Forbes 2018 list, total earnings)",
+      "cutoff": 7,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1356292608 | table 10 | name: Name | value: Total",
+      "tags": [
+        "people",
+        "earnings",
+        "athletes",
+        "sport",
+        "2018"
+      ],
+      "answers": [
+        {
+          "answer": "Floyd Mayweather Jr.",
+          "display": "$285 million",
+          "aliases": [
+            "Mayweather",
+            "Floyd Mayweather"
+          ]
+        },
+        {
+          "answer": "Lionel Messi",
+          "display": "$111 million",
+          "aliases": [
+            "Messi"
+          ]
+        },
+        {
+          "answer": "Cristiano Ronaldo",
+          "display": "$108 million",
+          "aliases": [
+            "Ronaldo"
+          ]
+        },
+        {
+          "answer": "Conor McGregor",
+          "display": "$99 million",
+          "aliases": [
+            "McGregor"
+          ]
+        },
+        {
+          "answer": "Neymar",
+          "display": "$90 million"
+        },
+        {
+          "answer": "LeBron James",
+          "display": "$85.5 million",
+          "aliases": [
+            "LeBron"
+          ]
+        },
+        {
+          "answer": "Roger Federer",
+          "display": "$77.2 million",
+          "aliases": [
+            "Federer"
+          ]
+        },
+        {
+          "answer": "Stephen Curry",
+          "display": "$76.9 million",
+          "aliases": [
+            "Steph Curry",
+            "Curry"
+          ]
+        },
+        {
+          "answer": "Matt Ryan",
+          "display": "$67.3 million",
+          "aliases": [
+            "Ryan"
+          ]
+        },
+        {
+          "answer": "Matthew Stafford",
+          "display": "$59.5 million",
+          "aliases": [
+            "Stafford"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "people/earnings/athletes",
+      "question": "Top 7 highest-paid athletes in the world (Forbes 2019 list, total earnings)",
+      "cutoff": 7,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1356292608 | table 9 | name: Name | value: Total",
+      "tags": [
+        "people",
+        "earnings",
+        "athletes",
+        "sport",
+        "2019"
+      ],
+      "answers": [
+        {
+          "answer": "Lionel Messi",
+          "display": "$127 million",
+          "aliases": [
+            "Messi"
+          ]
+        },
+        {
+          "answer": "Cristiano Ronaldo",
+          "display": "$109 million",
+          "aliases": [
+            "Ronaldo"
+          ]
+        },
+        {
+          "answer": "Neymar",
+          "display": "$105 million"
+        },
+        {
+          "answer": "Canelo Álvarez",
+          "display": "$94 million",
+          "aliases": [
+            "Canelo"
+          ]
+        },
+        {
+          "answer": "Roger Federer",
+          "display": "$93.4 million",
+          "aliases": [
+            "Federer"
+          ]
+        },
+        {
+          "answer": "Russell Wilson",
+          "display": "$89.5 million",
+          "aliases": [
+            "Wilson"
+          ]
+        },
+        {
+          "answer": "Aaron Rodgers",
+          "display": "$89.3 million",
+          "aliases": [
+            "Rodgers"
+          ]
+        },
+        {
+          "answer": "LeBron James",
+          "display": "$89 million",
+          "aliases": [
+            "LeBron"
+          ]
+        },
+        {
+          "answer": "Stephen Curry",
+          "display": "$79.8 million",
+          "aliases": [
+            "Steph Curry",
+            "Curry"
+          ]
+        },
+        {
+          "answer": "Kevin Durant",
+          "display": "$65.4 million",
+          "aliases": [
+            "Durant"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "people/earnings/athletes",
+      "question": "Top 7 highest-paid athletes in the world (Forbes 2020 list, total earnings)",
+      "cutoff": 7,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1356292608 | table 7 | name: Name | value: Total",
+      "tags": [
+        "people",
+        "earnings",
+        "athletes",
+        "sport",
+        "2020"
+      ],
+      "answers": [
+        {
+          "answer": "Roger Federer",
+          "display": "$106.3 million",
+          "aliases": [
+            "Federer"
+          ]
+        },
+        {
+          "answer": "Cristiano Ronaldo",
+          "display": "$105 million",
+          "aliases": [
+            "Ronaldo"
+          ]
+        },
+        {
+          "answer": "Lionel Messi",
+          "display": "$104 million",
+          "aliases": [
+            "Messi"
+          ]
+        },
+        {
+          "answer": "Neymar",
+          "display": "$95.5 million"
+        },
+        {
+          "answer": "LeBron James",
+          "display": "$88.2 million",
+          "aliases": [
+            "LeBron"
+          ]
+        },
+        {
+          "answer": "Stephen Curry",
+          "display": "$74.4 million",
+          "aliases": [
+            "Steph Curry",
+            "Curry"
+          ]
+        },
+        {
+          "answer": "Kevin Durant",
+          "display": "$63.9 million",
+          "aliases": [
+            "Durant"
+          ]
+        },
+        {
+          "answer": "Tiger Woods",
+          "display": "$62.3 million",
+          "aliases": [
+            "Tiger"
+          ]
+        },
+        {
+          "answer": "Kirk Cousins",
+          "display": "$60.5 million",
+          "aliases": [
+            "Cousins"
+          ]
+        },
+        {
+          "answer": "Carson Wentz",
+          "display": "$59.1 million",
+          "aliases": [
+            "Wentz"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "people/earnings/athletes",
+      "question": "Top 7 highest-paid athletes in the world (Forbes 2021 list, total earnings)",
+      "cutoff": 7,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1356292608 | table 6 | name: Name | value: Total",
+      "tags": [
+        "people",
+        "earnings",
+        "athletes",
+        "sport",
+        "2021"
+      ],
+      "answers": [
+        {
+          "answer": "Conor McGregor",
+          "display": "$180 million",
+          "aliases": [
+            "McGregor"
+          ]
+        },
+        {
+          "answer": "Lionel Messi",
+          "display": "$130 million",
+          "aliases": [
+            "Messi"
+          ]
+        },
+        {
+          "answer": "Cristiano Ronaldo",
+          "display": "$120 million",
+          "aliases": [
+            "Ronaldo"
+          ]
+        },
+        {
+          "answer": "Dak Prescott",
+          "display": "$107.5 million",
+          "aliases": [
+            "Prescott"
+          ]
+        },
+        {
+          "answer": "LeBron James",
+          "display": "$96.5 million",
+          "aliases": [
+            "LeBron"
+          ]
+        },
+        {
+          "answer": "Neymar",
+          "display": "$95 million"
+        },
+        {
+          "answer": "Roger Federer",
+          "display": "$90 million",
+          "aliases": [
+            "Federer"
+          ]
+        },
+        {
+          "answer": "Lewis Hamilton",
+          "display": "$82 million",
+          "aliases": [
+            "Hamilton"
+          ]
+        },
+        {
+          "answer": "Tom Brady",
+          "display": "$76 million",
+          "aliases": [
+            "Brady"
+          ]
+        },
+        {
+          "answer": "Kevin Durant",
+          "display": "$75 million",
+          "aliases": [
+            "Durant"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "people/earnings/athletes",
+      "question": "Top 7 highest-paid athletes in the world (Forbes 2022 list, total earnings)",
+      "cutoff": 7,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1356292608 | table 5 | name: Name | value: Total",
+      "tags": [
+        "people",
+        "earnings",
+        "athletes",
+        "sport",
+        "2022"
+      ],
+      "answers": [
+        {
+          "answer": "Lionel Messi",
+          "display": "$130 million",
+          "aliases": [
+            "Messi"
+          ]
+        },
+        {
+          "answer": "LeBron James",
+          "display": "$121.2 million",
+          "aliases": [
+            "LeBron"
+          ]
+        },
+        {
+          "answer": "Cristiano Ronaldo",
+          "display": "$115 million",
+          "aliases": [
+            "Ronaldo"
+          ]
+        },
+        {
+          "answer": "Neymar",
+          "display": "$95 million"
+        },
+        {
+          "answer": "Stephen Curry",
+          "display": "$92.8 million",
+          "aliases": [
+            "Steph Curry",
+            "Curry"
+          ]
+        },
+        {
+          "answer": "Kevin Durant",
+          "display": "$92.1 million",
+          "aliases": [
+            "Durant"
+          ]
+        },
+        {
+          "answer": "Roger Federer",
+          "display": "$90.7 million",
+          "aliases": [
+            "Federer"
+          ]
+        },
+        {
+          "answer": "Canelo Álvarez",
+          "display": "$90 million",
+          "aliases": [
+            "Canelo"
+          ]
+        },
+        {
+          "answer": "Tom Brady",
+          "display": "$83.9 million",
+          "aliases": [
+            "Brady"
+          ]
+        },
+        {
+          "answer": "Giannis Antetokounmpo",
+          "display": "$80.9 million",
+          "aliases": [
+            "Giannis"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "people/earnings/athletes",
+      "question": "Top 7 highest-paid athletes in the world (Forbes 2023 list, total earnings)",
+      "cutoff": 7,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1356292608 | table 4 | name: Name | value: Total",
+      "tags": [
+        "people",
+        "earnings",
+        "athletes",
+        "sport",
+        "2023"
+      ],
+      "answers": [
+        {
+          "answer": "Cristiano Ronaldo",
+          "display": "$136 million",
+          "aliases": [
+            "Ronaldo"
+          ]
+        },
+        {
+          "answer": "Lionel Messi",
+          "display": "$130 million",
+          "aliases": [
+            "Messi"
+          ]
+        },
+        {
+          "answer": "Kylian Mbappé",
+          "display": "$120 million",
+          "aliases": [
+            "Mbappe"
+          ]
+        },
+        {
+          "answer": "LeBron James",
+          "display": "$119.5 million",
+          "aliases": [
+            "LeBron"
+          ]
+        },
+        {
+          "answer": "Canelo Álvarez",
+          "display": "$110 million",
+          "aliases": [
+            "Canelo"
+          ]
+        },
+        {
+          "answer": "Dustin Johnson",
+          "display": "$107 million"
+        },
+        {
+          "answer": "Phil Mickelson",
+          "display": "$106 million",
+          "aliases": [
+            "Mickelson",
+            "Lefty"
+          ]
+        },
+        {
+          "answer": "Stephen Curry",
+          "display": "$100.4 million",
+          "aliases": [
+            "Steph Curry",
+            "Curry"
+          ]
+        },
+        {
+          "answer": "Roger Federer",
+          "display": "$95.1 million",
+          "aliases": [
+            "Federer"
+          ]
+        },
+        {
+          "answer": "Kevin Durant",
+          "display": "$89.1 million",
+          "aliases": [
+            "Durant"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "people/earnings/athletes",
+      "question": "Top 7 highest-paid athletes in the world (Forbes 2024 list, total earnings)",
+      "cutoff": 7,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1356292608 | table 3 | name: Name | value: Total",
+      "tags": [
+        "people",
+        "earnings",
+        "athletes",
+        "sport",
+        "2024"
+      ],
+      "answers": [
+        {
+          "answer": "Cristiano Ronaldo",
+          "display": "$260 million",
+          "aliases": [
+            "Ronaldo"
+          ]
+        },
+        {
+          "answer": "Jon Rahm",
+          "display": "$218 million",
+          "aliases": [
+            "Rahm"
+          ]
+        },
+        {
+          "answer": "Lionel Messi",
+          "display": "$135 million",
+          "aliases": [
+            "Messi"
+          ]
+        },
+        {
+          "answer": "LeBron James",
+          "display": "$128.2 million",
+          "aliases": [
+            "LeBron"
+          ]
+        },
+        {
+          "answer": "Giannis Antetokounmpo",
+          "display": "$111 million",
+          "aliases": [
+            "Giannis"
+          ]
+        },
+        {
+          "answer": "Kylian Mbappé",
+          "display": "$110 million",
+          "aliases": [
+            "Mbappe"
+          ]
+        },
+        {
+          "answer": "Neymar",
+          "display": "$108 million"
+        },
+        {
+          "answer": "Karim Benzema",
+          "display": "$106 million",
+          "aliases": [
+            "Benzema"
+          ]
+        },
+        {
+          "answer": "Stephen Curry",
+          "display": "$102 million",
+          "aliases": [
+            "Steph Curry",
+            "Curry"
+          ]
+        },
+        {
+          "answer": "Lamar Jackson",
+          "display": "$100.5 million",
+          "aliases": [
+            "Jackson"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "people/earnings/athletes",
+      "question": "Top 7 highest-paid athletes in the world (Forbes 2025 list, total earnings)",
+      "cutoff": 7,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1356292608 | table 2 | name: Name | value: Total",
+      "tags": [
+        "people",
+        "earnings",
+        "athletes",
+        "sport",
+        "2025"
+      ],
+      "answers": [
+        {
+          "answer": "Cristiano Ronaldo",
+          "display": "$275 million",
+          "aliases": [
+            "Ronaldo"
+          ]
+        },
+        {
+          "answer": "Stephen Curry",
+          "display": "$156 million",
+          "aliases": [
+            "Steph Curry",
+            "Curry"
+          ]
+        },
+        {
+          "answer": "Tyson Fury",
+          "display": "$146 million",
+          "aliases": [
+            "Fury"
+          ]
+        },
+        {
+          "answer": "Dak Prescott",
+          "display": "$137 million",
+          "aliases": [
+            "Prescott"
+          ]
+        },
+        {
+          "answer": "Lionel Messi",
+          "display": "$135 million",
+          "aliases": [
+            "Messi"
+          ]
+        },
+        {
+          "answer": "LeBron James",
+          "display": "$133.8 million",
+          "aliases": [
+            "LeBron"
+          ]
+        },
+        {
+          "answer": "Juan Soto",
+          "display": "$114 million",
+          "aliases": [
+            "Soto"
+          ]
+        },
+        {
+          "answer": "Karim Benzema",
+          "display": "$104 million",
+          "aliases": [
+            "Benzema"
+          ]
+        },
+        {
+          "answer": "Shohei Ohtani",
+          "display": "$102.5 million",
+          "aliases": [
+            "Ohtani"
+          ]
+        },
+        {
+          "answer": "Kevin Durant",
+          "display": "$101.4 million",
+          "aliases": [
+            "Durant"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "people/earnings/athletes",
+      "question": "Top 7 highest-paid athletes in the world (Forbes 2026 list, total earnings)",
+      "cutoff": 7,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1356292608 | table 1 | name: Name | value: Total",
+      "tags": [
+        "people",
+        "earnings",
+        "athletes",
+        "sport",
+        "2026"
+      ],
+      "answers": [
+        {
+          "answer": "Cristiano Ronaldo",
+          "display": "$300 million",
+          "aliases": [
+            "Ronaldo"
+          ]
+        },
+        {
+          "answer": "Canelo Álvarez",
+          "display": "$170 million",
+          "aliases": [
+            "Canelo"
+          ]
+        },
+        {
+          "answer": "Lionel Messi",
+          "display": "$140 million",
+          "aliases": [
+            "Messi"
+          ]
+        },
+        {
+          "answer": "LeBron James",
+          "display": "$137.8 million",
+          "aliases": [
+            "LeBron"
+          ]
+        },
+        {
+          "answer": "Shohei Ohtani",
+          "display": "$127.6 million",
+          "aliases": [
+            "Ohtani"
+          ]
+        },
+        {
+          "answer": "Stephen Curry",
+          "display": "$124.7 million",
+          "aliases": [
+            "Steph Curry",
+            "Curry"
+          ]
+        },
+        {
+          "answer": "Jon Rahm",
+          "display": "$107 million",
+          "aliases": [
+            "Rahm"
+          ]
+        },
+        {
+          "answer": "Karim Benzema",
+          "display": "$104 million",
+          "aliases": [
+            "Benzema"
+          ]
+        },
+        {
+          "answer": "Kevin Durant",
+          "display": "$103.8 million",
+          "aliases": [
+            "Durant"
+          ]
+        },
+        {
+          "answer": "Lewis Hamilton",
+          "display": "$100 million",
+          "aliases": [
+            "Hamilton"
+          ]
+        }
+      ]
+    }
+  ]
+}

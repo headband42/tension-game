@@ -1,0 +1,426 @@
+{
+  "categories": [
+    {
+      "path": "society/education",
+      "name": "Education"
+    },
+    {
+      "path": "society/education/universities",
+      "name": "Universities"
+    }
+  ],
+  "questions": [
+    {
+      "category": "society/education/universities",
+      "difficulty": 2,
+      "submitter": "claude",
+      "question": "Top 10 universities in the QS World University Rankings 2025",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1379351092 | table 1 | name: Institution | value: 2025 | order: asc",
+      "tags": [
+        "education",
+        "universities",
+        "rankings",
+        "qs"
+      ],
+      "answers": [
+        {
+          "answer": "MIT",
+          "display": "#1",
+          "aliases": [
+            "Massachusetts Institute of Technology"
+          ]
+        },
+        {
+          "answer": "Imperial College London",
+          "display": "#2",
+          "aliases": [
+            "Imperial"
+          ]
+        },
+        {
+          "answer": "University of Oxford",
+          "display": "#3",
+          "aliases": [
+            "Oxford"
+          ]
+        },
+        {
+          "answer": "Harvard University",
+          "display": "#4",
+          "aliases": [
+            "Harvard"
+          ]
+        },
+        {
+          "answer": "University of Cambridge",
+          "display": "#5",
+          "aliases": [
+            "Cambridge"
+          ]
+        },
+        {
+          "answer": "Stanford University",
+          "display": "#6",
+          "aliases": [
+            "Stanford"
+          ]
+        },
+        {
+          "answer": "ETH Zurich",
+          "display": "#7",
+          "aliases": [
+            "ETH"
+          ]
+        },
+        {
+          "answer": "National University of Singapore",
+          "display": "#8",
+          "aliases": [
+            "NUS"
+          ]
+        },
+        {
+          "answer": "University College London",
+          "display": "#9",
+          "aliases": [
+            "UCL"
+          ]
+        },
+        {
+          "answer": "California Institute of Technology",
+          "display": "#10",
+          "aliases": [
+            "Caltech"
+          ]
+        },
+        {
+          "answer": "University of Pennsylvania",
+          "display": "#11",
+          "aliases": [
+            "Penn",
+            "UPenn"
+          ]
+        },
+        {
+          "answer": "University of California, Berkeley",
+          "display": "#12",
+          "aliases": [
+            "UC Berkeley",
+            "Berkeley"
+          ]
+        },
+        {
+          "answer": "University of Melbourne",
+          "display": "#13",
+          "aliases": [
+            "Melbourne"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "society/education/universities",
+      "difficulty": 2,
+      "submitter": "claude",
+      "question": "Top 10 universities in the QS World University Rankings 2024",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1379351092 | table 1 | name: Institution | value: 2024 | order: asc",
+      "tags": [
+        "education",
+        "universities",
+        "rankings",
+        "qs"
+      ],
+      "answers": [
+        {
+          "answer": "MIT",
+          "display": "#1",
+          "aliases": [
+            "Massachusetts Institute of Technology"
+          ]
+        },
+        {
+          "answer": "University of Cambridge",
+          "display": "#2",
+          "aliases": [
+            "Cambridge"
+          ]
+        },
+        {
+          "answer": "University of Oxford",
+          "display": "#3",
+          "aliases": [
+            "Oxford"
+          ]
+        },
+        {
+          "answer": "Harvard University",
+          "display": "#4",
+          "aliases": [
+            "Harvard"
+          ]
+        },
+        {
+          "answer": "Stanford University",
+          "display": "#5",
+          "aliases": [
+            "Stanford"
+          ]
+        },
+        {
+          "answer": "Imperial College London",
+          "display": "#6",
+          "aliases": [
+            "Imperial"
+          ]
+        },
+        {
+          "answer": "ETH Zurich",
+          "display": "#7",
+          "aliases": [
+            "ETH"
+          ]
+        },
+        {
+          "answer": "National University of Singapore",
+          "display": "#8",
+          "aliases": [
+            "NUS"
+          ]
+        },
+        {
+          "answer": "University College London",
+          "display": "#9",
+          "aliases": [
+            "UCL"
+          ]
+        },
+        {
+          "answer": "University of California, Berkeley",
+          "display": "#10",
+          "aliases": [
+            "UC Berkeley",
+            "Berkeley"
+          ]
+        },
+        {
+          "answer": "University of Chicago",
+          "display": "#11",
+          "aliases": [
+            "UChicago",
+            "Chicago"
+          ]
+        },
+        {
+          "answer": "University of Pennsylvania",
+          "display": "#12",
+          "aliases": [
+            "Penn",
+            "UPenn"
+          ]
+        },
+        {
+          "answer": "Cornell University",
+          "display": "#13",
+          "aliases": [
+            "Cornell"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "society/education/universities",
+      "difficulty": 2,
+      "submitter": "claude",
+      "question": "Top 10 universities in the QS World University Rankings 2022",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1379351092 | table 1 | name: Institution | value: 2022 | order: asc",
+      "tags": [
+        "education",
+        "universities",
+        "rankings",
+        "qs"
+      ],
+      "answers": [
+        {
+          "answer": "MIT",
+          "display": "#1",
+          "aliases": [
+            "Massachusetts Institute of Technology"
+          ]
+        },
+        {
+          "answer": "University of Oxford",
+          "display": "#2",
+          "aliases": [
+            "Oxford"
+          ]
+        },
+        {
+          "answer": "Stanford University",
+          "display": "#3 (tied)",
+          "aliases": [
+            "Stanford"
+          ]
+        },
+        {
+          "answer": "University of Cambridge",
+          "display": "#3 (tied)",
+          "aliases": [
+            "Cambridge"
+          ]
+        },
+        {
+          "answer": "Harvard University",
+          "display": "#5",
+          "aliases": [
+            "Harvard"
+          ]
+        },
+        {
+          "answer": "California Institute of Technology",
+          "display": "#6",
+          "aliases": [
+            "Caltech"
+          ]
+        },
+        {
+          "answer": "Imperial College London",
+          "display": "#7",
+          "aliases": [
+            "Imperial"
+          ]
+        },
+        {
+          "answer": "ETH Zurich",
+          "display": "#8 (tied)",
+          "aliases": [
+            "ETH"
+          ]
+        },
+        {
+          "answer": "University College London",
+          "display": "#8 (tied)",
+          "aliases": [
+            "UCL"
+          ]
+        },
+        {
+          "answer": "University of Chicago",
+          "display": "#10",
+          "aliases": [
+            "UChicago",
+            "Chicago"
+          ]
+        },
+        {
+          "answer": "National University of Singapore",
+          "display": "#11",
+          "aliases": [
+            "NUS"
+          ]
+        },
+        {
+          "answer": "Nanyang Technological University",
+          "display": "#12",
+          "aliases": [
+            "NTU"
+          ]
+        },
+        {
+          "answer": "University of Pennsylvania",
+          "display": "#13",
+          "aliases": [
+            "Penn",
+            "UPenn"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "society/education/universities",
+      "difficulty": 3,
+      "submitter": "claude",
+      "question": "Top 7 universities in the Times Higher Education World University Rankings 2023",
+      "cutoff": 7,
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1376571943 | table 2 | name: Institution | value: 2023 | order: asc",
+      "tags": [
+        "education",
+        "universities",
+        "rankings",
+        "the"
+      ],
+      "answers": [
+        {
+          "answer": "University of Oxford",
+          "display": "#1",
+          "aliases": [
+            "Oxford"
+          ]
+        },
+        {
+          "answer": "Harvard University",
+          "display": "#2",
+          "aliases": [
+            "Harvard"
+          ]
+        },
+        {
+          "answer": "University of Cambridge",
+          "display": "#3",
+          "aliases": [
+            "Cambridge"
+          ]
+        },
+        {
+          "answer": "Stanford University",
+          "display": "#4",
+          "aliases": [
+            "Stanford"
+          ]
+        },
+        {
+          "answer": "MIT",
+          "display": "#5",
+          "aliases": [
+            "Massachusetts Institute of Technology"
+          ]
+        },
+        {
+          "answer": "California Institute of Technology",
+          "display": "#6",
+          "aliases": [
+            "Caltech"
+          ]
+        },
+        {
+          "answer": "Princeton University",
+          "display": "#7",
+          "aliases": [
+            "Princeton"
+          ]
+        },
+        {
+          "answer": "University of California, Berkeley",
+          "display": "#8",
+          "aliases": [
+            "UC Berkeley",
+            "Berkeley"
+          ]
+        },
+        {
+          "answer": "Yale University",
+          "display": "#9",
+          "aliases": [
+            "Yale"
+          ]
+        },
+        {
+          "answer": "Imperial College London",
+          "display": "#10",
+          "aliases": [
+            "Imperial"
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,175 @@
+{
+  "categories": [
+    {
+      "path": "tv/uk",
+      "name": "UK TV"
+    },
+    {
+      "path": "travel/tourism/uk-attractions",
+      "name": "UK attractions"
+    }
+  ],
+  "questions": [
+    {
+      "category": "travel/tourism/uk-attractions",
+      "question": "Top 10 most-visited attractions in the UK (free and paid; latest annual visitor figures, 2023–2025)",
+      "cutoff": 10,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1368350880 | table 1 | name: Museum | value: Visitors | note: figures are each attraction's latest year (2023, 2024 or 2025) as listed; the Museum column includes parks, castles and gardens",
+      "tags": [
+        "uk",
+        "tourism",
+        "attractions"
+      ],
+      "answers": [
+        {
+          "answer": "Natural History Museum",
+          "display": "7,116,929 visitors",
+          "aliases": [
+            "NHM"
+          ]
+        },
+        {
+          "answer": "British Museum",
+          "display": "6,479,952 visitors"
+        },
+        {
+          "answer": "Windsor Great Park",
+          "display": "4,978,299 visitors"
+        },
+        {
+          "answer": "Tate Modern",
+          "display": "4,514,266 visitors",
+          "aliases": [
+            "Tate"
+          ]
+        },
+        {
+          "answer": "National Gallery",
+          "display": "4,147,544 visitors"
+        },
+        {
+          "answer": "Southbank Centre",
+          "display": "3,423,648 visitors"
+        },
+        {
+          "answer": "Victoria and Albert Museum",
+          "display": "3,332,300 visitors",
+          "aliases": [
+            "V&A",
+            "V and A"
+          ]
+        },
+        {
+          "answer": "Somerset House",
+          "display": "2,895,010 visitors"
+        },
+        {
+          "answer": "Tower of London",
+          "display": "2,817,852 visitors",
+          "aliases": [
+            "Tower"
+          ]
+        },
+        {
+          "answer": "Science Museum",
+          "display": "2,640,417 visitors"
+        },
+        {
+          "answer": "Royal Museums Greenwich",
+          "display": "2,364,348 visitors"
+        },
+        {
+          "answer": "National Museum of Scotland",
+          "display": "2,318,305 visitors"
+        },
+        {
+          "answer": "Kew Gardens",
+          "display": "2,250,355 visitors",
+          "aliases": [
+            "Kew"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "tv/uk",
+      "question": "Top 10 longest-running British TV soap operas and drama series still on air (total years broadcast, as of 2026)",
+      "cutoff": 10,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1379216409 | table 1 | name: Title | value: No. of broadcast | where: Genre~[Dd]rama|[Ss]oap|[Dd]etective|[Mm]ystery | where: Airing between~present | note: years are the 'No. of broadcast years' column (broadcast years, gaps excluded); ranked by its first figure; on air means 'present' in Airing between",
+      "tags": [
+        "uk",
+        "tv",
+        "soaps",
+        "drama"
+      ],
+      "answers": [
+        {
+          "answer": "Coronation Street",
+          "display": "65–66 years",
+          "aliases": [
+            "Corrie"
+          ]
+        },
+        {
+          "answer": "Emmerdale",
+          "display": "53–54 years"
+        },
+        {
+          "answer": "Pobol y Cwm",
+          "display": "51–52 years",
+          "aliases": [
+            "Pobol"
+          ]
+        },
+        {
+          "answer": "EastEnders",
+          "display": "40–41 years"
+        },
+        {
+          "answer": "Casualty",
+          "display": "39–40 years"
+        },
+        {
+          "answer": "Rownd a Rownd",
+          "display": "30–31 years"
+        },
+        {
+          "answer": "Hollyoaks",
+          "display": "30–31 years"
+        },
+        {
+          "answer": "Silent Witness",
+          "display": "29–30 years"
+        },
+        {
+          "answer": "Midsomer Murders",
+          "display": "28–29 years"
+        },
+        {
+          "answer": "River City",
+          "display": "23–24 years"
+        },
+        {
+          "answer": "Death in Paradise",
+          "display": "13–14 years"
+        },
+        {
+          "answer": "Call the Midwife",
+          "display": "13–14 years"
+        },
+        {
+          "answer": "The Dumping Ground",
+          "display": "12–13 years"
+        },
+        {
+          "answer": "Father Brown",
+          "display": "12–13 years"
+        }
+      ]
+    }
+  ]
+}

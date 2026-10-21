@@ -1,0 +1,2005 @@
+{
+  "categories": [
+    {
+      "path": "sports/volleyball",
+      "name": "Volleyball"
+    },
+    {
+      "path": "sports/volleyball/world-championship-men",
+      "name": "World Championship (men)"
+    },
+    {
+      "path": "sports/volleyball/world-championship-women",
+      "name": "World Championship (women)"
+    }
+  ],
+  "questions": [
+    {
+      "category": "sports/volleyball/world-championship-men",
+      "question": "Top 8 teams in the final ranking of the 1956 FIVB Men's Volleyball World Championship",
+      "cutoff": 8,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1370067759 | table 43 | name: Team | value: Rank | order: asc",
+      "tags": [
+        "volleyball",
+        "world-championship",
+        "men",
+        "1956"
+      ],
+      "answers": [
+        {
+          "answer": "Czechoslovakia",
+          "display": "#1"
+        },
+        {
+          "answer": "Romania",
+          "display": "#2"
+        },
+        {
+          "answer": "Soviet Union",
+          "display": "#3",
+          "aliases": [
+            "USSR"
+          ]
+        },
+        {
+          "answer": "Poland",
+          "display": "#4"
+        },
+        {
+          "answer": "Bulgaria",
+          "display": "#5"
+        },
+        {
+          "answer": "United States",
+          "display": "#6",
+          "aliases": [
+            "USA"
+          ]
+        },
+        {
+          "answer": "France",
+          "display": "#7"
+        },
+        {
+          "answer": "Hungary",
+          "display": "#8"
+        },
+        {
+          "answer": "China",
+          "display": "#9"
+        },
+        {
+          "answer": "Yugoslavia",
+          "display": "#10"
+        },
+        {
+          "answer": "Brazil",
+          "display": "#11"
+        }
+      ]
+    },
+    {
+      "category": "sports/volleyball/world-championship-men",
+      "question": "Top 5 teams in the final ranking of the 1962 FIVB Men's Volleyball World Championship",
+      "cutoff": 5,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1370068850 | table 29 | name: Team | value: Rank | order: asc",
+      "tags": [
+        "volleyball",
+        "world-championship",
+        "men",
+        "1962"
+      ],
+      "answers": [
+        {
+          "answer": "Soviet Union",
+          "display": "#1",
+          "aliases": [
+            "USSR"
+          ]
+        },
+        {
+          "answer": "Czechoslovakia",
+          "display": "#2"
+        },
+        {
+          "answer": "Romania",
+          "display": "#3"
+        },
+        {
+          "answer": "Bulgaria",
+          "display": "#4"
+        },
+        {
+          "answer": "Japan",
+          "display": "#5"
+        },
+        {
+          "answer": "Poland",
+          "display": "#6"
+        },
+        {
+          "answer": "Hungary",
+          "display": "#7"
+        },
+        {
+          "answer": "Yugoslavia",
+          "display": "#8"
+        }
+      ]
+    },
+    {
+      "category": "sports/volleyball/world-championship-men",
+      "question": "Top 5 teams in the final ranking of the 1966 FIVB Men's Volleyball World Championship",
+      "cutoff": 5,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1370068869 | table 17 | name: Team | value: Rank | order: asc",
+      "tags": [
+        "volleyball",
+        "world-championship",
+        "men",
+        "1966"
+      ],
+      "answers": [
+        {
+          "answer": "Czechoslovakia",
+          "display": "#1"
+        },
+        {
+          "answer": "Romania",
+          "display": "#2"
+        },
+        {
+          "answer": "Soviet Union",
+          "display": "#3",
+          "aliases": [
+            "USSR"
+          ]
+        },
+        {
+          "answer": "East Germany",
+          "display": "#4"
+        },
+        {
+          "answer": "Japan",
+          "display": "#5"
+        },
+        {
+          "answer": "Poland",
+          "display": "#6"
+        },
+        {
+          "answer": "Bulgaria",
+          "display": "#7"
+        },
+        {
+          "answer": "Yugoslavia",
+          "display": "#8"
+        }
+      ]
+    },
+    {
+      "category": "sports/volleyball/world-championship-men",
+      "question": "Top 8 teams in the final ranking of the 1970 FIVB Men's Volleyball World Championship",
+      "cutoff": 8,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1370068893 | table 17 | name: Team | value: Rank | order: asc",
+      "tags": [
+        "volleyball",
+        "world-championship",
+        "men",
+        "1970"
+      ],
+      "answers": [
+        {
+          "answer": "East Germany",
+          "display": "#1"
+        },
+        {
+          "answer": "Bulgaria",
+          "display": "#2"
+        },
+        {
+          "answer": "Japan",
+          "display": "#3"
+        },
+        {
+          "answer": "Czechoslovakia",
+          "display": "#4"
+        },
+        {
+          "answer": "Poland",
+          "display": "#5"
+        },
+        {
+          "answer": "Soviet Union",
+          "display": "#6",
+          "aliases": [
+            "USSR"
+          ]
+        },
+        {
+          "answer": "Romania",
+          "display": "#7"
+        },
+        {
+          "answer": "Belgium",
+          "display": "#8"
+        },
+        {
+          "answer": "North Korea",
+          "display": "#9"
+        },
+        {
+          "answer": "Yugoslavia",
+          "display": "#10"
+        },
+        {
+          "answer": "Hungary",
+          "display": "#11"
+        }
+      ]
+    },
+    {
+      "category": "sports/volleyball/world-championship-men",
+      "question": "Top 8 teams in the final ranking of the 1974 FIVB Men's Volleyball World Championship",
+      "cutoff": 8,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1370068914 | table 35 | name: Team | value: Rank | order: asc",
+      "tags": [
+        "volleyball",
+        "world-championship",
+        "men",
+        "1974"
+      ],
+      "answers": [
+        {
+          "answer": "Poland",
+          "display": "#1"
+        },
+        {
+          "answer": "Soviet Union",
+          "display": "#2",
+          "aliases": [
+            "USSR"
+          ]
+        },
+        {
+          "answer": "Japan",
+          "display": "#3"
+        },
+        {
+          "answer": "East Germany",
+          "display": "#4"
+        },
+        {
+          "answer": "Czechoslovakia",
+          "display": "#5"
+        },
+        {
+          "answer": "Romania",
+          "display": "#6"
+        },
+        {
+          "answer": "Bulgaria",
+          "display": "#7"
+        },
+        {
+          "answer": "Cuba",
+          "display": "#8"
+        },
+        {
+          "answer": "Brazil",
+          "display": "#9"
+        },
+        {
+          "answer": "Mexico",
+          "display": "#10"
+        },
+        {
+          "answer": "Belgium",
+          "display": "#11"
+        }
+      ]
+    },
+    {
+      "category": "sports/volleyball/world-championship-men",
+      "question": "Top 8 teams in the final ranking of the 1978 FIVB Men's Volleyball World Championship",
+      "cutoff": 8,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1370069075 | table 41 | name: Team | value: Rank | order: asc",
+      "tags": [
+        "volleyball",
+        "world-championship",
+        "men",
+        "1978"
+      ],
+      "answers": [
+        {
+          "answer": "Soviet Union",
+          "display": "#1",
+          "aliases": [
+            "USSR"
+          ]
+        },
+        {
+          "answer": "Italy",
+          "display": "#2"
+        },
+        {
+          "answer": "Cuba",
+          "display": "#3"
+        },
+        {
+          "answer": "South Korea",
+          "display": "#4",
+          "aliases": [
+            "Korea"
+          ]
+        },
+        {
+          "answer": "Czechoslovakia",
+          "display": "#5"
+        },
+        {
+          "answer": "Brazil",
+          "display": "#6"
+        },
+        {
+          "answer": "China",
+          "display": "#7"
+        },
+        {
+          "answer": "Poland",
+          "display": "#8"
+        },
+        {
+          "answer": "East Germany",
+          "display": "#9"
+        },
+        {
+          "answer": "Bulgaria",
+          "display": "#10"
+        },
+        {
+          "answer": "Japan",
+          "display": "#11"
+        }
+      ]
+    },
+    {
+      "category": "sports/volleyball/world-championship-men",
+      "question": "Top 8 teams in the final ranking of the 1982 FIVB Men's Volleyball World Championship",
+      "cutoff": 8,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1370069133 | table 45 | name: Team | value: Rank | order: asc",
+      "tags": [
+        "volleyball",
+        "world-championship",
+        "men",
+        "1982"
+      ],
+      "answers": [
+        {
+          "answer": "Soviet Union",
+          "display": "#1",
+          "aliases": [
+            "USSR"
+          ]
+        },
+        {
+          "answer": "Brazil",
+          "display": "#2"
+        },
+        {
+          "answer": "Argentina",
+          "display": "#3"
+        },
+        {
+          "answer": "Japan",
+          "display": "#4"
+        },
+        {
+          "answer": "Bulgaria",
+          "display": "#5"
+        },
+        {
+          "answer": "Poland",
+          "display": "#6"
+        },
+        {
+          "answer": "China",
+          "display": "#7"
+        },
+        {
+          "answer": "South Korea",
+          "display": "#8",
+          "aliases": [
+            "Korea"
+          ]
+        },
+        {
+          "answer": "Czechoslovakia",
+          "display": "#9"
+        },
+        {
+          "answer": "Cuba",
+          "display": "#10"
+        },
+        {
+          "answer": "Canada",
+          "display": "#11"
+        }
+      ]
+    },
+    {
+      "category": "sports/volleyball/world-championship-men",
+      "question": "Top 5 teams in the final ranking of the 1986 FIVB Men's Volleyball World Championship",
+      "cutoff": 5,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1370069191 | table 25 | name: Team | value: Rank | order: asc",
+      "tags": [
+        "volleyball",
+        "world-championship",
+        "men",
+        "1986"
+      ],
+      "answers": [
+        {
+          "answer": "United States",
+          "display": "#1",
+          "aliases": [
+            "USA"
+          ]
+        },
+        {
+          "answer": "Soviet Union",
+          "display": "#2",
+          "aliases": [
+            "USSR"
+          ]
+        },
+        {
+          "answer": "Bulgaria",
+          "display": "#3"
+        },
+        {
+          "answer": "Brazil",
+          "display": "#4"
+        },
+        {
+          "answer": "Cuba",
+          "display": "#5"
+        },
+        {
+          "answer": "France",
+          "display": "#6"
+        },
+        {
+          "answer": "Argentina",
+          "display": "#7"
+        },
+        {
+          "answer": "Czechoslovakia",
+          "display": "#8"
+        }
+      ]
+    },
+    {
+      "category": "sports/volleyball/world-championship-men",
+      "question": "Top 5 teams in the final ranking of the 1990 FIVB Men's Volleyball World Championship",
+      "cutoff": 5,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1370069282 | table 25 | name: Team | value: Rank | order: asc",
+      "tags": [
+        "volleyball",
+        "world-championship",
+        "men",
+        "1990"
+      ],
+      "answers": [
+        {
+          "answer": "Italy",
+          "display": "#1"
+        },
+        {
+          "answer": "Cuba",
+          "display": "#2"
+        },
+        {
+          "answer": "Soviet Union",
+          "display": "#3",
+          "aliases": [
+            "USSR"
+          ]
+        },
+        {
+          "answer": "Brazil",
+          "display": "#4"
+        },
+        {
+          "answer": "Bulgaria",
+          "display": "#5"
+        },
+        {
+          "answer": "Argentina",
+          "display": "#6"
+        },
+        {
+          "answer": "Netherlands",
+          "display": "#7",
+          "aliases": [
+            "Holland"
+          ]
+        },
+        {
+          "answer": "France",
+          "display": "#8"
+        }
+      ]
+    },
+    {
+      "category": "sports/volleyball/world-championship-men",
+      "question": "Top 5 teams in the final ranking of the 1994 FIVB Men's Volleyball World Championship",
+      "cutoff": 5,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1370069386 | table 20 | name: Team | value: Rank | order: asc",
+      "tags": [
+        "volleyball",
+        "world-championship",
+        "men",
+        "1994"
+      ],
+      "answers": [
+        {
+          "answer": "Italy",
+          "display": "#1"
+        },
+        {
+          "answer": "Netherlands",
+          "display": "#2",
+          "aliases": [
+            "Holland"
+          ]
+        },
+        {
+          "answer": "United States",
+          "display": "#3",
+          "aliases": [
+            "USA"
+          ]
+        },
+        {
+          "answer": "Cuba",
+          "display": "#4"
+        },
+        {
+          "answer": "Brazil",
+          "display": "#5"
+        },
+        {
+          "answer": "Greece",
+          "display": "#6"
+        },
+        {
+          "answer": "Russia",
+          "display": "#7"
+        },
+        {
+          "answer": "South Korea",
+          "display": "#8",
+          "aliases": [
+            "Korea"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/volleyball/world-championship-men",
+      "question": "Top 8 teams in the final ranking of the 1998 FIVB Men's Volleyball World Championship",
+      "cutoff": 8,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1370069520 | table 28 | name: Team | value: Rank | order: asc",
+      "tags": [
+        "volleyball",
+        "world-championship",
+        "men",
+        "1998"
+      ],
+      "answers": [
+        {
+          "answer": "Italy",
+          "display": "#1"
+        },
+        {
+          "answer": "FR Yugoslavia",
+          "display": "#2",
+          "aliases": [
+            "Yugoslavia"
+          ]
+        },
+        {
+          "answer": "Cuba",
+          "display": "#3"
+        },
+        {
+          "answer": "Brazil",
+          "display": "#4"
+        },
+        {
+          "answer": "Russia",
+          "display": "#5"
+        },
+        {
+          "answer": "Netherlands",
+          "display": "#6",
+          "aliases": [
+            "Holland"
+          ]
+        },
+        {
+          "answer": "Bulgaria",
+          "display": "#7"
+        },
+        {
+          "answer": "Spain",
+          "display": "#8"
+        },
+        {
+          "answer": "United States",
+          "display": "#9",
+          "aliases": [
+            "USA"
+          ]
+        },
+        {
+          "answer": "Ukraine",
+          "display": "#10"
+        },
+        {
+          "answer": "Argentina",
+          "display": "#11"
+        }
+      ]
+    },
+    {
+      "category": "sports/volleyball/world-championship-men",
+      "question": "Top 8 teams in the final ranking of the 2002 FIVB Men's Volleyball World Championship",
+      "cutoff": 8,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1376818896 | table 31 | name: Team | value: Rank | order: asc",
+      "tags": [
+        "volleyball",
+        "world-championship",
+        "men",
+        "2002"
+      ],
+      "answers": [
+        {
+          "answer": "Brazil",
+          "display": "#1"
+        },
+        {
+          "answer": "Russia",
+          "display": "#2"
+        },
+        {
+          "answer": "France",
+          "display": "#3"
+        },
+        {
+          "answer": "FR Yugoslavia",
+          "display": "#4",
+          "aliases": [
+            "Yugoslavia"
+          ]
+        },
+        {
+          "answer": "Italy",
+          "display": "#5"
+        },
+        {
+          "answer": "Argentina",
+          "display": "#6"
+        },
+        {
+          "answer": "Greece",
+          "display": "#7"
+        },
+        {
+          "answer": "Portugal",
+          "display": "#8"
+        },
+        {
+          "answer": "Japan",
+          "display": "#9"
+        },
+        {
+          "answer": "Netherlands",
+          "display": "#9",
+          "aliases": [
+            "Holland"
+          ]
+        },
+        {
+          "answer": "Poland",
+          "display": "#9"
+        },
+        {
+          "answer": "United States",
+          "display": "#9",
+          "aliases": [
+            "USA"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/volleyball/world-championship-men",
+      "question": "Top 8 teams in the final ranking of the 2006 FIVB Men's Volleyball World Championship",
+      "cutoff": 8,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1370070056 | table 26 | name: Team | value: Rank | order: asc",
+      "tags": [
+        "volleyball",
+        "world-championship",
+        "men",
+        "2006"
+      ],
+      "answers": [
+        {
+          "answer": "Brazil",
+          "display": "#1"
+        },
+        {
+          "answer": "Poland",
+          "display": "#2"
+        },
+        {
+          "answer": "Bulgaria",
+          "display": "#3"
+        },
+        {
+          "answer": "Serbia and Montenegro",
+          "display": "#4"
+        },
+        {
+          "answer": "Italy",
+          "display": "#5"
+        },
+        {
+          "answer": "France",
+          "display": "#6"
+        },
+        {
+          "answer": "Russia",
+          "display": "#7"
+        },
+        {
+          "answer": "Japan",
+          "display": "#8"
+        },
+        {
+          "answer": "Germany",
+          "display": "#9"
+        },
+        {
+          "answer": "United States",
+          "display": "#10",
+          "aliases": [
+            "USA"
+          ]
+        },
+        {
+          "answer": "Canada",
+          "display": "#11"
+        }
+      ]
+    },
+    {
+      "category": "sports/volleyball/world-championship-men",
+      "question": "Top 8 teams in the final ranking of the 2010 FIVB Men's Volleyball World Championship",
+      "cutoff": 8,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1370070634 | table 47 | name: Team | value: Rank | order: asc",
+      "tags": [
+        "volleyball",
+        "world-championship",
+        "men",
+        "2010"
+      ],
+      "answers": [
+        {
+          "answer": "Brazil",
+          "display": "#1"
+        },
+        {
+          "answer": "Cuba",
+          "display": "#2"
+        },
+        {
+          "answer": "Serbia",
+          "display": "#3"
+        },
+        {
+          "answer": "Italy",
+          "display": "#4"
+        },
+        {
+          "answer": "Russia",
+          "display": "#5"
+        },
+        {
+          "answer": "United States",
+          "display": "#6",
+          "aliases": [
+            "USA"
+          ]
+        },
+        {
+          "answer": "Bulgaria",
+          "display": "#7"
+        },
+        {
+          "answer": "Germany",
+          "display": "#8"
+        },
+        {
+          "answer": "Argentina",
+          "display": "#9"
+        },
+        {
+          "answer": "Czech Republic",
+          "display": "#10"
+        },
+        {
+          "answer": "France",
+          "display": "#11"
+        },
+        {
+          "answer": "Spain",
+          "display": "#12"
+        }
+      ]
+    },
+    {
+      "category": "sports/volleyball/world-championship-men",
+      "question": "Top 8 teams in the final ranking of the 2018 FIVB Men's Volleyball World Championship",
+      "cutoff": 8,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1370072327 | table 31 | name: Team | value: Rank | order: asc",
+      "tags": [
+        "volleyball",
+        "world-championship",
+        "men",
+        "2018"
+      ],
+      "answers": [
+        {
+          "answer": "Poland",
+          "display": "#1"
+        },
+        {
+          "answer": "Brazil",
+          "display": "#2"
+        },
+        {
+          "answer": "United States",
+          "display": "#3",
+          "aliases": [
+            "USA"
+          ]
+        },
+        {
+          "answer": "Serbia",
+          "display": "#4"
+        },
+        {
+          "answer": "Italy",
+          "display": "#5"
+        },
+        {
+          "answer": "Russia",
+          "display": "#6"
+        },
+        {
+          "answer": "France",
+          "display": "#7"
+        },
+        {
+          "answer": "Netherlands",
+          "display": "#8",
+          "aliases": [
+            "Holland"
+          ]
+        },
+        {
+          "answer": "Canada",
+          "display": "#9"
+        },
+        {
+          "answer": "Belgium",
+          "display": "#10"
+        },
+        {
+          "answer": "Bulgaria",
+          "display": "#11"
+        }
+      ]
+    },
+    {
+      "category": "sports/volleyball/world-championship-men",
+      "question": "Top 8 teams in the final ranking of the 2022 FIVB Men's Volleyball World Championship",
+      "cutoff": 8,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1370073575 | table 23 | name: Team | value: Rank | order: asc",
+      "tags": [
+        "volleyball",
+        "world-championship",
+        "men",
+        "2022"
+      ],
+      "answers": [
+        {
+          "answer": "Italy",
+          "display": "#1"
+        },
+        {
+          "answer": "Poland",
+          "display": "#2"
+        },
+        {
+          "answer": "Brazil",
+          "display": "#3"
+        },
+        {
+          "answer": "Slovenia",
+          "display": "#4"
+        },
+        {
+          "answer": "France",
+          "display": "#5"
+        },
+        {
+          "answer": "United States",
+          "display": "#6",
+          "aliases": [
+            "USA"
+          ]
+        },
+        {
+          "answer": "Ukraine",
+          "display": "#7"
+        },
+        {
+          "answer": "Argentina",
+          "display": "#8"
+        },
+        {
+          "answer": "Serbia",
+          "display": "#9"
+        },
+        {
+          "answer": "Netherlands",
+          "display": "#10",
+          "aliases": [
+            "Holland"
+          ]
+        },
+        {
+          "answer": "Turkey",
+          "display": "#11"
+        }
+      ]
+    },
+    {
+      "category": "sports/volleyball/world-championship-men",
+      "question": "Top 10 teams in the final ranking of the 2025 FIVB Men's Volleyball World Championship",
+      "cutoff": 10,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1379239076 | table 26 | name: Team | value: Rank | order: asc",
+      "tags": [
+        "volleyball",
+        "world-championship",
+        "men",
+        "2025"
+      ],
+      "answers": [
+        {
+          "answer": "Italy",
+          "display": "#1"
+        },
+        {
+          "answer": "Bulgaria",
+          "display": "#2"
+        },
+        {
+          "answer": "Poland",
+          "display": "#3"
+        },
+        {
+          "answer": "Czech Republic",
+          "display": "#4"
+        },
+        {
+          "answer": "United States",
+          "display": "#5",
+          "aliases": [
+            "USA"
+          ]
+        },
+        {
+          "answer": "Turkey",
+          "display": "#6"
+        },
+        {
+          "answer": "Belgium",
+          "display": "#7"
+        },
+        {
+          "answer": "Iran",
+          "display": "#8"
+        },
+        {
+          "answer": "Argentina",
+          "display": "#9"
+        },
+        {
+          "answer": "Serbia",
+          "display": "#10"
+        },
+        {
+          "answer": "Slovenia",
+          "display": "#11"
+        },
+        {
+          "answer": "Tunisia",
+          "display": "#12"
+        },
+        {
+          "answer": "Netherlands",
+          "display": "#13",
+          "aliases": [
+            "Holland"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/volleyball/world-championship-women",
+      "question": "Top 5 teams in the final ranking of the 1956 FIVB Women's Volleyball World Championship",
+      "cutoff": 5,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1370068349 | table 17 | name: Team | value: Rank | order: asc",
+      "tags": [
+        "volleyball",
+        "world-championship",
+        "women",
+        "1956"
+      ],
+      "answers": [
+        {
+          "answer": "Soviet Union",
+          "display": "#1",
+          "aliases": [
+            "USSR"
+          ]
+        },
+        {
+          "answer": "Romania",
+          "display": "#2"
+        },
+        {
+          "answer": "Poland",
+          "display": "#3"
+        },
+        {
+          "answer": "Czechoslovakia",
+          "display": "#4"
+        },
+        {
+          "answer": "Bulgaria",
+          "display": "#5"
+        },
+        {
+          "answer": "China",
+          "display": "#6"
+        },
+        {
+          "answer": "North Korea",
+          "display": "#7"
+        },
+        {
+          "answer": "East Germany",
+          "display": "#8"
+        }
+      ]
+    },
+    {
+      "category": "sports/volleyball/world-championship-women",
+      "question": "Top 5 teams in the final ranking of the 1970 FIVB Women's Volleyball World Championship",
+      "cutoff": 5,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1370068897 | table 15 | name: Team | value: Rank | order: asc",
+      "tags": [
+        "volleyball",
+        "world-championship",
+        "women",
+        "1970"
+      ],
+      "answers": [
+        {
+          "answer": "Soviet Union",
+          "display": "#1",
+          "aliases": [
+            "USSR"
+          ]
+        },
+        {
+          "answer": "Japan",
+          "display": "#2"
+        },
+        {
+          "answer": "North Korea",
+          "display": "#3"
+        },
+        {
+          "answer": "Hungary",
+          "display": "#4"
+        },
+        {
+          "answer": "Czechoslovakia",
+          "display": "#5"
+        },
+        {
+          "answer": "Bulgaria",
+          "display": "#6"
+        },
+        {
+          "answer": "Romania",
+          "display": "#7"
+        },
+        {
+          "answer": "Cuba",
+          "display": "#8"
+        }
+      ]
+    },
+    {
+      "category": "sports/volleyball/world-championship-women",
+      "question": "Top 8 teams in the final ranking of the 1974 FIVB Women's Volleyball World Championship",
+      "cutoff": 8,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1370068918 | table 35 | name: Team | value: Rank | order: asc",
+      "tags": [
+        "volleyball",
+        "world-championship",
+        "women",
+        "1974"
+      ],
+      "answers": [
+        {
+          "answer": "Japan",
+          "display": "#1"
+        },
+        {
+          "answer": "Soviet Union",
+          "display": "#2",
+          "aliases": [
+            "USSR"
+          ]
+        },
+        {
+          "answer": "South Korea",
+          "display": "#3",
+          "aliases": [
+            "Korea"
+          ]
+        },
+        {
+          "answer": "East Germany",
+          "display": "#4"
+        },
+        {
+          "answer": "Romania",
+          "display": "#5"
+        },
+        {
+          "answer": "Hungary",
+          "display": "#6"
+        },
+        {
+          "answer": "Cuba",
+          "display": "#7"
+        },
+        {
+          "answer": "Peru",
+          "display": "#8"
+        },
+        {
+          "answer": "Poland",
+          "display": "#9"
+        },
+        {
+          "answer": "Mexico",
+          "display": "#10"
+        },
+        {
+          "answer": "Canada",
+          "display": "#11"
+        }
+      ]
+    },
+    {
+      "category": "sports/volleyball/world-championship-women",
+      "question": "Top 8 teams in the final ranking of the 1978 FIVB Women's Volleyball World Championship",
+      "cutoff": 8,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1370069080 | table 40 | name: Team | value: Rank | order: asc",
+      "tags": [
+        "volleyball",
+        "world-championship",
+        "women",
+        "1978"
+      ],
+      "answers": [
+        {
+          "answer": "Cuba",
+          "display": "#1"
+        },
+        {
+          "answer": "Japan",
+          "display": "#2"
+        },
+        {
+          "answer": "Soviet Union",
+          "display": "#3",
+          "aliases": [
+            "USSR"
+          ]
+        },
+        {
+          "answer": "South Korea",
+          "display": "#4",
+          "aliases": [
+            "Korea"
+          ]
+        },
+        {
+          "answer": "United States",
+          "display": "#5",
+          "aliases": [
+            "USA"
+          ]
+        },
+        {
+          "answer": "China",
+          "display": "#6"
+        },
+        {
+          "answer": "Brazil",
+          "display": "#7"
+        },
+        {
+          "answer": "East Germany",
+          "display": "#8"
+        },
+        {
+          "answer": "Bulgaria",
+          "display": "#9"
+        },
+        {
+          "answer": "Peru",
+          "display": "#10"
+        },
+        {
+          "answer": "Poland",
+          "display": "#11"
+        }
+      ]
+    },
+    {
+      "category": "sports/volleyball/world-championship-women",
+      "question": "Top 5 teams in the final ranking of the 1982 FIVB Women's Volleyball World Championship",
+      "cutoff": 5,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1370069139 | table 40 | name: Team | value: Rank | order: asc",
+      "tags": [
+        "volleyball",
+        "world-championship",
+        "women",
+        "1982"
+      ],
+      "answers": [
+        {
+          "answer": "China",
+          "display": "#1"
+        },
+        {
+          "answer": "Peru",
+          "display": "#2"
+        },
+        {
+          "answer": "United States",
+          "display": "#3",
+          "aliases": [
+            "USA"
+          ]
+        },
+        {
+          "answer": "Japan",
+          "display": "#4"
+        },
+        {
+          "answer": "Cuba",
+          "display": "#5"
+        },
+        {
+          "answer": "Soviet Union",
+          "display": "#6",
+          "aliases": [
+            "USSR"
+          ]
+        },
+        {
+          "answer": "South Korea",
+          "display": "#7",
+          "aliases": [
+            "Korea"
+          ]
+        },
+        {
+          "answer": "Brazil",
+          "display": "#8"
+        }
+      ]
+    },
+    {
+      "category": "sports/volleyball/world-championship-women",
+      "question": "Top 5 teams in the final ranking of the 1986 FIVB Women's Volleyball World Championship",
+      "cutoff": 5,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1370069197 | table 24 | name: Team | value: Rank | order: asc",
+      "tags": [
+        "volleyball",
+        "world-championship",
+        "women",
+        "1986"
+      ],
+      "answers": [
+        {
+          "answer": "China",
+          "display": "#1"
+        },
+        {
+          "answer": "Cuba",
+          "display": "#2"
+        },
+        {
+          "answer": "Peru",
+          "display": "#3"
+        },
+        {
+          "answer": "East Germany",
+          "display": "#4"
+        },
+        {
+          "answer": "Brazil",
+          "display": "#5"
+        },
+        {
+          "answer": "Soviet Union",
+          "display": "#6",
+          "aliases": [
+            "USSR"
+          ]
+        },
+        {
+          "answer": "Japan",
+          "display": "#7"
+        },
+        {
+          "answer": "South Korea",
+          "display": "#8",
+          "aliases": [
+            "Korea"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/volleyball/world-championship-women",
+      "question": "Top 5 teams in the final ranking of the 1990 FIVB Women's Volleyball World Championship",
+      "cutoff": 5,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1370069293 | table 23 | name: Team | value: Rank | order: asc",
+      "tags": [
+        "volleyball",
+        "world-championship",
+        "women",
+        "1990"
+      ],
+      "answers": [
+        {
+          "answer": "Soviet Union",
+          "display": "#1",
+          "aliases": [
+            "USSR"
+          ]
+        },
+        {
+          "answer": "China",
+          "display": "#2"
+        },
+        {
+          "answer": "United States",
+          "display": "#3",
+          "aliases": [
+            "USA"
+          ]
+        },
+        {
+          "answer": "Cuba",
+          "display": "#4"
+        },
+        {
+          "answer": "South Korea",
+          "display": "#5",
+          "aliases": [
+            "Korea"
+          ]
+        },
+        {
+          "answer": "Peru",
+          "display": "#6"
+        },
+        {
+          "answer": "Brazil",
+          "display": "#7"
+        },
+        {
+          "answer": "Japan",
+          "display": "#8"
+        }
+      ]
+    },
+    {
+      "category": "sports/volleyball/world-championship-women",
+      "question": "Top 5 teams in the final ranking of the 1994 FIVB Women's Volleyball World Championship",
+      "cutoff": 5,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1370069400 | table 18 | name: Team | value: Rank | order: asc",
+      "tags": [
+        "volleyball",
+        "world-championship",
+        "women",
+        "1994"
+      ],
+      "answers": [
+        {
+          "answer": "Cuba",
+          "display": "#1"
+        },
+        {
+          "answer": "Brazil",
+          "display": "#2"
+        },
+        {
+          "answer": "Russia",
+          "display": "#3"
+        },
+        {
+          "answer": "South Korea",
+          "display": "#4",
+          "aliases": [
+            "Korea"
+          ]
+        },
+        {
+          "answer": "Germany",
+          "display": "#5"
+        },
+        {
+          "answer": "United States",
+          "display": "#6",
+          "aliases": [
+            "USA"
+          ]
+        },
+        {
+          "answer": "Japan",
+          "display": "#7"
+        },
+        {
+          "answer": "China",
+          "display": "#8"
+        }
+      ]
+    },
+    {
+      "category": "sports/volleyball/world-championship-women",
+      "question": "Top 5 teams in the final ranking of the 1998 FIVB Women's Volleyball World Championship",
+      "cutoff": 5,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1379588363 | table 22 | name: Team | value: Rank | order: asc",
+      "tags": [
+        "volleyball",
+        "world-championship",
+        "women",
+        "1998"
+      ],
+      "answers": [
+        {
+          "answer": "Cuba",
+          "display": "#1"
+        },
+        {
+          "answer": "China",
+          "display": "#2"
+        },
+        {
+          "answer": "Russia",
+          "display": "#3"
+        },
+        {
+          "answer": "Brazil",
+          "display": "#4"
+        },
+        {
+          "answer": "Italy",
+          "display": "#5"
+        },
+        {
+          "answer": "Croatia",
+          "display": "#6"
+        },
+        {
+          "answer": "Netherlands",
+          "display": "#7",
+          "aliases": [
+            "Holland"
+          ]
+        },
+        {
+          "answer": "Japan",
+          "display": "#8"
+        }
+      ]
+    },
+    {
+      "category": "sports/volleyball/world-championship-women",
+      "question": "Top 8 teams in the final ranking of the 2002 FIVB Women's Volleyball World Championship",
+      "cutoff": 8,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1370069786 | table 25 | name: Team | value: Rank | order: asc",
+      "tags": [
+        "volleyball",
+        "world-championship",
+        "women",
+        "2002"
+      ],
+      "answers": [
+        {
+          "answer": "Italy",
+          "display": "#1"
+        },
+        {
+          "answer": "United States",
+          "display": "#2",
+          "aliases": [
+            "USA"
+          ]
+        },
+        {
+          "answer": "Russia",
+          "display": "#3"
+        },
+        {
+          "answer": "China",
+          "display": "#4"
+        },
+        {
+          "answer": "Cuba",
+          "display": "#5"
+        },
+        {
+          "answer": "South Korea",
+          "display": "#6",
+          "aliases": [
+            "Korea"
+          ]
+        },
+        {
+          "answer": "Brazil",
+          "display": "#7"
+        },
+        {
+          "answer": "Bulgaria",
+          "display": "#8"
+        },
+        {
+          "answer": "Netherlands",
+          "display": "#9",
+          "aliases": [
+            "Holland"
+          ]
+        },
+        {
+          "answer": "Germany",
+          "display": "#10"
+        },
+        {
+          "answer": "Greece",
+          "display": "#10"
+        },
+        {
+          "answer": "Puerto Rico",
+          "display": "#10"
+        }
+      ]
+    },
+    {
+      "category": "sports/volleyball/world-championship-women",
+      "question": "Top 8 teams in the final ranking of the 2006 FIVB Women's Volleyball World Championship",
+      "cutoff": 8,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1370070091 | table 25 | name: Team | value: Rank | order: asc",
+      "tags": [
+        "volleyball",
+        "world-championship",
+        "women",
+        "2006"
+      ],
+      "answers": [
+        {
+          "answer": "Russia",
+          "display": "#1"
+        },
+        {
+          "answer": "Brazil",
+          "display": "#2"
+        },
+        {
+          "answer": "Serbia and Montenegro",
+          "display": "#3"
+        },
+        {
+          "answer": "Italy",
+          "display": "#4"
+        },
+        {
+          "answer": "China",
+          "display": "#5"
+        },
+        {
+          "answer": "Japan",
+          "display": "#6"
+        },
+        {
+          "answer": "Cuba",
+          "display": "#7"
+        },
+        {
+          "answer": "Netherlands",
+          "display": "#8",
+          "aliases": [
+            "Holland"
+          ]
+        },
+        {
+          "answer": "United States",
+          "display": "#9",
+          "aliases": [
+            "USA"
+          ]
+        },
+        {
+          "answer": "Turkey",
+          "display": "#10"
+        },
+        {
+          "answer": "Germany",
+          "display": "#11"
+        }
+      ]
+    },
+    {
+      "category": "sports/volleyball/world-championship-women",
+      "question": "Top 8 teams in the final ranking of the 2010 FIVB Women's Volleyball World Championship",
+      "cutoff": 8,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1370070680 | table 25 | name: Team | value: Rank | order: asc",
+      "tags": [
+        "volleyball",
+        "world-championship",
+        "women",
+        "2010"
+      ],
+      "answers": [
+        {
+          "answer": "Russia",
+          "display": "#1"
+        },
+        {
+          "answer": "Brazil",
+          "display": "#2"
+        },
+        {
+          "answer": "Japan",
+          "display": "#3"
+        },
+        {
+          "answer": "United States",
+          "display": "#4",
+          "aliases": [
+            "USA"
+          ]
+        },
+        {
+          "answer": "Italy",
+          "display": "#5"
+        },
+        {
+          "answer": "Turkey",
+          "display": "#6"
+        },
+        {
+          "answer": "Germany",
+          "display": "#7"
+        },
+        {
+          "answer": "Serbia",
+          "display": "#8"
+        },
+        {
+          "answer": "Poland",
+          "display": "#9"
+        },
+        {
+          "answer": "China",
+          "display": "#10"
+        },
+        {
+          "answer": "Netherlands",
+          "display": "#11",
+          "aliases": [
+            "Holland"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/volleyball/world-championship-women",
+      "question": "Top 8 teams in the final ranking of the 2018 FIVB Women's Volleyball World Championship",
+      "cutoff": 8,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1374181733 | table 28 | name: Team | value: Rank | order: asc",
+      "tags": [
+        "volleyball",
+        "world-championship",
+        "women",
+        "2018"
+      ],
+      "answers": [
+        {
+          "answer": "Serbia",
+          "display": "#1"
+        },
+        {
+          "answer": "Italy",
+          "display": "#2"
+        },
+        {
+          "answer": "China",
+          "display": "#3"
+        },
+        {
+          "answer": "Netherlands",
+          "display": "#4",
+          "aliases": [
+            "Holland"
+          ]
+        },
+        {
+          "answer": "United States",
+          "display": "#5",
+          "aliases": [
+            "USA"
+          ]
+        },
+        {
+          "answer": "Japan",
+          "display": "#6"
+        },
+        {
+          "answer": "Brazil",
+          "display": "#7"
+        },
+        {
+          "answer": "Russia",
+          "display": "#8"
+        },
+        {
+          "answer": "Dominican Republic",
+          "display": "#9"
+        },
+        {
+          "answer": "Turkey",
+          "display": "#10"
+        },
+        {
+          "answer": "Germany",
+          "display": "#11"
+        }
+      ]
+    },
+    {
+      "category": "sports/volleyball/world-championship-women",
+      "question": "Top 8 teams in the final ranking of the 2022 FIVB Women's Volleyball World Championship",
+      "cutoff": 8,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1370073620 | table 24 | name: Team | value: Rank | order: asc",
+      "tags": [
+        "volleyball",
+        "world-championship",
+        "women",
+        "2022"
+      ],
+      "answers": [
+        {
+          "answer": "Serbia",
+          "display": "#1"
+        },
+        {
+          "answer": "Brazil",
+          "display": "#2"
+        },
+        {
+          "answer": "Italy",
+          "display": "#3"
+        },
+        {
+          "answer": "United States",
+          "display": "#4",
+          "aliases": [
+            "USA"
+          ]
+        },
+        {
+          "answer": "Japan",
+          "display": "#5"
+        },
+        {
+          "answer": "China",
+          "display": "#6"
+        },
+        {
+          "answer": "Poland",
+          "display": "#7"
+        },
+        {
+          "answer": "Turkey",
+          "display": "#8"
+        },
+        {
+          "answer": "Belgium",
+          "display": "#9"
+        },
+        {
+          "answer": "Canada",
+          "display": "#10"
+        },
+        {
+          "answer": "Dominican Republic",
+          "display": "#11"
+        }
+      ]
+    },
+    {
+      "category": "sports/volleyball/world-championship-women",
+      "question": "Top 10 teams in the final ranking of the 2025 FIVB Women's Volleyball World Championship",
+      "cutoff": 10,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1375760578 | table 33 | name: Team | value: Rank | order: asc",
+      "tags": [
+        "volleyball",
+        "world-championship",
+        "women",
+        "2025"
+      ],
+      "answers": [
+        {
+          "answer": "Italy",
+          "display": "#1"
+        },
+        {
+          "answer": "Turkey",
+          "display": "#2"
+        },
+        {
+          "answer": "Brazil",
+          "display": "#3"
+        },
+        {
+          "answer": "Japan",
+          "display": "#4"
+        },
+        {
+          "answer": "United States",
+          "display": "#5",
+          "aliases": [
+            "USA"
+          ]
+        },
+        {
+          "answer": "Netherlands",
+          "display": "#6",
+          "aliases": [
+            "Holland"
+          ]
+        },
+        {
+          "answer": "Poland",
+          "display": "#7"
+        },
+        {
+          "answer": "France",
+          "display": "#8"
+        },
+        {
+          "answer": "China",
+          "display": "#9"
+        },
+        {
+          "answer": "Serbia",
+          "display": "#10"
+        },
+        {
+          "answer": "Belgium",
+          "display": "#11"
+        },
+        {
+          "answer": "Germany",
+          "display": "#12"
+        },
+        {
+          "answer": "Thailand",
+          "display": "#13"
+        }
+      ]
+    }
+  ]
+}

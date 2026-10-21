@@ -1,0 +1,4394 @@
+{
+  "categories": [
+    {
+      "path": "sports/motorsport/indycar",
+      "name": "IndyCar"
+    },
+    {
+      "path": "sports/motorsport/indycar/seasons",
+      "name": "IndyCar Seasons"
+    }
+  ],
+  "questions": [
+    {
+      "category": "sports/motorsport/indycar/seasons",
+      "question": "Top 10 drivers in the final 1981 CART PPG Indy Car World Series standings",
+      "cutoff": 10,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1379866970 | table 5 | name: Driver | value: Pos | order: asc",
+      "tags": [
+        "motorsport",
+        "indycar",
+        "drivers-championship",
+        "1981"
+      ],
+      "answers": [
+        {
+          "answer": "Rick Mears",
+          "display": "#1 — 304 points",
+          "aliases": [
+            "Mears"
+          ]
+        },
+        {
+          "answer": "Bill Alsup",
+          "display": "#2 — 175 points",
+          "aliases": [
+            "Alsup"
+          ]
+        },
+        {
+          "answer": "Pancho Carter",
+          "display": "#3 — 166 points",
+          "aliases": [
+            "Carter"
+          ]
+        },
+        {
+          "answer": "Gordon Johncock",
+          "display": "#4 — 142 points",
+          "aliases": [
+            "Johncock"
+          ]
+        },
+        {
+          "answer": "Johnny Rutherford",
+          "display": "#5 — 120 points",
+          "aliases": [
+            "Rutherford"
+          ]
+        },
+        {
+          "answer": "Tony Bettenhausen Jr.",
+          "display": "#6 — 107 points",
+          "aliases": []
+        },
+        {
+          "answer": "Bobby Unser",
+          "display": "#7 — 99 points",
+          "aliases": []
+        },
+        {
+          "answer": "Tom Sneva",
+          "display": "#8 — 96 points",
+          "aliases": [
+            "Sneva"
+          ]
+        },
+        {
+          "answer": "Bob Lazier",
+          "display": "#9 — 92 points",
+          "aliases": [
+            "Lazier"
+          ]
+        },
+        {
+          "answer": "Al Unser",
+          "display": "#10 — 90 points",
+          "aliases": []
+        },
+        {
+          "answer": "Mario Andretti",
+          "display": "#11 — 81 points",
+          "aliases": [
+            "Andretti"
+          ]
+        },
+        {
+          "answer": "Tom Bigelow",
+          "display": "#12 — 60 points",
+          "aliases": [
+            "Bigelow"
+          ]
+        },
+        {
+          "answer": "Scott Brayton",
+          "display": "#13 — 57 points",
+          "aliases": [
+            "Brayton"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/motorsport/indycar/seasons",
+      "question": "Top 10 drivers in the final 1982 CART PPG Indy Car World Series standings",
+      "cutoff": 10,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1379488719 | table 5 | name: Driver | value: Pos | order: asc",
+      "tags": [
+        "motorsport",
+        "indycar",
+        "drivers-championship",
+        "1982"
+      ],
+      "answers": [
+        {
+          "answer": "Rick Mears",
+          "display": "#1 — 294 points",
+          "aliases": []
+        },
+        {
+          "answer": "Bobby Rahal",
+          "display": "#2 — 242 points",
+          "aliases": [
+            "Rahal"
+          ]
+        },
+        {
+          "answer": "Mario Andretti",
+          "display": "#3 — 188 points",
+          "aliases": [
+            "Andretti"
+          ]
+        },
+        {
+          "answer": "Gordon Johncock",
+          "display": "#4 — 186 points",
+          "aliases": [
+            "Johncock"
+          ]
+        },
+        {
+          "answer": "Tom Sneva",
+          "display": "#5 — 144 points",
+          "aliases": [
+            "Sneva"
+          ]
+        },
+        {
+          "answer": "Kevin Cogan",
+          "display": "#6 — 136 points",
+          "aliases": [
+            "Cogan"
+          ]
+        },
+        {
+          "answer": "Al Unser",
+          "display": "#7 — 125 points",
+          "aliases": [
+            "Unser"
+          ]
+        },
+        {
+          "answer": "Geoff Brabham",
+          "display": "#8 — 110 points",
+          "aliases": [
+            "Brabham"
+          ]
+        },
+        {
+          "answer": "Roger Mears",
+          "display": "#9 — 103 points",
+          "aliases": []
+        },
+        {
+          "answer": "Tony Bettenhausen Jr.",
+          "display": "#10 — 80 points",
+          "aliases": []
+        },
+        {
+          "answer": "Bill Alsup",
+          "display": "#11 — 70 points",
+          "aliases": [
+            "Alsup"
+          ]
+        },
+        {
+          "answer": "Johnny Rutherford",
+          "display": "#12 — 62 points",
+          "aliases": [
+            "Rutherford"
+          ]
+        },
+        {
+          "answer": "Howdy Holmes",
+          "display": "#13 — 56 points",
+          "aliases": [
+            "Holmes"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/motorsport/indycar/seasons",
+      "question": "Top 10 drivers in the final 1983 CART PPG Indy Car World Series standings",
+      "cutoff": 10,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1379670712 | table 5 | name: Driver | value: Pos | order: asc",
+      "tags": [
+        "motorsport",
+        "indycar",
+        "drivers-championship",
+        "1983"
+      ],
+      "answers": [
+        {
+          "answer": "Al Unser",
+          "display": "#1 — 151 points",
+          "aliases": []
+        },
+        {
+          "answer": "Teo Fabi",
+          "display": "#2 — 146 points",
+          "aliases": [
+            "Fabi"
+          ]
+        },
+        {
+          "answer": "Mario Andretti",
+          "display": "#3 — 133 points",
+          "aliases": [
+            "Andretti"
+          ]
+        },
+        {
+          "answer": "Tom Sneva",
+          "display": "#4 — 96 points",
+          "aliases": [
+            "Sneva"
+          ]
+        },
+        {
+          "answer": "Bobby Rahal",
+          "display": "#5 — 94 points",
+          "aliases": [
+            "Rahal"
+          ]
+        },
+        {
+          "answer": "Rick Mears",
+          "display": "#6 — 92 points",
+          "aliases": []
+        },
+        {
+          "answer": "Al Unser Jr.",
+          "display": "#7 — 89 points",
+          "aliases": []
+        },
+        {
+          "answer": "John Paul Jr.",
+          "display": "#8 — 84 points",
+          "aliases": []
+        },
+        {
+          "answer": "Chip Ganassi",
+          "display": "#9 — 56 points",
+          "aliases": [
+            "Ganassi"
+          ]
+        },
+        {
+          "answer": "Pancho Carter",
+          "display": "#10 — 53 points",
+          "aliases": [
+            "Carter"
+          ]
+        },
+        {
+          "answer": "Pete Halsmer",
+          "display": "#11 — 48 points",
+          "aliases": [
+            "Halsmer"
+          ]
+        },
+        {
+          "answer": "Roger Mears",
+          "display": "#12 — 43 points",
+          "aliases": []
+        },
+        {
+          "answer": "Howdy Holmes",
+          "display": "#13 — 39 points",
+          "aliases": [
+            "Holmes"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/motorsport/indycar/seasons",
+      "question": "Top 10 drivers in the final 1984 CART PPG Indy Car World Series standings",
+      "cutoff": 10,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1376730163 | table 5 | name: Driver | value: Pos | order: asc",
+      "tags": [
+        "motorsport",
+        "indycar",
+        "drivers-championship",
+        "1984"
+      ],
+      "answers": [
+        {
+          "answer": "Mario Andretti",
+          "display": "#1 — 176 points",
+          "aliases": []
+        },
+        {
+          "answer": "Tom Sneva",
+          "display": "#2 — 163 points",
+          "aliases": [
+            "Sneva"
+          ]
+        },
+        {
+          "answer": "Bobby Rahal",
+          "display": "#3 — 137 points",
+          "aliases": [
+            "Rahal"
+          ]
+        },
+        {
+          "answer": "Danny Sullivan",
+          "display": "#4 — 110 points",
+          "aliases": [
+            "Sullivan"
+          ]
+        },
+        {
+          "answer": "Rick Mears",
+          "display": "#5 — 110 points",
+          "aliases": [
+            "Mears"
+          ]
+        },
+        {
+          "answer": "Al Unser Jr.",
+          "display": "#6 — 103 points",
+          "aliases": []
+        },
+        {
+          "answer": "Michael Andretti",
+          "display": "#7 — 102 points",
+          "aliases": []
+        },
+        {
+          "answer": "Geoff Brabham",
+          "display": "#8 — 87 points",
+          "aliases": [
+            "Brabham"
+          ]
+        },
+        {
+          "answer": "Al Unser",
+          "display": "#9 — 76 points",
+          "aliases": []
+        },
+        {
+          "answer": "Danny Ongais",
+          "display": "#10 — 53 points",
+          "aliases": [
+            "Ongais"
+          ]
+        },
+        {
+          "answer": "Roberto Guerrero",
+          "display": "#11 — 52 points",
+          "aliases": [
+            "Guerrero"
+          ]
+        },
+        {
+          "answer": "Howdy Holmes",
+          "display": "#12 — 44 points",
+          "aliases": [
+            "Holmes"
+          ]
+        },
+        {
+          "answer": "Josele Garza",
+          "display": "#13 — 42 points",
+          "aliases": [
+            "Garza"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/motorsport/indycar/seasons",
+      "question": "Top 10 drivers in the final 1985 CART PPG Indy Car World Series standings",
+      "cutoff": 10,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1357849092 | table 5 | name: Driver | value: Pos | order: asc",
+      "tags": [
+        "motorsport",
+        "indycar",
+        "drivers-championship",
+        "1985"
+      ],
+      "answers": [
+        {
+          "answer": "Al Unser",
+          "display": "#1 — 151 points",
+          "aliases": []
+        },
+        {
+          "answer": "Al Unser Jr.",
+          "display": "#2 — 150 points",
+          "aliases": []
+        },
+        {
+          "answer": "Bobby Rahal",
+          "display": "#3 — 133 points",
+          "aliases": [
+            "Rahal"
+          ]
+        },
+        {
+          "answer": "Danny Sullivan",
+          "display": "#4 — 126 points",
+          "aliases": [
+            "Sullivan"
+          ]
+        },
+        {
+          "answer": "Mario Andretti",
+          "display": "#5 — 114 points",
+          "aliases": []
+        },
+        {
+          "answer": "Emerson Fittipaldi",
+          "display": "#6 — 104 points",
+          "aliases": [
+            "Fittipaldi"
+          ]
+        },
+        {
+          "answer": "Tom Sneva",
+          "display": "#7 — 66 points",
+          "aliases": [
+            "Sneva"
+          ]
+        },
+        {
+          "answer": "Jacques Villeneuve Sr.",
+          "display": "#8 — 54 points",
+          "aliases": []
+        },
+        {
+          "answer": "Michael Andretti",
+          "display": "#9 — 53 points",
+          "aliases": []
+        },
+        {
+          "answer": "Rick Mears",
+          "display": "#10 — 51 points",
+          "aliases": [
+            "Mears"
+          ]
+        },
+        {
+          "answer": "Johnny Rutherford",
+          "display": "#11 — 51 points",
+          "aliases": [
+            "Rutherford"
+          ]
+        },
+        {
+          "answer": "Josele Garza",
+          "display": "#12 — 46 points",
+          "aliases": [
+            "Garza"
+          ]
+        },
+        {
+          "answer": "Ed Pimm",
+          "display": "#13 — 45 points",
+          "aliases": [
+            "Pimm"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/motorsport/indycar/seasons",
+      "question": "Top 10 drivers in the final 1986 CART PPG Indy Car World Series standings",
+      "cutoff": 10,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1367613260 | table 5 | name: Driver | value: Pos | order: asc",
+      "tags": [
+        "motorsport",
+        "indycar",
+        "drivers-championship",
+        "1986"
+      ],
+      "answers": [
+        {
+          "answer": "Bobby Rahal",
+          "display": "#1 — 179 points",
+          "aliases": [
+            "Rahal"
+          ]
+        },
+        {
+          "answer": "Michael Andretti",
+          "display": "#2 — 171 points",
+          "aliases": []
+        },
+        {
+          "answer": "Danny Sullivan",
+          "display": "#3 — 147 points",
+          "aliases": [
+            "Sullivan"
+          ]
+        },
+        {
+          "answer": "Al Unser Jr.",
+          "display": "#4 — 137 points",
+          "aliases": []
+        },
+        {
+          "answer": "Mario Andretti",
+          "display": "#5 — 136 points",
+          "aliases": []
+        },
+        {
+          "answer": "Kevin Cogan",
+          "display": "#6 — 115 points",
+          "aliases": [
+            "Cogan"
+          ]
+        },
+        {
+          "answer": "Emerson Fittipaldi",
+          "display": "#7 — 103 points",
+          "aliases": [
+            "Fittipaldi"
+          ]
+        },
+        {
+          "answer": "Rick Mears",
+          "display": "#8 — 89 points",
+          "aliases": [
+            "Mears"
+          ]
+        },
+        {
+          "answer": "Roberto Guerrero",
+          "display": "#9 — 87 points",
+          "aliases": [
+            "Guerrero"
+          ]
+        },
+        {
+          "answer": "Tom Sneva",
+          "display": "#10 — 82 points",
+          "aliases": [
+            "Sneva"
+          ]
+        },
+        {
+          "answer": "Johnny Rutherford",
+          "display": "#11 — 78 points",
+          "aliases": [
+            "Rutherford"
+          ]
+        },
+        {
+          "answer": "Geoff Brabham",
+          "display": "#12 — 64 points",
+          "aliases": [
+            "Brabham"
+          ]
+        },
+        {
+          "answer": "Raul Boesel",
+          "display": "#13 — 54 points",
+          "aliases": [
+            "Boesel"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/motorsport/indycar/seasons",
+      "question": "Top 10 drivers in the final 1987 CART PPG Indy Car World Series standings",
+      "cutoff": 10,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1375414973 | table 5 | name: Driver | value: Pos | order: asc",
+      "tags": [
+        "motorsport",
+        "indycar",
+        "drivers-championship",
+        "1987"
+      ],
+      "answers": [
+        {
+          "answer": "Bobby Rahal",
+          "display": "#1 — 188 points",
+          "aliases": [
+            "Rahal"
+          ]
+        },
+        {
+          "answer": "Michael Andretti",
+          "display": "#2 — 158 points",
+          "aliases": []
+        },
+        {
+          "answer": "Al Unser Jr.",
+          "display": "#3 — 107 points",
+          "aliases": []
+        },
+        {
+          "answer": "Roberto Guerrero",
+          "display": "#4 — 106 points",
+          "aliases": [
+            "Guerrero"
+          ]
+        },
+        {
+          "answer": "Rick Mears",
+          "display": "#5 — 102 points",
+          "aliases": [
+            "Mears"
+          ]
+        },
+        {
+          "answer": "Mario Andretti",
+          "display": "#6 — 100 points",
+          "aliases": []
+        },
+        {
+          "answer": "Arie Luyendyk",
+          "display": "#7 — 98 points",
+          "aliases": [
+            "Luyendyk"
+          ]
+        },
+        {
+          "answer": "Geoff Brabham",
+          "display": "#8 — 90 points",
+          "aliases": [
+            "Brabham"
+          ]
+        },
+        {
+          "answer": "Danny Sullivan",
+          "display": "#9 — 87 points",
+          "aliases": [
+            "Sullivan"
+          ]
+        },
+        {
+          "answer": "Emerson Fittipaldi",
+          "display": "#10 — 78 points",
+          "aliases": [
+            "Fittipaldi"
+          ]
+        },
+        {
+          "answer": "Josele Garza",
+          "display": "#11 — 46 points",
+          "aliases": [
+            "Garza"
+          ]
+        },
+        {
+          "answer": "Fabrizio Barbazza",
+          "display": "#12 — 42 points",
+          "aliases": [
+            "Barbazza"
+          ]
+        },
+        {
+          "answer": "Al Unser",
+          "display": "#13 — 39 points",
+          "aliases": []
+        }
+      ]
+    },
+    {
+      "category": "sports/motorsport/indycar/seasons",
+      "question": "Top 10 drivers in the final 1988 CART PPG Indy Car World Series standings",
+      "cutoff": 10,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1372680975 | table 5 | name: Driver | value: Pos | order: asc",
+      "tags": [
+        "motorsport",
+        "indycar",
+        "drivers-championship",
+        "1988"
+      ],
+      "answers": [
+        {
+          "answer": "Danny Sullivan",
+          "display": "#1 — 182 points",
+          "aliases": [
+            "Sullivan"
+          ]
+        },
+        {
+          "answer": "Al Unser Jr.",
+          "display": "#2 — 149 points",
+          "aliases": []
+        },
+        {
+          "answer": "Bobby Rahal",
+          "display": "#3 — 136 points",
+          "aliases": [
+            "Rahal"
+          ]
+        },
+        {
+          "answer": "Rick Mears",
+          "display": "#4 — 129 points",
+          "aliases": [
+            "Mears"
+          ]
+        },
+        {
+          "answer": "Mario Andretti",
+          "display": "#5 — 126 points",
+          "aliases": []
+        },
+        {
+          "answer": "Michael Andretti",
+          "display": "#6 — 119 points",
+          "aliases": []
+        },
+        {
+          "answer": "Emerson Fittipaldi",
+          "display": "#7 — 105 points",
+          "aliases": [
+            "Fittipaldi"
+          ]
+        },
+        {
+          "answer": "Raul Boesel",
+          "display": "#8 — 89 points",
+          "aliases": [
+            "Boesel"
+          ]
+        },
+        {
+          "answer": "Derek Daly",
+          "display": "#9 — 53 points",
+          "aliases": [
+            "Daly"
+          ]
+        },
+        {
+          "answer": "Teo Fabi",
+          "display": "#10 — 44 points",
+          "aliases": [
+            "Fabi"
+          ]
+        },
+        {
+          "answer": "John Jones",
+          "display": "#11 — 44 points",
+          "aliases": [
+            "Jones"
+          ]
+        },
+        {
+          "answer": "Roberto Guerrero",
+          "display": "#12 — 40 points",
+          "aliases": [
+            "Guerrero"
+          ]
+        },
+        {
+          "answer": "Kevin Cogan",
+          "display": "#13 — 40 points",
+          "aliases": [
+            "Cogan"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/motorsport/indycar/seasons",
+      "question": "Top 10 drivers in the final 1989 CART PPG Indy Car World Series standings",
+      "cutoff": 10,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1372681012 | table 5 | name: Driver | value: Pos | order: asc",
+      "tags": [
+        "motorsport",
+        "indycar",
+        "drivers-championship",
+        "1989"
+      ],
+      "answers": [
+        {
+          "answer": "Emerson Fittipaldi",
+          "display": "#1 — 196 points",
+          "aliases": [
+            "Fittipaldi"
+          ]
+        },
+        {
+          "answer": "Rick Mears",
+          "display": "#2 — 186 points",
+          "aliases": [
+            "Mears"
+          ]
+        },
+        {
+          "answer": "Michael Andretti",
+          "display": "#3 — 150 points",
+          "aliases": []
+        },
+        {
+          "answer": "Teo Fabi",
+          "display": "#4 — 141 points",
+          "aliases": [
+            "Fabi"
+          ]
+        },
+        {
+          "answer": "Al Unser Jr.",
+          "display": "#5 — 136 points",
+          "aliases": []
+        },
+        {
+          "answer": "Mario Andretti",
+          "display": "#6 — 110 points",
+          "aliases": []
+        },
+        {
+          "answer": "Danny Sullivan",
+          "display": "#7 — 107 points",
+          "aliases": [
+            "Sullivan"
+          ]
+        },
+        {
+          "answer": "Scott Pruett",
+          "display": "#8 — 101 points",
+          "aliases": [
+            "Pruett"
+          ]
+        },
+        {
+          "answer": "Bobby Rahal",
+          "display": "#9 — 88 points",
+          "aliases": [
+            "Rahal"
+          ]
+        },
+        {
+          "answer": "Arie Luyendyk",
+          "display": "#10 — 75 points",
+          "aliases": [
+            "Luyendyk"
+          ]
+        },
+        {
+          "answer": "Raul Boesel",
+          "display": "#11 — 68 points",
+          "aliases": [
+            "Boesel"
+          ]
+        },
+        {
+          "answer": "Derek Daly",
+          "display": "#12 — 25 points",
+          "aliases": [
+            "Daly"
+          ]
+        },
+        {
+          "answer": "Pancho Carter",
+          "display": "#13 — 18 points",
+          "aliases": [
+            "Carter"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/motorsport/indycar/seasons",
+      "question": "Top 10 drivers in the final 1990 CART PPG Indy Car World Series standings",
+      "cutoff": 10,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1372681043 | table 5 | name: Driver | value: Pos | order: asc",
+      "tags": [
+        "motorsport",
+        "indycar",
+        "drivers-championship",
+        "1990"
+      ],
+      "answers": [
+        {
+          "answer": "Al Unser Jr.",
+          "display": "#1 — 210 points",
+          "aliases": []
+        },
+        {
+          "answer": "Michael Andretti",
+          "display": "#2 — 181 points",
+          "aliases": []
+        },
+        {
+          "answer": "Rick Mears",
+          "display": "#3 — 168 points",
+          "aliases": [
+            "Mears"
+          ]
+        },
+        {
+          "answer": "Bobby Rahal",
+          "display": "#4 — 153 points",
+          "aliases": [
+            "Rahal"
+          ]
+        },
+        {
+          "answer": "Emerson Fittipaldi",
+          "display": "#5 — 144 points",
+          "aliases": [
+            "Fittipaldi"
+          ]
+        },
+        {
+          "answer": "Danny Sullivan",
+          "display": "#6 — 139 points",
+          "aliases": [
+            "Sullivan"
+          ]
+        },
+        {
+          "answer": "Mario Andretti",
+          "display": "#7 — 136 points",
+          "aliases": []
+        },
+        {
+          "answer": "Arie Luyendyk",
+          "display": "#8 — 90 points",
+          "aliases": [
+            "Luyendyk"
+          ]
+        },
+        {
+          "answer": "Eddie Cheever",
+          "display": "#9 — 80 points",
+          "aliases": [
+            "Cheever"
+          ]
+        },
+        {
+          "answer": "John Andretti",
+          "display": "#10 — 51 points",
+          "aliases": []
+        },
+        {
+          "answer": "A. J. Foyt",
+          "display": "#11 — 42 points",
+          "aliases": [
+            "Foyt"
+          ]
+        },
+        {
+          "answer": "Raul Boesel",
+          "display": "#12 — 42 points",
+          "aliases": [
+            "Boesel"
+          ]
+        },
+        {
+          "answer": "Scott Goodyear",
+          "display": "#13 — 36 points",
+          "aliases": [
+            "Goodyear"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/motorsport/indycar/seasons",
+      "question": "Top 10 drivers in the final 1991 CART PPG Indy Car World Series standings",
+      "cutoff": 10,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1372681073 | table 5 | name: Driver | value: Pos | order: asc",
+      "tags": [
+        "motorsport",
+        "indycar",
+        "drivers-championship",
+        "1991"
+      ],
+      "answers": [
+        {
+          "answer": "Michael Andretti",
+          "display": "#1 — 234 points",
+          "aliases": []
+        },
+        {
+          "answer": "Bobby Rahal",
+          "display": "#2 — 200 points",
+          "aliases": [
+            "Rahal"
+          ]
+        },
+        {
+          "answer": "Al Unser Jr.",
+          "display": "#3 — 197 points",
+          "aliases": []
+        },
+        {
+          "answer": "Rick Mears",
+          "display": "#4 — 145 points",
+          "aliases": [
+            "Mears"
+          ]
+        },
+        {
+          "answer": "Emerson Fittipaldi",
+          "display": "#5 — 140 points",
+          "aliases": [
+            "Fittipaldi"
+          ]
+        },
+        {
+          "answer": "Arie Luyendyk",
+          "display": "#6 — 134 points",
+          "aliases": [
+            "Luyendyk"
+          ]
+        },
+        {
+          "answer": "Mario Andretti",
+          "display": "#7 — 132 points",
+          "aliases": []
+        },
+        {
+          "answer": "John Andretti",
+          "display": "#8 — 105 points",
+          "aliases": []
+        },
+        {
+          "answer": "Eddie Cheever",
+          "display": "#9 — 91 points",
+          "aliases": [
+            "Cheever"
+          ]
+        },
+        {
+          "answer": "Scott Pruett",
+          "display": "#10 — 67 points",
+          "aliases": [
+            "Pruett"
+          ]
+        },
+        {
+          "answer": "Danny Sullivan",
+          "display": "#11 — 56 points",
+          "aliases": [
+            "Sullivan"
+          ]
+        },
+        {
+          "answer": "Scott Brayton",
+          "display": "#12 — 52 points",
+          "aliases": [
+            "Brayton"
+          ]
+        },
+        {
+          "answer": "Scott Goodyear",
+          "display": "#13 — 42 points",
+          "aliases": [
+            "Goodyear"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/motorsport/indycar/seasons",
+      "question": "Top 10 drivers in the final 1992 CART PPG Indy Car World Series standings",
+      "cutoff": 10,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1372681125 | table 5 | name: Driver | value: Pos | order: asc",
+      "tags": [
+        "motorsport",
+        "indycar",
+        "drivers-championship",
+        "1992"
+      ],
+      "answers": [
+        {
+          "answer": "Bobby Rahal",
+          "display": "#1 — 196 points",
+          "aliases": [
+            "Rahal"
+          ]
+        },
+        {
+          "answer": "Michael Andretti",
+          "display": "#2 — 192 points",
+          "aliases": []
+        },
+        {
+          "answer": "Al Unser Jr.",
+          "display": "#3 — 169 points",
+          "aliases": []
+        },
+        {
+          "answer": "Emerson Fittipaldi",
+          "display": "#4 — 151 points",
+          "aliases": [
+            "Fittipaldi"
+          ]
+        },
+        {
+          "answer": "Scott Goodyear",
+          "display": "#5 — 108 points",
+          "aliases": [
+            "Goodyear"
+          ]
+        },
+        {
+          "answer": "Mario Andretti",
+          "display": "#6 — 105 points",
+          "aliases": []
+        },
+        {
+          "answer": "Danny Sullivan",
+          "display": "#7 — 99 points",
+          "aliases": [
+            "Sullivan"
+          ]
+        },
+        {
+          "answer": "John Andretti",
+          "display": "#8 — 94 points",
+          "aliases": []
+        },
+        {
+          "answer": "Raul Boesel",
+          "display": "#9 — 80 points",
+          "aliases": [
+            "Boesel"
+          ]
+        },
+        {
+          "answer": "Eddie Cheever",
+          "display": "#10 — 80 points",
+          "aliases": [
+            "Cheever"
+          ]
+        },
+        {
+          "answer": "Scott Pruett",
+          "display": "#11 — 62 points",
+          "aliases": [
+            "Pruett"
+          ]
+        },
+        {
+          "answer": "Paul Tracy",
+          "display": "#12 — 59 points",
+          "aliases": [
+            "Tracy"
+          ]
+        },
+        {
+          "answer": "Rick Mears",
+          "display": "#13 — 47 points",
+          "aliases": [
+            "Mears"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/motorsport/indycar/seasons",
+      "question": "Top 10 drivers in the final 1993 CART PPG Indy Car World Series standings",
+      "cutoff": 10,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1362020690 | table 5 | name: Driver | value: Pos | order: asc",
+      "tags": [
+        "motorsport",
+        "indycar",
+        "drivers-championship",
+        "1993"
+      ],
+      "answers": [
+        {
+          "answer": "Nigel Mansell",
+          "display": "#1 — 192 points",
+          "aliases": [
+            "Mansell"
+          ]
+        },
+        {
+          "answer": "Emerson Fittipaldi",
+          "display": "#2 — 183 points",
+          "aliases": [
+            "Fittipaldi"
+          ]
+        },
+        {
+          "answer": "Paul Tracy",
+          "display": "#3 — 157 points",
+          "aliases": [
+            "Tracy"
+          ]
+        },
+        {
+          "answer": "Bobby Rahal",
+          "display": "#4 — 133 points",
+          "aliases": [
+            "Rahal"
+          ]
+        },
+        {
+          "answer": "Raul Boesel",
+          "display": "#5 — 132 points",
+          "aliases": [
+            "Boesel"
+          ]
+        },
+        {
+          "answer": "Mario Andretti",
+          "display": "#6 — 117 points",
+          "aliases": [
+            "Andretti"
+          ]
+        },
+        {
+          "answer": "Al Unser Jr.",
+          "display": "#7 — 100 points",
+          "aliases": []
+        },
+        {
+          "answer": "Arie Luyendyk",
+          "display": "#8 — 90 points",
+          "aliases": [
+            "Luyendyk"
+          ]
+        },
+        {
+          "answer": "Scott Goodyear",
+          "display": "#9 — 86 points",
+          "aliases": [
+            "Goodyear"
+          ]
+        },
+        {
+          "answer": "Robby Gordon",
+          "display": "#10 — 84 points",
+          "aliases": [
+            "Gordon"
+          ]
+        },
+        {
+          "answer": "Teo Fabi",
+          "display": "#11 — 64 points",
+          "aliases": [
+            "Fabi"
+          ]
+        },
+        {
+          "answer": "Danny Sullivan",
+          "display": "#12 — 43 points",
+          "aliases": [
+            "Sullivan"
+          ]
+        },
+        {
+          "answer": "Stefan Johansson",
+          "display": "#13 — 43 points",
+          "aliases": [
+            "Johansson"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/motorsport/indycar/seasons",
+      "question": "Top 10 drivers in the final 1994 CART PPG Indy Car World Series standings",
+      "cutoff": 10,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1363817820 | table 5 | name: Driver | value: Pos | order: asc",
+      "tags": [
+        "motorsport",
+        "indycar",
+        "drivers-championship",
+        "1994"
+      ],
+      "answers": [
+        {
+          "answer": "Al Unser Jr.",
+          "display": "#1 — 225 points",
+          "aliases": []
+        },
+        {
+          "answer": "Emerson Fittipaldi",
+          "display": "#2 — 178 points",
+          "aliases": [
+            "Fittipaldi"
+          ]
+        },
+        {
+          "answer": "Paul Tracy",
+          "display": "#3 — 152 points",
+          "aliases": [
+            "Tracy"
+          ]
+        },
+        {
+          "answer": "Michael Andretti",
+          "display": "#4 — 118 points",
+          "aliases": [
+            "Andretti"
+          ]
+        },
+        {
+          "answer": "Robby Gordon",
+          "display": "#5 — 104 points",
+          "aliases": [
+            "Gordon"
+          ]
+        },
+        {
+          "answer": "Jacques Villeneuve",
+          "display": "#6 — 94 points",
+          "aliases": [
+            "Villeneuve"
+          ]
+        },
+        {
+          "answer": "Raul Boesel",
+          "display": "#7 — 90 points",
+          "aliases": [
+            "Boesel"
+          ]
+        },
+        {
+          "answer": "Nigel Mansell",
+          "display": "#8 — 88 points",
+          "aliases": [
+            "Mansell"
+          ]
+        },
+        {
+          "answer": "Teo Fabi",
+          "display": "#9 — 79 points",
+          "aliases": [
+            "Fabi"
+          ]
+        },
+        {
+          "answer": "Bobby Rahal",
+          "display": "#10 — 59 points",
+          "aliases": [
+            "Rahal"
+          ]
+        },
+        {
+          "answer": "Stefan Johansson",
+          "display": "#11 — 57 points",
+          "aliases": [
+            "Johansson"
+          ]
+        },
+        {
+          "answer": "Scott Goodyear",
+          "display": "#12 — 55 points",
+          "aliases": [
+            "Goodyear"
+          ]
+        },
+        {
+          "answer": "Adrián Fernández",
+          "display": "#13 — 46 points",
+          "aliases": [
+            "Fernández"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/motorsport/indycar/seasons",
+      "question": "Top 10 drivers in the final 1995 CART PPG Indy Car World Series standings",
+      "cutoff": 10,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1370967023 | table 5 | name: Driver | value: Pos | order: asc",
+      "tags": [
+        "motorsport",
+        "indycar",
+        "drivers-championship",
+        "1995"
+      ],
+      "answers": [
+        {
+          "answer": "Jacques Villeneuve",
+          "display": "#1 — 172 points",
+          "aliases": [
+            "Villeneuve"
+          ]
+        },
+        {
+          "answer": "Al Unser Jr.",
+          "display": "#2 — 161 points",
+          "aliases": []
+        },
+        {
+          "answer": "Bobby Rahal",
+          "display": "#3 — 128 points",
+          "aliases": [
+            "Rahal"
+          ]
+        },
+        {
+          "answer": "Michael Andretti",
+          "display": "#4 — 123 points",
+          "aliases": [
+            "Andretti"
+          ]
+        },
+        {
+          "answer": "Robby Gordon",
+          "display": "#5 — 121 points",
+          "aliases": [
+            "Gordon"
+          ]
+        },
+        {
+          "answer": "Paul Tracy",
+          "display": "#6 — 115 points",
+          "aliases": [
+            "Tracy"
+          ]
+        },
+        {
+          "answer": "Scott Pruett",
+          "display": "#7 — 112 points",
+          "aliases": [
+            "Pruett"
+          ]
+        },
+        {
+          "answer": "Jimmy Vasser",
+          "display": "#8 — 92 points",
+          "aliases": [
+            "Vasser"
+          ]
+        },
+        {
+          "answer": "Teo Fabi",
+          "display": "#9 — 83 points",
+          "aliases": [
+            "Fabi"
+          ]
+        },
+        {
+          "answer": "Maurício Gugelmin",
+          "display": "#10 — 80 points",
+          "aliases": [
+            "Gugelmin"
+          ]
+        },
+        {
+          "answer": "Emerson Fittipaldi",
+          "display": "#11 — 67 points",
+          "aliases": [
+            "Fittipaldi"
+          ]
+        },
+        {
+          "answer": "Adrián Fernández",
+          "display": "#12 — 66 points",
+          "aliases": [
+            "Fernández"
+          ]
+        },
+        {
+          "answer": "Stefan Johansson",
+          "display": "#13 — 60 points",
+          "aliases": [
+            "Johansson"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/motorsport/indycar/seasons",
+      "question": "Top 10 drivers in the final 1996 CART PPG Indy Car World Series standings",
+      "cutoff": 10,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1376579917 | table 7 | name: Driver | value: Pos | order: asc",
+      "tags": [
+        "motorsport",
+        "indycar",
+        "drivers-championship",
+        "1996"
+      ],
+      "answers": [
+        {
+          "answer": "Jimmy Vasser",
+          "display": "#1 — 154 points",
+          "aliases": [
+            "Vasser"
+          ]
+        },
+        {
+          "answer": "Michael Andretti",
+          "display": "#2 — 132 points",
+          "aliases": [
+            "Andretti"
+          ]
+        },
+        {
+          "answer": "Alex Zanardi",
+          "display": "#3 — 132 points",
+          "aliases": [
+            "Zanardi"
+          ]
+        },
+        {
+          "answer": "Al Unser Jr.",
+          "display": "#4 — 125 points",
+          "aliases": []
+        },
+        {
+          "answer": "Christian Fittipaldi",
+          "display": "#5 — 110 points",
+          "aliases": [
+            "Fittipaldi"
+          ]
+        },
+        {
+          "answer": "Gil de Ferran",
+          "display": "#6 — 104 points",
+          "aliases": [
+            "Ferran"
+          ]
+        },
+        {
+          "answer": "Bobby Rahal",
+          "display": "#7 — 102 points",
+          "aliases": [
+            "Rahal"
+          ]
+        },
+        {
+          "answer": "Bryan Herta",
+          "display": "#8 — 86 points",
+          "aliases": [
+            "Herta"
+          ]
+        },
+        {
+          "answer": "Greg Moore",
+          "display": "#9 — 84 points",
+          "aliases": [
+            "Moore"
+          ]
+        },
+        {
+          "answer": "Scott Pruett",
+          "display": "#10 — 82 points",
+          "aliases": [
+            "Pruett"
+          ]
+        },
+        {
+          "answer": "André Ribeiro",
+          "display": "#11 — 76 points",
+          "aliases": [
+            "Ribeiro"
+          ]
+        },
+        {
+          "answer": "Adrián Fernández",
+          "display": "#12 — 71 points",
+          "aliases": [
+            "Fernández"
+          ]
+        },
+        {
+          "answer": "Paul Tracy",
+          "display": "#13 — 60 points",
+          "aliases": [
+            "Tracy"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/motorsport/indycar/seasons",
+      "question": "Top 10 drivers in the final 1998 CART FedEx Championship Series standings",
+      "cutoff": 10,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1373679309 | table 5 | name: Driver | value: Pos | order: asc",
+      "tags": [
+        "motorsport",
+        "indycar",
+        "drivers-championship",
+        "1998"
+      ],
+      "answers": [
+        {
+          "answer": "Alex Zanardi",
+          "display": "#1 — 285 points",
+          "aliases": [
+            "Zanardi"
+          ]
+        },
+        {
+          "answer": "Jimmy Vasser",
+          "display": "#2 — 169 points",
+          "aliases": [
+            "Vasser"
+          ]
+        },
+        {
+          "answer": "Dario Franchitti",
+          "display": "#3 — 160 points",
+          "aliases": [
+            "Franchitti"
+          ]
+        },
+        {
+          "answer": "Adrián Fernández",
+          "display": "#4 — 154 points",
+          "aliases": [
+            "Fernández"
+          ]
+        },
+        {
+          "answer": "Greg Moore",
+          "display": "#5 — 141 points",
+          "aliases": [
+            "Moore"
+          ]
+        },
+        {
+          "answer": "Scott Pruett",
+          "display": "#6 — 121 points",
+          "aliases": [
+            "Pruett"
+          ]
+        },
+        {
+          "answer": "Michael Andretti",
+          "display": "#7 — 112 points",
+          "aliases": [
+            "Andretti"
+          ]
+        },
+        {
+          "answer": "Bryan Herta",
+          "display": "#8 — 97 points",
+          "aliases": [
+            "Herta"
+          ]
+        },
+        {
+          "answer": "Tony Kanaan",
+          "display": "#9 — 92 points",
+          "aliases": [
+            "Kanaan"
+          ]
+        },
+        {
+          "answer": "Bobby Rahal",
+          "display": "#10 — 82 points",
+          "aliases": [
+            "Rahal"
+          ]
+        },
+        {
+          "answer": "Al Unser Jr.",
+          "display": "#11 — 72 points",
+          "aliases": []
+        },
+        {
+          "answer": "Gil de Ferran",
+          "display": "#12 — 67 points",
+          "aliases": [
+            "Ferran"
+          ]
+        },
+        {
+          "answer": "Paul Tracy",
+          "display": "#13 — 61 points",
+          "aliases": [
+            "Tracy"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/motorsport/indycar/seasons",
+      "question": "Top 10 drivers in the final 1999 CART FedEx Championship Series standings",
+      "cutoff": 10,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1370967148 | table 6 | name: Driver | value: Pos | order: asc",
+      "tags": [
+        "motorsport",
+        "indycar",
+        "drivers-championship",
+        "1999"
+      ],
+      "answers": [
+        {
+          "answer": "Juan Pablo Montoya",
+          "display": "#1 — 212 points",
+          "aliases": [
+            "Montoya"
+          ]
+        },
+        {
+          "answer": "Dario Franchitti",
+          "display": "#2 — 212 points",
+          "aliases": [
+            "Franchitti"
+          ]
+        },
+        {
+          "answer": "Paul Tracy",
+          "display": "#3 — 161 points",
+          "aliases": [
+            "Tracy"
+          ]
+        },
+        {
+          "answer": "Michael Andretti",
+          "display": "#4 — 151 points",
+          "aliases": [
+            "Andretti"
+          ]
+        },
+        {
+          "answer": "Max Papis",
+          "display": "#5 — 150 points",
+          "aliases": [
+            "Papis"
+          ]
+        },
+        {
+          "answer": "Adrián Fernández",
+          "display": "#6 — 140 points",
+          "aliases": [
+            "Fernández"
+          ]
+        },
+        {
+          "answer": "Christian Fittipaldi",
+          "display": "#7 — 121 points",
+          "aliases": [
+            "Fittipaldi"
+          ]
+        },
+        {
+          "answer": "Gil de Ferran",
+          "display": "#8 — 108 points",
+          "aliases": [
+            "Ferran"
+          ]
+        },
+        {
+          "answer": "Jimmy Vasser",
+          "display": "#9 — 104 points",
+          "aliases": [
+            "Vasser"
+          ]
+        },
+        {
+          "answer": "Greg Moore",
+          "display": "#10 — 97 points",
+          "aliases": [
+            "Moore"
+          ]
+        },
+        {
+          "answer": "Tony Kanaan",
+          "display": "#11 — 85 points",
+          "aliases": [
+            "Kanaan"
+          ]
+        },
+        {
+          "answer": "Bryan Herta",
+          "display": "#12 — 84 points",
+          "aliases": [
+            "Herta"
+          ]
+        },
+        {
+          "answer": "Patrick Carpentier",
+          "display": "#13 — 61 points",
+          "aliases": [
+            "Carpentier"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/motorsport/indycar/seasons",
+      "question": "Top 10 drivers in the final 2001 CART FedEx Championship Series standings",
+      "cutoff": 10,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1374256011 | table 5 | name: Driver | value: Pos | order: asc",
+      "tags": [
+        "motorsport",
+        "indycar",
+        "drivers-championship",
+        "2001"
+      ],
+      "answers": [
+        {
+          "answer": "Gil de Ferran",
+          "display": "#1 — 199 points",
+          "aliases": [
+            "Ferran"
+          ]
+        },
+        {
+          "answer": "Kenny Bräck",
+          "display": "#2 — 163 points",
+          "aliases": [
+            "Bräck"
+          ]
+        },
+        {
+          "answer": "Michael Andretti",
+          "display": "#3 — 147 points",
+          "aliases": [
+            "Andretti"
+          ]
+        },
+        {
+          "answer": "Hélio Castroneves",
+          "display": "#4 — 141 points",
+          "aliases": [
+            "Castroneves"
+          ]
+        },
+        {
+          "answer": "Cristiano da Matta",
+          "display": "#5 — 140 points",
+          "aliases": [
+            "Matta"
+          ]
+        },
+        {
+          "answer": "Max Papis",
+          "display": "#6 — 107 points",
+          "aliases": [
+            "Papis"
+          ]
+        },
+        {
+          "answer": "Dario Franchitti",
+          "display": "#7 — 105 points",
+          "aliases": [
+            "Franchitti"
+          ]
+        },
+        {
+          "answer": "Scott Dixon",
+          "display": "#8 — 98 points",
+          "aliases": [
+            "Dixon"
+          ]
+        },
+        {
+          "answer": "Tony Kanaan",
+          "display": "#9 — 93 points",
+          "aliases": [
+            "Kanaan"
+          ]
+        },
+        {
+          "answer": "Patrick Carpentier",
+          "display": "#10 — 91 points",
+          "aliases": [
+            "Carpentier"
+          ]
+        },
+        {
+          "answer": "Alex Tagliani",
+          "display": "#11 — 80 points",
+          "aliases": [
+            "Tagliani"
+          ]
+        },
+        {
+          "answer": "Jimmy Vasser",
+          "display": "#12 — 77 points",
+          "aliases": [
+            "Vasser"
+          ]
+        },
+        {
+          "answer": "Roberto Moreno",
+          "display": "#13 — 76 points",
+          "aliases": [
+            "Moreno"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/motorsport/indycar/seasons",
+      "question": "Top 10 drivers in the final 2003 IndyCar Series standings",
+      "cutoff": 10,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1376702153 | table 4 | name: Driver | value: Pos | order: asc",
+      "tags": [
+        "motorsport",
+        "indycar",
+        "drivers-championship",
+        "2003"
+      ],
+      "answers": [
+        {
+          "answer": "Scott Dixon",
+          "display": "#1 — 507 points",
+          "aliases": [
+            "Dixon"
+          ]
+        },
+        {
+          "answer": "Gil de Ferran",
+          "display": "#2 — 489 points",
+          "aliases": [
+            "Ferran"
+          ]
+        },
+        {
+          "answer": "Hélio Castroneves",
+          "display": "#3 — 484 points",
+          "aliases": [
+            "Castroneves"
+          ]
+        },
+        {
+          "answer": "Tony Kanaan",
+          "display": "#4 — 476 points",
+          "aliases": [
+            "Kanaan"
+          ]
+        },
+        {
+          "answer": "Sam Hornish Jr.",
+          "display": "#5 — 461 points",
+          "aliases": []
+        },
+        {
+          "answer": "Al Unser Jr.",
+          "display": "#6 — 374 points",
+          "aliases": []
+        },
+        {
+          "answer": "Tomas Scheckter",
+          "display": "#7 — 356 points",
+          "aliases": [
+            "Scheckter"
+          ]
+        },
+        {
+          "answer": "Scott Sharp",
+          "display": "#8 — 351 points",
+          "aliases": [
+            "Sharp"
+          ]
+        },
+        {
+          "answer": "Kenny Bräck",
+          "display": "#9 — 342 points",
+          "aliases": [
+            "Bräck"
+          ]
+        },
+        {
+          "answer": "Tora Takagi",
+          "display": "#10 — 317 points",
+          "aliases": [
+            "Takagi"
+          ]
+        },
+        {
+          "answer": "Dan Wheldon",
+          "display": "#11 — 312 points",
+          "aliases": [
+            "Wheldon"
+          ]
+        },
+        {
+          "answer": "Roger Yasukawa",
+          "display": "#12 — 301 points",
+          "aliases": [
+            "Yasukawa"
+          ]
+        },
+        {
+          "answer": "Bryan Herta",
+          "display": "#13 — 277 points",
+          "aliases": [
+            "Herta"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/motorsport/indycar/seasons",
+      "question": "Top 10 drivers in the final 2004 IndyCar Series standings",
+      "cutoff": 10,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1376801060 | table 6 | name: Driver | value: Pos | order: asc",
+      "tags": [
+        "motorsport",
+        "indycar",
+        "drivers-championship",
+        "2004"
+      ],
+      "answers": [
+        {
+          "answer": "Tony Kanaan",
+          "display": "#1 — 618 points",
+          "aliases": [
+            "Kanaan"
+          ]
+        },
+        {
+          "answer": "Dan Wheldon",
+          "display": "#2 — 533 points",
+          "aliases": [
+            "Wheldon"
+          ]
+        },
+        {
+          "answer": "Buddy Rice",
+          "display": "#3 — 485 points",
+          "aliases": [
+            "Rice"
+          ]
+        },
+        {
+          "answer": "Hélio Castroneves",
+          "display": "#4 — 446 points",
+          "aliases": [
+            "Castroneves"
+          ]
+        },
+        {
+          "answer": "Adrián Fernández",
+          "display": "#5 — 445 points",
+          "aliases": [
+            "Fernández"
+          ]
+        },
+        {
+          "answer": "Dario Franchitti",
+          "display": "#6 — 409 points",
+          "aliases": [
+            "Franchitti"
+          ]
+        },
+        {
+          "answer": "Sam Hornish Jr.",
+          "display": "#7 — 387 points",
+          "aliases": []
+        },
+        {
+          "answer": "Vítor Meira",
+          "display": "#8 — 376 points",
+          "aliases": [
+            "Meira"
+          ]
+        },
+        {
+          "answer": "Bryan Herta",
+          "display": "#9 — 362 points",
+          "aliases": [
+            "Herta"
+          ]
+        },
+        {
+          "answer": "Scott Dixon",
+          "display": "#10 — 355 points",
+          "aliases": [
+            "Dixon"
+          ]
+        },
+        {
+          "answer": "Darren Manning",
+          "display": "#11 — 323 points",
+          "aliases": [
+            "Manning"
+          ]
+        },
+        {
+          "answer": "Alex Barron",
+          "display": "#12 — 310 points",
+          "aliases": [
+            "Barron"
+          ]
+        },
+        {
+          "answer": "Scott Sharp",
+          "display": "#13 — 282 points",
+          "aliases": [
+            "Sharp"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/motorsport/indycar/seasons",
+      "question": "Top 10 drivers in the final 2005 IndyCar Series standings",
+      "cutoff": 10,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1353048766 | table 5 | name: Driver | value: Pos | order: asc",
+      "tags": [
+        "motorsport",
+        "indycar",
+        "drivers-championship",
+        "2005"
+      ],
+      "answers": [
+        {
+          "answer": "Dan Wheldon",
+          "display": "#1 — 628 points",
+          "aliases": [
+            "Wheldon"
+          ]
+        },
+        {
+          "answer": "Tony Kanaan",
+          "display": "#2 — 548 points",
+          "aliases": [
+            "Kanaan"
+          ]
+        },
+        {
+          "answer": "Sam Hornish Jr.",
+          "display": "#3 — 512 points",
+          "aliases": []
+        },
+        {
+          "answer": "Dario Franchitti",
+          "display": "#4 — 498 points",
+          "aliases": [
+            "Franchitti"
+          ]
+        },
+        {
+          "answer": "Scott Sharp",
+          "display": "#5 — 444 points",
+          "aliases": [
+            "Sharp"
+          ]
+        },
+        {
+          "answer": "Hélio Castroneves",
+          "display": "#6 — 440 points",
+          "aliases": [
+            "Castroneves"
+          ]
+        },
+        {
+          "answer": "Vítor Meira",
+          "display": "#7 — 422 points",
+          "aliases": [
+            "Meira"
+          ]
+        },
+        {
+          "answer": "Bryan Herta",
+          "display": "#8 — 397 points",
+          "aliases": [
+            "Herta"
+          ]
+        },
+        {
+          "answer": "Tomas Scheckter",
+          "display": "#9 — 390 points",
+          "aliases": [
+            "Scheckter"
+          ]
+        },
+        {
+          "answer": "Patrick Carpentier",
+          "display": "#10 — 376 points",
+          "aliases": [
+            "Carpentier"
+          ]
+        },
+        {
+          "answer": "Alex Barron",
+          "display": "#11 — 329 points",
+          "aliases": [
+            "Barron"
+          ]
+        },
+        {
+          "answer": "Danica Patrick",
+          "display": "#12 — 325 points",
+          "aliases": []
+        },
+        {
+          "answer": "Scott Dixon",
+          "display": "#13 — 321 points",
+          "aliases": [
+            "Dixon"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/motorsport/indycar/seasons",
+      "question": "Top 10 drivers in the final 2006 IndyCar Series standings",
+      "cutoff": 10,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1373574789 | table 7 | name: Driver | value: Pos | order: asc",
+      "tags": [
+        "motorsport",
+        "indycar",
+        "drivers-championship",
+        "2006"
+      ],
+      "answers": [
+        {
+          "answer": "Sam Hornish Jr.",
+          "display": "#1 — 475 points",
+          "aliases": []
+        },
+        {
+          "answer": "Dan Wheldon",
+          "display": "#2 — 475 points",
+          "aliases": [
+            "Wheldon"
+          ]
+        },
+        {
+          "answer": "Hélio Castroneves",
+          "display": "#3 — 473 points",
+          "aliases": [
+            "Castroneves"
+          ]
+        },
+        {
+          "answer": "Scott Dixon",
+          "display": "#4 — 460 points",
+          "aliases": [
+            "Dixon"
+          ]
+        },
+        {
+          "answer": "Vítor Meira",
+          "display": "#5 — 411 points",
+          "aliases": [
+            "Meira"
+          ]
+        },
+        {
+          "answer": "Tony Kanaan",
+          "display": "#6 — 384 points",
+          "aliases": [
+            "Kanaan"
+          ]
+        },
+        {
+          "answer": "Marco Andretti",
+          "display": "#7 — 325 points",
+          "aliases": [
+            "Andretti"
+          ]
+        },
+        {
+          "answer": "Dario Franchitti",
+          "display": "#8 — 311 points",
+          "aliases": [
+            "Franchitti"
+          ]
+        },
+        {
+          "answer": "Danica Patrick",
+          "display": "#9 — 302 points",
+          "aliases": [
+            "Patrick"
+          ]
+        },
+        {
+          "answer": "Tomas Scheckter",
+          "display": "#10 — 298 points",
+          "aliases": [
+            "Scheckter"
+          ]
+        },
+        {
+          "answer": "Bryan Herta",
+          "display": "#11 — 289 points",
+          "aliases": [
+            "Herta"
+          ]
+        },
+        {
+          "answer": "Scott Sharp",
+          "display": "#12 — 287 points",
+          "aliases": [
+            "Sharp"
+          ]
+        },
+        {
+          "answer": "Kosuke Matsuura",
+          "display": "#13 — 273 points",
+          "aliases": [
+            "Matsuura"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/motorsport/indycar/seasons",
+      "question": "Top 10 drivers in the final 2007 IndyCar Series standings",
+      "cutoff": 10,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1376801344 | table 7 | name: Driver | value: Pos | order: asc",
+      "tags": [
+        "motorsport",
+        "indycar",
+        "drivers-championship",
+        "2007"
+      ],
+      "answers": [
+        {
+          "answer": "Dario Franchitti",
+          "display": "#1 — 637 points",
+          "aliases": [
+            "Franchitti"
+          ]
+        },
+        {
+          "answer": "Scott Dixon",
+          "display": "#2 — 624 points",
+          "aliases": [
+            "Dixon"
+          ]
+        },
+        {
+          "answer": "Tony Kanaan",
+          "display": "#3 — 576 points",
+          "aliases": [
+            "Kanaan"
+          ]
+        },
+        {
+          "answer": "Dan Wheldon",
+          "display": "#4 — 466 points",
+          "aliases": [
+            "Wheldon"
+          ]
+        },
+        {
+          "answer": "Sam Hornish Jr.",
+          "display": "#5 — 465 points",
+          "aliases": []
+        },
+        {
+          "answer": "Hélio Castroneves",
+          "display": "#6 — 446 points",
+          "aliases": [
+            "Castroneves"
+          ]
+        },
+        {
+          "answer": "Danica Patrick",
+          "display": "#7 — 424 points",
+          "aliases": [
+            "Patrick"
+          ]
+        },
+        {
+          "answer": "Scott Sharp",
+          "display": "#8 — 412 points",
+          "aliases": [
+            "Sharp"
+          ]
+        },
+        {
+          "answer": "Buddy Rice",
+          "display": "#9 — 360 points",
+          "aliases": [
+            "Rice"
+          ]
+        },
+        {
+          "answer": "Tomas Scheckter",
+          "display": "#10 — 357 points",
+          "aliases": [
+            "Scheckter"
+          ]
+        },
+        {
+          "answer": "Marco Andretti",
+          "display": "#11 — 350 points",
+          "aliases": [
+            "Andretti"
+          ]
+        },
+        {
+          "answer": "Vítor Meira",
+          "display": "#12 — 334 points",
+          "aliases": [
+            "Meira"
+          ]
+        },
+        {
+          "answer": "Darren Manning",
+          "display": "#13 — 332 points",
+          "aliases": [
+            "Manning"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/motorsport/indycar/seasons",
+      "question": "Top 10 drivers in the final 2008 IndyCar Series standings",
+      "cutoff": 10,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1373046989 | table 24 | name: Driver | value: Pos | order: asc",
+      "tags": [
+        "motorsport",
+        "indycar",
+        "drivers-championship",
+        "2008"
+      ],
+      "answers": [
+        {
+          "answer": "Scott Dixon",
+          "display": "#1 — 646 points",
+          "aliases": [
+            "Dixon"
+          ]
+        },
+        {
+          "answer": "Hélio Castroneves",
+          "display": "#2 — 629 points",
+          "aliases": [
+            "Castroneves"
+          ]
+        },
+        {
+          "answer": "Tony Kanaan",
+          "display": "#3 — 513 points",
+          "aliases": [
+            "Kanaan"
+          ]
+        },
+        {
+          "answer": "Dan Wheldon",
+          "display": "#4 — 492 points",
+          "aliases": [
+            "Wheldon"
+          ]
+        },
+        {
+          "answer": "Ryan Briscoe",
+          "display": "#5 — 447 points",
+          "aliases": [
+            "Briscoe"
+          ]
+        },
+        {
+          "answer": "Danica Patrick",
+          "display": "#6 — 379 points",
+          "aliases": [
+            "Patrick"
+          ]
+        },
+        {
+          "answer": "Marco Andretti",
+          "display": "#7 — 363 points",
+          "aliases": [
+            "Andretti"
+          ]
+        },
+        {
+          "answer": "Ryan Hunter-Reay",
+          "display": "#8 — 360 points",
+          "aliases": [
+            "Hunter-Reay"
+          ]
+        },
+        {
+          "answer": "Oriol Servià",
+          "display": "#9 — 358 points",
+          "aliases": [
+            "Servià"
+          ]
+        },
+        {
+          "answer": "Hideki Mutoh",
+          "display": "#10 — 346 points",
+          "aliases": [
+            "Mutoh"
+          ]
+        },
+        {
+          "answer": "Justin Wilson",
+          "display": "#11 — 340 points",
+          "aliases": [
+            "Wilson"
+          ]
+        },
+        {
+          "answer": "Will Power",
+          "display": "#12 — 331 points",
+          "aliases": [
+            "Power"
+          ]
+        },
+        {
+          "answer": "Vítor Meira",
+          "display": "#13 — 324 points",
+          "aliases": [
+            "Meira"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/motorsport/indycar/seasons",
+      "question": "Top 10 drivers in the final 2009 IndyCar Series standings",
+      "cutoff": 10,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1375573540 | table 22 | name: Driver | value: Pos | order: asc",
+      "tags": [
+        "motorsport",
+        "indycar",
+        "drivers-championship",
+        "2009"
+      ],
+      "answers": [
+        {
+          "answer": "Dario Franchitti",
+          "display": "#1 — 616 points",
+          "aliases": [
+            "Franchitti"
+          ]
+        },
+        {
+          "answer": "Scott Dixon",
+          "display": "#2 — 605 points",
+          "aliases": [
+            "Dixon"
+          ]
+        },
+        {
+          "answer": "Ryan Briscoe",
+          "display": "#3 — 604 points",
+          "aliases": [
+            "Briscoe"
+          ]
+        },
+        {
+          "answer": "Hélio Castroneves",
+          "display": "#4 — 433 points",
+          "aliases": [
+            "Castroneves"
+          ]
+        },
+        {
+          "answer": "Danica Patrick",
+          "display": "#5 — 393 points",
+          "aliases": [
+            "Patrick"
+          ]
+        },
+        {
+          "answer": "Tony Kanaan",
+          "display": "#6 — 386 points",
+          "aliases": [
+            "Kanaan"
+          ]
+        },
+        {
+          "answer": "Graham Rahal",
+          "display": "#7 — 385 points",
+          "aliases": [
+            "Rahal"
+          ]
+        },
+        {
+          "answer": "Marco Andretti",
+          "display": "#8 — 380 points",
+          "aliases": [
+            "Andretti"
+          ]
+        },
+        {
+          "answer": "Justin Wilson",
+          "display": "#9 — 354 points",
+          "aliases": [
+            "Wilson"
+          ]
+        },
+        {
+          "answer": "Dan Wheldon",
+          "display": "#10 — 354 points",
+          "aliases": [
+            "Wheldon"
+          ]
+        },
+        {
+          "answer": "Hideki Mutoh",
+          "display": "#11 — 353 points",
+          "aliases": [
+            "Mutoh"
+          ]
+        },
+        {
+          "answer": "Ed Carpenter",
+          "display": "#12 — 321 points",
+          "aliases": [
+            "Carpenter"
+          ]
+        },
+        {
+          "answer": "Raphael Matos",
+          "display": "#13 — 312 points",
+          "aliases": [
+            "Matos"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/motorsport/indycar/seasons",
+      "question": "Top 10 drivers in the final 2010 IndyCar Series standings",
+      "cutoff": 10,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1373574877 | table 22 | name: Driver | value: Pos | order: asc",
+      "tags": [
+        "motorsport",
+        "indycar",
+        "drivers-championship",
+        "2010"
+      ],
+      "answers": [
+        {
+          "answer": "Dario Franchitti",
+          "display": "#1 — 602 points",
+          "aliases": [
+            "Franchitti"
+          ]
+        },
+        {
+          "answer": "Will Power",
+          "display": "#2 — 597 points",
+          "aliases": [
+            "Power"
+          ]
+        },
+        {
+          "answer": "Scott Dixon",
+          "display": "#3 — 547 points",
+          "aliases": [
+            "Dixon"
+          ]
+        },
+        {
+          "answer": "Hélio Castroneves",
+          "display": "#4 — 531 points",
+          "aliases": [
+            "Castroneves"
+          ]
+        },
+        {
+          "answer": "Ryan Briscoe",
+          "display": "#5 — 482 points",
+          "aliases": [
+            "Briscoe"
+          ]
+        },
+        {
+          "answer": "Tony Kanaan",
+          "display": "#6 — 453 points",
+          "aliases": [
+            "Kanaan"
+          ]
+        },
+        {
+          "answer": "Ryan Hunter-Reay",
+          "display": "#7 — 445 points",
+          "aliases": [
+            "Hunter-Reay"
+          ]
+        },
+        {
+          "answer": "Marco Andretti",
+          "display": "#8 — 392 points",
+          "aliases": [
+            "Andretti"
+          ]
+        },
+        {
+          "answer": "Dan Wheldon",
+          "display": "#9 — 388 points",
+          "aliases": [
+            "Wheldon"
+          ]
+        },
+        {
+          "answer": "Danica Patrick",
+          "display": "#10 — 367 points",
+          "aliases": [
+            "Patrick"
+          ]
+        },
+        {
+          "answer": "Justin Wilson",
+          "display": "#11 — 361 points",
+          "aliases": [
+            "Wilson"
+          ]
+        },
+        {
+          "answer": "Vítor Meira",
+          "display": "#12 — 310 points",
+          "aliases": [
+            "Meira"
+          ]
+        },
+        {
+          "answer": "Alex Tagliani",
+          "display": "#13 — 302 points",
+          "aliases": [
+            "Tagliani"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/motorsport/indycar/seasons",
+      "question": "Top 10 drivers in the final 2011 IndyCar Series standings",
+      "cutoff": 10,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1373575928 | table 21 | name: Driver | value: Pos | order: asc",
+      "tags": [
+        "motorsport",
+        "indycar",
+        "drivers-championship",
+        "2011"
+      ],
+      "answers": [
+        {
+          "answer": "Dario Franchitti",
+          "display": "#1 — 573 points",
+          "aliases": [
+            "Franchitti"
+          ]
+        },
+        {
+          "answer": "Will Power",
+          "display": "#2 — 555 points",
+          "aliases": [
+            "Power"
+          ]
+        },
+        {
+          "answer": "Scott Dixon",
+          "display": "#3 — 518 points",
+          "aliases": [
+            "Dixon"
+          ]
+        },
+        {
+          "answer": "Oriol Servià",
+          "display": "#4 — 425 points",
+          "aliases": [
+            "Servià"
+          ]
+        },
+        {
+          "answer": "Tony Kanaan",
+          "display": "#5 — 366 points",
+          "aliases": [
+            "Kanaan"
+          ]
+        },
+        {
+          "answer": "Ryan Briscoe",
+          "display": "#6 — 364 points",
+          "aliases": [
+            "Briscoe"
+          ]
+        },
+        {
+          "answer": "Ryan Hunter-Reay",
+          "display": "#7 — 347 points",
+          "aliases": [
+            "Hunter-Reay"
+          ]
+        },
+        {
+          "answer": "Marco Andretti",
+          "display": "#8 — 337 points",
+          "aliases": [
+            "Andretti"
+          ]
+        },
+        {
+          "answer": "Graham Rahal",
+          "display": "#9 — 320 points",
+          "aliases": [
+            "Rahal"
+          ]
+        },
+        {
+          "answer": "Danica Patrick",
+          "display": "#10 — 314 points",
+          "aliases": [
+            "Patrick"
+          ]
+        },
+        {
+          "answer": "Hélio Castroneves",
+          "display": "#11 — 312 points",
+          "aliases": [
+            "Castroneves"
+          ]
+        },
+        {
+          "answer": "James Hinchcliffe",
+          "display": "#12 — 302 points",
+          "aliases": [
+            "Hinchcliffe"
+          ]
+        },
+        {
+          "answer": "Takuma Sato",
+          "display": "#13 — 297 points",
+          "aliases": [
+            "Sato"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/motorsport/indycar/seasons",
+      "question": "Top 10 drivers in the final 2012 IndyCar Series standings",
+      "cutoff": 10,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1377740882 | table 20 | name: Driver | value: Pos | order: asc",
+      "tags": [
+        "motorsport",
+        "indycar",
+        "drivers-championship",
+        "2012"
+      ],
+      "answers": [
+        {
+          "answer": "Ryan Hunter-Reay",
+          "display": "#1 — 468 points",
+          "aliases": [
+            "Hunter-Reay"
+          ]
+        },
+        {
+          "answer": "Will Power",
+          "display": "#2 — 465 points",
+          "aliases": [
+            "Power"
+          ]
+        },
+        {
+          "answer": "Scott Dixon",
+          "display": "#3 — 435 points",
+          "aliases": [
+            "Dixon"
+          ]
+        },
+        {
+          "answer": "Hélio Castroneves",
+          "display": "#4 — 431 points",
+          "aliases": [
+            "Castroneves"
+          ]
+        },
+        {
+          "answer": "Simon Pagenaud",
+          "display": "#5 — 387 points",
+          "aliases": [
+            "Pagenaud"
+          ]
+        },
+        {
+          "answer": "Ryan Briscoe",
+          "display": "#6 — 370 points",
+          "aliases": [
+            "Briscoe"
+          ]
+        },
+        {
+          "answer": "Dario Franchitti",
+          "display": "#7 — 363 points",
+          "aliases": [
+            "Franchitti"
+          ]
+        },
+        {
+          "answer": "James Hinchcliffe",
+          "display": "#8 — 358 points",
+          "aliases": [
+            "Hinchcliffe"
+          ]
+        },
+        {
+          "answer": "Tony Kanaan",
+          "display": "#9 — 351 points",
+          "aliases": [
+            "Kanaan"
+          ]
+        },
+        {
+          "answer": "Graham Rahal",
+          "display": "#10 — 333 points",
+          "aliases": [
+            "Rahal"
+          ]
+        },
+        {
+          "answer": "J. R. Hildebrand",
+          "display": "#11 — 294 points",
+          "aliases": [
+            "Hildebrand"
+          ]
+        },
+        {
+          "answer": "Rubens Barrichello",
+          "display": "#12 — 289 points",
+          "aliases": [
+            "Barrichello"
+          ]
+        },
+        {
+          "answer": "Oriol Servià",
+          "display": "#13 — 287 points",
+          "aliases": [
+            "Servià"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/motorsport/indycar/seasons",
+      "question": "Top 10 drivers in the final 2013 IndyCar Series standings",
+      "cutoff": 10,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1371509275 | table 5 | name: Driver | value: Pos | order: asc",
+      "tags": [
+        "motorsport",
+        "indycar",
+        "drivers-championship",
+        "2013"
+      ],
+      "answers": [
+        {
+          "answer": "Scott Dixon",
+          "display": "#1 — 577 points",
+          "aliases": [
+            "Dixon"
+          ]
+        },
+        {
+          "answer": "Hélio Castroneves",
+          "display": "#2 — 550 points",
+          "aliases": [
+            "Castroneves"
+          ]
+        },
+        {
+          "answer": "Simon Pagenaud",
+          "display": "#3 — 508 points",
+          "aliases": [
+            "Pagenaud"
+          ]
+        },
+        {
+          "answer": "Will Power",
+          "display": "#4 — 498 points",
+          "aliases": [
+            "Power"
+          ]
+        },
+        {
+          "answer": "Marco Andretti",
+          "display": "#5 — 484 points",
+          "aliases": [
+            "Andretti"
+          ]
+        },
+        {
+          "answer": "Justin Wilson",
+          "display": "#6 — 472 points",
+          "aliases": [
+            "Wilson"
+          ]
+        },
+        {
+          "answer": "Ryan Hunter-Reay",
+          "display": "#7 — 469 points",
+          "aliases": [
+            "Hunter-Reay"
+          ]
+        },
+        {
+          "answer": "James Hinchcliffe",
+          "display": "#8 — 449 points",
+          "aliases": [
+            "Hinchcliffe"
+          ]
+        },
+        {
+          "answer": "Charlie Kimball",
+          "display": "#9 — 427 points",
+          "aliases": [
+            "Kimball"
+          ]
+        },
+        {
+          "answer": "Dario Franchitti",
+          "display": "#10 — 418 points",
+          "aliases": [
+            "Franchitti"
+          ]
+        },
+        {
+          "answer": "Tony Kanaan",
+          "display": "#11 — 397 points",
+          "aliases": [
+            "Kanaan"
+          ]
+        },
+        {
+          "answer": "Sébastien Bourdais",
+          "display": "#12 — 370 points",
+          "aliases": [
+            "Bourdais"
+          ]
+        },
+        {
+          "answer": "Simona de Silvestro",
+          "display": "#13 — 362 points",
+          "aliases": [
+            "Silvestro"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/motorsport/indycar/seasons",
+      "question": "Top 10 drivers in the final 2014 IndyCar Series standings",
+      "cutoff": 10,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1375455771 | table 5 | name: Driver | value: Pos | order: asc",
+      "tags": [
+        "motorsport",
+        "indycar",
+        "drivers-championship",
+        "2014"
+      ],
+      "answers": [
+        {
+          "answer": "Will Power",
+          "display": "#1 — 671 points",
+          "aliases": [
+            "Power"
+          ]
+        },
+        {
+          "answer": "Hélio Castroneves",
+          "display": "#2 — 609 points",
+          "aliases": [
+            "Castroneves"
+          ]
+        },
+        {
+          "answer": "Scott Dixon",
+          "display": "#3 — 604 points",
+          "aliases": [
+            "Dixon"
+          ]
+        },
+        {
+          "answer": "Juan Pablo Montoya",
+          "display": "#4 — 586 points",
+          "aliases": [
+            "Montoya"
+          ]
+        },
+        {
+          "answer": "Simon Pagenaud",
+          "display": "#5 — 565 points",
+          "aliases": [
+            "Pagenaud"
+          ]
+        },
+        {
+          "answer": "Ryan Hunter-Reay",
+          "display": "#6 — 563 points",
+          "aliases": [
+            "Hunter-Reay"
+          ]
+        },
+        {
+          "answer": "Tony Kanaan",
+          "display": "#7 — 544 points",
+          "aliases": [
+            "Kanaan"
+          ]
+        },
+        {
+          "answer": "Carlos Muñoz",
+          "display": "#8 — 483 points",
+          "aliases": [
+            "Muñoz"
+          ]
+        },
+        {
+          "answer": "Marco Andretti",
+          "display": "#9 — 463 points",
+          "aliases": [
+            "Andretti"
+          ]
+        },
+        {
+          "answer": "Sébastien Bourdais",
+          "display": "#10 — 461 points",
+          "aliases": [
+            "Bourdais"
+          ]
+        },
+        {
+          "answer": "Ryan Briscoe",
+          "display": "#11 — 461 points",
+          "aliases": [
+            "Briscoe"
+          ]
+        },
+        {
+          "answer": "James Hinchcliffe",
+          "display": "#12 — 456 points",
+          "aliases": [
+            "Hinchcliffe"
+          ]
+        },
+        {
+          "answer": "Josef Newgarden",
+          "display": "#13 — 406 points",
+          "aliases": [
+            "Newgarden"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/motorsport/indycar/seasons",
+      "question": "Top 10 drivers in the final 2015 IndyCar Series standings",
+      "cutoff": 10,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1367881456 | table 5 | name: Driver | value: Pos | order: asc",
+      "tags": [
+        "motorsport",
+        "indycar",
+        "drivers-championship",
+        "2015"
+      ],
+      "answers": [
+        {
+          "answer": "Scott Dixon",
+          "display": "#1 — 556 points",
+          "aliases": [
+            "Dixon"
+          ]
+        },
+        {
+          "answer": "Juan Pablo Montoya",
+          "display": "#2 — 556 points",
+          "aliases": [
+            "Montoya"
+          ]
+        },
+        {
+          "answer": "Will Power",
+          "display": "#3 — 493 points",
+          "aliases": [
+            "Power"
+          ]
+        },
+        {
+          "answer": "Graham Rahal",
+          "display": "#4 — 490 points",
+          "aliases": [
+            "Rahal"
+          ]
+        },
+        {
+          "answer": "Hélio Castroneves",
+          "display": "#5 — 453 points",
+          "aliases": [
+            "Castroneves"
+          ]
+        },
+        {
+          "answer": "Ryan Hunter-Reay",
+          "display": "#6 — 436 points",
+          "aliases": [
+            "Hunter-Reay"
+          ]
+        },
+        {
+          "answer": "Josef Newgarden",
+          "display": "#7 — 431 points",
+          "aliases": [
+            "Newgarden"
+          ]
+        },
+        {
+          "answer": "Tony Kanaan",
+          "display": "#8 — 431 points",
+          "aliases": [
+            "Kanaan"
+          ]
+        },
+        {
+          "answer": "Marco Andretti",
+          "display": "#9 — 429 points",
+          "aliases": [
+            "Andretti"
+          ]
+        },
+        {
+          "answer": "Sébastien Bourdais",
+          "display": "#10 — 406 points",
+          "aliases": [
+            "Bourdais"
+          ]
+        },
+        {
+          "answer": "Simon Pagenaud",
+          "display": "#11 — 384 points",
+          "aliases": [
+            "Pagenaud"
+          ]
+        },
+        {
+          "answer": "Charlie Kimball",
+          "display": "#12 — 372 points",
+          "aliases": [
+            "Kimball"
+          ]
+        },
+        {
+          "answer": "Carlos Muñoz",
+          "display": "#13 — 349 points",
+          "aliases": [
+            "Muñoz"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/motorsport/indycar/seasons",
+      "question": "Top 10 drivers in the final 2016 IndyCar Series standings",
+      "cutoff": 10,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1373513654 | table 6 | name: Driver | value: Pos | order: asc",
+      "tags": [
+        "motorsport",
+        "indycar",
+        "drivers-championship",
+        "2016"
+      ],
+      "answers": [
+        {
+          "answer": "Simon Pagenaud",
+          "display": "#1 — 659 points",
+          "aliases": [
+            "Pagenaud"
+          ]
+        },
+        {
+          "answer": "Will Power",
+          "display": "#2 — 532 points",
+          "aliases": [
+            "Power"
+          ]
+        },
+        {
+          "answer": "Hélio Castroneves",
+          "display": "#3 — 504 points",
+          "aliases": [
+            "Castroneves"
+          ]
+        },
+        {
+          "answer": "Josef Newgarden",
+          "display": "#4 — 502 points",
+          "aliases": [
+            "Newgarden"
+          ]
+        },
+        {
+          "answer": "Graham Rahal",
+          "display": "#5 — 484 points",
+          "aliases": [
+            "Rahal"
+          ]
+        },
+        {
+          "answer": "Scott Dixon",
+          "display": "#6 — 477 points",
+          "aliases": [
+            "Dixon"
+          ]
+        },
+        {
+          "answer": "Tony Kanaan",
+          "display": "#7 — 461 points",
+          "aliases": [
+            "Kanaan"
+          ]
+        },
+        {
+          "answer": "Juan Pablo Montoya",
+          "display": "#8 — 433 points",
+          "aliases": [
+            "Montoya"
+          ]
+        },
+        {
+          "answer": "Charlie Kimball",
+          "display": "#9 — 433 points",
+          "aliases": [
+            "Kimball"
+          ]
+        },
+        {
+          "answer": "Carlos Muñoz",
+          "display": "#10 — 432 points",
+          "aliases": [
+            "Muñoz"
+          ]
+        },
+        {
+          "answer": "Alexander Rossi",
+          "display": "#11 — 430 points",
+          "aliases": [
+            "Rossi"
+          ]
+        },
+        {
+          "answer": "Ryan Hunter-Reay",
+          "display": "#12 — 428 points",
+          "aliases": [
+            "Hunter-Reay"
+          ]
+        },
+        {
+          "answer": "James Hinchcliffe",
+          "display": "#13 — 416 points",
+          "aliases": [
+            "Hinchcliffe"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/motorsport/indycar/seasons",
+      "question": "Top 10 drivers in the final 2017 IndyCar Series standings",
+      "cutoff": 10,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1363349928 | table 5 | name: Driver | value: Pos | order: asc",
+      "tags": [
+        "motorsport",
+        "indycar",
+        "drivers-championship",
+        "2017"
+      ],
+      "answers": [
+        {
+          "answer": "Josef Newgarden",
+          "display": "#1 — 642 points",
+          "aliases": [
+            "Newgarden"
+          ]
+        },
+        {
+          "answer": "Simon Pagenaud",
+          "display": "#2 — 629 points",
+          "aliases": [
+            "Pagenaud"
+          ]
+        },
+        {
+          "answer": "Scott Dixon",
+          "display": "#3 — 621 points",
+          "aliases": [
+            "Dixon"
+          ]
+        },
+        {
+          "answer": "Hélio Castroneves",
+          "display": "#4 — 598 points",
+          "aliases": [
+            "Castroneves"
+          ]
+        },
+        {
+          "answer": "Will Power",
+          "display": "#5 — 562 points",
+          "aliases": [
+            "Power"
+          ]
+        },
+        {
+          "answer": "Graham Rahal",
+          "display": "#6 — 522 points",
+          "aliases": [
+            "Rahal"
+          ]
+        },
+        {
+          "answer": "Alexander Rossi",
+          "display": "#7 — 494 points",
+          "aliases": [
+            "Rossi"
+          ]
+        },
+        {
+          "answer": "Takuma Sato",
+          "display": "#8 — 441 points",
+          "aliases": [
+            "Sato"
+          ]
+        },
+        {
+          "answer": "Ryan Hunter-Reay",
+          "display": "#9 — 421 points",
+          "aliases": [
+            "Hunter-Reay"
+          ]
+        },
+        {
+          "answer": "Tony Kanaan",
+          "display": "#10 — 403 points",
+          "aliases": [
+            "Kanaan"
+          ]
+        },
+        {
+          "answer": "Max Chilton",
+          "display": "#11 — 396 points",
+          "aliases": [
+            "Chilton"
+          ]
+        },
+        {
+          "answer": "Marco Andretti",
+          "display": "#12 — 388 points",
+          "aliases": [
+            "Andretti"
+          ]
+        },
+        {
+          "answer": "James Hinchcliffe",
+          "display": "#13 — 376 points",
+          "aliases": [
+            "Hinchcliffe"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/motorsport/indycar/seasons",
+      "question": "Top 10 drivers in the final 2018 IndyCar Series standings",
+      "cutoff": 10,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1374204786 | table 5 | name: Driver | value: Pos | order: asc",
+      "tags": [
+        "motorsport",
+        "indycar",
+        "drivers-championship",
+        "2018"
+      ],
+      "answers": [
+        {
+          "answer": "Scott Dixon",
+          "display": "#1 — 678 points",
+          "aliases": [
+            "Dixon"
+          ]
+        },
+        {
+          "answer": "Alexander Rossi",
+          "display": "#2 — 621 points",
+          "aliases": [
+            "Rossi"
+          ]
+        },
+        {
+          "answer": "Will Power",
+          "display": "#3 — 582 points",
+          "aliases": [
+            "Power"
+          ]
+        },
+        {
+          "answer": "Ryan Hunter-Reay",
+          "display": "#4 — 566 points",
+          "aliases": [
+            "Hunter-Reay"
+          ]
+        },
+        {
+          "answer": "Josef Newgarden",
+          "display": "#5 — 560 points",
+          "aliases": [
+            "Newgarden"
+          ]
+        },
+        {
+          "answer": "Simon Pagenaud",
+          "display": "#6 — 492 points",
+          "aliases": [
+            "Pagenaud"
+          ]
+        },
+        {
+          "answer": "Sébastien Bourdais",
+          "display": "#7 — 425 points",
+          "aliases": [
+            "Bourdais"
+          ]
+        },
+        {
+          "answer": "Graham Rahal",
+          "display": "#8 — 392 points",
+          "aliases": [
+            "Rahal"
+          ]
+        },
+        {
+          "answer": "Marco Andretti",
+          "display": "#9 — 392 points",
+          "aliases": [
+            "Andretti"
+          ]
+        },
+        {
+          "answer": "James Hinchcliffe",
+          "display": "#10 — 391 points",
+          "aliases": [
+            "Hinchcliffe"
+          ]
+        },
+        {
+          "answer": "Robert Wickens",
+          "display": "#11 — 391 points",
+          "aliases": [
+            "Wickens"
+          ]
+        },
+        {
+          "answer": "Takuma Sato",
+          "display": "#12 — 351 points",
+          "aliases": [
+            "Sato"
+          ]
+        },
+        {
+          "answer": "Ed Jones",
+          "display": "#13 — 343 points",
+          "aliases": [
+            "Jones"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/motorsport/indycar/seasons",
+      "question": "Top 10 drivers in the final 2019 IndyCar Series standings",
+      "cutoff": 10,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1374757974 | table 5 | name: Driver | value: Pos | order: asc",
+      "tags": [
+        "motorsport",
+        "indycar",
+        "drivers-championship",
+        "2019"
+      ],
+      "answers": [
+        {
+          "answer": "Josef Newgarden",
+          "display": "#1 — 641 points",
+          "aliases": [
+            "Newgarden"
+          ]
+        },
+        {
+          "answer": "Simon Pagenaud",
+          "display": "#2 — 616 points",
+          "aliases": [
+            "Pagenaud"
+          ]
+        },
+        {
+          "answer": "Alexander Rossi",
+          "display": "#3 — 608 points",
+          "aliases": [
+            "Rossi"
+          ]
+        },
+        {
+          "answer": "Scott Dixon",
+          "display": "#4 — 578 points",
+          "aliases": [
+            "Dixon"
+          ]
+        },
+        {
+          "answer": "Will Power",
+          "display": "#5 — 550 points",
+          "aliases": [
+            "Power"
+          ]
+        },
+        {
+          "answer": "Felix Rosenqvist",
+          "display": "#6 — 425 points",
+          "aliases": [
+            "Rosenqvist"
+          ]
+        },
+        {
+          "answer": "Colton Herta",
+          "display": "#7 — 420 points",
+          "aliases": [
+            "Herta"
+          ]
+        },
+        {
+          "answer": "Ryan Hunter-Reay",
+          "display": "#8 — 420 points",
+          "aliases": [
+            "Hunter-Reay"
+          ]
+        },
+        {
+          "answer": "Takuma Sato",
+          "display": "#9 — 415 points",
+          "aliases": [
+            "Sato"
+          ]
+        },
+        {
+          "answer": "Graham Rahal",
+          "display": "#10 — 389 points",
+          "aliases": [
+            "Rahal"
+          ]
+        },
+        {
+          "answer": "Sébastien Bourdais",
+          "display": "#11 — 387 points",
+          "aliases": [
+            "Bourdais"
+          ]
+        },
+        {
+          "answer": "James Hinchcliffe",
+          "display": "#12 — 370 points",
+          "aliases": [
+            "Hinchcliffe"
+          ]
+        },
+        {
+          "answer": "Santino Ferrucci",
+          "display": "#13 — 351 points",
+          "aliases": [
+            "Ferrucci"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/motorsport/indycar/seasons",
+      "question": "Top 10 drivers in the final 2020 IndyCar Series standings",
+      "cutoff": 10,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1375513642 | table 6 | name: Driver | value: Pos | order: asc",
+      "tags": [
+        "motorsport",
+        "indycar",
+        "drivers-championship",
+        "2020"
+      ],
+      "answers": [
+        {
+          "answer": "Scott Dixon",
+          "display": "#1 — 537 points",
+          "aliases": [
+            "Dixon"
+          ]
+        },
+        {
+          "answer": "Josef Newgarden",
+          "display": "#2 — 521 points",
+          "aliases": [
+            "Newgarden"
+          ]
+        },
+        {
+          "answer": "Colton Herta",
+          "display": "#3 — 421 points",
+          "aliases": [
+            "Herta"
+          ]
+        },
+        {
+          "answer": "Pato O'Ward",
+          "display": "#4 — 416 points",
+          "aliases": [
+            "O'Ward"
+          ]
+        },
+        {
+          "answer": "Will Power",
+          "display": "#5 — 396 points",
+          "aliases": [
+            "Power"
+          ]
+        },
+        {
+          "answer": "Graham Rahal",
+          "display": "#6 — 377 points",
+          "aliases": [
+            "Rahal"
+          ]
+        },
+        {
+          "answer": "Takuma Sato",
+          "display": "#7 — 348 points",
+          "aliases": [
+            "Sato"
+          ]
+        },
+        {
+          "answer": "Simon Pagenaud",
+          "display": "#8 — 339 points",
+          "aliases": [
+            "Pagenaud"
+          ]
+        },
+        {
+          "answer": "Alexander Rossi",
+          "display": "#9 — 317 points",
+          "aliases": [
+            "Rossi"
+          ]
+        },
+        {
+          "answer": "Ryan Hunter-Reay",
+          "display": "#10 — 315 points",
+          "aliases": [
+            "Hunter-Reay"
+          ]
+        },
+        {
+          "answer": "Felix Rosenqvist",
+          "display": "#11 — 306 points",
+          "aliases": [
+            "Rosenqvist"
+          ]
+        },
+        {
+          "answer": "Marcus Ericsson",
+          "display": "#12 — 291 points",
+          "aliases": [
+            "Ericsson"
+          ]
+        },
+        {
+          "answer": "Santino Ferrucci",
+          "display": "#13 — 290 points",
+          "aliases": [
+            "Ferrucci"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/motorsport/indycar/seasons",
+      "question": "Top 10 drivers in the final 2021 IndyCar Series standings",
+      "cutoff": 10,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1377616202 | table 5 | name: Driver | value: Pos | order: asc",
+      "tags": [
+        "motorsport",
+        "indycar",
+        "drivers-championship",
+        "2021"
+      ],
+      "answers": [
+        {
+          "answer": "Álex Palou",
+          "display": "#1 — 549 points",
+          "aliases": [
+            "Palou"
+          ]
+        },
+        {
+          "answer": "Josef Newgarden",
+          "display": "#2 — 511 points",
+          "aliases": [
+            "Newgarden"
+          ]
+        },
+        {
+          "answer": "Pato O'Ward",
+          "display": "#3 — 487 points",
+          "aliases": [
+            "O'Ward"
+          ]
+        },
+        {
+          "answer": "Scott Dixon",
+          "display": "#4 — 481 points",
+          "aliases": [
+            "Dixon"
+          ]
+        },
+        {
+          "answer": "Colton Herta",
+          "display": "#5 — 455 points",
+          "aliases": [
+            "Herta"
+          ]
+        },
+        {
+          "answer": "Marcus Ericsson",
+          "display": "#6 — 435 points",
+          "aliases": [
+            "Ericsson"
+          ]
+        },
+        {
+          "answer": "Graham Rahal",
+          "display": "#7 — 389 points",
+          "aliases": [
+            "Rahal"
+          ]
+        },
+        {
+          "answer": "Simon Pagenaud",
+          "display": "#8 — 383 points",
+          "aliases": [
+            "Pagenaud"
+          ]
+        },
+        {
+          "answer": "Will Power",
+          "display": "#9 — 357 points",
+          "aliases": [
+            "Power"
+          ]
+        },
+        {
+          "answer": "Alexander Rossi",
+          "display": "#10 — 332 points",
+          "aliases": [
+            "Rossi"
+          ]
+        },
+        {
+          "answer": "Takuma Sato",
+          "display": "#11 — 324 points",
+          "aliases": [
+            "Sato"
+          ]
+        },
+        {
+          "answer": "Rinus VeeKay",
+          "display": "#12 — 308 points",
+          "aliases": [
+            "VeeKay"
+          ]
+        },
+        {
+          "answer": "Jack Harvey",
+          "display": "#13 — 308 points",
+          "aliases": [
+            "Harvey"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/motorsport/indycar/seasons",
+      "question": "Top 10 drivers in the final 2022 IndyCar Series standings",
+      "cutoff": 10,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1376492871 | table 5 | name: Driver | value: Pos | order: asc",
+      "tags": [
+        "motorsport",
+        "indycar",
+        "drivers-championship",
+        "2022"
+      ],
+      "answers": [
+        {
+          "answer": "Will Power",
+          "display": "#1 — 560 points",
+          "aliases": [
+            "Power"
+          ]
+        },
+        {
+          "answer": "Josef Newgarden",
+          "display": "#2 — 544 points",
+          "aliases": [
+            "Newgarden"
+          ]
+        },
+        {
+          "answer": "Scott Dixon",
+          "display": "#3 — 521 points",
+          "aliases": [
+            "Dixon"
+          ]
+        },
+        {
+          "answer": "Scott McLaughlin",
+          "display": "#4 — 510 points",
+          "aliases": [
+            "McLaughlin"
+          ]
+        },
+        {
+          "answer": "Álex Palou",
+          "display": "#5 — 510 points",
+          "aliases": [
+            "Palou"
+          ]
+        },
+        {
+          "answer": "Marcus Ericsson",
+          "display": "#6 — 506 points",
+          "aliases": [
+            "Ericsson"
+          ]
+        },
+        {
+          "answer": "Pato O'Ward",
+          "display": "#7 — 480 points",
+          "aliases": [
+            "O'Ward"
+          ]
+        },
+        {
+          "answer": "Felix Rosenqvist",
+          "display": "#8 — 393 points",
+          "aliases": [
+            "Rosenqvist"
+          ]
+        },
+        {
+          "answer": "Alexander Rossi",
+          "display": "#9 — 381 points",
+          "aliases": [
+            "Rossi"
+          ]
+        },
+        {
+          "answer": "Colton Herta",
+          "display": "#10 — 381 points",
+          "aliases": [
+            "Herta"
+          ]
+        },
+        {
+          "answer": "Graham Rahal",
+          "display": "#11 — 345 points",
+          "aliases": [
+            "Rahal"
+          ]
+        },
+        {
+          "answer": "Rinus VeeKay",
+          "display": "#12 — 331 points",
+          "aliases": [
+            "VeeKay"
+          ]
+        },
+        {
+          "answer": "Romain Grosjean",
+          "display": "#13 — 328 points",
+          "aliases": [
+            "Grosjean"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/motorsport/indycar/seasons",
+      "question": "Top 10 drivers in the final 2023 IndyCar Series standings",
+      "cutoff": 10,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1377122549 | table 6 | name: Driver | value: Pos | order: asc",
+      "tags": [
+        "motorsport",
+        "indycar",
+        "drivers-championship",
+        "2023"
+      ],
+      "answers": [
+        {
+          "answer": "Álex Palou",
+          "display": "#1 — 656 points",
+          "aliases": [
+            "Palou"
+          ]
+        },
+        {
+          "answer": "Scott Dixon",
+          "display": "#2 — 578 points",
+          "aliases": [
+            "Dixon"
+          ]
+        },
+        {
+          "answer": "Scott McLaughlin",
+          "display": "#3 — 488 points",
+          "aliases": [
+            "McLaughlin"
+          ]
+        },
+        {
+          "answer": "Pato O'Ward",
+          "display": "#4 — 484 points",
+          "aliases": [
+            "O'Ward"
+          ]
+        },
+        {
+          "answer": "Josef Newgarden",
+          "display": "#5 — 479 points",
+          "aliases": [
+            "Newgarden"
+          ]
+        },
+        {
+          "answer": "Marcus Ericsson",
+          "display": "#6 — 438 points",
+          "aliases": [
+            "Ericsson"
+          ]
+        },
+        {
+          "answer": "Will Power",
+          "display": "#7 — 425 points",
+          "aliases": [
+            "Power"
+          ]
+        },
+        {
+          "answer": "Christian Lundgaard",
+          "display": "#8 — 390 points",
+          "aliases": [
+            "Lundgaard"
+          ]
+        },
+        {
+          "answer": "Alexander Rossi",
+          "display": "#9 — 375 points",
+          "aliases": [
+            "Rossi"
+          ]
+        },
+        {
+          "answer": "Colton Herta",
+          "display": "#10 — 356 points",
+          "aliases": [
+            "Herta"
+          ]
+        },
+        {
+          "answer": "Kyle Kirkwood",
+          "display": "#11 — 352 points",
+          "aliases": [
+            "Kirkwood"
+          ]
+        },
+        {
+          "answer": "Felix Rosenqvist",
+          "display": "#12 — 324 points",
+          "aliases": [
+            "Rosenqvist"
+          ]
+        },
+        {
+          "answer": "Romain Grosjean",
+          "display": "#13 — 296 points",
+          "aliases": [
+            "Grosjean"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/motorsport/indycar/seasons",
+      "question": "Top 10 drivers in the final 2024 IndyCar Series standings",
+      "cutoff": 10,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1377758400 | table 6 | name: Driver | value: Pos | order: asc",
+      "tags": [
+        "motorsport",
+        "indycar",
+        "drivers-championship",
+        "2024"
+      ],
+      "answers": [
+        {
+          "answer": "Álex Palou",
+          "display": "#1 — 544 points",
+          "aliases": [
+            "Palou"
+          ]
+        },
+        {
+          "answer": "Colton Herta",
+          "display": "#2 — 513 points",
+          "aliases": [
+            "Herta"
+          ]
+        },
+        {
+          "answer": "Scott McLaughlin",
+          "display": "#3 — 505 points",
+          "aliases": [
+            "McLaughlin"
+          ]
+        },
+        {
+          "answer": "Will Power",
+          "display": "#4 — 498 points",
+          "aliases": [
+            "Power"
+          ]
+        },
+        {
+          "answer": "Pato O'Ward",
+          "display": "#5 — 460 points",
+          "aliases": [
+            "O'Ward"
+          ]
+        },
+        {
+          "answer": "Scott Dixon",
+          "display": "#6 — 456 points",
+          "aliases": [
+            "Dixon"
+          ]
+        },
+        {
+          "answer": "Kyle Kirkwood",
+          "display": "#7 — 420 points",
+          "aliases": [
+            "Kirkwood"
+          ]
+        },
+        {
+          "answer": "Josef Newgarden",
+          "display": "#8 — 401 points",
+          "aliases": [
+            "Newgarden"
+          ]
+        },
+        {
+          "answer": "Santino Ferrucci",
+          "display": "#9 — 367 points",
+          "aliases": [
+            "Ferrucci"
+          ]
+        },
+        {
+          "answer": "Alexander Rossi",
+          "display": "#10 — 366 points",
+          "aliases": [
+            "Rossi"
+          ]
+        },
+        {
+          "answer": "Christian Lundgaard",
+          "display": "#11 — 312 points",
+          "aliases": [
+            "Lundgaard"
+          ]
+        },
+        {
+          "answer": "Felix Rosenqvist",
+          "display": "#12 — 306 points",
+          "aliases": [
+            "Rosenqvist"
+          ]
+        },
+        {
+          "answer": "Rinus VeeKay",
+          "display": "#13 — 300 points",
+          "aliases": [
+            "VeeKay"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/motorsport/indycar/seasons",
+      "question": "Top 10 drivers in the final 2025 IndyCar Series standings",
+      "cutoff": 10,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1378344484 | table 7 | name: Driver | value: Pos | order: asc",
+      "tags": [
+        "motorsport",
+        "indycar",
+        "drivers-championship",
+        "2025"
+      ],
+      "answers": [
+        {
+          "answer": "Álex Palou",
+          "display": "#1 — 711 points",
+          "aliases": [
+            "Palou"
+          ]
+        },
+        {
+          "answer": "Pato O'Ward",
+          "display": "#2 — 515 points",
+          "aliases": [
+            "O'Ward"
+          ]
+        },
+        {
+          "answer": "Scott Dixon",
+          "display": "#3 — 452 points",
+          "aliases": [
+            "Dixon"
+          ]
+        },
+        {
+          "answer": "Kyle Kirkwood",
+          "display": "#4 — 433 points",
+          "aliases": [
+            "Kirkwood"
+          ]
+        },
+        {
+          "answer": "Christian Lundgaard",
+          "display": "#5 — 431 points",
+          "aliases": [
+            "Lundgaard"
+          ]
+        },
+        {
+          "answer": "Felix Rosenqvist",
+          "display": "#6 — 372 points",
+          "aliases": [
+            "Rosenqvist"
+          ]
+        },
+        {
+          "answer": "Colton Herta",
+          "display": "#7 — 372 points",
+          "aliases": [
+            "Herta"
+          ]
+        },
+        {
+          "answer": "Marcus Armstrong",
+          "display": "#8 — 364 points",
+          "aliases": [
+            "Armstrong"
+          ]
+        },
+        {
+          "answer": "Will Power",
+          "display": "#9 — 357 points",
+          "aliases": [
+            "Power"
+          ]
+        },
+        {
+          "answer": "Scott McLaughlin",
+          "display": "#10 — 356 points",
+          "aliases": [
+            "McLaughlin"
+          ]
+        },
+        {
+          "answer": "David Malukas",
+          "display": "#11 — 318 points",
+          "aliases": [
+            "Malukas"
+          ]
+        },
+        {
+          "answer": "Josef Newgarden",
+          "display": "#12 — 316 points",
+          "aliases": [
+            "Newgarden"
+          ]
+        },
+        {
+          "answer": "Christian Rasmussen",
+          "display": "#13 — 313 points",
+          "aliases": [
+            "Rasmussen"
+          ]
+        }
+      ]
+    }
+  ]
+}

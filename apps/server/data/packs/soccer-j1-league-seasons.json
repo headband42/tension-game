@@ -1,0 +1,2193 @@
+{
+  "categories": [
+    {
+      "path": "sports/soccer/japan/j1-league",
+      "name": "J1 League Seasons"
+    }
+  ],
+  "questions": [
+    {
+      "category": "sports/soccer/japan/j1-league",
+      "question": "Top 5 clubs in the final 1996 J.League table",
+      "cutoff": 5,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1379588204 | table 3 | name: Team | value: Pos | order: asc",
+      "tags": [
+        "football",
+        "j1-league",
+        "seasons"
+      ],
+      "answers": [
+        {
+          "answer": "Kashima Antlers",
+          "display": "#1 — 66 pts",
+          "aliases": [
+            "Kashima"
+          ]
+        },
+        {
+          "answer": "Nagoya Grampus",
+          "display": "#2 — 63 pts",
+          "aliases": [
+            "Nagoya Grampus Eight",
+            "Nagoya"
+          ]
+        },
+        {
+          "answer": "Yokohama Flügels",
+          "display": "#3 — 63 pts",
+          "aliases": [
+            "Flügels",
+            "Yokohama Fluegels"
+          ]
+        },
+        {
+          "answer": "Júbilo Iwata",
+          "display": "#4 — 62 pts",
+          "aliases": [
+            "Jubilo Iwata",
+            "Jubilo"
+          ]
+        },
+        {
+          "answer": "Kashiwa Reysol",
+          "display": "#5 — 60 pts",
+          "aliases": [
+            "Reysol",
+            "Kashiwa"
+          ]
+        },
+        {
+          "answer": "Urawa Red Diamonds",
+          "display": "#6 — 59 pts",
+          "aliases": [
+            "Urawa Reds",
+            "Urawa"
+          ]
+        },
+        {
+          "answer": "Tokyo Verdy",
+          "display": "#7 — 57 pts",
+          "aliases": [
+            "Verdy",
+            "Verdy Kawasaki",
+            "Tokyo Verdy 1969"
+          ]
+        },
+        {
+          "answer": "Yokohama F. Marinos",
+          "display": "#8 — 42 pts",
+          "aliases": [
+            "Yokohama Marinos",
+            "Marinos"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/soccer/japan/j1-league",
+      "question": "Top 5 clubs in the 2000 J.League overall table",
+      "cutoff": 5,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1379588656 | table 5 | name: Team | value: Pos | order: asc",
+      "tags": [
+        "football",
+        "j1-league",
+        "seasons"
+      ],
+      "answers": [
+        {
+          "answer": "Kashima Antlers",
+          "display": "#1 — 55 pts",
+          "aliases": [
+            "Kashima"
+          ]
+        },
+        {
+          "answer": "Yokohama F. Marinos",
+          "display": "#2 — 54 pts",
+          "aliases": [
+            "Yokohama Marinos",
+            "Marinos"
+          ]
+        },
+        {
+          "answer": "Kashiwa Reysol",
+          "display": "#3 — 58 pts",
+          "aliases": [
+            "Reysol",
+            "Kashiwa"
+          ]
+        },
+        {
+          "answer": "Júbilo Iwata",
+          "display": "#4 — 55 pts",
+          "aliases": [
+            "Jubilo Iwata",
+            "Jubilo"
+          ]
+        },
+        {
+          "answer": "Cerezo Osaka",
+          "display": "#5 — 48 pts",
+          "aliases": [
+            "Cerezo"
+          ]
+        },
+        {
+          "answer": "Gamba Osaka",
+          "display": "#6 — 45 pts",
+          "aliases": [
+            "Gamba"
+          ]
+        },
+        {
+          "answer": "FC Tokyo",
+          "display": "#7 — 43 pts"
+        },
+        {
+          "answer": "Shimizu S-Pulse",
+          "display": "#8 — 42 pts",
+          "aliases": [
+            "S-Pulse",
+            "Shimizu"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/soccer/japan/j1-league",
+      "question": "Top 5 clubs in the 2001 J.League overall table",
+      "cutoff": 5,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1379588687 | table 7 | name: Team | value: Pos | order: asc",
+      "tags": [
+        "football",
+        "j1-league",
+        "seasons"
+      ],
+      "answers": [
+        {
+          "answer": "Kashima Antlers",
+          "display": "#1 — 54 pts",
+          "aliases": [
+            "Kashima"
+          ]
+        },
+        {
+          "answer": "Júbilo Iwata",
+          "display": "#2 — 71 pts",
+          "aliases": [
+            "Jubilo Iwata",
+            "Jubilo"
+          ]
+        },
+        {
+          "answer": "JEF United Chiba",
+          "display": "#3 — 50 pts",
+          "aliases": [
+            "JEF United Ichihara",
+            "JEF United Ichihara Chiba",
+            "JEF United",
+            "JEF"
+          ]
+        },
+        {
+          "answer": "Shimizu S-Pulse",
+          "display": "#4 — 49 pts",
+          "aliases": [
+            "S-Pulse",
+            "Shimizu"
+          ]
+        },
+        {
+          "answer": "Nagoya Grampus",
+          "display": "#5 — 49 pts",
+          "aliases": [
+            "Nagoya Grampus Eight",
+            "Nagoya"
+          ]
+        },
+        {
+          "answer": "Kashiwa Reysol",
+          "display": "#6 — 43 pts",
+          "aliases": [
+            "Reysol",
+            "Kashiwa"
+          ]
+        },
+        {
+          "answer": "Gamba Osaka",
+          "display": "#7 — 42 pts",
+          "aliases": [
+            "Gamba"
+          ]
+        },
+        {
+          "answer": "FC Tokyo",
+          "display": "#8 — 41 pts"
+        }
+      ]
+    },
+    {
+      "category": "sports/soccer/japan/j1-league",
+      "question": "Top 5 clubs in the 2002 J.League overall table",
+      "cutoff": 5,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1350834284 | table 6 | name: Team | value: Pos | order: asc",
+      "tags": [
+        "football",
+        "j1-league",
+        "seasons"
+      ],
+      "answers": [
+        {
+          "answer": "Júbilo Iwata",
+          "display": "#1 — 71 pts",
+          "aliases": [
+            "Jubilo Iwata",
+            "Jubilo"
+          ]
+        },
+        {
+          "answer": "Yokohama F. Marinos",
+          "display": "#2 — 55 pts",
+          "aliases": [
+            "Yokohama Marinos",
+            "Marinos"
+          ]
+        },
+        {
+          "answer": "Gamba Osaka",
+          "display": "#3 — 54 pts",
+          "aliases": [
+            "Gamba"
+          ]
+        },
+        {
+          "answer": "Kashima Antlers",
+          "display": "#4 — 53 pts",
+          "aliases": [
+            "Kashima"
+          ]
+        },
+        {
+          "answer": "Kyoto Sanga",
+          "display": "#5 — 46 pts",
+          "aliases": [
+            "Kyoto Purple Sanga",
+            "Kyoto"
+          ]
+        },
+        {
+          "answer": "Nagoya Grampus",
+          "display": "#6 — 45 pts",
+          "aliases": [
+            "Nagoya Grampus Eight",
+            "Nagoya"
+          ]
+        },
+        {
+          "answer": "JEF United Chiba",
+          "display": "#7 — 41 pts",
+          "aliases": [
+            "JEF United Ichihara",
+            "JEF United Ichihara Chiba",
+            "JEF United",
+            "JEF"
+          ]
+        },
+        {
+          "answer": "Shimizu S-Pulse",
+          "display": "#8 — 41 pts",
+          "aliases": [
+            "S-Pulse",
+            "Shimizu"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/soccer/japan/j1-league",
+      "question": "Top 5 clubs in the 2003 J.League overall table",
+      "cutoff": 5,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1330735229 | table 8 | name: Team | value: Pos | order: asc",
+      "tags": [
+        "football",
+        "j1-league",
+        "seasons"
+      ],
+      "answers": [
+        {
+          "answer": "Yokohama F. Marinos",
+          "display": "#1 — 58 pts",
+          "aliases": [
+            "Yokohama Marinos",
+            "Marinos"
+          ]
+        },
+        {
+          "answer": "Júbilo Iwata",
+          "display": "#2 — 57 pts",
+          "aliases": [
+            "Jubilo Iwata",
+            "Jubilo"
+          ]
+        },
+        {
+          "answer": "JEF United Chiba",
+          "display": "#3 — 53 pts",
+          "aliases": [
+            "JEF United Ichihara",
+            "JEF United Ichihara Chiba",
+            "JEF United",
+            "JEF"
+          ]
+        },
+        {
+          "answer": "FC Tokyo",
+          "display": "#4 — 49 pts"
+        },
+        {
+          "answer": "Kashima Antlers",
+          "display": "#5 — 48 pts",
+          "aliases": [
+            "Kashima"
+          ]
+        },
+        {
+          "answer": "Urawa Red Diamonds",
+          "display": "#6 — 47 pts",
+          "aliases": [
+            "Urawa Reds",
+            "Urawa"
+          ]
+        },
+        {
+          "answer": "Nagoya Grampus",
+          "display": "#7 — 45 pts",
+          "aliases": [
+            "Nagoya Grampus Eight",
+            "Nagoya"
+          ]
+        },
+        {
+          "answer": "Tokyo Verdy",
+          "display": "#8 — 40 pts",
+          "aliases": [
+            "Verdy",
+            "Verdy Kawasaki",
+            "Tokyo Verdy 1969"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/soccer/japan/j1-league",
+      "question": "Top 5 clubs in the 2004 J.League overall table",
+      "cutoff": 5,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1330735129 | table 7 | name: Team | value: Pos | order: asc",
+      "tags": [
+        "football",
+        "j1-league",
+        "seasons"
+      ],
+      "answers": [
+        {
+          "answer": "Yokohama F. Marinos",
+          "display": "#1 — 59 pts",
+          "aliases": [
+            "Yokohama Marinos",
+            "Marinos"
+          ]
+        },
+        {
+          "answer": "Urawa Red Diamonds",
+          "display": "#2 — 62 pts",
+          "aliases": [
+            "Urawa Reds",
+            "Urawa"
+          ]
+        },
+        {
+          "answer": "Gamba Osaka",
+          "display": "#3 — 51 pts",
+          "aliases": [
+            "Gamba"
+          ]
+        },
+        {
+          "answer": "JEF United Chiba",
+          "display": "#4 — 50 pts",
+          "aliases": [
+            "JEF United Ichihara",
+            "JEF United Ichihara Chiba",
+            "JEF United",
+            "JEF"
+          ]
+        },
+        {
+          "answer": "Júbilo Iwata",
+          "display": "#5 — 48 pts",
+          "aliases": [
+            "Jubilo Iwata",
+            "Jubilo"
+          ]
+        },
+        {
+          "answer": "Kashima Antlers",
+          "display": "#6 — 48 pts",
+          "aliases": [
+            "Kashima"
+          ]
+        },
+        {
+          "answer": "Nagoya Grampus",
+          "display": "#7 — 44 pts",
+          "aliases": [
+            "Nagoya Grampus Eight",
+            "Nagoya"
+          ]
+        },
+        {
+          "answer": "FC Tokyo",
+          "display": "#8 — 41 pts"
+        }
+      ]
+    },
+    {
+      "category": "sports/soccer/japan/j1-league",
+      "question": "Top 6 clubs in the final 2005 J.League Division 1 table",
+      "cutoff": 6,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1373588356 | table 4 | name: Team | value: Pos | order: asc",
+      "tags": [
+        "football",
+        "j1-league",
+        "seasons"
+      ],
+      "answers": [
+        {
+          "answer": "Gamba Osaka",
+          "display": "#1 — 60 pts",
+          "aliases": [
+            "Gamba"
+          ]
+        },
+        {
+          "answer": "Urawa Red Diamonds",
+          "display": "#2 — 59 pts",
+          "aliases": [
+            "Urawa Reds",
+            "Urawa"
+          ]
+        },
+        {
+          "answer": "Kashima Antlers",
+          "display": "#3 — 59 pts",
+          "aliases": [
+            "Kashima"
+          ]
+        },
+        {
+          "answer": "JEF United Chiba",
+          "display": "#4 — 59 pts",
+          "aliases": [
+            "JEF United Ichihara",
+            "JEF United Ichihara Chiba",
+            "JEF United",
+            "JEF"
+          ]
+        },
+        {
+          "answer": "Cerezo Osaka",
+          "display": "#5 — 59 pts",
+          "aliases": [
+            "Cerezo"
+          ]
+        },
+        {
+          "answer": "Júbilo Iwata",
+          "display": "#6 — 51 pts",
+          "aliases": [
+            "Jubilo Iwata",
+            "Jubilo"
+          ]
+        },
+        {
+          "answer": "Sanfrecce Hiroshima",
+          "display": "#7 — 50 pts",
+          "aliases": [
+            "Sanfrecce"
+          ]
+        },
+        {
+          "answer": "Kawasaki Frontale",
+          "display": "#8 — 50 pts",
+          "aliases": [
+            "Frontale"
+          ]
+        },
+        {
+          "answer": "Yokohama F. Marinos",
+          "display": "#9 — 48 pts",
+          "aliases": [
+            "Yokohama Marinos",
+            "Marinos"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/soccer/japan/j1-league",
+      "question": "Top 6 clubs in the final 2006 J.League Division 1 table",
+      "cutoff": 6,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1373597568 | table 4 | name: Team | value: Pos | order: asc",
+      "tags": [
+        "football",
+        "j1-league",
+        "seasons"
+      ],
+      "answers": [
+        {
+          "answer": "Urawa Red Diamonds",
+          "display": "#1 — 72 pts",
+          "aliases": [
+            "Urawa Reds",
+            "Urawa"
+          ]
+        },
+        {
+          "answer": "Kawasaki Frontale",
+          "display": "#2 — 67 pts",
+          "aliases": [
+            "Frontale"
+          ]
+        },
+        {
+          "answer": "Gamba Osaka",
+          "display": "#3 — 66 pts",
+          "aliases": [
+            "Gamba"
+          ]
+        },
+        {
+          "answer": "Shimizu S-Pulse",
+          "display": "#4 — 60 pts",
+          "aliases": [
+            "S-Pulse",
+            "Shimizu"
+          ]
+        },
+        {
+          "answer": "Júbilo Iwata",
+          "display": "#5 — 58 pts",
+          "aliases": [
+            "Jubilo Iwata",
+            "Jubilo"
+          ]
+        },
+        {
+          "answer": "Kashima Antlers",
+          "display": "#6 — 58 pts",
+          "aliases": [
+            "Kashima"
+          ]
+        },
+        {
+          "answer": "Nagoya Grampus",
+          "display": "#7 — 48 pts",
+          "aliases": [
+            "Nagoya Grampus Eight",
+            "Nagoya"
+          ]
+        },
+        {
+          "answer": "Oita Trinita",
+          "display": "#8 — 47 pts",
+          "aliases": [
+            "Trinita",
+            "Oita"
+          ]
+        },
+        {
+          "answer": "Yokohama F. Marinos",
+          "display": "#9 — 45 pts",
+          "aliases": [
+            "Yokohama Marinos",
+            "Marinos"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/soccer/japan/j1-league",
+      "question": "Top 6 clubs in the final 2007 J.League Division 1 table",
+      "cutoff": 6,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1373597108 | table 4 | name: Team | value: Pos | order: asc",
+      "tags": [
+        "football",
+        "j1-league",
+        "seasons"
+      ],
+      "answers": [
+        {
+          "answer": "Kashima Antlers",
+          "display": "#1 — 72 pts",
+          "aliases": [
+            "Kashima"
+          ]
+        },
+        {
+          "answer": "Urawa Red Diamonds",
+          "display": "#2 — 70 pts",
+          "aliases": [
+            "Urawa Reds",
+            "Urawa"
+          ]
+        },
+        {
+          "answer": "Gamba Osaka",
+          "display": "#3 — 67 pts",
+          "aliases": [
+            "Gamba"
+          ]
+        },
+        {
+          "answer": "Shimizu S-Pulse",
+          "display": "#4 — 61 pts",
+          "aliases": [
+            "S-Pulse",
+            "Shimizu"
+          ]
+        },
+        {
+          "answer": "Kawasaki Frontale",
+          "display": "#5 — 54 pts",
+          "aliases": [
+            "Frontale"
+          ]
+        },
+        {
+          "answer": "Albirex Niigata",
+          "display": "#6 — 51 pts",
+          "aliases": [
+            "Albirex",
+            "Niigata"
+          ]
+        },
+        {
+          "answer": "Yokohama F. Marinos",
+          "display": "#7 — 50 pts",
+          "aliases": [
+            "Yokohama Marinos",
+            "Marinos"
+          ]
+        },
+        {
+          "answer": "Kashiwa Reysol",
+          "display": "#8 — 50 pts",
+          "aliases": [
+            "Reysol",
+            "Kashiwa"
+          ]
+        },
+        {
+          "answer": "Júbilo Iwata",
+          "display": "#9 — 49 pts",
+          "aliases": [
+            "Jubilo Iwata",
+            "Jubilo"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/soccer/japan/j1-league",
+      "question": "Top 6 clubs in the final 2008 J.League Division 1 table",
+      "cutoff": 6,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1362614666 | table 4 | name: Team | value: Pos | order: asc",
+      "tags": [
+        "football",
+        "j1-league",
+        "seasons"
+      ],
+      "answers": [
+        {
+          "answer": "Kashima Antlers",
+          "display": "#1 — 63 pts",
+          "aliases": [
+            "Kashima"
+          ]
+        },
+        {
+          "answer": "Kawasaki Frontale",
+          "display": "#2 — 60 pts",
+          "aliases": [
+            "Frontale"
+          ]
+        },
+        {
+          "answer": "Nagoya Grampus",
+          "display": "#3 — 59 pts",
+          "aliases": [
+            "Nagoya Grampus Eight",
+            "Nagoya"
+          ]
+        },
+        {
+          "answer": "Oita Trinita",
+          "display": "#4 — 56 pts",
+          "aliases": [
+            "Trinita",
+            "Oita"
+          ]
+        },
+        {
+          "answer": "Shimizu S-Pulse",
+          "display": "#5 — 55 pts",
+          "aliases": [
+            "S-Pulse",
+            "Shimizu"
+          ]
+        },
+        {
+          "answer": "FC Tokyo",
+          "display": "#6 — 55 pts"
+        },
+        {
+          "answer": "Urawa Red Diamonds",
+          "display": "#7 — 53 pts",
+          "aliases": [
+            "Urawa Reds",
+            "Urawa"
+          ]
+        },
+        {
+          "answer": "Gamba Osaka",
+          "display": "#8 — 50 pts",
+          "aliases": [
+            "Gamba"
+          ]
+        },
+        {
+          "answer": "Yokohama F. Marinos",
+          "display": "#9 — 48 pts",
+          "aliases": [
+            "Yokohama Marinos",
+            "Marinos"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/soccer/japan/j1-league",
+      "question": "Top 6 clubs in the final 2009 J.League Division 1 table",
+      "cutoff": 6,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1379589580 | table 4 | name: Team | value: Pos | order: asc",
+      "tags": [
+        "football",
+        "j1-league",
+        "seasons"
+      ],
+      "answers": [
+        {
+          "answer": "Kashima Antlers",
+          "display": "#1 — 66 pts",
+          "aliases": [
+            "Kashima"
+          ]
+        },
+        {
+          "answer": "Kawasaki Frontale",
+          "display": "#2 — 64 pts",
+          "aliases": [
+            "Frontale"
+          ]
+        },
+        {
+          "answer": "Gamba Osaka",
+          "display": "#3 — 60 pts",
+          "aliases": [
+            "Gamba"
+          ]
+        },
+        {
+          "answer": "Sanfrecce Hiroshima",
+          "display": "#4 — 56 pts",
+          "aliases": [
+            "Sanfrecce"
+          ]
+        },
+        {
+          "answer": "FC Tokyo",
+          "display": "#5 — 53 pts"
+        },
+        {
+          "answer": "Urawa Red Diamonds",
+          "display": "#6 — 52 pts",
+          "aliases": [
+            "Urawa Reds",
+            "Urawa"
+          ]
+        },
+        {
+          "answer": "Shimizu S-Pulse",
+          "display": "#7 — 51 pts",
+          "aliases": [
+            "S-Pulse",
+            "Shimizu"
+          ]
+        },
+        {
+          "answer": "Albirex Niigata",
+          "display": "#8 — 50 pts",
+          "aliases": [
+            "Albirex",
+            "Niigata"
+          ]
+        },
+        {
+          "answer": "Nagoya Grampus",
+          "display": "#9 — 50 pts",
+          "aliases": [
+            "Nagoya Grampus Eight",
+            "Nagoya"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/soccer/japan/j1-league",
+      "question": "Top 6 clubs in the final 2010 J.League Division 1 table",
+      "cutoff": 6,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1349658001 | table 4 | name: Team | value: Pos | order: asc",
+      "tags": [
+        "football",
+        "j1-league",
+        "seasons"
+      ],
+      "answers": [
+        {
+          "answer": "Nagoya Grampus",
+          "display": "#1 — 72 pts",
+          "aliases": [
+            "Nagoya Grampus Eight",
+            "Nagoya"
+          ]
+        },
+        {
+          "answer": "Gamba Osaka",
+          "display": "#2 — 62 pts",
+          "aliases": [
+            "Gamba"
+          ]
+        },
+        {
+          "answer": "Cerezo Osaka",
+          "display": "#3 — 61 pts",
+          "aliases": [
+            "Cerezo"
+          ]
+        },
+        {
+          "answer": "Kashima Antlers",
+          "display": "#4 — 60 pts",
+          "aliases": [
+            "Kashima"
+          ]
+        },
+        {
+          "answer": "Kawasaki Frontale",
+          "display": "#5 — 54 pts",
+          "aliases": [
+            "Frontale"
+          ]
+        },
+        {
+          "answer": "Shimizu S-Pulse",
+          "display": "#6 — 54 pts",
+          "aliases": [
+            "S-Pulse",
+            "Shimizu"
+          ]
+        },
+        {
+          "answer": "Sanfrecce Hiroshima",
+          "display": "#7 — 51 pts",
+          "aliases": [
+            "Sanfrecce"
+          ]
+        },
+        {
+          "answer": "Yokohama F. Marinos",
+          "display": "#8 — 51 pts",
+          "aliases": [
+            "Yokohama Marinos",
+            "Marinos"
+          ]
+        },
+        {
+          "answer": "Albirex Niigata",
+          "display": "#9 — 49 pts",
+          "aliases": [
+            "Albirex",
+            "Niigata"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/soccer/japan/j1-league",
+      "question": "Top 6 clubs in the final 2011 J.League Division 1 table",
+      "cutoff": 6,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1373588932 | table 4 | name: Team | value: Pos | order: asc",
+      "tags": [
+        "football",
+        "j1-league",
+        "seasons"
+      ],
+      "answers": [
+        {
+          "answer": "Kashiwa Reysol",
+          "display": "#1 — 72 pts",
+          "aliases": [
+            "Reysol",
+            "Kashiwa"
+          ]
+        },
+        {
+          "answer": "Nagoya Grampus",
+          "display": "#2 — 71 pts",
+          "aliases": [
+            "Nagoya Grampus Eight",
+            "Nagoya"
+          ]
+        },
+        {
+          "answer": "Gamba Osaka",
+          "display": "#3 — 70 pts",
+          "aliases": [
+            "Gamba"
+          ]
+        },
+        {
+          "answer": "Vegalta Sendai",
+          "display": "#4 — 56 pts",
+          "aliases": [
+            "Vegalta",
+            "Sendai"
+          ]
+        },
+        {
+          "answer": "Yokohama F. Marinos",
+          "display": "#5 — 56 pts",
+          "aliases": [
+            "Yokohama Marinos",
+            "Marinos"
+          ]
+        },
+        {
+          "answer": "Kashima Antlers",
+          "display": "#6 — 50 pts",
+          "aliases": [
+            "Kashima"
+          ]
+        },
+        {
+          "answer": "Sanfrecce Hiroshima",
+          "display": "#7 — 50 pts",
+          "aliases": [
+            "Sanfrecce"
+          ]
+        },
+        {
+          "answer": "Júbilo Iwata",
+          "display": "#8 — 47 pts",
+          "aliases": [
+            "Jubilo Iwata",
+            "Jubilo"
+          ]
+        },
+        {
+          "answer": "Vissel Kobe",
+          "display": "#9 — 46 pts",
+          "aliases": [
+            "Vissel",
+            "Kobe"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/soccer/japan/j1-league",
+      "question": "Top 6 clubs in the final 2012 J.League Division 1 table",
+      "cutoff": 6,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1332904031 | table 4 | name: Team | value: Pos | order: asc",
+      "tags": [
+        "football",
+        "j1-league",
+        "seasons"
+      ],
+      "answers": [
+        {
+          "answer": "Sanfrecce Hiroshima",
+          "display": "#1 — 64 pts",
+          "aliases": [
+            "Sanfrecce"
+          ]
+        },
+        {
+          "answer": "Vegalta Sendai",
+          "display": "#2 — 57 pts",
+          "aliases": [
+            "Vegalta",
+            "Sendai"
+          ]
+        },
+        {
+          "answer": "Urawa Red Diamonds",
+          "display": "#3 — 55 pts",
+          "aliases": [
+            "Urawa Reds",
+            "Urawa"
+          ]
+        },
+        {
+          "answer": "Yokohama F. Marinos",
+          "display": "#4 — 53 pts",
+          "aliases": [
+            "Yokohama Marinos",
+            "Marinos"
+          ]
+        },
+        {
+          "answer": "Sagan Tosu",
+          "display": "#5 — 53 pts",
+          "aliases": [
+            "Tosu",
+            "Sagan"
+          ]
+        },
+        {
+          "answer": "Kashiwa Reysol",
+          "display": "#6 — 52 pts",
+          "aliases": [
+            "Reysol",
+            "Kashiwa"
+          ]
+        },
+        {
+          "answer": "Nagoya Grampus",
+          "display": "#7 — 52 pts",
+          "aliases": [
+            "Nagoya Grampus Eight",
+            "Nagoya"
+          ]
+        },
+        {
+          "answer": "Kawasaki Frontale",
+          "display": "#8 — 50 pts",
+          "aliases": [
+            "Frontale"
+          ]
+        },
+        {
+          "answer": "Shimizu S-Pulse",
+          "display": "#9 — 49 pts",
+          "aliases": [
+            "S-Pulse",
+            "Shimizu"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/soccer/japan/j1-league",
+      "question": "Top 6 clubs in the final 2013 J.League Division 1 table",
+      "cutoff": 6,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1332910359 | table 4 | name: Team | value: Pos | order: asc",
+      "tags": [
+        "football",
+        "j1-league",
+        "seasons"
+      ],
+      "answers": [
+        {
+          "answer": "Sanfrecce Hiroshima",
+          "display": "#1 — 63 pts",
+          "aliases": [
+            "Sanfrecce"
+          ]
+        },
+        {
+          "answer": "Yokohama F. Marinos",
+          "display": "#2 — 62 pts",
+          "aliases": [
+            "Yokohama Marinos",
+            "Marinos"
+          ]
+        },
+        {
+          "answer": "Kawasaki Frontale",
+          "display": "#3 — 60 pts",
+          "aliases": [
+            "Frontale"
+          ]
+        },
+        {
+          "answer": "Cerezo Osaka",
+          "display": "#4 — 59 pts",
+          "aliases": [
+            "Cerezo"
+          ]
+        },
+        {
+          "answer": "Kashima Antlers",
+          "display": "#5 — 59 pts",
+          "aliases": [
+            "Kashima"
+          ]
+        },
+        {
+          "answer": "Urawa Red Diamonds",
+          "display": "#6 — 58 pts",
+          "aliases": [
+            "Urawa Reds",
+            "Urawa"
+          ]
+        },
+        {
+          "answer": "Albirex Niigata",
+          "display": "#7 — 55 pts",
+          "aliases": [
+            "Albirex",
+            "Niigata"
+          ]
+        },
+        {
+          "answer": "FC Tokyo",
+          "display": "#8 — 54 pts"
+        },
+        {
+          "answer": "Shimizu S-Pulse",
+          "display": "#9 — 50 pts",
+          "aliases": [
+            "S-Pulse",
+            "Shimizu"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/soccer/japan/j1-league",
+      "question": "Top 6 clubs in the final 2014 J.League Division 1 table",
+      "cutoff": 6,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1353886541 | table 5 | name: Team | value: Pos | order: asc",
+      "tags": [
+        "football",
+        "j1-league",
+        "seasons"
+      ],
+      "answers": [
+        {
+          "answer": "Gamba Osaka",
+          "display": "#1 — 63 pts",
+          "aliases": [
+            "Gamba"
+          ]
+        },
+        {
+          "answer": "Urawa Red Diamonds",
+          "display": "#2 — 62 pts",
+          "aliases": [
+            "Urawa Reds",
+            "Urawa"
+          ]
+        },
+        {
+          "answer": "Kashima Antlers",
+          "display": "#3 — 60 pts",
+          "aliases": [
+            "Kashima"
+          ]
+        },
+        {
+          "answer": "Kashiwa Reysol",
+          "display": "#4 — 60 pts",
+          "aliases": [
+            "Reysol",
+            "Kashiwa"
+          ]
+        },
+        {
+          "answer": "Sagan Tosu",
+          "display": "#5 — 60 pts",
+          "aliases": [
+            "Tosu",
+            "Sagan"
+          ]
+        },
+        {
+          "answer": "Kawasaki Frontale",
+          "display": "#6 — 55 pts",
+          "aliases": [
+            "Frontale"
+          ]
+        },
+        {
+          "answer": "Yokohama F. Marinos",
+          "display": "#7 — 51 pts",
+          "aliases": [
+            "Yokohama Marinos",
+            "Marinos"
+          ]
+        },
+        {
+          "answer": "Sanfrecce Hiroshima",
+          "display": "#8 — 50 pts",
+          "aliases": [
+            "Sanfrecce"
+          ]
+        },
+        {
+          "answer": "FC Tokyo",
+          "display": "#9 — 48 pts"
+        }
+      ]
+    },
+    {
+      "category": "sports/soccer/japan/j1-league",
+      "question": "Top 6 clubs in the 2015 J1 League overall table",
+      "cutoff": 6,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1352990842 | table 7 | name: Team | value: Pos | order: asc",
+      "tags": [
+        "football",
+        "j1-league",
+        "seasons"
+      ],
+      "answers": [
+        {
+          "answer": "Sanfrecce Hiroshima",
+          "display": "#1 — 74 pts",
+          "aliases": [
+            "Sanfrecce"
+          ]
+        },
+        {
+          "answer": "Urawa Red Diamonds",
+          "display": "#2 — 72 pts",
+          "aliases": [
+            "Urawa Reds",
+            "Urawa"
+          ]
+        },
+        {
+          "answer": "Gamba Osaka",
+          "display": "#3 — 63 pts",
+          "aliases": [
+            "Gamba"
+          ]
+        },
+        {
+          "answer": "FC Tokyo",
+          "display": "#4 — 63 pts"
+        },
+        {
+          "answer": "Kashima Antlers",
+          "display": "#5 — 59 pts",
+          "aliases": [
+            "Kashima"
+          ]
+        },
+        {
+          "answer": "Kawasaki Frontale",
+          "display": "#6 — 57 pts",
+          "aliases": [
+            "Frontale"
+          ]
+        },
+        {
+          "answer": "Yokohama F. Marinos",
+          "display": "#7 — 55 pts",
+          "aliases": [
+            "Yokohama Marinos",
+            "Marinos"
+          ]
+        },
+        {
+          "answer": "Shonan Bellmare",
+          "display": "#8 — 48 pts",
+          "aliases": [
+            "Bellmare",
+            "Shonan"
+          ]
+        },
+        {
+          "answer": "Nagoya Grampus",
+          "display": "#9 — 46 pts",
+          "aliases": [
+            "Nagoya Grampus Eight",
+            "Nagoya"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/soccer/japan/j1-league",
+      "question": "Top 6 clubs in the 2016 J1 League overall table",
+      "cutoff": 6,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1377216283 | table 7 | name: Team | value: Pos | order: asc",
+      "tags": [
+        "football",
+        "j1-league",
+        "seasons"
+      ],
+      "answers": [
+        {
+          "answer": "Urawa Red Diamonds",
+          "display": "#1 — 74 pts",
+          "aliases": [
+            "Urawa Reds",
+            "Urawa"
+          ]
+        },
+        {
+          "answer": "Kawasaki Frontale",
+          "display": "#2 — 72 pts",
+          "aliases": [
+            "Frontale"
+          ]
+        },
+        {
+          "answer": "Kashima Antlers",
+          "display": "#3 — 59 pts",
+          "aliases": [
+            "Kashima"
+          ]
+        },
+        {
+          "answer": "Gamba Osaka",
+          "display": "#4 — 58 pts",
+          "aliases": [
+            "Gamba"
+          ]
+        },
+        {
+          "answer": "Omiya Ardija",
+          "display": "#5 — 56 pts",
+          "aliases": [
+            "Ardija",
+            "Omiya"
+          ]
+        },
+        {
+          "answer": "Sanfrecce Hiroshima",
+          "display": "#6 — 55 pts",
+          "aliases": [
+            "Sanfrecce"
+          ]
+        },
+        {
+          "answer": "Vissel Kobe",
+          "display": "#7 — 55 pts",
+          "aliases": [
+            "Vissel",
+            "Kobe"
+          ]
+        },
+        {
+          "answer": "Kashiwa Reysol",
+          "display": "#8 — 54 pts",
+          "aliases": [
+            "Reysol",
+            "Kashiwa"
+          ]
+        },
+        {
+          "answer": "FC Tokyo",
+          "display": "#9 — 52 pts"
+        }
+      ]
+    },
+    {
+      "category": "sports/soccer/japan/j1-league",
+      "question": "Top 6 clubs in the final 2017 J1 League table",
+      "cutoff": 6,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1374365136 | table 5 | name: Team | value: Pos | order: asc",
+      "tags": [
+        "football",
+        "j1-league",
+        "seasons"
+      ],
+      "answers": [
+        {
+          "answer": "Kawasaki Frontale",
+          "display": "#1 — 72 pts",
+          "aliases": [
+            "Frontale"
+          ]
+        },
+        {
+          "answer": "Kashima Antlers",
+          "display": "#2 — 72 pts",
+          "aliases": [
+            "Kashima"
+          ]
+        },
+        {
+          "answer": "Cerezo Osaka",
+          "display": "#3 — 63 pts",
+          "aliases": [
+            "Cerezo"
+          ]
+        },
+        {
+          "answer": "Kashiwa Reysol",
+          "display": "#4 — 62 pts",
+          "aliases": [
+            "Reysol",
+            "Kashiwa"
+          ]
+        },
+        {
+          "answer": "Yokohama F. Marinos",
+          "display": "#5 — 59 pts",
+          "aliases": [
+            "Yokohama Marinos",
+            "Marinos"
+          ]
+        },
+        {
+          "answer": "Júbilo Iwata",
+          "display": "#6 — 58 pts",
+          "aliases": [
+            "Jubilo Iwata",
+            "Jubilo"
+          ]
+        },
+        {
+          "answer": "Urawa Red Diamonds",
+          "display": "#7 — 49 pts",
+          "aliases": [
+            "Urawa Reds",
+            "Urawa"
+          ]
+        },
+        {
+          "answer": "Sagan Tosu",
+          "display": "#8 — 47 pts",
+          "aliases": [
+            "Tosu",
+            "Sagan"
+          ]
+        },
+        {
+          "answer": "Vissel Kobe",
+          "display": "#9 — 44 pts",
+          "aliases": [
+            "Vissel",
+            "Kobe"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/soccer/japan/j1-league",
+      "question": "Top 6 clubs in the final 2018 J1 League table",
+      "cutoff": 6,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1379615768 | table 5 | name: Team | value: Pos | order: asc",
+      "tags": [
+        "football",
+        "j1-league",
+        "seasons"
+      ],
+      "answers": [
+        {
+          "answer": "Kawasaki Frontale",
+          "display": "#1 — 69 pts",
+          "aliases": [
+            "Frontale"
+          ]
+        },
+        {
+          "answer": "Sanfrecce Hiroshima",
+          "display": "#2 — 57 pts",
+          "aliases": [
+            "Sanfrecce"
+          ]
+        },
+        {
+          "answer": "Kashima Antlers",
+          "display": "#3 — 56 pts",
+          "aliases": [
+            "Kashima"
+          ]
+        },
+        {
+          "answer": "Hokkaido Consadole Sapporo",
+          "display": "#4 — 55 pts",
+          "aliases": [
+            "Consadole Sapporo",
+            "Consadole",
+            "Sapporo"
+          ]
+        },
+        {
+          "answer": "Urawa Red Diamonds",
+          "display": "#5 — 51 pts",
+          "aliases": [
+            "Urawa Reds",
+            "Urawa"
+          ]
+        },
+        {
+          "answer": "FC Tokyo",
+          "display": "#6 — 50 pts"
+        },
+        {
+          "answer": "Cerezo Osaka",
+          "display": "#7 — 50 pts",
+          "aliases": [
+            "Cerezo"
+          ]
+        },
+        {
+          "answer": "Shimizu S-Pulse",
+          "display": "#8 — 49 pts",
+          "aliases": [
+            "S-Pulse",
+            "Shimizu"
+          ]
+        },
+        {
+          "answer": "Gamba Osaka",
+          "display": "#9 — 48 pts",
+          "aliases": [
+            "Gamba"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/soccer/japan/j1-league",
+      "question": "Top 6 clubs in the final 2019 J1 League table",
+      "cutoff": 6,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1374761060 | table 5 | name: Team | value: Pos | order: asc",
+      "tags": [
+        "football",
+        "j1-league",
+        "seasons"
+      ],
+      "answers": [
+        {
+          "answer": "Yokohama F. Marinos",
+          "display": "#1 — 70 pts",
+          "aliases": [
+            "Yokohama Marinos",
+            "Marinos"
+          ]
+        },
+        {
+          "answer": "FC Tokyo",
+          "display": "#2 — 64 pts"
+        },
+        {
+          "answer": "Kashima Antlers",
+          "display": "#3 — 63 pts",
+          "aliases": [
+            "Kashima"
+          ]
+        },
+        {
+          "answer": "Kawasaki Frontale",
+          "display": "#4 — 60 pts",
+          "aliases": [
+            "Frontale"
+          ]
+        },
+        {
+          "answer": "Cerezo Osaka",
+          "display": "#5 — 59 pts",
+          "aliases": [
+            "Cerezo"
+          ]
+        },
+        {
+          "answer": "Sanfrecce Hiroshima",
+          "display": "#6 — 55 pts",
+          "aliases": [
+            "Sanfrecce"
+          ]
+        },
+        {
+          "answer": "Gamba Osaka",
+          "display": "#7 — 47 pts",
+          "aliases": [
+            "Gamba"
+          ]
+        },
+        {
+          "answer": "Vissel Kobe",
+          "display": "#8 — 47 pts",
+          "aliases": [
+            "Vissel",
+            "Kobe"
+          ]
+        },
+        {
+          "answer": "Oita Trinita",
+          "display": "#9 — 47 pts",
+          "aliases": [
+            "Trinita",
+            "Oita"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/soccer/japan/j1-league",
+      "question": "Top 6 clubs in the final 2020 J1 League table",
+      "cutoff": 6,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1375519948 | table 5 | name: Team | value: Pos | order: asc",
+      "tags": [
+        "football",
+        "j1-league",
+        "seasons"
+      ],
+      "answers": [
+        {
+          "answer": "Kawasaki Frontale",
+          "display": "#1 — 83 pts",
+          "aliases": [
+            "Frontale"
+          ]
+        },
+        {
+          "answer": "Gamba Osaka",
+          "display": "#2 — 65 pts",
+          "aliases": [
+            "Gamba"
+          ]
+        },
+        {
+          "answer": "Nagoya Grampus",
+          "display": "#3 — 63 pts",
+          "aliases": [
+            "Nagoya Grampus Eight",
+            "Nagoya"
+          ]
+        },
+        {
+          "answer": "Cerezo Osaka",
+          "display": "#4 — 60 pts",
+          "aliases": [
+            "Cerezo"
+          ]
+        },
+        {
+          "answer": "Kashima Antlers",
+          "display": "#5 — 59 pts",
+          "aliases": [
+            "Kashima"
+          ]
+        },
+        {
+          "answer": "FC Tokyo",
+          "display": "#6 — 57 pts"
+        },
+        {
+          "answer": "Kashiwa Reysol",
+          "display": "#7 — 52 pts",
+          "aliases": [
+            "Reysol",
+            "Kashiwa"
+          ]
+        },
+        {
+          "answer": "Sanfrecce Hiroshima",
+          "display": "#8 — 48 pts",
+          "aliases": [
+            "Sanfrecce"
+          ]
+        },
+        {
+          "answer": "Yokohama F. Marinos",
+          "display": "#9 — 47 pts",
+          "aliases": [
+            "Yokohama Marinos",
+            "Marinos"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/soccer/japan/j1-league",
+      "question": "Top 7 clubs in the final 2021 J1 League table",
+      "cutoff": 7,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1374933234 | table 5 | name: Team | value: Pos | order: asc",
+      "tags": [
+        "football",
+        "j1-league",
+        "seasons"
+      ],
+      "answers": [
+        {
+          "answer": "Kawasaki Frontale",
+          "display": "#1 — 92 pts",
+          "aliases": [
+            "Frontale"
+          ]
+        },
+        {
+          "answer": "Yokohama F. Marinos",
+          "display": "#2 — 79 pts",
+          "aliases": [
+            "Yokohama Marinos",
+            "Marinos"
+          ]
+        },
+        {
+          "answer": "Vissel Kobe",
+          "display": "#3 — 73 pts",
+          "aliases": [
+            "Vissel",
+            "Kobe"
+          ]
+        },
+        {
+          "answer": "Kashima Antlers",
+          "display": "#4 — 69 pts",
+          "aliases": [
+            "Kashima"
+          ]
+        },
+        {
+          "answer": "Nagoya Grampus",
+          "display": "#5 — 66 pts",
+          "aliases": [
+            "Nagoya Grampus Eight",
+            "Nagoya"
+          ]
+        },
+        {
+          "answer": "Urawa Red Diamonds",
+          "display": "#6 — 63 pts",
+          "aliases": [
+            "Urawa Reds",
+            "Urawa"
+          ]
+        },
+        {
+          "answer": "Sagan Tosu",
+          "display": "#7 — 59 pts",
+          "aliases": [
+            "Tosu",
+            "Sagan"
+          ]
+        },
+        {
+          "answer": "Avispa Fukuoka",
+          "display": "#8 — 54 pts",
+          "aliases": [
+            "Avispa",
+            "Fukuoka"
+          ]
+        },
+        {
+          "answer": "FC Tokyo",
+          "display": "#9 — 53 pts"
+        },
+        {
+          "answer": "Hokkaido Consadole Sapporo",
+          "display": "#10 — 51 pts",
+          "aliases": [
+            "Consadole Sapporo",
+            "Consadole",
+            "Sapporo"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/soccer/japan/j1-league",
+      "question": "Top 6 clubs in the final 2022 J1 League table",
+      "cutoff": 6,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1378974277 | table 5 | name: Team | value: Pos | order: asc",
+      "tags": [
+        "football",
+        "j1-league",
+        "seasons"
+      ],
+      "answers": [
+        {
+          "answer": "Yokohama F. Marinos",
+          "display": "#1 — 68 pts",
+          "aliases": [
+            "Yokohama Marinos",
+            "Marinos"
+          ]
+        },
+        {
+          "answer": "Kawasaki Frontale",
+          "display": "#2 — 66 pts",
+          "aliases": [
+            "Frontale"
+          ]
+        },
+        {
+          "answer": "Sanfrecce Hiroshima",
+          "display": "#3 — 55 pts",
+          "aliases": [
+            "Sanfrecce"
+          ]
+        },
+        {
+          "answer": "Kashima Antlers",
+          "display": "#4 — 52 pts",
+          "aliases": [
+            "Kashima"
+          ]
+        },
+        {
+          "answer": "Cerezo Osaka",
+          "display": "#5 — 51 pts",
+          "aliases": [
+            "Cerezo"
+          ]
+        },
+        {
+          "answer": "FC Tokyo",
+          "display": "#6 — 49 pts"
+        },
+        {
+          "answer": "Kashiwa Reysol",
+          "display": "#7 — 47 pts",
+          "aliases": [
+            "Reysol",
+            "Kashiwa"
+          ]
+        },
+        {
+          "answer": "Nagoya Grampus",
+          "display": "#8 — 46 pts",
+          "aliases": [
+            "Nagoya Grampus Eight",
+            "Nagoya"
+          ]
+        },
+        {
+          "answer": "Urawa Red Diamonds",
+          "display": "#9 — 45 pts",
+          "aliases": [
+            "Urawa Reds",
+            "Urawa"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/soccer/japan/j1-league",
+      "question": "Top 6 clubs in the final 2023 J1 League table",
+      "cutoff": 6,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1378974542 | table 5 | name: Team | value: Pos | order: asc",
+      "tags": [
+        "football",
+        "j1-league",
+        "seasons"
+      ],
+      "answers": [
+        {
+          "answer": "Vissel Kobe",
+          "display": "#1 — 71 pts",
+          "aliases": [
+            "Vissel",
+            "Kobe"
+          ]
+        },
+        {
+          "answer": "Yokohama F. Marinos",
+          "display": "#2 — 64 pts",
+          "aliases": [
+            "Yokohama Marinos",
+            "Marinos"
+          ]
+        },
+        {
+          "answer": "Sanfrecce Hiroshima",
+          "display": "#3 — 58 pts",
+          "aliases": [
+            "Sanfrecce"
+          ]
+        },
+        {
+          "answer": "Urawa Red Diamonds",
+          "display": "#4 — 57 pts",
+          "aliases": [
+            "Urawa Reds",
+            "Urawa"
+          ]
+        },
+        {
+          "answer": "Kashima Antlers",
+          "display": "#5 — 52 pts",
+          "aliases": [
+            "Kashima"
+          ]
+        },
+        {
+          "answer": "Nagoya Grampus",
+          "display": "#6 — 52 pts",
+          "aliases": [
+            "Nagoya Grampus Eight",
+            "Nagoya"
+          ]
+        },
+        {
+          "answer": "Avispa Fukuoka",
+          "display": "#7 — 51 pts",
+          "aliases": [
+            "Avispa",
+            "Fukuoka"
+          ]
+        },
+        {
+          "answer": "Kawasaki Frontale",
+          "display": "#8 — 50 pts",
+          "aliases": [
+            "Frontale"
+          ]
+        },
+        {
+          "answer": "Cerezo Osaka",
+          "display": "#9 — 49 pts",
+          "aliases": [
+            "Cerezo"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/soccer/japan/j1-league",
+      "question": "Top 7 clubs in the final 2024 J1 League table",
+      "cutoff": 7,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1378974640 | table 5 | name: Team | value: Pos | order: asc",
+      "tags": [
+        "football",
+        "j1-league",
+        "seasons"
+      ],
+      "answers": [
+        {
+          "answer": "Vissel Kobe",
+          "display": "#1 — 72 pts",
+          "aliases": [
+            "Vissel",
+            "Kobe"
+          ]
+        },
+        {
+          "answer": "Sanfrecce Hiroshima",
+          "display": "#2 — 68 pts",
+          "aliases": [
+            "Sanfrecce"
+          ]
+        },
+        {
+          "answer": "Machida Zelvia",
+          "display": "#3 — 66 pts",
+          "aliases": [
+            "Zelvia",
+            "Machida"
+          ]
+        },
+        {
+          "answer": "Gamba Osaka",
+          "display": "#4 — 66 pts",
+          "aliases": [
+            "Gamba"
+          ]
+        },
+        {
+          "answer": "Kashima Antlers",
+          "display": "#5 — 65 pts",
+          "aliases": [
+            "Kashima"
+          ]
+        },
+        {
+          "answer": "Tokyo Verdy",
+          "display": "#6 — 56 pts",
+          "aliases": [
+            "Verdy",
+            "Verdy Kawasaki",
+            "Tokyo Verdy 1969"
+          ]
+        },
+        {
+          "answer": "FC Tokyo",
+          "display": "#7 — 54 pts"
+        },
+        {
+          "answer": "Kawasaki Frontale",
+          "display": "#8 — 52 pts",
+          "aliases": [
+            "Frontale"
+          ]
+        },
+        {
+          "answer": "Yokohama F. Marinos",
+          "display": "#9 — 52 pts",
+          "aliases": [
+            "Yokohama Marinos",
+            "Marinos"
+          ]
+        },
+        {
+          "answer": "Cerezo Osaka",
+          "display": "#10 — 52 pts",
+          "aliases": [
+            "Cerezo"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/soccer/japan/j1-league",
+      "question": "Top 7 clubs in the final 2025 J1 League table",
+      "cutoff": 7,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1378355075 | table 5 | name: Team | value: Pos | order: asc",
+      "tags": [
+        "football",
+        "j1-league",
+        "seasons"
+      ],
+      "answers": [
+        {
+          "answer": "Kashima Antlers",
+          "display": "#1 — 76 pts",
+          "aliases": [
+            "Kashima"
+          ]
+        },
+        {
+          "answer": "Kashiwa Reysol",
+          "display": "#2 — 75 pts",
+          "aliases": [
+            "Reysol",
+            "Kashiwa"
+          ]
+        },
+        {
+          "answer": "Kyoto Sanga",
+          "display": "#3 — 68 pts",
+          "aliases": [
+            "Kyoto Purple Sanga",
+            "Kyoto"
+          ]
+        },
+        {
+          "answer": "Sanfrecce Hiroshima",
+          "display": "#4 — 68 pts",
+          "aliases": [
+            "Sanfrecce"
+          ]
+        },
+        {
+          "answer": "Vissel Kobe",
+          "display": "#5 — 64 pts",
+          "aliases": [
+            "Vissel",
+            "Kobe"
+          ]
+        },
+        {
+          "answer": "Machida Zelvia",
+          "display": "#6 — 60 pts",
+          "aliases": [
+            "Zelvia",
+            "Machida"
+          ]
+        },
+        {
+          "answer": "Urawa Red Diamonds",
+          "display": "#7 — 59 pts",
+          "aliases": [
+            "Urawa Reds",
+            "Urawa"
+          ]
+        },
+        {
+          "answer": "Kawasaki Frontale",
+          "display": "#8 — 57 pts",
+          "aliases": [
+            "Frontale"
+          ]
+        },
+        {
+          "answer": "Gamba Osaka",
+          "display": "#9 — 57 pts",
+          "aliases": [
+            "Gamba"
+          ]
+        },
+        {
+          "answer": "Cerezo Osaka",
+          "display": "#10 — 52 pts",
+          "aliases": [
+            "Cerezo"
+          ]
+        }
+      ]
+    }
+  ]
+}

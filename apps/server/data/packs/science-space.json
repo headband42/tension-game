@@ -1,0 +1,679 @@
+{
+  "categories": [
+    {
+      "path": "science/space",
+      "name": "Space"
+    }
+  ],
+  "questions": [
+    {
+      "category": "science/space/stars",
+      "question": "Top 10 brightest stars in the night sky by apparent visual magnitude (Sun excluded)",
+      "cutoff": 10,
+      "difficulty": 1,
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1377972533 | table 3 | name: Proper name | value: Visual magnitude | where: Proper name!~^Sun | order: asc",
+      "tags": [
+        "science",
+        "space",
+        "stars"
+      ],
+      "answers": [
+        {
+          "answer": "Sirius",
+          "display": "−1.46 mag",
+          "aliases": [
+            "Alpha Canis Majoris",
+            "Dog Star"
+          ]
+        },
+        {
+          "answer": "Canopus",
+          "display": "−0.74 mag"
+        },
+        {
+          "answer": "Alpha Centauri",
+          "display": "−0.27 mag",
+          "aliases": [
+            "Alpha Cen",
+            "Rigil Kentaurus"
+          ]
+        },
+        {
+          "answer": "Arcturus",
+          "display": "−0.05 mag"
+        },
+        {
+          "answer": "Vega",
+          "display": "0.03 mag"
+        },
+        {
+          "answer": "Capella",
+          "display": "0.08 mag"
+        },
+        {
+          "answer": "Rigel",
+          "display": "0.13 mag"
+        },
+        {
+          "answer": "Procyon",
+          "display": "0.34 mag"
+        },
+        {
+          "answer": "Achernar",
+          "display": "0.46 mag"
+        },
+        {
+          "answer": "Betelgeuse",
+          "display": "0.50 mag"
+        },
+        {
+          "answer": "Hadar",
+          "display": "0.61 mag",
+          "aliases": [
+            "Beta Centauri"
+          ]
+        },
+        {
+          "answer": "Altair",
+          "display": "0.76 mag"
+        },
+        {
+          "answer": "Acrux",
+          "display": "0.76 mag",
+          "aliases": [
+            "Alpha Crucis"
+          ]
+        },
+        {
+          "answer": "Aldebaran",
+          "display": "0.86 mag"
+        },
+        {
+          "answer": "Antares",
+          "display": "0.96 mag"
+        }
+      ],
+      "submitter": "claude"
+    },
+    {
+      "category": "science/space/moons",
+      "question": "Top 10 largest natural satellites (moons) in the solar system by mean radius (as of 2026)",
+      "cutoff": 10,
+      "difficulty": 1,
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1379468306 | table 5 | name: Name | value: Mean radius",
+      "tags": [
+        "science",
+        "space",
+        "moons"
+      ],
+      "answers": [
+        {
+          "answer": "Ganymede",
+          "display": "2,634.1 km"
+        },
+        {
+          "answer": "Titan",
+          "display": "2,574.7 km"
+        },
+        {
+          "answer": "Callisto",
+          "display": "2,410.3 km"
+        },
+        {
+          "answer": "Io",
+          "display": "1,821.6 km"
+        },
+        {
+          "answer": "Moon",
+          "display": "1,738 km",
+          "aliases": [
+            "Luna",
+            "Earth's Moon"
+          ]
+        },
+        {
+          "answer": "Europa",
+          "display": "1,560.8 km"
+        },
+        {
+          "answer": "Triton",
+          "display": "1,353.4 km"
+        },
+        {
+          "answer": "Titania",
+          "display": "788.9 km"
+        },
+        {
+          "answer": "Rhea",
+          "display": "763.8 km"
+        },
+        {
+          "answer": "Oberon",
+          "display": "761.4 km"
+        },
+        {
+          "answer": "Iapetus",
+          "display": "735.6 km"
+        },
+        {
+          "answer": "Charon",
+          "display": "606 km"
+        },
+        {
+          "answer": "Umbriel",
+          "display": "582.4 km"
+        },
+        {
+          "answer": "Ariel",
+          "display": "578.9 km"
+        },
+        {
+          "answer": "Dione",
+          "display": "561.4 km"
+        }
+      ],
+      "submitter": "claude"
+    },
+    {
+      "category": "science/space/moons",
+      "question": "Top 10 largest moons of Saturn by mean radius (as of 2026)",
+      "cutoff": 10,
+      "difficulty": 3,
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1379468306 | table 5 | name: Name | value: Mean radius | where: Parent=Saturn",
+      "tags": [
+        "science",
+        "space",
+        "moons"
+      ],
+      "answers": [
+        {
+          "answer": "Titan",
+          "display": "2,574.7 km"
+        },
+        {
+          "answer": "Rhea",
+          "display": "763.8 km"
+        },
+        {
+          "answer": "Iapetus",
+          "display": "735.6 km"
+        },
+        {
+          "answer": "Dione",
+          "display": "561.4 km"
+        },
+        {
+          "answer": "Tethys",
+          "display": "533.1 km"
+        },
+        {
+          "answer": "Enceladus",
+          "display": "252.1 km"
+        },
+        {
+          "answer": "Mimas",
+          "display": "198.2 km"
+        },
+        {
+          "answer": "Hyperion",
+          "display": "135 km"
+        },
+        {
+          "answer": "Phoebe",
+          "display": "106.5 km"
+        },
+        {
+          "answer": "Janus",
+          "display": "89.5 km"
+        },
+        {
+          "answer": "Epimetheus",
+          "display": "58.1 km"
+        },
+        {
+          "answer": "Prometheus",
+          "display": "43.1 km"
+        },
+        {
+          "answer": "Pandora",
+          "display": "40.7 km"
+        },
+        {
+          "answer": "Siarnaq",
+          "display": "19.65 km"
+        },
+        {
+          "answer": "Helene",
+          "display": "17.6 km"
+        }
+      ],
+      "submitter": "claude"
+    },
+    {
+      "category": "science/space/constellations",
+      "question": "Top 10 largest constellations by area (square degrees)",
+      "cutoff": 10,
+      "difficulty": 2,
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1379422496 | table 1 | name: Constellation | value: sq. deg",
+      "tags": [
+        "science",
+        "space",
+        "constellations"
+      ],
+      "answers": [
+        {
+          "answer": "Hydra",
+          "display": "1,302.8 sq deg"
+        },
+        {
+          "answer": "Virgo",
+          "display": "1,294.4 sq deg"
+        },
+        {
+          "answer": "Ursa Major",
+          "display": "1,279.7 sq deg",
+          "aliases": [
+            "Great Bear"
+          ]
+        },
+        {
+          "answer": "Cetus",
+          "display": "1,231.4 sq deg"
+        },
+        {
+          "answer": "Hercules",
+          "display": "1,225.1 sq deg"
+        },
+        {
+          "answer": "Eridanus",
+          "display": "1,137.9 sq deg"
+        },
+        {
+          "answer": "Pegasus",
+          "display": "1,120.8 sq deg"
+        },
+        {
+          "answer": "Draco",
+          "display": "1,083.0 sq deg"
+        },
+        {
+          "answer": "Centaurus",
+          "display": "1,060.4 sq deg"
+        },
+        {
+          "answer": "Aquarius",
+          "display": "979.9 sq deg"
+        },
+        {
+          "answer": "Ophiuchus",
+          "display": "948.3 sq deg"
+        },
+        {
+          "answer": "Leo",
+          "display": "947.0 sq deg"
+        },
+        {
+          "answer": "Boötes",
+          "display": "906.8 sq deg",
+          "aliases": [
+            "Bootes"
+          ]
+        },
+        {
+          "answer": "Pisces",
+          "display": "889.4 sq deg"
+        },
+        {
+          "answer": "Sagittarius",
+          "display": "867.4 sq deg"
+        }
+      ],
+      "submitter": "claude"
+    },
+    {
+      "category": "science/space/constellations",
+      "question": "Top 10 largest constellations by area (square degrees) whose names end in -US",
+      "cutoff": 10,
+      "difficulty": 3,
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1379422496 | table 1 | name: Constellation | value: sq. deg | where: Constellation~us$",
+      "tags": [
+        "science",
+        "space",
+        "constellations"
+      ],
+      "answers": [
+        {
+          "answer": "Cetus",
+          "display": "1,231.4 sq deg"
+        },
+        {
+          "answer": "Eridanus",
+          "display": "1,137.9 sq deg"
+        },
+        {
+          "answer": "Pegasus",
+          "display": "1,120.8 sq deg"
+        },
+        {
+          "answer": "Centaurus",
+          "display": "1,060.4 sq deg"
+        },
+        {
+          "answer": "Aquarius",
+          "display": "979.9 sq deg"
+        },
+        {
+          "answer": "Ophiuchus",
+          "display": "948.3 sq deg"
+        },
+        {
+          "answer": "Sagittarius",
+          "display": "867.4 sq deg"
+        },
+        {
+          "answer": "Cygnus",
+          "display": "804.0 sq deg"
+        },
+        {
+          "answer": "Taurus",
+          "display": "797.2 sq deg"
+        },
+        {
+          "answer": "Perseus",
+          "display": "615.0 sq deg"
+        },
+        {
+          "answer": "Cepheus",
+          "display": "587.8 sq deg"
+        },
+        {
+          "answer": "Scorpius",
+          "display": "496.8 sq deg"
+        },
+        {
+          "answer": "Capricornus",
+          "display": "413.9 sq deg"
+        },
+        {
+          "answer": "Grus",
+          "display": "365.5 sq deg"
+        },
+        {
+          "answer": "Lupus",
+          "display": "333.7 sq deg"
+        }
+      ],
+      "submitter": "claude"
+    },
+    {
+      "category": "science/space/asteroids",
+      "question": "Top 10 largest asteroids by geometric-mean diameter (km)",
+      "cutoff": 10,
+      "difficulty": 3,
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1372351372 | table 1 | name: Name | value: Diameter",
+      "tags": [
+        "science",
+        "space",
+        "asteroids"
+      ],
+      "answers": [
+        {
+          "answer": "Ceres",
+          "display": "939.4 km",
+          "aliases": [
+            "1 Ceres"
+          ]
+        },
+        {
+          "answer": "Vesta",
+          "display": "525.4 km",
+          "aliases": [
+            "4 Vesta"
+          ]
+        },
+        {
+          "answer": "Pallas",
+          "display": "511 km",
+          "aliases": [
+            "2 Pallas"
+          ]
+        },
+        {
+          "answer": "Hygiea",
+          "display": "433 km",
+          "aliases": [
+            "10 Hygiea"
+          ]
+        },
+        {
+          "answer": "Interamnia",
+          "display": "332 km",
+          "aliases": [
+            "704 Interamnia"
+          ]
+        },
+        {
+          "answer": "Europa (asteroid)",
+          "display": "319 km",
+          "aliases": [
+            "52 Europa",
+            "Europa"
+          ]
+        },
+        {
+          "answer": "Davida",
+          "display": "298 km",
+          "aliases": [
+            "511 Davida"
+          ]
+        },
+        {
+          "answer": "Sylvia",
+          "display": "271 km",
+          "aliases": [
+            "87 Sylvia"
+          ]
+        },
+        {
+          "answer": "Eunomia",
+          "display": "270 km",
+          "aliases": [
+            "15 Eunomia"
+          ]
+        },
+        {
+          "answer": "Euphrosyne",
+          "display": "268 km",
+          "aliases": [
+            "31 Euphrosyne"
+          ]
+        },
+        {
+          "answer": "Cybele",
+          "display": "263 km",
+          "aliases": [
+            "65 Cybele"
+          ]
+        },
+        {
+          "answer": "Hektor",
+          "display": "256 km",
+          "aliases": [
+            "624 Hektor"
+          ]
+        },
+        {
+          "answer": "Juno",
+          "display": "254 km",
+          "aliases": [
+            "3 Juno"
+          ]
+        },
+        {
+          "answer": "Patientia",
+          "display": "254 km",
+          "aliases": [
+            "451 Patientia"
+          ]
+        },
+        {
+          "answer": "Camilla",
+          "display": "254 km",
+          "aliases": [
+            "107 Camilla"
+          ]
+        }
+      ],
+      "submitter": "claude"
+    },
+    {
+      "category": "science/space/rockets",
+      "question": "Top 10 orbital rockets by maximum payload to low Earth orbit (as of 2026)",
+      "cutoff": 10,
+      "difficulty": 3,
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1378888417 | table 1 | name: Vehicle | value: LEO | header rows: 2",
+      "tags": [
+        "science",
+        "space",
+        "rockets"
+      ],
+      "answers": [
+        {
+          "answer": "Starship Block 3",
+          "display": "100,000 kg",
+          "aliases": [
+            "Starship"
+          ]
+        },
+        {
+          "answer": "SLS Block 1",
+          "display": "95,000 kg",
+          "aliases": [
+            "SLS",
+            "Space Launch System"
+          ]
+        },
+        {
+          "answer": "Falcon Heavy",
+          "display": "63,800 kg"
+        },
+        {
+          "answer": "New Glenn 7x2",
+          "display": "45,000 kg",
+          "aliases": [
+            "New Glenn"
+          ]
+        },
+        {
+          "answer": "Long March 5B",
+          "display": "25,000 kg"
+        },
+        {
+          "answer": "Vulcan Centaur VC4",
+          "display": "24,600 kg"
+        },
+        {
+          "answer": "Ariane 6 A64 (Block 2)",
+          "display": "23,650 kg",
+          "aliases": [
+            "Ariane 6"
+          ]
+        },
+        {
+          "answer": "Falcon 9 Block 5",
+          "display": "22,800 kg",
+          "aliases": [
+            "Falcon 9"
+          ]
+        },
+        {
+          "answer": "Proton-M",
+          "display": "22,000 kg"
+        },
+        {
+          "answer": "Ariane 6 A64",
+          "display": "21,600 kg"
+        },
+        {
+          "answer": "Long March 12B",
+          "display": "20,000 kg"
+        },
+        {
+          "answer": "Vulcan Centaur VC2",
+          "display": "19,000 kg"
+        },
+        {
+          "answer": "H3-24L/W",
+          "display": "16,000 kg",
+          "aliases": [
+            "H3"
+          ]
+        },
+        {
+          "answer": "Long March 10B",
+          "display": "16,000 kg (200 km)"
+        },
+        {
+          "answer": "Long March 7",
+          "display": "13,500 kg"
+        }
+      ],
+      "submitter": "claude"
+    },
+    {
+      "category": "science/space/dwarf-planets",
+      "question": "Top 7 largest dwarf planets by diameter (including candidates, moons excluded)",
+      "cutoff": 7,
+      "difficulty": 2,
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1373894932 | table 3 | name: Name | value: Diameter (km) | where: Name!~Charon",
+      "tags": [
+        "science",
+        "space",
+        "dwarf planets"
+      ],
+      "answers": [
+        {
+          "answer": "Pluto",
+          "display": "2,376.6 km"
+        },
+        {
+          "answer": "Eris",
+          "display": "2,326 km"
+        },
+        {
+          "answer": "Haumea",
+          "display": "1,544 km"
+        },
+        {
+          "answer": "Makemake",
+          "display": "1,430 km"
+        },
+        {
+          "answer": "Gonggong",
+          "display": "1,230 km"
+        },
+        {
+          "answer": "Quaoar",
+          "display": "1,098 km"
+        },
+        {
+          "answer": "Ceres",
+          "display": "939.4 km"
+        },
+        {
+          "answer": "Orcus",
+          "display": "910 km"
+        },
+        {
+          "answer": "Sedna",
+          "display": "906 km"
+        },
+        {
+          "answer": "Salacia",
+          "display": "838 km"
+        }
+      ],
+      "submitter": "claude"
+    }
+  ]
+}

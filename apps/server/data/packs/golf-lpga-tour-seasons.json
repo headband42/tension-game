@@ -1,0 +1,2056 @@
+{
+  "categories": [
+    {
+      "path": "sports/golf/lpga-tour",
+      "name": "LPGA Tour"
+    },
+    {
+      "path": "sports/golf/lpga-tour/money-list",
+      "name": "LPGA Money List by Season"
+    }
+  ],
+  "questions": [
+    {
+      "category": "sports/golf/lpga-tour/money-list",
+      "question": "Top 7 golfers on the 2000 LPGA Tour official money list",
+      "cutoff": 7,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1366602387 | table 2 | name: Player | value: Earnings",
+      "tags": [
+        "golf",
+        "lpga tour",
+        "money list"
+      ],
+      "answers": [
+        {
+          "answer": "Karrie Webb",
+          "display": "$1,876,853",
+          "aliases": [
+            "Webb"
+          ]
+        },
+        {
+          "answer": "Annika Sörenstam",
+          "display": "$1,404,948",
+          "aliases": [
+            "Sorenstam"
+          ]
+        },
+        {
+          "answer": "Meg Mallon",
+          "display": "$1,146,360",
+          "aliases": [
+            "Mallon"
+          ]
+        },
+        {
+          "answer": "Juli Inkster",
+          "display": "$980,330",
+          "aliases": [
+            "Inkster"
+          ]
+        },
+        {
+          "answer": "Lorie Kane",
+          "display": "$929,189",
+          "aliases": [
+            "Kane"
+          ]
+        },
+        {
+          "answer": "Pat Hurst",
+          "display": "$840,161",
+          "aliases": [
+            "Hurst"
+          ]
+        },
+        {
+          "answer": "Mi-Hyun Kim",
+          "display": "$825,720",
+          "aliases": [
+            "Mi Hyun Kim",
+            "Kim"
+          ]
+        },
+        {
+          "answer": "Dottie Pepper",
+          "display": "$786,695",
+          "aliases": [
+            "Pepper"
+          ]
+        },
+        {
+          "answer": "Rosie Jones",
+          "display": "$643,054",
+          "aliases": [
+            "Jones"
+          ]
+        },
+        {
+          "answer": "Michele Redman",
+          "display": "$585,694",
+          "aliases": [
+            "Redman"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/golf/lpga-tour/money-list",
+      "question": "Top 7 golfers on the 2001 LPGA Tour official money list",
+      "cutoff": 7,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1345045153 | table 2 | name: Player | value: Earnings",
+      "tags": [
+        "golf",
+        "lpga tour",
+        "money list"
+      ],
+      "answers": [
+        {
+          "answer": "Annika Sörenstam",
+          "display": "$2,105,868",
+          "aliases": [
+            "Sorenstam"
+          ]
+        },
+        {
+          "answer": "Se Ri Pak",
+          "display": "$1,623,009",
+          "aliases": [
+            "Pak"
+          ]
+        },
+        {
+          "answer": "Karrie Webb",
+          "display": "$1,535,404",
+          "aliases": [
+            "Webb"
+          ]
+        },
+        {
+          "answer": "Lorie Kane",
+          "display": "$947,489",
+          "aliases": [
+            "Kane"
+          ]
+        },
+        {
+          "answer": "Maria Hjorth",
+          "display": "$848,195",
+          "aliases": [
+            "Hjorth"
+          ]
+        },
+        {
+          "answer": "Rosie Jones",
+          "display": "$785,010",
+          "aliases": [
+            "Jones"
+          ]
+        },
+        {
+          "answer": "Dottie Pepper",
+          "display": "$776,482",
+          "aliases": [
+            "Pepper"
+          ]
+        },
+        {
+          "answer": "Mi-Hyun Kim",
+          "display": "$762,363",
+          "aliases": [
+            "Mi Hyun Kim",
+            "Kim"
+          ]
+        },
+        {
+          "answer": "Laura Diaz",
+          "display": "$751,466",
+          "aliases": [
+            "Diaz"
+          ]
+        },
+        {
+          "answer": "Catriona Matthew",
+          "display": "$747,970",
+          "aliases": [
+            "Matthew"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/golf/lpga-tour/money-list",
+      "question": "Top 7 golfers on the 2002 LPGA Tour official money list",
+      "cutoff": 7,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1345045185 | table 2 | name: Player | value: Earnings",
+      "tags": [
+        "golf",
+        "lpga tour",
+        "money list"
+      ],
+      "answers": [
+        {
+          "answer": "Annika Sörenstam",
+          "display": "$2,863,904",
+          "aliases": [
+            "Sorenstam"
+          ]
+        },
+        {
+          "answer": "Se Ri Pak",
+          "display": "$1,722,281",
+          "aliases": [
+            "Pak"
+          ]
+        },
+        {
+          "answer": "Juli Inkster",
+          "display": "$1,154,349",
+          "aliases": [
+            "Inkster"
+          ]
+        },
+        {
+          "answer": "Mi-Hyun Kim",
+          "display": "$1,049,993",
+          "aliases": [
+            "Mi Hyun Kim",
+            "Kim"
+          ]
+        },
+        {
+          "answer": "Karrie Webb",
+          "display": "$1,009,760",
+          "aliases": [
+            "Webb"
+          ]
+        },
+        {
+          "answer": "Grace Park",
+          "display": "$861,943",
+          "aliases": [
+            "Park"
+          ]
+        },
+        {
+          "answer": "Laura Diaz",
+          "display": "$843,790",
+          "aliases": [
+            "Diaz"
+          ]
+        },
+        {
+          "answer": "Carin Koch",
+          "display": "$785,817",
+          "aliases": [
+            "Koch"
+          ]
+        },
+        {
+          "answer": "Rachel Teske",
+          "display": "$779,329",
+          "aliases": [
+            "Teske"
+          ]
+        },
+        {
+          "answer": "Rosie Jones",
+          "display": "$722,412",
+          "aliases": [
+            "Jones"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/golf/lpga-tour/money-list",
+      "question": "Top 7 golfers on the 2003 LPGA Tour official money list",
+      "cutoff": 7,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1345045213 | table 2 | name: Player | value: Earnings",
+      "tags": [
+        "golf",
+        "lpga tour",
+        "money list"
+      ],
+      "answers": [
+        {
+          "answer": "Annika Sörenstam",
+          "display": "$2,029,506",
+          "aliases": [
+            "Sorenstam"
+          ]
+        },
+        {
+          "answer": "Se Ri Pak",
+          "display": "$1,611,928",
+          "aliases": [
+            "Pak"
+          ]
+        },
+        {
+          "answer": "Grace Park",
+          "display": "$1,417,702",
+          "aliases": [
+            "Park"
+          ]
+        },
+        {
+          "answer": "Han Hee-won",
+          "display": "$1,111,860",
+          "aliases": [
+            "Hee-Won Han",
+            "Han"
+          ]
+        },
+        {
+          "answer": "Juli Inkster",
+          "display": "$1,028,205",
+          "aliases": [
+            "Inkster"
+          ]
+        },
+        {
+          "answer": "Candie Kung",
+          "display": "$938,079",
+          "aliases": [
+            "Kung"
+          ]
+        },
+        {
+          "answer": "Rachel Teske",
+          "display": "$924,667",
+          "aliases": [
+            "Teske"
+          ]
+        },
+        {
+          "answer": "Beth Daniel",
+          "display": "$917,654",
+          "aliases": [
+            "Daniel"
+          ]
+        },
+        {
+          "answer": "Lorena Ochoa",
+          "display": "$823,740",
+          "aliases": [
+            "Ochoa"
+          ]
+        },
+        {
+          "answer": "Rosie Jones",
+          "display": "$808,785",
+          "aliases": [
+            "Jones"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/golf/lpga-tour/money-list",
+      "question": "Top 7 golfers on the 2004 LPGA Tour official money list",
+      "cutoff": 7,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1345045238 | table 2 | name: Player | value: Earnings",
+      "tags": [
+        "golf",
+        "lpga tour",
+        "money list"
+      ],
+      "answers": [
+        {
+          "answer": "Annika Sörenstam",
+          "display": "$2,544,707",
+          "aliases": [
+            "Sorenstam"
+          ]
+        },
+        {
+          "answer": "Grace Park",
+          "display": "$1,525,471",
+          "aliases": [
+            "Park"
+          ]
+        },
+        {
+          "answer": "Lorena Ochoa",
+          "display": "$1,450,824",
+          "aliases": [
+            "Ochoa"
+          ]
+        },
+        {
+          "answer": "Meg Mallon",
+          "display": "$1,358,623",
+          "aliases": [
+            "Mallon"
+          ]
+        },
+        {
+          "answer": "Cristie Kerr",
+          "display": "$1,189,990",
+          "aliases": [
+            "Kerr"
+          ]
+        },
+        {
+          "answer": "Karen Stupples",
+          "display": "$968,852",
+          "aliases": [
+            "Stupples"
+          ]
+        },
+        {
+          "answer": "Mi-Hyun Kim",
+          "display": "$931,693",
+          "aliases": [
+            "Mi Hyun Kim",
+            "Kim"
+          ]
+        },
+        {
+          "answer": "Han Hee-won",
+          "display": "$840,605",
+          "aliases": [
+            "Hee-Won Han",
+            "Han"
+          ]
+        },
+        {
+          "answer": "Karrie Webb",
+          "display": "$748,316",
+          "aliases": [
+            "Webb"
+          ]
+        },
+        {
+          "answer": "Jennifer Rosales",
+          "display": "$693,625",
+          "aliases": [
+            "Rosales"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/golf/lpga-tour/money-list",
+      "question": "Top 7 golfers on the 2005 LPGA Tour official money list",
+      "cutoff": 7,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1345045281 | table 2 | name: Player | value: Earnings",
+      "tags": [
+        "golf",
+        "lpga tour",
+        "money list"
+      ],
+      "answers": [
+        {
+          "answer": "Annika Sörenstam",
+          "display": "$2,588,240",
+          "aliases": [
+            "Sorenstam"
+          ]
+        },
+        {
+          "answer": "Paula Creamer",
+          "display": "$1,531,780",
+          "aliases": [
+            "Creamer"
+          ]
+        },
+        {
+          "answer": "Cristie Kerr",
+          "display": "$1,360,941",
+          "aliases": [
+            "Kerr"
+          ]
+        },
+        {
+          "answer": "Lorena Ochoa",
+          "display": "$1,201,786",
+          "aliases": [
+            "Ochoa"
+          ]
+        },
+        {
+          "answer": "Jang Jeong",
+          "display": "$1,131,986",
+          "aliases": [
+            "Jang"
+          ]
+        },
+        {
+          "answer": "Natalie Gulbis",
+          "display": "$1,010,154",
+          "aliases": [
+            "Gulbis"
+          ]
+        },
+        {
+          "answer": "Meena Lee",
+          "display": "$870,182",
+          "aliases": [
+            "Lee"
+          ]
+        },
+        {
+          "answer": "Han Hee-won",
+          "display": "$856,364",
+          "aliases": [
+            "Hee-Won Han",
+            "Han"
+          ]
+        },
+        {
+          "answer": "Park Hee-jung",
+          "display": "$842,349",
+          "aliases": [
+            "Gloria Park",
+            "Park"
+          ]
+        },
+        {
+          "answer": "Catriona Matthew",
+          "display": "$776,924",
+          "aliases": [
+            "Matthew"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/golf/lpga-tour/money-list",
+      "question": "Top 7 golfers on the 2006 LPGA Tour official money list",
+      "cutoff": 7,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1345045307 | table 2 | name: Player | value: Earnings",
+      "tags": [
+        "golf",
+        "lpga tour",
+        "money list"
+      ],
+      "answers": [
+        {
+          "answer": "Lorena Ochoa",
+          "display": "$2,592,872",
+          "aliases": [
+            "Ochoa"
+          ]
+        },
+        {
+          "answer": "Karrie Webb",
+          "display": "$2,090,113",
+          "aliases": [
+            "Webb"
+          ]
+        },
+        {
+          "answer": "Annika Sörenstam",
+          "display": "$1,971,741",
+          "aliases": [
+            "Sorenstam"
+          ]
+        },
+        {
+          "answer": "Julieta Granada",
+          "display": "$1,633,586",
+          "aliases": [
+            "Granada"
+          ]
+        },
+        {
+          "answer": "Cristie Kerr",
+          "display": "$1,578,362",
+          "aliases": [
+            "Kerr"
+          ]
+        },
+        {
+          "answer": "Mi-Hyun Kim",
+          "display": "$1,332,274",
+          "aliases": [
+            "Mi Hyun Kim",
+            "Kim"
+          ]
+        },
+        {
+          "answer": "Juli Inkster",
+          "display": "$1,326,442",
+          "aliases": [
+            "Inkster"
+          ]
+        },
+        {
+          "answer": "Jang Jeong",
+          "display": "$1,151,070",
+          "aliases": [
+            "Jang"
+          ]
+        },
+        {
+          "answer": "Han Hee-won",
+          "display": "$1,147,651",
+          "aliases": [
+            "Hee-Won Han",
+            "Han"
+          ]
+        },
+        {
+          "answer": "Pat Hurst",
+          "display": "$1,128,662",
+          "aliases": [
+            "Hurst"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/golf/lpga-tour/money-list",
+      "question": "Top 7 golfers on the 2007 LPGA Tour official money list",
+      "cutoff": 7,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1345045350 | table 2 | name: Player | value: Earnings",
+      "tags": [
+        "golf",
+        "lpga tour",
+        "money list"
+      ],
+      "answers": [
+        {
+          "answer": "Lorena Ochoa",
+          "display": "$4,364,994",
+          "aliases": [
+            "Ochoa"
+          ]
+        },
+        {
+          "answer": "Suzann Pettersen",
+          "display": "$1,802,400",
+          "aliases": [
+            "Pettersen"
+          ]
+        },
+        {
+          "answer": "Paula Creamer",
+          "display": "$1,384,798",
+          "aliases": [
+            "Creamer"
+          ]
+        },
+        {
+          "answer": "Mi-Hyun Kim",
+          "display": "$1,273,848",
+          "aliases": [
+            "Mi Hyun Kim",
+            "Kim"
+          ]
+        },
+        {
+          "answer": "Lee Seon-hwa",
+          "display": "$1,100,198",
+          "aliases": [
+            "Seon Hwa Lee"
+          ]
+        },
+        {
+          "answer": "Cristie Kerr",
+          "display": "$1,098,921",
+          "aliases": [
+            "Kerr"
+          ]
+        },
+        {
+          "answer": "Jang Jeong",
+          "display": "$1,038,598",
+          "aliases": [
+            "Jang"
+          ]
+        },
+        {
+          "answer": "Angela Park",
+          "display": "$983,922",
+          "aliases": [
+            "Park"
+          ]
+        },
+        {
+          "answer": "Morgan Pressel",
+          "display": "$972,452",
+          "aliases": [
+            "Pressel"
+          ]
+        },
+        {
+          "answer": "Lee Jee-young",
+          "display": "$966,256",
+          "aliases": [
+            "Jee Young Lee"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/golf/lpga-tour/money-list",
+      "question": "Top 7 golfers on the 2008 LPGA Tour official money list",
+      "cutoff": 7,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1345045410 | table 2 | name: Player | value: Earnings",
+      "tags": [
+        "golf",
+        "lpga tour",
+        "money list"
+      ],
+      "answers": [
+        {
+          "answer": "Lorena Ochoa",
+          "display": "$2,763,193",
+          "aliases": [
+            "Ochoa"
+          ]
+        },
+        {
+          "answer": "Paula Creamer",
+          "display": "$1,823,992",
+          "aliases": [
+            "Creamer"
+          ]
+        },
+        {
+          "answer": "Yani Tseng",
+          "display": "$1,752,086",
+          "aliases": [
+            "Tseng"
+          ]
+        },
+        {
+          "answer": "Annika Sörenstam",
+          "display": "$1,735,912",
+          "aliases": [
+            "Sorenstam"
+          ]
+        },
+        {
+          "answer": "Helen Alfredsson",
+          "display": "$1,431,408",
+          "aliases": [
+            "Alfredsson"
+          ]
+        },
+        {
+          "answer": "Lee Seon-hwa",
+          "display": "$1,187,294",
+          "aliases": [
+            "Lee"
+          ]
+        },
+        {
+          "answer": "Suzann Pettersen",
+          "display": "$1,177,809",
+          "aliases": [
+            "Pettersen"
+          ]
+        },
+        {
+          "answer": "Inbee Park",
+          "display": "$1,138,370",
+          "aliases": [
+            "Park"
+          ]
+        },
+        {
+          "answer": "Angela Stanford",
+          "display": "$1,134,753",
+          "aliases": [
+            "Stanford"
+          ]
+        },
+        {
+          "answer": "Cristie Kerr",
+          "display": "$1,108,839",
+          "aliases": [
+            "Kerr"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/golf/lpga-tour/money-list",
+      "question": "Top 7 golfers on the 2009 LPGA Tour official money list",
+      "cutoff": 7,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1369512210 | table 2 | name: Player | value: Earnings",
+      "tags": [
+        "golf",
+        "lpga tour",
+        "money list"
+      ],
+      "answers": [
+        {
+          "answer": "Jiyai Shin",
+          "display": "$1,807,334",
+          "aliases": [
+            "Shin"
+          ]
+        },
+        {
+          "answer": "Cristie Kerr",
+          "display": "$1,519,722",
+          "aliases": [
+            "Kerr"
+          ]
+        },
+        {
+          "answer": "Ai Miyazato",
+          "display": "$1,517,149",
+          "aliases": [
+            "Miyazato"
+          ]
+        },
+        {
+          "answer": "Lorena Ochoa",
+          "display": "$1,489,395",
+          "aliases": [
+            "Ochoa"
+          ]
+        },
+        {
+          "answer": "Suzann Pettersen",
+          "display": "$1,369,717",
+          "aliases": [
+            "Pettersen"
+          ]
+        },
+        {
+          "answer": "Choi Na-yeon",
+          "display": "$1,341,078",
+          "aliases": [
+            "Na Yeon Choi",
+            "Choi"
+          ]
+        },
+        {
+          "answer": "Yani Tseng",
+          "display": "$1,293,755",
+          "aliases": [
+            "Tseng"
+          ]
+        },
+        {
+          "answer": "Kim In-Kyung",
+          "display": "$1,238,396",
+          "aliases": [
+            "In-Kyung Kim",
+            "Kim"
+          ]
+        },
+        {
+          "answer": "Paula Creamer",
+          "display": "$1,151,864",
+          "aliases": [
+            "Creamer"
+          ]
+        },
+        {
+          "answer": "Angela Stanford",
+          "display": "$1,081,916",
+          "aliases": [
+            "Stanford"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/golf/lpga-tour/money-list",
+      "question": "Top 7 golfers on the 2010 LPGA Tour official money list",
+      "cutoff": 7,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1345045512 | table 2 | name: Player | value: Earnings",
+      "tags": [
+        "golf",
+        "lpga tour",
+        "money list"
+      ],
+      "answers": [
+        {
+          "answer": "Choi Na-yeon",
+          "display": "$1,871,166",
+          "aliases": [
+            "Na Yeon Choi",
+            "Choi"
+          ]
+        },
+        {
+          "answer": "Jiyai Shin",
+          "display": "$1,783,127",
+          "aliases": [
+            "Shin"
+          ]
+        },
+        {
+          "answer": "Cristie Kerr",
+          "display": "$1,601,552",
+          "aliases": [
+            "Kerr"
+          ]
+        },
+        {
+          "answer": "Yani Tseng",
+          "display": "$1,573,529",
+          "aliases": [
+            "Tseng"
+          ]
+        },
+        {
+          "answer": "Suzann Pettersen",
+          "display": "$1,557,175",
+          "aliases": [
+            "Pettersen"
+          ]
+        },
+        {
+          "answer": "Ai Miyazato",
+          "display": "$1,457,384",
+          "aliases": [
+            "Miyazato"
+          ]
+        },
+        {
+          "answer": "Kim In-Kyung",
+          "display": "$1,210,068",
+          "aliases": [
+            "In-Kyung Kim"
+          ]
+        },
+        {
+          "answer": "Song-Hee Kim",
+          "display": "$1,208,698"
+        },
+        {
+          "answer": "Michelle Wie",
+          "display": "$888,017",
+          "aliases": [
+            "Wie"
+          ]
+        },
+        {
+          "answer": "Paula Creamer",
+          "display": "$883,870",
+          "aliases": [
+            "Creamer"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/golf/lpga-tour/money-list",
+      "question": "Top 7 golfers on the 2011 LPGA Tour official money list",
+      "cutoff": 7,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1345045545 | table 2 | name: Player | value: Earnings",
+      "tags": [
+        "golf",
+        "lpga tour",
+        "money list"
+      ],
+      "answers": [
+        {
+          "answer": "Yani Tseng",
+          "display": "$2,921,713",
+          "aliases": [
+            "Tseng"
+          ]
+        },
+        {
+          "answer": "Cristie Kerr",
+          "display": "$1,470,979",
+          "aliases": [
+            "Kerr"
+          ]
+        },
+        {
+          "answer": "Choi Na-yeon",
+          "display": "$1,357,382",
+          "aliases": [
+            "Na Yeon Choi",
+            "Choi"
+          ]
+        },
+        {
+          "answer": "Stacy Lewis",
+          "display": "$1,356,211",
+          "aliases": [
+            "Lewis"
+          ]
+        },
+        {
+          "answer": "Suzann Pettersen",
+          "display": "$1,322,770",
+          "aliases": [
+            "Pettersen"
+          ]
+        },
+        {
+          "answer": "Brittany Lincicome",
+          "display": "$1,154,234",
+          "aliases": [
+            "Lincicome"
+          ]
+        },
+        {
+          "answer": "Angela Stanford",
+          "display": "$1,017,196",
+          "aliases": [
+            "Stanford"
+          ]
+        },
+        {
+          "answer": "Ai Miyazato",
+          "display": "$1,007,633",
+          "aliases": [
+            "Miyazato"
+          ]
+        },
+        {
+          "answer": "Paula Creamer",
+          "display": "$926,338",
+          "aliases": [
+            "Creamer"
+          ]
+        },
+        {
+          "answer": "Amy Yang",
+          "display": "$912,160",
+          "aliases": [
+            "Yang"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/golf/lpga-tour/money-list",
+      "question": "Top 7 golfers on the 2012 LPGA Tour official money list",
+      "cutoff": 7,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1371050796 | table 2 | name: Player | value: Earnings",
+      "tags": [
+        "golf",
+        "lpga tour",
+        "money list"
+      ],
+      "answers": [
+        {
+          "answer": "Inbee Park",
+          "display": "$2,287,080",
+          "aliases": [
+            "Park"
+          ]
+        },
+        {
+          "answer": "Choi Na-yeon",
+          "display": "$1,981,834",
+          "aliases": [
+            "Na Yeon Choi",
+            "Choi"
+          ]
+        },
+        {
+          "answer": "Stacy Lewis",
+          "display": "$1,872,409",
+          "aliases": [
+            "Lewis"
+          ]
+        },
+        {
+          "answer": "Yani Tseng",
+          "display": "$1,430,159",
+          "aliases": [
+            "Tseng"
+          ]
+        },
+        {
+          "answer": "Ai Miyazato",
+          "display": "$1,334,977",
+          "aliases": [
+            "Miyazato"
+          ]
+        },
+        {
+          "answer": "Ryu So-yeon",
+          "display": "$1,282,673",
+          "aliases": [
+            "So Yeon Ryu",
+            "Ryu"
+          ]
+        },
+        {
+          "answer": "Jiyai Shin",
+          "display": "$1,234,597",
+          "aliases": [
+            "Shin"
+          ]
+        },
+        {
+          "answer": "Azahara Muñoz",
+          "display": "$1,230,751",
+          "aliases": [
+            "Munoz"
+          ]
+        },
+        {
+          "answer": "Suzann Pettersen",
+          "display": "$1,182,860",
+          "aliases": [
+            "Pettersen"
+          ]
+        },
+        {
+          "answer": "Shanshan Feng",
+          "display": "$1,101,147",
+          "aliases": [
+            "Feng"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/golf/lpga-tour/money-list",
+      "question": "Top 7 golfers on the 2013 LPGA Tour official money list",
+      "cutoff": 7,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1371518184 | table 2 | name: Player | value: Earnings",
+      "tags": [
+        "golf",
+        "lpga tour",
+        "money list"
+      ],
+      "answers": [
+        {
+          "answer": "Inbee Park",
+          "display": "$2,456,619"
+        },
+        {
+          "answer": "Suzann Pettersen",
+          "display": "$2,296,106",
+          "aliases": [
+            "Pettersen"
+          ]
+        },
+        {
+          "answer": "Stacy Lewis",
+          "display": "$1,938,868",
+          "aliases": [
+            "Lewis"
+          ]
+        },
+        {
+          "answer": "Shanshan Feng",
+          "display": "$1,716,657",
+          "aliases": [
+            "Feng"
+          ]
+        },
+        {
+          "answer": "Ryu So-yeon",
+          "display": "$1,278,864",
+          "aliases": [
+            "So Yeon Ryu",
+            "Ryu"
+          ]
+        },
+        {
+          "answer": "Lexi Thompson",
+          "display": "$1,206,109",
+          "aliases": [
+            "Thompson"
+          ]
+        },
+        {
+          "answer": "Kim In-Kyung",
+          "display": "$1,125,389",
+          "aliases": [
+            "I.K. Kim",
+            "Kim"
+          ]
+        },
+        {
+          "answer": "Beatriz Recari",
+          "display": "$1,030,614",
+          "aliases": [
+            "Recari"
+          ]
+        },
+        {
+          "answer": "Choi Na-yeon",
+          "display": "$929,964",
+          "aliases": [
+            "Na Yeon Choi",
+            "Choi"
+          ]
+        },
+        {
+          "answer": "Park Hee-young",
+          "display": "$848,676",
+          "aliases": [
+            "Hee Young Park"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/golf/lpga-tour/money-list",
+      "question": "Top 7 golfers on the 2014 LPGA Tour official money list",
+      "cutoff": 7,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1371959633 | table 2 | name: Player | value: Prize",
+      "tags": [
+        "golf",
+        "lpga tour",
+        "money list"
+      ],
+      "answers": [
+        {
+          "answer": "Stacy Lewis",
+          "display": "$2,539,039",
+          "aliases": [
+            "Lewis"
+          ]
+        },
+        {
+          "answer": "Inbee Park",
+          "display": "$2,226,641",
+          "aliases": [
+            "Park"
+          ]
+        },
+        {
+          "answer": "Lydia Ko",
+          "display": "$2,089,033",
+          "aliases": [
+            "Lydia"
+          ]
+        },
+        {
+          "answer": "Michelle Wie",
+          "display": "$1,924,796",
+          "aliases": [
+            "Wie"
+          ]
+        },
+        {
+          "answer": "Ryu So-yeon",
+          "display": "$1,468,804",
+          "aliases": [
+            "So Yeon Ryu",
+            "Ryu"
+          ]
+        },
+        {
+          "answer": "Shanshan Feng",
+          "display": "$1,404,623",
+          "aliases": [
+            "Feng"
+          ]
+        },
+        {
+          "answer": "Anna Nordqvist",
+          "display": "$1,144,245",
+          "aliases": [
+            "Nordqvist"
+          ]
+        },
+        {
+          "answer": "Karrie Webb",
+          "display": "$1,069,540",
+          "aliases": [
+            "Webb"
+          ]
+        },
+        {
+          "answer": "Azahara Muñoz",
+          "display": "$1,051,332",
+          "aliases": [
+            "Munoz"
+          ]
+        },
+        {
+          "answer": "Chella Choi",
+          "display": "$1,048,932",
+          "aliases": [
+            "Choi"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/golf/lpga-tour/money-list",
+      "question": "Top 7 golfers on the 2015 LPGA Tour official money list",
+      "cutoff": 7,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1372655423 | table 2 | name: Player | value: Prize",
+      "tags": [
+        "golf",
+        "lpga tour",
+        "money list"
+      ],
+      "answers": [
+        {
+          "answer": "Lydia Ko",
+          "display": "$2,800,802",
+          "aliases": [
+            "Lydia"
+          ]
+        },
+        {
+          "answer": "Inbee Park",
+          "display": "$2,630,011",
+          "aliases": [
+            "Park"
+          ]
+        },
+        {
+          "answer": "Stacy Lewis",
+          "display": "$1,893,423",
+          "aliases": [
+            "Lewis"
+          ]
+        },
+        {
+          "answer": "Kim Sei-young",
+          "display": "$1,820,056",
+          "aliases": [
+            "Sei-Young Kim",
+            "Kim"
+          ]
+        },
+        {
+          "answer": "Lexi Thompson",
+          "display": "$1,763,904",
+          "aliases": [
+            "Thompson"
+          ]
+        },
+        {
+          "answer": "Amy Yang",
+          "display": "$1,438,312",
+          "aliases": [
+            "Yang"
+          ]
+        },
+        {
+          "answer": "Cristie Kerr",
+          "display": "$1,294,301",
+          "aliases": [
+            "Kerr"
+          ]
+        },
+        {
+          "answer": "Ryu So-yeon",
+          "display": "$1,292,395",
+          "aliases": [
+            "So Yeon Ryu",
+            "Ryu"
+          ]
+        },
+        {
+          "answer": "Shanshan Feng",
+          "display": "$1,086,338",
+          "aliases": [
+            "Feng"
+          ]
+        },
+        {
+          "answer": "Anna Nordqvist",
+          "display": "$977,743",
+          "aliases": [
+            "Nordqvist"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/golf/lpga-tour/money-list",
+      "question": "Top 7 golfers on the 2016 LPGA Tour official money list",
+      "cutoff": 7,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1373242208 | table 2 | name: Player | value: Prize",
+      "tags": [
+        "golf",
+        "lpga tour",
+        "money list"
+      ],
+      "answers": [
+        {
+          "answer": "Ariya Jutanugarn",
+          "display": "$2,550,928",
+          "aliases": [
+            "Ariya"
+          ]
+        },
+        {
+          "answer": "Lydia Ko",
+          "display": "$2,492,994",
+          "aliases": [
+            "Lydia"
+          ]
+        },
+        {
+          "answer": "Brooke Henderson",
+          "display": "$1,724,409",
+          "aliases": [
+            "Henderson"
+          ]
+        },
+        {
+          "answer": "Chun In-gee",
+          "display": "$1,501,102",
+          "aliases": [
+            "Chun"
+          ]
+        },
+        {
+          "answer": "Shanshan Feng",
+          "display": "$1,458,579",
+          "aliases": [
+            "Feng"
+          ]
+        },
+        {
+          "answer": "Kim Sei-young",
+          "display": "$1,445,937",
+          "aliases": [
+            "Kim"
+          ]
+        },
+        {
+          "answer": "Anna Nordqvist",
+          "display": "$1,424,685",
+          "aliases": [
+            "Nordqvist"
+          ]
+        },
+        {
+          "answer": "Jang Ha-na",
+          "display": "$1,383,575",
+          "aliases": [
+            "Jang"
+          ]
+        },
+        {
+          "answer": "Brittany Lang",
+          "display": "$1,259,787",
+          "aliases": [
+            "Lang"
+          ]
+        },
+        {
+          "answer": "Ryu So-yeon",
+          "display": "$1,259,485",
+          "aliases": [
+            "Ryu"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/golf/lpga-tour/money-list",
+      "question": "Top 7 golfers on the 2017 LPGA Tour official money list",
+      "cutoff": 7,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1345045771 | table 2 | name: Player | value: Prize",
+      "tags": [
+        "golf",
+        "lpga tour",
+        "money list"
+      ],
+      "answers": [
+        {
+          "answer": "Park Sung-hyun",
+          "display": "$2,335,883",
+          "aliases": [
+            "Park"
+          ]
+        },
+        {
+          "answer": "Ryu So-yeon",
+          "display": "$1,981,593",
+          "aliases": [
+            "Ryu"
+          ]
+        },
+        {
+          "answer": "Lexi Thompson",
+          "display": "$1,877,181",
+          "aliases": [
+            "Thompson"
+          ]
+        },
+        {
+          "answer": "Shanshan Feng",
+          "display": "$1,728,191",
+          "aliases": [
+            "Feng"
+          ]
+        },
+        {
+          "answer": "Ariya Jutanugarn",
+          "display": "$1,549,858",
+          "aliases": [
+            "Ariya"
+          ]
+        },
+        {
+          "answer": "Brooke Henderson",
+          "display": "$1,504,869",
+          "aliases": [
+            "Henderson"
+          ]
+        },
+        {
+          "answer": "Cristie Kerr",
+          "display": "$1,414,752",
+          "aliases": [
+            "Kerr"
+          ]
+        },
+        {
+          "answer": "Anna Nordqvist",
+          "display": "$1,335,164",
+          "aliases": [
+            "Nordqvist"
+          ]
+        },
+        {
+          "answer": "Moriya Jutanugarn",
+          "display": "$1,320,900",
+          "aliases": [
+            "Moriya"
+          ]
+        },
+        {
+          "answer": "Kim Sei-young",
+          "display": "$1,278,166",
+          "aliases": [
+            "Kim"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/golf/lpga-tour/money-list",
+      "question": "Top 7 golfers on the 2018 LPGA Tour official money list",
+      "cutoff": 7,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1345045821 | table 4 | name: Player | value: Prize",
+      "tags": [
+        "golf",
+        "lpga tour",
+        "money list"
+      ],
+      "answers": [
+        {
+          "answer": "Ariya Jutanugarn",
+          "display": "$2,743,949",
+          "aliases": [
+            "Ariya"
+          ]
+        },
+        {
+          "answer": "Minjee Lee",
+          "display": "$1,551,032",
+          "aliases": [
+            "Lee"
+          ]
+        },
+        {
+          "answer": "Park Sung-hyun",
+          "display": "$1,498,077",
+          "aliases": [
+            "Park"
+          ]
+        },
+        {
+          "answer": "Brooke Henderson",
+          "display": "$1,473,247",
+          "aliases": [
+            "Henderson"
+          ]
+        },
+        {
+          "answer": "Nasa Hataoka",
+          "display": "$1,454,261",
+          "aliases": [
+            "Hataoka"
+          ]
+        },
+        {
+          "answer": "Ryu So-yeon",
+          "display": "$1,438,850",
+          "aliases": [
+            "Ryu"
+          ]
+        },
+        {
+          "answer": "Kim Sei-young",
+          "display": "$1,369,418",
+          "aliases": [
+            "Kim"
+          ]
+        },
+        {
+          "answer": "Carlota Ciganda",
+          "display": "$1,244,610",
+          "aliases": [
+            "Ciganda"
+          ]
+        },
+        {
+          "answer": "Lexi Thompson",
+          "display": "$1,223,748",
+          "aliases": [
+            "Thompson"
+          ]
+        },
+        {
+          "answer": "Ko Jin-young",
+          "display": "$1,159,005",
+          "aliases": [
+            "Jin-young Ko"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/golf/lpga-tour/money-list",
+      "question": "Top 7 golfers on the 2019 LPGA Tour official money list",
+      "cutoff": 7,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1374774586 | table 10 | name: Player | value: Prize",
+      "tags": [
+        "golf",
+        "lpga tour",
+        "money list"
+      ],
+      "answers": [
+        {
+          "answer": "Ko Jin-young",
+          "display": "$2,773,894",
+          "aliases": [
+            "Jin-young Ko"
+          ]
+        },
+        {
+          "answer": "Kim Sei-young",
+          "display": "$2,753,099"
+        },
+        {
+          "answer": "Lee Jeong-eun",
+          "display": "$2,052,103"
+        },
+        {
+          "answer": "Brooke Henderson",
+          "display": "$1,696,017",
+          "aliases": [
+            "Henderson"
+          ]
+        },
+        {
+          "answer": "Nelly Korda",
+          "display": "$1,665,546",
+          "aliases": [
+            "Korda"
+          ]
+        },
+        {
+          "answer": "Lexi Thompson",
+          "display": "$1,537,292",
+          "aliases": [
+            "Thompson"
+          ]
+        },
+        {
+          "answer": "Park Sung-hyun",
+          "display": "$1,529,905",
+          "aliases": [
+            "Park"
+          ]
+        },
+        {
+          "answer": "Minjee Lee",
+          "display": "$1,522,607"
+        },
+        {
+          "answer": "Danielle Kang",
+          "display": "$1,511,443",
+          "aliases": [
+            "Kang"
+          ]
+        },
+        {
+          "answer": "Kim Hyo-joo",
+          "display": "$1,290,734"
+        }
+      ]
+    },
+    {
+      "category": "sports/golf/lpga-tour/money-list",
+      "question": "Top 7 golfers on the 2020 LPGA Tour official money list",
+      "cutoff": 7,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1375525301 | table 4 | name: Player | value: Prize",
+      "tags": [
+        "golf",
+        "lpga tour",
+        "money list"
+      ],
+      "answers": [
+        {
+          "answer": "Ko Jin-young",
+          "display": "$1,667,925",
+          "aliases": [
+            "Jin-young Ko"
+          ]
+        },
+        {
+          "answer": "Kim Sei-young",
+          "display": "$1,416,993",
+          "aliases": [
+            "Kim"
+          ]
+        },
+        {
+          "answer": "Inbee Park",
+          "display": "$1,377,799",
+          "aliases": [
+            "Park"
+          ]
+        },
+        {
+          "answer": "Danielle Kang",
+          "display": "$897,872",
+          "aliases": [
+            "Kang"
+          ]
+        },
+        {
+          "answer": "Nasa Hataoka",
+          "display": "$854,024",
+          "aliases": [
+            "Hataoka"
+          ]
+        },
+        {
+          "answer": "Austin Ernst",
+          "display": "$771,092",
+          "aliases": [
+            "Ernst"
+          ]
+        },
+        {
+          "answer": "Amy Olson",
+          "display": "$763,832",
+          "aliases": [
+            "Olson"
+          ]
+        },
+        {
+          "answer": "Minjee Lee",
+          "display": "$724,273",
+          "aliases": [
+            "Lee"
+          ]
+        },
+        {
+          "answer": "Lydia Ko",
+          "display": "$677,545",
+          "aliases": [
+            "Lydia"
+          ]
+        },
+        {
+          "answer": "Brooke Henderson",
+          "display": "$648,604",
+          "aliases": [
+            "Henderson"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/golf/lpga-tour/money-list",
+      "question": "Top 7 golfers on the 2021 LPGA Tour official money list",
+      "cutoff": 7,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1345045904 | table 4 | name: Player | value: Prize",
+      "tags": [
+        "golf",
+        "lpga tour",
+        "money list"
+      ],
+      "answers": [
+        {
+          "answer": "Ko Jin-young",
+          "display": "$3,502,161",
+          "aliases": [
+            "Jin-young Ko"
+          ]
+        },
+        {
+          "answer": "Nelly Korda",
+          "display": "$2,382,198",
+          "aliases": [
+            "Korda"
+          ]
+        },
+        {
+          "answer": "Nasa Hataoka",
+          "display": "$1,901,081",
+          "aliases": [
+            "Hataoka"
+          ]
+        },
+        {
+          "answer": "Minjee Lee",
+          "display": "$1,542,332",
+          "aliases": [
+            "Lee"
+          ]
+        },
+        {
+          "answer": "Lydia Ko",
+          "display": "$1,530,629",
+          "aliases": [
+            "Lydia"
+          ]
+        },
+        {
+          "answer": "Yuka Saso",
+          "display": "$1,517,876",
+          "aliases": [
+            "Saso"
+          ]
+        },
+        {
+          "answer": "Patty Tavatanakit",
+          "display": "$1,393,437",
+          "aliases": [
+            "Tavatanakit"
+          ]
+        },
+        {
+          "answer": "Ariya Jutanugarn",
+          "display": "$1,260,430",
+          "aliases": [
+            "Ariya"
+          ]
+        },
+        {
+          "answer": "Anna Nordqvist",
+          "display": "$1,258,467",
+          "aliases": [
+            "Nordqvist"
+          ]
+        },
+        {
+          "answer": "Lexi Thompson",
+          "display": "$1,254,423",
+          "aliases": [
+            "Thompson"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/golf/lpga-tour/money-list",
+      "question": "Top 7 golfers on the 2022 LPGA Tour official money list",
+      "cutoff": 7,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1378922703 | table 3 | name: Player | value: Prize",
+      "tags": [
+        "golf",
+        "lpga tour",
+        "money list"
+      ],
+      "answers": [
+        {
+          "answer": "Lydia Ko",
+          "display": "$4,364,403",
+          "aliases": [
+            "Lydia"
+          ]
+        },
+        {
+          "answer": "Minjee Lee",
+          "display": "$3,809,960",
+          "aliases": [
+            "Lee"
+          ]
+        },
+        {
+          "answer": "Chun In-gee",
+          "display": "$2,673,860",
+          "aliases": [
+            "Chun"
+          ]
+        },
+        {
+          "answer": "Brooke Henderson",
+          "display": "$2,413,251",
+          "aliases": [
+            "Henderson"
+          ]
+        },
+        {
+          "answer": "Atthaya Thitikul",
+          "display": "$2,193,642",
+          "aliases": [
+            "Thitikul"
+          ]
+        },
+        {
+          "answer": "Choi Hye-jin",
+          "display": "$2,075,696",
+          "aliases": [
+            "Choi"
+          ]
+        },
+        {
+          "answer": "Jennifer Kupcho",
+          "display": "$1,955,531",
+          "aliases": [
+            "Kupcho"
+          ]
+        },
+        {
+          "answer": "Lexi Thompson",
+          "display": "$1,929,718",
+          "aliases": [
+            "Thompson"
+          ]
+        },
+        {
+          "answer": "Leona Maguire",
+          "display": "$1,812,831",
+          "aliases": [
+            "Maguire"
+          ]
+        },
+        {
+          "answer": "Ashleigh Buhai",
+          "display": "$1,553,004",
+          "aliases": [
+            "Buhai"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/golf/lpga-tour/money-list",
+      "question": "Top 7 golfers on the 2024 LPGA Tour official money list",
+      "cutoff": 7,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1369942296 | table 4 | name: Player | value: Prize",
+      "tags": [
+        "golf",
+        "lpga tour",
+        "money list"
+      ],
+      "answers": [
+        {
+          "answer": "Atthaya Thitikul",
+          "display": "$6,059,309",
+          "aliases": [
+            "Thitikul"
+          ]
+        },
+        {
+          "answer": "Nelly Korda",
+          "display": "$4,391,930",
+          "aliases": [
+            "Korda"
+          ]
+        },
+        {
+          "answer": "Lydia Ko",
+          "display": "$3,201,289",
+          "aliases": [
+            "Lydia"
+          ]
+        },
+        {
+          "answer": "Yuka Saso",
+          "display": "$2,867,618",
+          "aliases": [
+            "Saso"
+          ]
+        },
+        {
+          "answer": "Ryu Hae-ran",
+          "display": "$2,814,903",
+          "aliases": [
+            "Ryu"
+          ]
+        },
+        {
+          "answer": "Ayaka Furue",
+          "display": "$2,811,824",
+          "aliases": [
+            "Furue"
+          ]
+        },
+        {
+          "answer": "Yin Ruoning",
+          "display": "$2,783,307",
+          "aliases": [
+            "Yin"
+          ]
+        },
+        {
+          "answer": "Lilia Vu",
+          "display": "$2,088,335"
+        },
+        {
+          "answer": "Hannah Green",
+          "display": "$2,074,873",
+          "aliases": [
+            "Green"
+          ]
+        },
+        {
+          "answer": "Lauren Coughlin",
+          "display": "$2,062,822",
+          "aliases": [
+            "Coughlin"
+          ]
+        }
+      ]
+    }
+  ]
+}

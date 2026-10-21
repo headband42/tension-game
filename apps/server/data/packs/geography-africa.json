@@ -1,0 +1,694 @@
+{
+  "categories": [
+    {
+      "path": "geography/africa/countries",
+      "name": "African countries"
+    },
+    {
+      "path": "geography/cities/africa",
+      "name": "African cities"
+    },
+    {
+      "path": "geography/africa/transport",
+      "name": "African transport"
+    }
+  ],
+  "questions": [
+    {
+      "category": "geography/africa/countries",
+      "difficulty": 1,
+      "question": "Top 10 most populous African countries (2024 UN estimates)",
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1378386510 | table 1 | name: Country | value: Population | where: Country!~^Total$",
+      "tags": [
+        "geography",
+        "africa",
+        "population"
+      ],
+      "answers": [
+        {
+          "answer": "Nigeria",
+          "display": "227,882,945"
+        },
+        {
+          "answer": "Ethiopia",
+          "display": "128,691,692"
+        },
+        {
+          "answer": "Egypt",
+          "display": "114,535,772"
+        },
+        {
+          "answer": "DR Congo",
+          "display": "105,789,731",
+          "aliases": [
+            "democratic republic of the congo",
+            "drc"
+          ]
+        },
+        {
+          "answer": "Tanzania",
+          "display": "66,617,606"
+        },
+        {
+          "answer": "South Africa",
+          "display": "63,212,384"
+        },
+        {
+          "answer": "Kenya",
+          "display": "55,339,003"
+        },
+        {
+          "answer": "Sudan",
+          "display": "50,042,791"
+        },
+        {
+          "answer": "Uganda",
+          "display": "48,656,601"
+        },
+        {
+          "answer": "Algeria",
+          "display": "46,164,219"
+        },
+        {
+          "answer": "Morocco",
+          "display": "37,712,505"
+        },
+        {
+          "answer": "Angola",
+          "display": "36,749,906"
+        },
+        {
+          "answer": "Ghana",
+          "display": "33,787,914"
+        },
+        {
+          "answer": "Mozambique",
+          "display": "33,635,160"
+        }
+      ]
+    },
+    {
+      "category": "geography/africa/countries",
+      "difficulty": 2,
+      "question": "Top 10 African countries by nominal GDP (2026 IMF figures)",
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1376006907 | table 1 | name: Country | value: Nominal GDP | where: Country!~^Total$",
+      "tags": [
+        "geography",
+        "africa",
+        "economy",
+        "gdp"
+      ],
+      "answers": [
+        {
+          "answer": "South Africa",
+          "display": "$479,964m"
+        },
+        {
+          "answer": "Egypt",
+          "display": "$429,645m"
+        },
+        {
+          "answer": "Nigeria",
+          "display": "$377,365m"
+        },
+        {
+          "answer": "Algeria",
+          "display": "$317,173m"
+        },
+        {
+          "answer": "Morocco",
+          "display": "$194,333m"
+        },
+        {
+          "answer": "Angola",
+          "display": "$152,354m"
+        },
+        {
+          "answer": "Kenya",
+          "display": "$147,265m"
+        },
+        {
+          "answer": "DR Congo",
+          "display": "$123,406m",
+          "aliases": [
+            "democratic republic of the congo",
+            "drc"
+          ]
+        },
+        {
+          "answer": "Ethiopia",
+          "display": "$121,527m"
+        },
+        {
+          "answer": "Ghana",
+          "display": "$118,293m"
+        },
+        {
+          "answer": "Ivory Coast",
+          "display": "$112,115m",
+          "aliases": [
+            "côte d'ivoire",
+            "cote d'ivoire"
+          ]
+        },
+        {
+          "answer": "Tanzania",
+          "display": "$94,889m"
+        },
+        {
+          "answer": "Uganda",
+          "display": "$73,370m"
+        },
+        {
+          "answer": "Cameroon",
+          "display": "$65,135m"
+        }
+      ]
+    },
+    {
+      "category": "geography/cities/africa",
+      "difficulty": 1,
+      "question": "Top 10 most populous cities in Africa by urban population (2026 estimates)",
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1378713748 | table 1 | name: City | value: Population",
+      "tags": [
+        "geography",
+        "africa",
+        "cities",
+        "population"
+      ],
+      "answers": [
+        {
+          "answer": "Cairo",
+          "display": "23,200,000"
+        },
+        {
+          "answer": "Lagos",
+          "display": "21,900,000"
+        },
+        {
+          "answer": "Kinshasa",
+          "display": "16,900,000"
+        },
+        {
+          "answer": "Nairobi",
+          "display": "15,950,000"
+        },
+        {
+          "answer": "Johannesburg",
+          "display": "15,100,000",
+          "aliases": [
+            "joburg"
+          ]
+        },
+        {
+          "answer": "Luanda",
+          "display": "10,400,000"
+        },
+        {
+          "answer": "Khartoum",
+          "display": "7,400,000"
+        },
+        {
+          "answer": "Abidjan",
+          "display": "7,300,000"
+        },
+        {
+          "answer": "Accra",
+          "display": "7,050,000"
+        },
+        {
+          "answer": "Dar es Salaam",
+          "display": "6,900,000",
+          "aliases": [
+            "dar"
+          ]
+        },
+        {
+          "answer": "Alexandria",
+          "display": "6,350,000"
+        },
+        {
+          "answer": "Bamako",
+          "display": "5,950,000"
+        },
+        {
+          "answer": "Kano",
+          "display": "5,550,000"
+        },
+        {
+          "answer": "Kampala",
+          "display": "5,350,000"
+        }
+      ]
+    },
+    {
+      "category": "geography/africa/transport",
+      "difficulty": 1,
+      "question": "Top 10 busiest airports in Africa by passenger traffic (2025)",
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1370678148 | table 1 | name: Airport | value: Total Passengers",
+      "tags": [
+        "geography",
+        "africa",
+        "transport",
+        "airports"
+      ],
+      "answers": [
+        {
+          "answer": "Cairo International Airport",
+          "display": "31,137,557 passengers",
+          "aliases": [
+            "cairo",
+            "cai"
+          ]
+        },
+        {
+          "answer": "OR Tambo International Airport",
+          "display": "19,735,437 passengers",
+          "aliases": [
+            "or tambo",
+            "johannesburg",
+            "jnb"
+          ]
+        },
+        {
+          "answer": "Bole International Airport",
+          "display": "13,134,076 passengers",
+          "aliases": [
+            "bole",
+            "addis ababa"
+          ]
+        },
+        {
+          "answer": "Mohammed V International Airport",
+          "display": "11,456,284 passengers",
+          "aliases": [
+            "casablanca"
+          ]
+        },
+        {
+          "answer": "Hurghada International Airport",
+          "display": "11,425,529 passengers",
+          "aliases": [
+            "hurghada"
+          ]
+        },
+        {
+          "answer": "Cape Town International Airport",
+          "display": "11,113,490 passengers",
+          "aliases": [
+            "cape town"
+          ]
+        },
+        {
+          "answer": "Marrakesh Menara Airport",
+          "display": "10,197,736 passengers",
+          "aliases": [
+            "marrakesh",
+            "marrakech"
+          ]
+        },
+        {
+          "answer": "Houari Boumedienne Airport",
+          "display": "10,141,679 passengers",
+          "aliases": [
+            "algiers",
+            "houari boumediene"
+          ]
+        },
+        {
+          "answer": "Sharm el-Sheikh International Airport",
+          "display": "9,046,690 passengers",
+          "aliases": [
+            "sharm el sheikh",
+            "sharm"
+          ]
+        },
+        {
+          "answer": "Jomo Kenyatta International Airport",
+          "display": "8,996,281 passengers",
+          "aliases": [
+            "nairobi",
+            "jomo kenyatta"
+          ]
+        },
+        {
+          "answer": "Murtala Muhammed International Airport",
+          "display": "7,468,125 passengers",
+          "aliases": [
+            "lagos"
+          ]
+        },
+        {
+          "answer": "Carthage Airport",
+          "display": "7,424,405 passengers",
+          "aliases": [
+            "tunis",
+            "tunisia"
+          ]
+        },
+        {
+          "answer": "Nnamdi Azikiwe International Airport",
+          "display": "5,794,766 passengers",
+          "aliases": [
+            "abuja"
+          ]
+        },
+        {
+          "answer": "King Shaka International Airport",
+          "display": "5,514,432 passengers",
+          "aliases": [
+            "durban"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "geography/africa/transport",
+      "difficulty": 2,
+      "question": "Top 10 busiest airports in Africa outside Egypt by passenger traffic (2025)",
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1370678148 | table 1 | name: Airport | value: Total Passengers | where: Country!=Egypt",
+      "tags": [
+        "geography",
+        "africa",
+        "transport",
+        "airports",
+        "twist"
+      ],
+      "answers": [
+        {
+          "answer": "OR Tambo International Airport",
+          "display": "19,735,437 passengers",
+          "aliases": [
+            "or tambo",
+            "johannesburg",
+            "jnb"
+          ]
+        },
+        {
+          "answer": "Bole International Airport",
+          "display": "13,134,076 passengers",
+          "aliases": [
+            "bole",
+            "addis ababa"
+          ]
+        },
+        {
+          "answer": "Mohammed V International Airport",
+          "display": "11,456,284 passengers",
+          "aliases": [
+            "casablanca"
+          ]
+        },
+        {
+          "answer": "Cape Town International Airport",
+          "display": "11,113,490 passengers",
+          "aliases": [
+            "cape town"
+          ]
+        },
+        {
+          "answer": "Marrakesh Menara Airport",
+          "display": "10,197,736 passengers",
+          "aliases": [
+            "marrakesh",
+            "marrakech"
+          ]
+        },
+        {
+          "answer": "Houari Boumedienne Airport",
+          "display": "10,141,679 passengers",
+          "aliases": [
+            "algiers",
+            "houari boumediene"
+          ]
+        },
+        {
+          "answer": "Jomo Kenyatta International Airport",
+          "display": "8,996,281 passengers",
+          "aliases": [
+            "nairobi",
+            "jomo kenyatta"
+          ]
+        },
+        {
+          "answer": "Murtala Muhammed International Airport",
+          "display": "7,468,125 passengers",
+          "aliases": [
+            "lagos"
+          ]
+        },
+        {
+          "answer": "Carthage Airport",
+          "display": "7,424,405 passengers",
+          "aliases": [
+            "tunis",
+            "tunisia"
+          ]
+        },
+        {
+          "answer": "Nnamdi Azikiwe International Airport",
+          "display": "5,794,766 passengers",
+          "aliases": [
+            "abuja"
+          ]
+        },
+        {
+          "answer": "King Shaka International Airport",
+          "display": "5,514,432 passengers",
+          "aliases": [
+            "durban"
+          ]
+        },
+        {
+          "answer": "Accra International Airport",
+          "display": "3,625,778 passengers",
+          "aliases": [
+            "accra"
+          ]
+        },
+        {
+          "answer": "Agadir Al Massira Airport",
+          "display": "3,495,277 passengers",
+          "aliases": [
+            "agadir"
+          ]
+        },
+        {
+          "answer": "Julius Nyerere International Airport",
+          "display": "3,011,045 passengers",
+          "aliases": [
+            "dar es salaam"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "geography/africa/countries",
+      "difficulty": 2,
+      "question": "Top 10 African countries by Human Development Index (2023 data, 2025 report)",
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1373695740 | table 1 | name: Country | value: 2023 data | header rows: 3",
+      "tags": [
+        "geography",
+        "africa",
+        "development"
+      ],
+      "answers": [
+        {
+          "answer": "Seychelles",
+          "display": "0.848"
+        },
+        {
+          "answer": "Mauritius",
+          "display": "0.806"
+        },
+        {
+          "answer": "Algeria",
+          "display": "0.763"
+        },
+        {
+          "answer": "Egypt",
+          "display": "0.754"
+        },
+        {
+          "answer": "Tunisia",
+          "display": "0.746"
+        },
+        {
+          "answer": "South Africa",
+          "display": "0.741"
+        },
+        {
+          "answer": "Gabon",
+          "display": "0.733"
+        },
+        {
+          "answer": "Botswana",
+          "display": "0.731"
+        },
+        {
+          "answer": "Libya",
+          "display": "0.721"
+        },
+        {
+          "answer": "Morocco",
+          "display": "0.710"
+        },
+        {
+          "answer": "Eswatini",
+          "display": "0.695"
+        },
+        {
+          "answer": "Equatorial Guinea",
+          "display": "0.674"
+        },
+        {
+          "answer": "Cape Verde",
+          "display": "0.668",
+          "aliases": [
+            "cabo verde"
+          ]
+        },
+        {
+          "answer": "Namibia",
+          "display": "0.665"
+        }
+      ]
+    },
+    {
+      "category": "geography/africa/countries",
+      "difficulty": 2,
+      "question": "Top 10 African countries by GDP per capita (PPP, 2026 figures)",
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1370242114 | table 1 | name: Country | value: GDP",
+      "tags": [
+        "geography",
+        "africa",
+        "economy",
+        "gdp"
+      ],
+      "answers": [
+        {
+          "answer": "Seychelles",
+          "display": "$35,855"
+        },
+        {
+          "answer": "Mauritius",
+          "display": "$34,830"
+        },
+        {
+          "answer": "Gabon",
+          "display": "$25,847"
+        },
+        {
+          "answer": "Egypt",
+          "display": "$23,321"
+        },
+        {
+          "answer": "Botswana",
+          "display": "$22,039"
+        },
+        {
+          "answer": "Algeria",
+          "display": "$19,677"
+        },
+        {
+          "answer": "Equatorial Guinea",
+          "display": "$19,061"
+        },
+        {
+          "answer": "Libya",
+          "display": "$18,749"
+        },
+        {
+          "answer": "South Africa",
+          "display": "$16,740"
+        },
+        {
+          "answer": "Tunisia",
+          "display": "$15,833"
+        },
+        {
+          "answer": "Eswatini",
+          "display": "$14,244"
+        },
+        {
+          "answer": "Cabo Verde",
+          "display": "$13,313",
+          "aliases": [
+            "cape verde"
+          ]
+        },
+        {
+          "answer": "Namibia",
+          "display": "$12,666"
+        },
+        {
+          "answer": "Morocco",
+          "display": "$12,336"
+        }
+      ]
+    },
+    {
+      "category": "geography/africa/countries",
+      "question": "Top 7 most populous African countries whose names end in the letter A (2024 UN estimates)",
+      "cutoff": 7,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1378386510 | table 1 | name: Country | value: Population | where: Country~a$",
+      "tags": [
+        "geography",
+        "africa",
+        "population",
+        "twist"
+      ],
+      "answers": [
+        {
+          "answer": "Nigeria",
+          "display": "227,882,945"
+        },
+        {
+          "answer": "Ethiopia",
+          "display": "128,691,692"
+        },
+        {
+          "answer": "Tanzania",
+          "display": "66,617,606"
+        },
+        {
+          "answer": "South Africa",
+          "display": "63,212,384"
+        },
+        {
+          "answer": "Kenya",
+          "display": "55,339,003"
+        },
+        {
+          "answer": "Uganda",
+          "display": "48,656,601"
+        },
+        {
+          "answer": "Algeria",
+          "display": "46,164,219"
+        },
+        {
+          "answer": "Angola",
+          "display": "36,749,906"
+        },
+        {
+          "answer": "Ghana",
+          "display": "33,787,914"
+        },
+        {
+          "answer": "Zambia",
+          "display": "20,723,965"
+        }
+      ]
+    }
+  ]
+}

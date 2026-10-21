@@ -1,0 +1,898 @@
+{
+  "categories": [
+    {
+      "path": "geography/subdivisions",
+      "name": "Country Subdivisions"
+    }
+  ],
+  "questions": [
+    {
+      "category": "geography/subdivisions",
+      "difficulty": 2,
+      "question": "Top 10 most populous Iranian provinces (2023 population)",
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1345255752 | table 1 | name: Province | value: Population (2023) | where: Province!~Iran",
+      "tags": [
+        "geography",
+        "subdivisions",
+        "iran",
+        "population"
+      ],
+      "answers": [
+        {
+          "answer": "Tehran",
+          "display": "13,323,000 people"
+        },
+        {
+          "answer": "Razavi Khorasan",
+          "display": "6,444,000 people",
+          "aliases": [
+            "Khorasan Razavi"
+          ]
+        },
+        {
+          "answer": "Isfahan",
+          "display": "5,136,000 people",
+          "aliases": [
+            "Esfahan"
+          ]
+        },
+        {
+          "answer": "Fars",
+          "display": "4,904,000 people",
+          "aliases": [
+            "Pars"
+          ]
+        },
+        {
+          "answer": "Khuzestan",
+          "display": "4,725,000 people"
+        },
+        {
+          "answer": "East Azerbaijan",
+          "display": "3,925,000 people"
+        },
+        {
+          "answer": "Mazandaran",
+          "display": "3,302,000 people"
+        },
+        {
+          "answer": "West Azerbaijan",
+          "display": "3,278,000 people"
+        },
+        {
+          "answer": "Kerman",
+          "display": "3,184,000 people"
+        },
+        {
+          "answer": "Sistan and Baluchestan",
+          "display": "2,777,000 people"
+        },
+        {
+          "answer": "Alborz",
+          "display": "2,730,000 people"
+        },
+        {
+          "answer": "Gilan",
+          "display": "2,546,000 people",
+          "aliases": [
+            "Guilan"
+          ]
+        },
+        {
+          "answer": "Kermanshah",
+          "display": "2,003,000 people"
+        }
+      ]
+    },
+    {
+      "category": "geography/subdivisions",
+      "difficulty": 2,
+      "question": "Top 10 most populous Indonesian provinces (mid-2025 population; Jakarta counted as a province)",
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1379811986 | table 1 | name: Name | value: Population (mid 2025)",
+      "tags": [
+        "geography",
+        "subdivisions",
+        "indonesia",
+        "population"
+      ],
+      "answers": [
+        {
+          "answer": "West Java",
+          "display": "50,759,000 people",
+          "aliases": [
+            "Jawa Barat"
+          ]
+        },
+        {
+          "answer": "East Java",
+          "display": "42,089,300 people",
+          "aliases": [
+            "Jawa Timur"
+          ]
+        },
+        {
+          "answer": "Central Java",
+          "display": "38,233,900 people",
+          "aliases": [
+            "Jawa Tengah"
+          ]
+        },
+        {
+          "answer": "North Sumatra",
+          "display": "15,785,800 people",
+          "aliases": [
+            "Sumatera Utara"
+          ]
+        },
+        {
+          "answer": "Banten",
+          "display": "12,537,400 people"
+        },
+        {
+          "answer": "Jakarta",
+          "display": "10,678,000 people",
+          "aliases": [
+            "DKI Jakarta",
+            "Special Capital Region of Jakarta"
+          ]
+        },
+        {
+          "answer": "South Sulawesi",
+          "display": "9,563,100 people"
+        },
+        {
+          "answer": "Lampung",
+          "display": "9,522,900 people"
+        },
+        {
+          "answer": "South Sumatra",
+          "display": "8,928,500 people"
+        },
+        {
+          "answer": "Riau",
+          "display": "6,811,200 people"
+        },
+        {
+          "answer": "West Sumatra",
+          "display": "5,914,300 people"
+        },
+        {
+          "answer": "West Kalimantan",
+          "display": "5,766,000 people"
+        },
+        {
+          "answer": "East Nusa Tenggara",
+          "display": "5,742,600 people"
+        }
+      ]
+    },
+    {
+      "category": "geography/subdivisions",
+      "difficulty": 3,
+      "question": "Top 10 Chinese provincial-level divisions by GDP (2025, preliminary, nominal; Hong Kong and Macau included)",
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1358609842 | table 2 | name: region | value: GDP(CN | where: region!~mainland",
+      "tags": [
+        "geography",
+        "subdivisions",
+        "china",
+        "gdp",
+        "economy"
+      ],
+      "answers": [
+        {
+          "answer": "Guangdong",
+          "display": "CN¥14.58 trillion"
+        },
+        {
+          "answer": "Jiangsu",
+          "display": "CN¥14.24 trillion"
+        },
+        {
+          "answer": "Shandong",
+          "display": "CN¥10.32 trillion"
+        },
+        {
+          "answer": "Zhejiang",
+          "display": "CN¥9.45 trillion"
+        },
+        {
+          "answer": "Sichuan",
+          "display": "CN¥6.77 trillion"
+        },
+        {
+          "answer": "Henan",
+          "display": "CN¥6.66 trillion"
+        },
+        {
+          "answer": "Hubei",
+          "display": "CN¥6.27 trillion"
+        },
+        {
+          "answer": "Fujian",
+          "display": "CN¥6.02 trillion"
+        },
+        {
+          "answer": "Shanghai",
+          "display": "CN¥5.67 trillion"
+        },
+        {
+          "answer": "Hunan",
+          "display": "CN¥5.53 trillion"
+        },
+        {
+          "answer": "Anhui",
+          "display": "CN¥5.30 trillion"
+        },
+        {
+          "answer": "Beijing",
+          "display": "CN¥5.21 trillion"
+        },
+        {
+          "answer": "Hebei",
+          "display": "CN¥4.93 trillion"
+        }
+      ]
+    },
+    {
+      "category": "geography/subdivisions",
+      "difficulty": 2,
+      "question": "Top 5 largest regions of New Zealand by land area (land only, excluding water)",
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1377879723 | table 1 | name: Name (name | value: Land area / km2 | header rows: 2",
+      "tags": [
+        "geography",
+        "subdivisions",
+        "new-zealand",
+        "area"
+      ],
+      "cutoff": 5,
+      "answers": [
+        {
+          "answer": "Canterbury",
+          "display": "44,504 km2",
+          "aliases": [
+            "Waitaha"
+          ]
+        },
+        {
+          "answer": "Southland",
+          "display": "31,196 km2",
+          "aliases": [
+            "Murihiku"
+          ]
+        },
+        {
+          "answer": "Otago",
+          "display": "31,186 km2"
+        },
+        {
+          "answer": "Waikato",
+          "display": "23,900 km2"
+        },
+        {
+          "answer": "West Coast",
+          "display": "23,245 km2",
+          "aliases": [
+            "Te Tai Poutini"
+          ]
+        },
+        {
+          "answer": "Manawatū-Whanganui",
+          "display": "22,221 km2"
+        },
+        {
+          "answer": "Hawke's Bay",
+          "display": "14,138 km2"
+        },
+        {
+          "answer": "Northland",
+          "display": "12,504 km2",
+          "aliases": [
+            "Te Tai Tokerau"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "geography/subdivisions",
+      "difficulty": 2,
+      "question": "Top 10 largest Japanese prefectures by area (km2)",
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1380953309 | table 1 | name: Prefecture | value: Area (km2)",
+      "tags": [
+        "geography",
+        "subdivisions",
+        "japan",
+        "area"
+      ],
+      "answers": [
+        {
+          "answer": "Hokkaido",
+          "display": "83,424 km2"
+        },
+        {
+          "answer": "Iwate",
+          "display": "15,275 km2"
+        },
+        {
+          "answer": "Fukushima",
+          "display": "13,784 km2"
+        },
+        {
+          "answer": "Nagano",
+          "display": "13,562 km2"
+        },
+        {
+          "answer": "Niigata",
+          "display": "12,584 km2"
+        },
+        {
+          "answer": "Akita",
+          "display": "11,638 km2"
+        },
+        {
+          "answer": "Gifu",
+          "display": "10,621 km2"
+        },
+        {
+          "answer": "Aomori",
+          "display": "9,646 km2"
+        },
+        {
+          "answer": "Yamagata",
+          "display": "9,323 km2"
+        },
+        {
+          "answer": "Kagoshima",
+          "display": "9,187 km2"
+        },
+        {
+          "answer": "Hiroshima",
+          "display": "8,480 km2"
+        },
+        {
+          "answer": "Hyōgo",
+          "display": "8,401 km2",
+          "aliases": [
+            "Hyogo"
+          ]
+        },
+        {
+          "answer": "Shizuoka",
+          "display": "7,777 km2"
+        }
+      ]
+    },
+    {
+      "category": "geography/subdivisions",
+      "difficulty": 2,
+      "question": "Top 10 Japanese prefectures by GDP (2022, nominal, in yen)",
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1354307249 | table 1 | name: Prefecture | value: millions of JP | header rows: 3",
+      "tags": [
+        "geography",
+        "subdivisions",
+        "japan",
+        "gdp",
+        "economy"
+      ],
+      "answers": [
+        {
+          "answer": "Tokyo",
+          "display": "¥120.22 trillion"
+        },
+        {
+          "answer": "Osaka",
+          "display": "¥43.12 trillion"
+        },
+        {
+          "answer": "Aichi",
+          "display": "¥43.08 trillion"
+        },
+        {
+          "answer": "Kanagawa",
+          "display": "¥35.16 trillion"
+        },
+        {
+          "answer": "Saitama",
+          "display": "¥24.67 trillion"
+        },
+        {
+          "answer": "Hyōgo",
+          "display": "¥23.46 trillion",
+          "aliases": [
+            "Hyogo"
+          ]
+        },
+        {
+          "answer": "Chiba",
+          "display": "¥21.41 trillion"
+        },
+        {
+          "answer": "Hokkaido",
+          "display": "¥20.89 trillion"
+        },
+        {
+          "answer": "Fukuoka",
+          "display": "¥20.19 trillion"
+        },
+        {
+          "answer": "Shizuoka",
+          "display": "¥18.27 trillion"
+        },
+        {
+          "answer": "Ibaraki",
+          "display": "¥14.59 trillion"
+        },
+        {
+          "answer": "Hiroshima",
+          "display": "¥12.48 trillion"
+        },
+        {
+          "answer": "Kyoto",
+          "display": "¥11.11 trillion"
+        }
+      ]
+    },
+    {
+      "category": "geography/subdivisions",
+      "difficulty": 2,
+      "question": "Top 10 most populous Nigerian states (2019 estimate; Federal Capital Territory not a state)",
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1374508735 | table 1 | name: Name | value: Population (2019 estimate)",
+      "tags": [
+        "geography",
+        "subdivisions",
+        "nigeria",
+        "population"
+      ],
+      "answers": [
+        {
+          "answer": "Kano",
+          "display": "14,253,549 people"
+        },
+        {
+          "answer": "Lagos",
+          "display": "12,772,884 people"
+        },
+        {
+          "answer": "Katsina",
+          "display": "9,300,382 people"
+        },
+        {
+          "answer": "Kaduna",
+          "display": "8,324,285 people"
+        },
+        {
+          "answer": "Bauchi",
+          "display": "7,540,663 people"
+        },
+        {
+          "answer": "Oyo",
+          "display": "7,512,855 people"
+        },
+        {
+          "answer": "Rivers",
+          "display": "7,034,973 people",
+          "aliases": [
+            "Rivers State"
+          ]
+        },
+        {
+          "answer": "Jigawa",
+          "display": "6,779,080 people"
+        },
+        {
+          "answer": "Niger",
+          "display": "6,220,617 people",
+          "aliases": [
+            "Niger State"
+          ]
+        },
+        {
+          "answer": "Ogun",
+          "display": "5,945,275 people"
+        },
+        {
+          "answer": "Sokoto",
+          "display": "5,863,187 people"
+        },
+        {
+          "answer": "Benue",
+          "display": "5,787,706 people"
+        },
+        {
+          "answer": "Borno",
+          "display": "5,751,590 people"
+        }
+      ]
+    },
+    {
+      "category": "geography/subdivisions",
+      "difficulty": 2,
+      "question": "Top 10 most populous Philippine provinces (2020 census; Metro Manila excluded)",
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1344246270 | table 1 | name: Province | value: Population | where: Province!~Metro Manila | where: Province!~^Philippines",
+      "tags": [
+        "geography",
+        "subdivisions",
+        "philippines",
+        "population"
+      ],
+      "answers": [
+        {
+          "answer": "Cebu",
+          "display": "5,151,274 people",
+          "aliases": [
+            "Cebu Province"
+          ]
+        },
+        {
+          "answer": "Cavite",
+          "display": "4,344,829 people"
+        },
+        {
+          "answer": "Bulacan",
+          "display": "3,708,890 people"
+        },
+        {
+          "answer": "Laguna",
+          "display": "3,382,193 people"
+        },
+        {
+          "answer": "Rizal",
+          "display": "3,330,143 people"
+        },
+        {
+          "answer": "Negros Occidental",
+          "display": "3,223,955 people"
+        },
+        {
+          "answer": "Pangasinan",
+          "display": "3,163,190 people"
+        },
+        {
+          "answer": "Batangas",
+          "display": "2,908,494 people"
+        },
+        {
+          "answer": "Pampanga",
+          "display": "2,900,637 people"
+        },
+        {
+          "answer": "Iloilo",
+          "display": "2,509,525 people"
+        },
+        {
+          "answer": "Davao del Sur",
+          "display": "2,457,430 people"
+        },
+        {
+          "answer": "Nueva Ecija",
+          "display": "2,310,134 people"
+        },
+        {
+          "answer": "Quezon",
+          "display": "2,229,383 people"
+        }
+      ]
+    },
+    {
+      "category": "geography/subdivisions",
+      "difficulty": 2,
+      "question": "Top 10 most populous Kenyan counties (2019 census; national total excluded)",
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1380050334 | table 1 | name: County | value: Population (2019 Census) | where: County!~TOTAL",
+      "tags": [
+        "geography",
+        "subdivisions",
+        "kenya",
+        "population"
+      ],
+      "answers": [
+        {
+          "answer": "Nairobi",
+          "display": "4,397,073 people"
+        },
+        {
+          "answer": "Kiambu",
+          "display": "2,417,735 people"
+        },
+        {
+          "answer": "Nakuru",
+          "display": "2,162,202 people"
+        },
+        {
+          "answer": "Kakamega",
+          "display": "1,867,579 people"
+        },
+        {
+          "answer": "Bungoma",
+          "display": "1,670,570 people"
+        },
+        {
+          "answer": "Meru",
+          "display": "1,545,714 people"
+        },
+        {
+          "answer": "Turkana",
+          "display": "1,504,976 people"
+        },
+        {
+          "answer": "Kilifi",
+          "display": "1,453,787 people"
+        },
+        {
+          "answer": "Machakos",
+          "display": "1,421,932 people"
+        },
+        {
+          "answer": "Kisii",
+          "display": "1,266,860 people"
+        },
+        {
+          "answer": "Mombasa",
+          "display": "1,208,333 people"
+        },
+        {
+          "answer": "Uasin Gishu",
+          "display": "1,163,186 people",
+          "aliases": [
+            "Eldoret"
+          ]
+        },
+        {
+          "answer": "Narok",
+          "display": "1,157,873 people"
+        }
+      ]
+    },
+    {
+      "category": "geography/subdivisions",
+      "difficulty": 2,
+      "question": "Top 10 most populous Egyptian governorates (November 2023 estimate; national total excluded)",
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1370305360 | table 1 | name: Name | value: Population (Nov | header rows: 3 | where: Name!~Total",
+      "tags": [
+        "geography",
+        "subdivisions",
+        "egypt",
+        "population"
+      ],
+      "answers": [
+        {
+          "answer": "Cairo",
+          "display": "10,456,284 people"
+        },
+        {
+          "answer": "Giza",
+          "display": "9,534,283 people"
+        },
+        {
+          "answer": "Sharqia",
+          "display": "8,032,683 people",
+          "aliases": [
+            "Sharqiya"
+          ]
+        },
+        {
+          "answer": "Dakahlia",
+          "display": "7,058,212 people",
+          "aliases": [
+            "Dakahliya"
+          ]
+        },
+        {
+          "answer": "Beheira",
+          "display": "6,940,234 people",
+          "aliases": [
+            "Beheyra"
+          ]
+        },
+        {
+          "answer": "Minya",
+          "display": "6,332,918 people",
+          "aliases": [
+            "Minya Governorate"
+          ]
+        },
+        {
+          "answer": "Qalyubia",
+          "display": "6,137,896 people",
+          "aliases": [
+            "Qalyubiyya",
+            "Qalyubiya"
+          ]
+        },
+        {
+          "answer": "Sohag",
+          "display": "5,714,903 people"
+        },
+        {
+          "answer": "Alexandria",
+          "display": "5,703,824 people"
+        },
+        {
+          "answer": "Gharbia",
+          "display": "5,483,000 people"
+        },
+        {
+          "answer": "Asyut",
+          "display": "5,071,485 people",
+          "aliases": [
+            "Assiut"
+          ]
+        },
+        {
+          "answer": "Monufia",
+          "display": "4,743,341 people",
+          "aliases": [
+            "Monufiya"
+          ]
+        },
+        {
+          "answer": "Faiyum",
+          "display": "4,141,222 people",
+          "aliases": [
+            "Fayoum"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "geography/subdivisions",
+      "difficulty": 2,
+      "question": "Top 10 most populous divisions of Pakistan (2023 population)",
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1375644286 | table 6 | name: Division | value: Population (2023)",
+      "tags": [
+        "geography",
+        "subdivisions",
+        "pakistan",
+        "population"
+      ],
+      "answers": [
+        {
+          "answer": "Lahore",
+          "display": "22,772,710 people"
+        },
+        {
+          "answer": "Karachi",
+          "display": "20,382,881 people"
+        },
+        {
+          "answer": "Faisalabad",
+          "display": "16,228,526 people"
+        },
+        {
+          "answer": "Multan",
+          "display": "14,085,102 people"
+        },
+        {
+          "answer": "Bahawalpur",
+          "display": "13,400,009 people"
+        },
+        {
+          "answer": "Dera Ghazi Khan",
+          "display": "12,892,465 people",
+          "aliases": [
+            "DG Khan"
+          ]
+        },
+        {
+          "answer": "Hyderabad",
+          "display": "11,659,246 people"
+        },
+        {
+          "answer": "Gujranwala",
+          "display": "11,416,686 people"
+        },
+        {
+          "answer": "Rawalpindi",
+          "display": "10,804,250 people"
+        },
+        {
+          "answer": "Peshawar",
+          "display": "10,035,171 people"
+        },
+        {
+          "answer": "Malakand",
+          "display": "9,959,399 people"
+        },
+        {
+          "answer": "Sargodha",
+          "display": "9,591,275 people"
+        },
+        {
+          "answer": "Sahiwal",
+          "display": "8,533,471 people"
+        }
+      ]
+    },
+    {
+      "category": "geography/subdivisions",
+      "difficulty": 2,
+      "question": "Top 10 most populous Thai provinces (December 2024; Bangkok counted as a province)",
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1374649062 | table 1 | name: Name | value: Population (December 2024)",
+      "tags": [
+        "geography",
+        "subdivisions",
+        "thailand",
+        "population"
+      ],
+      "answers": [
+        {
+          "answer": "Bangkok",
+          "display": "5,456,000 people",
+          "aliases": [
+            "Krung Thep"
+          ]
+        },
+        {
+          "answer": "Nakhon Ratchasima",
+          "display": "2,620,000 people",
+          "aliases": [
+            "Korat"
+          ]
+        },
+        {
+          "answer": "Ubon Ratchathani",
+          "display": "1,868,000 people",
+          "aliases": [
+            "Ubon"
+          ]
+        },
+        {
+          "answer": "Chiang Mai",
+          "display": "1,799,000 people"
+        },
+        {
+          "answer": "Khon Kaen",
+          "display": "1,772,000 people"
+        },
+        {
+          "answer": "Chonburi",
+          "display": "1,636,000 people",
+          "aliases": [
+            "Chon Buri"
+          ]
+        },
+        {
+          "answer": "Buriram",
+          "display": "1,566,000 people"
+        },
+        {
+          "answer": "Udon Thani",
+          "display": "1,552,000 people",
+          "aliases": [
+            "Udon"
+          ]
+        },
+        {
+          "answer": "Nakhon Si Thammarat",
+          "display": "1,535,000 people"
+        },
+        {
+          "answer": "Sisaket",
+          "display": "1,442,000 people"
+        },
+        {
+          "answer": "Songkhla",
+          "display": "1,431,000 people"
+        },
+        {
+          "answer": "Samut Prakan",
+          "display": "1,381,000 people"
+        },
+        {
+          "answer": "Surin",
+          "display": "1,360,000 people"
+        }
+      ]
+    }
+  ]
+}

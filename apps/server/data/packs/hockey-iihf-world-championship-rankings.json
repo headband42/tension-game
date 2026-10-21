@@ -1,0 +1,1463 @@
+{
+  "categories": [
+    {
+      "path": "sports/hockey/iihf/world-championship",
+      "name": "World Championship"
+    }
+  ],
+  "questions": [
+    {
+      "category": "sports/hockey/iihf/world-championship",
+      "question": "Top 5 teams in the final ranking of the 1998 IIHF World Championship",
+      "cutoff": 5,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1367620907 | table 11 | name: 2 | value: 1 | header rows: 0 | order: asc",
+      "tags": [
+        "hockey",
+        "iihf",
+        "world-championship",
+        "1998"
+      ],
+      "answers": [
+        {
+          "answer": "Sweden",
+          "display": "#1"
+        },
+        {
+          "answer": "Finland",
+          "display": "#2"
+        },
+        {
+          "answer": "Czech Republic",
+          "display": "#3",
+          "aliases": [
+            "Czechia"
+          ]
+        },
+        {
+          "answer": "Switzerland",
+          "display": "#4"
+        },
+        {
+          "answer": "Russia",
+          "display": "#5"
+        },
+        {
+          "answer": "Canada",
+          "display": "#6"
+        },
+        {
+          "answer": "Slovakia",
+          "display": "#7"
+        },
+        {
+          "answer": "Belarus",
+          "display": "#8"
+        }
+      ]
+    },
+    {
+      "category": "sports/hockey/iihf/world-championship",
+      "question": "Top 5 teams in the final ranking of the 1999 IIHF World Championship",
+      "cutoff": 5,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1357475501 | table 13 | name: 2 | value: 1 | header rows: 0 | order: asc",
+      "tags": [
+        "hockey",
+        "iihf",
+        "world-championship",
+        "1999"
+      ],
+      "answers": [
+        {
+          "answer": "Czech Republic",
+          "display": "#1",
+          "aliases": [
+            "Czechia"
+          ]
+        },
+        {
+          "answer": "Finland",
+          "display": "#2"
+        },
+        {
+          "answer": "Sweden",
+          "display": "#3"
+        },
+        {
+          "answer": "Canada",
+          "display": "#4"
+        },
+        {
+          "answer": "Russia",
+          "display": "#5"
+        },
+        {
+          "answer": "United States",
+          "display": "#6",
+          "aliases": [
+            "USA"
+          ]
+        },
+        {
+          "answer": "Slovakia",
+          "display": "#7"
+        },
+        {
+          "answer": "Switzerland",
+          "display": "#8"
+        }
+      ]
+    },
+    {
+      "category": "sports/hockey/iihf/world-championship",
+      "question": "Top 5 teams in the final ranking of the 2000 IIHF World Championship",
+      "cutoff": 5,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1367933976 | table 13 | name: 2 | value: 1 | header rows: 0 | order: asc",
+      "tags": [
+        "hockey",
+        "iihf",
+        "world-championship",
+        "2000"
+      ],
+      "answers": [
+        {
+          "answer": "Czech Republic",
+          "display": "#1",
+          "aliases": [
+            "Czechia"
+          ]
+        },
+        {
+          "answer": "Slovakia",
+          "display": "#2"
+        },
+        {
+          "answer": "Finland",
+          "display": "#3"
+        },
+        {
+          "answer": "Canada",
+          "display": "#4"
+        },
+        {
+          "answer": "United States",
+          "display": "#5",
+          "aliases": [
+            "USA"
+          ]
+        },
+        {
+          "answer": "Switzerland",
+          "display": "#6"
+        },
+        {
+          "answer": "Sweden",
+          "display": "#7"
+        },
+        {
+          "answer": "Latvia",
+          "display": "#8"
+        }
+      ]
+    },
+    {
+      "category": "sports/hockey/iihf/world-championship",
+      "question": "Top 5 teams in the final ranking of the 2001 IIHF World Championship",
+      "cutoff": 5,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1368049231 | table 11 | name: 2 | value: 1 | header rows: 0 | order: asc",
+      "tags": [
+        "hockey",
+        "iihf",
+        "world-championship",
+        "2001"
+      ],
+      "answers": [
+        {
+          "answer": "Czech Republic",
+          "display": "#1",
+          "aliases": [
+            "Czechia"
+          ]
+        },
+        {
+          "answer": "Finland",
+          "display": "#2"
+        },
+        {
+          "answer": "Sweden",
+          "display": "#3"
+        },
+        {
+          "answer": "United States",
+          "display": "#4",
+          "aliases": [
+            "USA"
+          ]
+        },
+        {
+          "answer": "Canada",
+          "display": "#5"
+        },
+        {
+          "answer": "Russia",
+          "display": "#6"
+        },
+        {
+          "answer": "Slovakia",
+          "display": "#7"
+        },
+        {
+          "answer": "Germany",
+          "display": "#8"
+        }
+      ]
+    },
+    {
+      "category": "sports/hockey/iihf/world-championship",
+      "question": "Top 5 teams in the final ranking of the 2002 IIHF World Championship",
+      "cutoff": 5,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1353286631 | table 11 | name: 2 | value: 1 | header rows: 0 | order: asc",
+      "tags": [
+        "hockey",
+        "iihf",
+        "world-championship",
+        "2002"
+      ],
+      "answers": [
+        {
+          "answer": "Slovakia",
+          "display": "#1"
+        },
+        {
+          "answer": "Russia",
+          "display": "#2"
+        },
+        {
+          "answer": "Sweden",
+          "display": "#3"
+        },
+        {
+          "answer": "Finland",
+          "display": "#4"
+        },
+        {
+          "answer": "Czech Republic",
+          "display": "#5",
+          "aliases": [
+            "Czechia"
+          ]
+        },
+        {
+          "answer": "Canada",
+          "display": "#6"
+        },
+        {
+          "answer": "United States",
+          "display": "#7",
+          "aliases": [
+            "USA"
+          ]
+        },
+        {
+          "answer": "Germany",
+          "display": "#8"
+        }
+      ]
+    },
+    {
+      "category": "sports/hockey/iihf/world-championship",
+      "question": "Top 5 teams in the final ranking of the 2003 IIHF World Championship",
+      "cutoff": 5,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1329907981 | table 11 | name: 2 | value: 1 | header rows: 0 | order: asc",
+      "tags": [
+        "hockey",
+        "iihf",
+        "world-championship",
+        "2003"
+      ],
+      "answers": [
+        {
+          "answer": "Canada",
+          "display": "#1"
+        },
+        {
+          "answer": "Sweden",
+          "display": "#2"
+        },
+        {
+          "answer": "Slovakia",
+          "display": "#3"
+        },
+        {
+          "answer": "Czech Republic",
+          "display": "#4",
+          "aliases": [
+            "Czechia"
+          ]
+        },
+        {
+          "answer": "Finland",
+          "display": "#5"
+        },
+        {
+          "answer": "Germany",
+          "display": "#6"
+        },
+        {
+          "answer": "Russia",
+          "display": "#7"
+        },
+        {
+          "answer": "Switzerland",
+          "display": "#8"
+        }
+      ]
+    },
+    {
+      "category": "sports/hockey/iihf/world-championship",
+      "question": "Top 5 teams in the final ranking of the 2004 IIHF World Championship",
+      "cutoff": 5,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1329908032 | table 10 | name: 2 | value: 1 | header rows: 0 | order: asc",
+      "tags": [
+        "hockey",
+        "iihf",
+        "world-championship",
+        "2004"
+      ],
+      "answers": [
+        {
+          "answer": "Canada",
+          "display": "#1"
+        },
+        {
+          "answer": "Sweden",
+          "display": "#2"
+        },
+        {
+          "answer": "United States",
+          "display": "#3",
+          "aliases": [
+            "USA"
+          ]
+        },
+        {
+          "answer": "Slovakia",
+          "display": "#4"
+        },
+        {
+          "answer": "Czech Republic",
+          "display": "#5",
+          "aliases": [
+            "Czechia"
+          ]
+        },
+        {
+          "answer": "Finland",
+          "display": "#6"
+        },
+        {
+          "answer": "Latvia",
+          "display": "#7"
+        },
+        {
+          "answer": "Switzerland",
+          "display": "#8"
+        }
+      ]
+    },
+    {
+      "category": "sports/hockey/iihf/world-championship",
+      "question": "Top 5 teams in the final ranking of the 2005 IIHF World Championship",
+      "cutoff": 5,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1355839482 | table 10 | name: 2 | value: 1 | header rows: 0 | order: asc",
+      "tags": [
+        "hockey",
+        "iihf",
+        "world-championship",
+        "2005"
+      ],
+      "answers": [
+        {
+          "answer": "Czech Republic",
+          "display": "#1",
+          "aliases": [
+            "Czechia"
+          ]
+        },
+        {
+          "answer": "Canada",
+          "display": "#2"
+        },
+        {
+          "answer": "Russia",
+          "display": "#3"
+        },
+        {
+          "answer": "Sweden",
+          "display": "#4"
+        },
+        {
+          "answer": "Slovakia",
+          "display": "#5"
+        },
+        {
+          "answer": "United States",
+          "display": "#6",
+          "aliases": [
+            "USA"
+          ]
+        },
+        {
+          "answer": "Finland",
+          "display": "#7"
+        },
+        {
+          "answer": "Switzerland",
+          "display": "#8"
+        }
+      ]
+    },
+    {
+      "category": "sports/hockey/iihf/world-championship",
+      "question": "Top 5 teams in the final ranking of the 2006 IIHF World Championship",
+      "cutoff": 5,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1368723705 | table 10 | name: 2 | value: 1 | header rows: 0 | order: asc",
+      "tags": [
+        "hockey",
+        "iihf",
+        "world-championship",
+        "2006"
+      ],
+      "answers": [
+        {
+          "answer": "Sweden",
+          "display": "#1"
+        },
+        {
+          "answer": "Czech Republic",
+          "display": "#2",
+          "aliases": [
+            "Czechia"
+          ]
+        },
+        {
+          "answer": "Finland",
+          "display": "#3"
+        },
+        {
+          "answer": "Canada",
+          "display": "#4"
+        },
+        {
+          "answer": "Russia",
+          "display": "#5"
+        },
+        {
+          "answer": "Belarus",
+          "display": "#6"
+        },
+        {
+          "answer": "United States",
+          "display": "#7",
+          "aliases": [
+            "USA"
+          ]
+        },
+        {
+          "answer": "Slovakia",
+          "display": "#8"
+        }
+      ]
+    },
+    {
+      "category": "sports/hockey/iihf/world-championship",
+      "question": "Top 5 teams in the final ranking of the 2007 IIHF World Championship",
+      "cutoff": 5,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1368934716 | table 13 | name: Team | value: Rk. | order: asc",
+      "tags": [
+        "hockey",
+        "iihf",
+        "world-championship",
+        "2007"
+      ],
+      "answers": [
+        {
+          "answer": "Canada",
+          "display": "#1"
+        },
+        {
+          "answer": "Finland",
+          "display": "#2"
+        },
+        {
+          "answer": "Russia",
+          "display": "#3"
+        },
+        {
+          "answer": "Sweden",
+          "display": "#4"
+        },
+        {
+          "answer": "United States",
+          "display": "#5",
+          "aliases": [
+            "USA"
+          ]
+        },
+        {
+          "answer": "Slovakia",
+          "display": "#6"
+        },
+        {
+          "answer": "Czech Republic",
+          "display": "#7",
+          "aliases": [
+            "Czechia"
+          ]
+        },
+        {
+          "answer": "Switzerland",
+          "display": "#8"
+        }
+      ]
+    },
+    {
+      "category": "sports/hockey/iihf/world-championship",
+      "question": "Top 5 teams in the final ranking of the 2008 IIHF World Championship",
+      "cutoff": 5,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1369186755 | table 9 | name: 2 | value: 1 | header rows: 0 | order: asc",
+      "tags": [
+        "hockey",
+        "iihf",
+        "world-championship",
+        "2008"
+      ],
+      "answers": [
+        {
+          "answer": "Russia",
+          "display": "#1"
+        },
+        {
+          "answer": "Canada",
+          "display": "#2"
+        },
+        {
+          "answer": "Finland",
+          "display": "#3"
+        },
+        {
+          "answer": "Sweden",
+          "display": "#4"
+        },
+        {
+          "answer": "Czech Republic",
+          "display": "#5",
+          "aliases": [
+            "Czechia"
+          ]
+        },
+        {
+          "answer": "United States",
+          "display": "#6",
+          "aliases": [
+            "USA"
+          ]
+        },
+        {
+          "answer": "Switzerland",
+          "display": "#7"
+        },
+        {
+          "answer": "Norway",
+          "display": "#8"
+        }
+      ]
+    },
+    {
+      "category": "sports/hockey/iihf/world-championship",
+      "question": "Top 5 teams in the final ranking of the 2009 IIHF World Championship",
+      "cutoff": 5,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1369514244 | table 10 | name: 2 | value: 1 | header rows: 0 | order: asc",
+      "tags": [
+        "hockey",
+        "iihf",
+        "world-championship",
+        "2009"
+      ],
+      "answers": [
+        {
+          "answer": "Russia",
+          "display": "#1"
+        },
+        {
+          "answer": "Canada",
+          "display": "#2"
+        },
+        {
+          "answer": "Sweden",
+          "display": "#3"
+        },
+        {
+          "answer": "United States",
+          "display": "#4",
+          "aliases": [
+            "USA"
+          ]
+        },
+        {
+          "answer": "Finland",
+          "display": "#5"
+        },
+        {
+          "answer": "Czech Republic",
+          "display": "#6",
+          "aliases": [
+            "Czechia"
+          ]
+        },
+        {
+          "answer": "Latvia",
+          "display": "#7"
+        },
+        {
+          "answer": "Belarus",
+          "display": "#8"
+        }
+      ]
+    },
+    {
+      "category": "sports/hockey/iihf/world-championship",
+      "question": "Top 5 teams in the final ranking of the 2010 IIHF World Championship",
+      "cutoff": 5,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1369996376 | table 11 | name: 2 | value: 1 | header rows: 0 | order: asc",
+      "tags": [
+        "hockey",
+        "iihf",
+        "world-championship",
+        "2010"
+      ],
+      "answers": [
+        {
+          "answer": "Czech Republic",
+          "display": "#1",
+          "aliases": [
+            "Czechia"
+          ]
+        },
+        {
+          "answer": "Russia",
+          "display": "#2"
+        },
+        {
+          "answer": "Sweden",
+          "display": "#3"
+        },
+        {
+          "answer": "Germany",
+          "display": "#4"
+        },
+        {
+          "answer": "Switzerland",
+          "display": "#5"
+        },
+        {
+          "answer": "Finland",
+          "display": "#6"
+        },
+        {
+          "answer": "Canada",
+          "display": "#7"
+        },
+        {
+          "answer": "Denmark",
+          "display": "#8"
+        }
+      ]
+    },
+    {
+      "category": "sports/hockey/iihf/world-championship",
+      "question": "Top 5 teams in the final ranking of the 2011 IIHF World Championship",
+      "cutoff": 5,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1363000649 | table 14 | name: 2 | value: 1 | header rows: 0 | order: asc",
+      "tags": [
+        "hockey",
+        "iihf",
+        "world-championship",
+        "2011"
+      ],
+      "answers": [
+        {
+          "answer": "Finland",
+          "display": "#1"
+        },
+        {
+          "answer": "Sweden",
+          "display": "#2"
+        },
+        {
+          "answer": "Czech Republic",
+          "display": "#3",
+          "aliases": [
+            "Czechia"
+          ]
+        },
+        {
+          "answer": "Russia",
+          "display": "#4"
+        },
+        {
+          "answer": "Canada",
+          "display": "#5"
+        },
+        {
+          "answer": "Norway",
+          "display": "#6"
+        },
+        {
+          "answer": "Germany",
+          "display": "#7"
+        },
+        {
+          "answer": "United States",
+          "display": "#8",
+          "aliases": [
+            "USA"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/hockey/iihf/world-championship",
+      "question": "Top 5 teams in the final ranking of the 2012 IIHF World Championship",
+      "cutoff": 5,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1366204346 | table 6 | name: 2 | value: 1 | header rows: 0 | order: asc",
+      "tags": [
+        "hockey",
+        "iihf",
+        "world-championship",
+        "2012"
+      ],
+      "answers": [
+        {
+          "answer": "Russia",
+          "display": "#1"
+        },
+        {
+          "answer": "Slovakia",
+          "display": "#2"
+        },
+        {
+          "answer": "Czech Republic",
+          "display": "#3",
+          "aliases": [
+            "Czechia"
+          ]
+        },
+        {
+          "answer": "Finland",
+          "display": "#4"
+        },
+        {
+          "answer": "Canada",
+          "display": "#5"
+        },
+        {
+          "answer": "Sweden",
+          "display": "#6"
+        },
+        {
+          "answer": "United States",
+          "display": "#7",
+          "aliases": [
+            "USA"
+          ]
+        },
+        {
+          "answer": "Norway",
+          "display": "#8"
+        }
+      ]
+    },
+    {
+      "category": "sports/hockey/iihf/world-championship",
+      "question": "Top 5 teams in the final ranking of the 2013 IIHF World Championship",
+      "cutoff": 5,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1357556718 | table 6 | name: Team | value: Pos | order: asc",
+      "tags": [
+        "hockey",
+        "iihf",
+        "world-championship",
+        "2013"
+      ],
+      "answers": [
+        {
+          "answer": "Sweden",
+          "display": "#1"
+        },
+        {
+          "answer": "Switzerland",
+          "display": "#2"
+        },
+        {
+          "answer": "United States",
+          "display": "#3",
+          "aliases": [
+            "USA"
+          ]
+        },
+        {
+          "answer": "Finland",
+          "display": "#4"
+        },
+        {
+          "answer": "Canada",
+          "display": "#5"
+        },
+        {
+          "answer": "Russia",
+          "display": "#6"
+        },
+        {
+          "answer": "Czech Republic",
+          "display": "#7",
+          "aliases": [
+            "Czechia"
+          ]
+        },
+        {
+          "answer": "Slovakia",
+          "display": "#8"
+        }
+      ]
+    },
+    {
+      "category": "sports/hockey/iihf/world-championship",
+      "question": "Top 5 teams in the final ranking of the 2014 IIHF World Championship",
+      "cutoff": 5,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1371908237 | table 6 | name: 2 | value: 1 | header rows: 0 | order: asc",
+      "tags": [
+        "hockey",
+        "iihf",
+        "world-championship",
+        "2014"
+      ],
+      "answers": [
+        {
+          "answer": "Russia",
+          "display": "#1"
+        },
+        {
+          "answer": "Finland",
+          "display": "#2"
+        },
+        {
+          "answer": "Sweden",
+          "display": "#3"
+        },
+        {
+          "answer": "Czech Republic",
+          "display": "#4",
+          "aliases": [
+            "Czechia"
+          ]
+        },
+        {
+          "answer": "Canada",
+          "display": "#5"
+        },
+        {
+          "answer": "United States",
+          "display": "#6",
+          "aliases": [
+            "USA"
+          ]
+        },
+        {
+          "answer": "Belarus",
+          "display": "#7"
+        },
+        {
+          "answer": "France",
+          "display": "#8"
+        }
+      ]
+    },
+    {
+      "category": "sports/hockey/iihf/world-championship",
+      "question": "Top 5 teams in the final ranking of the 2015 IIHF World Championship",
+      "cutoff": 5,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1366071657 | table 6 | name: 2 | value: 1 | header rows: 0 | order: asc",
+      "tags": [
+        "hockey",
+        "iihf",
+        "world-championship",
+        "2015"
+      ],
+      "answers": [
+        {
+          "answer": "Canada",
+          "display": "#1"
+        },
+        {
+          "answer": "Russia",
+          "display": "#2"
+        },
+        {
+          "answer": "United States",
+          "display": "#3",
+          "aliases": [
+            "USA"
+          ]
+        },
+        {
+          "answer": "Czech Republic",
+          "display": "#4",
+          "aliases": [
+            "Czechia"
+          ]
+        },
+        {
+          "answer": "Sweden",
+          "display": "#5"
+        },
+        {
+          "answer": "Finland",
+          "display": "#6"
+        },
+        {
+          "answer": "Belarus",
+          "display": "#7"
+        },
+        {
+          "answer": "Switzerland",
+          "display": "#8"
+        }
+      ]
+    },
+    {
+      "category": "sports/hockey/iihf/world-championship",
+      "question": "Top 5 teams in the final ranking of the 2016 IIHF World Championship",
+      "cutoff": 5,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1367598538 | table 5 | name: Team | value: Pos | order: asc",
+      "tags": [
+        "hockey",
+        "iihf",
+        "world-championship",
+        "2016"
+      ],
+      "answers": [
+        {
+          "answer": "Canada",
+          "display": "#1"
+        },
+        {
+          "answer": "Finland",
+          "display": "#2"
+        },
+        {
+          "answer": "Russia",
+          "display": "#3"
+        },
+        {
+          "answer": "United States",
+          "display": "#4",
+          "aliases": [
+            "USA"
+          ]
+        },
+        {
+          "answer": "Czech Republic",
+          "display": "#5",
+          "aliases": [
+            "Czechia"
+          ]
+        },
+        {
+          "answer": "Sweden",
+          "display": "#6"
+        },
+        {
+          "answer": "Germany",
+          "display": "#7"
+        },
+        {
+          "answer": "Denmark",
+          "display": "#8"
+        }
+      ]
+    },
+    {
+      "category": "sports/hockey/iihf/world-championship",
+      "question": "Top 5 teams in the final ranking of the 2017 IIHF World Championship",
+      "cutoff": 5,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1366204959 | table 5 | name: Team | value: Pos | order: asc",
+      "tags": [
+        "hockey",
+        "iihf",
+        "world-championship",
+        "2017"
+      ],
+      "answers": [
+        {
+          "answer": "Sweden",
+          "display": "#1"
+        },
+        {
+          "answer": "Canada",
+          "display": "#2"
+        },
+        {
+          "answer": "Russia",
+          "display": "#3"
+        },
+        {
+          "answer": "Finland",
+          "display": "#4"
+        },
+        {
+          "answer": "United States",
+          "display": "#5",
+          "aliases": [
+            "USA"
+          ]
+        },
+        {
+          "answer": "Switzerland",
+          "display": "#6"
+        },
+        {
+          "answer": "Czech Republic",
+          "display": "#7",
+          "aliases": [
+            "Czechia"
+          ]
+        },
+        {
+          "answer": "Germany",
+          "display": "#8"
+        }
+      ]
+    },
+    {
+      "category": "sports/hockey/iihf/world-championship",
+      "question": "Top 5 teams in the final ranking of the 2018 IIHF World Championship",
+      "cutoff": 5,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1374199424 | table 5 | name: Team | value: Pos | order: asc",
+      "tags": [
+        "hockey",
+        "iihf",
+        "world-championship",
+        "2018"
+      ],
+      "answers": [
+        {
+          "answer": "Sweden",
+          "display": "#1"
+        },
+        {
+          "answer": "Switzerland",
+          "display": "#2"
+        },
+        {
+          "answer": "United States",
+          "display": "#3",
+          "aliases": [
+            "USA"
+          ]
+        },
+        {
+          "answer": "Canada",
+          "display": "#4"
+        },
+        {
+          "answer": "Finland",
+          "display": "#5"
+        },
+        {
+          "answer": "Russia",
+          "display": "#6"
+        },
+        {
+          "answer": "Czech Republic",
+          "display": "#7",
+          "aliases": [
+            "Czechia"
+          ]
+        },
+        {
+          "answer": "Latvia",
+          "display": "#8"
+        }
+      ]
+    },
+    {
+      "category": "sports/hockey/iihf/world-championship",
+      "question": "Top 5 teams in the final ranking of the 2019 IIHF World Championship",
+      "cutoff": 5,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1374749753 | table 6 | name: Team | value: Pos | order: asc",
+      "tags": [
+        "hockey",
+        "iihf",
+        "world-championship",
+        "2019"
+      ],
+      "answers": [
+        {
+          "answer": "Finland",
+          "display": "#1"
+        },
+        {
+          "answer": "Canada",
+          "display": "#2"
+        },
+        {
+          "answer": "Russia",
+          "display": "#3"
+        },
+        {
+          "answer": "Czech Republic",
+          "display": "#4",
+          "aliases": [
+            "Czechia"
+          ]
+        },
+        {
+          "answer": "Sweden",
+          "display": "#5"
+        },
+        {
+          "answer": "Germany",
+          "display": "#6"
+        },
+        {
+          "answer": "United States",
+          "display": "#7",
+          "aliases": [
+            "USA"
+          ]
+        },
+        {
+          "answer": "Switzerland",
+          "display": "#8"
+        }
+      ]
+    },
+    {
+      "category": "sports/hockey/iihf/world-championship",
+      "question": "Top 5 teams in the final ranking of the 2021 IIHF World Championship",
+      "cutoff": 5,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1330617021 | table 6 | name: Team | value: Pos | order: asc",
+      "tags": [
+        "hockey",
+        "iihf",
+        "world-championship",
+        "2021"
+      ],
+      "answers": [
+        {
+          "answer": "Canada",
+          "display": "#1"
+        },
+        {
+          "answer": "Finland",
+          "display": "#2"
+        },
+        {
+          "answer": "United States",
+          "display": "#3",
+          "aliases": [
+            "USA"
+          ]
+        },
+        {
+          "answer": "Germany",
+          "display": "#4"
+        },
+        {
+          "answer": "ROC",
+          "display": "#5",
+          "aliases": [
+            "Russia",
+            "Russian Olympic Committee"
+          ]
+        },
+        {
+          "answer": "Switzerland",
+          "display": "#6"
+        },
+        {
+          "answer": "Czech Republic",
+          "display": "#7",
+          "aliases": [
+            "Czechia"
+          ]
+        },
+        {
+          "answer": "Slovakia",
+          "display": "#8"
+        }
+      ]
+    },
+    {
+      "category": "sports/hockey/iihf/world-championship",
+      "question": "Top 5 teams in the final ranking of the 2022 IIHF World Championship",
+      "cutoff": 5,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1376486940 | table 5 | name: Team | value: Pos | order: asc",
+      "tags": [
+        "hockey",
+        "iihf",
+        "world-championship",
+        "2022"
+      ],
+      "answers": [
+        {
+          "answer": "Finland",
+          "display": "#1"
+        },
+        {
+          "answer": "Canada",
+          "display": "#2"
+        },
+        {
+          "answer": "Czechia",
+          "display": "#3",
+          "aliases": [
+            "Czech Republic"
+          ]
+        },
+        {
+          "answer": "United States",
+          "display": "#4",
+          "aliases": [
+            "USA"
+          ]
+        },
+        {
+          "answer": "Switzerland",
+          "display": "#5"
+        },
+        {
+          "answer": "Sweden",
+          "display": "#6"
+        },
+        {
+          "answer": "Germany",
+          "display": "#7"
+        },
+        {
+          "answer": "Slovakia",
+          "display": "#8"
+        }
+      ]
+    },
+    {
+      "category": "sports/hockey/iihf/world-championship",
+      "question": "Top 5 teams in the final ranking of the 2023 IIHF World Championship",
+      "cutoff": 5,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1329918333 | table 5 | name: Team | value: Pos | order: asc",
+      "tags": [
+        "hockey",
+        "iihf",
+        "world-championship",
+        "2023"
+      ],
+      "answers": [
+        {
+          "answer": "Canada",
+          "display": "#1"
+        },
+        {
+          "answer": "Germany",
+          "display": "#2"
+        },
+        {
+          "answer": "Latvia",
+          "display": "#3"
+        },
+        {
+          "answer": "United States",
+          "display": "#4",
+          "aliases": [
+            "USA"
+          ]
+        },
+        {
+          "answer": "Switzerland",
+          "display": "#5"
+        },
+        {
+          "answer": "Sweden",
+          "display": "#6"
+        },
+        {
+          "answer": "Finland",
+          "display": "#7"
+        },
+        {
+          "answer": "Czechia",
+          "display": "#8",
+          "aliases": [
+            "Czech Republic"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/hockey/iihf/world-championship",
+      "question": "Top 5 teams in the final ranking of the 2024 IIHF World Championship",
+      "cutoff": 5,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1329918377 | table 5 | name: Team | value: Pos | order: asc",
+      "tags": [
+        "hockey",
+        "iihf",
+        "world-championship",
+        "2024"
+      ],
+      "answers": [
+        {
+          "answer": "Czechia",
+          "display": "#1",
+          "aliases": [
+            "Czech Republic"
+          ]
+        },
+        {
+          "answer": "Switzerland",
+          "display": "#2"
+        },
+        {
+          "answer": "Sweden",
+          "display": "#3"
+        },
+        {
+          "answer": "Canada",
+          "display": "#4"
+        },
+        {
+          "answer": "United States",
+          "display": "#5",
+          "aliases": [
+            "USA"
+          ]
+        },
+        {
+          "answer": "Germany",
+          "display": "#6"
+        },
+        {
+          "answer": "Slovakia",
+          "display": "#7"
+        },
+        {
+          "answer": "Finland",
+          "display": "#8"
+        }
+      ]
+    },
+    {
+      "category": "sports/hockey/iihf/world-championship",
+      "question": "Top 5 teams in the final ranking of the 2025 IIHF World Championship",
+      "cutoff": 5,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1360814625 | table 5 | name: Team | value: Pos | order: asc",
+      "tags": [
+        "hockey",
+        "iihf",
+        "world-championship",
+        "2025"
+      ],
+      "answers": [
+        {
+          "answer": "United States",
+          "display": "#1",
+          "aliases": [
+            "USA"
+          ]
+        },
+        {
+          "answer": "Switzerland",
+          "display": "#2"
+        },
+        {
+          "answer": "Sweden",
+          "display": "#3"
+        },
+        {
+          "answer": "Denmark",
+          "display": "#4"
+        },
+        {
+          "answer": "Canada",
+          "display": "#5"
+        },
+        {
+          "answer": "Czechia",
+          "display": "#6",
+          "aliases": [
+            "Czech Republic"
+          ]
+        },
+        {
+          "answer": "Finland",
+          "display": "#7"
+        },
+        {
+          "answer": "Austria",
+          "display": "#8"
+        }
+      ]
+    }
+  ]
+}

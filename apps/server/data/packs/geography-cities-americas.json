@@ -1,0 +1,459 @@
+{
+  "categories": [
+    {
+      "path": "geography/cities/americas",
+      "name": "Cities of the Americas"
+    }
+  ],
+  "questions": [
+    {
+      "category": "geography/cities/americas",
+      "difficulty": 1,
+      "question": "Top 10 largest cities in Canada by population (municipalities, 2021 census)",
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1377464122 | table 1 | name: Municipality | value: Population (2021)",
+      "tags": [
+        "geography",
+        "cities",
+        "population",
+        "canada"
+      ],
+      "answers": [
+        {
+          "answer": "Toronto",
+          "display": "2,794,356"
+        },
+        {
+          "answer": "Montreal",
+          "display": "1,762,949",
+          "aliases": [
+            "Montréal"
+          ]
+        },
+        {
+          "answer": "Calgary",
+          "display": "1,306,784"
+        },
+        {
+          "answer": "Ottawa",
+          "display": "1,017,449"
+        },
+        {
+          "answer": "Edmonton",
+          "display": "1,010,899"
+        },
+        {
+          "answer": "Winnipeg",
+          "display": "749,607"
+        },
+        {
+          "answer": "Mississauga",
+          "display": "717,961"
+        },
+        {
+          "answer": "Vancouver",
+          "display": "662,248"
+        },
+        {
+          "answer": "Brampton",
+          "display": "656,480"
+        },
+        {
+          "answer": "Hamilton",
+          "display": "569,353"
+        },
+        {
+          "answer": "Surrey",
+          "display": "568,322"
+        },
+        {
+          "answer": "Quebec City",
+          "display": "549,459",
+          "aliases": [
+            "Quebec",
+            "Québec City"
+          ]
+        },
+        {
+          "answer": "Halifax",
+          "display": "439,819"
+        }
+      ]
+    },
+    {
+      "category": "geography/cities/americas",
+      "difficulty": 1,
+      "question": "Top 10 largest cities in Mexico by population (city proper, 2020 census)",
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1376347638 | table 2 | name: City | value: 2020 Census",
+      "tags": [
+        "geography",
+        "cities",
+        "population",
+        "mexico"
+      ],
+      "answers": [
+        {
+          "answer": "Mexico City",
+          "display": "9,209,944",
+          "aliases": [
+            "cdmx",
+            "Ciudad de México"
+          ]
+        },
+        {
+          "answer": "Tijuana",
+          "display": "1,810,645"
+        },
+        {
+          "answer": "Ecatepec",
+          "display": "1,643,623"
+        },
+        {
+          "answer": "León",
+          "display": "1,579,803",
+          "aliases": [
+            "Leon"
+          ]
+        },
+        {
+          "answer": "Puebla",
+          "display": "1,542,232"
+        },
+        {
+          "answer": "Ciudad Juárez",
+          "display": "1,501,551",
+          "aliases": [
+            "Juárez"
+          ]
+        },
+        {
+          "answer": "Zapopan",
+          "display": "1,476,491"
+        },
+        {
+          "answer": "Guadalajara",
+          "display": "1,385,629"
+        },
+        {
+          "answer": "Monterrey",
+          "display": "1,142,952"
+        },
+        {
+          "answer": "Nezahualcóyotl",
+          "display": "1,072,676",
+          "aliases": [
+            "neza"
+          ]
+        },
+        {
+          "answer": "Chihuahua",
+          "display": "925,762"
+        },
+        {
+          "answer": "Mérida",
+          "display": "921,771",
+          "aliases": [
+            "Merida"
+          ]
+        },
+        {
+          "answer": "Naucalpan",
+          "display": "911,168"
+        }
+      ]
+    },
+    {
+      "category": "geography/cities/americas",
+      "difficulty": 1,
+      "question": "Top 10 largest cities in Colombia by population (city proper, 2018 estimate)",
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1369145655 | table 1 | name: City | value: 2018 estimate",
+      "tags": [
+        "geography",
+        "cities",
+        "population",
+        "colombia"
+      ],
+      "answers": [
+        {
+          "answer": "Bogotá",
+          "display": "8,181,047",
+          "aliases": [
+            "Bogota"
+          ]
+        },
+        {
+          "answer": "Medellín",
+          "display": "2,529,403",
+          "aliases": [
+            "Medellin"
+          ]
+        },
+        {
+          "answer": "Cali",
+          "display": "2,445,405"
+        },
+        {
+          "answer": "Barranquilla",
+          "display": "1,232,462"
+        },
+        {
+          "answer": "Cartagena",
+          "display": "1,036,134",
+          "aliases": [
+            "cartagena de indias"
+          ]
+        },
+        {
+          "answer": "Cúcuta",
+          "display": "668,838"
+        },
+        {
+          "answer": "Soledad",
+          "display": "666,247"
+        },
+        {
+          "answer": "Ibagué",
+          "display": "569,336"
+        },
+        {
+          "answer": "Soacha",
+          "display": "544,997"
+        },
+        {
+          "answer": "Bucaramanga",
+          "display": "528,610"
+        },
+        {
+          "answer": "Villavicencio",
+          "display": "516,831"
+        },
+        {
+          "answer": "Santa Marta",
+          "display": "507,455"
+        },
+        {
+          "answer": "Valledupar",
+          "display": "483,286"
+        }
+      ]
+    },
+    {
+      "category": "geography/cities/americas",
+      "difficulty": 1,
+      "question": "Top 10 largest cities in Peru by population (2025 projections)",
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1361342012 | table 1 | name: City | value: 2025",
+      "tags": [
+        "geography",
+        "cities",
+        "population",
+        "peru"
+      ],
+      "answers": [
+        {
+          "answer": "Lima",
+          "display": "10,353,700"
+        },
+        {
+          "answer": "Callao",
+          "display": "1,226,200"
+        },
+        {
+          "answer": "Arequipa",
+          "display": "1,195,700"
+        },
+        {
+          "answer": "Trujillo",
+          "display": "1,063,700"
+        },
+        {
+          "answer": "Chiclayo",
+          "display": "618,600"
+        },
+        {
+          "answer": "Piura",
+          "display": "598,200"
+        },
+        {
+          "answer": "Huancayo",
+          "display": "571,000"
+        },
+        {
+          "answer": "Cusco",
+          "display": "497,200",
+          "aliases": [
+            "cuzco"
+          ]
+        },
+        {
+          "answer": "Iquitos",
+          "display": "461,500"
+        },
+        {
+          "answer": "Pucallpa",
+          "display": "437,600"
+        },
+        {
+          "answer": "Chimbote",
+          "display": "413,800"
+        },
+        {
+          "answer": "Ica",
+          "display": "369,500"
+        },
+        {
+          "answer": "Juliaca",
+          "display": "347,800"
+        }
+      ]
+    },
+    {
+      "category": "geography/cities/americas",
+      "difficulty": 1,
+      "question": "Top 10 largest cities in Ecuador by population (2022 census)",
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1354695888 | table 1 | name: City | value: 2022 Census",
+      "tags": [
+        "geography",
+        "cities",
+        "population",
+        "ecuador"
+      ],
+      "answers": [
+        {
+          "answer": "Guayaquil",
+          "display": "2,650,288"
+        },
+        {
+          "answer": "Quito",
+          "display": "1,763,275"
+        },
+        {
+          "answer": "Cuenca",
+          "display": "361,524"
+        },
+        {
+          "answer": "Santo Domingo",
+          "display": "334,826",
+          "aliases": [
+            "santo domingo de los colorados"
+          ]
+        },
+        {
+          "answer": "Durán",
+          "display": "295,211"
+        },
+        {
+          "answer": "Machala",
+          "display": "288,072"
+        },
+        {
+          "answer": "Manta",
+          "display": "258,697"
+        },
+        {
+          "answer": "Calderón",
+          "display": "249,941"
+        },
+        {
+          "answer": "Portoviejo",
+          "display": "244,129"
+        },
+        {
+          "answer": "Loja",
+          "display": "203,496"
+        },
+        {
+          "answer": "Quevedo",
+          "display": "177,792"
+        },
+        {
+          "answer": "Ambato",
+          "display": "177,316"
+        },
+        {
+          "answer": "Riobamba",
+          "display": "177,213"
+        }
+      ]
+    },
+    {
+      "category": "geography/cities/americas",
+      "difficulty": 1,
+      "question": "Top 10 largest cities in Florida by population (incorporated municipalities, 2020 census)",
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1345316959 | table 2 | name: Place name | value: Population (2020) | header rows: 2",
+      "tags": [
+        "geography",
+        "cities",
+        "population",
+        "florida"
+      ],
+      "answers": [
+        {
+          "answer": "Jacksonville",
+          "display": "949,611",
+          "aliases": [
+            "jax"
+          ]
+        },
+        {
+          "answer": "Miami",
+          "display": "442,241"
+        },
+        {
+          "answer": "Tampa",
+          "display": "384,959"
+        },
+        {
+          "answer": "Orlando",
+          "display": "307,573"
+        },
+        {
+          "answer": "St. Petersburg",
+          "display": "258,308",
+          "aliases": [
+            "st pete"
+          ]
+        },
+        {
+          "answer": "Hialeah",
+          "display": "223,109"
+        },
+        {
+          "answer": "Port St. Lucie",
+          "display": "204,851"
+        },
+        {
+          "answer": "Tallahassee",
+          "display": "196,169"
+        },
+        {
+          "answer": "Cape Coral",
+          "display": "194,016"
+        },
+        {
+          "answer": "Fort Lauderdale",
+          "display": "182,760",
+          "aliases": [
+            "ft. lauderdale"
+          ]
+        },
+        {
+          "answer": "Pembroke Pines",
+          "display": "171,178"
+        },
+        {
+          "answer": "Hollywood",
+          "display": "153,067"
+        },
+        {
+          "answer": "Gainesville",
+          "display": "141,085"
+        }
+      ]
+    }
+  ]
+}

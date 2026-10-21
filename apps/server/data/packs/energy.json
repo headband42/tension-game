@@ -1,0 +1,890 @@
+{
+  "categories": [
+    {
+      "path": "economy/energy/coal",
+      "name": "Coal"
+    },
+    {
+      "path": "economy/energy/oil",
+      "name": "Oil"
+    },
+    {
+      "path": "economy/energy/gas",
+      "name": "Natural Gas"
+    },
+    {
+      "path": "economy/energy/electricity",
+      "name": "Electricity"
+    },
+    {
+      "path": "economy/energy/renewables",
+      "name": "Renewables"
+    },
+    {
+      "path": "economy/energy/emissions",
+      "name": "CO2 Emissions"
+    }
+  ],
+  "questions": [
+    {
+      "category": "economy/energy/coal",
+      "difficulty": 1,
+      "question": "Top 10 countries by coal production (2024)",
+      "tags": [
+        "economy",
+        "energy",
+        "coal"
+      ],
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1353656961 | table 1 | name: Country | value: 2024 | where: Country!~^World$",
+      "answers": [
+        {
+          "answer": "China",
+          "display": "4,402.5 million tonnes"
+        },
+        {
+          "answer": "India",
+          "display": "1,012.9 million tonnes"
+        },
+        {
+          "answer": "Indonesia",
+          "display": "836.0 million tonnes"
+        },
+        {
+          "answer": "Russia",
+          "display": "476.2 million tonnes",
+          "aliases": [
+            "Russian Federation"
+          ]
+        },
+        {
+          "answer": "Australia",
+          "display": "467.7 million tonnes"
+        },
+        {
+          "answer": "United States",
+          "display": "464.9 million tonnes",
+          "aliases": [
+            "USA",
+            "US",
+            "America"
+          ]
+        },
+        {
+          "answer": "South Africa",
+          "display": "237.4 million tonnes"
+        },
+        {
+          "answer": "Kazakhstan",
+          "display": "112.9 million tonnes"
+        },
+        {
+          "answer": "Germany",
+          "display": "91.9 million tonnes"
+        },
+        {
+          "answer": "Poland",
+          "display": "85.2 million tonnes"
+        },
+        {
+          "answer": "Mongolia",
+          "display": "82.6 million tonnes"
+        },
+        {
+          "answer": "Turkey",
+          "display": "78.9 million tonnes",
+          "aliases": [
+            "Türkiye",
+            "Turkiye"
+          ]
+        },
+        {
+          "answer": "Colombia",
+          "display": "58.1 million tonnes"
+        },
+        {
+          "answer": "Canada",
+          "display": "48.6 million tonnes"
+        }
+      ],
+      "submitter": "claude"
+    },
+    {
+      "category": "economy/energy/oil",
+      "difficulty": 3,
+      "question": "Top 10 crude oil producers outside North America (January 2026)",
+      "tags": [
+        "economy",
+        "energy",
+        "oil"
+      ],
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1379000976 | table 1 | name: Country | value: January 2026 | where: Country!~^World | where: Continent!~North America",
+      "answers": [
+        {
+          "answer": "Saudi Arabia",
+          "display": "10,110 thousand bbl/day",
+          "aliases": [
+            "Saudi"
+          ]
+        },
+        {
+          "answer": "Russia",
+          "display": "10,027 thousand bbl/day",
+          "aliases": [
+            "Russian Federation"
+          ]
+        },
+        {
+          "answer": "China",
+          "display": "4,420 thousand bbl/day"
+        },
+        {
+          "answer": "Iraq",
+          "display": "4,391 thousand bbl/day"
+        },
+        {
+          "answer": "Iran",
+          "display": "4,030 thousand bbl/day",
+          "aliases": [
+            "Persia"
+          ]
+        },
+        {
+          "answer": "United Arab Emirates",
+          "display": "4,010 thousand bbl/day",
+          "aliases": [
+            "UAE"
+          ]
+        },
+        {
+          "answer": "Brazil",
+          "display": "3,953 thousand bbl/day"
+        },
+        {
+          "answer": "Kuwait",
+          "display": "2,660 thousand bbl/day"
+        },
+        {
+          "answer": "Norway",
+          "display": "1,994 thousand bbl/day"
+        },
+        {
+          "answer": "Nigeria",
+          "display": "1,548 thousand bbl/day"
+        },
+        {
+          "answer": "Libya",
+          "display": "1,398 thousand bbl/day"
+        },
+        {
+          "answer": "Kazakhstan",
+          "display": "1,280 thousand bbl/day"
+        },
+        {
+          "answer": "Qatar",
+          "display": "1,275 thousand bbl/day"
+        },
+        {
+          "answer": "Algeria",
+          "display": "1,170 thousand bbl/day"
+        }
+      ],
+      "submitter": "claude"
+    },
+    {
+      "category": "economy/energy/gas",
+      "difficulty": 2,
+      "question": "Top 10 countries by natural gas production (2025)",
+      "tags": [
+        "economy",
+        "energy",
+        "gas"
+      ],
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1365992966 | table 1 | name: Country | value: 2025 | where: Country!~^World",
+      "answers": [
+        {
+          "answer": "United States",
+          "display": "1,116,097 million m³",
+          "aliases": [
+            "USA",
+            "US",
+            "America"
+          ]
+        },
+        {
+          "answer": "Russia",
+          "display": "624,737 million m³",
+          "aliases": [
+            "Russian Federation"
+          ]
+        },
+        {
+          "answer": "Iran",
+          "display": "280,387 million m³",
+          "aliases": [
+            "Persia"
+          ]
+        },
+        {
+          "answer": "China",
+          "display": "255,825 million m³"
+        },
+        {
+          "answer": "Canada",
+          "display": "218,452 million m³"
+        },
+        {
+          "answer": "Qatar",
+          "display": "212,204 million m³"
+        },
+        {
+          "answer": "Australia",
+          "display": "156,919 million m³"
+        },
+        {
+          "answer": "Norway",
+          "display": "125,047 million m³"
+        },
+        {
+          "answer": "Saudi Arabia",
+          "display": "111,376 million m³",
+          "aliases": [
+            "Saudi"
+          ]
+        },
+        {
+          "answer": "Algeria",
+          "display": "104,688 million m³"
+        },
+        {
+          "answer": "Turkmenistan",
+          "display": "95,774 million m³"
+        },
+        {
+          "answer": "Malaysia",
+          "display": "81,059 million m³"
+        },
+        {
+          "answer": "Brazil",
+          "display": "65,422 million m³"
+        },
+        {
+          "answer": "Indonesia",
+          "display": "65,098 million m³"
+        }
+      ],
+      "submitter": "claude"
+    },
+    {
+      "category": "economy/energy/gas",
+      "difficulty": 3,
+      "question": "Top 10 countries by natural gas proven reserves (U.S. EIA, 2021)",
+      "tags": [
+        "economy",
+        "energy",
+        "gas",
+        "reserves"
+      ],
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1367322361 | table 1 | name: Country | value: U.S. EIA | where: Country!~^World",
+      "answers": [
+        {
+          "answer": "Russia",
+          "display": "47,800 billion m³",
+          "aliases": [
+            "Russian Federation"
+          ]
+        },
+        {
+          "answer": "Iran",
+          "display": "34,000 billion m³",
+          "aliases": [
+            "Persia"
+          ]
+        },
+        {
+          "answer": "Qatar",
+          "display": "23,900 billion m³"
+        },
+        {
+          "answer": "United States",
+          "display": "17,710 billion m³",
+          "aliases": [
+            "USA",
+            "US",
+            "America"
+          ]
+        },
+        {
+          "answer": "Turkmenistan",
+          "display": "10,000 billion m³"
+        },
+        {
+          "answer": "Saudi Arabia",
+          "display": "9,430 billion m³",
+          "aliases": [
+            "Saudi"
+          ]
+        },
+        {
+          "answer": "China",
+          "display": "6,650 billion m³"
+        },
+        {
+          "answer": "United Arab Emirates",
+          "display": "6,090 billion m³",
+          "aliases": [
+            "UAE"
+          ]
+        },
+        {
+          "answer": "Venezuela",
+          "display": "6,000 billion m³"
+        },
+        {
+          "answer": "Nigeria",
+          "display": "5,750 billion m³"
+        },
+        {
+          "answer": "Algeria",
+          "display": "4,500 billion m³"
+        },
+        {
+          "answer": "Iraq",
+          "display": "3,740 billion m³"
+        },
+        {
+          "answer": "Australia",
+          "display": "3,230 billion m³"
+        },
+        {
+          "answer": "Mozambique",
+          "display": "3,000 billion m³"
+        }
+      ],
+      "submitter": "claude"
+    },
+    {
+      "category": "economy/energy/oil",
+      "difficulty": 2,
+      "question": "Top 10 countries by proven oil reserves (U.S. EIA, 2025)",
+      "tags": [
+        "economy",
+        "energy",
+        "oil",
+        "reserves"
+      ],
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1373322550 | table 2 | name: Country | value: U.S. EIA | where: Country!~^World",
+      "answers": [
+        {
+          "answer": "Venezuela",
+          "display": "304,000 million barrels"
+        },
+        {
+          "answer": "Saudi Arabia",
+          "display": "267,000 million barrels",
+          "aliases": [
+            "Saudi"
+          ]
+        },
+        {
+          "answer": "Iran",
+          "display": "209,000 million barrels",
+          "aliases": [
+            "Persia"
+          ]
+        },
+        {
+          "answer": "Canada",
+          "display": "170,000 million barrels"
+        },
+        {
+          "answer": "Iraq",
+          "display": "145,000 million barrels"
+        },
+        {
+          "answer": "United Arab Emirates",
+          "display": "113,000 million barrels",
+          "aliases": [
+            "UAE"
+          ]
+        },
+        {
+          "answer": "Kuwait",
+          "display": "102,000 million barrels"
+        },
+        {
+          "answer": "United States",
+          "display": "74,000 million barrels",
+          "aliases": [
+            "USA",
+            "US",
+            "America"
+          ]
+        },
+        {
+          "answer": "Russia",
+          "display": "58,000 million barrels",
+          "aliases": [
+            "Russian Federation"
+          ]
+        },
+        {
+          "answer": "Libya",
+          "display": "50,000 million barrels"
+        },
+        {
+          "answer": "Nigeria",
+          "display": "37,000 million barrels"
+        },
+        {
+          "answer": "Kazakhstan",
+          "display": "30,000 million barrels"
+        },
+        {
+          "answer": "China",
+          "display": "26,000 million barrels"
+        },
+        {
+          "answer": "Qatar",
+          "display": "25,000 million barrels"
+        }
+      ],
+      "submitter": "claude"
+    },
+    {
+      "category": "economy/energy/electricity",
+      "difficulty": 2,
+      "question": "Top 10 countries by total electricity generation (latest figures)",
+      "tags": [
+        "economy",
+        "energy",
+        "electricity"
+      ],
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1376621083 | table 1 | name: Location | value: Total (TWh) | where: Location!~^World$",
+      "answers": [
+        {
+          "answer": "China",
+          "display": "10,579.7 TWh"
+        },
+        {
+          "answer": "United States",
+          "display": "4,519.8 TWh",
+          "aliases": [
+            "USA",
+            "US",
+            "America"
+          ]
+        },
+        {
+          "answer": "India",
+          "display": "2,081.6 TWh"
+        },
+        {
+          "answer": "Russia",
+          "display": "1,192.8 TWh",
+          "aliases": [
+            "Russian Federation"
+          ]
+        },
+        {
+          "answer": "Japan",
+          "display": "1,029.9 TWh"
+        },
+        {
+          "answer": "Brazil",
+          "display": "750.5 TWh"
+        },
+        {
+          "answer": "Canada",
+          "display": "652.4 TWh"
+        },
+        {
+          "answer": "South Korea",
+          "display": "624.7 TWh",
+          "aliases": [
+            "Korea"
+          ]
+        },
+        {
+          "answer": "France",
+          "display": "570.2 TWh"
+        },
+        {
+          "answer": "Germany",
+          "display": "500.5 TWh"
+        },
+        {
+          "answer": "Saudi Arabia",
+          "display": "454.6 TWh",
+          "aliases": [
+            "Saudi"
+          ]
+        },
+        {
+          "answer": "Iran",
+          "display": "395.8 TWh",
+          "aliases": [
+            "Persia"
+          ]
+        },
+        {
+          "answer": "Indonesia",
+          "display": "371.5 TWh"
+        },
+        {
+          "answer": "Mexico",
+          "display": "357.0 TWh"
+        }
+      ],
+      "submitter": "claude"
+    },
+    {
+      "category": "economy/energy/renewables",
+      "difficulty": 3,
+      "question": "Top 10 countries by hydroelectric generation (latest figures)",
+      "tags": [
+        "economy",
+        "energy",
+        "renewables",
+        "hydro"
+      ],
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1375972968 | table 1 | name: Location | value: Hydro | where: Location!~^World$",
+      "answers": [
+        {
+          "answer": "China",
+          "display": "1,395.7 TWh"
+        },
+        {
+          "answer": "Brazil",
+          "display": "388.6 TWh"
+        },
+        {
+          "answer": "Canada",
+          "display": "344.7 TWh"
+        },
+        {
+          "answer": "United States",
+          "display": "241.7 TWh",
+          "aliases": [
+            "USA",
+            "US",
+            "America"
+          ]
+        },
+        {
+          "answer": "Russia",
+          "display": "199.7 TWh",
+          "aliases": [
+            "Russian Federation"
+          ]
+        },
+        {
+          "answer": "India",
+          "display": "178.0 TWh"
+        },
+        {
+          "answer": "Norway",
+          "display": "144.8 TWh"
+        },
+        {
+          "answer": "Vietnam",
+          "display": "102.4 TWh"
+        },
+        {
+          "answer": "Japan",
+          "display": "73.9 TWh"
+        },
+        {
+          "answer": "Venezuela",
+          "display": "73.0 TWh"
+        },
+        {
+          "answer": "Sweden",
+          "display": "68.2 TWh"
+        },
+        {
+          "answer": "Colombia",
+          "display": "62.5 TWh"
+        },
+        {
+          "answer": "France",
+          "display": "59.4 TWh"
+        },
+        {
+          "answer": "Turkey",
+          "display": "57.3 TWh",
+          "aliases": [
+            "Türkiye",
+            "Turkiye"
+          ]
+        }
+      ],
+      "submitter": "claude"
+    },
+    {
+      "category": "economy/energy/renewables",
+      "difficulty": 3,
+      "question": "Top 10 countries by wind electricity generation (2025)",
+      "tags": [
+        "economy",
+        "energy",
+        "renewables",
+        "wind"
+      ],
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1375972968 | table 1 | name: Location | value: Wind | where: Location!~^World$",
+      "answers": [
+        {
+          "answer": "China",
+          "display": "1,135.4 TWh"
+        },
+        {
+          "answer": "United States",
+          "display": "464.4 TWh",
+          "aliases": [
+            "USA",
+            "US",
+            "America"
+          ]
+        },
+        {
+          "answer": "Germany",
+          "display": "136.0 TWh"
+        },
+        {
+          "answer": "Brazil",
+          "display": "117.6 TWh"
+        },
+        {
+          "answer": "India",
+          "display": "104.0 TWh"
+        },
+        {
+          "answer": "United Kingdom",
+          "display": "85.8 TWh",
+          "aliases": [
+            "UK",
+            "Britain",
+            "Great Britain"
+          ]
+        },
+        {
+          "answer": "Spain",
+          "display": "58.8 TWh"
+        },
+        {
+          "answer": "Canada",
+          "display": "51.5 TWh"
+        },
+        {
+          "answer": "France",
+          "display": "46.5 TWh"
+        },
+        {
+          "answer": "Turkey",
+          "display": "39.4 TWh",
+          "aliases": [
+            "Türkiye",
+            "Turkiye"
+          ]
+        },
+        {
+          "answer": "Australia",
+          "display": "39.2 TWh"
+        },
+        {
+          "answer": "Sweden",
+          "display": "38.9 TWh"
+        },
+        {
+          "answer": "Netherlands",
+          "display": "33.7 TWh",
+          "aliases": [
+            "Holland"
+          ]
+        },
+        {
+          "answer": "Poland",
+          "display": "24.6 TWh"
+        }
+      ],
+      "submitter": "claude"
+    },
+    {
+      "category": "economy/energy/renewables",
+      "difficulty": 3,
+      "question": "Top 10 countries by installed solar PV capacity (2025)",
+      "tags": [
+        "economy",
+        "energy",
+        "renewables",
+        "solar"
+      ],
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1374625404 | table 1 | name: Country | value: Cap. (GW) | where: Country!~^World$",
+      "answers": [
+        {
+          "answer": "China",
+          "display": "1,202.2 GW"
+        },
+        {
+          "answer": "United States",
+          "display": "211.6 GW",
+          "aliases": [
+            "USA",
+            "US",
+            "America"
+          ]
+        },
+        {
+          "answer": "India",
+          "display": "135.5 GW"
+        },
+        {
+          "answer": "Germany",
+          "display": "106.3 GW"
+        },
+        {
+          "answer": "Japan",
+          "display": "92.2 GW"
+        },
+        {
+          "answer": "Brazil",
+          "display": "64.7 GW"
+        },
+        {
+          "answer": "Spain",
+          "display": "47.2 GW"
+        },
+        {
+          "answer": "Italy",
+          "display": "41.2 GW"
+        },
+        {
+          "answer": "Australia",
+          "display": "41.1 GW"
+        },
+        {
+          "answer": "France",
+          "display": "31.2 GW"
+        },
+        {
+          "answer": "South Korea",
+          "display": "30.4 GW",
+          "aliases": [
+            "Korea"
+          ]
+        },
+        {
+          "answer": "Netherlands",
+          "display": "25.9 GW",
+          "aliases": [
+            "Holland"
+          ]
+        },
+        {
+          "answer": "Turkey",
+          "display": "25.5 GW",
+          "aliases": [
+            "Türkiye",
+            "Turkiye"
+          ]
+        },
+        {
+          "answer": "Poland",
+          "display": "25.4 GW"
+        }
+      ],
+      "submitter": "claude"
+    },
+    {
+      "category": "economy/energy/emissions",
+      "difficulty": 2,
+      "question": "Top 10 countries by fossil CO2 emissions (2023)",
+      "tags": [
+        "economy",
+        "energy",
+        "emissions",
+        "co2"
+      ],
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1369383742 | table 1 | name: Location | value: 2023 | header rows: 2 | where: Location!~^World$ | where: Location!~European Union|International|Italy, San|France and|Spain and",
+      "answers": [
+        {
+          "answer": "China",
+          "display": "13,260 million tons"
+        },
+        {
+          "answer": "United States",
+          "display": "4,682 million tons",
+          "aliases": [
+            "USA",
+            "US",
+            "America"
+          ]
+        },
+        {
+          "answer": "India",
+          "display": "2,955 million tons"
+        },
+        {
+          "answer": "Russia",
+          "display": "2,070 million tons",
+          "aliases": [
+            "Russian Federation"
+          ]
+        },
+        {
+          "answer": "Japan",
+          "display": "945 million tons"
+        },
+        {
+          "answer": "Iran",
+          "display": "779 million tons",
+          "aliases": [
+            "Persia"
+          ]
+        },
+        {
+          "answer": "Indonesia",
+          "display": "675 million tons"
+        },
+        {
+          "answer": "Saudi Arabia",
+          "display": "623 million tons",
+          "aliases": [
+            "Saudi"
+          ]
+        },
+        {
+          "answer": "Germany",
+          "display": "583 million tons"
+        },
+        {
+          "answer": "Canada",
+          "display": "575 million tons"
+        },
+        {
+          "answer": "South Korea",
+          "display": "574 million tons",
+          "aliases": [
+            "Korea"
+          ]
+        },
+        {
+          "answer": "Mexico",
+          "display": "487 million tons"
+        },
+        {
+          "answer": "Brazil",
+          "display": "480 million tons"
+        },
+        {
+          "answer": "Turkey",
+          "display": "438 million tons",
+          "aliases": [
+            "Türkiye",
+            "Turkiye"
+          ]
+        }
+      ],
+      "submitter": "claude"
+    }
+  ]
+}

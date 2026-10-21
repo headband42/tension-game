@@ -1,0 +1,741 @@
+{
+  "categories": [
+    {
+      "path": "history",
+      "name": "History"
+    },
+    {
+      "path": "history/uk",
+      "name": "UK"
+    },
+    {
+      "path": "history/uk/prime-ministers",
+      "name": "Prime Ministers"
+    },
+    {
+      "path": "history/uk/elections",
+      "name": "Elections"
+    },
+    {
+      "path": "history/uk/counties",
+      "name": "Counties"
+    },
+    {
+      "path": "history/uk/parties",
+      "name": "Parties"
+    }
+  ],
+  "questions": [
+    {
+      "category": "history/uk/prime-ministers",
+      "question": "Top 10 longest single premierships in UK history (as of 2026)",
+      "cutoff": 10,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1378424861 | table 1 | name: Lifespan | value: Duration | header rows: 2 | where: Term of office / Start~^(3 April 1721|19 December 1783|8 June 1812|28 January 1770|4 May 1979|27 August 1743|2 May 1997|8 April 1908|25 June 1895|10 January 1957|28 November 1990|18 April 1835|26 July 1945|11 May 2010|20 February 1874)$",
+      "tags": [
+        "history",
+        "uk",
+        "prime-ministers"
+      ],
+      "answers": [
+        {
+          "answer": "Robert Walpole",
+          "display": "20 years, 315 days",
+          "aliases": [
+            "Walpole",
+            "Sir Robert Walpole"
+          ]
+        },
+        {
+          "answer": "William Pitt the Younger",
+          "display": "17 years, 86 days",
+          "aliases": [
+            "Pitt the Younger",
+            "Pitt"
+          ]
+        },
+        {
+          "answer": "Lord Liverpool",
+          "display": "14 years, 306 days",
+          "aliases": [
+            "Liverpool",
+            "Robert Jenkinson",
+            "Earl of Liverpool"
+          ]
+        },
+        {
+          "answer": "Lord North",
+          "display": "12 years, 59 days",
+          "aliases": [
+            "North",
+            "Frederick North"
+          ]
+        },
+        {
+          "answer": "Margaret Thatcher",
+          "display": "11 years, 209 days",
+          "aliases": [
+            "Maggie Thatcher",
+            "Thatcher"
+          ]
+        },
+        {
+          "answer": "Henry Pelham",
+          "display": "10 years, 192 days",
+          "aliases": [
+            "Pelham"
+          ]
+        },
+        {
+          "answer": "Tony Blair",
+          "display": "10 years, 57 days",
+          "aliases": [
+            "Blair"
+          ]
+        },
+        {
+          "answer": "H. H. Asquith",
+          "display": "8 years, 243 days",
+          "aliases": [
+            "Herbert Asquith",
+            "Asquith"
+          ]
+        },
+        {
+          "answer": "Lord Salisbury",
+          "display": "7 years, 17 days",
+          "aliases": [
+            "Salisbury",
+            "Marquess of Salisbury",
+            "Robert Gascoyne-Cecil"
+          ]
+        },
+        {
+          "answer": "Harold Macmillan",
+          "display": "6 years, 282 days",
+          "aliases": [
+            "Macmillan"
+          ]
+        },
+        {
+          "answer": "John Major",
+          "display": "6 years, 156 days",
+          "aliases": [
+            "Major"
+          ]
+        },
+        {
+          "answer": "Lord Melbourne",
+          "display": "6 years, 135 days",
+          "aliases": [
+            "Melbourne",
+            "William Lamb"
+          ]
+        },
+        {
+          "answer": "Clement Attlee",
+          "display": "6 years, 93 days",
+          "aliases": [
+            "Attlee"
+          ]
+        },
+        {
+          "answer": "David Cameron",
+          "display": "6 years, 64 days",
+          "aliases": [
+            "Cameron"
+          ]
+        },
+        {
+          "answer": "Benjamin Disraeli",
+          "display": "6 years, 62 days",
+          "aliases": [
+            "Disraeli"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "history/uk/prime-ministers",
+      "question": "Top 10 shortest completed single UK premierships (as of 2026)",
+      "cutoff": 10,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1378424861 | table 1 | name: Lifespan | value: Duration | header rows: 2 | where: End!~Incumbent | where: Term of office / Start~^(17 November 1834|6 September 2022|27 March 1782|12 April 1827|10 December 1834|16 July 1834|31 August 1827|1 February 1886|23 October 1922|23 June 1885|16 November 1756|29 October 1865|22 May 1923|2 April 1783|4 July 1782)$ | order: asc",
+      "tags": [
+        "history",
+        "uk",
+        "prime-ministers"
+      ],
+      "answers": [
+        {
+          "answer": "Arthur Wellesley",
+          "display": "23 days",
+          "aliases": [
+            "Duke of Wellington",
+            "Wellington"
+          ]
+        },
+        {
+          "answer": "Liz Truss",
+          "display": "50 days",
+          "aliases": [
+            "Truss"
+          ]
+        },
+        {
+          "answer": "Marquess of Rockingham",
+          "display": "97 days",
+          "aliases": [
+            "Lord Rockingham",
+            "Rockingham",
+            "Charles Watson-Wentworth"
+          ]
+        },
+        {
+          "answer": "George Canning",
+          "display": "119 days",
+          "aliases": [
+            "Canning"
+          ]
+        },
+        {
+          "answer": "Robert Peel",
+          "display": "120 days",
+          "aliases": [
+            "Sir Robert Peel",
+            "Peel"
+          ]
+        },
+        {
+          "answer": "Lord Melbourne",
+          "display": "122 days",
+          "aliases": [
+            "Melbourne",
+            "William Lamb"
+          ]
+        },
+        {
+          "answer": "Viscount Goderich",
+          "display": "131 days",
+          "aliases": [
+            "Goderich",
+            "Lord Goderich",
+            "Frederick John Robinson"
+          ]
+        },
+        {
+          "answer": "William Ewart Gladstone",
+          "display": "170 days",
+          "aliases": [
+            "Gladstone",
+            "W. E. Gladstone"
+          ]
+        },
+        {
+          "answer": "Bonar Law",
+          "display": "210 days",
+          "aliases": [
+            "Andrew Bonar Law"
+          ]
+        },
+        {
+          "answer": "Lord Salisbury",
+          "display": "220 days",
+          "aliases": [
+            "Salisbury",
+            "Marquess of Salisbury",
+            "Robert Gascoyne-Cecil"
+          ]
+        },
+        {
+          "answer": "Duke of Devonshire",
+          "display": "226 days",
+          "aliases": [
+            "Devonshire",
+            "William Cavendish",
+            "4th Duke of Devonshire"
+          ]
+        },
+        {
+          "answer": "Lord John Russell",
+          "display": "241 days",
+          "aliases": [
+            "John Russell",
+            "Russell"
+          ]
+        },
+        {
+          "answer": "Stanley Baldwin",
+          "display": "246 days",
+          "aliases": [
+            "Baldwin"
+          ]
+        },
+        {
+          "answer": "Duke of Portland",
+          "display": "261 days",
+          "aliases": [
+            "William Cavendish-Bentinck",
+            "3rd Duke of Portland",
+            "Portland"
+          ]
+        },
+        {
+          "answer": "Earl of Shelburne",
+          "display": "266 days",
+          "aliases": [
+            "Lord Shelburne",
+            "William Petty",
+            "Shelburne"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "history/uk/counties",
+      "question": "Top 10 English ceremonial counties by population (2024)",
+      "cutoff": 10,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1376465486 | table 1 | name: Location | value: Population (2024) | header rows: 2",
+      "tags": [
+        "history",
+        "uk",
+        "counties"
+      ],
+      "answers": [
+        {
+          "answer": "Greater London",
+          "display": "9,074,625 people",
+          "aliases": [
+            "London"
+          ]
+        },
+        {
+          "answer": "West Midlands",
+          "display": "3,036,605 people"
+        },
+        {
+          "answer": "Greater Manchester",
+          "display": "3,009,664 people"
+        },
+        {
+          "answer": "West Yorkshire",
+          "display": "2,435,236 people"
+        },
+        {
+          "answer": "Kent",
+          "display": "1,931,684 people"
+        },
+        {
+          "answer": "Essex",
+          "display": "1,929,610 people"
+        },
+        {
+          "answer": "Hampshire",
+          "display": "1,920,959 people"
+        },
+        {
+          "answer": "Lancashire",
+          "display": "1,601,645 people"
+        },
+        {
+          "answer": "Merseyside",
+          "display": "1,475,541 people"
+        },
+        {
+          "answer": "South Yorkshire",
+          "display": "1,430,623 people"
+        },
+        {
+          "answer": "Devon",
+          "display": "1,254,506 people"
+        },
+        {
+          "answer": "Surrey",
+          "display": "1,248,649 people"
+        },
+        {
+          "answer": "Hertfordshire",
+          "display": "1,236,191 people"
+        },
+        {
+          "answer": "North Yorkshire",
+          "display": "1,201,415 people"
+        },
+        {
+          "answer": "Nottinghamshire",
+          "display": "1,188,090 people"
+        }
+      ]
+    },
+    {
+      "category": "history/uk/counties",
+      "question": "Top 10 English ceremonial counties by land area",
+      "cutoff": 10,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1376465486 | table 1 | name: Location | value: (km2) | header rows: 2",
+      "tags": [
+        "history",
+        "uk",
+        "counties"
+      ],
+      "answers": [
+        {
+          "answer": "North Yorkshire",
+          "display": "8,654 km²"
+        },
+        {
+          "answer": "Lincolnshire",
+          "display": "6,976 km²"
+        },
+        {
+          "answer": "Cumbria",
+          "display": "6,768 km²"
+        },
+        {
+          "answer": "Devon",
+          "display": "6,707 km²"
+        },
+        {
+          "answer": "Norfolk",
+          "display": "5,384 km²"
+        },
+        {
+          "answer": "Northumberland",
+          "display": "5,020 km²"
+        },
+        {
+          "answer": "Somerset",
+          "display": "4,170 km²"
+        },
+        {
+          "answer": "Suffolk",
+          "display": "3,800 km²"
+        },
+        {
+          "answer": "Hampshire",
+          "display": "3,769 km²"
+        },
+        {
+          "answer": "Kent",
+          "display": "3,738 km²"
+        },
+        {
+          "answer": "Essex",
+          "display": "3,664 km²"
+        },
+        {
+          "answer": "Cornwall",
+          "display": "3,562 km²"
+        },
+        {
+          "answer": "Shropshire",
+          "display": "3,488 km²"
+        },
+        {
+          "answer": "Wiltshire",
+          "display": "3,485 km²"
+        },
+        {
+          "answer": "Cambridgeshire",
+          "display": "3,390 km²"
+        }
+      ]
+    },
+    {
+      "category": "history/uk/parties",
+      "question": "Top 10 UK parties by votes at the 2024 general election",
+      "cutoff": 10,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1379179053 | table 17 | name: 2 | value: 10 | header rows: 2 | where: 2!~^(Independents?|Total|Registered|Blank)",
+      "tags": [
+        "history",
+        "uk",
+        "parties"
+      ],
+      "answers": [
+        {
+          "answer": "Labour",
+          "display": "9,708,716 votes",
+          "aliases": [
+            "Labour Party"
+          ]
+        },
+        {
+          "answer": "Conservatives",
+          "display": "6,828,925 votes",
+          "aliases": [
+            "Conservative",
+            "Conservative Party",
+            "Tories"
+          ]
+        },
+        {
+          "answer": "Reform UK",
+          "display": "4,117,620 votes",
+          "aliases": [
+            "Reform"
+          ]
+        },
+        {
+          "answer": "Liberal Democrats",
+          "display": "3,519,143 votes",
+          "aliases": [
+            "Lib Dems"
+          ]
+        },
+        {
+          "answer": "Green Party",
+          "display": "1,841,888 votes",
+          "aliases": [
+            "Greens",
+            "Green Party of England and Wales"
+          ]
+        },
+        {
+          "answer": "SNP",
+          "display": "724,758 votes",
+          "aliases": [
+            "Scottish National Party"
+          ]
+        },
+        {
+          "answer": "Sinn Féin",
+          "display": "210,891 votes",
+          "aliases": [
+            "Sinn Fein"
+          ]
+        },
+        {
+          "answer": "Workers Party",
+          "display": "210,194 votes",
+          "aliases": [
+            "Workers Party of Britain"
+          ]
+        },
+        {
+          "answer": "Plaid Cymru",
+          "display": "194,811 votes"
+        },
+        {
+          "answer": "DUP",
+          "display": "172,058 votes",
+          "aliases": [
+            "Democratic Unionist",
+            "Democratic Unionist Party"
+          ]
+        },
+        {
+          "answer": "Alliance Party",
+          "display": "117,191 votes",
+          "aliases": [
+            "Alliance"
+          ]
+        },
+        {
+          "answer": "UUP",
+          "display": "94,779 votes",
+          "aliases": [
+            "Ulster Unionist",
+            "Ulster Unionist Party"
+          ]
+        },
+        {
+          "answer": "Scottish Greens",
+          "display": "92,685 votes"
+        },
+        {
+          "answer": "SDLP",
+          "display": "86,861 votes",
+          "aliases": [
+            "Social Democratic & Labour",
+            "Social Democratic and Labour Party"
+          ]
+        },
+        {
+          "answer": "TUV",
+          "display": "48,685 votes",
+          "aliases": [
+            "Traditional Unionist Voice"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "history/uk/parties",
+      "question": "Top 7 UK parties by seats won at the 1997 general election",
+      "cutoff": 7,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1377424110 | table 3 | name: 2 | value: 5 | header rows: 2 | where: 2!~^(Independent|Speaker|Ind) | where: 5!~^0$",
+      "tags": [
+        "history",
+        "uk",
+        "parties"
+      ],
+      "answers": [
+        {
+          "answer": "Labour",
+          "display": "418 seats",
+          "aliases": [
+            "Labour Party"
+          ]
+        },
+        {
+          "answer": "Conservatives",
+          "display": "165 seats",
+          "aliases": [
+            "Conservative",
+            "Conservative Party",
+            "Tories"
+          ]
+        },
+        {
+          "answer": "Liberal Democrats",
+          "display": "46 seats",
+          "aliases": [
+            "Lib Dems"
+          ]
+        },
+        {
+          "answer": "UUP",
+          "display": "10 seats",
+          "aliases": [
+            "Ulster Unionist",
+            "Ulster Unionist Party"
+          ]
+        },
+        {
+          "answer": "SNP",
+          "display": "6 seats",
+          "aliases": [
+            "Scottish National Party"
+          ]
+        },
+        {
+          "answer": "Plaid Cymru",
+          "display": "4 seats"
+        },
+        {
+          "answer": "SDLP",
+          "display": "3 seats",
+          "aliases": [
+            "Social Democratic and Labour Party"
+          ]
+        },
+        {
+          "answer": "Sinn Féin",
+          "display": "2 seats",
+          "aliases": [
+            "Sinn Fein"
+          ]
+        },
+        {
+          "answer": "DUP",
+          "display": "2 seats",
+          "aliases": [
+            "Democratic Unionist",
+            "Democratic Unionist Party"
+          ]
+        },
+        {
+          "answer": "UK Unionist",
+          "display": "1 seat",
+          "aliases": [
+            "UK Unionist Party"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "history/uk/elections",
+      "question": "Top 7 UK general elections from 1906 to 1997 by Commons seat majority",
+      "cutoff": 7,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1379240486 | table 2 | name: Election | value: Seat majority | where: Prime Minister appointed by Monarch (during term)!~^\\( | where: Election~^[0-9]{4} \\(MPs\\)",
+      "tags": [
+        "history",
+        "uk",
+        "elections"
+      ],
+      "answers": [
+        {
+          "answer": "1931 general election",
+          "display": "492 seats",
+          "aliases": [
+            "1931"
+          ]
+        },
+        {
+          "answer": "1935 general election",
+          "display": "242 seats",
+          "aliases": [
+            "1935"
+          ]
+        },
+        {
+          "answer": "1918 general election",
+          "display": "238 seats",
+          "aliases": [
+            "1918"
+          ]
+        },
+        {
+          "answer": "1924 general election",
+          "display": "210 seats",
+          "aliases": [
+            "1924"
+          ]
+        },
+        {
+          "answer": "1997 general election",
+          "display": "179 seats",
+          "aliases": [
+            "1997"
+          ]
+        },
+        {
+          "answer": "1945 general election",
+          "display": "146 seats",
+          "aliases": [
+            "1945"
+          ]
+        },
+        {
+          "answer": "1983 general election",
+          "display": "144 seats",
+          "aliases": [
+            "1983"
+          ]
+        },
+        {
+          "answer": "1906 general election",
+          "display": "124 seats",
+          "aliases": [
+            "1906"
+          ]
+        },
+        {
+          "answer": "1987 general election",
+          "display": "102 seats",
+          "aliases": [
+            "1987"
+          ]
+        },
+        {
+          "answer": "1959 general election",
+          "display": "100 seats",
+          "aliases": [
+            "1959"
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,2177 @@
+{
+  "categories": [
+    {
+      "path": "transport/aviation/airports/by-year",
+      "name": "Busiest Airports by Year"
+    }
+  ],
+  "questions": [
+    {
+      "category": "transport/aviation/airports/by-year",
+      "question": "Top 10 busiest airports in the world by passenger traffic (2024)",
+      "cutoff": 10,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1378394022 | table 2 | name: Airport | value: Total passengers",
+      "tags": [
+        "aviation",
+        "airports",
+        "passengers",
+        "worldwide"
+      ],
+      "answers": [
+        {
+          "answer": "Atlanta Hartsfield–Jackson",
+          "display": "108,067,766 passengers",
+          "aliases": [
+            "Atlanta",
+            "ATL",
+            "Hartsfield-Jackson"
+          ]
+        },
+        {
+          "answer": "Dubai International",
+          "display": "92,331,506 passengers",
+          "aliases": [
+            "Dubai",
+            "DXB"
+          ]
+        },
+        {
+          "answer": "Dallas/Fort Worth",
+          "display": "87,817,864 passengers",
+          "aliases": [
+            "Dallas",
+            "DFW"
+          ]
+        },
+        {
+          "answer": "Tokyo Haneda",
+          "display": "85,900,167 passengers",
+          "aliases": [
+            "Tokyo",
+            "HND",
+            "Haneda"
+          ]
+        },
+        {
+          "answer": "London Heathrow",
+          "display": "83,884,572 passengers",
+          "aliases": [
+            "London",
+            "LHR",
+            "Heathrow"
+          ]
+        },
+        {
+          "answer": "Denver",
+          "display": "82,358,744 passengers",
+          "aliases": [
+            "DEN",
+            "Denver International"
+          ]
+        },
+        {
+          "answer": "Istanbul Airport",
+          "display": "80,073,252 passengers",
+          "aliases": [
+            "Istanbul",
+            "IST"
+          ]
+        },
+        {
+          "answer": "Chicago O'Hare",
+          "display": "80,043,050 passengers",
+          "aliases": [
+            "Chicago",
+            "ORD",
+            "O'Hare"
+          ]
+        },
+        {
+          "answer": "Delhi Indira Gandhi",
+          "display": "77,820,834 passengers",
+          "aliases": [
+            "Delhi",
+            "DEL",
+            "Indira Gandhi"
+          ]
+        },
+        {
+          "answer": "Shanghai Pudong",
+          "display": "76,787,039 passengers",
+          "aliases": [
+            "Shanghai",
+            "PVG",
+            "Pudong"
+          ]
+        },
+        {
+          "answer": "Los Angeles International",
+          "display": "76,588,028 passengers",
+          "aliases": [
+            "Los Angeles",
+            "LAX"
+          ]
+        },
+        {
+          "answer": "Guangzhou Baiyun",
+          "display": "76,365,092 passengers",
+          "aliases": [
+            "Guangzhou",
+            "CAN",
+            "Baiyun"
+          ]
+        },
+        {
+          "answer": "Seoul Incheon",
+          "display": "71,212,515 passengers",
+          "aliases": [
+            "Seoul",
+            "ICN",
+            "Incheon"
+          ]
+        },
+        {
+          "answer": "Paris Charles de Gaulle",
+          "display": "70,290,260 passengers",
+          "aliases": [
+            "Paris",
+            "CDG",
+            "Charles de Gaulle"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "transport/aviation/airports/by-year",
+      "question": "Top 10 busiest airports in the world by passenger traffic (2023)",
+      "cutoff": 10,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1378394022 | table 3 | name: Airport | value: Total passengers",
+      "tags": [
+        "aviation",
+        "airports",
+        "passengers",
+        "worldwide"
+      ],
+      "answers": [
+        {
+          "answer": "Atlanta Hartsfield–Jackson",
+          "display": "104,653,451 passengers",
+          "aliases": [
+            "Atlanta",
+            "ATL",
+            "Hartsfield-Jackson"
+          ]
+        },
+        {
+          "answer": "Dubai International",
+          "display": "86,994,365 passengers",
+          "aliases": [
+            "Dubai",
+            "DXB"
+          ]
+        },
+        {
+          "answer": "Dallas/Fort Worth",
+          "display": "81,755,538 passengers",
+          "aliases": [
+            "Dallas",
+            "DFW"
+          ]
+        },
+        {
+          "answer": "London Heathrow",
+          "display": "79,183,364 passengers",
+          "aliases": [
+            "London",
+            "LHR",
+            "Heathrow"
+          ]
+        },
+        {
+          "answer": "Tokyo Haneda",
+          "display": "78,719,302 passengers",
+          "aliases": [
+            "Tokyo",
+            "HND",
+            "Haneda"
+          ]
+        },
+        {
+          "answer": "Denver",
+          "display": "77,837,917 passengers",
+          "aliases": [
+            "DEN",
+            "Denver International"
+          ]
+        },
+        {
+          "answer": "Istanbul Airport",
+          "display": "76,027,321 passengers",
+          "aliases": [
+            "Istanbul",
+            "IST"
+          ]
+        },
+        {
+          "answer": "Los Angeles International",
+          "display": "75,050,875 passengers",
+          "aliases": [
+            "Los Angeles",
+            "LAX"
+          ]
+        },
+        {
+          "answer": "Chicago O'Hare",
+          "display": "73,894,226 passengers",
+          "aliases": [
+            "Chicago",
+            "ORD",
+            "O'Hare"
+          ]
+        },
+        {
+          "answer": "Delhi Indira Gandhi",
+          "display": "72,214,841 passengers",
+          "aliases": [
+            "Delhi",
+            "DEL",
+            "Indira Gandhi"
+          ]
+        },
+        {
+          "answer": "Paris Charles de Gaulle",
+          "display": "67,421,316 passengers",
+          "aliases": [
+            "Paris",
+            "CDG",
+            "Charles de Gaulle"
+          ]
+        },
+        {
+          "answer": "Guangzhou Baiyun",
+          "display": "63,169,169 passengers",
+          "aliases": [
+            "Guangzhou",
+            "CAN",
+            "Baiyun"
+          ]
+        },
+        {
+          "answer": "New York JFK",
+          "display": "62,464,331 passengers",
+          "aliases": [
+            "New York",
+            "JFK",
+            "John F. Kennedy"
+          ]
+        },
+        {
+          "answer": "Amsterdam Schiphol",
+          "display": "61,889,586 passengers",
+          "aliases": [
+            "Amsterdam",
+            "AMS",
+            "Schiphol"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "transport/aviation/airports/by-year",
+      "question": "Top 10 busiest airports in the world by passenger traffic (2022)",
+      "cutoff": 10,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1378394022 | table 4 | name: Airport | value: Total passengers",
+      "tags": [
+        "aviation",
+        "airports",
+        "passengers",
+        "worldwide"
+      ],
+      "answers": [
+        {
+          "answer": "Atlanta Hartsfield–Jackson",
+          "display": "93,699,630 passengers",
+          "aliases": [
+            "Atlanta",
+            "ATL",
+            "Hartsfield-Jackson"
+          ]
+        },
+        {
+          "answer": "Dallas/Fort Worth",
+          "display": "73,362,946 passengers",
+          "aliases": [
+            "Dallas",
+            "DFW"
+          ]
+        },
+        {
+          "answer": "Denver",
+          "display": "69,286,461 passengers",
+          "aliases": [
+            "DEN",
+            "Denver International"
+          ]
+        },
+        {
+          "answer": "Chicago O'Hare",
+          "display": "68,340,619 passengers",
+          "aliases": [
+            "Chicago",
+            "ORD",
+            "O'Hare"
+          ]
+        },
+        {
+          "answer": "Dubai International",
+          "display": "66,069,981 passengers",
+          "aliases": [
+            "Dubai",
+            "DXB"
+          ]
+        },
+        {
+          "answer": "Los Angeles International",
+          "display": "65,924,298 passengers",
+          "aliases": [
+            "Los Angeles",
+            "LAX"
+          ]
+        },
+        {
+          "answer": "Istanbul Airport",
+          "display": "64,289,107 passengers",
+          "aliases": [
+            "Istanbul",
+            "IST"
+          ]
+        },
+        {
+          "answer": "London Heathrow",
+          "display": "61,614,508 passengers",
+          "aliases": [
+            "London",
+            "LHR",
+            "Heathrow"
+          ]
+        },
+        {
+          "answer": "Delhi Indira Gandhi",
+          "display": "59,490,074 passengers",
+          "aliases": [
+            "Delhi",
+            "DEL",
+            "Indira Gandhi"
+          ]
+        },
+        {
+          "answer": "Paris Charles de Gaulle",
+          "display": "57,474,033 passengers",
+          "aliases": [
+            "Paris",
+            "CDG",
+            "Charles de Gaulle"
+          ]
+        },
+        {
+          "answer": "New York JFK",
+          "display": "55,287,693 passengers",
+          "aliases": [
+            "New York",
+            "JFK",
+            "John F. Kennedy"
+          ]
+        },
+        {
+          "answer": "Harry Reid International",
+          "display": "52,694,312 passengers",
+          "aliases": [
+            "Las Vegas",
+            "LAS",
+            "McCarran"
+          ]
+        },
+        {
+          "answer": "Amsterdam Schiphol",
+          "display": "52,472,188 passengers",
+          "aliases": [
+            "Amsterdam",
+            "AMS",
+            "Schiphol"
+          ]
+        },
+        {
+          "answer": "Miami International",
+          "display": "50,684,396 passengers",
+          "aliases": [
+            "Miami",
+            "MIA"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "transport/aviation/airports/by-year",
+      "question": "Top 10 busiest airports in the world by passenger traffic (2021)",
+      "cutoff": 10,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1378394022 | table 5 | name: Airport | value: Total passengers",
+      "tags": [
+        "aviation",
+        "airports",
+        "passengers",
+        "worldwide"
+      ],
+      "answers": [
+        {
+          "answer": "Atlanta Hartsfield–Jackson",
+          "display": "75,704,760 passengers",
+          "aliases": [
+            "Atlanta",
+            "ATL",
+            "Hartsfield-Jackson"
+          ]
+        },
+        {
+          "answer": "Dallas/Fort Worth",
+          "display": "62,465,756 passengers",
+          "aliases": [
+            "Dallas",
+            "DFW"
+          ]
+        },
+        {
+          "answer": "Denver",
+          "display": "58,828,552 passengers",
+          "aliases": [
+            "DEN",
+            "Denver International"
+          ]
+        },
+        {
+          "answer": "Chicago O'Hare",
+          "display": "54,020,399 passengers",
+          "aliases": [
+            "Chicago",
+            "ORD",
+            "O'Hare"
+          ]
+        },
+        {
+          "answer": "Los Angeles International",
+          "display": "48,007,284 passengers",
+          "aliases": [
+            "Los Angeles",
+            "LAX"
+          ]
+        },
+        {
+          "answer": "Charlotte Douglas",
+          "display": "43,302,230 passengers",
+          "aliases": [
+            "Charlotte",
+            "CLT"
+          ]
+        },
+        {
+          "answer": "Orlando International",
+          "display": "40,351,068 passengers",
+          "aliases": [
+            "Orlando",
+            "MCO"
+          ]
+        },
+        {
+          "answer": "Guangzhou Baiyun",
+          "display": "40,249,679 passengers",
+          "aliases": [
+            "Guangzhou",
+            "CAN",
+            "Baiyun"
+          ]
+        },
+        {
+          "answer": "Chengdu Shuangliu",
+          "display": "40,117,496 passengers",
+          "aliases": [
+            "Chengdu",
+            "CTU",
+            "Shuangliu"
+          ]
+        },
+        {
+          "answer": "Harry Reid International",
+          "display": "39,710,493 passengers",
+          "aliases": [
+            "Las Vegas",
+            "LAS",
+            "McCarran"
+          ]
+        },
+        {
+          "answer": "Phoenix Sky Harbor",
+          "display": "38,846,713 passengers",
+          "aliases": [
+            "Phoenix",
+            "PHX"
+          ]
+        },
+        {
+          "answer": "Miami International",
+          "display": "37,302,456 passengers",
+          "aliases": [
+            "Miami",
+            "MIA"
+          ]
+        },
+        {
+          "answer": "Delhi Indira Gandhi",
+          "display": "37,139,957 passengers",
+          "aliases": [
+            "Delhi",
+            "DEL",
+            "Indira Gandhi"
+          ]
+        },
+        {
+          "answer": "Istanbul Airport",
+          "display": "36,988,563 passengers",
+          "aliases": [
+            "Istanbul",
+            "IST"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "transport/aviation/airports/by-year",
+      "question": "Top 10 busiest airports in the world by passenger traffic (2020)",
+      "cutoff": 10,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1378394022 | table 6 | name: Airport | value: Total passengers",
+      "tags": [
+        "aviation",
+        "airports",
+        "passengers",
+        "worldwide"
+      ],
+      "answers": [
+        {
+          "answer": "Guangzhou Baiyun",
+          "display": "43,767,558 passengers",
+          "aliases": [
+            "Guangzhou",
+            "CAN",
+            "Baiyun"
+          ]
+        },
+        {
+          "answer": "Atlanta Hartsfield–Jackson",
+          "display": "42,918,685 passengers",
+          "aliases": [
+            "Atlanta",
+            "ATL",
+            "Hartsfield-Jackson"
+          ]
+        },
+        {
+          "answer": "Chengdu Shuangliu",
+          "display": "40,741,509 passengers",
+          "aliases": [
+            "Chengdu",
+            "CTU",
+            "Shuangliu"
+          ]
+        },
+        {
+          "answer": "Dallas/Fort Worth",
+          "display": "39,364,990 passengers",
+          "aliases": [
+            "Dallas",
+            "DFW"
+          ]
+        },
+        {
+          "answer": "Shenzhen Bao'an",
+          "display": "37,916,054 passengers",
+          "aliases": [
+            "Shenzhen",
+            "SZX",
+            "Bao'an"
+          ]
+        },
+        {
+          "answer": "Chongqing Jiangbei",
+          "display": "34,937,789 passengers",
+          "aliases": [
+            "Chongqing",
+            "CKG",
+            "Jiangbei"
+          ]
+        },
+        {
+          "answer": "Beijing Capital",
+          "display": "34,513,827 passengers",
+          "aliases": [
+            "Beijing",
+            "PEK"
+          ]
+        },
+        {
+          "answer": "Denver",
+          "display": "33,741,129 passengers",
+          "aliases": [
+            "DEN",
+            "Denver International"
+          ]
+        },
+        {
+          "answer": "Kunming Changshui",
+          "display": "32,990,805 passengers",
+          "aliases": [
+            "Kunming",
+            "KMG",
+            "Changshui"
+          ]
+        },
+        {
+          "answer": "Shanghai Hongqiao",
+          "display": "31,165,641 passengers",
+          "aliases": [
+            "SHA",
+            "Hongqiao"
+          ]
+        },
+        {
+          "answer": "Xi'an Xianyang",
+          "display": "31,073,924 passengers",
+          "aliases": [
+            "Xi'an",
+            "XIY",
+            "Xianyang"
+          ]
+        },
+        {
+          "answer": "Tokyo Haneda",
+          "display": "31,055,210 passengers",
+          "aliases": [
+            "Tokyo",
+            "HND",
+            "Haneda"
+          ]
+        },
+        {
+          "answer": "Chicago O'Hare",
+          "display": "30,860,251 passengers",
+          "aliases": [
+            "Chicago",
+            "ORD",
+            "O'Hare"
+          ]
+        },
+        {
+          "answer": "Shanghai Pudong",
+          "display": "30,476,531 passengers",
+          "aliases": [
+            "PVG",
+            "Pudong"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "transport/aviation/airports/by-year",
+      "question": "Top 10 busiest airports in the world by passenger traffic (2019)",
+      "cutoff": 10,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1339419738 | table 1 | name: Airport | value: Total passengers",
+      "tags": [
+        "aviation",
+        "airports",
+        "passengers",
+        "worldwide"
+      ],
+      "answers": [
+        {
+          "answer": "Atlanta Hartsfield–Jackson",
+          "display": "110,531,300 passengers",
+          "aliases": [
+            "Atlanta",
+            "ATL",
+            "Hartsfield-Jackson"
+          ]
+        },
+        {
+          "answer": "Beijing Capital",
+          "display": "100,011,438 passengers",
+          "aliases": [
+            "Beijing",
+            "PEK"
+          ]
+        },
+        {
+          "answer": "Los Angeles International",
+          "display": "88,068,013 passengers",
+          "aliases": [
+            "Los Angeles",
+            "LAX"
+          ]
+        },
+        {
+          "answer": "Dubai International",
+          "display": "86,396,757 passengers",
+          "aliases": [
+            "Dubai",
+            "DXB"
+          ]
+        },
+        {
+          "answer": "Tokyo Haneda",
+          "display": "85,505,054 passengers",
+          "aliases": [
+            "Tokyo",
+            "HND",
+            "Haneda"
+          ]
+        },
+        {
+          "answer": "Chicago O'Hare",
+          "display": "84,649,115 passengers",
+          "aliases": [
+            "Chicago",
+            "ORD",
+            "O'Hare"
+          ]
+        },
+        {
+          "answer": "London Heathrow",
+          "display": "80,888,305 passengers",
+          "aliases": [
+            "London",
+            "LHR",
+            "Heathrow"
+          ]
+        },
+        {
+          "answer": "Shanghai Pudong",
+          "display": "76,153,455 passengers",
+          "aliases": [
+            "Shanghai",
+            "PVG",
+            "Pudong"
+          ]
+        },
+        {
+          "answer": "Paris Charles de Gaulle",
+          "display": "76,150,009 passengers",
+          "aliases": [
+            "Paris",
+            "CDG",
+            "Charles de Gaulle"
+          ]
+        },
+        {
+          "answer": "Dallas/Fort Worth",
+          "display": "75,066,956 passengers",
+          "aliases": [
+            "Dallas",
+            "DFW"
+          ]
+        },
+        {
+          "answer": "Guangzhou Baiyun",
+          "display": "73,386,153 passengers",
+          "aliases": [
+            "Guangzhou",
+            "CAN",
+            "Baiyun"
+          ]
+        },
+        {
+          "answer": "Amsterdam Schiphol",
+          "display": "71,706,999 passengers",
+          "aliases": [
+            "Amsterdam",
+            "AMS",
+            "Schiphol"
+          ]
+        },
+        {
+          "answer": "Hong Kong",
+          "display": "71,415,245 passengers",
+          "aliases": [
+            "HKG",
+            "Hong Kong International"
+          ]
+        },
+        {
+          "answer": "Seoul Incheon",
+          "display": "71,204,153 passengers",
+          "aliases": [
+            "Seoul",
+            "ICN",
+            "Incheon"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "transport/aviation/airports/by-year",
+      "question": "Top 10 busiest airports in the world by passenger traffic (2017)",
+      "cutoff": 10,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1339419738 | table 3 | name: Airport | value: Total passengers",
+      "tags": [
+        "aviation",
+        "airports",
+        "passengers",
+        "worldwide"
+      ],
+      "answers": [
+        {
+          "answer": "Atlanta Hartsfield–Jackson",
+          "display": "103,902,992 passengers",
+          "aliases": [
+            "Atlanta",
+            "ATL",
+            "Hartsfield-Jackson"
+          ]
+        },
+        {
+          "answer": "Beijing Capital",
+          "display": "95,786,442 passengers",
+          "aliases": [
+            "Beijing",
+            "PEK"
+          ]
+        },
+        {
+          "answer": "Dubai International",
+          "display": "88,242,099 passengers",
+          "aliases": [
+            "Dubai",
+            "DXB"
+          ]
+        },
+        {
+          "answer": "Los Angeles International",
+          "display": "84,557,968 passengers",
+          "aliases": [
+            "Los Angeles",
+            "LAX"
+          ]
+        },
+        {
+          "answer": "Chicago O'Hare",
+          "display": "79,828,183 passengers",
+          "aliases": [
+            "Chicago",
+            "ORD",
+            "O'Hare"
+          ]
+        },
+        {
+          "answer": "London Heathrow",
+          "display": "78,014,598 passengers",
+          "aliases": [
+            "London",
+            "LHR",
+            "Heathrow"
+          ]
+        },
+        {
+          "answer": "Tokyo Haneda",
+          "display": "76,476,251 passengers",
+          "aliases": [
+            "Tokyo",
+            "HND",
+            "Haneda"
+          ]
+        },
+        {
+          "answer": "Hong Kong",
+          "display": "72,665,078 passengers",
+          "aliases": [
+            "HKG",
+            "Hong Kong International"
+          ]
+        },
+        {
+          "answer": "Shanghai Pudong",
+          "display": "70,001,237 passengers",
+          "aliases": [
+            "Shanghai",
+            "PVG",
+            "Pudong"
+          ]
+        },
+        {
+          "answer": "Paris Charles de Gaulle",
+          "display": "69,471,442 passengers",
+          "aliases": [
+            "Paris",
+            "CDG",
+            "Charles de Gaulle"
+          ]
+        },
+        {
+          "answer": "Amsterdam Schiphol",
+          "display": "68,515,425 passengers",
+          "aliases": [
+            "Amsterdam",
+            "AMS",
+            "Schiphol"
+          ]
+        },
+        {
+          "answer": "Dallas/Fort Worth",
+          "display": "67,092,194 passengers",
+          "aliases": [
+            "Dallas",
+            "DFW"
+          ]
+        },
+        {
+          "answer": "Guangzhou Baiyun",
+          "display": "65,887,473 passengers",
+          "aliases": [
+            "Guangzhou",
+            "CAN",
+            "Baiyun"
+          ]
+        },
+        {
+          "answer": "Frankfurt",
+          "display": "64,500,386 passengers",
+          "aliases": [
+            "FRA"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "transport/aviation/airports/by-year",
+      "question": "Top 10 busiest airports in the world by passenger traffic (2014)",
+      "cutoff": 10,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1339419738 | table 6 | name: Airport | value: Total passengers",
+      "tags": [
+        "aviation",
+        "airports",
+        "passengers",
+        "worldwide"
+      ],
+      "answers": [
+        {
+          "answer": "Atlanta Hartsfield–Jackson",
+          "display": "96,178,899 passengers",
+          "aliases": [
+            "Atlanta",
+            "ATL",
+            "Hartsfield-Jackson"
+          ]
+        },
+        {
+          "answer": "Beijing Capital",
+          "display": "86,128,270 passengers",
+          "aliases": [
+            "Beijing",
+            "PEK"
+          ]
+        },
+        {
+          "answer": "London Heathrow",
+          "display": "73,408,489 passengers",
+          "aliases": [
+            "London",
+            "LHR",
+            "Heathrow"
+          ]
+        },
+        {
+          "answer": "Tokyo Haneda",
+          "display": "72,826,565 passengers",
+          "aliases": [
+            "Tokyo",
+            "HND",
+            "Haneda"
+          ]
+        },
+        {
+          "answer": "Los Angeles International",
+          "display": "70,663,265 passengers",
+          "aliases": [
+            "Los Angeles",
+            "LAX"
+          ]
+        },
+        {
+          "answer": "Dubai International",
+          "display": "70,475,636 passengers",
+          "aliases": [
+            "Dubai",
+            "DXB"
+          ]
+        },
+        {
+          "answer": "Chicago O'Hare",
+          "display": "69,999,010 passengers",
+          "aliases": [
+            "Chicago",
+            "ORD",
+            "O'Hare"
+          ]
+        },
+        {
+          "answer": "Paris Charles de Gaulle",
+          "display": "63,813,756 passengers",
+          "aliases": [
+            "Paris",
+            "CDG",
+            "Charles de Gaulle"
+          ]
+        },
+        {
+          "answer": "Dallas/Fort Worth",
+          "display": "63,554,402 passengers",
+          "aliases": [
+            "Dallas",
+            "DFW"
+          ]
+        },
+        {
+          "answer": "Hong Kong",
+          "display": "63,121,786 passengers",
+          "aliases": [
+            "HKG",
+            "Hong Kong International"
+          ]
+        },
+        {
+          "answer": "Frankfurt",
+          "display": "59,566,132 passengers",
+          "aliases": [
+            "FRA"
+          ]
+        },
+        {
+          "answer": "Jakarta Soekarno-Hatta",
+          "display": "57,221,169 passengers",
+          "aliases": [
+            "Jakarta",
+            "CGK",
+            "Soekarno-Hatta"
+          ]
+        },
+        {
+          "answer": "Istanbul Atatürk",
+          "display": "56,767,108 passengers",
+          "aliases": [
+            "Istanbul",
+            "Ataturk",
+            "ISL"
+          ]
+        },
+        {
+          "answer": "Amsterdam Schiphol",
+          "display": "54,978,023 passengers",
+          "aliases": [
+            "Amsterdam",
+            "AMS",
+            "Schiphol"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "transport/aviation/airports/by-year",
+      "question": "Top 10 busiest airports in the world by passenger traffic (2012)",
+      "cutoff": 10,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1339419738 | table 8 | name: Airport | value: Total passengers",
+      "tags": [
+        "aviation",
+        "airports",
+        "passengers",
+        "worldwide"
+      ],
+      "answers": [
+        {
+          "answer": "Atlanta Hartsfield–Jackson",
+          "display": "94,956,643 passengers",
+          "aliases": [
+            "Atlanta",
+            "ATL",
+            "Hartsfield-Jackson"
+          ]
+        },
+        {
+          "answer": "Beijing Capital",
+          "display": "81,929,359 passengers",
+          "aliases": [
+            "Beijing",
+            "PEK"
+          ]
+        },
+        {
+          "answer": "London Heathrow",
+          "display": "70,037,417 passengers",
+          "aliases": [
+            "London",
+            "LHR",
+            "Heathrow"
+          ]
+        },
+        {
+          "answer": "Tokyo Haneda",
+          "display": "67,788,722 passengers",
+          "aliases": [
+            "Tokyo",
+            "HND",
+            "Haneda"
+          ]
+        },
+        {
+          "answer": "Chicago O'Hare",
+          "display": "66,834,931 passengers",
+          "aliases": [
+            "Chicago",
+            "ORD",
+            "O'Hare"
+          ]
+        },
+        {
+          "answer": "Los Angeles International",
+          "display": "63,688,121 passengers",
+          "aliases": [
+            "Los Angeles",
+            "LAX"
+          ]
+        },
+        {
+          "answer": "Paris Charles de Gaulle",
+          "display": "61,611,934 passengers",
+          "aliases": [
+            "Paris",
+            "CDG",
+            "Charles de Gaulle"
+          ]
+        },
+        {
+          "answer": "Dallas/Fort Worth",
+          "display": "58,591,842 passengers",
+          "aliases": [
+            "Dallas",
+            "DFW"
+          ]
+        },
+        {
+          "answer": "Jakarta Soekarno-Hatta",
+          "display": "57,730,732 passengers",
+          "aliases": [
+            "Jakarta",
+            "CGK",
+            "Soekarno-Hatta"
+          ]
+        },
+        {
+          "answer": "Dubai International",
+          "display": "57,684,550 passengers",
+          "aliases": [
+            "Dubai",
+            "DXB"
+          ]
+        },
+        {
+          "answer": "Frankfurt",
+          "display": "57,520,001 passengers",
+          "aliases": [
+            "FRA"
+          ]
+        },
+        {
+          "answer": "Hong Kong",
+          "display": "56,064,248 passengers",
+          "aliases": [
+            "HKG",
+            "Hong Kong International"
+          ]
+        },
+        {
+          "answer": "Denver",
+          "display": "53,156,278 passengers",
+          "aliases": [
+            "DEN",
+            "Denver International"
+          ]
+        },
+        {
+          "answer": "Bangkok Suvarnabhumi",
+          "display": "53,002,328 passengers",
+          "aliases": [
+            "Bangkok",
+            "BKK",
+            "Suvarnabhumi"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "transport/aviation/airports/by-year",
+      "question": "Top 10 busiest airports in the world by passenger traffic (2011)",
+      "cutoff": 10,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1339419738 | table 9 | name: Airport | value: Total passengers",
+      "tags": [
+        "aviation",
+        "airports",
+        "passengers",
+        "worldwide"
+      ],
+      "answers": [
+        {
+          "answer": "Atlanta Hartsfield–Jackson",
+          "display": "92,389,023 passengers",
+          "aliases": [
+            "Atlanta",
+            "ATL",
+            "Hartsfield-Jackson"
+          ]
+        },
+        {
+          "answer": "Beijing Capital",
+          "display": "78,675,058 passengers",
+          "aliases": [
+            "Beijing",
+            "PEK"
+          ]
+        },
+        {
+          "answer": "London Heathrow",
+          "display": "69,433,565 passengers",
+          "aliases": [
+            "London",
+            "LHR",
+            "Heathrow"
+          ]
+        },
+        {
+          "answer": "Chicago O'Hare",
+          "display": "66,701,241 passengers",
+          "aliases": [
+            "Chicago",
+            "ORD",
+            "O'Hare"
+          ]
+        },
+        {
+          "answer": "Tokyo Haneda",
+          "display": "62,584,826 passengers",
+          "aliases": [
+            "Tokyo",
+            "HND",
+            "Haneda"
+          ]
+        },
+        {
+          "answer": "Los Angeles International",
+          "display": "61,862,052 passengers",
+          "aliases": [
+            "Los Angeles",
+            "LAX"
+          ]
+        },
+        {
+          "answer": "Paris Charles de Gaulle",
+          "display": "60,970,551 passengers",
+          "aliases": [
+            "Paris",
+            "CDG",
+            "Charles de Gaulle"
+          ]
+        },
+        {
+          "answer": "Dallas/Fort Worth",
+          "display": "57,832,495 passengers",
+          "aliases": [
+            "Dallas",
+            "DFW"
+          ]
+        },
+        {
+          "answer": "Frankfurt",
+          "display": "56,436,255 passengers",
+          "aliases": [
+            "FRA"
+          ]
+        },
+        {
+          "answer": "Hong Kong",
+          "display": "53,328,613 passengers",
+          "aliases": [
+            "HKG",
+            "Hong Kong International"
+          ]
+        },
+        {
+          "answer": "Denver",
+          "display": "52,849,132 passengers",
+          "aliases": [
+            "DEN",
+            "Denver International"
+          ]
+        },
+        {
+          "answer": "Jakarta Soekarno-Hatta",
+          "display": "51,533,187 passengers",
+          "aliases": [
+            "Jakarta",
+            "CGK",
+            "Soekarno-Hatta"
+          ]
+        },
+        {
+          "answer": "Dubai International",
+          "display": "50,977,960 passengers",
+          "aliases": [
+            "Dubai",
+            "DXB"
+          ]
+        },
+        {
+          "answer": "Amsterdam Schiphol",
+          "display": "49,755,252 passengers",
+          "aliases": [
+            "Amsterdam",
+            "AMS",
+            "Schiphol"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "transport/aviation/airports/by-year",
+      "question": "Top 10 busiest airports in the world by passenger traffic (2008)",
+      "cutoff": 10,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1339420065 | table 2 | name: Airport | value: Total passengers",
+      "tags": [
+        "aviation",
+        "airports",
+        "passengers",
+        "worldwide"
+      ],
+      "answers": [
+        {
+          "answer": "Atlanta Hartsfield–Jackson",
+          "display": "90,039,280 passengers",
+          "aliases": [
+            "Atlanta",
+            "ATL",
+            "Hartsfield-Jackson"
+          ]
+        },
+        {
+          "answer": "Chicago O'Hare",
+          "display": "69,353,876 passengers",
+          "aliases": [
+            "Chicago",
+            "ORD",
+            "O'Hare"
+          ]
+        },
+        {
+          "answer": "London Heathrow",
+          "display": "67,056,379 passengers",
+          "aliases": [
+            "London",
+            "LHR",
+            "Heathrow"
+          ]
+        },
+        {
+          "answer": "Tokyo Haneda",
+          "display": "66,754,829 passengers",
+          "aliases": [
+            "Tokyo",
+            "HND",
+            "Haneda"
+          ]
+        },
+        {
+          "answer": "Paris Charles de Gaulle",
+          "display": "60,874,681 passengers",
+          "aliases": [
+            "Paris",
+            "CDG",
+            "Charles de Gaulle"
+          ]
+        },
+        {
+          "answer": "Los Angeles International",
+          "display": "59,497,539 passengers",
+          "aliases": [
+            "Los Angeles",
+            "LAX"
+          ]
+        },
+        {
+          "answer": "Dallas/Fort Worth",
+          "display": "57,093,187 passengers",
+          "aliases": [
+            "Dallas",
+            "DFW"
+          ]
+        },
+        {
+          "answer": "Beijing Capital",
+          "display": "55,937,289 passengers",
+          "aliases": [
+            "Beijing",
+            "PEK"
+          ]
+        },
+        {
+          "answer": "Frankfurt",
+          "display": "53,467,450 passengers",
+          "aliases": [
+            "FRA"
+          ]
+        },
+        {
+          "answer": "Denver",
+          "display": "51,245,334 passengers",
+          "aliases": [
+            "DEN",
+            "Denver International"
+          ]
+        },
+        {
+          "answer": "Madrid Barajas",
+          "display": "50,824,435 passengers",
+          "aliases": [
+            "Madrid",
+            "MAD",
+            "Barajas"
+          ]
+        },
+        {
+          "answer": "Hong Kong",
+          "display": "47,857,746 passengers",
+          "aliases": [
+            "HKG",
+            "Hong Kong International"
+          ]
+        },
+        {
+          "answer": "New York JFK",
+          "display": "47,807,816 passengers",
+          "aliases": [
+            "New York",
+            "JFK",
+            "John F. Kennedy"
+          ]
+        },
+        {
+          "answer": "Amsterdam Schiphol",
+          "display": "47,430,019 passengers",
+          "aliases": [
+            "Amsterdam",
+            "AMS",
+            "Schiphol"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "transport/aviation/airports/by-year",
+      "question": "Top 10 busiest airports in the world by passenger traffic (2007)",
+      "cutoff": 10,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1339420065 | table 3 | name: Airport | value: Total passengers",
+      "tags": [
+        "aviation",
+        "airports",
+        "passengers",
+        "worldwide"
+      ],
+      "answers": [
+        {
+          "answer": "Atlanta Hartsfield–Jackson",
+          "display": "89,379,287 passengers",
+          "aliases": [
+            "Atlanta",
+            "ATL",
+            "Hartsfield-Jackson"
+          ]
+        },
+        {
+          "answer": "Chicago O'Hare",
+          "display": "76,177,855 passengers",
+          "aliases": [
+            "Chicago",
+            "ORD",
+            "O'Hare"
+          ]
+        },
+        {
+          "answer": "London Heathrow",
+          "display": "68,068,304 passengers",
+          "aliases": [
+            "London",
+            "LHR",
+            "Heathrow"
+          ]
+        },
+        {
+          "answer": "Tokyo Haneda",
+          "display": "66,823,414 passengers",
+          "aliases": [
+            "Tokyo",
+            "HND",
+            "Haneda"
+          ]
+        },
+        {
+          "answer": "Los Angeles International",
+          "display": "61,896,075 passengers",
+          "aliases": [
+            "Los Angeles",
+            "LAX"
+          ]
+        },
+        {
+          "answer": "Paris Charles de Gaulle",
+          "display": "59,922,177 passengers",
+          "aliases": [
+            "Paris",
+            "CDG",
+            "Charles de Gaulle"
+          ]
+        },
+        {
+          "answer": "Dallas/Fort Worth",
+          "display": "59,786,476 passengers",
+          "aliases": [
+            "Dallas",
+            "DFW"
+          ]
+        },
+        {
+          "answer": "Frankfurt",
+          "display": "54,161,856 passengers",
+          "aliases": [
+            "FRA"
+          ]
+        },
+        {
+          "answer": "Beijing Capital",
+          "display": "53,583,664 passengers",
+          "aliases": [
+            "Beijing",
+            "PEK"
+          ]
+        },
+        {
+          "answer": "Madrid Barajas",
+          "display": "52,122,702 passengers",
+          "aliases": [
+            "Madrid",
+            "MAD",
+            "Barajas"
+          ]
+        },
+        {
+          "answer": "Denver",
+          "display": "49,863,352 passengers",
+          "aliases": [
+            "DEN",
+            "Denver International"
+          ]
+        },
+        {
+          "answer": "Amsterdam Schiphol",
+          "display": "47,794,994 passengers",
+          "aliases": [
+            "Amsterdam",
+            "AMS",
+            "Schiphol"
+          ]
+        },
+        {
+          "answer": "New York JFK",
+          "display": "47,716,941 passengers",
+          "aliases": [
+            "New York",
+            "JFK",
+            "John F. Kennedy"
+          ]
+        },
+        {
+          "answer": "Hong Kong",
+          "display": "47,042,419 passengers",
+          "aliases": [
+            "HKG",
+            "Hong Kong International"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "transport/aviation/airports/by-year",
+      "question": "Top 10 busiest airports in the world by passenger traffic (2006)",
+      "cutoff": 10,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1339420065 | table 4 | name: Airport | value: Total passengers",
+      "tags": [
+        "aviation",
+        "airports",
+        "passengers",
+        "worldwide"
+      ],
+      "answers": [
+        {
+          "answer": "Atlanta Hartsfield–Jackson",
+          "display": "84,846,639 passengers",
+          "aliases": [
+            "Atlanta",
+            "ATL",
+            "Hartsfield-Jackson"
+          ]
+        },
+        {
+          "answer": "Chicago O'Hare",
+          "display": "77,028,134 passengers",
+          "aliases": [
+            "Chicago",
+            "ORD",
+            "O'Hare"
+          ]
+        },
+        {
+          "answer": "London Heathrow",
+          "display": "67,530,197 passengers",
+          "aliases": [
+            "London",
+            "LHR",
+            "Heathrow"
+          ]
+        },
+        {
+          "answer": "Tokyo Haneda",
+          "display": "65,810,672 passengers",
+          "aliases": [
+            "Tokyo",
+            "HND",
+            "Haneda"
+          ]
+        },
+        {
+          "answer": "Los Angeles International",
+          "display": "61,041,066 passengers",
+          "aliases": [
+            "Los Angeles",
+            "LAX"
+          ]
+        },
+        {
+          "answer": "Dallas/Fort Worth",
+          "display": "60,226,138 passengers",
+          "aliases": [
+            "Dallas",
+            "DFW"
+          ]
+        },
+        {
+          "answer": "Paris Charles de Gaulle",
+          "display": "56,849,567 passengers",
+          "aliases": [
+            "Paris",
+            "CDG",
+            "Charles de Gaulle"
+          ]
+        },
+        {
+          "answer": "Frankfurt",
+          "display": "52,810,683 passengers",
+          "aliases": [
+            "FRA"
+          ]
+        },
+        {
+          "answer": "Beijing Capital",
+          "display": "48,654,770 passengers",
+          "aliases": [
+            "Beijing",
+            "PEK"
+          ]
+        },
+        {
+          "answer": "Denver",
+          "display": "47,325,016 passengers",
+          "aliases": [
+            "DEN",
+            "Denver International"
+          ]
+        },
+        {
+          "answer": "McCarran International",
+          "display": "46,193,329 passengers",
+          "aliases": [
+            "Las Vegas",
+            "LAS",
+            "Harry Reid"
+          ]
+        },
+        {
+          "answer": "Amsterdam Schiphol",
+          "display": "46,065,719 passengers",
+          "aliases": [
+            "Amsterdam",
+            "AMS",
+            "Schiphol"
+          ]
+        },
+        {
+          "answer": "Madrid Barajas",
+          "display": "45,501,168 passengers",
+          "aliases": [
+            "Madrid",
+            "MAD",
+            "Barajas"
+          ]
+        },
+        {
+          "answer": "Hong Kong",
+          "display": "43,857,908 passengers",
+          "aliases": [
+            "HKG",
+            "Hong Kong International"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "transport/aviation/airports/by-year",
+      "question": "Top 10 busiest airports in the world by passenger traffic (2005)",
+      "cutoff": 10,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1339420065 | table 5 | name: Airport | value: Total passengers",
+      "tags": [
+        "aviation",
+        "airports",
+        "passengers",
+        "worldwide"
+      ],
+      "answers": [
+        {
+          "answer": "Atlanta Hartsfield–Jackson",
+          "display": "85,907,423 passengers",
+          "aliases": [
+            "Atlanta",
+            "ATL",
+            "Hartsfield-Jackson"
+          ]
+        },
+        {
+          "answer": "Chicago O'Hare",
+          "display": "76,510,003 passengers",
+          "aliases": [
+            "Chicago",
+            "ORD",
+            "O'Hare"
+          ]
+        },
+        {
+          "answer": "London Heathrow",
+          "display": "67,915,403 passengers",
+          "aliases": [
+            "London",
+            "LHR",
+            "Heathrow"
+          ]
+        },
+        {
+          "answer": "Tokyo Haneda",
+          "display": "63,282,219 passengers",
+          "aliases": [
+            "Tokyo",
+            "HND",
+            "Haneda"
+          ]
+        },
+        {
+          "answer": "Los Angeles International",
+          "display": "61,489,398 passengers",
+          "aliases": [
+            "Los Angeles",
+            "LAX"
+          ]
+        },
+        {
+          "answer": "Dallas/Fort Worth",
+          "display": "59,176,265 passengers",
+          "aliases": [
+            "Dallas",
+            "DFW"
+          ]
+        },
+        {
+          "answer": "Paris Charles de Gaulle",
+          "display": "53,798,308 passengers",
+          "aliases": [
+            "Paris",
+            "CDG",
+            "Charles de Gaulle"
+          ]
+        },
+        {
+          "answer": "Frankfurt",
+          "display": "52,219,412 passengers",
+          "aliases": [
+            "FRA"
+          ]
+        },
+        {
+          "answer": "Amsterdam Schiphol",
+          "display": "44,163,098 passengers",
+          "aliases": [
+            "Amsterdam",
+            "AMS",
+            "Schiphol"
+          ]
+        },
+        {
+          "answer": "McCarran International",
+          "display": "43,989,982 passengers",
+          "aliases": [
+            "Las Vegas",
+            "LAS",
+            "Harry Reid"
+          ]
+        },
+        {
+          "answer": "Denver",
+          "display": "43,387,513 passengers",
+          "aliases": [
+            "DEN",
+            "Denver International"
+          ]
+        },
+        {
+          "answer": "Madrid Barajas",
+          "display": "41,940,059 passengers",
+          "aliases": [
+            "Madrid",
+            "MAD",
+            "Barajas"
+          ]
+        },
+        {
+          "answer": "New York JFK",
+          "display": "41,885,104 passengers",
+          "aliases": [
+            "New York",
+            "JFK",
+            "John F. Kennedy"
+          ]
+        },
+        {
+          "answer": "Phoenix Sky Harbor",
+          "display": "41,213,754 passengers",
+          "aliases": [
+            "Phoenix",
+            "PHX"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "transport/aviation/airports/by-year",
+      "question": "Top 10 busiest airports in the world by passenger traffic (2001)",
+      "cutoff": 10,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1339420065 | table 9 | name: Airport | value: Total passengers",
+      "tags": [
+        "aviation",
+        "airports",
+        "passengers",
+        "worldwide"
+      ],
+      "answers": [
+        {
+          "answer": "Atlanta Hartsfield–Jackson",
+          "display": "75,858,590 passengers",
+          "aliases": [
+            "Atlanta",
+            "ATL",
+            "Hartsfield-Jackson"
+          ]
+        },
+        {
+          "answer": "Chicago O'Hare",
+          "display": "67,448,064 passengers",
+          "aliases": [
+            "Chicago",
+            "ORD",
+            "O'Hare"
+          ]
+        },
+        {
+          "answer": "Los Angeles International",
+          "display": "61,606,204 passengers",
+          "aliases": [
+            "Los Angeles",
+            "LAX"
+          ]
+        },
+        {
+          "answer": "London Heathrow",
+          "display": "60,743,084 passengers",
+          "aliases": [
+            "London",
+            "LHR",
+            "Heathrow"
+          ]
+        },
+        {
+          "answer": "Tokyo Haneda",
+          "display": "58,692,688 passengers",
+          "aliases": [
+            "Tokyo",
+            "HND",
+            "Haneda"
+          ]
+        },
+        {
+          "answer": "Dallas/Fort Worth",
+          "display": "55,150,693 passengers",
+          "aliases": [
+            "Dallas",
+            "DFW"
+          ]
+        },
+        {
+          "answer": "Frankfurt",
+          "display": "48,559,980 passengers",
+          "aliases": [
+            "FRA"
+          ]
+        },
+        {
+          "answer": "Paris Charles de Gaulle",
+          "display": "47,996,529 passengers",
+          "aliases": [
+            "Paris",
+            "CDG",
+            "Charles de Gaulle"
+          ]
+        },
+        {
+          "answer": "Amsterdam Schiphol",
+          "display": "39,531,123 passengers",
+          "aliases": [
+            "Amsterdam",
+            "AMS",
+            "Schiphol"
+          ]
+        },
+        {
+          "answer": "Denver",
+          "display": "36,092,806 passengers",
+          "aliases": [
+            "DEN",
+            "Denver International"
+          ]
+        },
+        {
+          "answer": "Phoenix Sky Harbor",
+          "display": "35,439,031 passengers",
+          "aliases": [
+            "Phoenix",
+            "PHX"
+          ]
+        },
+        {
+          "answer": "McCarran International",
+          "display": "35,180,960 passengers",
+          "aliases": [
+            "Las Vegas",
+            "LAS",
+            "Harry Reid"
+          ]
+        },
+        {
+          "answer": "Houston George Bush",
+          "display": "34,803,580 passengers",
+          "aliases": [
+            "Houston",
+            "IAH",
+            "Bush Intercontinental"
+          ]
+        },
+        {
+          "answer": "San Francisco International",
+          "display": "34,632,474 passengers",
+          "aliases": [
+            "San Francisco",
+            "SFO"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "transport/aviation/airports/by-year",
+      "question": "Top 10 busiest airports in the world by passenger traffic (2000)",
+      "cutoff": 10,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1339420065 | table 10 | name: Airport | value: Total passengers",
+      "tags": [
+        "aviation",
+        "airports",
+        "passengers",
+        "worldwide"
+      ],
+      "answers": [
+        {
+          "answer": "Atlanta Hartsfield–Jackson",
+          "display": "80,162,407 passengers",
+          "aliases": [
+            "Atlanta",
+            "ATL",
+            "Hartsfield-Jackson"
+          ]
+        },
+        {
+          "answer": "Chicago O'Hare",
+          "display": "72,144,244 passengers",
+          "aliases": [
+            "Chicago",
+            "ORD",
+            "O'Hare"
+          ]
+        },
+        {
+          "answer": "Los Angeles International",
+          "display": "66,424,767 passengers",
+          "aliases": [
+            "Los Angeles",
+            "LAX"
+          ]
+        },
+        {
+          "answer": "London Heathrow",
+          "display": "64,606,826 passengers",
+          "aliases": [
+            "London",
+            "LHR",
+            "Heathrow"
+          ]
+        },
+        {
+          "answer": "Dallas/Fort Worth",
+          "display": "60,687,122 passengers",
+          "aliases": [
+            "Dallas",
+            "DFW"
+          ]
+        },
+        {
+          "answer": "Tokyo Haneda",
+          "display": "56,402,206 passengers",
+          "aliases": [
+            "Tokyo",
+            "HND",
+            "Haneda"
+          ]
+        },
+        {
+          "answer": "Frankfurt",
+          "display": "49,360,630 passengers",
+          "aliases": [
+            "FRA"
+          ]
+        },
+        {
+          "answer": "Paris Charles de Gaulle",
+          "display": "48,246,137 passengers",
+          "aliases": [
+            "Paris",
+            "CDG",
+            "Charles de Gaulle"
+          ]
+        },
+        {
+          "answer": "San Francisco International",
+          "display": "41,040,995 passengers",
+          "aliases": [
+            "San Francisco",
+            "SFO"
+          ]
+        },
+        {
+          "answer": "Amsterdam Schiphol",
+          "display": "39,606,925 passengers",
+          "aliases": [
+            "Amsterdam",
+            "AMS",
+            "Schiphol"
+          ]
+        },
+        {
+          "answer": "Denver",
+          "display": "38,751,687 passengers",
+          "aliases": [
+            "DEN",
+            "Denver International"
+          ]
+        },
+        {
+          "answer": "McCarran International",
+          "display": "36,865,866 passengers",
+          "aliases": [
+            "Las Vegas",
+            "LAS",
+            "Harry Reid"
+          ]
+        },
+        {
+          "answer": "Minneapolis–Saint Paul",
+          "display": "36,751,632 passengers",
+          "aliases": [
+            "Minneapolis",
+            "MSP"
+          ]
+        },
+        {
+          "answer": "Seoul Gimpo",
+          "display": "36,727,124 passengers",
+          "aliases": [
+            "Seoul",
+            "GMP",
+            "Gimpo"
+          ]
+        }
+      ]
+    }
+  ]
+}

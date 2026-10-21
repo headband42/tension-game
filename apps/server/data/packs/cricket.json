@@ -1,0 +1,783 @@
+{
+  "categories": [
+    {
+      "path": "sports/cricket",
+      "name": "Cricket"
+    },
+    {
+      "path": "sports/cricket/international",
+      "name": "International teams"
+    },
+    {
+      "path": "sports/cricket/players",
+      "name": "Cricket players"
+    }
+  ],
+  "questions": [
+    {
+      "category": "sports/cricket/international",
+      "question": "Top 10 countries by T20I wins (as of October 2026)",
+      "cutoff": 10,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1379739807 | table 1 | name: Team | value: Won | where: Team!~indicates",
+      "tags": [
+        "cricket",
+        "t20i",
+        "wins"
+      ],
+      "answers": [
+        {
+          "answer": "India",
+          "display": "198 wins",
+          "aliases": [
+            "team india"
+          ]
+        },
+        {
+          "answer": "Pakistan",
+          "display": "176 wins"
+        },
+        {
+          "answer": "New Zealand",
+          "display": "135 wins",
+          "aliases": [
+            "nz",
+            "kiwis"
+          ]
+        },
+        {
+          "answer": "South Africa",
+          "display": "129 wins",
+          "aliases": [
+            "sa",
+            "proteas"
+          ]
+        },
+        {
+          "answer": "England",
+          "display": "128 wins"
+        },
+        {
+          "answer": "Australia",
+          "display": "127 wins",
+          "aliases": [
+            "aussies"
+          ]
+        },
+        {
+          "answer": "West Indies",
+          "display": "110 wins",
+          "aliases": [
+            "windies"
+          ]
+        },
+        {
+          "answer": "Sri Lanka",
+          "display": "104 wins",
+          "aliases": [
+            "sl"
+          ]
+        },
+        {
+          "answer": "Afghanistan",
+          "display": "99 wins",
+          "aliases": [
+            "afghan"
+          ]
+        },
+        {
+          "answer": "Uganda",
+          "display": "97 wins"
+        },
+        {
+          "answer": "Bangladesh",
+          "display": "89 wins"
+        },
+        {
+          "answer": "United Arab Emirates",
+          "display": "82 wins",
+          "aliases": [
+            "uae"
+          ]
+        },
+        {
+          "answer": "Ireland",
+          "display": "80 wins"
+        }
+      ]
+    },
+    {
+      "category": "sports/cricket/players",
+      "question": "Top 10 Test run-scorers (career, as of September 2026)",
+      "cutoff": 10,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1377067902 | table 1 | name: Player | value: Runs | where: Player!~^Last",
+      "tags": [
+        "cricket",
+        "test",
+        "runs"
+      ],
+      "answers": [
+        {
+          "answer": "Sachin Tendulkar",
+          "display": "15,921 runs",
+          "aliases": [
+            "tendulkar",
+            "sachin"
+          ]
+        },
+        {
+          "answer": "Joe Root",
+          "display": "14,278 runs",
+          "aliases": [
+            "root"
+          ]
+        },
+        {
+          "answer": "Ricky Ponting",
+          "display": "13,378 runs",
+          "aliases": [
+            "ponting"
+          ]
+        },
+        {
+          "answer": "Jacques Kallis",
+          "display": "13,289 runs",
+          "aliases": [
+            "kallis"
+          ]
+        },
+        {
+          "answer": "Rahul Dravid",
+          "display": "13,288 runs",
+          "aliases": [
+            "dravid",
+            "the wall"
+          ]
+        },
+        {
+          "answer": "Alastair Cook",
+          "display": "12,472 runs",
+          "aliases": [
+            "cook"
+          ]
+        },
+        {
+          "answer": "Kumar Sangakkara",
+          "display": "12,400 runs",
+          "aliases": [
+            "sangakkara",
+            "sanga"
+          ]
+        },
+        {
+          "answer": "Brian Lara",
+          "display": "11,953 runs",
+          "aliases": [
+            "lara"
+          ]
+        },
+        {
+          "answer": "Shivnarine Chanderpaul",
+          "display": "11,867 runs",
+          "aliases": [
+            "chanderpaul"
+          ]
+        },
+        {
+          "answer": "Mahela Jayawardene",
+          "display": "11,814 runs",
+          "aliases": [
+            "jayawardene",
+            "jayawardena",
+            "mahela"
+          ]
+        },
+        {
+          "answer": "Allan Border",
+          "display": "11,174 runs",
+          "aliases": [
+            "border"
+          ]
+        },
+        {
+          "answer": "Steve Waugh",
+          "display": "10,927 runs",
+          "aliases": [
+            "waugh"
+          ]
+        },
+        {
+          "answer": "Steve Smith",
+          "display": "10,920 runs",
+          "aliases": [
+            "smith"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/cricket/players",
+      "question": "Top 10 ODI run-scorers (career, as of October 2026)",
+      "cutoff": 10,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1378700712 | table 1 | name: Player | value: Runs | where: Player!~^Last",
+      "tags": [
+        "cricket",
+        "odi",
+        "runs"
+      ],
+      "answers": [
+        {
+          "answer": "Sachin Tendulkar",
+          "display": "18,426 runs",
+          "aliases": [
+            "tendulkar",
+            "sachin"
+          ]
+        },
+        {
+          "answer": "Virat Kohli",
+          "display": "15,109 runs",
+          "aliases": [
+            "kohli",
+            "virat"
+          ]
+        },
+        {
+          "answer": "Kumar Sangakkara",
+          "display": "14,234 runs",
+          "aliases": [
+            "sangakkara",
+            "sanga"
+          ]
+        },
+        {
+          "answer": "Ricky Ponting",
+          "display": "13,704 runs",
+          "aliases": [
+            "ponting"
+          ]
+        },
+        {
+          "answer": "Sanath Jayasuriya",
+          "display": "13,430 runs",
+          "aliases": [
+            "jayasuriya"
+          ]
+        },
+        {
+          "answer": "Mahela Jayawardene",
+          "display": "12,650 runs",
+          "aliases": [
+            "jayawardene",
+            "jayawardena",
+            "mahela"
+          ]
+        },
+        {
+          "answer": "Rohit Sharma",
+          "display": "12,120 runs",
+          "aliases": [
+            "rohit",
+            "hitman"
+          ]
+        },
+        {
+          "answer": "Inzamam-ul-Haq",
+          "display": "11,739 runs",
+          "aliases": [
+            "inzamam"
+          ]
+        },
+        {
+          "answer": "Jacques Kallis",
+          "display": "11,579 runs",
+          "aliases": [
+            "kallis"
+          ]
+        },
+        {
+          "answer": "Sourav Ganguly",
+          "display": "11,363 runs",
+          "aliases": [
+            "ganguly",
+            "dada"
+          ]
+        },
+        {
+          "answer": "Rahul Dravid",
+          "display": "10,889 runs",
+          "aliases": [
+            "dravid"
+          ]
+        },
+        {
+          "answer": "MS Dhoni",
+          "display": "10,773 runs",
+          "aliases": [
+            "dhoni"
+          ]
+        },
+        {
+          "answer": "Chris Gayle",
+          "display": "10,480 runs",
+          "aliases": [
+            "gayle"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/cricket/players",
+      "question": "Top 10 Test wicket-takers (career, as of September 2026)",
+      "cutoff": 10,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1376139791 | table 2 | name: Bowler | value: Wkts | where: Bowler!~^Last",
+      "tags": [
+        "cricket",
+        "test",
+        "wickets"
+      ],
+      "answers": [
+        {
+          "answer": "Muttiah Muralitharan",
+          "display": "800 wickets",
+          "aliases": [
+            "murali",
+            "muralitharan"
+          ]
+        },
+        {
+          "answer": "Shane Warne",
+          "display": "708 wickets",
+          "aliases": [
+            "warne"
+          ]
+        },
+        {
+          "answer": "James Anderson",
+          "display": "704 wickets",
+          "aliases": [
+            "anderson",
+            "jimmy anderson"
+          ]
+        },
+        {
+          "answer": "Anil Kumble",
+          "display": "619 wickets",
+          "aliases": [
+            "kumble"
+          ]
+        },
+        {
+          "answer": "Stuart Broad",
+          "display": "604 wickets",
+          "aliases": [
+            "broad"
+          ]
+        },
+        {
+          "answer": "Nathan Lyon",
+          "display": "571 wickets",
+          "aliases": [
+            "lyon"
+          ]
+        },
+        {
+          "answer": "Glenn McGrath",
+          "display": "563 wickets",
+          "aliases": [
+            "mcgrath"
+          ]
+        },
+        {
+          "answer": "Ravichandran Ashwin",
+          "display": "537 wickets",
+          "aliases": [
+            "ashwin"
+          ]
+        },
+        {
+          "answer": "Courtney Walsh",
+          "display": "519 wickets",
+          "aliases": [
+            "walsh"
+          ]
+        },
+        {
+          "answer": "Mitchell Starc",
+          "display": "445 wickets",
+          "aliases": [
+            "starc"
+          ]
+        },
+        {
+          "answer": "Dale Steyn",
+          "display": "439 wickets",
+          "aliases": [
+            "steyn"
+          ]
+        },
+        {
+          "answer": "Kapil Dev",
+          "display": "434 wickets",
+          "aliases": [
+            "kapil"
+          ]
+        },
+        {
+          "answer": "Rangana Herath",
+          "display": "433 wickets",
+          "aliases": [
+            "herath"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/cricket/players",
+      "question": "Top 10 ODI wicket-takers (career, as of July 2023)",
+      "cutoff": 10,
+      "difficulty": 3,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1375677974 | table 2 | name: Bowler | value: Wkts | where: Bowler!~^Last",
+      "tags": [
+        "cricket",
+        "odi",
+        "wickets"
+      ],
+      "answers": [
+        {
+          "answer": "Muttiah Muralitharan",
+          "display": "534 wickets",
+          "aliases": [
+            "murali",
+            "muralitharan"
+          ]
+        },
+        {
+          "answer": "Wasim Akram",
+          "display": "502 wickets",
+          "aliases": [
+            "akram",
+            "wasim"
+          ]
+        },
+        {
+          "answer": "Waqar Younis",
+          "display": "416 wickets",
+          "aliases": [
+            "waqar"
+          ]
+        },
+        {
+          "answer": "Chaminda Vaas",
+          "display": "400 wickets",
+          "aliases": [
+            "vaas"
+          ]
+        },
+        {
+          "answer": "Shahid Afridi",
+          "display": "395 wickets",
+          "aliases": [
+            "afridi"
+          ]
+        },
+        {
+          "answer": "Shaun Pollock",
+          "display": "393 wickets",
+          "aliases": [
+            "pollock"
+          ]
+        },
+        {
+          "answer": "Glenn McGrath",
+          "display": "381 wickets",
+          "aliases": [
+            "mcgrath"
+          ]
+        },
+        {
+          "answer": "Brett Lee",
+          "display": "380 wickets",
+          "aliases": [
+            "lee"
+          ]
+        },
+        {
+          "answer": "Lasith Malinga",
+          "display": "338 wickets",
+          "aliases": [
+            "malinga"
+          ]
+        },
+        {
+          "answer": "Anil Kumble",
+          "display": "337 wickets",
+          "aliases": [
+            "kumble"
+          ]
+        },
+        {
+          "answer": "Sanath Jayasuriya",
+          "display": "323 wickets",
+          "aliases": [
+            "jayasuriya"
+          ]
+        },
+        {
+          "answer": "Shakib Al Hasan",
+          "display": "317 wickets",
+          "aliases": [
+            "shakib"
+          ]
+        },
+        {
+          "answer": "Javagal Srinath",
+          "display": "315 wickets",
+          "aliases": [
+            "srinath"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/cricket/players",
+      "question": "Top 10 cricketers by international centuries, men (Tests, ODIs and T20Is, as of October 2026)",
+      "cutoff": 10,
+      "difficulty": 3,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1379382406 | table 2 | name: Player | value: Total | where: Player!~^Last",
+      "tags": [
+        "cricket",
+        "centuries"
+      ],
+      "answers": [
+        {
+          "answer": "Sachin Tendulkar",
+          "display": "100 centuries",
+          "aliases": [
+            "tendulkar",
+            "sachin"
+          ]
+        },
+        {
+          "answer": "Virat Kohli",
+          "display": "86 centuries",
+          "aliases": [
+            "kohli",
+            "virat"
+          ]
+        },
+        {
+          "answer": "Ricky Ponting",
+          "display": "71 centuries",
+          "aliases": [
+            "ponting"
+          ]
+        },
+        {
+          "answer": "Kumar Sangakkara",
+          "display": "63 centuries",
+          "aliases": [
+            "sangakkara",
+            "sanga"
+          ]
+        },
+        {
+          "answer": "Jacques Kallis",
+          "display": "62 centuries",
+          "aliases": [
+            "kallis"
+          ]
+        },
+        {
+          "answer": "Joe Root",
+          "display": "61 centuries",
+          "aliases": [
+            "root"
+          ]
+        },
+        {
+          "answer": "Hashim Amla",
+          "display": "55 centuries",
+          "aliases": [
+            "amla"
+          ]
+        },
+        {
+          "answer": "Mahela Jayawardene",
+          "display": "54 centuries",
+          "aliases": [
+            "jayawardene",
+            "jayawardena",
+            "mahela"
+          ]
+        },
+        {
+          "answer": "Brian Lara",
+          "display": "53 centuries",
+          "aliases": [
+            "lara"
+          ]
+        },
+        {
+          "answer": "Rohit Sharma",
+          "display": "52 centuries",
+          "aliases": [
+            "rohit"
+          ]
+        },
+        {
+          "answer": "David Warner",
+          "display": "49 centuries",
+          "aliases": [
+            "warner"
+          ]
+        },
+        {
+          "answer": "Steve Smith",
+          "display": "49 centuries",
+          "aliases": [
+            "smith"
+          ]
+        },
+        {
+          "answer": "Rahul Dravid",
+          "display": "48 centuries",
+          "aliases": [
+            "dravid"
+          ]
+        },
+        {
+          "answer": "Kane Williamson",
+          "display": "48 centuries",
+          "aliases": [
+            "williamson"
+          ]
+        },
+        {
+          "answer": "AB de Villiers",
+          "display": "47 centuries",
+          "aliases": [
+            "de villiers"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/cricket/players",
+      "question": "Top 10 men's T20I run-scorers (as of September 2026)",
+      "cutoff": 10,
+      "difficulty": 3,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1376505525 | table 1 | name: Player | value: Runs | where: Player!~^Last",
+      "tags": [
+        "cricket",
+        "t20i",
+        "runs"
+      ],
+      "answers": [
+        {
+          "answer": "Babar Azam",
+          "display": "4,596 runs",
+          "aliases": [
+            "babar"
+          ]
+        },
+        {
+          "answer": "Jos Buttler",
+          "display": "4,384 runs",
+          "aliases": [
+            "buttler"
+          ]
+        },
+        {
+          "answer": "Rohit Sharma",
+          "display": "4,231 runs",
+          "aliases": [
+            "rohit"
+          ]
+        },
+        {
+          "answer": "Virat Kohli",
+          "display": "4,188 runs",
+          "aliases": [
+            "kohli",
+            "virat"
+          ]
+        },
+        {
+          "answer": "Paul Stirling",
+          "display": "3,895 runs",
+          "aliases": [
+            "stirling"
+          ]
+        },
+        {
+          "answer": "Martin Guptill",
+          "display": "3,531 runs",
+          "aliases": [
+            "guptill"
+          ]
+        },
+        {
+          "answer": "Virandeep Singh",
+          "display": "3,515 runs",
+          "aliases": [
+            "virandeep"
+          ]
+        },
+        {
+          "answer": "Mohammad Rizwan",
+          "display": "3,414 runs",
+          "aliases": [
+            "rizwan"
+          ]
+        },
+        {
+          "answer": "Muhammad Waseem",
+          "display": "3,371 runs",
+          "aliases": [
+            "waseem"
+          ]
+        },
+        {
+          "answer": "David Warner",
+          "display": "3,277 runs",
+          "aliases": [
+            "warner"
+          ]
+        },
+        {
+          "answer": "Suryakumar Yadav",
+          "display": "3,272 runs",
+          "aliases": [
+            "surya",
+            "suryakumar"
+          ]
+        },
+        {
+          "answer": "Sikandar Raza",
+          "display": "3,244 runs",
+          "aliases": [
+            "raza"
+          ]
+        },
+        {
+          "answer": "Syed Aziz",
+          "display": "3,183 runs",
+          "aliases": [
+            "aziz"
+          ]
+        }
+      ]
+    }
+  ]
+}

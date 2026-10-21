@@ -1,0 +1,1357 @@
+{
+  "categories": [
+    {
+      "path": "sports/basketball/international/fiba/world-cup",
+      "name": "FIBA World Cup"
+    },
+    {
+      "path": "sports/basketball/international/fiba/womens-world-cup",
+      "name": "FIBA Women's World Cup"
+    },
+    {
+      "path": "sports/basketball/international/europe/eurobasket",
+      "name": "EuroBasket"
+    }
+  ],
+  "questions": [
+    {
+      "category": "sports/basketball/international/fiba/world-cup",
+      "question": "Top 5 teams in the final ranking of the 1990 FIBA World Championship",
+      "cutoff": 5,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1337445307 | table 12 | name: Team | value: Rank | order: asc",
+      "tags": [
+        "basketball",
+        "fiba",
+        "world-cup",
+        "1990"
+      ],
+      "answers": [
+        {
+          "answer": "Yugoslavia",
+          "display": "#1"
+        },
+        {
+          "answer": "Soviet Union",
+          "display": "#2",
+          "aliases": [
+            "USSR"
+          ]
+        },
+        {
+          "answer": "United States",
+          "display": "#3",
+          "aliases": [
+            "USA",
+            "US"
+          ]
+        },
+        {
+          "answer": "Puerto Rico",
+          "display": "#4"
+        },
+        {
+          "answer": "Brazil",
+          "display": "#5"
+        },
+        {
+          "answer": "Greece",
+          "display": "#6"
+        },
+        {
+          "answer": "Australia",
+          "display": "#7"
+        },
+        {
+          "answer": "Argentina",
+          "display": "#8"
+        }
+      ]
+    },
+    {
+      "category": "sports/basketball/international/fiba/world-cup",
+      "question": "Top 5 teams in the final ranking of the 1998 FIBA World Championship",
+      "cutoff": 5,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1371381921 | table 12 | name: Team | value: Rank | order: asc",
+      "tags": [
+        "basketball",
+        "fiba",
+        "world-cup",
+        "1998"
+      ],
+      "answers": [
+        {
+          "answer": "FR Yugoslavia",
+          "display": "#1",
+          "aliases": [
+            "Yugoslavia"
+          ]
+        },
+        {
+          "answer": "Russia",
+          "display": "#2"
+        },
+        {
+          "answer": "United States",
+          "display": "#3",
+          "aliases": [
+            "USA",
+            "US"
+          ]
+        },
+        {
+          "answer": "Greece",
+          "display": "#4"
+        },
+        {
+          "answer": "Spain",
+          "display": "#5"
+        },
+        {
+          "answer": "Italy",
+          "display": "#6"
+        },
+        {
+          "answer": "Lithuania",
+          "display": "#7"
+        },
+        {
+          "answer": "Argentina",
+          "display": "#8"
+        }
+      ]
+    },
+    {
+      "category": "sports/basketball/international/fiba/world-cup",
+      "question": "Top 5 teams in the final ranking of the 2002 FIBA World Championship",
+      "cutoff": 5,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1371380757 | table 12 | name: Team | value: Rank | order: asc",
+      "tags": [
+        "basketball",
+        "fiba",
+        "world-cup",
+        "2002"
+      ],
+      "answers": [
+        {
+          "answer": "FR Yugoslavia",
+          "display": "#1",
+          "aliases": [
+            "Yugoslavia"
+          ]
+        },
+        {
+          "answer": "Argentina",
+          "display": "#2"
+        },
+        {
+          "answer": "Germany",
+          "display": "#3"
+        },
+        {
+          "answer": "New Zealand",
+          "display": "#4"
+        },
+        {
+          "answer": "Spain",
+          "display": "#5"
+        },
+        {
+          "answer": "United States",
+          "display": "#6",
+          "aliases": [
+            "USA",
+            "US"
+          ]
+        },
+        {
+          "answer": "Puerto Rico",
+          "display": "#7"
+        },
+        {
+          "answer": "Brazil",
+          "display": "#8"
+        }
+      ]
+    },
+    {
+      "category": "sports/basketball/international/fiba/womens-world-cup",
+      "question": "Top 5 teams in the final ranking of the 2002 FIBA World Championship for Women",
+      "cutoff": 5,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1363383738 | table 9 | name: Team | value: Rank | order: asc",
+      "tags": [
+        "basketball",
+        "fiba",
+        "womens-world-cup",
+        "2002"
+      ],
+      "answers": [
+        {
+          "answer": "United States",
+          "display": "#1",
+          "aliases": [
+            "USA",
+            "US"
+          ]
+        },
+        {
+          "answer": "Russia",
+          "display": "#2"
+        },
+        {
+          "answer": "Australia",
+          "display": "#3"
+        },
+        {
+          "answer": "South Korea",
+          "display": "#4"
+        },
+        {
+          "answer": "Spain",
+          "display": "#5"
+        },
+        {
+          "answer": "China",
+          "display": "#6"
+        },
+        {
+          "answer": "Brazil",
+          "display": "#7"
+        },
+        {
+          "answer": "France",
+          "display": "#8"
+        }
+      ]
+    },
+    {
+      "category": "sports/basketball/international/fiba/womens-world-cup",
+      "question": "Top 5 teams in the final ranking of the 2010 FIBA World Championship for Women",
+      "cutoff": 5,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1373588324 | table 15 | name: Team | value: Rank | order: asc",
+      "tags": [
+        "basketball",
+        "fiba",
+        "womens-world-cup",
+        "2010"
+      ],
+      "answers": [
+        {
+          "answer": "United States",
+          "display": "#1",
+          "aliases": [
+            "USA",
+            "US"
+          ]
+        },
+        {
+          "answer": "Czech Republic",
+          "display": "#2",
+          "aliases": [
+            "Czechia"
+          ]
+        },
+        {
+          "answer": "Spain",
+          "display": "#3"
+        },
+        {
+          "answer": "Belarus",
+          "display": "#4"
+        },
+        {
+          "answer": "Australia",
+          "display": "#5"
+        },
+        {
+          "answer": "France",
+          "display": "#6"
+        },
+        {
+          "answer": "Russia",
+          "display": "#7"
+        },
+        {
+          "answer": "South Korea",
+          "display": "#8"
+        }
+      ]
+    },
+    {
+      "category": "sports/basketball/international/fiba/world-cup",
+      "question": "Top 8 teams in the final ranking of the 1986 FIBA World Championship",
+      "cutoff": 8,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1326452666 | table 9 | name: Team | value: Rank | order: asc",
+      "tags": [
+        "basketball",
+        "fiba",
+        "world-cup",
+        "1986"
+      ],
+      "answers": [
+        {
+          "answer": "United States",
+          "display": "#1",
+          "aliases": [
+            "USA",
+            "US"
+          ]
+        },
+        {
+          "answer": "Soviet Union",
+          "display": "#2",
+          "aliases": [
+            "USSR"
+          ]
+        },
+        {
+          "answer": "Yugoslavia",
+          "display": "#3"
+        },
+        {
+          "answer": "Brazil",
+          "display": "#4"
+        },
+        {
+          "answer": "Spain",
+          "display": "#5"
+        },
+        {
+          "answer": "Italy",
+          "display": "#6"
+        },
+        {
+          "answer": "Israel",
+          "display": "#7"
+        },
+        {
+          "answer": "Canada",
+          "display": "#8"
+        },
+        {
+          "answer": "China",
+          "display": "#9"
+        },
+        {
+          "answer": "Greece",
+          "display": "#10"
+        },
+        {
+          "answer": "Cuba",
+          "display": "#11"
+        }
+      ]
+    },
+    {
+      "category": "sports/basketball/international/fiba/world-cup",
+      "question": "Top 5 teams in the final ranking of the 1994 FIBA World Championship",
+      "cutoff": 5,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1371381938 | table 14 | name: Team | value: Rank | order: asc",
+      "tags": [
+        "basketball",
+        "fiba",
+        "world-cup",
+        "1994"
+      ],
+      "answers": [
+        {
+          "answer": "United States",
+          "display": "#1",
+          "aliases": [
+            "USA",
+            "US"
+          ]
+        },
+        {
+          "answer": "Russia",
+          "display": "#2"
+        },
+        {
+          "answer": "Croatia",
+          "display": "#3"
+        },
+        {
+          "answer": "Greece",
+          "display": "#4"
+        },
+        {
+          "answer": "Australia",
+          "display": "#5"
+        },
+        {
+          "answer": "Puerto Rico",
+          "display": "#6"
+        },
+        {
+          "answer": "Canada",
+          "display": "#7"
+        },
+        {
+          "answer": "China",
+          "display": "#8"
+        }
+      ]
+    },
+    {
+      "category": "sports/basketball/international/fiba/world-cup",
+      "question": "Top 8 teams in the final ranking of the 2010 FIBA World Championship",
+      "cutoff": 8,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1371381572 | table 23 | name: Team | value: Rank | order: asc",
+      "tags": [
+        "basketball",
+        "fiba",
+        "world-cup",
+        "2010"
+      ],
+      "answers": [
+        {
+          "answer": "United States",
+          "display": "#1",
+          "aliases": [
+            "USA",
+            "US"
+          ]
+        },
+        {
+          "answer": "Turkey",
+          "display": "#2"
+        },
+        {
+          "answer": "Lithuania",
+          "display": "#3"
+        },
+        {
+          "answer": "Serbia",
+          "display": "#4"
+        },
+        {
+          "answer": "Argentina",
+          "display": "#5"
+        },
+        {
+          "answer": "Spain",
+          "display": "#6"
+        },
+        {
+          "answer": "Russia",
+          "display": "#7"
+        },
+        {
+          "answer": "Slovenia",
+          "display": "#8"
+        },
+        {
+          "answer": "Brazil",
+          "display": "#9"
+        },
+        {
+          "answer": "Australia",
+          "display": "#10"
+        },
+        {
+          "answer": "Greece",
+          "display": "#11"
+        }
+      ]
+    },
+    {
+      "category": "sports/basketball/international/fiba/world-cup",
+      "question": "Top 8 teams in the final ranking of the 2014 FIBA Basketball World Cup",
+      "cutoff": 8,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1367959881 | table 30 | name: Team | value: # | header rows: 2 | order: asc",
+      "tags": [
+        "basketball",
+        "fiba",
+        "world-cup",
+        "2014"
+      ],
+      "answers": [
+        {
+          "answer": "United States",
+          "display": "#1",
+          "aliases": [
+            "USA",
+            "US"
+          ]
+        },
+        {
+          "answer": "Serbia",
+          "display": "#2"
+        },
+        {
+          "answer": "France",
+          "display": "#3"
+        },
+        {
+          "answer": "Lithuania",
+          "display": "#4"
+        },
+        {
+          "answer": "Spain",
+          "display": "#5"
+        },
+        {
+          "answer": "Brazil",
+          "display": "#6"
+        },
+        {
+          "answer": "Slovenia",
+          "display": "#7"
+        },
+        {
+          "answer": "Turkey",
+          "display": "#8"
+        },
+        {
+          "answer": "Greece",
+          "display": "#9"
+        },
+        {
+          "answer": "Croatia",
+          "display": "#10"
+        },
+        {
+          "answer": "Argentina",
+          "display": "#11"
+        }
+      ]
+    },
+    {
+      "category": "sports/basketball/international/fiba/world-cup",
+      "question": "Top 10 teams in the final ranking of the 2019 FIBA Basketball World Cup",
+      "cutoff": 10,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1374713247 | table 21 | name: Team | value: Pos | order: asc",
+      "tags": [
+        "basketball",
+        "fiba",
+        "world-cup",
+        "2019"
+      ],
+      "answers": [
+        {
+          "answer": "Spain",
+          "display": "#1"
+        },
+        {
+          "answer": "Argentina",
+          "display": "#2"
+        },
+        {
+          "answer": "France",
+          "display": "#3"
+        },
+        {
+          "answer": "Australia",
+          "display": "#4"
+        },
+        {
+          "answer": "Serbia",
+          "display": "#5"
+        },
+        {
+          "answer": "Czech Republic",
+          "display": "#6"
+        },
+        {
+          "answer": "United States",
+          "display": "#7",
+          "aliases": [
+            "USA",
+            "US"
+          ]
+        },
+        {
+          "answer": "Poland",
+          "display": "#8"
+        },
+        {
+          "answer": "Lithuania",
+          "display": "#9"
+        },
+        {
+          "answer": "Italy",
+          "display": "#10"
+        },
+        {
+          "answer": "Greece",
+          "display": "#11"
+        },
+        {
+          "answer": "Russia",
+          "display": "#12"
+        },
+        {
+          "answer": "Brazil",
+          "display": "#13"
+        }
+      ]
+    },
+    {
+      "category": "sports/basketball/international/fiba/world-cup",
+      "question": "Top 10 teams in the final ranking of the 2023 FIBA Basketball World Cup",
+      "cutoff": 10,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1377068124 | table 21 | name: Team | value: Pos | order: asc",
+      "tags": [
+        "basketball",
+        "fiba",
+        "world-cup",
+        "2023"
+      ],
+      "answers": [
+        {
+          "answer": "Germany",
+          "display": "#1"
+        },
+        {
+          "answer": "Serbia",
+          "display": "#2"
+        },
+        {
+          "answer": "Canada",
+          "display": "#3"
+        },
+        {
+          "answer": "United States",
+          "display": "#4",
+          "aliases": [
+            "USA",
+            "US"
+          ]
+        },
+        {
+          "answer": "Latvia",
+          "display": "#5"
+        },
+        {
+          "answer": "Lithuania",
+          "display": "#6"
+        },
+        {
+          "answer": "Slovenia",
+          "display": "#7"
+        },
+        {
+          "answer": "Italy",
+          "display": "#8"
+        },
+        {
+          "answer": "Spain",
+          "display": "#9"
+        },
+        {
+          "answer": "Australia",
+          "display": "#10"
+        },
+        {
+          "answer": "Montenegro",
+          "display": "#11"
+        },
+        {
+          "answer": "Puerto Rico",
+          "display": "#12"
+        },
+        {
+          "answer": "Brazil",
+          "display": "#13"
+        }
+      ]
+    },
+    {
+      "category": "sports/basketball/international/fiba/womens-world-cup",
+      "question": "Top 5 teams in the final ranking of the 2014 FIBA World Championship for Women",
+      "cutoff": 5,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1363384371 | table 8 | name: Team | value: Rank | order: asc",
+      "tags": [
+        "basketball",
+        "fiba",
+        "womens-world-cup",
+        "2014"
+      ],
+      "answers": [
+        {
+          "answer": "United States",
+          "display": "#1",
+          "aliases": [
+            "USA",
+            "US"
+          ]
+        },
+        {
+          "answer": "Spain",
+          "display": "#2"
+        },
+        {
+          "answer": "Australia",
+          "display": "#3"
+        },
+        {
+          "answer": "Turkey",
+          "display": "#4"
+        },
+        {
+          "answer": "Canada",
+          "display": "#5"
+        },
+        {
+          "answer": "China",
+          "display": "#6"
+        },
+        {
+          "answer": "France",
+          "display": "#7"
+        },
+        {
+          "answer": "Serbia",
+          "display": "#8"
+        }
+      ]
+    },
+    {
+      "category": "sports/basketball/international/europe/eurobasket",
+      "question": "Top 5 teams in the final ranking of the 1993 EuroBasket",
+      "cutoff": 5,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1372515557 | table 14 | name: Team | value: Rank | order: asc",
+      "tags": [
+        "basketball",
+        "eurobasket",
+        "europe",
+        "1993"
+      ],
+      "answers": [
+        {
+          "answer": "Germany",
+          "display": "#1"
+        },
+        {
+          "answer": "Russia",
+          "display": "#2"
+        },
+        {
+          "answer": "Croatia",
+          "display": "#3"
+        },
+        {
+          "answer": "Greece",
+          "display": "#4"
+        },
+        {
+          "answer": "Spain",
+          "display": "#5"
+        },
+        {
+          "answer": "Estonia",
+          "display": "#6"
+        },
+        {
+          "answer": "France",
+          "display": "#7"
+        },
+        {
+          "answer": "Bosnia and Herzegovina",
+          "display": "#8"
+        }
+      ]
+    },
+    {
+      "category": "sports/basketball/international/europe/eurobasket",
+      "question": "Top 5 teams in the final ranking of the 1997 EuroBasket",
+      "cutoff": 5,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1372515611 | table 25 | name: Team | value: Rank | order: asc",
+      "tags": [
+        "basketball",
+        "eurobasket",
+        "europe",
+        "1997"
+      ],
+      "answers": [
+        {
+          "answer": "FR Yugoslavia",
+          "display": "#1"
+        },
+        {
+          "answer": "Italy",
+          "display": "#2"
+        },
+        {
+          "answer": "Russia",
+          "display": "#3"
+        },
+        {
+          "answer": "Greece",
+          "display": "#4"
+        },
+        {
+          "answer": "Spain",
+          "display": "#5"
+        },
+        {
+          "answer": "Lithuania",
+          "display": "#6"
+        },
+        {
+          "answer": "Poland",
+          "display": "#7"
+        },
+        {
+          "answer": "Turkey",
+          "display": "#8"
+        }
+      ]
+    },
+    {
+      "category": "sports/basketball/international/europe/eurobasket",
+      "question": "Top 5 teams in the final ranking of the 1999 EuroBasket",
+      "cutoff": 5,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1372503933 | table 26 | name: Team | value: Rank | order: asc",
+      "tags": [
+        "basketball",
+        "eurobasket",
+        "europe",
+        "1999"
+      ],
+      "answers": [
+        {
+          "answer": "Italy",
+          "display": "#1"
+        },
+        {
+          "answer": "Spain",
+          "display": "#2"
+        },
+        {
+          "answer": "FR Yugoslavia",
+          "display": "#3"
+        },
+        {
+          "answer": "France",
+          "display": "#4"
+        },
+        {
+          "answer": "Lithuania",
+          "display": "#5"
+        },
+        {
+          "answer": "Russia",
+          "display": "#6"
+        },
+        {
+          "answer": "Germany",
+          "display": "#7"
+        },
+        {
+          "answer": "Turkey",
+          "display": "#8"
+        }
+      ]
+    },
+    {
+      "category": "sports/basketball/international/europe/eurobasket",
+      "question": "Top 5 teams in the final ranking of the 2001 EuroBasket",
+      "cutoff": 5,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1372502955 | table 25 | name: Team | value: Rank | order: asc",
+      "tags": [
+        "basketball",
+        "eurobasket",
+        "europe",
+        "2001"
+      ],
+      "answers": [
+        {
+          "answer": "FR Yugoslavia",
+          "display": "#1"
+        },
+        {
+          "answer": "Turkey",
+          "display": "#2"
+        },
+        {
+          "answer": "Spain",
+          "display": "#3"
+        },
+        {
+          "answer": "Germany",
+          "display": "#4"
+        },
+        {
+          "answer": "Russia",
+          "display": "#5"
+        },
+        {
+          "answer": "France",
+          "display": "#6"
+        },
+        {
+          "answer": "Croatia",
+          "display": "#7"
+        },
+        {
+          "answer": "Latvia",
+          "display": "#8"
+        }
+      ]
+    },
+    {
+      "category": "sports/basketball/international/europe/eurobasket",
+      "question": "Top 5 teams in the final ranking of the 2003 EuroBasket",
+      "cutoff": 5,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1373528691 | table 25 | name: Team | value: Rank | order: asc",
+      "tags": [
+        "basketball",
+        "eurobasket",
+        "europe",
+        "2003"
+      ],
+      "answers": [
+        {
+          "answer": "Lithuania",
+          "display": "#1"
+        },
+        {
+          "answer": "Spain",
+          "display": "#2"
+        },
+        {
+          "answer": "Italy",
+          "display": "#3"
+        },
+        {
+          "answer": "France",
+          "display": "#4"
+        },
+        {
+          "answer": "Greece",
+          "display": "#5"
+        },
+        {
+          "answer": "Serbia and Montenegro",
+          "display": "#6"
+        },
+        {
+          "answer": "Israel",
+          "display": "#7"
+        },
+        {
+          "answer": "Russia",
+          "display": "#8"
+        }
+      ]
+    },
+    {
+      "category": "sports/basketball/international/europe/eurobasket",
+      "question": "Top 5 teams in the final ranking of the 2005 EuroBasket",
+      "cutoff": 5,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1371362847 | table 25 | name: Team | value: Rank | order: asc",
+      "tags": [
+        "basketball",
+        "eurobasket",
+        "europe",
+        "2005"
+      ],
+      "answers": [
+        {
+          "answer": "Greece",
+          "display": "#1"
+        },
+        {
+          "answer": "Germany",
+          "display": "#2"
+        },
+        {
+          "answer": "France",
+          "display": "#3"
+        },
+        {
+          "answer": "Spain",
+          "display": "#4"
+        },
+        {
+          "answer": "Lithuania",
+          "display": "#5"
+        },
+        {
+          "answer": "Slovenia",
+          "display": "#6"
+        },
+        {
+          "answer": "Croatia",
+          "display": "#7"
+        },
+        {
+          "answer": "Russia",
+          "display": "#8"
+        }
+      ]
+    },
+    {
+      "category": "sports/basketball/international/europe/eurobasket",
+      "question": "Top 5 teams in the final ranking of the 2007 EuroBasket",
+      "cutoff": 5,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1373528460 | table 30 | name: Team | value: Rank | order: asc",
+      "tags": [
+        "basketball",
+        "eurobasket",
+        "europe",
+        "2007"
+      ],
+      "answers": [
+        {
+          "answer": "Russia",
+          "display": "#1"
+        },
+        {
+          "answer": "Spain",
+          "display": "#2"
+        },
+        {
+          "answer": "Lithuania",
+          "display": "#3"
+        },
+        {
+          "answer": "Greece",
+          "display": "#4"
+        },
+        {
+          "answer": "Germany",
+          "display": "#5"
+        },
+        {
+          "answer": "Croatia",
+          "display": "#6"
+        },
+        {
+          "answer": "Slovenia",
+          "display": "#7"
+        },
+        {
+          "answer": "France",
+          "display": "#8"
+        }
+      ]
+    },
+    {
+      "category": "sports/basketball/international/europe/eurobasket",
+      "question": "Top 5 teams in the final ranking of the 2009 EuroBasket",
+      "cutoff": 5,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1380539769 | table 16 | name: Team | value: Rank | order: asc",
+      "tags": [
+        "basketball",
+        "eurobasket",
+        "europe",
+        "2009"
+      ],
+      "answers": [
+        {
+          "answer": "Spain",
+          "display": "#1"
+        },
+        {
+          "answer": "Serbia",
+          "display": "#2"
+        },
+        {
+          "answer": "Greece",
+          "display": "#3"
+        },
+        {
+          "answer": "Slovenia",
+          "display": "#4"
+        },
+        {
+          "answer": "France",
+          "display": "#5"
+        },
+        {
+          "answer": "Croatia",
+          "display": "#6"
+        },
+        {
+          "answer": "Russia",
+          "display": "#7"
+        },
+        {
+          "answer": "Turkey",
+          "display": "#8"
+        }
+      ]
+    },
+    {
+      "category": "sports/basketball/international/europe/eurobasket",
+      "question": "Top 8 teams in the final ranking of the 2015 EuroBasket",
+      "cutoff": 8,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1376890723 | table 12 | name: Team | value: Rank | header rows: 2 | order: asc",
+      "tags": [
+        "basketball",
+        "eurobasket",
+        "europe",
+        "2015"
+      ],
+      "answers": [
+        {
+          "answer": "Spain",
+          "display": "#1"
+        },
+        {
+          "answer": "Lithuania",
+          "display": "#2"
+        },
+        {
+          "answer": "France",
+          "display": "#3"
+        },
+        {
+          "answer": "Serbia",
+          "display": "#4"
+        },
+        {
+          "answer": "Greece",
+          "display": "#5"
+        },
+        {
+          "answer": "Italy",
+          "display": "#6"
+        },
+        {
+          "answer": "Czech Republic",
+          "display": "#7"
+        },
+        {
+          "answer": "Latvia",
+          "display": "#8"
+        },
+        {
+          "answer": "Croatia",
+          "display": "#9"
+        },
+        {
+          "answer": "Israel",
+          "display": "#10"
+        },
+        {
+          "answer": "Poland",
+          "display": "#11"
+        }
+      ]
+    },
+    {
+      "category": "sports/basketball/international/europe/eurobasket",
+      "question": "Top 8 teams in the final ranking of the 2017 EuroBasket",
+      "cutoff": 8,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1376705616 | table 11 | name: Team | value: Pos | order: asc",
+      "tags": [
+        "basketball",
+        "eurobasket",
+        "europe",
+        "2017"
+      ],
+      "answers": [
+        {
+          "answer": "Slovenia",
+          "display": "#1"
+        },
+        {
+          "answer": "Serbia",
+          "display": "#2"
+        },
+        {
+          "answer": "Spain",
+          "display": "#3"
+        },
+        {
+          "answer": "Russia",
+          "display": "#4"
+        },
+        {
+          "answer": "Latvia",
+          "display": "#5"
+        },
+        {
+          "answer": "Germany",
+          "display": "#6"
+        },
+        {
+          "answer": "Italy",
+          "display": "#7"
+        },
+        {
+          "answer": "Greece",
+          "display": "#8"
+        },
+        {
+          "answer": "Lithuania",
+          "display": "#9"
+        },
+        {
+          "answer": "Croatia",
+          "display": "#10"
+        },
+        {
+          "answer": "Finland",
+          "display": "#11"
+        }
+      ]
+    },
+    {
+      "category": "sports/basketball/international/europe/eurobasket",
+      "question": "Top 8 teams in the final ranking of the 2022 EuroBasket",
+      "cutoff": 8,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1376505239 | table 9 | name: Team | value: Rank | order: asc",
+      "tags": [
+        "basketball",
+        "eurobasket",
+        "europe",
+        "2022"
+      ],
+      "answers": [
+        {
+          "answer": "Spain",
+          "display": "#1"
+        },
+        {
+          "answer": "France",
+          "display": "#2"
+        },
+        {
+          "answer": "Germany",
+          "display": "#3"
+        },
+        {
+          "answer": "Poland",
+          "display": "#4"
+        },
+        {
+          "answer": "Greece",
+          "display": "#5"
+        },
+        {
+          "answer": "Slovenia",
+          "display": "#6"
+        },
+        {
+          "answer": "Finland",
+          "display": "#7"
+        },
+        {
+          "answer": "Italy",
+          "display": "#8"
+        },
+        {
+          "answer": "Serbia",
+          "display": "#9"
+        },
+        {
+          "answer": "Turkey",
+          "display": "#10"
+        },
+        {
+          "answer": "Ukraine",
+          "display": "#11"
+        }
+      ]
+    },
+    {
+      "category": "sports/basketball/international/europe/eurobasket",
+      "question": "Top 8 teams in the final ranking of the 2025 EuroBasket",
+      "cutoff": 8,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1376366178 | table 13 | name: Team | value: Rank | order: asc",
+      "tags": [
+        "basketball",
+        "eurobasket",
+        "europe",
+        "2025"
+      ],
+      "answers": [
+        {
+          "answer": "Germany",
+          "display": "#1"
+        },
+        {
+          "answer": "Turkey",
+          "display": "#2"
+        },
+        {
+          "answer": "Greece",
+          "display": "#3"
+        },
+        {
+          "answer": "Finland",
+          "display": "#4"
+        },
+        {
+          "answer": "Lithuania",
+          "display": "#5"
+        },
+        {
+          "answer": "Poland",
+          "display": "#6"
+        },
+        {
+          "answer": "Slovenia",
+          "display": "#7"
+        },
+        {
+          "answer": "Georgia",
+          "display": "#8"
+        },
+        {
+          "answer": "France",
+          "display": "#9"
+        },
+        {
+          "answer": "Serbia",
+          "display": "#10"
+        },
+        {
+          "answer": "Italy",
+          "display": "#11"
+        }
+      ]
+    }
+  ]
+}

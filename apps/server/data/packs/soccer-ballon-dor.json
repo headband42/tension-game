@@ -1,0 +1,2512 @@
+{
+  "categories": [
+    {
+      "path": "sports/soccer/awards",
+      "name": "Awards"
+    },
+    {
+      "path": "sports/soccer/awards/ballon-dor",
+      "name": "Ballon d'Or"
+    }
+  ],
+  "questions": [
+    {
+      "category": "sports/soccer/awards/ballon-dor",
+      "difficulty": 2,
+      "question": "Top 10 in the 1995 Ballon d'Or voting",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1354461477 | table 1 | name: Player | value: Points",
+      "tags": [
+        "soccer",
+        "ballon d'or",
+        "awards",
+        "voting"
+      ],
+      "cutoff": 10,
+      "submitter": "claude",
+      "answers": [
+        {
+          "answer": "George Weah",
+          "display": "144 points",
+          "aliases": [
+            "Weah"
+          ]
+        },
+        {
+          "answer": "Jürgen Klinsmann",
+          "display": "108 points",
+          "aliases": [
+            "Klinsmann"
+          ]
+        },
+        {
+          "answer": "Jari Litmanen",
+          "display": "67 points",
+          "aliases": [
+            "Litmanen"
+          ]
+        },
+        {
+          "answer": "Alessandro Del Piero",
+          "display": "57 points"
+        },
+        {
+          "answer": "Patrick Kluivert",
+          "display": "47 points",
+          "aliases": [
+            "Kluivert"
+          ]
+        },
+        {
+          "answer": "Gianfranco Zola",
+          "display": "41 points",
+          "aliases": [
+            "Zola"
+          ]
+        },
+        {
+          "answer": "Paolo Maldini",
+          "display": "36 points",
+          "aliases": [
+            "Maldini"
+          ]
+        },
+        {
+          "answer": "Marc Overmars",
+          "display": "33 points",
+          "aliases": [
+            "Overmars"
+          ]
+        },
+        {
+          "answer": "Matthias Sammer",
+          "display": "18 points",
+          "aliases": [
+            "Sammer"
+          ]
+        },
+        {
+          "answer": "Michael Laudrup",
+          "display": "17 points",
+          "aliases": [
+            "Laudrup"
+          ]
+        },
+        {
+          "answer": "Marcel Desailly",
+          "display": "16 points",
+          "aliases": [
+            "Desailly"
+          ]
+        },
+        {
+          "answer": "Frank Rijkaard",
+          "display": "15 points",
+          "aliases": [
+            "Rijkaard"
+          ]
+        },
+        {
+          "answer": "Fabrizio Ravanelli",
+          "display": "15 points",
+          "aliases": [
+            "Ravanelli"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/soccer/awards/ballon-dor",
+      "difficulty": 2,
+      "question": "Top 10 in the 1996 Ballon d'Or voting",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1354461335 | table 1 | name: Player | value: Points",
+      "tags": [
+        "soccer",
+        "ballon d'or",
+        "awards",
+        "voting"
+      ],
+      "cutoff": 10,
+      "submitter": "claude",
+      "answers": [
+        {
+          "answer": "Matthias Sammer",
+          "display": "144 points",
+          "aliases": [
+            "Sammer"
+          ]
+        },
+        {
+          "answer": "Ronaldo Nazário",
+          "display": "143 points",
+          "aliases": [
+            "R9",
+            "Ronaldo"
+          ]
+        },
+        {
+          "answer": "Alan Shearer",
+          "display": "107 points",
+          "aliases": [
+            "Shearer"
+          ]
+        },
+        {
+          "answer": "Alessandro Del Piero",
+          "display": "69 points"
+        },
+        {
+          "answer": "Jürgen Klinsmann",
+          "display": "60 points",
+          "aliases": [
+            "Klinsmann"
+          ]
+        },
+        {
+          "answer": "Davor Šuker",
+          "display": "38 points",
+          "aliases": [
+            "Šuker"
+          ]
+        },
+        {
+          "answer": "Eric Cantona",
+          "display": "24 points",
+          "aliases": [
+            "Cantona"
+          ]
+        },
+        {
+          "answer": "Marcel Desailly",
+          "display": "22 points",
+          "aliases": [
+            "Desailly"
+          ]
+        },
+        {
+          "answer": "Youri Djorkaeff",
+          "display": "20 points",
+          "aliases": [
+            "Djorkaeff"
+          ]
+        },
+        {
+          "answer": "Karel Poborský",
+          "display": "15 points",
+          "aliases": [
+            "Poborský"
+          ]
+        },
+        {
+          "answer": "Nwankwo Kanu",
+          "display": "14 points",
+          "aliases": [
+            "Kanu"
+          ]
+        },
+        {
+          "answer": "George Weah",
+          "display": "13 points",
+          "aliases": [
+            "Weah"
+          ]
+        },
+        {
+          "answer": "Alen Bokšić",
+          "display": "12 points",
+          "aliases": [
+            "Bokšić"
+          ]
+        },
+        {
+          "answer": "Gabriel Batistuta",
+          "display": "12 points",
+          "aliases": [
+            "Batistuta"
+          ]
+        },
+        {
+          "answer": "Andreas Köpke",
+          "display": "12 points",
+          "aliases": [
+            "Köpke"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/soccer/awards/ballon-dor",
+      "difficulty": 2,
+      "question": "Top 9 in the 1997 Ballon d'Or voting",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1379425663 | table 1 | name: Player | value: Points | note: #10 Sammer and #11 Vieri tie on 16 points",
+      "tags": [
+        "soccer",
+        "ballon d'or",
+        "awards",
+        "voting"
+      ],
+      "cutoff": 9,
+      "submitter": "claude",
+      "answers": [
+        {
+          "answer": "Ronaldo Nazário",
+          "display": "222 points",
+          "aliases": [
+            "R9",
+            "Ronaldo"
+          ]
+        },
+        {
+          "answer": "Predrag Mijatović",
+          "display": "68 points",
+          "aliases": [
+            "Mijatović"
+          ]
+        },
+        {
+          "answer": "Zinedine Zidane",
+          "display": "63 points",
+          "aliases": [
+            "Zidane",
+            "Zizou"
+          ]
+        },
+        {
+          "answer": "Dennis Bergkamp",
+          "display": "57 points",
+          "aliases": [
+            "Bergkamp"
+          ]
+        },
+        {
+          "answer": "Roberto Carlos",
+          "display": "47 points"
+        },
+        {
+          "answer": "Andreas Möller",
+          "display": "40 points",
+          "aliases": [
+            "Möller"
+          ]
+        },
+        {
+          "answer": "Raúl González",
+          "display": "35 points",
+          "aliases": [
+            "Raúl"
+          ]
+        },
+        {
+          "answer": "Peter Schmeichel",
+          "display": "19 points",
+          "aliases": [
+            "Schmeichel"
+          ]
+        },
+        {
+          "answer": "Jürgen Kohler",
+          "display": "17 points",
+          "aliases": [
+            "Kohler"
+          ]
+        },
+        {
+          "answer": "Matthias Sammer",
+          "display": "16 points",
+          "aliases": [
+            "Sammer"
+          ]
+        },
+        {
+          "answer": "Christian Vieri",
+          "display": "16 points",
+          "aliases": [
+            "Vieri"
+          ]
+        },
+        {
+          "answer": "Youri Djorkaeff",
+          "display": "15 points",
+          "aliases": [
+            "Djorkaeff"
+          ]
+        },
+        {
+          "answer": "Luis Enrique",
+          "display": "14 points",
+          "aliases": [
+            "Enrique"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/soccer/awards/ballon-dor",
+      "difficulty": 2,
+      "question": "Top 10 in the 1998 Ballon d'Or voting",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1379270002 | table 1 | name: Player | value: Points",
+      "tags": [
+        "soccer",
+        "ballon d'or",
+        "awards",
+        "voting"
+      ],
+      "cutoff": 10,
+      "submitter": "claude",
+      "answers": [
+        {
+          "answer": "Zinedine Zidane",
+          "display": "244 points",
+          "aliases": [
+            "Zidane",
+            "Zizou"
+          ]
+        },
+        {
+          "answer": "Davor Šuker",
+          "display": "68 points",
+          "aliases": [
+            "Šuker"
+          ]
+        },
+        {
+          "answer": "Ronaldo Nazário",
+          "display": "66 points",
+          "aliases": [
+            "R9",
+            "Ronaldo"
+          ]
+        },
+        {
+          "answer": "Michael Owen",
+          "display": "51 points",
+          "aliases": [
+            "Owen"
+          ]
+        },
+        {
+          "answer": "Rivaldo",
+          "display": "45 points"
+        },
+        {
+          "answer": "Gabriel Batistuta",
+          "display": "43 points",
+          "aliases": [
+            "Batistuta"
+          ]
+        },
+        {
+          "answer": "Lilian Thuram",
+          "display": "36 points",
+          "aliases": [
+            "Thuram"
+          ]
+        },
+        {
+          "answer": "Edgar Davids",
+          "display": "28 points",
+          "aliases": [
+            "Davids"
+          ]
+        },
+        {
+          "answer": "Dennis Bergkamp",
+          "display": "28 points",
+          "aliases": [
+            "Bergkamp"
+          ]
+        },
+        {
+          "answer": "Marcel Desailly",
+          "display": "19 points",
+          "aliases": [
+            "Desailly"
+          ]
+        },
+        {
+          "answer": "Frank de Boer",
+          "display": "17 points"
+        },
+        {
+          "answer": "Emmanuel Petit",
+          "display": "16 points",
+          "aliases": [
+            "Petit"
+          ]
+        },
+        {
+          "answer": "Roberto Carlos",
+          "display": "13 points"
+        }
+      ]
+    },
+    {
+      "category": "sports/soccer/awards/ballon-dor",
+      "difficulty": 2,
+      "question": "Top 10 in the 1999 Ballon d'Or voting",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1379425538 | table 1 | name: Player | value: Points",
+      "tags": [
+        "soccer",
+        "ballon d'or",
+        "awards",
+        "voting"
+      ],
+      "cutoff": 10,
+      "submitter": "claude",
+      "answers": [
+        {
+          "answer": "Rivaldo",
+          "display": "219 points"
+        },
+        {
+          "answer": "David Beckham",
+          "display": "154 points",
+          "aliases": [
+            "Beckham"
+          ]
+        },
+        {
+          "answer": "Andriy Shevchenko",
+          "display": "64 points",
+          "aliases": [
+            "Shevchenko",
+            "Sheva"
+          ]
+        },
+        {
+          "answer": "Gabriel Batistuta",
+          "display": "48 points",
+          "aliases": [
+            "Batistuta"
+          ]
+        },
+        {
+          "answer": "Luís Figo",
+          "display": "38 points",
+          "aliases": [
+            "Figo"
+          ]
+        },
+        {
+          "answer": "Roy Keane",
+          "display": "36 points",
+          "aliases": [
+            "Keane"
+          ]
+        },
+        {
+          "answer": "Christian Vieri",
+          "display": "33 points",
+          "aliases": [
+            "Vieri"
+          ]
+        },
+        {
+          "answer": "Juan Sebastián Verón",
+          "display": "30 points"
+        },
+        {
+          "answer": "Raúl González",
+          "display": "27 points",
+          "aliases": [
+            "Raúl"
+          ]
+        },
+        {
+          "answer": "Lothar Matthäus",
+          "display": "16 points",
+          "aliases": [
+            "Matthäus"
+          ]
+        },
+        {
+          "answer": "Dwight Yorke",
+          "display": "14 points",
+          "aliases": [
+            "Yorke"
+          ]
+        },
+        {
+          "answer": "Jaap Stam",
+          "display": "13 points",
+          "aliases": [
+            "Stam"
+          ]
+        },
+        {
+          "answer": "Siniša Mihajlović",
+          "display": "12 points",
+          "aliases": [
+            "Mihajlović"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/soccer/awards/ballon-dor",
+      "difficulty": 2,
+      "question": "Top 9 in the 2000 Ballon d'Or voting",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1367186734 | table 1 | name: Player | value: Points | note: #10 Maldini and #11 Beckham tie on 10 points",
+      "tags": [
+        "soccer",
+        "ballon d'or",
+        "awards",
+        "voting"
+      ],
+      "cutoff": 9,
+      "submitter": "claude",
+      "answers": [
+        {
+          "answer": "Luís Figo",
+          "display": "197 points",
+          "aliases": [
+            "Figo"
+          ]
+        },
+        {
+          "answer": "Zinedine Zidane",
+          "display": "181 points",
+          "aliases": [
+            "Zidane",
+            "Zizou"
+          ]
+        },
+        {
+          "answer": "Andriy Shevchenko",
+          "display": "85 points",
+          "aliases": [
+            "Shevchenko",
+            "Sheva"
+          ]
+        },
+        {
+          "answer": "Thierry Henry",
+          "display": "57 points",
+          "aliases": [
+            "Henry"
+          ]
+        },
+        {
+          "answer": "Alessandro Nesta",
+          "display": "39 points",
+          "aliases": [
+            "Nesta"
+          ]
+        },
+        {
+          "answer": "Rivaldo",
+          "display": "39 points"
+        },
+        {
+          "answer": "Gabriel Batistuta",
+          "display": "26 points",
+          "aliases": [
+            "Batistuta"
+          ]
+        },
+        {
+          "answer": "Gaizka Mendieta",
+          "display": "22 points",
+          "aliases": [
+            "Mendieta"
+          ]
+        },
+        {
+          "answer": "Raúl González",
+          "display": "18 points",
+          "aliases": [
+            "Raúl"
+          ]
+        },
+        {
+          "answer": "Paolo Maldini",
+          "display": "10 points",
+          "aliases": [
+            "Maldini"
+          ]
+        },
+        {
+          "answer": "David Beckham",
+          "display": "10 points",
+          "aliases": [
+            "Beckham"
+          ]
+        },
+        {
+          "answer": "Zlatko Zahovič",
+          "display": "8 points",
+          "aliases": [
+            "Zahovič"
+          ]
+        },
+        {
+          "answer": "Fabien Barthez",
+          "display": "8 points",
+          "aliases": [
+            "Barthez"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/soccer/awards/ballon-dor",
+      "difficulty": 2,
+      "question": "Top 10 in the 2001 Ballon d'Or voting",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1355615318 | table 1 | name: Player | value: Points",
+      "tags": [
+        "soccer",
+        "ballon d'or",
+        "awards",
+        "voting"
+      ],
+      "cutoff": 10,
+      "submitter": "claude",
+      "answers": [
+        {
+          "answer": "Michael Owen",
+          "display": "176 points",
+          "aliases": [
+            "Owen"
+          ]
+        },
+        {
+          "answer": "Raúl González",
+          "display": "140 points",
+          "aliases": [
+            "Raúl"
+          ]
+        },
+        {
+          "answer": "Oliver Kahn",
+          "display": "114 points",
+          "aliases": [
+            "Kahn"
+          ]
+        },
+        {
+          "answer": "David Beckham",
+          "display": "102 points",
+          "aliases": [
+            "Beckham"
+          ]
+        },
+        {
+          "answer": "Francesco Totti",
+          "display": "57 points",
+          "aliases": [
+            "Totti"
+          ]
+        },
+        {
+          "answer": "Luís Figo",
+          "display": "56 points",
+          "aliases": [
+            "Figo"
+          ]
+        },
+        {
+          "answer": "Rivaldo",
+          "display": "20 points"
+        },
+        {
+          "answer": "Andriy Shevchenko",
+          "display": "18 points",
+          "aliases": [
+            "Shevchenko",
+            "Sheva"
+          ]
+        },
+        {
+          "answer": "Thierry Henry",
+          "display": "14 points",
+          "aliases": [
+            "Henry"
+          ]
+        },
+        {
+          "answer": "Zinedine Zidane",
+          "display": "14 points",
+          "aliases": [
+            "Zidane",
+            "Zizou"
+          ]
+        },
+        {
+          "answer": "Bixente Lizarazu",
+          "display": "10 points",
+          "aliases": [
+            "Lizarazu"
+          ]
+        },
+        {
+          "answer": "David Trezeguet",
+          "display": "7 points",
+          "aliases": [
+            "Trezeguet"
+          ]
+        },
+        {
+          "answer": "Stefan Effenberg",
+          "display": "6 points",
+          "aliases": [
+            "Effenberg"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/soccer/awards/ballon-dor",
+      "difficulty": 2,
+      "question": "Top 10 in the 2002 Ballon d'Or voting",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1355000821 | table 1 | name: Player | value: Points",
+      "tags": [
+        "soccer",
+        "ballon d'or",
+        "awards",
+        "voting"
+      ],
+      "cutoff": 10,
+      "submitter": "claude",
+      "answers": [
+        {
+          "answer": "Ronaldo Nazário",
+          "display": "169 points",
+          "aliases": [
+            "R9",
+            "Ronaldo"
+          ]
+        },
+        {
+          "answer": "Roberto Carlos",
+          "display": "145 points"
+        },
+        {
+          "answer": "Oliver Kahn",
+          "display": "110 points",
+          "aliases": [
+            "Kahn"
+          ]
+        },
+        {
+          "answer": "Zinedine Zidane",
+          "display": "78 points",
+          "aliases": [
+            "Zidane",
+            "Zizou"
+          ]
+        },
+        {
+          "answer": "Michael Ballack",
+          "display": "71 points",
+          "aliases": [
+            "Ballack"
+          ]
+        },
+        {
+          "answer": "Thierry Henry",
+          "display": "54 points",
+          "aliases": [
+            "Henry"
+          ]
+        },
+        {
+          "answer": "Raúl González",
+          "display": "38 points",
+          "aliases": [
+            "Raúl"
+          ]
+        },
+        {
+          "answer": "Rivaldo",
+          "display": "31 points"
+        },
+        {
+          "answer": "Yıldıray Baştürk",
+          "display": "13 points",
+          "aliases": [
+            "Baştürk"
+          ]
+        },
+        {
+          "answer": "Alessandro Del Piero",
+          "display": "12 points"
+        },
+        {
+          "answer": "Hasan Şaş",
+          "display": "10 points"
+        },
+        {
+          "answer": "Ronaldinho",
+          "display": "8 points"
+        },
+        {
+          "answer": "Michael Owen",
+          "display": "5 points",
+          "aliases": [
+            "Owen"
+          ]
+        },
+        {
+          "answer": "Ruud van Nistelrooy",
+          "display": "5 points",
+          "aliases": [
+            "Van Nistelrooy"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/soccer/awards/ballon-dor",
+      "difficulty": 2,
+      "question": "Top 9 in the 2003 Ballon d'Or voting",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1368273825 | table 1 | name: Player | value: Total | note: #13 to #17 all tie on 4 points, so the zone stops at #12",
+      "tags": [
+        "soccer",
+        "ballon d'or",
+        "awards",
+        "voting"
+      ],
+      "cutoff": 9,
+      "submitter": "claude",
+      "answers": [
+        {
+          "answer": "Pavel Nedvěd",
+          "display": "190 points",
+          "aliases": [
+            "Nedvěd"
+          ]
+        },
+        {
+          "answer": "Thierry Henry",
+          "display": "128 points",
+          "aliases": [
+            "Henry"
+          ]
+        },
+        {
+          "answer": "Paolo Maldini",
+          "display": "123 points",
+          "aliases": [
+            "Maldini"
+          ]
+        },
+        {
+          "answer": "Andriy Shevchenko",
+          "display": "67 points",
+          "aliases": [
+            "Shevchenko",
+            "Sheva"
+          ]
+        },
+        {
+          "answer": "Zinedine Zidane",
+          "display": "64 points",
+          "aliases": [
+            "Zidane",
+            "Zizou"
+          ]
+        },
+        {
+          "answer": "Ruud van Nistelrooy",
+          "display": "61 points",
+          "aliases": [
+            "Van Nistelrooy"
+          ]
+        },
+        {
+          "answer": "Raúl González",
+          "display": "32 points",
+          "aliases": [
+            "Raúl"
+          ]
+        },
+        {
+          "answer": "Roberto Carlos",
+          "display": "27 points"
+        },
+        {
+          "answer": "Gianluigi Buffon",
+          "display": "19 points",
+          "aliases": [
+            "Buffon"
+          ]
+        },
+        {
+          "answer": "David Beckham",
+          "display": "17 points",
+          "aliases": [
+            "Beckham"
+          ]
+        },
+        {
+          "answer": "Ronaldo Nazário",
+          "display": "11 points",
+          "aliases": [
+            "R9",
+            "Ronaldo"
+          ]
+        },
+        {
+          "answer": "Henrik Larsson",
+          "display": "6 points",
+          "aliases": [
+            "Larsson"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/soccer/awards/ballon-dor",
+      "difficulty": 2,
+      "question": "Top 10 in the 2004 Ballon d'Or voting",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1366754910 | table 1 | name: Player | value: Total",
+      "tags": [
+        "soccer",
+        "ballon d'or",
+        "awards",
+        "voting"
+      ],
+      "cutoff": 10,
+      "submitter": "claude",
+      "answers": [
+        {
+          "answer": "Andriy Shevchenko",
+          "display": "175 points",
+          "aliases": [
+            "Shevchenko",
+            "Sheva"
+          ]
+        },
+        {
+          "answer": "Deco",
+          "display": "139 points"
+        },
+        {
+          "answer": "Ronaldinho",
+          "display": "133 points"
+        },
+        {
+          "answer": "Thierry Henry",
+          "display": "80 points",
+          "aliases": [
+            "Henry"
+          ]
+        },
+        {
+          "answer": "Theodoros Zagorakis",
+          "display": "44 points",
+          "aliases": [
+            "Zagorakis"
+          ]
+        },
+        {
+          "answer": "Adriano",
+          "display": "27 points"
+        },
+        {
+          "answer": "Pavel Nedvěd",
+          "display": "23 points",
+          "aliases": [
+            "Nedvěd"
+          ]
+        },
+        {
+          "answer": "Wayne Rooney",
+          "display": "22 points",
+          "aliases": [
+            "Rooney"
+          ]
+        },
+        {
+          "answer": "Ricardo Carvalho",
+          "display": "18 points",
+          "aliases": [
+            "Carvalho"
+          ]
+        },
+        {
+          "answer": "Ruud van Nistelrooy",
+          "display": "18 points",
+          "aliases": [
+            "Van Nistelrooy"
+          ]
+        },
+        {
+          "answer": "Angelos Charisteas",
+          "display": "15 points",
+          "aliases": [
+            "Charisteas"
+          ]
+        },
+        {
+          "answer": "Cristiano Ronaldo",
+          "display": "11 points",
+          "aliases": [
+            "Cristiano",
+            "CR7"
+          ]
+        },
+        {
+          "answer": "Milan Baroš",
+          "display": "11 points",
+          "aliases": [
+            "Baroš"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/soccer/awards/ballon-dor",
+      "difficulty": 2,
+      "question": "Top 9 in the 2005 Ballon d'Or voting",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1375028140 | table 1 | name: Player | value: Total | note: #10 Eto'o and #11 Terry tie on 18 points",
+      "tags": [
+        "soccer",
+        "ballon d'or",
+        "awards",
+        "voting"
+      ],
+      "cutoff": 9,
+      "submitter": "claude",
+      "answers": [
+        {
+          "answer": "Ronaldinho",
+          "display": "225 points"
+        },
+        {
+          "answer": "Frank Lampard",
+          "display": "148 points",
+          "aliases": [
+            "Lampard"
+          ]
+        },
+        {
+          "answer": "Steven Gerrard",
+          "display": "142 points",
+          "aliases": [
+            "Gerrard"
+          ]
+        },
+        {
+          "answer": "Thierry Henry",
+          "display": "41 points",
+          "aliases": [
+            "Henry"
+          ]
+        },
+        {
+          "answer": "Andriy Shevchenko",
+          "display": "33 points",
+          "aliases": [
+            "Shevchenko",
+            "Sheva"
+          ]
+        },
+        {
+          "answer": "Paolo Maldini",
+          "display": "23 points",
+          "aliases": [
+            "Maldini"
+          ]
+        },
+        {
+          "answer": "Adriano",
+          "display": "22 points"
+        },
+        {
+          "answer": "Zlatan Ibrahimović",
+          "display": "21 points",
+          "aliases": [
+            "Ibrahimović",
+            "Zlatan"
+          ]
+        },
+        {
+          "answer": "Kaká",
+          "display": "19 points"
+        },
+        {
+          "answer": "Samuel Eto'o",
+          "display": "18 points",
+          "aliases": [
+            "Eto'o"
+          ]
+        },
+        {
+          "answer": "John Terry",
+          "display": "18 points",
+          "aliases": [
+            "Terry"
+          ]
+        },
+        {
+          "answer": "Juninho",
+          "display": "15 points"
+        },
+        {
+          "answer": "Claude Makélélé",
+          "display": "8 points",
+          "aliases": [
+            "Makélélé"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/soccer/awards/ballon-dor",
+      "difficulty": 2,
+      "question": "Top 10 in the 2006 Ballon d'Or voting",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1366515475 | table 1 | name: Player | value: Total",
+      "tags": [
+        "soccer",
+        "ballon d'or",
+        "awards",
+        "voting"
+      ],
+      "cutoff": 10,
+      "submitter": "claude",
+      "answers": [
+        {
+          "answer": "Fabio Cannavaro",
+          "display": "173 points",
+          "aliases": [
+            "Cannavaro"
+          ]
+        },
+        {
+          "answer": "Gianluigi Buffon",
+          "display": "124 points",
+          "aliases": [
+            "Buffon"
+          ]
+        },
+        {
+          "answer": "Thierry Henry",
+          "display": "121 points",
+          "aliases": [
+            "Henry"
+          ]
+        },
+        {
+          "answer": "Ronaldinho",
+          "display": "73 points"
+        },
+        {
+          "answer": "Zinedine Zidane",
+          "display": "71 points",
+          "aliases": [
+            "Zidane",
+            "Zizou"
+          ]
+        },
+        {
+          "answer": "Samuel Eto'o",
+          "display": "67 points",
+          "aliases": [
+            "Eto'o"
+          ]
+        },
+        {
+          "answer": "Miroslav Klose",
+          "display": "29 points",
+          "aliases": [
+            "Klose"
+          ]
+        },
+        {
+          "answer": "Didier Drogba",
+          "display": "25 points",
+          "aliases": [
+            "Drogba"
+          ]
+        },
+        {
+          "answer": "Andrea Pirlo",
+          "display": "17 points",
+          "aliases": [
+            "Pirlo"
+          ]
+        },
+        {
+          "answer": "Jens Lehmann",
+          "display": "13 points",
+          "aliases": [
+            "Lehmann"
+          ]
+        },
+        {
+          "answer": "Deco",
+          "display": "11 points"
+        },
+        {
+          "answer": "Kaká",
+          "display": "11 points"
+        },
+        {
+          "answer": "Franck Ribéry",
+          "display": "9 points",
+          "aliases": [
+            "Ribéry"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/soccer/awards/ballon-dor",
+      "difficulty": 2,
+      "question": "Top 10 in the 2007 Ballon d'Or voting",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1374700453 | table 1 | name: Player | value: Points",
+      "tags": [
+        "soccer",
+        "ballon d'or",
+        "awards",
+        "voting"
+      ],
+      "cutoff": 10,
+      "submitter": "claude",
+      "answers": [
+        {
+          "answer": "Kaká",
+          "display": "444 points"
+        },
+        {
+          "answer": "Cristiano Ronaldo",
+          "display": "277 points",
+          "aliases": [
+            "Cristiano",
+            "CR7"
+          ]
+        },
+        {
+          "answer": "Lionel Messi",
+          "display": "255 points",
+          "aliases": [
+            "Messi"
+          ]
+        },
+        {
+          "answer": "Didier Drogba",
+          "display": "108 points",
+          "aliases": [
+            "Drogba"
+          ]
+        },
+        {
+          "answer": "Andrea Pirlo",
+          "display": "41 points",
+          "aliases": [
+            "Pirlo"
+          ]
+        },
+        {
+          "answer": "Ruud van Nistelrooy",
+          "display": "39 points",
+          "aliases": [
+            "Van Nistelrooy"
+          ]
+        },
+        {
+          "answer": "Zlatan Ibrahimović",
+          "display": "31 points",
+          "aliases": [
+            "Ibrahimović",
+            "Zlatan"
+          ]
+        },
+        {
+          "answer": "Cesc Fàbregas",
+          "display": "27 points",
+          "aliases": [
+            "Fàbregas"
+          ]
+        },
+        {
+          "answer": "Robinho",
+          "display": "24 points"
+        },
+        {
+          "answer": "Francesco Totti",
+          "display": "20 points",
+          "aliases": [
+            "Totti"
+          ]
+        },
+        {
+          "answer": "Frédéric Kanouté",
+          "display": "19 points",
+          "aliases": [
+            "Kanouté"
+          ]
+        },
+        {
+          "answer": "Ronaldinho",
+          "display": "18 points"
+        },
+        {
+          "answer": "Steven Gerrard",
+          "display": "17 points",
+          "aliases": [
+            "Gerrard"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/soccer/awards/ballon-dor",
+      "difficulty": 2,
+      "question": "Top 10 in the 2008 Ballon d'Or voting",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1374700947 | table 1 | name: Player | value: Points",
+      "tags": [
+        "soccer",
+        "ballon d'or",
+        "awards",
+        "voting"
+      ],
+      "cutoff": 10,
+      "submitter": "claude",
+      "answers": [
+        {
+          "answer": "Cristiano Ronaldo",
+          "display": "446 points",
+          "aliases": [
+            "Cristiano",
+            "CR7",
+            "Ronaldo"
+          ]
+        },
+        {
+          "answer": "Lionel Messi",
+          "display": "281 points",
+          "aliases": [
+            "Messi"
+          ]
+        },
+        {
+          "answer": "Fernando Torres",
+          "display": "179 points",
+          "aliases": [
+            "Torres"
+          ]
+        },
+        {
+          "answer": "Iker Casillas",
+          "display": "133 points",
+          "aliases": [
+            "Casillas"
+          ]
+        },
+        {
+          "answer": "Xavi",
+          "display": "97 points"
+        },
+        {
+          "answer": "Andrey Arshavin",
+          "display": "64 points",
+          "aliases": [
+            "Arshavin"
+          ]
+        },
+        {
+          "answer": "David Villa",
+          "display": "55 points",
+          "aliases": [
+            "Villa"
+          ]
+        },
+        {
+          "answer": "Zlatan Ibrahimović",
+          "display": "30 points",
+          "aliases": [
+            "Ibrahimović",
+            "Zlatan"
+          ]
+        },
+        {
+          "answer": "Kaká",
+          "display": "29 points"
+        },
+        {
+          "answer": "Steven Gerrard",
+          "display": "28 points",
+          "aliases": [
+            "Gerrard"
+          ]
+        },
+        {
+          "answer": "Marcos Senna",
+          "display": "16 points"
+        },
+        {
+          "answer": "Emmanuel Adebayor",
+          "display": "12 points",
+          "aliases": [
+            "Adebayor"
+          ]
+        },
+        {
+          "answer": "Wayne Rooney",
+          "display": "11 points",
+          "aliases": [
+            "Rooney"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/soccer/awards/ballon-dor",
+      "difficulty": 2,
+      "question": "Top 10 in the 2009 Ballon d'Or voting",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1354998870 | table 1 | name: Player | value: Points",
+      "tags": [
+        "soccer",
+        "ballon d'or",
+        "awards",
+        "voting"
+      ],
+      "cutoff": 10,
+      "submitter": "claude",
+      "answers": [
+        {
+          "answer": "Lionel Messi",
+          "display": "473 points",
+          "aliases": [
+            "Messi"
+          ]
+        },
+        {
+          "answer": "Cristiano Ronaldo",
+          "display": "233 points",
+          "aliases": [
+            "Cristiano",
+            "CR7",
+            "Ronaldo"
+          ]
+        },
+        {
+          "answer": "Xavi",
+          "display": "170 points"
+        },
+        {
+          "answer": "Andrés Iniesta",
+          "display": "149 points",
+          "aliases": [
+            "Iniesta"
+          ]
+        },
+        {
+          "answer": "Samuel Eto'o",
+          "display": "75 points",
+          "aliases": [
+            "Eto'o"
+          ]
+        },
+        {
+          "answer": "Kaká",
+          "display": "58 points"
+        },
+        {
+          "answer": "Zlatan Ibrahimović",
+          "display": "50 points",
+          "aliases": [
+            "Ibrahimović",
+            "Zlatan"
+          ]
+        },
+        {
+          "answer": "Wayne Rooney",
+          "display": "35 points",
+          "aliases": [
+            "Rooney"
+          ]
+        },
+        {
+          "answer": "Didier Drogba",
+          "display": "33 points",
+          "aliases": [
+            "Drogba"
+          ]
+        },
+        {
+          "answer": "Steven Gerrard",
+          "display": "32 points",
+          "aliases": [
+            "Gerrard"
+          ]
+        },
+        {
+          "answer": "Fernando Torres",
+          "display": "22 points",
+          "aliases": [
+            "Torres"
+          ]
+        },
+        {
+          "answer": "Cesc Fàbregas",
+          "display": "13 points",
+          "aliases": [
+            "Fàbregas"
+          ]
+        },
+        {
+          "answer": "Edin Džeko",
+          "display": "12 points",
+          "aliases": [
+            "Džeko"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/soccer/awards/ballon-dor",
+      "difficulty": 2,
+      "question": "Top 10 in the 2016 Ballon d'Or voting",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1376381736 | table 1 | name: Player | value: Points",
+      "tags": [
+        "soccer",
+        "ballon d'or",
+        "awards",
+        "voting"
+      ],
+      "cutoff": 10,
+      "submitter": "claude",
+      "answers": [
+        {
+          "answer": "Cristiano Ronaldo",
+          "display": "745 points",
+          "aliases": [
+            "Cristiano",
+            "CR7",
+            "Ronaldo"
+          ]
+        },
+        {
+          "answer": "Lionel Messi",
+          "display": "316 points",
+          "aliases": [
+            "Messi"
+          ]
+        },
+        {
+          "answer": "Antoine Griezmann",
+          "display": "198 points",
+          "aliases": [
+            "Griezmann"
+          ]
+        },
+        {
+          "answer": "Luis Suárez",
+          "display": "91 points",
+          "aliases": [
+            "Suárez"
+          ]
+        },
+        {
+          "answer": "Neymar",
+          "display": "68 points"
+        },
+        {
+          "answer": "Gareth Bale",
+          "display": "60 points",
+          "aliases": [
+            "Bale"
+          ]
+        },
+        {
+          "answer": "Riyad Mahrez",
+          "display": "20 points",
+          "aliases": [
+            "Mahrez"
+          ]
+        },
+        {
+          "answer": "Jamie Vardy",
+          "display": "11 points",
+          "aliases": [
+            "Vardy"
+          ]
+        },
+        {
+          "answer": "Gianluigi Buffon",
+          "display": "8 points",
+          "aliases": [
+            "Buffon"
+          ]
+        },
+        {
+          "answer": "Pepe",
+          "display": "8 points"
+        },
+        {
+          "answer": "Pierre-Emerick Aubameyang",
+          "display": "7 points",
+          "aliases": [
+            "Aubameyang"
+          ]
+        },
+        {
+          "answer": "Rui Patrício",
+          "display": "6 points",
+          "aliases": [
+            "Patrício"
+          ]
+        },
+        {
+          "answer": "Zlatan Ibrahimović",
+          "display": "5 points",
+          "aliases": [
+            "Ibrahimović",
+            "Zlatan"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/soccer/awards/ballon-dor",
+      "difficulty": 2,
+      "question": "Top 10 in the 2017 Ballon d'Or voting",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1376278796 | table 1 | name: Player | value: Points",
+      "tags": [
+        "soccer",
+        "ballon d'or",
+        "awards",
+        "voting"
+      ],
+      "cutoff": 10,
+      "submitter": "claude",
+      "answers": [
+        {
+          "answer": "Cristiano Ronaldo",
+          "display": "946 points",
+          "aliases": [
+            "Cristiano",
+            "CR7",
+            "Ronaldo"
+          ]
+        },
+        {
+          "answer": "Lionel Messi",
+          "display": "670 points",
+          "aliases": [
+            "Messi"
+          ]
+        },
+        {
+          "answer": "Neymar",
+          "display": "361 points"
+        },
+        {
+          "answer": "Gianluigi Buffon",
+          "display": "221 points",
+          "aliases": [
+            "Buffon"
+          ]
+        },
+        {
+          "answer": "Luka Modrić",
+          "display": "84 points",
+          "aliases": [
+            "Modrić"
+          ]
+        },
+        {
+          "answer": "Sergio Ramos",
+          "display": "71 points",
+          "aliases": [
+            "Ramos"
+          ]
+        },
+        {
+          "answer": "Kylian Mbappé",
+          "display": "48 points",
+          "aliases": [
+            "Mbappé"
+          ]
+        },
+        {
+          "answer": "N'Golo Kanté",
+          "display": "47 points",
+          "aliases": [
+            "Kanté"
+          ]
+        },
+        {
+          "answer": "Robert Lewandowski",
+          "display": "45 points",
+          "aliases": [
+            "Lewandowski"
+          ]
+        },
+        {
+          "answer": "Harry Kane",
+          "display": "36 points",
+          "aliases": [
+            "Kane"
+          ]
+        },
+        {
+          "answer": "Edinson Cavani",
+          "display": "32 points",
+          "aliases": [
+            "Cavani"
+          ]
+        },
+        {
+          "answer": "Isco",
+          "display": "28 points"
+        },
+        {
+          "answer": "Luis Suárez",
+          "display": "27 points",
+          "aliases": [
+            "Suárez"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/soccer/awards/ballon-dor",
+      "difficulty": 2,
+      "question": "Top 10 in the 2018 Ballon d'Or voting",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1376279161 | table 1 | name: Player | value: Points",
+      "tags": [
+        "soccer",
+        "ballon d'or",
+        "awards",
+        "voting"
+      ],
+      "cutoff": 10,
+      "submitter": "claude",
+      "answers": [
+        {
+          "answer": "Luka Modrić",
+          "display": "753 points",
+          "aliases": [
+            "Modrić"
+          ]
+        },
+        {
+          "answer": "Cristiano Ronaldo",
+          "display": "476 points",
+          "aliases": [
+            "Cristiano",
+            "CR7",
+            "Ronaldo"
+          ]
+        },
+        {
+          "answer": "Antoine Griezmann",
+          "display": "414 points",
+          "aliases": [
+            "Griezmann"
+          ]
+        },
+        {
+          "answer": "Kylian Mbappé",
+          "display": "347 points",
+          "aliases": [
+            "Mbappé"
+          ]
+        },
+        {
+          "answer": "Lionel Messi",
+          "display": "280 points",
+          "aliases": [
+            "Messi"
+          ]
+        },
+        {
+          "answer": "Mohamed Salah",
+          "display": "188 points",
+          "aliases": [
+            "Salah"
+          ]
+        },
+        {
+          "answer": "Raphaël Varane",
+          "display": "121 points",
+          "aliases": [
+            "Varane"
+          ]
+        },
+        {
+          "answer": "Eden Hazard",
+          "display": "119 points",
+          "aliases": [
+            "Hazard"
+          ]
+        },
+        {
+          "answer": "Kevin De Bruyne",
+          "display": "29 points",
+          "aliases": [
+            "De Bruyne",
+            "KDB"
+          ]
+        },
+        {
+          "answer": "Harry Kane",
+          "display": "25 points",
+          "aliases": [
+            "Kane"
+          ]
+        },
+        {
+          "answer": "N'Golo Kanté",
+          "display": "24 points",
+          "aliases": [
+            "Kanté"
+          ]
+        },
+        {
+          "answer": "Neymar",
+          "display": "19 points"
+        },
+        {
+          "answer": "Luis Suárez",
+          "display": "17 points",
+          "aliases": [
+            "Suárez"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/soccer/awards/ballon-dor",
+      "difficulty": 2,
+      "question": "Top 10 in the 2019 Ballon d'Or voting",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1354998057 | table 1 | name: Player | value: Points",
+      "tags": [
+        "soccer",
+        "ballon d'or",
+        "awards",
+        "voting"
+      ],
+      "cutoff": 10,
+      "submitter": "claude",
+      "answers": [
+        {
+          "answer": "Lionel Messi",
+          "display": "686 points",
+          "aliases": [
+            "Messi"
+          ]
+        },
+        {
+          "answer": "Virgil van Dijk",
+          "display": "679 points",
+          "aliases": [
+            "Van Dijk"
+          ]
+        },
+        {
+          "answer": "Cristiano Ronaldo",
+          "display": "476 points",
+          "aliases": [
+            "Cristiano",
+            "CR7",
+            "Ronaldo"
+          ]
+        },
+        {
+          "answer": "Sadio Mané",
+          "display": "347 points",
+          "aliases": [
+            "Mané"
+          ]
+        },
+        {
+          "answer": "Mohamed Salah",
+          "display": "178 points",
+          "aliases": [
+            "Salah"
+          ]
+        },
+        {
+          "answer": "Kylian Mbappé",
+          "display": "89 points",
+          "aliases": [
+            "Mbappé"
+          ]
+        },
+        {
+          "answer": "Alisson",
+          "display": "67 points"
+        },
+        {
+          "answer": "Robert Lewandowski",
+          "display": "44 points",
+          "aliases": [
+            "Lewandowski"
+          ]
+        },
+        {
+          "answer": "Bernardo Silva",
+          "display": "41 points",
+          "aliases": [
+            "Silva"
+          ]
+        },
+        {
+          "answer": "Riyad Mahrez",
+          "display": "33 points",
+          "aliases": [
+            "Mahrez"
+          ]
+        },
+        {
+          "answer": "Frenkie de Jong",
+          "display": "31 points"
+        },
+        {
+          "answer": "Raheem Sterling",
+          "display": "30 points",
+          "aliases": [
+            "Sterling"
+          ]
+        },
+        {
+          "answer": "Eden Hazard",
+          "display": "25 points",
+          "aliases": [
+            "Hazard"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/soccer/awards/ballon-dor",
+      "difficulty": 2,
+      "question": "Top 10 in the 2021 Ballon d'Or voting",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1376279812 | table 1 | name: Player | value: Points",
+      "tags": [
+        "soccer",
+        "ballon d'or",
+        "awards",
+        "voting"
+      ],
+      "cutoff": 10,
+      "submitter": "claude",
+      "answers": [
+        {
+          "answer": "Lionel Messi",
+          "display": "613 points",
+          "aliases": [
+            "Messi"
+          ]
+        },
+        {
+          "answer": "Robert Lewandowski",
+          "display": "580 points",
+          "aliases": [
+            "Lewandowski"
+          ]
+        },
+        {
+          "answer": "Jorginho",
+          "display": "460 points"
+        },
+        {
+          "answer": "Karim Benzema",
+          "display": "239 points",
+          "aliases": [
+            "Benzema"
+          ]
+        },
+        {
+          "answer": "N'Golo Kanté",
+          "display": "186 points",
+          "aliases": [
+            "Kanté"
+          ]
+        },
+        {
+          "answer": "Cristiano Ronaldo",
+          "display": "178 points",
+          "aliases": [
+            "Cristiano",
+            "CR7",
+            "Ronaldo"
+          ]
+        },
+        {
+          "answer": "Mohamed Salah",
+          "display": "121 points",
+          "aliases": [
+            "Salah"
+          ]
+        },
+        {
+          "answer": "Kevin De Bruyne",
+          "display": "73 points",
+          "aliases": [
+            "De Bruyne",
+            "KDB"
+          ]
+        },
+        {
+          "answer": "Kylian Mbappé",
+          "display": "58 points",
+          "aliases": [
+            "Mbappé"
+          ]
+        },
+        {
+          "answer": "Gianluigi Donnarumma",
+          "display": "36 points",
+          "aliases": [
+            "Donnarumma"
+          ]
+        },
+        {
+          "answer": "Erling Haaland",
+          "display": "33 points",
+          "aliases": [
+            "Haaland"
+          ]
+        },
+        {
+          "answer": "Romelu Lukaku",
+          "display": "26 points",
+          "aliases": [
+            "Lukaku"
+          ]
+        },
+        {
+          "answer": "Giorgio Chiellini",
+          "display": "26 points",
+          "aliases": [
+            "Chiellini"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/soccer/awards/ballon-dor",
+      "difficulty": 2,
+      "question": "Top 10 in the 2022 Ballon d'Or voting",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1379690400 | table 1 | name: Player | value: Points",
+      "tags": [
+        "soccer",
+        "ballon d'or",
+        "awards",
+        "voting"
+      ],
+      "cutoff": 10,
+      "submitter": "claude",
+      "answers": [
+        {
+          "answer": "Karim Benzema",
+          "display": "549 points",
+          "aliases": [
+            "Benzema"
+          ]
+        },
+        {
+          "answer": "Sadio Mané",
+          "display": "193 points",
+          "aliases": [
+            "Mané"
+          ]
+        },
+        {
+          "answer": "Kevin De Bruyne",
+          "display": "175 points",
+          "aliases": [
+            "De Bruyne",
+            "KDB"
+          ]
+        },
+        {
+          "answer": "Robert Lewandowski",
+          "display": "170 points",
+          "aliases": [
+            "Lewandowski"
+          ]
+        },
+        {
+          "answer": "Mohamed Salah",
+          "display": "116 points",
+          "aliases": [
+            "Salah"
+          ]
+        },
+        {
+          "answer": "Kylian Mbappé",
+          "display": "85 points",
+          "aliases": [
+            "Mbappé"
+          ]
+        },
+        {
+          "answer": "Thibaut Courtois",
+          "display": "82 points",
+          "aliases": [
+            "Courtois"
+          ]
+        },
+        {
+          "answer": "Vinícius Júnior",
+          "display": "61 points",
+          "aliases": [
+            "Vinícius",
+            "Vini Jr"
+          ]
+        },
+        {
+          "answer": "Luka Modrić",
+          "display": "20 points",
+          "aliases": [
+            "Modrić"
+          ]
+        },
+        {
+          "answer": "Erling Haaland",
+          "display": "18 points",
+          "aliases": [
+            "Haaland"
+          ]
+        },
+        {
+          "answer": "Son Heung-min",
+          "display": "5 points",
+          "aliases": [
+            "Son"
+          ]
+        },
+        {
+          "answer": "Riyad Mahrez",
+          "display": "4 points",
+          "aliases": [
+            "Mahrez"
+          ]
+        },
+        {
+          "answer": "Sébastien Haller",
+          "display": "2 points",
+          "aliases": [
+            "Haller"
+          ]
+        },
+        {
+          "answer": "Fabinho",
+          "display": "2 points"
+        },
+        {
+          "answer": "Rafael Leão",
+          "display": "2 points",
+          "aliases": [
+            "Leão"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/soccer/awards/ballon-dor",
+      "difficulty": 2,
+      "question": "Top 10 in the 2023 Ballon d'Or voting",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1374845158 | table 1 | name: Player | value: Points",
+      "tags": [
+        "soccer",
+        "ballon d'or",
+        "awards",
+        "voting"
+      ],
+      "cutoff": 10,
+      "submitter": "claude",
+      "answers": [
+        {
+          "answer": "Lionel Messi",
+          "display": "462 points",
+          "aliases": [
+            "Messi"
+          ]
+        },
+        {
+          "answer": "Erling Haaland",
+          "display": "357 points",
+          "aliases": [
+            "Haaland"
+          ]
+        },
+        {
+          "answer": "Kylian Mbappé",
+          "display": "270 points",
+          "aliases": [
+            "Mbappé"
+          ]
+        },
+        {
+          "answer": "Kevin De Bruyne",
+          "display": "100 points",
+          "aliases": [
+            "De Bruyne",
+            "KDB"
+          ]
+        },
+        {
+          "answer": "Rodri",
+          "display": "57 points"
+        },
+        {
+          "answer": "Vinícius Júnior",
+          "display": "49 points",
+          "aliases": [
+            "Vinícius",
+            "Vini Jr"
+          ]
+        },
+        {
+          "answer": "Julián Álvarez",
+          "display": "28 points",
+          "aliases": [
+            "Álvarez"
+          ]
+        },
+        {
+          "answer": "Victor Osimhen",
+          "display": "24 points",
+          "aliases": [
+            "Osimhen"
+          ]
+        },
+        {
+          "answer": "Bernardo Silva",
+          "display": "20 points",
+          "aliases": [
+            "Silva"
+          ]
+        },
+        {
+          "answer": "Luka Modrić",
+          "display": "19 points",
+          "aliases": [
+            "Modrić"
+          ]
+        },
+        {
+          "answer": "Mohamed Salah",
+          "display": "13 points",
+          "aliases": [
+            "Salah"
+          ]
+        },
+        {
+          "answer": "Robert Lewandowski",
+          "display": "12 points",
+          "aliases": [
+            "Lewandowski"
+          ]
+        },
+        {
+          "answer": "Yassine Bounou",
+          "display": "10 points",
+          "aliases": [
+            "Bounou"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/soccer/awards/ballon-dor",
+      "difficulty": 2,
+      "question": "Top 10 in the 2024 Ballon d'Or voting",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1354997695 | table 1 | name: Player | value: Points",
+      "tags": [
+        "soccer",
+        "ballon d'or",
+        "awards",
+        "voting"
+      ],
+      "cutoff": 10,
+      "submitter": "claude",
+      "answers": [
+        {
+          "answer": "Rodri",
+          "display": "1170 points"
+        },
+        {
+          "answer": "Vinícius Júnior",
+          "display": "1129 points",
+          "aliases": [
+            "Vinícius",
+            "Vini Jr"
+          ]
+        },
+        {
+          "answer": "Jude Bellingham",
+          "display": "917 points",
+          "aliases": [
+            "Bellingham"
+          ]
+        },
+        {
+          "answer": "Dani Carvajal",
+          "display": "550 points",
+          "aliases": [
+            "Carvajal"
+          ]
+        },
+        {
+          "answer": "Erling Haaland",
+          "display": "432 points",
+          "aliases": [
+            "Haaland"
+          ]
+        },
+        {
+          "answer": "Kylian Mbappé",
+          "display": "420 points",
+          "aliases": [
+            "Mbappé"
+          ]
+        },
+        {
+          "answer": "Lautaro Martínez",
+          "display": "402 points",
+          "aliases": [
+            "Martínez"
+          ]
+        },
+        {
+          "answer": "Lamine Yamal",
+          "display": "383 points",
+          "aliases": [
+            "Yamal"
+          ]
+        },
+        {
+          "answer": "Toni Kroos",
+          "display": "291 points",
+          "aliases": [
+            "Kroos"
+          ]
+        },
+        {
+          "answer": "Harry Kane",
+          "display": "201 points",
+          "aliases": [
+            "Kane"
+          ]
+        },
+        {
+          "answer": "Phil Foden",
+          "display": "157 points",
+          "aliases": [
+            "Foden"
+          ]
+        },
+        {
+          "answer": "Florian Wirtz",
+          "display": "101 points",
+          "aliases": [
+            "Wirtz"
+          ]
+        },
+        {
+          "answer": "Dani Olmo",
+          "display": "86 points",
+          "aliases": [
+            "Olmo"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/soccer/awards/ballon-dor",
+      "difficulty": 2,
+      "question": "Top 10 in the 2025 Ballon d'Or voting",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1373472015 | table 1 | name: Player | value: Points",
+      "tags": [
+        "soccer",
+        "ballon d'or",
+        "awards",
+        "voting"
+      ],
+      "cutoff": 10,
+      "submitter": "claude",
+      "answers": [
+        {
+          "answer": "Ousmane Dembélé",
+          "display": "1380 points",
+          "aliases": [
+            "Dembélé"
+          ]
+        },
+        {
+          "answer": "Lamine Yamal",
+          "display": "1059 points",
+          "aliases": [
+            "Yamal"
+          ]
+        },
+        {
+          "answer": "Vitinha",
+          "display": "703 points"
+        },
+        {
+          "answer": "Mohamed Salah",
+          "display": "657 points",
+          "aliases": [
+            "Salah"
+          ]
+        },
+        {
+          "answer": "Raphinha",
+          "display": "620 points"
+        },
+        {
+          "answer": "Achraf Hakimi",
+          "display": "484 points",
+          "aliases": [
+            "Hakimi"
+          ]
+        },
+        {
+          "answer": "Kylian Mbappé",
+          "display": "378 points",
+          "aliases": [
+            "Mbappé"
+          ]
+        },
+        {
+          "answer": "Cole Palmer",
+          "display": "211 points",
+          "aliases": [
+            "Palmer"
+          ]
+        },
+        {
+          "answer": "Gianluigi Donnarumma",
+          "display": "172 points",
+          "aliases": [
+            "Donnarumma"
+          ]
+        },
+        {
+          "answer": "Nuno Mendes",
+          "display": "171 points",
+          "aliases": [
+            "Mendes"
+          ]
+        },
+        {
+          "answer": "Pedri",
+          "display": "124 points"
+        },
+        {
+          "answer": "Khvicha Kvaratskhelia",
+          "display": "123 points",
+          "aliases": [
+            "Kvaratskhelia"
+          ]
+        },
+        {
+          "answer": "Harry Kane",
+          "display": "112 points",
+          "aliases": [
+            "Kane"
+          ]
+        }
+      ]
+    }
+  ]
+}

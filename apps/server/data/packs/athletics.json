@@ -1,0 +1,1025 @@
+{
+  "categories": [
+    {
+      "path": "sports/athletics",
+      "name": "Athletics"
+    },
+    {
+      "path": "sports/athletics/sprints",
+      "name": "Sprints"
+    },
+    {
+      "path": "sports/athletics/distance",
+      "name": "Distance running"
+    },
+    {
+      "path": "sports/athletics/world-championships",
+      "name": "World Championships"
+    },
+    {
+      "path": "sports/athletics/olympics",
+      "name": "Olympics"
+    }
+  ],
+  "questions": [
+    {
+      "category": "sports/athletics/sprints",
+      "difficulty": 2,
+      "question": "Top 9 fastest men's 100 m sprinters (best time each, as of September 2026)",
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1375855825 | table 2 | name: Athlete | value: Time (s) | where: Athlete!~# | order: asc",
+      "tags": [
+        "sports",
+        "athletics",
+        "sprints",
+        "100m"
+      ],
+      "cutoff": 9,
+      "answers": [
+        {
+          "answer": "Usain Bolt",
+          "display": "9.58 s",
+          "aliases": [
+            "bolt"
+          ]
+        },
+        {
+          "answer": "Tyson Gay",
+          "display": "9.69 s",
+          "aliases": [
+            "gay"
+          ]
+        },
+        {
+          "answer": "Yohan Blake",
+          "display": "9.69 s",
+          "aliases": [
+            "blake"
+          ]
+        },
+        {
+          "answer": "Asafa Powell",
+          "display": "9.72 s",
+          "aliases": [
+            "powell"
+          ]
+        },
+        {
+          "answer": "Justin Gatlin",
+          "display": "9.74 s",
+          "aliases": [
+            "gatlin"
+          ]
+        },
+        {
+          "answer": "Kishane Thompson",
+          "display": "9.75 s",
+          "aliases": [
+            "Thompson"
+          ]
+        },
+        {
+          "answer": "Christian Coleman",
+          "display": "9.76 s",
+          "aliases": [
+            "coleman"
+          ]
+        },
+        {
+          "answer": "Trayvon Bromell",
+          "display": "9.76 s",
+          "aliases": [
+            "bromell"
+          ]
+        },
+        {
+          "answer": "Fred Kerley",
+          "display": "9.76 s",
+          "aliases": [
+            "kerley"
+          ]
+        },
+        {
+          "answer": "Ferdinand Omanyala",
+          "display": "9.77 s",
+          "aliases": [
+            "omanyala"
+          ]
+        },
+        {
+          "answer": "Oblique Seville",
+          "display": "9.77 s",
+          "aliases": [
+            "Seville"
+          ]
+        },
+        {
+          "answer": "Nesta Carter",
+          "display": "9.78 s",
+          "aliases": [
+            "Carter"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/athletics/sprints",
+      "difficulty": 2,
+      "question": "Top 9 fastest women's 100 m sprinters (best time each, as of September 2026)",
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1375855825 | table 3 | name: Athlete | value: Time (s) | where: Athlete!~# | order: asc",
+      "tags": [
+        "sports",
+        "athletics",
+        "sprints",
+        "100m"
+      ],
+      "cutoff": 9,
+      "answers": [
+        {
+          "answer": "Florence Griffith Joyner",
+          "display": "10.49 s",
+          "aliases": [
+            "flo-jo",
+            "griffith joyner",
+            "Florence Griffith-Joyner"
+          ]
+        },
+        {
+          "answer": "Elaine Thompson-Herah",
+          "display": "10.54 s",
+          "aliases": [
+            "thompson-herah",
+            "Elaine Thompson",
+            "Thompson"
+          ]
+        },
+        {
+          "answer": "Shelly-Ann Fraser-Pryce",
+          "display": "10.60 s",
+          "aliases": [
+            "fraser-pryce",
+            "Shelly-Ann Fraser",
+            "Fraser"
+          ]
+        },
+        {
+          "answer": "Melissa Jefferson-Wooden",
+          "display": "10.61 s",
+          "aliases": [
+            "Melissa Jefferson",
+            "Jefferson"
+          ]
+        },
+        {
+          "answer": "Adaejah Hodge",
+          "display": "10.63 s",
+          "aliases": [
+            "hodge"
+          ]
+        },
+        {
+          "answer": "Carmelita Jeter",
+          "display": "10.64 s",
+          "aliases": [
+            "jeter"
+          ]
+        },
+        {
+          "answer": "Marion Jones",
+          "display": "10.65 s",
+          "aliases": [
+            "jones"
+          ]
+        },
+        {
+          "answer": "Shericka Jackson",
+          "display": "10.65 s",
+          "aliases": [
+            "Jackson"
+          ]
+        },
+        {
+          "answer": "Sha'Carri Richardson",
+          "display": "10.65 s",
+          "aliases": [
+            "richardson"
+          ]
+        },
+        {
+          "answer": "Julien Alfred",
+          "display": "10.70 s",
+          "aliases": [
+            "alfred"
+          ]
+        },
+        {
+          "answer": "Marie-Josée Ta Lou",
+          "display": "10.72 s",
+          "aliases": [
+            "ta lou",
+            "Marie Josée Ta Lou"
+          ]
+        },
+        {
+          "answer": "Christine Arron",
+          "display": "10.73 s",
+          "aliases": [
+            "arron"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/athletics/sprints",
+      "difficulty": 2,
+      "question": "Top 10 fastest men's 200 m sprinters (best time each, outdoor, as of September 2026)",
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1377459536 | table 2 | name: Athlete | value: Time (s) | where: Athlete!~# | order: asc",
+      "tags": [
+        "sports",
+        "athletics",
+        "sprints",
+        "200m"
+      ],
+      "answers": [
+        {
+          "answer": "Usain Bolt",
+          "display": "19.19 s",
+          "aliases": [
+            "bolt"
+          ]
+        },
+        {
+          "answer": "Yohan Blake",
+          "display": "19.26 s",
+          "aliases": [
+            "blake"
+          ]
+        },
+        {
+          "answer": "Noah Lyles",
+          "display": "19.31 s",
+          "aliases": [
+            "lyles"
+          ]
+        },
+        {
+          "answer": "Michael Johnson",
+          "display": "19.32 s",
+          "aliases": [
+            "johnson"
+          ]
+        },
+        {
+          "answer": "Letsile Tebogo",
+          "display": "19.46 s",
+          "aliases": [
+            "tebogo"
+          ]
+        },
+        {
+          "answer": "Erriyon Knighton",
+          "display": "19.49 s",
+          "aliases": [
+            "knighton"
+          ]
+        },
+        {
+          "answer": "Kenny Bednarek",
+          "display": "19.52 s",
+          "aliases": [
+            "bednarek"
+          ]
+        },
+        {
+          "answer": "Walter Dix",
+          "display": "19.53 s",
+          "aliases": [
+            "dix"
+          ]
+        },
+        {
+          "answer": "Justin Gatlin",
+          "display": "19.57 s",
+          "aliases": [
+            "gatlin"
+          ]
+        },
+        {
+          "answer": "Tyson Gay",
+          "display": "19.58 s",
+          "aliases": [
+            "gay"
+          ]
+        },
+        {
+          "answer": "Andre De Grasse",
+          "display": "19.62 s",
+          "aliases": [
+            "de grasse"
+          ]
+        },
+        {
+          "answer": "Xavier Carter",
+          "display": "19.63 s",
+          "aliases": [
+            "Carter"
+          ]
+        },
+        {
+          "answer": "Reynier Mena",
+          "display": "19.63 s",
+          "aliases": [
+            "Mena"
+          ]
+        },
+        {
+          "answer": "Jaiden Reid",
+          "display": "19.63 s",
+          "aliases": [
+            "Reid"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/athletics/sprints",
+      "difficulty": 2,
+      "question": "Top 10 fastest women's 200 m sprinters (best time each, outdoor, as of September 2026)",
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1377459536 | table 3 | name: Athlete | value: Time (s) | where: Athlete!~# | order: asc",
+      "tags": [
+        "sports",
+        "athletics",
+        "sprints",
+        "200m"
+      ],
+      "answers": [
+        {
+          "answer": "Florence Griffith Joyner",
+          "display": "21.34 s",
+          "aliases": [
+            "flo-jo",
+            "griffith joyner",
+            "Florence Griffith-Joyner"
+          ]
+        },
+        {
+          "answer": "Shericka Jackson",
+          "display": "21.41 s",
+          "aliases": [
+            "Jackson"
+          ]
+        },
+        {
+          "answer": "Melissa Jefferson-Wooden",
+          "display": "21.47 s",
+          "aliases": [
+            "Melissa Jefferson",
+            "Jefferson"
+          ]
+        },
+        {
+          "answer": "Julien Alfred",
+          "display": "21.51 s",
+          "aliases": [
+            "alfred"
+          ]
+        },
+        {
+          "answer": "Elaine Thompson-Herah",
+          "display": "21.53 s",
+          "aliases": [
+            "thompson-herah",
+            "Elaine Thompson",
+            "Thompson"
+          ]
+        },
+        {
+          "answer": "Gabby Thomas",
+          "display": "21.60 s",
+          "aliases": [
+            "thomas"
+          ]
+        },
+        {
+          "answer": "Marion Jones",
+          "display": "21.62 s",
+          "aliases": [
+            "jones"
+          ]
+        },
+        {
+          "answer": "Dafne Schippers",
+          "display": "21.63 s",
+          "aliases": [
+            "schippers"
+          ]
+        },
+        {
+          "answer": "Merlene Ottey",
+          "display": "21.64 s",
+          "aliases": [
+            "ottey"
+          ]
+        },
+        {
+          "answer": "Adaejah Hodge",
+          "display": "21.68 s",
+          "aliases": [
+            "hodge"
+          ]
+        },
+        {
+          "answer": "Allyson Felix",
+          "display": "21.69 s",
+          "aliases": [
+            "felix"
+          ]
+        },
+        {
+          "answer": "Marita Koch",
+          "display": "21.71 s",
+          "aliases": [
+            "koch"
+          ]
+        },
+        {
+          "answer": "Heike Drechsler",
+          "display": "21.71 s",
+          "aliases": [
+            "drechsler"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/athletics/distance",
+      "difficulty": 2,
+      "question": "Top 10 fastest men's marathon times (best time each, as of October 2026)",
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1378991898 | table 3 | name: Athlete | value: Time | where: Athlete!~# | order: asc",
+      "tags": [
+        "sports",
+        "athletics",
+        "marathon"
+      ],
+      "answers": [
+        {
+          "answer": "Sabastian Sawe",
+          "display": "1:59:30",
+          "aliases": [
+            "sawe",
+            "Sebastian Sawe"
+          ]
+        },
+        {
+          "answer": "Yomif Kejelcha",
+          "display": "1:59:41",
+          "aliases": [
+            "kejelcha"
+          ]
+        },
+        {
+          "answer": "Jacob Kiplimo",
+          "display": "2:00:28",
+          "aliases": [
+            "kiplimo"
+          ]
+        },
+        {
+          "answer": "Kelvin Kiptum",
+          "display": "2:00:35",
+          "aliases": [
+            "kiptum"
+          ]
+        },
+        {
+          "answer": "Eliud Kipchoge",
+          "display": "2:01:09",
+          "aliases": [
+            "kipchoge"
+          ]
+        },
+        {
+          "answer": "Amos Kipruto",
+          "display": "2:01:39"
+        },
+        {
+          "answer": "Kenenisa Bekele",
+          "display": "2:01:41",
+          "aliases": [
+            "bekele"
+          ]
+        },
+        {
+          "answer": "Sisay Lemma",
+          "display": "2:01:48",
+          "aliases": [
+            "lemma"
+          ]
+        },
+        {
+          "answer": "Benson Kipruto",
+          "display": "2:02:16"
+        },
+        {
+          "answer": "John Korir",
+          "display": "2:02:24",
+          "aliases": [
+            "korir"
+          ]
+        },
+        {
+          "answer": "Deresa Geleta",
+          "display": "2:02:38",
+          "aliases": [
+            "Geleta"
+          ]
+        },
+        {
+          "answer": "Birhanu Legese",
+          "display": "2:02:48",
+          "aliases": [
+            "Legese"
+          ]
+        },
+        {
+          "answer": "Guye Adola",
+          "display": "2:02:50",
+          "aliases": [
+            "Adola"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/athletics/sprints",
+      "difficulty": 3,
+      "question": "Top 10 fastest men's 400 m runners (best time each, outdoor, as of October 2026)",
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1379733974 | table 2 | name: Athlete | value: Time (s) | where: Athlete!~# | order: asc",
+      "tags": [
+        "sports",
+        "athletics",
+        "400m"
+      ],
+      "answers": [
+        {
+          "answer": "Wayde van Niekerk",
+          "display": "43.03 s",
+          "aliases": [
+            "van niekerk"
+          ]
+        },
+        {
+          "answer": "Michael Johnson",
+          "display": "43.18 s",
+          "aliases": [
+            "johnson"
+          ]
+        },
+        {
+          "answer": "Butch Reynolds",
+          "display": "43.29 s",
+          "aliases": [
+            "reynolds"
+          ]
+        },
+        {
+          "answer": "Samuel Ogazi",
+          "display": "43.38 s",
+          "aliases": [
+            "Ogazi"
+          ]
+        },
+        {
+          "answer": "Collen Kebinatshipi",
+          "display": "43.39 s",
+          "aliases": [
+            "Kebinatshipi"
+          ]
+        },
+        {
+          "answer": "Quincy Hall",
+          "display": "43.40 s",
+          "aliases": [
+            "Hall"
+          ]
+        },
+        {
+          "answer": "Matthew Hudson-Smith",
+          "display": "43.44 s",
+          "aliases": [
+            "hudson-smith"
+          ]
+        },
+        {
+          "answer": "Jeremy Wariner",
+          "display": "43.45 s",
+          "aliases": [
+            "wariner"
+          ]
+        },
+        {
+          "answer": "Michael Norman",
+          "display": "43.45 s",
+          "aliases": [
+            "norman"
+          ]
+        },
+        {
+          "answer": "Steven Gardiner",
+          "display": "43.48 s",
+          "aliases": [
+            "gardiner"
+          ]
+        },
+        {
+          "answer": "Quincy Watts",
+          "display": "43.50 s",
+          "aliases": [
+            "watts"
+          ]
+        },
+        {
+          "answer": "Fred Kerley",
+          "display": "43.64 s",
+          "aliases": [
+            "kerley"
+          ]
+        },
+        {
+          "answer": "LaShawn Merritt",
+          "display": "43.65 s",
+          "aliases": [
+            "merritt"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/athletics/sprints",
+      "difficulty": 3,
+      "question": "Top 10 fastest women's 400 m runners (best time each, outdoor, as of October 2026)",
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1379733974 | table 3 | name: Athlete | value: Time (s) | where: Athlete!~# | order: asc",
+      "tags": [
+        "sports",
+        "athletics",
+        "400m"
+      ],
+      "answers": [
+        {
+          "answer": "Marita Koch",
+          "display": "47.60 s",
+          "aliases": [
+            "koch"
+          ]
+        },
+        {
+          "answer": "Sydney McLaughlin-Levrone",
+          "display": "47.78 s",
+          "aliases": [
+            "mclaughlin-levrone",
+            "Sydney McLaughlin",
+            "McLaughlin"
+          ]
+        },
+        {
+          "answer": "Marileidy Paulino",
+          "display": "47.98 s",
+          "aliases": [
+            "paulino"
+          ]
+        },
+        {
+          "answer": "Jarmila Kratochvílová",
+          "display": "47.99 s",
+          "aliases": [
+            "kratochvilova"
+          ]
+        },
+        {
+          "answer": "Salwa Eid Naser",
+          "display": "48.14 s",
+          "aliases": [
+            "naser"
+          ]
+        },
+        {
+          "answer": "Marie-José Pérec",
+          "display": "48.25 s",
+          "aliases": [
+            "perec"
+          ]
+        },
+        {
+          "answer": "Olga Bryzgina",
+          "display": "48.27 s",
+          "aliases": [
+            "bryzgina"
+          ]
+        },
+        {
+          "answer": "Shaunae Miller-Uibo",
+          "display": "48.36 s",
+          "aliases": [
+            "miller-uibo"
+          ]
+        },
+        {
+          "answer": "Nickisha Pryce",
+          "display": "48.57 s",
+          "aliases": [
+            "pryce"
+          ]
+        },
+        {
+          "answer": "Taťána Kocembová",
+          "display": "48.59 s",
+          "aliases": [
+            "kocembova"
+          ]
+        },
+        {
+          "answer": "Cathy Freeman",
+          "display": "48.63 s",
+          "aliases": [
+            "freeman"
+          ]
+        },
+        {
+          "answer": "Sanya Richards-Ross",
+          "display": "48.70 s",
+          "aliases": [
+            "richards-ross"
+          ]
+        },
+        {
+          "answer": "Henriette Jæger",
+          "display": "48.78 s",
+          "aliases": [
+            "jaeger"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/athletics/world-championships",
+      "difficulty": 2,
+      "question": "Top 9 countries by World Athletics Championships medals (all-time through 2025; Soviet Union, East and West Germany and Russia counted separately; Authorised Neutral Athletes' medals not counted)",
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1378453836 | table 2 | name: Nation | value: Total | where: Nation!~Totals",
+      "tags": [
+        "sports",
+        "athletics",
+        "world championships",
+        "medals"
+      ],
+      "cutoff": 9,
+      "answers": [
+        {
+          "answer": "United States",
+          "display": "469 medals",
+          "aliases": [
+            "usa",
+            "us"
+          ]
+        },
+        {
+          "answer": "Kenya",
+          "display": "182 medals"
+        },
+        {
+          "answer": "Jamaica",
+          "display": "159 medals"
+        },
+        {
+          "answer": "Russia",
+          "display": "142 medals"
+        },
+        {
+          "answer": "Germany",
+          "display": "128 medals"
+        },
+        {
+          "answer": "Great Britain",
+          "display": "126 medals",
+          "aliases": [
+            "gb",
+            "britain",
+            "uk"
+          ]
+        },
+        {
+          "answer": "Ethiopia",
+          "display": "108 medals"
+        },
+        {
+          "answer": "China",
+          "display": "79 medals"
+        },
+        {
+          "answer": "Soviet Union",
+          "display": "78 medals",
+          "aliases": [
+            "ussr"
+          ]
+        },
+        {
+          "answer": "Cuba",
+          "display": "66 medals"
+        },
+        {
+          "answer": "Poland",
+          "display": "66 medals"
+        },
+        {
+          "answer": "France",
+          "display": "58 medals"
+        },
+        {
+          "answer": "Italy",
+          "display": "58 medals"
+        }
+      ]
+    },
+    {
+      "category": "sports/athletics/world-championships",
+      "difficulty": 3,
+      "question": "Top 7 men with the most World Athletics Championships medals (individual and relay, all-time through 2025)",
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1378453836 | table 8 | name: Athlete | value: Total | note: individual and relay medals counted together",
+      "tags": [
+        "sports",
+        "athletics",
+        "world championships",
+        "medals"
+      ],
+      "cutoff": 7,
+      "answers": [
+        {
+          "answer": "Usain Bolt",
+          "display": "14 medals",
+          "aliases": [
+            "bolt"
+          ]
+        },
+        {
+          "answer": "LaShawn Merritt",
+          "display": "11 medals",
+          "aliases": [
+            "merritt"
+          ]
+        },
+        {
+          "answer": "Carl Lewis",
+          "display": "10 medals",
+          "aliases": [
+            "lewis"
+          ]
+        },
+        {
+          "answer": "Noah Lyles",
+          "display": "10 medals",
+          "aliases": [
+            "lyles"
+          ]
+        },
+        {
+          "answer": "Justin Gatlin",
+          "display": "10 medals",
+          "aliases": [
+            "gatlin"
+          ]
+        },
+        {
+          "answer": "Michael Johnson",
+          "display": "8 medals",
+          "aliases": [
+            "johnson"
+          ]
+        },
+        {
+          "answer": "Mo Farah",
+          "display": "8 medals",
+          "aliases": [
+            "farah"
+          ]
+        },
+        {
+          "answer": "Christian Coleman",
+          "display": "7 medals",
+          "aliases": [
+            "coleman"
+          ]
+        },
+        {
+          "answer": "Ezekiel Kemboi",
+          "display": "7 medals",
+          "aliases": [
+            "kemboi"
+          ]
+        },
+        {
+          "answer": "Haile Gebrselassie",
+          "display": "7 medals",
+          "aliases": [
+            "gebrselassie"
+          ]
+        },
+        {
+          "answer": "Rai Benjamin",
+          "display": "7 medals",
+          "aliases": [
+            "benjamin"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/athletics/olympics",
+      "difficulty": 2,
+      "question": "Top 10 countries by total Olympic athletics medals (all-time through 2024; Soviet Union, East and West Germany and Russia counted separately)",
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1379754216 | table 9 | name: Nation | value: Total | where: Nation!~Totals",
+      "tags": [
+        "sports",
+        "athletics",
+        "olympics",
+        "medals"
+      ],
+      "answers": [
+        {
+          "answer": "United States",
+          "display": "867 medals",
+          "aliases": [
+            "usa",
+            "us"
+          ]
+        },
+        {
+          "answer": "Great Britain",
+          "display": "221 medals",
+          "aliases": [
+            "gb",
+            "britain",
+            "uk"
+          ]
+        },
+        {
+          "answer": "Soviet Union",
+          "display": "193 medals",
+          "aliases": [
+            "ussr"
+          ]
+        },
+        {
+          "answer": "Kenya",
+          "display": "117 medals"
+        },
+        {
+          "answer": "Finland",
+          "display": "114 medals"
+        },
+        {
+          "answer": "East Germany",
+          "display": "109 medals",
+          "aliases": [
+            "gdr"
+          ]
+        },
+        {
+          "answer": "Jamaica",
+          "display": "93 medals"
+        },
+        {
+          "answer": "Germany",
+          "display": "87 medals"
+        },
+        {
+          "answer": "Sweden",
+          "display": "85 medals"
+        },
+        {
+          "answer": "Australia",
+          "display": "83 medals"
+        },
+        {
+          "answer": "France",
+          "display": "71 medals"
+        },
+        {
+          "answer": "Canada",
+          "display": "69 medals"
+        },
+        {
+          "answer": "Italy",
+          "display": "68 medals"
+        }
+      ]
+    }
+  ]
+}

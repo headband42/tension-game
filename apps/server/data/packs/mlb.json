@@ -1,0 +1,997 @@
+{
+  "categories": [
+    {
+      "path": "sports/baseball/mlb-players",
+      "name": "MLB Players"
+    },
+    {
+      "path": "sports/baseball/mlb-stadiums",
+      "name": "MLB Stadiums"
+    }
+  ],
+  "questions": [
+    {
+      "category": "sports/baseball/mlb-players",
+      "difficulty": 1,
+      "question": "Top 10 MLB career home run leaders (as of 2026)",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1377719208 | table 2 | name: Player | value: HR",
+      "cutoff": 10,
+      "tags": [
+        "baseball",
+        "mlb",
+        "career",
+        "home runs"
+      ],
+      "answers": [
+        {
+          "answer": "Barry Bonds",
+          "display": "762 home runs",
+          "aliases": [
+            "Bonds"
+          ]
+        },
+        {
+          "answer": "Hank Aaron",
+          "display": "755 home runs",
+          "aliases": [
+            "Aaron",
+            "Hammerin' Hank"
+          ]
+        },
+        {
+          "answer": "Babe Ruth",
+          "display": "714 home runs",
+          "aliases": [
+            "Ruth",
+            "Babe",
+            "The Bambino"
+          ]
+        },
+        {
+          "answer": "Albert Pujols",
+          "display": "703 home runs",
+          "aliases": [
+            "Pujols"
+          ]
+        },
+        {
+          "answer": "Alex Rodriguez",
+          "display": "696 home runs",
+          "aliases": [
+            "A-Rod",
+            "Rodriguez"
+          ]
+        },
+        {
+          "answer": "Willie Mays",
+          "display": "660 home runs",
+          "aliases": [
+            "Mays",
+            "Say Hey Kid"
+          ]
+        },
+        {
+          "answer": "Ken Griffey Jr.",
+          "display": "630 home runs",
+          "aliases": [
+            "Griffey",
+            "Junior"
+          ]
+        },
+        {
+          "answer": "Jim Thome",
+          "display": "612 home runs",
+          "aliases": [
+            "Thome"
+          ]
+        },
+        {
+          "answer": "Sammy Sosa",
+          "display": "609 home runs",
+          "aliases": [
+            "Sosa"
+          ]
+        },
+        {
+          "answer": "Frank Robinson",
+          "display": "586 home runs",
+          "aliases": [
+            "Frank"
+          ]
+        },
+        {
+          "answer": "Mark McGwire",
+          "display": "583 home runs",
+          "aliases": [
+            "McGwire",
+            "Big Mac"
+          ]
+        },
+        {
+          "answer": "Harmon Killebrew",
+          "display": "573 home runs",
+          "aliases": [
+            "Killebrew"
+          ]
+        },
+        {
+          "answer": "Rafael Palmeiro",
+          "display": "569 home runs",
+          "aliases": [
+            "Palmeiro"
+          ]
+        },
+        {
+          "answer": "Reggie Jackson",
+          "display": "563 home runs",
+          "aliases": [
+            "Reggie",
+            "Mr. October"
+          ]
+        },
+        {
+          "answer": "Manny Ramirez",
+          "display": "555 home runs",
+          "aliases": [
+            "Manny",
+            "Ramirez"
+          ]
+        }
+      ],
+      "submitter": "claude"
+    },
+    {
+      "category": "sports/baseball/mlb-players",
+      "difficulty": 1,
+      "question": "Top 10 MLB career hits leaders (as of 2026)",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1377296024 | table 2 | name: Player | value: Hits",
+      "cutoff": 10,
+      "tags": [
+        "baseball",
+        "mlb",
+        "career",
+        "hits"
+      ],
+      "answers": [
+        {
+          "answer": "Pete Rose",
+          "display": "4,256 hits",
+          "aliases": [
+            "Rose",
+            "Charlie Hustle"
+          ]
+        },
+        {
+          "answer": "Ty Cobb",
+          "display": "4,189 hits",
+          "aliases": [
+            "Cobb",
+            "Georgia Peach"
+          ]
+        },
+        {
+          "answer": "Hank Aaron",
+          "display": "3,771 hits",
+          "aliases": [
+            "Aaron"
+          ]
+        },
+        {
+          "answer": "Stan Musial",
+          "display": "3,630 hits",
+          "aliases": [
+            "Musial",
+            "Stan the Man"
+          ]
+        },
+        {
+          "answer": "Tris Speaker",
+          "display": "3,514 hits",
+          "aliases": [
+            "Speaker"
+          ]
+        },
+        {
+          "answer": "Derek Jeter",
+          "display": "3,465 hits",
+          "aliases": [
+            "Jeter"
+          ]
+        },
+        {
+          "answer": "Cap Anson",
+          "display": "3,435 hits",
+          "aliases": [
+            "Anson"
+          ]
+        },
+        {
+          "answer": "Honus Wagner",
+          "display": "3,430 hits",
+          "aliases": [
+            "Wagner"
+          ]
+        },
+        {
+          "answer": "Carl Yastrzemski",
+          "display": "3,419 hits",
+          "aliases": [
+            "Yaz",
+            "Yastrzemski"
+          ]
+        },
+        {
+          "answer": "Albert Pujols",
+          "display": "3,384 hits",
+          "aliases": [
+            "Pujols"
+          ]
+        },
+        {
+          "answer": "Paul Molitor",
+          "display": "3,319 hits",
+          "aliases": [
+            "Molitor"
+          ]
+        },
+        {
+          "answer": "Eddie Collins",
+          "display": "3,314 hits",
+          "aliases": [
+            "Collins"
+          ]
+        },
+        {
+          "answer": "Willie Mays",
+          "display": "3,293 hits",
+          "aliases": [
+            "Mays"
+          ]
+        },
+        {
+          "answer": "Eddie Murray",
+          "display": "3,255 hits",
+          "aliases": [
+            "Murray"
+          ]
+        },
+        {
+          "answer": "Nap Lajoie",
+          "display": "3,243 hits",
+          "aliases": [
+            "Lajoie"
+          ]
+        }
+      ],
+      "submitter": "claude"
+    },
+    {
+      "category": "sports/baseball/mlb-players",
+      "difficulty": 1,
+      "question": "Top 10 MLB career wins leaders (as of 2026)",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1377302238 | table 2 | name: Player | value: W",
+      "cutoff": 10,
+      "tags": [
+        "baseball",
+        "mlb",
+        "career",
+        "pitching",
+        "wins"
+      ],
+      "answers": [
+        {
+          "answer": "Cy Young",
+          "display": "511 wins",
+          "aliases": [
+            "Young",
+            "Cy"
+          ]
+        },
+        {
+          "answer": "Walter Johnson",
+          "display": "417 wins",
+          "aliases": [
+            "Walter",
+            "Big Train"
+          ]
+        },
+        {
+          "answer": "Grover Cleveland Alexander",
+          "display": "373 wins",
+          "aliases": [
+            "Pete Alexander",
+            "Alexander"
+          ]
+        },
+        {
+          "answer": "Christy Mathewson",
+          "display": "373 wins",
+          "aliases": [
+            "Mathewson",
+            "Matty"
+          ]
+        },
+        {
+          "answer": "Pud Galvin",
+          "display": "365 wins",
+          "aliases": [
+            "Galvin"
+          ]
+        },
+        {
+          "answer": "Warren Spahn",
+          "display": "363 wins",
+          "aliases": [
+            "Spahn"
+          ]
+        },
+        {
+          "answer": "Kid Nichols",
+          "display": "361 wins",
+          "aliases": [
+            "Nichols"
+          ]
+        },
+        {
+          "answer": "Greg Maddux",
+          "display": "355 wins",
+          "aliases": [
+            "Maddux"
+          ]
+        },
+        {
+          "answer": "Roger Clemens",
+          "display": "354 wins",
+          "aliases": [
+            "Clemens",
+            "Rocket"
+          ]
+        },
+        {
+          "answer": "Tim Keefe",
+          "display": "342 wins",
+          "aliases": [
+            "Keefe"
+          ]
+        },
+        {
+          "answer": "Steve Carlton",
+          "display": "329 wins",
+          "aliases": [
+            "Carlton",
+            "Lefty"
+          ]
+        },
+        {
+          "answer": "John Clarkson",
+          "display": "328 wins",
+          "aliases": [
+            "Clarkson"
+          ]
+        },
+        {
+          "answer": "Eddie Plank",
+          "display": "326 wins",
+          "aliases": [
+            "Plank"
+          ]
+        }
+      ],
+      "submitter": "claude"
+    },
+    {
+      "category": "sports/baseball/mlb-players",
+      "difficulty": 1,
+      "question": "Top 10 MLB career strikeout leaders (as of 2026)",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1377396422 | table 2 | name: Player | value: K",
+      "cutoff": 10,
+      "tags": [
+        "baseball",
+        "mlb",
+        "career",
+        "pitching",
+        "strikeouts"
+      ],
+      "answers": [
+        {
+          "answer": "Nolan Ryan",
+          "display": "5,714 strikeouts",
+          "aliases": [
+            "Ryan"
+          ]
+        },
+        {
+          "answer": "Randy Johnson",
+          "display": "4,875 strikeouts",
+          "aliases": [
+            "Randy",
+            "Big Unit"
+          ]
+        },
+        {
+          "answer": "Roger Clemens",
+          "display": "4,672 strikeouts",
+          "aliases": [
+            "Clemens",
+            "Rocket"
+          ]
+        },
+        {
+          "answer": "Steve Carlton",
+          "display": "4,136 strikeouts",
+          "aliases": [
+            "Carlton"
+          ]
+        },
+        {
+          "answer": "Bert Blyleven",
+          "display": "3,701 strikeouts",
+          "aliases": [
+            "Blyleven"
+          ]
+        },
+        {
+          "answer": "Tom Seaver",
+          "display": "3,640 strikeouts",
+          "aliases": [
+            "Seaver",
+            "Tom Terrific"
+          ]
+        },
+        {
+          "answer": "Don Sutton",
+          "display": "3,574 strikeouts",
+          "aliases": [
+            "Sutton"
+          ]
+        },
+        {
+          "answer": "Justin Verlander",
+          "display": "3,560 strikeouts",
+          "aliases": [
+            "Verlander"
+          ]
+        },
+        {
+          "answer": "Max Scherzer",
+          "display": "3,557 strikeouts",
+          "aliases": [
+            "Scherzer"
+          ]
+        },
+        {
+          "answer": "Gaylord Perry",
+          "display": "3,534 strikeouts",
+          "aliases": [
+            "Perry"
+          ]
+        },
+        {
+          "answer": "Walter Johnson",
+          "display": "3,509 strikeouts",
+          "aliases": [
+            "Walter",
+            "Big Train"
+          ]
+        },
+        {
+          "answer": "Greg Maddux",
+          "display": "3,371 strikeouts",
+          "aliases": [
+            "Maddux"
+          ]
+        },
+        {
+          "answer": "Phil Niekro",
+          "display": "3,342 strikeouts",
+          "aliases": [
+            "Niekro"
+          ]
+        },
+        {
+          "answer": "Ferguson Jenkins",
+          "display": "3,192 strikeouts",
+          "aliases": [
+            "Jenkins",
+            "Fergie"
+          ]
+        },
+        {
+          "answer": "Pedro Martínez",
+          "display": "3,154 strikeouts",
+          "aliases": [
+            "Pedro",
+            "Martinez"
+          ]
+        }
+      ],
+      "submitter": "claude"
+    },
+    {
+      "category": "sports/baseball/mlb-players",
+      "difficulty": 1,
+      "question": "Top 10 MLB career saves leaders (as of 2026)",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1376926699 | table 2 | name: Player | value: SV",
+      "cutoff": 10,
+      "tags": [
+        "baseball",
+        "mlb",
+        "career",
+        "pitching",
+        "saves"
+      ],
+      "answers": [
+        {
+          "answer": "Mariano Rivera",
+          "display": "652 saves",
+          "aliases": [
+            "Rivera",
+            "Mo"
+          ]
+        },
+        {
+          "answer": "Trevor Hoffman",
+          "display": "601 saves",
+          "aliases": [
+            "Hoffman"
+          ]
+        },
+        {
+          "answer": "Kenley Jansen",
+          "display": "498 saves",
+          "aliases": [
+            "Jansen"
+          ]
+        },
+        {
+          "answer": "Lee Smith",
+          "display": "478 saves",
+          "aliases": [
+            "Smith"
+          ]
+        },
+        {
+          "answer": "Craig Kimbrel",
+          "display": "441 saves",
+          "aliases": [
+            "Kimbrel"
+          ]
+        },
+        {
+          "answer": "Francisco Rodríguez",
+          "display": "437 saves",
+          "aliases": [
+            "K-Rod"
+          ]
+        },
+        {
+          "answer": "John Franco",
+          "display": "424 saves",
+          "aliases": [
+            "Franco"
+          ]
+        },
+        {
+          "answer": "Billy Wagner",
+          "display": "422 saves",
+          "aliases": [
+            "Wagner"
+          ]
+        },
+        {
+          "answer": "Aroldis Chapman",
+          "display": "402 saves",
+          "aliases": [
+            "Chapman"
+          ]
+        },
+        {
+          "answer": "Dennis Eckersley",
+          "display": "390 saves",
+          "aliases": [
+            "Eckersley",
+            "Eck"
+          ]
+        },
+        {
+          "answer": "Joe Nathan",
+          "display": "377 saves",
+          "aliases": [
+            "Nathan"
+          ]
+        },
+        {
+          "answer": "Jonathan Papelbon",
+          "display": "368 saves",
+          "aliases": [
+            "Papelbon"
+          ]
+        },
+        {
+          "answer": "Jeff Reardon",
+          "display": "367 saves",
+          "aliases": [
+            "Reardon"
+          ]
+        },
+        {
+          "answer": "Troy Percival",
+          "display": "358 saves",
+          "aliases": [
+            "Percival"
+          ]
+        },
+        {
+          "answer": "Randy Myers",
+          "display": "347 saves",
+          "aliases": [
+            "Myers"
+          ]
+        }
+      ],
+      "submitter": "claude"
+    },
+    {
+      "category": "sports/baseball/mlb-players",
+      "difficulty": 1,
+      "question": "Top 10 MLB career stolen base leaders (as of 2026)",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1373225104 | table 2 | name: Player | value: SB",
+      "cutoff": 10,
+      "tags": [
+        "baseball",
+        "mlb",
+        "career",
+        "stolen bases"
+      ],
+      "answers": [
+        {
+          "answer": "Rickey Henderson",
+          "display": "1,406 stolen bases",
+          "aliases": [
+            "Rickey",
+            "Henderson"
+          ]
+        },
+        {
+          "answer": "Lou Brock",
+          "display": "938 stolen bases",
+          "aliases": [
+            "Brock"
+          ]
+        },
+        {
+          "answer": "Billy Hamilton",
+          "display": "912 stolen bases",
+          "aliases": [
+            "Hamilton"
+          ]
+        },
+        {
+          "answer": "Ty Cobb",
+          "display": "892 stolen bases",
+          "aliases": [
+            "Cobb"
+          ]
+        },
+        {
+          "answer": "Tim Raines",
+          "display": "808 stolen bases",
+          "aliases": [
+            "Raines"
+          ]
+        },
+        {
+          "answer": "Vince Coleman",
+          "display": "752 stolen bases",
+          "aliases": [
+            "Coleman"
+          ]
+        },
+        {
+          "answer": "Eddie Collins",
+          "display": "745 stolen bases",
+          "aliases": [
+            "Collins"
+          ]
+        },
+        {
+          "answer": "Arlie Latham",
+          "display": "739 stolen bases",
+          "aliases": [
+            "Latham"
+          ]
+        },
+        {
+          "answer": "Max Carey",
+          "display": "738 stolen bases",
+          "aliases": [
+            "Carey"
+          ]
+        },
+        {
+          "answer": "Honus Wagner",
+          "display": "722 stolen bases",
+          "aliases": [
+            "Wagner"
+          ]
+        },
+        {
+          "answer": "Joe Morgan",
+          "display": "689 stolen bases",
+          "aliases": [
+            "Morgan"
+          ]
+        },
+        {
+          "answer": "Willie Wilson",
+          "display": "668 stolen bases",
+          "aliases": [
+            "Wilson"
+          ]
+        },
+        {
+          "answer": "Tom Brown",
+          "display": "657 stolen bases",
+          "aliases": [
+            "Brown"
+          ]
+        },
+        {
+          "answer": "Bert Campaneris",
+          "display": "649 stolen bases",
+          "aliases": [
+            "Campaneris",
+            "Campy"
+          ]
+        },
+        {
+          "answer": "Kenny Lofton",
+          "display": "622 stolen bases",
+          "aliases": [
+            "Lofton"
+          ]
+        }
+      ],
+      "submitter": "claude"
+    },
+    {
+      "category": "sports/baseball/mlb-stadiums",
+      "difficulty": 1,
+      "question": "Top 10 MLB stadiums by capacity (as of 2026)",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1374728191 | table 1 | name: Name | value: Capacity",
+      "cutoff": 10,
+      "tags": [
+        "baseball",
+        "mlb",
+        "stadiums",
+        "capacity"
+      ],
+      "answers": [
+        {
+          "answer": "Dodger Stadium",
+          "display": "56,000 seats",
+          "aliases": [
+            "Chavez Ravine"
+          ]
+        },
+        {
+          "answer": "Chase Field",
+          "display": "48,330 seats",
+          "aliases": [
+            "Chase",
+            "Bank One Ballpark"
+          ]
+        },
+        {
+          "answer": "T-Mobile Park",
+          "display": "47,929 seats",
+          "aliases": [
+            "Safeco Field",
+            "Safeco"
+          ]
+        },
+        {
+          "answer": "Coors Field",
+          "display": "46,897 seats",
+          "aliases": [
+            "Coors"
+          ]
+        },
+        {
+          "answer": "Yankee Stadium",
+          "display": "46,537 seats",
+          "aliases": [
+            "New Yankee Stadium"
+          ]
+        },
+        {
+          "answer": "Angel Stadium",
+          "display": "45,517 seats",
+          "aliases": [
+            "Anaheim Stadium"
+          ]
+        },
+        {
+          "answer": "Busch Stadium",
+          "display": "44,383 seats",
+          "aliases": [
+            "Busch"
+          ]
+        },
+        {
+          "answer": "Great American Ball Park",
+          "display": "43,500 seats",
+          "aliases": [
+            "Great American"
+          ]
+        },
+        {
+          "answer": "Citizens Bank Park",
+          "display": "42,901 seats",
+          "aliases": [
+            "Citizens Bank"
+          ]
+        },
+        {
+          "answer": "Oriole Park at Camden Yards",
+          "display": "42,455 seats",
+          "aliases": [
+            "Camden Yards",
+            "Camden"
+          ]
+        },
+        {
+          "answer": "Citi Field",
+          "display": "41,922 seats",
+          "aliases": [
+            "Citi"
+          ]
+        },
+        {
+          "answer": "American Family Field",
+          "display": "41,900 seats",
+          "aliases": [
+            "Miller Park"
+          ]
+        },
+        {
+          "answer": "Wrigley Field",
+          "display": "41,649 seats",
+          "aliases": [
+            "Wrigley"
+          ]
+        },
+        {
+          "answer": "Nationals Park",
+          "display": "41,373 seats",
+          "aliases": [
+            "Nationals"
+          ]
+        },
+        {
+          "answer": "Oracle Park",
+          "display": "41,331 seats",
+          "aliases": [
+            "AT&T Park"
+          ]
+        }
+      ],
+      "submitter": "claude"
+    },
+    {
+      "category": "sports/baseball/mlb-stadiums",
+      "difficulty": 1,
+      "question": "Top 10 oldest MLB ballparks by opening year (as of 2026)",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1374728191 | table 1 | name: Name | value: Opened | order: asc",
+      "cutoff": 10,
+      "tags": [
+        "baseball",
+        "mlb",
+        "stadiums",
+        "age"
+      ],
+      "answers": [
+        {
+          "answer": "Fenway Park",
+          "display": "1912",
+          "aliases": [
+            "Fenway"
+          ]
+        },
+        {
+          "answer": "Wrigley Field",
+          "display": "1914",
+          "aliases": [
+            "Wrigley"
+          ]
+        },
+        {
+          "answer": "Dodger Stadium",
+          "display": "1962",
+          "aliases": [
+            "Chavez Ravine"
+          ]
+        },
+        {
+          "answer": "Angel Stadium",
+          "display": "1966",
+          "aliases": [
+            "Anaheim Stadium"
+          ]
+        },
+        {
+          "answer": "Kauffman Stadium",
+          "display": "1973",
+          "aliases": [
+            "Royals Stadium"
+          ]
+        },
+        {
+          "answer": "Rogers Centre",
+          "display": "1989",
+          "aliases": [
+            "SkyDome"
+          ]
+        },
+        {
+          "answer": "Tropicana Field",
+          "display": "1990",
+          "aliases": [
+            "Tropicana",
+            "Trop"
+          ]
+        },
+        {
+          "answer": "Rate Field",
+          "display": "1991",
+          "aliases": [
+            "Comiskey Park",
+            "Comiskey",
+            "Guaranteed Rate Field",
+            "U.S. Cellular Field"
+          ]
+        },
+        {
+          "answer": "Oriole Park at Camden Yards",
+          "display": "1992",
+          "aliases": [
+            "Camden Yards",
+            "Camden"
+          ]
+        },
+        {
+          "answer": "Progressive Field",
+          "display": "1994",
+          "aliases": [
+            "Jacobs Field",
+            "Jacobs"
+          ]
+        },
+        {
+          "answer": "Coors Field",
+          "display": "1995",
+          "aliases": [
+            "Coors"
+          ]
+        },
+        {
+          "answer": "Chase Field",
+          "display": "1998",
+          "aliases": [
+            "Chase",
+            "Bank One Ballpark"
+          ]
+        },
+        {
+          "answer": "T-Mobile Park",
+          "display": "1999",
+          "aliases": [
+            "Safeco Field",
+            "Safeco"
+          ]
+        }
+      ],
+      "submitter": "claude"
+    }
+  ]
+}

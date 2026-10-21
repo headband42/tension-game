@@ -1,0 +1,234 @@
+{
+  "categories": [
+    {
+      "path": "history/royalty",
+      "name": "Royalty"
+    },
+    {
+      "path": "history/royalty/longest-reigning",
+      "name": "Longest-Reigning Monarchs"
+    },
+    {
+      "path": "history/royalty/current-monarchs",
+      "name": "Current Monarchs"
+    }
+  ],
+  "questions": [
+    {
+      "category": "history/royalty/longest-reigning",
+      "question": "Top 10 longest-reigning monarchs of sovereign states by total days on the throne (exact dates only; protectorates and dependent states don't count)",
+      "cutoff": 10,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1378670204 | table 1 | name: Name | value: (days) | header rows: 2",
+      "tags": [
+        "royalty",
+        "monarchs",
+        "reign"
+      ],
+      "answers": [
+        {
+          "answer": "Louis XIV",
+          "display": "26,407 days",
+          "aliases": [
+            "Sun King"
+          ]
+        },
+        {
+          "answer": "Elizabeth II",
+          "display": "25,782 days",
+          "aliases": [
+            "Queen Elizabeth II",
+            "Queen Elizabeth"
+          ]
+        },
+        {
+          "answer": "Rama IX",
+          "display": "25,694 days",
+          "aliases": [
+            "Bhumibol Adulyadej",
+            "Bhumibol"
+          ]
+        },
+        {
+          "answer": "Johann II",
+          "display": "25,658 days",
+          "aliases": [
+            "Johann II of Liechtenstein"
+          ]
+        },
+        {
+          "answer": "Kʼinich Janaabʼ Pakal I",
+          "display": "24,870 days",
+          "aliases": [
+            "Pakal"
+          ]
+        },
+        {
+          "answer": "Franz Joseph I",
+          "display": "24,825 days",
+          "aliases": [
+            "Franz Joseph"
+          ]
+        },
+        {
+          "answer": "Chan Imix Kʼawiil",
+          "display": "24,602 days"
+        },
+        {
+          "answer": "Ramesses II",
+          "display": "24,180 days",
+          "aliases": [
+            "Ramses II"
+          ]
+        },
+        {
+          "answer": "Ferdinand III",
+          "display": "23,831 days"
+        },
+        {
+          "answer": "Victoria",
+          "display": "23,226 days",
+          "aliases": [
+            "Queen Victoria"
+          ]
+        },
+        {
+          "answer": "James I",
+          "display": "22,964 days"
+        },
+        {
+          "answer": "Hirohito",
+          "display": "22,659 days",
+          "aliases": [
+            "Emperor Showa",
+            "Showa Emperor"
+          ]
+        },
+        {
+          "answer": "Kangxi Emperor",
+          "display": "22,597 days",
+          "aliases": [
+            "Kangxi"
+          ]
+        },
+        {
+          "answer": "Itzamnaaj Bahlam III",
+          "display": "22,153 days"
+        },
+        {
+          "answer": "Kʼakʼ Tiliw Chan Yopaat",
+          "display": "22,125 days"
+        }
+      ]
+    },
+    {
+      "category": "history/royalty/current-monarchs",
+      "question": "Top 10 longest-reigning current monarchs of sovereign states, by time since accession (as of October 2026; reigning monarchs only, not queen mothers, presidents, popes or co-princes)",
+      "cutoff": 10,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1379048097 | table 1 | name: Monarch | value: Since | where: Title!~Queen Mother|President|Pope|Co-Prince | order: asc",
+      "tags": [
+        "royalty",
+        "monarchs",
+        "current"
+      ],
+      "answers": [
+        {
+          "answer": "Hassanal Bolkiah",
+          "display": "5 October 1967 (59 years, 6 days)",
+          "aliases": [
+            "Sultan of Brunei"
+          ]
+        },
+        {
+          "answer": "Carl XVI Gustaf",
+          "display": "15 September 1973 (53 years, 26 days)",
+          "aliases": [
+            "Carl Gustaf"
+          ]
+        },
+        {
+          "answer": "Mswati III",
+          "display": "25 April 1986 (40 years, 169 days)",
+          "aliases": [
+            "Mswati"
+          ]
+        },
+        {
+          "answer": "Hans-Adam II",
+          "display": "13 November 1989 (36 years, 332 days)",
+          "aliases": [
+            "Hans-Adam"
+          ]
+        },
+        {
+          "answer": "Letsie III",
+          "display": "7 February 1996 (30 years, 246 days)",
+          "aliases": [
+            "Letsie"
+          ]
+        },
+        {
+          "answer": "Abdullah II",
+          "display": "7 February 1999 (27 years, 246 days)",
+          "aliases": [
+            "Abdullah"
+          ]
+        },
+        {
+          "answer": "Hamad bin Isa Al Khalifa",
+          "display": "6 March 1999 (27 years, 219 days)",
+          "aliases": [
+            "Hamad bin Isa"
+          ]
+        },
+        {
+          "answer": "Mohammed VI",
+          "display": "23 July 1999 (27 years, 80 days)"
+        },
+        {
+          "answer": "Norodom Sihamoni",
+          "display": "14 October 2004 (21 years, 362 days)",
+          "aliases": [
+            "Sihamoni"
+          ]
+        },
+        {
+          "answer": "Albert II",
+          "display": "6 April 2005 (21 years, 188 days)",
+          "aliases": [
+            "Prince Albert II"
+          ]
+        },
+        {
+          "answer": "Jigme Khesar Namgyel Wangchuck",
+          "display": "9 December 2006 (19 years, 306 days)"
+        },
+        {
+          "answer": "Tupou VI",
+          "display": "18 March 2012 (14 years, 207 days)"
+        },
+        {
+          "answer": "Willem-Alexander",
+          "display": "30 April 2013 (13 years, 164 days)"
+        },
+        {
+          "answer": "Tamim bin Hamad Al Thani",
+          "display": "25 June 2013 (13 years, 108 days)",
+          "aliases": [
+            "Tamim"
+          ]
+        },
+        {
+          "answer": "Philippe",
+          "display": "21 July 2013 (13 years, 82 days)",
+          "aliases": [
+            "King Philippe"
+          ]
+        }
+      ]
+    }
+  ]
+}

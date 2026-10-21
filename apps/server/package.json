@@ -10,7 +10,7 @@
     "test": "bun test",
     "check": "prisma generate --no-hints && tsc --noEmit",
     "import": "bun src/content/import-cli.ts",
-    "seed": "bun src/content/import-cli.ts data/questions.json",
+    "seed": "bun src/content/import-cli.ts data",
     "db:migrate": "prisma migrate dev",
     "db:reset": "prisma migrate reset --force --skip-seed && bun run seed",
     "db:studio": "prisma studio"

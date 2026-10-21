@@ -1,0 +1,443 @@
+{
+  "categories": [
+    {
+      "path": "sports/olympics/summer/all-time",
+      "name": "All-time medals"
+    },
+    {
+      "path": "sports/olympics/summer/paris-2024",
+      "name": "Paris 2024"
+    },
+    {
+      "path": "sports/olympics/summer/sports",
+      "name": "Medals by sport"
+    },
+    {
+      "path": "sports/olympics/summer/athletes",
+      "name": "Athletes"
+    }
+  ],
+  "questions": [
+    {
+      "category": "sports/olympics/summer/all-time",
+      "question": "Top 10 nations by all-time Summer Olympic gold medals (through 2024; Russia excludes the 2020 ROC team; historical teams separate)",
+      "cutoff": 10,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1376080899 | table 1 | name: 1 | value: 3 | header rows: 2 | where: Team!~^Totals",
+      "tags": [
+        "olympics",
+        "medals",
+        "nations"
+      ],
+      "answers": [
+        {
+          "answer": "United States",
+          "display": "1,106 gold medals",
+          "aliases": [
+            "USA",
+            "US",
+            "America"
+          ]
+        },
+        {
+          "answer": "Soviet Union",
+          "display": "395 gold medals",
+          "aliases": [
+            "USSR",
+            "Soviet"
+          ]
+        },
+        {
+          "answer": "China",
+          "display": "303 gold medals"
+        },
+        {
+          "answer": "Great Britain",
+          "display": "303 gold medals",
+          "aliases": [
+            "GB",
+            "Britain",
+            "UK",
+            "Team GB"
+          ]
+        },
+        {
+          "answer": "France",
+          "display": "243 gold medals"
+        },
+        {
+          "answer": "Italy",
+          "display": "229 gold medals"
+        },
+        {
+          "answer": "Germany",
+          "display": "214 gold medals"
+        },
+        {
+          "answer": "Japan",
+          "display": "189 gold medals"
+        },
+        {
+          "answer": "Hungary",
+          "display": "187 gold medals"
+        },
+        {
+          "answer": "Australia",
+          "display": "180 gold medals"
+        },
+        {
+          "answer": "East Germany",
+          "display": "153 gold medals",
+          "aliases": [
+            "GDR"
+          ]
+        },
+        {
+          "answer": "Sweden",
+          "display": "151 gold medals"
+        },
+        {
+          "answer": "Russia",
+          "display": "147 gold medals"
+        }
+      ]
+    },
+    {
+      "category": "sports/olympics/summer/paris-2024",
+      "question": "Top 10 nations by total medals at the Paris 2024 Olympics",
+      "cutoff": 10,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1377825167 | table 1 | name: NOC | value: Total | where: NOC!~^Totals",
+      "tags": [
+        "olympics",
+        "paris-2024",
+        "medals"
+      ],
+      "answers": [
+        {
+          "answer": "United States",
+          "display": "126 medals",
+          "aliases": [
+            "USA",
+            "US",
+            "America"
+          ]
+        },
+        {
+          "answer": "China",
+          "display": "91 medals"
+        },
+        {
+          "answer": "Great Britain",
+          "display": "65 medals",
+          "aliases": [
+            "GB",
+            "Britain",
+            "UK",
+            "Team GB"
+          ]
+        },
+        {
+          "answer": "France",
+          "display": "64 medals"
+        },
+        {
+          "answer": "Australia",
+          "display": "53 medals"
+        },
+        {
+          "answer": "Japan",
+          "display": "45 medals"
+        },
+        {
+          "answer": "Italy",
+          "display": "40 medals"
+        },
+        {
+          "answer": "Netherlands",
+          "display": "34 medals",
+          "aliases": [
+            "Holland"
+          ]
+        },
+        {
+          "answer": "Germany",
+          "display": "33 medals"
+        },
+        {
+          "answer": "South Korea",
+          "display": "32 medals",
+          "aliases": [
+            "Korea"
+          ]
+        },
+        {
+          "answer": "Canada",
+          "display": "27 medals"
+        },
+        {
+          "answer": "New Zealand",
+          "display": "20 medals",
+          "aliases": [
+            "NZ"
+          ]
+        },
+        {
+          "answer": "Brazil",
+          "display": "20 medals"
+        }
+      ]
+    },
+    {
+      "category": "sports/olympics/summer/sports",
+      "question": "Top 10 nations by Summer Olympic swimming medals, total (all-time; historical teams separate)",
+      "cutoff": 10,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1374645225 | table 5 | name: Nation | value: Total | where: Nation!~^Totals",
+      "tags": [
+        "olympics",
+        "swimming",
+        "medals"
+      ],
+      "answers": [
+        {
+          "answer": "United States",
+          "display": "611 medals",
+          "aliases": [
+            "USA",
+            "US",
+            "America"
+          ]
+        },
+        {
+          "answer": "Australia",
+          "display": "224 medals"
+        },
+        {
+          "answer": "East Germany",
+          "display": "92 medals",
+          "aliases": [
+            "GDR"
+          ]
+        },
+        {
+          "answer": "Great Britain",
+          "display": "86 medals",
+          "aliases": [
+            "GB",
+            "Britain",
+            "UK",
+            "Team GB"
+          ]
+        },
+        {
+          "answer": "Japan",
+          "display": "84 medals"
+        },
+        {
+          "answer": "Hungary",
+          "display": "77 medals"
+        },
+        {
+          "answer": "Germany",
+          "display": "63 medals"
+        },
+        {
+          "answer": "Canada",
+          "display": "62 medals"
+        },
+        {
+          "answer": "China",
+          "display": "61 medals"
+        },
+        {
+          "answer": "Netherlands",
+          "display": "60 medals",
+          "aliases": [
+            "Holland"
+          ]
+        },
+        {
+          "answer": "Soviet Union",
+          "display": "59 medals",
+          "aliases": [
+            "USSR",
+            "Soviet"
+          ]
+        },
+        {
+          "answer": "France",
+          "display": "50 medals"
+        },
+        {
+          "answer": "Sweden",
+          "display": "41 medals"
+        }
+      ]
+    },
+    {
+      "category": "sports/olympics/summer/sports",
+      "question": "Top 7 nations by Summer Olympic gymnastics medals, total (all-time; Russia excludes the 2020 ROC team; historical teams separate)",
+      "cutoff": 7,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1378827725 | table 4 | name: Nation | value: Total | where: Nation!~^Totals",
+      "tags": [
+        "olympics",
+        "gymnastics",
+        "medals"
+      ],
+      "answers": [
+        {
+          "answer": "Soviet Union",
+          "display": "182 medals",
+          "aliases": [
+            "USSR",
+            "Soviet"
+          ]
+        },
+        {
+          "answer": "United States",
+          "display": "129 medals",
+          "aliases": [
+            "USA",
+            "US",
+            "America"
+          ]
+        },
+        {
+          "answer": "Japan",
+          "display": "107 medals"
+        },
+        {
+          "answer": "China",
+          "display": "78 medals"
+        },
+        {
+          "answer": "Romania",
+          "display": "72 medals"
+        },
+        {
+          "answer": "Switzerland",
+          "display": "47 medals"
+        },
+        {
+          "answer": "Russia",
+          "display": "44 medals"
+        },
+        {
+          "answer": "Hungary",
+          "display": "40 medals"
+        },
+        {
+          "answer": "Germany",
+          "display": "40 medals"
+        },
+        {
+          "answer": "East Germany",
+          "display": "36 medals",
+          "aliases": [
+            "GDR"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "sports/olympics/summer/athletes",
+      "question": "Top 8 women Summer Olympians by total medals (through 2024)",
+      "cutoff": 8,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1379532529 | table 1 | name: Athlete | value: Total | where: Games=Summer | where: Gender=F",
+      "tags": [
+        "olympics",
+        "athletes",
+        "gymnastics"
+      ],
+      "answers": [
+        {
+          "answer": "Larisa Latynina",
+          "display": "18 medals",
+          "aliases": [
+            "Latynina"
+          ]
+        },
+        {
+          "answer": "Katie Ledecky",
+          "display": "14 medals",
+          "aliases": [
+            "Ledecky"
+          ]
+        },
+        {
+          "answer": "Isabell Werth",
+          "display": "14 medals",
+          "aliases": [
+            "Werth"
+          ]
+        },
+        {
+          "answer": "Emma McKeon",
+          "display": "14 medals",
+          "aliases": [
+            "McKeon"
+          ]
+        },
+        {
+          "answer": "Birgit Fischer",
+          "display": "12 medals",
+          "aliases": [
+            "Fischer"
+          ]
+        },
+        {
+          "answer": "Jenny Thompson",
+          "display": "12 medals",
+          "aliases": [
+            "Thompson"
+          ]
+        },
+        {
+          "answer": "Dara Torres",
+          "display": "12 medals",
+          "aliases": [
+            "Torres"
+          ]
+        },
+        {
+          "answer": "Natalie Coughlin",
+          "display": "12 medals",
+          "aliases": [
+            "Coughlin"
+          ]
+        },
+        {
+          "answer": "Věra Čáslavská",
+          "display": "11 medals",
+          "aliases": [
+            "Caslavska",
+            "Čáslavská",
+            "Caslavská"
+          ]
+        },
+        {
+          "answer": "Allyson Felix",
+          "display": "11 medals",
+          "aliases": [
+            "Felix"
+          ]
+        },
+        {
+          "answer": "Simone Biles",
+          "display": "11 medals",
+          "aliases": [
+            "Biles"
+          ]
+        }
+      ]
+    }
+  ]
+}

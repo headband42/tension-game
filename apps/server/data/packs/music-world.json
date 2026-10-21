@@ -1,0 +1,290 @@
+{
+  "categories": [
+    {
+      "path": "music/world",
+      "name": "World Music"
+    },
+    {
+      "path": "music/world/latin",
+      "name": "Latin Music"
+    },
+    {
+      "path": "music/world/jpop",
+      "name": "J-pop"
+    },
+    {
+      "path": "music/world/kpop",
+      "name": "K-pop"
+    }
+  ],
+  "questions": [
+    {
+      "category": "music/world/latin",
+      "question": "Top 7 female soloists by Premios Lo Nuestro awards won",
+      "cutoff": 7,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1355725044 | table 4 | name: Artist | value: Number of awards",
+      "tags": [
+        "music",
+        "latin",
+        "awards"
+      ],
+      "answers": [
+        {
+          "answer": "Shakira",
+          "display": "40 awards"
+        },
+        {
+          "answer": "Olga Tañón",
+          "display": "31 awards",
+          "aliases": [
+            "Olga"
+          ]
+        },
+        {
+          "answer": "Karol G",
+          "display": "30 awards"
+        },
+        {
+          "answer": "Jenni Rivera",
+          "display": "18 awards"
+        },
+        {
+          "answer": "Ana Gabriel",
+          "display": "13 awards"
+        },
+        {
+          "answer": "Selena",
+          "display": "9 awards"
+        },
+        {
+          "answer": "Thalía",
+          "display": "9 awards"
+        },
+        {
+          "answer": "Natti Natasha",
+          "display": "8 awards"
+        },
+        {
+          "answer": "Celia Cruz",
+          "display": "7 awards"
+        },
+        {
+          "answer": "Paulina Rubio",
+          "display": "6 awards"
+        }
+      ]
+    },
+    {
+      "category": "music/world/latin",
+      "question": "Top 7 male soloists by Premios Lo Nuestro awards won",
+      "cutoff": 7,
+      "difficulty": 2,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1355725044 | table 3 | name: Artist | value: Number of awards",
+      "tags": [
+        "music",
+        "latin",
+        "awards"
+      ],
+      "answers": [
+        {
+          "answer": "Bad Bunny",
+          "display": "30 awards"
+        },
+        {
+          "answer": "Marc Anthony",
+          "display": "30 awards",
+          "aliases": [
+            "Marc"
+          ]
+        },
+        {
+          "answer": "Enrique Iglesias",
+          "display": "25 awards",
+          "aliases": [
+            "Enrique"
+          ]
+        },
+        {
+          "answer": "Daddy Yankee",
+          "display": "23 awards"
+        },
+        {
+          "answer": "Prince Royce",
+          "display": "21 awards"
+        },
+        {
+          "answer": "Romeo Santos",
+          "display": "20 awards"
+        },
+        {
+          "answer": "J Balvin",
+          "display": "19 awards"
+        },
+        {
+          "answer": "Juanes",
+          "display": "16 awards"
+        },
+        {
+          "answer": "Carín León",
+          "display": "15 awards",
+          "aliases": [
+            "Carín"
+          ]
+        },
+        {
+          "answer": "Maluma",
+          "display": "15 awards"
+        },
+        {
+          "answer": "Vicente Fernández",
+          "display": "15 awards",
+          "aliases": [
+            "Vicente"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "music/world/jpop",
+      "question": "Top 10 best-selling albums in Japan of all time",
+      "cutoff": 10,
+      "difficulty": 3,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1371678216 | table 2 | name: Album | value: Sales",
+      "tags": [
+        "music",
+        "japan",
+        "albums",
+        "sales"
+      ],
+      "answers": [
+        {
+          "answer": "First Love",
+          "display": "8,700,000 copies (Hikaru Utada)"
+        },
+        {
+          "answer": "B'z The Best Pleasure",
+          "display": "5,136,000 copies (B'z)",
+          "aliases": [
+            "Pleasure"
+          ]
+        },
+        {
+          "answer": "Review",
+          "display": "5,000,000 copies (Glay)"
+        },
+        {
+          "answer": "Distance",
+          "display": "4,472,353 copies (Hikaru Utada)"
+        },
+        {
+          "answer": "B'z The Best Treasure",
+          "display": "4,439,000 copies (B'z)",
+          "aliases": [
+            "Treasure"
+          ]
+        },
+        {
+          "answer": "A Best",
+          "display": "4,293,843 copies (Ayumi Hamasaki)"
+        },
+        {
+          "answer": "Globe",
+          "display": "4,136,000 copies (Globe)"
+        },
+        {
+          "answer": "Umi no Yeah!!",
+          "display": "4,000,000 copies (Southern All Stars)"
+        },
+        {
+          "answer": "Deep River",
+          "display": "3,605,000 copies (Hikaru Utada)"
+        },
+        {
+          "answer": "Number 1's",
+          "display": "3,600,000 copies (Mariah Carey)"
+        },
+        {
+          "answer": "Delicious Way",
+          "display": "3,530,000 copies (Mai Kuraki)"
+        },
+        {
+          "answer": "Time to Destination",
+          "display": "3,520,000 copies (Every Little Thing)"
+        },
+        {
+          "answer": "Atomic Heart",
+          "display": "3,430,000 copies (Mr. Children)"
+        }
+      ]
+    },
+    {
+      "category": "music/world/kpop",
+      "question": "Top 8 K-pop acts by number of Music Bank No. 1 wins",
+      "cutoff": 8,
+      "difficulty": 3,
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1368261111 | table 2 | name: Artist | value: Count",
+      "tags": [
+        "music",
+        "kpop",
+        "awards"
+      ],
+      "answers": [
+        {
+          "answer": "BTS",
+          "display": "51 No. 1 wins"
+        },
+        {
+          "answer": "Girls' Generation",
+          "display": "42 No. 1 wins",
+          "aliases": [
+            "SNSD"
+          ]
+        },
+        {
+          "answer": "EXO",
+          "display": "37 No. 1 wins"
+        },
+        {
+          "answer": "TWICE",
+          "display": "30 No. 1 wins"
+        },
+        {
+          "answer": "IU",
+          "display": "27 No. 1 wins"
+        },
+        {
+          "answer": "Big Bang",
+          "display": "22 No. 1 wins"
+        },
+        {
+          "answer": "Seventeen",
+          "display": "21 No. 1 wins"
+        },
+        {
+          "answer": "Super Junior",
+          "display": "20 No. 1 wins"
+        },
+        {
+          "answer": "Psy",
+          "display": "18 No. 1 wins"
+        },
+        {
+          "answer": "SHINee",
+          "display": "18 No. 1 wins"
+        },
+        {
+          "answer": "BEAST",
+          "display": "18 No. 1 wins",
+          "aliases": [
+            "Highlight"
+          ]
+        }
+      ]
+    }
+  ]
+}

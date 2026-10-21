@@ -1,0 +1,3838 @@
+{
+  "categories": [
+    {
+      "path": "geography/us/state-cities",
+      "name": "State Cities"
+    }
+  ],
+  "questions": [
+    {
+      "category": "geography/us/state-cities",
+      "difficulty": 2,
+      "question": "Top 10 largest cities in Ohio by 2020 census population (cities only, not villages)",
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1373561256 | table 1 | name: Name | value: Population (2020) | where: Class=City",
+      "tags": [
+        "geography",
+        "states",
+        "cities",
+        "ohio"
+      ],
+      "answers": [
+        {
+          "answer": "Columbus",
+          "display": "905,748 residents"
+        },
+        {
+          "answer": "Cleveland",
+          "display": "372,624 residents"
+        },
+        {
+          "answer": "Cincinnati",
+          "display": "309,317 residents",
+          "aliases": [
+            "Cincy"
+          ]
+        },
+        {
+          "answer": "Toledo",
+          "display": "270,871 residents"
+        },
+        {
+          "answer": "Akron",
+          "display": "190,469 residents"
+        },
+        {
+          "answer": "Dayton",
+          "display": "137,644 residents"
+        },
+        {
+          "answer": "Parma",
+          "display": "81,146 residents"
+        },
+        {
+          "answer": "Canton",
+          "display": "70,872 residents"
+        },
+        {
+          "answer": "Lorain",
+          "display": "65,211 residents"
+        },
+        {
+          "answer": "Hamilton",
+          "display": "63,399 residents"
+        },
+        {
+          "answer": "Youngstown",
+          "display": "60,068 residents"
+        },
+        {
+          "answer": "Springfield",
+          "display": "58,662 residents"
+        },
+        {
+          "answer": "Kettering",
+          "display": "57,862 residents"
+        },
+        {
+          "answer": "Elyria",
+          "display": "52,656 residents"
+        }
+      ]
+    },
+    {
+      "category": "geography/us/state-cities",
+      "difficulty": 2,
+      "question": "Top 10 largest cities in Georgia by 2020 census population (cities only, not towns)",
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1367820505 | table 1 | name: Name | value: Population (2020) | header rows: 2 | where: Type!~Town",
+      "tags": [
+        "geography",
+        "states",
+        "cities",
+        "georgia"
+      ],
+      "answers": [
+        {
+          "answer": "Atlanta",
+          "display": "498,715 residents",
+          "aliases": [
+            "ATL"
+          ]
+        },
+        {
+          "answer": "Columbus",
+          "display": "206,922 residents"
+        },
+        {
+          "answer": "Augusta",
+          "display": "202,081 residents"
+        },
+        {
+          "answer": "Macon",
+          "display": "157,346 residents"
+        },
+        {
+          "answer": "Savannah",
+          "display": "147,780 residents"
+        },
+        {
+          "answer": "Athens",
+          "display": "127,315 residents"
+        },
+        {
+          "answer": "Sandy Springs",
+          "display": "108,080 residents"
+        },
+        {
+          "answer": "South Fulton",
+          "display": "107,436 residents"
+        },
+        {
+          "answer": "Roswell",
+          "display": "92,833 residents"
+        },
+        {
+          "answer": "Johns Creek",
+          "display": "82,453 residents"
+        },
+        {
+          "answer": "Warner Robins",
+          "display": "80,308 residents"
+        },
+        {
+          "answer": "Albany",
+          "display": "69,647 residents"
+        },
+        {
+          "answer": "Alpharetta",
+          "display": "65,818 residents"
+        },
+        {
+          "answer": "Marietta",
+          "display": "60,972 residents"
+        }
+      ]
+    },
+    {
+      "category": "geography/us/state-cities",
+      "difficulty": 2,
+      "question": "Top 10 largest cities in North Carolina by 2020 census population (cities only, not towns)",
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1376269205 | table 1 | name: Name | value: Population (2020) | where: Type=City",
+      "tags": [
+        "geography",
+        "states",
+        "cities",
+        "north carolina"
+      ],
+      "answers": [
+        {
+          "answer": "Charlotte",
+          "display": "874,579 residents"
+        },
+        {
+          "answer": "Raleigh",
+          "display": "467,665 residents"
+        },
+        {
+          "answer": "Greensboro",
+          "display": "299,035 residents"
+        },
+        {
+          "answer": "Durham",
+          "display": "283,506 residents"
+        },
+        {
+          "answer": "Winston-Salem",
+          "display": "249,545 residents",
+          "aliases": [
+            "Winston Salem"
+          ]
+        },
+        {
+          "answer": "Fayetteville",
+          "display": "208,501 residents"
+        },
+        {
+          "answer": "Wilmington",
+          "display": "115,451 residents"
+        },
+        {
+          "answer": "High Point",
+          "display": "114,059 residents"
+        },
+        {
+          "answer": "Concord",
+          "display": "105,240 residents"
+        },
+        {
+          "answer": "Asheville",
+          "display": "94,589 residents"
+        },
+        {
+          "answer": "Greenville",
+          "display": "87,521 residents"
+        },
+        {
+          "answer": "Gastonia",
+          "display": "80,411 residents"
+        },
+        {
+          "answer": "Jacksonville",
+          "display": "72,723 residents"
+        },
+        {
+          "answer": "Burlington",
+          "display": "57,303 residents"
+        }
+      ]
+    },
+    {
+      "category": "geography/us/state-cities",
+      "difficulty": 2,
+      "question": "Top 10 largest cities in Michigan by 2020 census population (cities only, not townships)",
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1379658679 | table 1 | name: Name | value: Population (2020) | where: Type=City",
+      "tags": [
+        "geography",
+        "states",
+        "cities",
+        "michigan"
+      ],
+      "answers": [
+        {
+          "answer": "Detroit",
+          "display": "639,111 residents",
+          "aliases": [
+            "Motor City"
+          ]
+        },
+        {
+          "answer": "Grand Rapids",
+          "display": "198,917 residents"
+        },
+        {
+          "answer": "Warren",
+          "display": "139,387 residents"
+        },
+        {
+          "answer": "Sterling Heights",
+          "display": "134,346 residents"
+        },
+        {
+          "answer": "Ann Arbor",
+          "display": "123,851 residents"
+        },
+        {
+          "answer": "Lansing",
+          "display": "112,644 residents"
+        },
+        {
+          "answer": "Dearborn",
+          "display": "109,976 residents"
+        },
+        {
+          "answer": "Livonia",
+          "display": "95,535 residents"
+        },
+        {
+          "answer": "Troy",
+          "display": "87,294 residents"
+        },
+        {
+          "answer": "Westland",
+          "display": "85,420 residents"
+        },
+        {
+          "answer": "Farmington Hills",
+          "display": "83,986 residents"
+        },
+        {
+          "answer": "Flint",
+          "display": "81,252 residents"
+        },
+        {
+          "answer": "Southfield",
+          "display": "76,618 residents"
+        }
+      ]
+    },
+    {
+      "category": "geography/us/state-cities",
+      "difficulty": 2,
+      "question": "Top 10 largest cities in New Jersey by 2020 census population (cities only, not townships or boroughs)",
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1378325868 | table 1 | name: Name | value: Population (2020) | header rows: 2 | where: Type=City",
+      "tags": [
+        "geography",
+        "states",
+        "cities",
+        "new jersey"
+      ],
+      "answers": [
+        {
+          "answer": "Newark",
+          "display": "311,549 residents"
+        },
+        {
+          "answer": "Jersey City",
+          "display": "292,449 residents",
+          "aliases": [
+            "JC"
+          ]
+        },
+        {
+          "answer": "Paterson",
+          "display": "159,732 residents"
+        },
+        {
+          "answer": "Elizabeth",
+          "display": "137,298 residents"
+        },
+        {
+          "answer": "Trenton",
+          "display": "90,871 residents"
+        },
+        {
+          "answer": "Clifton",
+          "display": "90,296 residents"
+        },
+        {
+          "answer": "Camden",
+          "display": "71,791 residents"
+        },
+        {
+          "answer": "Bayonne",
+          "display": "71,686 residents"
+        },
+        {
+          "answer": "Passaic",
+          "display": "70,537 residents"
+        },
+        {
+          "answer": "East Orange",
+          "display": "69,612 residents"
+        },
+        {
+          "answer": "Union City",
+          "display": "68,589 residents"
+        },
+        {
+          "answer": "Vineland",
+          "display": "60,780 residents"
+        },
+        {
+          "answer": "Hoboken",
+          "display": "60,419 residents"
+        },
+        {
+          "answer": "Perth Amboy",
+          "display": "55,436 residents"
+        }
+      ]
+    },
+    {
+      "category": "geography/us/state-cities",
+      "difficulty": 2,
+      "question": "Top 10 largest cities in Washington by 2020 census population (cities only, not towns)",
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1357169429 | table 2 | name: Name | value: 2020 census | header rows: 2 | where: Type!~Town",
+      "tags": [
+        "geography",
+        "states",
+        "cities",
+        "washington"
+      ],
+      "answers": [
+        {
+          "answer": "Seattle",
+          "display": "737,015 residents",
+          "aliases": [
+            "Emerald City"
+          ]
+        },
+        {
+          "answer": "Spokane",
+          "display": "228,989 residents"
+        },
+        {
+          "answer": "Tacoma",
+          "display": "219,346 residents"
+        },
+        {
+          "answer": "Vancouver",
+          "display": "190,915 residents"
+        },
+        {
+          "answer": "Bellevue",
+          "display": "151,854 residents"
+        },
+        {
+          "answer": "Kent",
+          "display": "136,588 residents"
+        },
+        {
+          "answer": "Everett",
+          "display": "110,629 residents"
+        },
+        {
+          "answer": "Renton",
+          "display": "106,785 residents"
+        },
+        {
+          "answer": "Spokane Valley",
+          "display": "102,976 residents"
+        },
+        {
+          "answer": "Federal Way",
+          "display": "101,030 residents"
+        },
+        {
+          "answer": "Yakima",
+          "display": "96,968 residents"
+        },
+        {
+          "answer": "Kirkland",
+          "display": "92,175 residents"
+        },
+        {
+          "answer": "Bellingham",
+          "display": "91,482 residents"
+        },
+        {
+          "answer": "Auburn",
+          "display": "87,256 residents"
+        }
+      ]
+    },
+    {
+      "category": "geography/us/state-cities",
+      "difficulty": 2,
+      "question": "Top 10 largest cities in Massachusetts by 2020 census population (cities only, not towns)",
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1366437722 | table 1 | name: Municipality | value: Population (2020) | where: Type~^City",
+      "tags": [
+        "geography",
+        "states",
+        "cities",
+        "massachusetts"
+      ],
+      "answers": [
+        {
+          "answer": "Boston",
+          "display": "675,647 residents",
+          "aliases": [
+            "Beantown"
+          ]
+        },
+        {
+          "answer": "Worcester",
+          "display": "206,518 residents"
+        },
+        {
+          "answer": "Springfield",
+          "display": "155,929 residents"
+        },
+        {
+          "answer": "Cambridge",
+          "display": "118,403 residents"
+        },
+        {
+          "answer": "Lowell",
+          "display": "115,554 residents"
+        },
+        {
+          "answer": "Brockton",
+          "display": "105,643 residents"
+        },
+        {
+          "answer": "Quincy",
+          "display": "101,636 residents"
+        },
+        {
+          "answer": "Lynn",
+          "display": "101,253 residents"
+        },
+        {
+          "answer": "New Bedford",
+          "display": "101,079 residents"
+        },
+        {
+          "answer": "Fall River",
+          "display": "94,000 residents"
+        },
+        {
+          "answer": "Lawrence",
+          "display": "89,143 residents"
+        },
+        {
+          "answer": "Newton",
+          "display": "88,923 residents"
+        },
+        {
+          "answer": "Somerville",
+          "display": "81,045 residents"
+        }
+      ]
+    },
+    {
+      "category": "geography/us/state-cities",
+      "difficulty": 2,
+      "question": "Top 10 largest incorporated cities and towns in Tennessee by 2020 census population",
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1376063519 | table 1 | name: Place Name | value: Population (2020 Census)",
+      "tags": [
+        "geography",
+        "states",
+        "cities",
+        "tennessee"
+      ],
+      "answers": [
+        {
+          "answer": "Nashville",
+          "display": "689,447 residents",
+          "aliases": [
+            "Music City"
+          ]
+        },
+        {
+          "answer": "Memphis",
+          "display": "633,104 residents",
+          "aliases": [
+            "Bluff City"
+          ]
+        },
+        {
+          "answer": "Knoxville",
+          "display": "190,740 residents"
+        },
+        {
+          "answer": "Chattanooga",
+          "display": "181,099 residents"
+        },
+        {
+          "answer": "Clarksville",
+          "display": "166,722 residents"
+        },
+        {
+          "answer": "Murfreesboro",
+          "display": "152,769 residents"
+        },
+        {
+          "answer": "Franklin",
+          "display": "83,454 residents"
+        },
+        {
+          "answer": "Johnson City",
+          "display": "71,046 residents"
+        },
+        {
+          "answer": "Jackson",
+          "display": "68,205 residents"
+        },
+        {
+          "answer": "Hendersonville",
+          "display": "61,753 residents"
+        },
+        {
+          "answer": "Bartlett",
+          "display": "57,786 residents"
+        },
+        {
+          "answer": "Kingsport",
+          "display": "55,442 residents"
+        },
+        {
+          "answer": "Smyrna",
+          "display": "53,070 residents"
+        },
+        {
+          "answer": "Collierville",
+          "display": "51,324 residents"
+        }
+      ]
+    },
+    {
+      "category": "geography/us/state-cities",
+      "difficulty": 2,
+      "question": "Top 10 largest cities in Missouri by 2020 census population (cities only, not villages)",
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1376673418 | table 1 | name: Municipality | value: 2020 census | header rows: 2 | where: Designation=City",
+      "tags": [
+        "geography",
+        "states",
+        "cities",
+        "missouri"
+      ],
+      "answers": [
+        {
+          "answer": "Kansas City",
+          "display": "508,090 residents",
+          "aliases": [
+            "KC"
+          ]
+        },
+        {
+          "answer": "St. Louis",
+          "display": "301,578 residents",
+          "aliases": [
+            "Saint Louis",
+            "St Louis"
+          ]
+        },
+        {
+          "answer": "Springfield",
+          "display": "169,176 residents"
+        },
+        {
+          "answer": "Columbia",
+          "display": "126,254 residents"
+        },
+        {
+          "answer": "Independence",
+          "display": "123,011 residents"
+        },
+        {
+          "answer": "Lee's Summit",
+          "display": "101,108 residents"
+        },
+        {
+          "answer": "O'Fallon",
+          "display": "91,316 residents"
+        },
+        {
+          "answer": "St. Joseph",
+          "display": "72,473 residents",
+          "aliases": [
+            "Saint Joseph"
+          ]
+        },
+        {
+          "answer": "St. Charles",
+          "display": "70,493 residents",
+          "aliases": [
+            "Saint Charles"
+          ]
+        },
+        {
+          "answer": "Blue Springs",
+          "display": "58,603 residents"
+        },
+        {
+          "answer": "St. Peters",
+          "display": "57,732 residents"
+        },
+        {
+          "answer": "Florissant",
+          "display": "52,533 residents"
+        },
+        {
+          "answer": "Joplin",
+          "display": "51,762 residents"
+        },
+        {
+          "answer": "Chesterfield",
+          "display": "49,999 residents"
+        }
+      ]
+    },
+    {
+      "category": "geography/us/state-cities",
+      "difficulty": 2,
+      "question": "Top 10 largest cities in Wisconsin by 2020 census population",
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1351920860 | table 1 | name: City | value: 2020 Census | header rows: 2",
+      "tags": [
+        "geography",
+        "states",
+        "cities",
+        "wisconsin"
+      ],
+      "answers": [
+        {
+          "answer": "Milwaukee",
+          "display": "577,222 residents"
+        },
+        {
+          "answer": "Madison",
+          "display": "269,840 residents"
+        },
+        {
+          "answer": "Green Bay",
+          "display": "107,395 residents"
+        },
+        {
+          "answer": "Kenosha",
+          "display": "99,986 residents"
+        },
+        {
+          "answer": "Racine",
+          "display": "77,816 residents"
+        },
+        {
+          "answer": "Appleton",
+          "display": "75,644 residents"
+        },
+        {
+          "answer": "Waukesha",
+          "display": "71,158 residents"
+        },
+        {
+          "answer": "Eau Claire",
+          "display": "69,421 residents"
+        },
+        {
+          "answer": "Oshkosh",
+          "display": "66,816 residents"
+        },
+        {
+          "answer": "Janesville",
+          "display": "65,615 residents"
+        },
+        {
+          "answer": "West Allis",
+          "display": "60,325 residents"
+        },
+        {
+          "answer": "La Crosse",
+          "display": "52,680 residents"
+        },
+        {
+          "answer": "Sheboygan",
+          "display": "49,929 residents"
+        },
+        {
+          "answer": "Wauwatosa",
+          "display": "48,387 residents"
+        }
+      ]
+    },
+    {
+      "category": "geography/us/state-cities",
+      "difficulty": 2,
+      "question": "Top 10 largest cities in Colorado by 2020 census population (cities only, not towns)",
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1377495309 | table 2 | name: 1 | value: 4 | where: Type of government!~[Tt]own | where: Municipality!~^Active",
+      "tags": [
+        "geography",
+        "states",
+        "cities",
+        "colorado"
+      ],
+      "answers": [
+        {
+          "answer": "Denver",
+          "display": "715,522 residents"
+        },
+        {
+          "answer": "Colorado Springs",
+          "display": "478,961 residents"
+        },
+        {
+          "answer": "Aurora",
+          "display": "386,261 residents"
+        },
+        {
+          "answer": "Fort Collins",
+          "display": "169,810 residents",
+          "aliases": [
+            "Ft. Collins"
+          ]
+        },
+        {
+          "answer": "Lakewood",
+          "display": "155,984 residents"
+        },
+        {
+          "answer": "Thornton",
+          "display": "141,867 residents"
+        },
+        {
+          "answer": "Arvada",
+          "display": "124,402 residents"
+        },
+        {
+          "answer": "Westminster",
+          "display": "116,317 residents"
+        },
+        {
+          "answer": "Pueblo",
+          "display": "111,876 residents"
+        },
+        {
+          "answer": "Greeley",
+          "display": "108,795 residents"
+        },
+        {
+          "answer": "Centennial",
+          "display": "108,418 residents"
+        },
+        {
+          "answer": "Boulder",
+          "display": "108,250 residents"
+        },
+        {
+          "answer": "Longmont",
+          "display": "98,885 residents"
+        },
+        {
+          "answer": "Loveland",
+          "display": "76,378 residents"
+        }
+      ]
+    },
+    {
+      "category": "geography/us/state-cities",
+      "difficulty": 2,
+      "question": "Top 10 largest cities in Minnesota (2025 estimate)",
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1357453494 | table 1 | name: City | value: 2025 Estimate | header rows: 2",
+      "tags": [
+        "geography",
+        "states",
+        "cities",
+        "minnesota"
+      ],
+      "answers": [
+        {
+          "answer": "Minneapolis",
+          "display": "430,324 residents",
+          "aliases": [
+            "Mpls"
+          ]
+        },
+        {
+          "answer": "St. Paul",
+          "display": "306,684 residents",
+          "aliases": [
+            "Saint Paul"
+          ]
+        },
+        {
+          "answer": "Rochester",
+          "display": "124,292 residents"
+        },
+        {
+          "answer": "Bloomington",
+          "display": "89,034 residents"
+        },
+        {
+          "answer": "Duluth",
+          "display": "88,330 residents"
+        },
+        {
+          "answer": "Brooklyn Park",
+          "display": "83,543 residents"
+        },
+        {
+          "answer": "Woodbury",
+          "display": "81,558 residents"
+        },
+        {
+          "answer": "Lakeville",
+          "display": "79,270 residents"
+        },
+        {
+          "answer": "Plymouth",
+          "display": "78,942 residents"
+        },
+        {
+          "answer": "Blaine",
+          "display": "76,603 residents"
+        },
+        {
+          "answer": "Maple Grove",
+          "display": "73,893 residents"
+        },
+        {
+          "answer": "St. Cloud",
+          "display": "72,647 residents"
+        },
+        {
+          "answer": "Eagan",
+          "display": "67,109 residents"
+        },
+        {
+          "answer": "Burnsville",
+          "display": "65,244 residents"
+        }
+      ]
+    },
+    {
+      "category": "geography/us/state-cities",
+      "difficulty": 2,
+      "question": "Top 10 largest cities in Louisiana by 2020 census population (cities only, not towns or villages)",
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1377948654 | table 1 | name: Name | value: Population (2020) | where: Name!~^Total | where: Type!~^(Town|Village)",
+      "tags": [
+        "geography",
+        "states",
+        "cities",
+        "louisiana"
+      ],
+      "answers": [
+        {
+          "answer": "New Orleans",
+          "display": "383,997 residents",
+          "aliases": [
+            "NOLA"
+          ]
+        },
+        {
+          "answer": "Baton Rouge",
+          "display": "227,470 residents"
+        },
+        {
+          "answer": "Shreveport",
+          "display": "187,593 residents"
+        },
+        {
+          "answer": "Lafayette",
+          "display": "121,374 residents"
+        },
+        {
+          "answer": "Lake Charles",
+          "display": "84,872 residents"
+        },
+        {
+          "answer": "Kenner",
+          "display": "66,448 residents"
+        },
+        {
+          "answer": "Bossier City",
+          "display": "62,701 residents"
+        },
+        {
+          "answer": "Monroe",
+          "display": "47,702 residents"
+        },
+        {
+          "answer": "Alexandria",
+          "display": "46,180 residents"
+        },
+        {
+          "answer": "Houma",
+          "display": "33,406 residents"
+        },
+        {
+          "answer": "Central",
+          "display": "29,565 residents"
+        },
+        {
+          "answer": "Slidell",
+          "display": "28,781 residents"
+        },
+        {
+          "answer": "New Iberia",
+          "display": "28,555 residents"
+        },
+        {
+          "answer": "Ruston",
+          "display": "22,166 residents"
+        }
+      ]
+    },
+    {
+      "category": "geography/us/state-cities",
+      "difficulty": 2,
+      "question": "Top 10 largest cities in Oregon by 2020 census population",
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1367746229 | table 2 | name: Name | value: 2020 census | header rows: 2",
+      "tags": [
+        "geography",
+        "states",
+        "cities",
+        "oregon"
+      ],
+      "answers": [
+        {
+          "answer": "Portland",
+          "display": "652,503 residents",
+          "aliases": [
+            "PDX"
+          ]
+        },
+        {
+          "answer": "Eugene",
+          "display": "176,654 residents"
+        },
+        {
+          "answer": "Salem",
+          "display": "175,535 residents"
+        },
+        {
+          "answer": "Gresham",
+          "display": "114,247 residents"
+        },
+        {
+          "answer": "Hillsboro",
+          "display": "106,447 residents"
+        },
+        {
+          "answer": "Bend",
+          "display": "99,178 residents"
+        },
+        {
+          "answer": "Beaverton",
+          "display": "97,494 residents"
+        },
+        {
+          "answer": "Medford",
+          "display": "85,824 residents"
+        },
+        {
+          "answer": "Springfield",
+          "display": "61,851 residents"
+        },
+        {
+          "answer": "Corvallis",
+          "display": "59,922 residents"
+        },
+        {
+          "answer": "Albany",
+          "display": "56,472 residents"
+        },
+        {
+          "answer": "Tigard",
+          "display": "54,539 residents"
+        },
+        {
+          "answer": "Lake Oswego",
+          "display": "40,732 residents"
+        },
+        {
+          "answer": "Keizer",
+          "display": "39,376 residents"
+        }
+      ]
+    },
+    {
+      "category": "geography/us/state-cities",
+      "difficulty": 2,
+      "question": "Top 10 largest cities in Alabama by 2020 census population",
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1365643870 | table 1 | name: Name | value: Population (2020) | where: Type=City",
+      "tags": [
+        "geography",
+        "states",
+        "cities",
+        "alabama"
+      ],
+      "answers": [
+        {
+          "answer": "Huntsville",
+          "display": "215,006 residents"
+        },
+        {
+          "answer": "Birmingham",
+          "display": "200,733 residents"
+        },
+        {
+          "answer": "Montgomery",
+          "display": "200,603 residents"
+        },
+        {
+          "answer": "Mobile",
+          "display": "187,041 residents"
+        },
+        {
+          "answer": "Tuscaloosa",
+          "display": "99,600 residents"
+        },
+        {
+          "answer": "Hoover",
+          "display": "92,606 residents"
+        },
+        {
+          "answer": "Auburn",
+          "display": "76,143 residents"
+        },
+        {
+          "answer": "Dothan",
+          "display": "71,072 residents"
+        },
+        {
+          "answer": "Decatur",
+          "display": "57,938 residents"
+        },
+        {
+          "answer": "Madison",
+          "display": "56,933 residents"
+        },
+        {
+          "answer": "Florence",
+          "display": "40,184 residents"
+        },
+        {
+          "answer": "Vestavia Hills",
+          "display": "39,102 residents"
+        },
+        {
+          "answer": "Phenix City",
+          "display": "38,816 residents"
+        },
+        {
+          "answer": "Prattville",
+          "display": "37,781 residents"
+        },
+        {
+          "answer": "Gadsden",
+          "display": "33,945 residents"
+        }
+      ]
+    },
+    {
+      "category": "geography/us/state-cities",
+      "difficulty": 2,
+      "question": "Top 10 largest cities in Alaska by 2020 census population",
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1380688563 | table 1 | name: Name | value: Population (2020) | where: Name!~^(Alaska|Total)",
+      "tags": [
+        "geography",
+        "states",
+        "cities",
+        "alaska"
+      ],
+      "answers": [
+        {
+          "answer": "Anchorage",
+          "display": "291,247 residents"
+        },
+        {
+          "answer": "Fairbanks",
+          "display": "32,515 residents"
+        },
+        {
+          "answer": "Juneau",
+          "display": "32,255 residents"
+        },
+        {
+          "answer": "Wasilla",
+          "display": "9,054 residents"
+        },
+        {
+          "answer": "Sitka",
+          "display": "8,458 residents"
+        },
+        {
+          "answer": "Ketchikan",
+          "display": "8,192 residents"
+        },
+        {
+          "answer": "Kenai",
+          "display": "7,424 residents"
+        },
+        {
+          "answer": "Bethel",
+          "display": "6,325 residents"
+        },
+        {
+          "answer": "Palmer",
+          "display": "5,888 residents"
+        },
+        {
+          "answer": "Kodiak",
+          "display": "5,581 residents"
+        },
+        {
+          "answer": "Homer",
+          "display": "5,522 residents"
+        },
+        {
+          "answer": "Utqiaġvik",
+          "display": "4,927 residents"
+        },
+        {
+          "answer": "Soldotna",
+          "display": "4,342 residents"
+        },
+        {
+          "answer": "Unalaska",
+          "display": "4,254 residents"
+        },
+        {
+          "answer": "Valdez",
+          "display": "3,985 residents"
+        }
+      ]
+    },
+    {
+      "category": "geography/us/state-cities",
+      "difficulty": 2,
+      "question": "Top 10 largest cities in Arizona by 2020 census population",
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1379897915 | table 1 | name: Name | value: Population (2020) | where: Type=City",
+      "tags": [
+        "geography",
+        "states",
+        "cities",
+        "arizona"
+      ],
+      "answers": [
+        {
+          "answer": "Phoenix",
+          "display": "1,608,139 residents"
+        },
+        {
+          "answer": "Tucson",
+          "display": "542,629 residents"
+        },
+        {
+          "answer": "Mesa",
+          "display": "504,258 residents"
+        },
+        {
+          "answer": "Chandler",
+          "display": "275,987 residents"
+        },
+        {
+          "answer": "Glendale",
+          "display": "248,325 residents"
+        },
+        {
+          "answer": "Scottsdale",
+          "display": "241,361 residents"
+        },
+        {
+          "answer": "Peoria",
+          "display": "190,985 residents"
+        },
+        {
+          "answer": "Tempe",
+          "display": "180,587 residents"
+        },
+        {
+          "answer": "Surprise",
+          "display": "143,148 residents"
+        },
+        {
+          "answer": "Yuma",
+          "display": "95,548 residents"
+        },
+        {
+          "answer": "Goodyear",
+          "display": "95,294 residents"
+        },
+        {
+          "answer": "Buckeye",
+          "display": "91,502 residents"
+        },
+        {
+          "answer": "Avondale",
+          "display": "89,334 residents"
+        },
+        {
+          "answer": "Flagstaff",
+          "display": "76,831 residents"
+        },
+        {
+          "answer": "Maricopa",
+          "display": "58,125 residents"
+        }
+      ]
+    },
+    {
+      "category": "geography/us/state-cities",
+      "difficulty": 2,
+      "question": "Top 10 largest cities in Arkansas by 2020 census population",
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1353424083 | table 2 | name: Name | value: Population (2020) | where: Type~^City",
+      "tags": [
+        "geography",
+        "states",
+        "cities",
+        "arkansas"
+      ],
+      "answers": [
+        {
+          "answer": "Little Rock",
+          "display": "202,591 residents"
+        },
+        {
+          "answer": "Fayetteville",
+          "display": "93,949 residents"
+        },
+        {
+          "answer": "Fort Smith",
+          "display": "89,142 residents"
+        },
+        {
+          "answer": "Springdale",
+          "display": "84,161 residents"
+        },
+        {
+          "answer": "Jonesboro",
+          "display": "78,576 residents"
+        },
+        {
+          "answer": "Rogers",
+          "display": "69,908 residents"
+        },
+        {
+          "answer": "North Little Rock",
+          "display": "64,591 residents"
+        },
+        {
+          "answer": "Conway",
+          "display": "64,134 residents"
+        },
+        {
+          "answer": "Bentonville",
+          "display": "54,164 residents"
+        },
+        {
+          "answer": "Pine Bluff",
+          "display": "41,253 residents"
+        },
+        {
+          "answer": "Hot Springs",
+          "display": "37,930 residents"
+        },
+        {
+          "answer": "Benton",
+          "display": "35,014 residents"
+        },
+        {
+          "answer": "Sherwood",
+          "display": "32,731 residents"
+        },
+        {
+          "answer": "Bella Vista",
+          "display": "30,104 residents"
+        },
+        {
+          "answer": "Paragould",
+          "display": "29,537 residents"
+        }
+      ]
+    },
+    {
+      "category": "geography/us/state-cities",
+      "difficulty": 2,
+      "question": "Top 10 largest cities and towns in Connecticut by 2020 census population",
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1381017664 | table 1 | name: Name | value: Population (2020) | where: Name!~^(Connecticut|Full)",
+      "tags": [
+        "geography",
+        "states",
+        "cities",
+        "connecticut"
+      ],
+      "answers": [
+        {
+          "answer": "Bridgeport",
+          "display": "148,654 residents"
+        },
+        {
+          "answer": "Stamford",
+          "display": "135,470 residents"
+        },
+        {
+          "answer": "New Haven",
+          "display": "134,023 residents"
+        },
+        {
+          "answer": "Hartford",
+          "display": "121,054 residents"
+        },
+        {
+          "answer": "Waterbury",
+          "display": "114,403 residents"
+        },
+        {
+          "answer": "Norwalk",
+          "display": "91,184 residents"
+        },
+        {
+          "answer": "Danbury",
+          "display": "86,518 residents"
+        },
+        {
+          "answer": "New Britain",
+          "display": "74,135 residents"
+        },
+        {
+          "answer": "West Hartford",
+          "display": "64,083 residents"
+        },
+        {
+          "answer": "Greenwich",
+          "display": "63,518 residents"
+        },
+        {
+          "answer": "Fairfield",
+          "display": "61,512 residents"
+        },
+        {
+          "answer": "Hamden",
+          "display": "61,169 residents"
+        },
+        {
+          "answer": "Meriden",
+          "display": "60,850 residents"
+        },
+        {
+          "answer": "Bristol",
+          "display": "60,833 residents"
+        },
+        {
+          "answer": "Manchester",
+          "display": "59,713 residents"
+        }
+      ]
+    },
+    {
+      "category": "geography/us/state-cities",
+      "difficulty": 2,
+      "question": "Top 10 largest cities and towns in Delaware by 2020 census population",
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1375610097 | table 2 | name: Name | value: Population (2020) | where: Name!~^(Delaware|Total)",
+      "tags": [
+        "geography",
+        "states",
+        "cities",
+        "delaware"
+      ],
+      "answers": [
+        {
+          "answer": "Wilmington",
+          "display": "70,898 residents"
+        },
+        {
+          "answer": "Dover",
+          "display": "39,403 residents"
+        },
+        {
+          "answer": "Newark",
+          "display": "30,601 residents"
+        },
+        {
+          "answer": "Middletown",
+          "display": "23,192 residents"
+        },
+        {
+          "answer": "Smyrna",
+          "display": "12,883 residents"
+        },
+        {
+          "answer": "Milford",
+          "display": "11,190 residents"
+        },
+        {
+          "answer": "Seaford",
+          "display": "7,957 residents"
+        },
+        {
+          "answer": "Georgetown",
+          "display": "7,134 residents"
+        },
+        {
+          "answer": "Millsboro",
+          "display": "6,863 residents"
+        },
+        {
+          "answer": "Elsmere",
+          "display": "6,229 residents"
+        },
+        {
+          "answer": "New Castle",
+          "display": "5,551 residents"
+        },
+        {
+          "answer": "Clayton",
+          "display": "3,961 residents"
+        },
+        {
+          "answer": "Laurel",
+          "display": "3,865 residents"
+        },
+        {
+          "answer": "Harrington",
+          "display": "3,774 residents"
+        },
+        {
+          "answer": "Camden",
+          "display": "3,715 residents"
+        }
+      ]
+    },
+    {
+      "category": "geography/us/state-cities",
+      "difficulty": 2,
+      "question": "Top 10 largest cities in Idaho by 2020 census population",
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1344832531 | table 1 | name: City | value: 2020 Census",
+      "tags": [
+        "geography",
+        "states",
+        "cities",
+        "idaho"
+      ],
+      "answers": [
+        {
+          "answer": "Boise",
+          "display": "235,684 residents"
+        },
+        {
+          "answer": "Meridian",
+          "display": "117,635 residents"
+        },
+        {
+          "answer": "Nampa",
+          "display": "100,200 residents"
+        },
+        {
+          "answer": "Idaho Falls",
+          "display": "64,818 residents"
+        },
+        {
+          "answer": "Caldwell",
+          "display": "59,996 residents"
+        },
+        {
+          "answer": "Pocatello",
+          "display": "56,320 residents"
+        },
+        {
+          "answer": "Coeur d'Alene",
+          "display": "54,628 residents"
+        },
+        {
+          "answer": "Twin Falls",
+          "display": "51,807 residents"
+        },
+        {
+          "answer": "Rexburg",
+          "display": "39,409 residents"
+        },
+        {
+          "answer": "Post Falls",
+          "display": "38,485 residents"
+        },
+        {
+          "answer": "Lewiston",
+          "display": "34,203 residents"
+        },
+        {
+          "answer": "Eagle",
+          "display": "30,346 residents"
+        },
+        {
+          "answer": "Moscow",
+          "display": "25,435 residents"
+        },
+        {
+          "answer": "Kuna",
+          "display": "24,011 residents"
+        },
+        {
+          "answer": "Ammon",
+          "display": "17,694 residents"
+        }
+      ]
+    },
+    {
+      "category": "geography/us/state-cities",
+      "difficulty": 2,
+      "question": "Top 10 largest cities in Illinois by 2020 census population",
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1352244514 | table 2 | name: Name | value: Population (2020) | where: Type=City",
+      "tags": [
+        "geography",
+        "states",
+        "cities",
+        "illinois"
+      ],
+      "answers": [
+        {
+          "answer": "Chicago",
+          "display": "2,746,388 residents"
+        },
+        {
+          "answer": "Aurora",
+          "display": "180,542 residents"
+        },
+        {
+          "answer": "Joliet",
+          "display": "150,362 residents"
+        },
+        {
+          "answer": "Naperville",
+          "display": "149,540 residents"
+        },
+        {
+          "answer": "Rockford",
+          "display": "148,655 residents"
+        },
+        {
+          "answer": "Elgin",
+          "display": "114,797 residents"
+        },
+        {
+          "answer": "Springfield",
+          "display": "114,394 residents"
+        },
+        {
+          "answer": "Peoria",
+          "display": "113,150 residents"
+        },
+        {
+          "answer": "Waukegan",
+          "display": "89,321 residents"
+        },
+        {
+          "answer": "Champaign",
+          "display": "88,302 residents"
+        },
+        {
+          "answer": "Bloomington",
+          "display": "78,680 residents"
+        },
+        {
+          "answer": "Evanston",
+          "display": "78,110 residents"
+        },
+        {
+          "answer": "Decatur",
+          "display": "70,522 residents"
+        },
+        {
+          "answer": "Des Plaines",
+          "display": "60,675 residents"
+        },
+        {
+          "answer": "Berwyn",
+          "display": "57,250 residents"
+        }
+      ]
+    },
+    {
+      "category": "geography/us/state-cities",
+      "difficulty": 2,
+      "question": "Top 10 largest cities in Indiana by 2020 census population",
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1377626401 | table 1 | name: Name | value: 2020 Census | where: Type=City",
+      "tags": [
+        "geography",
+        "states",
+        "cities",
+        "indiana"
+      ],
+      "answers": [
+        {
+          "answer": "Indianapolis",
+          "display": "887,642 residents",
+          "aliases": [
+            "Indy"
+          ]
+        },
+        {
+          "answer": "Fort Wayne",
+          "display": "263,886 residents"
+        },
+        {
+          "answer": "Evansville",
+          "display": "117,298 residents"
+        },
+        {
+          "answer": "South Bend",
+          "display": "103,453 residents"
+        },
+        {
+          "answer": "Carmel",
+          "display": "99,757 residents"
+        },
+        {
+          "answer": "Fishers",
+          "display": "98,977 residents"
+        },
+        {
+          "answer": "Bloomington",
+          "display": "79,168 residents"
+        },
+        {
+          "answer": "Hammond",
+          "display": "77,879 residents"
+        },
+        {
+          "answer": "Lafayette",
+          "display": "70,783 residents"
+        },
+        {
+          "answer": "Noblesville",
+          "display": "69,604 residents"
+        },
+        {
+          "answer": "Gary",
+          "display": "69,093 residents"
+        },
+        {
+          "answer": "Muncie",
+          "display": "65,194 residents"
+        },
+        {
+          "answer": "Greenwood",
+          "display": "63,830 residents"
+        },
+        {
+          "answer": "Kokomo",
+          "display": "59,604 residents"
+        },
+        {
+          "answer": "Terre Haute",
+          "display": "58,389 residents"
+        }
+      ]
+    },
+    {
+      "category": "geography/us/state-cities",
+      "difficulty": 2,
+      "question": "Top 10 largest cities in Iowa by 2020 census population",
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1379972911 | table 3 | name: Name | value: 2020 | header rows: 2 | where: Incorporated~[0-9]",
+      "tags": [
+        "geography",
+        "states",
+        "cities",
+        "iowa"
+      ],
+      "answers": [
+        {
+          "answer": "Des Moines",
+          "display": "214,133 residents"
+        },
+        {
+          "answer": "Cedar Rapids",
+          "display": "137,710 residents"
+        },
+        {
+          "answer": "Davenport",
+          "display": "101,724 residents"
+        },
+        {
+          "answer": "Sioux City",
+          "display": "85,797 residents"
+        },
+        {
+          "answer": "Iowa City",
+          "display": "74,828 residents"
+        },
+        {
+          "answer": "West Des Moines",
+          "display": "68,723 residents"
+        },
+        {
+          "answer": "Ankeny",
+          "display": "67,887 residents"
+        },
+        {
+          "answer": "Waterloo",
+          "display": "67,314 residents"
+        },
+        {
+          "answer": "Ames",
+          "display": "66,427 residents"
+        },
+        {
+          "answer": "Council Bluffs",
+          "display": "62,799 residents"
+        },
+        {
+          "answer": "Dubuque",
+          "display": "59,667 residents"
+        },
+        {
+          "answer": "Urbandale",
+          "display": "45,580 residents"
+        },
+        {
+          "answer": "Marion",
+          "display": "41,535 residents"
+        },
+        {
+          "answer": "Cedar Falls",
+          "display": "40,713 residents"
+        },
+        {
+          "answer": "Bettendorf",
+          "display": "39,102 residents"
+        }
+      ]
+    },
+    {
+      "category": "geography/us/state-cities",
+      "difficulty": 2,
+      "question": "Top 10 largest cities in Kansas by 2020 census population",
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1379870123 | table 1 | name: City | value: 2020 census | header rows: 2",
+      "tags": [
+        "geography",
+        "states",
+        "cities",
+        "kansas"
+      ],
+      "answers": [
+        {
+          "answer": "Wichita",
+          "display": "397,532 residents"
+        },
+        {
+          "answer": "Overland Park",
+          "display": "197,238 residents"
+        },
+        {
+          "answer": "Kansas City",
+          "display": "156,607 residents",
+          "aliases": [
+            "KCK"
+          ]
+        },
+        {
+          "answer": "Olathe",
+          "display": "141,290 residents"
+        },
+        {
+          "answer": "Topeka",
+          "display": "126,587 residents"
+        },
+        {
+          "answer": "Lawrence",
+          "display": "94,934 residents"
+        },
+        {
+          "answer": "Shawnee",
+          "display": "67,311 residents"
+        },
+        {
+          "answer": "Lenexa",
+          "display": "57,434 residents"
+        },
+        {
+          "answer": "Manhattan",
+          "display": "54,100 residents"
+        },
+        {
+          "answer": "Salina",
+          "display": "46,889 residents"
+        },
+        {
+          "answer": "Hutchinson",
+          "display": "40,006 residents"
+        },
+        {
+          "answer": "Leavenworth",
+          "display": "37,351 residents"
+        },
+        {
+          "answer": "Leawood",
+          "display": "33,902 residents"
+        },
+        {
+          "answer": "Garden City",
+          "display": "28,151 residents"
+        },
+        {
+          "answer": "Dodge City",
+          "display": "27,788 residents"
+        }
+      ]
+    },
+    {
+      "category": "geography/us/state-cities",
+      "difficulty": 2,
+      "question": "Top 10 largest cities in Kentucky by 2020 census population",
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1381253677 | table 3 | name: Name | value: Population (2020)",
+      "tags": [
+        "geography",
+        "states",
+        "cities",
+        "kentucky"
+      ],
+      "answers": [
+        {
+          "answer": "Louisville",
+          "display": "633,045 residents"
+        },
+        {
+          "answer": "Lexington",
+          "display": "322,570 residents"
+        },
+        {
+          "answer": "Bowling Green",
+          "display": "72,294 residents"
+        },
+        {
+          "answer": "Owensboro",
+          "display": "60,183 residents"
+        },
+        {
+          "answer": "Covington",
+          "display": "40,961 residents"
+        },
+        {
+          "answer": "Georgetown",
+          "display": "37,086 residents"
+        },
+        {
+          "answer": "Richmond",
+          "display": "34,585 residents"
+        },
+        {
+          "answer": "Florence",
+          "display": "31,946 residents"
+        },
+        {
+          "answer": "Elizabethtown",
+          "display": "31,394 residents"
+        },
+        {
+          "answer": "Hopkinsville",
+          "display": "31,180 residents"
+        },
+        {
+          "answer": "Nicholasville",
+          "display": "31,093 residents"
+        },
+        {
+          "answer": "Independence",
+          "display": "28,676 residents"
+        },
+        {
+          "answer": "Frankfort",
+          "display": "28,602 residents"
+        },
+        {
+          "answer": "Jeffersontown",
+          "display": "28,474 residents"
+        },
+        {
+          "answer": "Henderson",
+          "display": "27,981 residents"
+        }
+      ]
+    },
+    {
+      "category": "geography/us/state-cities",
+      "difficulty": 2,
+      "question": "Top 10 largest cities in Maryland by 2020 census population",
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1337551994 | table 1 | name: Name | value: Population (2020) | where: Type=City",
+      "tags": [
+        "geography",
+        "states",
+        "cities",
+        "maryland"
+      ],
+      "answers": [
+        {
+          "answer": "Baltimore",
+          "display": "585,708 residents"
+        },
+        {
+          "answer": "Frederick",
+          "display": "78,171 residents"
+        },
+        {
+          "answer": "Gaithersburg",
+          "display": "69,657 residents"
+        },
+        {
+          "answer": "Rockville",
+          "display": "67,117 residents"
+        },
+        {
+          "answer": "Bowie",
+          "display": "58,329 residents"
+        },
+        {
+          "answer": "Hagerstown",
+          "display": "43,527 residents"
+        },
+        {
+          "answer": "Annapolis",
+          "display": "40,812 residents"
+        },
+        {
+          "answer": "College Park",
+          "display": "34,740 residents"
+        },
+        {
+          "answer": "Salisbury",
+          "display": "33,050 residents"
+        },
+        {
+          "answer": "Laurel",
+          "display": "30,060 residents"
+        },
+        {
+          "answer": "Greenbelt",
+          "display": "24,921 residents"
+        },
+        {
+          "answer": "Hyattsville",
+          "display": "21,187 residents"
+        },
+        {
+          "answer": "Westminster",
+          "display": "20,126 residents"
+        },
+        {
+          "answer": "Cumberland",
+          "display": "19,076 residents"
+        },
+        {
+          "answer": "Takoma Park",
+          "display": "17,629 residents"
+        }
+      ]
+    },
+    {
+      "category": "geography/us/state-cities",
+      "difficulty": 2,
+      "question": "Top 10 largest cities in Mississippi by 2020 census population",
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1363878391 | table 1 | name: Name | value: Population (2020) | where: Type=City",
+      "tags": [
+        "geography",
+        "states",
+        "cities",
+        "mississippi"
+      ],
+      "answers": [
+        {
+          "answer": "Jackson",
+          "display": "153,701 residents"
+        },
+        {
+          "answer": "Gulfport",
+          "display": "72,926 residents"
+        },
+        {
+          "answer": "Southaven",
+          "display": "54,648 residents"
+        },
+        {
+          "answer": "Biloxi",
+          "display": "49,449 residents"
+        },
+        {
+          "answer": "Hattiesburg",
+          "display": "48,730 residents"
+        },
+        {
+          "answer": "Olive Branch",
+          "display": "39,711 residents"
+        },
+        {
+          "answer": "Tupelo",
+          "display": "37,923 residents"
+        },
+        {
+          "answer": "Meridian",
+          "display": "35,052 residents"
+        },
+        {
+          "answer": "Greenville",
+          "display": "29,670 residents"
+        },
+        {
+          "answer": "Clinton",
+          "display": "28,100 residents"
+        },
+        {
+          "answer": "Madison",
+          "display": "27,747 residents"
+        },
+        {
+          "answer": "Pearl",
+          "display": "27,115 residents"
+        },
+        {
+          "answer": "Horn Lake",
+          "display": "26,736 residents"
+        },
+        {
+          "answer": "Oxford",
+          "display": "25,416 residents"
+        },
+        {
+          "answer": "Brandon",
+          "display": "25,138 residents"
+        }
+      ]
+    },
+    {
+      "category": "geography/us/state-cities",
+      "difficulty": 2,
+      "question": "Top 10 largest cities (including consolidated city-counties) in Montana by 2020 census population",
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1346561279 | table 1 | name: Name | value: Population (2020) | where: Type~^(City|Consolidated)",
+      "tags": [
+        "geography",
+        "states",
+        "cities",
+        "montana"
+      ],
+      "answers": [
+        {
+          "answer": "Billings",
+          "display": "117,116 residents"
+        },
+        {
+          "answer": "Missoula",
+          "display": "73,489 residents"
+        },
+        {
+          "answer": "Great Falls",
+          "display": "60,442 residents"
+        },
+        {
+          "answer": "Bozeman",
+          "display": "53,293 residents"
+        },
+        {
+          "answer": "Butte",
+          "display": "34,494 residents"
+        },
+        {
+          "answer": "Helena",
+          "display": "32,091 residents"
+        },
+        {
+          "answer": "Kalispell",
+          "display": "24,558 residents"
+        },
+        {
+          "answer": "Belgrade",
+          "display": "10,460 residents"
+        },
+        {
+          "answer": "Anaconda",
+          "display": "9,421 residents"
+        },
+        {
+          "answer": "Havre",
+          "display": "9,362 residents"
+        },
+        {
+          "answer": "Miles City",
+          "display": "8,354 residents"
+        },
+        {
+          "answer": "Livingston",
+          "display": "8,040 residents"
+        },
+        {
+          "answer": "Whitefish",
+          "display": "7,751 residents"
+        },
+        {
+          "answer": "Laurel",
+          "display": "7,222 residents"
+        },
+        {
+          "answer": "Sidney",
+          "display": "6,346 residents"
+        }
+      ]
+    },
+    {
+      "category": "geography/us/state-cities",
+      "difficulty": 2,
+      "question": "Top 10 largest cities in Nebraska by 2020 census population",
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1379870273 | table 1 | name: Municipality | value: 2020 census | header rows: 2 | where: Designation=City",
+      "tags": [
+        "geography",
+        "states",
+        "cities",
+        "nebraska"
+      ],
+      "answers": [
+        {
+          "answer": "Omaha",
+          "display": "486,051 residents"
+        },
+        {
+          "answer": "Lincoln",
+          "display": "291,082 residents"
+        },
+        {
+          "answer": "Bellevue",
+          "display": "64,176 residents"
+        },
+        {
+          "answer": "Grand Island",
+          "display": "53,131 residents"
+        },
+        {
+          "answer": "Kearney",
+          "display": "33,790 residents"
+        },
+        {
+          "answer": "Fremont",
+          "display": "27,141 residents"
+        },
+        {
+          "answer": "Hastings",
+          "display": "25,152 residents"
+        },
+        {
+          "answer": "Norfolk",
+          "display": "24,955 residents"
+        },
+        {
+          "answer": "Papillion",
+          "display": "24,159 residents"
+        },
+        {
+          "answer": "Columbus",
+          "display": "24,028 residents"
+        },
+        {
+          "answer": "North Platte",
+          "display": "23,390 residents"
+        },
+        {
+          "answer": "La Vista",
+          "display": "16,746 residents"
+        },
+        {
+          "answer": "Scottsbluff",
+          "display": "14,436 residents"
+        },
+        {
+          "answer": "South Sioux City",
+          "display": "14,043 residents"
+        },
+        {
+          "answer": "Beatrice",
+          "display": "12,261 residents"
+        }
+      ]
+    },
+    {
+      "category": "geography/us/state-cities",
+      "difficulty": 2,
+      "question": "Top 10 largest cities and towns in New Hampshire by 2020 census population",
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1379874966 | table 1 | name: Municipality | value: Population (2020) | where: Type~^(City|Town)",
+      "tags": [
+        "geography",
+        "states",
+        "cities",
+        "new-hampshire"
+      ],
+      "answers": [
+        {
+          "answer": "Manchester",
+          "display": "115,644 residents"
+        },
+        {
+          "answer": "Nashua",
+          "display": "91,322 residents"
+        },
+        {
+          "answer": "Concord",
+          "display": "43,976 residents"
+        },
+        {
+          "answer": "Derry",
+          "display": "34,317 residents"
+        },
+        {
+          "answer": "Dover",
+          "display": "32,741 residents"
+        },
+        {
+          "answer": "Rochester",
+          "display": "32,492 residents"
+        },
+        {
+          "answer": "Salem",
+          "display": "30,089 residents"
+        },
+        {
+          "answer": "Merrimack",
+          "display": "26,632 residents"
+        },
+        {
+          "answer": "Londonderry",
+          "display": "25,826 residents"
+        },
+        {
+          "answer": "Hudson",
+          "display": "25,394 residents"
+        },
+        {
+          "answer": "Bedford",
+          "display": "23,322 residents"
+        },
+        {
+          "answer": "Keene",
+          "display": "23,047 residents"
+        },
+        {
+          "answer": "Portsmouth",
+          "display": "21,956 residents"
+        },
+        {
+          "answer": "Goffstown",
+          "display": "18,577 residents"
+        },
+        {
+          "answer": "Laconia",
+          "display": "16,871 residents"
+        }
+      ]
+    },
+    {
+      "category": "geography/us/state-cities",
+      "difficulty": 2,
+      "question": "Top 10 largest cities in New Mexico by 2020 census population",
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1335959450 | table 1 | name: Name | value: Population (2020) | where: Type=City",
+      "tags": [
+        "geography",
+        "states",
+        "cities",
+        "new-mexico"
+      ],
+      "answers": [
+        {
+          "answer": "Albuquerque",
+          "display": "564,559 residents"
+        },
+        {
+          "answer": "Las Cruces",
+          "display": "111,385 residents"
+        },
+        {
+          "answer": "Rio Rancho",
+          "display": "104,026 residents"
+        },
+        {
+          "answer": "Santa Fe",
+          "display": "87,505 residents"
+        },
+        {
+          "answer": "Roswell",
+          "display": "48,422 residents"
+        },
+        {
+          "answer": "Farmington",
+          "display": "46,624 residents"
+        },
+        {
+          "answer": "Hobbs",
+          "display": "40,508 residents"
+        },
+        {
+          "answer": "Clovis",
+          "display": "38,567 residents"
+        },
+        {
+          "answer": "Carlsbad",
+          "display": "32,238 residents"
+        },
+        {
+          "answer": "Alamogordo",
+          "display": "30,898 residents"
+        },
+        {
+          "answer": "Gallup",
+          "display": "21,899 residents"
+        },
+        {
+          "answer": "Sunland Park",
+          "display": "16,702 residents"
+        },
+        {
+          "answer": "Deming",
+          "display": "14,758 residents"
+        },
+        {
+          "answer": "Las Vegas",
+          "display": "13,166 residents"
+        },
+        {
+          "answer": "Artesia",
+          "display": "12,875 residents"
+        }
+      ]
+    },
+    {
+      "category": "geography/us/state-cities",
+      "difficulty": 2,
+      "question": "Top 10 largest cities in North Dakota by 2020 census population",
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1354184344 | table 1 | name: City | value: 2020 Census",
+      "tags": [
+        "geography",
+        "states",
+        "cities",
+        "north-dakota"
+      ],
+      "answers": [
+        {
+          "answer": "Fargo",
+          "display": "125,990 residents"
+        },
+        {
+          "answer": "Bismarck",
+          "display": "73,622 residents"
+        },
+        {
+          "answer": "Grand Forks",
+          "display": "59,166 residents"
+        },
+        {
+          "answer": "Minot",
+          "display": "48,377 residents"
+        },
+        {
+          "answer": "West Fargo",
+          "display": "38,626 residents"
+        },
+        {
+          "answer": "Williston",
+          "display": "29,160 residents"
+        },
+        {
+          "answer": "Dickinson",
+          "display": "25,679 residents"
+        },
+        {
+          "answer": "Mandan",
+          "display": "24,206 residents"
+        },
+        {
+          "answer": "Jamestown",
+          "display": "15,849 residents"
+        },
+        {
+          "answer": "Wahpeton",
+          "display": "8,007 residents"
+        },
+        {
+          "answer": "Devils Lake",
+          "display": "7,192 residents"
+        },
+        {
+          "answer": "Valley City",
+          "display": "6,575 residents"
+        },
+        {
+          "answer": "Watford City",
+          "display": "6,207 residents"
+        },
+        {
+          "answer": "Lincoln",
+          "display": "4,257 residents"
+        },
+        {
+          "answer": "Grafton",
+          "display": "4,170 residents"
+        }
+      ]
+    },
+    {
+      "category": "geography/us/state-cities",
+      "difficulty": 2,
+      "question": "Top 10 largest cities in Oklahoma by 2020 census population",
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1356392936 | table 1 | name: Municipality | value: 2020 census | header rows: 2 | where: Designation=City",
+      "tags": [
+        "geography",
+        "states",
+        "cities",
+        "oklahoma"
+      ],
+      "answers": [
+        {
+          "answer": "Oklahoma City",
+          "display": "681,054 residents",
+          "aliases": [
+            "OKC"
+          ]
+        },
+        {
+          "answer": "Tulsa",
+          "display": "413,066 residents"
+        },
+        {
+          "answer": "Norman",
+          "display": "128,026 residents"
+        },
+        {
+          "answer": "Broken Arrow",
+          "display": "113,540 residents"
+        },
+        {
+          "answer": "Edmond",
+          "display": "94,428 residents"
+        },
+        {
+          "answer": "Lawton",
+          "display": "90,381 residents"
+        },
+        {
+          "answer": "Moore",
+          "display": "62,793 residents"
+        },
+        {
+          "answer": "Midwest City",
+          "display": "58,409 residents"
+        },
+        {
+          "answer": "Enid",
+          "display": "51,308 residents"
+        },
+        {
+          "answer": "Stillwater",
+          "display": "48,394 residents"
+        },
+        {
+          "answer": "Owasso",
+          "display": "38,240 residents"
+        },
+        {
+          "answer": "Bartlesville",
+          "display": "37,290 residents"
+        },
+        {
+          "answer": "Muskogee",
+          "display": "36,878 residents"
+        },
+        {
+          "answer": "Shawnee",
+          "display": "31,377 residents"
+        },
+        {
+          "answer": "Bixby",
+          "display": "28,609 residents"
+        }
+      ]
+    },
+    {
+      "category": "geography/us/state-cities",
+      "difficulty": 2,
+      "question": "Top 10 largest cities in Pennsylvania by 2020 census population",
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1379875198 | table 1 | name: Name | value: Population (2020 Census) | where: Type=City",
+      "tags": [
+        "geography",
+        "states",
+        "cities",
+        "pennsylvania"
+      ],
+      "answers": [
+        {
+          "answer": "Philadelphia",
+          "display": "1,603,797 residents",
+          "aliases": [
+            "Philly"
+          ]
+        },
+        {
+          "answer": "Pittsburgh",
+          "display": "302,971 residents"
+        },
+        {
+          "answer": "Allentown",
+          "display": "125,845 residents"
+        },
+        {
+          "answer": "Reading",
+          "display": "95,112 residents"
+        },
+        {
+          "answer": "Erie",
+          "display": "94,831 residents"
+        },
+        {
+          "answer": "Scranton",
+          "display": "76,328 residents"
+        },
+        {
+          "answer": "Bethlehem",
+          "display": "75,781 residents"
+        },
+        {
+          "answer": "Lancaster",
+          "display": "58,039 residents"
+        },
+        {
+          "answer": "Harrisburg",
+          "display": "50,135 residents"
+        },
+        {
+          "answer": "York",
+          "display": "44,800 residents"
+        },
+        {
+          "answer": "Wilkes-Barre",
+          "display": "44,328 residents"
+        },
+        {
+          "answer": "Altoona",
+          "display": "43,963 residents"
+        },
+        {
+          "answer": "Chester",
+          "display": "32,605 residents"
+        },
+        {
+          "answer": "Hazleton",
+          "display": "29,963 residents"
+        },
+        {
+          "answer": "Easton",
+          "display": "28,127 residents"
+        }
+      ]
+    },
+    {
+      "category": "geography/us/state-cities",
+      "difficulty": 2,
+      "question": "Top 10 largest cities and towns in Rhode Island by 2020 census population",
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1317150736 | table 1 | name: Name | value: Population (2020) | where: Type~^(City|Town)",
+      "tags": [
+        "geography",
+        "states",
+        "cities",
+        "rhode-island"
+      ],
+      "answers": [
+        {
+          "answer": "Providence",
+          "display": "190,934 residents"
+        },
+        {
+          "answer": "Cranston",
+          "display": "82,934 residents"
+        },
+        {
+          "answer": "Warwick",
+          "display": "82,823 residents"
+        },
+        {
+          "answer": "Pawtucket",
+          "display": "75,604 residents"
+        },
+        {
+          "answer": "East Providence",
+          "display": "47,139 residents"
+        },
+        {
+          "answer": "Woonsocket",
+          "display": "43,240 residents"
+        },
+        {
+          "answer": "Cumberland",
+          "display": "36,405 residents"
+        },
+        {
+          "answer": "Coventry",
+          "display": "35,688 residents"
+        },
+        {
+          "answer": "North Providence",
+          "display": "34,114 residents"
+        },
+        {
+          "answer": "South Kingstown",
+          "display": "31,931 residents"
+        },
+        {
+          "answer": "West Warwick",
+          "display": "31,012 residents"
+        },
+        {
+          "answer": "Johnston",
+          "display": "29,568 residents"
+        },
+        {
+          "answer": "North Kingstown",
+          "display": "27,732 residents"
+        },
+        {
+          "answer": "Newport",
+          "display": "25,163 residents"
+        },
+        {
+          "answer": "Westerly",
+          "display": "23,359 residents"
+        }
+      ]
+    },
+    {
+      "category": "geography/us/state-cities",
+      "difficulty": 2,
+      "question": "Top 10 largest cities in South Carolina by 2020 census population",
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1380494774 | table 1 | name: Name | value: Population (2020) | where: Type=City",
+      "tags": [
+        "geography",
+        "states",
+        "cities",
+        "south-carolina"
+      ],
+      "answers": [
+        {
+          "answer": "Charleston",
+          "display": "150,227 residents"
+        },
+        {
+          "answer": "Columbia",
+          "display": "136,632 residents"
+        },
+        {
+          "answer": "North Charleston",
+          "display": "114,852 residents"
+        },
+        {
+          "answer": "Rock Hill",
+          "display": "74,372 residents"
+        },
+        {
+          "answer": "Greenville",
+          "display": "70,720 residents"
+        },
+        {
+          "answer": "Goose Creek",
+          "display": "45,946 residents"
+        },
+        {
+          "answer": "Sumter",
+          "display": "43,463 residents"
+        },
+        {
+          "answer": "Florence",
+          "display": "39,899 residents"
+        },
+        {
+          "answer": "Spartanburg",
+          "display": "38,732 residents"
+        },
+        {
+          "answer": "Myrtle Beach",
+          "display": "35,682 residents"
+        },
+        {
+          "answer": "Greer",
+          "display": "35,308 residents"
+        },
+        {
+          "answer": "Aiken",
+          "display": "32,025 residents"
+        },
+        {
+          "answer": "Anderson",
+          "display": "28,106 residents"
+        },
+        {
+          "answer": "Conway",
+          "display": "24,809 residents"
+        },
+        {
+          "answer": "Mauldin",
+          "display": "24,724 residents"
+        }
+      ]
+    },
+    {
+      "category": "geography/us/state-cities",
+      "difficulty": 2,
+      "question": "Top 10 largest cities in South Dakota by 2020 census population",
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1380631055 | table 1 | name: Name | value: 2020 Census | where: Type=City",
+      "tags": [
+        "geography",
+        "states",
+        "cities",
+        "south-dakota"
+      ],
+      "answers": [
+        {
+          "answer": "Sioux Falls",
+          "display": "192,517 residents"
+        },
+        {
+          "answer": "Rapid City",
+          "display": "74,703 residents"
+        },
+        {
+          "answer": "Aberdeen",
+          "display": "28,495 residents"
+        },
+        {
+          "answer": "Brookings",
+          "display": "23,377 residents"
+        },
+        {
+          "answer": "Watertown",
+          "display": "22,655 residents"
+        },
+        {
+          "answer": "Mitchell",
+          "display": "15,660 residents"
+        },
+        {
+          "answer": "Yankton",
+          "display": "15,411 residents"
+        },
+        {
+          "answer": "Huron",
+          "display": "14,263 residents"
+        },
+        {
+          "answer": "Pierre",
+          "display": "14,091 residents"
+        },
+        {
+          "answer": "Spearfish",
+          "display": "12,193 residents"
+        },
+        {
+          "answer": "Box Elder",
+          "display": "11,746 residents"
+        },
+        {
+          "answer": "Vermillion",
+          "display": "11,695 residents"
+        },
+        {
+          "answer": "Brandon",
+          "display": "11,048 residents"
+        },
+        {
+          "answer": "Sturgis",
+          "display": "7,020 residents"
+        },
+        {
+          "answer": "Harrisburg",
+          "display": "6,732 residents"
+        }
+      ]
+    },
+    {
+      "category": "geography/us/state-cities",
+      "difficulty": 2,
+      "question": "Top 10 largest cities and towns in Vermont by 2020 census population",
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1380623866 | table 1 | name: Municipality | value: Population (2020) | where: Type~^(City|Town)",
+      "tags": [
+        "geography",
+        "states",
+        "cities",
+        "vermont"
+      ],
+      "answers": [
+        {
+          "answer": "Burlington",
+          "display": "44,743 residents"
+        },
+        {
+          "answer": "South Burlington",
+          "display": "20,292 residents"
+        },
+        {
+          "answer": "Colchester",
+          "display": "17,524 residents"
+        },
+        {
+          "answer": "Rutland",
+          "display": "15,807 residents"
+        },
+        {
+          "answer": "Bennington",
+          "display": "15,333 residents"
+        },
+        {
+          "answer": "Brattleboro",
+          "display": "12,184 residents"
+        },
+        {
+          "answer": "Essex",
+          "display": "11,540 residents"
+        },
+        {
+          "answer": "Milton",
+          "display": "10,723 residents"
+        },
+        {
+          "answer": "Hartford",
+          "display": "10,686 residents"
+        },
+        {
+          "answer": "Essex Junction",
+          "display": "10,590 residents"
+        },
+        {
+          "answer": "Williston",
+          "display": "10,103 residents"
+        },
+        {
+          "answer": "Middlebury",
+          "display": "9,152 residents"
+        },
+        {
+          "answer": "Springfield",
+          "display": "9,062 residents"
+        },
+        {
+          "answer": "Barre",
+          "display": "8,491 residents"
+        },
+        {
+          "answer": "Montpelier",
+          "display": "8,074 residents"
+        }
+      ]
+    },
+    {
+      "category": "geography/us/state-cities",
+      "difficulty": 2,
+      "question": "Top 10 largest cities and towns in Wyoming by 2020 census population",
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1379968801 | table 1 | name: Name | value: Population (2020) | where: Type~^(City|Town)",
+      "tags": [
+        "geography",
+        "states",
+        "cities",
+        "wyoming"
+      ],
+      "answers": [
+        {
+          "answer": "Cheyenne",
+          "display": "65,132 residents"
+        },
+        {
+          "answer": "Casper",
+          "display": "59,038 residents"
+        },
+        {
+          "answer": "Gillette",
+          "display": "33,403 residents"
+        },
+        {
+          "answer": "Laramie",
+          "display": "31,407 residents"
+        },
+        {
+          "answer": "Rock Springs",
+          "display": "23,526 residents"
+        },
+        {
+          "answer": "Sheridan",
+          "display": "18,737 residents"
+        },
+        {
+          "answer": "Green River",
+          "display": "11,825 residents"
+        },
+        {
+          "answer": "Evanston",
+          "display": "11,747 residents"
+        },
+        {
+          "answer": "Jackson",
+          "display": "10,760 residents"
+        },
+        {
+          "answer": "Riverton",
+          "display": "10,682 residents"
+        },
+        {
+          "answer": "Cody",
+          "display": "10,028 residents"
+        },
+        {
+          "answer": "Rawlins",
+          "display": "8,221 residents"
+        },
+        {
+          "answer": "Lander",
+          "display": "7,546 residents"
+        },
+        {
+          "answer": "Powell",
+          "display": "6,419 residents"
+        },
+        {
+          "answer": "Douglas",
+          "display": "6,386 residents"
+        }
+      ]
+    },
+    {
+      "category": "geography/canada/cities",
+      "difficulty": 2,
+      "question": "Top 10 largest local municipalities in Ontario by 2021 census population",
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1368190276 | table 2 | name: Name | value: Population (2021) | header rows: 2 | where: Name!~^(Province|Total|Sub-total)",
+      "tags": [
+        "geography",
+        "canada",
+        "cities",
+        "ontario"
+      ],
+      "answers": [
+        {
+          "answer": "Toronto",
+          "display": "2,794,356 residents"
+        },
+        {
+          "answer": "Ottawa",
+          "display": "1,017,449 residents"
+        },
+        {
+          "answer": "Mississauga",
+          "display": "717,961 residents"
+        },
+        {
+          "answer": "Brampton",
+          "display": "656,480 residents"
+        },
+        {
+          "answer": "Hamilton",
+          "display": "569,353 residents"
+        },
+        {
+          "answer": "London",
+          "display": "422,324 residents"
+        },
+        {
+          "answer": "Markham",
+          "display": "338,503 residents"
+        },
+        {
+          "answer": "Vaughan",
+          "display": "323,103 residents"
+        },
+        {
+          "answer": "Kitchener",
+          "display": "256,885 residents"
+        },
+        {
+          "answer": "Windsor",
+          "display": "229,660 residents"
+        },
+        {
+          "answer": "Oakville",
+          "display": "213,759 residents"
+        },
+        {
+          "answer": "Richmond Hill",
+          "display": "202,022 residents"
+        },
+        {
+          "answer": "Burlington",
+          "display": "186,948 residents"
+        },
+        {
+          "answer": "Oshawa",
+          "display": "175,383 residents"
+        },
+        {
+          "answer": "Greater Sudbury",
+          "display": "166,004 residents"
+        }
+      ]
+    },
+    {
+      "category": "geography/canada/cities",
+      "difficulty": 2,
+      "question": "Top 10 largest cities and towns in Alberta by 2021 census population",
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1374153890 | table 1 | name: Name | value: Population (2021) | header rows: 2 | where: Status~^(City|Town)",
+      "tags": [
+        "geography",
+        "canada",
+        "cities",
+        "alberta"
+      ],
+      "answers": [
+        {
+          "answer": "Calgary",
+          "display": "1,306,784 residents"
+        },
+        {
+          "answer": "Edmonton",
+          "display": "1,010,899 residents"
+        },
+        {
+          "answer": "Red Deer",
+          "display": "100,844 residents"
+        },
+        {
+          "answer": "Lethbridge",
+          "display": "98,406 residents"
+        },
+        {
+          "answer": "Airdrie",
+          "display": "74,100 residents"
+        },
+        {
+          "answer": "St. Albert",
+          "display": "68,232 residents"
+        },
+        {
+          "answer": "Grande Prairie",
+          "display": "64,141 residents"
+        },
+        {
+          "answer": "Medicine Hat",
+          "display": "63,271 residents"
+        },
+        {
+          "answer": "Spruce Grove",
+          "display": "37,645 residents"
+        },
+        {
+          "answer": "Leduc",
+          "display": "34,094 residents"
+        },
+        {
+          "answer": "Cochrane",
+          "display": "32,199 residents"
+        },
+        {
+          "answer": "Okotoks",
+          "display": "30,405 residents"
+        },
+        {
+          "answer": "Fort Saskatchewan",
+          "display": "27,088 residents"
+        },
+        {
+          "answer": "Chestermere",
+          "display": "22,163 residents"
+        },
+        {
+          "answer": "Beaumont",
+          "display": "20,888 residents"
+        }
+      ]
+    },
+    {
+      "category": "geography/canada/cities",
+      "difficulty": 2,
+      "question": "Top 10 largest cities and towns in Manitoba by 2021 census population",
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1381246328 | table 1 | name: Name | value: Population (2021) | header rows: 2 | where: Municipal status~^(City|Town)",
+      "tags": [
+        "geography",
+        "canada",
+        "cities",
+        "manitoba"
+      ],
+      "answers": [
+        {
+          "answer": "Winnipeg",
+          "display": "749,607 residents"
+        },
+        {
+          "answer": "Brandon",
+          "display": "51,313 residents"
+        },
+        {
+          "answer": "Steinbach",
+          "display": "17,806 residents"
+        },
+        {
+          "answer": "Winkler",
+          "display": "13,745 residents"
+        },
+        {
+          "answer": "Portage la Prairie",
+          "display": "13,270 residents"
+        },
+        {
+          "answer": "Thompson",
+          "display": "13,035 residents"
+        },
+        {
+          "answer": "Selkirk",
+          "display": "10,504 residents"
+        },
+        {
+          "answer": "Morden",
+          "display": "9,929 residents"
+        },
+        {
+          "answer": "Dauphin",
+          "display": "8,368 residents"
+        },
+        {
+          "answer": "Niverville",
+          "display": "5,947 residents"
+        },
+        {
+          "answer": "Neepawa",
+          "display": "5,685 residents"
+        },
+        {
+          "answer": "The Pas",
+          "display": "5,639 residents"
+        },
+        {
+          "answer": "Stonewall",
+          "display": "5,046 residents"
+        },
+        {
+          "answer": "Flin Flon",
+          "display": "4,940 residents"
+        },
+        {
+          "answer": "Altona",
+          "display": "4,267 residents"
+        }
+      ]
+    },
+    {
+      "category": "geography/canada/cities",
+      "difficulty": 2,
+      "question": "Top 10 largest cities and towns in Saskatchewan by 2021 census population",
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1371524223 | table 1 | name: Name | value: Population (2021) | header rows: 2 | where: Status~^(City|Town)",
+      "tags": [
+        "geography",
+        "canada",
+        "cities",
+        "saskatchewan"
+      ],
+      "answers": [
+        {
+          "answer": "Saskatoon",
+          "display": "266,141 residents"
+        },
+        {
+          "answer": "Regina",
+          "display": "226,404 residents"
+        },
+        {
+          "answer": "Prince Albert",
+          "display": "37,756 residents"
+        },
+        {
+          "answer": "Moose Jaw",
+          "display": "33,665 residents"
+        },
+        {
+          "answer": "Swift Current",
+          "display": "16,750 residents"
+        },
+        {
+          "answer": "Yorkton",
+          "display": "16,280 residents"
+        },
+        {
+          "answer": "North Battleford",
+          "display": "13,836 residents"
+        },
+        {
+          "answer": "Warman",
+          "display": "12,419 residents"
+        },
+        {
+          "answer": "Lloydminster",
+          "display": "11,843 residents"
+        },
+        {
+          "answer": "Weyburn",
+          "display": "11,019 residents"
+        },
+        {
+          "answer": "Estevan",
+          "display": "10,851 residents"
+        },
+        {
+          "answer": "Martensville",
+          "display": "10,549 residents"
+        },
+        {
+          "answer": "Humboldt",
+          "display": "6,033 residents"
+        },
+        {
+          "answer": "Melfort",
+          "display": "5,955 residents"
+        },
+        {
+          "answer": "Meadow Lake",
+          "display": "5,322 residents"
+        }
+      ]
+    },
+    {
+      "category": "geography/canada/cities",
+      "difficulty": 2,
+      "question": "Top 10 largest municipalities in New Brunswick by 2021 census population (cities, towns, villages and rural communities)",
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1379794980 | table 1 | name: Name | value: 2021 population",
+      "tags": [
+        "geography",
+        "canada",
+        "cities",
+        "new-brunswick"
+      ],
+      "answers": [
+        {
+          "answer": "Moncton",
+          "display": "80,080 residents"
+        },
+        {
+          "answer": "Saint John",
+          "display": "69,875 residents"
+        },
+        {
+          "answer": "Fredericton",
+          "display": "67,625 residents"
+        },
+        {
+          "answer": "Dieppe",
+          "display": "28,970 residents"
+        },
+        {
+          "answer": "Riverview",
+          "display": "20,580 residents"
+        },
+        {
+          "answer": "Quispamsis",
+          "display": "18,780 residents"
+        },
+        {
+          "answer": "Edmundston",
+          "display": "18,365 residents"
+        },
+        {
+          "answer": "Miramichi",
+          "display": "18,125 residents"
+        },
+        {
+          "answer": "Tracadie",
+          "display": "16,095 residents"
+        },
+        {
+          "answer": "Bathurst",
+          "display": "15,110 residents"
+        },
+        {
+          "answer": "Belle-Baie",
+          "display": "14,335 residents"
+        },
+        {
+          "answer": "Campbellton",
+          "display": "12,000 residents"
+        },
+        {
+          "answer": "Rothesay",
+          "display": "11,975 residents"
+        },
+        {
+          "answer": "Woodstock",
+          "display": "11,915 residents"
+        },
+        {
+          "answer": "Oromocto",
+          "display": "11,910 residents"
+        }
+      ]
+    },
+    {
+      "category": "geography/canada/cities",
+      "difficulty": 2,
+      "question": "Top 10 largest municipalities in Newfoundland and Labrador by 2021 census population (cities, towns and Inuit community governments)",
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1379552941 | table 1 | name: Name | value: Population (2021) | header rows: 2 | where: Name!~^(Province|Total|Sub-total)",
+      "tags": [
+        "geography",
+        "canada",
+        "cities",
+        "newfoundland-and-labrador"
+      ],
+      "answers": [
+        {
+          "answer": "St. John's",
+          "display": "110,525 residents"
+        },
+        {
+          "answer": "Conception Bay South",
+          "display": "27,168 residents"
+        },
+        {
+          "answer": "Paradise",
+          "display": "22,957 residents"
+        },
+        {
+          "answer": "Mount Pearl",
+          "display": "22,477 residents"
+        },
+        {
+          "answer": "Corner Brook",
+          "display": "19,333 residents"
+        },
+        {
+          "answer": "Grand Falls-Windsor",
+          "display": "13,853 residents"
+        },
+        {
+          "answer": "Gander",
+          "display": "11,880 residents"
+        },
+        {
+          "answer": "Portugal Cove–St. Philip's",
+          "display": "8,415 residents"
+        },
+        {
+          "answer": "Happy Valley-Goose Bay",
+          "display": "8,040 residents"
+        },
+        {
+          "answer": "Torbay",
+          "display": "7,852 residents"
+        },
+        {
+          "answer": "Labrador City",
+          "display": "7,412 residents"
+        },
+        {
+          "answer": "Clarenville",
+          "display": "6,704 residents"
+        },
+        {
+          "answer": "Stephenville",
+          "display": "6,540 residents"
+        },
+        {
+          "answer": "Bay Roberts",
+          "display": "5,974 residents"
+        },
+        {
+          "answer": "Marystown",
+          "display": "5,204 residents"
+        }
+      ]
+    },
+    {
+      "category": "geography/australia-nz/cities",
+      "difficulty": 2,
+      "question": "Top 10 largest urban centres in New South Wales by 2021 census population",
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1350870142 | table 1 | name: Urban centre | value: 2021 census | header rows: 2",
+      "tags": [
+        "geography",
+        "australia",
+        "cities",
+        "new-south-wales"
+      ],
+      "answers": [
+        {
+          "answer": "Sydney",
+          "display": "4,698,656 residents"
+        },
+        {
+          "answer": "Newcastle",
+          "display": "348,539 residents"
+        },
+        {
+          "answer": "Central Coast",
+          "display": "325,255 residents"
+        },
+        {
+          "answer": "Wollongong",
+          "display": "280,153 residents"
+        },
+        {
+          "answer": "Maitland",
+          "display": "89,597 residents"
+        },
+        {
+          "answer": "Tweed Heads",
+          "display": "63,721 residents"
+        },
+        {
+          "answer": "Albury",
+          "display": "53,677 residents"
+        },
+        {
+          "answer": "Coffs Harbour",
+          "display": "51,069 residents"
+        },
+        {
+          "answer": "Wagga Wagga",
+          "display": "49,686 residents"
+        },
+        {
+          "answer": "Port Macquarie",
+          "display": "47,793 residents"
+        },
+        {
+          "answer": "Orange",
+          "display": "40,127 residents"
+        },
+        {
+          "answer": "Dubbo",
+          "display": "38,783 residents"
+        },
+        {
+          "answer": "Queanbeyan",
+          "display": "37,511 residents"
+        },
+        {
+          "answer": "Bathurst",
+          "display": "36,230 residents"
+        },
+        {
+          "answer": "Tamworth",
+          "display": "35,415 residents"
+        }
+      ]
+    },
+    {
+      "category": "geography/australia-nz/cities",
+      "difficulty": 2,
+      "question": "Top 10 largest urban centres in Victoria by 2021 census population",
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1369816240 | table 1 | name: Urban centre | value: 2021 census population",
+      "tags": [
+        "geography",
+        "australia",
+        "cities",
+        "victoria"
+      ],
+      "answers": [
+        {
+          "answer": "Melbourne",
+          "display": "4,585,537 residents"
+        },
+        {
+          "answer": "Geelong",
+          "display": "180,239 residents"
+        },
+        {
+          "answer": "Ballarat",
+          "display": "105,348 residents"
+        },
+        {
+          "answer": "Bendigo",
+          "display": "100,649 residents"
+        },
+        {
+          "answer": "Melton",
+          "display": "76,346 residents"
+        },
+        {
+          "answer": "Shepparton - Mooroopna",
+          "display": "49,862 residents"
+        },
+        {
+          "answer": "Sunbury",
+          "display": "38,010 residents"
+        },
+        {
+          "answer": "Wodonga",
+          "display": "37,839 residents"
+        },
+        {
+          "answer": "Mildura",
+          "display": "35,652 residents"
+        },
+        {
+          "answer": "Warrnambool",
+          "display": "32,894 residents"
+        },
+        {
+          "answer": "Traralgon",
+          "display": "27,628 residents"
+        },
+        {
+          "answer": "Torquay - Jan Juc",
+          "display": "22,998 residents"
+        },
+        {
+          "answer": "Ocean Grove - Barwon Heads",
+          "display": "22,035 residents"
+        },
+        {
+          "answer": "Bacchus Marsh",
+          "display": "21,692 residents"
+        },
+        {
+          "answer": "Wangaratta",
+          "display": "19,712 residents"
+        }
+      ]
+    },
+    {
+      "category": "geography/australia-nz/cities",
+      "difficulty": 2,
+      "question": "Top 10 largest urban centres in Queensland by 2021 census population",
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1332614621 | table 1 | name: Urban Centre | value: 2021 census | header rows: 2",
+      "tags": [
+        "geography",
+        "australia",
+        "cities",
+        "queensland"
+      ],
+      "answers": [
+        {
+          "answer": "Brisbane",
+          "display": "2,287,896 residents"
+        },
+        {
+          "answer": "Gold Coast",
+          "display": "607,665 residents"
+        },
+        {
+          "answer": "Sunshine Coast",
+          "display": "284,131 residents"
+        },
+        {
+          "answer": "Townsville",
+          "display": "173,724 residents"
+        },
+        {
+          "answer": "Cairns",
+          "display": "153,181 residents"
+        },
+        {
+          "answer": "Toowoomba",
+          "display": "108,398 residents"
+        },
+        {
+          "answer": "Mackay",
+          "display": "80,455 residents"
+        },
+        {
+          "answer": "Rockhampton",
+          "display": "63,151 residents"
+        },
+        {
+          "answer": "Hervey Bay",
+          "display": "57,722 residents"
+        },
+        {
+          "answer": "Bundaberg",
+          "display": "52,370 residents"
+        },
+        {
+          "answer": "Gladstone",
+          "display": "34,703 residents"
+        },
+        {
+          "answer": "Maryborough",
+          "display": "22,237 residents"
+        },
+        {
+          "answer": "Nambour",
+          "display": "20,918 residents"
+        },
+        {
+          "answer": "Bongaree–Woorim",
+          "display": "20,612 residents"
+        },
+        {
+          "answer": "Gympie",
+          "display": "19,435 residents"
+        }
+      ]
+    },
+    {
+      "category": "geography/australia-nz/cities",
+      "difficulty": 2,
+      "question": "Top 10 largest urban centres and localities in South Australia by 2021 census population",
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1338476669 | table 1 | name: Urban centre | value: Population 2021 Census",
+      "tags": [
+        "geography",
+        "australia",
+        "cities",
+        "south-australia"
+      ],
+      "answers": [
+        {
+          "answer": "Adelaide",
+          "display": "1,245,011 residents"
+        },
+        {
+          "answer": "Gawler",
+          "display": "28,562 residents"
+        },
+        {
+          "answer": "Mount Gambier",
+          "display": "26,734 residents"
+        },
+        {
+          "answer": "Mount Barker",
+          "display": "21,554 residents"
+        },
+        {
+          "answer": "Whyalla",
+          "display": "20,880 residents"
+        },
+        {
+          "answer": "Murray Bridge",
+          "display": "17,457 residents"
+        },
+        {
+          "answer": "Victor Harbor",
+          "display": "16,709 residents"
+        },
+        {
+          "answer": "Crafers-Bridgewater",
+          "display": "15,783 residents"
+        },
+        {
+          "answer": "Port Lincoln",
+          "display": "14,404 residents"
+        },
+        {
+          "answer": "Port Pirie",
+          "display": "13,708 residents"
+        },
+        {
+          "answer": "Port Augusta",
+          "display": "12,788 residents"
+        },
+        {
+          "answer": "Goolwa",
+          "display": "8,756 residents"
+        },
+        {
+          "answer": "Strathalbyn",
+          "display": "6,429 residents"
+        },
+        {
+          "answer": "Nuriootpa",
+          "display": "6,204 residents"
+        },
+        {
+          "answer": "Naracoorte",
+          "display": "5,223 residents"
+        }
+      ]
+    },
+    {
+      "category": "geography/australia-nz/cities",
+      "difficulty": 2,
+      "question": "Top 10 largest urban centres in Western Australia by 2021 census population",
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1328684653 | table 1 | name: Urban centre | value: 2021 census | header rows: 2",
+      "tags": [
+        "geography",
+        "australia",
+        "cities",
+        "western-australia"
+      ],
+      "answers": [
+        {
+          "answer": "Perth",
+          "display": "2,043,762 residents"
+        },
+        {
+          "answer": "Bunbury",
+          "display": "75,196 residents"
+        },
+        {
+          "answer": "Geraldton",
+          "display": "32,717 residents"
+        },
+        {
+          "answer": "Albany",
+          "display": "31,128 residents"
+        },
+        {
+          "answer": "Kalgoorlie-Boulder",
+          "display": "29,068 residents"
+        },
+        {
+          "answer": "Busselton",
+          "display": "27,233 residents"
+        },
+        {
+          "answer": "Karratha",
+          "display": "17,013 residents"
+        },
+        {
+          "answer": "Port Hedland",
+          "display": "15,298 residents"
+        },
+        {
+          "answer": "Broome",
+          "display": "14,660 residents"
+        },
+        {
+          "answer": "Yanchep",
+          "display": "11,009 residents"
+        },
+        {
+          "answer": "Esperance",
+          "display": "10,218 residents"
+        },
+        {
+          "answer": "Margaret River",
+          "display": "7,430 residents"
+        },
+        {
+          "answer": "Collie",
+          "display": "7,184 residents"
+        },
+        {
+          "answer": "Dunsborough",
+          "display": "7,182 residents"
+        },
+        {
+          "answer": "Northam",
+          "display": "6,679 residents"
+        }
+      ]
+    }
+  ]
+}

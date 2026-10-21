@@ -1,0 +1,521 @@
+{
+  "categories": [
+    {
+      "path": "geography/cities/asia",
+      "name": "Asian cities"
+    }
+  ],
+  "questions": [
+    {
+      "category": "geography/cities/asia",
+      "difficulty": 1,
+      "question": "Top 10 largest cities in South Korea by 2020 census population (city proper, not metro area)",
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1378999896 | table 3 | name: Division | value: 2020",
+      "tags": [
+        "geography",
+        "cities",
+        "asia",
+        "south korea",
+        "population"
+      ],
+      "answers": [
+        {
+          "answer": "Seoul",
+          "display": "9,586,195"
+        },
+        {
+          "answer": "Busan",
+          "display": "3,349,016",
+          "aliases": [
+            "pusan"
+          ]
+        },
+        {
+          "answer": "Incheon",
+          "display": "2,945,454",
+          "aliases": [
+            "inchon"
+          ]
+        },
+        {
+          "answer": "Daegu",
+          "display": "2,410,700",
+          "aliases": [
+            "taegu"
+          ]
+        },
+        {
+          "answer": "Daejeon",
+          "display": "1,488,435",
+          "aliases": [
+            "taejon"
+          ]
+        },
+        {
+          "answer": "Gwangju",
+          "display": "1,477,573",
+          "aliases": [
+            "kwangju"
+          ]
+        },
+        {
+          "answer": "Suwon",
+          "display": "1,210,150"
+        },
+        {
+          "answer": "Ulsan",
+          "display": "1,135,423"
+        },
+        {
+          "answer": "Yongin",
+          "display": "1,066,975"
+        },
+        {
+          "answer": "Goyang",
+          "display": "1,045,497"
+        },
+        {
+          "answer": "Changwon",
+          "display": "1,029,389"
+        },
+        {
+          "answer": "Seongnam",
+          "display": "922,025"
+        },
+        {
+          "answer": "Hwaseong",
+          "display": "880,859"
+        },
+        {
+          "answer": "Cheongju",
+          "display": "855,326"
+        }
+      ]
+    },
+    {
+      "category": "geography/cities/asia",
+      "difficulty": 1,
+      "question": "Top 10 largest cities in Indonesia by 2020 census population (city proper, not metro area; Jakarta counted as one city)",
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1379622881 | table 1 | name: City | value: 2020 census",
+      "tags": [
+        "geography",
+        "cities",
+        "asia",
+        "indonesia",
+        "population"
+      ],
+      "answers": [
+        {
+          "answer": "Jakarta",
+          "display": "10,562,088"
+        },
+        {
+          "answer": "Surabaya",
+          "display": "2,874,314"
+        },
+        {
+          "answer": "Bekasi",
+          "display": "2,543,676"
+        },
+        {
+          "answer": "Bandung",
+          "display": "2,444,160"
+        },
+        {
+          "answer": "Medan",
+          "display": "2,435,252"
+        },
+        {
+          "answer": "Depok",
+          "display": "2,056,335"
+        },
+        {
+          "answer": "Tangerang",
+          "display": "1,895,486"
+        },
+        {
+          "answer": "Palembang",
+          "display": "1,668,848"
+        },
+        {
+          "answer": "Semarang",
+          "display": "1,653,524"
+        },
+        {
+          "answer": "Makassar",
+          "display": "1,423,877"
+        },
+        {
+          "answer": "South Tangerang",
+          "display": "1,354,350",
+          "aliases": [
+            "tangerang selatan"
+          ]
+        },
+        {
+          "answer": "Batam",
+          "display": "1,196,396"
+        },
+        {
+          "answer": "Bandar Lampung",
+          "display": "1,166,066"
+        },
+        {
+          "answer": "Bogor",
+          "display": "1,043,070"
+        }
+      ]
+    },
+    {
+      "category": "geography/cities/asia",
+      "difficulty": 1,
+      "question": "Top 10 largest cities in Pakistan by 2023 census population (city proper, not metro area)",
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1379019204 | table 1 | name: City | value: 2023",
+      "tags": [
+        "geography",
+        "cities",
+        "asia",
+        "pakistan",
+        "population"
+      ],
+      "answers": [
+        {
+          "answer": "Karachi",
+          "display": "18,868,021"
+        },
+        {
+          "answer": "Lahore",
+          "display": "13,004,135"
+        },
+        {
+          "answer": "Faisalabad",
+          "display": "3,691,999"
+        },
+        {
+          "answer": "Rawalpindi",
+          "display": "3,357,612",
+          "aliases": [
+            "pindi"
+          ]
+        },
+        {
+          "answer": "Gujranwala",
+          "display": "2,511,118"
+        },
+        {
+          "answer": "Multan",
+          "display": "2,215,381"
+        },
+        {
+          "answer": "Hyderabad",
+          "display": "1,921,275"
+        },
+        {
+          "answer": "Peshawar",
+          "display": "1,905,975"
+        },
+        {
+          "answer": "Quetta",
+          "display": "1,565,546"
+        },
+        {
+          "answer": "Islamabad",
+          "display": "1,108,872"
+        },
+        {
+          "answer": "Sargodha",
+          "display": "975,886"
+        },
+        {
+          "answer": "Sialkot",
+          "display": "911,817"
+        },
+        {
+          "answer": "Bahawalpur",
+          "display": "903,795"
+        },
+        {
+          "answer": "Jhang",
+          "display": "606,533"
+        }
+      ]
+    },
+    {
+      "category": "geography/cities/asia",
+      "difficulty": 2,
+      "question": "Top 10 largest cities in the Philippines by 2020 census population (cities proper, not municipalities or metro area)",
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1374171617 | table 2 | name: City | value: Population (2020) | header rows: 2",
+      "tags": [
+        "geography",
+        "cities",
+        "asia",
+        "philippines",
+        "population"
+      ],
+      "answers": [
+        {
+          "answer": "Quezon City",
+          "display": "2,960,048",
+          "aliases": [
+            "qc"
+          ]
+        },
+        {
+          "answer": "Manila",
+          "display": "1,846,513",
+          "aliases": [
+            "city of manila"
+          ]
+        },
+        {
+          "answer": "Davao City",
+          "display": "1,776,949",
+          "aliases": [
+            "davao"
+          ]
+        },
+        {
+          "answer": "Caloocan",
+          "display": "1,661,584"
+        },
+        {
+          "answer": "Taguig",
+          "display": "1,223,595"
+        },
+        {
+          "answer": "Zamboanga City",
+          "display": "977,234",
+          "aliases": [
+            "zamboanga"
+          ]
+        },
+        {
+          "answer": "Cebu City",
+          "display": "964,169",
+          "aliases": [
+            "cebu"
+          ]
+        },
+        {
+          "answer": "Antipolo",
+          "display": "887,399"
+        },
+        {
+          "answer": "Pasig",
+          "display": "803,159"
+        },
+        {
+          "answer": "Cagayan de Oro",
+          "display": "728,402",
+          "aliases": [
+            "cdo"
+          ]
+        },
+        {
+          "answer": "Valenzuela",
+          "display": "714,978"
+        },
+        {
+          "answer": "Dasmariñas",
+          "display": "703,141",
+          "aliases": [
+            "dasmarinas"
+          ]
+        },
+        {
+          "answer": "General Santos",
+          "display": "697,315",
+          "aliases": [
+            "gensan"
+          ]
+        },
+        {
+          "answer": "Parañaque",
+          "display": "689,992"
+        }
+      ]
+    },
+    {
+      "category": "geography/cities/asia",
+      "difficulty": 2,
+      "question": "Top 10 largest cities in Iran by 2016 census population (city proper, not metro area)",
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1379755632 | table 3 | name: City | value: 2016 Census",
+      "tags": [
+        "geography",
+        "cities",
+        "asia",
+        "iran",
+        "population"
+      ],
+      "answers": [
+        {
+          "answer": "Tehran",
+          "display": "8,693,706",
+          "aliases": [
+            "teheran"
+          ]
+        },
+        {
+          "answer": "Mashhad",
+          "display": "3,001,184",
+          "aliases": [
+            "meshed"
+          ]
+        },
+        {
+          "answer": "Isfahan",
+          "display": "1,961,260",
+          "aliases": [
+            "esfahan"
+          ]
+        },
+        {
+          "answer": "Karaj",
+          "display": "1,592,492"
+        },
+        {
+          "answer": "Shiraz",
+          "display": "1,565,572"
+        },
+        {
+          "answer": "Tabriz",
+          "display": "1,558,693"
+        },
+        {
+          "answer": "Qom",
+          "display": "1,201,158"
+        },
+        {
+          "answer": "Ahvaz",
+          "display": "1,184,788",
+          "aliases": [
+            "ahwaz"
+          ]
+        },
+        {
+          "answer": "Kermanshah",
+          "display": "946,651"
+        },
+        {
+          "answer": "Urmia",
+          "display": "736,224"
+        },
+        {
+          "answer": "Rasht",
+          "display": "679,995"
+        },
+        {
+          "answer": "Zahedan",
+          "display": "587,730"
+        },
+        {
+          "answer": "Hamadan",
+          "display": "554,406"
+        },
+        {
+          "answer": "Kerman",
+          "display": "537,718"
+        }
+      ]
+    },
+    {
+      "category": "geography/cities/asia",
+      "difficulty": 2,
+      "question": "Top 10 largest cities in Saudi Arabia by 2022 population (city proper, not metro area)",
+      "submitter": "claude",
+      "source": "https://en.wikipedia.org/w/index.php?oldid=1374223212 | table 2 | name: City | value: Population (2022)",
+      "tags": [
+        "geography",
+        "cities",
+        "asia",
+        "saudi arabia",
+        "population"
+      ],
+      "answers": [
+        {
+          "answer": "Riyadh",
+          "display": "7,000,100"
+        },
+        {
+          "answer": "Jeddah",
+          "display": "3,712,917",
+          "aliases": [
+            "jiddah"
+          ]
+        },
+        {
+          "answer": "Mecca",
+          "display": "2,385,509",
+          "aliases": [
+            "makkah"
+          ]
+        },
+        {
+          "answer": "Medina",
+          "display": "1,411,599",
+          "aliases": [
+            "madinah",
+            "al-madinah"
+          ]
+        },
+        {
+          "answer": "Dammam",
+          "display": "1,386,671"
+        },
+        {
+          "answer": "Hofuf",
+          "display": "729,606"
+        },
+        {
+          "answer": "Tabuk",
+          "display": "594,350"
+        },
+        {
+          "answer": "Buraydah",
+          "display": "574,169",
+          "aliases": [
+            "buraidah"
+          ]
+        },
+        {
+          "answer": "Taif",
+          "display": "563,282",
+          "aliases": [
+            "ta'if"
+          ]
+        },
+        {
+          "answer": "Khamis Mushait",
+          "display": "535,065",
+          "aliases": [
+            "khamis mushayt"
+          ]
+        },
+        {
+          "answer": "Jubail",
+          "display": "474,679"
+        },
+        {
+          "answer": "Hail",
+          "display": "448,623"
+        },
+        {
+          "answer": "Khobar",
+          "display": "409,549",
+          "aliases": [
+            "al khobar"
+          ]
+        },
+        {
+          "answer": "Najran",
+          "display": "381,431"
+        }
+      ]
+    }
+  ]
+}
