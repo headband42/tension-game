@@ -89,13 +89,33 @@ bun run import data/packs --dry-run     # check every pack in a folder
 
 [docs/QUESTIONS.md](docs/QUESTIONS.md) covers the format and how to write questions that play well.
 
+### The question manager
+
+To browse and edit questions in the browser, open `/admin`: <http://localhost:5173/admin> in
+development, or <http://localhost:3001/admin> with `bun run start`. The sidebar filters by category,
+status, difficulty and tag, and searches questions, answers and aliases. The main area shows each
+question with its ranked answers, with the tension zone marked. From there you can:
+
+- edit a question and its answers, or start a new question from a copy of one;
+- deactivate a question so games stop drawing it;
+- delete a question that no game has used yet.
+
+The editor checks everything `bun run import` checks.
+
+The manager shows every answer, so it asks for a password: `ADMIN_PASSWORD` in
+`apps/server/.env`. `bun run setup` fills in a random one. If no password is set, the manager is off.
+
+Changes go into the database, not the pack files. **Export** downloads the questions you're
+looking at as a question pack. Copy your edits back into `apps/server/data/` that way, because
+`bun run db:reset` re-imports the packs and loses anything that isn't in them.
+
 ## Scripts
 
 Run these from the repository root:
 
 | Command              | What it does                                                         |
 | -------------------- | -------------------------------------------------------------------- |
-| `bun run setup`      | First-time setup; safe to re-run (creates `.env`, migrates, seeds)    |
+| `bun run setup`      | First-time setup; safe to re-run (creates `.env` and a manager password, migrates, seeds) |
 | `bun run dev`        | Game server (with restart on change) plus the Vite dev server         |
 | `bun run build`      | Builds the web app into `apps/web/build`                             |
 | `bun run start`      | Production server: the API, sockets and the built web app on one port |
@@ -117,13 +137,14 @@ apps/
     src/
       game/              Game rooms, answer matching, persistence, Socket.IO handlers
       http/api.ts        REST endpoints (categories, create game, server info)
+      http/admin.ts      Question manager endpoints (password-protected)
       content/           Question pack validation and the import CLI
       server.ts          Puts HTTP, Socket.IO and the static web build together
       index.ts           Entry point
     test/                bun test suites
   web/                   SvelteKit single-page app
     src/lib/             Game client, components, browser storage
-    src/routes/          / · /host · /host/[code] · /join · /play/[code]
+    src/routes/          / · /host · /host/[code] · /join · /play/[code] · /admin
 packages/
   shared/                Types and scoring rules used by both apps
 docs/                    Architecture, question authoring, roadmap

@@ -6,10 +6,11 @@
   instances behind a load balancer. Multi-instance hosting would need a shared store such as Redis,
   plus the Socket.IO Redis adapter.
 - **Trusts the local network.** Anyone who can reach the server can create a game. Only the
-  creating browser can host a game, and the answer key isn't exposed over HTTP. There are no
-  accounts.
-- **No in-app question editor.** Questions are managed through JSON packs, the import CLI and
-  Prisma Studio.
+  creating browser can host a game, and answers are only served to the question manager, which
+  needs the one shared `ADMIN_PASSWORD`. There are no accounts.
+- **Question edits live in the database.** The question manager doesn't write back to the pack
+  files in `apps/server/data/`. Its export is a manual step, so the two can drift apart.
+  Categories can't be renamed or deactivated from it yet.
 - **English-only matching.** Normalization strips accents but drops non-Latin scripts, so answers
   have to be written in Latin letters.
 - **Content ages.** Sports and box-office questions are pinned to a date and need refreshing as new
