@@ -25,6 +25,7 @@ the game server serves those files itself. Everything then runs on one port.
 | `index.ts`             | Reads `PORT`/`HOST`, starts the server, shuts down cleanly                        |
 | `server.ts`            | Connects Hono, Socket.IO and static file serving onto one Node `http` server      |
 | `http/api.ts`          | REST endpoints                                                                   |
+| `http/admin.ts`        | The question manager's endpoints under `/api/admin`, optionally behind `ADMIN_PASSWORD` |
 | `game/room.ts`         | `GameRoom`: the game rules and state machine                                     |
 | `game/registry.ts`     | Live rooms by join code, code generation, reloading rooms from the database, idle cleanup |
 | `game/sockets.ts`      | Socket.IO events: payload validation, host/player identity, snapshot broadcasts  |
@@ -184,8 +185,32 @@ client turns it into a local deadline when the snapshot arrives.
 | `GET /api/categories` | Category tree with `ownQuestions` and `totalQuestions`; empty categories are left out |
 | `POST /api/games`     | `{ totalRounds, timePerRound, doublesPerPlayer, categoryIds }` → `{ code, hostToken }` |
 
-Questions and answers are deliberately not available over HTTP, because that would hand players
-the answer key. They are managed with the import CLI and Prisma Studio.
+None of these endpoints return answers, because that would hand players the answer key.
+
+### Question manager (`/api/admin`)
+
+The question manager at `/admin` reads and edits the whole bank, answers included. By default
+it's open to anyone who can reach the server, which suits a game among friends. Setting
+`ADMIN_PASSWORD` locks it for games with strangers on the network. Every request must then send
+`Authorization: Bearer <ADMIN_PASSWORD>`, URI-encoded so that any password fits in a header. The
+server compares it in constant time, and a wrong or missing password gets a 401.
+
+| Method & path                     | Description                                                     |
+| --------------------------------- | --------------------------------------------------------------- |
+| `GET /api/admin/categories`       | Every category holding questions, active or not, with counts     |
+| `GET /api/admin/questions`        | One page (20) of questions with their answers. Filters: `q`, `category` (includes sub-categories), `status`, `difficulty`, `tag`, `sort`, `page` |
+| `GET /api/admin/export`           | All questions matching the same filters, as a question pack       |
+| `POST /api/admin/questions`       | Adds a question written in pack format → `{ question, warnings }` |
+| `PUT /api/admin/questions/:id`    | Replaces a question and all its answers, like `import --replace`  |
+| `PATCH /api/admin/questions/:id`  | `{ active }`: inactive questions are never drawn                  |
+| `DELETE /api/admin/questions/:id` | Only for questions no game has used; others answer 409           |
+
+Questions are validated by the importer's own schema (`parseQuestion`), so the manager enforces
+the same rules as `bun run import`. Errors come back as `issues` with a path inside the question
+(`["answers", 3]`), which the editor uses to mark the row. Two questions can't share a category and
+text, because that pair is how the importer recognises a question. Edits replace a question's
+answer rows, which gives the answers new ids, so the game store's decoy index rebuilds within a
+minute, as it does after an import. Games already in progress keep the version they drew.
 
 ## Data model
 
@@ -206,11 +231,15 @@ SQLite through Prisma (`apps/server/prisma/schema.prisma`):
 | `/host/[code]` | The TV screen: lobby with the join code, live round, reveal, final standings |
 | `/join`        | Enter a code (or arrive with `?code=`) and a name                      |
 | `/play/[code]` | The phone: answer, double, lock in, see your result                    |
+| `/admin`       | The question manager: filter sidebar, questions with their answers, the editor |
 
 - `lib/game.svelte.ts` holds the single Socket.IO connection and the latest snapshot as Svelte 5
   `$state`. It also handles automatic rejoin.
-- `lib/storage.ts` wraps `localStorage` (device id, name, host tokens) and copes with storage being
-  unavailable.
+- `lib/admin.svelte.ts` is the question manager's client. It sends the password, if there is one,
+  with every request and tracks whether it's signed in. The filters live in the page's query string, so reloading and
+  the back button keep them.
+- `lib/storage.ts` wraps `localStorage` (device id, name, host tokens, the manager password) and
+  copes with storage being unavailable.
 - Pages only render; every rule is enforced on the server.
 
 ## Tests (`apps/server/test`)
@@ -224,3 +253,5 @@ SQLite through Prisma (`apps/server/prisma/schema.prisma`):
 - `server.test.ts`: a real server on a temporary SQLite database. It covers the HTTP API, two
   complete games over Socket.IO (one with a mid-round reconnect, one with a server restart between
   rounds) and static file serving.
+- `admin.test.ts`: the question manager's API on its own temporary database: the password,
+  filters and pages, export, and adding, editing, deactivating and deleting questions.

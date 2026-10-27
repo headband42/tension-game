@@ -17,14 +17,16 @@ export interface ServerOptions {
   webDir?: string;
   /** Extra time a round stays open past its visible deadline. */
   graceMs?: number;
+  /** Locks the question manager's API (/api/admin), which exposes answers. Open to anyone without one. */
+  adminPassword?: string;
 }
 
-export function createTensionServer({ prisma, webDir, graceMs }: ServerOptions) {
+export function createTensionServer({ prisma, webDir, graceMs, adminPassword }: ServerOptions) {
   const store = new PrismaGameStore(prisma);
   const registry = new RoomRegistry(store, graceMs);
 
   const app = new Hono();
-  app.route('/api', createApi(prisma, store, registry));
+  app.route('/api', createApi(prisma, store, registry, adminPassword));
 
   const servesWeb = Boolean(webDir && existsSync(join(webDir, 'index.html')));
   if (webDir && servesWeb) {

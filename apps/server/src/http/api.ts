@@ -5,6 +5,7 @@ import { z } from 'zod';
 import { SETTINGS_LIMITS, type CategoryNode, type CreateGameResponse, type ServerInfo } from '@tension/shared';
 import type { RoomRegistry } from '../game/registry';
 import { playableQuestions, type GameStore } from '../game/store';
+import { createAdminApi } from './admin';
 
 const { totalRounds, timePerRound, doublesPerPlayer } = SETTINGS_LIMITS;
 
@@ -59,7 +60,7 @@ export async function categoryTree(prisma: PrismaClient): Promise<CategoryNode[]
   return prune(roots);
 }
 
-export function createApi(prisma: PrismaClient, store: GameStore, registry: RoomRegistry) {
+export function createApi(prisma: PrismaClient, store: GameStore, registry: RoomRegistry, adminPassword?: string) {
   const api = new Hono();
 
   api.get('/health', (c) => c.json({ ok: true }));
@@ -79,6 +80,8 @@ export function createApi(prisma: PrismaClient, store: GameStore, registry: Room
     const room = await registry.create({ ...settings, totalRounds: Math.min(settings.totalRounds, available) }, categoryIds);
     return c.json({ code: room.code, hostToken: room.hostToken } satisfies CreateGameResponse, 201);
   });
+
+  api.route('/admin', createAdminApi(prisma, adminPassword));
 
   api.all('*', (c) => c.json({ error: 'Not found' }, 404));
 

@@ -96,8 +96,8 @@ bun run import data/packs --dry-run     # a folder imports every .json inside it
 ```
 
 A question counts as existing when it has the same category and the same question text. If you
-change a question's text, the import adds it as a new question. To retire the old version, set
-its `active` flag to false in `bun run db:studio`. Inactive questions and empty categories never
+change a question's text, the import adds it as a new question. To retire the old version,
+deactivate it in the question manager (below). Inactive questions and empty categories never
 appear in the game.
 
 ### What the import checks
@@ -134,6 +134,28 @@ so never drop a real alias just to silence the warning.
 ✖ "rank" isn't a field: answers are ranked by their order in the list, so remove "rank" and put them in order, #1 first
   → at questions[5].answers[0]
 ```
+
+## Editing in the browser
+
+The question manager at `/admin` is the quickest way to fix a typo, add an alias or retire a
+question (the [README](../README.md#the-question-manager) explains how to lock it). It writes
+questions in the same shape as a pack and runs the same checks as the import, so a question
+the import would reject can't be saved there either. Worth knowing:
+
+- **Changes go into the database.** The pack files don't change. Use **Export** to download the
+  filtered questions as a pack and copy the edits into `apps/server/data/`, or they're lost on
+  `bun run db:reset`.
+- **Answers are ranked by row order**, as in a pack. ↑ and ↓ move a row. The editor draws the
+  cutoff line and counts the tension answers as you go. Pasting several lines into an answer box
+  fills several rows, and lines copied from a spreadsheet as answer, tab, figure fill in the
+  figures too.
+- **Look-alike warnings don't block saving.** They're shown after saving, as the import shows
+  them.
+- **Questions that have been played can't be deleted**, because past games refer to them.
+  Deactivate them instead.
+- **Changing a question's text changes how packs recognise it.** If the original is still in a
+  bundled pack, `bun run setup` imports it again as a separate question. Deactivate the new
+  copy, or update the pack.
 
 ## Research tools
 

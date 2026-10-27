@@ -18,6 +18,14 @@ function write(key: string, value: string) {
   }
 }
 
+function remove(key: string) {
+  try {
+    localStorage.removeItem(PREFIX + key);
+  } catch {
+    // Nothing stored, then.
+  }
+}
+
 let cachedDeviceId: string | null = null;
 
 /**
@@ -40,3 +48,8 @@ export const saveName = (name: string) => write('name', name);
 
 export const hostToken = (code: string) => read(`host:${code}`);
 export const saveHostToken = (code: string, token: string) => write(`host:${code}`, token);
+
+/** The question manager's password, kept so the host signs in once per browser. */
+export const adminPassword = () => read('admin');
+export const saveAdminPassword = (password: string) => write('admin', password);
+export const forgetAdminPassword = () => remove('admin');

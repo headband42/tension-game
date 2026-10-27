@@ -24,4 +24,6 @@
     </p>
     <p class="font-semibold text-gray-300">Use your DOUBLE wisely — it multiplies points ×{DOUBLE_MULTIPLIER}, good or bad.</p>
   </div>
+
+  <a href="/admin" class="mt-12 text-sm text-gray-500 transition-colors hover:text-gray-300">Manage questions</a>
 </div>

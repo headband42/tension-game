@@ -1,6 +1,6 @@
-import type { PrismaClient } from '@prisma/client';
+import type { Prisma, PrismaClient } from '@prisma/client';
 import { z } from 'zod';
-import { DEFAULT_CUTOFF, MAX_TENSION_ANSWERS, MIN_TENSION_ANSWERS } from '@tension/shared';
+import { DEFAULT_CUTOFF, MAX_TENSION_ANSWERS, MIN_TENSION_ANSWERS, type ValidationIssue } from '@tension/shared';
 import { answerKey, confusable, normalizeAnswer, similarity } from '../game/matching';
 
 /** Field names people reach for (often from older formats), and what to use instead. */
@@ -116,7 +116,7 @@ const answerSchema = strictObject({
   aliases: z.array(z.string().trim().min(1)).default([]),
 });
 
-const questionSchema = strictObject({
+export const questionSchema = strictObject({
   category: categoryPath,
   question: z.string().trim().min(1),
   difficulty: z.number().int().min(1).max(5).default(1),
@@ -209,36 +209,55 @@ export const packSchema = strictObject({
 });
 
 export type QuestionPack = z.infer<typeof packSchema>;
+export type PackQuestion = z.infer<typeof questionSchema>;
 
 export type ParseResult = { ok: true; pack: QuestionPack; warnings: string[] } | { ok: false; errors: string };
+
+const LOOKALIKE_ADVICE = 'Fine if both belong (a typo scores as whichever is closer), but check both spellings';
 
 /**
  * Pairs of different answers in one question that are spelled or sound so alike
  * that a misspelling of one could be scored as the other. Allowed, but worth a look.
  */
-export function lookalikeWarnings(pack: QuestionPack): string[] {
-  const warnings: string[] = [];
-  pack.questions.forEach((q, i) => {
-    const spellings = q.answers.map((a) => [a.answer, ...a.aliases]);
-    for (let a = 0; a < spellings.length; a++) {
-      for (let b = a + 1; b < spellings.length; b++) {
-        const pair = spellings[a].flatMap((x) => spellings[b].map((y) => [x, y] as const)).find(([x, y]) => confusable(x, y));
-        if (pair) {
-          warnings.push(
-            `questions[${i}] "${q.question}": "${pair[0]}" (#${a + 1}) and "${pair[1]}" (#${b + 1}) look alike. ` +
-              'Fine if both belong (a typo scores as whichever is closer), but check both spellings',
-          );
-        }
-      }
+export function lookalikes(q: PackQuestion): string[] {
+  const pairs: string[] = [];
+  const spellings = q.answers.map((a) => [a.answer, ...a.aliases]);
+  for (let a = 0; a < spellings.length; a++) {
+    for (let b = a + 1; b < spellings.length; b++) {
+      const pair = spellings[a].flatMap((x) => spellings[b].map((y) => [x, y] as const)).find(([x, y]) => confusable(x, y));
+      if (pair) pairs.push(`"${pair[0]}" (#${a + 1}) and "${pair[1]}" (#${b + 1}) look alike`);
     }
-  });
-  return warnings;
+  }
+  return pairs;
+}
+
+export function lookalikeWarnings(pack: QuestionPack): string[] {
+  return pack.questions.flatMap((q, i) => lookalikes(q).map((pair) => `questions[${i}] "${q.question}": ${pair}. ${LOOKALIKE_ADVICE}`));
 }
 
 export function parsePack(data: unknown): ParseResult {
   const result = packSchema.safeParse(data);
   if (!result.success) return { ok: false, errors: z.prettifyError(result.error) };
   return { ok: true, pack: result.data, warnings: lookalikeWarnings(result.data) };
+}
+
+export type QuestionParseResult =
+  | { ok: true; question: PackQuestion; warnings: string[] }
+  | { ok: false; issues: ValidationIssue[] };
+
+/** Validates one question by the same rules as a pack, keeping each problem's location for an editor. */
+export function parseQuestion(data: unknown): QuestionParseResult {
+  const result = questionSchema.safeParse(data);
+  if (!result.success) {
+    return {
+      ok: false,
+      issues: result.error.issues.map((issue) => ({
+        path: issue.path.filter((key): key is string | number => typeof key !== 'symbol'),
+        message: issue.message,
+      })),
+    };
+  }
+  return { ok: true, question: result.data, warnings: lookalikes(result.data).map((pair) => `${pair}. ${LOOKALIKE_ADVICE}`) };
 }
 
 export interface ImportSummary {
@@ -248,11 +267,66 @@ export interface ImportSummary {
   skipped: number;
 }
 
-function nameFromSlug(slug: string) {
+export function nameFromSlug(slug: string) {
   return slug
     .split('-')
     .map((word) => word.charAt(0).toUpperCase() + word.slice(1))
     .join(' ');
+}
+
+/**
+ * Creates every category along the given paths that doesn't exist yet, and
+ * renames existing ones that `declaredNames` names differently. Returns how
+ * many categories were created.
+ */
+export async function ensureCategories(
+  tx: Prisma.TransactionClient,
+  paths: Iterable<string>,
+  declaredNames: ReadonlyMap<string, string> = new Map(),
+): Promise<number> {
+  let created = 0;
+  const ensured = new Set<string>();
+
+  for (const fullPath of paths) {
+    const segments = fullPath.split('/');
+    for (let depth = 0; depth < segments.length; depth++) {
+      const path = segments.slice(0, depth + 1).join('/');
+      if (ensured.has(path)) continue;
+      ensured.add(path);
+
+      const name = declaredNames.get(path) ?? nameFromSlug(segments[depth]);
+      const existing = await tx.category.findUnique({ where: { id: path } });
+      if (!existing) {
+        const parentId = depth > 0 ? segments.slice(0, depth).join('/') : null;
+        await tx.category.create({ data: { id: path, path, name, parentId, depth } });
+        created++;
+      } else if (declaredNames.has(path) && existing.name !== name) {
+        await tx.category.update({ where: { id: path }, data: { name } });
+      }
+    }
+  }
+  return created;
+}
+
+/** A question's columns besides its category and text. */
+export function questionFields(q: PackQuestion) {
+  return {
+    difficulty: q.difficulty,
+    tensionCutoff: q.cutoff,
+    submitter: q.submitter ?? null,
+    source: q.source ?? null,
+    tags: JSON.stringify(q.tags),
+  };
+}
+
+/** A question's answer rows, ranked by their position in the list. */
+export function answerRows(q: PackQuestion) {
+  return q.answers.map((a, index) => ({
+    rank: index + 1,
+    answerText: a.answer,
+    displayValue: a.display ?? null,
+    aliases: JSON.stringify(a.aliases),
+  }));
 }
 
 /**
@@ -270,41 +344,11 @@ export async function importPack(
 
   await prisma.$transaction(async (tx) => {
     const paths = new Set([...pack.categories.map((c) => c.path), ...pack.questions.map((q) => q.category)]);
-    const ensured = new Set<string>();
-
-    for (const fullPath of paths) {
-      const segments = fullPath.split('/');
-      for (let depth = 0; depth < segments.length; depth++) {
-        const path = segments.slice(0, depth + 1).join('/');
-        if (ensured.has(path)) continue;
-        ensured.add(path);
-
-        const name = declaredNames.get(path) ?? nameFromSlug(segments[depth]);
-        const existing = await tx.category.findUnique({ where: { id: path } });
-        if (!existing) {
-          const parentId = depth > 0 ? segments.slice(0, depth).join('/') : null;
-          await tx.category.create({ data: { id: path, path, name, parentId, depth } });
-          summary.categoriesCreated++;
-        } else if (declaredNames.has(path) && existing.name !== name) {
-          await tx.category.update({ where: { id: path }, data: { name } });
-        }
-      }
-    }
+    summary.categoriesCreated = await ensureCategories(tx, paths, declaredNames);
 
     for (const q of pack.questions) {
-      const fields = {
-        difficulty: q.difficulty,
-        tensionCutoff: q.cutoff,
-        submitter: q.submitter ?? null,
-        source: q.source ?? null,
-        tags: JSON.stringify(q.tags),
-      };
-      const answers = q.answers.map((a, index) => ({
-        rank: index + 1,
-        answerText: a.answer,
-        displayValue: a.display ?? null,
-        aliases: JSON.stringify(a.aliases),
-      }));
+      const fields = questionFields(q);
+      const answers = answerRows(q);
 
       const existing = await tx.question.findFirst({ where: { categoryId: q.category, questionText: q.question } });
       if (!existing) {
