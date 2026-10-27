@@ -131,9 +131,10 @@ function sameSecret(given: string, expected: string) {
 const patchSchema = z.object({ active: z.boolean() });
 
 /**
- * The question manager's API. It hands out answer keys, so every request must
- * carry the password (URI-encoded, so any characters work in a header) as a
- * bearer token. Without a password configured, it stays off.
+ * The question manager's API. It hands out answer keys, so with a password
+ * configured every request must carry it (URI-encoded, so any characters work
+ * in a header) as a bearer token. Without one, it's open to anyone who can
+ * reach the server, which suits a game among friends.
  */
 export function createAdminApi(prisma: PrismaClient, password?: string) {
   const admin = new Hono();
@@ -141,9 +142,7 @@ export function createAdminApi(prisma: PrismaClient, password?: string) {
   const error = (message: string, extra: Omit<AdminErrorResponse, 'error'> = {}): AdminErrorResponse => ({ error: message, ...extra });
 
   admin.use('*', async (c, next) => {
-    if (!password) {
-      return c.json(error('The question manager is off. Set ADMIN_PASSWORD in apps/server/.env and restart the server.'), 403);
-    }
+    if (!password) return next();
     const token = /^Bearer (.+)$/.exec(c.req.header('authorization') ?? '')?.[1] ?? '';
     if (!sameSecret(token, encodeURIComponent(password))) return c.json(error('Wrong password'), 401);
     await next();

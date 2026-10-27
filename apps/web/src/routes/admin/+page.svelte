@@ -102,7 +102,7 @@
 
   const reload = () => Promise.all([loadQuestions(query), loadCategories()]);
 
-  // Also tells whether a password is needed, and whether the manager is on at all.
+  // Also tells whether the server wants a password.
   onMount(loadCategories);
 
   $effect(() => {
@@ -117,6 +117,12 @@
     await loadCategories();
     signInError = admin.status === 'ready' ? '' : loadError;
     signingIn = false;
+  }
+
+  function signOut() {
+    admin.signOut();
+    password = '';
+    void loadCategories();
   }
 
   function newQuestion() {
@@ -191,7 +197,16 @@
       </button>
       <a href="/" class="text-xl font-black tracking-tight text-red-500">TENSION</a>
       <span class="hidden text-gray-400 sm:inline">Question manager</span>
-      <button type="button" class="ml-auto text-sm text-gray-400 hover:text-white" onclick={() => admin.signOut()}>Sign out</button>
+      {#if admin.signedIn}
+        <button type="button" class="ml-auto text-sm text-gray-400 hover:text-white" onclick={signOut}>Sign out</button>
+      {:else}
+        <span
+          class="ml-auto text-sm text-gray-500"
+          title="Anyone who can reach this server can open this page. To require a password, set ADMIN_PASSWORD in apps/server/.env."
+        >
+          No password
+        </span>
+      {/if}
     </header>
 
     <div class="relative flex min-h-0 flex-1">
@@ -339,18 +354,10 @@
     <h1 class="mb-8 text-center text-3xl font-bold">Question manager</h1>
     {#if admin.status === 'checking'}
       <p class="text-center text-gray-400">{loadError || 'Loading…'}</p>
-    {:else if admin.status === 'off'}
-      <div class="card space-y-3 text-gray-300">
-        <p>The question manager is turned off on this server.</p>
-        <p class="text-sm text-gray-400">
-          To turn it on, set <code class="text-white">ADMIN_PASSWORD</code> in <code class="text-white">apps/server/.env</code> (or run
-          <code class="text-white">bun run setup</code>, which adds one) and restart the server.
-        </p>
-      </div>
     {:else}
       <form class="card space-y-4" onsubmit={signIn}>
         <p class="text-sm text-gray-400">
-          The manager shows every answer, so it needs the password: <code class="text-white">ADMIN_PASSWORD</code> in
+          This server keeps its answers behind a password. It's <code class="text-white">ADMIN_PASSWORD</code> in
           <code class="text-white">apps/server/.env</code> on the computer running the game.
         </p>
         <label class="block">

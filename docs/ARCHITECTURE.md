@@ -25,7 +25,7 @@ the game server serves those files itself. Everything then runs on one port.
 | `index.ts`             | Reads `PORT`/`HOST`, starts the server, shuts down cleanly                        |
 | `server.ts`            | Connects Hono, Socket.IO and static file serving onto one Node `http` server      |
 | `http/api.ts`          | REST endpoints                                                                   |
-| `http/admin.ts`        | The question manager's endpoints under `/api/admin`, behind `ADMIN_PASSWORD`      |
+| `http/admin.ts`        | The question manager's endpoints under `/api/admin`, optionally behind `ADMIN_PASSWORD` |
 | `game/room.ts`         | `GameRoom`: the game rules and state machine                                     |
 | `game/registry.ts`     | Live rooms by join code, code generation, reloading rooms from the database, idle cleanup |
 | `game/sockets.ts`      | Socket.IO events: payload validation, host/player identity, snapshot broadcasts  |
@@ -189,11 +189,11 @@ None of these endpoints return answers, because that would hand players the answ
 
 ### Question manager (`/api/admin`)
 
-The question manager at `/admin` reads and edits the whole bank, answers included. Every request
-must send `Authorization: Bearer <ADMIN_PASSWORD>`, URI-encoded so that any password fits in a
-header. The server compares it in constant time. A wrong or missing password gets a 401. If
-`ADMIN_PASSWORD` isn't set, every request gets a 403 and the manager is off. `bun run setup`
-writes a random password into `apps/server/.env`.
+The question manager at `/admin` reads and edits the whole bank, answers included. By default
+it's open to anyone who can reach the server, which suits a game among friends. Setting
+`ADMIN_PASSWORD` locks it for games with strangers on the network. Every request must then send
+`Authorization: Bearer <ADMIN_PASSWORD>`, URI-encoded so that any password fits in a header. The
+server compares it in constant time, and a wrong or missing password gets a 401.
 
 | Method & path                     | Description                                                     |
 | --------------------------------- | --------------------------------------------------------------- |
@@ -235,8 +235,8 @@ SQLite through Prisma (`apps/server/prisma/schema.prisma`):
 
 - `lib/game.svelte.ts` holds the single Socket.IO connection and the latest snapshot as Svelte 5
   `$state`. It also handles automatic rejoin.
-- `lib/admin.svelte.ts` is the question manager's client. It sends the password with every request
-  and tracks whether it's signed in. The filters live in the page's query string, so reloading and
+- `lib/admin.svelte.ts` is the question manager's client. It sends the password, if there is one,
+  with every request and tracks whether it's signed in. The filters live in the page's query string, so reloading and
   the back button keep them.
 - `lib/storage.ts` wraps `localStorage` (device id, name, host tokens, the manager password) and
   copes with storage being unavailable.

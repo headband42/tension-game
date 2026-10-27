@@ -17,7 +17,7 @@ export interface ServerOptions {
   webDir?: string;
   /** Extra time a round stays open past its visible deadline. */
   graceMs?: number;
-  /** Unlocks the question manager's API (/api/admin), which exposes answers. Off without one. */
+  /** Locks the question manager's API (/api/admin), which exposes answers. Open to anyone without one. */
   adminPassword?: string;
 }
 

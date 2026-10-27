@@ -138,7 +138,7 @@ so never drop a real alias just to silence the warning.
 ## Editing in the browser
 
 The question manager at `/admin` is the quickest way to fix a typo, add an alias or retire a
-question (see the [README](../README.md#the-question-manager) for the password). It writes
+question (the [README](../README.md#the-question-manager) explains how to lock it). It writes
 questions in the same shape as a pack and runs the same checks as the import, so a question
 the import would reject can't be saved there either. Worth knowing:
 

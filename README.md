@@ -66,7 +66,9 @@ Things that trip people up:
   3001 (production) or 5173 (development) through the host's firewall.
 - **Playing over the internet.** Use `bun run build` and `bun run start`, then put a tunnel such as
   Cloudflare Tunnel or ngrok in front of port 3001. The Vite dev server rejects unfamiliar
-  hostnames unless they're added to `server.allowedHosts` in `apps/web/vite.config.ts`.
+  hostnames unless they're added to `server.allowedHosts` in `apps/web/vite.config.ts`. Set
+  `ADMIN_PASSWORD` as well (see [the question manager](#the-question-manager)), or anyone with
+  the link can read every answer.
 - **A phone goes to sleep or drops off Wi-Fi.** It rejoins the same seat on its own, and reloading
   the page works too. The round waits for offline players until time runs out. The host can choose
   to stop waiting or end the round early.
@@ -102,8 +104,15 @@ question with its ranked answers, with the tension zone marked. From there you c
 
 The editor checks everything `bun run import` checks.
 
-The manager shows every answer, so it asks for a password: `ADMIN_PASSWORD` in
-`apps/server/.env`. `bun run setup` fills in a random one. If no password is set, the manager is off.
+The manager shows every answer, and by default anyone who can reach the server can open it.
+That's fine for a game among friends. When players you don't know are on the same network, as at a
+bar trivia night, set a password in `apps/server/.env` and restart the server:
+
+```bash
+ADMIN_PASSWORD="choose-a-password"
+```
+
+The manager then asks for it once per browser.
 
 Changes go into the database, not the pack files. **Export** downloads the questions you're
 looking at as a question pack. Copy your edits back into `apps/server/data/` that way, because
@@ -115,7 +124,7 @@ Run these from the repository root:
 
 | Command              | What it does                                                         |
 | -------------------- | -------------------------------------------------------------------- |
-| `bun run setup`      | First-time setup; safe to re-run (creates `.env` and a manager password, migrates, seeds) |
+| `bun run setup`      | First-time setup; safe to re-run (creates `.env`, migrates, seeds)    |
 | `bun run dev`        | Game server (with restart on change) plus the Vite dev server         |
 | `bun run build`      | Builds the web app into `apps/web/build`                             |
 | `bun run start`      | Production server: the API, sockets and the built web app on one port |
@@ -137,7 +146,7 @@ apps/
     src/
       game/              Game rooms, answer matching, persistence, Socket.IO handlers
       http/api.ts        REST endpoints (categories, create game, server info)
-      http/admin.ts      Question manager endpoints (password-protected)
+      http/admin.ts      Question manager endpoints (optionally password-protected)
       content/           Question pack validation and the import CLI
       server.ts          Puts HTTP, Socket.IO and the static web build together
       index.ts           Entry point

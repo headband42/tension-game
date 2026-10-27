@@ -19,19 +19,20 @@ export class AdminRequestError extends Error {
 
 /**
  * - `checking`: nothing asked yet
- * - `signed-out`: the server wants a (different) password
- * - `off`: the server has no ADMIN_PASSWORD, so the manager is unavailable
- * - `ready`: the password works
+ * - `signed-out`: the server has an ADMIN_PASSWORD, and this isn't it
+ * - `ready`: the manager is open to everyone, or the password works
  */
-export type AdminStatus = 'checking' | 'signed-out' | 'off' | 'ready';
+export type AdminStatus = 'checking' | 'signed-out' | 'ready';
 
 /**
  * The question manager's connection to /api/admin. Every request carries the
- * password; the server's answer keeps `status` current, so a 401 anywhere
- * sends the page back to the sign-in form.
+ * password, if there is one; the server's answer keeps `status` current, so a
+ * 401 anywhere sends the page back to the sign-in form.
  */
 class AdminClient {
   status = $state<AdminStatus>('checking');
+  /** Got in with a password. False when the server has none and the manager is open to everyone. */
+  signedIn = $state(false);
 
   #password = adminPassword() ?? '';
 
@@ -40,10 +41,12 @@ class AdminClient {
     this.#password = password;
   }
 
+  /** Forgets the password. The next request finds out whether the manager still needs one. */
   signOut() {
     this.#password = '';
     forgetAdminPassword();
-    this.status = 'signed-out';
+    this.signedIn = false;
+    this.status = 'checking';
   }
 
   async request<T>(path: string, { method = 'GET', body }: { method?: string; body?: unknown } = {}): Promise<T> {
@@ -64,11 +67,11 @@ class AdminClient {
 
     if (response.status === 401) {
       forgetAdminPassword();
+      this.signedIn = false;
       this.status = 'signed-out';
-    } else if (response.status === 403) {
-      this.status = 'off';
     } else if (response.ok && this.status !== 'ready') {
-      saveAdminPassword(this.#password);
+      if (this.#password) saveAdminPassword(this.#password);
+      this.signedIn = this.#password !== '';
       this.status = 'ready';
     }
 

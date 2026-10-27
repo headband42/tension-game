@@ -90,13 +90,16 @@ afterAll(async () => {
 });
 
 describe('access', () => {
-  test('is off when no password is configured', async () => {
-    const response = await createAdminApi(prisma).request('/questions');
-    expect(response.status).toBe(403);
-    expect(await response.json()).toEqual({ error: expect.stringContaining('ADMIN_PASSWORD') });
+  test('is open to everyone when no password is configured', async () => {
+    const open = createAdminApi(prisma);
+    const response = await open.request('/questions');
+    expect(response.status).toBe(200);
+    expect(((await response.json()) as QuestionListResponse).total).toBe(7);
+    // A password left in a browser from before doesn't get in the way.
+    expect((await open.request('/questions', { headers: { authorization: 'Bearer old-password' } })).status).toBe(200);
   });
 
-  test('needs the password', async () => {
+  test('needs the password when one is configured', async () => {
     expect((await api('/questions', {}, 'guess')).status).toBe(401);
     expect((await fetch(`${baseUrl}/api/admin/questions`)).status).toBe(401);
     expect((await list()).status).toBe(200);
